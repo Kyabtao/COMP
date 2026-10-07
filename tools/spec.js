@@ -136,4 +136,32 @@ const SECTION_MAP = {
 /** Difficulty mix used when assembling a 40 question paper. */
 const PAPER_MIX = { easy: 16, medium: 16, hard: 8 };
 
-module.exports = { CLASSES, EXAMS, EXAM_RULES, CATEGORIES, SECTION_MAP, PAPER_MIX };
+/** Difficulty bands for the merged target list (class name -> levels 1-3). */
+function levelsForClassName(name) {
+  const n = CLASSES.indexOf(name);
+  if (n === -1) return [1, 2, 3];
+  if (n <= 4) return [1];
+  if (n <= 7) return [1, 2];
+  if (n <= 9) return [2];
+  if (n <= 11) return [2, 3];
+  return [1, 2, 3];
+}
+
+/**
+ * Merged target list: classes and competitive exams in one list because every
+ * paper follows the same pattern (see EXAM_RULES). Class targets draw a
+ * balanced paper from every category (`sections: null`); exam targets draw
+ * from their own sections. Mirrors the TARGETS list in assets/js/app.js.
+ */
+const TARGETS = [
+  ...CLASSES.map((name, i) => ({
+    id: i === CLASSES.length - 1 ? "graduation" : "class-" + (i + 1),
+    name,
+    kind: i === CLASSES.length - 1 ? "college" : "school",
+    levels: levelsForClassName(name),
+    sections: null
+  })),
+  ...EXAMS.map((e) => ({ id: e.id, name: e.name, kind: "exam", levels: [1, 2, 3], sections: e.sections.slice() }))
+];
+
+module.exports = { CLASSES, EXAMS, EXAM_RULES, CATEGORIES, SECTION_MAP, PAPER_MIX, TARGETS, levelsForClassName };

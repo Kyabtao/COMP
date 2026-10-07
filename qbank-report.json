@@ -237,6 +237,11 @@
       "detail": "SSC CGL, SSC CHSL, Banking (IBPS / SBI), Railways (RRB NTPC / Group D)"
     },
     {
+      "name": "merged target list holds 13 classes + 4 exams in one pattern",
+      "pass": true,
+      "detail": "17 targets"
+    },
+    {
       "name": "every exam is 40 questions",
       "pass": true,
       "detail": "questionCount = 40"

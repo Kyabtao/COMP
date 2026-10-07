@@ -149,11 +149,39 @@ button.secondary {
 table { width: 100%; border-collapse: collapse; font-size: 14px; }
 th, td { text-align: left; padding: 9px 10px; border-bottom: 1px solid var(--line); }
 th { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: 0.04em; }
+/* Wide tables scroll sideways inside the card instead of crushing columns. */
+.table-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+.table-scroll table { min-width: 620px; }
 .score { font-size: 40px; font-weight: 800; }
 .footer { max-width: 1080px; margin: 0 auto 40px; padding: 0 18px; color: var(--muted); font-size: 13px; }
 .hidden { display: none !important; }
 .split { display: grid; gap: 18px; grid-template-columns: 2fr 1fr; }
+
+/* ---- responsive: tablets ---- */
 @media (max-width: 760px) {
   .split { grid-template-columns: 1fr; }
+  #app { padding: 0 12px; margin: 18px auto 48px; }
+  .card { padding: 18px; }
+  .topbar { padding: 12px 14px; gap: 12px; }
   h1 { font-size: 24px; }
+  /* Larger touch targets and no iOS auto-zoom on form fields. */
+  .palette button { width: 38px; height: 38px; }
+  select, input[type="text"] { font-size: 16px; }
+  .table-scroll { margin: 0 -18px; padding: 0 18px; }
+}
+
+/* ---- responsive: phones ---- */
+@media (max-width: 520px) {
+  .card { padding: 16px 14px; }
+  .table-scroll { margin: 0 -14px; padding: 0 14px; }
+  h1 { font-size: 22px; }
+  .qtext { font-size: 17px; }
+  .topnav a { padding: 6px 10px; font-size: 13px; }
+  .kpi { min-width: 0; flex: 1 1 100px; }
+  .kpi b { font-size: 18px; }
+  /* Stack the target picker over a full-width start button. */
+  .hero .picks { flex-direction: column; align-items: stretch; width: 100%; }
+  .hero .picks .primary { width: 100%; }
+  .grid.cats { grid-template-columns: 1fr; }
+  .score { font-size: 32px; }
 }
