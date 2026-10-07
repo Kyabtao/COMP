@@ -16,6 +16,306 @@
  "questions": [
   {
    "id": "general-science-00001",
+   "q": "Which is the smallest unit of an element that retains its properties?",
+   "o": [
+    "Molecule",
+    "Atom",
+    "Electron",
+    "Compound"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "An atom is the smallest unit of an element."
+  },
+  {
+   "id": "general-science-00002",
+   "q": "What is the chemical formula of common salt?",
+   "o": [
+    "NaCl",
+    "KCl",
+    "CaCO3",
+    "NaOH"
+   ],
+   "a": 0,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Common salt is sodium chloride, NaCl."
+  },
+  {
+   "id": "general-science-00003",
+   "q": "Which gas is most abundant in the Earth's atmosphere?",
+   "o": [
+    "Oxygen",
+    "Nitrogen",
+    "Carbon dioxide",
+    "Argon"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Nitrogen makes up about 78 per cent of the atmosphere."
+  },
+  {
+   "id": "general-science-00004",
+   "q": "Which metal is liquid at room temperature?",
+   "o": [
+    "Mercury",
+    "Lead",
+    "Zinc",
+    "Iron"
+   ],
+   "a": 0,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Mercury is the only metal that is liquid at room temperature."
+  },
+  {
+   "id": "general-science-00005",
+   "q": "What is the speed of light in vacuum?",
+   "o": [
+    "3 x 10^8 m/s",
+    "3 x 10^6 m/s",
+    "3 x 10^10 m/s",
+    "3 x 10^5 m/s"
+   ],
+   "a": 0,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Light travels at about 3 x 10^8 metres per second in vacuum."
+  },
+  {
+   "id": "general-science-00006",
+   "q": "Who discovered penicillin?",
+   "o": [
+    "Louis Pasteur",
+    "Alexander Fleming",
+    "Edward Jenner",
+    "Robert Koch"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Alexander Fleming discovered penicillin in 1928."
+  },
+  {
+   "id": "general-science-00007",
+   "q": "Which vitamin is essential for blood clotting?",
+   "o": [
+    "Vitamin A",
+    "Vitamin C",
+    "Vitamin K",
+    "Vitamin E"
+   ],
+   "a": 2,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Vitamin K helps in the clotting of blood."
+  },
+  {
+   "id": "general-science-00008",
+   "q": "What is the powerhouse of the cell?",
+   "o": [
+    "Nucleus",
+    "Mitochondria",
+    "Ribosome",
+    "Golgi body"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Mitochondria produce energy in the form of ATP."
+  },
+  {
+   "id": "general-science-00009",
+   "q": "Which planet is known as the Red Planet?",
+   "o": [
+    "Venus",
+    "Mars",
+    "Jupiter",
+    "Saturn"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Iron oxide dust gives Mars its reddish appearance."
+  },
+  {
+   "id": "general-science-00010",
+   "q": "Which instrument measures atmospheric pressure?",
+   "o": [
+    "Thermometer",
+    "Barometer",
+    "Hygrometer",
+    "Anemometer"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "A barometer measures atmospheric pressure."
+  },
+  {
+   "id": "general-science-00011",
+   "q": "What is the atomic number of hydrogen?",
+   "o": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "a": 0,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Hydrogen has one proton, so its atomic number is 1."
+  },
+  {
+   "id": "general-science-00012",
+   "q": "Which law states that energy can neither be created nor destroyed?",
+   "o": [
+    "Law of conservation of energy",
+    "Newton's second law",
+    "Ohm's law",
+    "Boyle's law"
+   ],
+   "a": 0,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "The law of conservation of energy says energy only changes form."
+  },
+  {
+   "id": "general-science-00013",
+   "q": "The pH of pure water at 25 degrees Celsius is:",
+   "o": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "a": 2,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Pure water is neutral with a pH of 7."
+  },
+  {
+   "id": "general-science-00014",
+   "q": "Which part of the human body produces insulin?",
+   "o": [
+    "Liver",
+    "Pancreas",
+    "Kidney",
+    "Spleen"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Beta cells of the pancreas produce insulin."
+  },
+  {
+   "id": "general-science-00015",
+   "q": "Which force keeps the planets in orbit around the Sun?",
+   "o": [
+    "Magnetic force",
+    "Gravitational force",
+    "Electrostatic force",
+    "Frictional force"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Gravity provides the centripetal force for planetary orbits."
+  },
+  {
+   "id": "general-science-00016",
+   "q": "What is the chemical symbol for gold?",
+   "o": [
+    "Go",
+    "Gd",
+    "Au",
+    "Ag"
+   ],
+   "a": 2,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Gold's symbol Au comes from the Latin word aurum."
+  },
+  {
+   "id": "general-science-00017",
+   "q": "Which blood vessels carry blood away from the heart?",
+   "o": [
+    "Veins",
+    "Arteries",
+    "Capillaries",
+    "Venules"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Arteries carry blood away from the heart."
+  },
+  {
+   "id": "general-science-00018",
+   "q": "Which is the hardest naturally occurring substance?",
+   "o": [
+    "Quartz",
+    "Diamond",
+    "Corundum",
+    "Topaz"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Diamond tops the Mohs hardness scale at 10."
+  },
+  {
+   "id": "general-science-00019",
+   "q": "Sound cannot travel through which of the following?",
+   "o": [
+    "Water",
+    "Steel",
+    "Air",
+    "Vacuum"
+   ],
+   "a": 3,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Sound needs a medium, so it cannot travel through a vacuum."
+  },
+  {
+   "id": "general-science-00020",
+   "q": "Which acid is present in the human stomach?",
+   "o": [
+    "Sulphuric acid",
+    "Hydrochloric acid",
+    "Nitric acid",
+    "Acetic acid"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Hydrochloric acid in gastric juice helps digest food."
+  },
+  {
+   "id": "general-science-00021",
    "q": "Which element has the chemical symbol Mt?",
    "o": [
     "Flerovium",
@@ -30,7 +330,7 @@
    "e": "Mt is the symbol of Meitnerium."
   },
   {
-   "id": "general-science-00002",
+   "id": "general-science-00022",
    "q": "What is the SI unit of Magnetic flux?",
    "o": [
     "Weber",
@@ -45,7 +345,7 @@
    "e": "The SI unit of Magnetic flux is the Weber."
   },
   {
-   "id": "general-science-00003",
+   "id": "general-science-00023",
    "q": "Which instrument is used to measure Earthquakes?",
    "o": [
     "Potometer",
@@ -60,7 +360,7 @@
    "e": "Seismograph is used to measure Earthquakes."
   },
   {
-   "id": "general-science-00004",
+   "id": "general-science-00024",
    "q": "What is the main function of the Alveoli in the human body?",
    "o": [
     "Largest artery",
@@ -75,7 +375,7 @@
    "e": "The Alveoli is responsible for Exchange of oxygen and carbon dioxide."
   },
   {
-   "id": "general-science-00005",
+   "id": "general-science-00025",
    "q": "Deficiency of which nutrient causes Rickets?",
    "o": [
     "Vitamin B3",
@@ -90,7 +390,7 @@
    "e": "Deficiency of Vitamin D causes Rickets."
   },
   {
-   "id": "general-science-00006",
+   "id": "general-science-00026",
    "q": "Which of the following causes AIDS?",
    "o": [
     "Trypanosoma brucei",
@@ -105,7 +405,7 @@
    "e": "AIDS is caused by Human Immunodeficiency Virus."
   },
   {
-   "id": "general-science-00007",
+   "id": "general-science-00027",
    "q": "Who is credited with World Wide Web?",
    "o": [
     "Watson and Crick",
@@ -120,7 +420,7 @@
    "e": "World Wide Web — Tim Berners-Lee."
   },
   {
-   "id": "general-science-00008",
+   "id": "general-science-00028",
    "q": "What is the chemical name of Plaster of Paris?",
    "o": [
     "Trinitrotoluene",
@@ -135,7 +435,7 @@
    "e": "Plaster of Paris is Calcium sulphate hemihydrate (CaSO4.1/2H2O)."
   },
   {
-   "id": "general-science-00009",
+   "id": "general-science-00029",
    "q": "Which branch of science deals with Heart?",
    "o": [
     "Acoustics",
@@ -150,7 +450,7 @@
    "e": "Cardiology deals with Heart."
   },
   {
-   "id": "general-science-00010",
+   "id": "general-science-00030",
    "q": "Which planet or body is described as: Saturn?",
    "o": [
     "Supernova",
@@ -165,7 +465,7 @@
    "e": "Titan — Saturn."
   },
   {
-   "id": "general-science-00011",
+   "id": "general-science-00031",
    "q": "Guglielmo Marconi is known for which of the following?",
    "o": [
     "Bose-Einstein statistics",
@@ -180,7 +480,7 @@
    "e": "Guglielmo Marconi is known for Wireless telegraphy."
   },
   {
-   "id": "general-science-00012",
+   "id": "general-science-00032",
    "q": "Which planet has rings around it?",
    "o": [
     "Stratosphere",
@@ -195,7 +495,7 @@
    "e": "Which planet has rings around it — Saturn."
   },
   {
-   "id": "general-science-00013",
+   "id": "general-science-00033",
    "q": "Smart Cities Mission is associated with which of the following?",
    "o": [
     "Delivery of services through digital platforms",
@@ -210,7 +510,7 @@
    "e": "Smart Cities Mission — Technology driven urban development."
   },
   {
-   "id": "general-science-00014",
+   "id": "general-science-00034",
    "q": "Operating system is best described as which of the following?",
    "o": [
     "Program that maintains and optimises the system",
@@ -225,7 +525,7 @@
    "e": "Operating system — Software that manages hardware and applications."
   },
   {
-   "id": "general-science-00015",
+   "id": "general-science-00035",
    "q": "Which technology was the main feature of the Second generation of computers?",
    "o": [
     "Transistors",
@@ -240,7 +540,7 @@
    "e": "The Second generation used Transistors."
   },
   {
-   "id": "general-science-00016",
+   "id": "general-science-00036",
    "q": "Which of the following is an effect or source of Particulate matter PM 2.5?",
    "o": [
     "Fine particles that reach deep into the lungs",
@@ -255,7 +555,7 @@
    "e": "Particulate matter PM 2.5 — Fine particles that reach deep into the lungs."
   },
   {
-   "id": "general-science-00017",
+   "id": "general-science-00037",
    "q": "Which element has the chemical symbol Ds?",
    "o": [
     "Nickel",
@@ -270,7 +570,7 @@
    "e": "Ds is the symbol of Darmstadtium."
   },
   {
-   "id": "general-science-00018",
+   "id": "general-science-00038",
    "q": "What is the SI unit of Time?",
    "o": [
     "Tesla",
@@ -285,7 +585,7 @@
    "e": "The SI unit of Time is the Second."
   },
   {
-   "id": "general-science-00019",
+   "id": "general-science-00039",
    "q": "Which instrument is used to measure Heat change in reactions?",
    "o": [
     "Audiometer",
@@ -300,7 +600,7 @@
    "e": "Calorimeter is used to measure Heat change in reactions."
   },
   {
-   "id": "general-science-00020",
+   "id": "general-science-00040",
    "q": "What is the main function of the Tongue in the human body?",
    "o": [
     "Exchange of oxygen and carbon dioxide",
@@ -315,7 +615,7 @@
    "e": "The Tongue is responsible for Taste and speech."
   },
   {
-   "id": "general-science-00021",
+   "id": "general-science-00041",
    "q": "Deficiency of which nutrient causes Excessive bleeding?",
    "o": [
     "Vitamin B3",
@@ -330,7 +630,7 @@
    "e": "Deficiency of Vitamin K causes Excessive bleeding."
   },
   {
-   "id": "general-science-00022",
+   "id": "general-science-00042",
    "q": "Which of the following causes Smallpox?",
    "o": [
     "Human Immunodeficiency Virus",
@@ -345,7 +645,7 @@
    "e": "Smallpox is caused by Variola virus."
   },
   {
-   "id": "general-science-00023",
+   "id": "general-science-00043",
    "q": "Who is credited with Aerodynamics and flight principles?",
    "o": [
     "Rene Laennec",
@@ -360,7 +660,7 @@
    "e": "Aerodynamics and flight principles — George Cayley."
   },
   {
-   "id": "general-science-00024",
+   "id": "general-science-00044",
    "q": "What is the chemical name of Aspirin?",
    "o": [
     "Magnesium hydroxide (Mg(OH)2)",
@@ -375,7 +675,7 @@
    "e": "Aspirin is Acetylsalicylic acid."
   },
   {
-   "id": "general-science-00025",
+   "id": "general-science-00045",
    "q": "Which branch of science deals with Insects?",
    "o": [
     "Mechanics",
@@ -390,7 +690,7 @@
    "e": "Entomology deals with Insects."
   },
   {
-   "id": "general-science-00026",
+   "id": "general-science-00046",
    "q": "Which planet or body is described as: Mars?",
    "o": [
     "Meteorite",
@@ -405,7 +705,7 @@
    "e": "Olympus Mons — Mars."
   },
   {
-   "id": "general-science-00027",
+   "id": "general-science-00047",
    "q": "John Dalton is known for which of the following?",
    "o": [
     "Indian nuclear programme",
@@ -420,7 +720,7 @@
    "e": "John Dalton is known for Atomic theory."
   },
   {
-   "id": "general-science-00028",
+   "id": "general-science-00048",
    "q": "Which cyclone season occurs in the Bay of Bengal?",
    "o": [
     "Jupiter",
@@ -435,7 +735,7 @@
    "e": "Which cyclone season occurs in the Bay of Bengal — October to December."
   },
   {
-   "id": "general-science-00029",
+   "id": "general-science-00049",
    "q": "Chandrayaan-2 is associated with which of the following?",
    "o": [
     "Digital infrastructure for school education",
@@ -450,7 +750,7 @@
    "e": "Chandrayaan-2 — Lunar orbiter studying the Moon."
   },
   {
-   "id": "general-science-00030",
+   "id": "general-science-00050",
    "q": "C is best described as which of the following?",
    "o": [
     "Basic device that connects network devices",
@@ -465,7 +765,7 @@
    "e": "C — Procedural programming language."
   },
   {
-   "id": "general-science-00031",
+   "id": "general-science-00051",
    "q": "Which technology was the main feature of the Third generation of computers?",
    "o": [
     "Transistors",
@@ -480,7 +780,7 @@
    "e": "The Third generation used Integrated circuits."
   },
   {
-   "id": "general-science-00032",
+   "id": "general-science-00052",
    "q": "Which of the following is an effect or source of Mercury?",
    "o": [
     "Causes eutrophication of water bodies",
@@ -495,7 +795,7 @@
    "e": "Mercury — Bioaccumulates and damages the brain."
   },
   {
-   "id": "general-science-00033",
+   "id": "general-science-00053",
    "q": "Which element has the chemical symbol Y?",
    "o": [
     "Yttrium",
@@ -510,7 +810,7 @@
    "e": "Y is the symbol of Yttrium."
   },
   {
-   "id": "general-science-00034",
+   "id": "general-science-00054",
    "q": "What is the SI unit of Radioactivity?",
    "o": [
     "Becquerel",
@@ -525,7 +825,7 @@
    "e": "The SI unit of Radioactivity is the Becquerel."
   },
   {
-   "id": "general-science-00035",
+   "id": "general-science-00055",
    "q": "Which instrument is used to measure Turbidity of liquid?",
    "o": [
     "Periscope",
@@ -540,7 +840,7 @@
    "e": "Nephelometer is used to measure Turbidity of liquid."
   },
   {
-   "id": "general-science-00036",
+   "id": "general-science-00056",
    "q": "What is the main function of the Villi in the human body?",
    "o": [
     "Largest vein",
@@ -555,7 +855,7 @@
    "e": "The Villi is responsible for Increase surface area for absorption."
   },
   {
-   "id": "general-science-00037",
+   "id": "general-science-00057",
    "q": "Deficiency of which nutrient causes Haemolysis of red blood cells?",
    "o": [
     "Vitamin K",
@@ -570,7 +870,7 @@
    "e": "Deficiency of Vitamin E causes Haemolysis of red blood cells."
   },
   {
-   "id": "general-science-00038",
+   "id": "general-science-00058",
    "q": "Which of the following causes Scabies?",
    "o": [
     "Yellow fever virus",
@@ -585,7 +885,7 @@
    "e": "Scabies is caused by Sarcoptes scabiei mite."
   },
   {
-   "id": "general-science-00039",
+   "id": "general-science-00059",
    "q": "Who is credited with Computer (analytical engine)?",
    "o": [
     "Charles Babbage",
@@ -600,7 +900,7 @@
    "e": "Computer (analytical engine) — Charles Babbage."
   },
   {
-   "id": "general-science-00040",
+   "id": "general-science-00060",
    "q": "What is the chemical name of Butter of zinc?",
    "o": [
     "Ferrous sulphate (FeSO4.7H2O)",
@@ -615,7 +915,7 @@
    "e": "Butter of zinc is Zinc chloride (ZnCl2)."
   },
   {
-   "id": "general-science-00041",
+   "id": "general-science-00061",
    "q": "Which branch of science deals with Nervous system?",
    "o": [
     "Neurology",
@@ -630,7 +930,7 @@
    "e": "Neurology deals with Nervous system."
   },
   {
-   "id": "general-science-00042",
+   "id": "general-science-00062",
    "q": "Which planet or body is described as: Light year?",
    "o": [
     "Light year",
@@ -645,7 +945,7 @@
    "e": "Light year — Light year."
   },
   {
-   "id": "general-science-00043",
+   "id": "general-science-00063",
    "q": "James Watt is known for which of the following?",
    "o": [
     "Improvements to the steam engine",
@@ -660,7 +960,7 @@
    "e": "James Watt is known for Improvements to the steam engine."
   },
   {
-   "id": "general-science-00044",
+   "id": "general-science-00064",
    "q": "Which instrument measures rainfall?",
    "o": [
     "Rain gauge",
@@ -675,7 +975,7 @@
    "e": "Which instrument measures rainfall — Rain gauge."
   },
   {
-   "id": "general-science-00045",
+   "id": "general-science-00065",
    "q": "Project Elephant is associated with which of the following?",
    "o": [
     "Promotion of fitness and sports",
@@ -690,7 +990,7 @@
    "e": "Project Elephant — Conservation of elephants and corridors."
   },
   {
-   "id": "general-science-00046",
+   "id": "general-science-00066",
    "q": "Mouse is best described as which of the following?",
    "o": [
     "Pointing input device",
@@ -705,7 +1005,7 @@
    "e": "Mouse — Pointing input device."
   },
   {
-   "id": "general-science-00047",
+   "id": "general-science-00067",
    "q": "Which of the following is an effect or source of Carbon dioxide?",
    "o": [
     "Cause algal blooms in water",
@@ -720,7 +1020,7 @@
    "e": "Carbon dioxide — Traps heat and causes global warming."
   },
   {
-   "id": "general-science-00048",
+   "id": "general-science-00068",
    "q": "Which element has the chemical symbol Tb?",
    "o": [
     "Terbium",
@@ -735,7 +1035,7 @@
    "e": "Tb is the symbol of Terbium."
   },
   {
-   "id": "general-science-00049",
+   "id": "general-science-00069",
    "q": "What is the SI unit of Inductance?",
    "o": [
     "Pascal second",
@@ -750,7 +1050,7 @@
    "e": "The SI unit of Inductance is the Henry."
   },
   {
-   "id": "general-science-00050",
+   "id": "general-science-00070",
    "q": "Which instrument is used to measure Objects above obstacles?",
    "o": [
     "Sphygmomanometer",
@@ -765,7 +1065,7 @@
    "e": "Periscope is used to measure Objects above obstacles."
   },
   {
-   "id": "general-science-00051",
+   "id": "general-science-00071",
    "q": "What is the main function of the Neurons in the human body?",
    "o": [
     "Sensitive layer of the eye",
@@ -780,7 +1080,7 @@
    "e": "The Neurons is responsible for Transmission of nerve impulses."
   },
   {
-   "id": "general-science-00052",
+   "id": "general-science-00072",
    "q": "Deficiency of which nutrient causes Ariboflavinosis?",
    "o": [
     "Iodine",
@@ -795,7 +1095,7 @@
    "e": "Deficiency of Vitamin B2 causes Ariboflavinosis."
   },
   {
-   "id": "general-science-00053",
+   "id": "general-science-00073",
    "q": "Which of the following causes Hepatitis B?",
    "o": [
     "Measles virus",
@@ -810,7 +1110,7 @@
    "e": "Hepatitis B is caused by Hepatitis B virus."
   },
   {
-   "id": "general-science-00054",
+   "id": "general-science-00074",
    "q": "Who is credited with Television?",
    "o": [
     "Tim Berners-Lee",
@@ -825,7 +1125,7 @@
    "e": "Television — John Logie Baird."
   },
   {
-   "id": "general-science-00055",
+   "id": "general-science-00075",
    "q": "What is the chemical name of Green vitriol?",
    "o": [
     "Calcium oxide (CaO)",
@@ -840,7 +1140,7 @@
    "e": "Green vitriol is Ferrous sulphate (FeSO4.7H2O)."
   },
   {
-   "id": "general-science-00056",
+   "id": "general-science-00076",
    "q": "Which branch of science deals with Plants?",
    "o": [
     "Cardiology",
@@ -855,7 +1155,7 @@
    "e": "Botany deals with Plants."
   },
   {
-   "id": "general-science-00057",
+   "id": "general-science-00077",
    "q": "Which planet or body is described as: Aurora?",
    "o": [
     "Titan",
@@ -870,7 +1170,7 @@
    "e": "Aurora — Aurora."
   },
   {
-   "id": "general-science-00058",
+   "id": "general-science-00078",
    "q": "Nicolaus Copernicus is known for which of the following?",
    "o": [
     "Wireless telegraphy",
@@ -885,7 +1185,7 @@
    "e": "Nicolaus Copernicus is known for Heliocentric model of the Solar System."
   },
   {
-   "id": "general-science-00059",
+   "id": "general-science-00079",
    "q": "What is the point on the surface above the earthquake focus called?",
    "o": [
     "Venus",
@@ -900,7 +1200,7 @@
    "e": "What is the point on the surface above the earthquake focus called — Epicentre."
   },
   {
-   "id": "general-science-00060",
+   "id": "general-science-00080",
    "q": "Mangalyaan is associated with which of the following?",
    "o": [
     "Skilling and vocational training",
@@ -915,7 +1215,7 @@
    "e": "Mangalyaan — India's first Mars orbiter mission."
   },
   {
-   "id": "general-science-00061",
+   "id": "general-science-00081",
    "q": "Byte is best described as which of the following?",
    "o": [
     "Eight bits of digital data",
@@ -930,7 +1230,7 @@
    "e": "Byte — Eight bits of digital data."
   },
   {
-   "id": "general-science-00062",
+   "id": "general-science-00082",
    "q": "Which technology was the main feature of the First generation of computers?",
    "o": [
     "Artificial intelligence",
@@ -945,7 +1245,7 @@
    "e": "The First generation used Vacuum tubes."
   },
   {
-   "id": "general-science-00063",
+   "id": "general-science-00083",
    "q": "Which of the following is an effect or source of Plastic waste?",
    "o": [
     "Damages the nervous system",
@@ -960,7 +1260,7 @@
    "e": "Plastic waste — Persists in the environment for centuries."
   },
   {
-   "id": "general-science-00064",
+   "id": "general-science-00084",
    "q": "Which element has the chemical symbol Lr?",
    "o": [
     "Copernicium",
@@ -975,7 +1275,7 @@
    "e": "Lr is the symbol of Lawrencium."
   },
   {
-   "id": "general-science-00065",
+   "id": "general-science-00085",
    "q": "What is the SI unit of Energy?",
    "o": [
     "Joule",
@@ -990,7 +1290,7 @@
    "e": "The SI unit of Energy is the Joule."
   },
   {
-   "id": "general-science-00066",
+   "id": "general-science-00086",
    "q": "Which instrument is used to measure Electric current?",
    "o": [
     "Radiometer",
@@ -1005,7 +1305,7 @@
    "e": "Ammeter is used to measure Electric current."
   },
   {
-   "id": "general-science-00067",
+   "id": "general-science-00087",
    "q": "What is the main function of the Large intestine in the human body?",
    "o": [
     "Formation of blood cells",
@@ -1020,7 +1320,7 @@
    "e": "The Large intestine is responsible for Absorption of water."
   },
   {
-   "id": "general-science-00068",
+   "id": "general-science-00088",
    "q": "Deficiency of which nutrient causes Pernicious anaemia?",
    "o": [
     "Vitamin B12",
@@ -1035,7 +1335,7 @@
    "e": "Deficiency of Vitamin B12 causes Pernicious anaemia."
   },
   {
-   "id": "general-science-00069",
+   "id": "general-science-00089",
    "q": "Which of the following causes Tetanus?",
    "o": [
     "Bordetella pertussis bacteria",
@@ -1050,7 +1350,7 @@
    "e": "Tetanus is caused by Clostridium tetani bacteria."
   },
   {
-   "id": "general-science-00070",
+   "id": "general-science-00090",
    "q": "Who is credited with Radium?",
    "o": [
     "Johannes Gutenberg",
@@ -1065,7 +1365,7 @@
    "e": "Radium — Marie Curie."
   },
   {
-   "id": "general-science-00071",
+   "id": "general-science-00091",
    "q": "What is the chemical name of Gypsum?",
    "o": [
     "Nitrous oxide (N2O)",
@@ -1080,7 +1380,7 @@
    "e": "Gypsum is Calcium sulphate dihydrate (CaSO4.2H2O)."
   },
   {
-   "id": "general-science-00072",
+   "id": "general-science-00092",
    "q": "Which branch of science deals with Microorganisms?",
    "o": [
     "Ornithology",
@@ -1095,7 +1395,7 @@
    "e": "Microbiology deals with Microorganisms."
   },
   {
-   "id": "general-science-00073",
+   "id": "general-science-00093",
    "q": "Which planet or body is described as: Comet?",
    "o": [
     "Moon",
@@ -1110,7 +1410,7 @@
    "e": "Comet — Comet."
   },
   {
-   "id": "general-science-00074",
+   "id": "general-science-00094",
    "q": "Michael Faraday is known for which of the following?",
    "o": [
     "Molecular theory and Avogadro's law",
@@ -1125,7 +1425,7 @@
    "e": "Michael Faraday is known for Electromagnetic induction."
   },
   {
-   "id": "general-science-00075",
+   "id": "general-science-00095",
    "q": "Which planet is called the Earth's twin?",
    "o": [
     "Rain gauge",
@@ -1140,7 +1440,7 @@
    "e": "Which planet is called the Earth's twin — Venus."
   },
   {
-   "id": "general-science-00076",
+   "id": "general-science-00096",
    "q": "National Green Hydrogen Mission is associated with which of the following?",
    "o": [
     "Integrated bill payment platform",
@@ -1155,7 +1455,7 @@
    "e": "National Green Hydrogen Mission — Green hydrogen production and export hub."
   },
   {
-   "id": "general-science-00077",
+   "id": "general-science-00097",
    "q": "Cache memory is best described as which of the following?",
    "o": [
     "High level general purpose programming language",
@@ -1170,7 +1470,7 @@
    "e": "Cache memory — Very fast memory close to the CPU."
   },
   {
-   "id": "general-science-00078",
+   "id": "general-science-00098",
    "q": "Which technology was the main feature of the Fifth generation of computers?",
    "o": [
     "Transistors",
@@ -1185,7 +1485,7 @@
    "e": "The Fifth generation used Artificial intelligence."
   },
   {
-   "id": "general-science-00079",
+   "id": "general-science-00099",
    "q": "Which of the following is an effect or source of Electronic waste?",
    "o": [
     "Causes acid rain",
@@ -1200,7 +1500,7 @@
    "e": "Electronic waste — Releases heavy metals when dumped improperly."
   },
   {
-   "id": "general-science-00080",
+   "id": "general-science-00100",
    "q": "Which element has the chemical symbol K?",
    "o": [
     "Potassium",
@@ -1215,7 +1515,7 @@
    "e": "K is the symbol of Potassium."
   },
   {
-   "id": "general-science-00081",
+   "id": "general-science-00101",
    "q": "What is the SI unit of Force?",
    "o": [
     "Newton",
@@ -1230,7 +1530,7 @@
    "e": "The SI unit of Force is the Newton."
   },
   {
-   "id": "general-science-00082",
+   "id": "general-science-00102",
    "q": "Which instrument is used to measure Viscosity of liquids?",
    "o": [
     "Viscometer",
@@ -1245,7 +1545,7 @@
    "e": "Viscometer is used to measure Viscosity of liquids."
   },
   {
-   "id": "general-science-00083",
+   "id": "general-science-00103",
    "q": "What is the main function of the Heart in the human body?",
    "o": [
     "Protection and temperature regulation",
@@ -1260,7 +1560,7 @@
    "e": "The Heart is responsible for Pumping blood."
   },
   {
-   "id": "general-science-00084",
+   "id": "general-science-00104",
    "q": "Deficiency of which nutrient causes Goitre?",
    "o": [
     "Vitamin B7",
@@ -1275,7 +1575,7 @@
    "e": "Deficiency of Iodine causes Goitre."
   },
   {
-   "id": "general-science-00085",
+   "id": "general-science-00105",
    "q": "Which of the following causes Malaria?",
    "o": [
     "Poliovirus",
@@ -1290,7 +1590,7 @@
    "e": "Malaria is caused by Plasmodium."
   },
   {
-   "id": "general-science-00086",
+   "id": "general-science-00106",
    "q": "Who is credited with Oxygen?",
    "o": [
     "James Watt",
@@ -1305,7 +1605,7 @@
    "e": "Oxygen — Joseph Priestley."
   },
   {
-   "id": "general-science-00087",
+   "id": "general-science-00107",
    "q": "What is the chemical name of Oil of vitriol?",
    "o": [
     "Sulphuric acid (H2SO4)",
@@ -1320,7 +1620,7 @@
    "e": "Oil of vitriol is Sulphuric acid (H2SO4)."
   },
   {
-   "id": "general-science-00088",
+   "id": "general-science-00108",
    "q": "Which branch of science deals with Coins?",
    "o": [
     "Anatomy",
@@ -1335,7 +1635,7 @@
    "e": "Numismatics deals with Coins."
   },
   {
-   "id": "general-science-00089",
+   "id": "general-science-00109",
    "q": "Which planet or body is described as: Sun?",
    "o": [
     "Saturn",
@@ -1350,7 +1650,7 @@
    "e": "Sun — Sun."
   },
   {
-   "id": "general-science-00090",
+   "id": "general-science-00110",
    "q": "Jagadish Chandra Bose is known for which of the following?",
    "o": [
     "Theory of evolution",
@@ -1365,7 +1665,7 @@
    "e": "Jagadish Chandra Bose is known for Plant physiology and radio waves."
   },
   {
-   "id": "general-science-00091",
+   "id": "general-science-00111",
    "q": "Season of the retreating monsoon in India?",
    "o": [
     "October to November",
@@ -1380,7 +1680,7 @@
    "e": "Season of the retreating monsoon in India — October to November."
   },
   {
-   "id": "general-science-00092",
+   "id": "general-science-00112",
    "q": "BharatNet is associated with which of the following?",
    "o": [
     "Optical fibre connectivity to gram panchayats",
@@ -1395,7 +1695,7 @@
    "e": "BharatNet — Optical fibre connectivity to gram panchayats."
   },
   {
-   "id": "general-science-00093",
+   "id": "general-science-00113",
    "q": "POP3 is best described as which of the following?",
    "o": [
     "Devices that work as soon as they are connected",
@@ -1410,7 +1710,7 @@
    "e": "POP3 — Protocol for retrieving email."
   },
   {
-   "id": "general-science-00094",
+   "id": "general-science-00114",
    "q": "Which generation of computers used Transistors?",
    "o": [
     "First generation",
@@ -1425,7 +1725,7 @@
    "e": "Transistors were used in the Second generation."
   },
   {
-   "id": "general-science-00095",
+   "id": "general-science-00115",
    "q": "Which of the following is an effect or source of Nitrogen oxides?",
    "o": [
     "Cause acid rain and smog",
@@ -1440,7 +1740,7 @@
    "e": "Nitrogen oxides — Cause acid rain and smog."
   },
   {
-   "id": "general-science-00096",
+   "id": "general-science-00116",
    "q": "Which element has the chemical symbol Cl?",
    "o": [
     "Flerovium",
@@ -1455,7 +1755,7 @@
    "e": "Cl is the symbol of Chlorine."
   },
   {
-   "id": "general-science-00097",
+   "id": "general-science-00117",
    "q": "What is the SI unit of Wave number?",
    "o": [
     "Candela",
@@ -1470,7 +1770,7 @@
    "e": "The SI unit of Wave number is the Reciprocal metre."
   },
   {
-   "id": "general-science-00098",
+   "id": "general-science-00118",
    "q": "Which instrument is used to measure Small electric currents?",
    "o": [
     "Galvanometer",
@@ -1485,7 +1785,7 @@
    "e": "Galvanometer is used to measure Small electric currents."
   },
   {
-   "id": "general-science-00099",
+   "id": "general-science-00119",
    "q": "What is the main function of the White blood cells in the human body?",
    "o": [
     "Controls blood sugar",
@@ -1500,7 +1800,7 @@
    "e": "The White blood cells is responsible for Body immunity."
   },
   {
-   "id": "general-science-00100",
+   "id": "general-science-00120",
    "q": "Deficiency of which nutrient causes Dehydration?",
    "o": [
     "Vitamin B3",
@@ -1515,7 +1815,7 @@
    "e": "Deficiency of Sodium causes Dehydration."
   },
   {
-   "id": "general-science-00101",
+   "id": "general-science-00121",
    "q": "Which of the following causes Ringworm?",
    "o": [
     "Neisseria meningitidis bacteria",
@@ -1530,7 +1830,7 @@
    "e": "Ringworm is caused by Fungi."
   },
   {
-   "id": "general-science-00102",
+   "id": "general-science-00122",
    "q": "Who is credited with Polio vaccine?",
    "o": [
     "Jonas Salk",
@@ -1545,7 +1845,7 @@
    "e": "Polio vaccine — Jonas Salk."
   },
   {
-   "id": "general-science-00103",
+   "id": "general-science-00123",
    "q": "What is the chemical name of Marble?",
    "o": [
     "Calcium carbonate (CaCO3)",
@@ -1560,7 +1860,7 @@
    "e": "Marble is Calcium carbonate (CaCO3)."
   },
   {
-   "id": "general-science-00104",
+   "id": "general-science-00124",
    "q": "Which branch of science deals with Heredity and variation?",
    "o": [
     "Genetics",
@@ -1575,7 +1875,7 @@
    "e": "Genetics deals with Heredity and variation."
   },
   {
-   "id": "general-science-00105",
+   "id": "general-science-00125",
    "q": "Which planet or body is described as: Halley's Comet?",
    "o": [
     "Halley's Comet",
@@ -1590,7 +1890,7 @@
    "e": "Halley's Comet — Halley's Comet."
   },
   {
-   "id": "general-science-00106",
+   "id": "general-science-00126",
    "q": "Alexander Fleming is known for which of the following?",
    "o": [
     "Discovery of penicillin",
@@ -1605,7 +1905,7 @@
    "e": "Alexander Fleming is known for Discovery of penicillin."
   },
   {
-   "id": "general-science-00107",
+   "id": "general-science-00127",
    "q": "What is the instrument used to measure earthquake intensity?",
    "o": [
     "From the land to the sea",
@@ -1620,7 +1920,7 @@
    "e": "What is the instrument used to measure earthquake intensity — Seismograph."
   },
   {
-   "id": "general-science-00108",
+   "id": "general-science-00128",
    "q": "SWAYAM is associated with which of the following?",
    "o": [
     "Electric vehicle promotion",
@@ -1635,7 +1935,7 @@
    "e": "SWAYAM — Free online courses platform."
   },
   {
-   "id": "general-science-00109",
+   "id": "general-science-00129",
    "q": "LAN is best described as which of the following?",
    "o": [
     "Input device that captures sound",
@@ -1650,7 +1950,7 @@
    "e": "LAN — Network covering a small area."
   },
   {
-   "id": "general-science-00110",
+   "id": "general-science-00130",
    "q": "Which of the following is an effect or source of Methane?",
    "o": [
     "Raises water temperature and harms aquatic life",
@@ -1665,7 +1965,7 @@
    "e": "Methane — Potent greenhouse gas from livestock and paddy fields."
   },
   {
-   "id": "general-science-00111",
+   "id": "general-science-00131",
    "q": "Which element has the chemical symbol F?",
    "o": [
     "Antimony",
@@ -1680,7 +1980,7 @@
    "e": "F is the symbol of Fluorine."
   },
   {
-   "id": "general-science-00112",
+   "id": "general-science-00132",
    "q": "What is the SI unit of Length?",
    "o": [
     "Coulomb",
@@ -1695,7 +1995,7 @@
    "e": "The SI unit of Length is the Metre."
   },
   {
-   "id": "general-science-00113",
+   "id": "general-science-00133",
    "q": "Which instrument is used to measure Blood pressure variations?",
    "o": [
     "Tachometer",
@@ -1710,7 +2010,7 @@
    "e": "Kymograph is used to measure Blood pressure variations."
   },
   {
-   "id": "general-science-00114",
+   "id": "general-science-00134",
    "q": "What is the main function of the Red blood cells in the human body?",
    "o": [
     "Transport of oxygen",
@@ -1725,7 +2025,7 @@
    "e": "The Red blood cells is responsible for Transport of oxygen."
   },
   {
-   "id": "general-science-00115",
+   "id": "general-science-00135",
    "q": "Deficiency of which nutrient causes Delayed blood clotting?",
    "o": [
     "Vitamin C",
@@ -1740,7 +2040,7 @@
    "e": "Deficiency of Vitamin K and Protein causes Delayed blood clotting."
   },
   {
-   "id": "general-science-00116",
+   "id": "general-science-00136",
    "q": "Which of the following causes Filariasis?",
    "o": [
     "Wuchereria bancrofti",
@@ -1755,7 +2055,7 @@
    "e": "Filariasis is caused by Wuchereria bancrofti."
   },
   {
-   "id": "general-science-00117",
+   "id": "general-science-00137",
    "q": "Who is credited with Electromagnetic induction?",
    "o": [
     "Edward Jenner",
@@ -1770,7 +2070,7 @@
    "e": "Electromagnetic induction — Michael Faraday."
   },
   {
-   "id": "general-science-00118",
+   "id": "general-science-00138",
    "q": "What is the chemical name of Formalin?",
    "o": [
     "Sodium sulphate (Na2SO4)",
@@ -1785,7 +2085,7 @@
    "e": "Formalin is Aqueous formaldehyde (HCHO)."
   },
   {
-   "id": "general-science-00119",
+   "id": "general-science-00139",
    "q": "Which branch of science deals with Solid Earth and its rocks?",
    "o": [
     "Ecology",
@@ -1800,7 +2100,7 @@
    "e": "Geology deals with Solid Earth and its rocks."
   },
   {
-   "id": "general-science-00120",
+   "id": "general-science-00140",
    "q": "Which planet or body is described as: Pluto?",
    "o": [
     "Mercury",
@@ -1815,7 +2115,7 @@
    "e": "Pluto — Pluto."
   },
   {
-   "id": "general-science-00121",
+   "id": "general-science-00141",
    "q": "Niels Bohr is known for which of the following?",
    "o": [
     "Bacteriology and tuberculosis bacillus",
@@ -1830,7 +2130,7 @@
    "e": "Niels Bohr is known for Atomic model."
   },
   {
-   "id": "general-science-00122",
+   "id": "general-science-00142",
    "q": "Direction of the north-east monsoon winds?",
    "o": [
     "Venus",
@@ -1845,7 +2145,7 @@
    "e": "Direction of the north-east monsoon winds — From the land to the sea."
   },
   {
-   "id": "general-science-00123",
+   "id": "general-science-00143",
    "q": "Aditya-L1 is associated with which of the following?",
    "o": [
     "Cleanliness ranking of Indian cities",
@@ -1860,7 +2160,7 @@
    "e": "Aditya-L1 — Solar observation from the Lagrange point L1."
   },
   {
-   "id": "general-science-00124",
+   "id": "general-science-00144",
    "q": "SMTP is best described as which of the following?",
    "o": [
     "Malicious program that spreads on its own",
@@ -1875,7 +2175,7 @@
    "e": "SMTP — Protocol for sending email."
   },
   {
-   "id": "general-science-00125",
+   "id": "general-science-00145",
    "q": "Which generation of computers used Integrated circuits?",
    "o": [
     "Third generation",
@@ -1890,7 +2190,7 @@
    "e": "Integrated circuits were used in the Third generation."
   },
   {
-   "id": "general-science-00126",
+   "id": "general-science-00146",
    "q": "Which of the following is an effect or source of Lead?",
    "o": [
     "Reduces oxygen carrying capacity of blood",
@@ -1905,7 +2205,7 @@
    "e": "Lead — Damages the nervous system."
   },
   {
-   "id": "general-science-00127",
+   "id": "general-science-00147",
    "q": "Which element has the chemical symbol Ar?",
    "o": [
     "Einsteinium",
@@ -1920,7 +2220,7 @@
    "e": "Ar is the symbol of Argon."
   },
   {
-   "id": "general-science-00128",
+   "id": "general-science-00148",
    "q": "What is the SI unit of Electric charge?",
    "o": [
     "Henry",
@@ -1935,7 +2235,7 @@
    "e": "The SI unit of Electric charge is the Coulomb."
   },
   {
-   "id": "general-science-00129",
+   "id": "general-science-00149",
    "q": "Which instrument is used to measure Blood pressure?",
    "o": [
     "Sphygmomanometer",
@@ -1950,7 +2250,7 @@
    "e": "Sphygmomanometer is used to measure Blood pressure."
   },
   {
-   "id": "general-science-00130",
+   "id": "general-science-00150",
    "q": "What is the main function of the Insulin in the human body?",
    "o": [
     "Oxygen carrying pigment",
@@ -1965,7 +2265,7 @@
    "e": "The Insulin is responsible for Controls blood sugar."
   },
   {
-   "id": "general-science-00131",
+   "id": "general-science-00151",
    "q": "Deficiency of which nutrient causes Anaemia and bone disorders?",
    "o": [
     "Vitamin C",
@@ -1980,7 +2280,7 @@
    "e": "Deficiency of Copper causes Anaemia and bone disorders."
   },
   {
-   "id": "general-science-00132",
+   "id": "general-science-00152",
    "q": "Which of the following causes Meningitis?",
    "o": [
     "Rhinovirus",
@@ -1995,7 +2295,7 @@
    "e": "Meningitis is caused by Neisseria meningitidis bacteria."
   },
   {
-   "id": "general-science-00133",
+   "id": "general-science-00153",
    "q": "Who is credited with Electric bulb?",
    "o": [
     "Max Planck",
@@ -2010,7 +2310,7 @@
    "e": "Electric bulb — Thomas Alva Edison."
   },
   {
-   "id": "general-science-00134",
+   "id": "general-science-00154",
    "q": "What is the chemical name of Quick lime?",
    "o": [
     "Calcium oxide (CaO)",
@@ -2025,7 +2325,7 @@
    "e": "Quick lime is Calcium oxide (CaO)."
   },
   {
-   "id": "general-science-00135",
+   "id": "general-science-00155",
    "q": "Which branch of science deals with Living organisms?",
    "o": [
     "Radiology",
@@ -2040,7 +2340,7 @@
    "e": "Biology deals with Living organisms."
   },
   {
-   "id": "general-science-00136",
+   "id": "general-science-00156",
    "q": "Which planet or body is described as: Nebula?",
    "o": [
     "Earth",
@@ -2055,7 +2355,7 @@
    "e": "Nebula — Nebula."
   },
   {
-   "id": "general-science-00137",
+   "id": "general-science-00157",
    "q": "Galileo Galilei is known for which of the following?",
    "o": [
     "Synthesis of nucleic acids",
@@ -2070,7 +2370,7 @@
    "e": "Galileo Galilei is known for Laws of falling bodies and telescope studies."
   },
   {
-   "id": "general-science-00138",
+   "id": "general-science-00158",
    "q": "Which coast of India receives winter rainfall from the north-east monsoon?",
    "o": [
     "Eye",
@@ -2085,7 +2385,7 @@
    "e": "Which coast of India receives winter rainfall from the north-east monsoon — Coromandel Coast."
   },
   {
-   "id": "general-science-00139",
+   "id": "general-science-00159",
    "q": "AMRUT is associated with which of the following?",
    "o": [
     "Electric vehicle promotion",
@@ -2100,7 +2400,7 @@
    "e": "AMRUT — Urban water supply and sewerage improvement."
   },
   {
-   "id": "general-science-00140",
+   "id": "general-science-00160",
    "q": "SMPS is best described as which of the following?",
    "o": [
     "Power supply unit of a computer",
@@ -2115,7 +2415,7 @@
    "e": "SMPS — Power supply unit of a computer."
   },
   {
-   "id": "general-science-00141",
+   "id": "general-science-00161",
    "q": "Which of the following is an effect or source of Oil spills?",
    "o": [
     "Causes genetic damage and cancer",
@@ -2130,7 +2430,7 @@
    "e": "Oil spills — Damage marine life and coastlines."
   },
   {
-   "id": "general-science-00142",
+   "id": "general-science-00162",
    "q": "Which element has the chemical symbol Rn?",
    "o": [
     "Plutonium",
@@ -2145,7 +2445,7 @@
    "e": "Rn is the symbol of Radon."
   },
   {
-   "id": "general-science-00143",
+   "id": "general-science-00163",
    "q": "What is the SI unit of Absorbed dose?",
    "o": [
     "Ampere",
@@ -2160,7 +2460,7 @@
    "e": "The SI unit of Absorbed dose is the Gray."
   },
   {
-   "id": "general-science-00144",
+   "id": "general-science-00164",
    "q": "Which instrument is used to measure High temperature?",
    "o": [
     "Hygroscope",
@@ -2175,7 +2475,7 @@
    "e": "Pyrometer is used to measure High temperature."
   },
   {
-   "id": "general-science-00145",
+   "id": "general-science-00165",
    "q": "What is the main function of the Adrenal gland in the human body?",
    "o": [
     "Secretion of adrenaline",
@@ -2190,7 +2490,7 @@
    "e": "The Adrenal gland is responsible for Secretion of adrenaline."
   },
   {
-   "id": "general-science-00146",
+   "id": "general-science-00166",
    "q": "Deficiency of which nutrient causes Anaemia?",
    "o": [
     "Vitamin K",
@@ -2205,7 +2505,7 @@
    "e": "Deficiency of Iron causes Anaemia."
   },
   {
-   "id": "general-science-00147",
+   "id": "general-science-00167",
    "q": "Which of the following causes Rabies?",
    "o": [
     "Rabies virus",
@@ -2220,7 +2520,7 @@
    "e": "Rabies is caused by Rabies virus."
   },
   {
-   "id": "general-science-00148",
+   "id": "general-science-00168",
    "q": "Who is credited with Theory of relativity?",
    "o": [
     "Antonie van Leeuwenhoek",
@@ -2235,7 +2535,7 @@
    "e": "Theory of relativity — Albert Einstein."
   },
   {
-   "id": "general-science-00149",
+   "id": "general-science-00169",
    "q": "What is the chemical name of Alum?",
    "o": [
     "Acetic acid (CH3COOH)",
@@ -2250,7 +2550,7 @@
    "e": "Alum is Potassium aluminium sulphate."
   },
   {
-   "id": "general-science-00150",
+   "id": "general-science-00170",
    "q": "Which branch of science deals with Physics of celestial objects?",
    "o": [
     "Mycology",
@@ -2265,7 +2565,7 @@
    "e": "Astrophysics deals with Physics of celestial objects."
   },
   {
-   "id": "general-science-00151",
+   "id": "general-science-00171",
    "q": "Which planet or body is described as: Black hole?",
    "o": [
     "Milky Way",
@@ -2280,7 +2580,7 @@
    "e": "Black hole — Black hole."
   },
   {
-   "id": "general-science-00152",
+   "id": "general-science-00172",
    "q": "Max Planck is known for which of the following?",
    "o": [
     "Kinetic theory of gases",
@@ -2295,7 +2595,7 @@
    "e": "Max Planck is known for Quantum theory."
   },
   {
-   "id": "general-science-00153",
+   "id": "general-science-00173",
    "q": "Direction of the south-west monsoon winds?",
    "o": [
     "Outer core",
@@ -2310,7 +2610,7 @@
    "e": "Direction of the south-west monsoon winds — From the sea to the land."
   },
   {
-   "id": "general-science-00154",
+   "id": "general-science-00174",
    "q": "PMAY-Urban is associated with which of the following?",
    "o": [
     "Clean cooking fuel for poor households",
@@ -2325,7 +2625,7 @@
    "e": "PMAY-Urban — Affordable housing in urban areas."
   },
   {
-   "id": "general-science-00155",
+   "id": "general-science-00175",
    "q": "RAM is best described as which of the following?",
    "o": [
     "The processing unit that executes instructions",
@@ -2340,7 +2640,7 @@
    "e": "RAM — Volatile main memory used for running programs."
   },
   {
-   "id": "general-science-00156",
+   "id": "general-science-00176",
    "q": "Which generation of computers used Artificial intelligence?",
    "o": [
     "Third generation",
@@ -2355,7 +2655,7 @@
    "e": "Artificial intelligence were used in the Fifth generation."
   },
   {
-   "id": "general-science-00157",
+   "id": "general-science-00177",
    "q": "Which of the following is an effect or source of Carbon monoxide?",
    "o": [
     "Reduces oxygen carrying capacity of blood",
@@ -2370,7 +2670,7 @@
    "e": "Carbon monoxide — Reduces oxygen carrying capacity of blood."
   },
   {
-   "id": "general-science-00158",
+   "id": "general-science-00178",
    "q": "Which element has the chemical symbol Si?",
    "o": [
     "Boron",
@@ -2385,7 +2685,7 @@
    "e": "Si is the symbol of Silicon."
   },
   {
-   "id": "general-science-00159",
+   "id": "general-science-00179",
    "q": "What is the SI unit of Viscosity (dynamic)?",
    "o": [
     "Second",
@@ -2400,7 +2700,7 @@
    "e": "The SI unit of Viscosity (dynamic) is the Pascal second."
   },
   {
-   "id": "general-science-00160",
+   "id": "general-science-00180",
    "q": "Which instrument is used to measure Speed and distance?",
    "o": [
     "Odometer and Speedometer",
@@ -2415,7 +2715,7 @@
    "e": "Odometer and Speedometer is used to measure Speed and distance."
   },
   {
-   "id": "general-science-00161",
+   "id": "general-science-00181",
    "q": "What is the main function of the Brain in the human body?",
    "o": [
     "Production of blood cells",
@@ -2430,7 +2730,7 @@
    "e": "The Brain is responsible for Control centre of the body."
   },
   {
-   "id": "general-science-00162",
+   "id": "general-science-00182",
    "q": "Deficiency of which nutrient causes Tooth decay?",
    "o": [
     "Fluorine",
@@ -2445,7 +2745,7 @@
    "e": "Deficiency of Fluorine causes Tooth decay."
   },
   {
-   "id": "general-science-00163",
+   "id": "general-science-00183",
    "q": "Which of the following causes Cholera?",
    "o": [
     "Influenza virus",
@@ -2460,7 +2760,7 @@
    "e": "Cholera is caused by Vibrio cholerae bacteria."
   },
   {
-   "id": "general-science-00164",
+   "id": "general-science-00184",
    "q": "Who is credited with Motor car?",
    "o": [
     "Jonas Salk",
@@ -2475,7 +2775,7 @@
    "e": "Motor car — Karl Benz."
   },
   {
-   "id": "general-science-00165",
+   "id": "general-science-00185",
    "q": "What is the chemical name of Quartz?",
    "o": [
     "Silicon dioxide (SiO2)",
@@ -2490,7 +2790,7 @@
    "e": "Quartz is Silicon dioxide (SiO2)."
   },
   {
-   "id": "general-science-00166",
+   "id": "general-science-00186",
    "q": "Which branch of science deals with Viruses?",
    "o": [
     "Genetics",
@@ -2505,7 +2805,7 @@
    "e": "Virology deals with Viruses."
   },
   {
-   "id": "general-science-00167",
+   "id": "general-science-00187",
    "q": "Which planet or body is described as: Sirius?",
    "o": [
     "Jupiter",
@@ -2520,7 +2820,7 @@
    "e": "Sirius — Sirius."
   },
   {
-   "id": "general-science-00168",
+   "id": "general-science-00188",
    "q": "Daniel Fahrenheit is known for which of the following?",
    "o": [
     "Discovery of penicillin",
@@ -2535,7 +2835,7 @@
    "e": "Daniel Fahrenheit is known for Fahrenheit temperature scale."
   },
   {
-   "id": "general-science-00169",
+   "id": "general-science-00189",
    "q": "Which type of rock is formed from cooled magma?",
    "o": [
     "Coromandel Coast",
@@ -2550,7 +2850,7 @@
    "e": "Which type of rock is formed from cooled magma — Igneous rock."
   },
   {
-   "id": "general-science-00170",
+   "id": "general-science-00190",
    "q": "National Action Plan on Climate Change is associated with which of the following?",
    "o": [
     "Delivery of services through digital platforms",
@@ -2565,7 +2865,7 @@
    "e": "National Action Plan on Climate Change — Eight national missions on climate."
   },
   {
-   "id": "general-science-00171",
+   "id": "general-science-00191",
    "q": "Compiler is best described as which of the following?",
    "o": [
     "Firmware that starts the computer",
@@ -2580,7 +2880,7 @@
    "e": "Compiler — Program that converts source code into machine code."
   },
   {
-   "id": "general-science-00172",
+   "id": "general-science-00192",
    "q": "Which of the following is an effect or source of Sulphur dioxide?",
    "o": [
     "Causes acid rain",
@@ -2595,7 +2895,7 @@
    "e": "Sulphur dioxide — Causes acid rain."
   },
   {
-   "id": "general-science-00173",
+   "id": "general-science-00193",
    "q": "Which element has the chemical symbol In?",
    "o": [
     "Nihonium",
@@ -2610,7 +2910,7 @@
    "e": "In is the symbol of Indium."
   },
   {
-   "id": "general-science-00174",
+   "id": "general-science-00194",
    "q": "What is the SI unit of Pressure?",
    "o": [
     "Joule",
@@ -2625,7 +2925,7 @@
    "e": "The SI unit of Pressure is the Pascal."
   },
   {
-   "id": "general-science-00175",
+   "id": "general-science-00195",
    "q": "Which instrument is used to measure Properties of light?",
    "o": [
     "Sphygmomanometer",
@@ -2640,7 +2940,7 @@
    "e": "Spectrometer is used to measure Properties of light."
   },
   {
-   "id": "general-science-00176",
+   "id": "general-science-00196",
    "q": "What is the main function of the Skin in the human body?",
    "o": [
     "Largest artery",
@@ -2655,7 +2955,7 @@
    "e": "The Skin is responsible for Protection and temperature regulation."
   },
   {
-   "id": "general-science-00177",
+   "id": "general-science-00197",
    "q": "Deficiency of which nutrient causes Scurvy?",
    "o": [
     "Vitamin C",
@@ -2670,7 +2970,7 @@
    "e": "Deficiency of Vitamin C causes Scurvy."
   },
   {
-   "id": "general-science-00178",
+   "id": "general-science-00198",
    "q": "Which of the following causes Poliomyelitis?",
    "o": [
     "Trypanosoma brucei",
@@ -2685,7 +2985,7 @@
    "e": "Poliomyelitis is caused by Poliovirus."
   },
   {
-   "id": "general-science-00179",
+   "id": "general-science-00199",
    "q": "Who is credited with Vaccination against smallpox?",
    "o": [
     "Edward Jenner",
@@ -2700,7 +3000,7 @@
    "e": "Vaccination against smallpox — Edward Jenner."
   },
   {
-   "id": "general-science-00180",
+   "id": "general-science-00200",
    "q": "What is the chemical name of Dry ice?",
    "o": [
     "Calcium oxide (CaO)",
@@ -2715,7 +3015,7 @@
    "e": "Dry ice is Solid carbon dioxide (CO2)."
   },
   {
-   "id": "general-science-00181",
+   "id": "general-science-00201",
    "q": "Which branch of science deals with Organisms and their environment?",
    "o": [
     "Ecology",
@@ -2730,7 +3030,7 @@
    "e": "Ecology deals with Organisms and their environment."
   },
   {
-   "id": "general-science-00182",
+   "id": "general-science-00202",
    "q": "Which planet or body is described as: Moon?",
    "o": [
     "Moon",
@@ -2745,7 +3045,7 @@
    "e": "Moon — Moon."
   },
   {
-   "id": "general-science-00183",
+   "id": "general-science-00203",
    "q": "Robert Koch is known for which of the following?",
    "o": [
     "Bacteriology and tuberculosis bacillus",
@@ -2760,7 +3060,7 @@
    "e": "Robert Koch is known for Bacteriology and tuberculosis bacillus."
   },
   {
-   "id": "general-science-00184",
+   "id": "general-science-00204",
    "q": "What percentage of the atmosphere is oxygen?",
    "o": [
     "Outer core",
@@ -2775,7 +3075,7 @@
    "e": "What percentage of the atmosphere is oxygen — About 21 per cent."
   },
   {
-   "id": "general-science-00185",
+   "id": "general-science-00205",
    "q": "International Solar Alliance is associated with which of the following?",
    "o": [
     "India's first Mars orbiter mission",
@@ -2790,7 +3090,7 @@
    "e": "International Solar Alliance — Global cooperation on solar energy."
   },
   {
-   "id": "general-science-00186",
+   "id": "general-science-00206",
    "q": "HTTP is best described as which of the following?",
    "o": [
     "Protocol used to transfer web pages",
@@ -2805,7 +3105,7 @@
    "e": "HTTP — Protocol used to transfer web pages."
   },
   {
-   "id": "general-science-00187",
+   "id": "general-science-00207",
    "q": "Which of the following is an effect or source of Fly ash from thermal plants?",
    "o": [
     "Air pollution with fine particulate matter",
@@ -2820,7 +3120,7 @@
    "e": "Fly ash from thermal plants — Air pollution with fine particulate matter."
   },
   {
-   "id": "general-science-00188",
+   "id": "general-science-00208",
    "q": "Which element has the chemical symbol Md?",
    "o": [
     "Protactinium",
@@ -2835,7 +3135,7 @@
    "e": "Md is the symbol of Mendelevium."
   },
   {
-   "id": "general-science-00189",
+   "id": "general-science-00209",
    "q": "What is the SI unit of Capacitance?",
    "o": [
     "Farad",
@@ -2850,7 +3150,7 @@
    "e": "The SI unit of Capacitance is the Farad."
   },
   {
-   "id": "general-science-00190",
+   "id": "general-science-00210",
    "q": "Which instrument is used to measure Time accurately?",
    "o": [
     "Pyrometer",
@@ -2865,7 +3165,7 @@
    "e": "Chronometer is used to measure Time accurately."
   },
   {
-   "id": "general-science-00191",
+   "id": "general-science-00211",
    "q": "What is the main function of the Spleen in the human body?",
    "o": [
     "Formation of blood cells",
@@ -2880,7 +3180,7 @@
    "e": "The Spleen is responsible for Formation of blood cells."
   },
   {
-   "id": "general-science-00192",
+   "id": "general-science-00212",
    "q": "Deficiency of which nutrient causes Rickets in children?",
    "o": [
     "Vitamin K and Protein",
@@ -2895,7 +3195,7 @@
    "e": "Deficiency of Phosphorus causes Rickets in children."
   },
   {
-   "id": "general-science-00193",
+   "id": "general-science-00213",
    "q": "Which of the following causes Whooping cough?",
    "o": [
     "Bordetella pertussis bacteria",
@@ -2910,7 +3210,7 @@
    "e": "Whooping cough is caused by Bordetella pertussis bacteria."
   },
   {
-   "id": "general-science-00194",
+   "id": "general-science-00214",
    "q": "Who is credited with Electric generator?",
    "o": [
     "John Bardeen and colleagues",
@@ -2925,7 +3225,7 @@
    "e": "Electric generator — Michael Faraday."
   },
   {
-   "id": "general-science-00195",
+   "id": "general-science-00215",
    "q": "What is the chemical name of Heavy water?",
    "o": [
     "Potassium aluminium sulphate",
@@ -2940,7 +3240,7 @@
    "e": "Heavy water is Deuterium oxide (D2O)."
   },
   {
-   "id": "general-science-00196",
+   "id": "general-science-00216",
    "q": "Which branch of science deals with Silk production?",
    "o": [
     "Histology",
@@ -2955,7 +3255,7 @@
    "e": "Sericulture deals with Silk production."
   },
   {
-   "id": "general-science-00197",
+   "id": "general-science-00217",
    "q": "Which planet or body is described as: Milky Way?",
    "o": [
     "Valles Marineris",
@@ -2970,7 +3270,7 @@
    "e": "Milky Way — Milky Way."
   },
   {
-   "id": "general-science-00198",
+   "id": "general-science-00218",
    "q": "Salim Ali is known for which of the following?",
    "o": [
     "Electric battery",
@@ -2985,7 +3285,7 @@
    "e": "Salim Ali is known for Ornithology in India."
   },
   {
-   "id": "general-science-00199",
+   "id": "general-science-00219",
    "q": "What is the hot dry wind of northern India called?",
    "o": [
     "Loo",
@@ -3000,7 +3300,7 @@
    "e": "What is the hot dry wind of northern India called — Loo."
   },
   {
-   "id": "general-science-00200",
+   "id": "general-science-00220",
    "q": "Unified Payments Interface is associated with which of the following?",
    "o": [
     "Digital infrastructure for school education",
@@ -3015,7 +3315,7 @@
    "e": "Unified Payments Interface — Instant bank to bank payments system."
   },
   {
-   "id": "general-science-00201",
+   "id": "general-science-00221",
    "q": "Web browser is best described as which of the following?",
    "o": [
     "Software used to view web pages",
@@ -3030,7 +3330,7 @@
    "e": "Web browser — Software used to view web pages."
   },
   {
-   "id": "general-science-00202",
+   "id": "general-science-00222",
    "q": "Which of the following is an effect or source of Chlorofluorocarbons?",
    "o": [
     "Damage marine life and coastlines",
@@ -3045,7 +3345,7 @@
    "e": "Chlorofluorocarbons — Destroy the ozone layer."
   },
   {
-   "id": "general-science-00203",
+   "id": "general-science-00223",
    "q": "Which element has the chemical symbol Se?",
    "o": [
     "Vanadium",
@@ -3060,7 +3360,7 @@
    "e": "Se is the symbol of Selenium."
   },
   {
-   "id": "general-science-00204",
+   "id": "general-science-00224",
    "q": "What is the SI unit of Luminous flux?",
    "o": [
     "Steradian",
@@ -3075,7 +3375,7 @@
    "e": "The SI unit of Luminous flux is the Lumen."
   },
   {
-   "id": "general-science-00205",
+   "id": "general-science-00225",
    "q": "Which instrument is used to measure Ionising radiation?",
    "o": [
     "Seismograph",
@@ -3090,7 +3390,7 @@
    "e": "Geiger counter is used to measure Ionising radiation."
   },
   {
-   "id": "general-science-00206",
+   "id": "general-science-00226",
    "q": "What is the main function of the Thyroxine in the human body?",
    "o": [
     "Controls body metabolism",
@@ -3105,7 +3405,7 @@
    "e": "The Thyroxine is responsible for Controls body metabolism."
   },
   {
-   "id": "general-science-00207",
+   "id": "general-science-00227",
    "q": "Deficiency of which nutrient causes Osteoporosis?",
    "o": [
     "Vitamin B5",
@@ -3120,7 +3420,7 @@
    "e": "Deficiency of Calcium causes Osteoporosis."
   },
   {
-   "id": "general-science-00208",
+   "id": "general-science-00228",
    "q": "Which of the following causes Pneumonia?",
    "o": [
     "Streptococcus pneumoniae bacteria",
@@ -3135,7 +3435,7 @@
    "e": "Pneumonia is caused by Streptococcus pneumoniae bacteria."
   },
   {
-   "id": "general-science-00209",
+   "id": "general-science-00229",
    "q": "Who is credited with Aeroplane?",
    "o": [
     "Watson and Crick",
@@ -3150,7 +3450,7 @@
    "e": "Aeroplane — Wright Brothers."
   },
   {
-   "id": "general-science-00210",
+   "id": "general-science-00230",
    "q": "What is the chemical name of Magnesia?",
    "o": [
     "Calcium sulphate hemihydrate (CaSO4.1/2H2O)",
@@ -3165,7 +3465,7 @@
    "e": "Magnesia is Magnesium oxide (MgO)."
   },
   {
-   "id": "general-science-00211",
+   "id": "general-science-00231",
    "q": "Which branch of science deals with Matter, energy and their interactions?",
    "o": [
     "Acoustics",
@@ -3180,7 +3480,7 @@
    "e": "Physics deals with Matter, energy and their interactions."
   },
   {
-   "id": "general-science-00212",
+   "id": "general-science-00232",
    "q": "Which planet or body is described as: Mars?",
    "o": [
     "Supernova",
@@ -3195,7 +3495,7 @@
    "e": "Valles Marineris — Mars."
   },
   {
-   "id": "general-science-00213",
+   "id": "general-science-00233",
    "q": "Isaac Newton is known for which of the following?",
    "o": [
     "Bose-Einstein statistics",
@@ -3210,7 +3510,7 @@
    "e": "Isaac Newton is known for Laws of motion and gravitation."
   },
   {
-   "id": "general-science-00214",
+   "id": "general-science-00234",
    "q": "Which place receives the highest rainfall in India?",
    "o": [
     "Eight",
@@ -3225,7 +3525,7 @@
    "e": "Which place receives the highest rainfall in India — Mawsynram."
   },
   {
-   "id": "general-science-00215",
+   "id": "general-science-00235",
    "q": "Chandrayaan-1 is associated with which of the following?",
    "o": [
     "Digital infrastructure for school education",
@@ -3240,7 +3540,7 @@
    "e": "Chandrayaan-1 — Discovery of water molecules on the Moon."
   },
   {
-   "id": "general-science-00216",
+   "id": "general-science-00236",
    "q": "Hexadecimal is best described as which of the following?",
    "o": [
     "Software used to view web pages",
@@ -3255,7 +3555,7 @@
    "e": "Hexadecimal — Number system with base sixteen."
   },
   {
-   "id": "general-science-00217",
+   "id": "general-science-00237",
    "q": "Which of the following is an effect or source of Phosphate detergents?",
    "o": [
     "Causes eutrophication of water bodies",
@@ -3270,7 +3570,7 @@
    "e": "Phosphate detergents — Cause algal blooms in water."
   },
   {
-   "id": "general-science-00218",
+   "id": "general-science-00238",
    "q": "Which element has the chemical symbol Zn?",
    "o": [
     "Zinc",
@@ -3285,7 +3585,7 @@
    "e": "Zn is the symbol of Zinc."
   },
   {
-   "id": "general-science-00219",
+   "id": "general-science-00239",
    "q": "What is the SI unit of Plane angle?",
    "o": [
     "Hertz",
@@ -3300,7 +3600,7 @@
    "e": "The SI unit of Plane angle is the Radian."
   },
   {
-   "id": "general-science-00220",
+   "id": "general-science-00240",
    "q": "Which instrument is used to measure Heartbeats?",
    "o": [
     "Potometer",
@@ -3315,7 +3615,7 @@
    "e": "Stethoscope is used to measure Heartbeats."
   },
   {
-   "id": "general-science-00221",
+   "id": "general-science-00241",
    "q": "What is the main function of the Lungs in the human body?",
    "o": [
     "Secretion of insulin",
@@ -3330,7 +3630,7 @@
    "e": "The Lungs is responsible for Exchange of gases."
   },
   {
-   "id": "general-science-00222",
+   "id": "general-science-00242",
    "q": "Deficiency of which nutrient causes Anaemia?",
    "o": [
     "Potassium",
@@ -3345,7 +3645,7 @@
    "e": "Deficiency of Vitamin B6 causes Anaemia."
   },
   {
-   "id": "general-science-00223",
+   "id": "general-science-00243",
    "q": "Which of the following causes Dengue?",
    "o": [
     "Corynebacterium diphtheriae bacteria",
@@ -3360,7 +3660,7 @@
    "e": "Dengue is caused by Dengue virus."
   },
   {
-   "id": "general-science-00224",
+   "id": "general-science-00244",
    "q": "Who is credited with Dynamite?",
    "o": [
     "Charles Darwin",
@@ -3375,7 +3675,7 @@
    "e": "Dynamite — Alfred Nobel."
   },
   {
-   "id": "general-science-00225",
+   "id": "general-science-00245",
    "q": "What is the chemical name of Slaked lime?",
    "o": [
     "Trinitrotoluene",
@@ -3390,7 +3690,7 @@
    "e": "Slaked lime is Calcium hydroxide (Ca(OH)2)."
   },
   {
-   "id": "general-science-00226",
+   "id": "general-science-00246",
    "q": "Which branch of science deals with Functions of living organisms?",
    "o": [
     "Meteorology",
@@ -3405,7 +3705,7 @@
    "e": "Physiology deals with Functions of living organisms."
   },
   {
-   "id": "general-science-00227",
+   "id": "general-science-00247",
    "q": "Which planet or body is described as: Supernova?",
    "o": [
     "Uranus",
@@ -3420,7 +3720,7 @@
    "e": "Supernova — Supernova."
   },
   {
-   "id": "general-science-00228",
+   "id": "general-science-00248",
    "q": "Gregor Mendel is known for which of the following?",
    "o": [
     "Nuclear model of the atom",
@@ -3435,7 +3735,7 @@
    "e": "Gregor Mendel is known for Laws of inheritance."
   },
   {
-   "id": "general-science-00229",
+   "id": "general-science-00249",
    "q": "Which is the innermost layer of the Earth?",
    "o": [
     "Metamorphic rock",
@@ -3450,7 +3750,7 @@
    "e": "Which is the innermost layer of the Earth — Core."
   },
   {
-   "id": "general-science-00230",
+   "id": "general-science-00250",
    "q": "Reusable Launch Vehicle is associated with which of the following?",
    "o": [
     "Cultural integration across states",
@@ -3465,7 +3765,7 @@
    "e": "Reusable Launch Vehicle — Indigenous reusable space shuttle technology."
   },
   {
-   "id": "general-science-00231",
+   "id": "general-science-00251",
    "q": "Flowchart is best described as which of the following?",
    "o": [
     "Diagram of the steps of an algorithm",
@@ -3480,7 +3780,7 @@
    "e": "Flowchart — Diagram of the steps of an algorithm."
   },
   {
-   "id": "general-science-00232",
+   "id": "general-science-00252",
    "q": "Which of the following is an effect or source of Arsenic?",
    "o": [
     "Causes skin lesions and cancer in groundwater",
@@ -3495,7 +3795,7 @@
    "e": "Arsenic — Causes skin lesions and cancer in groundwater."
   },
   {
-   "id": "general-science-00233",
+   "id": "general-science-00253",
    "q": "Which element has the chemical symbol Am?",
    "o": [
     "Palladium",
@@ -3510,7 +3810,7 @@
    "e": "Am is the symbol of Americium."
   },
   {
-   "id": "general-science-00234",
+   "id": "general-science-00254",
    "q": "What is the SI unit of Temperature?",
    "o": [
     "Kelvin",
@@ -3525,7 +3825,7 @@
    "e": "The SI unit of Temperature is the Kelvin."
   },
   {
-   "id": "general-science-00235",
+   "id": "general-science-00255",
    "q": "Which instrument is used to measure One form of energy into another?",
    "o": [
     "Hygrometer",
@@ -3540,7 +3840,7 @@
    "e": "Transducer is used to measure One form of energy into another."
   },
   {
-   "id": "general-science-00236",
+   "id": "general-science-00256",
    "q": "What is the main function of the Vena cava in the human body?",
    "o": [
     "Control centre of the body",
@@ -3555,7 +3855,7 @@
    "e": "The Vena cava is responsible for Largest vein."
   },
   {
-   "id": "general-science-00237",
+   "id": "general-science-00257",
    "q": "Deficiency of which nutrient causes Muscle weakness?",
    "o": [
     "Vitamin B3",
@@ -3570,7 +3870,7 @@
    "e": "Deficiency of Potassium causes Muscle weakness."
   },
   {
-   "id": "general-science-00238",
+   "id": "general-science-00258",
    "q": "Which of the following causes Yellow fever?",
    "o": [
     "Vibrio cholerae bacteria",
@@ -3585,7 +3885,7 @@
    "e": "Yellow fever is caused by Yellow fever virus."
   },
   {
-   "id": "general-science-00239",
+   "id": "general-science-00259",
    "q": "Who is credited with Chloroform as anaesthetic?",
    "o": [
     "Thomas Alva Edison",
@@ -3600,7 +3900,7 @@
    "e": "Chloroform as anaesthetic — James Young Simpson."
   },
   {
-   "id": "general-science-00240",
+   "id": "general-science-00260",
    "q": "What is the chemical name of Spirit of salt?",
    "o": [
     "Sodium carbonate (Na2CO3)",
@@ -3615,7 +3915,7 @@
    "e": "Spirit of salt is Hydrochloric acid (HCl)."
   },
   {
-   "id": "general-science-00241",
+   "id": "general-science-00261",
    "q": "Which branch of science deals with Origin of words?",
    "o": [
     "Biology",
@@ -3630,7 +3930,7 @@
    "e": "Etymology deals with Origin of words."
   },
   {
-   "id": "general-science-00242",
+   "id": "general-science-00262",
    "q": "Which planet or body is described as: Meteorite?",
    "o": [
     "Lunar eclipse",
@@ -3645,7 +3945,7 @@
    "e": "Meteorite — Meteorite."
   },
   {
-   "id": "general-science-00243",
+   "id": "general-science-00263",
    "q": "Birbal Sahni is known for which of the following?",
    "o": [
     "Laws of falling bodies and telescope studies",
@@ -3660,7 +3960,7 @@
    "e": "Birbal Sahni is known for Palaeobotany in India."
   },
   {
-   "id": "general-science-00244",
+   "id": "general-science-00264",
    "q": "Which type of rock is formed by heat and pressure?",
    "o": [
     "Mars",
@@ -3675,7 +3975,7 @@
    "e": "Which type of rock is formed by heat and pressure — Metamorphic rock."
   },
   {
-   "id": "general-science-00245",
+   "id": "general-science-00265",
    "q": "Project Cheetah is associated with which of the following?",
    "o": [
     "India's first Mars orbiter mission",
@@ -3690,7 +3990,7 @@
    "e": "Project Cheetah — Reintroduction of cheetahs in India."
   },
   {
-   "id": "general-science-00246",
+   "id": "general-science-00266",
    "q": "Plotter is best described as which of the following?",
    "o": [
     "Secure version of the web transfer protocol",
@@ -3705,7 +4005,7 @@
    "e": "Plotter — Output device that prints large technical drawings."
   },
   {
-   "id": "general-science-00247",
+   "id": "general-science-00267",
    "q": "Which of the following is an effect or source of Nitrate from fertilisers?",
    "o": [
     "Fine particles that reach deep into the lungs",
@@ -3720,7 +4020,7 @@
    "e": "Nitrate from fertilisers — Causes eutrophication of water bodies."
   },
   {
-   "id": "general-science-00248",
+   "id": "general-science-00268",
    "q": "Which element has the chemical symbol Al?",
    "o": [
     "Neon",
@@ -3735,7 +4035,7 @@
    "e": "Al is the symbol of Aluminium."
   },
   {
-   "id": "general-science-00249",
+   "id": "general-science-00269",
    "q": "What is the SI unit of Electrical resistance?",
    "o": [
     "Ampere",
@@ -3750,7 +4050,7 @@
    "e": "The SI unit of Electrical resistance is the Ohm."
   },
   {
-   "id": "general-science-00250",
+   "id": "general-science-00270",
    "q": "Which instrument is used to measure Radiant energy?",
    "o": [
     "Endoscope",
@@ -3765,7 +4065,7 @@
    "e": "Radiometer is used to measure Radiant energy."
   },
   {
-   "id": "general-science-00251",
+   "id": "general-science-00271",
    "q": "What is the main function of the Cornea in the human body?",
    "o": [
     "Exchange of gases",
@@ -3780,7 +4080,7 @@
    "e": "The Cornea is responsible for Refraction of light in the eye."
   },
   {
-   "id": "general-science-00252",
+   "id": "general-science-00272",
    "q": "Deficiency of which nutrient causes Dermatitis?",
    "o": [
     "Zinc",
@@ -3795,7 +4095,7 @@
    "e": "Deficiency of Vitamin B7 causes Dermatitis."
   },
   {
-   "id": "general-science-00253",
+   "id": "general-science-00273",
    "q": "Which of the following causes Mumps?",
    "o": [
     "Dengue virus",
@@ -3810,7 +4110,7 @@
    "e": "Mumps is caused by Mumps virus."
   },
   {
-   "id": "general-science-00254",
+   "id": "general-science-00274",
    "q": "Who is credited with Evolution by natural selection?",
    "o": [
     "Henry Cavendish",
@@ -3825,7 +4125,7 @@
    "e": "Evolution by natural selection — Charles Darwin."
   },
   {
-   "id": "general-science-00255",
+   "id": "general-science-00275",
    "q": "What is the chemical name of Laughing gas?",
    "o": [
     "Nitric acid (HNO3)",
@@ -3840,7 +4140,7 @@
    "e": "Laughing gas is Nitrous oxide (N2O)."
   },
   {
-   "id": "general-science-00256",
+   "id": "general-science-00276",
    "q": "Which branch of science deals with Weather and atmosphere?",
    "o": [
     "Nuclear physics",
@@ -3855,7 +4155,7 @@
    "e": "Meteorology deals with Weather and atmosphere."
   },
   {
-   "id": "general-science-00257",
+   "id": "general-science-00277",
    "q": "Which planet or body is described as: Astronomical unit?",
    "o": [
     "Asteroid",
@@ -3870,7 +4170,7 @@
    "e": "Astronomical unit — Astronomical unit."
   },
   {
-   "id": "general-science-00258",
+   "id": "general-science-00278",
    "q": "Ernest Rutherford is known for which of the following?",
    "o": [
     "Missile and space launch technology",
@@ -3885,7 +4185,7 @@
    "e": "Ernest Rutherford is known for Nuclear model of the atom."
   },
   {
-   "id": "general-science-00259",
+   "id": "general-science-00279",
    "q": "What is the study of the structure of the Earth called?",
    "o": [
     "Epicentre",
@@ -3900,7 +4200,7 @@
    "e": "What is the study of the structure of the Earth called — Geology."
   },
   {
-   "id": "general-science-00260",
+   "id": "general-science-00280",
    "q": "Gaganyaan is associated with which of the following?",
    "o": [
     "Lifestyle for environment movement",
@@ -3915,7 +4215,7 @@
    "e": "Gaganyaan — Human spaceflight programme of India."
   },
   {
-   "id": "general-science-00261",
+   "id": "general-science-00281",
    "q": "Boot is best described as which of the following?",
    "o": [
     "Power supply unit of a computer",
@@ -3930,7 +4230,7 @@
    "e": "Boot — Process of starting a computer."
   },
   {
-   "id": "general-science-00262",
+   "id": "general-science-00282",
    "q": "Which of the following is an effect or source of Fluoride?",
    "o": [
     "Raises water temperature and harms aquatic life",
@@ -3945,7 +4245,7 @@
    "e": "Fluoride — Causes fluorosis in excess."
   },
   {
-   "id": "general-science-00263",
+   "id": "general-science-00283",
    "q": "Which element has the chemical symbol Nd?",
    "o": [
     "Neodymium",
@@ -3960,7 +4260,7 @@
    "e": "Nd is the symbol of Neodymium."
   },
   {
-   "id": "general-science-00264",
+   "id": "general-science-00284",
    "q": "What is the SI unit of Frequency?",
    "o": [
     "Ampere",
@@ -3975,7 +4275,7 @@
    "e": "The SI unit of Frequency is the Hertz."
   },
   {
-   "id": "general-science-00265",
+   "id": "general-science-00285",
    "q": "Which instrument is used to measure Purity of milk?",
    "o": [
     "Seismograph",
@@ -3990,7 +4290,7 @@
    "e": "Lactometer is used to measure Purity of milk."
   },
   {
-   "id": "general-science-00266",
+   "id": "general-science-00286",
    "q": "What is the main function of the Ovaries in the human body?",
    "o": [
     "Oxygen carrying pigment",
@@ -4005,7 +4305,7 @@
    "e": "The Ovaries is responsible for Production of eggs."
   },
   {
-   "id": "general-science-00267",
+   "id": "general-science-00287",
    "q": "Deficiency of which nutrient causes Tetany?",
    "o": [
     "Magnesium",
@@ -4020,7 +4320,7 @@
    "e": "Deficiency of Magnesium causes Tetany."
   },
   {
-   "id": "general-science-00268",
+   "id": "general-science-00288",
    "q": "Which of the following causes Syphilis?",
    "o": [
     "Rhinovirus",
@@ -4035,7 +4335,7 @@
    "e": "Syphilis is caused by Treponema pallidum bacteria."
   },
   {
-   "id": "general-science-00269",
+   "id": "general-science-00289",
    "q": "Who is credited with Quantum theory?",
    "o": [
     "Max Planck",
@@ -4050,7 +4350,7 @@
    "e": "Quantum theory — Max Planck."
   },
   {
-   "id": "general-science-00270",
+   "id": "general-science-00290",
    "q": "What is the chemical name of Caustic soda?",
    "o": [
     "Calcium sulphate hemihydrate (CaSO4.1/2H2O)",
@@ -4065,7 +4365,7 @@
    "e": "Caustic soda is Sodium hydroxide (NaOH)."
   },
   {
-   "id": "general-science-00271",
+   "id": "general-science-00291",
    "q": "Which branch of science deals with Radiant energy in medicine?",
    "o": [
     "Radiology",
@@ -4080,7 +4380,7 @@
    "e": "Radiology deals with Radiant energy in medicine."
   },
   {
-   "id": "general-science-00272",
+   "id": "general-science-00292",
    "q": "Which planet or body is described as: Jupiter?",
    "o": [
     "Europa",
@@ -4095,7 +4395,7 @@
    "e": "Europa — Jupiter."
   },
   {
-   "id": "general-science-00273",
+   "id": "general-science-00293",
    "q": "Hargobind Khorana is known for which of the following?",
    "o": [
     "Synthesis of nucleic acids",
@@ -4110,7 +4410,7 @@
    "e": "Hargobind Khorana is known for Synthesis of nucleic acids."
   },
   {
-   "id": "general-science-00274",
+   "id": "general-science-00294",
    "q": "What are the pre-monsoon showers in Kerala called?",
    "o": [
     "Magma",
@@ -4125,7 +4425,7 @@
    "e": "What are the pre-monsoon showers in Kerala called — Mango showers."
   },
   {
-   "id": "general-science-00275",
+   "id": "general-science-00295",
    "q": "Fit India Movement is associated with which of the following?",
    "o": [
     "Heritage city development and rejuvenation",
@@ -4140,7 +4440,7 @@
    "e": "Fit India Movement — Promotion of fitness and sports."
   },
   {
-   "id": "general-science-00276",
+   "id": "general-science-00296",
    "q": "Overclocking is best described as which of the following?",
    "o": [
     "Diagram of the steps of an algorithm",
@@ -4155,7 +4455,7 @@
    "e": "Overclocking — Running a processor above its rated speed."
   },
   {
-   "id": "general-science-00277",
+   "id": "general-science-00297",
    "q": "Which of the following is an effect or source of Noise above 85 decibels?",
    "o": [
     "Persists in the environment for centuries",
@@ -4170,7 +4470,7 @@
    "e": "Noise above 85 decibels — Causes hearing loss."
   },
   {
-   "id": "general-science-00278",
+   "id": "general-science-00298",
    "q": "Which element has the chemical symbol La?",
    "o": [
     "Lanthanum",
@@ -4185,7 +4485,7 @@
    "e": "La is the symbol of Lanthanum."
   },
   {
-   "id": "general-science-00279",
+   "id": "general-science-00299",
    "q": "What is the SI unit of Magnetic flux density?",
    "o": [
     "Katal",
@@ -4200,7 +4500,7 @@
    "e": "The SI unit of Magnetic flux density is the Tesla."
   },
   {
-   "id": "general-science-00280",
+   "id": "general-science-00300",
    "q": "Which instrument is used to measure Heart activity?",
    "o": [
     "Speedometer",
@@ -4215,7 +4515,7 @@
    "e": "Cardiograph is used to measure Heart activity."
   },
   {
-   "id": "general-science-00281",
+   "id": "general-science-00301",
    "q": "What is the main function of the Retina in the human body?",
    "o": [
     "Sensitive layer of the eye",
@@ -4230,7 +4530,7 @@
    "e": "The Retina is responsible for Sensitive layer of the eye."
   },
   {
-   "id": "general-science-00282",
+   "id": "general-science-00302",
    "q": "Deficiency of which nutrient causes Growth retardation?",
    "o": [
     "Vitamin B1",
@@ -4245,7 +4545,7 @@
    "e": "Deficiency of Zinc causes Growth retardation."
   },
   {
-   "id": "general-science-00283",
+   "id": "general-science-00303",
    "q": "Which of the following causes Measles?",
    "o": [
     "Measles virus",
@@ -4260,7 +4560,7 @@
    "e": "Measles is caused by Measles virus."
   },
   {
-   "id": "general-science-00284",
+   "id": "general-science-00304",
    "q": "Who is credited with Radio?",
    "o": [
     "Ernest Rutherford",
@@ -4275,7 +4575,7 @@
    "e": "Radio — Guglielmo Marconi."
   },
   {
-   "id": "general-science-00285",
+   "id": "general-science-00305",
    "q": "What is the chemical name of Chloroform?",
    "o": [
     "Magnesium sulphate (MgSO4.7H2O)",
@@ -4290,7 +4590,7 @@
    "e": "Chloroform is Trichloromethane (CHCl3)."
   },
   {
-   "id": "general-science-00286",
+   "id": "general-science-00306",
    "q": "Which branch of science deals with Animals?",
    "o": [
     "Gerontology",
@@ -4305,7 +4605,7 @@
    "e": "Zoology deals with Animals."
   },
   {
-   "id": "general-science-00287",
+   "id": "general-science-00307",
    "q": "Which planet or body is described as: Andromeda?",
    "o": [
     "Solar eclipse",
@@ -4320,7 +4620,7 @@
    "e": "Andromeda — Andromeda."
   },
   {
-   "id": "general-science-00288",
+   "id": "general-science-00308",
    "q": "Johannes Kepler is known for which of the following?",
    "o": [
     "ABO blood group system",
@@ -4335,7 +4635,7 @@
    "e": "Johannes Kepler is known for Laws of planetary motion."
   },
   {
-   "id": "general-science-00289",
+   "id": "general-science-00309",
    "q": "What is the scale used to measure earthquake magnitude?",
    "o": [
     "From the sea to the land",
@@ -4350,7 +4650,7 @@
    "e": "What is the scale used to measure earthquake magnitude — Richter scale."
   },
   {
-   "id": "general-science-00290",
+   "id": "general-science-00310",
    "q": "Project Tiger is associated with which of the following?",
    "o": [
     "Earth observation satellites for mapping",
@@ -4365,7 +4665,7 @@
    "e": "Project Tiger — Conservation of tigers and their habitats."
   },
   {
-   "id": "general-science-00291",
+   "id": "general-science-00311",
    "q": "HTML is best described as which of the following?",
    "o": [
     "Malicious program disguised as useful software",
@@ -4380,7 +4680,7 @@
    "e": "HTML — Language used to structure web pages."
   },
   {
-   "id": "general-science-00292",
+   "id": "general-science-00312",
    "q": "Which of the following is an effect or source of Radioactive waste?",
    "o": [
     "Causes genetic damage and cancer",
@@ -4395,7 +4695,7 @@
    "e": "Radioactive waste — Causes genetic damage and cancer."
   },
   {
-   "id": "general-science-00293",
+   "id": "general-science-00313",
    "q": "Which element has the chemical symbol Cn?",
    "o": [
     "Praseodymium",
@@ -4410,7 +4710,7 @@
    "e": "Cn is the symbol of Copernicium."
   },
   {
-   "id": "general-science-00294",
+   "id": "general-science-00314",
    "q": "What is the SI unit of Entropy?",
    "o": [
     "Coulomb",
@@ -4425,7 +4725,7 @@
    "e": "The SI unit of Entropy is the Joule per Kelvin."
   },
   {
-   "id": "general-science-00295",
+   "id": "general-science-00315",
    "q": "Which instrument is used to measure Electric potential difference?",
    "o": [
     "Crescograph",
@@ -4440,7 +4740,7 @@
    "e": "Voltmeter is used to measure Electric potential difference."
   },
   {
-   "id": "general-science-00296",
+   "id": "general-science-00316",
    "q": "What is the main function of the Cochlea in the human body?",
    "o": [
     "Formation of blood cells",
@@ -4455,7 +4755,7 @@
    "e": "The Cochlea is responsible for Hearing in the ear."
   },
   {
-   "id": "general-science-00297",
+   "id": "general-science-00317",
    "q": "Deficiency of which nutrient causes Pellagra?",
    "o": [
     "Copper",
@@ -4470,7 +4770,7 @@
    "e": "Deficiency of Vitamin B3 causes Pellagra."
   },
   {
-   "id": "general-science-00298",
+   "id": "general-science-00318",
    "q": "Which of the following causes Chickenpox?",
    "o": [
     "Bordetella pertussis bacteria",
@@ -4485,7 +4785,7 @@
    "e": "Chickenpox is caused by Varicella zoster virus."
   },
   {
-   "id": "general-science-00299",
+   "id": "general-science-00319",
    "q": "Who is credited with Diesel engine?",
    "o": [
     "Rudolf Diesel",
@@ -4500,7 +4800,7 @@
    "e": "Diesel engine — Rudolf Diesel."
   },
   {
-   "id": "general-science-00300",
+   "id": "general-science-00320",
    "q": "What is the chemical name of Chalk?",
    "o": [
     "Sodium tetraborate (Na2B4O7.10H2O)",
@@ -4515,7 +4815,7 @@
    "e": "Chalk is Calcium carbonate (CaCO3)."
   },
   {
-   "id": "general-science-00301",
+   "id": "general-science-00321",
    "q": "Which branch of science deals with Fish farming?",
    "o": [
     "Pisciculture",
@@ -4530,7 +4830,7 @@
    "e": "Pisciculture deals with Fish farming."
   },
   {
-   "id": "general-science-00302",
+   "id": "general-science-00322",
    "q": "Which planet or body is described as: Ceres?",
    "o": [
     "Ceres",
@@ -4545,7 +4845,7 @@
    "e": "Ceres — Ceres."
   },
   {
-   "id": "general-science-00303",
+   "id": "general-science-00323",
    "q": "Har Gobind Khorana is known for which of the following?",
    "o": [
     "Genetic code",
@@ -4560,7 +4860,7 @@
    "e": "Har Gobind Khorana is known for Genetic code."
   },
   {
-   "id": "general-science-00304",
+   "id": "general-science-00324",
    "q": "Which is the most abundant metal in the Earth's crust?",
    "o": [
     "Mars",
@@ -4575,7 +4875,7 @@
    "e": "Which is the most abundant metal in the Earth's crust — Aluminium."
   },
   {
-   "id": "general-science-00305",
+   "id": "general-science-00325",
    "q": "Khelo India is associated with which of the following?",
    "o": [
     "India's heavy lift launch vehicle",
@@ -4590,7 +4890,7 @@
    "e": "Khelo India — Grassroots sports development."
   },
   {
-   "id": "general-science-00306",
+   "id": "general-science-00326",
    "q": "Reboot is best described as which of the following?",
    "o": [
     "Informal description of a program",
@@ -4605,7 +4905,7 @@
    "e": "Reboot — Restarting a computer."
   },
   {
-   "id": "general-science-00307",
+   "id": "general-science-00327",
    "q": "Which of the following is an effect or source of Thermal discharge from power plants?",
    "o": [
     "Raises water temperature and harms aquatic life",
@@ -4620,7 +4920,7 @@
    "e": "Thermal discharge from power plants — Raises water temperature and harms aquatic life."
   },
   {
-   "id": "general-science-00308",
+   "id": "general-science-00328",
    "q": "Which element has the chemical symbol O?",
    "o": [
     "Oxygen",
@@ -4635,7 +4935,7 @@
    "e": "O is the symbol of Oxygen."
   },
   {
-   "id": "general-science-00309",
+   "id": "general-science-00329",
    "q": "What is the SI unit of Luminous intensity?",
    "o": [
     "Lux",
@@ -4650,7 +4950,7 @@
    "e": "The SI unit of Luminous intensity is the Candela."
   },
   {
-   "id": "general-science-00310",
+   "id": "general-science-00330",
    "q": "Which instrument is used to measure Plant growth?",
    "o": [
     "Fathometer",
@@ -4665,7 +4965,7 @@
    "e": "Crescograph is used to measure Plant growth."
   },
   {
-   "id": "general-science-00311",
+   "id": "general-science-00331",
    "q": "What is the main function of the Stomach in the human body?",
    "o": [
     "Oxygen carrying pigment",
@@ -4680,7 +4980,7 @@
    "e": "The Stomach is responsible for Digestion of food."
   },
   {
-   "id": "general-science-00312",
+   "id": "general-science-00332",
    "q": "Deficiency of which nutrient causes Megaloblastic anaemia?",
    "o": [
     "Vitamin B9",
@@ -4695,7 +4995,7 @@
    "e": "Deficiency of Vitamin B9 causes Megaloblastic anaemia."
   },
   {
-   "id": "general-science-00313",
+   "id": "general-science-00333",
    "q": "Which of the following causes Tuberculosis?",
    "o": [
     "Rhinovirus",
@@ -4710,7 +5010,7 @@
    "e": "Tuberculosis is caused by Mycobacterium tuberculosis bacteria."
   },
   {
-   "id": "general-science-00314",
+   "id": "general-science-00334",
    "q": "Who is credited with Smallpox vaccine (modern)?",
    "o": [
     "Edward Jenner",
@@ -4725,7 +5025,7 @@
    "e": "Smallpox vaccine (modern) — Edward Jenner."
   },
   {
-   "id": "general-science-00315",
+   "id": "general-science-00335",
    "q": "What is the chemical name of Borax?",
    "o": [
     "Potassium nitrate (KNO3)",
@@ -4740,7 +5040,7 @@
    "e": "Borax is Sodium tetraborate (Na2B4O7.10H2O)."
   },
   {
-   "id": "general-science-00316",
+   "id": "general-science-00336",
    "q": "Which branch of science deals with Electricity and magnetism?",
    "o": [
     "Electromagnetism",
@@ -4755,7 +5055,7 @@
    "e": "Electromagnetism deals with Electricity and magnetism."
   },
   {
-   "id": "general-science-00317",
+   "id": "general-science-00337",
    "q": "Which planet or body is described as: Solar eclipse?",
    "o": [
     "Solar eclipse",
@@ -4770,7 +5070,7 @@
    "e": "Solar eclipse — Solar eclipse."
   },
   {
-   "id": "general-science-00318",
+   "id": "general-science-00338",
    "q": "Vikram Sarabhai is known for which of the following?",
    "o": [
     "Indian space programme",
@@ -4785,7 +5085,7 @@
    "e": "Vikram Sarabhai is known for Indian space programme."
   },
   {
-   "id": "general-science-00319",
+   "id": "general-science-00339",
    "q": "Season of the south-west monsoon in India?",
    "o": [
     "Crust",
@@ -4800,7 +5100,7 @@
    "e": "Season of the south-west monsoon in India — June to September."
   },
   {
-   "id": "general-science-00320",
+   "id": "general-science-00340",
    "q": "XPoSat is associated with which of the following?",
    "o": [
     "X-ray polarimetry studies of black holes",
@@ -4815,7 +5115,7 @@
    "e": "XPoSat — X-ray polarimetry studies of black holes."
   },
   {
-   "id": "general-science-00321",
+   "id": "general-science-00341",
    "q": "Webcam is best described as which of the following?",
    "o": [
     "Very fast memory close to the CPU",
@@ -4830,7 +5130,7 @@
    "e": "Webcam — Input device that captures video."
   },
   {
-   "id": "general-science-00322",
+   "id": "general-science-00342",
    "q": "Which pollutant is described as: Damage marine life and coastlines?",
    "o": [
     "Oil spills",
@@ -4845,7 +5145,7 @@
    "e": "Damage marine life and coastlines is linked to Oil spills."
   },
   {
-   "id": "general-science-00323",
+   "id": "general-science-00343",
    "q": "Which element has the chemical symbol As?",
    "o": [
     "Rhodium",
@@ -4860,7 +5160,7 @@
    "e": "As is the symbol of Arsenic."
   },
   {
-   "id": "general-science-00324",
+   "id": "general-science-00344",
    "q": "What is the SI unit of Amount of substance?",
    "o": [
     "Steradian",
@@ -4875,7 +5175,7 @@
    "e": "The SI unit of Amount of substance is the Mole."
   },
   {
-   "id": "general-science-00325",
+   "id": "general-science-00345",
    "q": "Which instrument is used to measure Rotational speed?",
    "o": [
     "Transducer",
@@ -4890,7 +5190,7 @@
    "e": "Tachometer is used to measure Rotational speed."
   },
   {
-   "id": "general-science-00326",
+   "id": "general-science-00346",
    "q": "What is the main function of the Pituitary gland in the human body?",
    "o": [
     "Detoxification and bile secretion",
@@ -4905,7 +5205,7 @@
    "e": "The Pituitary gland is responsible for Master gland of the body."
   },
   {
-   "id": "general-science-00327",
+   "id": "general-science-00347",
    "q": "Deficiency of which nutrient causes Paresthesia?",
    "o": [
     "Magnesium",
@@ -4920,7 +5220,7 @@
    "e": "Deficiency of Vitamin B5 causes Paresthesia."
   },
   {
-   "id": "general-science-00328",
+   "id": "general-science-00348",
    "q": "Which of the following causes Anthrax?",
    "o": [
     "Chikungunya virus",
@@ -4935,7 +5235,7 @@
    "e": "Anthrax is caused by Bacillus anthracis bacteria."
   },
   {
-   "id": "general-science-00329",
+   "id": "general-science-00349",
    "q": "Who is credited with X-ray?",
    "o": [
     "Wilhelm Roentgen",
@@ -4950,7 +5250,7 @@
    "e": "X-ray — Wilhelm Roentgen."
   },
   {
-   "id": "general-science-00330",
+   "id": "general-science-00350",
    "q": "What is the chemical name of Salt cake?",
    "o": [
     "Hydrochloric acid (HCl)",
@@ -4965,7 +5265,7 @@
    "e": "Salt cake is Sodium sulphate (Na2SO4)."
   },
   {
-   "id": "general-science-00331",
+   "id": "general-science-00351",
    "q": "Which branch of science deals with Chemical processes in living organisms?",
    "o": [
     "Biochemistry",
@@ -4980,7 +5280,7 @@
    "e": "Biochemistry deals with Chemical processes in living organisms."
   },
   {
-   "id": "general-science-00332",
+   "id": "general-science-00352",
    "q": "Which planet or body is described as: Asteroid?",
    "o": [
     "Asteroid",
@@ -4995,7 +5295,7 @@
    "e": "Asteroid — Asteroid."
   },
   {
-   "id": "general-science-00333",
+   "id": "general-science-00353",
    "q": "Marie Curie is known for which of the following?",
    "o": [
     "Discovery of radium and polonium",
@@ -5010,7 +5310,7 @@
    "e": "Marie Curie is known for Discovery of radium and polonium."
   },
   {
-   "id": "general-science-00334",
+   "id": "general-science-00354",
    "q": "Type of climate of India?",
    "o": [
     "Cherry blossom showers",
@@ -5025,7 +5325,7 @@
    "e": "Type of climate of India — Tropical monsoon climate."
   },
   {
-   "id": "general-science-00335",
+   "id": "general-science-00355",
    "q": "Bharat Bill Payment System is associated with which of the following?",
    "o": [
     "Urban water supply and sewerage improvement",
@@ -5040,7 +5340,7 @@
    "e": "Bharat Bill Payment System — Integrated bill payment platform."
   },
   {
-   "id": "general-science-00336",
+   "id": "general-science-00356",
    "q": "Bit is best described as which of the following?",
    "o": [
     "Protocol for transferring files",
@@ -5055,7 +5355,7 @@
    "e": "Bit — Smallest unit of digital data."
   },
   {
-   "id": "general-science-00337",
+   "id": "general-science-00357",
    "q": "Which pollutant is described as: Causes skin lesions and cancer in groundwater?",
    "o": [
     "Thermal discharge from power plants",
@@ -5070,7 +5370,7 @@
    "e": "Causes skin lesions and cancer in groundwater is linked to Arsenic."
   },
   {
-   "id": "general-science-00338",
+   "id": "general-science-00358",
    "q": "Which element has the chemical symbol Sc?",
    "o": [
     "Rutherfordium",
@@ -5085,7 +5385,7 @@
    "e": "Sc is the symbol of Scandium."
   },
   {
-   "id": "general-science-00339",
+   "id": "general-science-00359",
    "q": "What is the SI unit of Catalytic activity?",
    "o": [
     "Coulomb",
@@ -5100,7 +5400,7 @@
    "e": "The SI unit of Catalytic activity is the Katal."
   },
   {
-   "id": "general-science-00340",
+   "id": "general-science-00360",
    "q": "Which instrument is used to measure Altitude?",
    "o": [
     "Altimeter",
@@ -5115,7 +5415,7 @@
    "e": "Altimeter is used to measure Altitude."
   },
   {
-   "id": "general-science-00341",
+   "id": "general-science-00361",
    "q": "What is the main function of the Platelets in the human body?",
    "o": [
     "Clotting of blood",
@@ -5130,7 +5430,7 @@
    "e": "The Platelets is responsible for Clotting of blood."
   },
   {
-   "id": "general-science-00342",
+   "id": "general-science-00362",
    "q": "Deficiency of which nutrient causes Beri Beri?",
    "o": [
     "Vitamin B7",
@@ -5145,7 +5445,7 @@
    "e": "Deficiency of Vitamin B1 causes Beri Beri."
   },
   {
-   "id": "general-science-00343",
+   "id": "general-science-00363",
    "q": "Which of the following causes Amoebic dysentery?",
    "o": [
     "Entamoeba histolytica",
@@ -5160,7 +5460,7 @@
    "e": "Amoebic dysentery is caused by Entamoeba histolytica."
   },
   {
-   "id": "general-science-00344",
+   "id": "general-science-00364",
    "q": "Who is credited with Telescope (astronomical use)?",
    "o": [
     "John Logie Baird",
@@ -5175,7 +5475,7 @@
    "e": "Telescope (astronomical use) — Galileo Galilei."
   },
   {
-   "id": "general-science-00345",
+   "id": "general-science-00365",
    "q": "What is the chemical name of White vitriol?",
    "o": [
     "Zinc sulphate (ZnSO4.7H2O)",
@@ -5190,7 +5490,7 @@
    "e": "White vitriol is Zinc sulphate (ZnSO4.7H2O)."
   },
   {
-   "id": "general-science-00346",
+   "id": "general-science-00366",
    "q": "Which branch of science deals with Fishes?",
    "o": [
     "Botany",
@@ -5205,7 +5505,7 @@
    "e": "Ichthyology deals with Fishes."
   },
   {
-   "id": "general-science-00347",
+   "id": "general-science-00367",
    "q": "Which planet or body is described as: Jupiter?",
    "o": [
     "Mars",
@@ -5220,7 +5520,7 @@
    "e": "Ganymede — Jupiter."
   },
   {
-   "id": "general-science-00348",
+   "id": "general-science-00368",
    "q": "Robert Boyle is known for which of the following?",
    "o": [
     "Heliocentric model of the Solar System",
@@ -5235,7 +5535,7 @@
    "e": "Robert Boyle is known for Boyle's law of gases."
   },
   {
-   "id": "general-science-00349",
+   "id": "general-science-00369",
    "q": "Which planet has the longest day?",
    "o": [
     "Troposphere",
@@ -5250,7 +5550,7 @@
    "e": "Which planet has the longest day — Venus."
   },
   {
-   "id": "general-science-00350",
+   "id": "general-science-00370",
    "q": "Mission LiFE is associated with which of the following?",
    "o": [
     "Solar observation from the Lagrange point L1",
@@ -5265,7 +5565,7 @@
    "e": "Mission LiFE — Lifestyle for environment movement."
   },
   {
-   "id": "general-science-00351",
+   "id": "general-science-00371",
    "q": "Java is best described as which of the following?",
    "o": [
     "Universal character encoding standard",
@@ -5280,7 +5580,7 @@
    "e": "Java — Object oriented programming language."
   },
   {
-   "id": "general-science-00352",
+   "id": "general-science-00372",
    "q": "Which pollutant is described as: Cause acid rain and smog?",
    "o": [
     "Lead",
@@ -5295,7 +5595,7 @@
    "e": "Cause acid rain and smog is linked to Nitrogen oxides."
   },
   {
-   "id": "general-science-00353",
+   "id": "general-science-00373",
    "q": "Which element has the chemical symbol Ra?",
    "o": [
     "Sulphur",
@@ -5310,7 +5610,7 @@
    "e": "Ra is the symbol of Radium."
   },
   {
-   "id": "general-science-00354",
+   "id": "general-science-00374",
    "q": "What is the SI unit of Solid angle?",
    "o": [
     "Steradian",
@@ -5325,7 +5625,7 @@
    "e": "The SI unit of Solid angle is the Steradian."
   },
   {
-   "id": "general-science-00355",
+   "id": "general-science-00375",
    "q": "Which instrument is used to measure Magnified view of tiny objects?",
    "o": [
     "Galvanometer",
@@ -5340,7 +5640,7 @@
    "e": "Microscope is used to measure Magnified view of tiny objects."
   },
   {
-   "id": "general-science-00356",
+   "id": "general-science-00376",
    "q": "What is the main function of the Diaphragm in the human body?",
    "o": [
     "Production of sperm",
@@ -5355,7 +5655,7 @@
    "e": "The Diaphragm is responsible for Helps in breathing."
   },
   {
-   "id": "general-science-00357",
+   "id": "general-science-00377",
    "q": "Which disease is caused by the deficiency of Iodine?",
    "o": [
     "Anaemia",
@@ -5370,7 +5670,7 @@
    "e": "Deficiency of Iodine causes Goitre."
   },
   {
-   "id": "general-science-00358",
+   "id": "general-science-00378",
    "q": "Which of the following causes Kala-azar?",
    "o": [
     "Neisseria gonorrhoeae bacteria",
@@ -5385,7 +5685,7 @@
    "e": "Kala-azar is caused by Leishmania donovani."
   },
   {
-   "id": "general-science-00359",
+   "id": "general-science-00379",
    "q": "Who is credited with Telephone?",
    "o": [
     "Johannes Gutenberg",
@@ -5400,7 +5700,7 @@
    "e": "Telephone — Alexander Graham Bell."
   },
   {
-   "id": "general-science-00360",
+   "id": "general-science-00380",
    "q": "What is the chemical name of Bleaching powder?",
    "o": [
     "Calcium carbonate (CaCO3)",
@@ -5415,7 +5715,7 @@
    "e": "Bleaching powder is Calcium oxychloride (CaOCl2)."
   },
   {
-   "id": "general-science-00361",
+   "id": "general-science-00381",
    "q": "Which branch of science deals with Composition and properties of substances?",
    "o": [
     "Ornithology",
@@ -5430,7 +5730,7 @@
    "e": "Chemistry deals with Composition and properties of substances."
   },
   {
-   "id": "general-science-00362",
+   "id": "general-science-00382",
    "q": "Which planet or body is described as: Lunar eclipse?",
    "o": [
     "Moon",
@@ -5445,7 +5745,7 @@
    "e": "Lunar eclipse — Lunar eclipse."
   },
   {
-   "id": "general-science-00363",
+   "id": "general-science-00383",
    "q": "Albert Einstein is known for which of the following?",
    "o": [
     "Molecular theory and Avogadro's law",
@@ -5460,7 +5760,7 @@
    "e": "Albert Einstein is known for Theory of relativity."
   },
   {
-   "id": "general-science-00364",
+   "id": "general-science-00384",
    "q": "Which is the largest planet in the Solar System?",
    "o": [
     "About 21 per cent",
@@ -5475,7 +5775,7 @@
    "e": "Which is the largest planet in the Solar System — Jupiter."
   },
   {
-   "id": "general-science-00365",
+   "id": "general-science-00385",
    "q": "National Electric Mobility Mission is associated with which of the following?",
    "o": [
     "Adoption of electric vehicles",
@@ -5490,7 +5790,7 @@
    "e": "National Electric Mobility Mission — Adoption of electric vehicles."
   },
   {
-   "id": "general-science-00366",
+   "id": "general-science-00386",
    "q": "Database is best described as which of the following?",
    "o": [
     "The processing unit that executes instructions",
@@ -5505,7 +5805,7 @@
    "e": "Database — Organised collection of data."
   },
   {
-   "id": "general-science-00367",
+   "id": "general-science-00387",
    "q": "Which pollutant is described as: Reduces oxygen carrying capacity of blood?",
    "o": [
     "Radioactive waste",
@@ -5520,7 +5820,7 @@
    "e": "Reduces oxygen carrying capacity of blood is linked to Carbon monoxide."
   },
   {
-   "id": "general-science-00368",
+   "id": "general-science-00388",
    "q": "Which element has the chemical symbol Ho?",
    "o": [
     "Europium",
@@ -5535,7 +5835,7 @@
    "e": "Ho is the symbol of Holmium."
   },
   {
-   "id": "general-science-00369",
+   "id": "general-science-00389",
    "q": "What is the SI unit of Electric potential?",
    "o": [
     "Lux",
@@ -5550,7 +5850,7 @@
    "e": "The SI unit of Electric potential is the Volt."
   },
   {
-   "id": "general-science-00370",
+   "id": "general-science-00390",
    "q": "Which instrument is used to measure Gas pressure?",
    "o": [
     "Viscometer",
@@ -5565,7 +5865,7 @@
    "e": "Manometer is used to measure Gas pressure."
   },
   {
-   "id": "general-science-00371",
+   "id": "general-science-00391",
    "q": "What is the main function of the Kidneys in the human body?",
    "o": [
     "Formation of blood cells",
@@ -5580,7 +5880,7 @@
    "e": "The Kidneys is responsible for Filtration of blood and urine formation."
   },
   {
-   "id": "general-science-00372",
+   "id": "general-science-00392",
    "q": "Which disease is caused by the deficiency of Vitamin K and Protein?",
    "o": [
     "Tooth decay",
@@ -5595,7 +5895,7 @@
    "e": "Deficiency of Vitamin K and Protein causes Delayed blood clotting."
   },
   {
-   "id": "general-science-00373",
+   "id": "general-science-00393",
    "q": "Which of the following causes Typhoid?",
    "o": [
     "Bordetella pertussis bacteria",
@@ -5610,7 +5910,7 @@
    "e": "Typhoid is caused by Salmonella typhi bacteria."
   },
   {
-   "id": "general-science-00374",
+   "id": "general-science-00394",
    "q": "Who is credited with Steam engine?",
    "o": [
     "James Watt",
@@ -5625,7 +5925,7 @@
    "e": "Steam engine — James Watt."
   },
   {
-   "id": "general-science-00375",
+   "id": "general-science-00395",
    "q": "What is the chemical name of Caustic potash?",
    "o": [
     "Sulphuric acid (H2SO4)",
@@ -5640,7 +5940,7 @@
    "e": "Caustic potash is Potassium hydroxide (KOH)."
   },
   {
-   "id": "general-science-00376",
+   "id": "general-science-00396",
    "q": "Which branch of science deals with Structure of the body?",
    "o": [
     "Anatomy",
@@ -5655,7 +5955,7 @@
    "e": "Anatomy deals with Structure of the body."
   },
   {
-   "id": "general-science-00377",
+   "id": "general-science-00397",
    "q": "Which of the following statements about Valles Marineris is correct?",
    "o": [
     "Mars",
@@ -5670,7 +5970,7 @@
    "e": "Valles Marineris: Mars."
   },
   {
-   "id": "general-science-00378",
+   "id": "general-science-00398",
    "q": "Charles Darwin is known for which of the following?",
    "o": [
     "Theory of evolution",
@@ -5685,7 +5985,7 @@
    "e": "Charles Darwin is known for Theory of evolution."
   },
   {
-   "id": "general-science-00379",
+   "id": "general-science-00399",
    "q": "Which is the hardest natural mineral?",
    "o": [
     "Diamond",
@@ -5700,7 +6000,7 @@
    "e": "Which is the hardest natural mineral — Diamond."
   },
   {
-   "id": "general-science-00380",
+   "id": "general-science-00400",
    "q": "NavIC is associated with which of the following?",
    "o": [
     "Technology driven urban development",
@@ -5715,7 +6015,7 @@
    "e": "NavIC — Regional satellite navigation system."
   },
   {
-   "id": "general-science-00381",
+   "id": "general-science-00401",
    "q": "Backup is best described as which of the following?",
    "o": [
     "Running a processor above its rated speed",
@@ -5730,7 +6030,7 @@
    "e": "Backup — Copy of data kept for recovery."
   },
   {
-   "id": "general-science-00382",
+   "id": "general-science-00402",
    "q": "Which pollutant is described as: Causes genetic damage and cancer?",
    "o": [
     "Noise above 85 decibels",
@@ -5745,7 +6045,7 @@
    "e": "Causes genetic damage and cancer is linked to Radioactive waste."
   },
   {
-   "id": "general-science-00383",
+   "id": "general-science-00403",
    "q": "Which element has the chemical symbol Ti?",
    "o": [
     "Lead",
@@ -5760,7 +6060,7 @@
    "e": "Ti is the symbol of Titanium."
   },
   {
-   "id": "general-science-00384",
+   "id": "general-science-00404",
    "q": "What is the SI unit of Electrical conductance?",
    "o": [
     "Siemens",
@@ -5775,7 +6075,7 @@
    "e": "The SI unit of Electrical conductance is the Siemens."
   },
   {
-   "id": "general-science-00385",
+   "id": "general-science-00405",
    "q": "Which instrument is used to measure Humidity?",
    "o": [
     "Hygrometer",
@@ -5790,7 +6090,7 @@
    "e": "Hygrometer is used to measure Humidity."
   },
   {
-   "id": "general-science-00386",
+   "id": "general-science-00406",
    "q": "What is the main function of the Plasma in the human body?",
    "o": [
     "Production of blood cells",
@@ -5805,7 +6105,7 @@
    "e": "The Plasma is responsible for Transport of nutrients."
   },
   {
-   "id": "general-science-00387",
+   "id": "general-science-00407",
    "q": "Which disease is caused by the deficiency of Vitamin D?",
    "o": [
     "Growth retardation",
@@ -5820,7 +6120,7 @@
    "e": "Deficiency of Vitamin D causes Rickets."
   },
   {
-   "id": "general-science-00388",
+   "id": "general-science-00408",
    "q": "Which of the following causes Athlete's foot?",
    "o": [
     "Influenza virus",
@@ -5835,7 +6135,7 @@
    "e": "Athlete's foot is caused by Fungi."
   },
   {
-   "id": "general-science-00389",
+   "id": "general-science-00409",
    "q": "Who is credited with Neutron?",
    "o": [
     "Rudolf Diesel",
@@ -5850,7 +6150,7 @@
    "e": "Neutron — James Chadwick."
   },
   {
-   "id": "general-science-00390",
+   "id": "general-science-00410",
    "q": "What is the chemical name of Washing soda?",
    "o": [
     "Sodium carbonate (Na2CO3)",
@@ -5865,7 +6165,7 @@
    "e": "Washing soda is Sodium carbonate (Na2CO3)."
   },
   {
-   "id": "general-science-00391",
+   "id": "general-science-00411",
    "q": "Which branch of science deals with Child health?",
    "o": [
     "Pisciculture",
@@ -5880,7 +6180,7 @@
    "e": "Paediatrics deals with Child health."
   },
   {
-   "id": "general-science-00392",
+   "id": "general-science-00412",
    "q": "Which of the following statements about Jupiter is correct?",
    "o": [
     "Eighth",
@@ -5895,7 +6195,7 @@
    "e": "Jupiter: Jupiter."
   },
   {
-   "id": "general-science-00393",
+   "id": "general-science-00413",
    "q": "Wright Brothers is known for which of the following?",
    "o": [
     "Genetic code",
@@ -5910,7 +6210,7 @@
    "e": "Wright Brothers is known for First powered aeroplane flight."
   },
   {
-   "id": "general-science-00394",
+   "id": "general-science-00414",
    "q": "Which place receives the highest rainfall in the world?",
    "o": [
     "Mawsynram",
@@ -5925,7 +6225,7 @@
    "e": "Which place receives the highest rainfall in the world — Mawsynram."
   },
   {
-   "id": "general-science-00395",
+   "id": "general-science-00415",
    "q": "AstroSat is associated with which of the following?",
    "o": [
     "Conservation of elephants and corridors",
@@ -5940,7 +6240,7 @@
    "e": "AstroSat — Multi-wavelength space observatory."
   },
   {
-   "id": "general-science-00396",
+   "id": "general-science-00416",
    "q": "Encryption is best described as which of the following?",
    "o": [
     "Devices that work as soon as they are connected",
@@ -5955,7 +6255,7 @@
    "e": "Encryption — Process of converting data into unreadable form."
   },
   {
-   "id": "general-science-00397",
+   "id": "general-science-00417",
    "q": "Which pollutant is described as: Cause algal blooms in water?",
    "o": [
     "Chlorofluorocarbons",
@@ -5970,7 +6270,7 @@
    "e": "Cause algal blooms in water is linked to Phosphate detergents."
   },
   {
-   "id": "general-science-00398",
+   "id": "general-science-00418",
    "q": "Which element has the chemical symbol Br?",
    "o": [
     "Iridium",
@@ -5985,7 +6285,7 @@
    "e": "Br is the symbol of Bromine."
   },
   {
-   "id": "general-science-00399",
+   "id": "general-science-00419",
    "q": "What is the SI unit of Electric current?",
    "o": [
     "Weber",
@@ -6000,7 +6300,7 @@
    "e": "The SI unit of Electric current is the Ampere."
   },
   {
-   "id": "general-science-00400",
+   "id": "general-science-00420",
    "q": "Which instrument is used to measure Atmospheric pressure?",
    "o": [
     "Manometer",
@@ -6015,7 +6315,7 @@
    "e": "Barometer is used to measure Atmospheric pressure."
   },
   {
-   "id": "general-science-00401",
+   "id": "general-science-00421",
    "q": "What is the main function of the Liver in the human body?",
    "o": [
     "Production of blood cells",
@@ -6030,7 +6330,7 @@
    "e": "The Liver is responsible for Detoxification and bile secretion."
   },
   {
-   "id": "general-science-00402",
+   "id": "general-science-00422",
    "q": "Which disease is caused by the deficiency of Potassium?",
    "o": [
     "Rickets",
@@ -6045,7 +6345,7 @@
    "e": "Deficiency of Potassium causes Muscle weakness."
   },
   {
-   "id": "general-science-00403",
+   "id": "general-science-00423",
    "q": "Which of the following causes Chikungunya?",
    "o": [
     "Influenza virus",
@@ -6060,7 +6360,7 @@
    "e": "Chikungunya is caused by Chikungunya virus."
   },
   {
-   "id": "general-science-00404",
+   "id": "general-science-00424",
    "q": "Who is credited with Air conditioner?",
    "o": [
     "Joseph Priestley",
@@ -6075,7 +6375,7 @@
    "e": "Air conditioner — Willis Carrier."
   },
   {
-   "id": "general-science-00405",
+   "id": "general-science-00425",
    "q": "What is the chemical name of Common salt?",
    "o": [
     "Potassium hydroxide (KOH)",
@@ -6090,7 +6390,7 @@
    "e": "Common salt is Sodium chloride (NaCl)."
   },
   {
-   "id": "general-science-00406",
+   "id": "general-science-00426",
    "q": "Which branch of science deals with Fossils?",
    "o": [
     "Numismatics",
@@ -6105,7 +6405,7 @@
    "e": "Palaeontology deals with Fossils."
   },
   {
-   "id": "general-science-00407",
+   "id": "general-science-00427",
    "q": "Which of the following statements about Pluto is correct?",
    "o": [
     "Pluto",
@@ -6120,7 +6420,7 @@
    "e": "Pluto: Pluto."
   },
   {
-   "id": "general-science-00408",
+   "id": "general-science-00428",
    "q": "Georg Ohm is known for which of the following?",
    "o": [
     "Plant physiology and radio waves",
@@ -6135,7 +6435,7 @@
    "e": "Georg Ohm is known for Ohm's law."
   },
   {
-   "id": "general-science-00409",
+   "id": "general-science-00429",
    "q": "What is the dust storm of Rajasthan called?",
    "o": [
     "From the sea to the land",
@@ -6150,7 +6450,7 @@
    "e": "What is the dust storm of Rajasthan called — Andhi."
   },
   {
-   "id": "general-science-00410",
+   "id": "general-science-00430",
    "q": "Ujjwala Mission is associated with which of the following?",
    "o": [
     "Affordable housing in urban areas",
@@ -6165,7 +6465,7 @@
    "e": "Ujjwala Mission — Clean cooking fuel for poor households."
   },
   {
-   "id": "general-science-00411",
+   "id": "general-science-00431",
    "q": "Motherboard is best described as which of the following?",
    "o": [
     "Program that maintains and optimises the system",
@@ -6180,7 +6480,7 @@
    "e": "Motherboard — Main circuit board of a computer."
   },
   {
-   "id": "general-science-00412",
+   "id": "general-science-00432",
    "q": "Which pollutant is described as: Releases heavy metals when dumped improperly?",
    "o": [
     "Sulphur dioxide",
@@ -6195,7 +6495,7 @@
    "e": "Releases heavy metals when dumped improperly is linked to Electronic waste."
   },
   {
-   "id": "general-science-00413",
+   "id": "general-science-00433",
    "q": "Which element has the chemical symbol Pa?",
    "o": [
     "Protactinium",
@@ -6210,7 +6510,7 @@
    "e": "Pa is the symbol of Protactinium."
   },
   {
-   "id": "general-science-00414",
+   "id": "general-science-00434",
    "q": "What is the SI unit of Mass?",
    "o": [
     "Kilogram",
@@ -6225,7 +6525,7 @@
    "e": "The SI unit of Mass is the Kilogram."
   },
   {
-   "id": "general-science-00415",
+   "id": "general-science-00435",
    "q": "Which instrument is used to measure Curvature of surfaces?",
    "o": [
     "Spherometer",
@@ -6240,7 +6540,7 @@
    "e": "Spherometer is used to measure Curvature of surfaces."
   },
   {
-   "id": "general-science-00416",
+   "id": "general-science-00436",
    "q": "What is the main function of the Pancreas in the human body?",
    "o": [
     "Exchange of gases",
@@ -6255,7 +6555,7 @@
    "e": "The Pancreas is responsible for Secretion of insulin."
   },
   {
-   "id": "general-science-00417",
+   "id": "general-science-00437",
    "q": "Which disease is caused by the deficiency of Vitamin B5?",
    "o": [
     "Dehydration",
@@ -6270,7 +6570,7 @@
    "e": "Deficiency of Vitamin B5 causes Paresthesia."
   },
   {
-   "id": "general-science-00418",
+   "id": "general-science-00438",
    "q": "Which of the following causes Diphtheria?",
    "o": [
     "Dengue virus",
@@ -6285,7 +6585,7 @@
    "e": "Diphtheria is caused by Corynebacterium diphtheriae bacteria."
   },
   {
-   "id": "general-science-00419",
+   "id": "general-science-00439",
    "q": "Who is credited with Antiseptic surgery?",
    "o": [
     "Marie Curie",
@@ -6300,7 +6600,7 @@
    "e": "Antiseptic surgery — Joseph Lister."
   },
   {
-   "id": "general-science-00420",
+   "id": "general-science-00440",
    "q": "What is the chemical name of Alcohol?",
    "o": [
     "Ethanol (C2H5OH)",
@@ -6315,7 +6615,7 @@
    "e": "Alcohol is Ethanol (C2H5OH)."
   },
   {
-   "id": "general-science-00421",
+   "id": "general-science-00441",
    "q": "Which branch of science deals with Heat and energy transfer?",
    "o": [
     "Microbiology",
@@ -6330,7 +6630,7 @@
    "e": "Thermodynamics deals with Heat and energy transfer."
   },
   {
-   "id": "general-science-00422",
+   "id": "general-science-00442",
    "q": "Which of the following statements about Light year is correct?",
    "o": [
     "Light year",
@@ -6345,7 +6645,7 @@
    "e": "Light year: Light year."
   },
   {
-   "id": "general-science-00423",
+   "id": "general-science-00443",
    "q": "Meghnad Saha is known for which of the following?",
    "o": [
     "Electromagnetic induction",
@@ -6360,7 +6660,7 @@
    "e": "Meghnad Saha is known for Ionisation theory of stars."
   },
   {
-   "id": "general-science-00424",
+   "id": "general-science-00444",
    "q": "Which layer of the atmosphere is closest to the Earth?",
    "o": [
     "Mawsynram",
@@ -6375,7 +6675,7 @@
    "e": "Which layer of the atmosphere is closest to the Earth — Troposphere."
   },
   {
-   "id": "general-science-00425",
+   "id": "general-science-00445",
    "q": "Project Lion is associated with which of the following?",
    "o": [
     "Conservation of Asiatic lions",
@@ -6390,7 +6690,7 @@
    "e": "Project Lion — Conservation of Asiatic lions."
   },
   {
-   "id": "general-science-00426",
+   "id": "general-science-00446",
    "q": "Speaker is best described as which of the following?",
    "o": [
     "Informal description of a program",
@@ -6405,7 +6705,7 @@
    "e": "Speaker — Output device that produces sound."
   },
   {
-   "id": "general-science-00427",
+   "id": "general-science-00447",
    "q": "Which pollutant is described as: Damages the nervous system?",
    "o": [
     "Lead",
@@ -6420,7 +6720,7 @@
    "e": "Damages the nervous system is linked to Lead."
   },
   {
-   "id": "general-science-00428",
+   "id": "general-science-00448",
    "q": "Which element has the chemical symbol Fm?",
    "o": [
     "Vanadium",
@@ -6435,7 +6735,7 @@
    "e": "Fm is the symbol of Fermium."
   },
   {
-   "id": "general-science-00429",
+   "id": "general-science-00449",
    "q": "What is the SI unit of Power?",
    "o": [
     "Watt",
@@ -6450,7 +6750,7 @@
    "e": "The SI unit of Power is the Watt."
   },
   {
-   "id": "general-science-00430",
+   "id": "general-science-00450",
    "q": "Which instrument is used to measure Distance travelled?",
    "o": [
     "Odometer",
@@ -6465,7 +6765,7 @@
    "e": "Odometer is used to measure Distance travelled."
   },
   {
-   "id": "general-science-00431",
+   "id": "general-science-00451",
    "q": "What is the main function of the Hemoglobin in the human body?",
    "o": [
     "Largest vein",
@@ -6480,7 +6780,7 @@
    "e": "The Hemoglobin is responsible for Oxygen carrying pigment."
   },
   {
-   "id": "general-science-00432",
+   "id": "general-science-00452",
    "q": "Which disease is caused by the deficiency of Vitamin B12?",
    "o": [
     "Paresthesia",
@@ -6495,7 +6795,7 @@
    "e": "Deficiency of Vitamin B12 causes Pernicious anaemia."
   },
   {
-   "id": "general-science-00433",
+   "id": "general-science-00453",
    "q": "Which of the following causes Common cold?",
    "o": [
     "Yellow fever virus",
@@ -6510,7 +6810,7 @@
    "e": "Common cold is caused by Rhinovirus."
   },
   {
-   "id": "general-science-00434",
+   "id": "general-science-00454",
    "q": "Who is credited with Gravity?",
    "o": [
     "Galileo Galilei",
@@ -6525,7 +6825,7 @@
    "e": "Gravity — Isaac Newton."
   },
   {
-   "id": "general-science-00435",
+   "id": "general-science-00455",
    "q": "What is the chemical name of Baking powder?",
    "o": [
     "Sodium bicarbonate and tartaric acid",
@@ -6540,7 +6840,7 @@
    "e": "Baking powder is Sodium bicarbonate and tartaric acid."
   },
   {
-   "id": "general-science-00436",
+   "id": "general-science-00456",
    "q": "Which branch of science deals with Celestial objects and the universe?",
    "o": [
     "Ichthyology",
@@ -6555,7 +6855,7 @@
    "e": "Astronomy deals with Celestial objects and the universe."
   },
   {
-   "id": "general-science-00437",
+   "id": "general-science-00457",
    "q": "Which of the following statements about Black hole is correct?",
    "o": [
     "Earth",
@@ -6570,7 +6870,7 @@
    "e": "Black hole: Black hole."
   },
   {
-   "id": "general-science-00438",
+   "id": "general-science-00458",
    "q": "James Clerk Maxwell is known for which of the following?",
    "o": [
     "Boyle's law of gases",
@@ -6585,7 +6885,7 @@
    "e": "James Clerk Maxwell is known for Electromagnetic theory."
   },
   {
-   "id": "general-science-00439",
+   "id": "general-science-00459",
    "q": "Which instrument measures atmospheric pressure?",
    "o": [
     "Barometer",
@@ -6600,7 +6900,7 @@
    "e": "Which instrument measures atmospheric pressure — Barometer."
   },
   {
-   "id": "general-science-00440",
+   "id": "general-science-00460",
    "q": "National Broadband Mission is associated with which of the following?",
    "o": [
     "Broadband for all by 2024",
@@ -6615,7 +6915,7 @@
    "e": "National Broadband Mission — Broadband for all by 2024."
   },
   {
-   "id": "general-science-00441",
+   "id": "general-science-00461",
    "q": "Printer is best described as which of the following?",
    "o": [
     "Temporary storage for frequently used data",
@@ -6630,7 +6930,7 @@
    "e": "Printer — Output device that produces hard copies."
   },
   {
-   "id": "general-science-00442",
+   "id": "general-science-00462",
    "q": "Which pollutant is described as: Causes fluorosis in excess?",
    "o": [
     "Particulate matter PM 2.5",
@@ -6645,7 +6945,7 @@
    "e": "Causes fluorosis in excess is linked to Fluoride."
   },
   {
-   "id": "general-science-00443",
+   "id": "general-science-00463",
    "q": "Which element has the chemical symbol Cd?",
    "o": [
     "Hassium",
@@ -6660,7 +6960,7 @@
    "e": "Cd is the symbol of Cadmium."
   },
   {
-   "id": "general-science-00444",
+   "id": "general-science-00464",
    "q": "What is the SI unit of Illuminance?",
    "o": [
     "Mole",
@@ -6675,7 +6975,7 @@
    "e": "The SI unit of Illuminance is the Lux."
   },
   {
-   "id": "general-science-00445",
+   "id": "general-science-00465",
    "q": "Which instrument is used to measure Depth of the sea?",
    "o": [
     "Fathometer",
@@ -6690,7 +6990,7 @@
    "e": "Fathometer is used to measure Depth of the sea."
   },
   {
-   "id": "general-science-00446",
+   "id": "general-science-00466",
    "q": "What is the main function of the Small intestine in the human body?",
    "o": [
     "Clotting of blood",
@@ -6705,7 +7005,7 @@
    "e": "The Small intestine is responsible for Absorption of digested food."
   },
   {
-   "id": "general-science-00447",
+   "id": "general-science-00467",
    "q": "Which disease is caused by the deficiency of Vitamin B1?",
    "o": [
     "Pernicious anaemia",
@@ -6720,7 +7020,7 @@
    "e": "Deficiency of Vitamin B1 causes Beri Beri."
   },
   {
-   "id": "general-science-00448",
+   "id": "general-science-00468",
    "q": "Which of the following causes Leprosy?",
    "o": [
     "Entamoeba histolytica",
@@ -6735,7 +7035,7 @@
    "e": "Leprosy is caused by Mycobacterium leprae bacteria."
   },
   {
-   "id": "general-science-00449",
+   "id": "general-science-00469",
    "q": "Who is credited with Blood groups?",
    "o": [
     "Karl Landsteiner",
@@ -6750,7 +7050,7 @@
    "e": "Blood groups — Karl Landsteiner."
   },
   {
-   "id": "general-science-00450",
+   "id": "general-science-00470",
    "q": "What is the chemical name of Nitre / saltpetre?",
    "o": [
     "Potassium nitrate (KNO3)",
@@ -6765,7 +7065,7 @@
    "e": "Nitre / saltpetre is Potassium nitrate (KNO3)."
   },
   {
-   "id": "general-science-00451",
+   "id": "general-science-00471",
    "q": "Which branch of science deals with Light?",
    "o": [
     "Optics",
@@ -6780,7 +7080,7 @@
    "e": "Optics deals with Light."
   },
   {
-   "id": "general-science-00452",
+   "id": "general-science-00472",
    "q": "Which of the following statements about Earth is correct?",
    "o": [
     "Uranus",
@@ -6795,7 +7095,7 @@
    "e": "Earth: Earth."
   },
   {
-   "id": "general-science-00453",
+   "id": "general-science-00473",
    "q": "C. V. Raman is known for which of the following?",
    "o": [
     "Raman effect",
@@ -6810,7 +7110,7 @@
    "e": "C. V. Raman is known for Raman effect."
   },
   {
-   "id": "general-science-00454",
+   "id": "general-science-00474",
    "q": "Which planet is known as the Red Planet?",
    "o": [
     "Jupiter",
@@ -6825,7 +7125,7 @@
    "e": "Which planet is known as the Red Planet — Mars."
   },
   {
-   "id": "general-science-00455",
+   "id": "general-science-00475",
    "q": "National Digital Library is associated with which of the following?",
    "o": [
     "Online library for students",
@@ -6840,7 +7140,7 @@
    "e": "National Digital Library — Online library for students."
   },
   {
-   "id": "general-science-00456",
+   "id": "general-science-00476",
    "q": "Computer network is best described as which of the following?",
    "o": [
     "Software stored permanently on a hardware chip",
@@ -6855,7 +7155,7 @@
    "e": "Computer network — Two or more connected computers."
   },
   {
-   "id": "general-science-00457",
+   "id": "general-science-00477",
    "q": "Which pollutant is described as: Causes hearing loss?",
    "o": [
     "Noise above 85 decibels",
@@ -6870,7 +7170,7 @@
    "e": "Causes hearing loss is linked to Noise above 85 decibels."
   },
   {
-   "id": "general-science-00458",
+   "id": "general-science-00478",
    "q": "Which element has the chemical symbol Te?",
    "o": [
     "Radon",
@@ -6885,7 +7185,7 @@
    "e": "Te is the symbol of Tellurium."
   },
   {
-   "id": "general-science-00459",
+   "id": "general-science-00479",
    "q": "Which physical quantity is measured in Radian?",
    "o": [
     "Force",
@@ -6900,7 +7200,7 @@
    "e": "Radian is the SI unit of Plane angle."
   },
   {
-   "id": "general-science-00460",
+   "id": "general-science-00480",
    "q": "Which instrument is used to measure Multiple physiological responses?",
    "o": [
     "Telescope",
@@ -6915,7 +7215,7 @@
    "e": "Polygraph is used to measure Multiple physiological responses."
   },
   {
-   "id": "general-science-00461",
+   "id": "general-science-00481",
    "q": "What is the main function of the Testes in the human body?",
    "o": [
     "Body immunity",
@@ -6930,7 +7230,7 @@
    "e": "The Testes is responsible for Production of sperm."
   },
   {
-   "id": "general-science-00462",
+   "id": "general-science-00482",
    "q": "Which disease is caused by the deficiency of Vitamin C?",
    "o": [
     "Anaemia",
@@ -6945,7 +7245,7 @@
    "e": "Deficiency of Vitamin C causes Scurvy."
   },
   {
-   "id": "general-science-00463",
+   "id": "general-science-00483",
    "q": "Which of the following causes Gonorrhoea?",
    "o": [
     "Fungi",
@@ -6960,7 +7260,7 @@
    "e": "Gonorrhoea is caused by Neisseria gonorrhoeae bacteria."
   },
   {
-   "id": "general-science-00464",
+   "id": "general-science-00484",
    "q": "Who is credited with Law of planetary motion?",
    "o": [
     "William Harvey",
@@ -6975,7 +7275,7 @@
    "e": "Law of planetary motion — Johannes Kepler."
   },
   {
-   "id": "general-science-00465",
+   "id": "general-science-00485",
    "q": "What is the chemical name of Talc?",
    "o": [
     "Copper sulphate (CuSO4.5H2O)",
@@ -6990,7 +7290,7 @@
    "e": "Talc is Hydrated magnesium silicate."
   },
   {
-   "id": "general-science-00466",
+   "id": "general-science-00486",
    "q": "Which branch of science deals with Reptiles and amphibians?",
    "o": [
     "Oceanography",
@@ -7005,7 +7305,7 @@
    "e": "Herpetology deals with Reptiles and amphibians."
   },
   {
-   "id": "general-science-00467",
+   "id": "general-science-00487",
    "q": "Which of the following statements about Halley's Comet is correct?",
    "o": [
     "Halley's Comet",
@@ -7020,7 +7320,7 @@
    "e": "Halley's Comet: Halley's Comet."
   },
   {
-   "id": "general-science-00468",
+   "id": "general-science-00488",
    "q": "Jacques Charles is known for which of the following?",
    "o": [
     "Periodic table of elements",
@@ -7035,7 +7335,7 @@
    "e": "Jacques Charles is known for Charles's law of gases."
   },
   {
-   "id": "general-science-00469",
+   "id": "general-science-00489",
    "q": "Which is the most abundant element in the Earth's crust?",
    "o": [
     "Troposphere",
@@ -7050,7 +7350,7 @@
    "e": "Which is the most abundant element in the Earth's crust — Oxygen."
   },
   {
-   "id": "general-science-00470",
+   "id": "general-science-00490",
    "q": "DIKSHA is associated with which of the following?",
    "o": [
     "Digital infrastructure for school education",
@@ -7065,7 +7365,7 @@
    "e": "DIKSHA — Digital infrastructure for school education."
   },
   {
-   "id": "general-science-00471",
+   "id": "general-science-00491",
    "q": "HTTPS is best described as which of the following?",
    "o": [
     "Language that adds behaviour to web pages",
@@ -7080,7 +7380,7 @@
    "e": "HTTPS — Secure version of the web transfer protocol."
   },
   {
-   "id": "general-science-00472",
+   "id": "general-science-00492",
    "q": "Which pollutant is described as: Air pollution with fine particulate matter?",
    "o": [
     "Fly ash from thermal plants",
@@ -7095,7 +7395,7 @@
    "e": "Air pollution with fine particulate matter is linked to Fly ash from thermal plants."
   },
   {
-   "id": "general-science-00473",
+   "id": "general-science-00493",
    "q": "Which element has the chemical symbol Pt?",
    "o": [
     "Chromium",
@@ -7110,7 +7410,7 @@
    "e": "Pt is the symbol of Platinum."
   },
   {
-   "id": "general-science-00474",
+   "id": "general-science-00494",
    "q": "Which physical quantity is measured in Ohm?",
    "o": [
     "Temperature",
@@ -7125,7 +7425,7 @@
    "e": "Ohm is the SI unit of Electrical resistance."
   },
   {
-   "id": "general-science-00475",
+   "id": "general-science-00495",
    "q": "Which instrument is used to measure Internal body organs?",
    "o": [
     "Fathometer",
@@ -7140,7 +7440,7 @@
    "e": "Endoscope is used to measure Internal body organs."
   },
   {
-   "id": "general-science-00476",
+   "id": "general-science-00496",
    "q": "What is the main function of the Bone marrow in the human body?",
    "o": [
     "Production of blood cells",
@@ -7155,7 +7455,7 @@
    "e": "The Bone marrow is responsible for Production of blood cells."
   },
   {
-   "id": "general-science-00477",
+   "id": "general-science-00497",
    "q": "Which disease is caused by the deficiency of Phosphorus?",
    "o": [
     "Anaemia",
@@ -7170,7 +7470,7 @@
    "e": "Deficiency of Phosphorus causes Rickets in children."
   },
   {
-   "id": "general-science-00478",
+   "id": "general-science-00498",
    "q": "Which of the following causes Influenza?",
    "o": [
     "Influenza virus",
@@ -7185,7 +7485,7 @@
    "e": "Influenza is caused by Influenza virus."
   },
   {
-   "id": "general-science-00479",
+   "id": "general-science-00499",
    "q": "Who is credited with Printing press?",
    "o": [
     "Johannes Gutenberg",
@@ -7200,7 +7500,7 @@
    "e": "Printing press — Johannes Gutenberg."
   },
   {
-   "id": "general-science-00480",
+   "id": "general-science-00500",
    "q": "What is the chemical name of Aqua fortis?",
    "o": [
     "Potassium nitrate (KNO3)",
@@ -7215,7 +7515,7 @@
    "e": "Aqua fortis is Nitric acid (HNO3)."
   },
   {
-   "id": "general-science-00481",
+   "id": "general-science-00501",
    "q": "Which branch of science deals with Birds?",
    "o": [
     "Ornithology",
@@ -7230,7 +7530,7 @@
    "e": "Ornithology deals with Birds."
   },
   {
-   "id": "general-science-00482",
+   "id": "general-science-00502",
    "q": "Which of the following statements about Earth is correct?",
    "o": [
     "Comet",
@@ -7245,7 +7545,7 @@
    "e": "Earth: Earth."
   },
   {
-   "id": "general-science-00483",
+   "id": "general-science-00503",
    "q": "Amedeo Avogadro is known for which of the following?",
    "o": [
     "Molecular theory and Avogadro's law",
@@ -7260,7 +7560,7 @@
    "e": "Amedeo Avogadro is known for Molecular theory and Avogadro's law."
   },
   {
-   "id": "general-science-00484",
+   "id": "general-science-00504",
    "q": "What is the greenhouse gas most responsible for global warming?",
    "o": [
     "Carbon dioxide",
@@ -7275,7 +7575,7 @@
    "e": "What is the greenhouse gas most responsible for global warming — Carbon dioxide."
   },
   {
-   "id": "general-science-00485",
+   "id": "general-science-00505",
    "q": "Chandrayaan-3 is associated with which of the following?",
    "o": [
     "Promotion of fitness and sports",
@@ -7290,7 +7590,7 @@
    "e": "Chandrayaan-3 — Soft landing near the lunar south pole."
   },
   {
-   "id": "general-science-00486",
+   "id": "general-science-00506",
    "q": "Open source is best described as which of the following?",
    "o": [
     "Program that converts source code into machine code",
@@ -7305,7 +7605,7 @@
    "e": "Open source — Software whose source code is freely available."
   },
   {
-   "id": "general-science-00487",
+   "id": "general-science-00507",
    "q": "Which pollutant is described as: Destroy the ozone layer?",
    "o": [
     "Phosphate detergents",
@@ -7320,7 +7620,7 @@
    "e": "Destroy the ozone layer is linked to Chlorofluorocarbons."
   },
   {
-   "id": "general-science-00488",
+   "id": "general-science-00508",
    "q": "Which element has the chemical symbol Zr?",
    "o": [
     "Mercury",
@@ -7335,7 +7635,7 @@
    "e": "Zr is the symbol of Zirconium."
   },
   {
-   "id": "general-science-00489",
+   "id": "general-science-00509",
    "q": "Which physical quantity is measured in Henry?",
    "o": [
     "Luminous intensity",
@@ -7350,7 +7650,7 @@
    "e": "Henry is the SI unit of Inductance."
   },
   {
-   "id": "general-science-00490",
+   "id": "general-science-00510",
    "q": "Which instrument is used to measure Temperature?",
    "o": [
     "Periscope",
@@ -7365,7 +7665,7 @@
    "e": "Thermometer is used to measure Temperature."
   },
   {
-   "id": "general-science-00491",
+   "id": "general-science-00511",
    "q": "What is the main function of the Nephrons in the human body?",
    "o": [
     "Basic filtering units of the kidney",
@@ -7380,7 +7680,7 @@
    "e": "The Nephrons is responsible for Basic filtering units of the kidney."
   },
   {
-   "id": "general-science-00492",
+   "id": "general-science-00512",
    "q": "Which disease is caused by the deficiency of Vitamin B2?",
    "o": [
     "Muscle weakness",
@@ -7395,7 +7695,7 @@
    "e": "Deficiency of Vitamin B2 causes Ariboflavinosis."
   },
   {
-   "id": "general-science-00493",
+   "id": "general-science-00513",
    "q": "Which of the following causes Hepatitis A?",
    "o": [
     "Hepatitis A virus",
@@ -7410,7 +7710,7 @@
    "e": "Hepatitis A is caused by Hepatitis A virus."
   },
   {
-   "id": "general-science-00494",
+   "id": "general-science-00514",
    "q": "Who is credited with Thermometer (mercury)?",
    "o": [
     "Gregor Mendel",
@@ -7425,7 +7725,7 @@
    "e": "Thermometer (mercury) — Daniel Gabriel Fahrenheit."
   },
   {
-   "id": "general-science-00495",
+   "id": "general-science-00515",
    "q": "What is the chemical name of Baking soda?",
    "o": [
     "Ferrous sulphate (FeSO4.7H2O)",
@@ -7440,7 +7740,7 @@
    "e": "Baking soda is Sodium bicarbonate (NaHCO3)."
   },
   {
-   "id": "general-science-00496",
+   "id": "general-science-00516",
    "q": "Which branch of science deals with Beekeeping?",
    "o": [
     "Seismology",
@@ -7455,7 +7755,7 @@
    "e": "Apiculture deals with Beekeeping."
   },
   {
-   "id": "general-science-00497",
+   "id": "general-science-00517",
    "q": "Which of the following statements about Uranus is correct?",
    "o": [
     "Sixth",
@@ -7470,7 +7770,7 @@
    "e": "Uranus: Uranus."
   },
   {
-   "id": "general-science-00498",
+   "id": "general-science-00518",
    "q": "G. N. Ramachandran is known for which of the following?",
    "o": [
     "Father of modern chemistry",
@@ -7485,7 +7785,7 @@
    "e": "G. N. Ramachandran is known for Triple helical structure of collagen."
   },
   {
-   "id": "general-science-00499",
+   "id": "general-science-00519",
    "q": "Which layer of the atmosphere reflects radio waves?",
    "o": [
     "Ionosphere",
@@ -7500,7 +7800,7 @@
    "e": "Which layer of the atmosphere reflects radio waves — Ionosphere."
   },
   {
-   "id": "general-science-00500",
+   "id": "general-science-00520",
    "q": "e-Kranti is associated with which of the following?",
    "o": [
     "Electronic delivery of government services",
@@ -7515,7 +7815,7 @@
    "e": "e-Kranti — Electronic delivery of government services."
   },
   {
-   "id": "general-science-00501",
+   "id": "general-science-00521",
    "q": "Utility software is best described as which of the following?",
    "o": [
     "Program that maintains and optimises the system",
@@ -7530,7 +7830,7 @@
    "e": "Utility software — Program that maintains and optimises the system."
   },
   {
-   "id": "general-science-00502",
+   "id": "general-science-00522",
    "q": "Which pollutant is described as: Causes eutrophication of water bodies?",
    "o": [
     "Fly ash from thermal plants",
@@ -7545,7 +7845,7 @@
    "e": "Causes eutrophication of water bodies is linked to Nitrate from fertilisers."
   },
   {
-   "id": "general-science-00503",
+   "id": "general-science-00523",
    "q": "Which element has the chemical symbol Sr?",
    "o": [
     "Europium",
@@ -7560,7 +7860,7 @@
    "e": "Sr is the symbol of Strontium."
   },
   {
-   "id": "general-science-00504",
+   "id": "general-science-00524",
    "q": "Which physical quantity is measured in Joule?",
    "o": [
     "Radioactivity",
@@ -7575,7 +7875,7 @@
    "e": "Joule is the SI unit of Energy."
   },
   {
-   "id": "general-science-00505",
+   "id": "general-science-00525",
    "q": "Which instrument is used to measure Speed of a vehicle?",
    "o": [
     "Microscope",
@@ -7590,7 +7890,7 @@
    "e": "Speedometer is used to measure Speed of a vehicle."
   },
   {
-   "id": "general-science-00506",
+   "id": "general-science-00526",
    "q": "What is the main function of the Aorta in the human body?",
    "o": [
     "Digestion of food",
@@ -7605,7 +7905,7 @@
    "e": "The Aorta is responsible for Largest artery."
   },
   {
-   "id": "general-science-00507",
+   "id": "general-science-00527",
    "q": "Which disease is caused by the deficiency of Sodium?",
    "o": [
     "Goitre",
@@ -7620,7 +7920,7 @@
    "e": "Deficiency of Sodium causes Dehydration."
   },
   {
-   "id": "general-science-00508",
+   "id": "general-science-00528",
    "q": "Which of the following causes Sleeping sickness?",
    "o": [
     "Mycobacterium tuberculosis bacteria",
@@ -7635,7 +7935,7 @@
    "e": "Sleeping sickness is caused by Trypanosoma brucei."
   },
   {
-   "id": "general-science-00509",
+   "id": "general-science-00529",
    "q": "Who is credited with Microscope?",
    "o": [
     "Niels Bohr",
@@ -7650,7 +7950,7 @@
    "e": "Microscope — Antonie van Leeuwenhoek."
   },
   {
-   "id": "general-science-00510",
+   "id": "general-science-00530",
    "q": "What is the chemical name of Epsom salt?",
    "o": [
     "Calcium oxychloride (CaOCl2)",
@@ -7665,7 +7965,7 @@
    "e": "Epsom salt is Magnesium sulphate (MgSO4.7H2O)."
   },
   {
-   "id": "general-science-00511",
+   "id": "general-science-00531",
    "q": "Which branch of science deals with Fungi?",
    "o": [
     "Pharmacology",
@@ -7680,7 +7980,7 @@
    "e": "Mycology deals with Fungi."
   },
   {
-   "id": "general-science-00512",
+   "id": "general-science-00532",
    "q": "Which of the following statements about Lunar eclipse is correct?",
    "o": [
     "Lunar eclipse",
@@ -7695,7 +7995,7 @@
    "e": "Lunar eclipse: Lunar eclipse."
   },
   {
-   "id": "general-science-00513",
+   "id": "general-science-00533",
    "q": "Daniel Bernoulli is known for which of the following?",
    "o": [
     "Double helix structure of DNA",
@@ -7710,7 +8010,7 @@
    "e": "Daniel Bernoulli is known for Kinetic theory of gases."
   },
   {
-   "id": "general-science-00514",
+   "id": "general-science-00534",
    "q": "Which is the softest mineral?",
    "o": [
     "Hygrometer",
@@ -7725,7 +8025,7 @@
    "e": "Which is the softest mineral — Talc."
   },
   {
-   "id": "general-science-00515",
+   "id": "general-science-00535",
    "q": "National Skill Development Mission is associated with which of the following?",
    "o": [
     "Green hydrogen production and export hub",
@@ -7740,7 +8040,7 @@
    "e": "National Skill Development Mission — Skilling and vocational training."
   },
   {
-   "id": "general-science-00516",
+   "id": "general-science-00536",
    "q": "Cache hit is best described as which of the following?",
    "o": [
     "Two or more connected computers",
@@ -7755,7 +8055,7 @@
    "e": "Cache hit — When data requested is found in cache memory."
   },
   {
-   "id": "general-science-00517",
+   "id": "general-science-00537",
    "q": "Which pollutant is described as: Persists in the environment for centuries?",
    "o": [
     "Phosphate detergents",
@@ -7770,7 +8070,7 @@
    "e": "Persists in the environment for centuries is linked to Plastic waste."
   },
   {
-   "id": "general-science-00518",
+   "id": "general-science-00538",
    "q": "Which element has the chemical symbol S?",
    "o": [
     "Moscovium",
@@ -7785,7 +8085,7 @@
    "e": "S is the symbol of Sulphur."
   },
   {
-   "id": "general-science-00519",
+   "id": "general-science-00539",
    "q": "Which physical quantity is measured in Lux?",
    "o": [
     "Electrical resistance",
@@ -7800,7 +8100,7 @@
    "e": "Lux is the SI unit of Illuminance."
   },
   {
-   "id": "general-science-00520",
+   "id": "general-science-00540",
    "q": "Which instrument is used to measure Humidity?",
    "o": [
     "Odometer",
@@ -7815,7 +8115,7 @@
    "e": "Hygroscope is used to measure Humidity."
   },
   {
-   "id": "general-science-00521",
+   "id": "general-science-00541",
    "q": "What is the main function of the Thyroid gland in the human body?",
    "o": [
     "Largest artery",
@@ -7830,7 +8130,7 @@
    "e": "The Thyroid gland is responsible for Secretion of thyroxine."
   },
   {
-   "id": "general-science-00522",
+   "id": "general-science-00542",
    "q": "Which disease is caused by the deficiency of Vitamin E?",
    "o": [
     "Pellagra",
@@ -7845,7 +8145,7 @@
    "e": "Deficiency of Vitamin E causes Haemolysis of red blood cells."
   },
   {
-   "id": "general-science-00523",
+   "id": "general-science-00543",
    "q": "Which of the following causes Plague?",
    "o": [
     "Trypanosoma brucei",
@@ -7860,7 +8160,7 @@
    "e": "Plague is caused by Yersinia pestis bacteria."
   },
   {
-   "id": "general-science-00524",
+   "id": "general-science-00544",
    "q": "Who is credited with Circulation of blood?",
    "o": [
     "William Harvey",
@@ -7875,7 +8175,7 @@
    "e": "Circulation of blood — William Harvey."
   },
   {
-   "id": "general-science-00525",
+   "id": "general-science-00545",
    "q": "What is the chemical name of Vinegar?",
    "o": [
     "Sodium bicarbonate and tartaric acid",
@@ -7890,7 +8190,7 @@
    "e": "Vinegar is Acetic acid (CH3COOH)."
   },
   {
-   "id": "general-science-00526",
+   "id": "general-science-00546",
    "q": "Which branch of science deals with Oceans?",
    "o": [
     "Oceanography",
@@ -7905,7 +8205,7 @@
    "e": "Oceanography deals with Oceans."
   },
   {
-   "id": "general-science-00527",
+   "id": "general-science-00547",
    "q": "Which of the following statements about Uranus is correct?",
    "o": [
     "Solar eclipse",
@@ -7920,7 +8220,7 @@
    "e": "Uranus: Seventh."
   },
   {
-   "id": "general-science-00528",
+   "id": "general-science-00548",
    "q": "Dmitri Mendeleev is known for which of the following?",
    "o": [
     "Periodic table of elements",
@@ -7935,7 +8235,7 @@
    "e": "Dmitri Mendeleev is known for Periodic table of elements."
   },
   {
-   "id": "general-science-00529",
+   "id": "general-science-00549",
    "q": "Which planet has the shortest day?",
    "o": [
     "Loo",
@@ -7950,7 +8250,7 @@
    "e": "Which planet has the shortest day — Jupiter."
   },
   {
-   "id": "general-science-00530",
+   "id": "general-science-00550",
    "q": "HRIDAY is associated with which of the following?",
    "o": [
     "Heritage city development and rejuvenation",
@@ -7965,7 +8265,7 @@
    "e": "HRIDAY — Heritage city development and rejuvenation."
   },
   {
-   "id": "general-science-00531",
+   "id": "general-science-00551",
    "q": "Application software is best described as which of the following?",
    "o": [
     "Program that performs a user task",
@@ -7980,7 +8280,7 @@
    "e": "Application software — Program that performs a user task."
   },
   {
-   "id": "general-science-00532",
+   "id": "general-science-00552",
    "q": "Which pollutant is described as: Fine particles that reach deep into the lungs?",
    "o": [
     "Electronic waste",
@@ -7995,7 +8295,7 @@
    "e": "Fine particles that reach deep into the lungs is linked to Particulate matter PM 2.5."
   },
   {
-   "id": "general-science-00533",
+   "id": "general-science-00553",
    "q": "Which element has the chemical symbol Ne?",
    "o": [
     "Neon",
@@ -8010,7 +8310,7 @@
    "e": "Ne is the symbol of Neon."
   },
   {
-   "id": "general-science-00534",
+   "id": "general-science-00554",
    "q": "Which physical quantity is measured in Siemens?",
    "o": [
     "Force",
@@ -8025,7 +8325,7 @@
    "e": "Siemens is the SI unit of Electrical conductance."
   },
   {
-   "id": "general-science-00535",
+   "id": "general-science-00555",
    "q": "Which instrument is used to measure Heart electrical activity?",
    "o": [
     "Tachometer",
@@ -8040,7 +8340,7 @@
    "e": "Electrocardiogram machine is used to measure Heart electrical activity."
   },
   {
-   "id": "general-science-00536",
+   "id": "general-science-00556",
    "q": "Which body part performs the function of Exchange of oxygen and carbon dioxide?",
    "o": [
     "Brain",
@@ -8055,7 +8355,7 @@
    "e": "Exchange of oxygen and carbon dioxide is performed by the Alveoli."
   },
   {
-   "id": "general-science-00537",
+   "id": "general-science-00557",
    "q": "Which disease is caused by the deficiency of Zinc?",
    "o": [
     "Rickets in children",
@@ -8070,7 +8370,7 @@
    "e": "Deficiency of Zinc causes Growth retardation."
   },
   {
-   "id": "general-science-00538",
+   "id": "general-science-00558",
    "q": "Human Immunodeficiency Virus causes which of the following diseases?",
    "o": [
     "Cholera",
@@ -8085,7 +8385,7 @@
    "e": "Human Immunodeficiency Virus causes AIDS."
   },
   {
-   "id": "general-science-00539",
+   "id": "general-science-00559",
    "q": "Who is credited with Transistor?",
    "o": [
     "Henry Cavendish",
@@ -8100,7 +8400,7 @@
    "e": "Transistor — John Bardeen and colleagues."
   },
   {
-   "id": "general-science-00540",
+   "id": "general-science-00560",
    "q": "What is the chemical name of Carbolic acid?",
    "o": [
     "Sodium sulphate (Na2SO4)",
@@ -8115,7 +8415,7 @@
    "e": "Carbolic acid is Phenol (C6H5OH)."
   },
   {
-   "id": "general-science-00541",
+   "id": "general-science-00561",
    "q": "Which branch of science deals with Tissues?",
    "o": [
     "Nuclear physics",
@@ -8130,7 +8430,7 @@
    "e": "Histology deals with Tissues."
   },
   {
-   "id": "general-science-00542",
+   "id": "general-science-00562",
    "q": "Which of the following statements about Earth is correct?",
    "o": [
     "Jupiter",
@@ -8145,7 +8445,7 @@
    "e": "Earth: Third."
   },
   {
-   "id": "general-science-00543",
+   "id": "general-science-00563",
    "q": "Alessandro Volta is known for which of the following?",
    "o": [
     "Missile and space launch technology",
@@ -8160,7 +8460,7 @@
    "e": "Alessandro Volta is known for Electric battery."
   },
   {
-   "id": "general-science-00544",
+   "id": "general-science-00564",
    "q": "Which instrument measures humidity?",
    "o": [
     "Rain gauge",
@@ -8175,7 +8475,7 @@
    "e": "Which instrument measures humidity — Hygrometer."
   },
   {
-   "id": "general-science-00545",
+   "id": "general-science-00565",
    "q": "Faster Adoption and Manufacturing of Electric Vehicles is associated with which of the following?",
    "o": [
     "Electric vehicle promotion",
@@ -8190,7 +8490,7 @@
    "e": "Faster Adoption and Manufacturing of Electric Vehicles — Electric vehicle promotion."
   },
   {
-   "id": "general-science-00546",
+   "id": "general-science-00566",
    "q": "Switch is best described as which of the following?",
    "o": [
     "Program that converts assembly language to machine code",
@@ -8205,7 +8505,7 @@
    "e": "Switch — Device that connects devices inside a network."
   },
   {
-   "id": "general-science-00547",
+   "id": "general-science-00567",
    "q": "Which pollutant is described as: Traps heat and causes global warming?",
    "o": [
     "Carbon dioxide",
@@ -8220,7 +8520,7 @@
    "e": "Traps heat and causes global warming is linked to Carbon dioxide."
   },
   {
-   "id": "general-science-00548",
+   "id": "general-science-00568",
    "q": "Which element has the chemical symbol Ba?",
    "o": [
     "Polonium",
@@ -8235,7 +8535,7 @@
    "e": "Ba is the symbol of Barium."
   },
   {
-   "id": "general-science-00549",
+   "id": "general-science-00569",
    "q": "Which physical quantity is measured in Ampere?",
    "o": [
     "Power",
@@ -8250,7 +8550,7 @@
    "e": "Ampere is the SI unit of Electric current."
   },
   {
-   "id": "general-science-00550",
+   "id": "general-science-00570",
    "q": "Which instrument is used to measure Water absorption by plants?",
    "o": [
     "Galvanometer",
@@ -8265,7 +8565,7 @@
    "e": "Potometer is used to measure Water absorption by plants."
   },
   {
-   "id": "general-science-00551",
+   "id": "general-science-00571",
    "q": "Which body part performs the function of Protection and temperature regulation?",
    "o": [
     "Alveoli",
@@ -8280,7 +8580,7 @@
    "e": "Protection and temperature regulation is performed by the Skin."
   },
   {
-   "id": "general-science-00552",
+   "id": "general-science-00572",
    "q": "Which disease is caused by the deficiency of Vitamin B9?",
    "o": [
     "Growth retardation",
@@ -8295,7 +8595,7 @@
    "e": "Deficiency of Vitamin B9 causes Megaloblastic anaemia."
   },
   {
-   "id": "general-science-00553",
+   "id": "general-science-00573",
    "q": "Poliovirus causes which of the following diseases?",
    "o": [
     "AIDS",
@@ -8310,7 +8610,7 @@
    "e": "Poliovirus causes Poliomyelitis."
   },
   {
-   "id": "general-science-00554",
+   "id": "general-science-00574",
    "q": "Who is credited with Nitrogen?",
    "o": [
     "Albert Einstein",
@@ -8325,7 +8625,7 @@
    "e": "Nitrogen — Daniel Rutherford."
   },
   {
-   "id": "general-science-00555",
+   "id": "general-science-00575",
    "q": "What is the chemical name of TNT?",
    "o": [
     "Calcium carbonate (CaCO3)",
@@ -8340,7 +8640,7 @@
    "e": "TNT is Trinitrotoluene."
   },
   {
-   "id": "general-science-00556",
+   "id": "general-science-00576",
    "q": "Which branch of science deals with Postage stamps?",
    "o": [
     "Astrophysics",
@@ -8355,7 +8655,7 @@
    "e": "Philately deals with Postage stamps."
   },
   {
-   "id": "general-science-00557",
+   "id": "general-science-00577",
    "q": "Which of the following statements about Venus is correct?",
    "o": [
     "Earth",
@@ -8370,7 +8670,7 @@
    "e": "Venus: Second."
   },
   {
-   "id": "general-science-00558",
+   "id": "general-science-00578",
    "q": "P. C. Mahalanobis is known for which of the following?",
    "o": [
     "Quantum theory",
@@ -8385,7 +8685,7 @@
    "e": "P. C. Mahalanobis is known for Statistics and Indian planning."
   },
   {
-   "id": "general-science-00559",
+   "id": "general-science-00579",
    "q": "Which type of rock is formed from sediments?",
    "o": [
     "Ionosphere",
@@ -8400,7 +8700,7 @@
    "e": "Which type of rock is formed from sediments — Sedimentary rock."
   },
   {
-   "id": "general-science-00560",
+   "id": "general-science-00580",
    "q": "GSLV Mk III is associated with which of the following?",
    "o": [
     "Lunar orbiter studying the Moon",
@@ -8415,7 +8715,7 @@
    "e": "GSLV Mk III — India's heavy lift launch vehicle."
   },
   {
-   "id": "general-science-00561",
+   "id": "general-science-00581",
    "q": "Worm is best described as which of the following?",
    "o": [
     "Malicious program that spreads on its own",
@@ -8430,7 +8730,7 @@
    "e": "Worm — Malicious program that spreads on its own."
   },
   {
-   "id": "general-science-00562",
+   "id": "general-science-00582",
    "q": "Which pollutant is described as: Raises water temperature and harms aquatic life?",
    "o": [
     "Radioactive waste",
@@ -8445,7 +8745,7 @@
    "e": "Raises water temperature and harms aquatic life is linked to Thermal discharge from power plants."
   },
   {
-   "id": "general-science-00563",
+   "id": "general-science-00583",
    "q": "Which element has the chemical symbol Rg?",
    "o": [
     "Roentgenium",
@@ -8460,7 +8760,7 @@
    "e": "Rg is the symbol of Roentgenium."
   },
   {
-   "id": "general-science-00564",
+   "id": "general-science-00584",
    "q": "Which physical quantity is measured in Farad?",
    "o": [
     "Radioactivity",
@@ -8475,7 +8775,7 @@
    "e": "Farad is the SI unit of Capacitance."
   },
   {
-   "id": "general-science-00565",
+   "id": "general-science-00585",
    "q": "Which instrument is used to measure Hearing sensitivity?",
    "o": [
     "Chronometer",
@@ -8490,7 +8790,7 @@
    "e": "Audiometer is used to measure Hearing sensitivity."
   },
   {
-   "id": "general-science-00566",
+   "id": "general-science-00586",
    "q": "Which body part performs the function of Pumping blood?",
    "o": [
     "Hemoglobin",
@@ -8505,7 +8805,7 @@
    "e": "Pumping blood is performed by the Heart."
   },
   {
-   "id": "general-science-00567",
+   "id": "general-science-00587",
    "q": "Which disease is caused by the deficiency of Vitamin A?",
    "o": [
     "Haemolysis of red blood cells",
@@ -8520,7 +8820,7 @@
    "e": "Deficiency of Vitamin A causes Night blindness."
   },
   {
-   "id": "general-science-00568",
+   "id": "general-science-00588",
    "q": "Plasmodium causes which of the following diseases?",
    "o": [
     "Common cold",
@@ -8535,7 +8835,7 @@
    "e": "Plasmodium causes Malaria."
   },
   {
-   "id": "general-science-00569",
+   "id": "general-science-00589",
    "q": "Who is credited with Law of heredity?",
    "o": [
     "Isaac Newton",
@@ -8550,7 +8850,7 @@
    "e": "Law of heredity — Gregor Mendel."
   },
   {
-   "id": "general-science-00570",
+   "id": "general-science-00590",
    "q": "What is the chemical name of Milk of magnesia?",
    "o": [
     "Deuterium oxide (D2O)",
@@ -8565,7 +8865,7 @@
    "e": "Milk of magnesia is Magnesium hydroxide (Mg(OH)2)."
   },
   {
-   "id": "general-science-00571",
+   "id": "general-science-00591",
    "q": "Which branch of science deals with Earthquakes?",
    "o": [
     "Astronomy",
@@ -8580,7 +8880,7 @@
    "e": "Seismology deals with Earthquakes."
   },
   {
-   "id": "general-science-00572",
+   "id": "general-science-00592",
    "q": "Which of the following statements about Jupiter is correct?",
    "o": [
     "Jupiter",
@@ -8595,7 +8895,7 @@
    "e": "Jupiter: Jupiter."
   },
   {
-   "id": "general-science-00573",
+   "id": "general-science-00593",
    "q": "Antoine Lavoisier is known for which of the following?",
    "o": [
     "Electromagnetic theory",
@@ -8610,7 +8910,7 @@
    "e": "Antoine Lavoisier is known for Father of modern chemistry."
   },
   {
-   "id": "general-science-00574",
+   "id": "general-science-00594",
    "q": "What is the seasonal reversal of winds called?",
    "o": [
     "Ionosphere",
@@ -8625,7 +8925,7 @@
    "e": "What is the seasonal reversal of winds called — Monsoon."
   },
   {
-   "id": "general-science-00575",
+   "id": "general-science-00595",
    "q": "Ek Bharat Shreshtha Bharat is associated with which of the following?",
    "o": [
     "Integrated bill payment platform",
@@ -8640,7 +8940,7 @@
    "e": "Ek Bharat Shreshtha Bharat — Cultural integration across states."
   },
   {
-   "id": "general-science-00576",
+   "id": "general-science-00596",
    "q": "DBMS is best described as which of the following?",
    "o": [
     "L1, L2 and L3 are cache levels",
@@ -8655,7 +8955,7 @@
    "e": "DBMS — Software that manages databases."
   },
   {
-   "id": "general-science-00577",
+   "id": "general-science-00597",
    "q": "Which pollutant is described as: Causes acid rain?",
    "o": [
     "Noise above 85 decibels",
@@ -8670,7 +8970,7 @@
    "e": "Causes acid rain is linked to Sulphur dioxide."
   },
   {
-   "id": "general-science-00578",
+   "id": "general-science-00598",
    "q": "Which element has the chemical symbol Kr?",
    "o": [
     "Copernicium",
@@ -8685,7 +8985,7 @@
    "e": "Kr is the symbol of Krypton."
   },
   {
-   "id": "general-science-00579",
+   "id": "general-science-00599",
    "q": "Which physical quantity is measured in Volt?",
    "o": [
     "Temperature",
@@ -8700,7 +9000,7 @@
    "e": "Volt is the SI unit of Electric potential."
   },
   {
-   "id": "general-science-00580",
+   "id": "general-science-00600",
    "q": "Which instrument is used to measure Wind speed?",
    "o": [
     "Spherometer",
@@ -8715,7 +9015,7 @@
    "e": "Anemometer is used to measure Wind speed."
   },
   {
-   "id": "general-science-00581",
+   "id": "general-science-00601",
    "q": "Which body part performs the function of Basic filtering units of the kidney?",
    "o": [
     "Nephrons",
@@ -8730,7 +9030,7 @@
    "e": "Basic filtering units of the kidney is performed by the Nephrons."
   },
   {
-   "id": "general-science-00582",
+   "id": "general-science-00602",
    "q": "Which disease is caused by the deficiency of Vitamin B7?",
    "o": [
     "Dermatitis",
@@ -8745,7 +9045,7 @@
    "e": "Deficiency of Vitamin B7 causes Dermatitis."
   },
   {
-   "id": "general-science-00583",
+   "id": "general-science-00603",
    "q": "Hepatitis A virus causes which of the following diseases?",
    "o": [
     "Hepatitis A",
@@ -8760,7 +9060,7 @@
    "e": "Hepatitis A virus causes Hepatitis A."
   },
   {
-   "id": "general-science-00584",
+   "id": "general-science-00604",
    "q": "Who is credited with DNA double helix structure?",
    "o": [
     "Daniel Gabriel Fahrenheit",
@@ -8775,7 +9075,7 @@
    "e": "DNA double helix structure — Watson and Crick."
   },
   {
-   "id": "general-science-00585",
+   "id": "general-science-00605",
    "q": "What is the chemical name of Lime water?",
    "o": [
     "Ethanol (C2H5OH)",
@@ -8790,7 +9090,7 @@
    "e": "Lime water is Calcium hydroxide (Ca(OH)2)."
   },
   {
-   "id": "general-science-00586",
+   "id": "general-science-00606",
    "q": "Which branch of science deals with Sound?",
    "o": [
     "Apiculture",
@@ -8805,7 +9105,7 @@
    "e": "Acoustics deals with Sound."
   },
   {
-   "id": "general-science-00587",
+   "id": "general-science-00607",
    "q": "Which of the following statements about Andromeda is correct?",
    "o": [
     "First",
@@ -8820,7 +9120,7 @@
    "e": "Andromeda: Andromeda."
   },
   {
-   "id": "general-science-00588",
+   "id": "general-science-00608",
    "q": "S. N. Bose is known for which of the following?",
    "o": [
     "Triple helical structure of collagen",
@@ -8835,7 +9135,7 @@
    "e": "S. N. Bose is known for Bose-Einstein statistics."
   },
   {
-   "id": "general-science-00589",
+   "id": "general-science-00609",
    "q": "What is the local storm of West Bengal in summer called?",
    "o": [
     "Epicentre",
@@ -8850,7 +9150,7 @@
    "e": "What is the local storm of West Bengal in summer called — Norwester (Kal Baisakhi)."
   },
   {
-   "id": "general-science-00590",
+   "id": "general-science-00610",
    "q": "Navic-1 is associated with which of the following?",
    "o": [
     "Regional navigation satellite",
@@ -8865,7 +9165,7 @@
    "e": "Navic-1 — Regional navigation satellite."
   },
   {
-   "id": "general-science-00591",
+   "id": "general-science-00611",
    "q": "Assembler is best described as which of the following?",
    "o": [
     "Field that uniquely identifies a record",
@@ -8880,7 +9180,7 @@
    "e": "Assembler — Program that converts assembly language to machine code."
   },
   {
-   "id": "general-science-00592",
+   "id": "general-science-00612",
    "q": "Which pollutant is described as: Potent greenhouse gas from livestock and paddy fields?",
    "o": [
     "Particulate matter PM 2.5",
@@ -8895,7 +9195,7 @@
    "e": "Potent greenhouse gas from livestock and paddy fields is linked to Methane."
   },
   {
-   "id": "general-science-00593",
+   "id": "general-science-00613",
    "q": "Which element has the chemical symbol Rh?",
    "o": [
     "Rhodium",
@@ -8910,7 +9210,7 @@
    "e": "Rh is the symbol of Rhodium."
   },
   {
-   "id": "general-science-00594",
+   "id": "general-science-00614",
    "q": "Which physical quantity is measured in Watt?",
    "o": [
     "Power",
@@ -8925,7 +9225,7 @@
    "e": "Watt is the SI unit of Power."
   },
   {
-   "id": "general-science-00595",
+   "id": "general-science-00615",
    "q": "Which instrument is used to measure Distant objects?",
    "o": [
     "Speedometer",
@@ -8940,7 +9240,7 @@
    "e": "Telescope is used to measure Distant objects."
   },
   {
-   "id": "general-science-00596",
+   "id": "general-science-00616",
    "q": "Which body part performs the function of Secretion of insulin?",
    "o": [
     "Kidneys",
@@ -8955,7 +9255,7 @@
    "e": "Secretion of insulin is performed by the Pancreas."
   },
   {
-   "id": "general-science-00597",
+   "id": "general-science-00617",
    "q": "Which disease is caused by the deficiency of Iron?",
    "o": [
     "Tetany",
@@ -8970,7 +9270,7 @@
    "e": "Deficiency of Iron causes Anaemia."
   },
   {
-   "id": "general-science-00598",
+   "id": "general-science-00618",
    "q": "Corynebacterium diphtheriae bacteria causes which of the following diseases?",
    "o": [
     "Typhoid",
@@ -8985,7 +9285,7 @@
    "e": "Corynebacterium diphtheriae bacteria causes Diphtheria."
   },
   {
-   "id": "general-science-00599",
+   "id": "general-science-00619",
    "q": "Who is credited with Stethoscope?",
    "o": [
     "James Young Simpson",
@@ -9000,7 +9300,7 @@
    "e": "Stethoscope — Rene Laennec."
   },
   {
-   "id": "general-science-00600",
+   "id": "general-science-00620",
    "q": "What is the chemical name of Blue vitriol?",
    "o": [
     "Magnesium sulphate (MgSO4.7H2O)",
@@ -9015,7 +9315,7 @@
    "e": "Blue vitriol is Copper sulphate (CuSO4.5H2O)."
   },
   {
-   "id": "general-science-00601",
+   "id": "general-science-00621",
    "q": "Which branch of science deals with Motion and forces?",
    "o": [
     "Etymology",
@@ -9030,7 +9330,7 @@
    "e": "Mechanics deals with Motion and forces."
   },
   {
-   "id": "general-science-00602",
+   "id": "general-science-00622",
    "q": "Which of the following statements about Mars is correct?",
    "o": [
     "Third",
@@ -9045,7 +9345,7 @@
    "e": "Mars: Red Planet."
   },
   {
-   "id": "general-science-00603",
+   "id": "general-science-00623",
    "q": "Homi Bhabha is known for which of the following?",
    "o": [
     "Palaeobotany in India",
@@ -9060,7 +9360,7 @@
    "e": "Homi Bhabha is known for Indian nuclear programme."
   },
   {
-   "id": "general-science-00604",
+   "id": "general-science-00624",
    "q": "What is the calm centre of a cyclone called?",
    "o": [
     "Stratosphere",
@@ -9075,7 +9375,7 @@
    "e": "What is the calm centre of a cyclone called — Eye."
   },
   {
-   "id": "general-science-00605",
+   "id": "general-science-00625",
    "q": "RISAT is associated with which of the following?",
    "o": [
     "India's first Mars orbiter mission",
@@ -9090,7 +9390,7 @@
    "e": "RISAT — Radar imaging satellites for all-weather observation."
   },
   {
-   "id": "general-science-00606",
+   "id": "general-science-00626",
    "q": "Pen drive is best described as which of the following?",
    "o": [
     "Small file stored by a website in the browser",
@@ -9105,7 +9405,7 @@
    "e": "Pen drive — Portable USB flash storage device."
   },
   {
-   "id": "general-science-00607",
+   "id": "general-science-00627",
    "q": "Which pollutant is described as: Bioaccumulates and damages the brain?",
    "o": [
     "Methane",
@@ -9120,7 +9420,7 @@
    "e": "Bioaccumulates and damages the brain is linked to Mercury."
   },
   {
-   "id": "general-science-00608",
+   "id": "general-science-00628",
    "q": "Which element has the chemical symbol Ga?",
    "o": [
     "Plutonium",
@@ -9135,7 +9435,7 @@
    "e": "Ga is the symbol of Gallium."
   },
   {
-   "id": "general-science-00609",
+   "id": "general-science-00629",
    "q": "Which physical quantity is measured in Joule per Kelvin?",
    "o": [
     "Capacitance",
@@ -9150,7 +9450,7 @@
    "e": "Joule per Kelvin is the SI unit of Entropy."
   },
   {
-   "id": "general-science-00610",
+   "id": "general-science-00630",
    "q": "Voltmeter is used for which of the following purposes?",
    "o": [
     "Electric potential difference",
@@ -9165,7 +9465,7 @@
    "e": "Voltmeter measures Electric potential difference."
   },
   {
-   "id": "general-science-00611",
+   "id": "general-science-00631",
    "q": "Which body part performs the function of Taste and speech?",
    "o": [
     "Plasma",
@@ -9180,7 +9480,7 @@
    "e": "Taste and speech is performed by the Tongue."
   },
   {
-   "id": "general-science-00612",
+   "id": "general-science-00632",
    "q": "Which disease is caused by the deficiency of Fluorine?",
    "o": [
     "Tooth decay",
@@ -9195,7 +9495,7 @@
    "e": "Deficiency of Fluorine causes Tooth decay."
   },
   {
-   "id": "general-science-00613",
+   "id": "general-science-00633",
    "q": "Variola virus causes which of the following diseases?",
    "o": [
     "Athlete's foot",
@@ -9210,7 +9510,7 @@
    "e": "Variola virus causes Smallpox."
   },
   {
-   "id": "general-science-00614",
+   "id": "general-science-00634",
    "q": "Who is credited with Refrigerator?",
    "o": [
     "Jacob Perkins",
@@ -9225,7 +9525,7 @@
    "e": "Refrigerator — Jacob Perkins."
   },
   {
-   "id": "general-science-00615",
+   "id": "general-science-00635",
    "q": "Calcium carbonate (CaCO3) is commonly known as which of the following?",
    "o": [
     "Chalk",
@@ -9240,7 +9540,7 @@
    "e": "Calcium carbonate (CaCO3) is commonly known as Chalk."
   },
   {
-   "id": "general-science-00616",
+   "id": "general-science-00636",
    "q": "Which branch of science deals with Classification of organisms?",
    "o": [
     "Taxonomy",
@@ -9255,7 +9555,7 @@
    "e": "Taxonomy deals with Classification of organisms."
   },
   {
-   "id": "general-science-00617",
+   "id": "general-science-00637",
    "q": "Which of the following statements about Jupiter is correct?",
    "o": [
     "Aurora",
@@ -9270,7 +9570,7 @@
    "e": "Jupiter: Largest planet."
   },
   {
-   "id": "general-science-00618",
+   "id": "general-science-00638",
    "q": "Lord Kelvin is known for which of the following?",
    "o": [
     "Absolute temperature scale",
@@ -9285,7 +9585,7 @@
    "e": "Lord Kelvin is known for Absolute temperature scale."
   },
   {
-   "id": "general-science-00619",
+   "id": "general-science-00639",
    "q": "Which gas is most abundant in the Earth's atmosphere?",
    "o": [
     "Norwester (Kal Baisakhi)",
@@ -9300,7 +9600,7 @@
    "e": "Which gas is most abundant in the Earth's atmosphere — Nitrogen."
   },
   {
-   "id": "general-science-00620",
+   "id": "general-science-00640",
    "q": "Project Dolphin is associated with which of the following?",
    "o": [
     "Cloud computing initiative of the government",
@@ -9315,7 +9615,7 @@
    "e": "Project Dolphin — Conservation of river and marine dolphins."
   },
   {
-   "id": "general-science-00621",
+   "id": "general-science-00641",
    "q": "Spyware is best described as which of the following?",
    "o": [
     "Smallest unit of digital data",
@@ -9330,7 +9630,7 @@
    "e": "Spyware — Software that secretly collects information."
   },
   {
-   "id": "general-science-00622",
+   "id": "general-science-00642",
    "q": "Which of the following pairs of pollutant and effect is correctly matched?",
    "o": [
     "Lead - Bioaccumulates and damages the brain",
@@ -9345,7 +9645,7 @@
    "e": "Only Lead - Damages the nervous system is correctly matched."
   },
   {
-   "id": "general-science-00623",
+   "id": "general-science-00643",
    "q": "Which element has the chemical symbol Pm?",
    "o": [
     "Thallium",
@@ -9360,7 +9660,7 @@
    "e": "Pm is the symbol of Promethium."
   },
   {
-   "id": "general-science-00624",
+   "id": "general-science-00644",
    "q": "Which physical quantity is measured in Newton?",
    "o": [
     "Force",
@@ -9375,7 +9675,7 @@
    "e": "Newton is the SI unit of Force."
   },
   {
-   "id": "general-science-00625",
+   "id": "general-science-00645",
    "q": "Spherometer is used for which of the following purposes?",
    "o": [
     "Curvature of surfaces",
@@ -9390,7 +9690,7 @@
    "e": "Spherometer measures Curvature of surfaces."
   },
   {
-   "id": "general-science-00626",
+   "id": "general-science-00646",
    "q": "Which body part performs the function of Control centre of the body?",
    "o": [
     "Brain",
@@ -9405,7 +9705,7 @@
    "e": "Control centre of the body is performed by the Brain."
   },
   {
-   "id": "general-science-00627",
+   "id": "general-science-00647",
    "q": "Which disease is caused by the deficiency of Calcium?",
    "o": [
     "Scurvy",
@@ -9420,7 +9720,7 @@
    "e": "Deficiency of Calcium causes Osteoporosis."
   },
   {
-   "id": "general-science-00628",
+   "id": "general-science-00648",
    "q": "Vibrio cholerae bacteria causes which of the following diseases?",
    "o": [
     "Cholera",
@@ -9435,7 +9735,7 @@
    "e": "Vibrio cholerae bacteria causes Cholera."
   },
   {
-   "id": "general-science-00629",
+   "id": "general-science-00649",
    "q": "Who is credited with Electron?",
    "o": [
     "J. J. Thomson",
@@ -9450,7 +9750,7 @@
    "e": "Electron — J. J. Thomson."
   },
   {
-   "id": "general-science-00630",
+   "id": "general-science-00650",
    "q": "Ethanol (C2H5OH) is commonly known as which of the following?",
    "o": [
     "Alcohol",
@@ -9465,7 +9765,7 @@
    "e": "Ethanol (C2H5OH) is commonly known as Alcohol."
   },
   {
-   "id": "general-science-00631",
+   "id": "general-science-00651",
    "q": "Which branch of science deals with Eyes?",
    "o": [
     "Ophthalmology",
@@ -9480,7 +9780,7 @@
    "e": "Ophthalmology deals with Eyes."
   },
   {
-   "id": "general-science-00632",
+   "id": "general-science-00652",
    "q": "Which of the following statements about Milky Way is correct?",
    "o": [
     "Smallest planet",
@@ -9495,7 +9795,7 @@
    "e": "Milky Way: Milky Way."
   },
   {
-   "id": "general-science-00633",
+   "id": "general-science-00653",
    "q": "Alexander Graham Bell is known for which of the following?",
    "o": [
     "Telephone",
@@ -9510,7 +9810,7 @@
    "e": "Alexander Graham Bell is known for Telephone."
   },
   {
-   "id": "general-science-00634",
+   "id": "general-science-00654",
    "q": "What are the pre-monsoon showers in Karnataka called?",
    "o": [
     "October to November",
@@ -9525,7 +9825,7 @@
    "e": "What are the pre-monsoon showers in Karnataka called — Cherry blossom showers."
   },
   {
-   "id": "general-science-00635",
+   "id": "general-science-00655",
    "q": "GSAT is associated with which of the following?",
    "o": [
     "Free online courses platform",
@@ -9540,7 +9840,7 @@
    "e": "GSAT — Communication satellites of India."
   },
   {
-   "id": "general-science-00636",
+   "id": "general-science-00656",
    "q": "Bandwidth is best described as which of the following?",
    "o": [
     "Program that maintains and optimises the system",
@@ -9555,7 +9855,7 @@
    "e": "Bandwidth — Amount of data a connection can carry."
   },
   {
-   "id": "general-science-00637",
+   "id": "general-science-00657",
    "q": "Which of the following pairs of pollutant and effect is correctly matched?",
    "o": [
     "Lead - Reduces oxygen carrying capacity of blood",
@@ -9570,7 +9870,7 @@
    "e": "Only Lead - Damages the nervous system is correctly matched."
   },
   {
-   "id": "general-science-00638",
+   "id": "general-science-00658",
    "q": "Which element has the chemical symbol Mo?",
    "o": [
     "Tellurium",
@@ -9585,7 +9885,7 @@
    "e": "Mo is the symbol of Molybdenum."
   },
   {
-   "id": "general-science-00639",
+   "id": "general-science-00659",
    "q": "Which physical quantity is measured in Second?",
    "o": [
     "Time",
@@ -9600,7 +9900,7 @@
    "e": "Second is the SI unit of Time."
   },
   {
-   "id": "general-science-00640",
+   "id": "general-science-00660",
    "q": "Stethoscope is used for which of the following purposes?",
    "o": [
     "Plant growth",
@@ -9615,7 +9915,7 @@
    "e": "Stethoscope measures Heartbeats."
   },
   {
-   "id": "general-science-00641",
+   "id": "general-science-00661",
    "q": "Which body part performs the function of Body immunity?",
    "o": [
     "Adrenal gland",
@@ -9630,7 +9930,7 @@
    "e": "Body immunity is performed by the White blood cells."
   },
   {
-   "id": "general-science-00642",
+   "id": "general-science-00662",
    "q": "Which disease is caused by the deficiency of Vitamin K?",
    "o": [
     "Pernicious anaemia",
@@ -9645,7 +9945,7 @@
    "e": "Deficiency of Vitamin K causes Excessive bleeding."
   },
   {
-   "id": "general-science-00643",
+   "id": "general-science-00663",
    "q": "Fungi causes which of the following diseases?",
    "o": [
     "Rabies",
@@ -9660,7 +9960,7 @@
    "e": "Fungi causes Ringworm."
   },
   {
-   "id": "general-science-00644",
+   "id": "general-science-00664",
    "q": "Who is credited with Bicycle?",
    "o": [
     "Charles Darwin",
@@ -9675,7 +9975,7 @@
    "e": "Bicycle — Karl von Drais."
   },
   {
-   "id": "general-science-00645",
+   "id": "general-science-00665",
    "q": "Calcium hydroxide (Ca(OH)2) is commonly known as which of the following?",
    "o": [
     "Borax",
@@ -9690,7 +9990,7 @@
    "e": "Calcium hydroxide (Ca(OH)2) is commonly known as Slaked lime."
   },
   {
-   "id": "general-science-00646",
+   "id": "general-science-00666",
    "q": "Which branch of science deals with Bacteria?",
    "o": [
     "Meteorology",
@@ -9705,7 +10005,7 @@
    "e": "Bacteriology deals with Bacteria."
   },
   {
-   "id": "general-science-00647",
+   "id": "general-science-00667",
    "q": "Which of the following statements about Ceres is correct?",
    "o": [
     "Ceres",
@@ -9720,7 +10020,7 @@
    "e": "Ceres: Ceres."
   },
   {
-   "id": "general-science-00648",
+   "id": "general-science-00668",
    "q": "Anders Celsius is known for which of the following?",
    "o": [
     "Nuclear model of the atom",
@@ -9735,7 +10035,7 @@
    "e": "Anders Celsius is known for Centigrade temperature scale."
   },
   {
-   "id": "general-science-00649",
+   "id": "general-science-00669",
    "q": "Which layer of the atmosphere contains the ozone layer?",
    "o": [
     "Metamorphic rock",
@@ -9750,7 +10050,7 @@
    "e": "Which layer of the atmosphere contains the ozone layer — Stratosphere."
   },
   {
-   "id": "general-science-00650",
+   "id": "general-science-00670",
    "q": "Cartosat is associated with which of the following?",
    "o": [
     "Discovery of water molecules on the Moon",
@@ -9765,7 +10065,7 @@
    "e": "Cartosat — Earth observation satellites for mapping."
   },
   {
-   "id": "general-science-00651",
+   "id": "general-science-00671",
    "q": "SQL is best described as which of the following?",
    "o": [
     "Network covering a city",
@@ -9780,7 +10080,7 @@
    "e": "SQL — Language used to query databases."
   },
   {
-   "id": "general-science-00652",
+   "id": "general-science-00672",
    "q": "Which of the following pairs of pollutant and effect is correctly matched?",
    "o": [
     "Noise above 85 decibels - Causes hearing loss",
@@ -9795,7 +10095,7 @@
    "e": "Only Noise above 85 decibels - Causes hearing loss is correctly matched."
   },
   {
-   "id": "general-science-00653",
+   "id": "general-science-00673",
    "q": "Which element has the chemical symbol Lu?",
    "o": [
     "Magnesium",
@@ -9810,7 +10110,7 @@
    "e": "Lu is the symbol of Lutetium."
   },
   {
-   "id": "general-science-00654",
+   "id": "general-science-00674",
    "q": "Which physical quantity is measured in Pascal second?",
    "o": [
     "Mass",
@@ -9825,7 +10125,7 @@
    "e": "Pascal second is the SI unit of Viscosity (dynamic)."
   },
   {
-   "id": "general-science-00655",
+   "id": "general-science-00675",
    "q": "Anemometer is used for which of the following purposes?",
    "o": [
     "Internal body organs",
@@ -9840,7 +10140,7 @@
    "e": "Anemometer measures Wind speed."
   },
   {
-   "id": "general-science-00656",
+   "id": "general-science-00676",
    "q": "Which body part performs the function of Controls body metabolism?",
    "o": [
     "Aorta",
@@ -9855,7 +10155,7 @@
    "e": "Controls body metabolism is performed by the Thyroxine."
   },
   {
-   "id": "general-science-00657",
+   "id": "general-science-00677",
    "q": "Which disease is caused by the deficiency of Magnesium?",
    "o": [
     "Tetany",
@@ -9870,7 +10170,7 @@
    "e": "Deficiency of Magnesium causes Tetany."
   },
   {
-   "id": "general-science-00658",
+   "id": "general-science-00678",
    "q": "Streptococcus pneumoniae bacteria causes which of the following diseases?",
    "o": [
     "Sleeping sickness",
@@ -9885,7 +10185,7 @@
    "e": "Streptococcus pneumoniae bacteria causes Pneumonia."
   },
   {
-   "id": "general-science-00659",
+   "id": "general-science-00679",
    "q": "Who is credited with Laser?",
    "o": [
     "Theodore Maiman",
@@ -9900,7 +10200,7 @@
    "e": "Laser — Theodore Maiman."
   },
   {
-   "id": "general-science-00660",
+   "id": "general-science-00680",
    "q": "Calcium hydroxide (Ca(OH)2) is commonly known as which of the following?",
    "o": [
     "Aqua fortis",
@@ -9915,7 +10215,7 @@
    "e": "Calcium hydroxide (Ca(OH)2) is commonly known as Lime water."
   },
   {
-   "id": "general-science-00661",
+   "id": "general-science-00681",
    "q": "Which branch of science deals with Cells?",
    "o": [
     "Cytology",
@@ -9930,7 +10230,7 @@
    "e": "Cytology deals with Cells."
   },
   {
-   "id": "general-science-00662",
+   "id": "general-science-00682",
    "q": "Which of the following statements about Ganymede is correct?",
    "o": [
     "Eighth",
@@ -9945,7 +10245,7 @@
    "e": "Ganymede: Jupiter."
   },
   {
-   "id": "general-science-00663",
+   "id": "general-science-00683",
    "q": "Andre Ampere is known for which of the following?",
    "o": [
     "Electrodynamics",
@@ -9960,7 +10260,7 @@
    "e": "Andre Ampere is known for Electrodynamics."
   },
   {
-   "id": "general-science-00664",
+   "id": "general-science-00684",
    "q": "What is molten rock that reaches the surface called?",
    "o": [
     "Hygrometer",
@@ -9975,7 +10275,7 @@
    "e": "What is molten rock that reaches the surface called — Lava."
   },
   {
-   "id": "general-science-00665",
+   "id": "general-science-00685",
    "q": "PSLV is associated with which of the following?",
    "o": [
     "Green hydrogen production and export hub",
@@ -9990,7 +10290,7 @@
    "e": "PSLV — Workhorse polar satellite launch vehicle."
   },
   {
-   "id": "general-science-00666",
+   "id": "general-science-00686",
    "q": "Cookie is best described as which of the following?",
    "o": [
     "Software designed to damage or intrude",
@@ -10005,7 +10305,7 @@
    "e": "Cookie — Small file stored by a website in the browser."
   },
   {
-   "id": "general-science-00667",
+   "id": "general-science-00687",
    "q": "Which of the following pairs of pollutant and effect is correctly matched?",
    "o": [
     "Noise above 85 decibels - Causes genetic damage and cancer",
@@ -10020,7 +10320,7 @@
    "e": "Only Noise above 85 decibels - Causes hearing loss is correctly matched."
   },
   {
-   "id": "general-science-00668",
+   "id": "general-science-00688",
    "q": "Which element has the chemical symbol Es?",
    "o": [
     "Aluminium",
@@ -10035,7 +10335,7 @@
    "e": "Es is the symbol of Einsteinium."
   },
   {
-   "id": "general-science-00669",
+   "id": "general-science-00689",
    "q": "Which physical quantity is measured in Katal?",
    "o": [
     "Temperature",
@@ -10050,7 +10350,7 @@
    "e": "Katal is the SI unit of Catalytic activity."
   },
   {
-   "id": "general-science-00670",
+   "id": "general-science-00690",
    "q": "Thermometer is used for which of the following purposes?",
    "o": [
     "One form of energy into another",
@@ -10065,7 +10365,7 @@
    "e": "Thermometer measures Temperature."
   },
   {
-   "id": "general-science-00671",
+   "id": "general-science-00691",
    "q": "Which body part performs the function of Absorption of digested food?",
    "o": [
     "Nephrons",
@@ -10080,7 +10380,7 @@
    "e": "Absorption of digested food is performed by the Small intestine."
   },
   {
-   "id": "general-science-00672",
+   "id": "general-science-00692",
    "q": "Which disease is caused by the deficiency of Vitamin B3?",
    "o": [
     "Night blindness",
@@ -10095,7 +10395,7 @@
    "e": "Deficiency of Vitamin B3 causes Pellagra."
   },
   {
-   "id": "general-science-00673",
+   "id": "general-science-00693",
    "q": "Mycobacterium leprae bacteria causes which of the following diseases?",
    "o": [
     "Hepatitis A",
@@ -10110,7 +10410,7 @@
    "e": "Mycobacterium leprae bacteria causes Leprosy."
   },
   {
-   "id": "general-science-00674",
+   "id": "general-science-00694",
    "q": "Who is credited with Proton?",
    "o": [
     "Edward Jenner",
@@ -10125,7 +10425,7 @@
    "e": "Proton — Ernest Rutherford."
   },
   {
-   "id": "general-science-00675",
+   "id": "general-science-00695",
    "q": "Sodium bicarbonate (NaHCO3) is commonly known as which of the following?",
    "o": [
     "Spirit of salt",
@@ -10140,7 +10440,7 @@
    "e": "Sodium bicarbonate (NaHCO3) is commonly known as Baking soda."
   },
   {
-   "id": "general-science-00676",
+   "id": "general-science-00696",
    "q": "Which branch of science deals with Ageing?",
    "o": [
     "Electromagnetism",
@@ -10155,7 +10455,7 @@
    "e": "Gerontology deals with Ageing."
   },
   {
-   "id": "general-science-00677",
+   "id": "general-science-00697",
    "q": "Which of the following statements about Mercury is correct?",
    "o": [
     "Hottest planet",
@@ -10170,7 +10470,7 @@
    "e": "Mercury: Mercury."
   },
   {
-   "id": "general-science-00678",
+   "id": "general-science-00698",
    "q": "Karl Landsteiner is known for which of the following?",
    "o": [
     "Indian space programme",
@@ -10185,7 +10485,7 @@
    "e": "Karl Landsteiner is known for ABO blood group system."
   },
   {
-   "id": "general-science-00679",
+   "id": "general-science-00699",
    "q": "Which wind is responsible for rainfall in the Indian summer?",
    "o": [
     "Igneous rock",
@@ -10200,7 +10500,7 @@
    "e": "Which wind is responsible for rainfall in the Indian summer — South-west monsoon."
   },
   {
-   "id": "general-science-00680",
+   "id": "general-science-00700",
    "q": "Swachh Survekshan is associated with which of the following?",
    "o": [
     "Green hydrogen production and export hub",
@@ -10215,7 +10515,7 @@
    "e": "Swachh Survekshan — Cleanliness ranking of Indian cities."
   },
   {
-   "id": "general-science-00681",
+   "id": "general-science-00701",
    "q": "Algorithm is best described as which of the following?",
    "o": [
     "Output device that produces hard copies",
@@ -10230,7 +10530,7 @@
    "e": "Algorithm — Step by step method to solve a problem."
   },
   {
-   "id": "general-science-00682",
+   "id": "general-science-00702",
    "q": "Which of the following pairs of pollutant and effect is correctly matched?",
    "o": [
     "Plastic waste - Causes skin lesions and cancer in groundwater",
@@ -10245,7 +10545,7 @@
    "e": "Only Plastic waste - Persists in the environment for centuries is correctly matched."
   },
   {
-   "id": "general-science-00683",
+   "id": "general-science-00703",
    "q": "Which element has the chemical symbol Rb?",
    "o": [
     "Thallium",
@@ -10260,7 +10560,7 @@
    "e": "Rb is the symbol of Rubidium."
   },
   {
-   "id": "general-science-00684",
+   "id": "general-science-00704",
    "q": "Which physical quantity is measured in Mole?",
    "o": [
     "Plane angle",
@@ -10275,7 +10575,7 @@
    "e": "Mole is the SI unit of Amount of substance."
   },
   {
-   "id": "general-science-00685",
+   "id": "general-science-00705",
    "q": "Seismograph is used for which of the following purposes?",
    "o": [
     "High temperature",
@@ -10290,7 +10590,7 @@
    "e": "Seismograph measures Earthquakes."
   },
   {
-   "id": "general-science-00686",
+   "id": "general-science-00706",
    "q": "Which body part performs the function of Transport of nutrients?",
    "o": [
     "Brain",
@@ -10305,7 +10605,7 @@
    "e": "Transport of nutrients is performed by the Plasma."
   },
   {
-   "id": "general-science-00687",
+   "id": "general-science-00707",
    "q": "Which disease is caused by the deficiency of Copper?",
    "o": [
     "Anaemia and bone disorders",
@@ -10320,7 +10620,7 @@
    "e": "Deficiency of Copper causes Anaemia and bone disorders."
   },
   {
-   "id": "general-science-00688",
+   "id": "general-science-00708",
    "q": "Fungi causes which of the following diseases?",
    "o": [
     "Cholera",
@@ -10335,7 +10635,7 @@
    "e": "Fungi causes Athlete's foot."
   },
   {
-   "id": "general-science-00689",
+   "id": "general-science-00709",
    "q": "Who is credited with Hydrogen?",
    "o": [
     "Guglielmo Marconi",
@@ -10350,7 +10650,7 @@
    "e": "Hydrogen — Henry Cavendish."
   },
   {
-   "id": "general-science-00690",
+   "id": "general-science-00710",
    "q": "Calcium sulphate hemihydrate (CaSO4.1/2H2O) is commonly known as which of the following?",
    "o": [
     "Alum",
@@ -10365,7 +10665,7 @@
    "e": "Calcium sulphate hemihydrate (CaSO4.1/2H2O) is commonly known as Plaster of Paris."
   },
   {
-   "id": "general-science-00691",
+   "id": "general-science-00711",
    "q": "Which branch of science deals with Atomic nuclei?",
    "o": [
     "Zoology",
@@ -10380,7 +10680,7 @@
    "e": "Nuclear physics deals with Atomic nuclei."
   },
   {
-   "id": "general-science-00692",
+   "id": "general-science-00712",
    "q": "Which of the following statements about Sirius is correct?",
    "o": [
     "Comet",
@@ -10395,7 +10695,7 @@
    "e": "Sirius: Sirius."
   },
   {
-   "id": "general-science-00693",
+   "id": "general-science-00713",
    "q": "A. P. J. Abdul Kalam is known for which of the following?",
    "o": [
     "Laws of planetary motion",
@@ -10410,7 +10710,7 @@
    "e": "A. P. J. Abdul Kalam is known for Missile and space launch technology."
   },
   {
-   "id": "general-science-00694",
+   "id": "general-science-00714",
    "q": "How many planets are there in the Solar System?",
    "o": [
     "Eight",
@@ -10425,7 +10725,7 @@
    "e": "How many planets are there in the Solar System — Eight."
   },
   {
-   "id": "general-science-00695",
+   "id": "general-science-00715",
    "q": "INSAT is associated with which of the following?",
    "o": [
     "Free online courses platform",
@@ -10440,7 +10740,7 @@
    "e": "INSAT — Communication and weather satellites."
   },
   {
-   "id": "general-science-00696",
+   "id": "general-science-00716",
    "q": "Trojan horse is best described as which of the following?",
    "o": [
     "Input device that captures video",
@@ -10455,7 +10755,7 @@
    "e": "Trojan horse — Malicious program disguised as useful software."
   },
   {
-   "id": "general-science-00697",
+   "id": "general-science-00717",
    "q": "Which of the following pairs of pollutant and effect is correctly matched?",
    "o": [
     "Plastic waste - Cause algal blooms in water",
@@ -10470,7 +10770,7 @@
    "e": "Only Plastic waste - Persists in the environment for centuries is correctly matched."
   },
   {
-   "id": "general-science-00698",
+   "id": "general-science-00718",
    "q": "Which element has the chemical symbol Sm?",
    "o": [
     "Samarium",
@@ -10485,7 +10785,7 @@
    "e": "Sm is the symbol of Samarium."
   },
   {
-   "id": "general-science-00699",
+   "id": "general-science-00719",
    "q": "Which physical quantity is measured in Kelvin?",
    "o": [
     "Frequency",
@@ -10500,7 +10800,7 @@
    "e": "Kelvin is the SI unit of Temperature."
   },
   {
-   "id": "general-science-00700",
+   "id": "general-science-00720",
    "q": "Hygroscope is used for which of the following purposes?",
    "o": [
     "Multiple physiological responses",
@@ -10515,7 +10815,7 @@
    "e": "Hygroscope measures Humidity."
   },
   {
-   "id": "general-science-00701",
+   "id": "general-science-00721",
    "q": "Which body part performs the function of Clotting of blood?",
    "o": [
     "Pituitary gland",
@@ -10530,7 +10830,7 @@
    "e": "Clotting of blood is performed by the Platelets."
   },
   {
-   "id": "general-science-00702",
+   "id": "general-science-00722",
    "q": "Which disease is caused by the deficiency of Vitamin A?",
    "o": [
     "Xerophthalmia",
@@ -10545,7 +10845,7 @@
    "e": "Deficiency of Vitamin A causes Xerophthalmia."
   },
   {
-   "id": "general-science-00703",
+   "id": "general-science-00723",
    "q": "Entamoeba histolytica causes which of the following diseases?",
    "o": [
     "Anthrax",
@@ -10560,7 +10860,7 @@
    "e": "Entamoeba histolytica causes Amoebic dysentery."
   },
   {
-   "id": "general-science-00704",
+   "id": "general-science-00724",
    "q": "Who is credited with Periodic table?",
    "o": [
     "Dmitri Mendeleev",
@@ -10575,7 +10875,7 @@
    "e": "Periodic table — Dmitri Mendeleev."
   },
   {
-   "id": "general-science-00705",
+   "id": "general-science-00725",
    "q": "Acetic acid (CH3COOH) is commonly known as which of the following?",
    "o": [
     "Talc",
@@ -10590,7 +10890,7 @@
    "e": "Acetic acid (CH3COOH) is commonly known as Vinegar."
   },
   {
-   "id": "general-science-00706",
+   "id": "general-science-00726",
    "q": "Which branch of science deals with Skin?",
    "o": [
     "Dermatology",
@@ -10605,7 +10905,7 @@
    "e": "Dermatology deals with Skin."
   },
   {
-   "id": "general-science-00707",
+   "id": "general-science-00727",
    "q": "Which of the following statements about Meteorite is correct?",
    "o": [
     "Jupiter",
@@ -10620,7 +10920,7 @@
    "e": "Meteorite: Meteorite."
   },
   {
-   "id": "general-science-00708",
+   "id": "general-science-00728",
    "q": "Thomas Edison is known for which of the following?",
    "o": [
     "Phonograph and practical electric bulb",
@@ -10635,7 +10935,7 @@
    "e": "Thomas Edison is known for Phonograph and practical electric bulb."
   },
   {
-   "id": "general-science-00709",
+   "id": "general-science-00729",
    "q": "Which place in India receives the lowest rainfall?",
    "o": [
     "October to December",
@@ -10650,7 +10950,7 @@
    "e": "Which place in India receives the lowest rainfall — Jaisalmer."
   },
   {
-   "id": "general-science-00710",
+   "id": "general-science-00730",
    "q": "Digital India Programme is associated with which of the following?",
    "o": [
     "Delivery of services through digital platforms",
@@ -10665,7 +10965,7 @@
    "e": "Digital India Programme — Delivery of services through digital platforms."
   },
   {
-   "id": "general-science-00711",
+   "id": "general-science-00731",
    "q": "Multiprocessing is best described as which of the following?",
    "o": [
     "Output device that produces hard copies",
@@ -10680,7 +10980,7 @@
    "e": "Multiprocessing — Using more than one processor at a time."
   },
   {
-   "id": "general-science-00712",
+   "id": "general-science-00732",
    "q": "Which of the following pairs of pollutant and effect is correctly matched?",
    "o": [
     "Chlorofluorocarbons - Potent greenhouse gas from livestock and paddy fields",
@@ -10695,7 +10995,7 @@
    "e": "Only Chlorofluorocarbons - Destroy the ozone layer is correctly matched."
   },
   {
-   "id": "general-science-00713",
+   "id": "general-science-00733",
    "q": "Which element has the chemical symbol Be?",
    "o": [
     "Erbium",
@@ -10710,7 +11010,7 @@
    "e": "Be is the symbol of Beryllium."
   },
   {
-   "id": "general-science-00714",
+   "id": "general-science-00734",
    "q": "Which physical quantity is measured in Steradian?",
    "o": [
     "Solid angle",
@@ -10725,7 +11025,7 @@
    "e": "Steradian is the SI unit of Solid angle."
   },
   {
-   "id": "general-science-00715",
+   "id": "general-science-00735",
    "q": "Kymograph is used for which of the following purposes?",
    "o": [
     "Water absorption by plants",
@@ -10740,7 +11040,7 @@
    "e": "Kymograph measures Blood pressure variations."
   },
   {
-   "id": "general-science-00716",
+   "id": "general-science-00736",
    "q": "Which body part performs the function of Increase surface area for absorption?",
    "o": [
     "Kidneys",
@@ -10755,7 +11055,7 @@
    "e": "Increase surface area for absorption is performed by the Villi."
   },
   {
-   "id": "general-science-00717",
+   "id": "general-science-00737",
    "q": "Which disease is caused by the deficiency of Vitamin B6?",
    "o": [
     "Anaemia",
@@ -10770,7 +11070,7 @@
    "e": "Deficiency of Vitamin B6 causes Anaemia."
   },
   {
-   "id": "general-science-00718",
+   "id": "general-science-00738",
    "q": "Sarcoptes scabiei mite causes which of the following diseases?",
    "o": [
     "Typhoid",
@@ -10785,7 +11085,7 @@
    "e": "Sarcoptes scabiei mite causes Scabies."
   },
   {
-   "id": "general-science-00719",
+   "id": "general-science-00739",
    "q": "Who is credited with Jet engine?",
    "o": [
     "Johannes Kepler",
@@ -10800,7 +11100,7 @@
    "e": "Jet engine — Frank Whittle."
   },
   {
-   "id": "general-science-00720",
+   "id": "general-science-00740",
    "q": "Aqueous formaldehyde (HCHO) is commonly known as which of the following?",
    "o": [
     "TNT",
@@ -10815,7 +11115,7 @@
    "e": "Aqueous formaldehyde (HCHO) is commonly known as Formalin."
   },
   {
-   "id": "general-science-00721",
+   "id": "general-science-00741",
    "q": "Which branch of science deals with Garden cultivation?",
    "o": [
     "Herpetology",
@@ -10830,7 +11130,7 @@
    "e": "Horticulture deals with Garden cultivation."
   },
   {
-   "id": "general-science-00722",
+   "id": "general-science-00742",
    "q": "Which of the following statements about Saturn is correct?",
    "o": [
     "Uranus",
@@ -10845,7 +11145,7 @@
    "e": "Saturn: Saturn."
   },
   {
-   "id": "general-science-00723",
+   "id": "general-science-00743",
    "q": "Srinivasa Ramanujan is known for which of the following?",
    "o": [
     "Charles's law of gases",
@@ -10860,7 +11160,7 @@
    "e": "Srinivasa Ramanujan is known for Number theory."
   },
   {
-   "id": "general-science-00724",
+   "id": "general-science-00744",
    "q": "Which layer of the Earth is responsible for its magnetic field?",
    "o": [
     "Outer core",
@@ -10875,7 +11175,7 @@
    "e": "Which layer of the Earth is responsible for its magnetic field — Outer core."
   },
   {
-   "id": "general-science-00725",
+   "id": "general-science-00745",
    "q": "MeghRaj is associated with which of the following?",
    "o": [
     "Instant bank to bank payments system",
@@ -10890,7 +11190,7 @@
    "e": "MeghRaj — Cloud computing initiative of the government."
   },
   {
-   "id": "general-science-00726",
+   "id": "general-science-00746",
    "q": "Domain name is best described as which of the following?",
    "o": [
     "Interface that accepts typed commands",
@@ -10905,7 +11205,7 @@
    "e": "Domain name — Human readable name of a website."
   },
   {
-   "id": "general-science-00727",
+   "id": "general-science-00747",
    "q": "Which of the following pairs of pollutant and effect is correctly matched?",
    "o": [
     "Chlorofluorocarbons - Damages the nervous system",
@@ -10920,7 +11220,7 @@
    "e": "Only Chlorofluorocarbons - Destroy the ozone layer is correctly matched."
   },
   {
-   "id": "general-science-00728",
+   "id": "general-science-00748",
    "q": "Which element has the chemical symbol Ta?",
    "o": [
     "Calcium",
@@ -10935,7 +11235,7 @@
    "e": "Ta is the symbol of Tantalum."
   },
   {
-   "id": "general-science-00729",
+   "id": "general-science-00749",
    "q": "Which physical quantity is measured in Reciprocal metre?",
    "o": [
     "Wave number",
@@ -10950,7 +11250,7 @@
    "e": "Reciprocal metre is the SI unit of Wave number."
   },
   {
-   "id": "general-science-00730",
+   "id": "general-science-00750",
    "q": "Electrocardiogram machine is used for which of the following purposes?",
    "o": [
     "Heart electrical activity",
@@ -10965,7 +11265,7 @@
    "e": "Electrocardiogram machine measures Heart electrical activity."
   },
   {
-   "id": "general-science-00731",
+   "id": "general-science-00751",
    "q": "Which body part performs the function of Transport of oxygen?",
    "o": [
     "Aorta",
@@ -10980,7 +11280,7 @@
    "e": "Transport of oxygen is performed by the Red blood cells."
   },
   {
-   "id": "general-science-00732",
+   "id": "general-science-00752",
    "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
    "o": [
     "Vitamin C - Pernicious anaemia",
@@ -10995,7 +11295,7 @@
    "e": "Only Vitamin C - Scurvy is correctly matched."
   },
   {
-   "id": "general-science-00733",
+   "id": "general-science-00753",
    "q": "Wuchereria bancrofti causes which of the following diseases?",
    "o": [
     "Sleeping sickness",
@@ -11010,7 +11310,7 @@
    "e": "Wuchereria bancrofti causes Filariasis."
   },
   {
-   "id": "general-science-00734",
+   "id": "general-science-00754",
    "q": "Who is credited with Atom (nuclear model)?",
    "o": [
     "Charles Darwin",
@@ -11025,7 +11325,7 @@
    "e": "Atom (nuclear model) — Niels Bohr."
   },
   {
-   "id": "general-science-00735",
+   "id": "general-science-00755",
    "q": "Phenol (C6H5OH) is commonly known as which of the following?",
    "o": [
     "Carbolic acid",
@@ -11040,7 +11340,7 @@
    "e": "Phenol (C6H5OH) is commonly known as Carbolic acid."
   },
   {
-   "id": "general-science-00736",
+   "id": "general-science-00756",
    "q": "Which branch of science deals with Drugs and medicines?",
    "o": [
     "Meteorology",
@@ -11055,7 +11355,7 @@
    "e": "Pharmacology deals with Drugs and medicines."
   },
   {
-   "id": "general-science-00737",
+   "id": "general-science-00757",
    "q": "Which of the following statements about Mercury is correct?",
    "o": [
     "Eighth",
@@ -11070,7 +11370,7 @@
    "e": "Mercury: Smallest planet."
   },
   {
-   "id": "general-science-00738",
+   "id": "general-science-00758",
    "q": "Watson and Crick is known for which of the following?",
    "o": [
     "Nuclear model of the atom",
@@ -11085,7 +11385,7 @@
    "e": "Watson and Crick is known for Double helix structure of DNA."
   },
   {
-   "id": "general-science-00739",
+   "id": "general-science-00759",
    "q": "What is the point of origin of an earthquake called?",
    "o": [
     "Troposphere",
@@ -11100,7 +11400,7 @@
    "e": "What is the point of origin of an earthquake called — Focus."
   },
   {
-   "id": "general-science-00740",
+   "id": "general-science-00760",
    "q": "Which mission is described as: Adoption of electric vehicles?",
    "o": [
     "Khelo India",
@@ -11115,7 +11415,7 @@
    "e": "Adoption of electric vehicles describes National Electric Mobility Mission."
   },
   {
-   "id": "general-science-00741",
+   "id": "general-science-00761",
    "q": "GUI is best described as which of the following?",
    "o": [
     "Processor that handles graphics and images",
@@ -11130,7 +11430,7 @@
    "e": "GUI — Interface that uses icons and windows."
   },
   {
-   "id": "general-science-00742",
+   "id": "general-science-00762",
    "q": "Which of the following pairs of pollutant and effect is correctly matched?",
    "o": [
     "Nitrogen oxides - Potent greenhouse gas from livestock and paddy fields",
@@ -11145,7 +11445,7 @@
    "e": "Only Nitrogen oxides - Cause acid rain and smog is correctly matched."
   },
   {
-   "id": "general-science-00743",
+   "id": "general-science-00763",
    "q": "Which element has the chemical symbol Cr?",
    "o": [
     "Thorium",
@@ -11160,7 +11460,7 @@
    "e": "Cr is the symbol of Chromium."
   },
   {
-   "id": "general-science-00744",
+   "id": "general-science-00764",
    "q": "Which physical quantity is measured in Gray?",
    "o": [
     "Temperature",
@@ -11175,7 +11475,7 @@
    "e": "Gray is the SI unit of Absorbed dose."
   },
   {
-   "id": "general-science-00745",
+   "id": "general-science-00765",
    "q": "Odometer and Speedometer is used for which of the following purposes?",
    "o": [
     "Wind speed",
@@ -11190,7 +11490,7 @@
    "e": "Odometer and Speedometer measures Speed and distance."
   },
   {
-   "id": "general-science-00746",
+   "id": "general-science-00766",
    "q": "Which body part performs the function of Controls blood sugar?",
    "o": [
     "Aorta",
@@ -11205,7 +11505,7 @@
    "e": "Controls blood sugar is performed by the Insulin."
   },
   {
-   "id": "general-science-00747",
+   "id": "general-science-00767",
    "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
    "o": [
     "Vitamin C - Rickets",
@@ -11220,7 +11520,7 @@
    "e": "Only Vitamin C - Scurvy is correctly matched."
   },
   {
-   "id": "general-science-00748",
+   "id": "general-science-00768",
    "q": "Neisseria meningitidis bacteria causes which of the following diseases?",
    "o": [
     "Sleeping sickness",
@@ -11235,7 +11535,7 @@
    "e": "Neisseria meningitidis bacteria causes Meningitis."
   },
   {
-   "id": "general-science-00749",
+   "id": "general-science-00769",
    "q": "Who is credited with Penicillin?",
    "o": [
     "Max Planck",
@@ -11250,7 +11550,7 @@
    "e": "Penicillin — Alexander Fleming."
   },
   {
-   "id": "general-science-00750",
+   "id": "general-science-00770",
    "q": "Silicon dioxide (SiO2) is commonly known as which of the following?",
    "o": [
     "Lime water",
@@ -11265,7 +11565,7 @@
    "e": "Silicon dioxide (SiO2) is commonly known as Quartz."
   },
   {
-   "id": "general-science-00751",
+   "id": "general-science-00771",
    "q": "Which branch of science deals with Diseases?",
    "o": [
     "Radiology",
@@ -11280,7 +11580,7 @@
    "e": "Pathology deals with Diseases."
   },
   {
-   "id": "general-science-00752",
+   "id": "general-science-00772",
    "q": "Which of the following statements about Supernova is correct?",
    "o": [
     "Mercury",
@@ -11295,7 +11595,7 @@
    "e": "Supernova: Supernova."
   },
   {
-   "id": "general-science-00753",
+   "id": "general-science-00773",
    "q": "Louis Pasteur is known for which of the following?",
    "o": [
     "Synthesis of nucleic acids",
@@ -11310,7 +11610,7 @@
    "e": "Louis Pasteur is known for Germ theory and pasteurisation."
   },
   {
-   "id": "general-science-00754",
+   "id": "general-science-00774",
    "q": "What is molten rock below the Earth's surface called?",
    "o": [
     "Magma",
@@ -11325,7 +11625,7 @@
    "e": "What is molten rock below the Earth's surface called — Magma."
   },
   {
-   "id": "general-science-00755",
+   "id": "general-science-00775",
    "q": "Which mission is described as: Cleanliness ranking of Indian cities?",
    "o": [
     "Smart Cities Mission",
@@ -11340,7 +11640,7 @@
    "e": "Cleanliness ranking of Indian cities describes Swachh Survekshan."
   },
   {
-   "id": "general-science-00756",
+   "id": "general-science-00776",
    "q": "Bluetooth is best described as which of the following?",
    "o": [
     "Short range wireless technology",
@@ -11355,7 +11655,7 @@
    "e": "Bluetooth — Short range wireless technology."
   },
   {
-   "id": "general-science-00757",
+   "id": "general-science-00777",
    "q": "Which of the following pairs of pollutant and effect is correctly matched?",
    "o": [
     "Nitrogen oxides - Causes eutrophication of water bodies",
@@ -11370,7 +11670,7 @@
    "e": "Only Nitrogen oxides - Cause acid rain and smog is correctly matched."
   },
   {
-   "id": "general-science-00758",
+   "id": "general-science-00778",
    "q": "Which element has the chemical symbol Ac?",
    "o": [
     "Actinium",
@@ -11385,7 +11685,7 @@
    "e": "Ac is the symbol of Actinium."
   },
   {
-   "id": "general-science-00759",
+   "id": "general-science-00779",
    "q": "Which physical quantity is measured in Hertz?",
    "o": [
     "Electric current",
@@ -11400,7 +11700,7 @@
    "e": "Hertz is the SI unit of Frequency."
   },
   {
-   "id": "general-science-00760",
+   "id": "general-science-00780",
    "q": "Chronometer is used for which of the following purposes?",
    "o": [
     "Time accurately",
@@ -11415,7 +11715,7 @@
    "e": "Chronometer measures Time accurately."
   },
   {
-   "id": "general-science-00761",
+   "id": "general-science-00781",
    "q": "Which body part performs the function of Hearing in the ear?",
    "o": [
     "Cochlea",
@@ -11430,7 +11730,7 @@
    "e": "Hearing in the ear is performed by the Cochlea."
   },
   {
-   "id": "general-science-00762",
+   "id": "general-science-00782",
    "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
    "o": [
     "Vitamin E - Dermatitis",
@@ -11445,7 +11745,7 @@
    "e": "Only Vitamin E - Haemolysis of red blood cells is correctly matched."
   },
   {
-   "id": "general-science-00763",
+   "id": "general-science-00783",
    "q": "Varicella zoster virus causes which of the following diseases?",
    "o": [
     "Chickenpox",
@@ -11460,7 +11760,7 @@
    "e": "Varicella zoster virus causes Chickenpox."
   },
   {
-   "id": "general-science-00764",
+   "id": "general-science-00784",
    "q": "Galileo Galilei is associated with which of the following?",
    "o": [
     "Telescope (astronomical use)",
@@ -11475,7 +11775,7 @@
    "e": "Galileo Galilei is associated with Telescope (astronomical use)."
   },
   {
-   "id": "general-science-00765",
+   "id": "general-science-00785",
    "q": "Deuterium oxide (D2O) is commonly known as which of the following?",
    "o": [
     "Heavy water",
@@ -11490,7 +11790,7 @@
    "e": "Deuterium oxide (D2O) is commonly known as Heavy water."
   },
   {
-   "id": "general-science-00766",
+   "id": "general-science-00786",
    "q": "Ichthyology is the study of which of the following?",
    "o": [
     "Fishes",
@@ -11505,7 +11805,7 @@
    "e": "Ichthyology is the study of Fishes."
   },
   {
-   "id": "general-science-00767",
+   "id": "general-science-00787",
    "q": "Which of the following statements about Astronomical unit is correct?",
    "o": [
     "Astronomical unit",
@@ -11520,7 +11820,7 @@
    "e": "Astronomical unit: Astronomical unit."
   },
   {
-   "id": "general-science-00768",
+   "id": "general-science-00788",
    "q": "Which scientist is associated with Boyle's law of gases?",
    "o": [
     "Robert Boyle",
@@ -11535,7 +11835,7 @@
    "e": "Boyle's law of gases is associated with Robert Boyle."
   },
   {
-   "id": "general-science-00769",
+   "id": "general-science-00789",
    "q": "Which planet is nearest to the Earth?",
    "o": [
     "Venus",
@@ -11550,7 +11850,7 @@
    "e": "Which planet is nearest to the Earth — Venus."
   },
   {
-   "id": "general-science-00770",
+   "id": "general-science-00790",
    "q": "Which mission is described as: Heritage city development and rejuvenation?",
    "o": [
     "Project Elephant",
@@ -11565,7 +11865,7 @@
    "e": "Heritage city development and rejuvenation describes HRIDAY."
   },
   {
-   "id": "general-science-00771",
+   "id": "general-science-00791",
    "q": "Ransomware is best described as which of the following?",
    "o": [
     "Network covering a wide area",
@@ -11580,7 +11880,7 @@
    "e": "Ransomware — Malware that locks files and demands payment."
   },
   {
-   "id": "general-science-00772",
+   "id": "general-science-00792",
    "q": "Which of the following pairs of pollutant and effect is correctly matched?",
    "o": [
     "Mercury - Causes genetic damage and cancer",
@@ -11595,7 +11895,7 @@
    "e": "Only Mercury - Bioaccumulates and damages the brain is correctly matched."
   },
   {
-   "id": "general-science-00773",
+   "id": "general-science-00793",
    "q": "Which element has the chemical symbol Ts?",
    "o": [
     "Chlorine",
@@ -11610,7 +11910,7 @@
    "e": "Ts is the symbol of Tennessine."
   },
   {
-   "id": "general-science-00774",
+   "id": "general-science-00794",
    "q": "Which physical quantity is measured in Candela?",
    "o": [
     "Electric current",
@@ -11625,7 +11925,7 @@
    "e": "Candela is the SI unit of Luminous intensity."
   },
   {
-   "id": "general-science-00775",
+   "id": "general-science-00795",
    "q": "Odometer is used for which of the following purposes?",
    "o": [
     "Heart electrical activity",
@@ -11640,7 +11940,7 @@
    "e": "Odometer measures Distance travelled."
   },
   {
-   "id": "general-science-00776",
+   "id": "general-science-00796",
    "q": "Which body part performs the function of Absorption of water?",
    "o": [
     "Heart",
@@ -11655,7 +11955,7 @@
    "e": "Absorption of water is performed by the Large intestine."
   },
   {
-   "id": "general-science-00777",
+   "id": "general-science-00797",
    "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
    "o": [
     "Vitamin E - Megaloblastic anaemia",
@@ -11670,7 +11970,7 @@
    "e": "Only Vitamin E - Haemolysis of red blood cells is correctly matched."
   },
   {
-   "id": "general-science-00778",
+   "id": "general-science-00798",
    "q": "Clostridium tetani bacteria causes which of the following diseases?",
    "o": [
     "Malaria",
@@ -11685,7 +11985,7 @@
    "e": "Clostridium tetani bacteria causes Tetanus."
   },
   {
-   "id": "general-science-00779",
+   "id": "general-science-00799",
    "q": "Michael Faraday is associated with which of the following?",
    "o": [
     "Penicillin",
@@ -11700,7 +12000,7 @@
    "e": "Michael Faraday is associated with Electric generator."
   },
   {
-   "id": "general-science-00780",
+   "id": "general-science-00800",
    "q": "Sodium bicarbonate and tartaric acid is commonly known as which of the following?",
    "o": [
     "Carbolic acid",
@@ -11715,7 +12015,7 @@
    "e": "Sodium bicarbonate and tartaric acid is commonly known as Baking powder."
   },
   {
-   "id": "general-science-00781",
+   "id": "general-science-00801",
    "q": "Sericulture is the study of which of the following?",
    "o": [
     "Diseases",
@@ -11730,7 +12030,7 @@
    "e": "Sericulture is the study of Silk production."
   },
   {
-   "id": "general-science-00782",
+   "id": "general-science-00802",
    "q": "Which of the following statements about Mercury is correct?",
    "o": [
     "Eighth",
@@ -11745,7 +12045,7 @@
    "e": "Mercury: Mercury."
   },
   {
-   "id": "general-science-00783",
+   "id": "general-science-00803",
    "q": "Which scientist is associated with Ornithology in India?",
    "o": [
     "Louis Pasteur",
@@ -11760,7 +12060,7 @@
    "e": "Ornithology in India is associated with Salim Ali."
   },
   {
-   "id": "general-science-00784",
+   "id": "general-science-00804",
    "q": "Which is the thinnest layer of the Earth?",
    "o": [
     "Norwester (Kal Baisakhi)",
@@ -11775,7 +12075,7 @@
    "e": "Which is the thinnest layer of the Earth — Crust."
   },
   {
-   "id": "general-science-00785",
+   "id": "general-science-00805",
    "q": "Which mission is described as: Reintroduction of cheetahs in India?",
    "o": [
     "Project Elephant",
@@ -11790,7 +12090,7 @@
    "e": "Reintroduction of cheetahs in India describes Project Cheetah."
   },
   {
-   "id": "general-science-00786",
+   "id": "general-science-00806",
    "q": "Multitasking is best described as which of the following?",
    "o": [
     "Object oriented programming language",
@@ -11805,7 +12105,7 @@
    "e": "Multitasking — Running several tasks at the same time."
   },
   {
-   "id": "general-science-00787",
+   "id": "general-science-00807",
    "q": "Which of the following pairs of pollutant and effect is correctly matched?",
    "o": [
     "Mercury - Air pollution with fine particulate matter",
@@ -11820,7 +12120,7 @@
    "e": "Only Mercury - Bioaccumulates and damages the brain is correctly matched."
   },
   {
-   "id": "general-science-00788",
+   "id": "general-science-00808",
    "q": "Which element has the chemical symbol Po?",
    "o": [
     "Calcium",
@@ -11835,7 +12135,7 @@
    "e": "Po is the symbol of Polonium."
   },
   {
-   "id": "general-science-00789",
+   "id": "general-science-00809",
    "q": "Which physical quantity is measured in Becquerel?",
    "o": [
     "Force",
@@ -11850,7 +12150,7 @@
    "e": "Becquerel is the SI unit of Radioactivity."
   },
   {
-   "id": "general-science-00790",
+   "id": "general-science-00810",
    "q": "Potometer is used for which of the following purposes?",
    "o": [
     "Gas pressure",
@@ -11865,7 +12165,7 @@
    "e": "Potometer measures Water absorption by plants."
   },
   {
-   "id": "general-science-00791",
+   "id": "general-science-00811",
    "q": "Which body part performs the function of Digestion of food?",
    "o": [
     "Liver",
@@ -11880,7 +12180,7 @@
    "e": "Digestion of food is performed by the Stomach."
   },
   {
-   "id": "general-science-00792",
+   "id": "general-science-00812",
    "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
    "o": [
     "Iron - Rickets",
@@ -11895,7 +12195,7 @@
    "e": "Only Iron - Anaemia is correctly matched."
   },
   {
-   "id": "general-science-00793",
+   "id": "general-science-00813",
    "q": "Mycobacterium tuberculosis bacteria causes which of the following diseases?",
    "o": [
     "Chikungunya",
@@ -11910,7 +12210,7 @@
    "e": "Mycobacterium tuberculosis bacteria causes Tuberculosis."
   },
   {
-   "id": "general-science-00794",
+   "id": "general-science-00814",
    "q": "Marie Curie is associated with which of the following?",
    "o": [
     "Circulation of blood",
@@ -11925,7 +12225,7 @@
    "e": "Marie Curie is associated with Radium."
   },
   {
-   "id": "general-science-00795",
+   "id": "general-science-00815",
    "q": "Trinitrotoluene is commonly known as which of the following?",
    "o": [
     "Caustic potash",
@@ -11940,7 +12240,7 @@
    "e": "Trinitrotoluene is commonly known as TNT."
   },
   {
-   "id": "general-science-00796",
+   "id": "general-science-00816",
    "q": "Microbiology is the study of which of the following?",
    "o": [
     "Oceans",
@@ -11955,7 +12255,7 @@
    "e": "Microbiology is the study of Microorganisms."
   },
   {
-   "id": "general-science-00797",
+   "id": "general-science-00817",
    "q": "Which of the following statements about Mercury is correct?",
    "o": [
     "Venus",
@@ -11970,7 +12270,7 @@
    "e": "Mercury: First."
   },
   {
-   "id": "general-science-00798",
+   "id": "general-science-00818",
    "q": "Which scientist is associated with Electromagnetic induction?",
    "o": [
     "Dmitri Mendeleev",
@@ -11985,7 +12285,7 @@
    "e": "Electromagnetic induction is associated with Michael Faraday."
   },
   {
-   "id": "general-science-00799",
+   "id": "general-science-00819",
    "q": "Which planet is known as the Morning Star?",
    "o": [
     "Cherry blossom showers",
@@ -12000,7 +12300,7 @@
    "e": "Which planet is known as the Morning Star — Venus."
   },
   {
-   "id": "general-science-00800",
+   "id": "general-science-00820",
    "q": "Which mission is described as: Skilling and vocational training?",
    "o": [
     "National Broadband Mission",
@@ -12015,7 +12315,7 @@
    "e": "Skilling and vocational training describes National Skill Development Mission."
   },
   {
-   "id": "general-science-00801",
+   "id": "general-science-00821",
    "q": "IP address is best described as which of the following?",
    "o": [
     "Unique address of a device on a network",
@@ -12030,7 +12330,7 @@
    "e": "IP address — Unique address of a device on a network."
   },
   {
-   "id": "general-science-00802",
+   "id": "general-science-00822",
    "q": "Which of the following pairs of pollutant and effect is correctly matched?",
    "o": [
     "Particulate matter PM 2.5 - Fine particles that reach deep into the lungs",
@@ -12045,7 +12345,7 @@
    "e": "Only Particulate matter PM 2.5 - Fine particles that reach deep into the lungs is correctly matched."
   },
   {
-   "id": "general-science-00803",
+   "id": "general-science-00823",
    "q": "Which element has the chemical symbol Tl?",
    "o": [
     "Boron",
@@ -12060,7 +12360,7 @@
    "e": "Tl is the symbol of Thallium."
   },
   {
-   "id": "general-science-00804",
+   "id": "general-science-00824",
    "q": "Which physical quantity is measured in Kilogram?",
    "o": [
     "Frequency",
@@ -12075,7 +12375,7 @@
    "e": "Kilogram is the SI unit of Mass."
   },
   {
-   "id": "general-science-00805",
+   "id": "general-science-00825",
    "q": "Fathometer is used for which of the following purposes?",
    "o": [
     "One form of energy into another",
@@ -12090,7 +12390,7 @@
    "e": "Fathometer measures Depth of the sea."
   },
   {
-   "id": "general-science-00806",
+   "id": "general-science-00826",
    "q": "Which body part performs the function of Production of eggs?",
    "o": [
     "Platelets",
@@ -12105,7 +12405,7 @@
    "e": "Production of eggs is performed by the Ovaries."
   },
   {
-   "id": "general-science-00807",
+   "id": "general-science-00827",
    "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
    "o": [
     "Iron - Paresthesia",
@@ -12120,7 +12420,7 @@
    "e": "Only Iron - Anaemia is correctly matched."
   },
   {
-   "id": "general-science-00808",
+   "id": "general-science-00828",
    "q": "Treponema pallidum bacteria causes which of the following diseases?",
    "o": [
     "Amoebic dysentery",
@@ -12135,7 +12435,7 @@
    "e": "Treponema pallidum bacteria causes Syphilis."
   },
   {
-   "id": "general-science-00809",
+   "id": "general-science-00829",
    "q": "Watson and Crick is associated with which of the following?",
    "o": [
     "Theory of relativity",
@@ -12150,7 +12450,7 @@
    "e": "Watson and Crick is associated with DNA double helix structure."
   },
   {
-   "id": "general-science-00810",
+   "id": "general-science-00830",
    "q": "Potassium nitrate (KNO3) is commonly known as which of the following?",
    "o": [
     "Spirit of salt",
@@ -12165,7 +12465,7 @@
    "e": "Potassium nitrate (KNO3) is commonly known as Nitre / saltpetre."
   },
   {
-   "id": "general-science-00811",
+   "id": "general-science-00831",
    "q": "Acoustics is the study of which of the following?",
    "o": [
     "Physics of celestial objects",
@@ -12180,7 +12480,7 @@
    "e": "Acoustics is the study of Sound."
   },
   {
-   "id": "general-science-00812",
+   "id": "general-science-00832",
    "q": "Which of the following statements about Venus is correct?",
    "o": [
     "Jupiter",
@@ -12195,7 +12495,7 @@
    "e": "Venus: Venus."
   },
   {
-   "id": "general-science-00813",
+   "id": "general-science-00833",
    "q": "Which scientist is associated with Bose-Einstein statistics?",
    "o": [
     "Max Planck",
@@ -12210,7 +12510,7 @@
    "e": "Bose-Einstein statistics is associated with S. N. Bose."
   },
   {
-   "id": "general-science-00814",
+   "id": "general-science-00834",
    "q": "Which instrument measures wind direction?",
    "o": [
     "Norwester (Kal Baisakhi)",
@@ -12225,7 +12525,7 @@
    "e": "Which instrument measures wind direction — Wind vane."
   },
   {
-   "id": "general-science-00815",
+   "id": "general-science-00835",
    "q": "Which mission is described as: Technology driven urban development?",
    "o": [
     "HRIDAY",
@@ -12240,7 +12540,7 @@
    "e": "Technology driven urban development describes Smart Cities Mission."
   },
   {
-   "id": "general-science-00816",
+   "id": "general-science-00836",
    "q": "ASCII is best described as which of the following?",
    "o": [
     "Number system with base sixteen",
@@ -12255,7 +12555,7 @@
    "e": "ASCII — Standard code for representing characters."
   },
   {
-   "id": "general-science-00817",
+   "id": "general-science-00837",
    "q": "Which of the following pairs of pollutant and effect is correctly matched?",
    "o": [
     "Particulate matter PM 2.5 - Reduces oxygen carrying capacity of blood",
@@ -12270,7 +12570,7 @@
    "e": "Only Particulate matter PM 2.5 - Fine particles that reach deep into the lungs is correctly matched."
   },
   {
-   "id": "general-science-00818",
+   "id": "general-science-00838",
    "q": "Which element has the chemical symbol Re?",
    "o": [
     "Rubidium",
@@ -12285,7 +12585,7 @@
    "e": "Re is the symbol of Rhenium."
   },
   {
-   "id": "general-science-00819",
+   "id": "general-science-00839",
    "q": "Which physical quantity is measured in Metre?",
    "o": [
     "Electrical conductance",
@@ -12300,7 +12600,7 @@
    "e": "Metre is the SI unit of Length."
   },
   {
-   "id": "general-science-00820",
+   "id": "general-science-00840",
    "q": "Barometer is used for which of the following purposes?",
    "o": [
     "Atmospheric pressure",
@@ -12315,7 +12615,7 @@
    "e": "Barometer measures Atmospheric pressure."
   },
   {
-   "id": "general-science-00821",
+   "id": "general-science-00841",
    "q": "Which body part performs the function of Largest artery?",
    "o": [
     "Aorta",
@@ -12330,7 +12630,7 @@
    "e": "Largest artery is performed by the Aorta."
   },
   {
-   "id": "general-science-00822",
+   "id": "general-science-00842",
    "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
    "o": [
     "Vitamin D - Goitre",
@@ -12345,7 +12645,7 @@
    "e": "Only Vitamin D - Rickets is correctly matched."
   },
   {
-   "id": "general-science-00823",
+   "id": "general-science-00843",
    "q": "Trypanosoma brucei causes which of the following diseases?",
    "o": [
     "Sleeping sickness",
@@ -12360,7 +12660,7 @@
    "e": "Trypanosoma brucei causes Sleeping sickness."
   },
   {
-   "id": "general-science-00824",
+   "id": "general-science-00844",
    "q": "Joseph Priestley is associated with which of the following?",
    "o": [
     "Electric bulb",
@@ -12375,7 +12675,7 @@
    "e": "Joseph Priestley is associated with Oxygen."
   },
   {
-   "id": "general-science-00825",
+   "id": "general-science-00845",
    "q": "Sodium chloride (NaCl) is commonly known as which of the following?",
    "o": [
     "Common salt",
@@ -12390,7 +12690,7 @@
    "e": "Sodium chloride (NaCl) is commonly known as Common salt."
   },
   {
-   "id": "general-science-00826",
+   "id": "general-science-00846",
    "q": "Numismatics is the study of which of the following?",
    "o": [
     "Living organisms",
@@ -12405,7 +12705,7 @@
    "e": "Numismatics is the study of Coins."
   },
   {
-   "id": "general-science-00827",
+   "id": "general-science-00847",
    "q": "Which of the following statements about Neptune is correct?",
    "o": [
     "Third",
@@ -12420,7 +12720,7 @@
    "e": "Neptune: Neptune."
   },
   {
-   "id": "general-science-00828",
+   "id": "general-science-00848",
    "q": "Which scientist is associated with Plant physiology and radio waves?",
    "o": [
     "Galileo Galilei",
@@ -12435,7 +12735,7 @@
    "e": "Plant physiology and radio waves is associated with Jagadish Chandra Bose."
   },
   {
-   "id": "general-science-00829",
+   "id": "general-science-00849",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which layer of the atmosphere contains the ozone layer - Cherry blossom showers",
@@ -12450,7 +12750,7 @@
    "e": "Only Which layer of the atmosphere contains the ozone layer - Stratosphere is correctly matched."
   },
   {
-   "id": "general-science-00830",
+   "id": "general-science-00850",
    "q": "Which mission is described as: Radar imaging satellites for all-weather observation?",
    "o": [
     "Chandrayaan-3",
@@ -12465,7 +12765,7 @@
    "e": "Radar imaging satellites for all-weather observation describes RISAT."
   },
   {
-   "id": "general-science-00831",
+   "id": "general-science-00851",
    "q": "Malware is best described as which of the following?",
    "o": [
     "Software designed to damage or intrude",
@@ -12480,7 +12780,7 @@
    "e": "Malware — Software designed to damage or intrude."
   },
   {
-   "id": "general-science-00832",
+   "id": "general-science-00852",
    "q": "Which of the following pairs of pollutant and effect is correctly matched?",
    "o": [
     "Phosphate detergents - Causes fluorosis in excess",
@@ -12495,7 +12795,7 @@
    "e": "Only Phosphate detergents - Cause algal blooms in water is correctly matched."
   },
   {
-   "id": "general-science-00833",
+   "id": "general-science-00853",
    "q": "Which element has the chemical symbol Ir?",
    "o": [
     "Hassium",
@@ -12510,7 +12810,7 @@
    "e": "Ir is the symbol of Iridium."
   },
   {
-   "id": "general-science-00834",
+   "id": "general-science-00854",
    "q": "Which physical quantity is measured in Tesla?",
    "o": [
     "Magnetic flux density",
@@ -12525,7 +12825,7 @@
    "e": "Tesla is the SI unit of Magnetic flux density."
   },
   {
-   "id": "general-science-00835",
+   "id": "general-science-00855",
    "q": "Nephelometer is used for which of the following purposes?",
    "o": [
     "Turbidity of liquid",
@@ -12540,7 +12840,7 @@
    "e": "Nephelometer measures Turbidity of liquid."
   },
   {
-   "id": "general-science-00836",
+   "id": "general-science-00856",
    "q": "Which body part performs the function of Oxygen carrying pigment?",
    "o": [
     "Platelets",
@@ -12555,7 +12855,7 @@
    "e": "Oxygen carrying pigment is performed by the Hemoglobin."
   },
   {
-   "id": "general-science-00837",
+   "id": "general-science-00857",
    "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
    "o": [
     "Vitamin D - Megaloblastic anaemia",
@@ -12570,7 +12870,7 @@
    "e": "Only Vitamin D - Rickets is correctly matched."
   },
   {
-   "id": "general-science-00838",
+   "id": "general-science-00858",
    "q": "Rhinovirus causes which of the following diseases?",
    "o": [
     "Amoebic dysentery",
@@ -12585,7 +12885,7 @@
    "e": "Rhinovirus causes Common cold."
   },
   {
-   "id": "general-science-00839",
+   "id": "general-science-00859",
    "q": "James Chadwick is associated with which of the following?",
    "o": [
     "Diesel engine",
@@ -12600,7 +12900,7 @@
    "e": "James Chadwick is associated with Neutron."
   },
   {
-   "id": "general-science-00840",
+   "id": "general-science-00860",
    "q": "Zinc chloride (ZnCl2) is commonly known as which of the following?",
    "o": [
     "Butter of zinc",
@@ -12615,7 +12915,7 @@
    "e": "Zinc chloride (ZnCl2) is commonly known as Butter of zinc."
   },
   {
-   "id": "general-science-00841",
+   "id": "general-science-00861",
    "q": "Paediatrics is the study of which of the following?",
    "o": [
     "Fish farming",
@@ -12630,7 +12930,7 @@
    "e": "Paediatrics is the study of Child health."
   },
   {
-   "id": "general-science-00842",
+   "id": "general-science-00862",
    "q": "Which of the following statements about Uranus is correct?",
    "o": [
     "Earth",
@@ -12645,7 +12945,7 @@
    "e": "Uranus: Uranus."
   },
   {
-   "id": "general-science-00843",
+   "id": "general-science-00863",
    "q": "Which scientist is associated with First powered aeroplane flight?",
    "o": [
     "Har Gobind Khorana",
@@ -12660,7 +12960,7 @@
    "e": "First powered aeroplane flight is associated with Wright Brothers."
   },
   {
-   "id": "general-science-00844",
+   "id": "general-science-00864",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which layer of the atmosphere contains the ozone layer - Eight",
@@ -12675,7 +12975,7 @@
    "e": "Only Which layer of the atmosphere contains the ozone layer - Stratosphere is correctly matched."
   },
   {
-   "id": "general-science-00845",
+   "id": "general-science-00865",
    "q": "Which mission is described as: Cultural integration across states?",
    "o": [
     "Mission LiFE",
@@ -12690,7 +12990,7 @@
    "e": "Cultural integration across states describes Ek Bharat Shreshtha Bharat."
   },
   {
-   "id": "general-science-00846",
+   "id": "general-science-00866",
    "q": "JavaScript is best described as which of the following?",
    "o": [
     "Using more than one processor at a time",
@@ -12705,7 +13005,7 @@
    "e": "JavaScript — Language that adds behaviour to web pages."
   },
   {
-   "id": "general-science-00847",
+   "id": "general-science-00867",
    "q": "Which of the following pairs of pollutant and effect is correctly matched?",
    "o": [
     "Phosphate detergents - Causes acid rain",
@@ -12720,7 +13020,7 @@
    "e": "Only Phosphate detergents - Cause algal blooms in water is correctly matched."
   },
   {
-   "id": "general-science-00848",
+   "id": "general-science-00868",
    "q": "Which element has the chemical symbol Dy?",
    "o": [
     "Fermium",
@@ -12735,7 +13035,7 @@
    "e": "Dy is the symbol of Dysprosium."
   },
   {
-   "id": "general-science-00849",
+   "id": "general-science-00869",
    "q": "Which physical quantity is measured in Coulomb?",
    "o": [
     "Magnetic flux density",
@@ -12750,7 +13050,7 @@
    "e": "Coulomb is the SI unit of Electric charge."
   },
   {
-   "id": "general-science-00850",
+   "id": "general-science-00870",
    "q": "Tachometer is used for which of the following purposes?",
    "o": [
     "Magnified view of tiny objects",
@@ -12765,7 +13065,7 @@
    "e": "Tachometer measures Rotational speed."
   },
   {
-   "id": "general-science-00851",
+   "id": "general-science-00871",
    "q": "Which body part performs the function of Production of sperm?",
    "o": [
     "Large intestine",
@@ -12780,7 +13080,7 @@
    "e": "Production of sperm is performed by the Testes."
   },
   {
-   "id": "general-science-00852",
+   "id": "general-science-00872",
    "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
    "o": [
     "Phosphorus - Excessive bleeding",
@@ -12795,7 +13095,7 @@
    "e": "Only Phosphorus - Rickets in children is correctly matched."
   },
   {
-   "id": "general-science-00853",
+   "id": "general-science-00873",
    "q": "Neisseria gonorrhoeae bacteria causes which of the following diseases?",
    "o": [
     "Tetanus",
@@ -12810,7 +13110,7 @@
    "e": "Neisseria gonorrhoeae bacteria causes Gonorrhoea."
   },
   {
-   "id": "general-science-00854",
+   "id": "general-science-00874",
    "q": "Johannes Gutenberg is associated with which of the following?",
    "o": [
     "Printing press",
@@ -12825,7 +13125,7 @@
    "e": "Johannes Gutenberg is associated with Printing press."
   },
   {
-   "id": "general-science-00855",
+   "id": "general-science-00875",
    "q": "Sodium sulphate (Na2SO4) is commonly known as which of the following?",
    "o": [
     "Bleaching powder",
@@ -12840,7 +13140,7 @@
    "e": "Sodium sulphate (Na2SO4) is commonly known as Salt cake."
   },
   {
-   "id": "general-science-00856",
+   "id": "general-science-00876",
    "q": "Ornithology is the study of which of the following?",
    "o": [
     "Birds",
@@ -12855,7 +13155,7 @@
    "e": "Ornithology is the study of Birds."
   },
   {
-   "id": "general-science-00857",
+   "id": "general-science-00877",
    "q": "Which of the following statements about Neptune is correct?",
    "o": [
     "Eighth",
@@ -12870,7 +13170,7 @@
    "e": "Neptune: Eighth."
   },
   {
-   "id": "general-science-00858",
+   "id": "general-science-00878",
    "q": "Which scientist is associated with Molecular theory and Avogadro's law?",
    "o": [
     "Amedeo Avogadro",
@@ -12885,7 +13185,7 @@
    "e": "Molecular theory and Avogadro's law is associated with Amedeo Avogadro."
   },
   {
-   "id": "general-science-00859",
+   "id": "general-science-00879",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "What is molten rock that reaches the surface called - Coromandel Coast",
@@ -12900,7 +13200,7 @@
    "e": "Only What is molten rock that reaches the surface called - Lava is correctly matched."
   },
   {
-   "id": "general-science-00860",
+   "id": "general-science-00880",
    "q": "Which mission is described as: Electric vehicle promotion?",
    "o": [
     "Bharat Bill Payment System",
@@ -12915,7 +13215,7 @@
    "e": "Electric vehicle promotion describes Faster Adoption and Manufacturing of Electric Vehicles."
   },
   {
-   "id": "general-science-00861",
+   "id": "general-science-00881",
    "q": "Router is best described as which of the following?",
    "o": [
     "Two or more connected computers",
@@ -12930,7 +13230,7 @@
    "e": "Router — Device that forwards data between networks."
   },
   {
-   "id": "general-science-00862",
+   "id": "general-science-00882",
    "q": "Which of the following pairs of pollutant and effect is correctly matched?",
    "o": [
     "Carbon monoxide - Cause acid rain and smog",
@@ -12945,7 +13245,7 @@
    "e": "Only Carbon monoxide - Reduces oxygen carrying capacity of blood is correctly matched."
   },
   {
-   "id": "general-science-00863",
+   "id": "general-science-00883",
    "q": "Which element has the chemical symbol Mn?",
    "o": [
     "Fluorine",
@@ -12960,7 +13260,7 @@
    "e": "Mn is the symbol of Manganese."
   },
   {
-   "id": "general-science-00864",
+   "id": "general-science-00884",
    "q": "Which physical quantity is measured in Pascal?",
    "o": [
     "Mass",
@@ -12975,7 +13275,7 @@
    "e": "Pascal is the SI unit of Pressure."
   },
   {
-   "id": "general-science-00865",
+   "id": "general-science-00885",
    "q": "Periscope is used for which of the following purposes?",
    "o": [
     "Purity of milk",
@@ -12990,7 +13290,7 @@
    "e": "Periscope measures Objects above obstacles."
   },
   {
-   "id": "general-science-00866",
+   "id": "general-science-00886",
    "q": "Which body part performs the function of Detoxification and bile secretion?",
    "o": [
     "Stomach",
@@ -13005,7 +13305,7 @@
    "e": "Detoxification and bile secretion is performed by the Liver."
   },
   {
-   "id": "general-science-00867",
+   "id": "general-science-00887",
    "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
    "o": [
     "Phosphorus - Ariboflavinosis",
@@ -13020,7 +13320,7 @@
    "e": "Only Phosphorus - Rickets in children is correctly matched."
   },
   {
-   "id": "general-science-00868",
+   "id": "general-science-00888",
    "q": "Chikungunya virus causes which of the following diseases?",
    "o": [
     "Tuberculosis",
@@ -13035,7 +13335,7 @@
    "e": "Chikungunya virus causes Chikungunya."
   },
   {
-   "id": "general-science-00869",
+   "id": "general-science-00889",
    "q": "Ernest Rutherford is associated with which of the following?",
    "o": [
     "Law of planetary motion",
@@ -13050,7 +13350,7 @@
    "e": "Ernest Rutherford is associated with Proton."
   },
   {
-   "id": "general-science-00870",
+   "id": "general-science-00890",
    "q": "Ferrous sulphate (FeSO4.7H2O) is commonly known as which of the following?",
    "o": [
     "Caustic soda",
@@ -13065,7 +13365,7 @@
    "e": "Ferrous sulphate (FeSO4.7H2O) is commonly known as Green vitriol."
   },
   {
-   "id": "general-science-00871",
+   "id": "general-science-00891",
    "q": "Gerontology is the study of which of the following?",
    "o": [
     "Reptiles and amphibians",
@@ -13080,7 +13380,7 @@
    "e": "Gerontology is the study of Ageing."
   },
   {
-   "id": "general-science-00872",
+   "id": "general-science-00892",
    "q": "Which of the following statements about Saturn is correct?",
    "o": [
     "Sirius",
@@ -13095,7 +13395,7 @@
    "e": "Saturn: Sixth."
   },
   {
-   "id": "general-science-00873",
+   "id": "general-science-00893",
    "q": "Which scientist is associated with ABO blood group system?",
    "o": [
     "Jacques Charles",
@@ -13110,7 +13410,7 @@
    "e": "ABO blood group system is associated with Karl Landsteiner."
   },
   {
-   "id": "general-science-00874",
+   "id": "general-science-00894",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "What is molten rock that reaches the surface called - Venus",
@@ -13125,7 +13425,7 @@
    "e": "Only What is molten rock that reaches the surface called - Lava is correctly matched."
   },
   {
-   "id": "general-science-00875",
+   "id": "general-science-00895",
    "q": "Which mission is described as: Conservation of tigers and their habitats?",
    "o": [
     "Project Tiger",
@@ -13140,7 +13440,7 @@
    "e": "Conservation of tigers and their habitats describes Project Tiger."
   },
   {
-   "id": "general-science-00876",
+   "id": "general-science-00896",
    "q": "BIOS is best described as which of the following?",
    "o": [
     "Output device that produces sound",
@@ -13155,7 +13455,7 @@
    "e": "BIOS — Firmware that starts the computer."
   },
   {
-   "id": "general-science-00877",
+   "id": "general-science-00897",
    "q": "Which of the following pairs of pollutant and effect is correctly matched?",
    "o": [
     "Carbon monoxide - Damage marine life and coastlines",
@@ -13170,7 +13470,7 @@
    "e": "Only Carbon monoxide - Reduces oxygen carrying capacity of blood is correctly matched."
   },
   {
-   "id": "general-science-00878",
+   "id": "general-science-00898",
    "q": "Which element has the chemical symbol C?",
    "o": [
     "Americium",
@@ -13185,7 +13485,7 @@
    "e": "C is the symbol of Carbon."
   },
   {
-   "id": "general-science-00879",
+   "id": "general-science-00899",
    "q": "Which physical quantity is measured in Lumen?",
    "o": [
     "Luminous flux",
@@ -13200,7 +13500,7 @@
    "e": "Lumen is the SI unit of Luminous flux."
   },
   {
-   "id": "general-science-00880",
+   "id": "general-science-00900",
    "q": "Hygrometer is used for which of the following purposes?",
    "o": [
     "Rotational speed",
@@ -13215,7 +13515,7 @@
    "e": "Hygrometer measures Humidity."
   },
   {
-   "id": "general-science-00881",
+   "id": "general-science-00901",
    "q": "Which body part performs the function of Refraction of light in the eye?",
    "o": [
     "Retina",
@@ -13230,7 +13530,7 @@
    "e": "Refraction of light in the eye is performed by the Cornea."
   },
   {
-   "id": "general-science-00882",
+   "id": "general-science-00902",
    "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
    "o": [
     "Zinc - Haemolysis of red blood cells",
@@ -13245,7 +13545,7 @@
    "e": "Only Zinc - Growth retardation is correctly matched."
   },
   {
-   "id": "general-science-00883",
+   "id": "general-science-00903",
    "q": "Mumps virus causes which of the following diseases?",
    "o": [
     "Measles",
@@ -13260,7 +13560,7 @@
    "e": "Mumps virus causes Mumps."
   },
   {
-   "id": "general-science-00884",
+   "id": "general-science-00904",
    "q": "Isaac Newton is associated with which of the following?",
    "o": [
     "Blood groups",
@@ -13275,7 +13575,7 @@
    "e": "Isaac Newton is associated with Gravity."
   },
   {
-   "id": "general-science-00885",
+   "id": "general-science-00905",
    "q": "Sodium carbonate (Na2CO3) is commonly known as which of the following?",
    "o": [
     "Salt cake",
@@ -13290,7 +13590,7 @@
    "e": "Sodium carbonate (Na2CO3) is commonly known as Washing soda."
   },
   {
-   "id": "general-science-00886",
+   "id": "general-science-00906",
    "q": "Astronomy is the study of which of the following?",
    "o": [
     "Light",
@@ -13305,7 +13605,7 @@
    "e": "Astronomy is the study of Celestial objects and the universe."
   },
   {
-   "id": "general-science-00887",
+   "id": "general-science-00907",
    "q": "Which of the following statements about Olympus Mons is correct?",
    "o": [
     "Black hole",
@@ -13320,7 +13620,7 @@
    "e": "Olympus Mons: Mars."
   },
   {
-   "id": "general-science-00888",
+   "id": "general-science-00908",
    "q": "Which scientist is associated with Electromagnetic theory?",
    "o": [
     "C. V. Raman",
@@ -13335,7 +13635,7 @@
    "e": "Electromagnetic theory is associated with James Clerk Maxwell."
   },
   {
-   "id": "general-science-00889",
+   "id": "general-science-00909",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "What is the seasonal reversal of winds called - Crust",
@@ -13350,7 +13650,7 @@
    "e": "Only What is the seasonal reversal of winds called - Monsoon is correctly matched."
   },
   {
-   "id": "general-science-00890",
+   "id": "general-science-00910",
    "q": "Which mission is described as: Multi-wavelength space observatory?",
    "o": [
     "National Action Plan on Climate Change",
@@ -13365,7 +13665,7 @@
    "e": "Multi-wavelength space observatory describes AstroSat."
   },
   {
-   "id": "general-science-00891",
+   "id": "general-science-00911",
    "q": "Cache is best described as which of the following?",
    "o": [
     "Portable USB flash storage device",
@@ -13380,7 +13680,7 @@
    "e": "Cache — Temporary storage for frequently used data."
   },
   {
-   "id": "general-science-00892",
+   "id": "general-science-00912",
    "q": "Which of the following pairs of pollutant and effect is correctly matched?",
    "o": [
     "Nitrate from fertilisers - Causes eutrophication of water bodies",
@@ -13395,7 +13695,7 @@
    "e": "Only Nitrate from fertilisers - Causes eutrophication of water bodies is correctly matched."
   },
   {
-   "id": "general-science-00893",
+   "id": "general-science-00913",
    "q": "Which element has the chemical symbol Ru?",
    "o": [
     "Ruthenium",
@@ -13410,7 +13710,7 @@
    "e": "Ru is the symbol of Ruthenium."
   },
   {
-   "id": "general-science-00894",
+   "id": "general-science-00914",
    "q": "Which physical quantity is measured in Weber?",
    "o": [
     "Temperature",
@@ -13425,7 +13725,7 @@
    "e": "Weber is the SI unit of Magnetic flux."
   },
   {
-   "id": "general-science-00895",
+   "id": "general-science-00915",
    "q": "Telescope is used for which of the following purposes?",
    "o": [
     "Altitude",
@@ -13440,7 +13740,7 @@
    "e": "Telescope measures Distant objects."
   },
   {
-   "id": "general-science-00896",
+   "id": "general-science-00916",
    "q": "Which body part performs the function of Exchange of gases?",
    "o": [
     "Adrenal gland",
@@ -13455,7 +13755,7 @@
    "e": "Exchange of gases is performed by the Lungs."
   },
   {
-   "id": "general-science-00897",
+   "id": "general-science-00917",
    "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
    "o": [
     "Zinc - Pernicious anaemia",
@@ -13470,7 +13770,7 @@
    "e": "Only Zinc - Growth retardation is correctly matched."
   },
   {
-   "id": "general-science-00898",
+   "id": "general-science-00918",
    "q": "Dengue virus causes which of the following diseases?",
    "o": [
     "Rabies",
@@ -13485,7 +13785,7 @@
    "e": "Dengue virus causes Dengue."
   },
   {
-   "id": "general-science-00899",
+   "id": "general-science-00919",
    "q": "Alfred Nobel is associated with which of the following?",
    "o": [
     "Electric bulb",
@@ -13500,7 +13800,7 @@
    "e": "Alfred Nobel is associated with Dynamite."
   },
   {
-   "id": "general-science-00900",
+   "id": "general-science-00920",
    "q": "Copper sulphate (CuSO4.5H2O) is commonly known as which of the following?",
    "o": [
     "White vitriol",
@@ -13515,7 +13815,7 @@
    "e": "Copper sulphate (CuSO4.5H2O) is commonly known as Blue vitriol."
   },
   {
-   "id": "general-science-00901",
+   "id": "general-science-00921",
    "q": "Physiology is the study of which of the following?",
    "o": [
     "Living organisms",
@@ -13530,7 +13830,7 @@
    "e": "Physiology is the study of Functions of living organisms."
   },
   {
-   "id": "general-science-00902",
+   "id": "general-science-00922",
    "q": "Which of the following statements about Moon is correct?",
    "o": [
     "Third",
@@ -13545,7 +13845,7 @@
    "e": "Moon: Moon."
   },
   {
-   "id": "general-science-00903",
+   "id": "general-science-00923",
    "q": "Which scientist is associated with Laws of inheritance?",
    "o": [
     "Galileo Galilei",
@@ -13560,7 +13860,7 @@
    "e": "Laws of inheritance is associated with Gregor Mendel."
   },
   {
-   "id": "general-science-00904",
+   "id": "general-science-00924",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "What is the seasonal reversal of winds called - Monsoon",
@@ -13575,7 +13875,7 @@
    "e": "Only What is the seasonal reversal of winds called - Monsoon is correctly matched."
   },
   {
-   "id": "general-science-00905",
+   "id": "general-science-00925",
    "q": "Which mission is described as: Regional satellite navigation system?",
    "o": [
     "Project Cheetah",
@@ -13590,7 +13890,7 @@
    "e": "Regional satellite navigation system describes NavIC."
   },
   {
-   "id": "general-science-00906",
+   "id": "general-science-00926",
    "q": "MAN is best described as which of the following?",
    "o": [
     "Network covering a city",
@@ -13605,7 +13905,7 @@
    "e": "MAN — Network covering a city."
   },
   {
-   "id": "general-science-00907",
+   "id": "general-science-00927",
    "q": "Which of the following pairs of pollutant and effect is correctly matched?",
    "o": [
     "Nitrate from fertilisers - Causes eutrophication of water bodies",
@@ -13620,7 +13920,7 @@
    "e": "Only Nitrate from fertilisers - Causes eutrophication of water bodies is correctly matched."
   },
   {
-   "id": "general-science-00908",
+   "id": "general-science-00928",
    "q": "Which element has the chemical symbol Pu?",
    "o": [
     "Cadmium",
@@ -13635,7 +13935,7 @@
    "e": "Pu is the symbol of Plutonium."
   },
   {
-   "id": "general-science-00909",
+   "id": "general-science-00929",
    "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
    "o": [
     "Viscosity (dynamic) - Pascal second",
@@ -13650,7 +13950,7 @@
    "e": "Only Viscosity (dynamic) - Pascal second is correctly matched."
   },
   {
-   "id": "general-science-00910",
+   "id": "general-science-00930",
    "q": "Sphygmomanometer is used for which of the following purposes?",
    "o": [
     "Gas pressure",
@@ -13665,7 +13965,7 @@
    "e": "Sphygmomanometer measures Blood pressure."
   },
   {
-   "id": "general-science-00911",
+   "id": "general-science-00931",
    "q": "Which body part performs the function of Secretion of thyroxine?",
    "o": [
     "Diaphragm",
@@ -13680,7 +13980,7 @@
    "e": "Secretion of thyroxine is performed by the Thyroid gland."
   },
   {
-   "id": "general-science-00912",
+   "id": "general-science-00932",
    "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
    "o": [
     "Vitamin A - Night blindness",
@@ -13695,7 +13995,7 @@
    "e": "Only Vitamin A - Night blindness is correctly matched."
   },
   {
-   "id": "general-science-00913",
+   "id": "general-science-00933",
    "q": "Yersinia pestis bacteria causes which of the following diseases?",
    "o": [
     "Kala-azar",
@@ -13710,7 +14010,7 @@
    "e": "Yersinia pestis bacteria causes Plague."
   },
   {
-   "id": "general-science-00914",
+   "id": "general-science-00934",
    "q": "Karl Benz is associated with which of the following?",
    "o": [
     "Penicillin",
@@ -13725,7 +14025,7 @@
    "e": "Karl Benz is associated with Motor car."
   },
   {
-   "id": "general-science-00915",
+   "id": "general-science-00935",
    "q": "Calcium oxide (CaO) is commonly known as which of the following?",
    "o": [
     "Caustic potash",
@@ -13740,7 +14040,7 @@
    "e": "Calcium oxide (CaO) is commonly known as Quick lime."
   },
   {
-   "id": "general-science-00916",
+   "id": "general-science-00936",
    "q": "Virology is the study of which of the following?",
    "o": [
     "Diseases",
@@ -13755,7 +14055,7 @@
    "e": "Virology is the study of Viruses."
   },
   {
-   "id": "general-science-00917",
+   "id": "general-science-00937",
    "q": "Which of the following statements about Venus is correct?",
    "o": [
     "Eighth",
@@ -13770,7 +14070,7 @@
    "e": "Venus: Venus."
   },
   {
-   "id": "general-science-00918",
+   "id": "general-science-00938",
    "q": "Which scientist is associated with Fahrenheit temperature scale?",
    "o": [
     "Louis Pasteur",
@@ -13785,7 +14085,7 @@
    "e": "Fahrenheit temperature scale is associated with Daniel Fahrenheit."
   },
   {
-   "id": "general-science-00919",
+   "id": "general-science-00939",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "What is the point on the surface above the earthquake focus called - Loo",
@@ -13800,7 +14100,7 @@
    "e": "Only What is the point on the surface above the earthquake focus called - Epicentre is correctly matched."
   },
   {
-   "id": "general-science-00920",
+   "id": "general-science-00940",
    "q": "Which mission is described as: Conservation of river and marine dolphins?",
    "o": [
     "Project Dolphin",
@@ -13815,7 +14115,7 @@
    "e": "Conservation of river and marine dolphins describes Project Dolphin."
   },
   {
-   "id": "general-science-00921",
+   "id": "general-science-00941",
    "q": "Wi-Fi is best described as which of the following?",
    "o": [
     "Wireless local area networking technology",
@@ -13830,7 +14130,7 @@
    "e": "Wi-Fi — Wireless local area networking technology."
   },
   {
-   "id": "general-science-00922",
+   "id": "general-science-00942",
    "q": "Which of the following pairs of pollutant and effect is correctly matched?",
    "o": [
     "Thermal discharge from power plants - Reduces oxygen carrying capacity of blood",
@@ -13845,7 +14145,7 @@
    "e": "Only Thermal discharge from power plants - Raises water temperature and harms aquatic life is correctly matched."
   },
   {
-   "id": "general-science-00923",
+   "id": "general-science-00943",
    "q": "Which element has the chemical symbol Rf?",
    "o": [
     "Lanthanum",
@@ -13860,7 +14160,7 @@
    "e": "Rf is the symbol of Rutherfordium."
   },
   {
-   "id": "general-science-00924",
+   "id": "general-science-00944",
    "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
    "o": [
     "Viscosity (dynamic) - Joule",
@@ -13875,7 +14175,7 @@
    "e": "Only Viscosity (dynamic) - Pascal second is correctly matched."
   },
   {
-   "id": "general-science-00925",
+   "id": "general-science-00945",
    "q": "Microscope is used for which of the following purposes?",
    "o": [
     "Magnified view of tiny objects",
@@ -13890,7 +14190,7 @@
    "e": "Microscope measures Magnified view of tiny objects."
   },
   {
-   "id": "general-science-00926",
+   "id": "general-science-00946",
    "q": "Which body part performs the function of Sensitive layer of the eye?",
    "o": [
     "Retina",
@@ -13905,7 +14205,7 @@
    "e": "Sensitive layer of the eye is performed by the Retina."
   },
   {
-   "id": "general-science-00927",
+   "id": "general-science-00947",
    "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
    "o": [
     "Vitamin A - Night blindness",
@@ -13920,7 +14220,7 @@
    "e": "Only Vitamin A - Night blindness is correctly matched."
   },
   {
-   "id": "general-science-00928",
+   "id": "general-science-00948",
    "q": "Measles virus causes which of the following diseases?",
    "o": [
     "Measles",
@@ -13935,7 +14235,7 @@
    "e": "Measles virus causes Measles."
   },
   {
-   "id": "general-science-00929",
+   "id": "general-science-00949",
    "q": "Jacob Perkins is associated with which of the following?",
    "o": [
     "Telephone",
@@ -13950,7 +14250,7 @@
    "e": "Jacob Perkins is associated with Refrigerator."
   },
   {
-   "id": "general-science-00930",
+   "id": "general-science-00950",
    "q": "Calcium oxychloride (CaOCl2) is commonly known as which of the following?",
    "o": [
     "Bleaching powder",
@@ -13965,7 +14265,7 @@
    "e": "Calcium oxychloride (CaOCl2) is commonly known as Bleaching powder."
   },
   {
-   "id": "general-science-00931",
+   "id": "general-science-00951",
    "q": "Taxonomy is the study of which of the following?",
    "o": [
     "Composition and properties of substances",
@@ -13980,7 +14280,7 @@
    "e": "Taxonomy is the study of Classification of organisms."
   },
   {
-   "id": "general-science-00932",
+   "id": "general-science-00952",
    "q": "Which of the following statements about Mars is correct?",
    "o": [
     "Second",
@@ -13995,7 +14295,7 @@
    "e": "Mars: Mars."
   },
   {
-   "id": "general-science-00933",
+   "id": "general-science-00953",
    "q": "Which scientist is associated with Absolute temperature scale?",
    "o": [
     "Albert Einstein",
@@ -14010,7 +14310,7 @@
    "e": "Absolute temperature scale is associated with Lord Kelvin."
   },
   {
-   "id": "general-science-00934",
+   "id": "general-science-00954",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "What is the point on the surface above the earthquake focus called - Venus",
@@ -14025,7 +14325,7 @@
    "e": "Only What is the point on the surface above the earthquake focus called - Epicentre is correctly matched."
   },
   {
-   "id": "general-science-00935",
+   "id": "general-science-00955",
    "q": "Which mission is described as: Green hydrogen production and export hub?",
    "o": [
     "National Green Hydrogen Mission",
@@ -14040,7 +14340,7 @@
    "e": "Green hydrogen production and export hub describes National Green Hydrogen Mission."
   },
   {
-   "id": "general-science-00936",
+   "id": "general-science-00956",
    "q": "Hard disk is best described as which of the following?",
    "o": [
     "Protocol used to transfer web pages",
@@ -14055,7 +14355,7 @@
    "e": "Hard disk — Magnetic secondary storage device."
   },
   {
-   "id": "general-science-00937",
+   "id": "general-science-00957",
    "q": "Which of the following pairs of pollutant and effect is correctly matched?",
    "o": [
     "Thermal discharge from power plants - Causes hearing loss",
@@ -14070,7 +14370,7 @@
    "e": "Only Thermal discharge from power plants - Raises water temperature and harms aquatic life is correctly matched."
   },
   {
-   "id": "general-science-00938",
+   "id": "general-science-00958",
    "q": "Which element has the chemical symbol Hf?",
    "o": [
     "Germanium",
@@ -14085,7 +14385,7 @@
    "e": "Hf is the symbol of Hafnium."
   },
   {
-   "id": "general-science-00939",
+   "id": "general-science-00959",
    "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
    "o": [
     "Electric charge - Joule",
@@ -14100,7 +14400,7 @@
    "e": "Only Electric charge - Coulomb is correctly matched."
   },
   {
-   "id": "general-science-00940",
+   "id": "general-science-00960",
    "q": "Pyrometer is used for which of the following purposes?",
    "o": [
     "High temperature",
@@ -14115,7 +14415,7 @@
    "e": "Pyrometer measures High temperature."
   },
   {
-   "id": "general-science-00941",
+   "id": "general-science-00961",
    "q": "Which body part performs the function of Master gland of the body?",
    "o": [
     "Pituitary gland",
@@ -14130,7 +14430,7 @@
    "e": "Master gland of the body is performed by the Pituitary gland."
   },
   {
-   "id": "general-science-00942",
+   "id": "general-science-00962",
    "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
    "o": [
     "Vitamin B5 - Megaloblastic anaemia",
@@ -14145,7 +14445,7 @@
    "e": "Only Vitamin B5 - Paresthesia is correctly matched."
   },
   {
-   "id": "general-science-00943",
+   "id": "general-science-00963",
    "q": "Bacillus anthracis bacteria causes which of the following diseases?",
    "o": [
     "Anthrax",
@@ -14160,7 +14460,7 @@
    "e": "Bacillus anthracis bacteria causes Anthrax."
   },
   {
-   "id": "general-science-00944",
+   "id": "general-science-00964",
    "q": "Max Planck is associated with which of the following?",
    "o": [
     "Telephone",
@@ -14175,7 +14475,7 @@
    "e": "Max Planck is associated with Quantum theory."
   },
   {
-   "id": "general-science-00945",
+   "id": "general-science-00965",
    "q": "Potassium aluminium sulphate is commonly known as which of the following?",
    "o": [
     "Alum",
@@ -14190,7 +14490,7 @@
    "e": "Potassium aluminium sulphate is commonly known as Alum."
   },
   {
-   "id": "general-science-00946",
+   "id": "general-science-00966",
    "q": "Radiology is the study of which of the following?",
    "o": [
     "Composition and properties of substances",
@@ -14205,7 +14505,7 @@
    "e": "Radiology is the study of Radiant energy in medicine."
   },
   {
-   "id": "general-science-00947",
+   "id": "general-science-00967",
    "q": "Which of the following statements about Aurora is correct?",
    "o": [
     "Second",
@@ -14220,7 +14520,7 @@
    "e": "Aurora: Aurora."
   },
   {
-   "id": "general-science-00948",
+   "id": "general-science-00968",
    "q": "Which scientist is associated with Synthesis of nucleic acids?",
    "o": [
     "Albert Einstein",
@@ -14235,7 +14535,7 @@
    "e": "Synthesis of nucleic acids is associated with Hargobind Khorana."
   },
   {
-   "id": "general-science-00949",
+   "id": "general-science-00969",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which place receives the highest rainfall in India - Norwester (Kal Baisakhi)",
@@ -14250,7 +14550,7 @@
    "e": "Only Which place receives the highest rainfall in India - Mawsynram is correctly matched."
   },
   {
-   "id": "general-science-00950",
+   "id": "general-science-00970",
    "q": "Which mission is described as: Delivery of services through digital platforms?",
    "o": [
     "Mission LiFE",
@@ -14265,7 +14565,7 @@
    "e": "Delivery of services through digital platforms describes Digital India Programme."
   },
   {
-   "id": "general-science-00951",
+   "id": "general-science-00971",
    "q": "FTP is best described as which of the following?",
    "o": [
     "Restarting a computer",
@@ -14280,7 +14580,7 @@
    "e": "FTP — Protocol for transferring files."
   },
   {
-   "id": "general-science-00952",
+   "id": "general-science-00972",
    "q": "Which of the following pairs of pollutant and effect is correctly matched?",
    "o": [
     "Arsenic - Causes hearing loss",
@@ -14295,7 +14595,7 @@
    "e": "Only Arsenic - Causes skin lesions and cancer in groundwater is correctly matched."
   },
   {
-   "id": "general-science-00953",
+   "id": "general-science-00973",
    "q": "Which element has the chemical symbol Nb?",
    "o": [
     "Niobium",
@@ -14310,7 +14610,7 @@
    "e": "Nb is the symbol of Niobium."
   },
   {
-   "id": "general-science-00954",
+   "id": "general-science-00974",
    "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
    "o": [
     "Electric charge - Reciprocal metre",
@@ -14325,7 +14625,7 @@
    "e": "Only Electric charge - Coulomb is correctly matched."
   },
   {
-   "id": "general-science-00955",
+   "id": "general-science-00975",
    "q": "Geiger counter is used for which of the following purposes?",
    "o": [
     "Wind speed",
@@ -14340,7 +14640,7 @@
    "e": "Geiger counter measures Ionising radiation."
   },
   {
-   "id": "general-science-00956",
+   "id": "general-science-00976",
    "q": "Which body part performs the function of Secretion of adrenaline?",
    "o": [
     "Vena cava",
@@ -14355,7 +14655,7 @@
    "e": "Secretion of adrenaline is performed by the Adrenal gland."
   },
   {
-   "id": "general-science-00957",
+   "id": "general-science-00977",
    "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
    "o": [
     "Vitamin B5 - Paresthesia",
@@ -14370,7 +14670,7 @@
    "e": "Only Vitamin B5 - Paresthesia is correctly matched."
   },
   {
-   "id": "general-science-00958",
+   "id": "general-science-00978",
    "q": "Rabies virus causes which of the following diseases?",
    "o": [
     "Yellow fever",
@@ -14385,7 +14685,7 @@
    "e": "Rabies virus causes Rabies."
   },
   {
-   "id": "general-science-00959",
+   "id": "general-science-00979",
    "q": "Guglielmo Marconi is associated with which of the following?",
    "o": [
     "Radio",
@@ -14400,7 +14700,7 @@
    "e": "Guglielmo Marconi is associated with Radio."
   },
   {
-   "id": "general-science-00960",
+   "id": "general-science-00980",
    "q": "Magnesium oxide (MgO) is commonly known as which of the following?",
    "o": [
     "Lime water",
@@ -14415,7 +14715,7 @@
    "e": "Magnesium oxide (MgO) is commonly known as Magnesia."
   },
   {
-   "id": "general-science-00961",
+   "id": "general-science-00981",
    "q": "Zoology is the study of which of the following?",
    "o": [
     "Animals",
@@ -14430,7 +14730,7 @@
    "e": "Zoology is the study of Animals."
   },
   {
-   "id": "general-science-00962",
+   "id": "general-science-00982",
    "q": "Which of the following statements about Mars is correct?",
    "o": [
     "Fourth",
@@ -14445,7 +14745,7 @@
    "e": "Mars: Fourth."
   },
   {
-   "id": "general-science-00963",
+   "id": "general-science-00983",
    "q": "Which scientist is associated with Laws of planetary motion?",
    "o": [
     "Johannes Kepler",
@@ -14460,7 +14760,7 @@
    "e": "Laws of planetary motion is associated with Johannes Kepler."
   },
   {
-   "id": "general-science-00964",
+   "id": "general-science-00984",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which place receives the highest rainfall in India - From the sea to the land",
@@ -14475,7 +14775,7 @@
    "e": "Only Which place receives the highest rainfall in India - Mawsynram is correctly matched."
   },
   {
-   "id": "general-science-00965",
+   "id": "general-science-00985",
    "q": "Which mission is described as: Broadband for all by 2024?",
    "o": [
     "Swachh Survekshan",
@@ -14490,7 +14790,7 @@
    "e": "Broadband for all by 2024 describes National Broadband Mission."
   },
   {
-   "id": "general-science-00966",
+   "id": "general-science-00986",
    "q": "Keyboard is best described as which of the following?",
    "o": [
     "High level general purpose programming language",
@@ -14505,7 +14805,7 @@
    "e": "Keyboard — Input device used for typing."
   },
   {
-   "id": "general-science-00967",
+   "id": "general-science-00987",
    "q": "Which of the following pairs of pollutant and effect is correctly matched?",
    "o": [
     "Arsenic - Releases heavy metals when dumped improperly",
@@ -14520,7 +14820,7 @@
    "e": "Only Arsenic - Causes skin lesions and cancer in groundwater is correctly matched."
   },
   {
-   "id": "general-science-00968",
+   "id": "general-science-00988",
    "q": "Which element has the chemical symbol Hg?",
    "o": [
     "Mercury",
@@ -14535,7 +14835,7 @@
    "e": "Hg is the symbol of Mercury."
   },
   {
-   "id": "general-science-00969",
+   "id": "general-science-00989",
    "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
    "o": [
     "Inductance - Henry",
@@ -14550,7 +14850,7 @@
    "e": "Only Inductance - Henry is correctly matched."
   },
   {
-   "id": "general-science-00970",
+   "id": "general-science-00990",
    "q": "Calorimeter is used for which of the following purposes?",
    "o": [
     "Heat change in reactions",
@@ -14565,7 +14865,7 @@
    "e": "Calorimeter measures Heat change in reactions."
   },
   {
-   "id": "general-science-00971",
+   "id": "general-science-00991",
    "q": "Which body part performs the function of Production of blood cells?",
    "o": [
     "Skin",
@@ -14580,7 +14880,7 @@
    "e": "Production of blood cells is performed by the Bone marrow."
   },
   {
-   "id": "general-science-00972",
+   "id": "general-science-00992",
    "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
    "o": [
     "Magnesium - Tetany",
@@ -14595,7 +14895,7 @@
    "e": "Only Magnesium - Tetany is correctly matched."
   },
   {
-   "id": "general-science-00973",
+   "id": "general-science-00993",
    "q": "Influenza virus causes which of the following diseases?",
    "o": [
     "Poliomyelitis",
@@ -14610,7 +14910,7 @@
    "e": "Influenza virus causes Influenza."
   },
   {
-   "id": "general-science-00974",
+   "id": "general-science-00994",
    "q": "John Bardeen and colleagues is associated with which of the following?",
    "o": [
     "Blood groups",
@@ -14625,7 +14925,7 @@
    "e": "John Bardeen and colleagues is associated with Transistor."
   },
   {
-   "id": "general-science-00975",
+   "id": "general-science-00995",
    "q": "Acetylsalicylic acid is commonly known as which of the following?",
    "o": [
     "Aspirin",
@@ -14640,7 +14940,7 @@
    "e": "Acetylsalicylic acid is commonly known as Aspirin."
   },
   {
-   "id": "general-science-00976",
+   "id": "general-science-00996",
    "q": "Histology is the study of which of the following?",
    "o": [
     "Light",
@@ -14655,7 +14955,7 @@
    "e": "Histology is the study of Tissues."
   },
   {
-   "id": "general-science-00977",
+   "id": "general-science-00997",
    "q": "Which of the following statements about Sun is correct?",
    "o": [
     "Black hole",
@@ -14670,7 +14970,7 @@
    "e": "Sun: Sun."
   },
   {
-   "id": "general-science-00978",
+   "id": "general-science-00998",
    "q": "Which scientist is associated with Electric battery?",
    "o": [
     "C. V. Raman",
@@ -14685,7 +14985,7 @@
    "e": "Electric battery is associated with Alessandro Volta."
   },
   {
-   "id": "general-science-00979",
+   "id": "general-science-00999",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which wind is responsible for rainfall in the Indian summer - Jaisalmer",
@@ -14700,7 +15000,7 @@
    "e": "Only Which wind is responsible for rainfall in the Indian summer - South-west monsoon is correctly matched."
   },
   {
-   "id": "general-science-00980",
+   "id": "general-science-01000",
    "q": "Which mission is described as: Human spaceflight programme of India?",
    "o": [
     "Gaganyaan",
@@ -14713,306 +15013,6 @@
    "l": 3,
    "s": "generated",
    "e": "Human spaceflight programme of India describes Gaganyaan."
-  },
-  {
-   "id": "general-science-00981",
-   "q": "SSD is best described as which of the following?",
-   "o": [
-    "Secure version of the web transfer protocol",
-    "Organised collection of data",
-    "Storage device with no moving parts",
-    "Software that detects and removes malicious programs"
-   ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "SSD — Storage device with no moving parts."
-  },
-  {
-   "id": "general-science-00982",
-   "q": "Which of the following pairs of pollutant and effect is correctly matched?",
-   "o": [
-    "Radioactive waste - Damages the nervous system",
-    "Radioactive waste - Fine particles that reach deep into the lungs",
-    "Radioactive waste - Causes genetic damage and cancer",
-    "Radioactive waste - Causes hearing loss"
-   ],
-   "a": 2,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Radioactive waste - Causes genetic damage and cancer is correctly matched."
-  },
-  {
-   "id": "general-science-00983",
-   "q": "Which element has the chemical symbol Tm?",
-   "o": [
-    "Nihonium",
-    "Samarium",
-    "Thulium",
-    "Ruthenium"
-   ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Tm is the symbol of Thulium."
-  },
-  {
-   "id": "general-science-00984",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
-    "Inductance - Henry",
-    "Inductance - Kilogram",
-    "Inductance - Coulomb",
-    "Inductance - Volt"
-   ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Inductance - Henry is correctly matched."
-  },
-  {
-   "id": "general-science-00985",
-   "q": "Speedometer is used for which of the following purposes?",
-   "o": [
-    "Hearing sensitivity",
-    "Speed of a vehicle",
-    "Time accurately",
-    "Water absorption by plants"
-   ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Speedometer measures Speed of a vehicle."
-  },
-  {
-   "id": "general-science-00986",
-   "q": "Which body part performs the function of Transmission of nerve impulses?",
-   "o": [
-    "Neurons",
-    "Cornea",
-    "Testes",
-    "Brain"
-   ],
-   "a": 0,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Transmission of nerve impulses is performed by the Neurons."
-  },
-  {
-   "id": "general-science-00987",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
-    "Magnesium - Rickets in children",
-    "Magnesium - Tetany",
-    "Magnesium - Pernicious anaemia",
-    "Magnesium - Beri Beri"
-   ],
-   "a": 1,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Magnesium - Tetany is correctly matched."
-  },
-  {
-   "id": "general-science-00988",
-   "q": "Hepatitis B virus causes which of the following diseases?",
-   "o": [
-    "Hepatitis B",
-    "Mumps",
-    "Gonorrhoea",
-    "Cholera"
-   ],
-   "a": 0,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Hepatitis B virus causes Hepatitis B."
-  },
-  {
-   "id": "general-science-00989",
-   "q": "Edward Jenner is associated with which of the following?",
-   "o": [
-    "Blood groups",
-    "Diesel engine",
-    "Neutron",
-    "Vaccination against smallpox"
-   ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Edward Jenner is associated with Vaccination against smallpox."
-  },
-  {
-   "id": "general-science-00990",
-   "q": "Magnesium sulphate (MgSO4.7H2O) is commonly known as which of the following?",
-   "o": [
-    "Milk of magnesia",
-    "Epsom salt",
-    "Heavy water",
-    "TNT"
-   ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Magnesium sulphate (MgSO4.7H2O) is commonly known as Epsom salt."
-  },
-  {
-   "id": "general-science-00991",
-   "q": "Ecology is the study of which of the following?",
-   "o": [
-    "Light",
-    "Fish farming",
-    "Child health",
-    "Organisms and their environment"
-   ],
-   "a": 3,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Ecology is the study of Organisms and their environment."
-  },
-  {
-   "id": "general-science-00992",
-   "q": "Which of the following statements about Jupiter is correct?",
-   "o": [
-    "Black hole",
-    "Earth",
-    "Halley's Comet",
-    "Fifth"
-   ],
-   "a": 3,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Jupiter: Fifth."
-  },
-  {
-   "id": "general-science-00993",
-   "q": "Which scientist is associated with Bacteriology and tuberculosis bacillus?",
-   "o": [
-    "C. V. Raman",
-    "Har Gobind Khorana",
-    "Wright Brothers",
-    "Robert Koch"
-   ],
-   "a": 3,
-   "t": "Scientists",
-   "l": 3,
-   "s": "generated",
-   "e": "Bacteriology and tuberculosis bacillus is associated with Robert Koch."
-  },
-  {
-   "id": "general-science-00994",
-   "q": "Which of the following pairs of question and answer is correctly matched?",
-   "o": [
-    "Which wind is responsible for rainfall in the Indian summer - Venus",
-    "Which wind is responsible for rainfall in the Indian summer - Monsoon",
-    "Which wind is responsible for rainfall in the Indian summer - Eight",
-    "Which wind is responsible for rainfall in the Indian summer - South-west monsoon"
-   ],
-   "a": 3,
-   "t": "Climate and Atmosphere",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Which wind is responsible for rainfall in the Indian summer - South-west monsoon is correctly matched."
-  },
-  {
-   "id": "general-science-00995",
-   "q": "Which mission is described as: Urban water supply and sewerage improvement?",
-   "o": [
-    "Project Lion",
-    "Project Cheetah",
-    "AMRUT",
-    "Mission LiFE"
-   ],
-   "a": 2,
-   "t": "Missions and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Urban water supply and sewerage improvement describes AMRUT."
-  },
-  {
-   "id": "general-science-00996",
-   "q": "Python is best described as which of the following?",
-   "o": [
-    "Two or more connected computers",
-    "Program that converts source code into machine code",
-    "Input device that captures video",
-    "High level general purpose programming language"
-   ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Python — High level general purpose programming language."
-  },
-  {
-   "id": "general-science-00997",
-   "q": "Which of the following pairs of pollutant and effect is correctly matched?",
-   "o": [
-    "Radioactive waste - Raises water temperature and harms aquatic life",
-    "Radioactive waste - Causes genetic damage and cancer",
-    "Radioactive waste - Persists in the environment for centuries",
-    "Radioactive waste - Releases heavy metals when dumped improperly"
-   ],
-   "a": 1,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Radioactive waste - Causes genetic damage and cancer is correctly matched."
-  },
-  {
-   "id": "general-science-00998",
-   "q": "Which element has the chemical symbol Bi?",
-   "o": [
-    "Lanthanum",
-    "Bismuth",
-    "Scandium",
-    "Oxygen"
-   ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Bi is the symbol of Bismuth."
-  },
-  {
-   "id": "general-science-00999",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
-    "Catalytic activity - Reciprocal metre",
-    "Catalytic activity - Watt",
-    "Catalytic activity - Mole",
-    "Catalytic activity - Katal"
-   ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Catalytic activity - Katal is correctly matched."
-  },
-  {
-   "id": "general-science-01000",
-   "q": "Galvanometer is used for which of the following purposes?",
-   "o": [
-    "Heat change in reactions",
-    "High temperature",
-    "Altitude",
-    "Small electric currents"
-   ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Galvanometer measures Small electric currents."
   }
  ]
 };

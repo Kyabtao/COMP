@@ -89,7 +89,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Constitution, articles, amendments and institutions.",
-  "count": 704
+  "count": 724
  },
  {
   "slug": "geography",

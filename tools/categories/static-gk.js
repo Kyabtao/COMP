@@ -17,6 +17,306 @@
  "questions": [
   {
    "id": "static-gk-00001",
+   "q": "Which is the largest national park in India?",
+   "o": [
+    "Jim Corbett",
+    "Hemis",
+    "Kanha",
+    "Bandipur"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 3,
+   "s": "curated",
+   "e": "Hemis National Park in Ladakh is the largest in India."
+  },
+  {
+   "id": "static-gk-00002",
+   "q": "Where is the Statue of Unity located?",
+   "o": [
+    "Gujarat",
+    "Maharashtra",
+    "Rajasthan",
+    "Odisha"
+   ],
+   "a": 0,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "The Statue of Unity stands at Kevadiya, Gujarat."
+  },
+  {
+   "id": "static-gk-00003",
+   "q": "Which Indian city is known as the Pink City?",
+   "o": [
+    "Udaipur",
+    "Jaipur",
+    "Jodhpur",
+    "Agra"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Jaipur is called the Pink City after its terracotta pink buildings."
+  },
+  {
+   "id": "static-gk-00004",
+   "q": "The Victoria Memorial is located in which city?",
+   "o": [
+    "Mumbai",
+    "Kolkata",
+    "Chennai",
+    "New Delhi"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "The Victoria Memorial stands in Kolkata."
+  },
+  {
+   "id": "static-gk-00005",
+   "q": "Which is the highest waterfall in India?",
+   "o": [
+    "Jog Falls",
+    "Kunchikal Falls",
+    "Dudhsagar Falls",
+    "Athirappilly Falls"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 3,
+   "s": "curated",
+   "e": "Kunchikal Falls in Karnataka is the highest in India."
+  },
+  {
+   "id": "static-gk-00006",
+   "q": "Which Indian state has the longest coastline?",
+   "o": [
+    "Tamil Nadu",
+    "Gujarat",
+    "Andhra Pradesh",
+    "Maharashtra"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Gujarat has the longest coastline among Indian states."
+  },
+  {
+   "id": "static-gk-00007",
+   "q": "Where is the headquarters of the World Health Organization?",
+   "o": [
+    "New York",
+    "Geneva",
+    "Paris",
+    "Vienna"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "The WHO is headquartered in Geneva, Switzerland."
+  },
+  {
+   "id": "static-gk-00008",
+   "q": "Which dance form belongs to Kerala?",
+   "o": [
+    "Bharatanatyam",
+    "Kathakali",
+    "Odissi",
+    "Kuchipudi"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Kathakali is a classical dance drama of Kerala."
+  },
+  {
+   "id": "static-gk-00009",
+   "q": "Which is the largest museum in India?",
+   "o": [
+    "National Museum, Delhi",
+    "Indian Museum, Kolkata",
+    "Salar Jung Museum, Hyderabad",
+    "CSMVS, Mumbai"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 3,
+   "s": "curated",
+   "e": "The Indian Museum in Kolkata is the oldest and largest in India."
+  },
+  {
+   "id": "static-gk-00010",
+   "q": "Where is the Hawa Mahal located?",
+   "o": [
+    "Jaipur",
+    "Udaipur",
+    "Agra",
+    "Lucknow"
+   ],
+   "a": 0,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Hawa Mahal stands in Jaipur, Rajasthan."
+  },
+  {
+   "id": "static-gk-00011",
+   "q": "Which is the longest platform in the world?",
+   "o": [
+    "Kharagpur",
+    "Gorakhpur",
+    "Hubballi",
+    "Kollam"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 3,
+   "s": "curated",
+   "e": "Gorakhpur Junction in Uttar Pradesh holds the record for the longest railway platform."
+  },
+  {
+   "id": "static-gk-00012",
+   "q": "What is the currency of Japan?",
+   "o": [
+    "Won",
+    "Yuan",
+    "Yen",
+    "Ringgit"
+   ],
+   "a": 2,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "The Japanese currency is the yen."
+  },
+  {
+   "id": "static-gk-00013",
+   "q": "Where is the Sundarbans National Park located?",
+   "o": [
+    "Odisha",
+    "West Bengal",
+    "Andhra Pradesh",
+    "Tamil Nadu"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Sundarbans National Park lies in West Bengal."
+  },
+  {
+   "id": "static-gk-00014",
+   "q": "Which Indian city hosts the Taj Mahal?",
+   "o": [
+    "Delhi",
+    "Agra",
+    "Jaipur",
+    "Mathura"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "The Taj Mahal stands in Agra on the Yamuna."
+  },
+  {
+   "id": "static-gk-00015",
+   "q": "In which state is the Konark Sun Temple?",
+   "o": [
+    "Odisha",
+    "Bihar",
+    "Bengal",
+    "Jharkhand"
+   ],
+   "a": 0,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Konark Sun Temple is in Odisha."
+  },
+  {
+   "id": "static-gk-00016",
+   "q": "Which is the largest state of India by area?",
+   "o": [
+    "Madhya Pradesh",
+    "Rajasthan",
+    "Maharashtra",
+    "Uttar Pradesh"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Rajasthan is the largest Indian state by area."
+  },
+  {
+   "id": "static-gk-00017",
+   "q": "Where is the Indian Institute of Science located?",
+   "o": [
+    "Pune",
+    "Bengaluru",
+    "Chennai",
+    "Kanpur"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "IISc is in Bengaluru, Karnataka."
+  },
+  {
+   "id": "static-gk-00018",
+   "q": "Which festival is known as the festival of lights?",
+   "o": [
+    "Holi",
+    "Diwali",
+    "Eid",
+    "Baisakhi"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Diwali, the festival of lights, celebrates the victory of light over darkness."
+  },
+  {
+   "id": "static-gk-00019",
+   "q": "The headquarters of the International Olympic Committee is in which city?",
+   "o": [
+    "Paris",
+    "Lausanne",
+    "Athens",
+    "Rome"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 3,
+   "s": "curated",
+   "e": "The IOC is headquartered in Lausanne, Switzerland."
+  },
+  {
+   "id": "static-gk-00020",
+   "q": "Which is the smallest union territory of India by area?",
+   "o": [
+    "Lakshadweep",
+    "Puducherry",
+    "Chandigarh",
+    "Delhi"
+   ],
+   "a": 0,
+   "t": "Curated",
+   "l": 3,
+   "s": "curated",
+   "e": "Lakshadweep is the smallest union territory by area."
+  },
+  {
+   "id": "static-gk-00021",
    "q": "What is the capital of Democratic Republic of the Congo?",
    "o": [
     "Tbilisi",
@@ -31,7 +331,7 @@
    "e": "The capital of Democratic Republic of the Congo is Kinshasa."
   },
   {
-   "id": "static-gk-00002",
+   "id": "static-gk-00022",
    "q": "Which element has the chemical symbol At?",
    "o": [
     "Moscovium",
@@ -46,7 +346,7 @@
    "e": "At is the symbol of Astatine."
   },
   {
-   "id": "static-gk-00003",
+   "id": "static-gk-00023",
    "q": "What is the capital of Goa?",
    "o": [
     "Panaji",
@@ -61,7 +361,7 @@
    "e": "The capital of Goa is Panaji."
   },
   {
-   "id": "static-gk-00004",
+   "id": "static-gk-00024",
    "q": "What is the capital of the Union Territory of Delhi?",
    "o": [
     "Leh",
@@ -76,7 +376,7 @@
    "e": "The capital of Delhi is New Delhi."
   },
   {
-   "id": "static-gk-00005",
+   "id": "static-gk-00025",
    "q": "Which of the following is the National Reptile of India?",
    "o": [
     "King Cobra",
@@ -91,7 +391,7 @@
    "e": "The National Reptile of India is King Cobra."
   },
   {
-   "id": "static-gk-00006",
+   "id": "static-gk-00026",
    "q": "First Indian to win the Miss Universe title is associated with which of the following?",
    "o": [
     "Justice Fathima Beevi",
@@ -106,7 +406,7 @@
    "e": "First Indian to win the Miss Universe title — Sushmita Sen."
   },
   {
-   "id": "static-gk-00007",
+   "id": "static-gk-00027",
    "q": "Yakshagana is a folk or classical dance form of which state?",
    "o": [
     "Punjab",
@@ -121,7 +421,7 @@
    "e": "Yakshagana belongs to Karnataka."
   },
   {
-   "id": "static-gk-00008",
+   "id": "static-gk-00028",
    "q": "Cheiraoba is a major festival of which state?",
    "o": [
     "Manipur",
@@ -136,7 +436,7 @@
    "e": "Cheiraoba is celebrated mainly in Manipur."
   },
   {
-   "id": "static-gk-00009",
+   "id": "static-gk-00029",
    "q": "The river Kosi originates from which of the following?",
    "o": [
     "Sivagiri Hills",
@@ -151,7 +451,7 @@
    "e": "Kosi originates from Nepal Himalayas."
   },
   {
-   "id": "static-gk-00010",
+   "id": "static-gk-00030",
    "q": "Koyna Dam is built on which river?",
    "o": [
     "Barakar",
@@ -166,7 +466,7 @@
    "e": "Koyna Dam is built on the Koyna."
   },
   {
-   "id": "static-gk-00011",
+   "id": "static-gk-00031",
    "q": "Bhitarkanika National Park is located in which state?",
    "o": [
     "Odisha",
@@ -181,7 +481,7 @@
    "e": "Bhitarkanika National Park is located in Odisha."
   },
   {
-   "id": "static-gk-00012",
+   "id": "static-gk-00032",
    "q": "Jelep La pass is located in which state or union territory?",
    "o": [
     "Sikkim",
@@ -196,7 +496,7 @@
    "e": "Jelep La is located in Sikkim."
   },
   {
-   "id": "static-gk-00013",
+   "id": "static-gk-00033",
    "q": "What is the SI unit of Wave number?",
    "o": [
     "Katal",
@@ -211,7 +511,7 @@
    "e": "The SI unit of Wave number is the Reciprocal metre."
   },
   {
-   "id": "static-gk-00014",
+   "id": "static-gk-00034",
    "q": "Which instrument is used to measure One form of energy into another?",
    "o": [
     "Voltmeter",
@@ -226,7 +526,7 @@
    "e": "Transducer is used to measure One form of energy into another."
   },
   {
-   "id": "static-gk-00015",
+   "id": "static-gk-00035",
    "q": "Deficiency of which nutrient causes Beri Beri?",
    "o": [
     "Vitamin B1",
@@ -241,7 +541,7 @@
    "e": "Deficiency of Vitamin B1 causes Beri Beri."
   },
   {
-   "id": "static-gk-00016",
+   "id": "static-gk-00036",
    "q": "Who is credited with Thermometer (mercury)?",
    "o": [
     "Daniel Gabriel Fahrenheit",
@@ -256,7 +556,7 @@
    "e": "Thermometer (mercury) — Daniel Gabriel Fahrenheit."
   },
   {
-   "id": "static-gk-00017",
+   "id": "static-gk-00037",
    "q": "What is the chemical name of Spirit of salt?",
    "o": [
     "Calcium carbonate (CaCO3)",
@@ -271,7 +571,7 @@
    "e": "Spirit of salt is Hydrochloric acid (HCl)."
   },
   {
-   "id": "static-gk-00018",
+   "id": "static-gk-00038",
    "q": "Which branch of science deals with Beekeeping?",
    "o": [
     "Apiculture",
@@ -286,7 +586,7 @@
    "e": "Apiculture deals with Beekeeping."
   },
   {
-   "id": "static-gk-00019",
+   "id": "static-gk-00039",
    "q": "Which planet or body is described as: Moon?",
    "o": [
     "Moon",
@@ -301,7 +601,7 @@
    "e": "Moon — Moon."
   },
   {
-   "id": "static-gk-00020",
+   "id": "static-gk-00040",
    "q": "G. N. Ramachandran is known for which of the following?",
    "o": [
     "Triple helical structure of collagen",
@@ -316,7 +616,7 @@
    "e": "G. N. Ramachandran is known for Triple helical structure of collagen."
   },
   {
-   "id": "static-gk-00021",
+   "id": "static-gk-00041",
    "q": "Telecom Regulatory Authority of India is best described as which of the following?",
    "o": [
     "Central bank and monetary authority",
@@ -331,7 +631,7 @@
    "e": "Telecom Regulatory Authority of India — Regulator of telecommunications."
   },
   {
-   "id": "static-gk-00022",
+   "id": "static-gk-00042",
    "q": "On which date is World Energy Conservation Day observed?",
    "o": [
     "20 June",
@@ -346,7 +646,7 @@
    "e": "World Energy Conservation Day is observed on 14 December."
   },
   {
-   "id": "static-gk-00023",
+   "id": "static-gk-00043",
    "q": "Where is the headquarters of SAARC?",
    "o": [
     "Beijing",
@@ -361,7 +661,7 @@
    "e": "SAARC is headquartered at Kathmandu."
   },
   {
-   "id": "static-gk-00024",
+   "id": "static-gk-00044",
    "q": "Khelo India Games is associated with which sport?",
    "o": [
     "Multi-sport",
@@ -376,7 +676,7 @@
    "e": "Khelo India Games is associated with Multi-sport."
   },
   {
-   "id": "static-gk-00025",
+   "id": "static-gk-00045",
    "q": "Bharat Ratna is associated with which of the following?",
    "o": [
     "Outstanding performance in Indian sports",
@@ -391,7 +691,7 @@
    "e": "Bharat Ratna — Highest civilian award of India."
   },
   {
-   "id": "static-gk-00026",
+   "id": "static-gk-00046",
    "q": "First modern Olympic Games were held in is associated with which of the following?",
    "o": [
     "New Zealand",
@@ -406,7 +706,7 @@
    "e": "First modern Olympic Games were held in — Athens."
   },
   {
-   "id": "static-gk-00027",
+   "id": "static-gk-00047",
    "q": "Which is the largest river island in the world?",
    "o": [
     "Majuli",
@@ -421,7 +721,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "static-gk-00028",
+   "id": "static-gk-00048",
    "q": "Which soil is described as: Formed from crystalline rocks, rich in iron?",
    "o": [
     "Mountain soil",
@@ -436,7 +736,7 @@
    "e": "Red soil — Formed from crystalline rocks, rich in iron."
   },
   {
-   "id": "static-gk-00029",
+   "id": "static-gk-00049",
    "q": "Which Indian state is a major producer of Limestone?",
    "o": [
     "Karnataka",
@@ -451,7 +751,7 @@
    "e": "Limestone is produced in large quantities in Madhya Pradesh."
   },
   {
-   "id": "static-gk-00030",
+   "id": "static-gk-00050",
    "q": "Great Nicobar Biosphere Reserve is located in which state?",
    "o": [
     "Himachal Pradesh",
@@ -466,7 +766,7 @@
    "e": "Great Nicobar Biosphere Reserve is in Andaman and Nicobar Islands."
   },
   {
-   "id": "static-gk-00031",
+   "id": "static-gk-00051",
    "q": "What is the capital of Eswatini?",
    "o": [
     "Oslo",
@@ -481,7 +781,7 @@
    "e": "The capital of Eswatini is Mbabane."
   },
   {
-   "id": "static-gk-00032",
+   "id": "static-gk-00052",
    "q": "Which element has the chemical symbol Am?",
    "o": [
     "Holmium",
@@ -496,7 +796,7 @@
    "e": "Am is the symbol of Americium."
   },
   {
-   "id": "static-gk-00033",
+   "id": "static-gk-00053",
    "q": "What is the capital of Uttar Pradesh?",
    "o": [
     "Hyderabad",
@@ -511,7 +811,7 @@
    "e": "The capital of Uttar Pradesh is Lucknow."
   },
   {
-   "id": "static-gk-00034",
+   "id": "static-gk-00054",
    "q": "What is the capital of the Union Territory of Chandigarh?",
    "o": [
     "Chandigarh",
@@ -526,7 +826,7 @@
    "e": "The capital of Chandigarh is Chandigarh."
   },
   {
-   "id": "static-gk-00035",
+   "id": "static-gk-00055",
    "q": "Which of the following is the National Currency of India?",
    "o": [
     "Lotus",
@@ -541,7 +841,7 @@
    "e": "The National Currency of India is Indian Rupee."
   },
   {
-   "id": "static-gk-00036",
+   "id": "static-gk-00056",
    "q": "First Indian nuclear test was conducted at is associated with which of the following?",
    "o": [
     "Indira Gandhi",
@@ -556,7 +856,7 @@
    "e": "First Indian nuclear test was conducted at — Pokhran."
   },
   {
-   "id": "static-gk-00037",
+   "id": "static-gk-00057",
    "q": "Bhortal is a folk or classical dance form of which state?",
    "o": [
     "Rajasthan",
@@ -571,7 +871,7 @@
    "e": "Bhortal belongs to Assam."
   },
   {
-   "id": "static-gk-00038",
+   "id": "static-gk-00058",
    "q": "Solung is a major festival of which state?",
    "o": [
     "Odisha",
@@ -586,7 +886,7 @@
    "e": "Solung is celebrated mainly in Arunachal Pradesh."
   },
   {
-   "id": "static-gk-00039",
+   "id": "static-gk-00059",
    "q": "The river Sharavati originates from which of the following?",
    "o": [
     "Bokhar Chu",
@@ -601,7 +901,7 @@
    "e": "Sharavati originates from Ambutirtha."
   },
   {
-   "id": "static-gk-00040",
+   "id": "static-gk-00060",
    "q": "Polavaram Dam is built on which river?",
    "o": [
     "Godavari",
@@ -616,7 +916,7 @@
    "e": "Polavaram Dam is built on the Godavari."
   },
   {
-   "id": "static-gk-00041",
+   "id": "static-gk-00061",
    "q": "Bandhavgarh National Park is located in which state?",
    "o": [
     "Assam",
@@ -631,7 +931,7 @@
    "e": "Bandhavgarh National Park is located in Madhya Pradesh."
   },
   {
-   "id": "static-gk-00042",
+   "id": "static-gk-00062",
    "q": "Shencottah Gap pass is located in which state or union territory?",
    "o": [
     "Tamil Nadu",
@@ -646,7 +946,7 @@
    "e": "Shencottah Gap is located in Tamil Nadu."
   },
   {
-   "id": "static-gk-00043",
+   "id": "static-gk-00063",
    "q": "What is the SI unit of Illuminance?",
    "o": [
     "Ampere",
@@ -661,7 +961,7 @@
    "e": "The SI unit of Illuminance is the Lux."
   },
   {
-   "id": "static-gk-00044",
+   "id": "static-gk-00064",
    "q": "Which instrument is used to measure Water absorption by plants?",
    "o": [
     "Lactometer",
@@ -676,7 +976,7 @@
    "e": "Potometer is used to measure Water absorption by plants."
   },
   {
-   "id": "static-gk-00045",
+   "id": "static-gk-00065",
    "q": "Deficiency of which nutrient causes Growth retardation?",
    "o": [
     "Fluorine",
@@ -691,7 +991,7 @@
    "e": "Deficiency of Zinc causes Growth retardation."
   },
   {
-   "id": "static-gk-00046",
+   "id": "static-gk-00066",
    "q": "Who is credited with Chloroform as anaesthetic?",
    "o": [
     "John Logie Baird",
@@ -706,7 +1006,7 @@
    "e": "Chloroform as anaesthetic — James Young Simpson."
   },
   {
-   "id": "static-gk-00047",
+   "id": "static-gk-00067",
    "q": "What is the chemical name of TNT?",
    "o": [
     "Sodium hydroxide (NaOH)",
@@ -721,7 +1021,7 @@
    "e": "TNT is Trinitrotoluene."
   },
   {
-   "id": "static-gk-00048",
+   "id": "static-gk-00068",
    "q": "Which branch of science deals with Origin of words?",
    "o": [
     "Botany",
@@ -736,7 +1036,7 @@
    "e": "Etymology deals with Origin of words."
   },
   {
-   "id": "static-gk-00049",
+   "id": "static-gk-00069",
    "q": "Which planet or body is described as: Sirius?",
    "o": [
     "Mars",
@@ -751,7 +1051,7 @@
    "e": "Sirius — Sirius."
   },
   {
-   "id": "static-gk-00050",
+   "id": "static-gk-00070",
    "q": "Birbal Sahni is known for which of the following?",
    "o": [
     "Heliocentric model of the Solar System",
@@ -766,7 +1066,7 @@
    "e": "Birbal Sahni is known for Palaeobotany in India."
   },
   {
-   "id": "static-gk-00051",
+   "id": "static-gk-00071",
    "q": "Lok Sabha is best described as which of the following?",
    "o": [
     "Aids and advises the President",
@@ -781,7 +1081,7 @@
    "e": "Lok Sabha — House of the People."
   },
   {
-   "id": "static-gk-00052",
+   "id": "static-gk-00072",
    "q": "On which date is World AIDS Day observed?",
    "o": [
     "1 December",
@@ -796,7 +1096,7 @@
    "e": "World AIDS Day is observed on 1 December."
   },
   {
-   "id": "static-gk-00053",
+   "id": "static-gk-00073",
    "q": "Where is the headquarters of Indian Space Research Organisation?",
    "o": [
     "Bengaluru",
@@ -811,7 +1111,7 @@
    "e": "Indian Space Research Organisation is headquartered at Bengaluru."
   },
   {
-   "id": "static-gk-00054",
+   "id": "static-gk-00074",
    "q": "Pulitzer Prize is associated with which of the following?",
    "o": [
     "Alternative Nobel Prize",
@@ -826,7 +1126,7 @@
    "e": "Pulitzer Prize — American award for journalism and letters."
   },
   {
-   "id": "static-gk-00055",
+   "id": "static-gk-00075",
    "q": "First person to run a mile in under four minutes is associated with which of the following?",
    "o": [
     "Roger Bannister",
@@ -841,7 +1141,7 @@
    "e": "First person to run a mile in under four minutes — Roger Bannister."
   },
   {
-   "id": "static-gk-00056",
+   "id": "static-gk-00076",
    "q": "Which country is known as the Land of Thunder Dragon?",
    "o": [
     "Jammu and Kashmir",
@@ -856,7 +1156,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "static-gk-00057",
+   "id": "static-gk-00077",
    "q": "Which soil is described as: Formed by leaching in high rainfall areas?",
    "o": [
     "Peaty soil",
@@ -871,7 +1171,7 @@
    "e": "Laterite soil — Formed by leaching in high rainfall areas."
   },
   {
-   "id": "static-gk-00058",
+   "id": "static-gk-00078",
    "q": "Which Indian state is a major producer of Kyanite?",
    "o": [
     "Jharkhand",
@@ -886,7 +1186,7 @@
    "e": "Kyanite is produced in large quantities in Jharkhand."
   },
   {
-   "id": "static-gk-00059",
+   "id": "static-gk-00079",
    "q": "Point Calimere is located in which state?",
    "o": [
     "Tamil Nadu",
@@ -901,7 +1201,7 @@
    "e": "Point Calimere is in Tamil Nadu."
   },
   {
-   "id": "static-gk-00060",
+   "id": "static-gk-00080",
    "q": "What is the capital of Haiti?",
    "o": [
     "Tokyo",
@@ -916,7 +1216,7 @@
    "e": "The capital of Haiti is Port-au-Prince."
   },
   {
-   "id": "static-gk-00061",
+   "id": "static-gk-00081",
    "q": "Which element has the chemical symbol Ra?",
    "o": [
     "Krypton",
@@ -931,7 +1231,7 @@
    "e": "Ra is the symbol of Radium."
   },
   {
-   "id": "static-gk-00062",
+   "id": "static-gk-00082",
    "q": "What is the capital of Uttarakhand?",
    "o": [
     "Dehradun",
@@ -946,7 +1246,7 @@
    "e": "The capital of Uttarakhand is Dehradun."
   },
   {
-   "id": "static-gk-00063",
+   "id": "static-gk-00083",
    "q": "What is the capital of the Union Territory of Dadra and Nagar Haveli and Daman and Diu?",
    "o": [
     "Port Blair",
@@ -961,7 +1261,7 @@
    "e": "The capital of Dadra and Nagar Haveli and Daman and Diu is Daman."
   },
   {
-   "id": "static-gk-00064",
+   "id": "static-gk-00084",
    "q": "Which of the following is the National Song of India?",
    "o": [
     "Indian Peacock",
@@ -976,7 +1276,7 @@
    "e": "The National Song of India is Vande Mataram."
   },
   {
-   "id": "static-gk-00065",
+   "id": "static-gk-00085",
    "q": "First Prime Minister of India is associated with which of the following?",
    "o": [
     "Kharagpur",
@@ -991,7 +1291,7 @@
    "e": "First Prime Minister of India — Jawaharlal Nehru."
   },
   {
-   "id": "static-gk-00066",
+   "id": "static-gk-00086",
    "q": "Phag Dance is a folk or classical dance form of which state?",
    "o": [
     "Haryana",
@@ -1006,7 +1306,7 @@
    "e": "Phag Dance belongs to Haryana."
   },
   {
-   "id": "static-gk-00067",
+   "id": "static-gk-00087",
    "q": "Dree Festival is a major festival of which state?",
    "o": [
     "Manipur",
@@ -1021,7 +1321,7 @@
    "e": "Dree Festival is celebrated mainly in Arunachal Pradesh."
   },
   {
-   "id": "static-gk-00068",
+   "id": "static-gk-00088",
    "q": "The river Yamuna originates from which of the following?",
    "o": [
     "Pilibhit",
@@ -1036,7 +1336,7 @@
    "e": "Yamuna originates from Yamunotri Glacier."
   },
   {
-   "id": "static-gk-00069",
+   "id": "static-gk-00089",
    "q": "Omkareshwar Dam is built on which river?",
    "o": [
     "Godavari",
@@ -1051,7 +1351,7 @@
    "e": "Omkareshwar Dam is built on the Narmada."
   },
   {
-   "id": "static-gk-00070",
+   "id": "static-gk-00090",
    "q": "Dachigam National Park is located in which state?",
    "o": [
     "Meghalaya",
@@ -1066,7 +1366,7 @@
    "e": "Dachigam National Park is located in Jammu and Kashmir."
   },
   {
-   "id": "static-gk-00071",
+   "id": "static-gk-00091",
    "q": "Rohtang Pass pass is located in which state or union territory?",
    "o": [
     "Jammu and Kashmir",
@@ -1081,7 +1381,7 @@
    "e": "Rohtang Pass is located in Himachal Pradesh."
   },
   {
-   "id": "static-gk-00072",
+   "id": "static-gk-00092",
    "q": "What is the SI unit of Mass?",
    "o": [
     "Gray",
@@ -1096,7 +1396,7 @@
    "e": "The SI unit of Mass is the Kilogram."
   },
   {
-   "id": "static-gk-00073",
+   "id": "static-gk-00093",
    "q": "Which instrument is used to measure Speed and distance?",
    "o": [
     "Geiger counter",
@@ -1111,7 +1411,7 @@
    "e": "Odometer and Speedometer is used to measure Speed and distance."
   },
   {
-   "id": "static-gk-00074",
+   "id": "static-gk-00094",
    "q": "Deficiency of which nutrient causes Pernicious anaemia?",
    "o": [
     "Iodine",
@@ -1126,7 +1426,7 @@
    "e": "Deficiency of Vitamin B12 causes Pernicious anaemia."
   },
   {
-   "id": "static-gk-00075",
+   "id": "static-gk-00095",
    "q": "Who is credited with Printing press?",
    "o": [
     "James Watt",
@@ -1141,7 +1441,7 @@
    "e": "Printing press — Johannes Gutenberg."
   },
   {
-   "id": "static-gk-00076",
+   "id": "static-gk-00096",
    "q": "What is the chemical name of Quartz?",
    "o": [
     "Magnesium oxide (MgO)",
@@ -1156,7 +1456,7 @@
    "e": "Quartz is Silicon dioxide (SiO2)."
   },
   {
-   "id": "static-gk-00077",
+   "id": "static-gk-00097",
    "q": "Which branch of science deals with Birds?",
    "o": [
     "Anatomy",
@@ -1171,7 +1471,7 @@
    "e": "Ornithology deals with Birds."
   },
   {
-   "id": "static-gk-00078",
+   "id": "static-gk-00098",
    "q": "Which planet or body is described as: Sun?",
    "o": [
     "Saturn",
@@ -1186,7 +1486,7 @@
    "e": "Sun — Sun."
   },
   {
-   "id": "static-gk-00079",
+   "id": "static-gk-00099",
    "q": "Amedeo Avogadro is known for which of the following?",
    "o": [
     "Theory of evolution",
@@ -1201,7 +1501,7 @@
    "e": "Amedeo Avogadro is known for Molecular theory and Avogadro's law."
   },
   {
-   "id": "static-gk-00080",
+   "id": "static-gk-00100",
    "q": "Vice President of India is best described as which of the following?",
    "o": [
     "Local body at the district level",
@@ -1216,7 +1516,7 @@
    "e": "Vice President of India — Ex-officio Chairman of the Rajya Sabha."
   },
   {
-   "id": "static-gk-00081",
+   "id": "static-gk-00101",
    "q": "On which date is World Cancer Day observed?",
    "o": [
     "3 March",
@@ -1231,7 +1531,7 @@
    "e": "World Cancer Day is observed on 4 February."
   },
   {
-   "id": "static-gk-00082",
+   "id": "static-gk-00102",
    "q": "Where is the headquarters of International Cricket Council?",
    "o": [
     "Paris",
@@ -1246,7 +1546,7 @@
    "e": "International Cricket Council is headquartered at Dubai."
   },
   {
-   "id": "static-gk-00083",
+   "id": "static-gk-00103",
    "q": "The Ashes is associated with which sport?",
    "o": [
     "Football",
@@ -1261,7 +1561,7 @@
    "e": "The Ashes is associated with Cricket."
   },
   {
-   "id": "static-gk-00084",
+   "id": "static-gk-00104",
    "q": "Ashoka Chakra is associated with which of the following?",
    "o": [
     "Indian literary award",
@@ -1276,7 +1576,7 @@
    "e": "Ashoka Chakra — Highest peacetime gallantry award of India."
   },
   {
-   "id": "static-gk-00085",
+   "id": "static-gk-00105",
    "q": "First country to launch a satellite is associated with which of the following?",
    "o": [
     "Karnam Malleswari",
@@ -1291,7 +1591,7 @@
    "e": "First country to launch a satellite — Soviet Union."
   },
   {
-   "id": "static-gk-00086",
+   "id": "static-gk-00106",
    "q": "Which is the largest freshwater lake in India?",
    "o": [
     "Australia",
@@ -1306,7 +1606,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "static-gk-00087",
+   "id": "static-gk-00107",
    "q": "Which soil is described as: Also called regur, ideal for cotton?",
    "o": [
     "Laterite soil",
@@ -1321,7 +1621,7 @@
    "e": "Black soil — Also called regur, ideal for cotton."
   },
   {
-   "id": "static-gk-00088",
+   "id": "static-gk-00108",
    "q": "Which Indian state is a major producer of Rock phosphate?",
    "o": [
     "Jharkhand",
@@ -1336,7 +1636,7 @@
    "e": "Rock phosphate is produced in large quantities in Rajasthan."
   },
   {
-   "id": "static-gk-00089",
+   "id": "static-gk-00109",
    "q": "Sambhar Lake is located in which state?",
    "o": [
     "Tamil Nadu",
@@ -1351,7 +1651,7 @@
    "e": "Sambhar Lake is in Rajasthan."
   },
   {
-   "id": "static-gk-00090",
+   "id": "static-gk-00110",
    "q": "What is the capital of Estonia?",
    "o": [
     "Managua",
@@ -1366,7 +1666,7 @@
    "e": "The capital of Estonia is Tallinn."
   },
   {
-   "id": "static-gk-00091",
+   "id": "static-gk-00111",
    "q": "Which element has the chemical symbol Mc?",
    "o": [
     "Moscovium",
@@ -1381,7 +1681,7 @@
    "e": "Mc is the symbol of Moscovium."
   },
   {
-   "id": "static-gk-00092",
+   "id": "static-gk-00112",
    "q": "What is the capital of Karnataka?",
    "o": [
     "Bengaluru",
@@ -1396,7 +1696,7 @@
    "e": "The capital of Karnataka is Bengaluru."
   },
   {
-   "id": "static-gk-00093",
+   "id": "static-gk-00113",
    "q": "What is the capital of the Union Territory of Andaman and Nicobar Islands?",
    "o": [
     "Daman",
@@ -1411,7 +1711,7 @@
    "e": "The capital of Andaman and Nicobar Islands is Port Blair."
   },
   {
-   "id": "static-gk-00094",
+   "id": "static-gk-00114",
    "q": "Which of the following is the National River of India?",
    "o": [
     "Bengal Tiger",
@@ -1426,7 +1726,7 @@
    "e": "The National River of India is Ganga."
   },
   {
-   "id": "static-gk-00095",
+   "id": "static-gk-00115",
    "q": "First woman Chief Minister in India is associated with which of the following?",
    "o": [
     "Sucheta Kripalani",
@@ -1441,7 +1741,7 @@
    "e": "First woman Chief Minister in India — Sucheta Kripalani."
   },
   {
-   "id": "static-gk-00096",
+   "id": "static-gk-00116",
    "q": "Manipuri is a folk or classical dance form of which state?",
    "o": [
     "Tamil Nadu",
@@ -1456,7 +1756,7 @@
    "e": "Manipuri belongs to Manipur."
   },
   {
-   "id": "static-gk-00097",
+   "id": "static-gk-00117",
    "q": "Navratri is a major festival of which state?",
    "o": [
     "Assam",
@@ -1471,7 +1771,7 @@
    "e": "Navratri is celebrated mainly in Gujarat."
   },
   {
-   "id": "static-gk-00098",
+   "id": "static-gk-00118",
    "q": "The river Chambal originates from which of the following?",
    "o": [
     "Janapav Hill",
@@ -1486,7 +1786,7 @@
    "e": "Chambal originates from Janapav Hill."
   },
   {
-   "id": "static-gk-00099",
+   "id": "static-gk-00119",
    "q": "Bhavani Sagar Dam is built on which river?",
    "o": [
     "Bhagirathi",
@@ -1501,7 +1801,7 @@
    "e": "Bhavani Sagar Dam is built on the Bhavani."
   },
   {
-   "id": "static-gk-00100",
+   "id": "static-gk-00120",
    "q": "Bandipur National Park is located in which state?",
    "o": [
     "Karnataka",
@@ -1516,7 +1816,7 @@
    "e": "Bandipur National Park is located in Karnataka."
   },
   {
-   "id": "static-gk-00101",
+   "id": "static-gk-00121",
    "q": "Bomdila Pass pass is located in which state or union territory?",
    "o": [
     "Sikkim",
@@ -1531,7 +1831,7 @@
    "e": "Bomdila Pass is located in Arunachal Pradesh."
   },
   {
-   "id": "static-gk-00102",
+   "id": "static-gk-00122",
    "q": "What is the SI unit of Inductance?",
    "o": [
     "Henry",
@@ -1546,7 +1846,7 @@
    "e": "The SI unit of Inductance is the Henry."
   },
   {
-   "id": "static-gk-00103",
+   "id": "static-gk-00123",
    "q": "Which instrument is used to measure Properties of light?",
    "o": [
     "Spherometer",
@@ -1561,7 +1861,7 @@
    "e": "Spectrometer is used to measure Properties of light."
   },
   {
-   "id": "static-gk-00104",
+   "id": "static-gk-00124",
    "q": "Deficiency of which nutrient causes Anaemia?",
    "o": [
     "Vitamin B5",
@@ -1576,7 +1876,7 @@
    "e": "Deficiency of Vitamin B6 causes Anaemia."
   },
   {
-   "id": "static-gk-00105",
+   "id": "static-gk-00125",
    "q": "Who is credited with Radio?",
    "o": [
     "Alfred Nobel",
@@ -1591,7 +1891,7 @@
    "e": "Radio — Guglielmo Marconi."
   },
   {
-   "id": "static-gk-00106",
+   "id": "static-gk-00126",
    "q": "What is the chemical name of Dry ice?",
    "o": [
     "Ethanol (C2H5OH)",
@@ -1606,7 +1906,7 @@
    "e": "Dry ice is Solid carbon dioxide (CO2)."
   },
   {
-   "id": "static-gk-00107",
+   "id": "static-gk-00127",
    "q": "Which branch of science deals with Animals?",
    "o": [
     "Physiology",
@@ -1621,7 +1921,7 @@
    "e": "Zoology deals with Animals."
   },
   {
-   "id": "static-gk-00108",
+   "id": "static-gk-00128",
    "q": "Which planet or body is described as: Black hole?",
    "o": [
     "Uranus",
@@ -1636,7 +1936,7 @@
    "e": "Black hole — Black hole."
   },
   {
-   "id": "static-gk-00109",
+   "id": "static-gk-00129",
    "q": "Johannes Kepler is known for which of the following?",
    "o": [
     "Laws of inheritance",
@@ -1651,7 +1951,7 @@
    "e": "Johannes Kepler is known for Laws of planetary motion."
   },
   {
-   "id": "static-gk-00110",
+   "id": "static-gk-00130",
    "q": "Panchayat is best described as which of the following?",
    "o": [
     "Local self-government at the village level",
@@ -1666,7 +1966,7 @@
    "e": "Panchayat — Local self-government at the village level."
   },
   {
-   "id": "static-gk-00111",
+   "id": "static-gk-00131",
    "q": "On which date is World Post Day observed?",
    "o": [
     "19 August",
@@ -1681,7 +1981,7 @@
    "e": "World Post Day is observed on 9 October."
   },
   {
-   "id": "static-gk-00112",
+   "id": "static-gk-00132",
    "q": "Where is the headquarters of Greenpeace?",
    "o": [
     "Amsterdam",
@@ -1696,7 +1996,7 @@
    "e": "Greenpeace is headquartered at Amsterdam."
   },
   {
-   "id": "static-gk-00113",
+   "id": "static-gk-00133",
    "q": "Copa America is associated with which sport?",
    "o": [
     "Football",
@@ -1711,7 +2011,7 @@
    "e": "Copa America is associated with Football."
   },
   {
-   "id": "static-gk-00114",
+   "id": "static-gk-00134",
    "q": "Grammy Award is associated with which of the following?",
    "o": [
     "Indian literary award",
@@ -1726,7 +2026,7 @@
    "e": "Grammy Award — American award for music."
   },
   {
-   "id": "static-gk-00115",
+   "id": "static-gk-00135",
    "q": "First woman in space is associated with which of the following?",
    "o": [
     "Uruguay",
@@ -1741,7 +2041,7 @@
    "e": "First woman in space — Valentina Tereshkova."
   },
   {
-   "id": "static-gk-00116",
+   "id": "static-gk-00136",
    "q": "Which is the largest sea in the world?",
    "o": [
     "Maharashtra",
@@ -1756,7 +2056,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "static-gk-00117",
+   "id": "static-gk-00137",
    "q": "Which soil is described as: Sandy soil of arid regions?",
    "o": [
     "Alluvial soil",
@@ -1771,7 +2071,7 @@
    "e": "Desert soil — Sandy soil of arid regions."
   },
   {
-   "id": "static-gk-00118",
+   "id": "static-gk-00138",
    "q": "Which Indian state is a major producer of Uranium?",
    "o": [
     "Rajasthan",
@@ -1786,7 +2086,7 @@
    "e": "Uranium is produced in large quantities in Jharkhand."
   },
   {
-   "id": "static-gk-00119",
+   "id": "static-gk-00139",
    "q": "Kanchenjunga Biosphere Reserve is located in which state?",
    "o": [
     "Odisha",
@@ -1801,7 +2101,7 @@
    "e": "Kanchenjunga Biosphere Reserve is in Sikkim."
   },
   {
-   "id": "static-gk-00120",
+   "id": "static-gk-00140",
    "q": "What is the capital of Chile?",
    "o": [
     "Santiago",
@@ -1816,7 +2116,7 @@
    "e": "The capital of Chile is Santiago."
   },
   {
-   "id": "static-gk-00121",
+   "id": "static-gk-00141",
    "q": "Which element has the chemical symbol Rg?",
    "o": [
     "Radium",
@@ -1831,7 +2131,7 @@
    "e": "Rg is the symbol of Roentgenium."
   },
   {
-   "id": "static-gk-00122",
+   "id": "static-gk-00142",
    "q": "What is the capital of Jharkhand?",
    "o": [
     "Ranchi",
@@ -1846,7 +2146,7 @@
    "e": "The capital of Jharkhand is Ranchi."
   },
   {
-   "id": "static-gk-00123",
+   "id": "static-gk-00143",
    "q": "What is the capital of the Union Territory of Puducherry?",
    "o": [
     "Puducherry",
@@ -1861,7 +2161,7 @@
    "e": "The capital of Puducherry is Puducherry."
   },
   {
-   "id": "static-gk-00124",
+   "id": "static-gk-00144",
    "q": "Which of the following is the National Bird of India?",
    "o": [
     "Indian Peacock",
@@ -1876,7 +2176,7 @@
    "e": "The National Bird of India is Indian Peacock."
   },
   {
-   "id": "static-gk-00125",
+   "id": "static-gk-00145",
    "q": "First Indian to climb Mount Everest is associated with which of the following?",
    "o": [
     "Justice Fathima Beevi",
@@ -1891,7 +2191,7 @@
    "e": "First Indian to climb Mount Everest — Tenzing Norgay."
   },
   {
-   "id": "static-gk-00126",
+   "id": "static-gk-00146",
    "q": "Mohiniyattam is a folk or classical dance form of which state?",
    "o": [
     "Kerala",
@@ -1906,7 +2206,7 @@
    "e": "Mohiniyattam belongs to Kerala."
   },
   {
-   "id": "static-gk-00127",
+   "id": "static-gk-00147",
    "q": "Chhath Puja is a major festival of which state?",
    "o": [
     "Madhya Pradesh",
@@ -1921,7 +2221,7 @@
    "e": "Chhath Puja is celebrated mainly in Bihar."
   },
   {
-   "id": "static-gk-00128",
+   "id": "static-gk-00148",
    "q": "The river Mahanadi originates from which of the following?",
    "o": [
     "Sivagiri Hills",
@@ -1936,7 +2236,7 @@
    "e": "Mahanadi originates from Sihawa."
   },
   {
-   "id": "static-gk-00129",
+   "id": "static-gk-00149",
    "q": "Maithon Dam is built on which river?",
    "o": [
     "Koyna",
@@ -1951,7 +2251,7 @@
    "e": "Maithon Dam is built on the Barakar."
   },
   {
-   "id": "static-gk-00130",
+   "id": "static-gk-00150",
    "q": "Dudhwa National Park is located in which state?",
    "o": [
     "Tamil Nadu",
@@ -1966,7 +2266,7 @@
    "e": "Dudhwa National Park is located in Uttar Pradesh."
   },
   {
-   "id": "static-gk-00131",
+   "id": "static-gk-00151",
    "q": "Palakkad Gap pass is located in which state or union territory?",
    "o": [
     "Uttarakhand",
@@ -1981,7 +2281,7 @@
    "e": "Palakkad Gap is located in Kerala."
   },
   {
-   "id": "static-gk-00132",
+   "id": "static-gk-00152",
    "q": "What is the SI unit of Power?",
    "o": [
     "Katal",
@@ -1996,7 +2296,7 @@
    "e": "The SI unit of Power is the Watt."
   },
   {
-   "id": "static-gk-00133",
+   "id": "static-gk-00153",
    "q": "Which instrument is used to measure Heart electrical activity?",
    "o": [
     "Sphygmomanometer",
@@ -2011,7 +2311,7 @@
    "e": "Electrocardiogram machine is used to measure Heart electrical activity."
   },
   {
-   "id": "static-gk-00134",
+   "id": "static-gk-00154",
    "q": "Deficiency of which nutrient causes Anaemia?",
    "o": [
     "Magnesium",
@@ -2026,7 +2326,7 @@
    "e": "Deficiency of Iron causes Anaemia."
   },
   {
-   "id": "static-gk-00135",
+   "id": "static-gk-00155",
    "q": "Who is credited with Vaccination against smallpox?",
    "o": [
     "Antonie van Leeuwenhoek",
@@ -2041,7 +2341,7 @@
    "e": "Vaccination against smallpox — Edward Jenner."
   },
   {
-   "id": "static-gk-00136",
+   "id": "static-gk-00156",
    "q": "What is the chemical name of Carbolic acid?",
    "o": [
     "Calcium oxide (CaO)",
@@ -2056,7 +2356,7 @@
    "e": "Carbolic acid is Phenol (C6H5OH)."
   },
   {
-   "id": "static-gk-00137",
+   "id": "static-gk-00157",
    "q": "Which branch of science deals with Organisms and their environment?",
    "o": [
     "Mycology",
@@ -2071,7 +2371,7 @@
    "e": "Ecology deals with Organisms and their environment."
   },
   {
-   "id": "static-gk-00138",
+   "id": "static-gk-00158",
    "q": "Which planet or body is described as: Mars?",
    "o": [
     "Milky Way",
@@ -2086,7 +2386,7 @@
    "e": "Olympus Mons — Mars."
   },
   {
-   "id": "static-gk-00139",
+   "id": "static-gk-00159",
    "q": "Robert Koch is known for which of the following?",
    "o": [
     "Kinetic theory of gases",
@@ -2101,7 +2401,7 @@
    "e": "Robert Koch is known for Bacteriology and tuberculosis bacillus."
   },
   {
-   "id": "static-gk-00140",
+   "id": "static-gk-00160",
    "q": "Finance Commission is best described as which of the following?",
    "o": [
     "Central bank and monetary authority",
@@ -2116,7 +2416,7 @@
    "e": "Finance Commission — Recommends distribution of taxes between the Centre and States."
   },
   {
-   "id": "static-gk-00141",
+   "id": "static-gk-00161",
    "q": "On which date is World Sparrow Day observed?",
    "o": [
     "20 March",
@@ -2131,7 +2431,7 @@
    "e": "World Sparrow Day is observed on 20 March."
   },
   {
-   "id": "static-gk-00142",
+   "id": "static-gk-00162",
    "q": "Where is the headquarters of National Aeronautics and Space Administration?",
    "o": [
     "Kathmandu",
@@ -2146,7 +2446,7 @@
    "e": "National Aeronautics and Space Administration is headquartered at Washington, D.C.."
   },
   {
-   "id": "static-gk-00143",
+   "id": "static-gk-00163",
    "q": "Davis Cup is associated with which sport?",
    "o": [
     "Tennis",
@@ -2161,7 +2461,7 @@
    "e": "Davis Cup is associated with Tennis."
   },
   {
-   "id": "static-gk-00144",
+   "id": "static-gk-00164",
    "q": "Academy Award (Oscar) is associated with which of the following?",
    "o": [
     "Lifetime achievement in Indian sports",
@@ -2176,7 +2476,7 @@
    "e": "Academy Award (Oscar) — American award for films."
   },
   {
-   "id": "static-gk-00145",
+   "id": "static-gk-00165",
    "q": "First country to land a man on the Moon is associated with which of the following?",
    "o": [
     "United States of America",
@@ -2191,7 +2491,7 @@
    "e": "First country to land a man on the Moon — United States of America."
   },
   {
-   "id": "static-gk-00146",
+   "id": "static-gk-00166",
    "q": "Which is the largest continent by area?",
    "o": [
     "Arctic Ocean",
@@ -2206,7 +2506,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "static-gk-00147",
+   "id": "static-gk-00167",
    "q": "Which soil is described as: Formed in waterlogged areas with organic matter?",
    "o": [
     "Peaty soil",
@@ -2221,7 +2521,7 @@
    "e": "Peaty soil — Formed in waterlogged areas with organic matter."
   },
   {
-   "id": "static-gk-00148",
+   "id": "static-gk-00168",
    "q": "Which Indian state is a major producer of Petroleum?",
    "o": [
     "Madhya Pradesh",
@@ -2236,7 +2536,7 @@
    "e": "Petroleum is produced in large quantities in Assam."
   },
   {
-   "id": "static-gk-00149",
+   "id": "static-gk-00169",
    "q": "Cold Desert Biosphere Reserve is located in which state?",
    "o": [
     "Andaman and Nicobar Islands",
@@ -2251,7 +2551,7 @@
    "e": "Cold Desert Biosphere Reserve is in Himachal Pradesh."
   },
   {
-   "id": "static-gk-00150",
+   "id": "static-gk-00170",
    "q": "What is the capital of Guyana?",
    "o": [
     "Belgrade",
@@ -2266,7 +2566,7 @@
    "e": "The capital of Guyana is Georgetown."
   },
   {
-   "id": "static-gk-00151",
+   "id": "static-gk-00171",
    "q": "Which element has the chemical symbol Mt?",
    "o": [
     "Boron",
@@ -2281,7 +2581,7 @@
    "e": "Mt is the symbol of Meitnerium."
   },
   {
-   "id": "static-gk-00152",
+   "id": "static-gk-00172",
    "q": "What is the capital of Assam?",
    "o": [
     "Hyderabad",
@@ -2296,7 +2596,7 @@
    "e": "The capital of Assam is Dispur."
   },
   {
-   "id": "static-gk-00153",
+   "id": "static-gk-00173",
    "q": "What is the capital of the Union Territory of Ladakh?",
    "o": [
     "Kavaratti",
@@ -2311,7 +2611,7 @@
    "e": "The capital of Ladakh is Leh."
   },
   {
-   "id": "static-gk-00154",
+   "id": "static-gk-00174",
    "q": "Which of the following is the National Aquatic Animal of India?",
    "o": [
     "Lion Capital of Ashoka",
@@ -2326,7 +2626,7 @@
    "e": "The National Aquatic Animal of India is Ganges River Dolphin."
   },
   {
-   "id": "static-gk-00155",
+   "id": "static-gk-00175",
    "q": "First woman to travel to space from India is associated with which of the following?",
    "o": [
     "Kalpana Chawla",
@@ -2341,7 +2641,7 @@
    "e": "First woman to travel to space from India — Kalpana Chawla."
   },
   {
-   "id": "static-gk-00156",
+   "id": "static-gk-00176",
    "q": "Dhali is a folk or classical dance form of which state?",
    "o": [
     "West Bengal",
@@ -2356,7 +2656,7 @@
    "e": "Dhali belongs to West Bengal."
   },
   {
-   "id": "static-gk-00157",
+   "id": "static-gk-00177",
    "q": "Ugadi is a major festival of which state?",
    "o": [
     "Arunachal Pradesh",
@@ -2371,7 +2671,7 @@
    "e": "Ugadi is celebrated mainly in Karnataka."
   },
   {
-   "id": "static-gk-00158",
+   "id": "static-gk-00178",
    "q": "The river Tapti originates from which of the following?",
    "o": [
     "Multai",
@@ -2386,7 +2686,7 @@
    "e": "Tapti originates from Multai."
   },
   {
-   "id": "static-gk-00159",
+   "id": "static-gk-00179",
    "q": "Nagarjuna Sagar Dam is built on which river?",
    "o": [
     "Periyar",
@@ -2401,7 +2701,7 @@
    "e": "Nagarjuna Sagar Dam is built on the Krishna."
   },
   {
-   "id": "static-gk-00160",
+   "id": "static-gk-00180",
    "q": "Periyar National Park is located in which state?",
    "o": [
     "Kerala",
@@ -2416,7 +2716,7 @@
    "e": "Periyar National Park is located in Kerala."
   },
   {
-   "id": "static-gk-00161",
+   "id": "static-gk-00181",
    "q": "Diphu Pass pass is located in which state or union territory?",
    "o": [
     "Uttarakhand",
@@ -2431,7 +2731,7 @@
    "e": "Diphu Pass is located in Arunachal Pradesh."
   },
   {
-   "id": "static-gk-00162",
+   "id": "static-gk-00182",
    "q": "What is the SI unit of Energy?",
    "o": [
     "Joule",
@@ -2446,7 +2746,7 @@
    "e": "The SI unit of Energy is the Joule."
   },
   {
-   "id": "static-gk-00163",
+   "id": "static-gk-00183",
    "q": "Which instrument is used to measure High temperature?",
    "o": [
     "Kymograph",
@@ -2461,7 +2761,7 @@
    "e": "Pyrometer is used to measure High temperature."
   },
   {
-   "id": "static-gk-00164",
+   "id": "static-gk-00184",
    "q": "Deficiency of which nutrient causes Pellagra?",
    "o": [
     "Vitamin C",
@@ -2476,7 +2776,7 @@
    "e": "Deficiency of Vitamin B3 causes Pellagra."
   },
   {
-   "id": "static-gk-00165",
+   "id": "static-gk-00185",
    "q": "Who is credited with Nitrogen?",
    "o": [
     "Daniel Gabriel Fahrenheit",
@@ -2491,7 +2791,7 @@
    "e": "Nitrogen — Daniel Rutherford."
   },
   {
-   "id": "static-gk-00166",
+   "id": "static-gk-00186",
    "q": "What is the chemical name of Alum?",
    "o": [
     "Aqueous formaldehyde (HCHO)",
@@ -2506,7 +2806,7 @@
    "e": "Alum is Potassium aluminium sulphate."
   },
   {
-   "id": "static-gk-00167",
+   "id": "static-gk-00187",
    "q": "Which branch of science deals with Postage stamps?",
    "o": [
     "Apiculture",
@@ -2521,7 +2821,7 @@
    "e": "Philately deals with Postage stamps."
   },
   {
-   "id": "static-gk-00168",
+   "id": "static-gk-00188",
    "q": "Which planet or body is described as: Pluto?",
    "o": [
     "Uranus",
@@ -2536,7 +2836,7 @@
    "e": "Pluto — Pluto."
   },
   {
-   "id": "static-gk-00169",
+   "id": "static-gk-00189",
    "q": "P. C. Mahalanobis is known for which of the following?",
    "o": [
     "Triple helical structure of collagen",
@@ -2551,7 +2851,7 @@
    "e": "P. C. Mahalanobis is known for Statistics and Indian planning."
   },
   {
-   "id": "static-gk-00170",
+   "id": "static-gk-00190",
    "q": "Union Public Service Commission is best described as which of the following?",
    "o": [
     "Recruits civil servants for the Union",
@@ -2566,7 +2866,7 @@
    "e": "Union Public Service Commission — Recruits civil servants for the Union."
   },
   {
-   "id": "static-gk-00171",
+   "id": "static-gk-00191",
    "q": "On which date is World Heritage Day observed?",
    "o": [
     "21 June",
@@ -2581,7 +2881,7 @@
    "e": "World Heritage Day is observed on 18 April."
   },
   {
-   "id": "static-gk-00172",
+   "id": "static-gk-00192",
    "q": "Where is the headquarters of International Hockey Federation?",
    "o": [
     "Brussels",
@@ -2596,7 +2896,7 @@
    "e": "International Hockey Federation is headquartered at Lausanne."
   },
   {
-   "id": "static-gk-00173",
+   "id": "static-gk-00193",
    "q": "All England Open is associated with which sport?",
    "o": [
     "Cricket",
@@ -2611,7 +2911,7 @@
    "e": "All England Open is associated with Badminton."
   },
   {
-   "id": "static-gk-00174",
+   "id": "static-gk-00194",
    "q": "Jnanpith Award is associated with which of the following?",
    "o": [
     "Asian award for public service",
@@ -2626,7 +2926,7 @@
    "e": "Jnanpith Award — Highest literary award of India."
   },
   {
-   "id": "static-gk-00175",
+   "id": "static-gk-00195",
    "q": "First woman to win a Nobel Prize is associated with which of the following?",
    "o": [
     "Soviet Union",
@@ -2641,7 +2941,7 @@
    "e": "First woman to win a Nobel Prize — Marie Curie."
   },
   {
-   "id": "static-gk-00176",
+   "id": "static-gk-00196",
    "q": "Which is the largest river by volume of water?",
    "o": [
     "Bhutan",
@@ -2656,7 +2956,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "static-gk-00177",
+   "id": "static-gk-00197",
    "q": "Which soil is described as: Most fertile soil, found in the northern plains?",
    "o": [
     "Saline soil",
@@ -2671,7 +2971,7 @@
    "e": "Alluvial soil — Most fertile soil, found in the northern plains."
   },
   {
-   "id": "static-gk-00178",
+   "id": "static-gk-00198",
    "q": "Which Indian state is a major producer of Bauxite?",
    "o": [
     "Rajasthan",
@@ -2686,7 +2986,7 @@
    "e": "Bauxite is produced in large quantities in Odisha."
   },
   {
-   "id": "static-gk-00179",
+   "id": "static-gk-00199",
    "q": "Sundarbans Biosphere Reserve is located in which state?",
    "o": [
     "Kerala and Tamil Nadu",
@@ -2701,7 +3001,7 @@
    "e": "Sundarbans Biosphere Reserve is in West Bengal."
   },
   {
-   "id": "static-gk-00180",
+   "id": "static-gk-00200",
    "q": "What is the capital of Croatia?",
    "o": [
     "Port-au-Prince",
@@ -2716,7 +3016,7 @@
    "e": "The capital of Croatia is Zagreb."
   },
   {
-   "id": "static-gk-00181",
+   "id": "static-gk-00201",
    "q": "Which element has the chemical symbol Re?",
    "o": [
     "Rhenium",
@@ -2731,7 +3031,7 @@
    "e": "Re is the symbol of Rhenium."
   },
   {
-   "id": "static-gk-00182",
+   "id": "static-gk-00202",
    "q": "What is the capital of Punjab?",
    "o": [
     "Shimla",
@@ -2746,7 +3046,7 @@
    "e": "The capital of Punjab is Chandigarh."
   },
   {
-   "id": "static-gk-00183",
+   "id": "static-gk-00203",
    "q": "What is the capital of the Union Territory of Lakshadweep?",
    "o": [
     "New Delhi",
@@ -2761,7 +3061,7 @@
    "e": "The capital of Lakshadweep is Kavaratti."
   },
   {
-   "id": "static-gk-00184",
+   "id": "static-gk-00204",
    "q": "Which of the following is the National Flower of India?",
    "o": [
     "Saka Calendar",
@@ -2776,7 +3076,7 @@
    "e": "The National Flower of India is Lotus."
   },
   {
-   "id": "static-gk-00185",
+   "id": "static-gk-00205",
    "q": "First President of India is associated with which of the following?",
    "o": [
     "Aryabhata",
@@ -2791,7 +3091,7 @@
    "e": "First President of India — Dr. Rajendra Prasad."
   },
   {
-   "id": "static-gk-00186",
+   "id": "static-gk-00206",
    "q": "Nati is a folk or classical dance form of which state?",
    "o": [
     "Tamil Nadu",
@@ -2806,7 +3106,7 @@
    "e": "Nati belongs to Himachal Pradesh."
   },
   {
-   "id": "static-gk-00187",
+   "id": "static-gk-00207",
    "q": "Gudi Padwa is a major festival of which state?",
    "o": [
     "Mizoram",
@@ -2821,7 +3121,7 @@
    "e": "Gudi Padwa is celebrated mainly in Maharashtra."
   },
   {
-   "id": "static-gk-00188",
+   "id": "static-gk-00208",
    "q": "The river Ganga originates from which of the following?",
    "o": [
     "Satopanth Glacier",
@@ -2836,7 +3136,7 @@
    "e": "Ganga originates from Gangotri Glacier."
   },
   {
-   "id": "static-gk-00189",
+   "id": "static-gk-00209",
    "q": "Dul Hasti Dam is built on which river?",
    "o": [
     "Krishna",
@@ -2851,7 +3151,7 @@
    "e": "Dul Hasti Dam is built on the Chenab."
   },
   {
-   "id": "static-gk-00190",
+   "id": "static-gk-00210",
    "q": "Guindy National Park is located in which state?",
    "o": [
     "Madhya Pradesh",
@@ -2866,7 +3166,7 @@
    "e": "Guindy National Park is located in Tamil Nadu."
   },
   {
-   "id": "static-gk-00191",
+   "id": "static-gk-00211",
    "q": "Se La Pass pass is located in which state or union territory?",
    "o": [
     "Arunachal Pradesh",
@@ -2881,7 +3181,7 @@
    "e": "Se La Pass is located in Arunachal Pradesh."
   },
   {
-   "id": "static-gk-00192",
+   "id": "static-gk-00212",
    "q": "What is the SI unit of Length?",
    "o": [
     "Lumen",
@@ -2896,7 +3196,7 @@
    "e": "The SI unit of Length is the Metre."
   },
   {
-   "id": "static-gk-00193",
+   "id": "static-gk-00213",
    "q": "Which instrument is used to measure Objects above obstacles?",
    "o": [
     "Voltmeter",
@@ -2911,7 +3211,7 @@
    "e": "Periscope is used to measure Objects above obstacles."
   },
   {
-   "id": "static-gk-00194",
+   "id": "static-gk-00214",
    "q": "Deficiency of which nutrient causes Rickets?",
    "o": [
     "Vitamin A",
@@ -2926,7 +3226,7 @@
    "e": "Deficiency of Vitamin D causes Rickets."
   },
   {
-   "id": "static-gk-00195",
+   "id": "static-gk-00215",
    "q": "Who is credited with Law of planetary motion?",
    "o": [
     "Rene Laennec",
@@ -2941,7 +3241,7 @@
    "e": "Law of planetary motion — Johannes Kepler."
   },
   {
-   "id": "static-gk-00196",
+   "id": "static-gk-00216",
    "q": "What is the chemical name of Green vitriol?",
    "o": [
     "Calcium carbonate (CaCO3)",
@@ -2956,7 +3256,7 @@
    "e": "Green vitriol is Ferrous sulphate (FeSO4.7H2O)."
   },
   {
-   "id": "static-gk-00197",
+   "id": "static-gk-00217",
    "q": "Which branch of science deals with Reptiles and amphibians?",
    "o": [
     "Mechanics",
@@ -2971,7 +3271,7 @@
    "e": "Herpetology deals with Reptiles and amphibians."
   },
   {
-   "id": "static-gk-00198",
+   "id": "static-gk-00218",
    "q": "Which planet or body is described as: Milky Way?",
    "o": [
     "Meteorite",
@@ -2986,7 +3286,7 @@
    "e": "Milky Way — Milky Way."
   },
   {
-   "id": "static-gk-00199",
+   "id": "static-gk-00219",
    "q": "Jacques Charles is known for which of the following?",
    "o": [
     "Indian nuclear programme",
@@ -3001,7 +3301,7 @@
    "e": "Jacques Charles is known for Charles's law of gases."
   },
   {
-   "id": "static-gk-00200",
+   "id": "static-gk-00220",
    "q": "President of India is best described as which of the following?",
    "o": [
     "Administered by the President through administrators",
@@ -3016,7 +3316,7 @@
    "e": "President of India — Constitutional head of the Republic."
   },
   {
-   "id": "static-gk-00201",
+   "id": "static-gk-00221",
    "q": "On which date is World Photography Day observed?",
    "o": [
     "16 September",
@@ -3031,7 +3331,7 @@
    "e": "World Photography Day is observed on 19 August."
   },
   {
-   "id": "static-gk-00202",
+   "id": "static-gk-00222",
    "q": "Where is the headquarters of UN High Commissioner for Refugees?",
    "o": [
     "Rome",
@@ -3046,7 +3346,7 @@
    "e": "UN High Commissioner for Refugees is headquartered at Geneva."
   },
   {
-   "id": "static-gk-00203",
+   "id": "static-gk-00223",
    "q": "Ryder Cup is associated with which sport?",
    "o": [
     "Table Tennis",
@@ -3061,7 +3361,7 @@
    "e": "Ryder Cup is associated with Golf."
   },
   {
-   "id": "static-gk-00204",
+   "id": "static-gk-00224",
    "q": "Padma Vibhushan is associated with which of the following?",
    "o": [
     "Indian literary award",
@@ -3076,7 +3376,7 @@
    "e": "Padma Vibhushan — Second highest civilian award of India."
   },
   {
-   "id": "static-gk-00205",
+   "id": "static-gk-00225",
    "q": "First country to host the modern Olympic Games is associated with which of the following?",
    "o": [
     "Yuri Gagarin",
@@ -3091,7 +3391,7 @@
    "e": "First country to host the modern Olympic Games — Greece."
   },
   {
-   "id": "static-gk-00206",
+   "id": "static-gk-00226",
    "q": "Which is the largest gulf in the world?",
    "o": [
     "Gulf of Mexico",
@@ -3106,7 +3406,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "static-gk-00207",
+   "id": "static-gk-00227",
    "q": "Which soil is described as: Found in hilly and forest regions?",
    "o": [
     "Desert soil",
@@ -3121,7 +3421,7 @@
    "e": "Mountain soil — Found in hilly and forest regions."
   },
   {
-   "id": "static-gk-00208",
+   "id": "static-gk-00228",
    "q": "Which Indian state is a major producer of Gypsum?",
    "o": [
     "Odisha",
@@ -3136,7 +3436,7 @@
    "e": "Gypsum is produced in large quantities in Rajasthan."
   },
   {
-   "id": "static-gk-00209",
+   "id": "static-gk-00229",
    "q": "Wular Lake is located in which state?",
    "o": [
     "West Bengal",
@@ -3151,7 +3451,7 @@
    "e": "Wular Lake is in Jammu and Kashmir."
   },
   {
-   "id": "static-gk-00210",
+   "id": "static-gk-00230",
    "q": "What is the capital of Georgia?",
    "o": [
     "Yaounde",
@@ -3166,7 +3466,7 @@
    "e": "The capital of Georgia is Tbilisi."
   },
   {
-   "id": "static-gk-00211",
+   "id": "static-gk-00231",
    "q": "Which element has the chemical symbol Si?",
    "o": [
     "Yttrium",
@@ -3181,7 +3481,7 @@
    "e": "Si is the symbol of Silicon."
   },
   {
-   "id": "static-gk-00212",
+   "id": "static-gk-00232",
    "q": "What is the capital of Manipur?",
    "o": [
     "Bhopal",
@@ -3196,7 +3496,7 @@
    "e": "The capital of Manipur is Imphal."
   },
   {
-   "id": "static-gk-00213",
+   "id": "static-gk-00233",
    "q": "Port Blair is the capital of which Union Territory?",
    "o": [
     "Andaman and Nicobar Islands",
@@ -3211,7 +3511,7 @@
    "e": "Port Blair is the capital of Andaman and Nicobar Islands."
   },
   {
-   "id": "static-gk-00214",
+   "id": "static-gk-00234",
    "q": "Which of the following is the National Anthem of India?",
    "o": [
     "Vande Mataram",
@@ -3226,7 +3526,7 @@
    "e": "The National Anthem of India is Jana Gana Mana."
   },
   {
-   "id": "static-gk-00215",
+   "id": "static-gk-00235",
    "q": "First Indian satellite launched is associated with which of the following?",
    "o": [
     "Tenzing Norgay",
@@ -3241,7 +3541,7 @@
    "e": "First Indian satellite launched — Aryabhata."
   },
   {
-   "id": "static-gk-00216",
+   "id": "static-gk-00236",
    "q": "Hojagiri is a folk or classical dance form of which state?",
    "o": [
     "Tripura",
@@ -3256,7 +3556,7 @@
    "e": "Hojagiri belongs to Tripura."
   },
   {
-   "id": "static-gk-00217",
+   "id": "static-gk-00237",
    "q": "Sohrai is a major festival of which state?",
    "o": [
     "Jharkhand",
@@ -3271,7 +3571,7 @@
    "e": "Sohrai is celebrated mainly in Jharkhand."
   },
   {
-   "id": "static-gk-00218",
+   "id": "static-gk-00238",
    "q": "The river Alaknanda originates from which of the following?",
    "o": [
     "Sihawa",
@@ -3286,7 +3586,7 @@
    "e": "Alaknanda originates from Satopanth Glacier."
   },
   {
-   "id": "static-gk-00219",
+   "id": "static-gk-00239",
    "q": "Bhakra Nangal Dam is built on which river?",
    "o": [
     "Narmada",
@@ -3301,7 +3601,7 @@
    "e": "Bhakra Nangal Dam is built on the Sutlej."
   },
   {
-   "id": "static-gk-00220",
+   "id": "static-gk-00240",
    "q": "Keoladeo National Park is located in which state?",
    "o": [
     "Maharashtra",
@@ -3316,7 +3616,7 @@
    "e": "Keoladeo National Park is located in Rajasthan."
   },
   {
-   "id": "static-gk-00221",
+   "id": "static-gk-00241",
    "q": "Nathu La pass is located in which state or union territory?",
    "o": [
     "Sikkim",
@@ -3331,7 +3631,7 @@
    "e": "Nathu La is located in Sikkim."
   },
   {
-   "id": "static-gk-00222",
+   "id": "static-gk-00242",
    "q": "What is the SI unit of Luminous flux?",
    "o": [
     "Watt",
@@ -3346,7 +3646,7 @@
    "e": "The SI unit of Luminous flux is the Lumen."
   },
   {
-   "id": "static-gk-00223",
+   "id": "static-gk-00243",
    "q": "Which instrument is used to measure Time accurately?",
    "o": [
     "Odometer",
@@ -3361,7 +3661,7 @@
    "e": "Chronometer is used to measure Time accurately."
   },
   {
-   "id": "static-gk-00224",
+   "id": "static-gk-00244",
    "q": "Deficiency of which nutrient causes Paresthesia?",
    "o": [
     "Magnesium",
@@ -3376,7 +3676,7 @@
    "e": "Deficiency of Vitamin B5 causes Paresthesia."
   },
   {
-   "id": "static-gk-00225",
+   "id": "static-gk-00245",
    "q": "Who is credited with Dynamite?",
    "o": [
     "Isaac Newton",
@@ -3391,7 +3691,7 @@
    "e": "Dynamite — Alfred Nobel."
   },
   {
-   "id": "static-gk-00226",
+   "id": "static-gk-00246",
    "q": "What is the chemical name of Heavy water?",
    "o": [
     "Sodium bicarbonate and tartaric acid",
@@ -3406,7 +3706,7 @@
    "e": "Heavy water is Deuterium oxide (D2O)."
   },
   {
-   "id": "static-gk-00227",
+   "id": "static-gk-00247",
    "q": "Which branch of science deals with Functions of living organisms?",
    "o": [
     "Astronomy",
@@ -3421,7 +3721,7 @@
    "e": "Physiology deals with Functions of living organisms."
   },
   {
-   "id": "static-gk-00228",
+   "id": "static-gk-00248",
    "q": "Which planet or body is described as: Aurora?",
    "o": [
     "Mars",
@@ -3436,7 +3736,7 @@
    "e": "Aurora — Aurora."
   },
   {
-   "id": "static-gk-00229",
+   "id": "static-gk-00249",
    "q": "Gregor Mendel is known for which of the following?",
    "o": [
     "Electromagnetic theory",
@@ -3451,7 +3751,7 @@
    "e": "Gregor Mendel is known for Laws of inheritance."
   },
   {
-   "id": "static-gk-00230",
+   "id": "static-gk-00250",
    "q": "Union Territories is best described as which of the following?",
    "o": [
     "Recommends distribution of taxes between the Centre and States",
@@ -3466,7 +3766,7 @@
    "e": "Union Territories — Administered by the President through administrators."
   },
   {
-   "id": "static-gk-00231",
+   "id": "static-gk-00251",
    "q": "On which date is Human Rights Day observed?",
    "o": [
     "25 January",
@@ -3481,7 +3781,7 @@
    "e": "Human Rights Day is observed on 10 December."
   },
   {
-   "id": "static-gk-00232",
+   "id": "static-gk-00252",
    "q": "Where is the headquarters of ASEAN?",
    "o": [
     "Kathmandu",
@@ -3496,7 +3796,7 @@
    "e": "ASEAN is headquartered at Jakarta."
   },
   {
-   "id": "static-gk-00233",
+   "id": "static-gk-00253",
    "q": "Sultan Azlan Shah Cup is associated with which sport?",
    "o": [
     "Badminton",
@@ -3511,7 +3811,7 @@
    "e": "Sultan Azlan Shah Cup is associated with Hockey."
   },
   {
-   "id": "static-gk-00234",
+   "id": "static-gk-00254",
    "q": "National Bravery Award is associated with which of the following?",
    "o": [
     "British award for fiction",
@@ -3526,7 +3826,7 @@
    "e": "National Bravery Award — Award for brave children in India."
   },
   {
-   "id": "static-gk-00235",
+   "id": "static-gk-00255",
    "q": "First FIFA World Cup was held in is associated with which of the following?",
    "o": [
     "Karnam Malleswari",
@@ -3541,7 +3841,7 @@
    "e": "First FIFA World Cup was held in — Uruguay."
   },
   {
-   "id": "static-gk-00236",
+   "id": "static-gk-00256",
    "q": "How many countries share a land border with India?",
    "o": [
     "La Paz",
@@ -3556,7 +3856,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "static-gk-00237",
+   "id": "static-gk-00257",
    "q": "Which soil is described as: Contains excess salt, found in dry coastal areas?",
    "o": [
     "Saline soil",
@@ -3571,7 +3871,7 @@
    "e": "Saline soil — Contains excess salt, found in dry coastal areas."
   },
   {
-   "id": "static-gk-00238",
+   "id": "static-gk-00258",
    "q": "Which Indian state is a major producer of Coal?",
    "o": [
     "Odisha",
@@ -3586,7 +3886,7 @@
    "e": "Coal is produced in large quantities in Jharkhand."
   },
   {
-   "id": "static-gk-00239",
+   "id": "static-gk-00259",
    "q": "Nilgiri Biosphere Reserve is located in which state?",
    "o": [
     "Tamil Nadu",
@@ -3601,7 +3901,7 @@
    "e": "Nilgiri Biosphere Reserve is in Tamil Nadu, Kerala and Karnataka."
   },
   {
-   "id": "static-gk-00240",
+   "id": "static-gk-00260",
    "q": "What is the capital of Laos?",
    "o": [
     "Tehran",
@@ -3616,7 +3916,7 @@
    "e": "The capital of Laos is Vientiane."
   },
   {
-   "id": "static-gk-00241",
+   "id": "static-gk-00261",
    "q": "Which element has the chemical symbol Fr?",
    "o": [
     "Hydrogen",
@@ -3631,7 +3931,7 @@
    "e": "Fr is the symbol of Francium."
   },
   {
-   "id": "static-gk-00242",
+   "id": "static-gk-00262",
    "q": "What is the capital of Chhattisgarh?",
    "o": [
     "Raipur",
@@ -3646,7 +3946,7 @@
    "e": "The capital of Chhattisgarh is Raipur."
   },
   {
-   "id": "static-gk-00243",
+   "id": "static-gk-00263",
    "q": "Daman is the capital of which Union Territory?",
    "o": [
     "Dadra and Nagar Haveli and Daman and Diu",
@@ -3661,7 +3961,7 @@
    "e": "Daman is the capital of Dadra and Nagar Haveli and Daman and Diu."
   },
   {
-   "id": "static-gk-00244",
+   "id": "static-gk-00264",
    "q": "Which of the following is the National Animal of India?",
    "o": [
     "Vande Mataram",
@@ -3676,7 +3976,7 @@
    "e": "The National Animal of India is Bengal Tiger."
   },
   {
-   "id": "static-gk-00245",
+   "id": "static-gk-00265",
    "q": "First Indian to win the Miss World title is associated with which of the following?",
    "o": [
     "Mother Teresa",
@@ -3691,7 +3991,7 @@
    "e": "First Indian to win the Miss World title — Reita Faria."
   },
   {
-   "id": "static-gk-00246",
+   "id": "static-gk-00266",
    "q": "Dandiya Raas is a folk or classical dance form of which state?",
    "o": [
     "Kerala",
@@ -3706,7 +4006,7 @@
    "e": "Dandiya Raas belongs to Gujarat."
   },
   {
-   "id": "static-gk-00247",
+   "id": "static-gk-00267",
    "q": "Durga Puja is a major festival of which state?",
    "o": [
     "Tamil Nadu",
@@ -3721,7 +4021,7 @@
    "e": "Durga Puja is celebrated mainly in West Bengal."
   },
   {
-   "id": "static-gk-00248",
+   "id": "static-gk-00268",
    "q": "The river Tungabhadra originates from which of the following?",
    "o": [
     "Mahabaleshwar",
@@ -3736,7 +4036,7 @@
    "e": "Tungabhadra originates from Kudali."
   },
   {
-   "id": "static-gk-00249",
+   "id": "static-gk-00269",
    "q": "Srisailam Dam is built on which river?",
    "o": [
     "Krishna",
@@ -3751,7 +4051,7 @@
    "e": "Srisailam Dam is built on the Krishna."
   },
   {
-   "id": "static-gk-00250",
+   "id": "static-gk-00270",
    "q": "Van Vihar National Park is located in which state?",
    "o": [
     "Himachal Pradesh",
@@ -3766,7 +4066,7 @@
    "e": "Van Vihar National Park is located in Madhya Pradesh."
   },
   {
-   "id": "static-gk-00251",
+   "id": "static-gk-00271",
    "q": "Banihal Pass pass is located in which state or union territory?",
    "o": [
     "Ladakh",
@@ -3781,7 +4081,7 @@
    "e": "Banihal Pass is located in Jammu and Kashmir."
   },
   {
-   "id": "static-gk-00252",
+   "id": "static-gk-00272",
    "q": "What is the SI unit of Entropy?",
    "o": [
     "Candela",
@@ -3796,7 +4096,7 @@
    "e": "The SI unit of Entropy is the Joule per Kelvin."
   },
   {
-   "id": "static-gk-00253",
+   "id": "static-gk-00273",
    "q": "Which instrument is used to measure Small electric currents?",
    "o": [
     "Spectrometer",
@@ -3811,7 +4111,7 @@
    "e": "Galvanometer is used to measure Small electric currents."
   },
   {
-   "id": "static-gk-00254",
+   "id": "static-gk-00274",
    "q": "Deficiency of which nutrient causes Delayed blood clotting?",
    "o": [
     "Vitamin K and Protein",
@@ -3826,7 +4126,7 @@
    "e": "Deficiency of Vitamin K and Protein causes Delayed blood clotting."
   },
   {
-   "id": "static-gk-00255",
+   "id": "static-gk-00275",
    "q": "Who is credited with Telescope (astronomical use)?",
    "o": [
     "Galileo Galilei",
@@ -3841,7 +4141,7 @@
    "e": "Telescope (astronomical use) — Galileo Galilei."
   },
   {
-   "id": "static-gk-00256",
+   "id": "static-gk-00276",
    "q": "What is the chemical name of Marble?",
    "o": [
     "Solid carbon dioxide (CO2)",
@@ -3856,7 +4156,7 @@
    "e": "Marble is Calcium carbonate (CaCO3)."
   },
   {
-   "id": "static-gk-00257",
+   "id": "static-gk-00277",
    "q": "Which branch of science deals with Fishes?",
    "o": [
     "Ichthyology",
@@ -3871,7 +4171,7 @@
    "e": "Ichthyology deals with Fishes."
   },
   {
-   "id": "static-gk-00258",
+   "id": "static-gk-00278",
    "q": "Which planet or body is described as: Supernova?",
    "o": [
     "Supernova",
@@ -3886,7 +4186,7 @@
    "e": "Supernova — Supernova."
   },
   {
-   "id": "static-gk-00259",
+   "id": "static-gk-00279",
    "q": "Robert Boyle is known for which of the following?",
    "o": [
     "Boyle's law of gases",
@@ -3901,7 +4201,7 @@
    "e": "Robert Boyle is known for Boyle's law of gases."
   },
   {
-   "id": "static-gk-00260",
+   "id": "static-gk-00280",
    "q": "IRDAI is best described as which of the following?",
    "o": [
     "Supervises elections to Parliament and State legislatures",
@@ -3916,7 +4216,7 @@
    "e": "IRDAI — Regulator of the insurance sector."
   },
   {
-   "id": "static-gk-00261",
+   "id": "static-gk-00281",
    "q": "On which date is World Hepatitis Day observed?",
    "o": [
     "28 July",
@@ -3931,7 +4231,7 @@
    "e": "World Hepatitis Day is observed on 28 July."
   },
   {
-   "id": "static-gk-00262",
+   "id": "static-gk-00282",
    "q": "Where is the headquarters of Amnesty International?",
    "o": [
     "Vienna",
@@ -3946,7 +4246,7 @@
    "e": "Amnesty International is headquartered at London."
   },
   {
-   "id": "static-gk-00263",
+   "id": "static-gk-00283",
    "q": "Champions Trophy (Cricket) is associated with which sport?",
    "o": [
     "Tennis",
@@ -3961,7 +4261,7 @@
    "e": "Champions Trophy (Cricket) is associated with Cricket."
   },
   {
-   "id": "static-gk-00264",
+   "id": "static-gk-00284",
    "q": "National Film Award is associated with which of the following?",
    "o": [
     "International award for Physics, Chemistry, Medicine, Literature, Peace and Economics",
@@ -3976,7 +4276,7 @@
    "e": "National Film Award — Awards for Indian cinema."
   },
   {
-   "id": "static-gk-00265",
+   "id": "static-gk-00285",
    "q": "First human in space is associated with which of the following?",
    "o": [
     "Karnam Malleswari",
@@ -3991,7 +4291,7 @@
    "e": "First human in space — Yuri Gagarin."
   },
   {
-   "id": "static-gk-00266",
+   "id": "static-gk-00286",
    "q": "Which Indian city is called the Manchester of India?",
    "o": [
     "Ahmedabad",
@@ -4006,7 +4306,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "static-gk-00267",
+   "id": "static-gk-00287",
    "q": "Which of the following is true about Red soil?",
    "o": [
     "Formed by leaching in high rainfall areas",
@@ -4021,7 +4321,7 @@
    "e": "Red soil: Formed from crystalline rocks, rich in iron."
   },
   {
-   "id": "static-gk-00268",
+   "id": "static-gk-00288",
    "q": "Which Indian state is a major producer of Sillimanite?",
    "o": [
     "Maharashtra",
@@ -4036,7 +4336,7 @@
    "e": "Sillimanite is produced in large quantities in Maharashtra."
   },
   {
-   "id": "static-gk-00269",
+   "id": "static-gk-00289",
    "q": "Deepor Beel is located in which state?",
    "o": [
     "Assam",
@@ -4051,7 +4351,7 @@
    "e": "Deepor Beel is in Assam."
   },
   {
-   "id": "static-gk-00270",
+   "id": "static-gk-00290",
    "q": "What is the capital of Seychelles?",
    "o": [
     "Skopje",
@@ -4066,7 +4366,7 @@
    "e": "The capital of Seychelles is Victoria."
   },
   {
-   "id": "static-gk-00271",
+   "id": "static-gk-00291",
    "q": "Which element has the chemical symbol La?",
    "o": [
     "Rhenium",
@@ -4081,7 +4381,7 @@
    "e": "La is the symbol of Lanthanum."
   },
   {
-   "id": "static-gk-00272",
+   "id": "static-gk-00292",
    "q": "What is the capital of West Bengal?",
    "o": [
     "Chandigarh",
@@ -4096,7 +4396,7 @@
    "e": "The capital of West Bengal is Kolkata."
   },
   {
-   "id": "static-gk-00273",
+   "id": "static-gk-00293",
    "q": "Kavaratti is the capital of which Union Territory?",
    "o": [
     "Delhi",
@@ -4111,7 +4411,7 @@
    "e": "Kavaratti is the capital of Lakshadweep."
   },
   {
-   "id": "static-gk-00274",
+   "id": "static-gk-00294",
    "q": "Which of the following is the National Heritage Animal of India?",
    "o": [
     "King Cobra",
@@ -4126,7 +4426,7 @@
    "e": "The National Heritage Animal of India is Indian Elephant."
   },
   {
-   "id": "static-gk-00275",
+   "id": "static-gk-00295",
    "q": "First Indian to receive the Bharat Ratna is associated with which of the following?",
    "o": [
     "Kalpana Chawla",
@@ -4141,7 +4441,7 @@
    "e": "First Indian to receive the Bharat Ratna — C. Rajagopalachari."
   },
   {
-   "id": "static-gk-00276",
+   "id": "static-gk-00296",
    "q": "Tamasha is a folk or classical dance form of which state?",
    "o": [
     "Maharashtra",
@@ -4156,7 +4456,7 @@
    "e": "Tamasha belongs to Maharashtra."
   },
   {
-   "id": "static-gk-00277",
+   "id": "static-gk-00297",
    "q": "Losar Festival is a major festival of which state?",
    "o": [
     "Meghalaya",
@@ -4171,7 +4471,7 @@
    "e": "Losar Festival is celebrated mainly in Ladakh."
   },
   {
-   "id": "static-gk-00278",
+   "id": "static-gk-00298",
    "q": "The river Son originates from which of the following?",
    "o": [
     "Multai",
@@ -4186,7 +4486,7 @@
    "e": "Son originates from Amarkantak."
   },
   {
-   "id": "static-gk-00279",
+   "id": "static-gk-00299",
    "q": "Hirakud Dam is built on which river?",
    "o": [
     "Mahanadi",
@@ -4201,7 +4501,7 @@
    "e": "Hirakud Dam is built on the Mahanadi."
   },
   {
-   "id": "static-gk-00280",
+   "id": "static-gk-00300",
    "q": "Sitanadi Wildlife Sanctuary is located in which state?",
    "o": [
     "Rajasthan",
@@ -4216,7 +4516,7 @@
    "e": "Sitanadi Wildlife Sanctuary is located in Chhattisgarh."
   },
   {
-   "id": "static-gk-00281",
+   "id": "static-gk-00301",
    "q": "Lipulekh Pass pass is located in which state or union territory?",
    "o": [
     "Uttarakhand",
@@ -4231,7 +4531,7 @@
    "e": "Lipulekh Pass is located in Uttarakhand."
   },
   {
-   "id": "static-gk-00282",
+   "id": "static-gk-00302",
    "q": "What is the SI unit of Magnetic flux density?",
    "o": [
     "Joule",
@@ -4246,7 +4546,7 @@
    "e": "The SI unit of Magnetic flux density is the Tesla."
   },
   {
-   "id": "static-gk-00283",
+   "id": "static-gk-00303",
    "q": "Which instrument is used to measure Radiant energy?",
    "o": [
     "Thermometer",
@@ -4261,7 +4561,7 @@
    "e": "Radiometer is used to measure Radiant energy."
   },
   {
-   "id": "static-gk-00284",
+   "id": "static-gk-00304",
    "q": "Deficiency of which nutrient causes Haemolysis of red blood cells?",
    "o": [
     "Vitamin B7",
@@ -4276,7 +4576,7 @@
    "e": "Deficiency of Vitamin E causes Haemolysis of red blood cells."
   },
   {
-   "id": "static-gk-00285",
+   "id": "static-gk-00305",
    "q": "Who is credited with Blood groups?",
    "o": [
     "Alfred Nobel",
@@ -4291,7 +4591,7 @@
    "e": "Blood groups — Karl Landsteiner."
   },
   {
-   "id": "static-gk-00286",
+   "id": "static-gk-00306",
    "q": "What is the chemical name of Laughing gas?",
    "o": [
     "Sodium bicarbonate (NaHCO3)",
@@ -4306,7 +4606,7 @@
    "e": "Laughing gas is Nitrous oxide (N2O)."
   },
   {
-   "id": "static-gk-00287",
+   "id": "static-gk-00307",
    "q": "Which branch of science deals with Light?",
    "o": [
     "Physiology",
@@ -4321,7 +4621,7 @@
    "e": "Optics deals with Light."
   },
   {
-   "id": "static-gk-00288",
+   "id": "static-gk-00308",
    "q": "Which planet or body is described as: Mars?",
    "o": [
     "Uranus",
@@ -4336,7 +4636,7 @@
    "e": "Valles Marineris — Mars."
   },
   {
-   "id": "static-gk-00289",
+   "id": "static-gk-00309",
    "q": "C. V. Raman is known for which of the following?",
    "o": [
     "Laws of inheritance",
@@ -4351,7 +4651,7 @@
    "e": "C. V. Raman is known for Raman effect."
   },
   {
-   "id": "static-gk-00290",
+   "id": "static-gk-00310",
    "q": "State Legislature is best described as which of the following?",
    "o": [
     "Recruits civil servants for the Union",
@@ -4366,7 +4666,7 @@
    "e": "State Legislature — Law-making body of a State."
   },
   {
-   "id": "static-gk-00291",
+   "id": "static-gk-00311",
    "q": "On which date is World Students' Day observed?",
    "o": [
     "15 October",
@@ -4381,7 +4681,7 @@
    "e": "World Students' Day is observed on 15 October."
   },
   {
-   "id": "static-gk-00292",
+   "id": "static-gk-00312",
    "q": "Where is the headquarters of World Economic Forum?",
    "o": [
     "Washington, D.C.",
@@ -4396,7 +4696,7 @@
    "e": "World Economic Forum is headquartered at Cologny."
   },
   {
-   "id": "static-gk-00293",
+   "id": "static-gk-00313",
    "q": "Azlan Shah Trophy is associated with which sport?",
    "o": [
     "Tennis",
@@ -4411,7 +4711,7 @@
    "e": "Azlan Shah Trophy is associated with Hockey."
   },
   {
-   "id": "static-gk-00294",
+   "id": "static-gk-00314",
    "q": "Templeton Prize is associated with which of the following?",
    "o": [
     "Highest sporting honour of India",
@@ -4426,7 +4726,7 @@
    "e": "Templeton Prize — Award for progress in spiritual matters."
   },
   {
-   "id": "static-gk-00295",
+   "id": "static-gk-00315",
    "q": "First woman to climb Mount Everest is associated with which of the following?",
    "o": [
     "Karnam Malleswari",
@@ -4441,7 +4741,7 @@
    "e": "First woman to climb Mount Everest — Junko Tabei."
   },
   {
-   "id": "static-gk-00296",
+   "id": "static-gk-00316",
    "q": "Which is the highest peak in the Western Ghats?",
    "o": [
     "Panama Canal",
@@ -4456,7 +4756,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "static-gk-00297",
+   "id": "static-gk-00317",
    "q": "Which of the following is true about Desert soil?",
    "o": [
     "Contains excess salt, found in dry coastal areas",
@@ -4471,7 +4771,7 @@
    "e": "Desert soil: Sandy soil of arid regions."
   },
   {
-   "id": "static-gk-00298",
+   "id": "static-gk-00318",
    "q": "Which Indian state is a major producer of Iron ore?",
    "o": [
     "Odisha",
@@ -4486,7 +4786,7 @@
    "e": "Iron ore is produced in large quantities in Odisha."
   },
   {
-   "id": "static-gk-00299",
+   "id": "static-gk-00319",
    "q": "Nanda Devi Biosphere Reserve is located in which state?",
    "o": [
     "Uttarakhand",
@@ -4501,7 +4801,7 @@
    "e": "Nanda Devi Biosphere Reserve is in Uttarakhand."
   },
   {
-   "id": "static-gk-00300",
+   "id": "static-gk-00320",
    "q": "What is the capital of Rwanda?",
    "o": [
     "Ljubljana",
@@ -4516,7 +4816,7 @@
    "e": "The capital of Rwanda is Kigali."
   },
   {
-   "id": "static-gk-00301",
+   "id": "static-gk-00321",
    "q": "Which element has the chemical symbol Ce?",
    "o": [
     "Cerium",
@@ -4531,7 +4831,7 @@
    "e": "Ce is the symbol of Cerium."
   },
   {
-   "id": "static-gk-00302",
+   "id": "static-gk-00322",
    "q": "What is the capital of Kerala?",
    "o": [
     "Gangtok",
@@ -4546,7 +4846,7 @@
    "e": "The capital of Kerala is Thiruvananthapuram."
   },
   {
-   "id": "static-gk-00303",
+   "id": "static-gk-00323",
    "q": "Puducherry is the capital of which Union Territory?",
    "o": [
     "Lakshadweep",
@@ -4561,7 +4861,7 @@
    "e": "Puducherry is the capital of Puducherry."
   },
   {
-   "id": "static-gk-00304",
+   "id": "static-gk-00324",
    "q": "Which of the following is the National Tree of India?",
    "o": [
     "Banyan",
@@ -4576,7 +4876,7 @@
    "e": "The National Tree of India is Banyan."
   },
   {
-   "id": "static-gk-00305",
+   "id": "static-gk-00325",
    "q": "First Indian to win an individual Olympic gold is associated with which of the following?",
    "o": [
     "Abhinav Bindra",
@@ -4591,7 +4891,7 @@
    "e": "First Indian to win an individual Olympic gold — Abhinav Bindra."
   },
   {
-   "id": "static-gk-00306",
+   "id": "static-gk-00326",
    "q": "Bhavai is a folk or classical dance form of which state?",
    "o": [
     "Gujarat",
@@ -4606,7 +4906,7 @@
    "e": "Bhavai belongs to Gujarat."
   },
   {
-   "id": "static-gk-00307",
+   "id": "static-gk-00327",
    "q": "Mopin is a major festival of which state?",
    "o": [
     "Arunachal Pradesh",
@@ -4621,7 +4921,7 @@
    "e": "Mopin is celebrated mainly in Arunachal Pradesh."
   },
   {
-   "id": "static-gk-00308",
+   "id": "static-gk-00328",
    "q": "The river Sabarmati originates from which of the following?",
    "o": [
     "Udaipur",
@@ -4636,7 +4936,7 @@
    "e": "Sabarmati originates from Udaipur."
   },
   {
-   "id": "static-gk-00309",
+   "id": "static-gk-00329",
    "q": "Farakka Barrage is built on which river?",
    "o": [
     "Damodar",
@@ -4651,7 +4951,7 @@
    "e": "Farakka Barrage is built on the Ganga."
   },
   {
-   "id": "static-gk-00310",
+   "id": "static-gk-00330",
    "q": "Kaziranga National Park is located in which state?",
    "o": [
     "West Bengal",
@@ -4666,7 +4966,7 @@
    "e": "Kaziranga National Park is located in Assam."
   },
   {
-   "id": "static-gk-00311",
+   "id": "static-gk-00331",
    "q": "Zoji La pass is located in which state or union territory?",
    "o": [
     "Himachal Pradesh",
@@ -4681,7 +4981,7 @@
    "e": "Zoji La is located in Ladakh."
   },
   {
-   "id": "static-gk-00312",
+   "id": "static-gk-00332",
    "q": "What is the SI unit of Electrical conductance?",
    "o": [
     "Siemens",
@@ -4696,7 +4996,7 @@
    "e": "The SI unit of Electrical conductance is the Siemens."
   },
   {
-   "id": "static-gk-00313",
+   "id": "static-gk-00333",
    "q": "Which instrument is used to measure Blood pressure?",
    "o": [
     "Voltmeter",
@@ -4711,7 +5011,7 @@
    "e": "Sphygmomanometer is used to measure Blood pressure."
   },
   {
-   "id": "static-gk-00314",
+   "id": "static-gk-00334",
    "q": "Deficiency of which nutrient causes Rickets in children?",
    "o": [
     "Phosphorus",
@@ -4726,7 +5026,7 @@
    "e": "Deficiency of Phosphorus causes Rickets in children."
   },
   {
-   "id": "static-gk-00315",
+   "id": "static-gk-00335",
    "q": "Who is credited with Computer (analytical engine)?",
    "o": [
     "Watson and Crick",
@@ -4741,7 +5041,7 @@
    "e": "Computer (analytical engine) — Charles Babbage."
   },
   {
-   "id": "static-gk-00316",
+   "id": "static-gk-00336",
    "q": "What is the chemical name of Quick lime?",
    "o": [
     "Calcium carbonate (CaCO3)",
@@ -4756,7 +5056,7 @@
    "e": "Quick lime is Calcium oxide (CaO)."
   },
   {
-   "id": "static-gk-00317",
+   "id": "static-gk-00337",
    "q": "Which branch of science deals with Nervous system?",
    "o": [
     "Acoustics",
@@ -4771,7 +5071,7 @@
    "e": "Neurology deals with Nervous system."
   },
   {
-   "id": "static-gk-00318",
+   "id": "static-gk-00338",
    "q": "Which planet or body is described as: Ceres?",
    "o": [
     "Supernova",
@@ -4786,7 +5086,7 @@
    "e": "Ceres — Ceres."
   },
   {
-   "id": "static-gk-00319",
+   "id": "static-gk-00339",
    "q": "James Watt is known for which of the following?",
    "o": [
     "Bose-Einstein statistics",
@@ -4801,7 +5101,7 @@
    "e": "James Watt is known for Improvements to the steam engine."
   },
   {
-   "id": "static-gk-00320",
+   "id": "static-gk-00340",
    "q": "Chief Justice of India is best described as which of the following?",
    "o": [
     "Head of the Indian judiciary",
@@ -4816,7 +5116,7 @@
    "e": "Chief Justice of India — Head of the Indian judiciary."
   },
   {
-   "id": "static-gk-00321",
+   "id": "static-gk-00341",
    "q": "On which date is National Youth Day (India) observed?",
    "o": [
     "11 November",
@@ -4831,7 +5131,7 @@
    "e": "National Youth Day (India) is observed on 12 January."
   },
   {
-   "id": "static-gk-00322",
+   "id": "static-gk-00342",
    "q": "Where is the headquarters of International Labour Organization headquarters city?",
    "o": [
     "Geneva",
@@ -4846,7 +5146,7 @@
    "e": "International Labour Organization headquarters city is headquartered at Geneva."
   },
   {
-   "id": "static-gk-00323",
+   "id": "static-gk-00343",
    "q": "Sudirman Cup is associated with which sport?",
    "o": [
     "Football",
@@ -4861,7 +5161,7 @@
    "e": "Sudirman Cup is associated with Badminton."
   },
   {
-   "id": "static-gk-00324",
+   "id": "static-gk-00344",
    "q": "Ramon Magsaysay Award is associated with which of the following?",
    "o": [
     "Indian award in science and technology",
@@ -4876,7 +5176,7 @@
    "e": "Ramon Magsaysay Award — Asian award for public service."
   },
   {
-   "id": "static-gk-00325",
+   "id": "static-gk-00345",
    "q": "First Indian to win an individual Olympic gold is associated with which of the following?",
    "o": [
     "Greece",
@@ -4891,7 +5191,7 @@
    "e": "First Indian to win an individual Olympic gold — Abhinav Bindra."
   },
   {
-   "id": "static-gk-00326",
+   "id": "static-gk-00346",
    "q": "Which is the easternmost state of India?",
    "o": [
     "Arunachal Pradesh",
@@ -4906,7 +5206,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "static-gk-00327",
+   "id": "static-gk-00347",
    "q": "Which of the following is true about Alluvial soil?",
    "o": [
     "Formed from crystalline rocks, rich in iron",
@@ -4921,7 +5221,7 @@
    "e": "Alluvial soil: Most fertile soil, found in the northern plains."
   },
   {
-   "id": "static-gk-00328",
+   "id": "static-gk-00348",
    "q": "Which Indian state is a major producer of Diamond?",
    "o": [
     "Maharashtra",
@@ -4936,7 +5236,7 @@
    "e": "Diamond is produced in large quantities in Madhya Pradesh."
   },
   {
-   "id": "static-gk-00329",
+   "id": "static-gk-00349",
    "q": "Panna Biosphere Reserve is located in which state?",
    "o": [
     "Andhra Pradesh",
@@ -4951,7 +5251,7 @@
    "e": "Panna Biosphere Reserve is in Madhya Pradesh."
   },
   {
-   "id": "static-gk-00330",
+   "id": "static-gk-00350",
    "q": "What is the capital of Belgium?",
    "o": [
     "Tashkent",
@@ -4966,7 +5266,7 @@
    "e": "The capital of Belgium is Brussels."
   },
   {
-   "id": "static-gk-00331",
+   "id": "static-gk-00351",
    "q": "Which element has the chemical symbol Hf?",
    "o": [
     "Osmium",
@@ -4981,7 +5281,7 @@
    "e": "Hf is the symbol of Hafnium."
   },
   {
-   "id": "static-gk-00332",
+   "id": "static-gk-00352",
    "q": "What is the capital of Odisha?",
    "o": [
     "Shillong",
@@ -4996,7 +5296,7 @@
    "e": "The capital of Odisha is Bhubaneswar."
   },
   {
-   "id": "static-gk-00333",
+   "id": "static-gk-00353",
    "q": "New Delhi is the capital of which Union Territory?",
    "o": [
     "Ladakh",
@@ -5011,7 +5311,7 @@
    "e": "New Delhi is the capital of Delhi."
   },
   {
-   "id": "static-gk-00334",
+   "id": "static-gk-00354",
    "q": "Which of the following is the National Emblem of India?",
    "o": [
     "Indian Peacock",
@@ -5026,7 +5326,7 @@
    "e": "The National Emblem of India is Lion Capital of Ashoka."
   },
   {
-   "id": "static-gk-00335",
+   "id": "static-gk-00355",
    "q": "First Indian woman to climb Mount Everest is associated with which of the following?",
    "o": [
     "Dr. S. Radhakrishnan",
@@ -5041,7 +5341,7 @@
    "e": "First Indian woman to climb Mount Everest — Bachendri Pal."
   },
   {
-   "id": "static-gk-00336",
+   "id": "static-gk-00356",
    "q": "Wangala is a folk or classical dance form of which state?",
    "o": [
     "Rajasthan",
@@ -5056,7 +5356,7 @@
    "e": "Wangala belongs to Meghalaya."
   },
   {
-   "id": "static-gk-00337",
+   "id": "static-gk-00357",
    "q": "Pushkar Fair is a major festival of which state?",
    "o": [
     "Rajasthan",
@@ -5071,7 +5371,7 @@
    "e": "Pushkar Fair is celebrated mainly in Rajasthan."
   },
   {
-   "id": "static-gk-00338",
+   "id": "static-gk-00358",
    "q": "The river Kaveri originates from which of the following?",
    "o": [
     "Angsi Glacier",
@@ -5086,7 +5386,7 @@
    "e": "Kaveri originates from Talakaveri."
   },
   {
-   "id": "static-gk-00339",
+   "id": "static-gk-00359",
    "q": "Panchet Dam is built on which river?",
    "o": [
     "Bhagirathi",
@@ -5101,7 +5401,7 @@
    "e": "Panchet Dam is built on the Damodar."
   },
   {
-   "id": "static-gk-00340",
+   "id": "static-gk-00360",
    "q": "Barnawapara Wildlife Sanctuary is located in which state?",
    "o": [
     "Chhattisgarh",
@@ -5116,7 +5416,7 @@
    "e": "Barnawapara Wildlife Sanctuary is located in Chhattisgarh."
   },
   {
-   "id": "static-gk-00341",
+   "id": "static-gk-00361",
    "q": "Araku Valley Pass pass is located in which state or union territory?",
    "o": [
     "Ladakh",
@@ -5131,7 +5431,7 @@
    "e": "Araku Valley Pass is located in Andhra Pradesh."
   },
   {
-   "id": "static-gk-00342",
+   "id": "static-gk-00362",
    "q": "What is the SI unit of Pressure?",
    "o": [
     "Second",
@@ -5146,7 +5446,7 @@
    "e": "The SI unit of Pressure is the Pascal."
   },
   {
-   "id": "static-gk-00343",
+   "id": "static-gk-00363",
    "q": "Which instrument is used to measure Electric current?",
    "o": [
     "Nephelometer",
@@ -5161,7 +5461,7 @@
    "e": "Ammeter is used to measure Electric current."
   },
   {
-   "id": "static-gk-00344",
+   "id": "static-gk-00364",
    "q": "Deficiency of which nutrient causes Goitre?",
    "o": [
     "Iodine",
@@ -5176,7 +5476,7 @@
    "e": "Deficiency of Iodine causes Goitre."
   },
   {
-   "id": "static-gk-00345",
+   "id": "static-gk-00365",
    "q": "Who is credited with Air conditioner?",
    "o": [
     "Rudolf Diesel",
@@ -5191,7 +5491,7 @@
    "e": "Air conditioner — Willis Carrier."
   },
   {
-   "id": "static-gk-00346",
+   "id": "static-gk-00366",
    "q": "What is the chemical name of Gypsum?",
    "o": [
     "Zinc chloride (ZnCl2)",
@@ -5206,7 +5506,7 @@
    "e": "Gypsum is Calcium sulphate dihydrate (CaSO4.2H2O)."
   },
   {
-   "id": "static-gk-00347",
+   "id": "static-gk-00367",
    "q": "Which branch of science deals with Fossils?",
    "o": [
     "Pisciculture",
@@ -5221,7 +5521,7 @@
    "e": "Palaeontology deals with Fossils."
   },
   {
-   "id": "static-gk-00348",
+   "id": "static-gk-00368",
    "q": "Which planet or body is described as: Astronomical unit?",
    "o": [
     "Uranus",
@@ -5236,7 +5536,7 @@
    "e": "Astronomical unit — Astronomical unit."
   },
   {
-   "id": "static-gk-00349",
+   "id": "static-gk-00369",
    "q": "Georg Ohm is known for which of the following?",
    "o": [
     "Genetic code",
@@ -5251,7 +5551,7 @@
    "e": "Georg Ohm is known for Ohm's law."
   },
   {
-   "id": "static-gk-00350",
+   "id": "static-gk-00370",
    "q": "NITI Aayog is best described as which of the following?",
    "o": [
     "Head of the Union Government",
@@ -5266,7 +5566,7 @@
    "e": "NITI Aayog — Policy think tank of the Government of India."
   },
   {
-   "id": "static-gk-00351",
+   "id": "static-gk-00371",
    "q": "On which date is World Kindness Day observed?",
    "o": [
     "25 January",
@@ -5281,7 +5581,7 @@
    "e": "World Kindness Day is observed on 13 November."
   },
   {
-   "id": "static-gk-00352",
+   "id": "static-gk-00372",
    "q": "Where is the headquarters of Asian Infrastructure Investment Bank?",
    "o": [
     "New Delhi",
@@ -5296,7 +5596,7 @@
    "e": "Asian Infrastructure Investment Bank is headquartered at Beijing."
   },
   {
-   "id": "static-gk-00353",
+   "id": "static-gk-00373",
    "q": "Borlaug Award is associated with which of the following?",
    "o": [
     "Indian award in agricultural science",
@@ -5311,7 +5611,7 @@
    "e": "Borlaug Award — Indian award in agricultural science."
   },
   {
-   "id": "static-gk-00354",
+   "id": "static-gk-00374",
    "q": "First person to win two Nobel Prizes is associated with which of the following?",
    "o": [
     "Yuri Gagarin",
@@ -5326,7 +5626,7 @@
    "e": "First person to win two Nobel Prizes — Marie Curie."
   },
   {
-   "id": "static-gk-00355",
+   "id": "static-gk-00375",
    "q": "Which strait separates Africa from Europe?",
    "o": [
     "Strait of Gibraltar",
@@ -5341,7 +5641,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "static-gk-00356",
+   "id": "static-gk-00376",
    "q": "Which of the following is true about Peaty soil?",
    "o": [
     "Found in hilly and forest regions",
@@ -5356,7 +5656,7 @@
    "e": "Peaty soil: Formed in waterlogged areas with organic matter."
   },
   {
-   "id": "static-gk-00357",
+   "id": "static-gk-00377",
    "q": "Which Indian state is a major producer of Natural gas?",
    "o": [
     "Madhya Pradesh",
@@ -5371,7 +5671,7 @@
    "e": "Natural gas is produced in large quantities in Maharashtra."
   },
   {
-   "id": "static-gk-00358",
+   "id": "static-gk-00378",
    "q": "Seshachalam Biosphere Reserve is located in which state?",
    "o": [
     "Odisha",
@@ -5386,7 +5686,7 @@
    "e": "Seshachalam Biosphere Reserve is in Andhra Pradesh."
   },
   {
-   "id": "static-gk-00359",
+   "id": "static-gk-00379",
    "q": "What is the capital of Mali?",
    "o": [
     "Jerusalem",
@@ -5401,7 +5701,7 @@
    "e": "The capital of Mali is Bamako."
   },
   {
-   "id": "static-gk-00360",
+   "id": "static-gk-00380",
    "q": "Which element has the chemical symbol Kr?",
    "o": [
     "Krypton",
@@ -5416,7 +5716,7 @@
    "e": "Kr is the symbol of Krypton."
   },
   {
-   "id": "static-gk-00361",
+   "id": "static-gk-00381",
    "q": "What is the capital of Nagaland?",
    "o": [
     "Shillong",
@@ -5431,7 +5731,7 @@
    "e": "The capital of Nagaland is Kohima."
   },
   {
-   "id": "static-gk-00362",
+   "id": "static-gk-00382",
    "q": "Leh is the capital of which Union Territory?",
    "o": [
     "Chandigarh",
@@ -5446,7 +5746,7 @@
    "e": "Leh is the capital of Ladakh."
   },
   {
-   "id": "static-gk-00363",
+   "id": "static-gk-00383",
    "q": "Which of the following is the National Calendar of India?",
    "o": [
     "Lion Capital of Ashoka",
@@ -5461,7 +5761,7 @@
    "e": "The National Calendar of India is Saka Calendar."
   },
   {
-   "id": "static-gk-00364",
+   "id": "static-gk-00384",
    "q": "First woman to win a Nobel Prize in India is associated with which of the following?",
    "o": [
     "Bombay and Thane",
@@ -5476,7 +5776,7 @@
    "e": "First woman to win a Nobel Prize in India — Mother Teresa."
   },
   {
-   "id": "static-gk-00365",
+   "id": "static-gk-00385",
    "q": "Ghoomar is a folk or classical dance form of which state?",
    "o": [
     "Rajasthan",
@@ -5491,7 +5791,7 @@
    "e": "Ghoomar belongs to Rajasthan."
   },
   {
-   "id": "static-gk-00366",
+   "id": "static-gk-00386",
    "q": "Khajuraho Dance Festival is a major festival of which state?",
    "o": [
     "Madhya Pradesh",
@@ -5506,7 +5806,7 @@
    "e": "Khajuraho Dance Festival is celebrated mainly in Madhya Pradesh."
   },
   {
-   "id": "static-gk-00367",
+   "id": "static-gk-00387",
    "q": "The river Krishna originates from which of the following?",
    "o": [
     "Vindhya Range",
@@ -5521,7 +5821,7 @@
    "e": "Krishna originates from Mahabaleshwar."
   },
   {
-   "id": "static-gk-00368",
+   "id": "static-gk-00388",
    "q": "Indira Sagar Dam is built on which river?",
    "o": [
     "Damodar",
@@ -5536,7 +5836,7 @@
    "e": "Indira Sagar Dam is built on the Narmada."
   },
   {
-   "id": "static-gk-00369",
+   "id": "static-gk-00389",
    "q": "Neora Valley National Park is located in which state?",
    "o": [
     "Uttarakhand",
@@ -5551,7 +5851,7 @@
    "e": "Neora Valley National Park is located in West Bengal."
   },
   {
-   "id": "static-gk-00370",
+   "id": "static-gk-00390",
    "q": "Chang La pass is located in which state or union territory?",
    "o": [
     "Jammu and Kashmir",
@@ -5566,7 +5866,7 @@
    "e": "Chang La is located in Ladakh."
   },
   {
-   "id": "static-gk-00371",
+   "id": "static-gk-00391",
    "q": "What is the SI unit of Luminous intensity?",
    "o": [
     "Becquerel",
@@ -5581,7 +5881,7 @@
    "e": "The SI unit of Luminous intensity is the Candela."
   },
   {
-   "id": "static-gk-00372",
+   "id": "static-gk-00392",
    "q": "Which instrument is used to measure Distance travelled?",
    "o": [
     "Cardiograph",
@@ -5596,7 +5896,7 @@
    "e": "Odometer is used to measure Distance travelled."
   },
   {
-   "id": "static-gk-00373",
+   "id": "static-gk-00393",
    "q": "Deficiency of which nutrient causes Tetany?",
    "o": [
     "Vitamin E",
@@ -5611,7 +5911,7 @@
    "e": "Deficiency of Magnesium causes Tetany."
   },
   {
-   "id": "static-gk-00374",
+   "id": "static-gk-00394",
    "q": "Who is credited with Steam engine?",
    "o": [
     "Joseph Priestley",
@@ -5626,7 +5926,7 @@
    "e": "Steam engine — James Watt."
   },
   {
-   "id": "static-gk-00375",
+   "id": "static-gk-00395",
    "q": "What is the chemical name of Baking powder?",
    "o": [
     "Trichloromethane (CHCl3)",
@@ -5641,7 +5941,7 @@
    "e": "Baking powder is Sodium bicarbonate and tartaric acid."
   },
   {
-   "id": "static-gk-00376",
+   "id": "static-gk-00396",
    "q": "Which branch of science deals with Structure of the body?",
    "o": [
     "Numismatics",
@@ -5656,7 +5956,7 @@
    "e": "Anatomy deals with Structure of the body."
   },
   {
-   "id": "static-gk-00377",
+   "id": "static-gk-00397",
    "q": "Which planet or body is described as: Comet?",
    "o": [
     "Saturn",
@@ -5671,7 +5971,7 @@
    "e": "Comet — Comet."
   },
   {
-   "id": "static-gk-00378",
+   "id": "static-gk-00398",
    "q": "Charles Darwin is known for which of the following?",
    "o": [
     "Plant physiology and radio waves",
@@ -5686,7 +5986,7 @@
    "e": "Charles Darwin is known for Theory of evolution."
   },
   {
-   "id": "static-gk-00379",
+   "id": "static-gk-00399",
    "q": "Election Commission of India is best described as which of the following?",
    "o": [
     "Local self-government in urban areas",
@@ -5701,7 +6001,7 @@
    "e": "Election Commission of India — Supervises elections to Parliament and State legislatures."
   },
   {
-   "id": "static-gk-00380",
+   "id": "static-gk-00400",
    "q": "On which date is Earth Day observed?",
    "o": [
     "22 April",
@@ -5716,7 +6016,7 @@
    "e": "Earth Day is observed on 22 April."
   },
   {
-   "id": "static-gk-00381",
+   "id": "static-gk-00401",
    "q": "Where is the headquarters of European Space Agency?",
    "o": [
     "Paris",
@@ -5731,7 +6031,7 @@
    "e": "European Space Agency is headquartered at Paris."
   },
   {
-   "id": "static-gk-00382",
+   "id": "static-gk-00402",
    "q": "US Open is associated with which sport?",
    "o": [
     "Multi-sport",
@@ -5746,7 +6046,7 @@
    "e": "US Open is associated with Tennis."
   },
   {
-   "id": "static-gk-00383",
+   "id": "static-gk-00403",
    "q": "Infosys Prize is associated with which of the following?",
    "o": [
     "Performing arts award of India",
@@ -5761,7 +6061,7 @@
    "e": "Infosys Prize — Indian award for research."
   },
   {
-   "id": "static-gk-00384",
+   "id": "static-gk-00404",
    "q": "First person to reach the North Pole by surface is associated with which of the following?",
    "o": [
     "Wally Herbert",
@@ -5776,7 +6076,7 @@
    "e": "First person to reach the North Pole by surface — Wally Herbert."
   },
   {
-   "id": "static-gk-00385",
+   "id": "static-gk-00405",
    "q": "Which is the highest mountain peak in India?",
    "o": [
     "Strait of Gibraltar",
@@ -5791,7 +6091,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "static-gk-00386",
+   "id": "static-gk-00406",
    "q": "Which of the following is true about Mountain soil?",
    "o": [
     "Contains excess salt, found in dry coastal areas",
@@ -5806,7 +6106,7 @@
    "e": "Mountain soil: Found in hilly and forest regions."
   },
   {
-   "id": "static-gk-00387",
+   "id": "static-gk-00407",
    "q": "Which Indian state is a major producer of Lead and zinc?",
    "o": [
     "Maharashtra",
@@ -5821,7 +6121,7 @@
    "e": "Lead and zinc is produced in large quantities in Rajasthan."
   },
   {
-   "id": "static-gk-00388",
+   "id": "static-gk-00408",
    "q": "Loktak Lake is located in which state?",
    "o": [
     "Andhra Pradesh",
@@ -5836,7 +6136,7 @@
    "e": "Loktak Lake is in Manipur."
   },
   {
-   "id": "static-gk-00389",
+   "id": "static-gk-00409",
    "q": "What is the capital of Vatican City?",
    "o": [
     "Helsinki",
@@ -5851,7 +6151,7 @@
    "e": "The capital of Vatican City is Vatican City."
   },
   {
-   "id": "static-gk-00390",
+   "id": "static-gk-00410",
    "q": "Which element has the chemical symbol Ta?",
    "o": [
     "Palladium",
@@ -5866,7 +6166,7 @@
    "e": "Ta is the symbol of Tantalum."
   },
   {
-   "id": "static-gk-00391",
+   "id": "static-gk-00411",
    "q": "What is the capital of Haryana?",
    "o": [
     "Hyderabad",
@@ -5881,7 +6181,7 @@
    "e": "The capital of Haryana is Chandigarh."
   },
   {
-   "id": "static-gk-00392",
+   "id": "static-gk-00412",
    "q": "Chandigarh is the capital of which Union Territory?",
    "o": [
     "Dadra and Nagar Haveli and Daman and Diu",
@@ -5896,7 +6196,7 @@
    "e": "Chandigarh is the capital of Chandigarh."
   },
   {
-   "id": "static-gk-00393",
+   "id": "static-gk-00413",
    "q": "Which of the following is the National Fruit of India?",
    "o": [
     "Bengal Tiger",
@@ -5911,7 +6211,7 @@
    "e": "The National Fruit of India is Mango."
   },
   {
-   "id": "static-gk-00394",
+   "id": "static-gk-00414",
    "q": "First Indian Railway line started between is associated with which of the following?",
    "o": [
     "Indira Gandhi",
@@ -5926,7 +6226,7 @@
    "e": "First Indian Railway line started between — Bombay and Thane."
   },
   {
-   "id": "static-gk-00395",
+   "id": "static-gk-00415",
    "q": "Chakyar Koothu is a folk or classical dance form of which state?",
    "o": [
     "Kerala",
@@ -5941,7 +6241,7 @@
    "e": "Chakyar Koothu belongs to Kerala."
   },
   {
-   "id": "static-gk-00396",
+   "id": "static-gk-00416",
    "q": "Hornbill Festival is a major festival of which state?",
    "o": [
     "Odisha",
@@ -5956,7 +6256,7 @@
    "e": "Hornbill Festival is celebrated mainly in Nagaland."
   },
   {
-   "id": "static-gk-00397",
+   "id": "static-gk-00417",
    "q": "The river Betwa originates from which of the following?",
    "o": [
     "Bokhar Chu",
@@ -5971,7 +6271,7 @@
    "e": "Betwa originates from Vindhya Range."
   },
   {
-   "id": "static-gk-00398",
+   "id": "static-gk-00418",
    "q": "Sardar Sarovar Dam is built on which river?",
    "o": [
     "Mahanadi",
@@ -5986,7 +6286,7 @@
    "e": "Sardar Sarovar Dam is built on the Narmada."
   },
   {
-   "id": "static-gk-00399",
+   "id": "static-gk-00419",
    "q": "Simlipal National Park is located in which state?",
    "o": [
     "Uttarakhand",
@@ -6001,7 +6301,7 @@
    "e": "Simlipal National Park is located in Odisha."
   },
   {
-   "id": "static-gk-00400",
+   "id": "static-gk-00420",
    "q": "Mana Pass pass is located in which state or union territory?",
    "o": [
     "Uttarakhand",
@@ -6016,7 +6316,7 @@
    "e": "Mana Pass is located in Uttarakhand."
   },
   {
-   "id": "static-gk-00401",
+   "id": "static-gk-00421",
    "q": "What is the SI unit of Radioactivity?",
    "o": [
     "Ampere",
@@ -6031,7 +6331,7 @@
    "e": "The SI unit of Radioactivity is the Becquerel."
   },
   {
-   "id": "static-gk-00402",
+   "id": "static-gk-00422",
    "q": "Which instrument is used to measure Distant objects?",
    "o": [
     "Tachometer",
@@ -6046,7 +6346,7 @@
    "e": "Telescope is used to measure Distant objects."
   },
   {
-   "id": "static-gk-00403",
+   "id": "static-gk-00423",
    "q": "Deficiency of which nutrient causes Dermatitis?",
    "o": [
     "Magnesium",
@@ -6061,7 +6361,7 @@
    "e": "Deficiency of Vitamin B7 causes Dermatitis."
   },
   {
-   "id": "static-gk-00404",
+   "id": "static-gk-00424",
    "q": "Who is credited with Microscope?",
    "o": [
     "Joseph Lister",
@@ -6076,7 +6376,7 @@
    "e": "Microscope — Antonie van Leeuwenhoek."
   },
   {
-   "id": "static-gk-00405",
+   "id": "static-gk-00425",
    "q": "What is the chemical name of Blue vitriol?",
    "o": [
     "Sodium sulphate (Na2SO4)",
@@ -6091,7 +6391,7 @@
    "e": "Blue vitriol is Copper sulphate (CuSO4.5H2O)."
   },
   {
-   "id": "static-gk-00406",
+   "id": "static-gk-00426",
    "q": "Which branch of science deals with Fungi?",
    "o": [
     "Thermodynamics",
@@ -6106,7 +6406,7 @@
    "e": "Mycology deals with Fungi."
   },
   {
-   "id": "static-gk-00407",
+   "id": "static-gk-00427",
    "q": "Which planet or body is described as: Jupiter?",
    "o": [
     "Nebula",
@@ -6121,7 +6421,7 @@
    "e": "Ganymede — Jupiter."
   },
   {
-   "id": "static-gk-00408",
+   "id": "static-gk-00428",
    "q": "Daniel Bernoulli is known for which of the following?",
    "o": [
     "Ionisation theory of stars",
@@ -6136,7 +6436,7 @@
    "e": "Daniel Bernoulli is known for Kinetic theory of gases."
   },
   {
-   "id": "static-gk-00409",
+   "id": "static-gk-00429",
    "q": "Municipality is best described as which of the following?",
    "o": [
     "Aids and advises the President",
@@ -6151,7 +6451,7 @@
    "e": "Municipality — Local self-government in urban areas."
   },
   {
-   "id": "static-gk-00410",
+   "id": "static-gk-00430",
    "q": "On which date is World Polio Day observed?",
    "o": [
     "13 November",
@@ -6166,7 +6466,7 @@
    "e": "World Polio Day is observed on 24 October."
   },
   {
-   "id": "static-gk-00411",
+   "id": "static-gk-00431",
    "q": "Where is the headquarters of International Criminal Court?",
    "o": [
     "The Hague",
@@ -6181,7 +6481,7 @@
    "e": "International Criminal Court is headquartered at The Hague."
   },
   {
-   "id": "static-gk-00412",
+   "id": "static-gk-00432",
    "q": "Corbillon Cup is associated with which sport?",
    "o": [
     "Hockey",
@@ -6196,7 +6496,7 @@
    "e": "Corbillon Cup is associated with Table Tennis."
   },
   {
-   "id": "static-gk-00413",
+   "id": "static-gk-00433",
    "q": "Shanti Swarup Bhatnagar Prize is associated with which of the following?",
    "o": [
     "Indian award in science and technology",
@@ -6211,7 +6511,7 @@
    "e": "Shanti Swarup Bhatnagar Prize — Indian award in science and technology."
   },
   {
-   "id": "static-gk-00414",
+   "id": "static-gk-00434",
    "q": "First Indian woman to win an Olympic medal is associated with which of the following?",
    "o": [
     "Sirimavo Bandaranaike",
@@ -6226,7 +6526,7 @@
    "e": "First Indian woman to win an Olympic medal — Karnam Malleswari."
   },
   {
-   "id": "static-gk-00415",
+   "id": "static-gk-00435",
    "q": "Which Indian city is called the City of Nawabs?",
    "o": [
     "Lake Baikal",
@@ -6241,7 +6541,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "static-gk-00416",
+   "id": "static-gk-00436",
    "q": "Which of the following is true about Laterite soil?",
    "o": [
     "Formed from crystalline rocks, rich in iron",
@@ -6256,7 +6556,7 @@
    "e": "Laterite soil: Formed by leaching in high rainfall areas."
   },
   {
-   "id": "static-gk-00417",
+   "id": "static-gk-00437",
    "q": "Which Indian state is a major producer of Manganese?",
    "o": [
     "Karnataka",
@@ -6271,7 +6571,7 @@
    "e": "Manganese is produced in large quantities in Odisha."
   },
   {
-   "id": "static-gk-00418",
+   "id": "static-gk-00438",
    "q": "Gulf of Mannar Biosphere Reserve is located in which state?",
    "o": [
     "Jammu and Kashmir",
@@ -6286,7 +6586,7 @@
    "e": "Gulf of Mannar Biosphere Reserve is in Tamil Nadu."
   },
   {
-   "id": "static-gk-00419",
+   "id": "static-gk-00439",
    "q": "What is the capital of Honduras?",
    "o": [
     "Lome",
@@ -6301,7 +6601,7 @@
    "e": "The capital of Honduras is Tegucigalpa."
   },
   {
-   "id": "static-gk-00420",
+   "id": "static-gk-00440",
    "q": "Which element has the chemical symbol Ni?",
    "o": [
     "Vanadium",
@@ -6316,7 +6616,7 @@
    "e": "Ni is the symbol of Nickel."
   },
   {
-   "id": "static-gk-00421",
+   "id": "static-gk-00441",
    "q": "What is the capital of Maharashtra?",
    "o": [
     "Mumbai",
@@ -6331,7 +6631,7 @@
    "e": "The capital of Maharashtra is Mumbai."
   },
   {
-   "id": "static-gk-00422",
+   "id": "static-gk-00442",
    "q": "Ganga holds which of the following positions in India?",
    "o": [
     "National Flower",
@@ -6346,7 +6646,7 @@
    "e": "Ganga is the National River of India."
   },
   {
-   "id": "static-gk-00423",
+   "id": "static-gk-00443",
    "q": "First Vice President of India is associated with which of the following?",
    "o": [
     "Dr. S. Radhakrishnan",
@@ -6361,7 +6661,7 @@
    "e": "First Vice President of India — Dr. S. Radhakrishnan."
   },
   {
-   "id": "static-gk-00424",
+   "id": "static-gk-00444",
    "q": "Dumhal is a folk or classical dance form of which state?",
    "o": [
     "Odisha",
@@ -6376,7 +6676,7 @@
    "e": "Dumhal belongs to Jammu and Kashmir."
   },
   {
-   "id": "static-gk-00425",
+   "id": "static-gk-00445",
    "q": "Baisakhi is a major festival of which state?",
    "o": [
     "Rajasthan",
@@ -6391,7 +6691,7 @@
    "e": "Baisakhi is celebrated mainly in Punjab."
   },
   {
-   "id": "static-gk-00426",
+   "id": "static-gk-00446",
    "q": "The river Brahmaputra originates from which of the following?",
    "o": [
     "Angsi Glacier",
@@ -6406,7 +6706,7 @@
    "e": "Brahmaputra originates from Angsi Glacier."
   },
   {
-   "id": "static-gk-00427",
+   "id": "static-gk-00447",
    "q": "Salal Dam is built on which river?",
    "o": [
     "Sutlej",
@@ -6421,7 +6721,7 @@
    "e": "Salal Dam is built on the Chenab."
   },
   {
-   "id": "static-gk-00428",
+   "id": "static-gk-00448",
    "q": "Kanger Valley National Park is located in which state?",
    "o": [
     "Karnataka",
@@ -6436,7 +6736,7 @@
    "e": "Kanger Valley National Park is located in Chhattisgarh."
   },
   {
-   "id": "static-gk-00429",
+   "id": "static-gk-00449",
    "q": "Haldighati Pass pass is located in which state or union territory?",
    "o": [
     "Rajasthan",
@@ -6451,7 +6751,7 @@
    "e": "Haldighati Pass is located in Rajasthan."
   },
   {
-   "id": "static-gk-00430",
+   "id": "static-gk-00450",
    "q": "What is the SI unit of Time?",
    "o": [
     "Second",
@@ -6466,7 +6766,7 @@
    "e": "The SI unit of Time is the Second."
   },
   {
-   "id": "static-gk-00431",
+   "id": "static-gk-00451",
    "q": "Which instrument is used to measure Ionising radiation?",
    "o": [
     "Potometer",
@@ -6481,7 +6781,7 @@
    "e": "Geiger counter is used to measure Ionising radiation."
   },
   {
-   "id": "static-gk-00432",
+   "id": "static-gk-00452",
    "q": "Deficiency of which nutrient causes Muscle weakness?",
    "o": [
     "Vitamin E",
@@ -6496,7 +6796,7 @@
    "e": "Deficiency of Potassium causes Muscle weakness."
   },
   {
-   "id": "static-gk-00433",
+   "id": "static-gk-00453",
    "q": "Who is credited with Electromagnetic induction?",
    "o": [
     "Charles Babbage",
@@ -6511,7 +6811,7 @@
    "e": "Electromagnetic induction — Michael Faraday."
   },
   {
-   "id": "static-gk-00434",
+   "id": "static-gk-00454",
    "q": "What is the chemical name of Magnesia?",
    "o": [
     "Trinitrotoluene",
@@ -6526,7 +6826,7 @@
    "e": "Magnesia is Magnesium oxide (MgO)."
   },
   {
-   "id": "static-gk-00435",
+   "id": "static-gk-00455",
    "q": "Which branch of science deals with Solid Earth and its rocks?",
    "o": [
     "Neurology",
@@ -6541,7 +6841,7 @@
    "e": "Geology deals with Solid Earth and its rocks."
   },
   {
-   "id": "static-gk-00436",
+   "id": "static-gk-00456",
    "q": "Which planet or body is described as: Andromeda?",
    "o": [
     "Olympus Mons",
@@ -6556,7 +6856,7 @@
    "e": "Andromeda — Andromeda."
   },
   {
-   "id": "static-gk-00437",
+   "id": "static-gk-00457",
    "q": "Niels Bohr is known for which of the following?",
    "o": [
     "Improvements to the steam engine",
@@ -6571,7 +6871,7 @@
    "e": "Niels Bohr is known for Atomic model."
   },
   {
-   "id": "static-gk-00438",
+   "id": "static-gk-00458",
    "q": "Prime Minister of India is best described as which of the following?",
    "o": [
     "Head of the Union Government",
@@ -6586,7 +6886,7 @@
    "e": "Prime Minister of India — Head of the Union Government."
   },
   {
-   "id": "static-gk-00439",
+   "id": "static-gk-00459",
    "q": "On which date is National Sports Day (India) observed?",
    "o": [
     "2 December",
@@ -6601,7 +6901,7 @@
    "e": "National Sports Day (India) is observed on 29 August."
   },
   {
-   "id": "static-gk-00440",
+   "id": "static-gk-00460",
    "q": "Where is the headquarters of OECD?",
    "o": [
     "Paris",
@@ -6616,7 +6916,7 @@
    "e": "OECD is headquartered at Paris."
   },
   {
-   "id": "static-gk-00441",
+   "id": "static-gk-00461",
    "q": "Beighton Cup is associated with which sport?",
    "o": [
     "Football",
@@ -6631,7 +6931,7 @@
    "e": "Beighton Cup is associated with Hockey."
   },
   {
-   "id": "static-gk-00442",
+   "id": "static-gk-00462",
    "q": "Param Vir Chakra is associated with which of the following?",
    "o": [
     "Third highest peacetime gallantry award of India",
@@ -6646,7 +6946,7 @@
    "e": "Param Vir Chakra — Highest military decoration of India."
   },
   {
-   "id": "static-gk-00443",
+   "id": "static-gk-00463",
    "q": "First person to reach the South Pole is associated with which of the following?",
    "o": [
     "Valentina Tereshkova",
@@ -6661,7 +6961,7 @@
    "e": "First person to reach the South Pole — Roald Amundsen."
   },
   {
-   "id": "static-gk-00444",
+   "id": "static-gk-00464",
    "q": "Which is the deepest lake in the world?",
    "o": [
     "Lake Baikal",
@@ -6676,7 +6976,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "static-gk-00445",
+   "id": "static-gk-00465",
    "q": "Which of the following is true about Black soil?",
    "o": [
     "Also called regur, ideal for cotton",
@@ -6691,7 +6991,7 @@
    "e": "Black soil: Also called regur, ideal for cotton."
   },
   {
-   "id": "static-gk-00446",
+   "id": "static-gk-00466",
    "q": "Which Indian state is a major producer of Barytes?",
    "o": [
     "Karnataka",
@@ -6706,7 +7006,7 @@
    "e": "Barytes is produced in large quantities in Andhra Pradesh."
   },
   {
-   "id": "static-gk-00447",
+   "id": "static-gk-00467",
    "q": "Chilika Lake is located in which state?",
    "o": [
     "Tamil Nadu, Kerala and Karnataka",
@@ -6721,7 +7021,7 @@
    "e": "Chilika Lake is in Odisha."
   },
   {
-   "id": "static-gk-00448",
+   "id": "static-gk-00468",
    "q": "What is the capital of Egypt?",
    "o": [
     "Beijing",
@@ -6736,7 +7036,7 @@
    "e": "The capital of Egypt is Cairo."
   },
   {
-   "id": "static-gk-00449",
+   "id": "static-gk-00469",
    "q": "Which element has the chemical symbol Fl?",
    "o": [
     "Francium",
@@ -6751,7 +7051,7 @@
    "e": "Fl is the symbol of Flerovium."
   },
   {
-   "id": "static-gk-00450",
+   "id": "static-gk-00470",
    "q": "What is the capital of Arunachal Pradesh?",
    "o": [
     "Itanagar",
@@ -6766,7 +7066,7 @@
    "e": "The capital of Arunachal Pradesh is Itanagar."
   },
   {
-   "id": "static-gk-00451",
+   "id": "static-gk-00471",
    "q": "King Cobra holds which of the following positions in India?",
    "o": [
     "National Reptile",
@@ -6781,7 +7081,7 @@
    "e": "King Cobra is the National Reptile of India."
   },
   {
-   "id": "static-gk-00452",
+   "id": "static-gk-00472",
    "q": "First Indian to travel to space is associated with which of the following?",
    "o": [
     "Reita Faria",
@@ -6796,7 +7096,7 @@
    "e": "First Indian to travel to space — Rakesh Sharma."
   },
   {
-   "id": "static-gk-00453",
+   "id": "static-gk-00473",
    "q": "Padayani is a folk or classical dance form of which state?",
    "o": [
     "Odisha",
@@ -6811,7 +7111,7 @@
    "e": "Padayani belongs to Kerala."
   },
   {
-   "id": "static-gk-00454",
+   "id": "static-gk-00474",
    "q": "Bihu is a major festival of which state?",
    "o": [
     "Bihar",
@@ -6826,7 +7126,7 @@
    "e": "Bihu is celebrated mainly in Assam."
   },
   {
-   "id": "static-gk-00455",
+   "id": "static-gk-00475",
    "q": "The river Narmada originates from which of the following?",
    "o": [
     "Kudali",
@@ -6841,7 +7141,7 @@
    "e": "Narmada originates from Amarkantak."
   },
   {
-   "id": "static-gk-00456",
+   "id": "static-gk-00476",
    "q": "Baglihar Dam is built on which river?",
    "o": [
     "Narmada",
@@ -6856,7 +7156,7 @@
    "e": "Baglihar Dam is built on the Chenab."
   },
   {
-   "id": "static-gk-00457",
+   "id": "static-gk-00477",
    "q": "Kanha Tiger Reserve is located in which state?",
    "o": [
     "Madhya Pradesh",
@@ -6871,7 +7171,7 @@
    "e": "Kanha Tiger Reserve is located in Madhya Pradesh."
   },
   {
-   "id": "static-gk-00458",
+   "id": "static-gk-00478",
    "q": "Baralacha La pass is located in which state or union territory?",
    "o": [
     "Jammu and Kashmir",
@@ -6886,7 +7186,7 @@
    "e": "Baralacha La is located in Himachal Pradesh."
   },
   {
-   "id": "static-gk-00459",
+   "id": "static-gk-00479",
    "q": "What is the SI unit of Force?",
    "o": [
     "Joule per Kelvin",
@@ -6901,7 +7201,7 @@
    "e": "The SI unit of Force is the Newton."
   },
   {
-   "id": "static-gk-00460",
+   "id": "static-gk-00480",
    "q": "Which instrument is used to measure Humidity?",
    "o": [
     "Manometer",
@@ -6916,7 +7216,7 @@
    "e": "Hygrometer is used to measure Humidity."
   },
   {
-   "id": "static-gk-00461",
+   "id": "static-gk-00481",
    "q": "Deficiency of which nutrient causes Anaemia and bone disorders?",
    "o": [
     "Iron",
@@ -6931,7 +7231,7 @@
    "e": "Deficiency of Copper causes Anaemia and bone disorders."
   },
   {
-   "id": "static-gk-00462",
+   "id": "static-gk-00482",
    "q": "Who is credited with Quantum theory?",
    "o": [
     "Max Planck",
@@ -6946,7 +7246,7 @@
    "e": "Quantum theory — Max Planck."
   },
   {
-   "id": "static-gk-00463",
+   "id": "static-gk-00483",
    "q": "What is the chemical name of Washing soda?",
    "o": [
     "Potassium hydroxide (KOH)",
@@ -6961,7 +7261,7 @@
    "e": "Washing soda is Sodium carbonate (Na2CO3)."
   },
   {
-   "id": "static-gk-00464",
+   "id": "static-gk-00484",
    "q": "Which branch of science deals with Radiant energy in medicine?",
    "o": [
     "Radiology",
@@ -6976,7 +7276,7 @@
    "e": "Radiology deals with Radiant energy in medicine."
   },
   {
-   "id": "static-gk-00465",
+   "id": "static-gk-00485",
    "q": "Which planet or body is described as: Jupiter?",
    "o": [
     "Europa",
@@ -6991,7 +7291,7 @@
    "e": "Europa — Jupiter."
   },
   {
-   "id": "static-gk-00466",
+   "id": "static-gk-00486",
    "q": "Hargobind Khorana is known for which of the following?",
    "o": [
     "Synthesis of nucleic acids",
@@ -7006,7 +7306,7 @@
    "e": "Hargobind Khorana is known for Synthesis of nucleic acids."
   },
   {
-   "id": "static-gk-00467",
+   "id": "static-gk-00487",
    "q": "Comptroller and Auditor General is best described as which of the following?",
    "o": [
     "Regulator of the insurance sector",
@@ -7021,7 +7321,7 @@
    "e": "Comptroller and Auditor General — Audits government accounts."
   },
   {
-   "id": "static-gk-00468",
+   "id": "static-gk-00488",
    "q": "On which date is World Mental Health Day observed?",
    "o": [
     "8 May",
@@ -7036,7 +7336,7 @@
    "e": "World Mental Health Day is observed on 10 October."
   },
   {
-   "id": "static-gk-00469",
+   "id": "static-gk-00489",
    "q": "Where is the headquarters of FIFA?",
    "o": [
     "Geneva",
@@ -7051,7 +7351,7 @@
    "e": "FIFA is headquartered at Zurich."
   },
   {
-   "id": "static-gk-00470",
+   "id": "static-gk-00490",
    "q": "French Open is associated with which sport?",
    "o": [
     "Cricket",
@@ -7066,7 +7366,7 @@
    "e": "French Open is associated with Tennis."
   },
   {
-   "id": "static-gk-00471",
+   "id": "static-gk-00491",
    "q": "Maha Vir Chakra is associated with which of the following?",
    "o": [
     "British award for fiction",
@@ -7081,7 +7381,7 @@
    "e": "Maha Vir Chakra — Second highest military decoration of India."
   },
   {
-   "id": "static-gk-00472",
+   "id": "static-gk-00492",
    "q": "First Asian to win a Nobel Prize is associated with which of the following?",
    "o": [
     "Valentina Tereshkova",
@@ -7096,7 +7396,7 @@
    "e": "First Asian to win a Nobel Prize — Rabindranath Tagore."
   },
   {
-   "id": "static-gk-00473",
+   "id": "static-gk-00493",
    "q": "Which is the highest peak in the Himalayan range in India?",
    "o": [
     "Jamshedpur",
@@ -7111,7 +7411,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "static-gk-00474",
+   "id": "static-gk-00494",
    "q": "Which of the following is true about Saline soil?",
    "o": [
     "Contains excess salt, found in dry coastal areas",
@@ -7126,7 +7426,7 @@
    "e": "Saline soil: Contains excess salt, found in dry coastal areas."
   },
   {
-   "id": "static-gk-00475",
+   "id": "static-gk-00495",
    "q": "Which Indian state is a major producer of Graphite?",
    "o": [
     "Jharkhand",
@@ -7141,7 +7441,7 @@
    "e": "Graphite is produced in large quantities in Odisha."
   },
   {
-   "id": "static-gk-00476",
+   "id": "static-gk-00496",
    "q": "Keoladeo Ghana is located in which state?",
    "o": [
     "Jammu and Kashmir",
@@ -7156,7 +7456,7 @@
    "e": "Keoladeo Ghana is in Rajasthan."
   },
   {
-   "id": "static-gk-00477",
+   "id": "static-gk-00497",
    "q": "What is the capital of Hungary?",
    "o": [
     "San Marino",
@@ -7171,7 +7471,7 @@
    "e": "The capital of Hungary is Budapest."
   },
   {
-   "id": "static-gk-00478",
+   "id": "static-gk-00498",
    "q": "Which element has the chemical symbol Mg?",
    "o": [
     "Magnesium",
@@ -7186,7 +7486,7 @@
    "e": "Mg is the symbol of Magnesium."
   },
   {
-   "id": "static-gk-00479",
+   "id": "static-gk-00499",
    "q": "What is the capital of Andhra Pradesh?",
    "o": [
     "Shillong",
@@ -7201,7 +7501,7 @@
    "e": "The capital of Andhra Pradesh is Amaravati."
   },
   {
-   "id": "static-gk-00480",
+   "id": "static-gk-00500",
    "q": "Saka Calendar holds which of the following positions in India?",
    "o": [
     "National Currency",
@@ -7216,7 +7516,7 @@
    "e": "Saka Calendar is the National Calendar of India."
   },
   {
-   "id": "static-gk-00481",
+   "id": "static-gk-00501",
    "q": "First Speaker of the Lok Sabha is associated with which of the following?",
    "o": [
     "Bombay and Thane",
@@ -7231,7 +7531,7 @@
    "e": "First Speaker of the Lok Sabha — G. V. Mavalankar."
   },
   {
-   "id": "static-gk-00482",
+   "id": "static-gk-00502",
    "q": "Bihu is a folk or classical dance form of which state?",
    "o": [
     "Punjab",
@@ -7246,7 +7546,7 @@
    "e": "Bihu belongs to Assam."
   },
   {
-   "id": "static-gk-00483",
+   "id": "static-gk-00503",
    "q": "Karam is a major festival of which state?",
    "o": [
     "Rajasthan",
@@ -7261,7 +7561,7 @@
    "e": "Karam is celebrated mainly in Jharkhand."
   },
   {
-   "id": "static-gk-00484",
+   "id": "static-gk-00504",
    "q": "The river Jhelum originates from which of the following?",
    "o": [
     "Vindhya Range",
@@ -7276,7 +7576,7 @@
    "e": "Jhelum originates from Verinag."
   },
   {
-   "id": "static-gk-00485",
+   "id": "static-gk-00505",
    "q": "Mettur Dam is built on which river?",
    "o": [
     "Krishna",
@@ -7291,7 +7591,7 @@
    "e": "Mettur Dam is built on the Kaveri."
   },
   {
-   "id": "static-gk-00486",
+   "id": "static-gk-00506",
    "q": "Guru Ghasidas National Park is located in which state?",
    "o": [
     "Jammu and Kashmir",
@@ -7306,7 +7606,7 @@
    "e": "Guru Ghasidas National Park is located in Chhattisgarh."
   },
   {
-   "id": "static-gk-00487",
+   "id": "static-gk-00507",
    "q": "Pangsau Pass pass is located in which state or union territory?",
    "o": [
     "Jammu and Kashmir",
@@ -7321,7 +7621,7 @@
    "e": "Pangsau Pass is located in Arunachal Pradesh."
   },
   {
-   "id": "static-gk-00488",
+   "id": "static-gk-00508",
    "q": "What is the SI unit of Electrical resistance?",
    "o": [
     "Becquerel",
@@ -7336,7 +7636,7 @@
    "e": "The SI unit of Electrical resistance is the Ohm."
   },
   {
-   "id": "static-gk-00489",
+   "id": "static-gk-00509",
    "q": "Which instrument is used to measure Magnified view of tiny objects?",
    "o": [
     "Fathometer",
@@ -7351,7 +7651,7 @@
    "e": "Microscope is used to measure Magnified view of tiny objects."
   },
   {
-   "id": "static-gk-00490",
+   "id": "static-gk-00510",
    "q": "Deficiency of which nutrient causes Scurvy?",
    "o": [
     "Vitamin C",
@@ -7366,7 +7666,7 @@
    "e": "Deficiency of Vitamin C causes Scurvy."
   },
   {
-   "id": "static-gk-00491",
+   "id": "static-gk-00511",
    "q": "Who is credited with Oxygen?",
    "o": [
     "Joseph Priestley",
@@ -7381,7 +7681,7 @@
    "e": "Oxygen — Joseph Priestley."
   },
   {
-   "id": "static-gk-00492",
+   "id": "static-gk-00512",
    "q": "What is the chemical name of Bleaching powder?",
    "o": [
     "Potassium nitrate (KNO3)",
@@ -7396,7 +7696,7 @@
    "e": "Bleaching powder is Calcium oxychloride (CaOCl2)."
   },
   {
-   "id": "static-gk-00493",
+   "id": "static-gk-00513",
    "q": "Which branch of science deals with Coins?",
    "o": [
     "Numismatics",
@@ -7411,7 +7711,7 @@
    "e": "Numismatics deals with Coins."
   },
   {
-   "id": "static-gk-00494",
+   "id": "static-gk-00514",
    "q": "Which planet or body is described as: Light year?",
    "o": [
     "Light year",
@@ -7426,7 +7726,7 @@
    "e": "Light year — Light year."
   },
   {
-   "id": "static-gk-00495",
+   "id": "static-gk-00515",
    "q": "Jagadish Chandra Bose is known for which of the following?",
    "o": [
     "Plant physiology and radio waves",
@@ -7441,7 +7741,7 @@
    "e": "Jagadish Chandra Bose is known for Plant physiology and radio waves."
   },
   {
-   "id": "static-gk-00496",
+   "id": "static-gk-00516",
    "q": "Solicitor General of India is best described as which of the following?",
    "o": [
     "Local self-government in urban areas",
@@ -7456,7 +7756,7 @@
    "e": "Solicitor General of India — Second highest law officer of the Union."
   },
   {
-   "id": "static-gk-00497",
+   "id": "static-gk-00517",
    "q": "On which date is World Habitat Day observed?",
    "o": [
     "first Monday of October",
@@ -7471,7 +7771,7 @@
    "e": "World Habitat Day is observed on first Monday of October."
   },
   {
-   "id": "static-gk-00498",
+   "id": "static-gk-00518",
    "q": "Where is the headquarters of World Anti-Doping Agency?",
    "o": [
     "Shanghai",
@@ -7486,7 +7786,7 @@
    "e": "World Anti-Doping Agency is headquartered at Montreal."
   },
   {
-   "id": "static-gk-00499",
+   "id": "static-gk-00519",
    "q": "Sangeet Natak Akademi Award is associated with which of the following?",
    "o": [
     "Second highest peacetime gallantry award of India",
@@ -7501,7 +7801,7 @@
    "e": "Sangeet Natak Akademi Award — Performing arts award of India."
   },
   {
-   "id": "static-gk-00500",
+   "id": "static-gk-00520",
    "q": "First Indian to win a Nobel Prize is associated with which of the following?",
    "o": [
     "Marie Curie",
@@ -7516,7 +7816,7 @@
    "e": "First Indian to win a Nobel Prize — Rabindranath Tagore."
   },
   {
-   "id": "static-gk-00501",
+   "id": "static-gk-00521",
    "q": "Which is the largest peninsula in the world?",
    "o": [
     "Yangtze",
@@ -7531,7 +7831,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "static-gk-00502",
+   "id": "static-gk-00522",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Black soil - Also called regur, ideal for cotton",
@@ -7546,7 +7846,7 @@
    "e": "Only Black soil - Also called regur, ideal for cotton is correctly matched."
   },
   {
-   "id": "static-gk-00503",
+   "id": "static-gk-00523",
    "q": "Which Indian state is a major producer of Gold?",
    "o": [
     "Maharashtra",
@@ -7561,7 +7861,7 @@
    "e": "Gold is produced in large quantities in Karnataka."
   },
   {
-   "id": "static-gk-00504",
+   "id": "static-gk-00524",
    "q": "Achanakmar Amarkantak Biosphere Reserve is located in which state?",
    "o": [
     "Assam",
@@ -7576,7 +7876,7 @@
    "e": "Achanakmar Amarkantak Biosphere Reserve is in Madhya Pradesh and Chhattisgarh."
   },
   {
-   "id": "static-gk-00505",
+   "id": "static-gk-00525",
    "q": "What is the capital of Paraguay?",
    "o": [
     "Dhaka",
@@ -7591,7 +7891,7 @@
    "e": "The capital of Paraguay is Asuncion."
   },
   {
-   "id": "static-gk-00506",
+   "id": "static-gk-00526",
    "q": "Which element has the chemical symbol Ca?",
    "o": [
     "Ytterbium",
@@ -7606,7 +7906,7 @@
    "e": "Ca is the symbol of Calcium."
   },
   {
-   "id": "static-gk-00507",
+   "id": "static-gk-00527",
    "q": "What is the capital of Himachal Pradesh?",
    "o": [
     "Amaravati",
@@ -7621,7 +7921,7 @@
    "e": "The capital of Himachal Pradesh is Shimla."
   },
   {
-   "id": "static-gk-00508",
+   "id": "static-gk-00528",
    "q": "Lotus holds which of the following positions in India?",
    "o": [
     "National Calendar",
@@ -7636,7 +7936,7 @@
    "e": "Lotus is the National Flower of India."
   },
   {
-   "id": "static-gk-00509",
+   "id": "static-gk-00529",
    "q": "First Indian woman to win an Olympic medal is associated with which of the following?",
    "o": [
     "H. J. Kania",
@@ -7651,7 +7951,7 @@
    "e": "First Indian woman to win an Olympic medal — Karnam Malleswari."
   },
   {
-   "id": "static-gk-00510",
+   "id": "static-gk-00530",
    "q": "Kathakali is a folk or classical dance form of which state?",
    "o": [
     "Punjab",
@@ -7666,7 +7966,7 @@
    "e": "Kathakali belongs to Kerala."
   },
   {
-   "id": "static-gk-00511",
+   "id": "static-gk-00531",
    "q": "Ratha Yatra is a major festival of which state?",
    "o": [
     "Odisha",
@@ -7681,7 +7981,7 @@
    "e": "Ratha Yatra is celebrated mainly in Odisha."
   },
   {
-   "id": "static-gk-00512",
+   "id": "static-gk-00532",
    "q": "The river Ghaghara originates from which of the following?",
    "o": [
     "Baralacha La",
@@ -7696,7 +7996,7 @@
    "e": "Ghaghara originates from Mapchachungo."
   },
   {
-   "id": "static-gk-00513",
+   "id": "static-gk-00533",
    "q": "Tehri Dam is built on which river?",
    "o": [
     "Narmada",
@@ -7711,7 +8011,7 @@
    "e": "Tehri Dam is built on the Bhagirathi."
   },
   {
-   "id": "static-gk-00514",
+   "id": "static-gk-00534",
    "q": "Sultanpur National Park is located in which state?",
    "o": [
     "Rajasthan",
@@ -7726,7 +8026,7 @@
    "e": "Sultanpur National Park is located in Haryana."
   },
   {
-   "id": "static-gk-00515",
+   "id": "static-gk-00535",
    "q": "Niti Pass pass is located in which state or union territory?",
    "o": [
     "Uttarakhand",
@@ -7741,7 +8041,7 @@
    "e": "Niti Pass is located in Uttarakhand."
   },
   {
-   "id": "static-gk-00516",
+   "id": "static-gk-00536",
    "q": "What is the SI unit of Magnetic flux?",
    "o": [
     "Volt",
@@ -7756,7 +8056,7 @@
    "e": "The SI unit of Magnetic flux is the Weber."
   },
   {
-   "id": "static-gk-00517",
+   "id": "static-gk-00537",
    "q": "Which instrument is used to measure Temperature?",
    "o": [
     "Hygrometer",
@@ -7771,7 +8071,7 @@
    "e": "Thermometer is used to measure Temperature."
   },
   {
-   "id": "static-gk-00518",
+   "id": "static-gk-00538",
    "q": "Deficiency of which nutrient causes Excessive bleeding?",
    "o": [
     "Vitamin K",
@@ -7786,7 +8086,7 @@
    "e": "Deficiency of Vitamin K causes Excessive bleeding."
   },
   {
-   "id": "static-gk-00519",
+   "id": "static-gk-00539",
    "q": "Who is credited with Law of heredity?",
    "o": [
     "Charles Darwin",
@@ -7801,7 +8101,7 @@
    "e": "Law of heredity — Gregor Mendel."
   },
   {
-   "id": "static-gk-00520",
+   "id": "static-gk-00540",
    "q": "What is the chemical name of Baking soda?",
    "o": [
     "Sodium carbonate (Na2CO3)",
@@ -7816,7 +8116,7 @@
    "e": "Baking soda is Sodium bicarbonate (NaHCO3)."
   },
   {
-   "id": "static-gk-00521",
+   "id": "static-gk-00541",
    "q": "Which branch of science deals with Earthquakes?",
    "o": [
     "Meteorology",
@@ -7831,7 +8131,7 @@
    "e": "Seismology deals with Earthquakes."
   },
   {
-   "id": "static-gk-00522",
+   "id": "static-gk-00542",
    "q": "Which planet or body is described as: Asteroid?",
    "o": [
     "Uranus",
@@ -7846,7 +8146,7 @@
    "e": "Asteroid — Asteroid."
   },
   {
-   "id": "static-gk-00523",
+   "id": "static-gk-00543",
    "q": "Antoine Lavoisier is known for which of the following?",
    "o": [
     "Nuclear model of the atom",
@@ -7861,7 +8161,7 @@
    "e": "Antoine Lavoisier is known for Father of modern chemistry."
   },
   {
-   "id": "static-gk-00524",
+   "id": "static-gk-00544",
    "q": "Chief Minister is best described as which of the following?",
    "o": [
     "Chief legal adviser to the Government of India",
@@ -7876,7 +8176,7 @@
    "e": "Chief Minister — Head of the State Government."
   },
   {
-   "id": "static-gk-00525",
+   "id": "static-gk-00545",
    "q": "On which date is World Press Freedom Day observed?",
    "o": [
     "11 December",
@@ -7891,7 +8191,7 @@
    "e": "World Press Freedom Day is observed on 3 May."
   },
   {
-   "id": "static-gk-00526",
+   "id": "static-gk-00546",
    "q": "Where is the headquarters of Universal Postal Union?",
    "o": [
     "Bern",
@@ -7906,7 +8206,7 @@
    "e": "Universal Postal Union is headquartered at Bern."
   },
   {
-   "id": "static-gk-00527",
+   "id": "static-gk-00547",
    "q": "Kirti Chakra is associated with which of the following?",
    "o": [
     "Second highest civilian award of India",
@@ -7921,7 +8221,7 @@
    "e": "Kirti Chakra — Second highest peacetime gallantry award of India."
   },
   {
-   "id": "static-gk-00528",
+   "id": "static-gk-00548",
    "q": "First woman to fly solo across the Atlantic is associated with which of the following?",
    "o": [
     "United States of America",
@@ -7936,7 +8236,7 @@
    "e": "First woman to fly solo across the Atlantic — Amelia Earhart."
   },
   {
-   "id": "static-gk-00529",
+   "id": "static-gk-00549",
    "q": "Which Indian state has the longest coastline?",
    "o": [
     "Equator",
@@ -7951,7 +8251,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "static-gk-00530",
+   "id": "static-gk-00550",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Black soil - Sandy soil of arid regions",
@@ -7966,7 +8266,7 @@
    "e": "Only Black soil - Also called regur, ideal for cotton is correctly matched."
   },
   {
-   "id": "static-gk-00531",
+   "id": "static-gk-00551",
    "q": "Which Indian state is a major producer of Copper?",
    "o": [
     "Odisha",
@@ -7981,7 +8281,7 @@
    "e": "Copper is produced in large quantities in Rajasthan."
   },
   {
-   "id": "static-gk-00532",
+   "id": "static-gk-00552",
    "q": "Simlipal Biosphere Reserve is located in which state?",
    "o": [
     "Tamil Nadu",
@@ -7996,7 +8296,7 @@
    "e": "Simlipal Biosphere Reserve is in Odisha."
   },
   {
-   "id": "static-gk-00533",
+   "id": "static-gk-00553",
    "q": "What is the capital of Mozambique?",
    "o": [
     "Addis Ababa",
@@ -8011,7 +8311,7 @@
    "e": "The capital of Mozambique is Maputo."
   },
   {
-   "id": "static-gk-00534",
+   "id": "static-gk-00554",
    "q": "Which element has the chemical symbol Be?",
    "o": [
     "Lutetium",
@@ -8026,7 +8326,7 @@
    "e": "Be is the symbol of Beryllium."
   },
   {
-   "id": "static-gk-00535",
+   "id": "static-gk-00555",
    "q": "What is the capital of Gujarat?",
    "o": [
     "Shillong",
@@ -8041,7 +8341,7 @@
    "e": "The capital of Gujarat is Gandhinagar."
   },
   {
-   "id": "static-gk-00536",
+   "id": "static-gk-00556",
    "q": "Bengal Tiger holds which of the following positions in India?",
    "o": [
     "National Calendar",
@@ -8056,7 +8356,7 @@
    "e": "Bengal Tiger is the National Animal of India."
   },
   {
-   "id": "static-gk-00537",
+   "id": "static-gk-00557",
    "q": "First Chief Justice of India is associated with which of the following?",
    "o": [
     "H. J. Kania",
@@ -8071,7 +8371,7 @@
    "e": "First Chief Justice of India — H. J. Kania."
   },
   {
-   "id": "static-gk-00538",
+   "id": "static-gk-00558",
    "q": "Rouf is a folk or classical dance form of which state?",
    "o": [
     "Tamil Nadu",
@@ -8086,7 +8386,7 @@
    "e": "Rouf belongs to Jammu and Kashmir."
   },
   {
-   "id": "static-gk-00539",
+   "id": "static-gk-00559",
    "q": "Desert Festival is a major festival of which state?",
    "o": [
     "Madhya Pradesh",
@@ -8101,7 +8401,7 @@
    "e": "Desert Festival is celebrated mainly in Rajasthan."
   },
   {
-   "id": "static-gk-00540",
+   "id": "static-gk-00560",
    "q": "The river Chenab originates from which of the following?",
    "o": [
     "Baralacha La",
@@ -8116,7 +8416,7 @@
    "e": "Chenab originates from Baralacha La."
   },
   {
-   "id": "static-gk-00541",
+   "id": "static-gk-00561",
    "q": "Idukki Dam is built on which river?",
    "o": [
     "Bhavani",
@@ -8131,7 +8431,7 @@
    "e": "Idukki Dam is built on the Periyar."
   },
   {
-   "id": "static-gk-00542",
+   "id": "static-gk-00562",
    "q": "Madhav Tiger Reserve is located in which state?",
    "o": [
     "Assam",
@@ -8146,7 +8446,7 @@
    "e": "Madhav Tiger Reserve is located in Madhya Pradesh."
   },
   {
-   "id": "static-gk-00543",
+   "id": "static-gk-00563",
    "q": "Bhor Ghat pass is located in which state or union territory?",
    "o": [
     "Ladakh",
@@ -8161,7 +8461,7 @@
    "e": "Bhor Ghat is located in Maharashtra."
   },
   {
-   "id": "static-gk-00544",
+   "id": "static-gk-00564",
    "q": "What is the SI unit of Electric potential?",
    "o": [
     "Volt",
@@ -8176,7 +8476,7 @@
    "e": "The SI unit of Electric potential is the Volt."
   },
   {
-   "id": "static-gk-00545",
+   "id": "static-gk-00565",
    "q": "Which instrument is used to measure Purity of milk?",
    "o": [
     "Spherometer",
@@ -8191,7 +8491,7 @@
    "e": "Lactometer is used to measure Purity of milk."
   },
   {
-   "id": "static-gk-00546",
+   "id": "static-gk-00566",
    "q": "Deficiency of which nutrient causes Megaloblastic anaemia?",
    "o": [
     "Fluorine",
@@ -8206,7 +8506,7 @@
    "e": "Deficiency of Vitamin B9 causes Megaloblastic anaemia."
   },
   {
-   "id": "static-gk-00547",
+   "id": "static-gk-00567",
    "q": "Who is credited with Polio vaccine?",
    "o": [
     "Johannes Gutenberg",
@@ -8221,7 +8521,7 @@
    "e": "Polio vaccine — Jonas Salk."
   },
   {
-   "id": "static-gk-00548",
+   "id": "static-gk-00568",
    "q": "What is the chemical name of Caustic soda?",
    "o": [
     "Ethanol (C2H5OH)",
@@ -8236,7 +8536,7 @@
    "e": "Caustic soda is Sodium hydroxide (NaOH)."
   },
   {
-   "id": "static-gk-00549",
+   "id": "static-gk-00569",
    "q": "Which branch of science deals with Heredity and variation?",
    "o": [
     "Ornithology",
@@ -8251,7 +8551,7 @@
    "e": "Genetics deals with Heredity and variation."
   },
   {
-   "id": "static-gk-00550",
+   "id": "static-gk-00570",
    "q": "Which planet or body is described as: Lunar eclipse?",
    "o": [
     "Moon",
@@ -8266,7 +8566,7 @@
    "e": "Lunar eclipse — Lunar eclipse."
   },
   {
-   "id": "static-gk-00551",
+   "id": "static-gk-00571",
    "q": "Alexander Fleming is known for which of the following?",
    "o": [
     "Molecular theory and Avogadro's law",
@@ -8281,7 +8581,7 @@
    "e": "Alexander Fleming is known for Discovery of penicillin."
   },
   {
-   "id": "static-gk-00552",
+   "id": "static-gk-00572",
    "q": "Attorney General of India is best described as which of the following?",
    "o": [
     "Chief legal adviser to the Government of India",
@@ -8296,7 +8596,7 @@
    "e": "Attorney General of India — Chief legal adviser to the Government of India."
   },
   {
-   "id": "static-gk-00553",
+   "id": "static-gk-00573",
    "q": "On which date is World Braille Day observed?",
    "o": [
     "4 January",
@@ -8311,7 +8611,7 @@
    "e": "World Braille Day is observed on 4 January."
   },
   {
-   "id": "static-gk-00554",
+   "id": "static-gk-00574",
    "q": "Where is the headquarters of Shanghai Cooperation Organisation?",
    "o": [
     "Vienna",
@@ -8326,7 +8626,7 @@
    "e": "Shanghai Cooperation Organisation is headquartered at Beijing."
   },
   {
-   "id": "static-gk-00555",
+   "id": "static-gk-00575",
    "q": "Bordoloi Trophy is associated with which sport?",
    "o": [
     "Hockey",
@@ -8341,7 +8641,7 @@
    "e": "Bordoloi Trophy is associated with Football."
   },
   {
-   "id": "static-gk-00556",
+   "id": "static-gk-00576",
    "q": "Padma Bhushan is associated with which of the following?",
    "o": [
     "Third highest peacetime gallantry award of India",
@@ -8356,7 +8656,7 @@
    "e": "Padma Bhushan — Third highest civilian award of India."
   },
   {
-   "id": "static-gk-00557",
+   "id": "static-gk-00577",
    "q": "First woman to win an Olympic gold in wrestling for India is associated with which of the following?",
    "o": [
     "United States of America",
@@ -8371,7 +8671,7 @@
    "e": "First woman to win an Olympic gold in wrestling for India — Karnam Malleswari."
   },
   {
-   "id": "static-gk-00558",
+   "id": "static-gk-00578",
    "q": "Which line of longitude is at zero degrees?",
    "o": [
     "Atacama Desert",
@@ -8386,7 +8686,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "static-gk-00559",
+   "id": "static-gk-00579",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Desert soil - Formed in waterlogged areas with organic matter",
@@ -8401,7 +8701,7 @@
    "e": "Only Desert soil - Sandy soil of arid regions is correctly matched."
   },
   {
-   "id": "static-gk-00560",
+   "id": "static-gk-00580",
    "q": "Which Indian state is a major producer of Chromite?",
    "o": [
     "Jharkhand",
@@ -8416,7 +8716,7 @@
    "e": "Chromite is produced in large quantities in Odisha."
   },
   {
-   "id": "static-gk-00561",
+   "id": "static-gk-00581",
    "q": "Agasthyamalai Biosphere Reserve is located in which state?",
    "o": [
     "Sikkim",
@@ -8431,7 +8731,7 @@
    "e": "Agasthyamalai Biosphere Reserve is in Kerala and Tamil Nadu."
   },
   {
-   "id": "static-gk-00562",
+   "id": "static-gk-00582",
    "q": "What is the capital of San Marino?",
    "o": [
     "Bern",
@@ -8446,7 +8746,7 @@
    "e": "The capital of San Marino is San Marino."
   },
   {
-   "id": "static-gk-00563",
+   "id": "static-gk-00583",
    "q": "Which element has the chemical symbol V?",
    "o": [
     "Iron",
@@ -8461,7 +8761,7 @@
    "e": "V is the symbol of Vanadium."
   },
   {
-   "id": "static-gk-00564",
+   "id": "static-gk-00584",
    "q": "What is the capital of Bihar?",
    "o": [
     "Lucknow",
@@ -8476,7 +8776,7 @@
    "e": "The capital of Bihar is Patna."
   },
   {
-   "id": "static-gk-00565",
+   "id": "static-gk-00585",
    "q": "Indian Elephant holds which of the following positions in India?",
    "o": [
     "National Heritage Animal",
@@ -8491,7 +8791,7 @@
    "e": "Indian Elephant is the National Heritage Animal of India."
   },
   {
-   "id": "static-gk-00566",
+   "id": "static-gk-00586",
    "q": "First woman Prime Minister of India is associated with which of the following?",
    "o": [
     "Indira Gandhi",
@@ -8506,7 +8806,7 @@
    "e": "First woman Prime Minister of India — Indira Gandhi."
   },
   {
-   "id": "static-gk-00567",
+   "id": "static-gk-00587",
    "q": "Kikli is a folk or classical dance form of which state?",
    "o": [
     "Tamil Nadu",
@@ -8521,7 +8821,7 @@
    "e": "Kikli belongs to Punjab."
   },
   {
-   "id": "static-gk-00568",
+   "id": "static-gk-00588",
    "q": "Myoko is a major festival of which state?",
    "o": [
     "Arunachal Pradesh",
@@ -8536,7 +8836,7 @@
    "e": "Myoko is celebrated mainly in Arunachal Pradesh."
   },
   {
-   "id": "static-gk-00569",
+   "id": "static-gk-00589",
    "q": "The river Indus originates from which of the following?",
    "o": [
     "Bokhar Chu",
@@ -8551,7 +8851,7 @@
    "e": "Indus originates from Bokhar Chu."
   },
   {
-   "id": "static-gk-00570",
+   "id": "static-gk-00590",
    "q": "Rihand Dam is built on which river?",
    "o": [
     "Godavari",
@@ -8566,7 +8866,7 @@
    "e": "Rihand Dam is built on the Rihand."
   },
   {
-   "id": "static-gk-00571",
+   "id": "static-gk-00591",
    "q": "Vansda National Park is located in which state?",
    "o": [
     "Assam",
@@ -8581,7 +8881,7 @@
    "e": "Vansda National Park is located in Gujarat."
   },
   {
-   "id": "static-gk-00572",
+   "id": "static-gk-00592",
    "q": "Fotu La pass is located in which state or union territory?",
    "o": [
     "Kerala",
@@ -8596,7 +8896,7 @@
    "e": "Fotu La is located in Ladakh."
   },
   {
-   "id": "static-gk-00573",
+   "id": "static-gk-00593",
    "q": "What is the SI unit of Electric current?",
    "o": [
     "Ampere",
@@ -8611,7 +8911,7 @@
    "e": "The SI unit of Electric current is the Ampere."
   },
   {
-   "id": "static-gk-00574",
+   "id": "static-gk-00594",
    "q": "Which instrument is used to measure Electric potential difference?",
    "o": [
     "Barometer",
@@ -8626,7 +8926,7 @@
    "e": "Voltmeter is used to measure Electric potential difference."
   },
   {
-   "id": "static-gk-00575",
+   "id": "static-gk-00595",
    "q": "Deficiency of which nutrient causes Osteoporosis?",
    "o": [
     "Vitamin A",
@@ -8641,7 +8941,7 @@
    "e": "Deficiency of Calcium causes Osteoporosis."
   },
   {
-   "id": "static-gk-00576",
+   "id": "static-gk-00596",
    "q": "Who is credited with Telephone?",
    "o": [
     "Alexander Graham Bell",
@@ -8656,7 +8956,7 @@
    "e": "Telephone — Alexander Graham Bell."
   },
   {
-   "id": "static-gk-00577",
+   "id": "static-gk-00597",
    "q": "What is the chemical name of Chalk?",
    "o": [
     "Sodium chloride (NaCl)",
@@ -8671,7 +8971,7 @@
    "e": "Chalk is Calcium carbonate (CaCO3)."
   },
   {
-   "id": "static-gk-00578",
+   "id": "static-gk-00598",
    "q": "Which branch of science deals with Composition and properties of substances?",
    "o": [
     "Chemistry",
@@ -8686,7 +8986,7 @@
    "e": "Chemistry deals with Composition and properties of substances."
   },
   {
-   "id": "static-gk-00579",
+   "id": "static-gk-00599",
    "q": "Which planet or body is described as: Meteorite?",
    "o": [
     "Meteorite",
@@ -8701,7 +9001,7 @@
    "e": "Meteorite — Meteorite."
   },
   {
-   "id": "static-gk-00580",
+   "id": "static-gk-00600",
    "q": "Albert Einstein is known for which of the following?",
    "o": [
     "Theory of relativity",
@@ -8716,7 +9016,7 @@
    "e": "Albert Einstein is known for Theory of relativity."
   },
   {
-   "id": "static-gk-00581",
+   "id": "static-gk-00601",
    "q": "Council of Ministers is best described as which of the following?",
    "o": [
     "Aids and advises the President",
@@ -8731,7 +9031,7 @@
    "e": "Council of Ministers — Aids and advises the President."
   },
   {
-   "id": "static-gk-00582",
+   "id": "static-gk-00602",
    "q": "On which date is World Hindi Day observed?",
    "o": [
     "1 May",
@@ -8746,7 +9046,7 @@
    "e": "World Hindi Day is observed on 10 January."
   },
   {
-   "id": "static-gk-00583",
+   "id": "static-gk-00603",
    "q": "Where is the headquarters of International Fund for Agricultural Development?",
    "o": [
     "Rome",
@@ -8761,7 +9061,7 @@
    "e": "International Fund for Agricultural Development is headquartered at Rome."
   },
   {
-   "id": "static-gk-00584",
+   "id": "static-gk-00604",
    "q": "FIFA World Cup is associated with which sport?",
    "o": [
     "Football",
@@ -8776,7 +9076,7 @@
    "e": "FIFA World Cup is associated with Football."
   },
   {
-   "id": "static-gk-00585",
+   "id": "static-gk-00605",
    "q": "Major Dhyan Chand Khel Ratna Award is associated with which of the following?",
    "o": [
     "British award for fiction",
@@ -8791,7 +9091,7 @@
    "e": "Major Dhyan Chand Khel Ratna Award — Highest sporting honour of India."
   },
   {
-   "id": "static-gk-00586",
+   "id": "static-gk-00606",
    "q": "First Winter Olympic Games were held in is associated with which of the following?",
    "o": [
     "Yuri Gagarin",
@@ -8806,7 +9106,7 @@
    "e": "First Winter Olympic Games were held in — Chamonix."
   },
   {
-   "id": "static-gk-00587",
+   "id": "static-gk-00607",
    "q": "Which is the most populous state of India?",
    "o": [
     "Paris",
@@ -8821,7 +9121,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "static-gk-00588",
+   "id": "static-gk-00608",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Desert soil - Contains excess salt, found in dry coastal areas",
@@ -8836,7 +9136,7 @@
    "e": "Only Desert soil - Sandy soil of arid regions is correctly matched."
   },
   {
-   "id": "static-gk-00589",
+   "id": "static-gk-00609",
    "q": "Which Indian state is a major producer of Mica?",
    "o": [
     "Jharkhand",
@@ -8851,7 +9151,7 @@
    "e": "Mica is produced in large quantities in Andhra Pradesh."
   },
   {
-   "id": "static-gk-00590",
+   "id": "static-gk-00610",
    "q": "Pachmarhi Biosphere Reserve is located in which state?",
    "o": [
     "Tamil Nadu",
@@ -8866,7 +9166,7 @@
    "e": "Pachmarhi Biosphere Reserve is in Madhya Pradesh."
   },
   {
-   "id": "static-gk-00591",
+   "id": "static-gk-00611",
    "q": "What is the capital of Samoa?",
    "o": [
     "Montevideo",
@@ -8881,7 +9181,7 @@
    "e": "The capital of Samoa is Apia."
   },
   {
-   "id": "static-gk-00592",
+   "id": "static-gk-00612",
    "q": "Which element has the chemical symbol Ac?",
    "o": [
     "Actinium",
@@ -8896,7 +9196,7 @@
    "e": "Ac is the symbol of Actinium."
   },
   {
-   "id": "static-gk-00593",
+   "id": "static-gk-00613",
    "q": "What is the capital of Telangana?",
    "o": [
     "Hyderabad",
@@ -8911,7 +9211,7 @@
    "e": "The capital of Telangana is Hyderabad."
   },
   {
-   "id": "static-gk-00594",
+   "id": "static-gk-00614",
    "q": "Jana Gana Mana holds which of the following positions in India?",
    "o": [
     "National Anthem",
@@ -8926,7 +9226,7 @@
    "e": "Jana Gana Mana is the National Anthem of India."
   },
   {
-   "id": "static-gk-00595",
+   "id": "static-gk-00615",
    "q": "First Indian Governor-General of India is associated with which of the following?",
    "o": [
     "C. Rajagopalachari",
@@ -8941,7 +9241,7 @@
    "e": "First Indian Governor-General of India — C. Rajagopalachari."
   },
   {
-   "id": "static-gk-00596",
+   "id": "static-gk-00616",
    "q": "Nongkrem is a folk or classical dance form of which state?",
    "o": [
     "Meghalaya",
@@ -8956,7 +9256,7 @@
    "e": "Nongkrem belongs to Meghalaya."
   },
   {
-   "id": "static-gk-00597",
+   "id": "static-gk-00617",
    "q": "Sekrenyi is a major festival of which state?",
    "o": [
     "Manipur",
@@ -8971,7 +9271,7 @@
    "e": "Sekrenyi is celebrated mainly in Nagaland."
   },
   {
-   "id": "static-gk-00598",
+   "id": "static-gk-00618",
    "q": "The river Ravi originates from which of the following?",
    "o": [
     "Chamba",
@@ -8986,7 +9286,7 @@
    "e": "Ravi originates from Chamba."
   },
   {
-   "id": "static-gk-00599",
+   "id": "static-gk-00619",
    "q": "Which of the following dams is built on the river Kaveri?",
    "o": [
     "Mettur Dam",
@@ -9001,7 +9301,7 @@
    "e": "Mettur Dam is built on the Kaveri."
   },
   {
-   "id": "static-gk-00600",
+   "id": "static-gk-00620",
    "q": "Dibang Wildlife Sanctuary is located in which state?",
    "o": [
     "Arunachal Pradesh",
@@ -9016,7 +9316,7 @@
    "e": "Dibang Wildlife Sanctuary is located in Arunachal Pradesh."
   },
   {
-   "id": "static-gk-00601",
+   "id": "static-gk-00621",
    "q": "Shipki La pass is located in which state or union territory?",
    "o": [
     "Tamil Nadu",
@@ -9031,7 +9331,7 @@
    "e": "Shipki La is located in Himachal Pradesh."
   },
   {
-   "id": "static-gk-00602",
+   "id": "static-gk-00622",
    "q": "What is the SI unit of Electric charge?",
    "o": [
     "Coulomb",
@@ -9046,7 +9346,7 @@
    "e": "The SI unit of Electric charge is the Coulomb."
   },
   {
-   "id": "static-gk-00603",
+   "id": "static-gk-00623",
    "q": "Which instrument is used to measure Heartbeats?",
    "o": [
     "Transducer",
@@ -9061,7 +9361,7 @@
    "e": "Stethoscope is used to measure Heartbeats."
   },
   {
-   "id": "static-gk-00604",
+   "id": "static-gk-00624",
    "q": "Deficiency of which nutrient causes Dehydration?",
    "o": [
     "Sodium",
@@ -9076,7 +9376,7 @@
    "e": "Deficiency of Sodium causes Dehydration."
   },
   {
-   "id": "static-gk-00605",
+   "id": "static-gk-00625",
    "q": "Who is credited with Evolution by natural selection?",
    "o": [
     "Charles Darwin",
@@ -9091,7 +9391,7 @@
    "e": "Evolution by natural selection — Charles Darwin."
   },
   {
-   "id": "static-gk-00606",
+   "id": "static-gk-00626",
    "q": "What is the chemical name of Slaked lime?",
    "o": [
     "Hydrochloric acid (HCl)",
@@ -9106,7 +9406,7 @@
    "e": "Slaked lime is Calcium hydroxide (Ca(OH)2)."
   },
   {
-   "id": "static-gk-00607",
+   "id": "static-gk-00627",
    "q": "Which branch of science deals with Weather and atmosphere?",
    "o": [
     "Meteorology",
@@ -9121,7 +9421,7 @@
    "e": "Meteorology deals with Weather and atmosphere."
   },
   {
-   "id": "static-gk-00608",
+   "id": "static-gk-00628",
    "q": "Which planet or body is described as: Halley's Comet?",
    "o": [
     "Halley's Comet",
@@ -9136,7 +9436,7 @@
    "e": "Halley's Comet — Halley's Comet."
   },
   {
-   "id": "static-gk-00609",
+   "id": "static-gk-00629",
    "q": "Ernest Rutherford is known for which of the following?",
    "o": [
     "Nuclear model of the atom",
@@ -9151,7 +9451,7 @@
    "e": "Ernest Rutherford is known for Nuclear model of the atom."
   },
   {
-   "id": "static-gk-00610",
+   "id": "static-gk-00630",
    "q": "Central Vigilance Commission is best described as which of the following?",
    "o": [
     "Watches over vigilance in government",
@@ -9166,7 +9466,7 @@
    "e": "Central Vigilance Commission — Watches over vigilance in government."
   },
   {
-   "id": "static-gk-00611",
+   "id": "static-gk-00631",
    "q": "On which date is Teachers' Day (India) observed?",
    "o": [
     "8 May",
@@ -9181,7 +9481,7 @@
    "e": "Teachers' Day (India) is observed on 5 September."
   },
   {
-   "id": "static-gk-00612",
+   "id": "static-gk-00632",
    "q": "Where is the headquarters of International Court of Justice?",
    "o": [
     "Mumbai",
@@ -9196,7 +9496,7 @@
    "e": "International Court of Justice is headquartered at The Hague."
   },
   {
-   "id": "static-gk-00613",
+   "id": "static-gk-00633",
    "q": "Grand Slam (Tennis) is associated with which sport?",
    "o": [
     "Football",
@@ -9211,7 +9511,7 @@
    "e": "Grand Slam (Tennis) is associated with Tennis."
   },
   {
-   "id": "static-gk-00614",
+   "id": "static-gk-00634",
    "q": "Padma Shri is associated with which of the following?",
    "o": [
     "Lifetime achievement in Indian sports",
@@ -9226,7 +9526,7 @@
    "e": "Padma Shri — Fourth highest civilian award of India."
   },
   {
-   "id": "static-gk-00615",
+   "id": "static-gk-00635",
    "q": "First Cricket World Cup was held in is associated with which of the following?",
    "o": [
     "Abhinav Bindra",
@@ -9241,7 +9541,7 @@
    "e": "First Cricket World Cup was held in — England."
   },
   {
-   "id": "static-gk-00616",
+   "id": "static-gk-00636",
    "q": "Which country is known as the Land of Kangaroos?",
    "o": [
     "Kanchenjunga",
@@ -9256,7 +9556,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "static-gk-00617",
+   "id": "static-gk-00637",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Peaty soil - Sandy soil of arid regions",
@@ -9271,7 +9571,7 @@
    "e": "Only Peaty soil - Formed in waterlogged areas with organic matter is correctly matched."
   },
   {
-   "id": "static-gk-00618",
+   "id": "static-gk-00638",
    "q": "Which mineral is found in large quantities in Karnataka?",
    "o": [
     "Gold",
@@ -9286,7 +9586,7 @@
    "e": "Gold is found in Karnataka."
   },
   {
-   "id": "static-gk-00619",
+   "id": "static-gk-00639",
    "q": "Which biosphere reserve or wetland is located in Madhya Pradesh and Chhattisgarh?",
    "o": [
     "Achanakmar Amarkantak Biosphere Reserve",
@@ -9301,7 +9601,7 @@
    "e": "Achanakmar Amarkantak Biosphere Reserve is located in Madhya Pradesh and Chhattisgarh."
   },
   {
-   "id": "static-gk-00620",
+   "id": "static-gk-00640",
    "q": "What is the capital of Central African Republic?",
    "o": [
     "Nouakchott",
@@ -9316,7 +9616,7 @@
    "e": "The capital of Central African Republic is Bangui."
   },
   {
-   "id": "static-gk-00621",
+   "id": "static-gk-00641",
    "q": "Which element has the chemical symbol He?",
    "o": [
     "Samarium",
@@ -9331,7 +9631,7 @@
    "e": "He is the symbol of Helium."
   },
   {
-   "id": "static-gk-00622",
+   "id": "static-gk-00642",
    "q": "What is the capital of Mizoram?",
    "o": [
     "Aizawl",
@@ -9346,7 +9646,7 @@
    "e": "The capital of Mizoram is Aizawl."
   },
   {
-   "id": "static-gk-00623",
+   "id": "static-gk-00643",
    "q": "Indian Rupee holds which of the following positions in India?",
    "o": [
     "National Heritage Animal",
@@ -9361,7 +9661,7 @@
    "e": "Indian Rupee is the National Currency of India."
   },
   {
-   "id": "static-gk-00624",
+   "id": "static-gk-00644",
    "q": "First Indian to win a Grand Slam in tennis is associated with which of the following?",
    "o": [
     "Jawaharlal Nehru",
@@ -9376,7 +9676,7 @@
    "e": "First Indian to win a Grand Slam in tennis — Mahesh Bhupathi."
   },
   {
-   "id": "static-gk-00625",
+   "id": "static-gk-00645",
    "q": "Garba is a folk or classical dance form of which state?",
    "o": [
     "Uttar Pradesh",
@@ -9391,7 +9691,7 @@
    "e": "Garba belongs to Gujarat."
   },
   {
-   "id": "static-gk-00626",
+   "id": "static-gk-00646",
    "q": "Nuakhai is a major festival of which state?",
    "o": [
     "Madhya Pradesh",
@@ -9406,7 +9706,7 @@
    "e": "Nuakhai is celebrated mainly in Odisha."
   },
   {
-   "id": "static-gk-00627",
+   "id": "static-gk-00647",
    "q": "The river Damodar originates from which of the following?",
    "o": [
     "Yamunotri Glacier",
@@ -9421,7 +9721,7 @@
    "e": "Damodar originates from Chota Nagpur Plateau."
   },
   {
-   "id": "static-gk-00628",
+   "id": "static-gk-00648",
    "q": "Which of the following dams is built on the river Godavari?",
    "o": [
     "Polavaram Dam",
@@ -9436,7 +9736,7 @@
    "e": "Polavaram Dam is built on the Godavari."
   },
   {
-   "id": "static-gk-00629",
+   "id": "static-gk-00649",
    "q": "Kuno National Park is located in which state?",
    "o": [
     "Gujarat",
@@ -9451,7 +9751,7 @@
    "e": "Kuno National Park is located in Madhya Pradesh."
   },
   {
-   "id": "static-gk-00630",
+   "id": "static-gk-00650",
    "q": "Thal Ghat pass is located in which state or union territory?",
    "o": [
     "Sikkim",
@@ -9466,7 +9766,7 @@
    "e": "Thal Ghat is located in Maharashtra."
   },
   {
-   "id": "static-gk-00631",
+   "id": "static-gk-00651",
    "q": "What is the SI unit of Capacitance?",
    "o": [
     "Kilogram",
@@ -9481,7 +9781,7 @@
    "e": "The SI unit of Capacitance is the Farad."
   },
   {
-   "id": "static-gk-00632",
+   "id": "static-gk-00652",
    "q": "Which instrument is used to measure Heat change in reactions?",
    "o": [
     "Radiometer",
@@ -9496,7 +9796,7 @@
    "e": "Calorimeter is used to measure Heat change in reactions."
   },
   {
-   "id": "static-gk-00633",
+   "id": "static-gk-00653",
    "q": "Deficiency of which nutrient causes Tooth decay?",
    "o": [
     "Iodine",
@@ -9511,7 +9811,7 @@
    "e": "Deficiency of Fluorine causes Tooth decay."
   },
   {
-   "id": "static-gk-00634",
+   "id": "static-gk-00654",
    "q": "Who is credited with DNA double helix structure?",
    "o": [
     "Watson and Crick",
@@ -9526,7 +9826,7 @@
    "e": "DNA double helix structure — Watson and Crick."
   },
   {
-   "id": "static-gk-00635",
+   "id": "static-gk-00655",
    "q": "What is the chemical name of Aspirin?",
    "o": [
     "Potassium nitrate (KNO3)",
@@ -9541,7 +9841,7 @@
    "e": "Aspirin is Acetylsalicylic acid."
   },
   {
-   "id": "static-gk-00636",
+   "id": "static-gk-00656",
    "q": "Which branch of science deals with Sound?",
    "o": [
     "Acoustics",
@@ -9556,7 +9856,7 @@
    "e": "Acoustics deals with Sound."
   },
   {
-   "id": "static-gk-00637",
+   "id": "static-gk-00657",
    "q": "Which planet or body is described as: Solar eclipse?",
    "o": [
     "Solar eclipse",
@@ -9571,7 +9871,7 @@
    "e": "Solar eclipse — Solar eclipse."
   },
   {
-   "id": "static-gk-00638",
+   "id": "static-gk-00658",
    "q": "S. N. Bose is known for which of the following?",
    "o": [
     "Bose-Einstein statistics",
@@ -9586,7 +9886,7 @@
    "e": "S. N. Bose is known for Bose-Einstein statistics."
   },
   {
-   "id": "static-gk-00639",
+   "id": "static-gk-00659",
    "q": "Governor is best described as which of the following?",
    "o": [
     "Ex-officio Chairman of the Rajya Sabha",
@@ -9601,7 +9901,7 @@
    "e": "Governor — Constitutional head of a State."
   },
   {
-   "id": "static-gk-00640",
+   "id": "static-gk-00660",
    "q": "On which date is International Tea Day observed?",
    "o": [
     "21 May",
@@ -9616,7 +9916,7 @@
    "e": "International Tea Day is observed on 21 May."
   },
   {
-   "id": "static-gk-00641",
+   "id": "static-gk-00661",
    "q": "Where is the headquarters of Bank for International Settlements?",
    "o": [
     "Rome",
@@ -9631,7 +9931,7 @@
    "e": "Bank for International Settlements is headquartered at Basel."
   },
   {
-   "id": "static-gk-00642",
+   "id": "static-gk-00662",
    "q": "Arjuna Award is associated with which of the following?",
    "o": [
     "Indian award in science and technology",
@@ -9646,7 +9946,7 @@
    "e": "Arjuna Award — Outstanding performance in Indian sports."
   },
   {
-   "id": "static-gk-00643",
+   "id": "static-gk-00663",
    "q": "First woman Prime Minister in the world is associated with which of the following?",
    "o": [
     "Soviet Union",
@@ -9661,7 +9961,7 @@
    "e": "First woman Prime Minister in the world — Sirimavo Bandaranaike."
   },
   {
-   "id": "static-gk-00644",
+   "id": "static-gk-00664",
    "q": "Which is the smallest ocean?",
    "o": [
     "Sundarbans",
@@ -9676,7 +9976,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "static-gk-00645",
+   "id": "static-gk-00665",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Peaty soil - Most fertile soil, found in the northern plains",
@@ -9691,7 +9991,7 @@
    "e": "Only Peaty soil - Formed in waterlogged areas with organic matter is correctly matched."
   },
   {
-   "id": "static-gk-00646",
+   "id": "static-gk-00666",
    "q": "Which mineral is found in large quantities in Jharkhand?",
    "o": [
     "Kyanite",
@@ -9706,7 +10006,7 @@
    "e": "Kyanite is found in Jharkhand."
   },
   {
-   "id": "static-gk-00647",
+   "id": "static-gk-00667",
    "q": "Which biosphere reserve or wetland is located in Tamil Nadu?",
    "o": [
     "Point Calimere",
@@ -9721,7 +10021,7 @@
    "e": "Point Calimere is located in Tamil Nadu."
   },
   {
-   "id": "static-gk-00648",
+   "id": "static-gk-00668",
    "q": "What is the capital of Angola?",
    "o": [
     "Malabo",
@@ -9736,7 +10036,7 @@
    "e": "The capital of Angola is Luanda."
   },
   {
-   "id": "static-gk-00649",
+   "id": "static-gk-00669",
    "q": "Which element has the chemical symbol Gd?",
    "o": [
     "Arsenic",
@@ -9751,7 +10051,7 @@
    "e": "Gd is the symbol of Gadolinium."
   },
   {
-   "id": "static-gk-00650",
+   "id": "static-gk-00670",
    "q": "What is the capital of Meghalaya?",
    "o": [
     "Raipur",
@@ -9766,7 +10066,7 @@
    "e": "The capital of Meghalaya is Shillong."
   },
   {
-   "id": "static-gk-00651",
+   "id": "static-gk-00671",
    "q": "Vande Mataram holds which of the following positions in India?",
    "o": [
     "National Song",
@@ -9781,7 +10081,7 @@
    "e": "Vande Mataram is the National Song of India."
   },
   {
-   "id": "static-gk-00652",
+   "id": "static-gk-00672",
    "q": "First Indian woman to become a judge of the Supreme Court is associated with which of the following?",
    "o": [
     "Aryabhata",
@@ -9796,7 +10096,7 @@
    "e": "First Indian woman to become a judge of the Supreme Court — Justice Fathima Beevi."
   },
   {
-   "id": "static-gk-00653",
+   "id": "static-gk-00673",
    "q": "Cheraw is a folk or classical dance form of which state?",
    "o": [
     "Mizoram",
@@ -9811,7 +10111,7 @@
    "e": "Cheraw belongs to Mizoram."
   },
   {
-   "id": "static-gk-00654",
+   "id": "static-gk-00674",
    "q": "Teej is a major festival of which state?",
    "o": [
     "Manipur",
@@ -9826,7 +10126,7 @@
    "e": "Teej is celebrated mainly in Rajasthan."
   },
   {
-   "id": "static-gk-00655",
+   "id": "static-gk-00675",
    "q": "The river Periyar originates from which of the following?",
    "o": [
     "Satopanth Glacier",
@@ -9841,7 +10141,7 @@
    "e": "Periyar originates from Sivagiri Hills."
   },
   {
-   "id": "static-gk-00656",
+   "id": "static-gk-00676",
    "q": "Which of the following dams is built on the river Narmada?",
    "o": [
     "Panchet Dam",
@@ -9856,7 +10156,7 @@
    "e": "Omkareshwar Dam is built on the Narmada."
   },
   {
-   "id": "static-gk-00657",
+   "id": "static-gk-00677",
    "q": "Hemis National Park is located in which state?",
    "o": [
     "Ladakh",
@@ -9871,7 +10171,7 @@
    "e": "Hemis National Park is located in Ladakh."
   },
   {
-   "id": "static-gk-00658",
+   "id": "static-gk-00678",
    "q": "Khardung La pass is located in which state or union territory?",
    "o": [
     "Kerala",
@@ -9886,7 +10186,7 @@
    "e": "Khardung La is located in Ladakh."
   },
   {
-   "id": "static-gk-00659",
+   "id": "static-gk-00679",
    "q": "What is the SI unit of Catalytic activity?",
    "o": [
     "Lumen",
@@ -9901,7 +10201,7 @@
    "e": "The SI unit of Catalytic activity is the Katal."
   },
   {
-   "id": "static-gk-00660",
+   "id": "static-gk-00680",
    "q": "Which instrument is used to measure Viscosity of liquids?",
    "o": [
     "Crescograph",
@@ -9916,7 +10216,7 @@
    "e": "Viscometer is used to measure Viscosity of liquids."
   },
   {
-   "id": "static-gk-00661",
+   "id": "static-gk-00681",
    "q": "Deficiency of which nutrient causes Ariboflavinosis?",
    "o": [
     "Sodium",
@@ -9931,7 +10231,7 @@
    "e": "Deficiency of Vitamin B2 causes Ariboflavinosis."
   },
   {
-   "id": "static-gk-00662",
+   "id": "static-gk-00682",
    "q": "Who is credited with Jet engine?",
    "o": [
     "Thomas Alva Edison",
@@ -9946,7 +10246,7 @@
    "e": "Jet engine — Frank Whittle."
   },
   {
-   "id": "static-gk-00663",
+   "id": "static-gk-00683",
    "q": "What is the chemical name of Oil of vitriol?",
    "o": [
     "Sodium tetraborate (Na2B4O7.10H2O)",
@@ -9961,7 +10261,7 @@
    "e": "Oil of vitriol is Sulphuric acid (H2SO4)."
   },
   {
-   "id": "static-gk-00664",
+   "id": "static-gk-00684",
    "q": "Which branch of science deals with Garden cultivation?",
    "o": [
     "Biology",
@@ -9976,7 +10276,7 @@
    "e": "Horticulture deals with Garden cultivation."
   },
   {
-   "id": "static-gk-00665",
+   "id": "static-gk-00685",
    "q": "Which planet or body is described as: Nebula?",
    "o": [
     "Earth",
@@ -9991,7 +10291,7 @@
    "e": "Nebula — Nebula."
   },
   {
-   "id": "static-gk-00666",
+   "id": "static-gk-00686",
    "q": "Srinivasa Ramanujan is known for which of the following?",
    "o": [
     "Laws of falling bodies and telescope studies",
@@ -10006,7 +10306,7 @@
    "e": "Srinivasa Ramanujan is known for Number theory."
   },
   {
-   "id": "static-gk-00667",
+   "id": "static-gk-00687",
    "q": "Reserve Bank of India is best described as which of the following?",
    "o": [
     "Administered by the President through administrators",
@@ -10021,7 +10321,7 @@
    "e": "Reserve Bank of India — Central bank and monetary authority."
   },
   {
-   "id": "static-gk-00668",
+   "id": "static-gk-00688",
    "q": "On which date is World Environment Day observed?",
    "o": [
     "17 November",
@@ -10036,7 +10336,7 @@
    "e": "World Environment Day is observed on 5 June."
   },
   {
-   "id": "static-gk-00669",
+   "id": "static-gk-00689",
    "q": "Where is the headquarters of New Development Bank?",
    "o": [
     "Shanghai",
@@ -10051,7 +10351,7 @@
    "e": "New Development Bank is headquartered at Shanghai."
   },
   {
-   "id": "static-gk-00670",
+   "id": "static-gk-00690",
    "q": "Indian Premier League is associated with which sport?",
    "o": [
     "Football",
@@ -10066,7 +10366,7 @@
    "e": "Indian Premier League is associated with Cricket."
   },
   {
-   "id": "static-gk-00671",
+   "id": "static-gk-00691",
    "q": "Vyas Samman is associated with which of the following?",
    "o": [
     "Third highest military decoration of India",
@@ -10081,7 +10381,7 @@
    "e": "Vyas Samman — Indian literary award."
   },
   {
-   "id": "static-gk-00672",
+   "id": "static-gk-00692",
    "q": "First Secretary-General of the United Nations is associated with which of the following?",
    "o": [
     "New Zealand",
@@ -10096,7 +10396,7 @@
    "e": "First Secretary-General of the United Nations — Trygve Lie."
   },
   {
-   "id": "static-gk-00673",
+   "id": "static-gk-00693",
    "q": "Which is the longest river in Africa?",
    "o": [
     "Amazon Rainforest",
@@ -10111,7 +10411,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "static-gk-00674",
+   "id": "static-gk-00694",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Alluvial soil - Contains excess salt, found in dry coastal areas",
@@ -10126,7 +10426,7 @@
    "e": "Only Alluvial soil - Most fertile soil, found in the northern plains is correctly matched."
   },
   {
-   "id": "static-gk-00675",
+   "id": "static-gk-00695",
    "q": "Which mineral is found in large quantities in Rajasthan?",
    "o": [
     "Natural gas",
@@ -10141,7 +10441,7 @@
    "e": "Rock phosphate is found in Rajasthan."
   },
   {
-   "id": "static-gk-00676",
+   "id": "static-gk-00696",
    "q": "Which biosphere reserve or wetland is located in Rajasthan?",
    "o": [
     "Seshachalam Biosphere Reserve",
@@ -10156,7 +10456,7 @@
    "e": "Sambhar Lake is located in Rajasthan."
   },
   {
-   "id": "static-gk-00677",
+   "id": "static-gk-00697",
    "q": "What is the capital of Burkina Faso?",
    "o": [
     "Ouagadougou",
@@ -10171,7 +10471,7 @@
    "e": "The capital of Burkina Faso is Ouagadougou."
   },
   {
-   "id": "static-gk-00678",
+   "id": "static-gk-00698",
    "q": "Which element has the chemical symbol Hs?",
    "o": [
     "Seaborgium",
@@ -10186,7 +10486,7 @@
    "e": "Hs is the symbol of Hassium."
   },
   {
-   "id": "static-gk-00679",
+   "id": "static-gk-00699",
    "q": "What is the capital of Madhya Pradesh?",
    "o": [
     "Patna",
@@ -10201,7 +10501,7 @@
    "e": "The capital of Madhya Pradesh is Bhopal."
   },
   {
-   "id": "static-gk-00680",
+   "id": "static-gk-00700",
    "q": "Lion Capital of Ashoka holds which of the following positions in India?",
    "o": [
     "National Flower",
@@ -10216,7 +10516,7 @@
    "e": "Lion Capital of Ashoka is the National Emblem of India."
   },
   {
-   "id": "static-gk-00681",
+   "id": "static-gk-00701",
    "q": "First Indian Prime Minister to visit China is associated with which of the following?",
    "o": [
     "Rakesh Sharma",
@@ -10231,7 +10531,7 @@
    "e": "First Indian Prime Minister to visit China — Jawaharlal Nehru."
   },
   {
-   "id": "static-gk-00682",
+   "id": "static-gk-00702",
    "q": "Kolattam is a folk or classical dance form of which state?",
    "o": [
     "Gujarat",
@@ -10246,7 +10546,7 @@
    "e": "Kolattam belongs to Andhra Pradesh."
   },
   {
-   "id": "static-gk-00683",
+   "id": "static-gk-00703",
    "q": "Chapchar Kut is a major festival of which state?",
    "o": [
     "Ladakh",
@@ -10261,7 +10561,7 @@
    "e": "Chapchar Kut is celebrated mainly in Mizoram."
   },
   {
-   "id": "static-gk-00684",
+   "id": "static-gk-00704",
    "q": "The river Vaigai originates from which of the following?",
    "o": [
     "Amarkantak",
@@ -10276,7 +10576,7 @@
    "e": "Vaigai originates from Varusanadu Hills."
   },
   {
-   "id": "static-gk-00685",
+   "id": "static-gk-00705",
    "q": "Which of the following dams is built on the river Bhavani?",
    "o": [
     "Baglihar Dam",
@@ -10291,7 +10591,7 @@
    "e": "Bhavani Sagar Dam is built on the Bhavani."
   },
   {
-   "id": "static-gk-00686",
+   "id": "static-gk-00706",
    "q": "Sunderbans Tiger Reserve is located in which state?",
    "o": [
     "West Bengal",
@@ -10306,7 +10606,7 @@
    "e": "Sunderbans Tiger Reserve is located in West Bengal."
   },
   {
-   "id": "static-gk-00687",
+   "id": "static-gk-00707",
    "q": "Pir Panjal Pass pass is located in which state or union territory?",
    "o": [
     "Sikkim",
@@ -10321,7 +10621,7 @@
    "e": "Pir Panjal Pass is located in Jammu and Kashmir."
   },
   {
-   "id": "static-gk-00688",
+   "id": "static-gk-00708",
    "q": "What is the SI unit of Plane angle?",
    "o": [
     "Newton",
@@ -10336,7 +10636,7 @@
    "e": "The SI unit of Plane angle is the Radian."
   },
   {
-   "id": "static-gk-00689",
+   "id": "static-gk-00709",
    "q": "Which instrument is used to measure Hearing sensitivity?",
    "o": [
     "Audiometer",
@@ -10351,7 +10651,7 @@
    "e": "Audiometer is used to measure Hearing sensitivity."
   },
   {
-   "id": "static-gk-00690",
+   "id": "static-gk-00710",
    "q": "Which disease is caused by the deficiency of Vitamin B2?",
    "o": [
     "Ariboflavinosis",
@@ -10366,7 +10666,7 @@
    "e": "Deficiency of Vitamin B2 causes Ariboflavinosis."
   },
   {
-   "id": "static-gk-00691",
+   "id": "static-gk-00711",
    "q": "Who is credited with Transistor?",
    "o": [
     "John Bardeen and colleagues",
@@ -10381,7 +10681,7 @@
    "e": "Transistor — John Bardeen and colleagues."
   },
   {
-   "id": "static-gk-00692",
+   "id": "static-gk-00712",
    "q": "What is the chemical name of Milk of magnesia?",
    "o": [
     "Magnesium hydroxide (Mg(OH)2)",
@@ -10396,7 +10696,7 @@
    "e": "Milk of magnesia is Magnesium hydroxide (Mg(OH)2)."
   },
   {
-   "id": "static-gk-00693",
+   "id": "static-gk-00713",
    "q": "Which branch of science deals with Tissues?",
    "o": [
     "Histology",
@@ -10411,7 +10711,7 @@
    "e": "Histology deals with Tissues."
   },
   {
-   "id": "static-gk-00694",
+   "id": "static-gk-00714",
    "q": "Which planet or body is described as: Saturn?",
    "o": [
     "Titan",
@@ -10426,7 +10726,7 @@
    "e": "Titan — Saturn."
   },
   {
-   "id": "static-gk-00695",
+   "id": "static-gk-00715",
    "q": "Alessandro Volta is known for which of the following?",
    "o": [
     "Electric battery",
@@ -10441,7 +10741,7 @@
    "e": "Alessandro Volta is known for Electric battery."
   },
   {
-   "id": "static-gk-00696",
+   "id": "static-gk-00716",
    "q": "Rajya Sabha is best described as which of the following?",
    "o": [
     "Audits government accounts",
@@ -10456,7 +10756,7 @@
    "e": "Rajya Sabha — Council of States, permanent house."
   },
   {
-   "id": "static-gk-00697",
+   "id": "static-gk-00717",
    "q": "On which date is International Day of Education observed?",
    "o": [
     "24 January",
@@ -10471,7 +10771,7 @@
    "e": "International Day of Education is observed on 24 January."
   },
   {
-   "id": "static-gk-00698",
+   "id": "static-gk-00718",
    "q": "Where is the headquarters of World Wide Fund for Nature?",
    "o": [
     "Manila",
@@ -10486,7 +10786,7 @@
    "e": "World Wide Fund for Nature is headquartered at Gland."
   },
   {
-   "id": "static-gk-00699",
+   "id": "static-gk-00719",
    "q": "Irani Cup is associated with which sport?",
    "o": [
     "Badminton",
@@ -10501,7 +10801,7 @@
    "e": "Irani Cup is associated with Cricket."
   },
   {
-   "id": "static-gk-00700",
+   "id": "static-gk-00720",
    "q": "Dronacharya Award is associated with which of the following?",
    "o": [
     "American award for music",
@@ -10516,7 +10816,7 @@
    "e": "Dronacharya Award — Coaching excellence in Indian sports."
   },
   {
-   "id": "static-gk-00701",
+   "id": "static-gk-00721",
    "q": "First person to climb Mount Everest is associated with which of the following?",
    "o": [
     "Rabindranath Tagore",
@@ -10531,7 +10831,7 @@
    "e": "First person to climb Mount Everest — Edmund Hillary."
   },
   {
-   "id": "static-gk-00702",
+   "id": "static-gk-00722",
    "q": "Which country shares the longest border with India?",
    "o": [
     "Bangladesh",
@@ -10546,7 +10846,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "static-gk-00703",
+   "id": "static-gk-00723",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Alluvial soil - Also called regur, ideal for cotton",
@@ -10561,7 +10861,7 @@
    "e": "Only Alluvial soil - Most fertile soil, found in the northern plains is correctly matched."
   },
   {
-   "id": "static-gk-00704",
+   "id": "static-gk-00724",
    "q": "Which mineral is found in large quantities in Jharkhand?",
    "o": [
     "Graphite",
@@ -10576,7 +10876,7 @@
    "e": "Uranium is found in Jharkhand."
   },
   {
-   "id": "static-gk-00705",
+   "id": "static-gk-00725",
    "q": "Which biosphere reserve or wetland is located in Sikkim?",
    "o": [
     "Keoladeo Ghana",
@@ -10591,7 +10891,7 @@
    "e": "Kanchenjunga Biosphere Reserve is located in Sikkim."
   },
   {
-   "id": "static-gk-00706",
+   "id": "static-gk-00726",
    "q": "What is the capital of Equatorial Guinea?",
    "o": [
     "Tbilisi",
@@ -10606,7 +10906,7 @@
    "e": "The capital of Equatorial Guinea is Malabo."
   },
   {
-   "id": "static-gk-00707",
+   "id": "static-gk-00727",
    "q": "Which element has the chemical symbol Xe?",
    "o": [
     "Calcium",
@@ -10621,7 +10921,7 @@
    "e": "Xe is the symbol of Xenon."
   },
   {
-   "id": "static-gk-00708",
+   "id": "static-gk-00728",
    "q": "What is the capital of Tamil Nadu?",
    "o": [
     "Chandigarh",
@@ -10636,7 +10936,7 @@
    "e": "The capital of Tamil Nadu is Chennai."
   },
   {
-   "id": "static-gk-00709",
+   "id": "static-gk-00729",
    "q": "Banyan holds which of the following positions in India?",
    "o": [
     "National Tree",
@@ -10651,7 +10951,7 @@
    "e": "Banyan is the National Tree of India."
   },
   {
-   "id": "static-gk-00710",
+   "id": "static-gk-00730",
    "q": "First Indian to win a Nobel Prize is associated with which of the following?",
    "o": [
     "Rabindranath Tagore",
@@ -10666,7 +10966,7 @@
    "e": "First Indian to win a Nobel Prize — Rabindranath Tagore."
   },
   {
-   "id": "static-gk-00711",
+   "id": "static-gk-00731",
    "q": "Kummi is a folk or classical dance form of which state?",
    "o": [
     "Assam",
@@ -10681,7 +10981,7 @@
    "e": "Kummi belongs to Tamil Nadu."
   },
   {
-   "id": "static-gk-00712",
+   "id": "static-gk-00732",
    "q": "Bhagoria is a major festival of which state?",
    "o": [
     "Assam",
@@ -10696,7 +10996,7 @@
    "e": "Bhagoria is celebrated mainly in Madhya Pradesh."
   },
   {
-   "id": "static-gk-00713",
+   "id": "static-gk-00733",
    "q": "The river Godavari originates from which of the following?",
    "o": [
     "Trimbakeshwar",
@@ -10711,7 +11011,7 @@
    "e": "Godavari originates from Trimbakeshwar."
   },
   {
-   "id": "static-gk-00714",
+   "id": "static-gk-00734",
    "q": "Which of the following dams is built on the river Narmada?",
    "o": [
     "Baglihar Dam",
@@ -10726,7 +11026,7 @@
    "e": "Indira Sagar Dam is built on the Narmada."
   },
   {
-   "id": "static-gk-00715",
+   "id": "static-gk-00735",
    "q": "Udanti Sitanadi Tiger Reserve is located in which state?",
    "o": [
     "Bihar",
@@ -10741,7 +11041,7 @@
    "e": "Udanti Sitanadi Tiger Reserve is located in Chhattisgarh."
   },
   {
-   "id": "static-gk-00716",
+   "id": "static-gk-00736",
    "q": "Which of the following passes is located in Jammu and Kashmir?",
    "o": [
     "Se La Pass",
@@ -10756,7 +11056,7 @@
    "e": "Banihal Pass is a pass in Jammu and Kashmir."
   },
   {
-   "id": "static-gk-00717",
+   "id": "static-gk-00737",
    "q": "What is the SI unit of Amount of substance?",
    "o": [
     "Mole",
@@ -10771,7 +11071,7 @@
    "e": "The SI unit of Amount of substance is the Mole."
   },
   {
-   "id": "static-gk-00718",
+   "id": "static-gk-00738",
    "q": "Which instrument is used to measure Wind speed?",
    "o": [
     "Crescograph",
@@ -10786,7 +11086,7 @@
    "e": "Anemometer is used to measure Wind speed."
   },
   {
-   "id": "static-gk-00719",
+   "id": "static-gk-00739",
    "q": "Which disease is caused by the deficiency of Calcium?",
    "o": [
     "Osteoporosis",
@@ -10801,7 +11101,7 @@
    "e": "Deficiency of Calcium causes Osteoporosis."
   },
   {
-   "id": "static-gk-00720",
+   "id": "static-gk-00740",
    "q": "Who is credited with Laser?",
    "o": [
     "John Logie Baird",
@@ -10816,7 +11116,7 @@
    "e": "Laser — Theodore Maiman."
   },
   {
-   "id": "static-gk-00721",
+   "id": "static-gk-00741",
    "q": "What is the chemical name of Lime water?",
    "o": [
     "Sodium tetraborate (Na2B4O7.10H2O)",
@@ -10831,7 +11131,7 @@
    "e": "Lime water is Calcium hydroxide (Ca(OH)2)."
   },
   {
-   "id": "static-gk-00722",
+   "id": "static-gk-00742",
    "q": "Which branch of science deals with Cells?",
    "o": [
     "Botany",
@@ -10846,7 +11146,7 @@
    "e": "Cytology deals with Cells."
   },
   {
-   "id": "static-gk-00723",
+   "id": "static-gk-00743",
    "q": "Which of the following statements about Nebula is correct?",
    "o": [
     "Nebula",
@@ -10861,7 +11161,7 @@
    "e": "Nebula: Nebula."
   },
   {
-   "id": "static-gk-00724",
+   "id": "static-gk-00744",
    "q": "Andre Ampere is known for which of the following?",
    "o": [
     "Heliocentric model of the Solar System",
@@ -10876,7 +11176,7 @@
    "e": "Andre Ampere is known for Electrodynamics."
   },
   {
-   "id": "static-gk-00725",
+   "id": "static-gk-00745",
    "q": "Supreme Court of India is best described as which of the following?",
    "o": [
     "Apex judicial body of India",
@@ -10891,7 +11191,7 @@
    "e": "Supreme Court of India — Apex judicial body of India."
   },
   {
-   "id": "static-gk-00726",
+   "id": "static-gk-00746",
    "q": "On which date is International Mother Earth Day observed?",
    "o": [
     "22 April",
@@ -10906,7 +11206,7 @@
    "e": "International Mother Earth Day is observed on 22 April."
   },
   {
-   "id": "static-gk-00727",
+   "id": "static-gk-00747",
    "q": "Where is the headquarters of United Nations?",
    "o": [
     "Vienna",
@@ -10921,7 +11221,7 @@
    "e": "United Nations is headquartered at New York."
   },
   {
-   "id": "static-gk-00728",
+   "id": "static-gk-00748",
    "q": "Kalinga Prize is associated with which of the following?",
    "o": [
     "Highest peacetime gallantry award of India",
@@ -10936,7 +11236,7 @@
    "e": "Kalinga Prize — UNESCO award for popularisation of science."
   },
   {
-   "id": "static-gk-00729",
+   "id": "static-gk-00749",
    "q": "First country to send a human into space is associated with which of the following?",
    "o": [
     "Soviet Union",
@@ -10951,7 +11251,7 @@
    "e": "First country to send a human into space — Soviet Union."
   },
   {
-   "id": "static-gk-00730",
+   "id": "static-gk-00750",
    "q": "Which Indian city is called the City of Temples?",
    "o": [
     "Punjab",
@@ -10966,7 +11266,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "static-gk-00731",
+   "id": "static-gk-00751",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Mountain soil - Found in hilly and forest regions",
@@ -10981,7 +11281,7 @@
    "e": "Only Mountain soil - Found in hilly and forest regions is correctly matched."
   },
   {
-   "id": "static-gk-00732",
+   "id": "static-gk-00752",
    "q": "Which mineral is found in large quantities in Rajasthan?",
    "o": [
     "Graphite",
@@ -10996,7 +11296,7 @@
    "e": "Lead and zinc is found in Rajasthan."
   },
   {
-   "id": "static-gk-00733",
+   "id": "static-gk-00753",
    "q": "Which biosphere reserve or wetland is located in Manipur?",
    "o": [
     "Keoladeo Ghana",
@@ -11011,7 +11311,7 @@
    "e": "Loktak Lake is located in Manipur."
   },
   {
-   "id": "static-gk-00734",
+   "id": "static-gk-00754",
    "q": "What is the capital of New Zealand?",
    "o": [
     "Berlin",
@@ -11026,7 +11326,7 @@
    "e": "The capital of New Zealand is Wellington."
   },
   {
-   "id": "static-gk-00735",
+   "id": "static-gk-00755",
    "q": "Which element has the chemical symbol Tl?",
    "o": [
     "Platinum",
@@ -11041,7 +11341,7 @@
    "e": "Tl is the symbol of Thallium."
   },
   {
-   "id": "static-gk-00736",
+   "id": "static-gk-00756",
    "q": "What is the capital of Rajasthan?",
    "o": [
     "Raipur",
@@ -11056,7 +11356,7 @@
    "e": "The capital of Rajasthan is Jaipur."
   },
   {
-   "id": "static-gk-00737",
+   "id": "static-gk-00757",
    "q": "Ganges River Dolphin holds which of the following positions in India?",
    "o": [
     "National Calendar",
@@ -11071,7 +11371,7 @@
    "e": "Ganges River Dolphin is the National Aquatic Animal of India."
   },
   {
-   "id": "static-gk-00738",
+   "id": "static-gk-00758",
    "q": "First Indian woman IPS officer is associated with which of the following?",
    "o": [
     "Kiran Bedi",
@@ -11086,7 +11386,7 @@
    "e": "First Indian woman IPS officer — Kiran Bedi."
   },
   {
-   "id": "static-gk-00739",
+   "id": "static-gk-00759",
    "q": "Lavani is a folk or classical dance form of which state?",
    "o": [
     "Gujarat",
@@ -11101,7 +11401,7 @@
    "e": "Lavani belongs to Maharashtra."
   },
   {
-   "id": "static-gk-00740",
+   "id": "static-gk-00760",
    "q": "Me-Dam-Me-Phi is a major festival of which state?",
    "o": [
     "Rajasthan",
@@ -11116,7 +11416,7 @@
    "e": "Me-Dam-Me-Phi is celebrated mainly in Assam."
   },
   {
-   "id": "static-gk-00741",
+   "id": "static-gk-00761",
    "q": "The river Penna originates from which of the following?",
    "o": [
     "Nandi Hills",
@@ -11131,7 +11431,7 @@
    "e": "Penna originates from Nandi Hills."
   },
   {
-   "id": "static-gk-00742",
+   "id": "static-gk-00762",
    "q": "Which of the following dams is built on the river Chenab?",
    "o": [
     "Idukki Dam",
@@ -11146,7 +11446,7 @@
    "e": "Salal Dam is built on the Chenab."
   },
   {
-   "id": "static-gk-00743",
+   "id": "static-gk-00763",
    "q": "Ranthambore National Park is located in which state?",
    "o": [
     "Rajasthan",
@@ -11161,7 +11461,7 @@
    "e": "Ranthambore National Park is located in Rajasthan."
   },
   {
-   "id": "static-gk-00744",
+   "id": "static-gk-00764",
    "q": "Which of the following passes is located in Uttarakhand?",
    "o": [
     "Mana Pass",
@@ -11176,7 +11476,7 @@
    "e": "Mana Pass is a pass in Uttarakhand."
   },
   {
-   "id": "static-gk-00745",
+   "id": "static-gk-00765",
    "q": "What is the SI unit of Solid angle?",
    "o": [
     "Steradian",
@@ -11191,7 +11491,7 @@
    "e": "The SI unit of Solid angle is the Steradian."
   },
   {
-   "id": "static-gk-00746",
+   "id": "static-gk-00766",
    "q": "Which instrument is used to measure Earthquakes?",
    "o": [
     "Speedometer",
@@ -11206,7 +11506,7 @@
    "e": "Seismograph is used to measure Earthquakes."
   },
   {
-   "id": "static-gk-00747",
+   "id": "static-gk-00767",
    "q": "Which disease is caused by the deficiency of Vitamin B3?",
    "o": [
     "Pellagra",
@@ -11221,7 +11521,7 @@
    "e": "Deficiency of Vitamin B3 causes Pellagra."
   },
   {
-   "id": "static-gk-00748",
+   "id": "static-gk-00768",
    "q": "Who is credited with Refrigerator?",
    "o": [
     "Henry Cavendish",
@@ -11236,7 +11536,7 @@
    "e": "Refrigerator — Jacob Perkins."
   },
   {
-   "id": "static-gk-00749",
+   "id": "static-gk-00769",
    "q": "What is the chemical name of Plaster of Paris?",
    "o": [
     "Magnesium sulphate (MgSO4.7H2O)",
@@ -11251,7 +11551,7 @@
    "e": "Plaster of Paris is Calcium sulphate hemihydrate (CaSO4.1/2H2O)."
   },
   {
-   "id": "static-gk-00750",
+   "id": "static-gk-00770",
    "q": "Which branch of science deals with Classification of organisms?",
    "o": [
     "Nuclear physics",
@@ -11266,7 +11566,7 @@
    "e": "Taxonomy deals with Classification of organisms."
   },
   {
-   "id": "static-gk-00751",
+   "id": "static-gk-00771",
    "q": "Which of the following statements about Asteroid is correct?",
    "o": [
     "Mars",
@@ -11281,7 +11581,7 @@
    "e": "Asteroid: Asteroid."
   },
   {
-   "id": "static-gk-00752",
+   "id": "static-gk-00772",
    "q": "Lord Kelvin is known for which of the following?",
    "o": [
     "Missile and space launch technology",
@@ -11296,7 +11596,7 @@
    "e": "Lord Kelvin is known for Absolute temperature scale."
   },
   {
-   "id": "static-gk-00753",
+   "id": "static-gk-00773",
    "q": "NITI Aayog Vice Chairman is best described as which of the following?",
    "o": [
     "Deputy to the Prime Minister in the policy think tank",
@@ -11311,7 +11611,7 @@
    "e": "NITI Aayog Vice Chairman — Deputy to the Prime Minister in the policy think tank."
   },
   {
-   "id": "static-gk-00754",
+   "id": "static-gk-00774",
    "q": "On which date is World Cities Day observed?",
    "o": [
     "20 June",
@@ -11326,7 +11626,7 @@
    "e": "World Cities Day is observed on 31 October."
   },
   {
-   "id": "static-gk-00755",
+   "id": "static-gk-00775",
    "q": "Where is the headquarters of World Intellectual Property Organization?",
    "o": [
     "Geneva",
@@ -11341,7 +11641,7 @@
    "e": "World Intellectual Property Organization is headquartered at Geneva."
   },
   {
-   "id": "static-gk-00756",
+   "id": "static-gk-00776",
    "q": "World Test Championship is associated with which sport?",
    "o": [
     "Football",
@@ -11356,7 +11656,7 @@
    "e": "World Test Championship is associated with Cricket."
   },
   {
-   "id": "static-gk-00757",
+   "id": "static-gk-00777",
    "q": "Indira Gandhi Prize is associated with which of the following?",
    "o": [
     "Highest sporting honour of India",
@@ -11371,7 +11671,7 @@
    "e": "Indira Gandhi Prize — Indian award for peace, disarmament and development."
   },
   {
-   "id": "static-gk-00758",
+   "id": "static-gk-00778",
    "q": "First President of the United States is associated with which of the following?",
    "o": [
     "George Washington",
@@ -11386,7 +11686,7 @@
    "e": "First President of the United States — George Washington."
   },
   {
-   "id": "static-gk-00759",
+   "id": "static-gk-00779",
    "q": "Which is the largest rainforest in the world?",
    "o": [
     "Mount Kilimanjaro",
@@ -11401,7 +11701,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "static-gk-00760",
+   "id": "static-gk-00780",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Mountain soil - Found in hilly and forest regions",
@@ -11416,7 +11716,7 @@
    "e": "Only Mountain soil - Found in hilly and forest regions is correctly matched."
   },
   {
-   "id": "static-gk-00761",
+   "id": "static-gk-00781",
    "q": "Which mineral is found in large quantities in Andhra Pradesh?",
    "o": [
     "Chromite",
@@ -11431,7 +11731,7 @@
    "e": "Barytes is found in Andhra Pradesh."
   },
   {
-   "id": "static-gk-00762",
+   "id": "static-gk-00782",
    "q": "Which biosphere reserve or wetland is located in Odisha?",
    "o": [
     "Agasthyamalai Biosphere Reserve",
@@ -11446,7 +11746,7 @@
    "e": "Chilika Lake is located in Odisha."
   },
   {
-   "id": "static-gk-00763",
+   "id": "static-gk-00783",
    "q": "What is the capital of Madagascar?",
    "o": [
     "Sofia",
@@ -11461,7 +11761,7 @@
    "e": "The capital of Madagascar is Antananarivo."
   },
   {
-   "id": "static-gk-00764",
+   "id": "static-gk-00784",
    "q": "Which element has the chemical symbol Db?",
    "o": [
     "Rhenium",
@@ -11476,7 +11776,7 @@
    "e": "Db is the symbol of Dubnium."
   },
   {
-   "id": "static-gk-00765",
+   "id": "static-gk-00785",
    "q": "What is the capital of Sikkim?",
    "o": [
     "Gangtok",
@@ -11491,7 +11791,7 @@
    "e": "The capital of Sikkim is Gangtok."
   },
   {
-   "id": "static-gk-00766",
+   "id": "static-gk-00786",
    "q": "Mango holds which of the following positions in India?",
    "o": [
     "National Fruit",
@@ -11506,7 +11806,7 @@
    "e": "Mango is the National Fruit of India."
   },
   {
-   "id": "static-gk-00767",
+   "id": "static-gk-00787",
    "q": "First Governor-General of independent India is associated with which of the following?",
    "o": [
     "Lord Mountbatten",
@@ -11521,7 +11821,7 @@
    "e": "First Governor-General of independent India — Lord Mountbatten."
   },
   {
-   "id": "static-gk-00768",
+   "id": "static-gk-00788",
    "q": "Karagattam is a folk or classical dance form of which state?",
    "o": [
     "Rajasthan",
@@ -11536,7 +11836,7 @@
    "e": "Karagattam belongs to Tamil Nadu."
   },
   {
-   "id": "static-gk-00769",
+   "id": "static-gk-00789",
    "q": "Hemis Festival is a major festival of which state?",
    "o": [
     "Manipur",
@@ -11551,7 +11851,7 @@
    "e": "Hemis Festival is celebrated mainly in Ladakh."
   },
   {
-   "id": "static-gk-00770",
+   "id": "static-gk-00790",
    "q": "The river Beas originates from which of the following?",
    "o": [
     "Beas Kund",
@@ -11566,7 +11866,7 @@
    "e": "Beas originates from Beas Kund."
   },
   {
-   "id": "static-gk-00771",
+   "id": "static-gk-00791",
    "q": "Which of the following dams is built on the river Chenab?",
    "o": [
     "Farakka Barrage",
@@ -11581,7 +11881,7 @@
    "e": "Baglihar Dam is built on the Chenab."
   },
   {
-   "id": "static-gk-00772",
+   "id": "static-gk-00792",
    "q": "Indira Gandhi Wildlife Sanctuary is located in which state?",
    "o": [
     "Tamil Nadu",
@@ -11596,7 +11896,7 @@
    "e": "Indira Gandhi Wildlife Sanctuary is located in Tamil Nadu."
   },
   {
-   "id": "static-gk-00773",
+   "id": "static-gk-00793",
    "q": "Which of the following passes is located in Ladakh?",
    "o": [
     "Thal Ghat",
@@ -11611,7 +11911,7 @@
    "e": "Zoji La is a pass in Ladakh."
   },
   {
-   "id": "static-gk-00774",
+   "id": "static-gk-00794",
    "q": "What is the SI unit of Frequency?",
    "o": [
     "Hertz",
@@ -11626,7 +11926,7 @@
    "e": "The SI unit of Frequency is the Hertz."
   },
   {
-   "id": "static-gk-00775",
+   "id": "static-gk-00795",
    "q": "Which instrument is used to measure Altitude?",
    "o": [
     "Audiometer",
@@ -11641,7 +11941,7 @@
    "e": "Altimeter is used to measure Altitude."
   },
   {
-   "id": "static-gk-00776",
+   "id": "static-gk-00796",
    "q": "Which disease is caused by the deficiency of Vitamin B12?",
    "o": [
     "Goitre",
@@ -11656,7 +11956,7 @@
    "e": "Deficiency of Vitamin B12 causes Pernicious anaemia."
   },
   {
-   "id": "static-gk-00777",
+   "id": "static-gk-00797",
    "q": "Who is credited with Smallpox vaccine (modern)?",
    "o": [
     "Watson and Crick",
@@ -11671,7 +11971,7 @@
    "e": "Smallpox vaccine (modern) — Edward Jenner."
   },
   {
-   "id": "static-gk-00778",
+   "id": "static-gk-00798",
    "q": "What is the chemical name of White vitriol?",
    "o": [
     "Magnesium hydroxide (Mg(OH)2)",
@@ -11686,7 +11986,7 @@
    "e": "White vitriol is Zinc sulphate (ZnSO4.7H2O)."
   },
   {
-   "id": "static-gk-00779",
+   "id": "static-gk-00799",
    "q": "Which branch of science deals with Electricity and magnetism?",
    "o": [
     "Acoustics",
@@ -11701,7 +12001,7 @@
    "e": "Electromagnetism deals with Electricity and magnetism."
   },
   {
-   "id": "static-gk-00780",
+   "id": "static-gk-00800",
    "q": "Which of the following statements about Mars is correct?",
    "o": [
     "Black hole",
@@ -11716,7 +12016,7 @@
    "e": "Mars: Fourth."
   },
   {
-   "id": "static-gk-00781",
+   "id": "static-gk-00801",
    "q": "Vikram Sarabhai is known for which of the following?",
    "o": [
     "Bose-Einstein statistics",
@@ -11731,7 +12031,7 @@
    "e": "Vikram Sarabhai is known for Indian space programme."
   },
   {
-   "id": "static-gk-00782",
+   "id": "static-gk-00802",
    "q": "National Human Rights Commission is best described as which of the following?",
    "o": [
     "Protects human rights in India",
@@ -11746,7 +12046,7 @@
    "e": "National Human Rights Commission — Protects human rights in India."
   },
   {
-   "id": "static-gk-00783",
+   "id": "static-gk-00803",
    "q": "On which date is World Heart Day observed?",
    "o": [
     "29 September",
@@ -11761,7 +12061,7 @@
    "e": "World Heart Day is observed on 29 September."
   },
   {
-   "id": "static-gk-00784",
+   "id": "static-gk-00804",
    "q": "Where is the headquarters of International Olympic Committee?",
    "o": [
     "Lausanne",
@@ -11776,7 +12076,7 @@
    "e": "International Olympic Committee is headquartered at Lausanne."
   },
   {
-   "id": "static-gk-00785",
+   "id": "static-gk-00805",
    "q": "Ranji Trophy is associated with which sport?",
    "o": [
     "Football",
@@ -11791,7 +12091,7 @@
    "e": "Ranji Trophy is associated with Cricket."
   },
   {
-   "id": "static-gk-00786",
+   "id": "static-gk-00806",
    "q": "Booker Prize is associated with which of the following?",
    "o": [
     "British award for fiction",
@@ -11806,7 +12106,7 @@
    "e": "Booker Prize — British award for fiction."
   },
   {
-   "id": "static-gk-00787",
+   "id": "static-gk-00807",
    "q": "First person to walk on the Moon is associated with which of the following?",
    "o": [
     "Athens",
@@ -11821,7 +12121,7 @@
    "e": "First person to walk on the Moon — Neil Armstrong."
   },
   {
-   "id": "static-gk-00788",
+   "id": "static-gk-00808",
    "q": "Which is the busiest ocean strait in the world?",
    "o": [
     "Strait of Malacca",
@@ -11836,7 +12136,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "static-gk-00789",
+   "id": "static-gk-00809",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Saline soil - Formed by leaching in high rainfall areas",
@@ -11851,7 +12151,7 @@
    "e": "Only Saline soil - Contains excess salt, found in dry coastal areas is correctly matched."
   },
   {
-   "id": "static-gk-00790",
+   "id": "static-gk-00810",
    "q": "Which mineral is found in large quantities in Odisha?",
    "o": [
     "Diamond",
@@ -11866,7 +12166,7 @@
    "e": "Graphite is found in Odisha."
   },
   {
-   "id": "static-gk-00791",
+   "id": "static-gk-00811",
    "q": "Which biosphere reserve or wetland is located in Rajasthan?",
    "o": [
     "Panna Biosphere Reserve",
@@ -11881,7 +12181,7 @@
    "e": "Keoladeo Ghana is located in Rajasthan."
   },
   {
-   "id": "static-gk-00792",
+   "id": "static-gk-00812",
    "q": "What is the capital of Djibouti?",
    "o": [
     "Vientiane",
@@ -11896,7 +12196,7 @@
    "e": "The capital of Djibouti is Djibouti."
   },
   {
-   "id": "static-gk-00793",
+   "id": "static-gk-00813",
    "q": "Which element has the chemical symbol Sm?",
    "o": [
     "Samarium",
@@ -11911,7 +12211,7 @@
    "e": "Sm is the symbol of Samarium."
   },
   {
-   "id": "static-gk-00794",
+   "id": "static-gk-00814",
    "q": "What is the capital of Tripura?",
    "o": [
     "Agartala",
@@ -11926,7 +12226,7 @@
    "e": "The capital of Tripura is Agartala."
   },
   {
-   "id": "static-gk-00795",
+   "id": "static-gk-00815",
    "q": "Indian Peacock holds which of the following positions in India?",
    "o": [
     "National Tree",
@@ -11941,7 +12241,7 @@
    "e": "Indian Peacock is the National Bird of India."
   },
   {
-   "id": "static-gk-00796",
+   "id": "static-gk-00816",
    "q": "First Indian Institute of Technology was set up at is associated with which of the following?",
    "o": [
     "Karnam Malleswari",
@@ -11956,7 +12256,7 @@
    "e": "First Indian Institute of Technology was set up at — Kharagpur."
   },
   {
-   "id": "static-gk-00797",
+   "id": "static-gk-00817",
    "q": "Odissi is a folk or classical dance form of which state?",
    "o": [
     "Kerala",
@@ -11971,7 +12271,7 @@
    "e": "Odissi belongs to Odisha."
   },
   {
-   "id": "static-gk-00798",
+   "id": "static-gk-00818",
    "q": "Ambubachi Mela is a major festival of which state?",
    "o": [
     "Arunachal Pradesh",
@@ -11986,7 +12286,7 @@
    "e": "Ambubachi Mela is celebrated mainly in Assam."
   },
   {
-   "id": "static-gk-00799",
+   "id": "static-gk-00819",
    "q": "The river Gomti originates from which of the following?",
    "o": [
     "Mapchachungo",
@@ -12001,7 +12301,7 @@
    "e": "Gomti originates from Pilibhit."
   },
   {
-   "id": "static-gk-00800",
+   "id": "static-gk-00820",
    "q": "Which of the following dams is built on the river Narmada?",
    "o": [
     "Hirakud Dam",
@@ -12016,7 +12316,7 @@
    "e": "Sardar Sarovar Dam is built on the Narmada."
   },
   {
-   "id": "static-gk-00801",
+   "id": "static-gk-00821",
    "q": "Rajiv Gandhi Orang National Park is located in which state?",
    "o": [
     "Karnataka",
@@ -12031,7 +12331,7 @@
    "e": "Rajiv Gandhi Orang National Park is located in Assam."
   },
   {
-   "id": "static-gk-00802",
+   "id": "static-gk-00822",
    "q": "Which of the following passes is located in Ladakh?",
    "o": [
     "Pir Panjal Pass",
@@ -12046,7 +12346,7 @@
    "e": "Fotu La is a pass in Ladakh."
   },
   {
-   "id": "static-gk-00803",
+   "id": "static-gk-00823",
    "q": "What is the SI unit of Absorbed dose?",
    "o": [
     "Weber",
@@ -12061,7 +12361,7 @@
    "e": "The SI unit of Absorbed dose is the Gray."
   },
   {
-   "id": "static-gk-00804",
+   "id": "static-gk-00824",
    "q": "Which instrument is used to measure Rotational speed?",
    "o": [
     "Audiometer",
@@ -12076,7 +12376,7 @@
    "e": "Tachometer is used to measure Rotational speed."
   },
   {
-   "id": "static-gk-00805",
+   "id": "static-gk-00825",
    "q": "Which disease is caused by the deficiency of Fluorine?",
    "o": [
     "Tooth decay",
@@ -12091,7 +12391,7 @@
    "e": "Deficiency of Fluorine causes Tooth decay."
   },
   {
-   "id": "static-gk-00806",
+   "id": "static-gk-00826",
    "q": "Who is credited with Periodic table?",
    "o": [
     "Joseph Priestley",
@@ -12106,7 +12406,7 @@
    "e": "Periodic table — Dmitri Mendeleev."
   },
   {
-   "id": "static-gk-00807",
+   "id": "static-gk-00827",
    "q": "What is the chemical name of Salt cake?",
    "o": [
     "Magnesium hydroxide (Mg(OH)2)",
@@ -12121,7 +12421,7 @@
    "e": "Salt cake is Sodium sulphate (Na2SO4)."
   },
   {
-   "id": "static-gk-00808",
+   "id": "static-gk-00828",
    "q": "Which branch of science deals with Skin?",
    "o": [
     "Numismatics",
@@ -12136,7 +12436,7 @@
    "e": "Dermatology deals with Skin."
   },
   {
-   "id": "static-gk-00809",
+   "id": "static-gk-00829",
    "q": "Which of the following statements about Venus is correct?",
    "o": [
     "Venus",
@@ -12151,7 +12451,7 @@
    "e": "Venus: Venus."
   },
   {
-   "id": "static-gk-00810",
+   "id": "static-gk-00830",
    "q": "Thomas Edison is known for which of the following?",
    "o": [
     "Plant physiology and radio waves",
@@ -12166,7 +12466,7 @@
    "e": "Thomas Edison is known for Phonograph and practical electric bulb."
   },
   {
-   "id": "static-gk-00811",
+   "id": "static-gk-00831",
    "q": "Zilla Parishad is best described as which of the following?",
    "o": [
     "Head of the State Government",
@@ -12181,7 +12481,7 @@
    "e": "Zilla Parishad — Local body at the district level."
   },
   {
-   "id": "static-gk-00812",
+   "id": "static-gk-00832",
    "q": "On which date is World Animal Day observed?",
    "o": [
     "28 July",
@@ -12196,7 +12496,7 @@
    "e": "World Animal Day is observed on 4 October."
   },
   {
-   "id": "static-gk-00813",
+   "id": "static-gk-00833",
    "q": "Where is the headquarters of International Committee of the Red Cross?",
    "o": [
     "New York",
@@ -12211,7 +12511,7 @@
    "e": "International Committee of the Red Cross is headquartered at Geneva."
   },
   {
-   "id": "static-gk-00814",
+   "id": "static-gk-00834",
    "q": "Rovers Cup is associated with which sport?",
    "o": [
     "Badminton",
@@ -12226,7 +12526,7 @@
    "e": "Rovers Cup is associated with Football."
   },
   {
-   "id": "static-gk-00815",
+   "id": "static-gk-00835",
    "q": "Right Livelihood Award is associated with which of the following?",
    "o": [
     "Alternative Nobel Prize",
@@ -12241,7 +12541,7 @@
    "e": "Right Livelihood Award — Alternative Nobel Prize."
   },
   {
-   "id": "static-gk-00816",
+   "id": "static-gk-00836",
    "q": "First country to give women the vote is associated with which of the following?",
    "o": [
     "Marie Curie",
@@ -12256,7 +12556,7 @@
    "e": "First country to give women the vote — New Zealand."
   },
   {
-   "id": "static-gk-00817",
+   "id": "static-gk-00837",
    "q": "Which country is called the Playground of Europe?",
    "o": [
     "Andes",
@@ -12271,7 +12571,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "static-gk-00818",
+   "id": "static-gk-00838",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Saline soil - Sandy soil of arid regions",
@@ -12286,7 +12586,7 @@
    "e": "Only Saline soil - Contains excess salt, found in dry coastal areas is correctly matched."
   },
   {
-   "id": "static-gk-00819",
+   "id": "static-gk-00839",
    "q": "Which mineral is found in large quantities in Odisha?",
    "o": [
     "Iron ore",
@@ -12301,7 +12601,7 @@
    "e": "Manganese is found in Odisha."
   },
   {
-   "id": "static-gk-00820",
+   "id": "static-gk-00840",
    "q": "Which biosphere reserve or wetland is located in Tamil Nadu?",
    "o": [
     "Nanda Devi Biosphere Reserve",
@@ -12316,7 +12616,7 @@
    "e": "Gulf of Mannar Biosphere Reserve is located in Tamil Nadu."
   },
   {
-   "id": "static-gk-00821",
+   "id": "static-gk-00841",
    "q": "What is the capital of Burundi?",
    "o": [
     "Amsterdam",
@@ -12331,7 +12631,7 @@
    "e": "The capital of Burundi is Gitega."
   },
   {
-   "id": "static-gk-00822",
+   "id": "static-gk-00842",
    "q": "Which element has the chemical symbol No?",
    "o": [
     "Iodine",
@@ -12346,7 +12646,7 @@
    "e": "No is the symbol of Nobelium."
   },
   {
-   "id": "static-gk-00823",
+   "id": "static-gk-00843",
    "q": "Gandhinagar is the capital of which Indian state?",
    "o": [
     "Sikkim",
@@ -12361,7 +12661,7 @@
    "e": "Gandhinagar is the capital of Gujarat."
   },
   {
-   "id": "static-gk-00824",
+   "id": "static-gk-00844",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "National Song - Saka Calendar",
@@ -12376,7 +12676,7 @@
    "e": "Only National Song - Vande Mataram is correctly matched."
   },
   {
-   "id": "static-gk-00825",
+   "id": "static-gk-00845",
    "q": "First woman President of India is associated with which of the following?",
    "o": [
     "Jawaharlal Nehru",
@@ -12391,7 +12691,7 @@
    "e": "First woman President of India — Pratibha Patil."
   },
   {
-   "id": "static-gk-00826",
+   "id": "static-gk-00846",
    "q": "Kathak is a folk or classical dance form of which state?",
    "o": [
     "Jammu and Kashmir",
@@ -12406,7 +12706,7 @@
    "e": "Kathak belongs to Uttar Pradesh."
   },
   {
-   "id": "static-gk-00827",
+   "id": "static-gk-00847",
    "q": "Ganesh Chaturthi is a major festival of which state?",
    "o": [
     "West Bengal",
@@ -12421,7 +12721,7 @@
    "e": "Ganesh Chaturthi is celebrated mainly in Maharashtra."
   },
   {
-   "id": "static-gk-00828",
+   "id": "static-gk-00848",
    "q": "The river Sutlej originates from which of the following?",
    "o": [
     "Varusanadu Hills",
@@ -12436,7 +12736,7 @@
    "e": "Sutlej originates from Rakas Lake."
   },
   {
-   "id": "static-gk-00829",
+   "id": "static-gk-00849",
    "q": "Which of the following dams is built on the river Ganga?",
    "o": [
     "Sardar Sarovar Dam",
@@ -12451,7 +12751,7 @@
    "e": "Farakka Barrage is built on the Ganga."
   },
   {
-   "id": "static-gk-00830",
+   "id": "static-gk-00850",
    "q": "Panna National Park is located in which state?",
    "o": [
     "Madhya Pradesh",
@@ -12466,7 +12766,7 @@
    "e": "Panna National Park is located in Madhya Pradesh."
   },
   {
-   "id": "static-gk-00831",
+   "id": "static-gk-00851",
    "q": "Which of the following passes is located in Himachal Pradesh?",
    "o": [
     "Se La Pass",
@@ -12481,7 +12781,7 @@
    "e": "Shipki La is a pass in Himachal Pradesh."
   },
   {
-   "id": "static-gk-00832",
+   "id": "static-gk-00852",
    "q": "What is the SI unit of Temperature?",
    "o": [
     "Radian",
@@ -12496,7 +12796,7 @@
    "e": "The SI unit of Temperature is the Kelvin."
   },
   {
-   "id": "static-gk-00833",
+   "id": "static-gk-00853",
    "q": "Which instrument is used to measure Plant growth?",
    "o": [
     "Crescograph",
@@ -12511,7 +12811,7 @@
    "e": "Crescograph is used to measure Plant growth."
   },
   {
-   "id": "static-gk-00834",
+   "id": "static-gk-00854",
    "q": "Which disease is caused by the deficiency of Vitamin B7?",
    "o": [
     "Tetany",
@@ -12526,7 +12826,7 @@
    "e": "Deficiency of Vitamin B7 causes Dermatitis."
   },
   {
-   "id": "static-gk-00835",
+   "id": "static-gk-00855",
    "q": "Who is credited with Penicillin?",
    "o": [
     "Galileo Galilei",
@@ -12541,7 +12841,7 @@
    "e": "Penicillin — Alexander Fleming."
   },
   {
-   "id": "static-gk-00836",
+   "id": "static-gk-00856",
    "q": "What is the chemical name of Borax?",
    "o": [
     "Sodium tetraborate (Na2B4O7.10H2O)",
@@ -12556,7 +12856,7 @@
    "e": "Borax is Sodium tetraborate (Na2B4O7.10H2O)."
   },
   {
-   "id": "static-gk-00837",
+   "id": "static-gk-00857",
    "q": "Which branch of science deals with Diseases?",
    "o": [
     "Ichthyology",
@@ -12571,7 +12871,7 @@
    "e": "Pathology deals with Diseases."
   },
   {
-   "id": "static-gk-00838",
+   "id": "static-gk-00858",
    "q": "Which of the following statements about Neptune is correct?",
    "o": [
     "Supernova",
@@ -12586,7 +12886,7 @@
    "e": "Neptune: Eighth."
   },
   {
-   "id": "static-gk-00839",
+   "id": "static-gk-00859",
    "q": "Louis Pasteur is known for which of the following?",
    "o": [
     "Boyle's law of gases",
@@ -12601,7 +12901,7 @@
    "e": "Louis Pasteur is known for Germ theory and pasteurisation."
   },
   {
-   "id": "static-gk-00840",
+   "id": "static-gk-00860",
    "q": "Parliament of India is best described as which of the following?",
    "o": [
     "Council of States, permanent house",
@@ -12616,7 +12916,7 @@
    "e": "Parliament of India — Union legislature consisting of the President and two Houses."
   },
   {
-   "id": "static-gk-00841",
+   "id": "static-gk-00861",
    "q": "On which date is World Statistics Day observed?",
    "o": [
     "23 March",
@@ -12631,7 +12931,7 @@
    "e": "World Statistics Day is observed on 20 October."
   },
   {
-   "id": "static-gk-00842",
+   "id": "static-gk-00862",
    "q": "Where is the headquarters of United Nations Environment Programme?",
    "o": [
     "Brussels",
@@ -12646,7 +12946,7 @@
    "e": "United Nations Environment Programme is headquartered at Nairobi."
   },
   {
-   "id": "static-gk-00843",
+   "id": "static-gk-00863",
    "q": "UEFA Champions League is associated with which sport?",
    "o": [
     "Football",
@@ -12661,7 +12961,7 @@
    "e": "UEFA Champions League is associated with Football."
   },
   {
-   "id": "static-gk-00844",
+   "id": "static-gk-00864",
    "q": "Shaurya Chakra is associated with which of the following?",
    "o": [
     "Indian award for peace, disarmament and development",
@@ -12676,7 +12976,7 @@
    "e": "Shaurya Chakra — Third highest peacetime gallantry award of India."
   },
   {
-   "id": "static-gk-00845",
+   "id": "static-gk-00865",
    "q": "First person to sail solo around the world is associated with which of the following?",
    "o": [
     "Soviet Union",
@@ -12691,7 +12991,7 @@
    "e": "First person to sail solo around the world — Joshua Slocum."
   },
   {
-   "id": "static-gk-00846",
+   "id": "static-gk-00866",
    "q": "Which is the longest river in Asia?",
    "o": [
     "Lake Superior",
@@ -12706,7 +13006,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "static-gk-00847",
+   "id": "static-gk-00867",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Red soil - Formed from crystalline rocks, rich in iron",
@@ -12721,7 +13021,7 @@
    "e": "Only Red soil - Formed from crystalline rocks, rich in iron is correctly matched."
   },
   {
-   "id": "static-gk-00848",
+   "id": "static-gk-00868",
    "q": "Which mineral is found in large quantities in Madhya Pradesh?",
    "o": [
     "Manganese",
@@ -12736,7 +13036,7 @@
    "e": "Diamond is found in Madhya Pradesh."
   },
   {
-   "id": "static-gk-00849",
+   "id": "static-gk-00869",
    "q": "Which biosphere reserve or wetland is located in Madhya Pradesh?",
    "o": [
     "Gulf of Mannar Biosphere Reserve",
@@ -12751,7 +13051,7 @@
    "e": "Panna Biosphere Reserve is located in Madhya Pradesh."
   },
   {
-   "id": "static-gk-00850",
+   "id": "static-gk-00870",
    "q": "What is the capital of Peru?",
    "o": [
     "Kyiv",
@@ -12766,7 +13066,7 @@
    "e": "The capital of Peru is Lima."
   },
   {
-   "id": "static-gk-00851",
+   "id": "static-gk-00871",
    "q": "Which element has the chemical symbol Nb?",
    "o": [
     "Technetium",
@@ -12781,7 +13081,7 @@
    "e": "Nb is the symbol of Niobium."
   },
   {
-   "id": "static-gk-00852",
+   "id": "static-gk-00872",
    "q": "Bengaluru is the capital of which Indian state?",
    "o": [
     "Karnataka",
@@ -12796,7 +13096,7 @@
    "e": "Bengaluru is the capital of Karnataka."
   },
   {
-   "id": "static-gk-00853",
+   "id": "static-gk-00873",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "National Song - Indian Rupee",
@@ -12811,7 +13111,7 @@
    "e": "Only National Song - Vande Mataram is correctly matched."
   },
   {
-   "id": "static-gk-00854",
+   "id": "static-gk-00874",
    "q": "First Indian to swim across the English Channel is associated with which of the following?",
    "o": [
     "Rakesh Sharma",
@@ -12826,7 +13126,7 @@
    "e": "First Indian to swim across the English Channel — Mihir Sen."
   },
   {
-   "id": "static-gk-00855",
+   "id": "static-gk-00875",
    "q": "Theyyam is a folk or classical dance form of which state?",
    "o": [
     "Assam",
@@ -12841,7 +13141,7 @@
    "e": "Theyyam belongs to Kerala."
   },
   {
-   "id": "static-gk-00856",
+   "id": "static-gk-00876",
    "q": "Wangala Festival is a major festival of which state?",
    "o": [
     "Arunachal Pradesh",
@@ -12856,7 +13156,7 @@
    "e": "Wangala Festival is celebrated mainly in Meghalaya."
   },
   {
-   "id": "static-gk-00857",
+   "id": "static-gk-00877",
    "q": "The river Bhima originates from which of the following?",
    "o": [
     "Amarkantak",
@@ -12871,7 +13171,7 @@
    "e": "Bhima originates from Bhimashankar."
   },
   {
-   "id": "static-gk-00858",
+   "id": "static-gk-00878",
    "q": "Which of the following dams is built on the river Bhagirathi?",
    "o": [
     "Tehri Dam",
@@ -12886,7 +13186,7 @@
    "e": "Tehri Dam is built on the Bhagirathi."
   },
   {
-   "id": "static-gk-00859",
+   "id": "static-gk-00879",
    "q": "Rajgir Wildlife Sanctuary is located in which state?",
    "o": [
     "Madhya Pradesh",
@@ -12901,7 +13201,7 @@
    "e": "Rajgir Wildlife Sanctuary is located in Bihar."
   },
   {
-   "id": "static-gk-00860",
+   "id": "static-gk-00880",
    "q": "Which of the following passes is located in Sikkim?",
    "o": [
     "Nathu La",
@@ -12916,7 +13216,7 @@
    "e": "Nathu La is a pass in Sikkim."
   },
   {
-   "id": "static-gk-00861",
+   "id": "static-gk-00881",
    "q": "What is the SI unit of Viscosity (dynamic)?",
    "o": [
     "Newton",
@@ -12931,7 +13231,7 @@
    "e": "The SI unit of Viscosity (dynamic) is the Pascal second."
   },
   {
-   "id": "static-gk-00862",
+   "id": "static-gk-00882",
    "q": "Which instrument is used to measure Humidity?",
    "o": [
     "Calorimeter",
@@ -12946,7 +13246,7 @@
    "e": "Hygroscope is used to measure Humidity."
   },
   {
-   "id": "static-gk-00863",
+   "id": "static-gk-00883",
    "q": "Which disease is caused by the deficiency of Iron?",
    "o": [
     "Anaemia",
@@ -12961,7 +13261,7 @@
    "e": "Deficiency of Iron causes Anaemia."
   },
   {
-   "id": "static-gk-00864",
+   "id": "static-gk-00884",
    "q": "Who is credited with Radium?",
    "o": [
     "Albert Einstein",
@@ -12976,7 +13276,7 @@
    "e": "Radium — Marie Curie."
   },
   {
-   "id": "static-gk-00865",
+   "id": "static-gk-00885",
    "q": "What is the chemical name of Vinegar?",
    "o": [
     "Acetylsalicylic acid",
@@ -12991,7 +13291,7 @@
    "e": "Vinegar is Acetic acid (CH3COOH)."
   },
   {
-   "id": "static-gk-00866",
+   "id": "static-gk-00886",
    "q": "Which branch of science deals with Microorganisms?",
    "o": [
     "Astrophysics",
@@ -13006,7 +13306,7 @@
    "e": "Microbiology deals with Microorganisms."
   },
   {
-   "id": "static-gk-00867",
+   "id": "static-gk-00887",
    "q": "Which of the following statements about Halley's Comet is correct?",
    "o": [
     "Aurora",
@@ -13021,7 +13321,7 @@
    "e": "Halley's Comet: Halley's Comet."
   },
   {
-   "id": "static-gk-00868",
+   "id": "static-gk-00888",
    "q": "Michael Faraday is known for which of the following?",
    "o": [
     "Quantum theory",
@@ -13036,7 +13336,7 @@
    "e": "Michael Faraday is known for Electromagnetic induction."
   },
   {
-   "id": "static-gk-00869",
+   "id": "static-gk-00889",
    "q": "SEBI is best described as which of the following?",
    "o": [
     "Audits government accounts",
@@ -13051,7 +13351,7 @@
    "e": "SEBI — Regulator of the securities market."
   },
   {
-   "id": "static-gk-00870",
+   "id": "static-gk-00890",
    "q": "On which date is National Education Day (India) observed?",
    "o": [
     "10 October",
@@ -13066,7 +13366,7 @@
    "e": "National Education Day (India) is observed on 11 November."
   },
   {
-   "id": "static-gk-00871",
+   "id": "static-gk-00891",
    "q": "Where is the headquarters of United Nations Industrial Development Organization?",
    "o": [
     "Vienna",
@@ -13081,7 +13381,7 @@
    "e": "United Nations Industrial Development Organization is headquartered at Vienna."
   },
   {
-   "id": "static-gk-00872",
+   "id": "static-gk-00892",
    "q": "FIH Hockey World Cup is associated with which sport?",
    "o": [
     "Golf",
@@ -13096,7 +13396,7 @@
    "e": "FIH Hockey World Cup is associated with Hockey."
   },
   {
-   "id": "static-gk-00873",
+   "id": "static-gk-00893",
    "q": "Dhyan Chand Award is associated with which of the following?",
    "o": [
     "Highest award in Indian cinema",
@@ -13111,7 +13411,7 @@
    "e": "Dhyan Chand Award — Lifetime achievement in Indian sports."
   },
   {
-   "id": "static-gk-00874",
+   "id": "static-gk-00894",
    "q": "Which of the following achievements belongs to United States of America?",
    "o": [
     "First woman to climb Mount Everest",
@@ -13126,7 +13426,7 @@
    "e": "First country to land a man on the Moon belongs to United States of America."
   },
   {
-   "id": "static-gk-00875",
+   "id": "static-gk-00895",
    "q": "Which country is called the Land of the Midnight Sun?",
    "o": [
     "Surat",
@@ -13141,7 +13441,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "static-gk-00876",
+   "id": "static-gk-00896",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Red soil - Most fertile soil, found in the northern plains",
@@ -13156,7 +13456,7 @@
    "e": "Only Red soil - Formed from crystalline rocks, rich in iron is correctly matched."
   },
   {
-   "id": "static-gk-00877",
+   "id": "static-gk-00897",
    "q": "Which mineral is found in large quantities in Rajasthan?",
    "o": [
     "Copper",
@@ -13171,7 +13471,7 @@
    "e": "Copper is found in Rajasthan."
   },
   {
-   "id": "static-gk-00878",
+   "id": "static-gk-00898",
    "q": "Which biosphere reserve or wetland is located in Odisha?",
    "o": [
     "Simlipal Biosphere Reserve",
@@ -13186,7 +13486,7 @@
    "e": "Simlipal Biosphere Reserve is located in Odisha."
   },
   {
-   "id": "static-gk-00879",
+   "id": "static-gk-00899",
    "q": "What is the capital of Colombia?",
    "o": [
     "Sri Jayawardenepura Kotte",
@@ -13201,7 +13501,7 @@
    "e": "The capital of Colombia is Bogota."
   },
   {
-   "id": "static-gk-00880",
+   "id": "static-gk-00900",
    "q": "Which element has the chemical symbol Rb?",
    "o": [
     "Mendelevium",
@@ -13216,7 +13516,7 @@
    "e": "Rb is the symbol of Rubidium."
   },
   {
-   "id": "static-gk-00881",
+   "id": "static-gk-00901",
    "q": "Bhubaneswar is the capital of which Indian state?",
    "o": [
     "Haryana",
@@ -13231,7 +13531,7 @@
    "e": "Bhubaneswar is the capital of Odisha."
   },
   {
-   "id": "static-gk-00882",
+   "id": "static-gk-00902",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "National Anthem - Lion Capital of Ashoka",
@@ -13246,7 +13546,7 @@
    "e": "Only National Anthem - Jana Gana Mana is correctly matched."
   },
   {
-   "id": "static-gk-00883",
+   "id": "static-gk-00903",
    "q": "Which of the following descriptions matches Tenzing Norgay?",
    "o": [
     "First woman to win a Nobel Prize in India",
@@ -13261,7 +13561,7 @@
    "e": "Tenzing Norgay is associated with: First Indian to climb Mount Everest."
   },
   {
-   "id": "static-gk-00884",
+   "id": "static-gk-00904",
    "q": "Gambhira is a folk or classical dance form of which state?",
    "o": [
     "Uttar Pradesh",
@@ -13276,7 +13576,7 @@
    "e": "Gambhira belongs to West Bengal."
   },
   {
-   "id": "static-gk-00885",
+   "id": "static-gk-00905",
    "q": "Sangai Festival is a major festival of which state?",
    "o": [
     "West Bengal",
@@ -13291,7 +13591,7 @@
    "e": "Sangai Festival is celebrated mainly in Manipur."
   },
   {
-   "id": "static-gk-00886",
+   "id": "static-gk-00906",
    "q": "Sihawa is the origin of which river?",
    "o": [
     "Krishna",
@@ -13306,7 +13606,7 @@
    "e": "Sihawa is the origin of the river Mahanadi."
   },
   {
-   "id": "static-gk-00887",
+   "id": "static-gk-00907",
    "q": "Which of the following dams is built on the river Damodar?",
    "o": [
     "Sardar Sarovar Dam",
@@ -13321,7 +13621,7 @@
    "e": "Panchet Dam is built on the Damodar."
   },
   {
-   "id": "static-gk-00888",
+   "id": "static-gk-00908",
    "q": "Ramgarh Vishdhari Tiger Reserve is located in which state?",
    "o": [
     "Rajasthan",
@@ -13336,7 +13636,7 @@
    "e": "Ramgarh Vishdhari Tiger Reserve is located in Rajasthan."
   },
   {
-   "id": "static-gk-00889",
+   "id": "static-gk-00909",
    "q": "Which of the following passes is located in Arunachal Pradesh?",
    "o": [
     "Pangsau Pass",
@@ -13351,7 +13651,7 @@
    "e": "Pangsau Pass is a pass in Arunachal Pradesh."
   },
   {
-   "id": "static-gk-00890",
+   "id": "static-gk-00910",
    "q": "Which physical quantity is measured in Watt?",
    "o": [
     "Luminous intensity",
@@ -13366,7 +13666,7 @@
    "e": "Watt is the SI unit of Power."
   },
   {
-   "id": "static-gk-00891",
+   "id": "static-gk-00911",
    "q": "Which instrument is used to measure Atmospheric pressure?",
    "o": [
     "Chronometer",
@@ -13381,7 +13681,7 @@
    "e": "Barometer is used to measure Atmospheric pressure."
   },
   {
-   "id": "static-gk-00892",
+   "id": "static-gk-00912",
    "q": "Which disease is caused by the deficiency of Sodium?",
    "o": [
     "Scurvy",
@@ -13396,7 +13696,7 @@
    "e": "Deficiency of Sodium causes Dehydration."
   },
   {
-   "id": "static-gk-00893",
+   "id": "static-gk-00913",
    "q": "Who is credited with Bicycle?",
    "o": [
     "Wright Brothers",
@@ -13411,7 +13711,7 @@
    "e": "Bicycle — Karl von Drais."
   },
   {
-   "id": "static-gk-00894",
+   "id": "static-gk-00914",
    "q": "What is the chemical name of Common salt?",
    "o": [
     "Deuterium oxide (D2O)",
@@ -13426,7 +13726,7 @@
    "e": "Common salt is Sodium chloride (NaCl)."
   },
   {
-   "id": "static-gk-00895",
+   "id": "static-gk-00915",
    "q": "Which branch of science deals with Bacteria?",
    "o": [
     "Physics",
@@ -13441,7 +13741,7 @@
    "e": "Bacteriology deals with Bacteria."
   },
   {
-   "id": "static-gk-00896",
+   "id": "static-gk-00916",
    "q": "Which of the following statements about Ganymede is correct?",
    "o": [
     "Jupiter",
@@ -13456,7 +13756,7 @@
    "e": "Ganymede: Jupiter."
   },
   {
-   "id": "static-gk-00897",
+   "id": "static-gk-00917",
    "q": "Anders Celsius is known for which of the following?",
    "o": [
     "Laws of motion and gravitation",
@@ -13471,7 +13771,7 @@
    "e": "Anders Celsius is known for Centigrade temperature scale."
   },
   {
-   "id": "static-gk-00898",
+   "id": "static-gk-00918",
    "q": "Which institution is described as: Recommends distribution of taxes between the Centre and States?",
    "o": [
     "Election Commission of India",
@@ -13486,7 +13786,7 @@
    "e": "Recommends distribution of taxes between the Centre and States describes Finance Commission."
   },
   {
-   "id": "static-gk-00899",
+   "id": "static-gk-00919",
    "q": "On which date is Constitution Day (India) observed?",
    "o": [
     "14 November",
@@ -13501,7 +13801,7 @@
    "e": "Constitution Day (India) is observed on 26 November."
   },
   {
-   "id": "static-gk-00900",
+   "id": "static-gk-00920",
    "q": "Where is the headquarters of Comprehensive Nuclear-Test-Ban Treaty Organization?",
    "o": [
     "Beijing",
@@ -13516,7 +13816,7 @@
    "e": "Comprehensive Nuclear-Test-Ban Treaty Organization is headquartered at Vienna."
   },
   {
-   "id": "static-gk-00901",
+   "id": "static-gk-00921",
    "q": "Durand Cup is associated with which sport?",
    "o": [
     "Tennis",
@@ -13531,7 +13831,7 @@
    "e": "Durand Cup is associated with Football."
   },
   {
-   "id": "static-gk-00902",
+   "id": "static-gk-00922",
    "q": "Nobel Prize is associated with which of the following?",
    "o": [
     "British award for fiction",
@@ -13546,7 +13846,7 @@
    "e": "Nobel Prize — International award for Physics, Chemistry, Medicine, Literature, Peace and Economics."
   },
   {
-   "id": "static-gk-00903",
+   "id": "static-gk-00923",
    "q": "Which of the following achievements belongs to Uruguay?",
    "o": [
     "First FIFA World Cup was held in",
@@ -13561,7 +13861,7 @@
    "e": "First FIFA World Cup was held in belongs to Uruguay."
   },
   {
-   "id": "static-gk-00904",
+   "id": "static-gk-00924",
    "q": "Which is the largest river island in India?",
    "o": [
     "Seven",
@@ -13576,7 +13876,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "static-gk-00905",
+   "id": "static-gk-00925",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Laterite soil - Sandy soil of arid regions",
@@ -13591,7 +13891,7 @@
    "e": "Only Laterite soil - Formed by leaching in high rainfall areas is correctly matched."
   },
   {
-   "id": "static-gk-00906",
+   "id": "static-gk-00926",
    "q": "Which mineral is found in large quantities in Maharashtra?",
    "o": [
     "Manganese",
@@ -13606,7 +13906,7 @@
    "e": "Natural gas is found in Maharashtra."
   },
   {
-   "id": "static-gk-00907",
+   "id": "static-gk-00927",
    "q": "Which biosphere reserve or wetland is located in Andhra Pradesh?",
    "o": [
     "Gulf of Mannar Biosphere Reserve",
@@ -13621,7 +13921,7 @@
    "e": "Seshachalam Biosphere Reserve is located in Andhra Pradesh."
   },
   {
-   "id": "static-gk-00908",
+   "id": "static-gk-00928",
    "q": "What is the capital of Ireland?",
    "o": [
     "Mogadishu",
@@ -13636,7 +13936,7 @@
    "e": "The capital of Ireland is Dublin."
   },
   {
-   "id": "static-gk-00909",
+   "id": "static-gk-00929",
    "q": "Which element has the chemical symbol Ir?",
    "o": [
     "Meitnerium",
@@ -13651,7 +13951,7 @@
    "e": "Ir is the symbol of Iridium."
   },
   {
-   "id": "static-gk-00910",
+   "id": "static-gk-00930",
    "q": "Dispur is the capital of which Indian state?",
    "o": [
     "Assam",
@@ -13666,7 +13966,7 @@
    "e": "Dispur is the capital of Assam."
   },
   {
-   "id": "static-gk-00911",
+   "id": "static-gk-00931",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "National Anthem - Banyan",
@@ -13681,7 +13981,7 @@
    "e": "Only National Anthem - Jana Gana Mana is correctly matched."
   },
   {
-   "id": "static-gk-00912",
+   "id": "static-gk-00932",
    "q": "Which of the following descriptions matches Pratibha Patil?",
    "o": [
     "First Indian to win the Miss World title",
@@ -13696,7 +13996,7 @@
    "e": "Pratibha Patil is associated with: First woman President of India."
   },
   {
-   "id": "static-gk-00913",
+   "id": "static-gk-00933",
    "q": "Bharatanatyam is a folk or classical dance form of which state?",
    "o": [
     "Punjab",
@@ -13711,7 +14011,7 @@
    "e": "Bharatanatyam belongs to Tamil Nadu."
   },
   {
-   "id": "static-gk-00914",
+   "id": "static-gk-00934",
    "q": "Vishu is a major festival of which state?",
    "o": [
     "Arunachal Pradesh",
@@ -13726,7 +14026,7 @@
    "e": "Vishu is celebrated mainly in Kerala."
   },
   {
-   "id": "static-gk-00915",
+   "id": "static-gk-00935",
    "q": "Rakas Lake is the origin of which river?",
    "o": [
     "Tungabhadra",
@@ -13741,7 +14041,7 @@
    "e": "Rakas Lake is the origin of the river Sutlej."
   },
   {
-   "id": "static-gk-00916",
+   "id": "static-gk-00936",
    "q": "Which of the following dams is built on the river Krishna?",
    "o": [
     "Indira Sagar Dam",
@@ -13756,7 +14056,7 @@
    "e": "Nagarjuna Sagar Dam is built on the Krishna."
   },
   {
-   "id": "static-gk-00917",
+   "id": "static-gk-00937",
    "q": "Sanjay Gandhi National Park is located in which state?",
    "o": [
     "Maharashtra",
@@ -13771,7 +14071,7 @@
    "e": "Sanjay Gandhi National Park is located in Maharashtra."
   },
   {
-   "id": "static-gk-00918",
+   "id": "static-gk-00938",
    "q": "Which of the following passes is located in Himachal Pradesh?",
    "o": [
     "Zoji La",
@@ -13786,7 +14086,7 @@
    "e": "Rohtang Pass is a pass in Himachal Pradesh."
   },
   {
-   "id": "static-gk-00919",
+   "id": "static-gk-00939",
    "q": "Which physical quantity is measured in Kelvin?",
    "o": [
     "Entropy",
@@ -13801,7 +14101,7 @@
    "e": "Kelvin is the SI unit of Temperature."
   },
   {
-   "id": "static-gk-00920",
+   "id": "static-gk-00940",
    "q": "Which instrument is used to measure Gas pressure?",
    "o": [
     "Pyrometer",
@@ -13816,7 +14116,7 @@
    "e": "Manometer is used to measure Gas pressure."
   },
   {
-   "id": "static-gk-00921",
+   "id": "static-gk-00941",
    "q": "Which disease is caused by the deficiency of Zinc?",
    "o": [
     "Dehydration",
@@ -13831,7 +14131,7 @@
    "e": "Deficiency of Zinc causes Growth retardation."
   },
   {
-   "id": "static-gk-00922",
+   "id": "static-gk-00942",
    "q": "Who is credited with Electron?",
    "o": [
     "J. J. Thomson",
@@ -13846,7 +14146,7 @@
    "e": "Electron — J. J. Thomson."
   },
   {
-   "id": "static-gk-00923",
+   "id": "static-gk-00943",
    "q": "What is the chemical name of Caustic potash?",
    "o": [
     "Potassium aluminium sulphate",
@@ -13861,7 +14161,7 @@
    "e": "Caustic potash is Potassium hydroxide (KOH)."
   },
   {
-   "id": "static-gk-00924",
+   "id": "static-gk-00944",
    "q": "Which branch of science deals with Eyes?",
    "o": [
     "Ophthalmology",
@@ -13876,7 +14176,7 @@
    "e": "Ophthalmology deals with Eyes."
   },
   {
-   "id": "static-gk-00925",
+   "id": "static-gk-00945",
    "q": "Which of the following statements about Earth is correct?",
    "o": [
     "Moon",
@@ -13891,7 +14191,7 @@
    "e": "Earth: Earth."
   },
   {
-   "id": "static-gk-00926",
+   "id": "static-gk-00946",
    "q": "Alexander Graham Bell is known for which of the following?",
    "o": [
     "Telephone",
@@ -13906,7 +14206,7 @@
    "e": "Alexander Graham Bell is known for Telephone."
   },
   {
-   "id": "static-gk-00927",
+   "id": "static-gk-00947",
    "q": "Which institution is described as: Union legislature consisting of the President and two Houses?",
    "o": [
     "IRDAI",
@@ -13921,7 +14221,7 @@
    "e": "Union legislature consisting of the President and two Houses describes Parliament of India."
   },
   {
-   "id": "static-gk-00928",
+   "id": "static-gk-00948",
    "q": "On which date is World Wildlife Day observed?",
    "o": [
     "3 March",
@@ -13936,7 +14236,7 @@
    "e": "World Wildlife Day is observed on 3 March."
   },
   {
-   "id": "static-gk-00929",
+   "id": "static-gk-00949",
    "q": "Where is the headquarters of Board of Control for Cricket in India?",
    "o": [
     "Mumbai",
@@ -13951,7 +14251,7 @@
    "e": "Board of Control for Cricket in India is headquartered at Mumbai."
   },
   {
-   "id": "static-gk-00930",
+   "id": "static-gk-00950",
    "q": "Aga Khan Cup is associated with which sport?",
    "o": [
     "Hockey",
@@ -13966,7 +14266,7 @@
    "e": "Aga Khan Cup is associated with Hockey."
   },
   {
-   "id": "static-gk-00931",
+   "id": "static-gk-00951",
    "q": "Dada Saheb Phalke Award is associated with which of the following?",
    "o": [
     "International award for Physics, Chemistry, Medicine, Literature, Peace and Economics",
@@ -13981,7 +14281,7 @@
    "e": "Dada Saheb Phalke Award — Highest award in Indian cinema."
   },
   {
-   "id": "static-gk-00932",
+   "id": "static-gk-00952",
    "q": "Which of the following achievements belongs to Roger Bannister?",
    "o": [
     "First person to run a mile in under four minutes",
@@ -13996,7 +14296,7 @@
    "e": "First person to run a mile in under four minutes belongs to Roger Bannister."
   },
   {
-   "id": "static-gk-00933",
+   "id": "static-gk-00953",
    "q": "Which is the largest island in the world?",
    "o": [
     "Ahmedabad",
@@ -14011,7 +14311,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "static-gk-00934",
+   "id": "static-gk-00954",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Laterite soil - Contains excess salt, found in dry coastal areas",
@@ -14026,7 +14326,7 @@
    "e": "Only Laterite soil - Formed by leaching in high rainfall areas is correctly matched."
   },
   {
-   "id": "static-gk-00935",
+   "id": "static-gk-00955",
    "q": "Which mineral is found in large quantities in Odisha?",
    "o": [
     "Lead and zinc",
@@ -14041,7 +14341,7 @@
    "e": "Bauxite is found in Odisha."
   },
   {
-   "id": "static-gk-00936",
+   "id": "static-gk-00956",
    "q": "Which biosphere reserve or wetland is located in West Bengal?",
    "o": [
     "Loktak Lake",
@@ -14056,7 +14356,7 @@
    "e": "Sundarbans Biosphere Reserve is located in West Bengal."
   },
   {
-   "id": "static-gk-00937",
+   "id": "static-gk-00957",
    "q": "What is the capital of Ecuador?",
    "o": [
     "Thimphu",
@@ -14071,7 +14371,7 @@
    "e": "The capital of Ecuador is Quito."
   },
   {
-   "id": "static-gk-00938",
+   "id": "static-gk-00958",
    "q": "Which element has the chemical symbol Fm?",
    "o": [
     "Fermium",
@@ -14086,7 +14386,7 @@
    "e": "Fm is the symbol of Fermium."
   },
   {
-   "id": "static-gk-00939",
+   "id": "static-gk-00959",
    "q": "Hyderabad is the capital of which Indian state?",
    "o": [
     "Tamil Nadu",
@@ -14101,7 +14401,7 @@
    "e": "Hyderabad is the capital of Telangana."
   },
   {
-   "id": "static-gk-00940",
+   "id": "static-gk-00960",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "National Heritage Animal - Lion Capital of Ashoka",
@@ -14116,7 +14416,7 @@
    "e": "Only National Heritage Animal - Indian Elephant is correctly matched."
   },
   {
-   "id": "static-gk-00941",
+   "id": "static-gk-00961",
    "q": "Which of the following descriptions matches Dr. Rajendra Prasad?",
    "o": [
     "First Indian to travel to space",
@@ -14131,7 +14431,7 @@
    "e": "Dr. Rajendra Prasad is associated with: First President of India."
   },
   {
-   "id": "static-gk-00942",
+   "id": "static-gk-00962",
    "q": "Bhangra is a folk or classical dance form of which state?",
    "o": [
     "Tamil Nadu",
@@ -14146,7 +14446,7 @@
    "e": "Bhangra belongs to Punjab."
   },
   {
-   "id": "static-gk-00943",
+   "id": "static-gk-00963",
    "q": "Pongal is a major festival of which state?",
    "o": [
     "Nagaland",
@@ -14161,7 +14461,7 @@
    "e": "Pongal is celebrated mainly in Tamil Nadu."
   },
   {
-   "id": "static-gk-00944",
+   "id": "static-gk-00964",
    "q": "Gangotri Glacier is the origin of which river?",
    "o": [
     "Narmada",
@@ -14176,7 +14476,7 @@
    "e": "Gangotri Glacier is the origin of the river Ganga."
   },
   {
-   "id": "static-gk-00945",
+   "id": "static-gk-00965",
    "q": "Which of the following dams is built on the river Krishna?",
    "o": [
     "Idukki Dam",
@@ -14191,7 +14491,7 @@
    "e": "Srisailam Dam is built on the Krishna."
   },
   {
-   "id": "static-gk-00946",
+   "id": "static-gk-00966",
    "q": "Bhimbandh Wildlife Sanctuary is located in which state?",
    "o": [
     "Madhya Pradesh",
@@ -14206,7 +14506,7 @@
    "e": "Bhimbandh Wildlife Sanctuary is located in Bihar."
   },
   {
-   "id": "static-gk-00947",
+   "id": "static-gk-00967",
    "q": "Which of the following passes is located in Kerala?",
    "o": [
     "Palakkad Gap",
@@ -14221,7 +14521,7 @@
    "e": "Palakkad Gap is a pass in Kerala."
   },
   {
-   "id": "static-gk-00948",
+   "id": "static-gk-00968",
    "q": "Which physical quantity is measured in Metre?",
    "o": [
     "Force",
@@ -14236,7 +14536,7 @@
    "e": "Metre is the SI unit of Length."
   },
   {
-   "id": "static-gk-00949",
+   "id": "static-gk-00969",
    "q": "Which instrument is used to measure Speed of a vehicle?",
    "o": [
     "Geiger counter",
@@ -14251,7 +14551,7 @@
    "e": "Speedometer is used to measure Speed of a vehicle."
   },
   {
-   "id": "static-gk-00950",
+   "id": "static-gk-00970",
    "q": "Which disease is caused by the deficiency of Vitamin B1?",
    "o": [
     "Dehydration",
@@ -14266,7 +14566,7 @@
    "e": "Deficiency of Vitamin B1 causes Beri Beri."
   },
   {
-   "id": "static-gk-00951",
+   "id": "static-gk-00971",
    "q": "Who is credited with Diesel engine?",
    "o": [
     "John Logie Baird",
@@ -14281,7 +14581,7 @@
    "e": "Diesel engine — Rudolf Diesel."
   },
   {
-   "id": "static-gk-00952",
+   "id": "static-gk-00972",
    "q": "What is the chemical name of Epsom salt?",
    "o": [
     "Magnesium oxide (MgO)",
@@ -14296,7 +14596,7 @@
    "e": "Epsom salt is Magnesium sulphate (MgSO4.7H2O)."
   },
   {
-   "id": "static-gk-00953",
+   "id": "static-gk-00973",
    "q": "Which branch of science deals with Fish farming?",
    "o": [
     "Botany",
@@ -14311,7 +14611,7 @@
    "e": "Pisciculture deals with Fish farming."
   },
   {
-   "id": "static-gk-00954",
+   "id": "static-gk-00974",
    "q": "Which of the following statements about Mercury is correct?",
    "o": [
     "Halley's Comet",
@@ -14326,7 +14626,7 @@
    "e": "Mercury: First."
   },
   {
-   "id": "static-gk-00955",
+   "id": "static-gk-00975",
    "q": "Har Gobind Khorana is known for which of the following?",
    "o": [
     "Heliocentric model of the Solar System",
@@ -14341,7 +14641,7 @@
    "e": "Har Gobind Khorana is known for Genetic code."
   },
   {
-   "id": "static-gk-00956",
+   "id": "static-gk-00976",
    "q": "Which institution is described as: Constitutional head of the Republic?",
    "o": [
     "Comptroller and Auditor General",
@@ -14356,7 +14656,7 @@
    "e": "Constitutional head of the Republic describes President of India."
   },
   {
-   "id": "static-gk-00957",
+   "id": "static-gk-00977",
    "q": "On which date is World Health Day observed?",
    "o": [
     "30 April",
@@ -14371,7 +14671,7 @@
    "e": "World Health Day is observed on 7 April."
   },
   {
-   "id": "static-gk-00958",
+   "id": "static-gk-00978",
    "q": "Where is the headquarters of International Maritime Organization?",
    "o": [
     "Basel",
@@ -14386,7 +14686,7 @@
    "e": "International Maritime Organization is headquartered at London."
   },
   {
-   "id": "static-gk-00959",
+   "id": "static-gk-00979",
    "q": "Nehru Cup is associated with which sport?",
    "o": [
     "Golf",
@@ -14401,7 +14701,7 @@
    "e": "Nehru Cup is associated with Football."
   },
   {
-   "id": "static-gk-00960",
+   "id": "static-gk-00980",
    "q": "Sahitya Akademi Award is associated with which of the following?",
    "o": [
     "Literary award for Indian languages",
@@ -14416,7 +14716,7 @@
    "e": "Sahitya Akademi Award — Literary award for Indian languages."
   },
   {
-   "id": "static-gk-00961",
+   "id": "static-gk-00981",
    "q": "Which of the following achievements belongs to Karnam Malleswari?",
    "o": [
     "First Indian woman to win an Olympic medal",
@@ -14431,7 +14731,7 @@
    "e": "First Indian woman to win an Olympic medal belongs to Karnam Malleswari."
   },
   {
-   "id": "static-gk-00962",
+   "id": "static-gk-00982",
    "q": "Which is the largest plateau in the world?",
    "o": [
     "Tibetan Plateau",
@@ -14446,7 +14746,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "static-gk-00963",
+   "id": "static-gk-00983",
    "q": "Which of the following pairs of soil and feature is NOT correctly matched?",
    "o": [
     "Saline soil - Contains excess salt, found in dry coastal areas",
@@ -14461,7 +14761,7 @@
    "e": "The pair Red soil - Contains excess salt, found in dry coastal areas is not correctly matched."
   },
   {
-   "id": "static-gk-00964",
+   "id": "static-gk-00984",
    "q": "Which mineral is found in large quantities in Maharashtra?",
    "o": [
     "Chromite",
@@ -14476,7 +14776,7 @@
    "e": "Sillimanite is found in Maharashtra."
   },
   {
-   "id": "static-gk-00965",
+   "id": "static-gk-00985",
    "q": "Which biosphere reserve or wetland is located in Assam?",
    "o": [
     "Agasthyamalai Biosphere Reserve",
@@ -14491,7 +14791,7 @@
    "e": "Deepor Beel is located in Assam."
   },
   {
-   "id": "static-gk-00966",
+   "id": "static-gk-00986",
    "q": "What is the capital of Papua New Guinea?",
    "o": [
     "Islamabad",
@@ -14506,7 +14806,7 @@
    "e": "The capital of Papua New Guinea is Port Moresby."
   },
   {
-   "id": "static-gk-00967",
+   "id": "static-gk-00987",
    "q": "Which element has the chemical symbol K?",
    "o": [
     "Potassium",
@@ -14521,7 +14821,7 @@
    "e": "K is the symbol of Potassium."
   },
   {
-   "id": "static-gk-00968",
+   "id": "static-gk-00988",
    "q": "Gangtok is the capital of which Indian state?",
    "o": [
     "Sikkim",
@@ -14536,7 +14836,7 @@
    "e": "Gangtok is the capital of Sikkim."
   },
   {
-   "id": "static-gk-00969",
+   "id": "static-gk-00989",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "National Heritage Animal - Vande Mataram",
@@ -14551,7 +14851,7 @@
    "e": "Only National Heritage Animal - Indian Elephant is correctly matched."
   },
   {
-   "id": "static-gk-00970",
+   "id": "static-gk-00990",
    "q": "Which of the following descriptions matches Reita Faria?",
    "o": [
     "First Indian nuclear test was conducted at",
@@ -14566,7 +14866,7 @@
    "e": "Reita Faria is associated with: First Indian to win the Miss World title."
   },
   {
-   "id": "static-gk-00971",
+   "id": "static-gk-00991",
    "q": "Sattriya is a folk or classical dance form of which state?",
    "o": [
     "Kerala",
@@ -14581,7 +14881,7 @@
    "e": "Sattriya belongs to Assam."
   },
   {
-   "id": "static-gk-00972",
+   "id": "static-gk-00992",
    "q": "Onam is a major festival of which state?",
    "o": [
     "Nagaland",
@@ -14596,7 +14896,7 @@
    "e": "Onam is celebrated mainly in Kerala."
   },
   {
-   "id": "static-gk-00973",
+   "id": "static-gk-00993",
    "q": "Kudali is the origin of which river?",
    "o": [
     "Sharavati",
@@ -14611,7 +14911,7 @@
    "e": "Kudali is the origin of the river Tungabhadra."
   },
   {
-   "id": "static-gk-00974",
+   "id": "static-gk-00994",
    "q": "Which of the following dams is built on the river Rihand?",
    "o": [
     "Srisailam Dam",
@@ -14626,7 +14926,7 @@
    "e": "Rihand Dam is built on the Rihand."
   },
   {
-   "id": "static-gk-00975",
+   "id": "static-gk-00995",
    "q": "Rajaji National Park is located in which state?",
    "o": [
     "Assam",
@@ -14641,7 +14941,7 @@
    "e": "Rajaji National Park is located in Uttarakhand."
   },
   {
-   "id": "static-gk-00976",
+   "id": "static-gk-00996",
    "q": "Which of the following passes is located in Ladakh?",
    "o": [
     "Thal Ghat",
@@ -14656,7 +14956,7 @@
    "e": "Khardung La is a pass in Ladakh."
   },
   {
-   "id": "static-gk-00977",
+   "id": "static-gk-00997",
    "q": "Which physical quantity is measured in Joule per Kelvin?",
    "o": [
     "Illuminance",
@@ -14671,7 +14971,7 @@
    "e": "Joule per Kelvin is the SI unit of Entropy."
   },
   {
-   "id": "static-gk-00978",
+   "id": "static-gk-00998",
    "q": "Which instrument is used to measure Curvature of surfaces?",
    "o": [
     "Polygraph",
@@ -14686,7 +14986,7 @@
    "e": "Spherometer is used to measure Curvature of surfaces."
   },
   {
-   "id": "static-gk-00979",
+   "id": "static-gk-00999",
    "q": "Which disease is caused by the deficiency of Vitamin C?",
    "o": [
     "Anaemia and bone disorders",
@@ -14701,7 +15001,7 @@
    "e": "Deficiency of Vitamin C causes Scurvy."
   },
   {
-   "id": "static-gk-00980",
+   "id": "static-gk-01000",
    "q": "Who is credited with Motor car?",
    "o": [
     "Gregor Mendel",
@@ -14714,306 +15014,6 @@
    "l": 2,
    "s": "generated",
    "e": "Motor car — Karl Benz."
-  },
-  {
-   "id": "static-gk-00981",
-   "q": "What is the chemical name of Alcohol?",
-   "o": [
-    "Hydrated magnesium silicate",
-    "Calcium oxychloride (CaOCl2)",
-    "Ethanol (C2H5OH)",
-    "Sodium hydroxide (NaOH)"
-   ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Alcohol is Ethanol (C2H5OH)."
-  },
-  {
-   "id": "static-gk-00982",
-   "q": "Which branch of science deals with Viruses?",
-   "o": [
-    "Seismology",
-    "Virology",
-    "Sericulture",
-    "Paediatrics"
-   ],
-   "a": 1,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Virology deals with Viruses."
-  },
-  {
-   "id": "static-gk-00983",
-   "q": "Which of the following statements about Comet is correct?",
-   "o": [
-    "Mercury",
-    "Jupiter",
-    "Comet",
-    "Asteroid"
-   ],
-   "a": 2,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Comet: Comet."
-  },
-  {
-   "id": "static-gk-00984",
-   "q": "Daniel Fahrenheit is known for which of the following?",
-   "o": [
-    "Father of modern chemistry",
-    "Fahrenheit temperature scale",
-    "Ornithology in India",
-    "First powered aeroplane flight"
-   ],
-   "a": 1,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Daniel Fahrenheit is known for Fahrenheit temperature scale."
-  },
-  {
-   "id": "static-gk-00985",
-   "q": "Which institution is described as: Regulator of the insurance sector?",
-   "o": [
-    "Lok Sabha",
-    "Municipality",
-    "Vice President of India",
-    "IRDAI"
-   ],
-   "a": 3,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Regulator of the insurance sector describes IRDAI."
-  },
-  {
-   "id": "static-gk-00986",
-   "q": "On which date is World Red Cross Day observed?",
-   "o": [
-    "27 September",
-    "30 June",
-    "8 May",
-    "4 January"
-   ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Red Cross Day is observed on 8 May."
-  },
-  {
-   "id": "static-gk-00987",
-   "q": "Where is the headquarters of UNESCO?",
-   "o": [
-    "Vienna",
-    "Geneva",
-    "Paris",
-    "Kathmandu"
-   ],
-   "a": 2,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "UNESCO is headquartered at Paris."
-  },
-  {
-   "id": "static-gk-00988",
-   "q": "Uber Cup is associated with which sport?",
-   "o": [
-    "Tennis",
-    "Cricket",
-    "Badminton",
-    "Football"
-   ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Uber Cup is associated with Badminton."
-  },
-  {
-   "id": "static-gk-00989",
-   "q": "Vir Chakra is associated with which of the following?",
-   "o": [
-    "Third highest military decoration of India",
-    "Highest literary award of India",
-    "International award for Physics, Chemistry, Medicine, Literature, Peace and Economics",
-    "Indian award in science and technology"
-   ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Vir Chakra — Third highest military decoration of India."
-  },
-  {
-   "id": "static-gk-00990",
-   "q": "Which of the following achievements belongs to George Washington?",
-   "o": [
-    "First country to give women the vote",
-    "First woman to fly solo across the Atlantic",
-    "First President of the United States",
-    "First Asian to win a Nobel Prize"
-   ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First President of the United States belongs to George Washington."
-  },
-  {
-   "id": "static-gk-00991",
-   "q": "Which is the largest mountain range in the world by length?",
-   "o": [
-    "Varanasi",
-    "Andes",
-    "Ethiopia",
-    "Lucknow"
-   ],
-   "a": 1,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
-  },
-  {
-   "id": "static-gk-00992",
-   "q": "Which of the following pairs of soil and feature is NOT correctly matched?",
-   "o": [
-    "Peaty soil - Formed in waterlogged areas with organic matter",
-    "Red soil - Formed from crystalline rocks, rich in iron",
-    "Mountain soil - Found in hilly and forest regions",
-    "Black soil - Most fertile soil, found in the northern plains"
-   ],
-   "a": 3,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Black soil - Most fertile soil, found in the northern plains is not correctly matched."
-  },
-  {
-   "id": "static-gk-00993",
-   "q": "Which mineral is found in large quantities in Andhra Pradesh?",
-   "o": [
-    "Sillimanite",
-    "Lead and zinc",
-    "Petroleum",
-    "Mica"
-   ],
-   "a": 3,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Mica is found in Andhra Pradesh."
-  },
-  {
-   "id": "static-gk-00994",
-   "q": "Which biosphere reserve or wetland is located in Madhya Pradesh?",
-   "o": [
-    "Deepor Beel",
-    "Loktak Lake",
-    "Cold Desert Biosphere Reserve",
-    "Pachmarhi Biosphere Reserve"
-   ],
-   "a": 3,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Pachmarhi Biosphere Reserve is located in Madhya Pradesh."
-  },
-  {
-   "id": "static-gk-00995",
-   "q": "What is the capital of Mexico?",
-   "o": [
-    "Islamabad",
-    "Harare",
-    "Dhaka",
-    "Mexico City"
-   ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Mexico is Mexico City."
-  },
-  {
-   "id": "static-gk-00996",
-   "q": "Which element has the chemical symbol Br?",
-   "o": [
-    "Tungsten",
-    "Mercury",
-    "Hydrogen",
-    "Bromine"
-   ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Br is the symbol of Bromine."
-  },
-  {
-   "id": "static-gk-00997",
-   "q": "Lucknow is the capital of which Indian state?",
-   "o": [
-    "Odisha",
-    "Uttar Pradesh",
-    "Gujarat",
-    "Punjab"
-   ],
-   "a": 1,
-   "t": "States and Capitals",
-   "l": 2,
-   "s": "generated",
-   "e": "Lucknow is the capital of Uttar Pradesh."
-  },
-  {
-   "id": "static-gk-00998",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
-    "National Animal - Indian Peacock",
-    "National Animal - Bengal Tiger",
-    "National Animal - Indian Rupee",
-    "National Animal - Indian Elephant"
-   ],
-   "a": 1,
-   "t": "National Symbols",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Animal - Bengal Tiger is correctly matched."
-  },
-  {
-   "id": "static-gk-00999",
-   "q": "Which of the following descriptions matches Aryabhata?",
-   "o": [
-    "First Indian satellite launched",
-    "First woman Chief Minister in India",
-    "First Indian to climb Mount Everest",
-    "First Indian Governor-General of India"
-   ],
-   "a": 0,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "Aryabhata is associated with: First Indian satellite launched."
-  },
-  {
-   "id": "static-gk-01000",
-   "q": "Kuchipudi is a folk or classical dance form of which state?",
-   "o": [
-    "Assam",
-    "Andhra Pradesh",
-    "Nagaland",
-    "West Bengal"
-   ],
-   "a": 1,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Kuchipudi belongs to Andhra Pradesh."
   }
  ]
 };

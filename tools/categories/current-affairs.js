@@ -17,6 +17,306 @@
  "questions": [
   {
    "id": "current-affairs-00001",
+   "q": "Which country hosted the G20 Summit in 2023?",
+   "o": [
+    "Indonesia",
+    "India",
+    "Brazil",
+    "Japan"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "India hosted the 2023 G20 Summit in New Delhi."
+  },
+  {
+   "id": "current-affairs-00002",
+   "q": "Which Indian mission made a soft landing near the Moon's south pole in 2023?",
+   "o": [
+    "Chandrayaan-2",
+    "Chandrayaan-3",
+    "Mangalyaan",
+    "Gaganyaan"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Chandrayaan-3 landed near the lunar south pole in August 2023."
+  },
+  {
+   "id": "current-affairs-00003",
+   "q": "Aditya-L1 is India's first mission to study what?",
+   "o": [
+    "The Moon",
+    "The Sun",
+    "Mars",
+    "Asteroids"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Aditya-L1 is India's first solar observatory mission, placed at Lagrange point L1."
+  },
+  {
+   "id": "current-affairs-00004",
+   "q": "NISAR is a joint Earth observation mission between ISRO and which agency?",
+   "o": [
+    "ESA",
+    "NASA",
+    "JAXA",
+    "Roscosmos"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "NISAR is a joint mission of ISRO and NASA."
+  },
+  {
+   "id": "current-affairs-00005",
+   "q": "Which scheme provides free cooking gas connections to poor women?",
+   "o": [
+    "PM Ujjwala Yojana",
+    "PM Awas Yojana",
+    "PM Kisan",
+    "Ayushman Bharat"
+   ],
+   "a": 0,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Pradhan Mantri Ujjwala Yojana provides LPG connections."
+  },
+  {
+   "id": "current-affairs-00006",
+   "q": "Ayushman Bharat provides health cover of how much per family per year?",
+   "o": [
+    "1 lakh rupees",
+    "2 lakh rupees",
+    "5 lakh rupees",
+    "10 lakh rupees"
+   ],
+   "a": 2,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "The scheme offers 5 lakh rupees of health cover per family per year."
+  },
+  {
+   "id": "current-affairs-00007",
+   "q": "What does UPI stand for in digital payments?",
+   "o": [
+    "Unified Payments Interface",
+    "Universal Payment Instrument",
+    "United Payment Index",
+    "Unified Purchase Interface"
+   ],
+   "a": 0,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "UPI stands for Unified Payments Interface."
+  },
+  {
+   "id": "current-affairs-00008",
+   "q": "India's G20 presidency theme in 2023 was:",
+   "o": [
+    "One Earth, One Family, One Future",
+    "Recover Together",
+    "Shaping an Interconnected World",
+    "Building Consensus"
+   ],
+   "a": 0,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "The theme was Vasudhaiva Kutumbakam, One Earth, One Family, One Future."
+  },
+  {
+   "id": "current-affairs-00009",
+   "q": "Which organisation publishes the Human Development Index?",
+   "o": [
+    "World Bank",
+    "UNDP",
+    "IMF",
+    "WHO"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "The UNDP publishes the Human Development Index."
+  },
+  {
+   "id": "current-affairs-00010",
+   "q": "Gaganyaan is India's programme for what?",
+   "o": [
+    "Moon landing",
+    "Human spaceflight",
+    "Solar study",
+    "Deep sea exploration"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Gaganyaan is India's human spaceflight programme."
+  },
+  {
+   "id": "current-affairs-00011",
+   "q": "Which digital payment push of India is built on Aadhaar and is known for direct benefit transfer?",
+   "o": [
+    "Aadhaar Enabled Payment System",
+    "Bharat BillPay",
+    "NEFT",
+    "IMPS"
+   ],
+   "a": 0,
+   "t": "Curated",
+   "l": 3,
+   "s": "curated",
+   "e": "Aadhaar Enabled Payment System enables banking through Aadhaar authentication."
+  },
+  {
+   "id": "current-affairs-00012",
+   "q": "The Quad grouping consists of India, Japan, Australia and which country?",
+   "o": [
+    "China",
+    "United States",
+    "Russia",
+    "France"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "The Quad is India, Japan, Australia and the United States."
+  },
+  {
+   "id": "current-affairs-00013",
+   "q": "Which Indian city hosted the 2023 Cricket World Cup final?",
+   "o": [
+    "Mumbai",
+    "Ahmedabad",
+    "Kolkata",
+    "Chennai"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "The final was played at the Narendra Modi Stadium in Ahmedabad."
+  },
+  {
+   "id": "current-affairs-00014",
+   "q": "Which country joined BRICS in 2024 along with others in the first expansion round?",
+   "o": [
+    "Egypt",
+    "Pakistan",
+    "Sri Lanka",
+    "Mexico"
+   ],
+   "a": 0,
+   "t": "Curated",
+   "l": 3,
+   "s": "curated",
+   "e": "Egypt, Ethiopia, Iran, Saudi Arabia and the UAE joined BRICS from January 2024."
+  },
+  {
+   "id": "current-affairs-00015",
+   "q": "What is India's ranking ambition under the 'Semicon India' programme?",
+   "o": [
+    "Be a global semiconductor hub",
+    "Ban chip imports",
+    "Export only raw silicon",
+    "Build only test facilities"
+   ],
+   "a": 0,
+   "t": "Curated",
+   "l": 3,
+   "s": "curated",
+   "e": "Semicon India aims to build a domestic semiconductor manufacturing ecosystem."
+  },
+  {
+   "id": "current-affairs-00016",
+   "q": "Which mission aims to provide piped drinking water to every rural household?",
+   "o": [
+    "Jal Jeevan Mission",
+    "Swachh Bharat",
+    "Namami Gange",
+    "Jal Shakti Abhiyan"
+   ],
+   "a": 0,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Jal Jeevan Mission targets functional household tap connections in rural areas."
+  },
+  {
+   "id": "current-affairs-00017",
+   "q": "The 'Make in India' initiative was launched in which year?",
+   "o": [
+    "2012",
+    "2014",
+    "2016",
+    "2018"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Make in India was launched in September 2014."
+  },
+  {
+   "id": "current-affairs-00018",
+   "q": "Which Indian state launched the world's largest solar park at Bhadla?",
+   "o": [
+    "Gujarat",
+    "Rajasthan",
+    "Karnataka",
+    "Madhya Pradesh"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Bhadla Solar Park is in Rajasthan."
+  },
+  {
+   "id": "current-affairs-00019",
+   "q": "What does the 'Digital India' programme primarily aim to do?",
+   "o": [
+    "Provide digital infrastructure and services to citizens",
+    "Reduce internet speed",
+    "Ban cash",
+    "Privatise telecom"
+   ],
+   "a": 0,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Digital India aims to deliver government services electronically and build digital infrastructure."
+  },
+  {
+   "id": "current-affairs-00020",
+   "q": "India's first indigenous aircraft carrier commissioned in 2022 is named:",
+   "o": [
+    "INS Vikramaditya",
+    "INS Vikrant",
+    "INS Viraat",
+    "INS Kolkata"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "INS Vikrant, built at Kochi, was commissioned in September 2022."
+  },
+  {
+   "id": "current-affairs-00021",
    "q": "In which year did the following event take place: Quit India Movement launched?",
    "o": [
     "1943",
@@ -31,7 +331,7 @@
    "e": "Quit India Movement launched — 1942."
   },
   {
-   "id": "current-affairs-00002",
+   "id": "current-affairs-00022",
    "q": "On which date is International Mother Language Day observed?",
    "o": [
     "21 February",
@@ -46,7 +346,7 @@
    "e": "International Mother Language Day is observed on 21 February."
   },
   {
-   "id": "current-affairs-00003",
+   "id": "current-affairs-00023",
    "q": "Where is the headquarters of Asian Infrastructure Investment Bank?",
    "o": [
     "Bern",
@@ -61,7 +361,7 @@
    "e": "Asian Infrastructure Investment Bank is headquartered at Beijing."
   },
   {
-   "id": "current-affairs-00004",
+   "id": "current-affairs-00024",
    "q": "Which is the central bank of the United Kingdom?",
    "o": [
     "1944",
@@ -76,7 +376,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00005",
+   "id": "current-affairs-00025",
    "q": "Which scheme encourages manufacturing across 14 sectors in India?",
    "o": [
     "Production Linked Incentive Scheme",
@@ -91,7 +391,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00006",
+   "id": "current-affairs-00026",
    "q": "The scheme Pradhan Mantri Ujjwala Yojana was launched with which objective?",
    "o": [
     "Rapid transformation of backward districts",
@@ -106,7 +406,7 @@
    "e": "Pradhan Mantri Ujjwala Yojana — Free LPG connections to women from poor households."
   },
   {
-   "id": "current-affairs-00007",
+   "id": "current-affairs-00027",
    "q": "Mission LiFE is associated with which of the following?",
    "o": [
     "Lifestyle for environment movement",
@@ -121,7 +421,7 @@
    "e": "Mission LiFE — Lifestyle for environment movement."
   },
   {
-   "id": "current-affairs-00008",
+   "id": "current-affairs-00028",
    "q": "What is the full form of IRDAI?",
    "o": [
     "Asian Infrastructure Investment Bank",
@@ -136,7 +436,7 @@
    "e": "IRDAI stands for Insurance Regulatory and Development Authority of India."
   },
   {
-   "id": "current-affairs-00009",
+   "id": "current-affairs-00029",
    "q": "In which year did the following event take place: Constitution of India came into force?",
    "o": [
     "1950",
@@ -151,7 +451,7 @@
    "e": "Constitution of India came into force — 1950."
   },
   {
-   "id": "current-affairs-00010",
+   "id": "current-affairs-00030",
    "q": "On which date is International Tea Day observed?",
    "o": [
     "13 February",
@@ -166,7 +466,7 @@
    "e": "International Tea Day is observed on 21 May."
   },
   {
-   "id": "current-affairs-00011",
+   "id": "current-affairs-00031",
    "q": "Where is the headquarters of International Maritime Organization?",
    "o": [
     "London",
@@ -181,7 +481,7 @@
    "e": "International Maritime Organization is headquartered at London."
   },
   {
-   "id": "current-affairs-00012",
+   "id": "current-affairs-00032",
    "q": "Which revolution is associated with fish production?",
    "o": [
     "Wholesale Price Index",
@@ -196,7 +496,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00013",
+   "id": "current-affairs-00033",
    "q": "Which Indian became the youngest world chess champion?",
    "o": [
     "Vande Bharat Express",
@@ -211,7 +511,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00014",
+   "id": "current-affairs-00034",
    "q": "The scheme National Creche Scheme was launched with which objective?",
    "o": [
     "Production and use of green hydrogen",
@@ -226,7 +526,7 @@
    "e": "National Creche Scheme — Day care facilities for working mothers."
   },
   {
-   "id": "current-affairs-00015",
+   "id": "current-affairs-00035",
    "q": "Unified Payments Interface is associated with which of the following?",
    "o": [
     "Regional satellite navigation system",
@@ -241,7 +541,7 @@
    "e": "Unified Payments Interface — Instant bank to bank payments system."
   },
   {
-   "id": "current-affairs-00016",
+   "id": "current-affairs-00036",
    "q": "What is the full form of ITU?",
    "o": [
     "Indian Institute of Technology",
@@ -256,7 +556,7 @@
    "e": "ITU stands for International Telecommunication Union."
   },
   {
-   "id": "current-affairs-00017",
+   "id": "current-affairs-00037",
    "q": "In which year did the following event take place: Chandrayaan-3 soft landing near the lunar south pole?",
    "o": [
     "1905",
@@ -271,7 +571,7 @@
    "e": "Chandrayaan-3 soft landing near the lunar south pole — 2023."
   },
   {
-   "id": "current-affairs-00018",
+   "id": "current-affairs-00038",
    "q": "On which date is World Population Day observed?",
    "o": [
     "11 July",
@@ -286,7 +586,7 @@
    "e": "World Population Day is observed on 11 July."
   },
   {
-   "id": "current-affairs-00019",
+   "id": "current-affairs-00039",
    "q": "Where is the headquarters of International Labour Organization?",
    "o": [
     "London",
@@ -301,7 +601,7 @@
    "e": "International Labour Organization is headquartered at Geneva."
   },
   {
-   "id": "current-affairs-00020",
+   "id": "current-affairs-00040",
    "q": "What is the minimum percentage of deposits banks must keep with the RBI?",
    "o": [
     "Cash Reserve Ratio",
@@ -316,7 +616,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00021",
+   "id": "current-affairs-00041",
    "q": "Which scheme aims to protect the girl child at birth?",
    "o": [
     "Beti Bachao Beti Padhao",
@@ -331,7 +631,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00022",
+   "id": "current-affairs-00042",
    "q": "The scheme Mahatma Gandhi National Rural Employment Guarantee Scheme was launched with which objective?",
    "o": [
     "Guaranteed wage employment in rural areas",
@@ -346,7 +646,7 @@
    "e": "Mahatma Gandhi National Rural Employment Guarantee Scheme — Guaranteed wage employment in rural areas."
   },
   {
-   "id": "current-affairs-00023",
+   "id": "current-affairs-00043",
    "q": "GSLV Mk III is associated with which of the following?",
    "o": [
     "Cloud computing initiative of the government",
@@ -361,7 +661,7 @@
    "e": "GSLV Mk III — India's heavy lift launch vehicle."
   },
   {
-   "id": "current-affairs-00024",
+   "id": "current-affairs-00044",
    "q": "What is the full form of UNDP?",
    "o": [
     "Study Webs of Active Learning for Young Aspiring Minds",
@@ -376,7 +676,7 @@
    "e": "UNDP stands for United Nations Development Programme."
   },
   {
-   "id": "current-affairs-00025",
+   "id": "current-affairs-00045",
    "q": "In which year did the following event take place: Jallianwala Bagh massacre?",
    "o": [
     "2016",
@@ -391,7 +691,7 @@
    "e": "Jallianwala Bagh massacre — 1919."
   },
   {
-   "id": "current-affairs-00026",
+   "id": "current-affairs-00046",
    "q": "On which date is National Energy Conservation Day (India) observed?",
    "o": [
     "11 October",
@@ -406,7 +706,7 @@
    "e": "National Energy Conservation Day (India) is observed on 14 December."
   },
   {
-   "id": "current-affairs-00027",
+   "id": "current-affairs-00047",
    "q": "Where is the headquarters of International Telecommunication Union?",
    "o": [
     "Basel",
@@ -421,7 +721,7 @@
    "e": "International Telecommunication Union is headquartered at Geneva."
   },
   {
-   "id": "current-affairs-00028",
+   "id": "current-affairs-00048",
    "q": "In which year were regional rural banks established in India?",
    "o": [
     "Primary deficit",
@@ -436,7 +736,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00029",
+   "id": "current-affairs-00049",
    "q": "Which programme aims to provide power to rural areas through feeders?",
    "o": [
     "National River Linking Project",
@@ -451,7 +751,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00030",
+   "id": "current-affairs-00050",
    "q": "The scheme Pradhan Mantri Jan Dhan Yojana was launched with which objective?",
    "o": [
     "Food grain self-sufficiency",
@@ -466,7 +766,7 @@
    "e": "Pradhan Mantri Jan Dhan Yojana — Financial inclusion through zero balance bank accounts."
   },
   {
-   "id": "current-affairs-00031",
+   "id": "current-affairs-00051",
    "q": "RISAT is associated with which of the following?",
    "o": [
     "Soft landing near the lunar south pole",
@@ -481,7 +781,7 @@
    "e": "RISAT — Radar imaging satellites for all-weather observation."
   },
   {
-   "id": "current-affairs-00032",
+   "id": "current-affairs-00052",
    "q": "What is the full form of CVC?",
    "o": [
     "Central Vigilance Commission",
@@ -496,7 +796,7 @@
    "e": "CVC stands for Central Vigilance Commission."
   },
   {
-   "id": "current-affairs-00033",
+   "id": "current-affairs-00053",
    "q": "In which year did the following event take place: Chandrayaan-1 launched?",
    "o": [
     "1929",
@@ -511,7 +811,7 @@
    "e": "Chandrayaan-1 launched — 2008."
   },
   {
-   "id": "current-affairs-00034",
+   "id": "current-affairs-00054",
    "q": "On which date is World Philosophy Day observed?",
    "o": [
     "third Thursday of November",
@@ -526,7 +826,7 @@
    "e": "World Philosophy Day is observed on third Thursday of November."
   },
   {
-   "id": "current-affairs-00035",
+   "id": "current-affairs-00055",
    "q": "Where is the headquarters of FIFA?",
    "o": [
     "Paris",
@@ -541,7 +841,7 @@
    "e": "FIFA is headquartered at Zurich."
   },
   {
-   "id": "current-affairs-00036",
+   "id": "current-affairs-00056",
    "q": "What is the transfer of ownership from government to private hands called?",
    "o": [
     "Manmohan Singh",
@@ -556,7 +856,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00037",
+   "id": "current-affairs-00057",
    "q": "Which tiger census is conducted every four years in India?",
    "o": [
     "All India Tiger Estimation",
@@ -571,7 +871,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00038",
+   "id": "current-affairs-00058",
    "q": "The scheme Mission Indradhanush was launched with which objective?",
    "o": [
     "Improving nutrition among children and women",
@@ -586,7 +886,7 @@
    "e": "Mission Indradhanush — Universal immunisation of children."
   },
   {
-   "id": "current-affairs-00039",
+   "id": "current-affairs-00059",
    "q": "Chandrayaan-3 is associated with which of the following?",
    "o": [
     "Soft landing near the lunar south pole",
@@ -601,7 +901,7 @@
    "e": "Chandrayaan-3 — Soft landing near the lunar south pole."
   },
   {
-   "id": "current-affairs-00040",
+   "id": "current-affairs-00060",
    "q": "What is the full form of G20?",
    "o": [
     "National Pension System",
@@ -616,7 +916,7 @@
    "e": "G20 stands for Group of Twenty major economies."
   },
   {
-   "id": "current-affairs-00041",
+   "id": "current-affairs-00061",
    "q": "In which year did the following event take place: Janata Party formed the government at the Centre?",
    "o": [
     "2014",
@@ -631,7 +931,7 @@
    "e": "Janata Party formed the government at the Centre — 1977."
   },
   {
-   "id": "current-affairs-00042",
+   "id": "current-affairs-00062",
    "q": "On which date is World Wetlands Day observed?",
    "o": [
     "2 February",
@@ -646,7 +946,7 @@
    "e": "World Wetlands Day is observed on 2 February."
   },
   {
-   "id": "current-affairs-00043",
+   "id": "current-affairs-00063",
    "q": "Where is the headquarters of World Health Organization?",
    "o": [
     "Washington, D.C.",
@@ -661,7 +961,7 @@
    "e": "World Health Organization is headquartered at Geneva."
   },
   {
-   "id": "current-affairs-00044",
+   "id": "current-affairs-00064",
    "q": "How many main tax slabs are there in the Indian GST structure?",
    "o": [
     "1776",
@@ -676,7 +976,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00045",
+   "id": "current-affairs-00065",
    "q": "Which Indian chess player challenged for the world title in 2023?",
    "o": [
     "India, United States, Japan and Australia",
@@ -691,7 +991,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00046",
+   "id": "current-affairs-00066",
    "q": "The scheme Atmanirbhar Bharat Abhiyan was launched with which objective?",
    "o": [
     "Improving nutrition among children and women",
@@ -706,7 +1006,7 @@
    "e": "Atmanirbhar Bharat Abhiyan — Self-reliant India initiative."
   },
   {
-   "id": "current-affairs-00047",
+   "id": "current-affairs-00067",
    "q": "Reusable Launch Vehicle is associated with which of the following?",
    "o": [
     "India's heavy lift launch vehicle",
@@ -721,7 +1021,7 @@
    "e": "Reusable Launch Vehicle — Indigenous reusable space shuttle technology."
   },
   {
-   "id": "current-affairs-00048",
+   "id": "current-affairs-00068",
    "q": "What is the full form of NavIC?",
    "o": [
     "Systeme International d'Unites",
@@ -736,7 +1036,7 @@
    "e": "NavIC stands for Navigation with Indian Constellation."
   },
   {
-   "id": "current-affairs-00049",
+   "id": "current-affairs-00069",
    "q": "In which year did the following event take place: Bangladesh liberation war involving India?",
    "o": [
     "1930",
@@ -751,7 +1051,7 @@
    "e": "Bangladesh liberation war involving India — 1971."
   },
   {
-   "id": "current-affairs-00050",
+   "id": "current-affairs-00070",
    "q": "On which date is Teachers' Day (India) observed?",
    "o": [
     "5 September",
@@ -766,7 +1066,7 @@
    "e": "Teachers' Day (India) is observed on 5 September."
   },
   {
-   "id": "current-affairs-00051",
+   "id": "current-affairs-00071",
    "q": "Where is the headquarters of International Monetary Fund?",
    "o": [
     "Geneva",
@@ -781,7 +1081,7 @@
    "e": "International Monetary Fund is headquartered at Washington, D.C.."
   },
   {
-   "id": "current-affairs-00052",
+   "id": "current-affairs-00072",
    "q": "In which year was the Reserve Bank of India nationalised?",
    "o": [
     "1949",
@@ -796,7 +1096,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00053",
+   "id": "current-affairs-00073",
    "q": "What was the theme of India's G20 presidency?",
    "o": [
     "Shiv Shakti Point",
@@ -811,7 +1111,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00054",
+   "id": "current-affairs-00074",
    "q": "The scheme Pradhan Mantri Garib Kalyan Anna Yojana was launched with which objective?",
    "o": [
     "Income support of six thousand rupees to small farmers",
@@ -826,7 +1126,7 @@
    "e": "Pradhan Mantri Garib Kalyan Anna Yojana — Free food grains to the poor."
   },
   {
-   "id": "current-affairs-00055",
+   "id": "current-affairs-00075",
    "q": "Project Lion is associated with which of the following?",
    "o": [
     "Soft landing near the lunar south pole",
@@ -841,7 +1141,7 @@
    "e": "Project Lion — Conservation of Asiatic lions."
   },
   {
-   "id": "current-affairs-00056",
+   "id": "current-affairs-00076",
    "q": "What is the full form of GNP?",
    "o": [
     "Initial Public Offering",
@@ -856,7 +1156,7 @@
    "e": "GNP stands for Gross National Product."
   },
   {
-   "id": "current-affairs-00057",
+   "id": "current-affairs-00077",
    "q": "In which year did the following event take place: Purna Swaraj declared at the Lahore session?",
    "o": [
     "1929",
@@ -871,7 +1171,7 @@
    "e": "Purna Swaraj declared at the Lahore session — 1929."
   },
   {
-   "id": "current-affairs-00058",
+   "id": "current-affairs-00078",
    "q": "On which date is World Heart Day observed?",
    "o": [
     "29 September",
@@ -886,7 +1186,7 @@
    "e": "World Heart Day is observed on 29 September."
   },
   {
-   "id": "current-affairs-00059",
+   "id": "current-affairs-00079",
    "q": "Where is the headquarters of Greenpeace?",
    "o": [
     "New York",
@@ -901,7 +1201,7 @@
    "e": "Greenpeace is headquartered at Amsterdam."
   },
   {
-   "id": "current-affairs-00060",
+   "id": "current-affairs-00080",
    "q": "Which is the oldest surviving bank in India?",
    "o": [
     "Call money rate",
@@ -916,7 +1216,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00061",
+   "id": "current-affairs-00081",
    "q": "Which Indian state performs best on the Multidimensional Poverty Index?",
    "o": [
     "Kerala",
@@ -931,7 +1231,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00062",
+   "id": "current-affairs-00082",
    "q": "The scheme Startup India was launched with which objective?",
    "o": [
     "Promoting startups and innovation",
@@ -946,7 +1246,7 @@
    "e": "Startup India — Promoting startups and innovation."
   },
   {
-   "id": "current-affairs-00063",
+   "id": "current-affairs-00083",
    "q": "National Digital Library is associated with which of the following?",
    "o": [
     "Delivery of services through digital platforms",
@@ -961,7 +1261,7 @@
    "e": "National Digital Library — Online library for students."
   },
   {
-   "id": "current-affairs-00064",
+   "id": "current-affairs-00084",
    "q": "What is the full form of NITI?",
    "o": [
     "National Institution for Transforming India",
@@ -976,7 +1276,7 @@
    "e": "NITI stands for National Institution for Transforming India."
   },
   {
-   "id": "current-affairs-00065",
+   "id": "current-affairs-00085",
    "q": "In which year did the following event take place: Founding of the Indian National Congress?",
    "o": [
     "1984",
@@ -991,7 +1291,7 @@
    "e": "Founding of the Indian National Congress — 1885."
   },
   {
-   "id": "current-affairs-00066",
+   "id": "current-affairs-00086",
    "q": "On which date is International Day of Peace observed?",
    "o": [
     "20 March",
@@ -1006,7 +1306,7 @@
    "e": "International Day of Peace is observed on 21 September."
   },
   {
-   "id": "current-affairs-00067",
+   "id": "current-affairs-00087",
    "q": "Where is the headquarters of World Bank?",
    "o": [
     "Beijing",
@@ -1021,7 +1321,7 @@
    "e": "World Bank is headquartered at Washington, D.C.."
   },
   {
-   "id": "current-affairs-00068",
+   "id": "current-affairs-00088",
    "q": "Which Indian economist won the Nobel Prize in Economics?",
    "o": [
     "Dumping",
@@ -1036,7 +1336,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00069",
+   "id": "current-affairs-00089",
    "q": "Which Indian state achieved the first open defecation free status in 2016?",
    "o": [
     "China",
@@ -1051,7 +1351,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00070",
+   "id": "current-affairs-00090",
    "q": "The scheme Yellow Revolution was launched with which objective?",
    "o": [
     "Income support of six thousand rupees to small farmers",
@@ -1066,7 +1366,7 @@
    "e": "Yellow Revolution — Self-reliance in oilseed production."
   },
   {
-   "id": "current-affairs-00071",
+   "id": "current-affairs-00091",
    "q": "AMRUT is associated with which of the following?",
    "o": [
     "Lifestyle for environment movement",
@@ -1081,7 +1381,7 @@
    "e": "AMRUT — Urban water supply and sewerage improvement."
   },
   {
-   "id": "current-affairs-00072",
+   "id": "current-affairs-00092",
    "q": "What is the full form of UPSC?",
    "o": [
     "North Atlantic Treaty Organization",
@@ -1096,7 +1396,7 @@
    "e": "UPSC stands for Union Public Service Commission."
   },
   {
-   "id": "current-affairs-00073",
+   "id": "current-affairs-00093",
    "q": "In which year did the following event take place: Pokhran-II nuclear tests?",
    "o": [
     "1998",
@@ -1111,7 +1411,7 @@
    "e": "Pokhran-II nuclear tests — 1998."
   },
   {
-   "id": "current-affairs-00074",
+   "id": "current-affairs-00094",
    "q": "On which date is World Computer Security Day observed?",
    "o": [
     "2 October",
@@ -1126,7 +1426,7 @@
    "e": "World Computer Security Day is observed on 30 November."
   },
   {
-   "id": "current-affairs-00075",
+   "id": "current-affairs-00095",
    "q": "Where is the headquarters of Bank for International Settlements?",
    "o": [
     "Nairobi",
@@ -1141,7 +1441,7 @@
    "e": "Bank for International Settlements is headquartered at Basel."
   },
   {
-   "id": "current-affairs-00076",
+   "id": "current-affairs-00096",
    "q": "Which is the apex body for agricultural research in India?",
    "o": [
     "Bombay Stock Exchange",
@@ -1156,7 +1456,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00077",
+   "id": "current-affairs-00097",
    "q": "Which Indian state has the largest number of national parks?",
    "o": [
     "Uttar Pradesh",
@@ -1171,7 +1471,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00078",
+   "id": "current-affairs-00098",
    "q": "The scheme Swachh Bharat Mission was launched with which objective?",
    "o": [
     "Cleanliness and sanitation for all",
@@ -1186,7 +1486,7 @@
    "e": "Swachh Bharat Mission — Cleanliness and sanitation for all."
   },
   {
-   "id": "current-affairs-00079",
+   "id": "current-affairs-00099",
    "q": "Aditya-L1 is associated with which of the following?",
    "o": [
     "Eight national missions on climate",
@@ -1201,7 +1501,7 @@
    "e": "Aditya-L1 — Solar observation from the Lagrange point L1."
   },
   {
-   "id": "current-affairs-00080",
+   "id": "current-affairs-00100",
    "q": "What is the full form of ISI?",
    "o": [
     "Out Patient Department",
@@ -1216,7 +1516,7 @@
    "e": "ISI stands for Indian Standards Institution."
   },
   {
-   "id": "current-affairs-00081",
+   "id": "current-affairs-00101",
    "q": "In which year did the following event take place: First Five Year Plan launched?",
    "o": [
     "1977",
@@ -1231,7 +1531,7 @@
    "e": "First Five Year Plan launched — 1951."
   },
   {
-   "id": "current-affairs-00082",
+   "id": "current-affairs-00102",
    "q": "On which date is World Diabetes Day observed?",
    "o": [
     "18 December",
@@ -1246,7 +1546,7 @@
    "e": "World Diabetes Day is observed on 14 November."
   },
   {
-   "id": "current-affairs-00083",
+   "id": "current-affairs-00103",
    "q": "Where is the headquarters of International Civil Aviation Organization?",
    "o": [
     "Geneva",
@@ -1261,7 +1561,7 @@
    "e": "International Civil Aviation Organization is headquartered at Montreal."
   },
   {
-   "id": "current-affairs-00084",
+   "id": "current-affairs-00104",
    "q": "Which is the apex bank of India?",
    "o": [
     "Agriculture and allied activities",
@@ -1276,7 +1576,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00085",
+   "id": "current-affairs-00105",
    "q": "Which joint military exercise is held between India and Russia?",
    "o": [
     "2023",
@@ -1291,7 +1591,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00086",
+   "id": "current-affairs-00106",
    "q": "The scheme Pradhan Mantri Krishi Sinchayee Yojana was launched with which objective?",
    "o": [
     "Emergency relief during the COVID-19 pandemic",
@@ -1306,7 +1606,7 @@
    "e": "Pradhan Mantri Krishi Sinchayee Yojana — Irrigation coverage and water use efficiency."
   },
   {
-   "id": "current-affairs-00087",
+   "id": "current-affairs-00107",
    "q": "Navic-1 is associated with which of the following?",
    "o": [
     "Cloud computing initiative of the government",
@@ -1321,7 +1621,7 @@
    "e": "Navic-1 — Regional navigation satellite."
   },
   {
-   "id": "current-affairs-00088",
+   "id": "current-affairs-00108",
    "q": "What is the full form of ILO?",
    "o": [
     "Central Statistics Office",
@@ -1336,7 +1636,7 @@
    "e": "ILO stands for International Labour Organization."
   },
   {
-   "id": "current-affairs-00089",
+   "id": "current-affairs-00109",
    "q": "In which year did the following event take place: First general elections held in India?",
    "o": [
     "2023",
@@ -1351,7 +1651,7 @@
    "e": "First general elections held in India — 1952."
   },
   {
-   "id": "current-affairs-00090",
+   "id": "current-affairs-00110",
    "q": "On which date is United Nations Day observed?",
    "o": [
     "25 January",
@@ -1366,7 +1666,7 @@
    "e": "United Nations Day is observed on 24 October."
   },
   {
-   "id": "current-affairs-00091",
+   "id": "current-affairs-00111",
    "q": "Where is the headquarters of NATO?",
    "o": [
     "Bengaluru",
@@ -1381,7 +1681,7 @@
    "e": "NATO is headquartered at Brussels."
   },
   {
-   "id": "current-affairs-00092",
+   "id": "current-affairs-00112",
    "q": "Which document presents the government's annual receipts and expenditure?",
    "o": [
     "Non-performing asset",
@@ -1396,7 +1696,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00093",
+   "id": "current-affairs-00113",
    "q": "Which is the largest airport in India by area?",
    "o": [
     "Indira Gandhi International Airport",
@@ -1411,7 +1711,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00094",
+   "id": "current-affairs-00114",
    "q": "The scheme Rashtriya Gokul Mission was launched with which objective?",
    "o": [
     "Conservation and development of indigenous cattle",
@@ -1426,7 +1726,7 @@
    "e": "Rashtriya Gokul Mission — Conservation and development of indigenous cattle."
   },
   {
-   "id": "current-affairs-00095",
+   "id": "current-affairs-00115",
    "q": "Gaganyaan is associated with which of the following?",
    "o": [
     "Human spaceflight programme of India",
@@ -1441,7 +1741,7 @@
    "e": "Gaganyaan — Human spaceflight programme of India."
   },
   {
-   "id": "current-affairs-00096",
+   "id": "current-affairs-00116",
    "q": "What is the full form of BRICS?",
    "o": [
     "Digital Infrastructure for Knowledge Sharing",
@@ -1456,7 +1756,7 @@
    "e": "BRICS stands for Brazil, Russia, India, China and South Africa."
   },
   {
-   "id": "current-affairs-00097",
+   "id": "current-affairs-00117",
    "q": "In which year did the following event take place: Kargil War?",
    "o": [
     "1977",
@@ -1471,7 +1771,7 @@
    "e": "Kargil War — 1999."
   },
   {
-   "id": "current-affairs-00098",
+   "id": "current-affairs-00118",
    "q": "On which date is World Cancer Day observed?",
    "o": [
     "11 December",
@@ -1486,7 +1786,7 @@
    "e": "World Cancer Day is observed on 4 February."
   },
   {
-   "id": "current-affairs-00099",
+   "id": "current-affairs-00119",
    "q": "Where is the headquarters of World Anti-Doping Agency?",
    "o": [
     "Beijing",
@@ -1501,7 +1801,7 @@
    "e": "World Anti-Doping Agency is headquartered at Montreal."
   },
   {
-   "id": "current-affairs-00100",
+   "id": "current-affairs-00120",
    "q": "Which is an indirect tax in India?",
    "o": [
     "Services sector",
@@ -1516,7 +1816,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00101",
+   "id": "current-affairs-00121",
    "q": "Which year did India achieve 10 per cent ethanol blending in petrol?",
    "o": [
     "Madhya Pradesh",
@@ -1531,7 +1831,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00102",
+   "id": "current-affairs-00122",
    "q": "The scheme Mission Shakti was launched with which objective?",
    "o": [
     "Production and use of green hydrogen",
@@ -1546,7 +1846,7 @@
    "e": "Mission Shakti — Safety and empowerment of women."
   },
   {
-   "id": "current-affairs-00103",
+   "id": "current-affairs-00123",
    "q": "Smart Cities Mission is associated with which of the following?",
    "o": [
     "Eight national missions on climate",
@@ -1561,7 +1861,7 @@
    "e": "Smart Cities Mission — Technology driven urban development."
   },
   {
-   "id": "current-affairs-00104",
+   "id": "current-affairs-00124",
    "q": "What is the full form of RRB?",
    "o": [
     "Insolvency and Bankruptcy Code",
@@ -1576,7 +1876,7 @@
    "e": "RRB stands for Regional Rural Bank."
   },
   {
-   "id": "current-affairs-00105",
+   "id": "current-affairs-00125",
    "q": "In which year did the following event take place: India attained independence?",
    "o": [
     "1947",
@@ -1591,7 +1891,7 @@
    "e": "India attained independence — 1947."
   },
   {
-   "id": "current-affairs-00106",
+   "id": "current-affairs-00126",
    "q": "On which date is International Day of the Girl Child observed?",
    "o": [
     "4 October",
@@ -1606,7 +1906,7 @@
    "e": "International Day of the Girl Child is observed on 11 October."
   },
   {
-   "id": "current-affairs-00107",
+   "id": "current-affairs-00127",
    "q": "Where is the headquarters of European Space Agency?",
    "o": [
     "Beijing",
@@ -1621,7 +1921,7 @@
    "e": "European Space Agency is headquartered at Paris."
   },
   {
-   "id": "current-affairs-00108",
+   "id": "current-affairs-00128",
    "q": "Which is the currency of the United States of America?",
    "o": [
     "Reverse repo",
@@ -1636,7 +1936,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00109",
+   "id": "current-affairs-00129",
    "q": "Which scheme offers free treatment to senior citizens above 70 years under Ayushman Bharat?",
    "o": [
     "Ayushman Bharat Vay Vandana Card",
@@ -1651,7 +1951,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00110",
+   "id": "current-affairs-00130",
    "q": "The scheme PM Janjatiya Unnat Gram Abhiyan was launched with which objective?",
    "o": [
     "Development of tribal villages",
@@ -1666,7 +1966,7 @@
    "e": "PM Janjatiya Unnat Gram Abhiyan — Development of tribal villages."
   },
   {
-   "id": "current-affairs-00111",
+   "id": "current-affairs-00131",
    "q": "SWAYAM is associated with which of the following?",
    "o": [
     "Conservation of tigers and their habitats",
@@ -1681,7 +1981,7 @@
    "e": "SWAYAM — Free online courses platform."
   },
   {
-   "id": "current-affairs-00112",
+   "id": "current-affairs-00132",
    "q": "What is the full form of ORS?",
    "o": [
     "Pradhan Mantri Ujjwala Yojana",
@@ -1696,7 +1996,7 @@
    "e": "ORS stands for Oral Rehydration Solution."
   },
   {
-   "id": "current-affairs-00113",
+   "id": "current-affairs-00133",
    "q": "In which year did the following event take place: Poona Pact signed?",
    "o": [
     "1906",
@@ -1711,7 +2011,7 @@
    "e": "Poona Pact signed — 1932."
   },
   {
-   "id": "current-affairs-00114",
+   "id": "current-affairs-00134",
    "q": "On which date is National Science Day (India) observed?",
    "o": [
     "10 October",
@@ -1726,7 +2026,7 @@
    "e": "National Science Day (India) is observed on 28 February."
   },
   {
-   "id": "current-affairs-00115",
+   "id": "current-affairs-00135",
    "q": "Where is the headquarters of Interpol?",
    "o": [
     "Brussels",
@@ -1741,7 +2041,7 @@
    "e": "Interpol is headquartered at Lyon."
   },
   {
-   "id": "current-affairs-00116",
+   "id": "current-affairs-00136",
    "q": "Which organisation publishes the Human Development Index?",
    "o": [
     "Stagflation",
@@ -1756,7 +2056,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00117",
+   "id": "current-affairs-00137",
    "q": "Which programme supports startups in India?",
    "o": [
     "Gujarat",
@@ -1771,7 +2071,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00118",
+   "id": "current-affairs-00138",
    "q": "The scheme Kisan Credit Card was launched with which objective?",
    "o": [
     "Rooftop solar power for households",
@@ -1786,7 +2086,7 @@
    "e": "Kisan Credit Card — Credit facility for farmers."
   },
   {
-   "id": "current-affairs-00119",
+   "id": "current-affairs-00139",
    "q": "National Green Hydrogen Mission is associated with which of the following?",
    "o": [
     "Conservation of Asiatic lions",
@@ -1801,7 +2101,7 @@
    "e": "National Green Hydrogen Mission — Green hydrogen production and export hub."
   },
   {
-   "id": "current-affairs-00120",
+   "id": "current-affairs-00140",
    "q": "What is the full form of ASEAN?",
    "o": [
     "Association of South East Asian Nations",
@@ -1816,7 +2116,7 @@
    "e": "ASEAN stands for Association of South East Asian Nations."
   },
   {
-   "id": "current-affairs-00121",
+   "id": "current-affairs-00141",
    "q": "In which year did the following event take place: Formation of the Azad Hind Fauj (INA)?",
    "o": [
     "1932",
@@ -1831,7 +2131,7 @@
    "e": "Formation of the Azad Hind Fauj (INA) — 1943."
   },
   {
-   "id": "current-affairs-00122",
+   "id": "current-affairs-00142",
    "q": "On which date is World Red Cross Day observed?",
    "o": [
     "12 May",
@@ -1846,7 +2146,7 @@
    "e": "World Red Cross Day is observed on 8 May."
   },
   {
-   "id": "current-affairs-00123",
+   "id": "current-affairs-00143",
    "q": "Where is the headquarters of World Meteorological Organization?",
    "o": [
     "Geneva",
@@ -1861,7 +2161,7 @@
    "e": "World Meteorological Organization is headquartered at Geneva."
   },
   {
-   "id": "current-affairs-00124",
+   "id": "current-affairs-00144",
    "q": "Who founded the Punjab National Bank?",
    "o": [
     "Fourth Five Year Plan",
@@ -1876,7 +2176,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00125",
+   "id": "current-affairs-00145",
    "q": "In which year was Aditya-L1 launched?",
    "o": [
     "Production Linked Incentive Scheme",
@@ -1891,7 +2191,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00126",
+   "id": "current-affairs-00146",
    "q": "The scheme Pradhan Mantri Matru Vandana Yojana was launched with which objective?",
    "o": [
     "Skill development and employability of youth",
@@ -1906,7 +2206,7 @@
    "e": "Pradhan Mantri Matru Vandana Yojana — Cash incentive for pregnant and lactating mothers."
   },
   {
-   "id": "current-affairs-00127",
+   "id": "current-affairs-00147",
    "q": "Cartosat is associated with which of the following?",
    "o": [
     "Solar observation from the Lagrange point L1",
@@ -1921,7 +2221,7 @@
    "e": "Cartosat — Earth observation satellites for mapping."
   },
   {
-   "id": "current-affairs-00128",
+   "id": "current-affairs-00148",
    "q": "What is the full form of ISIN?",
    "o": [
     "Regional Rural Bank",
@@ -1936,7 +2236,7 @@
    "e": "ISIN stands for International Securities Identification Number."
   },
   {
-   "id": "current-affairs-00129",
+   "id": "current-affairs-00149",
    "q": "In which year did the following event take place: Demonetisation of high value currency notes?",
    "o": [
     "1942",
@@ -1951,7 +2251,7 @@
    "e": "Demonetisation of high value currency notes — 2016."
   },
   {
-   "id": "current-affairs-00130",
+   "id": "current-affairs-00150",
    "q": "On which date is International Anti-Corruption Day observed?",
    "o": [
     "11 December",
@@ -1966,7 +2266,7 @@
    "e": "International Anti-Corruption Day is observed on 9 December."
   },
   {
-   "id": "current-affairs-00131",
+   "id": "current-affairs-00151",
    "q": "Where is the headquarters of United Nations Environment Programme?",
    "o": [
     "Berlin",
@@ -1981,7 +2281,7 @@
    "e": "United Nations Environment Programme is headquartered at Nairobi."
   },
   {
-   "id": "current-affairs-00132",
+   "id": "current-affairs-00152",
    "q": "Which is the largest public sector bank of India by assets?",
    "o": [
     "Lala Lajpat Rai",
@@ -1996,7 +2296,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00133",
+   "id": "current-affairs-00153",
    "q": "Which air exercise is conducted between India and the United Kingdom?",
    "o": [
     "Sikkim",
@@ -2011,7 +2311,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00134",
+   "id": "current-affairs-00154",
    "q": "The scheme Pradhan Mantri Gram Sadak Yojana was launched with which objective?",
    "o": [
     "Digital health records and health infrastructure",
@@ -2026,7 +2326,7 @@
    "e": "Pradhan Mantri Gram Sadak Yojana — All-weather roads for rural areas."
   },
   {
-   "id": "current-affairs-00135",
+   "id": "current-affairs-00155",
    "q": "NavIC is associated with which of the following?",
    "o": [
     "Regional satellite navigation system",
@@ -2041,7 +2341,7 @@
    "e": "NavIC — Regional satellite navigation system."
   },
   {
-   "id": "current-affairs-00136",
+   "id": "current-affairs-00156",
    "q": "What is the full form of UNESCO?",
    "o": [
     "United Nations Educational, Scientific and Cultural Organization",
@@ -2056,7 +2356,7 @@
    "e": "UNESCO stands for United Nations Educational, Scientific and Cultural Organization."
   },
   {
-   "id": "current-affairs-00137",
+   "id": "current-affairs-00157",
    "q": "In which year did the following event take place: First War of Indian Independence (Revolt of 1857)?",
    "o": [
     "1951",
@@ -2071,7 +2371,7 @@
    "e": "First War of Indian Independence (Revolt of 1857) — 1857."
   },
   {
-   "id": "current-affairs-00138",
+   "id": "current-affairs-00158",
    "q": "On which date is World Health Day observed?",
    "o": [
     "23 April",
@@ -2086,7 +2386,7 @@
    "e": "World Health Day is observed on 7 April."
   },
   {
-   "id": "current-affairs-00139",
+   "id": "current-affairs-00159",
    "q": "Where is the headquarters of South Asian University?",
    "o": [
     "Geneva",
@@ -2101,7 +2401,7 @@
    "e": "South Asian University is headquartered at New Delhi."
   },
   {
-   "id": "current-affairs-00140",
+   "id": "current-affairs-00160",
    "q": "Which act governs the issue of banknotes in India?",
    "o": [
     "NPCI",
@@ -2116,7 +2416,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00141",
+   "id": "current-affairs-00161",
    "q": "Which organisation publishes the World Press Freedom Index?",
    "o": [
     "Kerala",
@@ -2131,7 +2431,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00142",
+   "id": "current-affairs-00162",
    "q": "The scheme Make in India was launched with which objective?",
    "o": [
     "Reform of school and higher education in India",
@@ -2146,7 +2446,7 @@
    "e": "Make in India — Promoting manufacturing and investment in India."
   },
   {
-   "id": "current-affairs-00143",
+   "id": "current-affairs-00163",
    "q": "Digital India Programme is associated with which of the following?",
    "o": [
     "Indigenous reusable space shuttle technology",
@@ -2161,7 +2461,7 @@
    "e": "Digital India Programme — Delivery of services through digital platforms."
   },
   {
-   "id": "current-affairs-00144",
+   "id": "current-affairs-00164",
    "q": "What is the full form of NSS?",
    "o": [
     "National Service Scheme",
@@ -2176,7 +2476,7 @@
    "e": "NSS stands for National Service Scheme."
   },
   {
-   "id": "current-affairs-00145",
+   "id": "current-affairs-00165",
    "q": "In which year did the following event take place: Partition of Bengal by Lord Curzon?",
    "o": [
     "1905",
@@ -2191,7 +2491,7 @@
    "e": "Partition of Bengal by Lord Curzon — 1905."
   },
   {
-   "id": "current-affairs-00146",
+   "id": "current-affairs-00166",
    "q": "On which date is International Day of Education observed?",
    "o": [
     "4 July",
@@ -2206,7 +2506,7 @@
    "e": "International Day of Education is observed on 24 January."
   },
   {
-   "id": "current-affairs-00147",
+   "id": "current-affairs-00167",
    "q": "Where is the headquarters of Shanghai Cooperation Organisation?",
    "o": [
     "The Hague",
@@ -2221,7 +2521,7 @@
    "e": "Shanghai Cooperation Organisation is headquartered at Beijing."
   },
   {
-   "id": "current-affairs-00148",
+   "id": "current-affairs-00168",
    "q": "What is the rate at which the RBI lends money to banks for the long term called?",
    "o": [
     "Bank rate",
@@ -2236,7 +2536,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00149",
+   "id": "current-affairs-00169",
    "q": "Which Indian spacecraft was launched to study the Sun in 2023?",
    "o": [
     "BharatNet",
@@ -2251,7 +2551,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00150",
+   "id": "current-affairs-00170",
    "q": "The scheme National Mission on Edible Oils was launched with which objective?",
    "o": [
     "Self-reliance in edible oil production",
@@ -2266,7 +2566,7 @@
    "e": "National Mission on Edible Oils — Self-reliance in edible oil production."
   },
   {
-   "id": "current-affairs-00151",
+   "id": "current-affairs-00171",
    "q": "Project Tiger is associated with which of the following?",
    "o": [
     "Integrated bill payment platform",
@@ -2281,7 +2581,7 @@
    "e": "Project Tiger — Conservation of tigers and their habitats."
   },
   {
-   "id": "current-affairs-00152",
+   "id": "current-affairs-00172",
    "q": "What is the full form of TDS?",
    "o": [
     "Permanent Account Number",
@@ -2296,7 +2596,7 @@
    "e": "TDS stands for Tax Deducted at Source."
   },
   {
-   "id": "current-affairs-00153",
+   "id": "current-affairs-00173",
    "q": "In which year did the following event take place: Mars Orbiter Mission entered Mars orbit?",
    "o": [
     "2014",
@@ -2311,7 +2611,7 @@
    "e": "Mars Orbiter Mission entered Mars orbit — 2014."
   },
   {
-   "id": "current-affairs-00154",
+   "id": "current-affairs-00174",
    "q": "On which date is World First Aid Day observed?",
    "o": [
     "16 October",
@@ -2326,7 +2626,7 @@
    "e": "World First Aid Day is observed on second Saturday of September."
   },
   {
-   "id": "current-affairs-00155",
+   "id": "current-affairs-00175",
    "q": "Where is the headquarters of International Cricket Council?",
    "o": [
     "New York",
@@ -2341,7 +2641,7 @@
    "e": "International Cricket Council is headquartered at Dubai."
   },
   {
-   "id": "current-affairs-00156",
+   "id": "current-affairs-00176",
    "q": "Who was the first Governor of the Reserve Bank of India?",
    "o": [
     "Washington, D.C.",
@@ -2356,7 +2656,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00157",
+   "id": "current-affairs-00177",
    "q": "Which Indian institution is the nodal agency for the Aspirational Districts Programme?",
    "o": [
     "NITI Aayog",
@@ -2371,7 +2671,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00158",
+   "id": "current-affairs-00178",
    "q": "The scheme PM Gati Shakti was launched with which objective?",
    "o": [
     "Food grain self-sufficiency",
@@ -2386,7 +2686,7 @@
    "e": "PM Gati Shakti — Integrated infrastructure planning platform."
   },
   {
-   "id": "current-affairs-00159",
+   "id": "current-affairs-00179",
    "q": "Chandrayaan-1 is associated with which of the following?",
    "o": [
     "Workhorse polar satellite launch vehicle",
@@ -2401,7 +2701,7 @@
    "e": "Chandrayaan-1 — Discovery of water molecules on the Moon."
   },
   {
-   "id": "current-affairs-00160",
+   "id": "current-affairs-00180",
    "q": "What is the full form of PMGSY?",
    "o": [
     "Light Emitting Diode",
@@ -2416,7 +2716,7 @@
    "e": "PMGSY stands for Pradhan Mantri Gram Sadak Yojana."
   },
   {
-   "id": "current-affairs-00161",
+   "id": "current-affairs-00181",
    "q": "In which year did the following event take place: Bhopal gas tragedy?",
    "o": [
     "1984",
@@ -2431,7 +2731,7 @@
    "e": "Bhopal gas tragedy — 1984."
   },
   {
-   "id": "current-affairs-00162",
+   "id": "current-affairs-00182",
    "q": "On which date is Doctors' Day (India) observed?",
    "o": [
     "23 April",
@@ -2446,7 +2746,7 @@
    "e": "Doctors' Day (India) is observed on 1 July."
   },
   {
-   "id": "current-affairs-00163",
+   "id": "current-affairs-00183",
    "q": "Where is the headquarters of OECD?",
    "o": [
     "Geneva",
@@ -2461,7 +2761,7 @@
    "e": "OECD is headquartered at Paris."
   },
   {
-   "id": "current-affairs-00164",
+   "id": "current-affairs-00184",
    "q": "In which year was NITI Aayog constituted?",
    "o": [
     "NITI Aayog",
@@ -2476,7 +2776,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00165",
+   "id": "current-affairs-00185",
    "q": "Which is India's first indigenous space shuttle programme?",
    "o": [
     "PM SVANidhi",
@@ -2491,7 +2791,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00166",
+   "id": "current-affairs-00186",
    "q": "The scheme Soil Health Card Scheme was launched with which objective?",
    "o": [
     "Digital health records and health infrastructure",
@@ -2506,7 +2806,7 @@
    "e": "Soil Health Card Scheme — Soil testing and nutrient recommendations."
   },
   {
-   "id": "current-affairs-00167",
+   "id": "current-affairs-00187",
    "q": "AstroSat is associated with which of the following?",
    "o": [
     "Lunar orbiter studying the Moon",
@@ -2521,7 +2821,7 @@
    "e": "AstroSat — Multi-wavelength space observatory."
   },
   {
-   "id": "current-affairs-00168",
+   "id": "current-affairs-00188",
    "q": "What is the full form of CTET?",
    "o": [
     "Closed Circuit Television",
@@ -2536,7 +2836,7 @@
    "e": "CTET stands for Central Teacher Eligibility Test."
   },
   {
-   "id": "current-affairs-00169",
+   "id": "current-affairs-00189",
    "q": "In which year did the following event take place: Launch of the Non-Cooperation Movement?",
    "o": [
     "2001",
@@ -2551,7 +2851,7 @@
    "e": "Launch of the Non-Cooperation Movement — 1920."
   },
   {
-   "id": "current-affairs-00170",
+   "id": "current-affairs-00190",
    "q": "On which date is Republic Day (India) observed?",
    "o": [
     "11 November",
@@ -2566,7 +2866,7 @@
    "e": "Republic Day (India) is observed on 26 January."
   },
   {
-   "id": "current-affairs-00171",
+   "id": "current-affairs-00191",
    "q": "Where is the headquarters of European Union?",
    "o": [
     "Brussels",
@@ -2581,7 +2881,7 @@
    "e": "European Union is headquartered at Brussels."
   },
   {
-   "id": "current-affairs-00172",
+   "id": "current-affairs-00192",
    "q": "Which code deals with insolvency resolution in India?",
    "o": [
     "IRDAI",
@@ -2596,7 +2896,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00173",
+   "id": "current-affairs-00193",
    "q": "Which Indian festival was inscribed on the UNESCO Intangible Cultural Heritage list?",
    "o": [
     "Howrah Junction",
@@ -2611,7 +2911,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00174",
+   "id": "current-affairs-00194",
    "q": "The scheme e-Rupee was launched with which objective?",
    "o": [
     "Portable food entitlements across states",
@@ -2626,7 +2926,7 @@
    "e": "e-Rupee — India's central bank digital currency pilot."
   },
   {
-   "id": "current-affairs-00175",
+   "id": "current-affairs-00195",
    "q": "MeghRaj is associated with which of the following?",
    "o": [
     "Digital infrastructure for school education",
@@ -2641,7 +2941,7 @@
    "e": "MeghRaj — Cloud computing initiative of the government."
   },
   {
-   "id": "current-affairs-00176",
+   "id": "current-affairs-00196",
    "q": "What is the full form of IBPS?",
    "o": [
     "Subscriber Identity Module",
@@ -2656,7 +2956,7 @@
    "e": "IBPS stands for Institute of Banking Personnel Selection."
   },
   {
-   "id": "current-affairs-00177",
+   "id": "current-affairs-00197",
    "q": "In which year did the following event take place: India signed the civil nuclear deal with the USA?",
    "o": [
     "2023",
@@ -2671,7 +2971,7 @@
    "e": "India signed the civil nuclear deal with the USA — 2008."
   },
   {
-   "id": "current-affairs-00178",
+   "id": "current-affairs-00198",
    "q": "On which date is International Day of the World's Indigenous Peoples observed?",
    "o": [
     "1 July",
@@ -2686,7 +2986,7 @@
    "e": "International Day of the World's Indigenous Peoples is observed on 9 August."
   },
   {
-   "id": "current-affairs-00179",
+   "id": "current-affairs-00199",
    "q": "Where is the headquarters of National Aeronautics and Space Administration?",
    "o": [
     "The Hague",
@@ -2701,7 +3001,7 @@
    "e": "National Aeronautics and Space Administration is headquartered at Washington, D.C.."
   },
   {
-   "id": "current-affairs-00180",
+   "id": "current-affairs-00200",
    "q": "What is a loan that is not being repaid called?",
    "o": [
     "Atal Pension Yojana",
@@ -2716,7 +3016,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00181",
+   "id": "current-affairs-00201",
    "q": "Which G20 theme song was released by India?",
    "o": [
     "NavIC",
@@ -2731,7 +3031,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00182",
+   "id": "current-affairs-00202",
    "q": "The scheme PM SVANidhi was launched with which objective?",
    "o": [
     "Free health cover for senior citizens above seventy",
@@ -2746,7 +3046,7 @@
    "e": "PM SVANidhi — Working capital loans for street vendors."
   },
   {
-   "id": "current-affairs-00183",
+   "id": "current-affairs-00203",
    "q": "BharatNet is associated with which of the following?",
    "o": [
     "Radar imaging satellites for all-weather observation",
@@ -2761,7 +3061,7 @@
    "e": "BharatNet — Optical fibre connectivity to gram panchayats."
   },
   {
-   "id": "current-affairs-00184",
+   "id": "current-affairs-00204",
    "q": "What is the full form of CBI?",
    "o": [
     "Central Bureau of Investigation",
@@ -2776,7 +3076,7 @@
    "e": "CBI stands for Central Bureau of Investigation."
   },
   {
-   "id": "current-affairs-00185",
+   "id": "current-affairs-00205",
    "q": "In which year did the following event take place: First meeting of the Constituent Assembly?",
    "o": [
     "1977",
@@ -2791,7 +3091,7 @@
    "e": "First meeting of the Constituent Assembly — 1946."
   },
   {
-   "id": "current-affairs-00186",
+   "id": "current-affairs-00206",
    "q": "On which date is World Cities Day observed?",
    "o": [
     "31 October",
@@ -2806,7 +3106,7 @@
    "e": "World Cities Day is observed on 31 October."
   },
   {
-   "id": "current-affairs-00187",
+   "id": "current-affairs-00207",
    "q": "Where is the headquarters of International Criminal Court?",
    "o": [
     "Geneva",
@@ -2821,7 +3121,7 @@
    "e": "International Criminal Court is headquartered at The Hague."
   },
   {
-   "id": "current-affairs-00188",
+   "id": "current-affairs-00208",
    "q": "Which is the currency of Japan?",
    "o": [
     "General Agreement on Tariffs and Trade",
@@ -2836,7 +3136,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00189",
+   "id": "current-affairs-00209",
    "q": "Which Indian ballistic missile has the longest range?",
    "o": [
     "Agni-V",
@@ -2851,7 +3151,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00190",
+   "id": "current-affairs-00210",
    "q": "The scheme Blue Revolution was launched with which objective?",
    "o": [
     "Health insurance cover of five lakh rupees per family",
@@ -2866,7 +3166,7 @@
    "e": "Blue Revolution — Development of fisheries and aquaculture."
   },
   {
-   "id": "current-affairs-00191",
+   "id": "current-affairs-00211",
    "q": "Chandrayaan-2 is associated with which of the following?",
    "o": [
     "Clean cooking fuel for poor households",
@@ -2881,7 +3181,7 @@
    "e": "Chandrayaan-2 — Lunar orbiter studying the Moon."
   },
   {
-   "id": "current-affairs-00192",
+   "id": "current-affairs-00212",
    "q": "What is the full form of CSR?",
    "o": [
     "Corporate Social Responsibility",
@@ -2896,7 +3196,7 @@
    "e": "CSR stands for Corporate Social Responsibility."
   },
   {
-   "id": "current-affairs-00193",
+   "id": "current-affairs-00213",
    "q": "In which year did the following event take place: Chauri Chaura incident?",
    "o": [
     "1943",
@@ -2911,7 +3211,7 @@
    "e": "Chauri Chaura incident — 1922."
   },
   {
-   "id": "current-affairs-00194",
+   "id": "current-affairs-00214",
    "q": "On which date is World Hindi Day observed?",
    "o": [
     "21 February",
@@ -2926,7 +3226,7 @@
    "e": "World Hindi Day is observed on 10 January."
   },
   {
-   "id": "current-affairs-00195",
+   "id": "current-affairs-00215",
    "q": "Where is the headquarters of Transparency International?",
    "o": [
     "London",
@@ -2941,7 +3241,7 @@
    "e": "Transparency International is headquartered at Berlin."
   },
   {
-   "id": "current-affairs-00196",
+   "id": "current-affairs-00216",
    "q": "Which body recommends the distribution of taxes between the Centre and States?",
    "o": [
     "Per capita income",
@@ -2956,7 +3256,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00197",
+   "id": "current-affairs-00217",
    "q": "Which Indian state has the highest number of UNESCO World Heritage Sites?",
    "o": [
     "Maharashtra",
@@ -2971,7 +3271,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00198",
+   "id": "current-affairs-00218",
    "q": "The scheme India Semiconductor Mission was launched with which objective?",
    "o": [
     "Building a semiconductor ecosystem in India",
@@ -2986,7 +3286,7 @@
    "e": "India Semiconductor Mission — Building a semiconductor ecosystem in India."
   },
   {
-   "id": "current-affairs-00199",
+   "id": "current-affairs-00219",
    "q": "Project Elephant is associated with which of the following?",
    "o": [
     "Electric vehicle promotion",
@@ -3001,7 +3301,7 @@
    "e": "Project Elephant — Conservation of elephants and corridors."
   },
   {
-   "id": "current-affairs-00200",
+   "id": "current-affairs-00220",
    "q": "What is the full form of CISF?",
    "o": [
     "Ribonucleic Acid",
@@ -3016,7 +3316,7 @@
    "e": "CISF stands for Central Industrial Security Force."
   },
   {
-   "id": "current-affairs-00201",
+   "id": "current-affairs-00221",
    "q": "In which year did the following event take place: Shimla Agreement signed?",
    "o": [
     "1946",
@@ -3031,7 +3331,7 @@
    "e": "Shimla Agreement signed — 1972."
   },
   {
-   "id": "current-affairs-00202",
+   "id": "current-affairs-00222",
    "q": "On which date is World Braille Day observed?",
    "o": [
     "20 May",
@@ -3046,7 +3346,7 @@
    "e": "World Braille Day is observed on 4 January."
   },
   {
-   "id": "current-affairs-00203",
+   "id": "current-affairs-00223",
    "q": "Where is the headquarters of United Nations Industrial Development Organization?",
    "o": [
     "The Hague",
@@ -3061,7 +3361,7 @@
    "e": "United Nations Industrial Development Organization is headquartered at Vienna."
   },
   {
-   "id": "current-affairs-00204",
+   "id": "current-affairs-00224",
    "q": "Which is the first Indian bank to open an overseas branch?",
    "o": [
     "Four",
@@ -3076,7 +3376,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00205",
+   "id": "current-affairs-00225",
    "q": "Which cyclone hit the east coast of India in 2020?",
    "o": [
     "Reusable Launch Vehicle",
@@ -3091,7 +3391,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00206",
+   "id": "current-affairs-00226",
    "q": "The scheme FAME India Scheme was launched with which objective?",
    "o": [
     "Collateral-free loans for micro enterprises",
@@ -3106,7 +3406,7 @@
    "e": "FAME India Scheme — Promotion of electric and hybrid vehicles."
   },
   {
-   "id": "current-affairs-00207",
+   "id": "current-affairs-00227",
    "q": "National Broadband Mission is associated with which of the following?",
    "o": [
     "Broadband for all by 2024",
@@ -3121,7 +3421,7 @@
    "e": "National Broadband Mission — Broadband for all by 2024."
   },
   {
-   "id": "current-affairs-00208",
+   "id": "current-affairs-00228",
    "q": "What is the full form of NATO?",
    "o": [
     "World Wide Fund for Nature",
@@ -3136,7 +3436,7 @@
    "e": "NATO stands for North Atlantic Treaty Organization."
   },
   {
-   "id": "current-affairs-00209",
+   "id": "current-affairs-00229",
    "q": "In which year did the following event take place: Operation Blue Star?",
    "o": [
     "1984",
@@ -3151,7 +3451,7 @@
    "e": "Operation Blue Star — 1984."
   },
   {
-   "id": "current-affairs-00210",
+   "id": "current-affairs-00230",
    "q": "On which date is World AIDS Day observed?",
    "o": [
     "10 January",
@@ -3166,7 +3466,7 @@
    "e": "World AIDS Day is observed on 1 December."
   },
   {
-   "id": "current-affairs-00211",
+   "id": "current-affairs-00231",
    "q": "Where is the headquarters of World Food Programme?",
    "o": [
     "Mumbai",
@@ -3181,7 +3481,7 @@
    "e": "World Food Programme is headquartered at Rome."
   },
   {
-   "id": "current-affairs-00212",
+   "id": "current-affairs-00232",
    "q": "Which committee recommended the establishment of regional rural banks?",
    "o": [
     "5 per cent",
@@ -3196,7 +3496,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00213",
+   "id": "current-affairs-00233",
    "q": "Which Indian state has the highest GST collection?",
    "o": [
     "Pradhan Mantri Ujjwala Yojana",
@@ -3211,7 +3511,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00214",
+   "id": "current-affairs-00234",
    "q": "The scheme Pradhan Mantri Kaushal Vikas Yojana was launched with which objective?",
    "o": [
     "Pension for workers in the unorganised sector",
@@ -3226,7 +3526,7 @@
    "e": "Pradhan Mantri Kaushal Vikas Yojana — Skill certification of youth."
   },
   {
-   "id": "current-affairs-00215",
+   "id": "current-affairs-00235",
    "q": "Ek Bharat Shreshtha Bharat is associated with which of the following?",
    "o": [
     "Human spaceflight programme of India",
@@ -3241,7 +3541,7 @@
    "e": "Ek Bharat Shreshtha Bharat — Cultural integration across states."
   },
   {
-   "id": "current-affairs-00216",
+   "id": "current-affairs-00236",
    "q": "What is the full form of LEO?",
    "o": [
     "European Space Agency",
@@ -3256,7 +3556,7 @@
    "e": "LEO stands for Low Earth Orbit."
   },
   {
-   "id": "current-affairs-00217",
+   "id": "current-affairs-00237",
    "q": "In which year did the following event take place: Simon Commission arrived in India?",
    "o": [
     "2008",
@@ -3271,7 +3571,7 @@
    "e": "Simon Commission arrived in India — 1928."
   },
   {
-   "id": "current-affairs-00218",
+   "id": "current-affairs-00238",
    "q": "On which date is International Mother Earth Day observed?",
    "o": [
     "22 April",
@@ -3286,7 +3586,7 @@
    "e": "International Mother Earth Day is observed on 22 April."
   },
   {
-   "id": "current-affairs-00219",
+   "id": "current-affairs-00239",
    "q": "Where is the headquarters of International Olympic Committee?",
    "o": [
     "Dubai",
@@ -3301,7 +3601,7 @@
    "e": "International Olympic Committee is headquartered at Lausanne."
   },
   {
-   "id": "current-affairs-00220",
+   "id": "current-affairs-00240",
    "q": "Which is the most widely traded currency in the world?",
    "o": [
     "1966",
@@ -3316,7 +3616,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00221",
+   "id": "current-affairs-00241",
    "q": "Which scheme supports the dairy sector in India?",
    "o": [
     "Marathi",
@@ -3331,7 +3631,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00222",
+   "id": "current-affairs-00242",
    "q": "The scheme National Digital Health Mission was launched with which objective?",
    "o": [
     "Production and use of green hydrogen",
@@ -3346,7 +3646,7 @@
    "e": "National Digital Health Mission — Digital health ecosystem for India."
   },
   {
-   "id": "current-affairs-00223",
+   "id": "current-affairs-00243",
    "q": "National Electric Mobility Mission is associated with which of the following?",
    "o": [
     "Free online courses platform",
@@ -3361,7 +3661,7 @@
    "e": "National Electric Mobility Mission — Adoption of electric vehicles."
   },
   {
-   "id": "current-affairs-00224",
+   "id": "current-affairs-00244",
    "q": "What is the full form of BSF?",
    "o": [
     "Employee Stock Option Plan",
@@ -3376,7 +3676,7 @@
    "e": "BSF stands for Border Security Force."
   },
   {
-   "id": "current-affairs-00225",
+   "id": "current-affairs-00245",
    "q": "In which year did the following event take place: Government of India Act passed?",
    "o": [
     "1951",
@@ -3391,7 +3691,7 @@
    "e": "Government of India Act passed — 1935."
   },
   {
-   "id": "current-affairs-00226",
+   "id": "current-affairs-00246",
    "q": "On which date is World Book Day observed?",
    "o": [
     "3 March",
@@ -3406,7 +3706,7 @@
    "e": "World Book Day is observed on 23 April."
   },
   {
-   "id": "current-affairs-00227",
+   "id": "current-affairs-00247",
    "q": "Where is the headquarters of International Court of Justice?",
    "o": [
     "The Hague",
@@ -3421,7 +3721,7 @@
    "e": "International Court of Justice is headquartered at The Hague."
   },
   {
-   "id": "current-affairs-00228",
+   "id": "current-affairs-00248",
    "q": "Which of these is a quantitative tool of monetary policy?",
    "o": [
     "The Wealth of Nations",
@@ -3436,7 +3736,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00229",
+   "id": "current-affairs-00249",
    "q": "Which cyclone hit Odisha in 1999 with severe impact?",
    "o": [
     "Neeraj Chopra",
@@ -3451,7 +3751,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00230",
+   "id": "current-affairs-00250",
    "q": "The scheme Poshan Abhiyaan was launched with which objective?",
    "o": [
     "Improving nutrition among children and women",
@@ -3466,7 +3766,7 @@
    "e": "Poshan Abhiyaan — Improving nutrition among children and women."
   },
   {
-   "id": "current-affairs-00231",
+   "id": "current-affairs-00251",
    "q": "National Skill Development Mission is associated with which of the following?",
    "o": [
     "Multi-wavelength space observatory",
@@ -3481,7 +3781,7 @@
    "e": "National Skill Development Mission — Skilling and vocational training."
   },
   {
-   "id": "current-affairs-00232",
+   "id": "current-affairs-00252",
    "q": "What is the full form of UNICEF?",
    "o": [
     "International Union for Conservation of Nature",
@@ -3496,7 +3796,7 @@
    "e": "UNICEF stands for United Nations Children's Fund."
   },
   {
-   "id": "current-affairs-00233",
+   "id": "current-affairs-00253",
    "q": "In which year did the following event take place: National Emergency declared in India?",
    "o": [
     "1975",
@@ -3511,7 +3811,7 @@
    "e": "National Emergency declared in India — 1975."
   },
   {
-   "id": "current-affairs-00234",
+   "id": "current-affairs-00254",
    "q": "On which date is World Sparrow Day observed?",
    "o": [
     "2 October",
@@ -3526,7 +3826,7 @@
    "e": "World Sparrow Day is observed on 20 March."
   },
   {
-   "id": "current-affairs-00235",
+   "id": "current-affairs-00255",
    "q": "Where is the headquarters of Board of Control for Cricket in India?",
    "o": [
     "Kathmandu",
@@ -3541,7 +3841,7 @@
    "e": "Board of Control for Cricket in India is headquartered at Mumbai."
   },
   {
-   "id": "current-affairs-00236",
+   "id": "current-affairs-00256",
    "q": "Which article provides for the Finance Commission?",
    "o": [
     "Washington, D.C.",
@@ -3556,7 +3856,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00237",
+   "id": "current-affairs-00257",
    "q": "Which scheme provides digital documents to citizens?",
    "o": [
     "National Food Security Mission",
@@ -3571,7 +3871,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00238",
+   "id": "current-affairs-00258",
    "q": "The scheme PM CARES Fund was launched with which objective?",
    "o": [
     "Free LPG connections to women from poor households",
@@ -3586,7 +3886,7 @@
    "e": "PM CARES Fund — Emergency relief during the COVID-19 pandemic."
   },
   {
-   "id": "current-affairs-00239",
+   "id": "current-affairs-00259",
    "q": "e-Kranti is associated with which of the following?",
    "o": [
     "Electronic delivery of government services",
@@ -3601,7 +3901,7 @@
    "e": "e-Kranti — Electronic delivery of government services."
   },
   {
-   "id": "current-affairs-00240",
+   "id": "current-affairs-00260",
    "q": "What is the full form of NAV?",
    "o": [
     "Unmanned Aerial Vehicle",
@@ -3616,7 +3916,7 @@
    "e": "NAV stands for Net Asset Value."
   },
   {
-   "id": "current-affairs-00241",
+   "id": "current-affairs-00261",
    "q": "In which year did the following event take place: Founding of the All India Muslim League?",
    "o": [
     "1952",
@@ -3631,7 +3931,7 @@
    "e": "Founding of the All India Muslim League — 1906."
   },
   {
-   "id": "current-affairs-00242",
+   "id": "current-affairs-00262",
    "q": "On which date is Independence Day (USA) observed?",
    "o": [
     "16 October",
@@ -3646,7 +3946,7 @@
    "e": "Independence Day (USA) is observed on 4 July."
   },
   {
-   "id": "current-affairs-00243",
+   "id": "current-affairs-00263",
    "q": "Where is the headquarters of International Atomic Energy Agency?",
    "o": [
     "Nairobi",
@@ -3661,7 +3961,7 @@
    "e": "International Atomic Energy Agency is headquartered at Vienna."
   },
   {
-   "id": "current-affairs-00244",
+   "id": "current-affairs-00264",
    "q": "Who is known as the father of the Green Revolution in India?",
    "o": [
     "M. S. Swaminathan",
@@ -3676,7 +3976,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00245",
+   "id": "current-affairs-00265",
    "q": "Which mission aims to provide broadband connectivity to villages?",
    "o": [
     "Maharashtra",
@@ -3691,7 +3991,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00246",
+   "id": "current-affairs-00266",
    "q": "The scheme Pradhan Mantri Awas Yojana was launched with which objective?",
    "o": [
     "Housing for all",
@@ -3706,7 +4006,7 @@
    "e": "Pradhan Mantri Awas Yojana — Housing for all."
   },
   {
-   "id": "current-affairs-00247",
+   "id": "current-affairs-00267",
    "q": "National Action Plan on Climate Change is associated with which of the following?",
    "o": [
     "Eight national missions on climate",
@@ -3721,7 +4021,7 @@
    "e": "National Action Plan on Climate Change — Eight national missions on climate."
   },
   {
-   "id": "current-affairs-00248",
+   "id": "current-affairs-00268",
    "q": "What is the full form of JEE?",
    "o": [
     "Institute of Banking Personnel Selection",
@@ -3736,7 +4036,7 @@
    "e": "JEE stands for Joint Entrance Examination."
   },
   {
-   "id": "current-affairs-00249",
+   "id": "current-affairs-00269",
    "q": "In which year did the following event take place: Attack on the Indian Parliament?",
    "o": [
     "1905",
@@ -3751,7 +4051,7 @@
    "e": "Attack on the Indian Parliament — 2001."
   },
   {
-   "id": "current-affairs-00250",
+   "id": "current-affairs-00270",
    "q": "On which date is World Osteoporosis Day observed?",
    "o": [
     "8 November",
@@ -3766,7 +4066,7 @@
    "e": "World Osteoporosis Day is observed on 20 October."
   },
   {
-   "id": "current-affairs-00251",
+   "id": "current-affairs-00271",
    "q": "Where is the headquarters of ASEAN?",
    "o": [
     "Basel",
@@ -3781,7 +4081,7 @@
    "e": "ASEAN is headquartered at Jakarta."
   },
   {
-   "id": "current-affairs-00252",
+   "id": "current-affairs-00272",
    "q": "Which index is used to measure retail inflation in India?",
    "o": [
     "Consumer Price Index",
@@ -3796,7 +4096,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00253",
+   "id": "current-affairs-00273",
    "q": "Which city hosted the 2024 Summer Olympics?",
    "o": [
     "Maharashtra",
@@ -3811,7 +4111,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00254",
+   "id": "current-affairs-00274",
    "q": "The scheme Aspirational Districts Programme was launched with which objective?",
    "o": [
     "Rapid transformation of backward districts",
@@ -3826,7 +4126,7 @@
    "e": "Aspirational Districts Programme — Rapid transformation of backward districts."
   },
   {
-   "id": "current-affairs-00255",
+   "id": "current-affairs-00275",
    "q": "XPoSat is associated with which of the following?",
    "o": [
     "Skilling and vocational training",
@@ -3841,7 +4141,7 @@
    "e": "XPoSat — X-ray polarimetry studies of black holes."
   },
   {
-   "id": "current-affairs-00256",
+   "id": "current-affairs-00276",
    "q": "What is the full form of NSG?",
    "o": [
     "National Security Guard",
@@ -3856,7 +4156,7 @@
    "e": "NSG stands for National Security Guard."
   },
   {
-   "id": "current-affairs-00257",
+   "id": "current-affairs-00277",
    "q": "In which year did the following event take place: Article 370 provisions abrogated?",
    "o": [
     "2019",
@@ -3871,7 +4171,7 @@
    "e": "Article 370 provisions abrogated — 2019."
   },
   {
-   "id": "current-affairs-00258",
+   "id": "current-affairs-00278",
    "q": "On which date is International Women's Day observed?",
    "o": [
     "1 July",
@@ -3886,7 +4186,7 @@
    "e": "International Women's Day is observed on 8 March."
   },
   {
-   "id": "current-affairs-00259",
+   "id": "current-affairs-00279",
    "q": "Where is the headquarters of International Labour Organization headquarters city?",
    "o": [
     "Bern",
@@ -3901,7 +4201,7 @@
    "e": "International Labour Organization headquarters city is headquartered at Geneva."
   },
   {
-   "id": "current-affairs-00260",
+   "id": "current-affairs-00280",
    "q": "In which year was the World Trade Organization established?",
    "o": [
     "Six",
@@ -3916,7 +4216,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00261",
+   "id": "current-affairs-00281",
    "q": "Which Indian scheme won the WHO award for tobacco control?",
    "o": [
     "National Tobacco Control Programme",
@@ -3931,7 +4231,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00262",
+   "id": "current-affairs-00282",
    "q": "The scheme Sukanya Samriddhi Yojana was launched with which objective?",
    "o": [
     "Small savings scheme for the girl child",
@@ -3946,7 +4246,7 @@
    "e": "Sukanya Samriddhi Yojana — Small savings scheme for the girl child."
   },
   {
-   "id": "current-affairs-00263",
+   "id": "current-affairs-00283",
    "q": "INSAT is associated with which of the following?",
    "o": [
     "Regional navigation satellite",
@@ -3961,7 +4261,7 @@
    "e": "INSAT — Communication and weather satellites."
   },
   {
-   "id": "current-affairs-00264",
+   "id": "current-affairs-00284",
    "q": "What is the full form of ISRO?",
    "o": [
     "Direct Current",
@@ -3976,7 +4276,7 @@
    "e": "ISRO stands for Indian Space Research Organisation."
   },
   {
-   "id": "current-affairs-00265",
+   "id": "current-affairs-00285",
    "q": "In which year did the following event take place: Royal Indian Navy Mutiny?",
    "o": [
     "1906",
@@ -3991,7 +4291,7 @@
    "e": "Royal Indian Navy Mutiny — 1946."
   },
   {
-   "id": "current-affairs-00266",
+   "id": "current-affairs-00286",
    "q": "On which date is World Standards Day observed?",
    "o": [
     "21 May",
@@ -4006,7 +4306,7 @@
    "e": "World Standards Day is observed on 14 October."
   },
   {
-   "id": "current-affairs-00267",
+   "id": "current-affairs-00287",
    "q": "Where is the headquarters of World Intellectual Property Organization?",
    "o": [
     "Geneva",
@@ -4021,7 +4321,7 @@
    "e": "World Intellectual Property Organization is headquartered at Geneva."
   },
   {
-   "id": "current-affairs-00268",
+   "id": "current-affairs-00288",
    "q": "What is a special economic zone?",
    "o": [
     "28 per cent",
@@ -4036,7 +4336,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00269",
+   "id": "current-affairs-00289",
    "q": "Which Indian union territory has the highest literacy rate?",
    "o": [
     "United States of America",
@@ -4051,7 +4351,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00270",
+   "id": "current-affairs-00290",
    "q": "The scheme Beti Bachao Beti Padhao was launched with which objective?",
    "o": [
     "Skill certification of youth",
@@ -4066,7 +4366,7 @@
    "e": "Beti Bachao Beti Padhao — Welfare and education of the girl child."
   },
   {
-   "id": "current-affairs-00271",
+   "id": "current-affairs-00291",
    "q": "DIKSHA is associated with which of the following?",
    "o": [
     "Digital infrastructure for school education",
@@ -4081,7 +4381,7 @@
    "e": "DIKSHA — Digital infrastructure for school education."
   },
   {
-   "id": "current-affairs-00272",
+   "id": "current-affairs-00292",
    "q": "What is the full form of DNA?",
    "o": [
     "North Atlantic Treaty Organization",
@@ -4096,7 +4396,7 @@
    "e": "DNA stands for Deoxyribonucleic Acid."
   },
   {
-   "id": "current-affairs-00273",
+   "id": "current-affairs-00293",
    "q": "In which year did the following event take place: Liberation of Goa?",
    "o": [
     "1948",
@@ -4111,7 +4411,7 @@
    "e": "Liberation of Goa — 1961."
   },
   {
-   "id": "current-affairs-00274",
+   "id": "current-affairs-00294",
    "q": "On which date is International Students' Day observed?",
    "o": [
     "4 July",
@@ -4126,7 +4426,7 @@
    "e": "International Students' Day is observed on 17 November."
   },
   {
-   "id": "current-affairs-00275",
+   "id": "current-affairs-00295",
    "q": "Where is the headquarters of CERN?",
    "o": [
     "Geneva",
@@ -4141,7 +4441,7 @@
    "e": "CERN is headquartered at Geneva."
   },
   {
-   "id": "current-affairs-00276",
+   "id": "current-affairs-00296",
    "q": "Which index represents the Bombay Stock Exchange?",
    "o": [
     "Consolidated Fund of India",
@@ -4156,7 +4456,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00277",
+   "id": "current-affairs-00297",
    "q": "Which portal is used for the Ayushman Bharat scheme?",
    "o": [
     "PM Surya Ghar Muft Bijli Yojana",
@@ -4171,7 +4471,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00278",
+   "id": "current-affairs-00298",
    "q": "The scheme Ayushman Bharat Vay Vandana Card was launched with which objective?",
    "o": [
     "Reform of school and higher education in India",
@@ -4186,7 +4486,7 @@
    "e": "Ayushman Bharat Vay Vandana Card — Free health cover for senior citizens above seventy."
   },
   {
-   "id": "current-affairs-00279",
+   "id": "current-affairs-00299",
    "q": "Ujjwala Mission is associated with which of the following?",
    "o": [
     "Clean cooking fuel for poor households",
@@ -4201,7 +4501,7 @@
    "e": "Ujjwala Mission — Clean cooking fuel for poor households."
   },
   {
-   "id": "current-affairs-00280",
+   "id": "current-affairs-00300",
    "q": "What is the full form of UPI?",
    "o": [
     "Organisation for Economic Co-operation and Development",
@@ -4216,7 +4516,7 @@
    "e": "UPI stands for Unified Payments Interface."
   },
   {
-   "id": "current-affairs-00281",
+   "id": "current-affairs-00301",
    "q": "In which year did the following event take place: G20 Summit hosted in New Delhi?",
    "o": [
     "1962",
@@ -4231,7 +4531,7 @@
    "e": "G20 Summit hosted in New Delhi — 2023."
   },
   {
-   "id": "current-affairs-00282",
+   "id": "current-affairs-00302",
    "q": "On which date is World Vegan Day observed?",
    "o": [
     "1 November",
@@ -4246,7 +4546,7 @@
    "e": "World Vegan Day is observed on 1 November."
   },
   {
-   "id": "current-affairs-00283",
+   "id": "current-affairs-00303",
    "q": "Where is the headquarters of Comprehensive Nuclear-Test-Ban Treaty Organization?",
    "o": [
     "Geneva",
@@ -4261,7 +4561,7 @@
    "e": "Comprehensive Nuclear-Test-Ban Treaty Organization is headquartered at Vienna."
   },
   {
-   "id": "current-affairs-00284",
+   "id": "current-affairs-00304",
    "q": "What is the record of all economic transactions of a country called?",
    "o": [
     "Liberalisation, Privatisation and Globalisation",
@@ -4276,7 +4576,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00285",
+   "id": "current-affairs-00305",
    "q": "Who became the first Indian woman to win an Olympic silver in badminton?",
    "o": [
     "United States of America",
@@ -4291,7 +4591,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00286",
+   "id": "current-affairs-00306",
    "q": "The scheme Green Revolution was launched with which objective?",
    "o": [
     "Conservation and development of indigenous cattle",
@@ -4306,7 +4606,7 @@
    "e": "Green Revolution — Food grain self-sufficiency."
   },
   {
-   "id": "current-affairs-00287",
+   "id": "current-affairs-00307",
    "q": "Faster Adoption and Manufacturing of Electric Vehicles is associated with which of the following?",
    "o": [
     "Conservation of river and marine dolphins",
@@ -4321,7 +4621,7 @@
    "e": "Faster Adoption and Manufacturing of Electric Vehicles — Electric vehicle promotion."
   },
   {
-   "id": "current-affairs-00288",
+   "id": "current-affairs-00308",
    "q": "What is the full form of NDA?",
    "o": [
     "National Defence Academy",
@@ -4336,7 +4636,7 @@
    "e": "NDA stands for National Defence Academy."
   },
   {
-   "id": "current-affairs-00289",
+   "id": "current-affairs-00309",
    "q": "In which year did the following event take place: India-Pakistan war and Tashkent Agreement?",
    "o": [
     "1943",
@@ -4351,7 +4651,7 @@
    "e": "India-Pakistan war and Tashkent Agreement — 1965."
   },
   {
-   "id": "current-affairs-00290",
+   "id": "current-affairs-00310",
    "q": "On which date is World Habitat Day observed?",
    "o": [
     "2 February",
@@ -4366,7 +4666,7 @@
    "e": "World Habitat Day is observed on first Monday of October."
   },
   {
-   "id": "current-affairs-00291",
+   "id": "current-affairs-00311",
    "q": "Where is the headquarters of Commonwealth of Nations?",
    "o": [
     "Geneva",
@@ -4381,7 +4681,7 @@
    "e": "Commonwealth of Nations is headquartered at London."
   },
   {
-   "id": "current-affairs-00292",
+   "id": "current-affairs-00312",
    "q": "What is a tax that takes a larger share of income from the poor called?",
    "o": [
     "Regressive tax",
@@ -4396,7 +4696,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00293",
+   "id": "current-affairs-00313",
    "q": "Which semi-high-speed train was launched by Indian Railways?",
    "o": [
     "Vande Bharat Express",
@@ -4411,7 +4711,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00294",
+   "id": "current-affairs-00314",
    "q": "The scheme Ayushman Arogya Mandir was launched with which objective?",
    "o": [
     "Rooftop solar power for households",
@@ -4426,7 +4726,7 @@
    "e": "Ayushman Arogya Mandir — Upgraded health and wellness centres."
   },
   {
-   "id": "current-affairs-00295",
+   "id": "current-affairs-00315",
    "q": "Fit India Movement is associated with which of the following?",
    "o": [
     "Conservation of tigers and their habitats",
@@ -4441,7 +4741,7 @@
    "e": "Fit India Movement — Promotion of fitness and sports."
   },
   {
-   "id": "current-affairs-00296",
+   "id": "current-affairs-00316",
    "q": "What is the full form of IMPS?",
    "o": [
     "World Wide Fund for Nature",
@@ -4456,7 +4756,7 @@
    "e": "IMPS stands for Immediate Payment Service."
   },
   {
-   "id": "current-affairs-00297",
+   "id": "current-affairs-00317",
    "q": "In which year did the following event take place: Mumbai terror attacks?",
    "o": [
     "1920",
@@ -4471,7 +4771,7 @@
    "e": "Mumbai terror attacks — 2008."
   },
   {
-   "id": "current-affairs-00298",
+   "id": "current-affairs-00318",
    "q": "On which date is World Students' Day observed?",
    "o": [
     "15 October",
@@ -4486,7 +4786,7 @@
    "e": "World Students' Day is observed on 15 October."
   },
   {
-   "id": "current-affairs-00299",
+   "id": "current-affairs-00319",
    "q": "Where is the headquarters of SAARC?",
    "o": [
     "The Hague",
@@ -4501,7 +4801,7 @@
    "e": "SAARC is headquartered at Kathmandu."
   },
   {
-   "id": "current-affairs-00300",
+   "id": "current-affairs-00320",
    "q": "Which revolution is associated with the production of cotton?",
    "o": [
     "Microeconomics",
@@ -4516,7 +4816,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00301",
+   "id": "current-affairs-00321",
    "q": "Which Indian state shares borders with the maximum countries?",
    "o": [
     "Arunachal Pradesh",
@@ -4531,7 +4831,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00302",
+   "id": "current-affairs-00322",
    "q": "The scheme National Food Security Act was launched with which objective?",
    "o": [
     "Irrigation coverage and water use efficiency",
@@ -4546,7 +4846,7 @@
    "e": "National Food Security Act — Subsidised food grains to two-thirds of the population."
   },
   {
-   "id": "current-affairs-00303",
+   "id": "current-affairs-00323",
    "q": "PMAY-Urban is associated with which of the following?",
    "o": [
     "Electronic delivery of government services",
@@ -4561,7 +4861,7 @@
    "e": "PMAY-Urban — Affordable housing in urban areas."
   },
   {
-   "id": "current-affairs-00304",
+   "id": "current-affairs-00324",
    "q": "What is the full form of LCD?",
    "o": [
     "International Telecommunication Union",
@@ -4576,7 +4876,7 @@
    "e": "LCD stands for Liquid Crystal Display."
   },
   {
-   "id": "current-affairs-00305",
+   "id": "current-affairs-00325",
    "q": "In which year did the following event take place: Dandi March launched by Mahatma Gandhi?",
    "o": [
     "1947",
@@ -4591,7 +4891,7 @@
    "e": "Dandi March launched by Mahatma Gandhi — 1930."
   },
   {
-   "id": "current-affairs-00306",
+   "id": "current-affairs-00326",
    "q": "On which date is World Hepatitis Day observed?",
    "o": [
     "28 July",
@@ -4606,7 +4906,7 @@
    "e": "World Hepatitis Day is observed on 28 July."
   },
   {
-   "id": "current-affairs-00307",
+   "id": "current-affairs-00327",
    "q": "Where is the headquarters of UNESCO?",
    "o": [
     "Vienna",
@@ -4621,7 +4921,7 @@
    "e": "UNESCO is headquartered at Paris."
   },
   {
-   "id": "current-affairs-00308",
+   "id": "current-affairs-00328",
    "q": "Which Constitutional amendment introduced GST in India?",
    "o": [
     "Central Board of Direct Taxes",
@@ -4636,7 +4936,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00309",
+   "id": "current-affairs-00329",
    "q": "Which Indian nuclear submarine was commissioned in 2016?",
    "o": [
     "Group Captain Prasanth Balakrishnan Nair",
@@ -4651,7 +4951,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00310",
+   "id": "current-affairs-00330",
    "q": "The scheme Ujjwala 2.0 was launched with which objective?",
    "o": [
     "Housing for all",
@@ -4666,7 +4966,7 @@
    "e": "Ujjwala 2.0 — Extension of free LPG connections to migrant families."
   },
   {
-   "id": "current-affairs-00311",
+   "id": "current-affairs-00331",
    "q": "Project Cheetah is associated with which of the following?",
    "o": [
     "Online library for students",
@@ -4681,7 +4981,7 @@
    "e": "Project Cheetah — Reintroduction of cheetahs in India."
   },
   {
-   "id": "current-affairs-00312",
+   "id": "current-affairs-00332",
    "q": "What is the full form of TB?",
    "o": [
     "International Court of Justice",
@@ -4696,7 +4996,7 @@
    "e": "TB stands for Tuberculosis."
   },
   {
-   "id": "current-affairs-00313",
+   "id": "current-affairs-00333",
    "q": "In which year did the following event take place: Gandhi-Irwin Pact signed?",
    "o": [
     "1931",
@@ -4711,7 +5011,7 @@
    "e": "Gandhi-Irwin Pact signed — 1931."
   },
   {
-   "id": "current-affairs-00314",
+   "id": "current-affairs-00334",
    "q": "On which date is World Polio Day observed?",
    "o": [
     "14 October",
@@ -4726,7 +5026,7 @@
    "e": "World Polio Day is observed on 24 October."
   },
   {
-   "id": "current-affairs-00315",
+   "id": "current-affairs-00335",
    "q": "Where is the headquarters of UNICEF?",
    "o": [
     "Dubai",
@@ -4741,7 +5041,7 @@
    "e": "UNICEF is headquartered at New York."
   },
   {
-   "id": "current-affairs-00316",
+   "id": "current-affairs-00336",
    "q": "What is the term for the sharing of power between the Centre and States?",
    "o": [
     "Agriculture sector",
@@ -4756,7 +5056,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00317",
+   "id": "current-affairs-00337",
    "q": "Which Indian initiative promotes the use of ethanol-blended petrol?",
    "o": [
     "Ethanol Blending Programme",
@@ -4771,7 +5071,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00318",
+   "id": "current-affairs-00338",
    "q": "The scheme Pradhan Mantri Mudra Yojana was launched with which objective?",
    "o": [
     "Small savings scheme for the girl child",
@@ -4786,7 +5086,7 @@
    "e": "Pradhan Mantri Mudra Yojana — Collateral-free loans for micro enterprises."
   },
   {
-   "id": "current-affairs-00319",
+   "id": "current-affairs-00339",
    "q": "Khelo India is associated with which of the following?",
    "o": [
     "Electric vehicle promotion",
@@ -4801,7 +5101,7 @@
    "e": "Khelo India — Grassroots sports development."
   },
   {
-   "id": "current-affairs-00320",
+   "id": "current-affairs-00340",
    "q": "What is the full form of GPS?",
    "o": [
     "Point of Sale",
@@ -4816,7 +5116,7 @@
    "e": "GPS stands for Global Positioning System."
   },
   {
-   "id": "current-affairs-00321",
+   "id": "current-affairs-00341",
    "q": "In which year did the following event take place: Indira Gandhi became Prime Minister?",
    "o": [
     "1966",
@@ -4831,7 +5131,7 @@
    "e": "Indira Gandhi became Prime Minister — 1966."
   },
   {
-   "id": "current-affairs-00322",
+   "id": "current-affairs-00342",
    "q": "On which date is World Post Day observed?",
    "o": [
     "18 December",
@@ -4846,7 +5146,7 @@
    "e": "World Post Day is observed on 9 October."
   },
   {
-   "id": "current-affairs-00323",
+   "id": "current-affairs-00343",
    "q": "Where is the headquarters of UN High Commissioner for Refugees?",
    "o": [
     "Beijing",
@@ -4861,7 +5161,7 @@
    "e": "UN High Commissioner for Refugees is headquartered at Geneva."
   },
   {
-   "id": "current-affairs-00324",
+   "id": "current-affairs-00344",
    "q": "In which year was the first Five Year Plan launched in India?",
    "o": [
     "State Bank of India",
@@ -4876,7 +5176,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00325",
+   "id": "current-affairs-00345",
    "q": "Which country is the largest producer of millets?",
    "o": [
     "Yudh Abhyas",
@@ -4891,7 +5191,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00326",
+   "id": "current-affairs-00346",
    "q": "The scheme One Nation One Ration Card was launched with which objective?",
    "o": [
     "Portable food entitlements across states",
@@ -4906,7 +5206,7 @@
    "e": "One Nation One Ration Card — Portable food entitlements across states."
   },
   {
-   "id": "current-affairs-00327",
+   "id": "current-affairs-00347",
    "q": "International Solar Alliance is associated with which of the following?",
    "o": [
     "Cloud computing initiative of the government",
@@ -4921,7 +5221,7 @@
    "e": "International Solar Alliance — Global cooperation on solar energy."
   },
   {
-   "id": "current-affairs-00328",
+   "id": "current-affairs-00348",
    "q": "What is the full form of ATM?",
    "o": [
     "Krishi Vigyan Kendra",
@@ -4936,7 +5236,7 @@
    "e": "ATM stands for Automated Teller Machine."
   },
   {
-   "id": "current-affairs-00329",
+   "id": "current-affairs-00349",
    "q": "In which year did the following event take place: Pokhran-I nuclear test (Smiling Buddha)?",
    "o": [
     "2023",
@@ -4951,7 +5251,7 @@
    "e": "Pokhran-I nuclear test (Smiling Buddha) — 1974."
   },
   {
-   "id": "current-affairs-00330",
+   "id": "current-affairs-00350",
    "q": "On which date is Constitution Day (India) observed?",
    "o": [
     "8 November",
@@ -4966,7 +5266,7 @@
    "e": "Constitution Day (India) is observed on 26 November."
   },
   {
-   "id": "current-affairs-00331",
+   "id": "current-affairs-00351",
    "q": "Where is the headquarters of Indian Space Research Organisation?",
    "o": [
     "Zurich",
@@ -4981,7 +5281,7 @@
    "e": "Indian Space Research Organisation is headquartered at Bengaluru."
   },
   {
-   "id": "current-affairs-00332",
+   "id": "current-affairs-00352",
    "q": "Which is the central bank of the United States?",
    "o": [
     "Consolidated Fund of India",
@@ -4996,7 +5296,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00333",
+   "id": "current-affairs-00353",
    "q": "Which Indian defence exercise is held with the United States in the Himalayas?",
    "o": [
     "National Tobacco Control Programme",
@@ -5011,7 +5311,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00334",
+   "id": "current-affairs-00354",
    "q": "The scheme e-NAM was launched with which objective?",
    "o": [
     "Universal immunisation of children",
@@ -5026,7 +5326,7 @@
    "e": "e-NAM — Online national agriculture market for farmers."
   },
   {
-   "id": "current-affairs-00335",
+   "id": "current-affairs-00355",
    "q": "HRIDAY is associated with which of the following?",
    "o": [
     "Heritage city development and rejuvenation",
@@ -5041,7 +5341,7 @@
    "e": "HRIDAY — Heritage city development and rejuvenation."
   },
   {
-   "id": "current-affairs-00336",
+   "id": "current-affairs-00356",
    "q": "What is the full form of ESA?",
    "o": [
     "Launch Vehicle Mark 3",
@@ -5056,7 +5356,7 @@
    "e": "ESA stands for European Space Agency."
   },
   {
-   "id": "current-affairs-00337",
+   "id": "current-affairs-00357",
    "q": "In which year did the following event take place: Assassination of Mahatma Gandhi?",
    "o": [
     "2023",
@@ -5071,7 +5371,7 @@
    "e": "Assassination of Mahatma Gandhi — 1948."
   },
   {
-   "id": "current-affairs-00338",
+   "id": "current-affairs-00358",
    "q": "On which date is International Migrants Day observed?",
    "o": [
     "24 January",
@@ -5086,7 +5386,7 @@
    "e": "International Migrants Day is observed on 18 December."
   },
   {
-   "id": "current-affairs-00339",
+   "id": "current-affairs-00359",
    "q": "Where is the headquarters of New Development Bank?",
    "o": [
     "Washington, D.C.",
@@ -5101,7 +5401,7 @@
    "e": "New Development Bank is headquartered at Shanghai."
   },
   {
-   "id": "current-affairs-00340",
+   "id": "current-affairs-00360",
    "q": "What is the term for the difference between exports and imports of goods?",
    "o": [
     "GST Council and CBIC",
@@ -5116,7 +5416,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00341",
+   "id": "current-affairs-00361",
    "q": "Which country jointly developed the BrahMos missile with India?",
    "o": [
     "India Semiconductor Mission",
@@ -5131,7 +5431,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00342",
+   "id": "current-affairs-00362",
    "q": "The scheme Jal Jeevan Mission was launched with which objective?",
    "o": [
     "Piped drinking water to every rural household",
@@ -5146,7 +5446,7 @@
    "e": "Jal Jeevan Mission — Piped drinking water to every rural household."
   },
   {
-   "id": "current-affairs-00343",
+   "id": "current-affairs-00363",
    "q": "Bharat Bill Payment System is associated with which of the following?",
    "o": [
     "Indigenous reusable space shuttle technology",
@@ -5161,7 +5461,7 @@
    "e": "Bharat Bill Payment System — Integrated bill payment platform."
   },
   {
-   "id": "current-affairs-00344",
+   "id": "current-affairs-00364",
    "q": "What is the full form of NPCI?",
    "o": [
     "Net National Product",
@@ -5176,7 +5476,7 @@
    "e": "NPCI stands for National Payments Corporation of India."
   },
   {
-   "id": "current-affairs-00345",
+   "id": "current-affairs-00365",
    "q": "In which year did the following event take place: India won the Cricket World Cup?",
    "o": [
     "1983",
@@ -5191,7 +5491,7 @@
    "e": "India won the Cricket World Cup — 1983."
   },
   {
-   "id": "current-affairs-00346",
+   "id": "current-affairs-00366",
    "q": "On which date is World Radiography Day observed?",
    "o": [
     "13 February",
@@ -5206,7 +5506,7 @@
    "e": "World Radiography Day is observed on 8 November."
   },
   {
-   "id": "current-affairs-00347",
+   "id": "current-affairs-00367",
    "q": "Where is the headquarters of Universal Postal Union?",
    "o": [
     "Bern",
@@ -5221,7 +5521,7 @@
    "e": "Universal Postal Union is headquartered at Bern."
   },
   {
-   "id": "current-affairs-00348",
+   "id": "current-affairs-00368",
    "q": "In which year was the Bombay Stock Exchange established?",
    "o": [
     "UNDP",
@@ -5236,7 +5536,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00349",
+   "id": "current-affairs-00369",
    "q": "Which report measures the state of the environment in India?",
    "o": [
     "Aryabhatta Research Institute of Observational Sciences telescope",
@@ -5251,7 +5551,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00350",
+   "id": "current-affairs-00370",
    "q": "The scheme PM Surya Ghar Muft Bijli Yojana was launched with which objective?",
    "o": [
     "Rooftop solar power for households",
@@ -5266,7 +5566,7 @@
    "e": "PM Surya Ghar Muft Bijli Yojana — Rooftop solar power for households."
   },
   {
-   "id": "current-affairs-00351",
+   "id": "current-affairs-00371",
    "q": "Mangalyaan is associated with which of the following?",
    "o": [
     "Global cooperation on solar energy",
@@ -5281,7 +5581,7 @@
    "e": "Mangalyaan — India's first Mars orbiter mission."
   },
   {
-   "id": "current-affairs-00352",
+   "id": "current-affairs-00372",
    "q": "What is the full form of JAM?",
    "o": [
     "Pradhan Mantri Jan Dhan Yojana",
@@ -5296,7 +5596,7 @@
    "e": "JAM stands for Jan Dhan, Aadhaar and Mobile."
   },
   {
-   "id": "current-affairs-00353",
+   "id": "current-affairs-00373",
    "q": "In which year did the following event take place: India-China border war?",
    "o": [
     "1906",
@@ -5311,7 +5611,7 @@
    "e": "India-China border war — 1962."
   },
   {
-   "id": "current-affairs-00354",
+   "id": "current-affairs-00374",
    "q": "On which date is World Heritage Day observed?",
    "o": [
     "18 April",
@@ -5326,7 +5626,7 @@
    "e": "World Heritage Day is observed on 18 April."
   },
   {
-   "id": "current-affairs-00355",
+   "id": "current-affairs-00375",
    "q": "Where is the headquarters of World Wide Fund for Nature?",
    "o": [
     "Bern",
@@ -5341,7 +5641,7 @@
    "e": "World Wide Fund for Nature is headquartered at Gland."
   },
   {
-   "id": "current-affairs-00356",
+   "id": "current-affairs-00376",
    "q": "What is the sale of government stakes in public sector units called?",
    "o": [
     "Wholesale Price Index",
@@ -5356,7 +5656,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00357",
+   "id": "current-affairs-00377",
    "q": "Which ISRO mission is named after a former ISRO chairman?",
    "o": [
     "Maharashtra",
@@ -5371,7 +5671,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00358",
+   "id": "current-affairs-00378",
    "q": "The scheme National Green Hydrogen Mission was launched with which objective?",
    "o": [
     "Production and use of green hydrogen",
@@ -5386,7 +5686,7 @@
    "e": "National Green Hydrogen Mission — Production and use of green hydrogen."
   },
   {
-   "id": "current-affairs-00359",
+   "id": "current-affairs-00379",
    "q": "PSLV is associated with which of the following?",
    "o": [
     "Electric vehicle promotion",
@@ -5401,7 +5701,7 @@
    "e": "PSLV — Workhorse polar satellite launch vehicle."
   },
   {
-   "id": "current-affairs-00360",
+   "id": "current-affairs-00380",
    "q": "What is the full form of SAARC?",
    "o": [
     "Indian Military Academy",
@@ -5416,7 +5716,7 @@
    "e": "SAARC stands for South Asian Association for Regional Cooperation."
   },
   {
-   "id": "current-affairs-00361",
+   "id": "current-affairs-00381",
    "q": "Which of the following events took place in 1965?",
    "o": [
     "India-Pakistan war and Tashkent Agreement",
@@ -5431,7 +5731,7 @@
    "e": "India-Pakistan war and Tashkent Agreement took place in 1965."
   },
   {
-   "id": "current-affairs-00362",
+   "id": "current-affairs-00382",
    "q": "On which date is World Mental Health Day observed?",
    "o": [
     "22 December",
@@ -5446,7 +5746,7 @@
    "e": "World Mental Health Day is observed on 10 October."
   },
   {
-   "id": "current-affairs-00363",
+   "id": "current-affairs-00383",
    "q": "Where is the headquarters of International Committee of the Red Cross?",
    "o": [
     "Vienna",
@@ -5461,7 +5761,7 @@
    "e": "International Committee of the Red Cross is headquartered at Geneva."
   },
   {
-   "id": "current-affairs-00364",
+   "id": "current-affairs-00384",
    "q": "Which mission promotes manufacturing in India?",
    "o": [
     "Make in India",
@@ -5476,7 +5776,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00365",
+   "id": "current-affairs-00385",
    "q": "Which country hosted the 2023 Asian Games?",
    "o": [
     "China",
@@ -5491,7 +5791,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00366",
+   "id": "current-affairs-00386",
    "q": "The scheme Atal Pension Yojana was launched with which objective?",
    "o": [
     "Pension for workers in the unorganised sector",
@@ -5506,7 +5806,7 @@
    "e": "Atal Pension Yojana — Pension for workers in the unorganised sector."
   },
   {
-   "id": "current-affairs-00367",
+   "id": "current-affairs-00387",
    "q": "Project Dolphin is associated with which of the following?",
    "o": [
     "Eight national missions on climate",
@@ -5521,7 +5821,7 @@
    "e": "Project Dolphin — Conservation of river and marine dolphins."
   },
   {
-   "id": "current-affairs-00368",
+   "id": "current-affairs-00388",
    "q": "What is the full form of SIDBI?",
    "o": [
     "Pradhan Mantri Kisan Samman Nidhi",
@@ -5536,7 +5836,7 @@
    "e": "SIDBI stands for Small Industries Development Bank of India."
   },
   {
-   "id": "current-affairs-00369",
+   "id": "current-affairs-00389",
    "q": "Which of the following events took place in 1932?",
    "o": [
     "Pokhran-I nuclear test (Smiling Buddha)",
@@ -5551,7 +5851,7 @@
    "e": "Poona Pact signed took place in 1932."
   },
   {
-   "id": "current-affairs-00370",
+   "id": "current-affairs-00390",
    "q": "On which date is National Education Day (India) observed?",
    "o": [
     "21 September",
@@ -5566,7 +5866,7 @@
    "e": "National Education Day (India) is observed on 11 November."
   },
   {
-   "id": "current-affairs-00371",
+   "id": "current-affairs-00391",
    "q": "Where is the headquarters of World Economic Forum?",
    "o": [
     "Cologny",
@@ -5581,7 +5881,7 @@
    "e": "World Economic Forum is headquartered at Cologny."
   },
   {
-   "id": "current-affairs-00372",
+   "id": "current-affairs-00392",
    "q": "What is the gap between government expenditure and revenue called?",
    "o": [
     "Disinvestment",
@@ -5596,7 +5896,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00373",
+   "id": "current-affairs-00393",
    "q": "Which country hosted the FIFA World Cup 2022?",
    "o": [
     "National Tobacco Control Programme",
@@ -5611,7 +5911,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00374",
+   "id": "current-affairs-00394",
    "q": "The scheme Pradhan Mantri Kisan Samman Nidhi was launched with which objective?",
    "o": [
     "Extension of free LPG connections to migrant families",
@@ -5626,7 +5926,7 @@
    "e": "Pradhan Mantri Kisan Samman Nidhi — Income support of six thousand rupees to small farmers."
   },
   {
-   "id": "current-affairs-00375",
+   "id": "current-affairs-00395",
    "q": "Swachh Survekshan is associated with which of the following?",
    "o": [
     "Multi-wavelength space observatory",
@@ -5641,7 +5941,7 @@
    "e": "Swachh Survekshan — Cleanliness ranking of Indian cities."
   },
   {
-   "id": "current-affairs-00376",
+   "id": "current-affairs-00396",
    "q": "What is the full form of AIDS?",
    "o": [
     "Insurance Regulatory and Development Authority of India",
@@ -5656,7 +5956,7 @@
    "e": "AIDS stands for Acquired Immune Deficiency Syndrome."
   },
   {
-   "id": "current-affairs-00377",
+   "id": "current-affairs-00397",
    "q": "Which of the following events took place in 1948?",
    "o": [
     "Formation of the Azad Hind Fauj (INA)",
@@ -5671,7 +5971,7 @@
    "e": "Assassination of Mahatma Gandhi took place in 1948."
   },
   {
-   "id": "current-affairs-00378",
+   "id": "current-affairs-00398",
    "q": "On which date is World Wildlife Day observed?",
    "o": [
     "21 June",
@@ -5686,7 +5986,7 @@
    "e": "World Wildlife Day is observed on 3 March."
   },
   {
-   "id": "current-affairs-00379",
+   "id": "current-affairs-00399",
    "q": "Where is the headquarters of OPEC?",
    "o": [
     "Vienna",
@@ -5701,7 +6001,7 @@
    "e": "OPEC is headquartered at Vienna."
   },
   {
-   "id": "current-affairs-00380",
+   "id": "current-affairs-00400",
    "q": "Which sector is known as the secondary sector of the economy?",
    "o": [
     "Manufacturing",
@@ -5716,7 +6016,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00381",
+   "id": "current-affairs-00401",
    "q": "Which Indian state launched the world's largest healthcare scheme?",
    "o": [
     "Bharat Ratna",
@@ -5731,7 +6031,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00382",
+   "id": "current-affairs-00402",
    "q": "The scheme Production Linked Incentive Scheme was launched with which objective?",
    "o": [
     "Free food grains to the poor",
@@ -5746,7 +6046,7 @@
    "e": "Production Linked Incentive Scheme — Incentives to boost manufacturing across sectors."
   },
   {
-   "id": "current-affairs-00383",
+   "id": "current-affairs-00403",
    "q": "GSAT is associated with which of the following?",
    "o": [
     "Communication satellites of India",
@@ -5761,7 +6061,7 @@
    "e": "GSAT — Communication satellites of India."
   },
   {
-   "id": "current-affairs-00384",
+   "id": "current-affairs-00404",
    "q": "What is the full form of IIT?",
    "o": [
     "United Nations Educational, Scientific and Cultural Organization",
@@ -5776,7 +6076,7 @@
    "e": "IIT stands for Indian Institute of Technology."
   },
   {
-   "id": "current-affairs-00385",
+   "id": "current-affairs-00405",
    "q": "Which of the following events took place in 1931?",
    "o": [
     "Demonetisation of high value currency notes",
@@ -5791,7 +6091,7 @@
    "e": "Gandhi-Irwin Pact signed took place in 1931."
   },
   {
-   "id": "current-affairs-00386",
+   "id": "current-affairs-00406",
    "q": "On which date is National Mathematics Day (India) observed?",
    "o": [
     "28 July",
@@ -5806,7 +6106,7 @@
    "e": "National Mathematics Day (India) is observed on 22 December."
   },
   {
-   "id": "current-affairs-00387",
+   "id": "current-affairs-00407",
    "q": "Where is the headquarters of Amnesty International?",
    "o": [
     "Rome",
@@ -5821,7 +6121,7 @@
    "e": "Amnesty International is headquartered at London."
   },
   {
-   "id": "current-affairs-00388",
+   "id": "current-affairs-00408",
    "q": "Which body regulates the securities market in India?",
    "o": [
     "Urjit Patel Committee",
@@ -5836,7 +6136,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00389",
+   "id": "current-affairs-00409",
    "q": "In which year did India host the BRICS Summit in Goa?",
    "o": [
     "2016",
@@ -5851,7 +6151,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00390",
+   "id": "current-affairs-00410",
    "q": "The scheme Pradhan Mantri Fasal Bima Yojana was launched with which objective?",
    "o": [
     "Upgraded health and wellness centres",
@@ -5866,7 +6166,7 @@
    "e": "Pradhan Mantri Fasal Bima Yojana — Crop insurance for farmers."
   },
   {
-   "id": "current-affairs-00391",
+   "id": "current-affairs-00411",
    "q": "Which mission is described as: Grassroots sports development?",
    "o": [
     "National Digital Library",
@@ -5881,7 +6181,7 @@
    "e": "Grassroots sports development describes Khelo India."
   },
   {
-   "id": "current-affairs-00392",
+   "id": "current-affairs-00412",
    "q": "What is the full form of NDB?",
    "o": [
     "Pension Fund Regulatory and Development Authority",
@@ -5896,7 +6196,7 @@
    "e": "NDB stands for New Development Bank."
   },
   {
-   "id": "current-affairs-00393",
+   "id": "current-affairs-00413",
    "q": "Which of the following events took place in 1946?",
    "o": [
     "Royal Indian Navy Mutiny",
@@ -5911,7 +6211,7 @@
    "e": "Royal Indian Navy Mutiny took place in 1946."
   },
   {
-   "id": "current-affairs-00394",
+   "id": "current-affairs-00414",
    "q": "On which date is World Toilet Day observed?",
    "o": [
     "1 December",
@@ -5926,7 +6226,7 @@
    "e": "World Toilet Day is observed on 19 November."
   },
   {
-   "id": "current-affairs-00395",
+   "id": "current-affairs-00415",
    "q": "Where is the headquarters of Food and Agriculture Organization?",
    "o": [
     "Geneva",
@@ -5941,7 +6241,7 @@
    "e": "Food and Agriculture Organization is headquartered at Rome."
   },
   {
-   "id": "current-affairs-00396",
+   "id": "current-affairs-00416",
    "q": "What is the interest charged by banks on loans called?",
    "o": [
     "Pound Sterling",
@@ -5956,7 +6256,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00397",
+   "id": "current-affairs-00417",
    "q": "Which Indian state recorded the highest tiger population?",
    "o": [
     "PM SVANidhi",
@@ -5971,7 +6271,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00398",
+   "id": "current-affairs-00418",
    "q": "The scheme Ayushman Bharat was launched with which objective?",
    "o": [
     "Development of fisheries and aquaculture",
@@ -5986,7 +6286,7 @@
    "e": "Ayushman Bharat — Health insurance cover of five lakh rupees per family."
   },
   {
-   "id": "current-affairs-00399",
+   "id": "current-affairs-00419",
    "q": "Which mission is described as: Optical fibre connectivity to gram panchayats?",
    "o": [
     "National Skill Development Mission",
@@ -6001,7 +6301,7 @@
    "e": "Optical fibre connectivity to gram panchayats describes BharatNet."
   },
   {
-   "id": "current-affairs-00400",
+   "id": "current-affairs-00420",
    "q": "What is the full form of ESI?",
    "o": [
     "Subscriber Identity Module",
@@ -6016,7 +6316,7 @@
    "e": "ESI stands for Employees' State Insurance."
   },
   {
-   "id": "current-affairs-00401",
+   "id": "current-affairs-00421",
    "q": "Which of the following events took place in 1930?",
    "o": [
     "Kargil War",
@@ -6031,7 +6331,7 @@
    "e": "Dandi March launched by Mahatma Gandhi took place in 1930."
   },
   {
-   "id": "current-affairs-00402",
+   "id": "current-affairs-00422",
    "q": "On which date is National Sports Day (India) observed?",
    "o": [
     "12 May",
@@ -6046,7 +6346,7 @@
    "e": "National Sports Day (India) is observed on 29 August."
   },
   {
-   "id": "current-affairs-00403",
+   "id": "current-affairs-00423",
    "q": "Where is the headquarters of International Hockey Federation?",
    "o": [
     "Geneva",
@@ -6061,7 +6361,7 @@
    "e": "International Hockey Federation is headquartered at Lausanne."
   },
   {
-   "id": "current-affairs-00404",
+   "id": "current-affairs-00424",
    "q": "What is the term for dumping goods below cost to capture a market?",
    "o": [
     "Finance Commission",
@@ -6076,7 +6376,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00405",
+   "id": "current-affairs-00425",
    "q": "Which Indian state has the most Ramsar sites?",
    "o": [
     "PM Surya Ghar Muft Bijli Yojana",
@@ -6091,7 +6391,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00406",
+   "id": "current-affairs-00426",
    "q": "The scheme Namami Gange was launched with which objective?",
    "o": [
     "Cleaning and conservation of the Ganga",
@@ -6106,7 +6406,7 @@
    "e": "Namami Gange — Cleaning and conservation of the Ganga."
   },
   {
-   "id": "current-affairs-00407",
+   "id": "current-affairs-00427",
    "q": "Which mission is described as: Conservation of river and marine dolphins?",
    "o": [
     "Project Dolphin",
@@ -6121,7 +6421,7 @@
    "e": "Conservation of river and marine dolphins describes Project Dolphin."
   },
   {
-   "id": "current-affairs-00408",
+   "id": "current-affairs-00428",
    "q": "What is the full form of MSME?",
    "o": [
     "National Education Policy",
@@ -6136,7 +6436,7 @@
    "e": "MSME stands for Micro, Small and Medium Enterprises."
   },
   {
-   "id": "current-affairs-00409",
+   "id": "current-affairs-00429",
    "q": "Which of the following events took place in 1951?",
    "o": [
     "First Five Year Plan launched",
@@ -6151,7 +6451,7 @@
    "e": "First Five Year Plan launched took place in 1951."
   },
   {
-   "id": "current-affairs-00410",
+   "id": "current-affairs-00430",
    "q": "On which date is International Nurses Day observed?",
    "o": [
     "2 December",
@@ -6166,7 +6466,7 @@
    "e": "International Nurses Day is observed on 12 May."
   },
   {
-   "id": "current-affairs-00411",
+   "id": "current-affairs-00431",
    "q": "Where is the headquarters of International Fund for Agricultural Development?",
    "o": [
     "Nairobi",
@@ -6181,7 +6481,7 @@
    "e": "International Fund for Agricultural Development is headquartered at Rome."
   },
   {
-   "id": "current-affairs-00412",
+   "id": "current-affairs-00432",
    "q": "How many major banks were nationalised in India in 1969?",
    "o": [
     "SEBI",
@@ -6196,7 +6496,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00413",
+   "id": "current-affairs-00433",
    "q": "Which Indian state is the largest producer of millets?",
    "o": [
     "INS Arihant",
@@ -6211,7 +6511,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00414",
+   "id": "current-affairs-00434",
    "q": "The scheme Digital India was launched with which objective?",
    "o": [
     "Incentives to boost manufacturing across sectors",
@@ -6226,7 +6526,7 @@
    "e": "Digital India — Digital delivery of services and digital literacy."
   },
   {
-   "id": "current-affairs-00415",
+   "id": "current-affairs-00435",
    "q": "Which mission is described as: Eight national missions on climate?",
    "o": [
     "RISAT",
@@ -6241,7 +6541,7 @@
    "e": "Eight national missions on climate describes National Action Plan on Climate Change."
   },
   {
-   "id": "current-affairs-00416",
+   "id": "current-affairs-00436",
    "q": "What is the full form of RTE?",
    "o": [
     "Right to Education",
@@ -6256,7 +6556,7 @@
    "e": "RTE stands for Right to Education."
   },
   {
-   "id": "current-affairs-00417",
+   "id": "current-affairs-00437",
    "q": "Which of the following events took place in 1947?",
    "o": [
     "India attained independence",
@@ -6271,7 +6571,7 @@
    "e": "India attained independence took place in 1947."
   },
   {
-   "id": "current-affairs-00418",
+   "id": "current-affairs-00438",
    "q": "On which date is World Energy Conservation Day observed?",
    "o": [
     "26 July",
@@ -6286,7 +6586,7 @@
    "e": "World Energy Conservation Day is observed on 14 December."
   },
   {
-   "id": "current-affairs-00419",
+   "id": "current-affairs-00439",
    "q": "Where is the headquarters of Asian Development Bank?",
    "o": [
     "Manila",
@@ -6301,7 +6601,7 @@
    "e": "Asian Development Bank is headquartered at Manila."
   },
   {
-   "id": "current-affairs-00420",
+   "id": "current-affairs-00440",
    "q": "Who is known as the father of modern economics?",
    "o": [
     "Food Corporation of India",
@@ -6316,7 +6616,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00421",
+   "id": "current-affairs-00441",
    "q": "Which scheme aims to provide free cooking gas in rural areas and reduce smoke?",
    "o": [
     "Tamil Nadu",
@@ -6331,7 +6631,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00422",
+   "id": "current-affairs-00442",
    "q": "The scheme Ayushman Bharat Digital Mission was launched with which objective?",
    "o": [
     "All-weather roads for rural areas",
@@ -6346,7 +6646,7 @@
    "e": "Ayushman Bharat Digital Mission — Digital health records and health infrastructure."
   },
   {
-   "id": "current-affairs-00423",
+   "id": "current-affairs-00443",
    "q": "Which mission is described as: Multi-wavelength space observatory?",
    "o": [
     "e-Kranti",
@@ -6361,7 +6661,7 @@
    "e": "Multi-wavelength space observatory describes AstroSat."
   },
   {
-   "id": "current-affairs-00424",
+   "id": "current-affairs-00444",
    "q": "What is the full form of CBIC?",
    "o": [
     "Group of Twenty major economies",
@@ -6376,7 +6676,7 @@
    "e": "CBIC stands for Central Board of Indirect Taxes and Customs."
   },
   {
-   "id": "current-affairs-00425",
+   "id": "current-affairs-00445",
    "q": "Which of the following events took place in 1962?",
    "o": [
     "Article 370 provisions abrogated",
@@ -6391,7 +6691,7 @@
    "e": "India-China border war took place in 1962."
   },
   {
-   "id": "current-affairs-00426",
+   "id": "current-affairs-00446",
    "q": "On which date is World Radio Day observed?",
    "o": [
     "11 November",
@@ -6406,7 +6706,7 @@
    "e": "World Radio Day is observed on 13 February."
   },
   {
-   "id": "current-affairs-00427",
+   "id": "current-affairs-00447",
    "q": "Where is the headquarters of World Trade Organization?",
    "o": [
     "Paris",
@@ -6421,7 +6721,7 @@
    "e": "World Trade Organization is headquartered at Geneva."
   },
   {
-   "id": "current-affairs-00428",
+   "id": "current-affairs-00448",
    "q": "What is the rate at which the RBI lends to commercial banks called?",
    "o": [
     "1875",
@@ -6436,7 +6736,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00429",
+   "id": "current-affairs-00449",
    "q": "Which scheme supports the establishment of new MSMEs?",
    "o": [
     "LVM3",
@@ -6451,7 +6751,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00430",
+   "id": "current-affairs-00450",
    "q": "The scheme National Education Policy 2020 was launched with which objective?",
    "o": [
     "Reform of school and higher education in India",
@@ -6466,7 +6766,7 @@
    "e": "National Education Policy 2020 — Reform of school and higher education in India."
   },
   {
-   "id": "current-affairs-00431",
+   "id": "current-affairs-00451",
    "q": "Which mission is described as: Cloud computing initiative of the government?",
    "o": [
     "National Broadband Mission",
@@ -6481,7 +6781,7 @@
    "e": "Cloud computing initiative of the government describes MeghRaj."
   },
   {
-   "id": "current-affairs-00432",
+   "id": "current-affairs-00452",
    "q": "What is the full form of APY?",
    "o": [
     "South Asian Association for Regional Cooperation",
@@ -6496,7 +6796,7 @@
    "e": "APY stands for Atal Pension Yojana."
   },
   {
-   "id": "current-affairs-00433",
+   "id": "current-affairs-00453",
    "q": "Which of the following events took place in 1977?",
    "o": [
     "Chauri Chaura incident",
@@ -6511,7 +6811,7 @@
    "e": "Janata Party formed the government at the Centre took place in 1977."
   },
   {
-   "id": "current-affairs-00434",
+   "id": "current-affairs-00454",
    "q": "On which date is International Asteroid Day observed?",
    "o": [
     "4 October",
@@ -6526,7 +6826,7 @@
    "e": "International Asteroid Day is observed on 30 June."
   },
   {
-   "id": "current-affairs-00435",
+   "id": "current-affairs-00455",
    "q": "Where is the headquarters of United Nations?",
    "o": [
     "Berlin",
@@ -6541,7 +6841,7 @@
    "e": "United Nations is headquartered at New York."
   },
   {
-   "id": "current-affairs-00436",
+   "id": "current-affairs-00456",
    "q": "Which body regulates the insurance sector in India?",
    "o": [
     "Urjit Patel Committee",
@@ -6556,7 +6856,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00437",
+   "id": "current-affairs-00457",
    "q": "Which Indian city is the financial capital of India?",
    "o": [
     "INS Vikrant",
@@ -6571,7 +6871,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00438",
+   "id": "current-affairs-00458",
    "q": "The scheme Smart Cities Mission was launched with which objective?",
    "o": [
     "Digital delivery of services and digital literacy",
@@ -6586,7 +6886,7 @@
    "e": "Smart Cities Mission — Sustainable and citizen friendly urban development."
   },
   {
-   "id": "current-affairs-00439",
+   "id": "current-affairs-00459",
    "q": "Which mission is described as: Affordable housing in urban areas?",
    "o": [
     "Project Cheetah",
@@ -6601,7 +6901,7 @@
    "e": "Affordable housing in urban areas describes PMAY-Urban."
   },
   {
-   "id": "current-affairs-00440",
+   "id": "current-affairs-00460",
    "q": "What is the full form of CCI?",
    "o": [
     "Airborne Warning and Control System",
@@ -6616,7 +6916,7 @@
    "e": "CCI stands for Competition Commission of India."
   },
   {
-   "id": "current-affairs-00441",
+   "id": "current-affairs-00461",
    "q": "Which of the following events took place in 1998?",
    "o": [
     "First meeting of the Constituent Assembly",
@@ -6631,7 +6931,7 @@
    "e": "Pokhran-II nuclear tests took place in 1998."
   },
   {
-   "id": "current-affairs-00442",
+   "id": "current-affairs-00462",
    "q": "On which date is National Girl Child Day (India) observed?",
    "o": [
     "9 October",
@@ -6646,7 +6946,7 @@
    "e": "National Girl Child Day (India) is observed on 24 January."
   },
   {
-   "id": "current-affairs-00443",
+   "id": "current-affairs-00463",
    "q": "Which of the following organisations has its headquarters at The Hague?",
    "o": [
     "United Nations Industrial Development Organization",
@@ -6661,7 +6961,7 @@
    "e": "International Criminal Court is headquartered at The Hague."
   },
   {
-   "id": "current-affairs-00444",
+   "id": "current-affairs-00464",
    "q": "Which committee recommended the Goods and Services Tax in India?",
    "o": [
     "Blue Revolution",
@@ -6676,7 +6976,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00445",
+   "id": "current-affairs-00465",
    "q": "Which mission aims to study gravitational waves with a space observatory?",
    "o": [
     "LISA Pathfinder",
@@ -6691,7 +6991,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00446",
+   "id": "current-affairs-00466",
    "q": "The scheme Stand Up India was launched with which objective?",
    "o": [
     "Free food grains to the poor",
@@ -6706,7 +7006,7 @@
    "e": "Stand Up India — Loans to women and scheduled caste entrepreneurs."
   },
   {
-   "id": "current-affairs-00447",
+   "id": "current-affairs-00467",
    "q": "Which mission is described as: Human spaceflight programme of India?",
    "o": [
     "Navic-1",
@@ -6721,7 +7021,7 @@
    "e": "Human spaceflight programme of India describes Gaganyaan."
   },
   {
-   "id": "current-affairs-00448",
+   "id": "current-affairs-00468",
    "q": "What is the full form of SWAYAM?",
    "o": [
     "International Atomic Energy Agency",
@@ -6736,7 +7036,7 @@
    "e": "SWAYAM stands for Study Webs of Active Learning for Young Aspiring Minds."
   },
   {
-   "id": "current-affairs-00449",
+   "id": "current-affairs-00469",
    "q": "Which of the following events took place in 2019?",
    "o": [
     "Quit India Movement launched",
@@ -6751,7 +7051,7 @@
    "e": "Article 370 provisions abrogated took place in 2019."
   },
   {
-   "id": "current-affairs-00450",
+   "id": "current-affairs-00470",
    "q": "On which date is World Animal Day observed?",
    "o": [
     "2 February",
@@ -6766,7 +7066,7 @@
    "e": "World Animal Day is observed on 4 October."
   },
   {
-   "id": "current-affairs-00451",
+   "id": "current-affairs-00471",
    "q": "Which of the following organisations has its headquarters at Bengaluru?",
    "o": [
     "UN High Commissioner for Refugees",
@@ -6781,7 +7081,7 @@
    "e": "Indian Space Research Organisation is headquartered at Bengaluru."
   },
   {
-   "id": "current-affairs-00452",
+   "id": "current-affairs-00472",
    "q": "Which body replaced the Planning Commission of India?",
    "o": [
     "1992",
@@ -6796,7 +7096,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00453",
+   "id": "current-affairs-00473",
    "q": "Which portal was used for COVID-19 vaccination registration in India?",
    "o": [
     "CoWIN",
@@ -6811,7 +7111,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00454",
+   "id": "current-affairs-00474",
    "q": "The scheme PM Vishwakarma Yojana was launched with which objective?",
    "o": [
     "Development of tribal villages",
@@ -6826,7 +7126,7 @@
    "e": "PM Vishwakarma Yojana — Support to traditional artisans and craftspeople."
   },
   {
-   "id": "current-affairs-00455",
+   "id": "current-affairs-00475",
    "q": "Which mission is described as: Free online courses platform?",
    "o": [
     "National Green Hydrogen Mission",
@@ -6841,7 +7141,7 @@
    "e": "Free online courses platform describes SWAYAM."
   },
   {
-   "id": "current-affairs-00456",
+   "id": "current-affairs-00476",
    "q": "What is the full form of IPL?",
    "o": [
     "National Pension System",
@@ -6856,7 +7156,7 @@
    "e": "IPL stands for Indian Premier League."
   },
   {
-   "id": "current-affairs-00457",
+   "id": "current-affairs-00477",
    "q": "Which of the following events took place in 1935?",
    "o": [
     "Janata Party formed the government at the Centre",
@@ -6871,7 +7171,7 @@
    "e": "Government of India Act passed took place in 1935."
   },
   {
-   "id": "current-affairs-00458",
+   "id": "current-affairs-00478",
    "q": "On which date is International Labour Day observed?",
    "o": [
     "27 September",
@@ -6886,7 +7186,7 @@
    "e": "International Labour Day is observed on 1 May."
   },
   {
-   "id": "current-affairs-00459",
+   "id": "current-affairs-00479",
    "q": "Which of the following organisations has its headquarters at Nairobi?",
    "o": [
     "World Bank",
@@ -6901,7 +7201,7 @@
    "e": "United Nations Environment Programme is headquartered at Nairobi."
   },
   {
-   "id": "current-affairs-00460",
+   "id": "current-affairs-00480",
    "q": "Which institution provides finance to small industries in India?",
    "o": [
     "Lending rate",
@@ -6916,7 +7216,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00461",
+   "id": "current-affairs-00481",
    "q": "Which Indian city was declared a UNESCO World Heritage City in 2017?",
    "o": [
     "Ahmedabad",
@@ -6931,7 +7231,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00462",
+   "id": "current-affairs-00482",
    "q": "The scheme Skill India Mission was launched with which objective?",
    "o": [
     "Skill development and employability of youth",
@@ -6946,7 +7246,7 @@
    "e": "Skill India Mission — Skill development and employability of youth."
   },
   {
-   "id": "current-affairs-00463",
+   "id": "current-affairs-00483",
    "q": "Which mission is described as: Skilling and vocational training?",
    "o": [
     "Cartosat",
@@ -6961,7 +7261,7 @@
    "e": "Skilling and vocational training describes National Skill Development Mission."
   },
   {
-   "id": "current-affairs-00464",
+   "id": "current-affairs-00484",
    "q": "What is the full form of NET?",
    "o": [
     "National Eligibility Test",
@@ -6976,7 +7276,7 @@
    "e": "NET stands for National Eligibility Test."
   },
   {
-   "id": "current-affairs-00465",
+   "id": "current-affairs-00485",
    "q": "Which of the following events took place in 1928?",
    "o": [
     "India-China border war",
@@ -6991,7 +7291,7 @@
    "e": "Simon Commission arrived in India took place in 1928."
   },
   {
-   "id": "current-affairs-00466",
+   "id": "current-affairs-00486",
    "q": "On which date is International Yoga Day observed?",
    "o": [
     "21 September",
@@ -7006,7 +7306,7 @@
    "e": "International Yoga Day is observed on 21 June."
   },
   {
-   "id": "current-affairs-00467",
+   "id": "current-affairs-00487",
    "q": "Which of the following organisations has its headquarters at Vienna?",
    "o": [
     "OPEC",
@@ -7021,7 +7321,7 @@
    "e": "International Atomic Energy Agency is headquartered at Vienna."
   },
   {
-   "id": "current-affairs-00468",
+   "id": "current-affairs-00488",
    "q": "What is the fiscal deficit minus interest payments called?",
    "o": [
     "1776",
@@ -7036,7 +7336,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00469",
+   "id": "current-affairs-00489",
    "q": "Which Indian payment system is popular in many countries?",
    "o": [
     "Chandrayaan-1",
@@ -7051,7 +7351,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00470",
+   "id": "current-affairs-00490",
    "q": "The scheme Golden Revolution was launched with which objective?",
    "o": [
     "Pension for workers in the unorganised sector",
@@ -7066,7 +7366,7 @@
    "e": "Golden Revolution — Development of horticulture."
   },
   {
-   "id": "current-affairs-00471",
+   "id": "current-affairs-00491",
    "q": "Which mission is described as: Regional satellite navigation system?",
    "o": [
     "PSLV",
@@ -7081,7 +7381,7 @@
    "e": "Regional satellite navigation system describes NavIC."
   },
   {
-   "id": "current-affairs-00472",
+   "id": "current-affairs-00492",
    "q": "What is the full form of NABARD?",
    "o": [
     "National Bank for Agriculture and Rural Development",
@@ -7096,7 +7396,7 @@
    "e": "NABARD stands for National Bank for Agriculture and Rural Development."
   },
   {
-   "id": "current-affairs-00473",
+   "id": "current-affairs-00493",
    "q": "Which of the following events took place in 2008?",
    "o": [
     "Simon Commission arrived in India",
@@ -7111,7 +7411,7 @@
    "e": "Mumbai terror attacks took place in 2008."
   },
   {
-   "id": "current-affairs-00474",
+   "id": "current-affairs-00494",
    "q": "On which date is World Bee Day observed?",
    "o": [
     "14 November",
@@ -7126,7 +7426,7 @@
    "e": "World Bee Day is observed on 20 May."
   },
   {
-   "id": "current-affairs-00475",
+   "id": "current-affairs-00495",
    "q": "Which of the following organisations has its headquarters at Cologny?",
    "o": [
     "International Committee of the Red Cross",
@@ -7141,7 +7441,7 @@
    "e": "World Economic Forum is headquartered at Cologny."
   },
   {
-   "id": "current-affairs-00476",
+   "id": "current-affairs-00496",
    "q": "Which book is considered the foundation of classical economics?",
    "o": [
     "2011-12",
@@ -7156,7 +7456,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00477",
+   "id": "current-affairs-00497",
    "q": "Which countries form the Quad grouping?",
    "o": [
     "India Meteorological Department",
@@ -7171,7 +7471,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00478",
+   "id": "current-affairs-00498",
    "q": "The scheme White Revolution 2.0 was launched with which objective?",
    "o": [
     "Free LPG connections to women from poor households",
@@ -7186,7 +7486,7 @@
    "e": "White Revolution 2.0 — Cooperative development of the dairy sector."
   },
   {
-   "id": "current-affairs-00479",
+   "id": "current-affairs-00499",
    "q": "Which mission is described as: Indigenous reusable space shuttle technology?",
    "o": [
     "SWAYAM",
@@ -7201,7 +7501,7 @@
    "e": "Indigenous reusable space shuttle technology describes Reusable Launch Vehicle."
   },
   {
-   "id": "current-affairs-00480",
+   "id": "current-affairs-00500",
    "q": "What is the full form of IIM?",
    "o": [
     "International Telecommunication Union",
@@ -7216,7 +7516,7 @@
    "e": "IIM stands for Indian Institute of Management."
   },
   {
-   "id": "current-affairs-00481",
+   "id": "current-affairs-00501",
    "q": "Which of the following events took place in 1999?",
    "o": [
     "Operation Blue Star",
@@ -7231,7 +7531,7 @@
    "e": "Kargil War took place in 1999."
   },
   {
-   "id": "current-affairs-00482",
+   "id": "current-affairs-00502",
    "q": "On which date is Engineers' Day (India) observed?",
    "o": [
     "1 July",
@@ -7246,7 +7546,7 @@
    "e": "Engineers' Day (India) is observed on 15 September."
   },
   {
-   "id": "current-affairs-00483",
+   "id": "current-affairs-00503",
    "q": "Which of the following organisations has its headquarters at Dubai?",
    "o": [
     "Greenpeace",
@@ -7261,7 +7561,7 @@
    "e": "International Cricket Council is headquartered at Dubai."
   },
   {
-   "id": "current-affairs-00484",
+   "id": "current-affairs-00504",
    "q": "Which agreement preceded the World Trade Organization?",
    "o": [
     "Third Five Year Plan",
@@ -7276,7 +7576,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00485",
+   "id": "current-affairs-00505",
    "q": "Which mission aims to make India self-reliant in defence production?",
    "o": [
     "LVM3",
@@ -7291,7 +7591,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00486",
+   "id": "current-affairs-00506",
    "q": "Which scheme is described as: Integrated infrastructure planning platform?",
    "o": [
     "PM SVANidhi",
@@ -7306,7 +7606,7 @@
    "e": "Integrated infrastructure planning platform describes PM Gati Shakti."
   },
   {
-   "id": "current-affairs-00487",
+   "id": "current-affairs-00507",
    "q": "Which mission is described as: Soft landing near the lunar south pole?",
    "o": [
     "National Digital Library",
@@ -7321,7 +7621,7 @@
    "e": "Soft landing near the lunar south pole describes Chandrayaan-3."
   },
   {
-   "id": "current-affairs-00488",
+   "id": "current-affairs-00508",
    "q": "What is the full form of EMF?",
    "o": [
     "Electromotive Force",
@@ -7336,7 +7636,7 @@
    "e": "EMF stands for Electromotive Force."
   },
   {
-   "id": "current-affairs-00489",
+   "id": "current-affairs-00509",
    "q": "Which of the following events took place in 2023?",
    "o": [
     "Purna Swaraj declared at the Lahore session",
@@ -7351,7 +7651,7 @@
    "e": "Chandrayaan-3 soft landing near the lunar south pole took place in 2023."
   },
   {
-   "id": "current-affairs-00490",
+   "id": "current-affairs-00510",
    "q": "On which date is International Literacy Day observed?",
    "o": [
     "8 September",
@@ -7366,7 +7666,7 @@
    "e": "International Literacy Day is observed on 8 September."
   },
   {
-   "id": "current-affairs-00491",
+   "id": "current-affairs-00511",
    "q": "Which of the following organisations has its headquarters at Paris?",
    "o": [
     "UNESCO",
@@ -7381,7 +7681,7 @@
    "e": "UNESCO is headquartered at Paris."
   },
   {
-   "id": "current-affairs-00492",
+   "id": "current-affairs-00512",
    "q": "What is a sustained rise in the general price level called?",
    "o": [
     "Balance of payments",
@@ -7396,7 +7696,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00493",
+   "id": "current-affairs-00513",
    "q": "Which international initiative on millets was led by India at the UN?",
    "o": [
     "Digital Bharat Nidhi",
@@ -7411,7 +7711,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00494",
+   "id": "current-affairs-00514",
    "q": "Which scheme is described as: Production and use of green hydrogen?",
    "o": [
     "National Green Hydrogen Mission",
@@ -7426,7 +7726,7 @@
    "e": "Production and use of green hydrogen describes National Green Hydrogen Mission."
   },
   {
-   "id": "current-affairs-00495",
+   "id": "current-affairs-00515",
    "q": "Which mission is described as: Regional navigation satellite?",
    "o": [
     "Smart Cities Mission",
@@ -7441,7 +7741,7 @@
    "e": "Regional navigation satellite describes Navic-1."
   },
   {
-   "id": "current-affairs-00496",
+   "id": "current-affairs-00516",
    "q": "What is the full form of GST?",
    "o": [
     "Goods and Services Tax",
@@ -7456,7 +7756,7 @@
    "e": "GST stands for Goods and Services Tax."
   },
   {
-   "id": "current-affairs-00497",
+   "id": "current-affairs-00517",
    "q": "Which of the following events took place in 1984?",
    "o": [
     "Operation Blue Star",
@@ -7471,7 +7771,7 @@
    "e": "Operation Blue Star took place in 1984."
   },
   {
-   "id": "current-affairs-00498",
+   "id": "current-affairs-00518",
    "q": "On which date is National Youth Day (India) observed?",
    "o": [
     "12 January",
@@ -7486,7 +7786,7 @@
    "e": "National Youth Day (India) is observed on 12 January."
   },
   {
-   "id": "current-affairs-00499",
+   "id": "current-affairs-00519",
    "q": "Which of the following organisations has its headquarters at Washington, D.C.?",
    "o": [
     "United Nations",
@@ -7501,7 +7801,7 @@
    "e": "National Aeronautics and Space Administration is headquartered at Washington, D.C.."
   },
   {
-   "id": "current-affairs-00500",
+   "id": "current-affairs-00520",
    "q": "Who wrote Das Kapital?",
    "o": [
     "NITI Aayog",
@@ -7516,7 +7816,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00501",
+   "id": "current-affairs-00521",
    "q": "Which Indian institution publishes the Economic Survey?",
    "o": [
     "Ministry of Finance",
@@ -7531,7 +7831,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00502",
+   "id": "current-affairs-00522",
    "q": "Which scheme is described as: Income support of six thousand rupees to small farmers?",
    "o": [
     "Pradhan Mantri Gram Sadak Yojana",
@@ -7546,7 +7846,7 @@
    "e": "Income support of six thousand rupees to small farmers describes Pradhan Mantri Kisan Samman Nidhi."
   },
   {
-   "id": "current-affairs-00503",
+   "id": "current-affairs-00523",
    "q": "Which mission is described as: Communication satellites of India?",
    "o": [
     "Project Cheetah",
@@ -7561,7 +7861,7 @@
    "e": "Communication satellites of India describes GSAT."
   },
   {
-   "id": "current-affairs-00504",
+   "id": "current-affairs-00524",
    "q": "What is the full form of RTGS?",
    "o": [
     "Insurance Regulatory and Development Authority of India",
@@ -7576,7 +7876,7 @@
    "e": "RTGS stands for Real Time Gross Settlement."
   },
   {
-   "id": "current-affairs-00505",
+   "id": "current-affairs-00525",
    "q": "Which of the following events took place in 1966?",
    "o": [
     "Simon Commission arrived in India",
@@ -7591,7 +7891,7 @@
    "e": "Indira Gandhi became Prime Minister took place in 1966."
   },
   {
-   "id": "current-affairs-00506",
+   "id": "current-affairs-00526",
    "q": "On which date is World Meteorological Day observed?",
    "o": [
     "10 October",
@@ -7606,7 +7906,7 @@
    "e": "World Meteorological Day is observed on 23 March."
   },
   {
-   "id": "current-affairs-00507",
+   "id": "current-affairs-00527",
    "q": "Which of the following organisations has its headquarters at Vienna?",
    "o": [
     "United Nations Environment Programme",
@@ -7621,7 +7921,7 @@
    "e": "United Nations Industrial Development Organization is headquartered at Vienna."
   },
   {
-   "id": "current-affairs-00508",
+   "id": "current-affairs-00528",
    "q": "Which corporation handles food procurement and distribution in India?",
    "o": [
     "Oligopoly",
@@ -7636,7 +7936,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00509",
+   "id": "current-affairs-00529",
    "q": "Which programme aims to build 100 smart cities in India?",
    "o": [
     "Maharashtra",
@@ -7651,7 +7951,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00510",
+   "id": "current-affairs-00530",
    "q": "Which scheme is described as: Development of tribal villages?",
    "o": [
     "Mission Indradhanush",
@@ -7666,7 +7966,7 @@
    "e": "Development of tribal villages describes PM Janjatiya Unnat Gram Abhiyan."
   },
   {
-   "id": "current-affairs-00511",
+   "id": "current-affairs-00531",
    "q": "Which mission is described as: Cultural integration across states?",
    "o": [
     "Bharat Bill Payment System",
@@ -7681,7 +7981,7 @@
    "e": "Cultural integration across states describes Ek Bharat Shreshtha Bharat."
   },
   {
-   "id": "current-affairs-00512",
+   "id": "current-affairs-00532",
    "q": "What is the full form of SBI?",
    "o": [
     "State Bank of India",
@@ -7696,7 +7996,7 @@
    "e": "SBI stands for State Bank of India."
   },
   {
-   "id": "current-affairs-00513",
+   "id": "current-affairs-00533",
    "q": "Which of the following events took place in 1919?",
    "o": [
     "Janata Party formed the government at the Centre",
@@ -7711,7 +8011,7 @@
    "e": "Jallianwala Bagh massacre took place in 1919."
   },
   {
-   "id": "current-affairs-00514",
+   "id": "current-affairs-00534",
    "q": "On which date is World Computer Literacy Day observed?",
    "o": [
     "3 March",
@@ -7726,7 +8026,7 @@
    "e": "World Computer Literacy Day is observed on 2 December."
   },
   {
-   "id": "current-affairs-00515",
+   "id": "current-affairs-00535",
    "q": "Which of the following organisations has its headquarters at Paris?",
    "o": [
     "International Labour Organization",
@@ -7741,7 +8041,7 @@
    "e": "European Space Agency is headquartered at Paris."
   },
   {
-   "id": "current-affairs-00516",
+   "id": "current-affairs-00536",
    "q": "Which scheme provides a pension to unorganised sector workers in India?",
    "o": [
     "Finance Commission",
@@ -7756,7 +8056,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00517",
+   "id": "current-affairs-00537",
    "q": "What is India's central bank digital currency called?",
    "o": [
     "Guwahati railway station",
@@ -7771,7 +8071,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00518",
+   "id": "current-affairs-00538",
    "q": "Which scheme is described as: India's central bank digital currency pilot?",
    "o": [
     "National Mission on Edible Oils",
@@ -7786,7 +8086,7 @@
    "e": "India's central bank digital currency pilot describes e-Rupee."
   },
   {
-   "id": "current-affairs-00519",
+   "id": "current-affairs-00539",
    "q": "Which mission is described as: Digital infrastructure for school education?",
    "o": [
     "BharatNet",
@@ -7801,7 +8101,7 @@
    "e": "Digital infrastructure for school education describes DIKSHA."
   },
   {
-   "id": "current-affairs-00520",
+   "id": "current-affairs-00540",
    "q": "What is the full form of UPU?",
    "o": [
     "Universal Postal Union",
@@ -7816,7 +8116,7 @@
    "e": "UPU stands for Universal Postal Union."
   },
   {
-   "id": "current-affairs-00521",
+   "id": "current-affairs-00541",
    "q": "Which of the following events took place in 1984?",
    "o": [
     "Bhopal gas tragedy",
@@ -7831,7 +8131,7 @@
    "e": "Bhopal gas tragedy took place in 1984."
   },
   {
-   "id": "current-affairs-00522",
+   "id": "current-affairs-00542",
    "q": "On which date is United Nations Day for South-South Cooperation observed?",
    "o": [
     "12 September",
@@ -7846,7 +8146,7 @@
    "e": "United Nations Day for South-South Cooperation is observed on 12 September."
   },
   {
-   "id": "current-affairs-00523",
+   "id": "current-affairs-00543",
    "q": "Which of the following organisations has its headquarters at Geneva?",
    "o": [
     "World Trade Organization",
@@ -7861,7 +8161,7 @@
    "e": "World Trade Organization is headquartered at Geneva."
   },
   {
-   "id": "current-affairs-00524",
+   "id": "current-affairs-00544",
    "q": "In which year was the State Bank of India established?",
    "o": [
     "People's Bank of China",
@@ -7876,7 +8176,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00525",
+   "id": "current-affairs-00545",
    "q": "Which Indian observatory detected the first X-ray polarisation from a black hole?",
    "o": [
     "2021",
@@ -7891,7 +8191,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00526",
+   "id": "current-affairs-00546",
    "q": "Which scheme is described as: Universal immunisation of children?",
    "o": [
     "PM SVANidhi",
@@ -7906,7 +8206,7 @@
    "e": "Universal immunisation of children describes Mission Indradhanush."
   },
   {
-   "id": "current-affairs-00527",
+   "id": "current-affairs-00547",
    "q": "Which mission is described as: Adoption of electric vehicles?",
    "o": [
     "Digital India Programme",
@@ -7921,7 +8221,7 @@
    "e": "Adoption of electric vehicles describes National Electric Mobility Mission."
   },
   {
-   "id": "current-affairs-00528",
+   "id": "current-affairs-00548",
    "q": "What is the full form of LED?",
    "o": [
     "Asian Development Bank",
@@ -7936,7 +8236,7 @@
    "e": "LED stands for Light Emitting Diode."
   },
   {
-   "id": "current-affairs-00529",
+   "id": "current-affairs-00549",
    "q": "Which of the following events took place in 1974?",
    "o": [
     "Article 370 provisions abrogated",
@@ -7951,7 +8251,7 @@
    "e": "Pokhran-I nuclear test (Smiling Buddha) took place in 1974."
   },
   {
-   "id": "current-affairs-00530",
+   "id": "current-affairs-00550",
    "q": "On which date is World No Tobacco Day observed?",
    "o": [
     "31 May",
@@ -7966,7 +8266,7 @@
    "e": "World No Tobacco Day is observed on 31 May."
   },
   {
-   "id": "current-affairs-00531",
+   "id": "current-affairs-00551",
    "q": "Which of the following organisations has its headquarters at Gland?",
    "o": [
     "World Wide Fund for Nature",
@@ -7981,7 +8281,7 @@
    "e": "World Wide Fund for Nature is headquartered at Gland."
   },
   {
-   "id": "current-affairs-00532",
+   "id": "current-affairs-00552",
    "q": "Which organ of the World Bank lends to the private sector?",
    "o": [
     "1776",
@@ -7996,7 +8296,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00533",
+   "id": "current-affairs-00553",
    "q": "What is the name of India's human spaceflight programme?",
    "o": [
     "World Press Freedom Index",
@@ -8011,7 +8311,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00534",
+   "id": "current-affairs-00554",
    "q": "Which scheme is described as: Skill development and employability of youth?",
    "o": [
     "National Mission on Edible Oils",
@@ -8026,7 +8326,7 @@
    "e": "Skill development and employability of youth describes Skill India Mission."
   },
   {
-   "id": "current-affairs-00535",
+   "id": "current-affairs-00555",
    "q": "Which mission is described as: Heritage city development and rejuvenation?",
    "o": [
     "PSLV",
@@ -8041,7 +8341,7 @@
    "e": "Heritage city development and rejuvenation describes HRIDAY."
   },
   {
-   "id": "current-affairs-00536",
+   "id": "current-affairs-00556",
    "q": "What is the full form of PSLV?",
    "o": [
     "Punjab National Bank",
@@ -8056,7 +8356,7 @@
    "e": "PSLV stands for Polar Satellite Launch Vehicle."
   },
   {
-   "id": "current-affairs-00537",
+   "id": "current-affairs-00557",
    "q": "Which of the following events took place in 2001?",
    "o": [
     "Royal Indian Navy Mutiny",
@@ -8071,7 +8371,7 @@
    "e": "Attack on the Indian Parliament took place in 2001."
   },
   {
-   "id": "current-affairs-00538",
+   "id": "current-affairs-00558",
    "q": "On which date is Earth Day observed?",
    "o": [
     "8 May",
@@ -8086,7 +8386,7 @@
    "e": "Earth Day is observed on 22 April."
   },
   {
-   "id": "current-affairs-00539",
+   "id": "current-affairs-00559",
    "q": "Which of the following organisations has its headquarters at Shanghai?",
    "o": [
     "New Development Bank",
@@ -8101,7 +8401,7 @@
    "e": "New Development Bank is headquartered at Shanghai."
   },
   {
-   "id": "current-affairs-00540",
+   "id": "current-affairs-00560",
    "q": "Which is the highest denomination banknote currently in circulation in India?",
    "o": [
     "Income tax",
@@ -8116,7 +8416,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00541",
+   "id": "current-affairs-00561",
    "q": "Which country hosted the 2024 Summer Olympics?",
    "o": [
     "France",
@@ -8131,7 +8431,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00542",
+   "id": "current-affairs-00562",
    "q": "Which scheme is described as: Digital health ecosystem for India?",
    "o": [
     "One Nation One Ration Card",
@@ -8146,7 +8446,7 @@
    "e": "Digital health ecosystem for India describes National Digital Health Mission."
   },
   {
-   "id": "current-affairs-00543",
+   "id": "current-affairs-00563",
    "q": "Which mission is described as: Lunar orbiter studying the Moon?",
    "o": [
     "Ujjwala Mission",
@@ -8161,7 +8461,7 @@
    "e": "Lunar orbiter studying the Moon describes Chandrayaan-2."
   },
   {
-   "id": "current-affairs-00544",
+   "id": "current-affairs-00564",
    "q": "What is the full form of ICJ?",
    "o": [
     "Indian Financial System Code",
@@ -8176,7 +8476,7 @@
    "e": "ICJ stands for International Court of Justice."
   },
   {
-   "id": "current-affairs-00545",
+   "id": "current-affairs-00565",
    "q": "Which of the following events took place in 1905?",
    "o": [
     "Partition of Bengal by Lord Curzon",
@@ -8191,7 +8491,7 @@
    "e": "Partition of Bengal by Lord Curzon took place in 1905."
   },
   {
-   "id": "current-affairs-00546",
+   "id": "current-affairs-00566",
    "q": "On which date is World Photography Day observed?",
    "o": [
     "22 December",
@@ -8206,7 +8506,7 @@
    "e": "World Photography Day is observed on 19 August."
   },
   {
-   "id": "current-affairs-00547",
+   "id": "current-affairs-00567",
    "q": "Which of the following organisations has its headquarters at Vienna?",
    "o": [
     "Asian Infrastructure Investment Bank",
@@ -8221,7 +8521,7 @@
    "e": "Comprehensive Nuclear-Test-Ban Treaty Organization is headquartered at Vienna."
   },
   {
-   "id": "current-affairs-00548",
+   "id": "current-affairs-00568",
    "q": "Which scheme abolished the zamindari system in India?",
    "o": [
     "New Development Bank",
@@ -8236,7 +8536,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00549",
+   "id": "current-affairs-00569",
    "q": "In which year was the Jal Jeevan Mission launched?",
    "o": [
     "2019",
@@ -8251,7 +8551,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00550",
+   "id": "current-affairs-00570",
    "q": "Which scheme is described as: Reform of school and higher education in India?",
    "o": [
     "National Creche Scheme",
@@ -8266,7 +8566,7 @@
    "e": "Reform of school and higher education in India describes National Education Policy 2020."
   },
   {
-   "id": "current-affairs-00551",
+   "id": "current-affairs-00571",
    "q": "Which mission is described as: Broadband for all by 2024?",
    "o": [
     "National Broadband Mission",
@@ -8281,7 +8581,7 @@
    "e": "Broadband for all by 2024 describes National Broadband Mission."
   },
   {
-   "id": "current-affairs-00552",
+   "id": "current-affairs-00572",
    "q": "What is the full form of IMA?",
    "o": [
     "Athletics track and field club naming",
@@ -8296,7 +8596,7 @@
    "e": "IMA stands for Indian Military Academy."
   },
   {
-   "id": "current-affairs-00553",
+   "id": "current-affairs-00573",
    "q": "Which of the following events took place in 1971?",
    "o": [
     "Kargil War",
@@ -8311,7 +8611,7 @@
    "e": "Bangladesh liberation war involving India took place in 1971."
   },
   {
-   "id": "current-affairs-00554",
+   "id": "current-affairs-00574",
    "q": "On which date is World Oceans Day observed?",
    "o": [
     "8 June",
@@ -8326,7 +8626,7 @@
    "e": "World Oceans Day is observed on 8 June."
   },
   {
-   "id": "current-affairs-00555",
+   "id": "current-affairs-00575",
    "q": "Which of the following organisations has its headquarters at Geneva?",
    "o": [
     "International Fund for Agricultural Development",
@@ -8341,7 +8641,7 @@
    "e": "World Health Organization is headquartered at Geneva."
   },
   {
-   "id": "current-affairs-00556",
+   "id": "current-affairs-00576",
    "q": "What is Net National Product divided by population called?",
    "o": [
     "UNDP",
@@ -8356,7 +8656,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00557",
+   "id": "current-affairs-00577",
    "q": "Which Indian port is the largest container port in the country?",
    "o": [
     "Cyclone Biparjoy",
@@ -8371,7 +8671,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00558",
+   "id": "current-affairs-00578",
    "q": "Which scheme is described as: Soil testing and nutrient recommendations?",
    "o": [
     "Mahatma Gandhi National Rural Employment Guarantee Scheme",
@@ -8386,7 +8686,7 @@
    "e": "Soil testing and nutrient recommendations describes Soil Health Card Scheme."
   },
   {
-   "id": "current-affairs-00559",
+   "id": "current-affairs-00579",
    "q": "Which mission is described as: Reintroduction of cheetahs in India?",
    "o": [
     "PSLV",
@@ -8401,7 +8701,7 @@
    "e": "Reintroduction of cheetahs in India describes Project Cheetah."
   },
   {
-   "id": "current-affairs-00560",
+   "id": "current-affairs-00580",
    "q": "What is the full form of KYC?",
    "o": [
     "Sports Authority of India",
@@ -8416,7 +8716,7 @@
    "e": "KYC stands for Know Your Customer."
   },
   {
-   "id": "current-affairs-00561",
+   "id": "current-affairs-00581",
    "q": "Which of the following events took place in 1961?",
    "o": [
     "Shimla Agreement signed",
@@ -8431,7 +8731,7 @@
    "e": "Liberation of Goa took place in 1961."
   },
   {
-   "id": "current-affairs-00562",
+   "id": "current-affairs-00582",
    "q": "On which date is World Milk Day observed?",
    "o": [
     "21 September",
@@ -8446,7 +8746,7 @@
    "e": "World Milk Day is observed on 1 June."
   },
   {
-   "id": "current-affairs-00563",
+   "id": "current-affairs-00583",
    "q": "Which of the following organisations has its headquarters at Beijing?",
    "o": [
     "Shanghai Cooperation Organisation",
@@ -8461,7 +8761,7 @@
    "e": "Shanghai Cooperation Organisation is headquartered at Beijing."
   },
   {
-   "id": "current-affairs-00564",
+   "id": "current-affairs-00584",
    "q": "Which body regulates telecommunications in India?",
    "o": [
     "TRAI",
@@ -8476,7 +8776,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00565",
+   "id": "current-affairs-00585",
    "q": "Which scheme provides a pension to workers in the unorganised sector?",
    "o": [
     "2023",
@@ -8491,7 +8791,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00566",
+   "id": "current-affairs-00586",
    "q": "Which scheme is described as: Self-reliance in oilseed production?",
    "o": [
     "Atal Pension Yojana",
@@ -8506,7 +8806,7 @@
    "e": "Self-reliance in oilseed production describes Yellow Revolution."
   },
   {
-   "id": "current-affairs-00567",
+   "id": "current-affairs-00587",
    "q": "Which mission is described as: Instant bank to bank payments system?",
    "o": [
     "Mission LiFE",
@@ -8521,7 +8821,7 @@
    "e": "Instant bank to bank payments system describes Unified Payments Interface."
   },
   {
-   "id": "current-affairs-00568",
+   "id": "current-affairs-00588",
    "q": "What is the full form of ICU?",
    "o": [
     "Indian Space Research Organisation",
@@ -8536,7 +8836,7 @@
    "e": "ICU stands for Intensive Care Unit."
   },
   {
-   "id": "current-affairs-00569",
+   "id": "current-affairs-00589",
    "q": "Which of the following events took place in 2014?",
    "o": [
     "Article 370 provisions abrogated",
@@ -8551,7 +8851,7 @@
    "e": "Mars Orbiter Mission entered Mars orbit took place in 2014."
   },
   {
-   "id": "current-affairs-00570",
+   "id": "current-affairs-00590",
    "q": "On which date is World Press Freedom Day observed?",
    "o": [
     "14 November",
@@ -8566,7 +8866,7 @@
    "e": "World Press Freedom Day is observed on 3 May."
   },
   {
-   "id": "current-affairs-00571",
+   "id": "current-affairs-00591",
    "q": "Which of the following organisations has its headquarters at New York?",
    "o": [
     "Universal Postal Union",
@@ -8581,7 +8881,7 @@
    "e": "United Nations is headquartered at New York."
   },
   {
-   "id": "current-affairs-00572",
+   "id": "current-affairs-00592",
    "q": "Which rate is used by banks to determine interest on savings accounts?",
    "o": [
     "Savings bank rate",
@@ -8596,7 +8896,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00573",
+   "id": "current-affairs-00593",
    "q": "Which Indian pair won the French Open badminton title in 2023?",
    "o": [
     "Swachh Bharat Mission",
@@ -8611,7 +8911,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00574",
+   "id": "current-affairs-00594",
    "q": "Which scheme is described as: Health insurance cover of five lakh rupees per family?",
    "o": [
     "Pradhan Mantri Fasal Bima Yojana",
@@ -8626,7 +8926,7 @@
    "e": "Health insurance cover of five lakh rupees per family describes Ayushman Bharat."
   },
   {
-   "id": "current-affairs-00575",
+   "id": "current-affairs-00595",
    "q": "Which mission is described as: Radar imaging satellites for all-weather observation?",
    "o": [
     "Project Dolphin",
@@ -8641,7 +8941,7 @@
    "e": "Radar imaging satellites for all-weather observation describes RISAT."
   },
   {
-   "id": "current-affairs-00576",
+   "id": "current-affairs-00596",
    "q": "What is the full form of FIH?",
    "o": [
     "Automated Teller Machine",
@@ -8656,7 +8956,7 @@
    "e": "FIH stands for International Hockey Federation."
   },
   {
-   "id": "current-affairs-00577",
+   "id": "current-affairs-00597",
    "q": "Which of the following events took place in 1972?",
    "o": [
     "Purna Swaraj declared at the Lahore session",
@@ -8671,7 +8971,7 @@
    "e": "Shimla Agreement signed took place in 1972."
   },
   {
-   "id": "current-affairs-00578",
+   "id": "current-affairs-00598",
    "q": "On which date is National Technology Day (India) observed?",
    "o": [
     "4 October",
@@ -8686,7 +8986,7 @@
    "e": "National Technology Day (India) is observed on 11 May."
   },
   {
-   "id": "current-affairs-00579",
+   "id": "current-affairs-00599",
    "q": "Which of the following organisations has its headquarters at London?",
    "o": [
     "International Maritime Organization",
@@ -8701,7 +9001,7 @@
    "e": "International Maritime Organization is headquartered at London."
   },
   {
-   "id": "current-affairs-00580",
+   "id": "current-affairs-00600",
    "q": "Where is the headquarters of the New Development Bank?",
    "o": [
     "Shanghai",
@@ -8716,7 +9016,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00581",
+   "id": "current-affairs-00601",
    "q": "Which mission aims to promote electric vehicles in India?",
    "o": [
     "Reusable Launch Vehicle",
@@ -8731,7 +9031,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00582",
+   "id": "current-affairs-00602",
    "q": "Which scheme is described as: Support to traditional artisans and craftspeople?",
    "o": [
     "Pradhan Mantri Krishi Sinchayee Yojana",
@@ -8746,7 +9046,7 @@
    "e": "Support to traditional artisans and craftspeople describes PM Vishwakarma Yojana."
   },
   {
-   "id": "current-affairs-00583",
+   "id": "current-affairs-00603",
    "q": "Which mission is described as: India's first Mars orbiter mission?",
    "o": [
     "HRIDAY",
@@ -8761,7 +9061,7 @@
    "e": "India's first Mars orbiter mission describes Mangalyaan."
   },
   {
-   "id": "current-affairs-00584",
+   "id": "current-affairs-00604",
    "q": "What is the full form of FDI?",
    "o": [
     "Foreign Direct Investment",
@@ -8776,7 +9076,7 @@
    "e": "FDI stands for Foreign Direct Investment."
   },
   {
-   "id": "current-affairs-00585",
+   "id": "current-affairs-00605",
    "q": "Which of the following events took place in 1906?",
    "o": [
     "National Emergency declared in India",
@@ -8791,7 +9091,7 @@
    "e": "Founding of the All India Muslim League took place in 1906."
   },
   {
-   "id": "current-affairs-00586",
+   "id": "current-affairs-00606",
    "q": "On which date is World Rivers Day observed?",
    "o": [
     "22 April",
@@ -8806,7 +9106,7 @@
    "e": "World Rivers Day is observed on fourth Sunday of September."
   },
   {
-   "id": "current-affairs-00587",
+   "id": "current-affairs-00607",
    "q": "Which of the following organisations has its headquarters at Brussels?",
    "o": [
     "Interpol",
@@ -8821,7 +9121,7 @@
    "e": "European Union is headquartered at Brussels."
   },
   {
-   "id": "current-affairs-00588",
+   "id": "current-affairs-00608",
    "q": "What is the insurance scheme for bank deposits in India called?",
    "o": [
     "Income tax",
@@ -8836,7 +9136,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00589",
+   "id": "current-affairs-00609",
    "q": "Which Indian Air Force fighter jet is indigenous?",
    "o": [
     "Tejas",
@@ -8851,7 +9151,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00590",
+   "id": "current-affairs-00610",
    "q": "Which scheme is described as: Guaranteed wage employment in rural areas?",
    "o": [
     "e-Rupee",
@@ -8866,7 +9166,7 @@
    "e": "Guaranteed wage employment in rural areas describes Mahatma Gandhi National Rural Employment Guarantee Scheme."
   },
   {
-   "id": "current-affairs-00591",
+   "id": "current-affairs-00611",
    "q": "Which mission is described as: Integrated bill payment platform?",
    "o": [
     "Bharat Bill Payment System",
@@ -8881,7 +9181,7 @@
    "e": "Integrated bill payment platform describes Bharat Bill Payment System."
   },
   {
-   "id": "current-affairs-00592",
+   "id": "current-affairs-00612",
    "q": "What is the full form of IMO?",
    "o": [
     "Federation Internationale de Football Association",
@@ -8896,7 +9196,7 @@
    "e": "IMO stands for International Maritime Organization."
   },
   {
-   "id": "current-affairs-00593",
+   "id": "current-affairs-00613",
    "q": "Which of the following events took place in 1950?",
    "o": [
     "Partition of Bengal by Lord Curzon",
@@ -8911,7 +9211,7 @@
    "e": "Constitution of India came into force took place in 1950."
   },
   {
-   "id": "current-affairs-00594",
+   "id": "current-affairs-00614",
    "q": "On which date is Human Rights Day observed?",
    "o": [
     "10 December",
@@ -8926,7 +9226,7 @@
    "e": "Human Rights Day is observed on 10 December."
   },
   {
-   "id": "current-affairs-00595",
+   "id": "current-affairs-00615",
    "q": "Which of the following organisations has its headquarters at Geneva?",
    "o": [
     "International Labour Organization",
@@ -8941,7 +9241,7 @@
    "e": "International Labour Organization is headquartered at Geneva."
   },
   {
-   "id": "current-affairs-00596",
+   "id": "current-affairs-00616",
    "q": "In which year did SEBI become a statutory body?",
    "o": [
     "SEBI",
@@ -8956,7 +9256,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00597",
+   "id": "current-affairs-00617",
    "q": "Which Indian initiative provides digital public infrastructure to other countries?",
    "o": [
     "Ethanol Blending Programme",
@@ -8971,7 +9271,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00598",
+   "id": "current-affairs-00618",
    "q": "Which scheme is described as: Incentives to boost manufacturing across sectors?",
    "o": [
     "Production Linked Incentive Scheme",
@@ -8986,7 +9286,7 @@
    "e": "Incentives to boost manufacturing across sectors describes Production Linked Incentive Scheme."
   },
   {
-   "id": "current-affairs-00599",
+   "id": "current-affairs-00619",
    "q": "Which mission is described as: X-ray polarimetry studies of black holes?",
    "o": [
     "National Action Plan on Climate Change",
@@ -9001,7 +9301,7 @@
    "e": "X-ray polarimetry studies of black holes describes XPoSat."
   },
   {
-   "id": "current-affairs-00600",
+   "id": "current-affairs-00620",
    "q": "What is the full form of EPF?",
    "o": [
     "Employees' Provident Fund",
@@ -9016,7 +9316,7 @@
    "e": "EPF stands for Employees' Provident Fund."
   },
   {
-   "id": "current-affairs-00601",
+   "id": "current-affairs-00621",
    "q": "Which of the following events took place in 2008?",
    "o": [
     "Liberation of Goa",
@@ -9031,7 +9331,7 @@
    "e": "Chandrayaan-1 launched took place in 2008."
   },
   {
-   "id": "current-affairs-00602",
+   "id": "current-affairs-00622",
    "q": "On which date is Independence Day (India) observed?",
    "o": [
     "15 August",
@@ -9046,7 +9346,7 @@
    "e": "Independence Day (India) is observed on 15 August."
   },
   {
-   "id": "current-affairs-00603",
+   "id": "current-affairs-00623",
    "q": "Which of the following organisations has its headquarters at Lausanne?",
    "o": [
     "World Anti-Doping Agency",
@@ -9061,7 +9361,7 @@
    "e": "International Hockey Federation is headquartered at Lausanne."
   },
   {
-   "id": "current-affairs-00604",
+   "id": "current-affairs-00624",
    "q": "Which instrument is used by the RBI to absorb short-term liquidity?",
    "o": [
     "CACP",
@@ -9076,7 +9376,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00605",
+   "id": "current-affairs-00625",
    "q": "Which launch vehicle was used for Chandrayaan-3?",
    "o": [
     "LVM3",
@@ -9091,7 +9391,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00606",
+   "id": "current-affairs-00626",
    "q": "Which scheme is described as: Extension of free LPG connections to migrant families?",
    "o": [
     "Swachh Bharat Mission",
@@ -9106,7 +9406,7 @@
    "e": "Extension of free LPG connections to migrant families describes Ujjwala 2.0."
   },
   {
-   "id": "current-affairs-00607",
+   "id": "current-affairs-00627",
    "q": "Which mission is described as: Conservation of tigers and their habitats?",
    "o": [
     "NavIC",
@@ -9121,7 +9421,7 @@
    "e": "Conservation of tigers and their habitats describes Project Tiger."
   },
   {
-   "id": "current-affairs-00608",
+   "id": "current-affairs-00628",
    "q": "What is the full form of AWACS?",
    "o": [
     "Competition Commission of India",
@@ -9136,7 +9436,7 @@
    "e": "AWACS stands for Airborne Warning and Control System."
   },
   {
-   "id": "current-affairs-00609",
+   "id": "current-affairs-00629",
    "q": "Which of the following events took place in 1885?",
    "o": [
     "National Emergency declared in India",
@@ -9151,7 +9451,7 @@
    "e": "Founding of the Indian National Congress took place in 1885."
   },
   {
-   "id": "current-affairs-00610",
+   "id": "current-affairs-00630",
    "q": "On which date is National Voters' Day (India) observed?",
    "o": [
     "27 September",
@@ -9166,7 +9466,7 @@
    "e": "National Voters' Day (India) is observed on 25 January."
   },
   {
-   "id": "current-affairs-00611",
+   "id": "current-affairs-00631",
    "q": "Which of the following organisations has its headquarters at Zurich?",
    "o": [
     "World Health Organization",
@@ -9181,7 +9481,7 @@
    "e": "FIFA is headquartered at Zurich."
   },
   {
-   "id": "current-affairs-00612",
+   "id": "current-affairs-00632",
    "q": "Which institution issues coins in India?",
    "o": [
     "Foreign Direct Investment",
@@ -9196,7 +9496,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00613",
+   "id": "current-affairs-00633",
    "q": "Which Indian yoga tradition is recognised by UNESCO?",
    "o": [
     "Tejas",
@@ -9211,7 +9511,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00614",
+   "id": "current-affairs-00634",
    "q": "Which scheme is described as: Building a semiconductor ecosystem in India?",
    "o": [
     "India Semiconductor Mission",
@@ -9226,7 +9526,7 @@
    "e": "Building a semiconductor ecosystem in India describes India Semiconductor Mission."
   },
   {
-   "id": "current-affairs-00615",
+   "id": "current-affairs-00635",
    "q": "Which mission is described as: Online library for students?",
    "o": [
     "National Broadband Mission",
@@ -9241,7 +9541,7 @@
    "e": "Online library for students describes National Digital Library."
   },
   {
-   "id": "current-affairs-00616",
+   "id": "current-affairs-00636",
    "q": "What is the full form of OTP?",
    "o": [
     "One Time Password",
@@ -9256,7 +9556,7 @@
    "e": "OTP stands for One Time Password."
   },
   {
-   "id": "current-affairs-00617",
+   "id": "current-affairs-00637",
    "q": "Which of the following events took place in 1942?",
    "o": [
     "Quit India Movement launched",
@@ -9271,7 +9571,7 @@
    "e": "Quit India Movement launched took place in 1942."
   },
   {
-   "id": "current-affairs-00618",
+   "id": "current-affairs-00638",
    "q": "On which date is World Food Day observed?",
    "o": [
     "20 March",
@@ -9286,7 +9586,7 @@
    "e": "World Food Day is observed on 16 October."
   },
   {
-   "id": "current-affairs-00619",
+   "id": "current-affairs-00639",
    "q": "Which of the following organisations has its headquarters at Geneva?",
    "o": [
     "International Committee of the Red Cross",
@@ -9301,7 +9601,7 @@
    "e": "World Intellectual Property Organization is headquartered at Geneva."
   },
   {
-   "id": "current-affairs-00620",
+   "id": "current-affairs-00640",
    "q": "What is the scheme for financial inclusion launched in 2014 called?",
    "o": [
     "SIDBI",
@@ -9316,7 +9616,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00621",
+   "id": "current-affairs-00641",
    "q": "Which city hosted the 2023 Asian Games?",
    "o": [
     "Hangzhou",
@@ -9331,7 +9631,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00622",
+   "id": "current-affairs-00642",
    "q": "Which scheme is described as: Free health cover for senior citizens above seventy?",
    "o": [
     "Ayushman Bharat Vay Vandana Card",
@@ -9346,7 +9646,7 @@
    "e": "Free health cover for senior citizens above seventy describes Ayushman Bharat Vay Vandana Card."
   },
   {
-   "id": "current-affairs-00623",
+   "id": "current-affairs-00643",
    "q": "Which mission is described as: Solar observation from the Lagrange point L1?",
    "o": [
     "National Green Hydrogen Mission",
@@ -9361,7 +9661,7 @@
    "e": "Solar observation from the Lagrange point L1 describes Aditya-L1."
   },
   {
-   "id": "current-affairs-00624",
+   "id": "current-affairs-00644",
    "q": "What is the full form of PAN?",
    "o": [
     "Permanent Account Number",
@@ -9376,7 +9676,7 @@
    "e": "PAN stands for Permanent Account Number."
   },
   {
-   "id": "current-affairs-00625",
+   "id": "current-affairs-00645",
    "q": "Which of the following events took place in 1929?",
    "o": [
     "Purna Swaraj declared at the Lahore session",
@@ -9391,7 +9691,7 @@
    "e": "Purna Swaraj declared at the Lahore session took place in 1929."
   },
   {
-   "id": "current-affairs-00626",
+   "id": "current-affairs-00646",
    "q": "On which date is Kargil Vijay Diwas observed?",
    "o": [
     "26 July",
@@ -9406,7 +9706,7 @@
    "e": "Kargil Vijay Diwas is observed on 26 July."
   },
   {
-   "id": "current-affairs-00627",
+   "id": "current-affairs-00647",
    "q": "Which of the following organisations has its headquarters at Basel?",
    "o": [
     "International Fund for Agricultural Development",
@@ -9421,7 +9721,7 @@
    "e": "Bank for International Settlements is headquartered at Basel."
   },
   {
-   "id": "current-affairs-00628",
+   "id": "current-affairs-00648",
    "q": "What is a market with a single seller called?",
    "o": [
     "Four",
@@ -9436,7 +9736,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00629",
+   "id": "current-affairs-00649",
    "q": "Which high-speed rail project is being built in India with Japanese assistance?",
    "o": [
     "DigiLocker",
@@ -9451,7 +9751,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00630",
+   "id": "current-affairs-00650",
    "q": "Which scheme is described as: Housing for all?",
    "o": [
     "Blue Revolution",
@@ -9466,7 +9766,7 @@
    "e": "Housing for all describes Pradhan Mantri Awas Yojana."
   },
   {
-   "id": "current-affairs-00631",
+   "id": "current-affairs-00651",
    "q": "Which mission is described as: Electric vehicle promotion?",
    "o": [
     "Project Lion",
@@ -9481,7 +9781,7 @@
    "e": "Electric vehicle promotion describes Faster Adoption and Manufacturing of Electric Vehicles."
   },
   {
-   "id": "current-affairs-00632",
+   "id": "current-affairs-00652",
    "q": "What is the full form of IPO?",
    "o": [
     "Electrocardiogram",
@@ -9496,7 +9796,7 @@
    "e": "IPO stands for Initial Public Offering."
   },
   {
-   "id": "current-affairs-00633",
+   "id": "current-affairs-00653",
    "q": "Which of the following events took place in 1952?",
    "o": [
     "Chandrayaan-3 soft landing near the lunar south pole",
@@ -9511,7 +9811,7 @@
    "e": "First general elections held in India took place in 1952."
   },
   {
-   "id": "current-affairs-00634",
+   "id": "current-affairs-00654",
    "q": "On which date is World Kindness Day observed?",
    "o": [
     "10 January",
@@ -9526,7 +9826,7 @@
    "e": "World Kindness Day is observed on 13 November."
   },
   {
-   "id": "current-affairs-00635",
+   "id": "current-affairs-00655",
    "q": "Which of the following organisations has its headquarters at Rome?",
    "o": [
     "World Food Programme",
@@ -9541,7 +9841,7 @@
    "e": "World Food Programme is headquartered at Rome."
   },
   {
-   "id": "current-affairs-00636",
+   "id": "current-affairs-00656",
    "q": "What is the investment in the equity of a company abroad called?",
    "o": [
     "Foreign Direct Investment",
@@ -9556,7 +9856,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00637",
+   "id": "current-affairs-00657",
    "q": "Which Indian state launched the first electric bus fleet?",
    "o": [
     "Sikkim",
@@ -9571,7 +9871,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00638",
+   "id": "current-affairs-00658",
    "q": "Which scheme is described as: Cleaning and conservation of the Ganga?",
    "o": [
     "Namami Gange",
@@ -9586,7 +9886,7 @@
    "e": "Cleaning and conservation of the Ganga describes Namami Gange."
   },
   {
-   "id": "current-affairs-00639",
+   "id": "current-affairs-00659",
    "q": "Which mission is described as: India's heavy lift launch vehicle?",
    "o": [
     "INSAT",
@@ -9601,7 +9901,7 @@
    "e": "India's heavy lift launch vehicle describes GSLV Mk III."
   },
   {
-   "id": "current-affairs-00640",
+   "id": "current-affairs-00660",
    "q": "What is the full form of WMO?",
    "o": [
     "Food and Agriculture Organization",
@@ -9616,7 +9916,7 @@
    "e": "WMO stands for World Meteorological Organization."
   },
   {
-   "id": "current-affairs-00641",
+   "id": "current-affairs-00661",
    "q": "Which of the following events took place in 2023?",
    "o": [
     "Assassination of Mahatma Gandhi",
@@ -9631,7 +9931,7 @@
    "e": "G20 Summit hosted in New Delhi took place in 2023."
   },
   {
-   "id": "current-affairs-00642",
+   "id": "current-affairs-00662",
    "q": "On which date is World Pulses Day observed?",
    "o": [
     "10 February",
@@ -9646,7 +9946,7 @@
    "e": "World Pulses Day is observed on 10 February."
   },
   {
-   "id": "current-affairs-00643",
+   "id": "current-affairs-00663",
    "q": "Which of the following organisations has its headquarters at Manila?",
    "o": [
     "Amnesty International",
@@ -9661,7 +9961,7 @@
    "e": "Asian Development Bank is headquartered at Manila."
   },
   {
-   "id": "current-affairs-00644",
+   "id": "current-affairs-00664",
    "q": "Which sector is known as the primary sector of the economy?",
    "o": [
     "Agriculture and allied activities",
@@ -9676,7 +9976,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00645",
+   "id": "current-affairs-00665",
    "q": "Which is the fastest train in India?",
    "o": [
     "Rajasthan",
@@ -9691,7 +9991,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00646",
+   "id": "current-affairs-00666",
    "q": "Which scheme is described as: Financial inclusion through zero balance bank accounts?",
    "o": [
     "National Creche Scheme",
@@ -9706,7 +10006,7 @@
    "e": "Financial inclusion through zero balance bank accounts describes Pradhan Mantri Jan Dhan Yojana."
   },
   {
-   "id": "current-affairs-00647",
+   "id": "current-affairs-00667",
    "q": "Which mission is described as: Delivery of services through digital platforms?",
    "o": [
     "HRIDAY",
@@ -9721,7 +10021,7 @@
    "e": "Delivery of services through digital platforms describes Digital India Programme."
   },
   {
-   "id": "current-affairs-00648",
+   "id": "current-affairs-00668",
    "q": "What is the full form of NCC?",
    "o": [
     "Asian Infrastructure Investment Bank",
@@ -9736,7 +10036,7 @@
    "e": "NCC stands for National Cadet Corps."
   },
   {
-   "id": "current-affairs-00649",
+   "id": "current-affairs-00669",
    "q": "Which of the following events took place in 2016?",
    "o": [
     "Liberation of Goa",
@@ -9751,7 +10051,7 @@
    "e": "Demonetisation of high value currency notes took place in 2016."
   },
   {
-   "id": "current-affairs-00650",
+   "id": "current-affairs-00670",
    "q": "On which date is International Day of Democracy observed?",
    "o": [
     "15 September",
@@ -9766,7 +10066,7 @@
    "e": "International Day of Democracy is observed on 15 September."
   },
   {
-   "id": "current-affairs-00651",
+   "id": "current-affairs-00671",
    "q": "Which of the following organisations has its headquarters at Geneva?",
    "o": [
     "European Union",
@@ -9781,7 +10081,7 @@
    "e": "UN High Commissioner for Refugees is headquartered at Geneva."
   },
   {
-   "id": "current-affairs-00652",
+   "id": "current-affairs-00672",
    "q": "Which is the first bank established in India?",
    "o": [
     "1949",
@@ -9796,7 +10096,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00653",
+   "id": "current-affairs-00673",
    "q": "In which year did India announce a net zero target?",
    "o": [
     "2022",
@@ -9811,7 +10111,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00654",
+   "id": "current-affairs-00674",
    "q": "Which scheme is described as: Promotion of electric and hybrid vehicles?",
    "o": [
     "Pradhan Mantri Mudra Yojana",
@@ -9826,7 +10126,7 @@
    "e": "Promotion of electric and hybrid vehicles describes FAME India Scheme."
   },
   {
-   "id": "current-affairs-00655",
+   "id": "current-affairs-00675",
    "q": "Which mission is described as: Workhorse polar satellite launch vehicle?",
    "o": [
     "PSLV",
@@ -9841,7 +10141,7 @@
    "e": "Workhorse polar satellite launch vehicle describes PSLV."
   },
   {
-   "id": "current-affairs-00656",
+   "id": "current-affairs-00676",
    "q": "What is the full form of ICC cricket?",
    "o": [
     "Indian Standards Institution",
@@ -9856,7 +10156,7 @@
    "e": "ICC cricket stands for International Cricket Council."
   },
   {
-   "id": "current-affairs-00657",
+   "id": "current-affairs-00677",
    "q": "Which of the following events took place in 1946?",
    "o": [
     "G20 Summit hosted in New Delhi",
@@ -9871,7 +10171,7 @@
    "e": "First meeting of the Constituent Assembly took place in 1946."
   },
   {
-   "id": "current-affairs-00658",
+   "id": "current-affairs-00678",
    "q": "On which date is World Tourism Day observed?",
    "o": [
     "4 October",
@@ -9886,7 +10186,7 @@
    "e": "World Tourism Day is observed on 27 September."
   },
   {
-   "id": "current-affairs-00659",
+   "id": "current-affairs-00679",
    "q": "Which of the following organisations has its headquarters at Rome?",
    "o": [
     "World Intellectual Property Organization",
@@ -9901,7 +10201,7 @@
    "e": "International Fund for Agricultural Development is headquartered at Rome."
   },
   {
-   "id": "current-affairs-00660",
+   "id": "current-affairs-00680",
    "q": "Which index represents the National Stock Exchange?",
    "o": [
     "Non-performing asset",
@@ -9916,7 +10216,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00661",
+   "id": "current-affairs-00681",
    "q": "Which mission of ISRO reached Mars orbit in 2014?",
    "o": [
     "National Center for Seismology",
@@ -9931,7 +10231,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00662",
+   "id": "current-affairs-00682",
    "q": "Which scheme is described as: Irrigation coverage and water use efficiency?",
    "o": [
     "Pradhan Mantri Krishi Sinchayee Yojana",
@@ -9946,7 +10246,7 @@
    "e": "Irrigation coverage and water use efficiency describes Pradhan Mantri Krishi Sinchayee Yojana."
   },
   {
-   "id": "current-affairs-00663",
+   "id": "current-affairs-00683",
    "q": "Which mission is described as: Conservation of elephants and corridors?",
    "o": [
     "Mission LiFE",
@@ -9961,7 +10261,7 @@
    "e": "Conservation of elephants and corridors describes Project Elephant."
   },
   {
-   "id": "current-affairs-00664",
+   "id": "current-affairs-00684",
    "q": "What is the full form of PFRDA?",
    "o": [
     "Ribonucleic Acid",
@@ -9976,7 +10276,7 @@
    "e": "PFRDA stands for Pension Fund Regulatory and Development Authority."
   },
   {
-   "id": "current-affairs-00665",
+   "id": "current-affairs-00685",
    "q": "Which of the following events took place in 1922?",
    "o": [
     "Chauri Chaura incident",
@@ -9991,7 +10291,7 @@
    "e": "Chauri Chaura incident took place in 1922."
   },
   {
-   "id": "current-affairs-00666",
+   "id": "current-affairs-00686",
    "q": "On which date is World Refugee Day observed?",
    "o": [
     "24 January",
@@ -10006,7 +10306,7 @@
    "e": "World Refugee Day is observed on 20 June."
   },
   {
-   "id": "current-affairs-00667",
+   "id": "current-affairs-00687",
    "q": "Which of the following organisations has its headquarters at Lausanne?",
    "o": [
     "South Asian University",
@@ -10021,7 +10321,7 @@
    "e": "International Olympic Committee is headquartered at Lausanne."
   },
   {
-   "id": "current-affairs-00668",
+   "id": "current-affairs-00688",
    "q": "Where is the headquarters of the Asian Infrastructure Investment Bank?",
    "o": [
     "1991",
@@ -10036,7 +10336,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00669",
+   "id": "current-affairs-00689",
    "q": "Which Indian hockey team won a bronze medal at the Tokyo Olympics?",
    "o": [
     "Indian men's hockey team",
@@ -10051,7 +10351,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00670",
+   "id": "current-affairs-00690",
    "q": "Which scheme is described as: Free food grains to the poor?",
    "o": [
     "Skill India Mission",
@@ -10066,7 +10366,7 @@
    "e": "Free food grains to the poor describes Pradhan Mantri Garib Kalyan Anna Yojana."
   },
   {
-   "id": "current-affairs-00671",
+   "id": "current-affairs-00691",
    "q": "Which mission is described as: Cleanliness ranking of Indian cities?",
    "o": [
     "Khelo India",
@@ -10081,7 +10381,7 @@
    "e": "Cleanliness ranking of Indian cities describes Swachh Survekshan."
   },
   {
-   "id": "current-affairs-00672",
+   "id": "current-affairs-00692",
    "q": "What is the full form of WHO?",
    "o": [
     "World Health Organization",
@@ -10096,7 +10396,7 @@
    "e": "WHO stands for World Health Organization."
   },
   {
-   "id": "current-affairs-00673",
+   "id": "current-affairs-00693",
    "q": "Which of the following events took place in 2008?",
    "o": [
     "Kargil War",
@@ -10111,7 +10411,7 @@
    "e": "India signed the civil nuclear deal with the USA took place in 2008."
   },
   {
-   "id": "current-affairs-00674",
+   "id": "current-affairs-00694",
    "q": "On which date is World Nature Conservation Day observed?",
    "o": [
     "28 July",
@@ -10126,7 +10426,7 @@
    "e": "World Nature Conservation Day is observed on 28 July."
   },
   {
-   "id": "current-affairs-00675",
+   "id": "current-affairs-00695",
    "q": "Which of the following organisations has its headquarters at Rome?",
    "o": [
     "International Labour Organization headquarters city",
@@ -10141,7 +10441,7 @@
    "e": "Food and Agriculture Organization is headquartered at Rome."
   },
   {
-   "id": "current-affairs-00676",
+   "id": "current-affairs-00696",
    "q": "Which is the currency of the United Kingdom?",
    "o": [
     "D. Udaya Kumar",
@@ -10156,7 +10456,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00677",
+   "id": "current-affairs-00697",
    "q": "Which programme aims to link rivers in India?",
    "o": [
     "M. S. Swaminathan",
@@ -10171,7 +10471,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00678",
+   "id": "current-affairs-00698",
    "q": "Which scheme is described as: Collateral-free loans for micro enterprises?",
    "o": [
     "Pradhan Mantri Fasal Bima Yojana",
@@ -10186,7 +10486,7 @@
    "e": "Collateral-free loans for micro enterprises describes Pradhan Mantri Mudra Yojana."
   },
   {
-   "id": "current-affairs-00679",
+   "id": "current-affairs-00699",
    "q": "Which mission is described as: Lifestyle for environment movement?",
    "o": [
     "Fit India Movement",
@@ -10201,7 +10501,7 @@
    "e": "Lifestyle for environment movement describes Mission LiFE."
   },
   {
-   "id": "current-affairs-00680",
+   "id": "current-affairs-00700",
    "q": "What is the full form of NHRC?",
    "o": [
     "National Human Rights Commission",
@@ -10216,7 +10516,7 @@
    "e": "NHRC stands for National Human Rights Commission."
   },
   {
-   "id": "current-affairs-00681",
+   "id": "current-affairs-00701",
    "q": "Which of the following events took place in 1975?",
    "o": [
     "National Emergency declared in India",
@@ -10231,7 +10531,7 @@
    "e": "National Emergency declared in India took place in 1975."
   },
   {
-   "id": "current-affairs-00682",
+   "id": "current-affairs-00702",
    "q": "On which date is Children's Day (India) observed?",
    "o": [
     "25 January",
@@ -10246,7 +10546,7 @@
    "e": "Children's Day (India) is observed on 14 November."
   },
   {
-   "id": "current-affairs-00683",
+   "id": "current-affairs-00703",
    "q": "Which of the following organisations has its headquarters at Geneva?",
    "o": [
     "International Maritime Organization",
@@ -10261,7 +10561,7 @@
    "e": "International Telecommunication Union is headquartered at Geneva."
   },
   {
-   "id": "current-affairs-00684",
+   "id": "current-affairs-00704",
    "q": "What is the study of the economy as a whole called?",
    "o": [
     "Monetary Policy Committee",
@@ -10276,7 +10576,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00685",
+   "id": "current-affairs-00705",
    "q": "Which Indian city was included in the UNESCO Creative Cities Network?",
    "o": [
     "New Delhi",
@@ -10291,7 +10591,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00686",
+   "id": "current-affairs-00706",
    "q": "Which scheme is described as: Conservation and development of indigenous cattle?",
    "o": [
     "Smart Cities Mission",
@@ -10306,7 +10606,7 @@
    "e": "Conservation and development of indigenous cattle describes Rashtriya Gokul Mission."
   },
   {
-   "id": "current-affairs-00687",
+   "id": "current-affairs-00707",
    "q": "Which mission is described as: Communication and weather satellites?",
    "o": [
     "INSAT",
@@ -10321,7 +10621,7 @@
    "e": "Communication and weather satellites describes INSAT."
   },
   {
-   "id": "current-affairs-00688",
+   "id": "current-affairs-00708",
    "q": "What is the full form of ICAR?",
    "o": [
     "Brazil, Russia, India, China and South Africa",
@@ -10336,7 +10636,7 @@
    "e": "ICAR stands for Indian Council of Agricultural Research."
   },
   {
-   "id": "current-affairs-00689",
+   "id": "current-affairs-00709",
    "q": "Which of the following events took place in 1983?",
    "o": [
     "India won the Cricket World Cup",
@@ -10351,7 +10651,7 @@
    "e": "India won the Cricket World Cup took place in 1983."
   },
   {
-   "id": "current-affairs-00690",
+   "id": "current-affairs-00710",
    "q": "On which date is World Hypertension Day observed?",
    "o": [
     "22 April",
@@ -10366,7 +10666,7 @@
    "e": "World Hypertension Day is observed on 17 May."
   },
   {
-   "id": "current-affairs-00691",
+   "id": "current-affairs-00711",
    "q": "Which of the following organisations has its headquarters at Geneva?",
    "o": [
     "South Asian University",
@@ -10381,7 +10681,7 @@
    "e": "International Labour Organization headquarters city is headquartered at Geneva."
   },
   {
-   "id": "current-affairs-00692",
+   "id": "current-affairs-00712",
    "q": "Which is the central bank of China?",
    "o": [
     "Microeconomics",
@@ -10396,7 +10696,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00693",
+   "id": "current-affairs-00713",
    "q": "Which Indian institution launched the Unified Lending Interface?",
    "o": [
     "LVM3",
@@ -10411,7 +10711,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00694",
+   "id": "current-affairs-00714",
    "q": "Which scheme is described as: Improving nutrition among children and women?",
    "o": [
     "Poshan Abhiyaan",
@@ -10426,7 +10726,7 @@
    "e": "Improving nutrition among children and women describes Poshan Abhiyaan."
   },
   {
-   "id": "current-affairs-00695",
+   "id": "current-affairs-00715",
    "q": "Which mission is described as: Technology driven urban development?",
    "o": [
     "Ek Bharat Shreshtha Bharat",
@@ -10441,7 +10741,7 @@
    "e": "Technology driven urban development describes Smart Cities Mission."
   },
   {
-   "id": "current-affairs-00696",
+   "id": "current-affairs-00716",
    "q": "What is the full form of SARFAESI?",
    "o": [
     "Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest",
@@ -10456,7 +10756,7 @@
    "e": "SARFAESI stands for Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest."
   },
   {
-   "id": "current-affairs-00697",
+   "id": "current-affairs-00717",
    "q": "Which of the following events took place in 1920?",
    "o": [
     "First meeting of the Constituent Assembly",
@@ -10471,7 +10771,7 @@
    "e": "Launch of the Non-Cooperation Movement took place in 1920."
   },
   {
-   "id": "current-affairs-00698",
+   "id": "current-affairs-00718",
    "q": "On which date is World Environment Day observed?",
    "o": [
     "17 November",
@@ -10486,7 +10786,7 @@
    "e": "World Environment Day is observed on 5 June."
   },
   {
-   "id": "current-affairs-00699",
+   "id": "current-affairs-00719",
    "q": "Which of the following organisations has its headquarters at The Hague?",
    "o": [
     "United Nations",
@@ -10501,7 +10801,7 @@
    "e": "International Court of Justice is headquartered at The Hague."
   },
   {
-   "id": "current-affairs-00700",
+   "id": "current-affairs-00720",
    "q": "Which is the insurance company set up by the Government of India in 1956?",
    "o": [
     "Net National Product",
@@ -10516,7 +10816,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00701",
+   "id": "current-affairs-00721",
    "q": "Which organisation publishes the Global Hunger Index?",
    "o": [
     "National Center for Seismology",
@@ -10531,7 +10831,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00702",
+   "id": "current-affairs-00722",
    "q": "Which scheme is described as: Food grain self-sufficiency?",
    "o": [
     "Green Revolution",
@@ -10546,7 +10846,7 @@
    "e": "Food grain self-sufficiency describes Green Revolution."
   },
   {
-   "id": "current-affairs-00703",
+   "id": "current-affairs-00723",
    "q": "Which mission is described as: Conservation of Asiatic lions?",
    "o": [
     "Project Lion",
@@ -10561,7 +10861,7 @@
    "e": "Conservation of Asiatic lions describes Project Lion."
   },
   {
-   "id": "current-affairs-00704",
+   "id": "current-affairs-00724",
    "q": "What is the full form of AICTE?",
    "o": [
     "Corporate Social Responsibility",
@@ -10576,7 +10876,7 @@
    "e": "AICTE stands for All India Council for Technical Education."
   },
   {
-   "id": "current-affairs-00705",
+   "id": "current-affairs-00725",
    "q": "Which of the following events took place in 1943?",
    "o": [
     "Formation of the Azad Hind Fauj (INA)",
@@ -10591,7 +10891,7 @@
    "e": "Formation of the Azad Hind Fauj (INA) took place in 1943."
   },
   {
-   "id": "current-affairs-00706",
+   "id": "current-affairs-00726",
    "q": "On which date is International Mountain Day observed?",
    "o": [
     "4 July",
@@ -10606,7 +10906,7 @@
    "e": "International Mountain Day is observed on 11 December."
   },
   {
-   "id": "current-affairs-00707",
+   "id": "current-affairs-00727",
    "q": "Which of the following organisations has its headquarters at Lyon?",
    "o": [
     "International Monetary Fund",
@@ -10621,7 +10921,7 @@
    "e": "Interpol is headquartered at Lyon."
   },
   {
-   "id": "current-affairs-00708",
+   "id": "current-affairs-00728",
    "q": "What is the rate at which the RBI absorbs liquidity from banks called?",
    "o": [
     "Consolidated Fund of India",
@@ -10636,7 +10936,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00709",
+   "id": "current-affairs-00729",
    "q": "Which digital initiative provides instant loans to farmers and MSMEs?",
    "o": [
     "IndiaAI Mission",
@@ -10651,7 +10951,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00710",
+   "id": "current-affairs-00730",
    "q": "Which scheme is described as: Welfare and education of the girl child?",
    "o": [
     "Yellow Revolution",
@@ -10666,7 +10966,7 @@
    "e": "Welfare and education of the girl child describes Beti Bachao Beti Padhao."
   },
   {
-   "id": "current-affairs-00711",
+   "id": "current-affairs-00731",
    "q": "Which mission is described as: Green hydrogen production and export hub?",
    "o": [
     "National Green Hydrogen Mission",
@@ -10681,7 +10981,7 @@
    "e": "Green hydrogen production and export hub describes National Green Hydrogen Mission."
   },
   {
-   "id": "current-affairs-00712",
+   "id": "current-affairs-00732",
    "q": "What is the full form of MRI?",
    "o": [
     "Magnetic Resonance Imaging",
@@ -10696,7 +10996,7 @@
    "e": "MRI stands for Magnetic Resonance Imaging."
   },
   {
-   "id": "current-affairs-00713",
+   "id": "current-affairs-00733",
    "q": "Which of the following events took place in 1857?",
    "o": [
     "Assassination of Mahatma Gandhi",
@@ -10711,7 +11011,7 @@
    "e": "First War of Indian Independence (Revolt of 1857) took place in 1857."
   },
   {
-   "id": "current-affairs-00714",
+   "id": "current-affairs-00734",
    "q": "On which date is World Ozone Day observed?",
    "o": [
     "14 November",
@@ -10726,7 +11026,7 @@
    "e": "World Ozone Day is observed on 16 September."
   },
   {
-   "id": "current-affairs-00715",
+   "id": "current-affairs-00735",
    "q": "Which of the following organisations has its headquarters at Geneva?",
    "o": [
     "International Committee of the Red Cross",
@@ -10741,7 +11041,7 @@
    "e": "International Committee of the Red Cross is headquartered at Geneva."
   },
   {
-   "id": "current-affairs-00716",
+   "id": "current-affairs-00736",
    "q": "What is the reserve asset of the International Monetary Fund called?",
    "o": [
     "Reserve Bank of India",
@@ -10756,7 +11056,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00717",
+   "id": "current-affairs-00737",
    "q": "Which group of nations does the G20 represent?",
    "o": [
     "Mars Orbiter Mission",
@@ -10771,7 +11071,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00718",
+   "id": "current-affairs-00738",
    "q": "Which scheme is described as: Digital delivery of services and digital literacy?",
    "o": [
     "Ayushman Arogya Mandir",
@@ -10786,7 +11086,7 @@
    "e": "Digital delivery of services and digital literacy describes Digital India."
   },
   {
-   "id": "current-affairs-00719",
+   "id": "current-affairs-00739",
    "q": "Which mission is described as: Urban water supply and sewerage improvement?",
    "o": [
     "PMAY-Urban",
@@ -10801,7 +11101,7 @@
    "e": "Urban water supply and sewerage improvement describes AMRUT."
   },
   {
-   "id": "current-affairs-00720",
+   "id": "current-affairs-00740",
    "q": "What is the full form of PM-KISAN?",
    "o": [
     "Magnetic Resonance Imaging",
@@ -10816,7 +11116,7 @@
    "e": "PM-KISAN stands for Pradhan Mantri Kisan Samman Nidhi."
   },
   {
-   "id": "current-affairs-00721",
+   "id": "current-affairs-00741",
    "q": "In which decade did the following event take place: First War of Indian Independence (Revolt of 1857)?",
    "o": [
     "1970s",
@@ -10831,7 +11131,7 @@
    "e": "First War of Indian Independence (Revolt of 1857) took place in the 1857s."
   },
   {
-   "id": "current-affairs-00722",
+   "id": "current-affairs-00742",
    "q": "On which date is World Water Day observed?",
    "o": [
     "18 December",
@@ -10846,7 +11146,7 @@
    "e": "World Water Day is observed on 22 March."
   },
   {
-   "id": "current-affairs-00723",
+   "id": "current-affairs-00743",
    "q": "Which of the following organisations has its headquarters at New York?",
    "o": [
     "Universal Postal Union",
@@ -10861,7 +11161,7 @@
    "e": "UNICEF is headquartered at New York."
   },
   {
-   "id": "current-affairs-00724",
+   "id": "current-affairs-00744",
    "q": "Who was the first Indian Governor of the Reserve Bank of India?",
    "o": [
     "Deflation",
@@ -10876,7 +11176,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00725",
+   "id": "current-affairs-00745",
    "q": "Which Indian state was declared free of open defecation first?",
    "o": [
     "Sikkim",
@@ -10891,7 +11191,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00726",
+   "id": "current-affairs-00746",
    "q": "Which scheme is described as: Small savings scheme for the girl child?",
    "o": [
     "Namami Gange",
@@ -10906,7 +11206,7 @@
    "e": "Small savings scheme for the girl child describes Sukanya Samriddhi Yojana."
   },
   {
-   "id": "current-affairs-00727",
+   "id": "current-affairs-00747",
    "q": "Which mission is described as: Discovery of water molecules on the Moon?",
    "o": [
     "AMRUT",
@@ -10921,7 +11221,7 @@
    "e": "Discovery of water molecules on the Moon describes Chandrayaan-1."
   },
   {
-   "id": "current-affairs-00728",
+   "id": "current-affairs-00748",
    "q": "What is the full form of DRDO?",
    "o": [
     "Defence Research and Development Organisation",
@@ -10936,7 +11236,7 @@
    "e": "DRDO stands for Defence Research and Development Organisation."
   },
   {
-   "id": "current-affairs-00729",
+   "id": "current-affairs-00749",
    "q": "In which decade did the following event take place: Simon Commission arrived in India?",
    "o": [
     "2020s",
@@ -10951,7 +11251,7 @@
    "e": "Simon Commission arrived in India took place in the 1928s."
   },
   {
-   "id": "current-affairs-00730",
+   "id": "current-affairs-00750",
    "q": "On which date is World Statistics Day observed?",
    "o": [
     "3 May",
@@ -10966,7 +11266,7 @@
    "e": "World Statistics Day is observed on 20 October."
   },
   {
-   "id": "current-affairs-00731",
+   "id": "current-affairs-00751",
    "q": "Which of the following organisations has its headquarters at New Delhi?",
    "o": [
     "World Food Programme",
@@ -10981,7 +11281,7 @@
    "e": "South Asian University is headquartered at New Delhi."
   },
   {
-   "id": "current-affairs-00732",
+   "id": "current-affairs-00752",
    "q": "What is the minimum number of persons required to start a cooperative bank?",
    "o": [
     "Ten",
@@ -10996,7 +11296,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00733",
+   "id": "current-affairs-00753",
    "q": "In which year was Startup India launched?",
    "o": [
     "2016",
@@ -11011,7 +11311,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00734",
+   "id": "current-affairs-00754",
    "q": "Which scheme is described as: Development of horticulture?",
    "o": [
     "Swachh Bharat Mission",
@@ -11026,7 +11326,7 @@
    "e": "Development of horticulture describes Golden Revolution."
   },
   {
-   "id": "current-affairs-00735",
+   "id": "current-affairs-00755",
    "q": "Which mission is described as: Clean cooking fuel for poor households?",
    "o": [
     "GSLV Mk III",
@@ -11041,7 +11341,7 @@
    "e": "Clean cooking fuel for poor households describes Ujjwala Mission."
   },
   {
-   "id": "current-affairs-00736",
+   "id": "current-affairs-00756",
    "q": "What is the full form of IMF?",
    "o": [
     "International Monetary Fund",
@@ -11056,7 +11356,7 @@
    "e": "IMF stands for International Monetary Fund."
   },
   {
-   "id": "current-affairs-00737",
+   "id": "current-affairs-00757",
    "q": "In which decade did the following event take place: National Emergency declared in India?",
    "o": [
     "1970s",
@@ -11071,7 +11371,7 @@
    "e": "National Emergency declared in India took place in the 1975s."
   },
   {
-   "id": "current-affairs-00738",
+   "id": "current-affairs-00758",
    "q": "On which date is World Television Day observed?",
    "o": [
     "21 November",
@@ -11086,7 +11386,7 @@
    "e": "World Television Day is observed on 21 November."
   },
   {
-   "id": "current-affairs-00739",
+   "id": "current-affairs-00759",
    "q": "Which of the following organisations has its headquarters at Vienna?",
    "o": [
     "Board of Control for Cricket in India",
@@ -11101,7 +11401,7 @@
    "e": "OPEC is headquartered at Vienna."
   },
   {
-   "id": "current-affairs-00740",
+   "id": "current-affairs-00760",
    "q": "Which body is responsible for collecting GST?",
    "o": [
     "Pound Sterling",
@@ -11116,7 +11416,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00741",
+   "id": "current-affairs-00761",
    "q": "Which summit brings together Brazil, Russia, India, China and South Africa?",
    "o": [
     "Aryabhatta Research Institute of Observational Sciences telescope",
@@ -11131,7 +11431,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00742",
+   "id": "current-affairs-00762",
    "q": "Which scheme is described as: Emergency relief during the COVID-19 pandemic?",
    "o": [
     "One Nation One Ration Card",
@@ -11146,7 +11446,7 @@
    "e": "Emergency relief during the COVID-19 pandemic describes PM CARES Fund."
   },
   {
-   "id": "current-affairs-00743",
+   "id": "current-affairs-00763",
    "q": "Which mission is described as: Global cooperation on solar energy?",
    "o": [
     "Unified Payments Interface",
@@ -11161,7 +11461,7 @@
    "e": "Global cooperation on solar energy describes International Solar Alliance."
   },
   {
-   "id": "current-affairs-00744",
+   "id": "current-affairs-00764",
    "q": "What is the full form of WTO?",
    "o": [
     "Securities and Exchange Board of India",
@@ -11176,7 +11476,7 @@
    "e": "WTO stands for World Trade Organization."
   },
   {
-   "id": "current-affairs-00745",
+   "id": "current-affairs-00765",
    "q": "In which decade did the following event take place: First Five Year Plan launched?",
    "o": [
     "1950s",
@@ -11191,7 +11491,7 @@
    "e": "First Five Year Plan launched took place in the 1951s."
   },
   {
-   "id": "current-affairs-00746",
+   "id": "current-affairs-00766",
    "q": "On which date is Gandhi Jayanti observed?",
    "o": [
     "30 June",
@@ -11206,7 +11506,7 @@
    "e": "Gandhi Jayanti is observed on 2 October."
   },
   {
-   "id": "current-affairs-00747",
+   "id": "current-affairs-00767",
    "q": "Which of the following organisations has its headquarters at London?",
    "o": [
     "Commonwealth of Nations",
@@ -11221,7 +11521,7 @@
    "e": "Commonwealth of Nations is headquartered at London."
   },
   {
-   "id": "current-affairs-00748",
+   "id": "current-affairs-00768",
    "q": "Which index measures wholesale price changes in India?",
    "o": [
     "Amartya Sen",
@@ -11236,7 +11536,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00749",
+   "id": "current-affairs-00769",
    "q": "Which joint exercise is held between India and China?",
    "o": [
     "India Meteorological Department",
@@ -11251,7 +11551,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00750",
+   "id": "current-affairs-00770",
    "q": "Which scheme is described as: Crop insurance for farmers?",
    "o": [
     "Pradhan Mantri Fasal Bima Yojana",
@@ -11266,7 +11566,7 @@
    "e": "Crop insurance for farmers describes Pradhan Mantri Fasal Bima Yojana."
   },
   {
-   "id": "current-affairs-00751",
+   "id": "current-affairs-00771",
    "q": "Which mission is described as: Promotion of fitness and sports?",
    "o": [
     "Fit India Movement",
@@ -11281,7 +11581,7 @@
    "e": "Promotion of fitness and sports describes Fit India Movement."
   },
   {
-   "id": "current-affairs-00752",
+   "id": "current-affairs-00772",
    "q": "What is the full form of GDP?",
    "o": [
     "International Hockey Federation",
@@ -11296,7 +11596,7 @@
    "e": "GDP stands for Gross Domestic Product."
   },
   {
-   "id": "current-affairs-00753",
+   "id": "current-affairs-00773",
    "q": "In which decade did the following event take place: Demonetisation of high value currency notes?",
    "o": [
     "2010s",
@@ -11311,7 +11611,7 @@
    "e": "Demonetisation of high value currency notes took place in the 2016s."
   },
   {
-   "id": "current-affairs-00754",
+   "id": "current-affairs-00774",
    "q": "On which date is International Jazz Day observed?",
    "o": [
     "8 November",
@@ -11326,7 +11626,7 @@
    "e": "International Jazz Day is observed on 30 April."
   },
   {
-   "id": "current-affairs-00755",
+   "id": "current-affairs-00775",
    "q": "Which of the following organisations has its headquarters at Kathmandu?",
    "o": [
     "SAARC",
@@ -11341,7 +11641,7 @@
    "e": "SAARC is headquartered at Kathmandu."
   },
   {
-   "id": "current-affairs-00756",
+   "id": "current-affairs-00776",
    "q": "Which revolution is associated with milk production?",
    "o": [
     "Article 279A",
@@ -11356,7 +11656,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00757",
+   "id": "current-affairs-00777",
    "q": "Which Indian state was hit by severe floods in 2018?",
    "o": [
     "2023",
@@ -11371,7 +11671,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00758",
+   "id": "current-affairs-00778",
    "q": "Which scheme is described as: Self-reliance in edible oil production?",
    "o": [
     "Pradhan Mantri Jan Dhan Yojana",
@@ -11386,7 +11686,7 @@
    "e": "Self-reliance in edible oil production describes National Mission on Edible Oils."
   },
   {
-   "id": "current-affairs-00759",
+   "id": "current-affairs-00779",
    "q": "Which mission is described as: Earth observation satellites for mapping?",
    "o": [
     "Project Lion",
@@ -11401,7 +11701,7 @@
    "e": "Earth observation satellites for mapping describes Cartosat."
   },
   {
-   "id": "current-affairs-00760",
+   "id": "current-affairs-00780",
    "q": "What is the full form of NIT?",
    "o": [
     "Jan Dhan, Aadhaar and Mobile",
@@ -11416,7 +11716,7 @@
    "e": "NIT stands for National Institute of Technology."
   },
   {
-   "id": "current-affairs-00761",
+   "id": "current-affairs-00781",
    "q": "In which decade did the following event take place: Royal Indian Navy Mutiny?",
    "o": [
     "1940s",
@@ -11431,7 +11731,7 @@
    "e": "Royal Indian Navy Mutiny took place in the 1946s."
   },
   {
-   "id": "current-affairs-00762",
+   "id": "current-affairs-00782",
    "q": "Which of the following days is observed on 11 December?",
    "o": [
     "Gandhi Jayanti",
@@ -11446,7 +11746,7 @@
    "e": "11 December is observed as International Mountain Day."
   },
   {
-   "id": "current-affairs-00763",
+   "id": "current-affairs-00783",
    "q": "Which of the following organisations has its headquarters at Bern?",
    "o": [
     "Commonwealth of Nations",
@@ -11461,7 +11761,7 @@
    "e": "Universal Postal Union is headquartered at Bern."
   },
   {
-   "id": "current-affairs-00764",
+   "id": "current-affairs-00784",
    "q": "Which bank was created from the Imperial Bank of India?",
    "o": [
     "State Bank of India",
@@ -11476,7 +11776,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00765",
+   "id": "current-affairs-00785",
    "q": "In which year was the Pradhan Mantri Gram Sadak Yojana launched?",
    "o": [
     "BRICS Summit",
@@ -11491,7 +11791,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00766",
+   "id": "current-affairs-00786",
    "q": "Which scheme is described as: Cash incentive for pregnant and lactating mothers?",
    "o": [
     "Mahatma Gandhi National Rural Employment Guarantee Scheme",
@@ -11506,7 +11806,7 @@
    "e": "Cash incentive for pregnant and lactating mothers describes Pradhan Mantri Matru Vandana Yojana."
   },
   {
-   "id": "current-affairs-00767",
+   "id": "current-affairs-00787",
    "q": "Which mission is described as: Electronic delivery of government services?",
    "o": [
     "e-Kranti",
@@ -11521,7 +11821,7 @@
    "e": "Electronic delivery of government services describes e-Kranti."
   },
   {
-   "id": "current-affairs-00768",
+   "id": "current-affairs-00788",
    "q": "What is the full form of IFSC?",
    "o": [
     "United Nations Educational, Scientific and Cultural Organization",
@@ -11536,7 +11836,7 @@
    "e": "IFSC stands for Indian Financial System Code."
   },
   {
-   "id": "current-affairs-00769",
+   "id": "current-affairs-00789",
    "q": "In which decade did the following event take place: India signed the civil nuclear deal with the USA?",
    "o": [
     "1940s",
@@ -11551,7 +11851,7 @@
    "e": "India signed the civil nuclear deal with the USA took place in the 2008s."
   },
   {
-   "id": "current-affairs-00770",
+   "id": "current-affairs-00790",
    "q": "Which of the following days is observed on 13 February?",
    "o": [
     "World Press Freedom Day",
@@ -11566,7 +11866,7 @@
    "e": "13 February is observed as World Radio Day."
   },
   {
-   "id": "current-affairs-00771",
+   "id": "current-affairs-00791",
    "q": "Which of the following organisations has its headquarters at Montreal?",
    "o": [
     "CERN",
@@ -11581,7 +11881,7 @@
    "e": "World Anti-Doping Agency is headquartered at Montreal."
   },
   {
-   "id": "current-affairs-00772",
+   "id": "current-affairs-00792",
    "q": "Which sector employs the largest share of India's workforce?",
    "o": [
     "Abolition of intermediaries",
@@ -11596,7 +11896,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00773",
+   "id": "current-affairs-00793",
    "q": "Which city will host the 2028 Summer Olympics?",
    "o": [
     "Satwiksairaj Rankireddy and Chirag Shetty",
@@ -11611,7 +11911,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00774",
+   "id": "current-affairs-00794",
    "q": "Which scheme is described as: Development of fisheries and aquaculture?",
    "o": [
     "Blue Revolution",
@@ -11626,7 +11926,7 @@
    "e": "Development of fisheries and aquaculture describes Blue Revolution."
   },
   {
-   "id": "current-affairs-00775",
+   "id": "current-affairs-00795",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "RISAT - Multi-wavelength space observatory",
@@ -11641,7 +11941,7 @@
    "e": "Only RISAT - Radar imaging satellites for all-weather observation is correctly matched."
   },
   {
-   "id": "current-affairs-00776",
+   "id": "current-affairs-00796",
    "q": "What is the full form of BARC?",
    "o": [
     "International Space Station",
@@ -11656,7 +11956,7 @@
    "e": "BARC stands for Bhabha Atomic Research Centre."
   },
   {
-   "id": "current-affairs-00777",
+   "id": "current-affairs-00797",
    "q": "In which decade did the following event take place: Constitution of India came into force?",
    "o": [
     "1920s",
@@ -11671,7 +11971,7 @@
    "e": "Constitution of India came into force took place in the 1950s."
   },
   {
-   "id": "current-affairs-00778",
+   "id": "current-affairs-00798",
    "q": "Which of the following days is observed on 31 October?",
    "o": [
     "World Students' Day",
@@ -11686,7 +11986,7 @@
    "e": "31 October is observed as World Cities Day."
   },
   {
-   "id": "current-affairs-00779",
+   "id": "current-affairs-00799",
    "q": "Which of the following organisations has its headquarters at Beijing?",
    "o": [
     "Interpol",
@@ -11701,7 +12001,7 @@
    "e": "Asian Infrastructure Investment Bank is headquartered at Beijing."
   },
   {
-   "id": "current-affairs-00780",
+   "id": "current-affairs-00800",
    "q": "Which article of the Constitution deals with the Annual Financial Statement?",
    "o": [
     "Article 112",
@@ -11716,7 +12016,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00781",
+   "id": "current-affairs-00801",
    "q": "Which mission aims to make India free of single-use plastic?",
    "o": [
     "Swachh Bharat Abhiyan",
@@ -11731,7 +12031,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00782",
+   "id": "current-affairs-00802",
    "q": "Which scheme is described as: Pension for workers in the unorganised sector?",
    "o": [
     "Swachh Bharat Mission",
@@ -11746,7 +12046,7 @@
    "e": "Pension for workers in the unorganised sector describes Atal Pension Yojana."
   },
   {
-   "id": "current-affairs-00783",
+   "id": "current-affairs-00803",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "RISAT - Conservation of Asiatic lions",
@@ -11761,7 +12061,7 @@
    "e": "Only RISAT - Radar imaging satellites for all-weather observation is correctly matched."
   },
   {
-   "id": "current-affairs-00784",
+   "id": "current-affairs-00804",
    "q": "What is the full form of UIDAI?",
    "o": [
     "Automated Teller Machine",
@@ -11776,7 +12076,7 @@
    "e": "UIDAI stands for Unique Identification Authority of India."
   },
   {
-   "id": "current-affairs-00785",
+   "id": "current-affairs-00805",
    "q": "In which decade did the following event take place: India-China border war?",
    "o": [
     "1970s",
@@ -11791,7 +12091,7 @@
    "e": "India-China border war took place in the 1962s."
   },
   {
-   "id": "current-affairs-00786",
+   "id": "current-affairs-00806",
    "q": "Which of the following days is observed on 23 March?",
    "o": [
     "World Animal Day",
@@ -11806,7 +12106,7 @@
    "e": "23 March is observed as World Meteorological Day."
   },
   {
-   "id": "current-affairs-00787",
+   "id": "current-affairs-00807",
    "q": "Which of the following organisations has its headquarters at Brussels?",
    "o": [
     "International Labour Organization headquarters city",
@@ -11821,7 +12121,7 @@
    "e": "NATO is headquartered at Brussels."
   },
   {
-   "id": "current-affairs-00788",
+   "id": "current-affairs-00808",
    "q": "Which is the policy think tank of the Government of India?",
    "o": [
     "2015",
@@ -11836,7 +12136,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00789",
+   "id": "current-affairs-00809",
    "q": "Which Indian film won the Oscar for Best Original Song in 2023?",
    "o": [
     "Reserve Bank of India",
@@ -11851,7 +12151,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00790",
+   "id": "current-affairs-00810",
    "q": "Which scheme is described as: Loans to women and scheduled caste entrepreneurs?",
    "o": [
     "Poshan Abhiyaan",
@@ -11866,7 +12166,7 @@
    "e": "Loans to women and scheduled caste entrepreneurs describes Stand Up India."
   },
   {
-   "id": "current-affairs-00791",
+   "id": "current-affairs-00811",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "PMAY-Urban - Reintroduction of cheetahs in India",
@@ -11881,7 +12181,7 @@
    "e": "Only PMAY-Urban - Affordable housing in urban areas is correctly matched."
   },
   {
-   "id": "current-affairs-00792",
+   "id": "current-affairs-00812",
    "q": "What is the full form of NCERT?",
    "o": [
     "National Council of Educational Research and Training",
@@ -11896,7 +12196,7 @@
    "e": "NCERT stands for National Council of Educational Research and Training."
   },
   {
-   "id": "current-affairs-00793",
+   "id": "current-affairs-00813",
    "q": "In which decade did the following event take place: Founding of the Indian National Congress?",
    "o": [
     "1880s",
@@ -11911,7 +12211,7 @@
    "e": "Founding of the Indian National Congress took place in the 1885s."
   },
   {
-   "id": "current-affairs-00794",
+   "id": "current-affairs-00814",
    "q": "Which of the following days is observed on 25 January?",
    "o": [
     "International Day of the Girl Child",
@@ -11926,7 +12226,7 @@
    "e": "25 January is observed as National Voters' Day (India)."
   },
   {
-   "id": "current-affairs-00795",
+   "id": "current-affairs-00815",
    "q": "Which of the following organisations has its headquarters at Amsterdam?",
    "o": [
     "International Maritime Organization",
@@ -11941,7 +12241,7 @@
    "e": "Greenpeace is headquartered at Amsterdam."
   },
   {
-   "id": "current-affairs-00796",
+   "id": "current-affairs-00816",
    "q": "Which act deals with the recovery of debts by banks in India?",
    "o": [
     "Mumbai",
@@ -11956,7 +12256,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00797",
+   "id": "current-affairs-00817",
    "q": "Which scheme promotes the use of biofuels in India?",
    "o": [
     "International Solar Alliance",
@@ -11971,7 +12271,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00798",
+   "id": "current-affairs-00818",
    "q": "Which scheme is described as: Free LPG connections to women from poor households?",
    "o": [
     "PM Gati Shakti",
@@ -11986,7 +12286,7 @@
    "e": "Free LPG connections to women from poor households describes Pradhan Mantri Ujjwala Yojana."
   },
   {
-   "id": "current-affairs-00799",
+   "id": "current-affairs-00819",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "PMAY-Urban - Instant bank to bank payments system",
@@ -12001,7 +12301,7 @@
    "e": "Only PMAY-Urban - Affordable housing in urban areas is correctly matched."
   },
   {
-   "id": "current-affairs-00800",
+   "id": "current-affairs-00820",
    "q": "What is the full form of ITBP?",
    "o": [
     "United Nations High Commissioner for Refugees",
@@ -12016,7 +12316,7 @@
    "e": "ITBP stands for Indo-Tibetan Border Police."
   },
   {
-   "id": "current-affairs-00801",
+   "id": "current-affairs-00821",
    "q": "In which decade did the following event take place: Bhopal gas tragedy?",
    "o": [
     "1980s",
@@ -12031,7 +12331,7 @@
    "e": "Bhopal gas tragedy took place in the 1984s."
   },
   {
-   "id": "current-affairs-00802",
+   "id": "current-affairs-00822",
    "q": "Which of the following days is observed on 7 April?",
    "o": [
     "International Mountain Day",
@@ -12046,7 +12346,7 @@
    "e": "7 April is observed as World Health Day."
   },
   {
-   "id": "current-affairs-00803",
+   "id": "current-affairs-00823",
    "q": "Which of the following organisations has its headquarters at Jakarta?",
    "o": [
     "World Meteorological Organization",
@@ -12061,7 +12361,7 @@
    "e": "ASEAN is headquartered at Jakarta."
   },
   {
-   "id": "current-affairs-00804",
+   "id": "current-affairs-00824",
    "q": "What does LPG stand for in the context of economic reforms?",
    "o": [
     "Income inequality",
@@ -12076,7 +12376,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00805",
+   "id": "current-affairs-00825",
    "q": "Which satellite did India launch to study black holes?",
    "o": [
     "Hangzhou",
@@ -12091,7 +12391,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00806",
+   "id": "current-affairs-00826",
    "q": "Which scheme is described as: All-weather roads for rural areas?",
    "o": [
     "Rashtriya Gokul Mission",
@@ -12106,7 +12406,7 @@
    "e": "All-weather roads for rural areas describes Pradhan Mantri Gram Sadak Yojana."
   },
   {
-   "id": "current-affairs-00807",
+   "id": "current-affairs-00827",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "National Green Hydrogen Mission - Earth observation satellites for mapping",
@@ -12121,7 +12421,7 @@
    "e": "Only National Green Hydrogen Mission - Green hydrogen production and export hub is correctly matched."
   },
   {
-   "id": "current-affairs-00808",
+   "id": "current-affairs-00828",
    "q": "What is the full form of LVM3?",
    "o": [
     "Launch Vehicle Mark 3",
@@ -12136,7 +12436,7 @@
    "e": "LVM3 stands for Launch Vehicle Mark 3."
   },
   {
-   "id": "current-affairs-00809",
+   "id": "current-affairs-00829",
    "q": "In which decade did the following event take place: Kargil War?",
    "o": [
     "1920s",
@@ -12151,7 +12451,7 @@
    "e": "Kargil War took place in the 1999s."
   },
   {
-   "id": "current-affairs-00810",
+   "id": "current-affairs-00830",
    "q": "Which of the following days is observed on 8 May?",
    "o": [
     "World Red Cross Day",
@@ -12166,7 +12466,7 @@
    "e": "8 May is observed as World Red Cross Day."
   },
   {
-   "id": "current-affairs-00811",
+   "id": "current-affairs-00831",
    "q": "Which of the following organisations has its headquarters at Paris?",
    "o": [
     "United Nations Environment Programme",
@@ -12181,7 +12481,7 @@
    "e": "OECD is headquartered at Paris."
   },
   {
-   "id": "current-affairs-00812",
+   "id": "current-affairs-00832",
    "q": "Which body decides monetary policy in India?",
    "o": [
     "1966",
@@ -12196,7 +12496,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00813",
+   "id": "current-affairs-00833",
    "q": "In which year did D. Gukesh become world chess champion?",
    "o": [
     "Project Tiger",
@@ -12211,7 +12511,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00814",
+   "id": "current-affairs-00834",
    "q": "Which scheme is described as: Skill certification of youth?",
    "o": [
     "Pradhan Mantri Fasal Bima Yojana",
@@ -12226,7 +12526,7 @@
    "e": "Skill certification of youth describes Pradhan Mantri Kaushal Vikas Yojana."
   },
   {
-   "id": "current-affairs-00815",
+   "id": "current-affairs-00835",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "National Green Hydrogen Mission - Conservation of river and marine dolphins",
@@ -12241,7 +12541,7 @@
    "e": "Only National Green Hydrogen Mission - Green hydrogen production and export hub is correctly matched."
   },
   {
-   "id": "current-affairs-00816",
+   "id": "current-affairs-00836",
    "q": "What is the full form of PMJDY?",
    "o": [
     "Group of Twenty major economies",
@@ -12256,7 +12556,7 @@
    "e": "PMJDY stands for Pradhan Mantri Jan Dhan Yojana."
   },
   {
-   "id": "current-affairs-00817",
+   "id": "current-affairs-00837",
    "q": "In which decade did the following event take place: Poona Pact signed?",
    "o": [
     "1980s",
@@ -12271,7 +12571,7 @@
    "e": "Poona Pact signed took place in the 1932s."
   },
   {
-   "id": "current-affairs-00818",
+   "id": "current-affairs-00838",
    "q": "Which of the following days is observed on 22 April?",
    "o": [
     "International Mother Earth Day",
@@ -12286,7 +12586,7 @@
    "e": "22 April is observed as International Mother Earth Day."
   },
   {
-   "id": "current-affairs-00819",
+   "id": "current-affairs-00839",
    "q": "Which of the following organisations has its headquarters at Geneva?",
    "o": [
     "Amnesty International",
@@ -12301,7 +12601,7 @@
    "e": "CERN is headquartered at Geneva."
   },
   {
-   "id": "current-affairs-00820",
+   "id": "current-affairs-00840",
    "q": "Which Five Year Plan focused on the Green Revolution?",
    "o": [
     "Reserve Bank of India",
@@ -12316,7 +12616,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00821",
+   "id": "current-affairs-00841",
    "q": "Which Indian mission promotes green hydrogen?",
    "o": [
     "United States of America",
@@ -12331,7 +12631,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00822",
+   "id": "current-affairs-00842",
    "q": "Which scheme is described as: Rapid transformation of backward districts?",
    "o": [
     "Mahatma Gandhi National Rural Employment Guarantee Scheme",
@@ -12346,7 +12646,7 @@
    "e": "Rapid transformation of backward districts describes Aspirational Districts Programme."
   },
   {
-   "id": "current-affairs-00823",
+   "id": "current-affairs-00843",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "National Broadband Mission - Adoption of electric vehicles",
@@ -12361,7 +12661,7 @@
    "e": "Only National Broadband Mission - Broadband for all by 2024 is correctly matched."
   },
   {
-   "id": "current-affairs-00824",
+   "id": "current-affairs-00844",
    "q": "What is the full form of SSB?",
    "o": [
     "Sashastra Seema Bal",
@@ -12376,7 +12676,7 @@
    "e": "SSB stands for Sashastra Seema Bal."
   },
   {
-   "id": "current-affairs-00825",
+   "id": "current-affairs-00845",
    "q": "In which decade did the following event take place: Liberation of Goa?",
    "o": [
     "1950s",
@@ -12391,7 +12691,7 @@
    "e": "Liberation of Goa took place in the 1961s."
   },
   {
-   "id": "current-affairs-00826",
+   "id": "current-affairs-00846",
    "q": "Which of the following days is observed on 14 October?",
    "o": [
     "World Braille Day",
@@ -12406,7 +12706,7 @@
    "e": "14 October is observed as World Standards Day."
   },
   {
-   "id": "current-affairs-00827",
+   "id": "current-affairs-00847",
    "q": "Which of the following organisations has its headquarters at Mumbai?",
    "o": [
     "Board of Control for Cricket in India",
@@ -12421,7 +12721,7 @@
    "e": "Board of Control for Cricket in India is headquartered at Mumbai."
   },
   {
-   "id": "current-affairs-00828",
+   "id": "current-affairs-00848",
    "q": "Which is the largest source of revenue for the Union Government?",
    "o": [
     "Karl Marx",
@@ -12436,7 +12736,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00829",
+   "id": "current-affairs-00849",
    "q": "Which missile is India's intercontinental ballistic missile?",
    "o": [
     "State of the Environment Report",
@@ -12451,7 +12751,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00830",
+   "id": "current-affairs-00850",
    "q": "Which scheme is described as: Safety and empowerment of women?",
    "o": [
     "Mission Shakti",
@@ -12466,7 +12766,7 @@
    "e": "Safety and empowerment of women describes Mission Shakti."
   },
   {
-   "id": "current-affairs-00831",
+   "id": "current-affairs-00851",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "National Broadband Mission - Broadband for all by 2024",
@@ -12481,7 +12781,7 @@
    "e": "Only National Broadband Mission - Broadband for all by 2024 is correctly matched."
   },
   {
-   "id": "current-affairs-00832",
+   "id": "current-affairs-00852",
    "q": "What is the full form of AC?",
    "o": [
     "Alternating Current",
@@ -12496,7 +12796,7 @@
    "e": "AC stands for Alternating Current."
   },
   {
-   "id": "current-affairs-00833",
+   "id": "current-affairs-00853",
    "q": "In which decade did the following event take place: Founding of the All India Muslim League?",
    "o": [
     "1960s",
@@ -12511,7 +12811,7 @@
    "e": "Founding of the All India Muslim League took place in the 1906s."
   },
   {
-   "id": "current-affairs-00834",
+   "id": "current-affairs-00854",
    "q": "Which of the following days is observed on 26 July?",
    "o": [
     "International Migrants Day",
@@ -12526,7 +12826,7 @@
    "e": "26 July is observed as Kargil Vijay Diwas."
   },
   {
-   "id": "current-affairs-00835",
+   "id": "current-affairs-00855",
    "q": "Which of the following organisations has its headquarters at Washington, D.C.?",
    "o": [
     "World Food Programme",
@@ -12541,7 +12841,7 @@
    "e": "International Monetary Fund is headquartered at Washington, D.C.."
   },
   {
-   "id": "current-affairs-00836",
+   "id": "current-affairs-00856",
    "q": "How many banks were nationalised in India in 1980?",
    "o": [
     "Washington, D.C.",
@@ -12556,7 +12856,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00837",
+   "id": "current-affairs-00857",
    "q": "Which mission aims to provide affordable internet to all?",
    "o": [
     "LVM3",
@@ -12571,7 +12871,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00838",
+   "id": "current-affairs-00858",
    "q": "Which scheme is described as: Online national agriculture market for farmers?",
    "o": [
     "Smart Cities Mission",
@@ -12586,7 +12886,7 @@
    "e": "Online national agriculture market for farmers describes e-NAM."
   },
   {
-   "id": "current-affairs-00839",
+   "id": "current-affairs-00859",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Mission LiFE - Integrated bill payment platform",
@@ -12601,7 +12901,7 @@
    "e": "Only Mission LiFE - Lifestyle for environment movement is correctly matched."
   },
   {
-   "id": "current-affairs-00840",
+   "id": "current-affairs-00860",
    "q": "What is the full form of FAO?",
    "o": [
     "Common Law Admission Test",
@@ -12616,7 +12916,7 @@
    "e": "FAO stands for Food and Agriculture Organization."
   },
   {
-   "id": "current-affairs-00841",
+   "id": "current-affairs-00861",
    "q": "In which decade did the following event take place: Shimla Agreement signed?",
    "o": [
     "2020s",
@@ -12631,7 +12931,7 @@
    "e": "Shimla Agreement signed took place in the 1972s."
   },
   {
-   "id": "current-affairs-00842",
+   "id": "current-affairs-00862",
    "q": "Which of the following days is observed on 17 November?",
    "o": [
     "World Nature Conservation Day",
@@ -12646,7 +12946,7 @@
    "e": "17 November is observed as International Students' Day."
   },
   {
-   "id": "current-affairs-00843",
+   "id": "current-affairs-00863",
    "q": "Which of the following organisations has its headquarters at Montreal?",
    "o": [
     "Universal Postal Union",
@@ -12661,7 +12961,7 @@
    "e": "International Civil Aviation Organization is headquartered at Montreal."
   },
   {
-   "id": "current-affairs-00844",
+   "id": "current-affairs-00864",
    "q": "What is the cost of the next best alternative forgone called?",
    "o": [
     "Bretton Woods Conference",
@@ -12676,7 +12976,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00845",
+   "id": "current-affairs-00865",
    "q": "Which Indian is the fastest to score 50 ODI centuries?",
    "o": [
     "Ramappa Temple",
@@ -12691,7 +12991,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00846",
+   "id": "current-affairs-00866",
    "q": "Which scheme is described as: Working capital loans for street vendors?",
    "o": [
     "Startup India",
@@ -12706,7 +13006,7 @@
    "e": "Working capital loans for street vendors describes PM SVANidhi."
   },
   {
-   "id": "current-affairs-00847",
+   "id": "current-affairs-00867",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Mission LiFE - Delivery of services through digital platforms",
@@ -12721,7 +13021,7 @@
    "e": "Only Mission LiFE - Lifestyle for environment movement is correctly matched."
   },
   {
-   "id": "current-affairs-00848",
+   "id": "current-affairs-00868",
    "q": "What is the full form of NPS?",
    "o": [
     "World Health Organization",
@@ -12736,7 +13036,7 @@
    "e": "NPS stands for National Pension System."
   },
   {
-   "id": "current-affairs-00849",
+   "id": "current-affairs-00869",
    "q": "In which decade did the following event take place: Mars Orbiter Mission entered Mars orbit?",
    "o": [
     "1940s",
@@ -12751,7 +13051,7 @@
    "e": "Mars Orbiter Mission entered Mars orbit took place in the 2014s."
   },
   {
-   "id": "current-affairs-00850",
+   "id": "current-affairs-00870",
    "q": "Which of the following days is observed on 24 January?",
    "o": [
     "World First Aid Day",
@@ -12766,7 +13066,7 @@
    "e": "24 January is observed as International Day of Education."
   },
   {
-   "id": "current-affairs-00851",
+   "id": "current-affairs-00871",
    "q": "Which of the following organisations has its headquarters at Geneva?",
    "o": [
     "SAARC",
@@ -12781,7 +13081,7 @@
    "e": "World Meteorological Organization is headquartered at Geneva."
   },
   {
-   "id": "current-affairs-00852",
+   "id": "current-affairs-00872",
    "q": "In which year was the Reserve Bank of India established?",
    "o": [
     "Excise duty",
@@ -12796,7 +13096,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00853",
+   "id": "current-affairs-00873",
    "q": "Which light combat aircraft is made by HAL?",
    "o": [
     "Mumbai",
@@ -12811,7 +13111,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00854",
+   "id": "current-affairs-00874",
    "q": "Which scheme is described as: Subsidised food grains to two-thirds of the population?",
    "o": [
     "National Food Security Act",
@@ -12826,7 +13126,7 @@
    "e": "Subsidised food grains to two-thirds of the population describes National Food Security Act."
   },
   {
-   "id": "current-affairs-00855",
+   "id": "current-affairs-00875",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Fit India Movement - Heritage city development and rejuvenation",
@@ -12841,7 +13141,7 @@
    "e": "Only Fit India Movement - Promotion of fitness and sports is correctly matched."
   },
   {
-   "id": "current-affairs-00856",
+   "id": "current-affairs-00876",
    "q": "What is the full form of AIIB?",
    "o": [
     "Low Earth Orbit",
@@ -12856,7 +13156,7 @@
    "e": "AIIB stands for Asian Infrastructure Investment Bank."
   },
   {
-   "id": "current-affairs-00857",
+   "id": "current-affairs-00877",
    "q": "In which decade did the following event take place: Gandhi-Irwin Pact signed?",
    "o": [
     "1970s",
@@ -12871,7 +13171,7 @@
    "e": "Gandhi-Irwin Pact signed took place in the 1931s."
   },
   {
-   "id": "current-affairs-00858",
+   "id": "current-affairs-00878",
    "q": "Which of the following days is observed on 29 August?",
    "o": [
     "World Radio Day",
@@ -12886,7 +13186,7 @@
    "e": "29 August is observed as National Sports Day (India)."
   },
   {
-   "id": "current-affairs-00859",
+   "id": "current-affairs-00879",
    "q": "Which of the following organisations has its headquarters at Berlin?",
    "o": [
     "International Committee of the Red Cross",
@@ -12901,7 +13201,7 @@
    "e": "Transparency International is headquartered at Berlin."
   },
   {
-   "id": "current-affairs-00860",
+   "id": "current-affairs-00880",
    "q": "What is the combination of high inflation and high unemployment called?",
    "o": [
     "Stagflation",
@@ -12916,7 +13216,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00861",
+   "id": "current-affairs-00881",
    "q": "Which package was announced to revive the economy during the pandemic?",
    "o": [
     "Reusable Launch Vehicle",
@@ -12931,7 +13231,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00862",
+   "id": "current-affairs-00882",
    "q": "Which scheme is described as: Day care facilities for working mothers?",
    "o": [
     "Blue Revolution",
@@ -12946,7 +13246,7 @@
    "e": "Day care facilities for working mothers describes National Creche Scheme."
   },
   {
-   "id": "current-affairs-00863",
+   "id": "current-affairs-00883",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Fit India Movement - Digital infrastructure for school education",
@@ -12961,7 +13261,7 @@
    "e": "Only Fit India Movement - Promotion of fitness and sports is correctly matched."
   },
   {
-   "id": "current-affairs-00864",
+   "id": "current-affairs-00884",
    "q": "What is the full form of GSLV?",
    "o": [
     "Food Corporation of India",
@@ -12976,7 +13276,7 @@
    "e": "GSLV stands for Geosynchronous Satellite Launch Vehicle."
   },
   {
-   "id": "current-affairs-00865",
+   "id": "current-affairs-00885",
    "q": "In which decade did the following event take place: India attained independence?",
    "o": [
     "2020s",
@@ -12991,7 +13291,7 @@
    "e": "India attained independence took place in the 1947s."
   },
   {
-   "id": "current-affairs-00866",
+   "id": "current-affairs-00886",
    "q": "Which of the following days is observed on 3 May?",
    "o": [
     "World Oceans Day",
@@ -13006,7 +13306,7 @@
    "e": "3 May is observed as World Press Freedom Day."
   },
   {
-   "id": "current-affairs-00867",
+   "id": "current-affairs-00887",
    "q": "Which of the following organisations has its headquarters at London?",
    "o": [
     "International Maritime Organization",
@@ -13021,7 +13321,7 @@
    "e": "Amnesty International is headquartered at London."
   },
   {
-   "id": "current-affairs-00868",
+   "id": "current-affairs-00888",
    "q": "Which Five Year Plan is known as the Gadgil Yojana?",
    "o": [
     "Third Five Year Plan",
@@ -13036,7 +13336,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00869",
+   "id": "current-affairs-00889",
    "q": "Which Indian documentary won an Oscar in 2023?",
    "o": [
     "National COVID-19 Vaccination Drive",
@@ -13051,7 +13351,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00870",
+   "id": "current-affairs-00890",
    "q": "Which scheme is described as: Promoting manufacturing and investment in India?",
    "o": [
     "Make in India",
@@ -13066,7 +13366,7 @@
    "e": "Promoting manufacturing and investment in India describes Make in India."
   },
   {
-   "id": "current-affairs-00871",
+   "id": "current-affairs-00891",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Swachh Survekshan - Urban water supply and sewerage improvement",
@@ -13081,7 +13381,7 @@
    "e": "Only Swachh Survekshan - Cleanliness ranking of Indian cities is correctly matched."
   },
   {
-   "id": "current-affairs-00872",
+   "id": "current-affairs-00892",
    "q": "What is the full form of TRAI?",
    "o": [
     "World Anti-Doping Agency",
@@ -13096,7 +13396,7 @@
    "e": "TRAI stands for Telecom Regulatory Authority of India."
   },
   {
-   "id": "current-affairs-00873",
+   "id": "current-affairs-00893",
    "q": "In which decade did the following event take place: Jallianwala Bagh massacre?",
    "o": [
     "1960s",
@@ -13111,7 +13411,7 @@
    "e": "Jallianwala Bagh massacre took place in the 1919s."
   },
   {
-   "id": "current-affairs-00874",
+   "id": "current-affairs-00894",
    "q": "Which of the following days is observed on 21 May?",
    "o": [
     "International Tea Day",
@@ -13126,7 +13426,7 @@
    "e": "21 May is observed as International Tea Day."
   },
   {
-   "id": "current-affairs-00875",
+   "id": "current-affairs-00895",
    "q": "Which of the following organisations has its headquarters at Washington, D.C.?",
    "o": [
     "International Labour Organization headquarters city",
@@ -13141,7 +13441,7 @@
    "e": "World Bank is headquartered at Washington, D.C.."
   },
   {
-   "id": "current-affairs-00876",
+   "id": "current-affairs-00896",
    "q": "Which body regulates the pension sector in India?",
    "o": [
     "ICAR",
@@ -13156,7 +13456,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00877",
+   "id": "current-affairs-00897",
    "q": "Which scheme aims to promote digital payments in India?",
    "o": [
     "Mumbai",
@@ -13171,7 +13471,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00878",
+   "id": "current-affairs-00898",
    "q": "Which scheme is described as: Piped drinking water to every rural household?",
    "o": [
     "Pradhan Mantri Matru Vandana Yojana",
@@ -13186,7 +13486,7 @@
    "e": "Piped drinking water to every rural household describes Jal Jeevan Mission."
   },
   {
-   "id": "current-affairs-00879",
+   "id": "current-affairs-00899",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Swachh Survekshan - India's heavy lift launch vehicle",
@@ -13201,7 +13501,7 @@
    "e": "Only Swachh Survekshan - Cleanliness ranking of Indian cities is correctly matched."
   },
   {
-   "id": "current-affairs-00880",
+   "id": "current-affairs-00900",
    "q": "What is the full form of PIN?",
    "o": [
     "International Union for Conservation of Nature",
@@ -13216,7 +13516,7 @@
    "e": "PIN stands for Personal Identification Number."
   },
   {
-   "id": "current-affairs-00881",
+   "id": "current-affairs-00901",
    "q": "In which decade did the following event take place: Assassination of Mahatma Gandhi?",
    "o": [
     "1970s",
@@ -13231,7 +13531,7 @@
    "e": "Assassination of Mahatma Gandhi took place in the 1948s."
   },
   {
-   "id": "current-affairs-00882",
+   "id": "current-affairs-00902",
    "q": "Which of the following days is observed on 14 November?",
    "o": [
     "World Sparrow Day",
@@ -13246,7 +13546,7 @@
    "e": "14 November is observed as Children's Day (India)."
   },
   {
-   "id": "current-affairs-00883",
+   "id": "current-affairs-00903",
    "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
    "o": [
     "New Development Bank - Brussels",
@@ -13261,7 +13561,7 @@
    "e": "Only New Development Bank - Shanghai is correctly matched."
   },
   {
-   "id": "current-affairs-00884",
+   "id": "current-affairs-00904",
    "q": "What is GNP minus depreciation called?",
    "o": [
     "Net National Product",
@@ -13276,7 +13576,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00885",
+   "id": "current-affairs-00905",
    "q": "Which campaign aims to end violence against women and girls?",
    "o": [
     "Beti Bachao Beti Padhao",
@@ -13291,7 +13591,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00886",
+   "id": "current-affairs-00906",
    "q": "Which scheme is described as: Cooperative development of the dairy sector?",
    "o": [
     "PM Surya Ghar Muft Bijli Yojana",
@@ -13306,7 +13606,7 @@
    "e": "Cooperative development of the dairy sector describes White Revolution 2.0."
   },
   {
-   "id": "current-affairs-00887",
+   "id": "current-affairs-00907",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "BharatNet - Multi-wavelength space observatory",
@@ -13321,7 +13621,7 @@
    "e": "Only BharatNet - Optical fibre connectivity to gram panchayats is correctly matched."
   },
   {
-   "id": "current-affairs-00888",
+   "id": "current-affairs-00908",
    "q": "What is the full form of NTA?",
    "o": [
     "World Anti-Doping Agency",
@@ -13336,7 +13636,7 @@
    "e": "NTA stands for National Testing Agency."
   },
   {
-   "id": "current-affairs-00889",
+   "id": "current-affairs-00909",
    "q": "In which decade did the following event take place: Article 370 provisions abrogated?",
    "o": [
     "1940s",
@@ -13351,7 +13651,7 @@
    "e": "Article 370 provisions abrogated took place in the 2019s."
   },
   {
-   "id": "current-affairs-00890",
+   "id": "current-affairs-00910",
    "q": "Which of the following days is observed on 17 May?",
    "o": [
     "World Hypertension Day",
@@ -13366,7 +13666,7 @@
    "e": "17 May is observed as World Hypertension Day."
   },
   {
-   "id": "current-affairs-00891",
+   "id": "current-affairs-00911",
    "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
    "o": [
     "New Development Bank - Gland",
@@ -13381,7 +13681,7 @@
    "e": "Only New Development Bank - Shanghai is correctly matched."
   },
   {
-   "id": "current-affairs-00892",
+   "id": "current-affairs-00912",
    "q": "Who is the chairman of the GST Council?",
    "o": [
     "Wholesale Price Index",
@@ -13396,7 +13696,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00893",
+   "id": "current-affairs-00913",
    "q": "Which helicopter is India's indigenous light utility helicopter?",
    "o": [
     "2023",
@@ -13411,7 +13711,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00894",
+   "id": "current-affairs-00914",
    "q": "Which scheme is described as: Rooftop solar power for households?",
    "o": [
     "Pradhan Mantri Kaushal Vikas Yojana",
@@ -13426,7 +13726,7 @@
    "e": "Rooftop solar power for households describes PM Surya Ghar Muft Bijli Yojana."
   },
   {
-   "id": "current-affairs-00895",
+   "id": "current-affairs-00915",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "BharatNet - Optical fibre connectivity to gram panchayats",
@@ -13441,7 +13741,7 @@
    "e": "Only BharatNet - Optical fibre connectivity to gram panchayats is correctly matched."
   },
   {
-   "id": "current-affairs-00896",
+   "id": "current-affairs-00916",
    "q": "What is the full form of SAI?",
    "o": [
     "National Service Scheme",
@@ -13456,7 +13756,7 @@
    "e": "SAI stands for Sports Authority of India."
   },
   {
-   "id": "current-affairs-00897",
+   "id": "current-affairs-00917",
    "q": "In which decade did the following event take place: Government of India Act passed?",
    "o": [
     "1930s",
@@ -13471,7 +13771,7 @@
    "e": "Government of India Act passed took place in the 1935s."
   },
   {
-   "id": "current-affairs-00898",
+   "id": "current-affairs-00918",
    "q": "Which of the following days is observed on 11 November?",
    "o": [
     "World First Aid Day",
@@ -13486,7 +13786,7 @@
    "e": "11 November is observed as National Education Day (India)."
   },
   {
-   "id": "current-affairs-00899",
+   "id": "current-affairs-00919",
    "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
    "o": [
     "Board of Control for Cricket in India - London",
@@ -13501,7 +13801,7 @@
    "e": "Only Board of Control for Cricket in India - Mumbai is correctly matched."
   },
   {
-   "id": "current-affairs-00900",
+   "id": "current-affairs-00920",
    "q": "Which sector is known as the tertiary sector of the economy?",
    "o": [
     "Adam Smith",
@@ -13516,7 +13816,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00901",
+   "id": "current-affairs-00921",
    "q": "Which agency issues cyclone warnings in India?",
    "o": [
     "Atmanirbhar Bharat Abhiyan",
@@ -13531,7 +13831,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00902",
+   "id": "current-affairs-00922",
    "q": "Which scheme is described as: Portable food entitlements across states?",
    "o": [
     "National Digital Health Mission",
@@ -13546,7 +13846,7 @@
    "e": "Portable food entitlements across states describes One Nation One Ration Card."
   },
   {
-   "id": "current-affairs-00903",
+   "id": "current-affairs-00923",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "National Electric Mobility Mission - Adoption of electric vehicles",
@@ -13561,7 +13861,7 @@
    "e": "Only National Electric Mobility Mission - Adoption of electric vehicles is correctly matched."
   },
   {
-   "id": "current-affairs-00904",
+   "id": "current-affairs-00924",
    "q": "What is the full form of CBSE?",
    "o": [
     "Central Board of Secondary Education",
@@ -13576,7 +13876,7 @@
    "e": "CBSE stands for Central Board of Secondary Education."
   },
   {
-   "id": "current-affairs-00905",
+   "id": "current-affairs-00925",
    "q": "In which decade did the following event take place: Indira Gandhi became Prime Minister?",
    "o": [
     "1940s",
@@ -13591,7 +13891,7 @@
    "e": "Indira Gandhi became Prime Minister took place in the 1966s."
   },
   {
-   "id": "current-affairs-00906",
+   "id": "current-affairs-00926",
    "q": "Which of the following days is observed on 10 February?",
    "o": [
     "World Post Day",
@@ -13606,7 +13906,7 @@
    "e": "10 February is observed as World Pulses Day."
   },
   {
-   "id": "current-affairs-00907",
+   "id": "current-affairs-00927",
    "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
    "o": [
     "Board of Control for Cricket in India - Mumbai",
@@ -13621,7 +13921,7 @@
    "e": "Only Board of Control for Cricket in India - Mumbai is correctly matched."
   },
   {
-   "id": "current-affairs-00908",
+   "id": "current-affairs-00928",
    "q": "Which body administers the collection of direct taxes in India?",
    "o": [
     "Bank of Hindustan",
@@ -13636,7 +13936,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00909",
+   "id": "current-affairs-00929",
    "q": "Which scheme provides cash transfer support to pregnant women?",
    "o": [
     "Pradhan Mantri Matru Vandana Yojana",
@@ -13651,7 +13951,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00910",
+   "id": "current-affairs-00930",
    "q": "Which scheme is described as: Credit facility for farmers?",
    "o": [
     "Kisan Credit Card",
@@ -13666,7 +13966,7 @@
    "e": "Credit facility for farmers describes Kisan Credit Card."
   },
   {
-   "id": "current-affairs-00911",
+   "id": "current-affairs-00931",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "National Electric Mobility Mission - Optical fibre connectivity to gram panchayats",
@@ -13681,7 +13981,7 @@
    "e": "Only National Electric Mobility Mission - Adoption of electric vehicles is correctly matched."
   },
   {
-   "id": "current-affairs-00912",
+   "id": "current-affairs-00932",
    "q": "What is the full form of UAV?",
    "o": [
     "Foreign Direct Investment",
@@ -13696,7 +13996,7 @@
    "e": "UAV stands for Unmanned Aerial Vehicle."
   },
   {
-   "id": "current-affairs-00913",
+   "id": "current-affairs-00933",
    "q": "In which decade did the following event take place: Formation of the Azad Hind Fauj (INA)?",
    "o": [
     "2010s",
@@ -13711,7 +14011,7 @@
    "e": "Formation of the Azad Hind Fauj (INA) took place in the 1943s."
   },
   {
-   "id": "current-affairs-00914",
+   "id": "current-affairs-00934",
    "q": "Which of the following days is observed on 20 June?",
    "o": [
     "World Photography Day",
@@ -13726,7 +14026,7 @@
    "e": "20 June is observed as World Refugee Day."
   },
   {
-   "id": "current-affairs-00915",
+   "id": "current-affairs-00935",
    "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
    "o": [
     "SAARC - Washington, D.C.",
@@ -13741,7 +14041,7 @@
    "e": "Only SAARC - Kathmandu is correctly matched."
   },
   {
-   "id": "current-affairs-00916",
+   "id": "current-affairs-00936",
    "q": "Which institution operates retail payment systems like UPI in India?",
    "o": [
     "NPCI",
@@ -13756,7 +14056,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00917",
+   "id": "current-affairs-00937",
    "q": "Which project was launched to save the tiger in India?",
    "o": [
     "China",
@@ -13771,7 +14071,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00918",
+   "id": "current-affairs-00938",
    "q": "Which scheme is described as: Self-reliant India initiative?",
    "o": [
     "Ayushman Bharat",
@@ -13786,7 +14086,7 @@
    "e": "Self-reliant India initiative describes Atmanirbhar Bharat Abhiyan."
   },
   {
-   "id": "current-affairs-00919",
+   "id": "current-affairs-00939",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Digital India Programme - Delivery of services through digital platforms",
@@ -13801,7 +14101,7 @@
    "e": "Only Digital India Programme - Delivery of services through digital platforms is correctly matched."
   },
   {
-   "id": "current-affairs-00920",
+   "id": "current-affairs-00940",
    "q": "What is the full form of UNHCR?",
    "o": [
     "United Nations High Commissioner for Refugees",
@@ -13816,7 +14116,7 @@
    "e": "UNHCR stands for United Nations High Commissioner for Refugees."
   },
   {
-   "id": "current-affairs-00921",
+   "id": "current-affairs-00941",
    "q": "In which decade did the following event take place: Pokhran-I nuclear test (Smiling Buddha)?",
    "o": [
     "1920s",
@@ -13831,7 +14131,7 @@
    "e": "Pokhran-I nuclear test (Smiling Buddha) took place in the 1974s."
   },
   {
-   "id": "current-affairs-00922",
+   "id": "current-affairs-00942",
    "q": "Which of the following days is observed on 15 August?",
    "o": [
     "Independence Day (India)",
@@ -13846,7 +14146,7 @@
    "e": "15 August is observed as Independence Day (India)."
   },
   {
-   "id": "current-affairs-00923",
+   "id": "current-affairs-00943",
    "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
    "o": [
     "SAARC - Geneva",
@@ -13861,7 +14161,7 @@
    "e": "Only SAARC - Kathmandu is correctly matched."
   },
   {
-   "id": "current-affairs-00924",
+   "id": "current-affairs-00944",
    "q": "Which type of bank accepts deposits but cannot lend?",
    "o": [
     "Pradhan Mantri Mudra Yojana",
@@ -13876,7 +14176,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00925",
+   "id": "current-affairs-00945",
    "q": "Which Indian state has the lowest multidimensional poverty?",
    "o": [
     "Agni-V",
@@ -13891,7 +14191,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00926",
+   "id": "current-affairs-00946",
    "q": "Which scheme is described as: Sustainable and citizen friendly urban development?",
    "o": [
     "Smart Cities Mission",
@@ -13906,7 +14206,7 @@
    "e": "Sustainable and citizen friendly urban development describes Smart Cities Mission."
   },
   {
-   "id": "current-affairs-00927",
+   "id": "current-affairs-00947",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Digital India Programme - Conservation of Asiatic lions",
@@ -13921,7 +14221,7 @@
    "e": "Only Digital India Programme - Delivery of services through digital platforms is correctly matched."
   },
   {
-   "id": "current-affairs-00928",
+   "id": "current-affairs-00948",
    "q": "What is the full form of SI?",
    "o": [
     "Organisation for Economic Co-operation and Development",
@@ -13936,7 +14236,7 @@
    "e": "SI stands for Systeme International d'Unites."
   },
   {
-   "id": "current-affairs-00929",
+   "id": "current-affairs-00949",
    "q": "In which decade did the following event take place: Quit India Movement launched?",
    "o": [
     "1970s",
@@ -13951,7 +14251,7 @@
    "e": "Quit India Movement launched took place in the 1942s."
   },
   {
-   "id": "current-affairs-00930",
+   "id": "current-affairs-00950",
    "q": "Which of the following days is observed on 1 December?",
    "o": [
     "World Computer Security Day",
@@ -13966,7 +14266,7 @@
    "e": "1 December is observed as World AIDS Day."
   },
   {
-   "id": "current-affairs-00931",
+   "id": "current-affairs-00951",
    "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
    "o": [
     "International Telecommunication Union - Geneva",
@@ -13981,7 +14281,7 @@
    "e": "Only International Telecommunication Union - Geneva is correctly matched."
   },
   {
-   "id": "current-affairs-00932",
+   "id": "current-affairs-00952",
    "q": "In which year was the Unified Payments Interface launched?",
    "o": [
     "2016",
@@ -13996,7 +14296,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00933",
+   "id": "current-affairs-00953",
    "q": "Which survey is presented before the Union Budget?",
    "o": [
     "Economic Survey",
@@ -14011,7 +14311,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00934",
+   "id": "current-affairs-00954",
    "q": "Which scheme is described as: Digital health records and health infrastructure?",
    "o": [
     "One Nation One Ration Card",
@@ -14026,7 +14326,7 @@
    "e": "Digital health records and health infrastructure describes Ayushman Bharat Digital Mission."
   },
   {
-   "id": "current-affairs-00935",
+   "id": "current-affairs-00955",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "HRIDAY - Heritage city development and rejuvenation",
@@ -14041,7 +14341,7 @@
    "e": "Only HRIDAY - Heritage city development and rejuvenation is correctly matched."
   },
   {
-   "id": "current-affairs-00936",
+   "id": "current-affairs-00956",
    "q": "What is the full form of CPI?",
    "o": [
     "Know Your Customer",
@@ -14056,7 +14356,7 @@
    "e": "CPI stands for Consumer Price Index."
   },
   {
-   "id": "current-affairs-00937",
+   "id": "current-affairs-00957",
    "q": "In which decade did the following event take place: Attack on the Indian Parliament?",
    "o": [
     "2000s",
@@ -14071,7 +14371,7 @@
    "e": "Attack on the Indian Parliament took place in the 2001s."
   },
   {
-   "id": "current-affairs-00938",
+   "id": "current-affairs-00958",
    "q": "Which of the following days is observed on 23 April?",
    "o": [
     "World Book Day",
@@ -14086,7 +14386,7 @@
    "e": "23 April is observed as World Book Day."
   },
   {
-   "id": "current-affairs-00939",
+   "id": "current-affairs-00959",
    "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
    "o": [
     "International Telecommunication Union - New Delhi",
@@ -14101,7 +14401,7 @@
    "e": "Only International Telecommunication Union - Geneva is correctly matched."
   },
   {
-   "id": "current-affairs-00940",
+   "id": "current-affairs-00960",
    "q": "Which is the oldest stock exchange in Asia?",
    "o": [
     "Deflation",
@@ -14116,7 +14416,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00941",
+   "id": "current-affairs-00961",
    "q": "Which Indian badminton player won the All England Open in 2023?",
    "o": [
     "COP26",
@@ -14131,7 +14431,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00942",
+   "id": "current-affairs-00962",
    "q": "Which scheme is described as: Promoting startups and innovation?",
    "o": [
     "Pradhan Mantri Kaushal Vikas Yojana",
@@ -14146,7 +14446,7 @@
    "e": "Promoting startups and innovation describes Startup India."
   },
   {
-   "id": "current-affairs-00943",
+   "id": "current-affairs-00963",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "HRIDAY - Regional navigation satellite",
@@ -14161,7 +14461,7 @@
    "e": "Only HRIDAY - Heritage city development and rejuvenation is correctly matched."
   },
   {
-   "id": "current-affairs-00944",
+   "id": "current-affairs-00964",
    "q": "What is the full form of IAEA?",
    "o": [
     "Athletics track and field club naming",
@@ -14176,7 +14476,7 @@
    "e": "IAEA stands for International Atomic Energy Agency."
   },
   {
-   "id": "current-affairs-00945",
+   "id": "current-affairs-00965",
    "q": "In which decade did the following event take place: Pokhran-II nuclear tests?",
    "o": [
     "1990s",
@@ -14191,7 +14491,7 @@
    "e": "Pokhran-II nuclear tests took place in the 1998s."
   },
   {
-   "id": "current-affairs-00946",
+   "id": "current-affairs-00966",
    "q": "Which of the following days is observed on 19 November?",
    "o": [
     "World Toilet Day",
@@ -14206,7 +14506,7 @@
    "e": "19 November is observed as World Toilet Day."
   },
   {
-   "id": "current-affairs-00947",
+   "id": "current-affairs-00967",
    "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
    "o": [
     "ASEAN - Jakarta",
@@ -14221,7 +14521,7 @@
    "e": "Only ASEAN - Jakarta is correctly matched."
   },
   {
-   "id": "current-affairs-00948",
+   "id": "current-affairs-00968",
    "q": "Which revolution is associated with overall agricultural production?",
    "o": [
     "Union Finance Minister",
@@ -14236,7 +14536,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00949",
+   "id": "current-affairs-00969",
    "q": "Which country won the Cricket World Cup 2019?",
    "o": [
     "England",
@@ -14251,7 +14551,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00950",
+   "id": "current-affairs-00970",
    "q": "Which scheme is described as: Cleanliness and sanitation for all?",
    "o": [
     "Pradhan Mantri Kisan Samman Nidhi",
@@ -14266,7 +14566,7 @@
    "e": "Cleanliness and sanitation for all describes Swachh Bharat Mission."
   },
   {
-   "id": "current-affairs-00951",
+   "id": "current-affairs-00971",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Aditya-L1 - Global cooperation on solar energy",
@@ -14281,7 +14581,7 @@
    "e": "Only Aditya-L1 - Solar observation from the Lagrange point L1 is correctly matched."
   },
   {
-   "id": "current-affairs-00952",
+   "id": "current-affairs-00972",
    "q": "What is the full form of NIA?",
    "o": [
     "Unmanned Aerial Vehicle",
@@ -14296,7 +14596,7 @@
    "e": "NIA stands for National Investigation Agency."
   },
   {
-   "id": "current-affairs-00953",
+   "id": "current-affairs-00973",
    "q": "In which decade did the following event take place: G20 Summit hosted in New Delhi?",
    "o": [
     "1960s",
@@ -14311,7 +14611,7 @@
    "e": "G20 Summit hosted in New Delhi took place in the 2023s."
   },
   {
-   "id": "current-affairs-00954",
+   "id": "current-affairs-00974",
    "q": "Which of the following days is observed on 11 May?",
    "o": [
     "International Migrants Day",
@@ -14326,7 +14626,7 @@
    "e": "11 May is observed as National Technology Day (India)."
   },
   {
-   "id": "current-affairs-00955",
+   "id": "current-affairs-00975",
    "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
    "o": [
     "ASEAN - Vienna",
@@ -14341,7 +14641,7 @@
    "e": "Only ASEAN - Jakarta is correctly matched."
   },
   {
-   "id": "current-affairs-00956",
+   "id": "current-affairs-00976",
    "q": "What are the reserves of foreign currency held by the RBI called?",
    "o": [
     "Kandla",
@@ -14356,7 +14656,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00957",
+   "id": "current-affairs-00977",
    "q": "Which exercise is conducted between the Indian and US armies?",
    "o": [
     "Swachh Bharat Mission",
@@ -14371,7 +14671,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00958",
+   "id": "current-affairs-00978",
    "q": "Which scheme is described as: Upgraded health and wellness centres?",
    "o": [
     "Pradhan Mantri Gram Sadak Yojana",
@@ -14386,7 +14686,7 @@
    "e": "Upgraded health and wellness centres describes Ayushman Arogya Mandir."
   },
   {
-   "id": "current-affairs-00959",
+   "id": "current-affairs-00979",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Aditya-L1 - Solar observation from the Lagrange point L1",
@@ -14401,7 +14701,7 @@
    "e": "Only Aditya-L1 - Solar observation from the Lagrange point L1 is correctly matched."
   },
   {
-   "id": "current-affairs-00960",
+   "id": "current-affairs-00980",
    "q": "What is the full form of MICR?",
    "o": [
     "Goods and Services Tax",
@@ -14416,7 +14716,7 @@
    "e": "MICR stands for Magnetic Ink Character Recognition."
   },
   {
-   "id": "current-affairs-00961",
+   "id": "current-affairs-00981",
    "q": "In which decade did the following event take place: India-Pakistan war and Tashkent Agreement?",
    "o": [
     "2000s",
@@ -14431,7 +14731,7 @@
    "e": "India-Pakistan war and Tashkent Agreement took place in the 1965s."
   },
   {
-   "id": "current-affairs-00962",
+   "id": "current-affairs-00982",
    "q": "Which of the following days is observed on 8 March?",
    "o": [
     "National Mathematics Day (India)",
@@ -14446,7 +14746,7 @@
    "e": "8 March is observed as International Women's Day."
   },
   {
-   "id": "current-affairs-00963",
+   "id": "current-affairs-00983",
    "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
    "o": [
     "World Food Programme - Bern",
@@ -14461,7 +14761,7 @@
    "e": "Only World Food Programme - Rome is correctly matched."
   },
   {
-   "id": "current-affairs-00964",
+   "id": "current-affairs-00984",
    "q": "Which type of bank was introduced in India to serve small businesses?",
    "o": [
     "101st Amendment",
@@ -14476,7 +14776,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00965",
+   "id": "current-affairs-00985",
    "q": "Which mission aims to improve nutrition among children?",
    "o": [
     "Jawaharlal Nehru Port",
@@ -14491,7 +14791,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00966",
+   "id": "current-affairs-00986",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Ayushman Bharat Digital Mission - Digital health records and health infrastructure",
@@ -14506,7 +14806,7 @@
    "e": "Only Ayushman Bharat Digital Mission - Digital health records and health infrastructure is correctly matched."
   },
   {
-   "id": "current-affairs-00967",
+   "id": "current-affairs-00987",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "AstroSat - Communication and weather satellites",
@@ -14521,7 +14821,7 @@
    "e": "Only AstroSat - Multi-wavelength space observatory is correctly matched."
   },
   {
-   "id": "current-affairs-00968",
+   "id": "current-affairs-00988",
    "q": "What is the full form of OPEC?",
    "o": [
     "Pradhan Mantri Jan Dhan Yojana",
@@ -14536,7 +14836,7 @@
    "e": "OPEC stands for Organization of the Petroleum Exporting Countries."
   },
   {
-   "id": "current-affairs-00969",
+   "id": "current-affairs-00989",
    "q": "In which decade did the following event take place: First meeting of the Constituent Assembly?",
    "o": [
     "1880s",
@@ -14551,7 +14851,7 @@
    "e": "First meeting of the Constituent Assembly took place in the 1946s."
   },
   {
-   "id": "current-affairs-00970",
+   "id": "current-affairs-00990",
    "q": "Which of the following days is observed on 22 December?",
    "o": [
     "National Mathematics Day (India)",
@@ -14566,7 +14866,7 @@
    "e": "22 December is observed as National Mathematics Day (India)."
   },
   {
-   "id": "current-affairs-00971",
+   "id": "current-affairs-00991",
    "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
    "o": [
     "World Food Programme - Rome",
@@ -14581,7 +14881,7 @@
    "e": "Only World Food Programme - Rome is correctly matched."
   },
   {
-   "id": "current-affairs-00972",
+   "id": "current-affairs-00992",
    "q": "Which body administers indirect taxes in India?",
    "o": [
     "Kelkar Committee",
@@ -14596,7 +14896,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "current-affairs-00973",
+   "id": "current-affairs-00993",
    "q": "Which campaign was launched to make India self-reliant during COVID-19?",
    "o": [
     "Ravi Dahiya",
@@ -14611,7 +14911,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "current-affairs-00974",
+   "id": "current-affairs-00994",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Ayushman Bharat Digital Mission - Housing for all",
@@ -14626,7 +14926,7 @@
    "e": "Only Ayushman Bharat Digital Mission - Digital health records and health infrastructure is correctly matched."
   },
   {
-   "id": "current-affairs-00975",
+   "id": "current-affairs-00995",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "AstroSat - Integrated bill payment platform",
@@ -14641,7 +14941,7 @@
    "e": "Only AstroSat - Multi-wavelength space observatory is correctly matched."
   },
   {
-   "id": "current-affairs-00976",
+   "id": "current-affairs-00996",
    "q": "What is the full form of PPP?",
    "o": [
     "Comptroller and Auditor General",
@@ -14656,7 +14956,7 @@
    "e": "PPP stands for Public Private Partnership."
   },
   {
-   "id": "current-affairs-00977",
+   "id": "current-affairs-00997",
    "q": "In which decade did the following event take place: Purna Swaraj declared at the Lahore session?",
    "o": [
     "1940s",
@@ -14671,7 +14971,7 @@
    "e": "Purna Swaraj declared at the Lahore session took place in the 1929s."
   },
   {
-   "id": "current-affairs-00978",
+   "id": "current-affairs-00998",
    "q": "Which of the following days is observed on 12 September?",
    "o": [
     "World Tourism Day",
@@ -14686,7 +14986,7 @@
    "e": "12 September is observed as United Nations Day for South-South Cooperation."
   },
   {
-   "id": "current-affairs-00979",
+   "id": "current-affairs-00999",
    "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
    "o": [
     "Shanghai Cooperation Organisation - London",
@@ -14701,7 +15001,7 @@
    "e": "Only Shanghai Cooperation Organisation - Beijing is correctly matched."
   },
   {
-   "id": "current-affairs-00980",
+   "id": "current-affairs-01000",
    "q": "Which sector contributes the largest share to India's GDP?",
    "o": [
     "Karl Marx",
@@ -14714,306 +15014,6 @@
    "l": 2,
    "s": "generated",
    "e": "Economics and banking fact."
-  },
-  {
-   "id": "current-affairs-00981",
-   "q": "Which Indian Navy ship was commissioned in 2022?",
-   "o": [
-    "Kerala",
-    "INS Vikrant",
-    "BRICS Summit",
-    "Madhya Pradesh"
-   ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
-  },
-  {
-   "id": "current-affairs-00982",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
-    "Atmanirbhar Bharat Abhiyan - Free food grains to the poor",
-    "Atmanirbhar Bharat Abhiyan - Self-reliance in oilseed production",
-    "Atmanirbhar Bharat Abhiyan - Self-reliant India initiative",
-    "Atmanirbhar Bharat Abhiyan - Conservation and development of indigenous cattle"
-   ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Atmanirbhar Bharat Abhiyan - Self-reliant India initiative is correctly matched."
-  },
-  {
-   "id": "current-affairs-00983",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
-    "Project Lion - Promotion of fitness and sports",
-    "Project Lion - Eight national missions on climate",
-    "Project Lion - Optical fibre connectivity to gram panchayats",
-    "Project Lion - Conservation of Asiatic lions"
-   ],
-   "a": 3,
-   "t": "Missions and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Project Lion - Conservation of Asiatic lions is correctly matched."
-  },
-  {
-   "id": "current-affairs-00984",
-   "q": "What is the full form of NSE?",
-   "o": [
-    "Human Immunodeficiency Virus",
-    "Enforcement Directorate",
-    "Pension Fund Regulatory and Development Authority",
-    "National Stock Exchange"
-   ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "NSE stands for National Stock Exchange."
-  },
-  {
-   "id": "current-affairs-00985",
-   "q": "In which decade did the following event take place: Partition of Bengal by Lord Curzon?",
-   "o": [
-    "1900s",
-    "1950s",
-    "1970s",
-    "1960s"
-   ],
-   "a": 0,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Partition of Bengal by Lord Curzon took place in the 1905s."
-  },
-  {
-   "id": "current-affairs-00986",
-   "q": "Which of the following days is observed on 8 November?",
-   "o": [
-    "International Day of Education",
-    "World Cancer Day",
-    "World Radiography Day",
-    "World Refugee Day"
-   ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "8 November is observed as World Radiography Day."
-  },
-  {
-   "id": "current-affairs-00987",
-   "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
-   "o": [
-    "Shanghai Cooperation Organisation - Washington, D.C.",
-    "Shanghai Cooperation Organisation - Jakarta",
-    "Shanghai Cooperation Organisation - Geneva",
-    "Shanghai Cooperation Organisation - Beijing"
-   ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Shanghai Cooperation Organisation - Beijing is correctly matched."
-  },
-  {
-   "id": "current-affairs-00988",
-   "q": "What is the maximum deposit allowed per customer in a payment bank?",
-   "o": [
-    "People's Bank of China",
-    "Yen",
-    "One lakh rupees",
-    "Reserve Bank of India"
-   ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
-  },
-  {
-   "id": "current-affairs-00989",
-   "q": "Which is India's largest export destination in the Gulf?",
-   "o": [
-    "Indra Exercise",
-    "Pradhan Mantri Ujjwala Yojana",
-    "United Arab Emirates",
-    "Digital Bharat Nidhi"
-   ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
-  },
-  {
-   "id": "current-affairs-00990",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
-    "Atmanirbhar Bharat Abhiyan - Self-reliant India initiative",
-    "Atmanirbhar Bharat Abhiyan - Skill certification of youth",
-    "Atmanirbhar Bharat Abhiyan - Improving nutrition among children and women",
-    "Atmanirbhar Bharat Abhiyan - Welfare and education of the girl child"
-   ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Atmanirbhar Bharat Abhiyan - Self-reliant India initiative is correctly matched."
-  },
-  {
-   "id": "current-affairs-00991",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
-    "Project Lion - Conservation of Asiatic lions",
-    "Project Lion - Instant bank to bank payments system",
-    "Project Lion - Green hydrogen production and export hub",
-    "Project Lion - Lunar orbiter studying the Moon"
-   ],
-   "a": 0,
-   "t": "Missions and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Project Lion - Conservation of Asiatic lions is correctly matched."
-  },
-  {
-   "id": "current-affairs-00992",
-   "q": "What is the full form of FCI?",
-   "o": [
-    "Dematerialised account for shares",
-    "International Olympic Committee",
-    "Central Statistics Office",
-    "Food Corporation of India"
-   ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "FCI stands for Food Corporation of India."
-  },
-  {
-   "id": "current-affairs-00993",
-   "q": "In which decade did the following event take place: Mumbai terror attacks?",
-   "o": [
-    "2000s",
-    "2020s",
-    "2010s",
-    "1930s"
-   ],
-   "a": 0,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Mumbai terror attacks took place in the 2008s."
-  },
-  {
-   "id": "current-affairs-00994",
-   "q": "Which of the following days is observed on 1 June?",
-   "o": [
-    "International Yoga Day",
-    "World Environment Day",
-    "World Milk Day",
-    "United Nations Day"
-   ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "1 June is observed as World Milk Day."
-  },
-  {
-   "id": "current-affairs-00995",
-   "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
-   "o": [
-    "Comprehensive Nuclear-Test-Ban Treaty Organization - Cologny",
-    "Comprehensive Nuclear-Test-Ban Treaty Organization - Lyon",
-    "Comprehensive Nuclear-Test-Ban Treaty Organization - Beijing",
-    "Comprehensive Nuclear-Test-Ban Treaty Organization - Vienna"
-   ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Comprehensive Nuclear-Test-Ban Treaty Organization - Vienna is correctly matched."
-  },
-  {
-   "id": "current-affairs-00996",
-   "q": "Which organ of the World Bank provides loans to the poorest countries?",
-   "o": [
-    "International Development Association",
-    "1949",
-    "A price at which the government buys crops from farmers",
-    "Government of India"
-   ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
-  },
-  {
-   "id": "current-affairs-00997",
-   "q": "Which mission aims to install rooftop solar panels on households?",
-   "o": [
-    "Saubhagya Yojana",
-    "Rajasthan",
-    "Kerala",
-    "PM Surya Ghar Muft Bijli Yojana"
-   ],
-   "a": 3,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
-  },
-  {
-   "id": "current-affairs-00998",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
-    "PM Vishwakarma Yojana - Free food grains to the poor",
-    "PM Vishwakarma Yojana - Self-reliance in oilseed production",
-    "PM Vishwakarma Yojana - Support to traditional artisans and craftspeople",
-    "PM Vishwakarma Yojana - Promoting startups and innovation"
-   ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only PM Vishwakarma Yojana - Support to traditional artisans and craftspeople is correctly matched."
-  },
-  {
-   "id": "current-affairs-00999",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
-    "Mangalyaan - India's first Mars orbiter mission",
-    "Mangalyaan - Reintroduction of cheetahs in India",
-    "Mangalyaan - Technology driven urban development",
-    "Mangalyaan - Global cooperation on solar energy"
-   ],
-   "a": 0,
-   "t": "Missions and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mangalyaan - India's first Mars orbiter mission is correctly matched."
-  },
-  {
-   "id": "current-affairs-01000",
-   "q": "What is the full form of ESOP?",
-   "o": [
-    "Border Security Force",
-    "Bhabha Atomic Research Centre",
-    "Employee Stock Option Plan",
-    "Real Time Gross Settlement"
-   ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "ESOP stands for Employee Stock Option Plan."
   }
  ]
 };

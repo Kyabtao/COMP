@@ -16,6 +16,306 @@
  "questions": [
   {
    "id": "geography-00001",
+   "q": "Which is the largest continent by area?",
+   "o": [
+    "Africa",
+    "Asia",
+    "North America",
+    "Europe"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Asia covers about 30 per cent of the world's land area."
+  },
+  {
+   "id": "geography-00002",
+   "q": "Which line divides the Earth into the Northern and Southern Hemispheres?",
+   "o": [
+    "Prime Meridian",
+    "Tropic of Cancer",
+    "Equator",
+    "Arctic Circle"
+   ],
+   "a": 2,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "The Equator is at 0 degrees latitude."
+  },
+  {
+   "id": "geography-00003",
+   "q": "Which is the longest river in the world?",
+   "o": [
+    "Amazon",
+    "Nile",
+    "Yangtze",
+    "Mississippi"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "The Nile is generally listed as the longest river, about 6,650 km."
+  },
+  {
+   "id": "geography-00004",
+   "q": "Which is the largest desert in the world?",
+   "o": [
+    "Sahara",
+    "Gobi",
+    "Antarctic Desert",
+    "Thar"
+   ],
+   "a": 2,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Antarctica is the largest desert because of its extremely low precipitation."
+  },
+  {
+   "id": "geography-00005",
+   "q": "The Sundarbans, the largest mangrove forest, lies in the delta of which rivers?",
+   "o": [
+    "Ganga and Brahmaputra",
+    "Indus and Sutlej",
+    "Godavari and Krishna",
+    "Narmada and Tapti"
+   ],
+   "a": 0,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "The Ganga-Brahmaputra delta forms the Sundarbans."
+  },
+  {
+   "id": "geography-00006",
+   "q": "Which is the highest mountain peak in India?",
+   "o": [
+    "Kanchenjunga",
+    "Nanda Devi",
+    "K2",
+    "Anamudi"
+   ],
+   "a": 0,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Kanchenjunga, on the Sikkim-Nepal border, is the highest peak in India."
+  },
+  {
+   "id": "geography-00007",
+   "q": "Which soil is most suitable for growing cotton?",
+   "o": [
+    "Alluvial",
+    "Black",
+    "Laterite",
+    "Red"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Black soil, also called regur, retains moisture and suits cotton."
+  },
+  {
+   "id": "geography-00008",
+   "q": "Which planet is closest to the Sun?",
+   "o": [
+    "Venus",
+    "Mercury",
+    "Mars",
+    "Earth"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Mercury orbits closest to the Sun."
+  },
+  {
+   "id": "geography-00009",
+   "q": "Which layer of the atmosphere contains the ozone layer?",
+   "o": [
+    "Troposphere",
+    "Stratosphere",
+    "Mesosphere",
+    "Thermosphere"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "The ozone layer lies in the stratosphere."
+  },
+  {
+   "id": "geography-00010",
+   "q": "Which is the largest ocean on Earth?",
+   "o": [
+    "Atlantic",
+    "Indian",
+    "Pacific",
+    "Arctic"
+   ],
+   "a": 2,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "The Pacific covers about one third of the planet."
+  },
+  {
+   "id": "geography-00011",
+   "q": "The Tropic of Cancer does not pass through which Indian state?",
+   "o": [
+    "Gujarat",
+    "Rajasthan",
+    "Odisha",
+    "Madhya Pradesh"
+   ],
+   "a": 2,
+   "t": "Curated",
+   "l": 3,
+   "s": "curated",
+   "e": "The Tropic of Cancer passes through eight states, not Odisha."
+  },
+  {
+   "id": "geography-00012",
+   "q": "Which country has the largest population in the world at present?",
+   "o": [
+    "China",
+    "India",
+    "United States",
+    "Indonesia"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "India became the most populous country in 2023."
+  },
+  {
+   "id": "geography-00013",
+   "q": "Which is the smallest state of India by area?",
+   "o": [
+    "Goa",
+    "Sikkim",
+    "Tripura",
+    "Manipur"
+   ],
+   "a": 0,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Goa is the smallest state by area."
+  },
+  {
+   "id": "geography-00014",
+   "q": "Which strait separates India from Sri Lanka?",
+   "o": [
+    "Strait of Malacca",
+    "Palk Strait",
+    "Bering Strait",
+    "Gibraltar Strait"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "The Palk Strait lies between Tamil Nadu and Sri Lanka."
+  },
+  {
+   "id": "geography-00015",
+   "q": "Which is the longest mountain range in the world?",
+   "o": [
+    "Himalayas",
+    "Andes",
+    "Rockies",
+    "Alps"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "The Andes in South America stretch about 7,000 km."
+  },
+  {
+   "id": "geography-00016",
+   "q": "Monsoon rains in India are caused mainly by which phenomenon?",
+   "o": [
+    "Ocean currents",
+    "Seasonal reversal of winds",
+    "Volcanic activity",
+    "Earth's rotation"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Monsoons result from the seasonal reversal of wind direction."
+  },
+  {
+   "id": "geography-00017",
+   "q": "Which is the largest freshwater lake in the world by area?",
+   "o": [
+    "Lake Victoria",
+    "Lake Superior",
+    "Caspian Sea",
+    "Lake Baikal"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 3,
+   "s": "curated",
+   "e": "Lake Superior is the largest freshwater lake by surface area."
+  },
+  {
+   "id": "geography-00018",
+   "q": "Which Indian city lies on the banks of the Yamuna?",
+   "o": [
+    "Kanpur",
+    "Agra",
+    "Patna",
+    "Varanasi"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Agra, along with Delhi and Mathura, stands on the Yamuna."
+  },
+  {
+   "id": "geography-00019",
+   "q": "The Deccan Plateau is mainly composed of which rock?",
+   "o": [
+    "Granite",
+    "Basalt",
+    "Limestone",
+    "Sandstone"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 3,
+   "s": "curated",
+   "e": "Deccan trap basalt from volcanic eruptions forms the plateau."
+  },
+  {
+   "id": "geography-00020",
+   "q": "Which is the deepest ocean trench?",
+   "o": [
+    "Java Trench",
+    "Mariana Trench",
+    "Puerto Rico Trench",
+    "Tonga Trench"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "The Mariana Trench in the Pacific reaches about 11,000 m."
+  },
+  {
+   "id": "geography-00021",
    "q": "What is the capital of Andhra Pradesh?",
    "o": [
     "Raipur",
@@ -30,7 +330,7 @@
    "e": "The capital of Andhra Pradesh is Amaravati."
   },
   {
-   "id": "geography-00002",
+   "id": "geography-00022",
    "q": "The river Jhelum originates from which of the following?",
    "o": [
     "Gangotri Glacier",
@@ -45,7 +345,7 @@
    "e": "Jhelum originates from Verinag."
   },
   {
-   "id": "geography-00003",
+   "id": "geography-00023",
    "q": "Mettur Dam is built on which river?",
    "o": [
     "Narmada",
@@ -60,7 +360,7 @@
    "e": "Mettur Dam is built on the Kaveri."
   },
   {
-   "id": "geography-00004",
+   "id": "geography-00024",
    "q": "Khardung La pass is located in which state or union territory?",
    "o": [
     "Himachal Pradesh",
@@ -75,7 +375,7 @@
    "e": "Khardung La is located in Ladakh."
   },
   {
-   "id": "geography-00005",
+   "id": "geography-00025",
    "q": "Which is the deepest ocean trench?",
    "o": [
     "Mauna Loa",
@@ -90,7 +390,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00006",
+   "id": "geography-00026",
    "q": "Which country is known as the Playground of Europe?",
    "o": [
     "Bay of Bengal",
@@ -105,7 +405,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00007",
+   "id": "geography-00027",
    "q": "Which planet is known as the Morning Star?",
    "o": [
     "Jupiter",
@@ -120,7 +420,7 @@
    "e": "Which planet is known as the Morning Star — Venus."
   },
   {
-   "id": "geography-00008",
+   "id": "geography-00028",
    "q": "Which soil is described as: Found in hilly and forest regions?",
    "o": [
     "Desert soil",
@@ -135,7 +435,7 @@
    "e": "Mountain soil — Found in hilly and forest regions."
   },
   {
-   "id": "geography-00009",
+   "id": "geography-00029",
    "q": "Which Indian state is a major producer of Gold?",
    "o": [
     "Odisha",
@@ -150,7 +450,7 @@
    "e": "Gold is produced in large quantities in Karnataka."
   },
   {
-   "id": "geography-00010",
+   "id": "geography-00030",
    "q": "What is the capital of Haryana?",
    "o": [
     "Aizawl",
@@ -165,7 +465,7 @@
    "e": "The capital of Haryana is Chandigarh."
   },
   {
-   "id": "geography-00011",
+   "id": "geography-00031",
    "q": "The river Ghaghara originates from which of the following?",
    "o": [
     "Janapav Hill",
@@ -180,7 +480,7 @@
    "e": "Ghaghara originates from Mapchachungo."
   },
   {
-   "id": "geography-00012",
+   "id": "geography-00032",
    "q": "Koyna Dam is built on which river?",
    "o": [
     "Periyar",
@@ -195,7 +495,7 @@
    "e": "Koyna Dam is built on the Koyna."
   },
   {
-   "id": "geography-00013",
+   "id": "geography-00033",
    "q": "Bhor Ghat pass is located in which state or union territory?",
    "o": [
     "Rajasthan",
@@ -210,7 +510,7 @@
    "e": "Bhor Ghat is located in Maharashtra."
   },
   {
-   "id": "geography-00014",
+   "id": "geography-00034",
    "q": "Which is the coldest place on Earth?",
    "o": [
     "Jamshedpur",
@@ -225,7 +525,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00015",
+   "id": "geography-00035",
    "q": "Which canal is in Egypt?",
    "o": [
     "Kerala",
@@ -240,7 +540,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00016",
+   "id": "geography-00036",
    "q": "Which coast of India receives winter rainfall from the north-east monsoon?",
    "o": [
     "Coromandel Coast",
@@ -255,7 +555,7 @@
    "e": "Which coast of India receives winter rainfall from the north-east monsoon — Coromandel Coast."
   },
   {
-   "id": "geography-00017",
+   "id": "geography-00037",
    "q": "Which soil is described as: Most fertile soil, found in the northern plains?",
    "o": [
     "Black soil",
@@ -270,7 +570,7 @@
    "e": "Alluvial soil — Most fertile soil, found in the northern plains."
   },
   {
-   "id": "geography-00018",
+   "id": "geography-00038",
    "q": "Which Indian state is a major producer of Limestone?",
    "o": [
     "Odisha",
@@ -285,7 +585,7 @@
    "e": "Limestone is produced in large quantities in Madhya Pradesh."
   },
   {
-   "id": "geography-00019",
+   "id": "geography-00039",
    "q": "What is the capital of Kerala?",
    "o": [
     "Amaravati",
@@ -300,7 +600,7 @@
    "e": "The capital of Kerala is Thiruvananthapuram."
   },
   {
-   "id": "geography-00020",
+   "id": "geography-00040",
    "q": "The river Ravi originates from which of the following?",
    "o": [
     "Pilibhit",
@@ -315,7 +615,7 @@
    "e": "Ravi originates from Chamba."
   },
   {
-   "id": "geography-00021",
+   "id": "geography-00041",
    "q": "Rihand Dam is built on which river?",
    "o": [
     "Godavari",
@@ -330,7 +630,7 @@
    "e": "Rihand Dam is built on the Rihand."
   },
   {
-   "id": "geography-00022",
+   "id": "geography-00042",
    "q": "Palakkad Gap pass is located in which state or union territory?",
    "o": [
     "Maharashtra",
@@ -345,7 +645,7 @@
    "e": "Palakkad Gap is located in Kerala."
   },
   {
-   "id": "geography-00023",
+   "id": "geography-00043",
    "q": "Which is the longest river in the world?",
    "o": [
     "Volga",
@@ -360,7 +660,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00024",
+   "id": "geography-00044",
    "q": "Which country is the largest producer of jute?",
    "o": [
     "France",
@@ -375,7 +675,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00025",
+   "id": "geography-00045",
    "q": "Which cyclone season occurs in the Bay of Bengal?",
    "o": [
     "Eye",
@@ -390,7 +690,7 @@
    "e": "Which cyclone season occurs in the Bay of Bengal — October to December."
   },
   {
-   "id": "geography-00026",
+   "id": "geography-00046",
    "q": "Which soil is described as: Contains excess salt, found in dry coastal areas?",
    "o": [
     "Desert soil",
@@ -405,7 +705,7 @@
    "e": "Saline soil — Contains excess salt, found in dry coastal areas."
   },
   {
-   "id": "geography-00027",
+   "id": "geography-00047",
    "q": "What is the capital of Nagaland?",
    "o": [
     "Kohima",
@@ -420,7 +720,7 @@
    "e": "The capital of Nagaland is Kohima."
   },
   {
-   "id": "geography-00028",
+   "id": "geography-00048",
    "q": "The river Beas originates from which of the following?",
    "o": [
     "Chamba",
@@ -435,7 +735,7 @@
    "e": "Beas originates from Beas Kund."
   },
   {
-   "id": "geography-00029",
+   "id": "geography-00049",
    "q": "Srisailam Dam is built on which river?",
    "o": [
     "Chenab",
@@ -450,7 +750,7 @@
    "e": "Srisailam Dam is built on the Krishna."
   },
   {
-   "id": "geography-00030",
+   "id": "geography-00050",
    "q": "Chang La pass is located in which state or union territory?",
    "o": [
     "Ladakh",
@@ -465,7 +765,7 @@
    "e": "Chang La is located in Ladakh."
   },
   {
-   "id": "geography-00031",
+   "id": "geography-00051",
    "q": "Which is the longest river in Asia?",
    "o": [
     "Australia",
@@ -480,7 +780,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00032",
+   "id": "geography-00052",
    "q": "Which lake is located in the Thar Desert of Rajasthan?",
    "o": [
     "Bhopal",
@@ -495,7 +795,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00033",
+   "id": "geography-00053",
    "q": "Which instrument measures rainfall?",
    "o": [
     "Wind vane",
@@ -510,7 +810,7 @@
    "e": "Which instrument measures rainfall — Rain gauge."
   },
   {
-   "id": "geography-00034",
+   "id": "geography-00054",
    "q": "Which soil is described as: Formed from crystalline rocks, rich in iron?",
    "o": [
     "Black soil",
@@ -525,7 +825,7 @@
    "e": "Red soil — Formed from crystalline rocks, rich in iron."
   },
   {
-   "id": "geography-00035",
+   "id": "geography-00055",
    "q": "Which Indian state is a major producer of Sillimanite?",
    "o": [
     "Odisha",
@@ -540,7 +840,7 @@
    "e": "Sillimanite is produced in large quantities in Maharashtra."
   },
   {
-   "id": "geography-00036",
+   "id": "geography-00056",
    "q": "What is the capital of Tripura?",
    "o": [
     "Raipur",
@@ -555,7 +855,7 @@
    "e": "The capital of Tripura is Agartala."
   },
   {
-   "id": "geography-00037",
+   "id": "geography-00057",
    "q": "The river Godavari originates from which of the following?",
    "o": [
     "Varusanadu Hills",
@@ -570,7 +870,7 @@
    "e": "Godavari originates from Trimbakeshwar."
   },
   {
-   "id": "geography-00038",
+   "id": "geography-00058",
    "q": "Tehri Dam is built on which river?",
    "o": [
     "Chenab",
@@ -585,7 +885,7 @@
    "e": "Tehri Dam is built on the Bhagirathi."
   },
   {
-   "id": "geography-00039",
+   "id": "geography-00059",
    "q": "Pir Panjal Pass pass is located in which state or union territory?",
    "o": [
     "Uttarakhand",
@@ -600,7 +900,7 @@
    "e": "Pir Panjal Pass is located in Jammu and Kashmir."
   },
   {
-   "id": "geography-00040",
+   "id": "geography-00060",
    "q": "Which is the southernmost state of India",
    "o": [
     "Tamil Nadu",
@@ -615,7 +915,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00041",
+   "id": "geography-00061",
    "q": "Where is the Nalanda university ruins located?",
    "o": [
     "Sabarmati",
@@ -630,7 +930,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00042",
+   "id": "geography-00062",
    "q": "Which planet is known as the Red Planet?",
    "o": [
     "Aluminium",
@@ -645,7 +945,7 @@
    "e": "Which planet is known as the Red Planet — Mars."
   },
   {
-   "id": "geography-00043",
+   "id": "geography-00063",
    "q": "Which soil is described as: Sandy soil of arid regions?",
    "o": [
     "Desert soil",
@@ -660,7 +960,7 @@
    "e": "Desert soil — Sandy soil of arid regions."
   },
   {
-   "id": "geography-00044",
+   "id": "geography-00064",
    "q": "Which Indian state is a major producer of Copper?",
    "o": [
     "Odisha",
@@ -675,7 +975,7 @@
    "e": "Copper is produced in large quantities in Rajasthan."
   },
   {
-   "id": "geography-00045",
+   "id": "geography-00065",
    "q": "What is the capital of Madhya Pradesh?",
    "o": [
     "Aizawl",
@@ -690,7 +990,7 @@
    "e": "The capital of Madhya Pradesh is Bhopal."
   },
   {
-   "id": "geography-00046",
+   "id": "geography-00066",
    "q": "The river Tapti originates from which of the following?",
    "o": [
     "Multai",
@@ -705,7 +1005,7 @@
    "e": "Tapti originates from Multai."
   },
   {
-   "id": "geography-00047",
+   "id": "geography-00067",
    "q": "Omkareshwar Dam is built on which river?",
    "o": [
     "Narmada",
@@ -720,7 +1020,7 @@
    "e": "Omkareshwar Dam is built on the Narmada."
   },
   {
-   "id": "geography-00048",
+   "id": "geography-00068",
    "q": "Diphu Pass pass is located in which state or union territory?",
    "o": [
     "Himachal Pradesh",
@@ -735,7 +1035,7 @@
    "e": "Diphu Pass is located in Arunachal Pradesh."
   },
   {
-   "id": "geography-00049",
+   "id": "geography-00069",
    "q": "Which is the smallest ocean?",
    "o": [
     "Ethiopia",
@@ -750,7 +1050,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00050",
+   "id": "geography-00070",
    "q": "Which is the largest freshwater lake in the world by area?",
    "o": [
     "Lake Superior",
@@ -765,7 +1065,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00051",
+   "id": "geography-00071",
    "q": "Which is the innermost layer of the Earth?",
    "o": [
     "From the sea to the land",
@@ -780,7 +1080,7 @@
    "e": "Which is the innermost layer of the Earth — Core."
   },
   {
-   "id": "geography-00052",
+   "id": "geography-00072",
    "q": "Which soil is described as: Also called regur, ideal for cotton?",
    "o": [
     "Black soil",
@@ -795,7 +1095,7 @@
    "e": "Black soil — Also called regur, ideal for cotton."
   },
   {
-   "id": "geography-00053",
+   "id": "geography-00073",
    "q": "Which Indian state is a major producer of Rock phosphate?",
    "o": [
     "Rajasthan",
@@ -810,7 +1110,7 @@
    "e": "Rock phosphate is produced in large quantities in Rajasthan."
   },
   {
-   "id": "geography-00054",
+   "id": "geography-00074",
    "q": "What is the capital of Gujarat?",
    "o": [
     "Gandhinagar",
@@ -825,7 +1125,7 @@
    "e": "The capital of Gujarat is Gandhinagar."
   },
   {
-   "id": "geography-00055",
+   "id": "geography-00075",
    "q": "The river Yamuna originates from which of the following?",
    "o": [
     "Udaipur",
@@ -840,7 +1140,7 @@
    "e": "Yamuna originates from Yamunotri Glacier."
   },
   {
-   "id": "geography-00056",
+   "id": "geography-00076",
    "q": "Indira Sagar Dam is built on which river?",
    "o": [
     "Ganga",
@@ -855,7 +1155,7 @@
    "e": "Indira Sagar Dam is built on the Narmada."
   },
   {
-   "id": "geography-00057",
+   "id": "geography-00077",
    "q": "Rohtang Pass pass is located in which state or union territory?",
    "o": [
     "Ladakh",
@@ -870,7 +1170,7 @@
    "e": "Rohtang Pass is located in Himachal Pradesh."
   },
   {
-   "id": "geography-00058",
+   "id": "geography-00078",
    "q": "Which country is called the Sugar Bowl of the World?",
    "o": [
     "Bengaluru",
@@ -885,7 +1185,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00059",
+   "id": "geography-00079",
    "q": "Which is the longest river in Europe?",
    "o": [
     "Mizoram",
@@ -900,7 +1200,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00060",
+   "id": "geography-00080",
    "q": "Which instrument measures atmospheric pressure?",
    "o": [
     "Barometer",
@@ -915,7 +1215,7 @@
    "e": "Which instrument measures atmospheric pressure — Barometer."
   },
   {
-   "id": "geography-00061",
+   "id": "geography-00081",
    "q": "Which soil is described as: Formed by leaching in high rainfall areas?",
    "o": [
     "Black soil",
@@ -930,7 +1230,7 @@
    "e": "Laterite soil — Formed by leaching in high rainfall areas."
   },
   {
-   "id": "geography-00062",
+   "id": "geography-00082",
    "q": "Which Indian state is a major producer of Lead and zinc?",
    "o": [
     "Madhya Pradesh",
@@ -945,7 +1245,7 @@
    "e": "Lead and zinc is produced in large quantities in Rajasthan."
   },
   {
-   "id": "geography-00063",
+   "id": "geography-00083",
    "q": "What is the capital of Jharkhand?",
    "o": [
     "Ranchi",
@@ -960,7 +1260,7 @@
    "e": "The capital of Jharkhand is Ranchi."
   },
   {
-   "id": "geography-00064",
+   "id": "geography-00084",
    "q": "The river Damodar originates from which of the following?",
    "o": [
     "Mapchachungo",
@@ -975,7 +1275,7 @@
    "e": "Damodar originates from Chota Nagpur Plateau."
   },
   {
-   "id": "geography-00065",
+   "id": "geography-00085",
    "q": "Maithon Dam is built on which river?",
    "o": [
     "Ganga",
@@ -990,7 +1290,7 @@
    "e": "Maithon Dam is built on the Barakar."
   },
   {
-   "id": "geography-00066",
+   "id": "geography-00086",
    "q": "Fotu La pass is located in which state or union territory?",
    "o": [
     "Rajasthan",
@@ -1005,7 +1305,7 @@
    "e": "Fotu La is located in Ladakh."
   },
   {
-   "id": "geography-00067",
+   "id": "geography-00087",
    "q": "Which is the highest peak in the Western Ghats?",
    "o": [
     "Anamudi",
@@ -1020,7 +1320,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00068",
+   "id": "geography-00088",
    "q": "Which strait separates Australia from Papua New Guinea?",
    "o": [
     "Nile",
@@ -1035,7 +1335,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00069",
+   "id": "geography-00089",
    "q": "Which instrument measures humidity?",
    "o": [
     "Coromandel Coast",
@@ -1050,7 +1350,7 @@
    "e": "Which instrument measures humidity — Hygrometer."
   },
   {
-   "id": "geography-00070",
+   "id": "geography-00090",
    "q": "Which soil is described as: Formed in waterlogged areas with organic matter?",
    "o": [
     "Laterite soil",
@@ -1065,7 +1365,7 @@
    "e": "Peaty soil — Formed in waterlogged areas with organic matter."
   },
   {
-   "id": "geography-00071",
+   "id": "geography-00091",
    "q": "Which Indian state is a major producer of Petroleum?",
    "o": [
     "Madhya Pradesh",
@@ -1080,7 +1380,7 @@
    "e": "Petroleum is produced in large quantities in Assam."
   },
   {
-   "id": "geography-00072",
+   "id": "geography-00092",
    "q": "What is the capital of Assam?",
    "o": [
     "Dispur",
@@ -1095,7 +1395,7 @@
    "e": "The capital of Assam is Dispur."
   },
   {
-   "id": "geography-00073",
+   "id": "geography-00093",
    "q": "The river Periyar originates from which of the following?",
    "o": [
     "Bhimashankar",
@@ -1110,7 +1410,7 @@
    "e": "Periyar originates from Sivagiri Hills."
   },
   {
-   "id": "geography-00074",
+   "id": "geography-00094",
    "q": "Hirakud Dam is built on which river?",
    "o": [
     "Barakar",
@@ -1125,7 +1425,7 @@
    "e": "Hirakud Dam is built on the Mahanadi."
   },
   {
-   "id": "geography-00075",
+   "id": "geography-00095",
    "q": "Banihal Pass pass is located in which state or union territory?",
    "o": [
     "Jammu and Kashmir",
@@ -1140,7 +1440,7 @@
    "e": "Banihal Pass is located in Jammu and Kashmir."
   },
   {
-   "id": "geography-00076",
+   "id": "geography-00096",
    "q": "Which is the easternmost state of India?",
    "o": [
     "Gujarat",
@@ -1155,7 +1455,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00077",
+   "id": "geography-00097",
    "q": "Where is the Golden Temple located?",
    "o": [
     "China",
@@ -1170,7 +1470,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00078",
+   "id": "geography-00098",
    "q": "Which planet is called the Earth's twin?",
    "o": [
     "Venus",
@@ -1185,7 +1485,7 @@
    "e": "Which planet is called the Earth's twin — Venus."
   },
   {
-   "id": "geography-00079",
+   "id": "geography-00099",
    "q": "Which of the following is true about Peaty soil?",
    "o": [
     "Formed in waterlogged areas with organic matter",
@@ -1200,7 +1500,7 @@
    "e": "Peaty soil: Formed in waterlogged areas with organic matter."
   },
   {
-   "id": "geography-00080",
+   "id": "geography-00100",
    "q": "Which Indian state is a major producer of Iron ore?",
    "o": [
     "Assam",
@@ -1215,7 +1515,7 @@
    "e": "Iron ore is produced in large quantities in Odisha."
   },
   {
-   "id": "geography-00081",
+   "id": "geography-00101",
    "q": "What is the capital of Arunachal Pradesh?",
    "o": [
     "Chandigarh",
@@ -1230,7 +1530,7 @@
    "e": "The capital of Arunachal Pradesh is Itanagar."
   },
   {
-   "id": "geography-00082",
+   "id": "geography-00102",
    "q": "The river Alaknanda originates from which of the following?",
    "o": [
     "Satopanth Glacier",
@@ -1245,7 +1545,7 @@
    "e": "Alaknanda originates from Satopanth Glacier."
   },
   {
-   "id": "geography-00083",
+   "id": "geography-00103",
    "q": "Bhavani Sagar Dam is built on which river?",
    "o": [
     "Narmada",
@@ -1260,7 +1560,7 @@
    "e": "Bhavani Sagar Dam is built on the Bhavani."
   },
   {
-   "id": "geography-00084",
+   "id": "geography-00104",
    "q": "Zoji La pass is located in which state or union territory?",
    "o": [
     "Ladakh",
@@ -1275,7 +1575,7 @@
    "e": "Zoji La is located in Ladakh."
   },
   {
-   "id": "geography-00085",
+   "id": "geography-00105",
    "q": "Which is the largest delta in India?",
    "o": [
     "Norway",
@@ -1290,7 +1590,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00086",
+   "id": "geography-00106",
    "q": "Which waterfall is known as the Niagara of India?",
    "o": [
     "Madhya Pradesh",
@@ -1305,7 +1605,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00087",
+   "id": "geography-00107",
    "q": "What is the study of the structure of the Earth called?",
    "o": [
     "Nitrogen",
@@ -1320,7 +1620,7 @@
    "e": "What is the study of the structure of the Earth called — Geology."
   },
   {
-   "id": "geography-00088",
+   "id": "geography-00108",
    "q": "Which of the following is true about Saline soil?",
    "o": [
     "Found in hilly and forest regions",
@@ -1335,7 +1635,7 @@
    "e": "Saline soil: Contains excess salt, found in dry coastal areas."
   },
   {
-   "id": "geography-00089",
+   "id": "geography-00109",
    "q": "Which Indian state is a major producer of Uranium?",
    "o": [
     "Odisha",
@@ -1350,7 +1650,7 @@
    "e": "Uranium is produced in large quantities in Jharkhand."
   },
   {
-   "id": "geography-00090",
+   "id": "geography-00110",
    "q": "What is the capital of Rajasthan?",
    "o": [
     "Agartala",
@@ -1365,7 +1665,7 @@
    "e": "The capital of Rajasthan is Jaipur."
   },
   {
-   "id": "geography-00091",
+   "id": "geography-00111",
    "q": "The river Krishna originates from which of the following?",
    "o": [
     "Sivagiri Hills",
@@ -1380,7 +1680,7 @@
    "e": "Krishna originates from Mahabaleshwar."
   },
   {
-   "id": "geography-00092",
+   "id": "geography-00112",
    "q": "Bhakra Nangal Dam is built on which river?",
    "o": [
     "Godavari",
@@ -1395,7 +1695,7 @@
    "e": "Bhakra Nangal Dam is built on the Sutlej."
   },
   {
-   "id": "geography-00093",
+   "id": "geography-00113",
    "q": "Thal Ghat pass is located in which state or union territory?",
    "o": [
     "Ladakh",
@@ -1410,7 +1710,7 @@
    "e": "Thal Ghat is located in Maharashtra."
   },
   {
-   "id": "geography-00094",
+   "id": "geography-00114",
    "q": "Which is the largest ocean?",
    "o": [
     "Pacific Ocean",
@@ -1425,7 +1725,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00095",
+   "id": "geography-00115",
    "q": "Where is the Petra monument located?",
    "o": [
     "Jordan",
@@ -1440,7 +1740,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00096",
+   "id": "geography-00116",
    "q": "What are the pre-monsoon showers in Karnataka called?",
    "o": [
     "June to September",
@@ -1455,7 +1755,7 @@
    "e": "What are the pre-monsoon showers in Karnataka called — Cherry blossom showers."
   },
   {
-   "id": "geography-00097",
+   "id": "geography-00117",
    "q": "Which of the following is true about Laterite soil?",
    "o": [
     "Formed from crystalline rocks, rich in iron",
@@ -1470,7 +1770,7 @@
    "e": "Laterite soil: Formed by leaching in high rainfall areas."
   },
   {
-   "id": "geography-00098",
+   "id": "geography-00118",
    "q": "Which Indian state is a major producer of Coal?",
    "o": [
     "Karnataka",
@@ -1485,7 +1785,7 @@
    "e": "Coal is produced in large quantities in Jharkhand."
   },
   {
-   "id": "geography-00099",
+   "id": "geography-00119",
    "q": "What is the capital of West Bengal?",
    "o": [
     "Lucknow",
@@ -1500,7 +1800,7 @@
    "e": "The capital of West Bengal is Kolkata."
   },
   {
-   "id": "geography-00100",
+   "id": "geography-00120",
    "q": "The river Vaigai originates from which of the following?",
    "o": [
     "Multai",
@@ -1515,7 +1815,7 @@
    "e": "Vaigai originates from Varusanadu Hills."
   },
   {
-   "id": "geography-00101",
+   "id": "geography-00121",
    "q": "Sardar Sarovar Dam is built on which river?",
    "o": [
     "Kaveri",
@@ -1530,7 +1830,7 @@
    "e": "Sardar Sarovar Dam is built on the Narmada."
   },
   {
-   "id": "geography-00102",
+   "id": "geography-00122",
    "q": "Mana Pass pass is located in which state or union territory?",
    "o": [
     "Uttarakhand",
@@ -1545,7 +1845,7 @@
    "e": "Mana Pass is located in Uttarakhand."
   },
   {
-   "id": "geography-00103",
+   "id": "geography-00123",
    "q": "Which is the largest freshwater lake in India?",
    "o": [
     "Nile",
@@ -1560,7 +1860,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00104",
+   "id": "geography-00124",
    "q": "Where is the Hampi ruins site located?",
    "o": [
     "Gulf of Kutch",
@@ -1575,7 +1875,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00105",
+   "id": "geography-00125",
    "q": "What is the point on the surface above the earthquake focus called?",
    "o": [
     "Loo",
@@ -1590,7 +1890,7 @@
    "e": "What is the point on the surface above the earthquake focus called — Epicentre."
   },
   {
-   "id": "geography-00106",
+   "id": "geography-00126",
    "q": "Which of the following is true about Alluvial soil?",
    "o": [
     "Also called regur, ideal for cotton",
@@ -1605,7 +1905,7 @@
    "e": "Alluvial soil: Most fertile soil, found in the northern plains."
   },
   {
-   "id": "geography-00107",
+   "id": "geography-00127",
    "q": "Which Indian state is a major producer of Manganese?",
    "o": [
     "Karnataka",
@@ -1620,7 +1920,7 @@
    "e": "Manganese is produced in large quantities in Odisha."
   },
   {
-   "id": "geography-00108",
+   "id": "geography-00128",
    "q": "What is the capital of Odisha?",
    "o": [
     "Raipur",
@@ -1635,7 +1935,7 @@
    "e": "The capital of Odisha is Bhubaneswar."
   },
   {
-   "id": "geography-00109",
+   "id": "geography-00129",
    "q": "The river Indus originates from which of the following?",
    "o": [
     "Vindhya Range",
@@ -1650,7 +1950,7 @@
    "e": "Indus originates from Bokhar Chu."
   },
   {
-   "id": "geography-00110",
+   "id": "geography-00130",
    "q": "Farakka Barrage is built on which river?",
    "o": [
     "Bhavani",
@@ -1665,7 +1965,7 @@
    "e": "Farakka Barrage is built on the Ganga."
   },
   {
-   "id": "geography-00111",
+   "id": "geography-00131",
    "q": "Jelep La pass is located in which state or union territory?",
    "o": [
     "Sikkim",
@@ -1680,7 +1980,7 @@
    "e": "Jelep La is located in Sikkim."
   },
   {
-   "id": "geography-00112",
+   "id": "geography-00132",
    "q": "Which state is called the Rice Bowl of India?",
    "o": [
     "Andhra Pradesh",
@@ -1695,7 +1995,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00113",
+   "id": "geography-00133",
    "q": "How many countries share a land border with India?",
    "o": [
     "Seven",
@@ -1710,7 +2010,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00114",
+   "id": "geography-00134",
    "q": "Type of climate of India?",
    "o": [
     "June to September",
@@ -1725,7 +2025,7 @@
    "e": "Type of climate of India — Tropical monsoon climate."
   },
   {
-   "id": "geography-00115",
+   "id": "geography-00135",
    "q": "Which of the following is true about Red soil?",
    "o": [
     "Most fertile soil, found in the northern plains",
@@ -1740,7 +2040,7 @@
    "e": "Red soil: Formed from crystalline rocks, rich in iron."
   },
   {
-   "id": "geography-00116",
+   "id": "geography-00136",
    "q": "Which Indian state is a major producer of Diamond?",
    "o": [
     "Jharkhand",
@@ -1755,7 +2055,7 @@
    "e": "Diamond is produced in large quantities in Madhya Pradesh."
   },
   {
-   "id": "geography-00117",
+   "id": "geography-00137",
    "q": "What is the capital of Karnataka?",
    "o": [
     "Chennai",
@@ -1770,7 +2070,7 @@
    "e": "The capital of Karnataka is Bengaluru."
   },
   {
-   "id": "geography-00118",
+   "id": "geography-00138",
    "q": "The river Betwa originates from which of the following?",
    "o": [
     "Janapav Hill",
@@ -1785,7 +2085,7 @@
    "e": "Betwa originates from Vindhya Range."
   },
   {
-   "id": "geography-00119",
+   "id": "geography-00139",
    "q": "Nagarjuna Sagar Dam is built on which river?",
    "o": [
     "Mahanadi",
@@ -1800,7 +2100,7 @@
    "e": "Nagarjuna Sagar Dam is built on the Krishna."
   },
   {
-   "id": "geography-00120",
+   "id": "geography-00140",
    "q": "Se La Pass pass is located in which state or union territory?",
    "o": [
     "Arunachal Pradesh",
@@ -1815,7 +2115,7 @@
    "e": "Se La Pass is located in Arunachal Pradesh."
   },
   {
-   "id": "geography-00121",
+   "id": "geography-00141",
    "q": "Which is the westernmost state of India?",
    "o": [
     "Kerala",
@@ -1830,7 +2130,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00122",
+   "id": "geography-00142",
    "q": "Which is the highest peak of the Aravalli range?",
    "o": [
     "Mongolia",
@@ -1845,7 +2145,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00123",
+   "id": "geography-00143",
    "q": "Season of the retreating monsoon in India?",
    "o": [
     "Wind vane",
@@ -1860,7 +2160,7 @@
    "e": "Season of the retreating monsoon in India — October to November."
   },
   {
-   "id": "geography-00124",
+   "id": "geography-00144",
    "q": "Which of the following is true about Desert soil?",
    "o": [
     "Formed from crystalline rocks, rich in iron",
@@ -1875,7 +2175,7 @@
    "e": "Desert soil: Sandy soil of arid regions."
   },
   {
-   "id": "geography-00125",
+   "id": "geography-00145",
    "q": "Which Indian state is a major producer of Bauxite?",
    "o": [
     "Jharkhand",
@@ -1890,7 +2190,7 @@
    "e": "Bauxite is produced in large quantities in Odisha."
   },
   {
-   "id": "geography-00126",
+   "id": "geography-00146",
    "q": "What is the capital of Uttar Pradesh?",
    "o": [
     "Agartala",
@@ -1905,7 +2205,7 @@
    "e": "The capital of Uttar Pradesh is Lucknow."
   },
   {
-   "id": "geography-00127",
+   "id": "geography-00147",
    "q": "The river Narmada originates from which of the following?",
    "o": [
     "Vindhya Range",
@@ -1920,7 +2220,7 @@
    "e": "Narmada originates from Amarkantak."
   },
   {
-   "id": "geography-00128",
+   "id": "geography-00148",
    "q": "Panchet Dam is built on which river?",
    "o": [
     "Damodar",
@@ -1935,7 +2235,7 @@
    "e": "Panchet Dam is built on the Damodar."
   },
   {
-   "id": "geography-00129",
+   "id": "geography-00149",
    "q": "Baralacha La pass is located in which state or union territory?",
    "o": [
     "Sikkim",
@@ -1950,7 +2250,7 @@
    "e": "Baralacha La is located in Himachal Pradesh."
   },
   {
-   "id": "geography-00130",
+   "id": "geography-00150",
    "q": "Which is the highest peak in the Himalayan range in India?",
    "o": [
     "Belgium",
@@ -1965,7 +2265,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00131",
+   "id": "geography-00151",
    "q": "Which Indian state has the highest percentage of forest cover?",
    "o": [
     "Mizoram",
@@ -1980,7 +2280,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00132",
+   "id": "geography-00152",
    "q": "Which is the most abundant element in the Earth's crust?",
    "o": [
     "Geology",
@@ -1995,7 +2295,7 @@
    "e": "Which is the most abundant element in the Earth's crust — Oxygen."
   },
   {
-   "id": "geography-00133",
+   "id": "geography-00153",
    "q": "Which of the following is true about Black soil?",
    "o": [
     "Sandy soil of arid regions",
@@ -2010,7 +2310,7 @@
    "e": "Black soil: Also called regur, ideal for cotton."
   },
   {
-   "id": "geography-00134",
+   "id": "geography-00154",
    "q": "Which Indian state is a major producer of Natural gas?",
    "o": [
     "Maharashtra",
@@ -2025,7 +2325,7 @@
    "e": "Natural gas is produced in large quantities in Maharashtra."
   },
   {
-   "id": "geography-00135",
+   "id": "geography-00155",
    "q": "What is the capital of Punjab?",
    "o": [
     "Lucknow",
@@ -2040,7 +2340,7 @@
    "e": "The capital of Punjab is Chandigarh."
   },
   {
-   "id": "geography-00136",
+   "id": "geography-00156",
    "q": "The river Ganga originates from which of the following?",
    "o": [
     "Gangotri Glacier",
@@ -2055,7 +2355,7 @@
    "e": "Ganga originates from Gangotri Glacier."
   },
   {
-   "id": "geography-00137",
+   "id": "geography-00157",
    "q": "Baglihar Dam is built on which river?",
    "o": [
     "Narmada",
@@ -2070,7 +2370,7 @@
    "e": "Baglihar Dam is built on the Chenab."
   },
   {
-   "id": "geography-00138",
+   "id": "geography-00158",
    "q": "Shipki La pass is located in which state or union territory?",
    "o": [
     "Arunachal Pradesh",
@@ -2085,7 +2385,7 @@
    "e": "Shipki La is located in Himachal Pradesh."
   },
   {
-   "id": "geography-00139",
+   "id": "geography-00159",
    "q": "Which is the longest river in Europe?",
    "o": [
     "Kunchikal Falls",
@@ -2100,7 +2400,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00140",
+   "id": "geography-00160",
    "q": "Which Indian city is called the City of Temples?",
    "o": [
     "Latitude",
@@ -2115,7 +2415,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00141",
+   "id": "geography-00161",
    "q": "What is the point of origin of an earthquake called?",
    "o": [
     "Crust",
@@ -2130,7 +2430,7 @@
    "e": "What is the point of origin of an earthquake called — Focus."
   },
   {
-   "id": "geography-00142",
+   "id": "geography-00162",
    "q": "Which of the following is true about Mountain soil?",
    "o": [
     "Most fertile soil, found in the northern plains",
@@ -2145,7 +2445,7 @@
    "e": "Mountain soil: Found in hilly and forest regions."
   },
   {
-   "id": "geography-00143",
+   "id": "geography-00163",
    "q": "Which Indian state is a major producer of Graphite?",
    "o": [
     "Maharashtra",
@@ -2160,7 +2460,7 @@
    "e": "Graphite is produced in large quantities in Odisha."
   },
   {
-   "id": "geography-00144",
+   "id": "geography-00164",
    "q": "What is the capital of Himachal Pradesh?",
    "o": [
     "Dispur",
@@ -2175,7 +2475,7 @@
    "e": "The capital of Himachal Pradesh is Shimla."
   },
   {
-   "id": "geography-00145",
+   "id": "geography-00165",
    "q": "The river Gomti originates from which of the following?",
    "o": [
     "Verinag",
@@ -2190,7 +2490,7 @@
    "e": "Gomti originates from Pilibhit."
   },
   {
-   "id": "geography-00146",
+   "id": "geography-00166",
    "q": "Polavaram Dam is built on which river?",
    "o": [
     "Mahanadi",
@@ -2205,7 +2505,7 @@
    "e": "Polavaram Dam is built on the Godavari."
   },
   {
-   "id": "geography-00147",
+   "id": "geography-00167",
    "q": "Haldighati Pass pass is located in which state or union territory?",
    "o": [
     "Jammu and Kashmir",
@@ -2220,7 +2520,7 @@
    "e": "Haldighati Pass is located in Rajasthan."
   },
   {
-   "id": "geography-00148",
+   "id": "geography-00168",
    "q": "Which canal connects the Mediterranean Sea and the Red Sea?",
    "o": [
     "Amazon",
@@ -2235,7 +2535,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00149",
+   "id": "geography-00169",
    "q": "How many oceans are there on Earth?",
    "o": [
     "Karnataka",
@@ -2250,7 +2550,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00150",
+   "id": "geography-00170",
    "q": "Which is the largest planet in the Solar System?",
    "o": [
     "Cherry blossom showers",
@@ -2265,7 +2565,7 @@
    "e": "Which is the largest planet in the Solar System — Jupiter."
   },
   {
-   "id": "geography-00151",
+   "id": "geography-00171",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Laterite soil - Formed by leaching in high rainfall areas",
@@ -2280,7 +2580,7 @@
    "e": "Only Laterite soil - Formed by leaching in high rainfall areas is correctly matched."
   },
   {
-   "id": "geography-00152",
+   "id": "geography-00172",
    "q": "Which Indian state is a major producer of Kyanite?",
    "o": [
     "Odisha",
@@ -2295,7 +2595,7 @@
    "e": "Kyanite is produced in large quantities in Jharkhand."
   },
   {
-   "id": "geography-00153",
+   "id": "geography-00173",
    "q": "What is the capital of Meghalaya?",
    "o": [
     "Dispur",
@@ -2310,7 +2610,7 @@
    "e": "The capital of Meghalaya is Shillong."
   },
   {
-   "id": "geography-00154",
+   "id": "geography-00174",
    "q": "The river Chenab originates from which of the following?",
    "o": [
     "Sihawa",
@@ -2325,7 +2625,7 @@
    "e": "Chenab originates from Baralacha La."
   },
   {
-   "id": "geography-00155",
+   "id": "geography-00175",
    "q": "Idukki Dam is built on which river?",
    "o": [
     "Bhavani",
@@ -2340,7 +2640,7 @@
    "e": "Idukki Dam is built on the Periyar."
   },
   {
-   "id": "geography-00156",
+   "id": "geography-00176",
    "q": "Pangsau Pass pass is located in which state or union territory?",
    "o": [
     "Maharashtra",
@@ -2355,7 +2655,7 @@
    "e": "Pangsau Pass is located in Arunachal Pradesh."
   },
   {
-   "id": "geography-00157",
+   "id": "geography-00177",
    "q": "Which is the longest mountain range in the world?",
    "o": [
     "Venice",
@@ -2370,7 +2670,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00158",
+   "id": "geography-00178",
    "q": "Where is the Leaning Tower of Pisa located?",
    "o": [
     "Bangladesh",
@@ -2385,7 +2685,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00159",
+   "id": "geography-00179",
    "q": "What is molten rock that reaches the surface called?",
    "o": [
     "Geology",
@@ -2400,7 +2700,7 @@
    "e": "What is molten rock that reaches the surface called — Lava."
   },
   {
-   "id": "geography-00160",
+   "id": "geography-00180",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Laterite soil - Formed from crystalline rocks, rich in iron",
@@ -2415,7 +2715,7 @@
    "e": "Only Laterite soil - Formed by leaching in high rainfall areas is correctly matched."
   },
   {
-   "id": "geography-00161",
+   "id": "geography-00181",
    "q": "Which Indian state is a major producer of Chromite?",
    "o": [
     "Jharkhand",
@@ -2430,7 +2730,7 @@
    "e": "Chromite is produced in large quantities in Odisha."
   },
   {
-   "id": "geography-00162",
+   "id": "geography-00182",
    "q": "What is the capital of Sikkim?",
    "o": [
     "Gangtok",
@@ -2445,7 +2745,7 @@
    "e": "The capital of Sikkim is Gangtok."
   },
   {
-   "id": "geography-00163",
+   "id": "geography-00183",
    "q": "The river Kaveri originates from which of the following?",
    "o": [
     "Trimbakeshwar",
@@ -2460,7 +2760,7 @@
    "e": "Kaveri originates from Talakaveri."
   },
   {
-   "id": "geography-00164",
+   "id": "geography-00184",
    "q": "Salal Dam is built on which river?",
    "o": [
     "Periyar",
@@ -2475,7 +2775,7 @@
    "e": "Salal Dam is built on the Chenab."
   },
   {
-   "id": "geography-00165",
+   "id": "geography-00185",
    "q": "Nathu La pass is located in which state or union territory?",
    "o": [
     "Jammu and Kashmir",
@@ -2490,7 +2790,7 @@
    "e": "Nathu La is located in Sikkim."
   },
   {
-   "id": "geography-00166",
+   "id": "geography-00186",
    "q": "Which is the least populous state of India?",
    "o": [
     "Asia",
@@ -2505,7 +2805,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00167",
+   "id": "geography-00187",
    "q": "Which Indian state is called the Land of Five Rivers?",
    "o": [
     "Punjab",
@@ -2520,7 +2820,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00168",
+   "id": "geography-00188",
    "q": "Season of the south-west monsoon in India?",
    "o": [
     "Hygrometer",
@@ -2535,7 +2835,7 @@
    "e": "Season of the south-west monsoon in India — June to September."
   },
   {
-   "id": "geography-00169",
+   "id": "geography-00189",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Saline soil - Contains excess salt, found in dry coastal areas",
@@ -2550,7 +2850,7 @@
    "e": "Only Saline soil - Contains excess salt, found in dry coastal areas is correctly matched."
   },
   {
-   "id": "geography-00170",
+   "id": "geography-00190",
    "q": "Which Indian state is a major producer of Barytes?",
    "o": [
     "Jharkhand",
@@ -2565,7 +2865,7 @@
    "e": "Barytes is produced in large quantities in Andhra Pradesh."
   },
   {
-   "id": "geography-00171",
+   "id": "geography-00191",
    "q": "What is the capital of Chhattisgarh?",
    "o": [
     "Amaravati",
@@ -2580,7 +2880,7 @@
    "e": "The capital of Chhattisgarh is Raipur."
   },
   {
-   "id": "geography-00172",
+   "id": "geography-00192",
    "q": "The river Sharavati originates from which of the following?",
    "o": [
     "Vindhya Range",
@@ -2595,7 +2895,7 @@
    "e": "Sharavati originates from Ambutirtha."
   },
   {
-   "id": "geography-00173",
+   "id": "geography-00193",
    "q": "Dul Hasti Dam is built on which river?",
    "o": [
     "Sutlej",
@@ -2610,7 +2910,7 @@
    "e": "Dul Hasti Dam is built on the Chenab."
   },
   {
-   "id": "geography-00174",
+   "id": "geography-00194",
    "q": "Araku Valley Pass pass is located in which state or union territory?",
    "o": [
     "Ladakh",
@@ -2625,7 +2925,7 @@
    "e": "Araku Valley Pass is located in Andhra Pradesh."
   },
   {
-   "id": "geography-00175",
+   "id": "geography-00195",
    "q": "Which canal connects the Atlantic and Pacific Oceans?",
    "o": [
     "Panama Canal",
@@ -2640,7 +2940,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00176",
+   "id": "geography-00196",
    "q": "Which island is called the Emerald Isle?",
    "o": [
     "Maharashtra",
@@ -2655,7 +2955,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00177",
+   "id": "geography-00197",
    "q": "Which type of rock is formed from sediments?",
    "o": [
     "Lava",
@@ -2670,7 +2970,7 @@
    "e": "Which type of rock is formed from sediments — Sedimentary rock."
   },
   {
-   "id": "geography-00178",
+   "id": "geography-00198",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Saline soil - Most fertile soil, found in the northern plains",
@@ -2685,7 +2985,7 @@
    "e": "Only Saline soil - Contains excess salt, found in dry coastal areas is correctly matched."
   },
   {
-   "id": "geography-00179",
+   "id": "geography-00199",
    "q": "Which Indian state is a major producer of Gypsum?",
    "o": [
     "Andhra Pradesh",
@@ -2700,7 +3000,7 @@
    "e": "Gypsum is produced in large quantities in Rajasthan."
   },
   {
-   "id": "geography-00180",
+   "id": "geography-00200",
    "q": "What is the capital of Manipur?",
    "o": [
     "Imphal",
@@ -2715,7 +3015,7 @@
    "e": "The capital of Manipur is Imphal."
   },
   {
-   "id": "geography-00181",
+   "id": "geography-00201",
    "q": "The river Chambal originates from which of the following?",
    "o": [
     "Janapav Hill",
@@ -2730,7 +3030,7 @@
    "e": "Chambal originates from Janapav Hill."
   },
   {
-   "id": "geography-00182",
+   "id": "geography-00202",
    "q": "Which of the following dams is built on the river Bhavani?",
    "o": [
     "Bhakra Nangal Dam",
@@ -2745,7 +3045,7 @@
    "e": "Bhavani Sagar Dam is built on the Bhavani."
   },
   {
-   "id": "geography-00183",
+   "id": "geography-00203",
    "q": "Niti Pass pass is located in which state or union territory?",
    "o": [
     "Kerala",
@@ -2760,7 +3060,7 @@
    "e": "Niti Pass is located in Uttarakhand."
   },
   {
-   "id": "geography-00184",
+   "id": "geography-00204",
    "q": "Which is the most populous state of India?",
    "o": [
     "Lake Baikal",
@@ -2775,7 +3075,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00185",
+   "id": "geography-00205",
    "q": "Which country has the largest Muslim population?",
    "o": [
     "Strait of Malacca",
@@ -2790,7 +3090,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00186",
+   "id": "geography-00206",
    "q": "Which planet is nearest to the Earth?",
    "o": [
     "Andhi",
@@ -2805,7 +3105,7 @@
    "e": "Which planet is nearest to the Earth — Venus."
   },
   {
-   "id": "geography-00187",
+   "id": "geography-00207",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Red soil - Also called regur, ideal for cotton",
@@ -2820,7 +3120,7 @@
    "e": "Only Red soil - Formed from crystalline rocks, rich in iron is correctly matched."
   },
   {
-   "id": "geography-00188",
+   "id": "geography-00208",
    "q": "Which mineral is found in large quantities in Jharkhand?",
    "o": [
     "Coal",
@@ -2835,7 +3135,7 @@
    "e": "Uranium is found in Jharkhand."
   },
   {
-   "id": "geography-00189",
+   "id": "geography-00209",
    "q": "What is the capital of Tamil Nadu?",
    "o": [
     "Amaravati",
@@ -2850,7 +3150,7 @@
    "e": "The capital of Tamil Nadu is Chennai."
   },
   {
-   "id": "geography-00190",
+   "id": "geography-00210",
    "q": "The river Son originates from which of the following?",
    "o": [
     "Amarkantak",
@@ -2865,7 +3165,7 @@
    "e": "Son originates from Amarkantak."
   },
   {
-   "id": "geography-00191",
+   "id": "geography-00211",
    "q": "Which of the following dams is built on the river Chenab?",
    "o": [
     "Rihand Dam",
@@ -2880,7 +3180,7 @@
    "e": "Salal Dam is built on the Chenab."
   },
   {
-   "id": "geography-00192",
+   "id": "geography-00212",
    "q": "Lipulekh Pass pass is located in which state or union territory?",
    "o": [
     "Uttarakhand",
@@ -2895,7 +3195,7 @@
    "e": "Lipulekh Pass is located in Uttarakhand."
   },
   {
-   "id": "geography-00193",
+   "id": "geography-00213",
    "q": "Which imaginary line passes through India?",
    "o": [
     "Maharashtra",
@@ -2910,7 +3210,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00194",
+   "id": "geography-00214",
    "q": "Which is the largest island in the world?",
    "o": [
     "Indian Ocean",
@@ -2925,7 +3225,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00195",
+   "id": "geography-00215",
    "q": "Which place receives the highest rainfall in India?",
    "o": [
     "Igneous rock",
@@ -2940,7 +3240,7 @@
    "e": "Which place receives the highest rainfall in India — Mawsynram."
   },
   {
-   "id": "geography-00196",
+   "id": "geography-00216",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Red soil - Found in hilly and forest regions",
@@ -2955,7 +3255,7 @@
    "e": "Only Red soil - Formed from crystalline rocks, rich in iron is correctly matched."
   },
   {
-   "id": "geography-00197",
+   "id": "geography-00217",
    "q": "Which mineral is found in large quantities in Andhra Pradesh?",
    "o": [
     "Mica",
@@ -2970,7 +3270,7 @@
    "e": "Barytes is found in Andhra Pradesh."
   },
   {
-   "id": "geography-00198",
+   "id": "geography-00218",
    "q": "What is the capital of Bihar?",
    "o": [
     "Chandigarh",
@@ -2985,7 +3285,7 @@
    "e": "The capital of Bihar is Patna."
   },
   {
-   "id": "geography-00199",
+   "id": "geography-00219",
    "q": "The river Penna originates from which of the following?",
    "o": [
     "Nandi Hills",
@@ -3000,7 +3300,7 @@
    "e": "Penna originates from Nandi Hills."
   },
   {
-   "id": "geography-00200",
+   "id": "geography-00220",
    "q": "Which of the following dams is built on the river Chenab?",
    "o": [
     "Rihand Dam",
@@ -3015,7 +3315,7 @@
    "e": "Dul Hasti Dam is built on the Chenab."
   },
   {
-   "id": "geography-00201",
+   "id": "geography-00221",
    "q": "Shencottah Gap pass is located in which state or union territory?",
    "o": [
     "Tamil Nadu",
@@ -3030,7 +3330,7 @@
    "e": "Shencottah Gap is located in Tamil Nadu."
   },
   {
-   "id": "geography-00202",
+   "id": "geography-00222",
    "q": "Which Indian city is called the Manchester of India?",
    "o": [
     "Kanchenjunga",
@@ -3045,7 +3345,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00203",
+   "id": "geography-00223",
    "q": "Which country is known as the Land of Kangaroos?",
    "o": [
     "OPEC",
@@ -3060,7 +3360,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00204",
+   "id": "geography-00224",
    "q": "Which is the hardest natural mineral?",
    "o": [
     "Venus",
@@ -3075,7 +3375,7 @@
    "e": "Which is the hardest natural mineral — Diamond."
   },
   {
-   "id": "geography-00205",
+   "id": "geography-00225",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Black soil - Formed in waterlogged areas with organic matter",
@@ -3090,7 +3390,7 @@
    "e": "Only Black soil - Also called regur, ideal for cotton is correctly matched."
   },
   {
-   "id": "geography-00206",
+   "id": "geography-00226",
    "q": "Which mineral is found in large quantities in Rajasthan?",
    "o": [
     "Mica",
@@ -3105,7 +3405,7 @@
    "e": "Gypsum is found in Rajasthan."
   },
   {
-   "id": "geography-00207",
+   "id": "geography-00227",
    "q": "What is the capital of Goa?",
    "o": [
     "Shimla",
@@ -3120,7 +3420,7 @@
    "e": "The capital of Goa is Panaji."
   },
   {
-   "id": "geography-00208",
+   "id": "geography-00228",
    "q": "The river Bhima originates from which of the following?",
    "o": [
     "Mahabaleshwar",
@@ -3135,7 +3435,7 @@
    "e": "Bhima originates from Bhimashankar."
   },
   {
-   "id": "geography-00209",
+   "id": "geography-00229",
    "q": "Which of the following dams is built on the river Mahanadi?",
    "o": [
     "Tehri Dam",
@@ -3150,7 +3450,7 @@
    "e": "Hirakud Dam is built on the Mahanadi."
   },
   {
-   "id": "geography-00210",
+   "id": "geography-00230",
    "q": "Bomdila Pass pass is located in which state or union territory?",
    "o": [
     "Tamil Nadu",
@@ -3165,7 +3465,7 @@
    "e": "Bomdila Pass is located in Arunachal Pradesh."
   },
   {
-   "id": "geography-00211",
+   "id": "geography-00231",
    "q": "Which country is known as the Land of Windmills?",
    "o": [
     "Kanpur",
@@ -3180,7 +3480,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00212",
+   "id": "geography-00232",
    "q": "How many continents are there on Earth?",
    "o": [
     "Brazil",
@@ -3195,7 +3495,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00213",
+   "id": "geography-00233",
    "q": "What are the pre-monsoon showers in Kerala called?",
    "o": [
     "Mars",
@@ -3210,7 +3510,7 @@
    "e": "What are the pre-monsoon showers in Kerala called — Mango showers."
   },
   {
-   "id": "geography-00214",
+   "id": "geography-00234",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Black soil - Found in hilly and forest regions",
@@ -3225,7 +3525,7 @@
    "e": "Only Black soil - Also called regur, ideal for cotton is correctly matched."
   },
   {
-   "id": "geography-00215",
+   "id": "geography-00235",
    "q": "Which mineral is found in large quantities in Odisha?",
    "o": [
     "Copper",
@@ -3240,7 +3540,7 @@
    "e": "Iron ore is found in Odisha."
   },
   {
-   "id": "geography-00216",
+   "id": "geography-00236",
    "q": "What is the capital of Mizoram?",
    "o": [
     "Bhopal",
@@ -3255,7 +3555,7 @@
    "e": "The capital of Mizoram is Aizawl."
   },
   {
-   "id": "geography-00217",
+   "id": "geography-00237",
    "q": "The river Sutlej originates from which of the following?",
    "o": [
     "Vindhya Range",
@@ -3270,7 +3570,7 @@
    "e": "Sutlej originates from Rakas Lake."
   },
   {
-   "id": "geography-00218",
+   "id": "geography-00238",
    "q": "Which of the following dams is built on the river Bhagirathi?",
    "o": [
     "Dul Hasti Dam",
@@ -3285,7 +3585,7 @@
    "e": "Tehri Dam is built on the Bhagirathi."
   },
   {
-   "id": "geography-00219",
+   "id": "geography-00239",
    "q": "Which of the following passes is located in Maharashtra?",
    "o": [
     "Zoji La",
@@ -3300,7 +3600,7 @@
    "e": "Bhor Ghat is a pass in Maharashtra."
   },
   {
-   "id": "geography-00220",
+   "id": "geography-00240",
    "q": "Which is the largest bay in the world?",
    "o": [
     "Dead Sea",
@@ -3315,7 +3615,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00221",
+   "id": "geography-00241",
    "q": "Which is the highest peak in India?",
    "o": [
     "Kanchenjunga",
@@ -3330,7 +3630,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00222",
+   "id": "geography-00242",
    "q": "What percentage of the atmosphere is oxygen?",
    "o": [
     "Core",
@@ -3345,7 +3645,7 @@
    "e": "What percentage of the atmosphere is oxygen — About 21 per cent."
   },
   {
-   "id": "geography-00223",
+   "id": "geography-00243",
    "q": "Which mineral is found in large quantities in Rajasthan?",
    "o": [
     "Gypsum",
@@ -3360,7 +3660,7 @@
    "e": "Copper is found in Rajasthan."
   },
   {
-   "id": "geography-00224",
+   "id": "geography-00244",
    "q": "What is the capital of Telangana?",
    "o": [
     "Hyderabad",
@@ -3375,7 +3675,7 @@
    "e": "The capital of Telangana is Hyderabad."
   },
   {
-   "id": "geography-00225",
+   "id": "geography-00245",
    "q": "The river Kosi originates from which of the following?",
    "o": [
     "Baralacha La",
@@ -3390,7 +3690,7 @@
    "e": "Kosi originates from Nepal Himalayas."
   },
   {
-   "id": "geography-00226",
+   "id": "geography-00246",
    "q": "Which of the following dams is built on the river Narmada?",
    "o": [
     "Baglihar Dam",
@@ -3405,7 +3705,7 @@
    "e": "Sardar Sarovar Dam is built on the Narmada."
   },
   {
-   "id": "geography-00227",
+   "id": "geography-00247",
    "q": "Which of the following passes is located in Kerala?",
    "o": [
     "Shencottah Gap",
@@ -3420,7 +3720,7 @@
    "e": "Palakkad Gap is a pass in Kerala."
   },
   {
-   "id": "geography-00228",
+   "id": "geography-00248",
    "q": "Which city is known as the Eternal City?",
    "o": [
     "Wular Lake",
@@ -3435,7 +3735,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00229",
+   "id": "geography-00249",
    "q": "Where is the Brihadeeswarar Temple located?",
    "o": [
     "Bihar",
@@ -3450,7 +3750,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00230",
+   "id": "geography-00250",
    "q": "Which instrument measures wind direction?",
    "o": [
     "Stratosphere",
@@ -3465,7 +3765,7 @@
    "e": "Which instrument measures wind direction — Wind vane."
   },
   {
-   "id": "geography-00231",
+   "id": "geography-00251",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Desert soil - Sandy soil of arid regions",
@@ -3480,7 +3780,7 @@
    "e": "Only Desert soil - Sandy soil of arid regions is correctly matched."
   },
   {
-   "id": "geography-00232",
+   "id": "geography-00252",
    "q": "Which mineral is found in large quantities in Odisha?",
    "o": [
     "Graphite",
@@ -3495,7 +3795,7 @@
    "e": "Manganese is found in Odisha."
   },
   {
-   "id": "geography-00233",
+   "id": "geography-00253",
    "q": "What is the capital of Uttarakhand?",
    "o": [
     "Dehradun",
@@ -3510,7 +3810,7 @@
    "e": "The capital of Uttarakhand is Dehradun."
   },
   {
-   "id": "geography-00234",
+   "id": "geography-00254",
    "q": "The river Tungabhadra originates from which of the following?",
    "o": [
     "Baralacha La",
@@ -3525,7 +3825,7 @@
    "e": "Tungabhadra originates from Kudali."
   },
   {
-   "id": "geography-00235",
+   "id": "geography-00255",
    "q": "Which of the following dams is built on the river Narmada?",
    "o": [
     "Indira Sagar Dam",
@@ -3540,7 +3840,7 @@
    "e": "Omkareshwar Dam is built on the Narmada."
   },
   {
-   "id": "geography-00236",
+   "id": "geography-00256",
    "q": "Which of the following passes is located in Ladakh?",
    "o": [
     "Fotu La",
@@ -3555,7 +3855,7 @@
    "e": "Fotu La is a pass in Ladakh."
   },
   {
-   "id": "geography-00237",
+   "id": "geography-00257",
    "q": "Which city is called the City of Canals?",
    "o": [
     "Gulf of Mexico",
@@ -3570,7 +3870,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00238",
+   "id": "geography-00258",
    "q": "Which is the highest peak of the Satpura range?",
    "o": [
     "Ganga",
@@ -3585,7 +3885,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00239",
+   "id": "geography-00259",
    "q": "Which place in India receives the lowest rainfall?",
    "o": [
     "Jaisalmer",
@@ -3600,7 +3900,7 @@
    "e": "Which place in India receives the lowest rainfall — Jaisalmer."
   },
   {
-   "id": "geography-00240",
+   "id": "geography-00260",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Peaty soil - Also called regur, ideal for cotton",
@@ -3615,7 +3915,7 @@
    "e": "Only Peaty soil - Formed in waterlogged areas with organic matter is correctly matched."
   },
   {
-   "id": "geography-00241",
+   "id": "geography-00261",
    "q": "Which mineral is found in large quantities in Rajasthan?",
    "o": [
     "Lead and zinc",
@@ -3630,7 +3930,7 @@
    "e": "Rock phosphate is found in Rajasthan."
   },
   {
-   "id": "geography-00242",
+   "id": "geography-00262",
    "q": "What is the capital of Maharashtra?",
    "o": [
     "Dispur",
@@ -3645,7 +3945,7 @@
    "e": "The capital of Maharashtra is Mumbai."
   },
   {
-   "id": "geography-00243",
+   "id": "geography-00263",
    "q": "The river Brahmaputra originates from which of the following?",
    "o": [
     "Talakaveri",
@@ -3660,7 +3960,7 @@
    "e": "Brahmaputra originates from Angsi Glacier."
   },
   {
-   "id": "geography-00244",
+   "id": "geography-00264",
    "q": "Which of the following dams is built on the river Chenab?",
    "o": [
     "Baglihar Dam",
@@ -3675,7 +3975,7 @@
    "e": "Baglihar Dam is built on the Chenab."
   },
   {
-   "id": "geography-00245",
+   "id": "geography-00265",
    "q": "Which of the following passes is located in Rajasthan?",
    "o": [
     "Baralacha La",
@@ -3690,7 +3990,7 @@
    "e": "Haldighati Pass is a pass in Rajasthan."
   },
   {
-   "id": "geography-00246",
+   "id": "geography-00266",
    "q": "Which Indian city is called the Blue City?",
    "o": [
     "Dead Sea",
@@ -3705,7 +4005,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00247",
+   "id": "geography-00267",
    "q": "Which is the oldest port of India?",
    "o": [
     "Mongolia",
@@ -3720,7 +4020,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00248",
+   "id": "geography-00268",
    "q": "Which is the most abundant metal in the Earth's crust?",
    "o": [
     "Venus",
@@ -3735,7 +4035,7 @@
    "e": "Which is the most abundant metal in the Earth's crust — Aluminium."
   },
   {
-   "id": "geography-00249",
+   "id": "geography-00269",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Peaty soil - Formed in waterlogged areas with organic matter",
@@ -3750,7 +4050,7 @@
    "e": "Only Peaty soil - Formed in waterlogged areas with organic matter is correctly matched."
   },
   {
-   "id": "geography-00250",
+   "id": "geography-00270",
    "q": "Which mineral is found in large quantities in Odisha?",
    "o": [
     "Graphite",
@@ -3765,7 +4065,7 @@
    "e": "Graphite is found in Odisha."
   },
   {
-   "id": "geography-00251",
+   "id": "geography-00271",
    "q": "Shimla is the capital of which Indian state?",
    "o": [
     "Uttarakhand",
@@ -3780,7 +4080,7 @@
    "e": "Shimla is the capital of Himachal Pradesh."
   },
   {
-   "id": "geography-00252",
+   "id": "geography-00272",
    "q": "The river Sabarmati originates from which of the following?",
    "o": [
     "Nandi Hills",
@@ -3795,7 +4095,7 @@
    "e": "Sabarmati originates from Udaipur."
   },
   {
-   "id": "geography-00253",
+   "id": "geography-00273",
    "q": "Which of the following dams is built on the river Sutlej?",
    "o": [
     "Bhavani Sagar Dam",
@@ -3810,7 +4110,7 @@
    "e": "Bhakra Nangal Dam is built on the Sutlej."
   },
   {
-   "id": "geography-00254",
+   "id": "geography-00274",
    "q": "Which of the following passes is located in Tamil Nadu?",
    "o": [
     "Bhor Ghat",
@@ -3825,7 +4125,7 @@
    "e": "Shencottah Gap is a pass in Tamil Nadu."
   },
   {
-   "id": "geography-00255",
+   "id": "geography-00275",
    "q": "Which country has the largest population of any landlocked country?",
    "o": [
     "Ethiopia",
@@ -3840,7 +4140,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00256",
+   "id": "geography-00276",
    "q": "In which country is Lake Baikal located?",
    "o": [
     "Tamil Nadu",
@@ -3855,7 +4155,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00257",
+   "id": "geography-00277",
    "q": "Which place receives the highest rainfall in the world?",
    "o": [
     "Stratosphere",
@@ -3870,7 +4170,7 @@
    "e": "Which place receives the highest rainfall in the world — Mawsynram."
   },
   {
-   "id": "geography-00258",
+   "id": "geography-00278",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Mountain soil - Found in hilly and forest regions",
@@ -3885,7 +4185,7 @@
    "e": "Only Mountain soil - Found in hilly and forest regions is correctly matched."
   },
   {
-   "id": "geography-00259",
+   "id": "geography-00279",
    "q": "Which mineral is found in large quantities in Jharkhand?",
    "o": [
     "Uranium",
@@ -3900,7 +4200,7 @@
    "e": "Coal is found in Jharkhand."
   },
   {
-   "id": "geography-00260",
+   "id": "geography-00280",
    "q": "Dispur is the capital of which Indian state?",
    "o": [
     "Assam",
@@ -3915,7 +4215,7 @@
    "e": "Dispur is the capital of Assam."
   },
   {
-   "id": "geography-00261",
+   "id": "geography-00281",
    "q": "The river Mahanadi originates from which of the following?",
    "o": [
     "Multai",
@@ -3930,7 +4230,7 @@
    "e": "Mahanadi originates from Sihawa."
   },
   {
-   "id": "geography-00262",
+   "id": "geography-00282",
    "q": "Which of the following dams is built on the river Krishna?",
    "o": [
     "Farakka Barrage",
@@ -3945,7 +4245,7 @@
    "e": "Srisailam Dam is built on the Krishna."
   },
   {
-   "id": "geography-00263",
+   "id": "geography-00283",
    "q": "Which of the following passes is located in Sikkim?",
    "o": [
     "Fotu La",
@@ -3960,7 +4260,7 @@
    "e": "Nathu La is a pass in Sikkim."
   },
   {
-   "id": "geography-00264",
+   "id": "geography-00284",
    "q": "Which is the largest freshwater lake by area?",
    "o": [
     "Tropic of Cancer",
@@ -3975,7 +4275,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00265",
+   "id": "geography-00285",
    "q": "Where is the Gateway of India located?",
    "o": [
     "Goa",
@@ -3990,7 +4290,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00266",
+   "id": "geography-00286",
    "q": "Which planet has the shortest day?",
    "o": [
     "Oxygen",
@@ -4005,7 +4305,7 @@
    "e": "Which planet has the shortest day — Jupiter."
   },
   {
-   "id": "geography-00267",
+   "id": "geography-00287",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Mountain soil - Formed in waterlogged areas with organic matter",
@@ -4020,7 +4320,7 @@
    "e": "Only Mountain soil - Found in hilly and forest regions is correctly matched."
   },
   {
-   "id": "geography-00268",
+   "id": "geography-00288",
    "q": "Which mineral is found in large quantities in Maharashtra?",
    "o": [
     "Diamond",
@@ -4035,7 +4335,7 @@
    "e": "Sillimanite is found in Maharashtra."
   },
   {
-   "id": "geography-00269",
+   "id": "geography-00289",
    "q": "Imphal is the capital of which Indian state?",
    "o": [
     "Sikkim",
@@ -4050,7 +4350,7 @@
    "e": "Imphal is the capital of Manipur."
   },
   {
-   "id": "geography-00270",
+   "id": "geography-00290",
    "q": "Kudali is the origin of which river?",
    "o": [
     "Betwa",
@@ -4065,7 +4365,7 @@
    "e": "Kudali is the origin of the river Tungabhadra."
   },
   {
-   "id": "geography-00271",
+   "id": "geography-00291",
    "q": "Which of the following dams is built on the river Koyna?",
    "o": [
     "Tehri Dam",
@@ -4080,7 +4380,7 @@
    "e": "Koyna Dam is built on the Koyna."
   },
   {
-   "id": "geography-00272",
+   "id": "geography-00292",
    "q": "Which of the following passes is located in Maharashtra?",
    "o": [
     "Zoji La",
@@ -4095,7 +4395,7 @@
    "e": "Thal Ghat is a pass in Maharashtra."
   },
   {
-   "id": "geography-00273",
+   "id": "geography-00293",
    "q": "Which is the largest plateau in the world?",
    "o": [
     "Venice",
@@ -4110,7 +4410,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00274",
+   "id": "geography-00294",
    "q": "Where is the Colosseum located?",
    "o": [
     "Rome",
@@ -4125,7 +4425,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00275",
+   "id": "geography-00295",
    "q": "Which type of rock is formed by heat and pressure?",
    "o": [
     "Metamorphic rock",
@@ -4140,7 +4440,7 @@
    "e": "Which type of rock is formed by heat and pressure — Metamorphic rock."
   },
   {
-   "id": "geography-00276",
+   "id": "geography-00296",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Alluvial soil - Most fertile soil, found in the northern plains",
@@ -4155,7 +4455,7 @@
    "e": "Only Alluvial soil - Most fertile soil, found in the northern plains is correctly matched."
   },
   {
-   "id": "geography-00277",
+   "id": "geography-00297",
    "q": "Which mineral is found in large quantities in Madhya Pradesh?",
    "o": [
     "Copper",
@@ -4170,7 +4470,7 @@
    "e": "Limestone is found in Madhya Pradesh."
   },
   {
-   "id": "geography-00278",
+   "id": "geography-00298",
    "q": "Gangtok is the capital of which Indian state?",
    "o": [
     "Himachal Pradesh",
@@ -4185,7 +4485,7 @@
    "e": "Gangtok is the capital of Sikkim."
   },
   {
-   "id": "geography-00279",
+   "id": "geography-00299",
    "q": "Udaipur is the origin of which river?",
    "o": [
     "Sharavati",
@@ -4200,7 +4500,7 @@
    "e": "Udaipur is the origin of the river Sabarmati."
   },
   {
-   "id": "geography-00280",
+   "id": "geography-00300",
    "q": "Which of the following dams is built on the river Barakar?",
    "o": [
     "Srisailam Dam",
@@ -4215,7 +4515,7 @@
    "e": "Maithon Dam is built on the Barakar."
   },
   {
-   "id": "geography-00281",
+   "id": "geography-00301",
    "q": "Which of the following passes is located in Ladakh?",
    "o": [
     "Chang La",
@@ -4230,7 +4530,7 @@
    "e": "Chang La is a pass in Ladakh."
   },
   {
-   "id": "geography-00282",
+   "id": "geography-00302",
    "q": "Which country is called the Roof of the World?",
    "o": [
     "Strait of Gibraltar",
@@ -4245,7 +4545,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00283",
+   "id": "geography-00303",
    "q": "What is the time difference between Indian Standard Time and Greenwich Mean Time?",
    "o": [
     "Japan",
@@ -4260,7 +4560,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00284",
+   "id": "geography-00304",
    "q": "Which type of rock is formed from cooled magma?",
    "o": [
     "Igneous rock",
@@ -4275,7 +4575,7 @@
    "e": "Which type of rock is formed from cooled magma — Igneous rock."
   },
   {
-   "id": "geography-00285",
+   "id": "geography-00305",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Alluvial soil - Formed in waterlogged areas with organic matter",
@@ -4290,7 +4590,7 @@
    "e": "Only Alluvial soil - Most fertile soil, found in the northern plains is correctly matched."
   },
   {
-   "id": "geography-00286",
+   "id": "geography-00306",
    "q": "Which mineral is found in large quantities in Assam?",
    "o": [
     "Sillimanite",
@@ -4305,7 +4605,7 @@
    "e": "Petroleum is found in Assam."
   },
   {
-   "id": "geography-00287",
+   "id": "geography-00307",
    "q": "Patna is the capital of which Indian state?",
    "o": [
     "Bihar",
@@ -4320,7 +4620,7 @@
    "e": "Patna is the capital of Bihar."
   },
   {
-   "id": "geography-00288",
+   "id": "geography-00308",
    "q": "Angsi Glacier is the origin of which river?",
    "o": [
     "Godavari",
@@ -4335,7 +4635,7 @@
    "e": "Angsi Glacier is the origin of the river Brahmaputra."
   },
   {
-   "id": "geography-00289",
+   "id": "geography-00309",
    "q": "Which of the following dams is built on the river Rihand?",
    "o": [
     "Indira Sagar Dam",
@@ -4350,7 +4650,7 @@
    "e": "Rihand Dam is built on the Rihand."
   },
   {
-   "id": "geography-00290",
+   "id": "geography-00310",
    "q": "Which of the following passes is located in Uttarakhand?",
    "o": [
     "Haldighati Pass",
@@ -4365,7 +4665,7 @@
    "e": "Mana Pass is a pass in Uttarakhand."
   },
   {
-   "id": "geography-00291",
+   "id": "geography-00311",
    "q": "Which is the largest hot desert?",
    "o": [
     "Angel Falls",
@@ -4380,7 +4680,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00292",
+   "id": "geography-00312",
    "q": "Which river flows through the city of Ahmedabad?",
    "o": [
     "Sabarmati",
@@ -4395,7 +4695,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00293",
+   "id": "geography-00313",
    "q": "Direction of the south-west monsoon winds?",
    "o": [
     "Eight",
@@ -4410,7 +4710,7 @@
    "e": "Direction of the south-west monsoon winds — From the sea to the land."
   },
   {
-   "id": "geography-00294",
+   "id": "geography-00314",
    "q": "Which of the following pairs of soil and feature is NOT correctly matched?",
    "o": [
     "Desert soil - Sandy soil of arid regions",
@@ -4425,7 +4725,7 @@
    "e": "The pair Peaty soil - Found in hilly and forest regions is not correctly matched."
   },
   {
-   "id": "geography-00295",
+   "id": "geography-00315",
    "q": "Which mineral is found in large quantities in Andhra Pradesh?",
    "o": [
     "Lead and zinc",
@@ -4440,7 +4740,7 @@
    "e": "Mica is found in Andhra Pradesh."
   },
   {
-   "id": "geography-00296",
+   "id": "geography-00316",
    "q": "Bengaluru is the capital of which Indian state?",
    "o": [
     "Uttar Pradesh",
@@ -4455,7 +4755,7 @@
    "e": "Bengaluru is the capital of Karnataka."
   },
   {
-   "id": "geography-00297",
+   "id": "geography-00317",
    "q": "Beas Kund is the origin of which river?",
    "o": [
     "Krishna",
@@ -4470,7 +4770,7 @@
    "e": "Beas Kund is the origin of the river Beas."
   },
   {
-   "id": "geography-00298",
+   "id": "geography-00318",
    "q": "Which of the following dams is built on the river Godavari?",
    "o": [
     "Polavaram Dam",
@@ -4485,7 +4785,7 @@
    "e": "Polavaram Dam is built on the Godavari."
   },
   {
-   "id": "geography-00299",
+   "id": "geography-00319",
    "q": "Which of the following passes is located in Himachal Pradesh?",
    "o": [
     "Shencottah Gap",
@@ -4500,7 +4800,7 @@
    "e": "Baralacha La is a pass in Himachal Pradesh."
   },
   {
-   "id": "geography-00300",
+   "id": "geography-00320",
    "q": "Which Indian state shares the longest border with China?",
    "o": [
     "Kanchenjunga",
@@ -4515,7 +4815,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00301",
+   "id": "geography-00321",
    "q": "Which country is the largest producer of solar energy?",
    "o": [
     "Maharashtra",
@@ -4530,7 +4830,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00302",
+   "id": "geography-00322",
    "q": "What is the hot dry wind of northern India called?",
    "o": [
     "Magma",
@@ -4545,7 +4845,7 @@
    "e": "What is the hot dry wind of northern India called — Loo."
   },
   {
-   "id": "geography-00303",
+   "id": "geography-00323",
    "q": "Which of the following pairs of soil and feature is NOT correctly matched?",
    "o": [
     "Black soil - Also called regur, ideal for cotton",
@@ -4560,7 +4860,7 @@
    "e": "The pair Mountain soil - Formed by leaching in high rainfall areas is not correctly matched."
   },
   {
-   "id": "geography-00304",
+   "id": "geography-00324",
    "q": "Which mineral is found in large quantities in Jharkhand?",
    "o": [
     "Kyanite",
@@ -4575,7 +4875,7 @@
    "e": "Kyanite is found in Jharkhand."
   },
   {
-   "id": "geography-00305",
+   "id": "geography-00325",
    "q": "Shillong is the capital of which Indian state?",
    "o": [
     "Uttar Pradesh",
@@ -4590,7 +4890,7 @@
    "e": "Shillong is the capital of Meghalaya."
   },
   {
-   "id": "geography-00306",
+   "id": "geography-00326",
    "q": "Multai is the origin of which river?",
    "o": [
     "Gomti",
@@ -4605,7 +4905,7 @@
    "e": "Multai is the origin of the river Tapti."
   },
   {
-   "id": "geography-00307",
+   "id": "geography-00327",
    "q": "Which of the following dams is built on the river Kaveri?",
    "o": [
     "Omkareshwar Dam",
@@ -4620,7 +4920,7 @@
    "e": "Mettur Dam is built on the Kaveri."
   },
   {
-   "id": "geography-00308",
+   "id": "geography-00328",
    "q": "Which of the following passes is located in Arunachal Pradesh?",
    "o": [
     "Chang La",
@@ -4635,7 +4935,7 @@
    "e": "Se La Pass is a pass in Arunachal Pradesh."
   },
   {
-   "id": "geography-00309",
+   "id": "geography-00329",
    "q": "Which country shares the longest border with India?",
    "o": [
     "Bangladesh",
@@ -4650,7 +4950,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00310",
+   "id": "geography-00330",
    "q": "Which is the deepest lake in the world?",
    "o": [
     "Lake Baikal",
@@ -4665,7 +4965,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00311",
+   "id": "geography-00331",
    "q": "What is the instrument used to measure earthquake intensity?",
    "o": [
     "Sedimentary rock",
@@ -4680,7 +4980,7 @@
    "e": "What is the instrument used to measure earthquake intensity — Seismograph."
   },
   {
-   "id": "geography-00312",
+   "id": "geography-00332",
    "q": "Which of the following pairs of soil and feature is NOT correctly matched?",
    "o": [
     "Desert soil - Most fertile soil, found in the northern plains",
@@ -4695,7 +4995,7 @@
    "e": "The pair Desert soil - Most fertile soil, found in the northern plains is not correctly matched."
   },
   {
-   "id": "geography-00313",
+   "id": "geography-00333",
    "q": "Which mineral is found in large quantities in Karnataka?",
    "o": [
     "Rock phosphate",
@@ -4710,7 +5010,7 @@
    "e": "Gold is found in Karnataka."
   },
   {
-   "id": "geography-00314",
+   "id": "geography-00334",
    "q": "Chennai is the capital of which Indian state?",
    "o": [
     "Bihar",
@@ -4725,7 +5025,7 @@
    "e": "Chennai is the capital of Tamil Nadu."
   },
   {
-   "id": "geography-00315",
+   "id": "geography-00335",
    "q": "Nepal Himalayas is the origin of which river?",
    "o": [
     "Beas",
@@ -4740,7 +5040,7 @@
    "e": "Nepal Himalayas is the origin of the river Kosi."
   },
   {
-   "id": "geography-00316",
+   "id": "geography-00336",
    "q": "Which of the following dams is built on the river Damodar?",
    "o": [
     "Panchet Dam",
@@ -4755,7 +5055,7 @@
    "e": "Panchet Dam is built on the Damodar."
   },
   {
-   "id": "geography-00317",
+   "id": "geography-00337",
    "q": "Which of the following passes is located in Arunachal Pradesh?",
    "o": [
     "Diphu Pass",
@@ -4770,7 +5070,7 @@
    "e": "Diphu Pass is a pass in Arunachal Pradesh."
   },
   {
-   "id": "geography-00318",
+   "id": "geography-00338",
    "q": "Which city is known as the Forbidden City?",
    "o": [
     "Lucknow",
@@ -4785,7 +5085,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00319",
+   "id": "geography-00339",
    "q": "Which Indian city is called the Electronic City?",
    "o": [
     "Bengaluru",
@@ -4800,7 +5100,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00320",
+   "id": "geography-00340",
    "q": "How many planets are there in the Solar System?",
    "o": [
     "Igneous rock",
@@ -4815,7 +5115,7 @@
    "e": "How many planets are there in the Solar System — Eight."
   },
   {
-   "id": "geography-00321",
+   "id": "geography-00341",
    "q": "Which of the following pairs of soil and feature is NOT correctly matched?",
    "o": [
     "Laterite soil - Formed by leaching in high rainfall areas",
@@ -4830,7 +5130,7 @@
    "e": "The pair Black soil - Formed in waterlogged areas with organic matter is not correctly matched."
   },
   {
-   "id": "geography-00322",
+   "id": "geography-00342",
    "q": "Which mineral is found in large quantities in Maharashtra?",
    "o": [
     "Natural gas",
@@ -4845,7 +5145,7 @@
    "e": "Natural gas is found in Maharashtra."
   },
   {
-   "id": "geography-00323",
+   "id": "geography-00343",
    "q": "Jaipur is the capital of which Indian state?",
    "o": [
     "Rajasthan",
@@ -4860,7 +5160,7 @@
    "e": "Jaipur is the capital of Rajasthan."
   },
   {
-   "id": "geography-00324",
+   "id": "geography-00344",
    "q": "Varusanadu Hills is the origin of which river?",
    "o": [
     "Vaigai",
@@ -4875,7 +5175,7 @@
    "e": "Varusanadu Hills is the origin of the river Vaigai."
   },
   {
-   "id": "geography-00325",
+   "id": "geography-00345",
    "q": "Which of the following dams is built on the river Periyar?",
    "o": [
     "Bhakra Nangal Dam",
@@ -4890,7 +5190,7 @@
    "e": "Idukki Dam is built on the Periyar."
   },
   {
-   "id": "geography-00326",
+   "id": "geography-00346",
    "q": "Which of the following passes is located in Ladakh?",
    "o": [
     "Thal Ghat",
@@ -4905,7 +5205,7 @@
    "e": "Zoji La is a pass in Ladakh."
   },
   {
-   "id": "geography-00327",
+   "id": "geography-00347",
    "q": "Which is the busiest ocean strait in the world?",
    "o": [
     "Strait of Malacca",
@@ -4920,7 +5220,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00328",
+   "id": "geography-00348",
    "q": "Which is the largest bay in the world?",
    "o": [
     "Sahara Desert",
@@ -4935,7 +5235,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00329",
+   "id": "geography-00349",
    "q": "What is the scale used to measure earthquake magnitude?",
    "o": [
     "Richter scale",
@@ -4950,7 +5250,7 @@
    "e": "What is the scale used to measure earthquake magnitude — Richter scale."
   },
   {
-   "id": "geography-00330",
+   "id": "geography-00350",
    "q": "Which of the following pairs of soil and feature is NOT correctly matched?",
    "o": [
     "Peaty soil - Formed in waterlogged areas with organic matter",
@@ -4965,7 +5265,7 @@
    "e": "The pair Saline soil - Formed in waterlogged areas with organic matter is not correctly matched."
   },
   {
-   "id": "geography-00331",
+   "id": "geography-00351",
    "q": "Which mineral is found in large quantities in Odisha?",
    "o": [
     "Coal",
@@ -4980,7 +5280,7 @@
    "e": "Chromite is found in Odisha."
   },
   {
-   "id": "geography-00332",
+   "id": "geography-00352",
    "q": "Amaravati is the capital of which Indian state?",
    "o": [
     "Telangana",
@@ -4995,7 +5295,7 @@
    "e": "Amaravati is the capital of Andhra Pradesh."
   },
   {
-   "id": "geography-00333",
+   "id": "geography-00353",
    "q": "Vindhya Range is the origin of which river?",
    "o": [
     "Damodar",
@@ -5010,7 +5310,7 @@
    "e": "Vindhya Range is the origin of the river Betwa."
   },
   {
-   "id": "geography-00334",
+   "id": "geography-00354",
    "q": "Which of the following dams is built on the river Narmada?",
    "o": [
     "Indira Sagar Dam",
@@ -5025,7 +5325,7 @@
    "e": "Indira Sagar Dam is built on the Narmada."
   },
   {
-   "id": "geography-00335",
+   "id": "geography-00355",
    "q": "Which of the following passes is located in Sikkim?",
    "o": [
     "Thal Ghat",
@@ -5040,7 +5340,7 @@
    "e": "Jelep La is a pass in Sikkim."
   },
   {
-   "id": "geography-00336",
+   "id": "geography-00356",
    "q": "Which is the largest island in the world?",
    "o": [
     "Greenland",
@@ -5055,7 +5355,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00337",
+   "id": "geography-00357",
    "q": "Which state of India touches the Bay of Bengal and the Arabian Sea?",
    "o": [
     "Tamil Nadu",
@@ -5070,7 +5370,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00338",
+   "id": "geography-00358",
    "q": "What is the local storm of West Bengal in summer called?",
    "o": [
     "Norwester (Kal Baisakhi)",
@@ -5085,7 +5385,7 @@
    "e": "What is the local storm of West Bengal in summer called — Norwester (Kal Baisakhi)."
   },
   {
-   "id": "geography-00339",
+   "id": "geography-00359",
    "q": "Which of the following pairs of soil and feature is NOT correctly matched?",
    "o": [
     "Alluvial soil - Found in hilly and forest regions",
@@ -5100,7 +5400,7 @@
    "e": "The pair Alluvial soil - Found in hilly and forest regions is not correctly matched."
   },
   {
-   "id": "geography-00340",
+   "id": "geography-00360",
    "q": "Which mineral is found in large quantities in Rajasthan?",
    "o": [
     "Lead and zinc",
@@ -5115,7 +5415,7 @@
    "e": "Lead and zinc is found in Rajasthan."
   },
   {
-   "id": "geography-00341",
+   "id": "geography-00361",
    "q": "Kohima is the capital of which Indian state?",
    "o": [
     "Nagaland",
@@ -5130,7 +5430,7 @@
    "e": "Kohima is the capital of Nagaland."
   },
   {
-   "id": "geography-00342",
+   "id": "geography-00362",
    "q": "Talakaveri is the origin of which river?",
    "o": [
     "Kaveri",
@@ -5145,7 +5445,7 @@
    "e": "Talakaveri is the origin of the river Kaveri."
   },
   {
-   "id": "geography-00343",
+   "id": "geography-00363",
    "q": "Which of the following dams is built on the river Ganga?",
    "o": [
     "Sardar Sarovar Dam",
@@ -5160,7 +5460,7 @@
    "e": "Farakka Barrage is built on the Ganga."
   },
   {
-   "id": "geography-00344",
+   "id": "geography-00364",
    "q": "Which of the following passes is located in Arunachal Pradesh?",
    "o": [
     "Mana Pass",
@@ -5175,7 +5475,7 @@
    "e": "Pangsau Pass is a pass in Arunachal Pradesh."
   },
   {
-   "id": "geography-00345",
+   "id": "geography-00365",
    "q": "Which is the largest desert in the world?",
    "o": [
     "Antarctic Desert",
@@ -5190,7 +5490,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00346",
+   "id": "geography-00366",
    "q": "Which Indian state is called the Spice Garden of India?",
    "o": [
     "Kerala",
@@ -5205,7 +5505,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00347",
+   "id": "geography-00367",
    "q": "Which layer of the atmosphere contains the ozone layer?",
    "o": [
     "Stratosphere",
@@ -5220,7 +5520,7 @@
    "e": "Which layer of the atmosphere contains the ozone layer — Stratosphere."
   },
   {
-   "id": "geography-00348",
+   "id": "geography-00368",
    "q": "Which of the following pairs of soil and feature is NOT correctly matched?",
    "o": [
     "Peaty soil - Formed in waterlogged areas with organic matter",
@@ -5235,7 +5535,7 @@
    "e": "The pair Laterite soil - Formed from crystalline rocks, rich in iron is not correctly matched."
   },
   {
-   "id": "geography-00349",
+   "id": "geography-00369",
    "q": "Which mineral is found in large quantities in Madhya Pradesh?",
    "o": [
     "Manganese",
@@ -5250,7 +5550,7 @@
    "e": "Diamond is found in Madhya Pradesh."
   },
   {
-   "id": "geography-00350",
+   "id": "geography-00370",
    "q": "Dehradun is the capital of which Indian state?",
    "o": [
     "Jharkhand",
@@ -5265,7 +5565,7 @@
    "e": "Dehradun is the capital of Uttarakhand."
   },
   {
-   "id": "geography-00351",
+   "id": "geography-00371",
    "q": "Pilibhit is the origin of which river?",
    "o": [
     "Tapti",
@@ -5280,7 +5580,7 @@
    "e": "Pilibhit is the origin of the river Gomti."
   },
   {
-   "id": "geography-00352",
+   "id": "geography-00372",
    "q": "Which of the following dams is built on the river Krishna?",
    "o": [
     "Bhavani Sagar Dam",
@@ -5295,7 +5595,7 @@
    "e": "Nagarjuna Sagar Dam is built on the Krishna."
   },
   {
-   "id": "geography-00353",
+   "id": "geography-00373",
    "q": "Which of the following passes is located in Jammu and Kashmir?",
    "o": [
     "Bomdila Pass",
@@ -5310,7 +5610,7 @@
    "e": "Pir Panjal Pass is a pass in Jammu and Kashmir."
   },
   {
-   "id": "geography-00354",
+   "id": "geography-00374",
    "q": "Which is the largest river island in the world?",
    "o": [
     "Nathu La",
@@ -5325,7 +5625,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00355",
+   "id": "geography-00375",
    "q": "Which country is known as the Land of Maple Trees?",
    "o": [
     "Maharashtra",
@@ -5340,7 +5640,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00356",
+   "id": "geography-00376",
    "q": "Which gas is most abundant in the Earth's atmosphere?",
    "o": [
     "Nitrogen",
@@ -5355,7 +5655,7 @@
    "e": "Which gas is most abundant in the Earth's atmosphere — Nitrogen."
   },
   {
-   "id": "geography-00357",
+   "id": "geography-00377",
    "q": "Which of the following pairs of soil and feature is NOT correctly matched?",
    "o": [
     "Black soil - Also called regur, ideal for cotton",
@@ -5370,7 +5670,7 @@
    "e": "The pair Red soil - Also called regur, ideal for cotton is not correctly matched."
   },
   {
-   "id": "geography-00358",
+   "id": "geography-00378",
    "q": "Which mineral is found in large quantities in Odisha?",
    "o": [
     "Uranium",
@@ -5385,7 +5685,7 @@
    "e": "Bauxite is found in Odisha."
   },
   {
-   "id": "geography-00359",
+   "id": "geography-00379",
    "q": "Aizawl is the capital of which Indian state?",
    "o": [
     "Mizoram",
@@ -5400,7 +5700,7 @@
    "e": "Aizawl is the capital of Mizoram."
   },
   {
-   "id": "geography-00360",
+   "id": "geography-00380",
    "q": "Baralacha La is the origin of which river?",
    "o": [
     "Sutlej",
@@ -5415,7 +5715,7 @@
    "e": "Baralacha La is the origin of the river Chenab."
   },
   {
-   "id": "geography-00361",
+   "id": "geography-00381",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Sardar Sarovar Dam - Bhagirathi",
@@ -5430,7 +5730,7 @@
    "e": "Only Sardar Sarovar Dam - Narmada is correctly matched."
   },
   {
-   "id": "geography-00362",
+   "id": "geography-00382",
    "q": "Which Indian city is called the Gateway of India?",
    "o": [
     "Mumbai",
@@ -5445,7 +5745,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00363",
+   "id": "geography-00383",
    "q": "Which is the largest continent by area?",
    "o": [
     "Ganga",
@@ -5460,7 +5760,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00364",
+   "id": "geography-00384",
    "q": "What is the dust storm of Rajasthan called?",
    "o": [
     "Stratosphere",
@@ -5475,7 +5775,7 @@
    "e": "What is the dust storm of Rajasthan called — Andhi."
   },
   {
-   "id": "geography-00365",
+   "id": "geography-00385",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Manganese - Jharkhand",
@@ -5490,7 +5790,7 @@
    "e": "Only Manganese - Odisha is correctly matched."
   },
   {
-   "id": "geography-00366",
+   "id": "geography-00386",
    "q": "Chandigarh is the capital of which Indian state?",
    "o": [
     "Himachal Pradesh",
@@ -5505,7 +5805,7 @@
    "e": "Chandigarh is the capital of Haryana."
   },
   {
-   "id": "geography-00367",
+   "id": "geography-00387",
    "q": "Nandi Hills is the origin of which river?",
    "o": [
     "Penna",
@@ -5520,7 +5820,7 @@
    "e": "Nandi Hills is the origin of the river Penna."
   },
   {
-   "id": "geography-00368",
+   "id": "geography-00388",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Sardar Sarovar Dam - Narmada",
@@ -5535,7 +5835,7 @@
    "e": "Only Sardar Sarovar Dam - Narmada is correctly matched."
   },
   {
-   "id": "geography-00369",
+   "id": "geography-00389",
    "q": "Which of the following passes is located in Andhra Pradesh?",
    "o": [
     "Pir Panjal Pass",
@@ -5550,7 +5850,7 @@
    "e": "Araku Valley Pass is a pass in Andhra Pradesh."
   },
   {
-   "id": "geography-00370",
+   "id": "geography-00390",
    "q": "Which is the largest sea in the world?",
    "o": [
     "Nile",
@@ -5565,7 +5865,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00371",
+   "id": "geography-00391",
    "q": "Which lake in India is famous for its floating islands?",
    "o": [
     "Loktak Lake",
@@ -5580,7 +5880,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00372",
+   "id": "geography-00392",
    "q": "Which is the softest mineral?",
    "o": [
     "Norwester (Kal Baisakhi)",
@@ -5595,7 +5895,7 @@
    "e": "Which is the softest mineral — Talc."
   },
   {
-   "id": "geography-00373",
+   "id": "geography-00393",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Manganese - Madhya Pradesh",
@@ -5610,7 +5910,7 @@
    "e": "Only Manganese - Odisha is correctly matched."
   },
   {
-   "id": "geography-00374",
+   "id": "geography-00394",
    "q": "Bhopal is the capital of which Indian state?",
    "o": [
     "Arunachal Pradesh",
@@ -5625,7 +5925,7 @@
    "e": "Bhopal is the capital of Madhya Pradesh."
   },
   {
-   "id": "geography-00375",
+   "id": "geography-00395",
    "q": "Gangotri Glacier is the origin of which river?",
    "o": [
     "Ganga",
@@ -5640,7 +5940,7 @@
    "e": "Gangotri Glacier is the origin of the river Ganga."
   },
   {
-   "id": "geography-00376",
+   "id": "geography-00396",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Bhakra Nangal Dam - Chenab",
@@ -5655,7 +5955,7 @@
    "e": "Only Bhakra Nangal Dam - Sutlej is correctly matched."
   },
   {
-   "id": "geography-00377",
+   "id": "geography-00397",
    "q": "Which of the following passes is located in Himachal Pradesh?",
    "o": [
     "Palakkad Gap",
@@ -5670,7 +5970,7 @@
    "e": "Rohtang Pass is a pass in Himachal Pradesh."
   },
   {
-   "id": "geography-00378",
+   "id": "geography-00398",
    "q": "Which is the largest country by area?",
    "o": [
     "Russia",
@@ -5685,7 +5985,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00379",
+   "id": "geography-00399",
    "q": "Which waterfall is on the border of Zambia and Zimbabwe?",
    "o": [
     "Rome",
@@ -5700,7 +6000,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00380",
+   "id": "geography-00400",
    "q": "What is the greenhouse gas most responsible for global warming?",
    "o": [
     "From the land to the sea",
@@ -5715,7 +6015,7 @@
    "e": "What is the greenhouse gas most responsible for global warming — Carbon dioxide."
   },
   {
-   "id": "geography-00381",
+   "id": "geography-00401",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Coal - Madhya Pradesh",
@@ -5730,7 +6030,7 @@
    "e": "Only Coal - Jharkhand is correctly matched."
   },
   {
-   "id": "geography-00382",
+   "id": "geography-00402",
    "q": "Thiruvananthapuram is the capital of which Indian state?",
    "o": [
     "Kerala",
@@ -5745,7 +6045,7 @@
    "e": "Thiruvananthapuram is the capital of Kerala."
   },
   {
-   "id": "geography-00383",
+   "id": "geography-00403",
    "q": "Chota Nagpur Plateau is the origin of which river?",
    "o": [
     "Penna",
@@ -5760,7 +6060,7 @@
    "e": "Chota Nagpur Plateau is the origin of the river Damodar."
   },
   {
-   "id": "geography-00384",
+   "id": "geography-00404",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Bhakra Nangal Dam - Godavari",
@@ -5775,7 +6075,7 @@
    "e": "Only Bhakra Nangal Dam - Sutlej is correctly matched."
   },
   {
-   "id": "geography-00385",
+   "id": "geography-00405",
    "q": "Which of the following passes is located in Uttarakhand?",
    "o": [
     "Niti Pass",
@@ -5790,7 +6090,7 @@
    "e": "Niti Pass is a pass in Uttarakhand."
   },
   {
-   "id": "geography-00386",
+   "id": "geography-00406",
    "q": "Which is the smallest country by area?",
    "o": [
     "Beijing",
@@ -5805,7 +6105,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00387",
+   "id": "geography-00407",
    "q": "What is the angular distance of a place east or west of the Prime Meridian called?",
    "o": [
     "Longitude",
@@ -5820,7 +6120,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00388",
+   "id": "geography-00408",
    "q": "What is the seasonal reversal of winds called?",
    "o": [
     "Mawsynram",
@@ -5835,7 +6135,7 @@
    "e": "What is the seasonal reversal of winds called — Monsoon."
   },
   {
-   "id": "geography-00389",
+   "id": "geography-00409",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Coal - Maharashtra",
@@ -5850,7 +6150,7 @@
    "e": "Only Coal - Jharkhand is correctly matched."
   },
   {
-   "id": "geography-00390",
+   "id": "geography-00410",
    "q": "Mumbai is the capital of which Indian state?",
    "o": [
     "Arunachal Pradesh",
@@ -5865,7 +6165,7 @@
    "e": "Mumbai is the capital of Maharashtra."
   },
   {
-   "id": "geography-00391",
+   "id": "geography-00411",
    "q": "Rakas Lake is the origin of which river?",
    "o": [
     "Sharavati",
@@ -5880,7 +6180,7 @@
    "e": "Rakas Lake is the origin of the river Sutlej."
   },
   {
-   "id": "geography-00392",
+   "id": "geography-00412",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Nagarjuna Sagar Dam - Koyna",
@@ -5895,7 +6195,7 @@
    "e": "Only Nagarjuna Sagar Dam - Krishna is correctly matched."
   },
   {
-   "id": "geography-00393",
+   "id": "geography-00413",
    "q": "Which of the following passes is located in Himachal Pradesh?",
    "o": [
     "Shipki La",
@@ -5910,7 +6210,7 @@
    "e": "Shipki La is a pass in Himachal Pradesh."
   },
   {
-   "id": "geography-00394",
+   "id": "geography-00414",
    "q": "Which Indian city is called the Electronic City of India?",
    "o": [
     "Ethiopia",
@@ -5925,7 +6225,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00395",
+   "id": "geography-00415",
    "q": "Which country is the largest producer of wind energy?",
    "o": [
     "Brahmaputra",
@@ -5940,7 +6240,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00396",
+   "id": "geography-00416",
    "q": "Which layer of the Earth is responsible for its magnetic field?",
    "o": [
     "Lava",
@@ -5955,7 +6255,7 @@
    "e": "Which layer of the Earth is responsible for its magnetic field — Outer core."
   },
   {
-   "id": "geography-00397",
+   "id": "geography-00417",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Bauxite - Odisha",
@@ -5970,7 +6270,7 @@
    "e": "Only Bauxite - Odisha is correctly matched."
   },
   {
-   "id": "geography-00398",
+   "id": "geography-00418",
    "q": "Agartala is the capital of which Indian state?",
    "o": [
     "Mizoram",
@@ -5985,7 +6285,7 @@
    "e": "Agartala is the capital of Tripura."
   },
   {
-   "id": "geography-00399",
+   "id": "geography-00419",
    "q": "Mahabaleshwar is the origin of which river?",
    "o": [
     "Ravi",
@@ -6000,7 +6300,7 @@
    "e": "Mahabaleshwar is the origin of the river Krishna."
   },
   {
-   "id": "geography-00400",
+   "id": "geography-00420",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Nagarjuna Sagar Dam - Chenab",
@@ -6015,7 +6315,7 @@
    "e": "Only Nagarjuna Sagar Dam - Krishna is correctly matched."
   },
   {
-   "id": "geography-00401",
+   "id": "geography-00421",
    "q": "Which of the following passes is located in Ladakh?",
    "o": [
     "Banihal Pass",
@@ -6030,7 +6330,7 @@
    "e": "Khardung La is a pass in Ladakh."
   },
   {
-   "id": "geography-00402",
+   "id": "geography-00422",
    "q": "Which is the largest state of India by population after Uttar Pradesh?",
    "o": [
     "Tibet",
@@ -6045,7 +6345,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00403",
+   "id": "geography-00423",
    "q": "Which Indian city is called the Silicon Valley of India?",
    "o": [
     "Caspian Sea",
@@ -6060,7 +6360,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00404",
+   "id": "geography-00424",
    "q": "Which wind is responsible for rainfall in the Indian summer?",
    "o": [
     "South-west monsoon",
@@ -6075,7 +6375,7 @@
    "e": "Which wind is responsible for rainfall in the Indian summer — South-west monsoon."
   },
   {
-   "id": "geography-00405",
+   "id": "geography-00425",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Bauxite - Odisha",
@@ -6090,7 +6390,7 @@
    "e": "Only Bauxite - Odisha is correctly matched."
   },
   {
-   "id": "geography-00406",
+   "id": "geography-00426",
    "q": "Kolkata is the capital of which Indian state?",
    "o": [
     "West Bengal",
@@ -6105,7 +6405,7 @@
    "e": "Kolkata is the capital of West Bengal."
   },
   {
-   "id": "geography-00407",
+   "id": "geography-00427",
    "q": "Satopanth Glacier is the origin of which river?",
    "o": [
     "Periyar",
@@ -6120,7 +6420,7 @@
    "e": "Satopanth Glacier is the origin of the river Alaknanda."
   },
   {
-   "id": "geography-00408",
+   "id": "geography-00428",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Dul Hasti Dam - Chenab",
@@ -6135,7 +6435,7 @@
    "e": "Only Dul Hasti Dam - Chenab is correctly matched."
   },
   {
-   "id": "geography-00409",
+   "id": "geography-00429",
    "q": "Which of the following passes is located in Arunachal Pradesh?",
    "o": [
     "Mana Pass",
@@ -6150,7 +6450,7 @@
    "e": "Bomdila Pass is a pass in Arunachal Pradesh."
   },
   {
-   "id": "geography-00410",
+   "id": "geography-00430",
    "q": "Which Indian city is called the Diamond City?",
    "o": [
     "Andes",
@@ -6165,7 +6465,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00411",
+   "id": "geography-00431",
    "q": "Which is the largest saltwater lake in the world?",
    "o": [
     "Venice",
@@ -6180,7 +6480,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00412",
+   "id": "geography-00432",
    "q": "Direction of the north-east monsoon winds?",
    "o": [
     "June to September",
@@ -6195,7 +6495,7 @@
    "e": "Direction of the north-east monsoon winds — From the land to the sea."
   },
   {
-   "id": "geography-00413",
+   "id": "geography-00433",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Gypsum - Odisha",
@@ -6210,7 +6510,7 @@
    "e": "Only Gypsum - Rajasthan is correctly matched."
   },
   {
-   "id": "geography-00414",
+   "id": "geography-00434",
    "q": "Bhubaneswar is the capital of which Indian state?",
    "o": [
     "Tripura",
@@ -6225,7 +6525,7 @@
    "e": "Bhubaneswar is the capital of Odisha."
   },
   {
-   "id": "geography-00415",
+   "id": "geography-00435",
    "q": "Yamunotri Glacier is the origin of which river?",
    "o": [
     "Indus",
@@ -6240,7 +6540,7 @@
    "e": "Yamunotri Glacier is the origin of the river Yamuna."
   },
   {
-   "id": "geography-00416",
+   "id": "geography-00436",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Dul Hasti Dam - Rihand",
@@ -6255,7 +6555,7 @@
    "e": "Only Dul Hasti Dam - Chenab is correctly matched."
   },
   {
-   "id": "geography-00417",
+   "id": "geography-00437",
    "q": "Which of the following passes is located in Jammu and Kashmir?",
    "o": [
     "Banihal Pass",
@@ -6270,7 +6570,7 @@
    "e": "Banihal Pass is a pass in Jammu and Kashmir."
   },
   {
-   "id": "geography-00418",
+   "id": "geography-00438",
    "q": "Which is the largest rainforest in the world?",
    "o": [
     "Rome",
@@ -6285,7 +6585,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00419",
+   "id": "geography-00439",
    "q": "Which city is known as the Big Apple?",
    "o": [
     "Panama",
@@ -6300,7 +6600,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00420",
+   "id": "geography-00440",
    "q": "Which layer of the atmosphere is closest to the Earth?",
    "o": [
     "Troposphere",
@@ -6315,7 +6615,7 @@
    "e": "Which layer of the atmosphere is closest to the Earth — Troposphere."
   },
   {
-   "id": "geography-00421",
+   "id": "geography-00441",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Gypsum - Jharkhand",
@@ -6330,7 +6630,7 @@
    "e": "Only Gypsum - Rajasthan is correctly matched."
   },
   {
-   "id": "geography-00422",
+   "id": "geography-00442",
    "q": "Hyderabad is the capital of which Indian state?",
    "o": [
     "Karnataka",
@@ -6345,7 +6645,7 @@
    "e": "Hyderabad is the capital of Telangana."
   },
   {
-   "id": "geography-00423",
+   "id": "geography-00443",
    "q": "Ambutirtha is the origin of which river?",
    "o": [
     "Brahmaputra",
@@ -6360,7 +6660,7 @@
    "e": "Ambutirtha is the origin of the river Sharavati."
   },
   {
-   "id": "geography-00424",
+   "id": "geography-00444",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Idukki Dam - Barakar",
@@ -6375,7 +6675,7 @@
    "e": "Only Idukki Dam - Periyar is correctly matched."
   },
   {
-   "id": "geography-00425",
+   "id": "geography-00445",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Jelep La - Ladakh",
@@ -6390,7 +6690,7 @@
    "e": "Only Jelep La - Sikkim is correctly matched."
   },
   {
-   "id": "geography-00426",
+   "id": "geography-00446",
    "q": "Which Indian city is called the City of Temples?",
    "o": [
     "Ireland",
@@ -6405,7 +6705,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00427",
+   "id": "geography-00447",
    "q": "Which country shares the longest border with India?",
    "o": [
     "Bangladesh",
@@ -6420,7 +6720,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00428",
+   "id": "geography-00448",
    "q": "What is the calm centre of a cyclone called?",
    "o": [
     "October to November",
@@ -6435,7 +6735,7 @@
    "e": "What is the calm centre of a cyclone called — Eye."
   },
   {
-   "id": "geography-00429",
+   "id": "geography-00449",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Chromite - Rajasthan",
@@ -6450,7 +6750,7 @@
    "e": "Only Chromite - Odisha is correctly matched."
   },
   {
-   "id": "geography-00430",
+   "id": "geography-00450",
    "q": "Chandigarh is the capital of which Indian state?",
    "o": [
     "Punjab",
@@ -6465,7 +6765,7 @@
    "e": "Chandigarh is the capital of Punjab."
   },
   {
-   "id": "geography-00431",
+   "id": "geography-00451",
    "q": "Verinag is the origin of which river?",
    "o": [
     "Jhelum",
@@ -6480,7 +6780,7 @@
    "e": "Verinag is the origin of the river Jhelum."
   },
   {
-   "id": "geography-00432",
+   "id": "geography-00452",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Idukki Dam - Ganga",
@@ -6495,7 +6795,7 @@
    "e": "Only Idukki Dam - Periyar is correctly matched."
   },
   {
-   "id": "geography-00433",
+   "id": "geography-00453",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Jelep La - Ladakh",
@@ -6510,7 +6810,7 @@
    "e": "Only Jelep La - Sikkim is correctly matched."
   },
   {
-   "id": "geography-00434",
+   "id": "geography-00454",
    "q": "Which pass connects India with Tibet near Sikkim?",
    "o": [
     "Nathu La",
@@ -6525,7 +6825,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00435",
+   "id": "geography-00455",
    "q": "Which desert covers much of northern Africa?",
    "o": [
     "Japan",
@@ -6540,7 +6840,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00436",
+   "id": "geography-00456",
    "q": "What is molten rock below the Earth's surface called?",
    "o": [
     "South-west monsoon",
@@ -6555,7 +6855,7 @@
    "e": "What is molten rock below the Earth's surface called — Magma."
   },
   {
-   "id": "geography-00437",
+   "id": "geography-00457",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Chromite - Jharkhand",
@@ -6570,7 +6870,7 @@
    "e": "Only Chromite - Odisha is correctly matched."
   },
   {
-   "id": "geography-00438",
+   "id": "geography-00458",
    "q": "Gandhinagar is the capital of which Indian state?",
    "o": [
     "Jharkhand",
@@ -6585,7 +6885,7 @@
    "e": "Gandhinagar is the capital of Gujarat."
   },
   {
-   "id": "geography-00439",
+   "id": "geography-00459",
    "q": "Sihawa is the origin of which river?",
    "o": [
     "Gomti",
@@ -6600,7 +6900,7 @@
    "e": "Sihawa is the origin of the river Mahanadi."
   },
   {
-   "id": "geography-00440",
+   "id": "geography-00460",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Farakka Barrage - Ganga",
@@ -6615,7 +6915,7 @@
    "e": "Only Farakka Barrage - Ganga is correctly matched."
   },
   {
-   "id": "geography-00441",
+   "id": "geography-00461",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Shencottah Gap - Jammu and Kashmir",
@@ -6630,7 +6930,7 @@
    "e": "Only Shencottah Gap - Tamil Nadu is correctly matched."
   },
   {
-   "id": "geography-00442",
+   "id": "geography-00462",
    "q": "Which country is called the Land of Thousand Lakes?",
    "o": [
     "Rajasthan",
@@ -6645,7 +6945,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00443",
+   "id": "geography-00463",
    "q": "Which is the largest country in the world by area?",
    "o": [
     "Gobi Desert",
@@ -6660,7 +6960,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00444",
+   "id": "geography-00464",
    "q": "Which planet has the longest day?",
    "o": [
     "Venus",
@@ -6675,7 +6975,7 @@
    "e": "Which planet has the longest day — Venus."
   },
   {
-   "id": "geography-00445",
+   "id": "geography-00465",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Diamond - Jharkhand",
@@ -6690,7 +6990,7 @@
    "e": "Only Diamond - Madhya Pradesh is correctly matched."
   },
   {
-   "id": "geography-00446",
+   "id": "geography-00466",
    "q": "Itanagar is the capital of which Indian state?",
    "o": [
     "Odisha",
@@ -6705,7 +7005,7 @@
    "e": "Itanagar is the capital of Arunachal Pradesh."
   },
   {
-   "id": "geography-00447",
+   "id": "geography-00467",
    "q": "Amarkantak is the origin of which river?",
    "o": [
     "Brahmaputra",
@@ -6720,7 +7020,7 @@
    "e": "Amarkantak is the origin of the river Narmada."
   },
   {
-   "id": "geography-00448",
+   "id": "geography-00468",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Farakka Barrage - Ganga",
@@ -6735,7 +7035,7 @@
    "e": "Only Farakka Barrage - Ganga is correctly matched."
   },
   {
-   "id": "geography-00449",
+   "id": "geography-00469",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Shencottah Gap - Andhra Pradesh",
@@ -6750,7 +7050,7 @@
    "e": "Only Shencottah Gap - Tamil Nadu is correctly matched."
   },
   {
-   "id": "geography-00450",
+   "id": "geography-00470",
    "q": "Which is the smallest continent by area?",
    "o": [
     "Rajasthan",
@@ -6765,7 +7065,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00451",
+   "id": "geography-00471",
    "q": "What is the standard meridian of India?",
    "o": [
     "Tamil Nadu",
@@ -6780,7 +7080,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00452",
+   "id": "geography-00472",
    "q": "Which layer of the atmosphere reflects radio waves?",
    "o": [
     "Saturn",
@@ -6795,7 +7095,7 @@
    "e": "Which layer of the atmosphere reflects radio waves — Ionosphere."
   },
   {
-   "id": "geography-00453",
+   "id": "geography-00473",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Diamond - Odisha",
@@ -6810,7 +7110,7 @@
    "e": "Only Diamond - Madhya Pradesh is correctly matched."
   },
   {
-   "id": "geography-00454",
+   "id": "geography-00474",
    "q": "Raipur is the capital of which Indian state?",
    "o": [
     "Jharkhand",
@@ -6825,7 +7125,7 @@
    "e": "Raipur is the capital of Chhattisgarh."
   },
   {
-   "id": "geography-00455",
+   "id": "geography-00475",
    "q": "Janapav Hill is the origin of which river?",
    "o": [
     "Damodar",
@@ -6840,7 +7140,7 @@
    "e": "Janapav Hill is the origin of the river Chambal."
   },
   {
-   "id": "geography-00456",
+   "id": "geography-00476",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Bhavani Sagar Dam - Damodar",
@@ -6855,7 +7155,7 @@
    "e": "Only Bhavani Sagar Dam - Bhavani is correctly matched."
   },
   {
-   "id": "geography-00457",
+   "id": "geography-00477",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Banihal Pass - Jammu and Kashmir",
@@ -6870,7 +7170,7 @@
    "e": "Only Banihal Pass - Jammu and Kashmir is correctly matched."
   },
   {
-   "id": "geography-00458",
+   "id": "geography-00478",
    "q": "Which is the highest mountain peak in Africa?",
    "o": [
     "Mount Kilimanjaro",
@@ -6885,7 +7185,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00459",
+   "id": "geography-00479",
    "q": "Which city is known as the Forbidden City?",
    "o": [
     "Beijing",
@@ -6900,7 +7200,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00460",
+   "id": "geography-00480",
    "q": "Which is the thinnest layer of the Earth?",
    "o": [
     "Focus",
@@ -6915,7 +7215,7 @@
    "e": "Which is the thinnest layer of the Earth — Crust."
   },
   {
-   "id": "geography-00461",
+   "id": "geography-00481",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Uranium - Rajasthan",
@@ -6930,7 +7230,7 @@
    "e": "Only Uranium - Jharkhand is correctly matched."
   },
   {
-   "id": "geography-00462",
+   "id": "geography-00482",
    "q": "Lucknow is the capital of which Indian state?",
    "o": [
     "Bihar",
@@ -6945,7 +7245,7 @@
    "e": "Lucknow is the capital of Uttar Pradesh."
   },
   {
-   "id": "geography-00463",
+   "id": "geography-00483",
    "q": "Amarkantak is the origin of which river?",
    "o": [
     "Alaknanda",
@@ -6960,7 +7260,7 @@
    "e": "Amarkantak is the origin of the river Son."
   },
   {
-   "id": "geography-00464",
+   "id": "geography-00484",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Bhavani Sagar Dam - Bhavani",
@@ -6975,7 +7275,7 @@
    "e": "Only Bhavani Sagar Dam - Bhavani is correctly matched."
   },
   {
-   "id": "geography-00465",
+   "id": "geography-00485",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Banihal Pass - Uttarakhand",
@@ -6990,7 +7290,7 @@
    "e": "Only Banihal Pass - Jammu and Kashmir is correctly matched."
   },
   {
-   "id": "geography-00466",
+   "id": "geography-00486",
    "q": "Which Indian city is called the Orange City?",
    "o": [
     "Canada",
@@ -7005,7 +7305,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00467",
+   "id": "geography-00487",
    "q": "Which lake is the largest saltwater lake in India?",
    "o": [
     "Seven",
@@ -7020,7 +7320,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00468",
+   "id": "geography-00488",
    "q": "Which planet has rings around it?",
    "o": [
     "Jupiter",
@@ -7035,7 +7335,7 @@
    "e": "Which planet has rings around it — Saturn."
   },
   {
-   "id": "geography-00469",
+   "id": "geography-00489",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Uranium - Karnataka",
@@ -7050,7 +7350,7 @@
    "e": "Only Uranium - Jharkhand is correctly matched."
   },
   {
-   "id": "geography-00470",
+   "id": "geography-00490",
    "q": "Panaji is the capital of which Indian state?",
    "o": [
     "Rajasthan",
@@ -7065,7 +7365,7 @@
    "e": "Panaji is the capital of Goa."
   },
   {
-   "id": "geography-00471",
+   "id": "geography-00491",
    "q": "Sivagiri Hills is the origin of which river?",
    "o": [
     "Periyar",
@@ -7080,7 +7380,7 @@
    "e": "Sivagiri Hills is the origin of the river Periyar."
   },
   {
-   "id": "geography-00472",
+   "id": "geography-00492",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Hirakud Dam - Mahanadi",
@@ -7095,7 +7395,7 @@
    "e": "Only Hirakud Dam - Mahanadi is correctly matched."
   },
   {
-   "id": "geography-00473",
+   "id": "geography-00493",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Rohtang Pass - Sikkim",
@@ -7110,7 +7410,7 @@
    "e": "Only Rohtang Pass - Himachal Pradesh is correctly matched."
   },
   {
-   "id": "geography-00474",
+   "id": "geography-00494",
    "q": "Which is the largest saltwater lake in India?",
    "o": [
     "Majuli",
@@ -7125,7 +7425,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00475",
+   "id": "geography-00495",
    "q": "Which strait connects the Persian Gulf with the Gulf of Oman?",
    "o": [
     "Strait of Hormuz",
@@ -7140,7 +7440,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00476",
+   "id": "geography-00496",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Season of the south-west monsoon in India - Outer core",
@@ -7155,7 +7455,7 @@
    "e": "Only Season of the south-west monsoon in India - June to September is correctly matched."
   },
   {
-   "id": "geography-00477",
+   "id": "geography-00497",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Iron ore - Rajasthan",
@@ -7170,7 +7470,7 @@
    "e": "Only Iron ore - Odisha is correctly matched."
   },
   {
-   "id": "geography-00478",
+   "id": "geography-00498",
    "q": "Ranchi is the capital of which Indian state?",
    "o": [
     "Madhya Pradesh",
@@ -7185,7 +7485,7 @@
    "e": "Ranchi is the capital of Jharkhand."
   },
   {
-   "id": "geography-00479",
+   "id": "geography-00499",
    "q": "Bokhar Chu is the origin of which river?",
    "o": [
     "Ghaghara",
@@ -7200,7 +7500,7 @@
    "e": "Bokhar Chu is the origin of the river Indus."
   },
   {
-   "id": "geography-00480",
+   "id": "geography-00500",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Hirakud Dam - Ganga",
@@ -7215,7 +7515,7 @@
    "e": "Only Hirakud Dam - Mahanadi is correctly matched."
   },
   {
-   "id": "geography-00481",
+   "id": "geography-00501",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Rohtang Pass - Uttarakhand",
@@ -7230,7 +7530,7 @@
    "e": "Only Rohtang Pass - Himachal Pradesh is correctly matched."
   },
   {
-   "id": "geography-00482",
+   "id": "geography-00502",
    "q": "Which is the highest peak in the Eastern Ghats?",
    "o": [
     "Palk Strait",
@@ -7245,7 +7545,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00483",
+   "id": "geography-00503",
    "q": "Which Indian city is called the Manchester of India?",
    "o": [
     "Caspian Sea",
@@ -7260,7 +7560,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00484",
+   "id": "geography-00504",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Season of the south-west monsoon in India - Venus",
@@ -7275,7 +7575,7 @@
    "e": "Only Season of the south-west monsoon in India - June to September is correctly matched."
   },
   {
-   "id": "geography-00485",
+   "id": "geography-00505",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Iron ore - Rajasthan",
@@ -7290,7 +7590,7 @@
    "e": "Only Iron ore - Odisha is correctly matched."
   },
   {
-   "id": "geography-00486",
+   "id": "geography-00506",
    "q": "In which region of India is Punjab located?",
    "o": [
     "North",
@@ -7305,7 +7605,7 @@
    "e": "Punjab lies in the North region."
   },
   {
-   "id": "geography-00487",
+   "id": "geography-00507",
    "q": "Trimbakeshwar is the origin of which river?",
    "o": [
     "Tungabhadra",
@@ -7320,7 +7620,7 @@
    "e": "Trimbakeshwar is the origin of the river Godavari."
   },
   {
-   "id": "geography-00488",
+   "id": "geography-00508",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Baglihar Dam - Periyar",
@@ -7335,7 +7635,7 @@
    "e": "Only Baglihar Dam - Chenab is correctly matched."
   },
   {
-   "id": "geography-00489",
+   "id": "geography-00509",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Pir Panjal Pass - Maharashtra",
@@ -7350,7 +7650,7 @@
    "e": "Only Pir Panjal Pass - Jammu and Kashmir is correctly matched."
   },
   {
-   "id": "geography-00490",
+   "id": "geography-00510",
    "q": "Which country is called the Land of the Midnight Sun?",
    "o": [
     "West Bengal",
@@ -7365,7 +7665,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00491",
+   "id": "geography-00511",
    "q": "Which Indian city is called the City of Pearls?",
    "o": [
     "Strait of Malacca",
@@ -7380,7 +7680,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00492",
+   "id": "geography-00512",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which layer of the atmosphere is closest to the Earth - Nitrogen",
@@ -7395,7 +7695,7 @@
    "e": "Only Which layer of the atmosphere is closest to the Earth - Troposphere is correctly matched."
   },
   {
-   "id": "geography-00493",
+   "id": "geography-00513",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Graphite - Jharkhand",
@@ -7410,7 +7710,7 @@
    "e": "Only Graphite - Odisha is correctly matched."
   },
   {
-   "id": "geography-00494",
+   "id": "geography-00514",
    "q": "In which region of India is West Bengal located?",
    "o": [
     "South",
@@ -7425,7 +7725,7 @@
    "e": "West Bengal lies in the East region."
   },
   {
-   "id": "geography-00495",
+   "id": "geography-00515",
    "q": "Mapchachungo is the origin of which river?",
    "o": [
     "Krishna",
@@ -7440,7 +7740,7 @@
    "e": "Mapchachungo is the origin of the river Ghaghara."
   },
   {
-   "id": "geography-00496",
+   "id": "geography-00516",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Baglihar Dam - Ganga",
@@ -7455,7 +7755,7 @@
    "e": "Only Baglihar Dam - Chenab is correctly matched."
   },
   {
-   "id": "geography-00497",
+   "id": "geography-00517",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Pir Panjal Pass - Andhra Pradesh",
@@ -7470,7 +7770,7 @@
    "e": "Only Pir Panjal Pass - Jammu and Kashmir is correctly matched."
   },
   {
-   "id": "geography-00498",
+   "id": "geography-00518",
    "q": "Which is the largest river by volume of water?",
    "o": [
     "Arunachal Pradesh",
@@ -7485,7 +7785,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00499",
+   "id": "geography-00519",
    "q": "Which river flows through the city of Kanpur?",
    "o": [
     "Mumbai",
@@ -7500,7 +7800,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00500",
+   "id": "geography-00520",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which layer of the atmosphere is closest to the Earth - Geology",
@@ -7515,7 +7815,7 @@
    "e": "Only Which layer of the atmosphere is closest to the Earth - Troposphere is correctly matched."
   },
   {
-   "id": "geography-00501",
+   "id": "geography-00521",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Graphite - Maharashtra",
@@ -7530,7 +7830,7 @@
    "e": "Only Graphite - Odisha is correctly matched."
   },
   {
-   "id": "geography-00502",
+   "id": "geography-00522",
    "q": "In which region of India is Karnataka located?",
    "o": [
     "West",
@@ -7545,7 +7845,7 @@
    "e": "Karnataka lies in the South region."
   },
   {
-   "id": "geography-00503",
+   "id": "geography-00523",
    "q": "Chamba is the origin of which river?",
    "o": [
     "Kosi",
@@ -7560,7 +7860,7 @@
    "e": "Chamba is the origin of the river Ravi."
   },
   {
-   "id": "geography-00504",
+   "id": "geography-00524",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Omkareshwar Dam - Chenab",
@@ -7575,7 +7875,7 @@
    "e": "Only Omkareshwar Dam - Narmada is correctly matched."
   },
   {
-   "id": "geography-00505",
+   "id": "geography-00525",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Palakkad Gap - Himachal Pradesh",
@@ -7590,7 +7890,7 @@
    "e": "Only Palakkad Gap - Kerala is correctly matched."
   },
   {
-   "id": "geography-00506",
+   "id": "geography-00526",
    "q": "Which is the deepest lake in the world?",
    "o": [
     "Lake Baikal",
@@ -7605,7 +7905,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00507",
+   "id": "geography-00527",
    "q": "Which river flows through the city of Srinagar?",
    "o": [
     "Yangtze",
@@ -7620,7 +7920,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00508",
+   "id": "geography-00528",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which layer of the Earth is responsible for its magnetic field - Mawsynram",
@@ -7635,7 +7935,7 @@
    "e": "Only Which layer of the Earth is responsible for its magnetic field - Outer core is correctly matched."
   },
   {
-   "id": "geography-00509",
+   "id": "geography-00529",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Rock phosphate - Jharkhand",
@@ -7650,7 +7950,7 @@
    "e": "Only Rock phosphate - Rajasthan is correctly matched."
   },
   {
-   "id": "geography-00510",
+   "id": "geography-00530",
    "q": "In which region of India is Mizoram located?",
    "o": [
     "North-East",
@@ -7665,7 +7965,7 @@
    "e": "Mizoram lies in the North-East region."
   },
   {
-   "id": "geography-00511",
+   "id": "geography-00531",
    "q": "Bhimashankar is the origin of which river?",
    "o": [
     "Bhima",
@@ -7680,7 +7980,7 @@
    "e": "Bhimashankar is the origin of the river Bhima."
   },
   {
-   "id": "geography-00512",
+   "id": "geography-00532",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Omkareshwar Dam - Damodar",
@@ -7695,7 +7995,7 @@
    "e": "Only Omkareshwar Dam - Narmada is correctly matched."
   },
   {
-   "id": "geography-00513",
+   "id": "geography-00533",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Palakkad Gap - Arunachal Pradesh",
@@ -7710,7 +8010,7 @@
    "e": "Only Palakkad Gap - Kerala is correctly matched."
   },
   {
-   "id": "geography-00514",
+   "id": "geography-00534",
    "q": "Which is the largest lake in the world?",
    "o": [
     "Caspian Sea",
@@ -7725,7 +8025,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00515",
+   "id": "geography-00535",
    "q": "Where is the Red Fort located?",
    "o": [
     "Canada",
@@ -7740,7 +8040,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00516",
+   "id": "geography-00536",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which layer of the Earth is responsible for its magnetic field - From the land to the sea",
@@ -7755,7 +8055,7 @@
    "e": "Only Which layer of the Earth is responsible for its magnetic field - Outer core is correctly matched."
   },
   {
-   "id": "geography-00517",
+   "id": "geography-00537",
    "q": "In which region of India is Maharashtra located?",
    "o": [
     "West",
@@ -7770,7 +8070,7 @@
    "e": "Maharashtra lies in the West region."
   },
   {
-   "id": "geography-00518",
+   "id": "geography-00538",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Sutlej - Rakas Lake",
@@ -7785,7 +8085,7 @@
    "e": "Only Sutlej - Rakas Lake is correctly matched."
   },
   {
-   "id": "geography-00519",
+   "id": "geography-00539",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Panchet Dam - Bhavani",
@@ -7800,7 +8100,7 @@
    "e": "Only Panchet Dam - Damodar is correctly matched."
   },
   {
-   "id": "geography-00520",
+   "id": "geography-00540",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Thal Ghat - Uttarakhand",
@@ -7815,7 +8115,7 @@
    "e": "Only Thal Ghat - Maharashtra is correctly matched."
   },
   {
-   "id": "geography-00521",
+   "id": "geography-00541",
    "q": "Which country is called the Cockpit of Europe?",
    "o": [
     "Nile",
@@ -7830,7 +8130,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00522",
+   "id": "geography-00542",
    "q": "Which is the largest delta in the world?",
    "o": [
     "United States of America",
@@ -7845,7 +8145,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00523",
+   "id": "geography-00543",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which place receives the highest rainfall in the world - October to December",
@@ -7860,7 +8160,7 @@
    "e": "Only Which place receives the highest rainfall in the world - Mawsynram is correctly matched."
   },
   {
-   "id": "geography-00524",
+   "id": "geography-00544",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Natural gas - Madhya Pradesh",
@@ -7875,7 +8175,7 @@
    "e": "Only Natural gas - Maharashtra is correctly matched."
   },
   {
-   "id": "geography-00525",
+   "id": "geography-00545",
    "q": "In which region of India is Telangana located?",
    "o": [
     "North",
@@ -7890,7 +8190,7 @@
    "e": "Telangana lies in the South region."
   },
   {
-   "id": "geography-00526",
+   "id": "geography-00546",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Sutlej - Rakas Lake",
@@ -7905,7 +8205,7 @@
    "e": "Only Sutlej - Rakas Lake is correctly matched."
   },
   {
-   "id": "geography-00527",
+   "id": "geography-00547",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Panchet Dam - Sutlej",
@@ -7920,7 +8220,7 @@
    "e": "Only Panchet Dam - Damodar is correctly matched."
   },
   {
-   "id": "geography-00528",
+   "id": "geography-00548",
    "q": "Which strait separates Africa from Europe?",
    "o": [
     "Mariana Trench",
@@ -7935,7 +8235,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00529",
+   "id": "geography-00549",
    "q": "Which Indian port is a natural harbour on the west coast?",
    "o": [
     "Brahmaputra",
@@ -7950,7 +8250,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00530",
+   "id": "geography-00550",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which place receives the highest rainfall in the world - Mawsynram",
@@ -7965,7 +8265,7 @@
    "e": "Only Which place receives the highest rainfall in the world - Mawsynram is correctly matched."
   },
   {
-   "id": "geography-00531",
+   "id": "geography-00551",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Natural gas - Odisha",
@@ -7980,7 +8280,7 @@
    "e": "Only Natural gas - Maharashtra is correctly matched."
   },
   {
-   "id": "geography-00532",
+   "id": "geography-00552",
    "q": "In which region of India is Tripura located?",
    "o": [
     "East",
@@ -7995,7 +8295,7 @@
    "e": "Tripura lies in the North-East region."
   },
   {
-   "id": "geography-00533",
+   "id": "geography-00553",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Kosi - Kudali",
@@ -8010,7 +8310,7 @@
    "e": "Only Kosi - Nepal Himalayas is correctly matched."
   },
   {
-   "id": "geography-00534",
+   "id": "geography-00554",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Tehri Dam - Ganga",
@@ -8025,7 +8325,7 @@
    "e": "Only Tehri Dam - Bhagirathi is correctly matched."
   },
   {
-   "id": "geography-00535",
+   "id": "geography-00555",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Haldighati Pass - Rajasthan",
@@ -8040,7 +8340,7 @@
    "e": "Only Haldighati Pass - Rajasthan is correctly matched."
   },
   {
-   "id": "geography-00536",
+   "id": "geography-00556",
    "q": "Which is the highest mountain peak in the world?",
    "o": [
     "Venice",
@@ -8055,7 +8355,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00537",
+   "id": "geography-00557",
    "q": "Which Indian city is called the Orange City?",
    "o": [
     "Nagpur",
@@ -8070,7 +8370,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00538",
+   "id": "geography-00558",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which type of rock is formed by heat and pressure - Metamorphic rock",
@@ -8085,7 +8385,7 @@
    "e": "Only Which type of rock is formed by heat and pressure - Metamorphic rock is correctly matched."
   },
   {
-   "id": "geography-00539",
+   "id": "geography-00559",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Copper - Odisha",
@@ -8100,7 +8400,7 @@
    "e": "Only Copper - Rajasthan is correctly matched."
   },
   {
-   "id": "geography-00540",
+   "id": "geography-00560",
    "q": "In which region of India is Madhya Pradesh located?",
    "o": [
     "Central",
@@ -8115,7 +8415,7 @@
    "e": "Madhya Pradesh lies in the Central region."
   },
   {
-   "id": "geography-00541",
+   "id": "geography-00561",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Kosi - Gangotri Glacier",
@@ -8130,7 +8430,7 @@
    "e": "Only Kosi - Nepal Himalayas is correctly matched."
   },
   {
-   "id": "geography-00542",
+   "id": "geography-00562",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Tehri Dam - Narmada",
@@ -8145,7 +8445,7 @@
    "e": "Only Tehri Dam - Bhagirathi is correctly matched."
   },
   {
-   "id": "geography-00543",
+   "id": "geography-00563",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Haldighati Pass - Ladakh",
@@ -8160,7 +8460,7 @@
    "e": "Only Haldighati Pass - Rajasthan is correctly matched."
   },
   {
-   "id": "geography-00544",
+   "id": "geography-00564",
    "q": "Which is the largest continent by area?",
    "o": [
     "Switzerland",
@@ -8175,7 +8475,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00545",
+   "id": "geography-00565",
    "q": "Which river is called the Dakshin Ganga?",
    "o": [
     "Russia",
@@ -8190,7 +8490,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00546",
+   "id": "geography-00566",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which type of rock is formed by heat and pressure - Ionosphere",
@@ -8205,7 +8505,7 @@
    "e": "Only Which type of rock is formed by heat and pressure - Metamorphic rock is correctly matched."
   },
   {
-   "id": "geography-00547",
+   "id": "geography-00567",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Copper - Jharkhand",
@@ -8220,7 +8520,7 @@
    "e": "Only Copper - Rajasthan is correctly matched."
   },
   {
-   "id": "geography-00548",
+   "id": "geography-00568",
    "q": "In which region of India is Tamil Nadu located?",
    "o": [
     "South",
@@ -8235,7 +8535,7 @@
    "e": "Tamil Nadu lies in the South region."
   },
   {
-   "id": "geography-00549",
+   "id": "geography-00569",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Yamuna - Yamunotri Glacier",
@@ -8250,7 +8550,7 @@
    "e": "Only Yamuna - Yamunotri Glacier is correctly matched."
   },
   {
-   "id": "geography-00550",
+   "id": "geography-00570",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Polavaram Dam - Krishna",
@@ -8265,7 +8565,7 @@
    "e": "Only Polavaram Dam - Godavari is correctly matched."
   },
   {
-   "id": "geography-00551",
+   "id": "geography-00571",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Khardung La - Rajasthan",
@@ -8280,7 +8580,7 @@
    "e": "Only Khardung La - Ladakh is correctly matched."
   },
   {
-   "id": "geography-00552",
+   "id": "geography-00572",
    "q": "Which is the most populous country in the world?",
    "o": [
     "India",
@@ -8295,7 +8595,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00553",
+   "id": "geography-00573",
    "q": "Which is the smallest country in the world?",
    "o": [
     "Sahara Desert",
@@ -8310,7 +8610,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00554",
+   "id": "geography-00574",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "What percentage of the atmosphere is oxygen - About 21 per cent",
@@ -8325,7 +8625,7 @@
    "e": "Only What percentage of the atmosphere is oxygen - About 21 per cent is correctly matched."
   },
   {
-   "id": "geography-00555",
+   "id": "geography-00575",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Kyanite - Rajasthan",
@@ -8340,7 +8640,7 @@
    "e": "Only Kyanite - Jharkhand is correctly matched."
   },
   {
-   "id": "geography-00556",
+   "id": "geography-00576",
    "q": "In which region of India is Haryana located?",
    "o": [
     "North",
@@ -8355,7 +8655,7 @@
    "e": "Haryana lies in the North region."
   },
   {
-   "id": "geography-00557",
+   "id": "geography-00577",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Yamuna - Yamunotri Glacier",
@@ -8370,7 +8670,7 @@
    "e": "Only Yamuna - Yamunotri Glacier is correctly matched."
   },
   {
-   "id": "geography-00558",
+   "id": "geography-00578",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Polavaram Dam - Mahanadi",
@@ -8385,7 +8685,7 @@
    "e": "Only Polavaram Dam - Godavari is correctly matched."
   },
   {
-   "id": "geography-00559",
+   "id": "geography-00579",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Khardung La - Himachal Pradesh",
@@ -8400,7 +8700,7 @@
    "e": "Only Khardung La - Ladakh is correctly matched."
   },
   {
-   "id": "geography-00560",
+   "id": "geography-00580",
    "q": "Which Indian state has the longest coastline?",
    "o": [
     "Arunachal Pradesh",
@@ -8415,7 +8715,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00561",
+   "id": "geography-00581",
    "q": "Which Indian state is called the Rice Bowl of India?",
    "o": [
     "Andhra Pradesh",
@@ -8430,7 +8730,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00562",
+   "id": "geography-00582",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "What percentage of the atmosphere is oxygen - Magma",
@@ -8445,7 +8745,7 @@
    "e": "Only What percentage of the atmosphere is oxygen - About 21 per cent is correctly matched."
   },
   {
-   "id": "geography-00563",
+   "id": "geography-00583",
    "q": "In which region of India is Himachal Pradesh located?",
    "o": [
     "Central",
@@ -8460,7 +8760,7 @@
    "e": "Himachal Pradesh lies in the North region."
   },
   {
-   "id": "geography-00564",
+   "id": "geography-00584",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Gomti - Janapav Hill",
@@ -8475,7 +8775,7 @@
    "e": "Only Gomti - Pilibhit is correctly matched."
   },
   {
-   "id": "geography-00565",
+   "id": "geography-00585",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Mettur Dam - Chenab",
@@ -8490,7 +8790,7 @@
    "e": "Only Mettur Dam - Kaveri is correctly matched."
   },
   {
-   "id": "geography-00566",
+   "id": "geography-00586",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Niti Pass - Arunachal Pradesh",
@@ -8505,7 +8805,7 @@
    "e": "Only Niti Pass - Uttarakhand is correctly matched."
   },
   {
-   "id": "geography-00567",
+   "id": "geography-00587",
    "q": "Which city is known as the Big Apple?",
    "o": [
     "Mumbai",
@@ -8520,7 +8820,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00568",
+   "id": "geography-00588",
    "q": "Which Indian city is called the Leather City?",
    "o": [
     "Bihar",
@@ -8535,7 +8835,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00569",
+   "id": "geography-00589",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which layer of the atmosphere reflects radio waves - Hygrometer",
@@ -8550,7 +8850,7 @@
    "e": "Only Which layer of the atmosphere reflects radio waves - Ionosphere is correctly matched."
   },
   {
-   "id": "geography-00570",
+   "id": "geography-00590",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Gold - Madhya Pradesh",
@@ -8565,7 +8865,7 @@
    "e": "Only Gold - Karnataka is correctly matched."
   },
   {
-   "id": "geography-00571",
+   "id": "geography-00591",
    "q": "In which region of India is Rajasthan located?",
    "o": [
     "Central",
@@ -8580,7 +8880,7 @@
    "e": "Rajasthan lies in the North region."
   },
   {
-   "id": "geography-00572",
+   "id": "geography-00592",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Gomti - Janapav Hill",
@@ -8595,7 +8895,7 @@
    "e": "Only Gomti - Pilibhit is correctly matched."
   },
   {
-   "id": "geography-00573",
+   "id": "geography-00593",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Mettur Dam - Kaveri",
@@ -8610,7 +8910,7 @@
    "e": "Only Mettur Dam - Kaveri is correctly matched."
   },
   {
-   "id": "geography-00574",
+   "id": "geography-00594",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Niti Pass - Uttarakhand",
@@ -8625,7 +8925,7 @@
    "e": "Only Niti Pass - Uttarakhand is correctly matched."
   },
   {
-   "id": "geography-00575",
+   "id": "geography-00595",
    "q": "How many countries share a land border with India?",
    "o": [
     "West Bengal",
@@ -8640,7 +8940,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00576",
+   "id": "geography-00596",
    "q": "Which river flows through the city of Varanasi?",
    "o": [
     "Bhopal",
@@ -8655,7 +8955,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00577",
+   "id": "geography-00597",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which layer of the atmosphere reflects radio waves - Ionosphere",
@@ -8670,7 +8970,7 @@
    "e": "Only Which layer of the atmosphere reflects radio waves - Ionosphere is correctly matched."
   },
   {
-   "id": "geography-00578",
+   "id": "geography-00598",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Gold - Andhra Pradesh",
@@ -8685,7 +8985,7 @@
    "e": "Only Gold - Karnataka is correctly matched."
   },
   {
-   "id": "geography-00579",
+   "id": "geography-00599",
    "q": "In which region of India is Uttar Pradesh located?",
    "o": [
     "West",
@@ -8700,7 +9000,7 @@
    "e": "Uttar Pradesh lies in the North region."
   },
   {
-   "id": "geography-00580",
+   "id": "geography-00600",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Ghaghara - Beas Kund",
@@ -8715,7 +9015,7 @@
    "e": "Only Ghaghara - Mapchachungo is correctly matched."
   },
   {
-   "id": "geography-00581",
+   "id": "geography-00601",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Srisailam Dam - Narmada",
@@ -8730,7 +9030,7 @@
    "e": "Only Srisailam Dam - Krishna is correctly matched."
   },
   {
-   "id": "geography-00582",
+   "id": "geography-00602",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Baralacha La - Ladakh",
@@ -8745,7 +9045,7 @@
    "e": "Only Baralacha La - Himachal Pradesh is correctly matched."
   },
   {
-   "id": "geography-00583",
+   "id": "geography-00603",
    "q": "Which Indian city is called the Garden City?",
    "o": [
     "Arabian Peninsula",
@@ -8760,7 +9060,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00584",
+   "id": "geography-00604",
    "q": "Where is the Great Wall of China located?",
    "o": [
     "Volga",
@@ -8775,7 +9075,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00585",
+   "id": "geography-00605",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which planet has rings around it - Mawsynram",
@@ -8790,7 +9090,7 @@
    "e": "Only Which planet has rings around it - Saturn is correctly matched."
   },
   {
-   "id": "geography-00586",
+   "id": "geography-00606",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Sillimanite - Andhra Pradesh",
@@ -8805,7 +9105,7 @@
    "e": "Only Sillimanite - Maharashtra is correctly matched."
   },
   {
-   "id": "geography-00587",
+   "id": "geography-00607",
    "q": "In which region of India is Manipur located?",
    "o": [
     "South",
@@ -8820,7 +9120,7 @@
    "e": "Manipur lies in the North-East region."
   },
   {
-   "id": "geography-00588",
+   "id": "geography-00608",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Ghaghara - Mapchachungo",
@@ -8835,7 +9135,7 @@
    "e": "Only Ghaghara - Mapchachungo is correctly matched."
   },
   {
-   "id": "geography-00589",
+   "id": "geography-00609",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Srisailam Dam - Barakar",
@@ -8850,7 +9150,7 @@
    "e": "Only Srisailam Dam - Krishna is correctly matched."
   },
   {
-   "id": "geography-00590",
+   "id": "geography-00610",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Baralacha La - Arunachal Pradesh",
@@ -8865,7 +9165,7 @@
    "e": "Only Baralacha La - Himachal Pradesh is correctly matched."
   },
   {
-   "id": "geography-00591",
+   "id": "geography-00611",
    "q": "Which country is known as the Land of Thunder Dragon?",
    "o": [
     "Bhutan",
@@ -8880,7 +9180,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00592",
+   "id": "geography-00612",
    "q": "Which river forms the Sundarbans delta with the Brahmaputra?",
    "o": [
     "Pune",
@@ -8895,7 +9195,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00593",
+   "id": "geography-00613",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which planet has rings around it - Wind vane",
@@ -8910,7 +9210,7 @@
    "e": "Only Which planet has rings around it - Saturn is correctly matched."
   },
   {
-   "id": "geography-00594",
+   "id": "geography-00614",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Sillimanite - Odisha",
@@ -8925,7 +9225,7 @@
    "e": "Only Sillimanite - Maharashtra is correctly matched."
   },
   {
-   "id": "geography-00595",
+   "id": "geography-00615",
    "q": "In which region of India is Gujarat located?",
    "o": [
     "North-East",
@@ -8940,7 +9240,7 @@
    "e": "Gujarat lies in the West region."
   },
   {
-   "id": "geography-00596",
+   "id": "geography-00616",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Jhelum - Verinag",
@@ -8955,7 +9255,7 @@
    "e": "Only Jhelum - Verinag is correctly matched."
   },
   {
-   "id": "geography-00597",
+   "id": "geography-00617",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Koyna Dam - Periyar",
@@ -8970,7 +9270,7 @@
    "e": "Only Koyna Dam - Koyna is correctly matched."
   },
   {
-   "id": "geography-00598",
+   "id": "geography-00618",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Pangsau Pass - Arunachal Pradesh",
@@ -8985,7 +9285,7 @@
    "e": "Only Pangsau Pass - Arunachal Pradesh is correctly matched."
   },
   {
-   "id": "geography-00599",
+   "id": "geography-00619",
    "q": "Which country has the longest coastline?",
    "o": [
     "Uttar Pradesh",
@@ -9000,7 +9300,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00600",
+   "id": "geography-00620",
    "q": "Which is the most populous country in the world?",
    "o": [
     "Thailand",
@@ -9015,7 +9315,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00601",
+   "id": "geography-00621",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "What is molten rock that reaches the surface called - Sedimentary rock",
@@ -9030,7 +9330,7 @@
    "e": "Only What is molten rock that reaches the surface called - Lava is correctly matched."
   },
   {
-   "id": "geography-00602",
+   "id": "geography-00622",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Limestone - Odisha",
@@ -9045,7 +9345,7 @@
    "e": "Only Limestone - Madhya Pradesh is correctly matched."
   },
   {
-   "id": "geography-00603",
+   "id": "geography-00623",
    "q": "In which region of India is Bihar located?",
    "o": [
     "North",
@@ -9060,7 +9360,7 @@
    "e": "Bihar lies in the East region."
   },
   {
-   "id": "geography-00604",
+   "id": "geography-00624",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Jhelum - Rakas Lake",
@@ -9075,7 +9375,7 @@
    "e": "Only Jhelum - Verinag is correctly matched."
   },
   {
-   "id": "geography-00605",
+   "id": "geography-00625",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Koyna Dam - Kaveri",
@@ -9090,7 +9390,7 @@
    "e": "Only Koyna Dam - Koyna is correctly matched."
   },
   {
-   "id": "geography-00606",
+   "id": "geography-00626",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Pangsau Pass - Tamil Nadu",
@@ -9105,7 +9405,7 @@
    "e": "Only Pangsau Pass - Arunachal Pradesh is correctly matched."
   },
   {
-   "id": "geography-00607",
+   "id": "geography-00627",
    "q": "Which is the smallest state of India by area?",
    "o": [
     "Netherlands",
@@ -9120,7 +9420,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00608",
+   "id": "geography-00628",
    "q": "Which is the longest river in North America?",
    "o": [
     "Yangtze",
@@ -9135,7 +9435,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00609",
+   "id": "geography-00629",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "What is molten rock that reaches the surface called - Stratosphere",
@@ -9150,7 +9450,7 @@
    "e": "Only What is molten rock that reaches the surface called - Lava is correctly matched."
   },
   {
-   "id": "geography-00610",
+   "id": "geography-00630",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Limestone - Andhra Pradesh",
@@ -9165,7 +9465,7 @@
    "e": "Only Limestone - Madhya Pradesh is correctly matched."
   },
   {
-   "id": "geography-00611",
+   "id": "geography-00631",
    "q": "In which region of India is Goa located?",
    "o": [
     "West",
@@ -9180,7 +9480,7 @@
    "e": "Goa lies in the West region."
   },
   {
-   "id": "geography-00612",
+   "id": "geography-00632",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Brahmaputra - Janapav Hill",
@@ -9195,7 +9495,7 @@
    "e": "Only Brahmaputra - Angsi Glacier is correctly matched."
   },
   {
-   "id": "geography-00613",
+   "id": "geography-00633",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Maithon Dam - Barakar",
@@ -9210,7 +9510,7 @@
    "e": "Only Maithon Dam - Barakar is correctly matched."
   },
   {
-   "id": "geography-00614",
+   "id": "geography-00634",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Mana Pass - Sikkim",
@@ -9225,7 +9525,7 @@
    "e": "Only Mana Pass - Uttarakhand is correctly matched."
   },
   {
-   "id": "geography-00615",
+   "id": "geography-00635",
    "q": "Which strait separates Asia from North America?",
    "o": [
     "Bering Strait",
@@ -9240,7 +9540,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00616",
+   "id": "geography-00636",
    "q": "Which country has the most neighbours?",
    "o": [
     "China",
@@ -9255,7 +9555,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00617",
+   "id": "geography-00637",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "What is the point of origin of an earthquake called - Ionosphere",
@@ -9270,7 +9570,7 @@
    "e": "Only What is the point of origin of an earthquake called - Focus is correctly matched."
   },
   {
-   "id": "geography-00618",
+   "id": "geography-00638",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Petroleum - Andhra Pradesh",
@@ -9285,7 +9585,7 @@
    "e": "Only Petroleum - Assam is correctly matched."
   },
   {
-   "id": "geography-00619",
+   "id": "geography-00639",
    "q": "In which region of India is Arunachal Pradesh located?",
    "o": [
     "North",
@@ -9300,7 +9600,7 @@
    "e": "Arunachal Pradesh lies in the North-East region."
   },
   {
-   "id": "geography-00620",
+   "id": "geography-00640",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Brahmaputra - Nandi Hills",
@@ -9315,7 +9615,7 @@
    "e": "Only Brahmaputra - Angsi Glacier is correctly matched."
   },
   {
-   "id": "geography-00621",
+   "id": "geography-00641",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Maithon Dam - Damodar",
@@ -9330,7 +9630,7 @@
    "e": "Only Maithon Dam - Barakar is correctly matched."
   },
   {
-   "id": "geography-00622",
+   "id": "geography-00642",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Mana Pass - Uttarakhand",
@@ -9345,7 +9645,7 @@
    "e": "Only Mana Pass - Uttarakhand is correctly matched."
   },
   {
-   "id": "geography-00623",
+   "id": "geography-00643",
    "q": "Which is the largest volcano in the world?",
    "o": [
     "Kolkata",
@@ -9360,7 +9660,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00624",
+   "id": "geography-00644",
    "q": "Which Indian city is called the City of Lakes?",
    "o": [
     "Hyderabad",
@@ -9375,7 +9675,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00625",
+   "id": "geography-00645",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "What is the point of origin of an earthquake called - Saturn",
@@ -9390,7 +9690,7 @@
    "e": "Only What is the point of origin of an earthquake called - Focus is correctly matched."
   },
   {
-   "id": "geography-00626",
+   "id": "geography-00646",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Petroleum - Assam",
@@ -9405,7 +9705,7 @@
    "e": "Only Petroleum - Assam is correctly matched."
   },
   {
-   "id": "geography-00627",
+   "id": "geography-00647",
    "q": "In which region of India is Jharkhand located?",
    "o": [
     "West",
@@ -9420,7 +9720,7 @@
    "e": "Jharkhand lies in the East region."
   },
   {
-   "id": "geography-00628",
+   "id": "geography-00648",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Tungabhadra - Chamba",
@@ -9435,7 +9735,7 @@
    "e": "Only Tungabhadra - Kudali is correctly matched."
   },
   {
-   "id": "geography-00629",
+   "id": "geography-00649",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Salal Dam - Chenab",
@@ -9450,7 +9750,7 @@
    "e": "Only Salal Dam - Chenab is correctly matched."
   },
   {
-   "id": "geography-00630",
+   "id": "geography-00650",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Bomdila Pass - Arunachal Pradesh",
@@ -9465,7 +9765,7 @@
    "e": "Only Bomdila Pass - Arunachal Pradesh is correctly matched."
   },
   {
-   "id": "geography-00631",
+   "id": "geography-00651",
    "q": "Which is the largest gulf in the world?",
    "o": [
     "Mount Kilimanjaro",
@@ -9480,7 +9780,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00632",
+   "id": "geography-00652",
    "q": "Which country is the largest producer of diamonds?",
    "o": [
     "Russia",
@@ -9495,7 +9795,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00633",
+   "id": "geography-00653",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which is the thinnest layer of the Earth - Cherry blossom showers",
@@ -9510,7 +9810,7 @@
    "e": "Only Which is the thinnest layer of the Earth - Crust is correctly matched."
   },
   {
-   "id": "geography-00634",
+   "id": "geography-00654",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Barytes - Andhra Pradesh",
@@ -9525,7 +9825,7 @@
    "e": "Only Barytes - Andhra Pradesh is correctly matched."
   },
   {
-   "id": "geography-00635",
+   "id": "geography-00655",
    "q": "In which region of India is Sikkim located?",
    "o": [
     "North-East",
@@ -9540,7 +9840,7 @@
    "e": "Sikkim lies in the North-East region."
   },
   {
-   "id": "geography-00636",
+   "id": "geography-00656",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Tungabhadra - Kudali",
@@ -9555,7 +9855,7 @@
    "e": "Only Tungabhadra - Kudali is correctly matched."
   },
   {
-   "id": "geography-00637",
+   "id": "geography-00657",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Salal Dam - Kaveri",
@@ -9570,7 +9870,7 @@
    "e": "Only Salal Dam - Chenab is correctly matched."
   },
   {
-   "id": "geography-00638",
+   "id": "geography-00658",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Bomdila Pass - Himachal Pradesh",
@@ -9585,7 +9885,7 @@
    "e": "Only Bomdila Pass - Arunachal Pradesh is correctly matched."
   },
   {
-   "id": "geography-00639",
+   "id": "geography-00659",
    "q": "Which Indian city is called the Silicon Valley of India?",
    "o": [
     "Jammu and Kashmir",
@@ -9600,7 +9900,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00640",
+   "id": "geography-00660",
    "q": "Which country is known as the Land of a Thousand Lakes?",
    "o": [
     "Punjab",
@@ -9615,7 +9915,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00641",
+   "id": "geography-00661",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which is the thinnest layer of the Earth - Barometer",
@@ -9630,7 +9930,7 @@
    "e": "Only Which is the thinnest layer of the Earth - Crust is correctly matched."
   },
   {
-   "id": "geography-00642",
+   "id": "geography-00662",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Barytes - Andhra Pradesh",
@@ -9645,7 +9945,7 @@
    "e": "Only Barytes - Andhra Pradesh is correctly matched."
   },
   {
-   "id": "geography-00643",
+   "id": "geography-00663",
    "q": "In which region of India is Andhra Pradesh located?",
    "o": [
     "North",
@@ -9660,7 +9960,7 @@
    "e": "Andhra Pradesh lies in the South region."
   },
   {
-   "id": "geography-00644",
+   "id": "geography-00664",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Tapti - Pilibhit",
@@ -9675,7 +9975,7 @@
    "e": "Only Tapti - Multai is correctly matched."
   },
   {
-   "id": "geography-00645",
+   "id": "geography-00665",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Rihand Dam - Rihand",
@@ -9690,7 +9990,7 @@
    "e": "Only Rihand Dam - Rihand is correctly matched."
   },
   {
-   "id": "geography-00646",
+   "id": "geography-00666",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Zoji La - Sikkim",
@@ -9705,7 +10005,7 @@
    "e": "Only Zoji La - Ladakh is correctly matched."
   },
   {
-   "id": "geography-00647",
+   "id": "geography-00667",
    "q": "Which Indian city is called the City of Nawabs?",
    "o": [
     "Paris",
@@ -9720,7 +10020,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00648",
+   "id": "geography-00668",
    "q": "Which country is surrounded by India on three sides?",
    "o": [
     "India",
@@ -9735,7 +10035,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00649",
+   "id": "geography-00669",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which wind is responsible for rainfall in the Indian summer - Crust",
@@ -9750,7 +10050,7 @@
    "e": "Only Which wind is responsible for rainfall in the Indian summer - South-west monsoon is correctly matched."
   },
   {
-   "id": "geography-00650",
+   "id": "geography-00670",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Mica - Odisha",
@@ -9765,7 +10065,7 @@
    "e": "Only Mica - Andhra Pradesh is correctly matched."
   },
   {
-   "id": "geography-00651",
+   "id": "geography-00671",
    "q": "In which region of India is Kerala located?",
    "o": [
     "North",
@@ -9780,7 +10080,7 @@
    "e": "Kerala lies in the South region."
   },
   {
-   "id": "geography-00652",
+   "id": "geography-00672",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Tapti - Bokhar Chu",
@@ -9795,7 +10095,7 @@
    "e": "Only Tapti - Multai is correctly matched."
   },
   {
-   "id": "geography-00653",
+   "id": "geography-00673",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Rihand Dam - Chenab",
@@ -9810,7 +10110,7 @@
    "e": "Only Rihand Dam - Rihand is correctly matched."
   },
   {
-   "id": "geography-00654",
+   "id": "geography-00674",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Zoji La - Ladakh",
@@ -9825,7 +10125,7 @@
    "e": "Only Zoji La - Ladakh is correctly matched."
   },
   {
-   "id": "geography-00655",
+   "id": "geography-00675",
    "q": "Which Indian city is called the Steel City?",
    "o": [
     "Arunachal Pradesh",
@@ -9840,7 +10140,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00656",
+   "id": "geography-00676",
    "q": "Which line divides the Earth into the Eastern and Western Hemispheres?",
    "o": [
     "Mongolia",
@@ -9855,7 +10155,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00657",
+   "id": "geography-00677",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which wind is responsible for rainfall in the Indian summer - About 21 per cent",
@@ -9870,7 +10170,7 @@
    "e": "Only Which wind is responsible for rainfall in the Indian summer - South-west monsoon is correctly matched."
   },
   {
-   "id": "geography-00658",
+   "id": "geography-00678",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Mica - Odisha",
@@ -9885,7 +10185,7 @@
    "e": "Only Mica - Andhra Pradesh is correctly matched."
   },
   {
-   "id": "geography-00659",
+   "id": "geography-00679",
    "q": "In which region of India is Chhattisgarh located?",
    "o": [
     "Central",
@@ -9900,7 +10200,7 @@
    "e": "Chhattisgarh lies in the Central region."
   },
   {
-   "id": "geography-00660",
+   "id": "geography-00680",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Vaigai - Sihawa",
@@ -9915,7 +10215,7 @@
    "e": "Only Vaigai - Varusanadu Hills is correctly matched."
   },
   {
-   "id": "geography-00661",
+   "id": "geography-00681",
    "q": "Which of the following pairs of dam and river is correctly matched?",
    "o": [
     "Indira Sagar Dam - Periyar",
@@ -9930,7 +10230,7 @@
    "e": "Only Indira Sagar Dam - Narmada is correctly matched."
   },
   {
-   "id": "geography-00662",
+   "id": "geography-00682",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Se La Pass - Jammu and Kashmir",
@@ -9945,7 +10245,7 @@
    "e": "Only Se La Pass - Arunachal Pradesh is correctly matched."
   },
   {
-   "id": "geography-00663",
+   "id": "geography-00683",
    "q": "Which is the driest place on Earth?",
    "o": [
     "Pacific Ocean",
@@ -9960,7 +10260,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00664",
+   "id": "geography-00684",
    "q": "Which is the highest peak of the Eastern Ghats?",
    "o": [
     "Arma Konda",
@@ -9975,7 +10275,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00665",
+   "id": "geography-00685",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which planet is known as the Morning Star - Cherry blossom showers",
@@ -9990,7 +10290,7 @@
    "e": "Only Which planet is known as the Morning Star - Venus is correctly matched."
   },
   {
-   "id": "geography-00666",
+   "id": "geography-00686",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Lead and zinc - Odisha",
@@ -10005,7 +10305,7 @@
    "e": "Only Lead and zinc - Rajasthan is correctly matched."
   },
   {
-   "id": "geography-00667",
+   "id": "geography-00687",
    "q": "In which region of India is Odisha located?",
    "o": [
     "East",
@@ -10020,7 +10320,7 @@
    "e": "Odisha lies in the East region."
   },
   {
-   "id": "geography-00668",
+   "id": "geography-00688",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Vaigai - Talakaveri",
@@ -10035,7 +10335,7 @@
    "e": "Only Vaigai - Varusanadu Hills is correctly matched."
   },
   {
-   "id": "geography-00669",
+   "id": "geography-00689",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Se La Pass - Himachal Pradesh",
@@ -10050,7 +10350,7 @@
    "e": "Only Se La Pass - Arunachal Pradesh is correctly matched."
   },
   {
-   "id": "geography-00670",
+   "id": "geography-00690",
    "q": "Which is the highest capital city in the world?",
    "o": [
     "La Paz",
@@ -10065,7 +10365,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00671",
+   "id": "geography-00691",
    "q": "Which Indian city is called the Deccan Queen?",
    "o": [
     "Sikkim",
@@ -10080,7 +10380,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00672",
+   "id": "geography-00692",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which planet is known as the Morning Star - Venus",
@@ -10095,7 +10395,7 @@
    "e": "Only Which planet is known as the Morning Star - Venus is correctly matched."
   },
   {
-   "id": "geography-00673",
+   "id": "geography-00693",
    "q": "Which of the following pairs of mineral and state is correctly matched?",
    "o": [
     "Lead and zinc - Rajasthan",
@@ -10110,7 +10410,7 @@
    "e": "Only Lead and zinc - Rajasthan is correctly matched."
   },
   {
-   "id": "geography-00674",
+   "id": "geography-00694",
    "q": "In which region of India is Uttarakhand located?",
    "o": [
     "West",
@@ -10125,7 +10425,7 @@
    "e": "Uttarakhand lies in the North region."
   },
   {
-   "id": "geography-00675",
+   "id": "geography-00695",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Chambal - Bhimashankar",
@@ -10140,7 +10440,7 @@
    "e": "Only Chambal - Janapav Hill is correctly matched."
   },
   {
-   "id": "geography-00676",
+   "id": "geography-00696",
    "q": "Which of the following pairs of dam and river is NOT correctly matched?",
    "o": [
     "Sardar Sarovar Dam - Narmada",
@@ -10155,7 +10455,7 @@
    "e": "The pair Omkareshwar Dam - Rihand is not correctly matched."
   },
   {
-   "id": "geography-00677",
+   "id": "geography-00697",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Lipulekh Pass - Maharashtra",
@@ -10170,7 +10470,7 @@
    "e": "Only Lipulekh Pass - Uttarakhand is correctly matched."
   },
   {
-   "id": "geography-00678",
+   "id": "geography-00698",
    "q": "Which Indian city is called the Pink City?",
    "o": [
     "Dead Sea",
@@ -10185,7 +10485,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00679",
+   "id": "geography-00699",
    "q": "Which country is known as the Land of Windmills?",
    "o": [
     "Finland",
@@ -10200,7 +10500,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00680",
+   "id": "geography-00700",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Direction of the south-west monsoon winds - Saturn",
@@ -10215,7 +10515,7 @@
    "e": "Only Direction of the south-west monsoon winds - From the sea to the land is correctly matched."
   },
   {
-   "id": "geography-00681",
+   "id": "geography-00701",
    "q": "Which of the following pairs of mineral and state is NOT correctly matched?",
    "o": [
     "Uranium - Jharkhand",
@@ -10230,7 +10530,7 @@
    "e": "The pair Iron ore - Rajasthan is not correctly matched."
   },
   {
-   "id": "geography-00682",
+   "id": "geography-00702",
    "q": "In which region of India is Meghalaya located?",
    "o": [
     "East",
@@ -10245,7 +10545,7 @@
    "e": "Meghalaya lies in the North-East region."
   },
   {
-   "id": "geography-00683",
+   "id": "geography-00703",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Chambal - Nepal Himalayas",
@@ -10260,7 +10560,7 @@
    "e": "Only Chambal - Janapav Hill is correctly matched."
   },
   {
-   "id": "geography-00684",
+   "id": "geography-00704",
    "q": "Which of the following pairs of dam and river is NOT correctly matched?",
    "o": [
     "Tehri Dam - Bhagirathi",
@@ -10275,7 +10575,7 @@
    "e": "The pair Bhakra Nangal Dam - Koyna is not correctly matched."
   },
   {
-   "id": "geography-00685",
+   "id": "geography-00705",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Lipulekh Pass - Jammu and Kashmir",
@@ -10290,7 +10590,7 @@
    "e": "Only Lipulekh Pass - Uttarakhand is correctly matched."
   },
   {
-   "id": "geography-00686",
+   "id": "geography-00706",
    "q": "Which is the lowest point on land?",
    "o": [
     "Dead Sea",
@@ -10305,7 +10605,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00687",
+   "id": "geography-00707",
    "q": "Which is the smallest continent?",
    "o": [
     "Loktak Lake",
@@ -10320,7 +10620,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00688",
+   "id": "geography-00708",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Direction of the south-west monsoon winds - Talc",
@@ -10335,7 +10635,7 @@
    "e": "Only Direction of the south-west monsoon winds - From the sea to the land is correctly matched."
   },
   {
-   "id": "geography-00689",
+   "id": "geography-00709",
    "q": "Which of the following pairs of mineral and state is NOT correctly matched?",
    "o": [
     "Barytes - Andhra Pradesh",
@@ -10350,7 +10650,7 @@
    "e": "The pair Rock phosphate - Jharkhand is not correctly matched."
   },
   {
-   "id": "geography-00690",
+   "id": "geography-00710",
    "q": "In which region of India is Assam located?",
    "o": [
     "South",
@@ -10365,7 +10665,7 @@
    "e": "Assam lies in the North-East region."
   },
   {
-   "id": "geography-00691",
+   "id": "geography-00711",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Periyar - Angsi Glacier",
@@ -10380,7 +10680,7 @@
    "e": "Only Periyar - Sivagiri Hills is correctly matched."
   },
   {
-   "id": "geography-00692",
+   "id": "geography-00712",
    "q": "Which of the following pairs of dam and river is NOT correctly matched?",
    "o": [
     "Baglihar Dam - Chenab",
@@ -10395,7 +10695,7 @@
    "e": "The pair Farakka Barrage - Periyar is not correctly matched."
   },
   {
-   "id": "geography-00693",
+   "id": "geography-00713",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Chang La - Ladakh",
@@ -10410,7 +10710,7 @@
    "e": "Only Chang La - Ladakh is correctly matched."
   },
   {
-   "id": "geography-00694",
+   "id": "geography-00714",
    "q": "Which is the longest river in Africa?",
    "o": [
     "Nile",
@@ -10425,7 +10725,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00695",
+   "id": "geography-00715",
    "q": "Which river originates from Amarkantak?",
    "o": [
     "Andes",
@@ -10440,7 +10740,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00696",
+   "id": "geography-00716",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Season of the retreating monsoon in India - October to November",
@@ -10455,7 +10755,7 @@
    "e": "Only Season of the retreating monsoon in India - October to November is correctly matched."
   },
   {
-   "id": "geography-00697",
+   "id": "geography-00717",
    "q": "Which of the following pairs of mineral and state is NOT correctly matched?",
    "o": [
     "Lead and zinc - Assam",
@@ -10470,7 +10770,7 @@
    "e": "The pair Lead and zinc - Assam is not correctly matched."
   },
   {
-   "id": "geography-00698",
+   "id": "geography-00718",
    "q": "In which region of India is Nagaland located?",
    "o": [
     "North",
@@ -10485,7 +10785,7 @@
    "e": "Nagaland lies in the North-East region."
   },
   {
-   "id": "geography-00699",
+   "id": "geography-00719",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Periyar - Verinag",
@@ -10500,7 +10800,7 @@
    "e": "Only Periyar - Sivagiri Hills is correctly matched."
   },
   {
-   "id": "geography-00700",
+   "id": "geography-00720",
    "q": "Which of the following pairs of dam and river is NOT correctly matched?",
    "o": [
     "Polavaram Dam - Godavari",
@@ -10515,7 +10815,7 @@
    "e": "The pair Mettur Dam - Rihand is not correctly matched."
   },
   {
-   "id": "geography-00701",
+   "id": "geography-00721",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Chang La - Uttarakhand",
@@ -10530,7 +10830,7 @@
    "e": "Only Chang La - Ladakh is correctly matched."
   },
   {
-   "id": "geography-00702",
+   "id": "geography-00722",
    "q": "Which state of India is called the Spice Garden of India?",
    "o": [
     "Bengaluru",
@@ -10545,7 +10845,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00703",
+   "id": "geography-00723",
    "q": "Which is the smallest state of India by area?",
    "o": [
     "Sikkim",
@@ -10560,7 +10860,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00704",
+   "id": "geography-00724",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Season of the retreating monsoon in India - Talc",
@@ -10575,7 +10875,7 @@
    "e": "Only Season of the retreating monsoon in India - October to November is correctly matched."
   },
   {
-   "id": "geography-00705",
+   "id": "geography-00725",
    "q": "Which of the following pairs of mineral and state is NOT correctly matched?",
    "o": [
     "Manganese - Odisha",
@@ -10590,7 +10890,7 @@
    "e": "The pair Diamond - Jharkhand is not correctly matched."
   },
   {
-   "id": "geography-00706",
+   "id": "geography-00726",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Andhra Pradesh - Ranchi",
@@ -10605,7 +10905,7 @@
    "e": "Only Andhra Pradesh - Amaravati is correctly matched."
   },
   {
-   "id": "geography-00707",
+   "id": "geography-00727",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Alaknanda - Angsi Glacier",
@@ -10620,7 +10920,7 @@
    "e": "Only Alaknanda - Satopanth Glacier is correctly matched."
   },
   {
-   "id": "geography-00708",
+   "id": "geography-00728",
    "q": "Which of the following pairs of dam and river is NOT correctly matched?",
    "o": [
     "Salal Dam - Kaveri",
@@ -10635,7 +10935,7 @@
    "e": "The pair Salal Dam - Kaveri is not correctly matched."
   },
   {
-   "id": "geography-00709",
+   "id": "geography-00729",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Diphu Pass - Jammu and Kashmir",
@@ -10650,7 +10950,7 @@
    "e": "Only Diphu Pass - Arunachal Pradesh is correctly matched."
   },
   {
-   "id": "geography-00710",
+   "id": "geography-00730",
    "q": "Which line divides the Earth into Northern and Southern hemispheres?",
    "o": [
     "Equator",
@@ -10665,7 +10965,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00711",
+   "id": "geography-00731",
    "q": "Which is the most populous state of India?",
    "o": [
     "Uttar Pradesh",
@@ -10680,7 +10980,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00712",
+   "id": "geography-00732",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which is the most abundant element in the Earth's crust - Nitrogen",
@@ -10695,7 +10995,7 @@
    "e": "Only Which is the most abundant element in the Earth's crust - Oxygen is correctly matched."
   },
   {
-   "id": "geography-00713",
+   "id": "geography-00733",
    "q": "Which of the following pairs of mineral and state is NOT correctly matched?",
    "o": [
     "Gold - Karnataka",
@@ -10710,7 +11010,7 @@
    "e": "The pair Coal - Odisha is not correctly matched."
   },
   {
-   "id": "geography-00714",
+   "id": "geography-00734",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Andhra Pradesh - Chennai",
@@ -10725,7 +11025,7 @@
    "e": "Only Andhra Pradesh - Amaravati is correctly matched."
   },
   {
-   "id": "geography-00715",
+   "id": "geography-00735",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Alaknanda - Udaipur",
@@ -10740,7 +11040,7 @@
    "e": "Only Alaknanda - Satopanth Glacier is correctly matched."
   },
   {
-   "id": "geography-00716",
+   "id": "geography-00736",
    "q": "Which of the following pairs of dam and river is NOT correctly matched?",
    "o": [
     "Maithon Dam - Chenab",
@@ -10755,7 +11055,7 @@
    "e": "The pair Maithon Dam - Chenab is not correctly matched."
   },
   {
-   "id": "geography-00717",
+   "id": "geography-00737",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Diphu Pass - Maharashtra",
@@ -10770,7 +11070,7 @@
    "e": "Only Diphu Pass - Arunachal Pradesh is correctly matched."
   },
   {
-   "id": "geography-00718",
+   "id": "geography-00738",
    "q": "Which Indian city is called the City of Joy?",
    "o": [
     "Mumbai",
@@ -10785,7 +11085,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00719",
+   "id": "geography-00739",
    "q": "Which gulf lies between India and Sri Lanka?",
    "o": [
     "Netherlands",
@@ -10800,7 +11100,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00720",
+   "id": "geography-00740",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which is the most abundant element in the Earth's crust - Richter scale",
@@ -10815,7 +11115,7 @@
    "e": "Only Which is the most abundant element in the Earth's crust - Oxygen is correctly matched."
   },
   {
-   "id": "geography-00721",
+   "id": "geography-00741",
    "q": "Which of the following pairs of mineral and state is NOT correctly matched?",
    "o": [
     "Iron ore - Odisha",
@@ -10830,7 +11130,7 @@
    "e": "The pair Natural gas - Odisha is not correctly matched."
   },
   {
-   "id": "geography-00722",
+   "id": "geography-00742",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Karnataka - Bengaluru",
@@ -10845,7 +11145,7 @@
    "e": "Only Karnataka - Bengaluru is correctly matched."
   },
   {
-   "id": "geography-00723",
+   "id": "geography-00743",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Krishna - Amarkantak",
@@ -10860,7 +11160,7 @@
    "e": "Only Krishna - Mahabaleshwar is correctly matched."
   },
   {
-   "id": "geography-00724",
+   "id": "geography-00744",
    "q": "Which of the following pairs of dam and river is NOT correctly matched?",
    "o": [
     "Sardar Sarovar Dam - Narmada",
@@ -10875,7 +11175,7 @@
    "e": "The pair Polavaram Dam - Narmada is not correctly matched."
   },
   {
-   "id": "geography-00725",
+   "id": "geography-00745",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Bhor Ghat - Jammu and Kashmir",
@@ -10890,7 +11190,7 @@
    "e": "Only Bhor Ghat - Maharashtra is correctly matched."
   },
   {
-   "id": "geography-00726",
+   "id": "geography-00746",
    "q": "Which line of longitude is at zero degrees?",
    "o": [
     "Maharashtra",
@@ -10905,7 +11205,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00727",
+   "id": "geography-00747",
    "q": "Which continent is called the Dark Continent?",
    "o": [
     "Godavari",
@@ -10920,7 +11220,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00728",
+   "id": "geography-00748",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which layer of the atmosphere contains the ozone layer - Mawsynram",
@@ -10935,7 +11235,7 @@
    "e": "Only Which layer of the atmosphere contains the ozone layer - Stratosphere is correctly matched."
   },
   {
-   "id": "geography-00729",
+   "id": "geography-00749",
    "q": "Which of the following pairs of mineral and state is NOT correctly matched?",
    "o": [
     "Diamond - Madhya Pradesh",
@@ -10950,7 +11250,7 @@
    "e": "The pair Chromite - Rajasthan is not correctly matched."
   },
   {
-   "id": "geography-00730",
+   "id": "geography-00750",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Karnataka - Bengaluru",
@@ -10965,7 +11265,7 @@
    "e": "Only Karnataka - Bengaluru is correctly matched."
   },
   {
-   "id": "geography-00731",
+   "id": "geography-00751",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Krishna - Mahabaleshwar",
@@ -10980,7 +11280,7 @@
    "e": "Only Krishna - Mahabaleshwar is correctly matched."
   },
   {
-   "id": "geography-00732",
+   "id": "geography-00752",
    "q": "Which of the following pairs of dam and river is NOT correctly matched?",
    "o": [
     "Srisailam Dam - Krishna",
@@ -10995,7 +11295,7 @@
    "e": "The pair Rihand Dam - Narmada is not correctly matched."
   },
   {
-   "id": "geography-00733",
+   "id": "geography-00753",
    "q": "Which is the largest peninsula in the world?",
    "o": [
     "Bering Strait",
@@ -11010,7 +11310,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00734",
+   "id": "geography-00754",
    "q": "Which river is called the Ganga of the South?",
    "o": [
     "Chile",
@@ -11025,7 +11325,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00735",
+   "id": "geography-00755",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which layer of the atmosphere contains the ozone layer - Jaisalmer",
@@ -11040,7 +11340,7 @@
    "e": "Only Which layer of the atmosphere contains the ozone layer - Stratosphere is correctly matched."
   },
   {
-   "id": "geography-00736",
+   "id": "geography-00756",
    "q": "Which of the following pairs of mineral and state is NOT correctly matched?",
    "o": [
     "Kyanite - Andhra Pradesh",
@@ -11055,7 +11355,7 @@
    "e": "The pair Kyanite - Andhra Pradesh is not correctly matched."
   },
   {
-   "id": "geography-00737",
+   "id": "geography-00757",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Meghalaya - Aizawl",
@@ -11070,7 +11370,7 @@
    "e": "Only Meghalaya - Shillong is correctly matched."
   },
   {
-   "id": "geography-00738",
+   "id": "geography-00758",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Kaveri - Talakaveri",
@@ -11085,7 +11385,7 @@
    "e": "Only Kaveri - Talakaveri is correctly matched."
   },
   {
-   "id": "geography-00739",
+   "id": "geography-00759",
    "q": "Which of the following pairs of dam and river is NOT correctly matched?",
    "o": [
     "Sardar Sarovar Dam - Narmada",
@@ -11100,7 +11400,7 @@
    "e": "The pair Hirakud Dam - Ganga is not correctly matched."
   },
   {
-   "id": "geography-00740",
+   "id": "geography-00760",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Araku Valley Pass - Ladakh",
@@ -11115,7 +11415,7 @@
    "e": "Only Araku Valley Pass - Andhra Pradesh is correctly matched."
   },
   {
-   "id": "geography-00741",
+   "id": "geography-00761",
    "q": "Which city is called the City of Lights?",
    "o": [
     "Caspian Sea",
@@ -11130,7 +11430,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00742",
+   "id": "geography-00762",
    "q": "Which is the driest desert in the world?",
    "o": [
     "Lake Victoria",
@@ -11145,7 +11445,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00743",
+   "id": "geography-00763",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which cyclone season occurs in the Bay of Bengal - Focus",
@@ -11160,7 +11460,7 @@
    "e": "Only Which cyclone season occurs in the Bay of Bengal - October to December is correctly matched."
   },
   {
-   "id": "geography-00744",
+   "id": "geography-00764",
    "q": "Which of the following pairs of mineral and state is NOT correctly matched?",
    "o": [
     "Sillimanite - Andhra Pradesh",
@@ -11175,7 +11475,7 @@
    "e": "The pair Sillimanite - Andhra Pradesh is not correctly matched."
   },
   {
-   "id": "geography-00745",
+   "id": "geography-00765",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Meghalaya - Gangtok",
@@ -11190,7 +11490,7 @@
    "e": "Only Meghalaya - Shillong is correctly matched."
   },
   {
-   "id": "geography-00746",
+   "id": "geography-00766",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Kaveri - Talakaveri",
@@ -11205,7 +11505,7 @@
    "e": "Only Kaveri - Talakaveri is correctly matched."
   },
   {
-   "id": "geography-00747",
+   "id": "geography-00767",
    "q": "Which of the following pairs of dam and river is NOT correctly matched?",
    "o": [
     "Hirakud Dam - Mahanadi",
@@ -11220,7 +11520,7 @@
    "e": "The pair Koyna Dam - Chenab is not correctly matched."
   },
   {
-   "id": "geography-00748",
+   "id": "geography-00768",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Araku Valley Pass - Andhra Pradesh",
@@ -11235,7 +11535,7 @@
    "e": "Only Araku Valley Pass - Andhra Pradesh is correctly matched."
   },
   {
-   "id": "geography-00749",
+   "id": "geography-00769",
    "q": "Which is the largest mountain range in the world by length?",
    "o": [
     "Chilika Lake",
@@ -11250,7 +11550,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00750",
+   "id": "geography-00770",
    "q": "Where is the Statue of Liberty located?",
    "o": [
     "United States of America",
@@ -11265,7 +11565,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00751",
+   "id": "geography-00771",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which cyclone season occurs in the Bay of Bengal - Loo",
@@ -11280,7 +11580,7 @@
    "e": "Only Which cyclone season occurs in the Bay of Bengal - October to December is correctly matched."
   },
   {
-   "id": "geography-00752",
+   "id": "geography-00772",
    "q": "Which of the following pairs of mineral and state is NOT correctly matched?",
    "o": [
     "Rock phosphate - Rajasthan",
@@ -11295,7 +11595,7 @@
    "e": "The pair Copper - Maharashtra is not correctly matched."
   },
   {
-   "id": "geography-00753",
+   "id": "geography-00773",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Bihar - Agartala",
@@ -11310,7 +11610,7 @@
    "e": "Only Bihar - Patna is correctly matched."
   },
   {
-   "id": "geography-00754",
+   "id": "geography-00774",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Sabarmati - Amarkantak",
@@ -11325,7 +11625,7 @@
    "e": "Only Sabarmati - Udaipur is correctly matched."
   },
   {
-   "id": "geography-00755",
+   "id": "geography-00775",
    "q": "Which of the following pairs of dam and river is NOT correctly matched?",
    "o": [
     "Nagarjuna Sagar Dam - Krishna",
@@ -11340,7 +11640,7 @@
    "e": "The pair Indira Sagar Dam - Godavari is not correctly matched."
   },
   {
-   "id": "geography-00756",
+   "id": "geography-00776",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Fotu La - Ladakh",
@@ -11355,7 +11655,7 @@
    "e": "Only Fotu La - Ladakh is correctly matched."
   },
   {
-   "id": "geography-00757",
+   "id": "geography-00777",
    "q": "Which is the highest waterfall in India?",
    "o": [
     "Kunchikal Falls",
@@ -11370,7 +11670,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00758",
+   "id": "geography-00778",
    "q": "Which country is called the Land of a Thousand Dances?",
    "o": [
     "Philippines",
@@ -11385,7 +11685,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00759",
+   "id": "geography-00779",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "What is molten rock below the Earth's surface called - Magma",
@@ -11400,7 +11700,7 @@
    "e": "Only What is molten rock below the Earth's surface called - Magma is correctly matched."
   },
   {
-   "id": "geography-00760",
+   "id": "geography-00780",
    "q": "Which of the following pairs of mineral and state is NOT correctly matched?",
    "o": [
     "Kyanite - Jharkhand",
@@ -11415,7 +11715,7 @@
    "e": "The pair Uranium - Rajasthan is not correctly matched."
   },
   {
-   "id": "geography-00761",
+   "id": "geography-00781",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Bihar - Gandhinagar",
@@ -11430,7 +11730,7 @@
    "e": "Only Bihar - Patna is correctly matched."
   },
   {
-   "id": "geography-00762",
+   "id": "geography-00782",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Sabarmati - Varusanadu Hills",
@@ -11445,7 +11745,7 @@
    "e": "Only Sabarmati - Udaipur is correctly matched."
   },
   {
-   "id": "geography-00763",
+   "id": "geography-00783",
    "q": "Which of the following pairs of dam and river is NOT correctly matched?",
    "o": [
     "Polavaram Dam - Godavari",
@@ -11460,7 +11760,7 @@
    "e": "The pair Dul Hasti Dam - Periyar is not correctly matched."
   },
   {
-   "id": "geography-00764",
+   "id": "geography-00784",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Fotu La - Uttarakhand",
@@ -11475,7 +11775,7 @@
    "e": "Only Fotu La - Ladakh is correctly matched."
   },
   {
-   "id": "geography-00765",
+   "id": "geography-00785",
    "q": "Which state is called the Land of Five Rivers?",
    "o": [
     "Amazon",
@@ -11490,7 +11790,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00766",
+   "id": "geography-00786",
    "q": "Which Indian city is called the Pink City?",
    "o": [
     "India",
@@ -11505,7 +11805,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00767",
+   "id": "geography-00787",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "What is molten rock below the Earth's surface called - Rain gauge",
@@ -11520,7 +11820,7 @@
    "e": "Only What is molten rock below the Earth's surface called - Magma is correctly matched."
   },
   {
-   "id": "geography-00768",
+   "id": "geography-00788",
    "q": "Which of the following pairs of mineral and state is NOT correctly matched?",
    "o": [
     "Graphite - Odisha",
@@ -11535,7 +11835,7 @@
    "e": "The pair Bauxite - Karnataka is not correctly matched."
   },
   {
-   "id": "geography-00769",
+   "id": "geography-00789",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Mizoram - Bengaluru",
@@ -11550,7 +11850,7 @@
    "e": "Only Mizoram - Aizawl is correctly matched."
   },
   {
-   "id": "geography-00770",
+   "id": "geography-00790",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Godavari - Satopanth Glacier",
@@ -11565,7 +11865,7 @@
    "e": "Only Godavari - Trimbakeshwar is correctly matched."
   },
   {
-   "id": "geography-00771",
+   "id": "geography-00791",
    "q": "Which of the following pairs of dam and river is NOT correctly matched?",
    "o": [
     "Nagarjuna Sagar Dam - Krishna",
@@ -11580,7 +11880,7 @@
    "e": "The pair Baglihar Dam - Bhagirathi is not correctly matched."
   },
   {
-   "id": "geography-00772",
+   "id": "geography-00792",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Nathu La - Tamil Nadu",
@@ -11595,7 +11895,7 @@
    "e": "Only Nathu La - Sikkim is correctly matched."
   },
   {
-   "id": "geography-00773",
+   "id": "geography-00793",
    "q": "Which is the largest delta in the world?",
    "o": [
     "Anamudi",
@@ -11610,7 +11910,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00774",
+   "id": "geography-00794",
    "q": "Which river is known as the Yarlung Tsangpo in China?",
    "o": [
     "Pacific Ocean",
@@ -11625,7 +11925,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00775",
+   "id": "geography-00795",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "What is the study of the structure of the Earth called - Mars",
@@ -11640,7 +11940,7 @@
    "e": "Only What is the study of the structure of the Earth called - Geology is correctly matched."
   },
   {
-   "id": "geography-00776",
+   "id": "geography-00796",
    "q": "Which of the following pairs of mineral and state is NOT correctly matched?",
    "o": [
     "Sillimanite - Maharashtra",
@@ -11655,7 +11955,7 @@
    "e": "The pair Manganese - Jharkhand is not correctly matched."
   },
   {
-   "id": "geography-00777",
+   "id": "geography-00797",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Mizoram - Bengaluru",
@@ -11670,7 +11970,7 @@
    "e": "Only Mizoram - Aizawl is correctly matched."
   },
   {
-   "id": "geography-00778",
+   "id": "geography-00798",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Godavari - Chota Nagpur Plateau",
@@ -11685,7 +11985,7 @@
    "e": "Only Godavari - Trimbakeshwar is correctly matched."
   },
   {
-   "id": "geography-00779",
+   "id": "geography-00799",
    "q": "Which of the following pairs of dam and river is NOT correctly matched?",
    "o": [
     "Srisailam Dam - Krishna",
@@ -11700,7 +12000,7 @@
    "e": "The pair Tehri Dam - Krishna is not correctly matched."
   },
   {
-   "id": "geography-00780",
+   "id": "geography-00800",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Nathu La - Ladakh",
@@ -11715,7 +12015,7 @@
    "e": "Only Nathu La - Sikkim is correctly matched."
   },
   {
-   "id": "geography-00781",
+   "id": "geography-00801",
    "q": "Which country is called the Playground of Europe?",
    "o": [
     "Andes",
@@ -11730,7 +12030,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00782",
+   "id": "geography-00802",
    "q": "Which mountain range is called the Roof of the World?",
    "o": [
     "Paris",
@@ -11745,7 +12045,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00783",
+   "id": "geography-00803",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "What is the study of the structure of the Earth called - Geology",
@@ -11760,7 +12060,7 @@
    "e": "Only What is the study of the structure of the Earth called - Geology is correctly matched."
   },
   {
-   "id": "geography-00784",
+   "id": "geography-00804",
    "q": "Which of the following pairs of mineral and state is NOT correctly matched?",
    "o": [
     "Manganese - Odisha",
@@ -11775,7 +12075,7 @@
    "e": "The pair Barytes - Jharkhand is not correctly matched."
   },
   {
-   "id": "geography-00785",
+   "id": "geography-00805",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Uttarakhand - Imphal",
@@ -11790,7 +12090,7 @@
    "e": "Only Uttarakhand - Dehradun is correctly matched."
   },
   {
-   "id": "geography-00786",
+   "id": "geography-00806",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Bhima - Amarkantak",
@@ -11805,7 +12105,7 @@
    "e": "Only Bhima - Bhimashankar is correctly matched."
   },
   {
-   "id": "geography-00787",
+   "id": "geography-00807",
    "q": "Which of the following pairs of dam and river is NOT correctly matched?",
    "o": [
     "Bhakra Nangal Dam - Sutlej",
@@ -11820,7 +12120,7 @@
    "e": "The pair Bhavani Sagar Dam - Mahanadi is not correctly matched."
   },
   {
-   "id": "geography-00788",
+   "id": "geography-00808",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Shipki La - Arunachal Pradesh",
@@ -11835,7 +12135,7 @@
    "e": "Only Shipki La - Himachal Pradesh is correctly matched."
   },
   {
-   "id": "geography-00789",
+   "id": "geography-00809",
    "q": "Which Indian state has the longest land border with another country?",
    "o": [
     "Antarctica",
@@ -11850,7 +12150,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00790",
+   "id": "geography-00810",
    "q": "Which Indian city is called the Steel City?",
    "o": [
     "Five",
@@ -11865,7 +12165,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00791",
+   "id": "geography-00811",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Type of climate of India - Tropical monsoon climate",
@@ -11880,7 +12180,7 @@
    "e": "Only Type of climate of India - Tropical monsoon climate is correctly matched."
   },
   {
-   "id": "geography-00792",
+   "id": "geography-00812",
    "q": "Which of the following pairs of mineral and state is NOT correctly matched?",
    "o": [
     "Coal - Jharkhand",
@@ -11895,7 +12195,7 @@
    "e": "The pair Mica - Rajasthan is not correctly matched."
   },
   {
-   "id": "geography-00793",
+   "id": "geography-00813",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Uttarakhand - Dehradun",
@@ -11910,7 +12210,7 @@
    "e": "Only Uttarakhand - Dehradun is correctly matched."
   },
   {
-   "id": "geography-00794",
+   "id": "geography-00814",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Bhima - Bhimashankar",
@@ -11925,7 +12225,7 @@
    "e": "Only Bhima - Bhimashankar is correctly matched."
   },
   {
-   "id": "geography-00795",
+   "id": "geography-00815",
    "q": "Which of the following pairs of dam and river is NOT correctly matched?",
    "o": [
     "Baglihar Dam - Chenab",
@@ -11940,7 +12240,7 @@
    "e": "The pair Idukki Dam - Damodar is not correctly matched."
   },
   {
-   "id": "geography-00796",
+   "id": "geography-00816",
    "q": "Which of the following pairs of pass and state is correctly matched?",
    "o": [
     "Shipki La - Ladakh",
@@ -11955,7 +12255,7 @@
    "e": "Only Shipki La - Himachal Pradesh is correctly matched."
   },
   {
-   "id": "geography-00797",
+   "id": "geography-00817",
    "q": "Which strait separates India from Sri Lanka?",
    "o": [
     "India",
@@ -11970,7 +12270,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00798",
+   "id": "geography-00818",
    "q": "Which is the smallest landlocked country?",
    "o": [
     "Indonesia",
@@ -11985,7 +12285,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00799",
+   "id": "geography-00819",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Type of climate of India - Troposphere",
@@ -12000,7 +12300,7 @@
    "e": "Only Type of climate of India - Tropical monsoon climate is correctly matched."
   },
   {
-   "id": "geography-00800",
+   "id": "geography-00820",
    "q": "Which of the following pairs of mineral and state is NOT correctly matched?",
    "o": [
     "Diamond - Madhya Pradesh",
@@ -12015,7 +12315,7 @@
    "e": "The pair Petroleum - Andhra Pradesh is not correctly matched."
   },
   {
-   "id": "geography-00801",
+   "id": "geography-00821",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Tripura - Dispur",
@@ -12030,7 +12330,7 @@
    "e": "Only Tripura - Agartala is correctly matched."
   },
   {
-   "id": "geography-00802",
+   "id": "geography-00822",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Betwa - Janapav Hill",
@@ -12045,7 +12345,7 @@
    "e": "Only Betwa - Vindhya Range is correctly matched."
   },
   {
-   "id": "geography-00803",
+   "id": "geography-00823",
    "q": "Which of the following pairs of dam and river is NOT correctly matched?",
    "o": [
     "Sardar Sarovar Dam - Narmada",
@@ -12060,7 +12360,7 @@
    "e": "The pair Nagarjuna Sagar Dam - Narmada is not correctly matched."
   },
   {
-   "id": "geography-00804",
+   "id": "geography-00824",
    "q": "Which of the following pairs of pass and state is NOT correctly matched?",
    "o": [
     "Nathu La - Sikkim",
@@ -12075,7 +12375,7 @@
    "e": "The pair Shencottah Gap - Arunachal Pradesh is not correctly matched."
   },
   {
-   "id": "geography-00805",
+   "id": "geography-00825",
    "q": "Which Indian city is called the City of Lakes?",
    "o": [
     "Panama Canal",
@@ -12090,7 +12390,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00806",
+   "id": "geography-00826",
    "q": "Where is the Taj Mahal located?",
    "o": [
     "Dead Sea",
@@ -12105,7 +12405,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00807",
+   "id": "geography-00827",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "What is the local storm of West Bengal in summer called - Igneous rock",
@@ -12120,7 +12420,7 @@
    "e": "Only What is the local storm of West Bengal in summer called - Norwester (Kal Baisakhi) is correctly matched."
   },
   {
-   "id": "geography-00808",
+   "id": "geography-00828",
    "q": "Which of the following pairs of mineral and state is NOT correctly matched?",
    "o": [
     "Gold - Rajasthan",
@@ -12135,7 +12435,7 @@
    "e": "The pair Gold - Rajasthan is not correctly matched."
   },
   {
-   "id": "geography-00809",
+   "id": "geography-00829",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Tripura - Agartala",
@@ -12150,7 +12450,7 @@
    "e": "Only Tripura - Agartala is correctly matched."
   },
   {
-   "id": "geography-00810",
+   "id": "geography-00830",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Betwa - Vindhya Range",
@@ -12165,7 +12465,7 @@
    "e": "Only Betwa - Vindhya Range is correctly matched."
   },
   {
-   "id": "geography-00811",
+   "id": "geography-00831",
    "q": "Which of the following pairs of dam and river is NOT correctly matched?",
    "o": [
     "Omkareshwar Dam - Narmada",
@@ -12180,7 +12480,7 @@
    "e": "The pair Sardar Sarovar Dam - Sutlej is not correctly matched."
   },
   {
-   "id": "geography-00812",
+   "id": "geography-00832",
    "q": "Which of the following pairs of pass and state is NOT correctly matched?",
    "o": [
     "Pir Panjal Pass - Jammu and Kashmir",
@@ -12195,7 +12495,7 @@
    "e": "The pair Thal Ghat - Arunachal Pradesh is not correctly matched."
   },
   {
-   "id": "geography-00813",
+   "id": "geography-00833",
    "q": "Which country is called the Land of the Rising Sun?",
    "o": [
     "Kanchenjunga",
@@ -12210,7 +12510,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00814",
+   "id": "geography-00834",
    "q": "Which country has the longest coastline?",
    "o": [
     "Nile",
@@ -12225,7 +12525,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00815",
+   "id": "geography-00835",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "What is the local storm of West Bengal in summer called - Eight",
@@ -12240,7 +12540,7 @@
    "e": "Only What is the local storm of West Bengal in summer called - Norwester (Kal Baisakhi) is correctly matched."
   },
   {
-   "id": "geography-00816",
+   "id": "geography-00836",
    "q": "Which of the following pairs of mineral and state is NOT correctly matched?",
    "o": [
     "Limestone - Madhya Pradesh",
@@ -12255,7 +12555,7 @@
    "e": "The pair Gypsum - Maharashtra is not correctly matched."
   },
   {
-   "id": "geography-00817",
+   "id": "geography-00837",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Goa - Dehradun",
@@ -12270,7 +12570,7 @@
    "e": "Only Goa - Panaji is correctly matched."
   },
   {
-   "id": "geography-00818",
+   "id": "geography-00838",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Narmada - Bhimashankar",
@@ -12285,7 +12585,7 @@
    "e": "Only Narmada - Amarkantak is correctly matched."
   },
   {
-   "id": "geography-00819",
+   "id": "geography-00839",
    "q": "Which of the following pairs of dam and river is NOT correctly matched?",
    "o": [
     "Srisailam Dam - Narmada",
@@ -12300,7 +12600,7 @@
    "e": "The pair Srisailam Dam - Narmada is not correctly matched."
   },
   {
-   "id": "geography-00820",
+   "id": "geography-00840",
    "q": "Which of the following pairs of pass and state is NOT correctly matched?",
    "o": [
     "Rohtang Pass - Himachal Pradesh",
@@ -12315,7 +12615,7 @@
    "e": "The pair Diphu Pass - Ladakh is not correctly matched."
   },
   {
-   "id": "geography-00821",
+   "id": "geography-00841",
    "q": "Which is the largest state of India by area?",
    "o": [
     "Maharashtra",
@@ -12330,7 +12630,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00822",
+   "id": "geography-00842",
    "q": "Which country has the largest reserves of coal?",
    "o": [
     "Amazon",
@@ -12345,7 +12645,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00823",
+   "id": "geography-00843",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which type of rock is formed from sediments - Mawsynram",
@@ -12360,7 +12660,7 @@
    "e": "Only Which type of rock is formed from sediments - Sedimentary rock is correctly matched."
   },
   {
-   "id": "geography-00824",
+   "id": "geography-00844",
    "q": "Which of the following pairs of mineral and state is NOT correctly matched?",
    "o": [
     "Gold - Karnataka",
@@ -12375,7 +12675,7 @@
    "e": "The pair Graphite - Maharashtra is not correctly matched."
   },
   {
-   "id": "geography-00825",
+   "id": "geography-00845",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Goa - Panaji",
@@ -12390,7 +12690,7 @@
    "e": "Only Goa - Panaji is correctly matched."
   },
   {
-   "id": "geography-00826",
+   "id": "geography-00846",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Narmada - Amarkantak",
@@ -12405,7 +12705,7 @@
    "e": "Only Narmada - Amarkantak is correctly matched."
   },
   {
-   "id": "geography-00827",
+   "id": "geography-00847",
    "q": "Which of the following pairs of dam and river is NOT correctly matched?",
    "o": [
     "Panchet Dam - Barakar",
@@ -12420,7 +12720,7 @@
    "e": "The pair Panchet Dam - Barakar is not correctly matched."
   },
   {
-   "id": "geography-00828",
+   "id": "geography-00848",
    "q": "Which of the following pairs of pass and state is NOT correctly matched?",
    "o": [
     "Se La Pass - Arunachal Pradesh",
@@ -12435,7 +12735,7 @@
    "e": "The pair Chang La - Uttarakhand is not correctly matched."
   },
   {
-   "id": "geography-00829",
+   "id": "geography-00849",
    "q": "Which country is known as the Emerald Isle?",
    "o": [
     "Bhutan",
@@ -12450,7 +12750,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00830",
+   "id": "geography-00850",
    "q": "Which Indian state is called the Heart of India?",
    "o": [
     "Rajasthan",
@@ -12465,7 +12765,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00831",
+   "id": "geography-00851",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which type of rock is formed from sediments - Sedimentary rock",
@@ -12480,7 +12780,7 @@
    "e": "Only Which type of rock is formed from sediments - Sedimentary rock is correctly matched."
   },
   {
-   "id": "geography-00832",
+   "id": "geography-00852",
    "q": "Which of the following pairs of mineral and state is NOT correctly matched?",
    "o": [
     "Rock phosphate - Rajasthan",
@@ -12495,7 +12795,7 @@
    "e": "The pair Limestone - Odisha is not correctly matched."
   },
   {
-   "id": "geography-00833",
+   "id": "geography-00853",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Punjab - Chandigarh",
@@ -12510,7 +12810,7 @@
    "e": "Only Punjab - Chandigarh is correctly matched."
   },
   {
-   "id": "geography-00834",
+   "id": "geography-00854",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Ganga - Gangotri Glacier",
@@ -12525,7 +12825,7 @@
    "e": "Only Ganga - Gangotri Glacier is correctly matched."
   },
   {
-   "id": "geography-00835",
+   "id": "geography-00855",
    "q": "Which of the following pairs of pass and state is NOT correctly matched?",
    "o": [
     "Shencottah Gap - Tamil Nadu",
@@ -12540,7 +12840,7 @@
    "e": "The pair Shipki La - Rajasthan is not correctly matched."
   },
   {
-   "id": "geography-00836",
+   "id": "geography-00856",
    "q": "Which is the highest mountain peak in India?",
    "o": [
     "Vatican City",
@@ -12555,7 +12855,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00837",
+   "id": "geography-00857",
    "q": "Which Indian state has the lowest sex ratio?",
    "o": [
     "Lake Titicaca",
@@ -12570,7 +12870,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00838",
+   "id": "geography-00858",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which planet is nearest to the Earth - Lava",
@@ -12585,7 +12885,7 @@
    "e": "Only Which planet is nearest to the Earth - Venus is correctly matched."
   },
   {
-   "id": "geography-00839",
+   "id": "geography-00859",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Punjab - Hyderabad",
@@ -12600,7 +12900,7 @@
    "e": "Only Punjab - Chandigarh is correctly matched."
   },
   {
-   "id": "geography-00840",
+   "id": "geography-00860",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Ganga - Verinag",
@@ -12615,7 +12915,7 @@
    "e": "Only Ganga - Gangotri Glacier is correctly matched."
   },
   {
-   "id": "geography-00841",
+   "id": "geography-00861",
    "q": "Which of the following pairs of pass and state is NOT correctly matched?",
    "o": [
     "Baralacha La - Arunachal Pradesh",
@@ -12630,7 +12930,7 @@
    "e": "The pair Baralacha La - Arunachal Pradesh is not correctly matched."
   },
   {
-   "id": "geography-00842",
+   "id": "geography-00862",
    "q": "Which is the longest river in South America?",
    "o": [
     "Rome",
@@ -12645,7 +12945,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00843",
+   "id": "geography-00863",
    "q": "Which city is known as the City of Lights?",
    "o": [
     "Arctic Ocean",
@@ -12660,7 +12960,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00844",
+   "id": "geography-00864",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which planet is nearest to the Earth - Monsoon",
@@ -12675,7 +12975,7 @@
    "e": "Only Which planet is nearest to the Earth - Venus is correctly matched."
   },
   {
-   "id": "geography-00845",
+   "id": "geography-00865",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "West Bengal - Chennai",
@@ -12690,7 +12990,7 @@
    "e": "Only West Bengal - Kolkata is correctly matched."
   },
   {
-   "id": "geography-00846",
+   "id": "geography-00866",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Ravi - Kudali",
@@ -12705,7 +13005,7 @@
    "e": "Only Ravi - Chamba is correctly matched."
   },
   {
-   "id": "geography-00847",
+   "id": "geography-00867",
    "q": "Which of the following pairs of pass and state is NOT correctly matched?",
    "o": [
     "Rohtang Pass - Himachal Pradesh",
@@ -12720,7 +13020,7 @@
    "e": "The pair Araku Valley Pass - Jammu and Kashmir is not correctly matched."
   },
   {
-   "id": "geography-00848",
+   "id": "geography-00868",
    "q": "Which Indian city is called the Leather City?",
    "o": [
     "Kanpur",
@@ -12735,7 +13035,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00849",
+   "id": "geography-00869",
    "q": "Which is the westernmost point of India?",
    "o": [
     "Antarctica",
@@ -12750,7 +13050,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00850",
+   "id": "geography-00870",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "What is the hot dry wind of northern India called - Igneous rock",
@@ -12765,7 +13065,7 @@
    "e": "Only What is the hot dry wind of northern India called - Loo is correctly matched."
   },
   {
-   "id": "geography-00851",
+   "id": "geography-00871",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "West Bengal - Bengaluru",
@@ -12780,7 +13080,7 @@
    "e": "Only West Bengal - Kolkata is correctly matched."
   },
   {
-   "id": "geography-00852",
+   "id": "geography-00872",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Ravi - Gangotri Glacier",
@@ -12795,7 +13095,7 @@
    "e": "Only Ravi - Chamba is correctly matched."
   },
   {
-   "id": "geography-00853",
+   "id": "geography-00873",
    "q": "Which of the following pairs of pass and state is NOT correctly matched?",
    "o": [
     "Baralacha La - Himachal Pradesh",
@@ -12810,7 +13110,7 @@
    "e": "The pair Niti Pass - Ladakh is not correctly matched."
   },
   {
-   "id": "geography-00854",
+   "id": "geography-00874",
    "q": "Which is the highest plateau in the world?",
    "o": [
     "Tibetan Plateau",
@@ -12825,7 +13125,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00855",
+   "id": "geography-00875",
    "q": "Which is the longest mountain range on land?",
    "o": [
     "Agra",
@@ -12840,7 +13140,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00856",
+   "id": "geography-00876",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "What is the hot dry wind of northern India called - Loo",
@@ -12855,7 +13155,7 @@
    "e": "Only What is the hot dry wind of northern India called - Loo is correctly matched."
   },
   {
-   "id": "geography-00857",
+   "id": "geography-00877",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Gujarat - Gandhinagar",
@@ -12870,7 +13170,7 @@
    "e": "Only Gujarat - Gandhinagar is correctly matched."
   },
   {
-   "id": "geography-00858",
+   "id": "geography-00878",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Mahanadi - Vindhya Range",
@@ -12885,7 +13185,7 @@
    "e": "Only Mahanadi - Sihawa is correctly matched."
   },
   {
-   "id": "geography-00859",
+   "id": "geography-00879",
    "q": "Which of the following pairs of pass and state is NOT correctly matched?",
    "o": [
     "Nathu La - Sikkim",
@@ -12900,7 +13200,7 @@
    "e": "The pair Palakkad Gap - Uttarakhand is not correctly matched."
   },
   {
-   "id": "geography-00860",
+   "id": "geography-00880",
    "q": "Which is the highest waterfall in the world?",
    "o": [
     "Lake Titicaca",
@@ -12915,7 +13215,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00861",
+   "id": "geography-00881",
    "q": "Which country is the largest producer of spices?",
    "o": [
     "United States of America",
@@ -12930,7 +13230,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00862",
+   "id": "geography-00882",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which type of rock is formed from cooled magma - Tropical monsoon climate",
@@ -12945,7 +13245,7 @@
    "e": "Only Which type of rock is formed from cooled magma - Igneous rock is correctly matched."
   },
   {
-   "id": "geography-00863",
+   "id": "geography-00883",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Gujarat - Dispur",
@@ -12960,7 +13260,7 @@
    "e": "Only Gujarat - Gandhinagar is correctly matched."
   },
   {
-   "id": "geography-00864",
+   "id": "geography-00884",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Mahanadi - Sihawa",
@@ -12975,7 +13275,7 @@
    "e": "Only Mahanadi - Sihawa is correctly matched."
   },
   {
-   "id": "geography-00865",
+   "id": "geography-00885",
    "q": "Which of the following pairs of pass and state is NOT correctly matched?",
    "o": [
     "Diphu Pass - Arunachal Pradesh",
@@ -12990,7 +13290,7 @@
    "e": "The pair Rohtang Pass - Jammu and Kashmir is not correctly matched."
   },
   {
-   "id": "geography-00866",
+   "id": "geography-00886",
    "q": "Which is the longest river in India?",
    "o": [
     "Ganga",
@@ -13005,7 +13305,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00867",
+   "id": "geography-00887",
    "q": "Where is the Eiffel Tower located?",
    "o": [
     "Jawaharlal Nehru Port",
@@ -13020,7 +13320,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00868",
+   "id": "geography-00888",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which type of rock is formed from cooled magma - Focus",
@@ -13035,7 +13335,7 @@
    "e": "Only Which type of rock is formed from cooled magma - Igneous rock is correctly matched."
   },
   {
-   "id": "geography-00869",
+   "id": "geography-00889",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Kerala - Thiruvananthapuram",
@@ -13050,7 +13350,7 @@
    "e": "Only Kerala - Thiruvananthapuram is correctly matched."
   },
   {
-   "id": "geography-00870",
+   "id": "geography-00890",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Son - Ambutirtha",
@@ -13065,7 +13365,7 @@
    "e": "Only Son - Amarkantak is correctly matched."
   },
   {
-   "id": "geography-00871",
+   "id": "geography-00891",
    "q": "Which of the following pairs of pass and state is NOT correctly matched?",
    "o": [
     "Khardung La - Ladakh",
@@ -13080,7 +13380,7 @@
    "e": "The pair Lipulekh Pass - Ladakh is not correctly matched."
   },
   {
-   "id": "geography-00872",
+   "id": "geography-00892",
    "q": "Which country is known as the Land of Kangaroos?",
    "o": [
     "Sikkim",
@@ -13095,7 +13395,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00873",
+   "id": "geography-00893",
    "q": "Which strait separates India from Sri Lanka?",
    "o": [
     "Madhya Pradesh",
@@ -13110,7 +13410,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00874",
+   "id": "geography-00894",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which planet has the shortest day - June to September",
@@ -13125,7 +13425,7 @@
    "e": "Only Which planet has the shortest day - Jupiter is correctly matched."
   },
   {
-   "id": "geography-00875",
+   "id": "geography-00895",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Kerala - Bhopal",
@@ -13140,7 +13440,7 @@
    "e": "Only Kerala - Thiruvananthapuram is correctly matched."
   },
   {
-   "id": "geography-00876",
+   "id": "geography-00896",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Son - Trimbakeshwar",
@@ -13155,7 +13455,7 @@
    "e": "Only Son - Amarkantak is correctly matched."
   },
   {
-   "id": "geography-00877",
+   "id": "geography-00897",
    "q": "Which of the following pairs of pass and state is NOT correctly matched?",
    "o": [
     "Jelep La - Sikkim",
@@ -13170,7 +13470,7 @@
    "e": "The pair Haldighati Pass - Ladakh is not correctly matched."
   },
   {
-   "id": "geography-00878",
+   "id": "geography-00898",
    "q": "Which is the largest river island in India?",
    "o": [
     "Jamshedpur",
@@ -13185,7 +13485,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00879",
+   "id": "geography-00899",
    "q": "Which city is called the Windy City?",
    "o": [
     "Atacama Desert",
@@ -13200,7 +13500,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00880",
+   "id": "geography-00900",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which planet has the shortest day - Eight",
@@ -13215,7 +13515,7 @@
    "e": "Only Which planet has the shortest day - Jupiter is correctly matched."
   },
   {
-   "id": "geography-00881",
+   "id": "geography-00901",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Assam - Dehradun",
@@ -13230,7 +13530,7 @@
    "e": "Only Assam - Dispur is correctly matched."
   },
   {
-   "id": "geography-00882",
+   "id": "geography-00902",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Beas - Beas Kund",
@@ -13245,7 +13545,7 @@
    "e": "Only Beas - Beas Kund is correctly matched."
   },
   {
-   "id": "geography-00883",
+   "id": "geography-00903",
    "q": "Which of the following pairs of pass and state is NOT correctly matched?",
    "o": [
     "Nathu La - Himachal Pradesh",
@@ -13260,7 +13560,7 @@
    "e": "The pair Nathu La - Himachal Pradesh is not correctly matched."
   },
   {
-   "id": "geography-00884",
+   "id": "geography-00904",
    "q": "Which state of India is called the Granary of India?",
    "o": [
     "Punjab",
@@ -13275,7 +13575,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00885",
+   "id": "geography-00905",
    "q": "Which Indian city is called the Diamond City?",
    "o": [
     "Surat",
@@ -13290,7 +13590,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00886",
+   "id": "geography-00906",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which place in India receives the lowest rainfall - Jaisalmer",
@@ -13305,7 +13605,7 @@
    "e": "Only Which place in India receives the lowest rainfall - Jaisalmer is correctly matched."
   },
   {
-   "id": "geography-00887",
+   "id": "geography-00907",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Assam - Bengaluru",
@@ -13320,7 +13620,7 @@
    "e": "Only Assam - Dispur is correctly matched."
   },
   {
-   "id": "geography-00888",
+   "id": "geography-00908",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Beas - Mahabaleshwar",
@@ -13335,7 +13635,7 @@
    "e": "Only Beas - Beas Kund is correctly matched."
   },
   {
-   "id": "geography-00889",
+   "id": "geography-00909",
    "q": "Which of the following pairs of pass and state is NOT correctly matched?",
    "o": [
     "Banihal Pass - Jammu and Kashmir",
@@ -13350,7 +13650,7 @@
    "e": "The pair Zoji La - Kerala is not correctly matched."
   },
   {
-   "id": "geography-00890",
+   "id": "geography-00910",
    "q": "Which is the southernmost point of India?",
    "o": [
     "Australia",
@@ -13365,7 +13665,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00891",
+   "id": "geography-00911",
    "q": "Which lake is the largest freshwater lake in India?",
    "o": [
     "Bihar",
@@ -13380,7 +13680,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00892",
+   "id": "geography-00912",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which place in India receives the lowest rainfall - Epicentre",
@@ -13395,7 +13695,7 @@
    "e": "Only Which place in India receives the lowest rainfall - Jaisalmer is correctly matched."
   },
   {
-   "id": "geography-00893",
+   "id": "geography-00913",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Rajasthan - Lucknow",
@@ -13410,7 +13710,7 @@
    "e": "Only Rajasthan - Jaipur is correctly matched."
   },
   {
-   "id": "geography-00894",
+   "id": "geography-00914",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Damodar - Janapav Hill",
@@ -13425,7 +13725,7 @@
    "e": "Only Damodar - Chota Nagpur Plateau is correctly matched."
   },
   {
-   "id": "geography-00895",
+   "id": "geography-00915",
    "q": "Which of the following pairs of pass and state is NOT correctly matched?",
    "o": [
     "Bomdila Pass - Himachal Pradesh",
@@ -13440,7 +13740,7 @@
    "e": "The pair Bomdila Pass - Himachal Pradesh is not correctly matched."
   },
   {
-   "id": "geography-00896",
+   "id": "geography-00916",
    "q": "Which is the highest navigable lake in the world?",
    "o": [
     "Nathu La",
@@ -13455,7 +13755,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00897",
+   "id": "geography-00917",
    "q": "Which is the largest country in South America?",
    "o": [
     "Brazil",
@@ -13470,7 +13770,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00898",
+   "id": "geography-00918",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "What is the point on the surface above the earthquake focus called - Wind vane",
@@ -13485,7 +13785,7 @@
    "e": "Only What is the point on the surface above the earthquake focus called - Epicentre is correctly matched."
   },
   {
-   "id": "geography-00899",
+   "id": "geography-00919",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Rajasthan - Agartala",
@@ -13500,7 +13800,7 @@
    "e": "Only Rajasthan - Jaipur is correctly matched."
   },
   {
-   "id": "geography-00900",
+   "id": "geography-00920",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Damodar - Chota Nagpur Plateau",
@@ -13515,7 +13815,7 @@
    "e": "Only Damodar - Chota Nagpur Plateau is correctly matched."
   },
   {
-   "id": "geography-00901",
+   "id": "geography-00921",
    "q": "Which of the following pairs of pass and state is NOT correctly matched?",
    "o": [
     "Jelep La - Andhra Pradesh",
@@ -13530,7 +13830,7 @@
    "e": "The pair Jelep La - Andhra Pradesh is not correctly matched."
   },
   {
-   "id": "geography-00902",
+   "id": "geography-00922",
    "q": "Which is the largest archipelago in the world?",
    "o": [
     "Andhra Pradesh",
@@ -13545,7 +13845,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00903",
+   "id": "geography-00923",
    "q": "Which river is also known as the Rewa?",
    "o": [
     "China",
@@ -13560,7 +13860,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00904",
+   "id": "geography-00924",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "What is the point on the surface above the earthquake focus called - Epicentre",
@@ -13575,7 +13875,7 @@
    "e": "Only What is the point on the surface above the earthquake focus called - Epicentre is correctly matched."
   },
   {
-   "id": "geography-00905",
+   "id": "geography-00925",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Madhya Pradesh - Imphal",
@@ -13590,7 +13890,7 @@
    "e": "Only Madhya Pradesh - Bhopal is correctly matched."
   },
   {
-   "id": "geography-00906",
+   "id": "geography-00926",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Penna - Kudali",
@@ -13605,7 +13905,7 @@
    "e": "Only Penna - Nandi Hills is correctly matched."
   },
   {
-   "id": "geography-00907",
+   "id": "geography-00927",
    "q": "Which of the following pairs of pass and state is NOT correctly matched?",
    "o": [
     "Bhor Ghat - Arunachal Pradesh",
@@ -13620,7 +13920,7 @@
    "e": "The pair Bhor Ghat - Arunachal Pradesh is not correctly matched."
   },
   {
-   "id": "geography-00908",
+   "id": "geography-00928",
    "q": "Which is the northernmost state of India?",
    "o": [
     "Jammu and Kashmir",
@@ -13635,7 +13935,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "geography-00909",
+   "id": "geography-00929",
    "q": "Where are the Ajanta Caves located?",
    "o": [
     "Maharashtra",
@@ -13650,7 +13950,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00910",
+   "id": "geography-00930",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "What is the dust storm of Rajasthan called - Troposphere",
@@ -13665,7 +13965,7 @@
    "e": "Only What is the dust storm of Rajasthan called - Andhi is correctly matched."
   },
   {
-   "id": "geography-00911",
+   "id": "geography-00931",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Madhya Pradesh - Itanagar",
@@ -13680,7 +13980,7 @@
    "e": "Only Madhya Pradesh - Bhopal is correctly matched."
   },
   {
-   "id": "geography-00912",
+   "id": "geography-00932",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Penna - Gangotri Glacier",
@@ -13695,7 +13995,7 @@
    "e": "Only Penna - Nandi Hills is correctly matched."
   },
   {
-   "id": "geography-00913",
+   "id": "geography-00933",
    "q": "Which of the following pairs of pass and state is NOT correctly matched?",
    "o": [
     "Khardung La - Ladakh",
@@ -13710,7 +14010,7 @@
    "e": "The pair Banihal Pass - Sikkim is not correctly matched."
   },
   {
-   "id": "geography-00914",
+   "id": "geography-00934",
    "q": "Which is the largest lake in the world?",
    "o": [
     "India",
@@ -13725,7 +14025,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00915",
+   "id": "geography-00935",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "What is the dust storm of Rajasthan called - Andhi",
@@ -13740,7 +14040,7 @@
    "e": "Only What is the dust storm of Rajasthan called - Andhi is correctly matched."
   },
   {
-   "id": "geography-00916",
+   "id": "geography-00936",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Uttar Pradesh - Kohima",
@@ -13755,7 +14055,7 @@
    "e": "Only Uttar Pradesh - Lucknow is correctly matched."
   },
   {
-   "id": "geography-00917",
+   "id": "geography-00937",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Chenab - Baralacha La",
@@ -13770,7 +14070,7 @@
    "e": "Only Chenab - Baralacha La is correctly matched."
   },
   {
-   "id": "geography-00918",
+   "id": "geography-00938",
    "q": "Which of the following pairs of pass and state is NOT correctly matched?",
    "o": [
     "Diphu Pass - Arunachal Pradesh",
@@ -13785,7 +14085,7 @@
    "e": "The pair Fotu La - Himachal Pradesh is not correctly matched."
   },
   {
-   "id": "geography-00919",
+   "id": "geography-00939",
    "q": "Which country is the largest producer of pulses?",
    "o": [
     "India",
@@ -13800,7 +14100,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00920",
+   "id": "geography-00940",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which is the most abundant metal in the Earth's crust - Loo",
@@ -13815,7 +14115,7 @@
    "e": "Only Which is the most abundant metal in the Earth's crust - Aluminium is correctly matched."
   },
   {
-   "id": "geography-00921",
+   "id": "geography-00941",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Uttar Pradesh - Bhubaneswar",
@@ -13830,7 +14130,7 @@
    "e": "Only Uttar Pradesh - Lucknow is correctly matched."
   },
   {
-   "id": "geography-00922",
+   "id": "geography-00942",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Chenab - Trimbakeshwar",
@@ -13845,7 +14145,7 @@
    "e": "Only Chenab - Baralacha La is correctly matched."
   },
   {
-   "id": "geography-00923",
+   "id": "geography-00943",
    "q": "Which of the following pairs of pass and state is NOT correctly matched?",
    "o": [
     "Nathu La - Sikkim",
@@ -13860,7 +14160,7 @@
    "e": "The pair Se La Pass - Uttarakhand is not correctly matched."
   },
   {
-   "id": "geography-00924",
+   "id": "geography-00944",
    "q": "Where is the Charminar located?",
    "o": [
     "Arma Konda",
@@ -13875,7 +14175,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00925",
+   "id": "geography-00945",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Which is the most abundant metal in the Earth's crust - Focus",
@@ -13890,7 +14190,7 @@
    "e": "Only Which is the most abundant metal in the Earth's crust - Aluminium is correctly matched."
   },
   {
-   "id": "geography-00926",
+   "id": "geography-00946",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Jharkhand - Kolkata",
@@ -13905,7 +14205,7 @@
    "e": "Only Jharkhand - Ranchi is correctly matched."
   },
   {
-   "id": "geography-00927",
+   "id": "geography-00947",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Indus - Chota Nagpur Plateau",
@@ -13920,7 +14220,7 @@
    "e": "Only Indus - Bokhar Chu is correctly matched."
   },
   {
-   "id": "geography-00928",
+   "id": "geography-00948",
    "q": "Which of the following pairs of pass and state is NOT correctly matched?",
    "o": [
     "Nathu La - Sikkim",
@@ -13935,7 +14235,7 @@
    "e": "The pair Mana Pass - Ladakh is not correctly matched."
   },
   {
-   "id": "geography-00929",
+   "id": "geography-00949",
    "q": "Which sea lies to the east of India?",
    "o": [
     "Dead Sea",
@@ -13950,7 +14250,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00930",
+   "id": "geography-00950",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "What is the instrument used to measure earthquake intensity - Metamorphic rock",
@@ -13965,7 +14265,7 @@
    "e": "Only What is the instrument used to measure earthquake intensity - Seismograph is correctly matched."
   },
   {
-   "id": "geography-00931",
+   "id": "geography-00951",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Jharkhand - Chennai",
@@ -13980,7 +14280,7 @@
    "e": "Only Jharkhand - Ranchi is correctly matched."
   },
   {
-   "id": "geography-00932",
+   "id": "geography-00952",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Indus - Sihawa",
@@ -13995,7 +14295,7 @@
    "e": "Only Indus - Bokhar Chu is correctly matched."
   },
   {
-   "id": "geography-00933",
+   "id": "geography-00953",
    "q": "Which of the following pairs of pass and state is NOT correctly matched?",
    "o": [
     "Nathu La - Sikkim",
@@ -14010,7 +14310,7 @@
    "e": "The pair Pir Panjal Pass - Arunachal Pradesh is not correctly matched."
   },
   {
-   "id": "geography-00934",
+   "id": "geography-00954",
    "q": "Which mountain range separates Europe from Asia?",
    "o": [
     "Yangtze",
@@ -14025,7 +14325,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00935",
+   "id": "geography-00955",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "What is the instrument used to measure earthquake intensity - Jupiter",
@@ -14040,7 +14340,7 @@
    "e": "Only What is the instrument used to measure earthquake intensity - Seismograph is correctly matched."
   },
   {
-   "id": "geography-00936",
+   "id": "geography-00956",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Odisha - Lucknow",
@@ -14055,7 +14355,7 @@
    "e": "Only Odisha - Bhubaneswar is correctly matched."
   },
   {
-   "id": "geography-00937",
+   "id": "geography-00957",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Sharavati - Baralacha La",
@@ -14070,7 +14370,7 @@
    "e": "Only Sharavati - Ambutirtha is correctly matched."
   },
   {
-   "id": "geography-00938",
+   "id": "geography-00958",
    "q": "Which of the following pairs of pass and state is NOT correctly matched?",
    "o": [
     "Pangsau Pass - Ladakh",
@@ -14085,7 +14385,7 @@
    "e": "The pair Pangsau Pass - Ladakh is not correctly matched."
   },
   {
-   "id": "geography-00939",
+   "id": "geography-00959",
    "q": "Which is the lowest capital city in the world?",
    "o": [
     "Australia",
@@ -14100,7 +14400,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00940",
+   "id": "geography-00960",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "How many planets are there in the Solar System - Seismograph",
@@ -14115,7 +14415,7 @@
    "e": "Only How many planets are there in the Solar System - Eight is correctly matched."
   },
   {
-   "id": "geography-00941",
+   "id": "geography-00961",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Odisha - Bhubaneswar",
@@ -14130,7 +14430,7 @@
    "e": "Only Odisha - Bhubaneswar is correctly matched."
   },
   {
-   "id": "geography-00942",
+   "id": "geography-00962",
    "q": "Which of the following pairs of river and origin is correctly matched?",
    "o": [
     "Sharavati - Ambutirtha",
@@ -14145,7 +14445,7 @@
    "e": "Only Sharavati - Ambutirtha is correctly matched."
   },
   {
-   "id": "geography-00943",
+   "id": "geography-00963",
    "q": "Which of the following pairs of pass and state is NOT correctly matched?",
    "o": [
     "Khardung La - Jammu and Kashmir",
@@ -14160,7 +14460,7 @@
    "e": "The pair Khardung La - Jammu and Kashmir is not correctly matched."
   },
   {
-   "id": "geography-00944",
+   "id": "geography-00964",
    "q": "Which country is known as the Sugar Bowl of the World?",
    "o": [
     "Doddabetta",
@@ -14175,7 +14475,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00945",
+   "id": "geography-00965",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "How many planets are there in the Solar System - South-west monsoon",
@@ -14190,7 +14490,7 @@
    "e": "Only How many planets are there in the Solar System - Eight is correctly matched."
   },
   {
-   "id": "geography-00946",
+   "id": "geography-00966",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Arunachal Pradesh - Itanagar",
@@ -14205,7 +14505,7 @@
    "e": "Only Arunachal Pradesh - Itanagar is correctly matched."
   },
   {
-   "id": "geography-00947",
+   "id": "geography-00967",
    "q": "Which of the following pairs of river and origin is NOT correctly matched?",
    "o": [
     "Kaveri - Talakaveri",
@@ -14220,7 +14520,7 @@
    "e": "The pair Ghaghara - Amarkantak is not correctly matched."
   },
   {
-   "id": "geography-00948",
+   "id": "geography-00968",
    "q": "Which country has the largest reserves of rare earth minerals?",
    "o": [
     "Agra",
@@ -14235,7 +14535,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00949",
+   "id": "geography-00969",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "What is the seasonal reversal of winds called - Outer core",
@@ -14250,7 +14550,7 @@
    "e": "Only What is the seasonal reversal of winds called - Monsoon is correctly matched."
   },
   {
-   "id": "geography-00950",
+   "id": "geography-00970",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Arunachal Pradesh - Itanagar",
@@ -14265,7 +14565,7 @@
    "e": "Only Arunachal Pradesh - Itanagar is correctly matched."
   },
   {
-   "id": "geography-00951",
+   "id": "geography-00971",
    "q": "Which of the following pairs of river and origin is NOT correctly matched?",
    "o": [
     "Son - Beas Kund",
@@ -14280,7 +14580,7 @@
    "e": "The pair Son - Beas Kund is not correctly matched."
   },
   {
-   "id": "geography-00952",
+   "id": "geography-00972",
    "q": "Which is the largest sea in the world?",
    "o": [
     "OPEC",
@@ -14295,7 +14595,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00953",
+   "id": "geography-00973",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "What is the seasonal reversal of winds called - Monsoon",
@@ -14310,7 +14610,7 @@
    "e": "Only What is the seasonal reversal of winds called - Monsoon is correctly matched."
   },
   {
-   "id": "geography-00954",
+   "id": "geography-00974",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Himachal Pradesh - Chandigarh",
@@ -14325,7 +14625,7 @@
    "e": "Only Himachal Pradesh - Shimla is correctly matched."
   },
   {
-   "id": "geography-00955",
+   "id": "geography-00975",
    "q": "Which of the following pairs of river and origin is NOT correctly matched?",
    "o": [
     "Bhima - Mahabaleshwar",
@@ -14340,7 +14640,7 @@
    "e": "The pair Bhima - Mahabaleshwar is not correctly matched."
   },
   {
-   "id": "geography-00956",
+   "id": "geography-00976",
    "q": "Which country is the largest consumer of crude oil?",
    "o": [
     "Italy",
@@ -14355,7 +14655,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00957",
+   "id": "geography-00977",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "What is the greenhouse gas most responsible for global warming - Talc",
@@ -14370,7 +14670,7 @@
    "e": "Only What is the greenhouse gas most responsible for global warming - Carbon dioxide is correctly matched."
   },
   {
-   "id": "geography-00958",
+   "id": "geography-00978",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Himachal Pradesh - Shimla",
@@ -14385,7 +14685,7 @@
    "e": "Only Himachal Pradesh - Shimla is correctly matched."
   },
   {
-   "id": "geography-00959",
+   "id": "geography-00979",
    "q": "Which of the following pairs of river and origin is NOT correctly matched?",
    "o": [
     "Sutlej - Rakas Lake",
@@ -14400,7 +14700,7 @@
    "e": "The pair Tapti - Talakaveri is not correctly matched."
   },
   {
-   "id": "geography-00960",
+   "id": "geography-00980",
    "q": "Which Indian city is called the City of Joy?",
    "o": [
     "Kolkata",
@@ -14415,7 +14715,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00961",
+   "id": "geography-00981",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "What is the greenhouse gas most responsible for global warming - Aluminium",
@@ -14430,7 +14730,7 @@
    "e": "Only What is the greenhouse gas most responsible for global warming - Carbon dioxide is correctly matched."
   },
   {
-   "id": "geography-00962",
+   "id": "geography-00982",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Sikkim - Shillong",
@@ -14445,7 +14745,7 @@
    "e": "Only Sikkim - Gangtok is correctly matched."
   },
   {
-   "id": "geography-00963",
+   "id": "geography-00983",
    "q": "Which of the following pairs of river and origin is NOT correctly matched?",
    "o": [
     "Periyar - Sivagiri Hills",
@@ -14460,7 +14760,7 @@
    "e": "The pair Narmada - Verinag is not correctly matched."
   },
   {
-   "id": "geography-00964",
+   "id": "geography-00984",
    "q": "Which country has the largest number of volcanoes?",
    "o": [
     "Marina Beach",
@@ -14475,7 +14775,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00965",
+   "id": "geography-00985",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "What are the pre-monsoon showers in Kerala called - Mango showers",
@@ -14490,7 +14790,7 @@
    "e": "Only What are the pre-monsoon showers in Kerala called - Mango showers is correctly matched."
   },
   {
-   "id": "geography-00966",
+   "id": "geography-00986",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Sikkim - Gandhinagar",
@@ -14505,7 +14805,7 @@
    "e": "Only Sikkim - Gangtok is correctly matched."
   },
   {
-   "id": "geography-00967",
+   "id": "geography-00987",
    "q": "Which of the following pairs of river and origin is NOT correctly matched?",
    "o": [
     "Kaveri - Talakaveri",
@@ -14520,7 +14820,7 @@
    "e": "The pair Kosi - Chota Nagpur Plateau is not correctly matched."
   },
   {
-   "id": "geography-00968",
+   "id": "geography-00988",
    "q": "Which is the largest waterfall in the world by height?",
    "o": [
     "Prime Meridian",
@@ -14535,7 +14835,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00969",
+   "id": "geography-00989",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "What are the pre-monsoon showers in Kerala called - Mawsynram",
@@ -14550,7 +14850,7 @@
    "e": "Only What are the pre-monsoon showers in Kerala called - Mango showers is correctly matched."
   },
   {
-   "id": "geography-00970",
+   "id": "geography-00990",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Haryana - Chandigarh",
@@ -14565,7 +14865,7 @@
    "e": "Only Haryana - Chandigarh is correctly matched."
   },
   {
-   "id": "geography-00971",
+   "id": "geography-00991",
    "q": "Which of the following pairs of river and origin is NOT correctly matched?",
    "o": [
     "Son - Amarkantak",
@@ -14580,7 +14880,7 @@
    "e": "The pair Ganga - Amarkantak is not correctly matched."
   },
   {
-   "id": "geography-00972",
+   "id": "geography-00992",
    "q": "Which is the longest river in the world?",
    "o": [
     "Visakhapatnam Port",
@@ -14595,7 +14895,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00973",
+   "id": "geography-00993",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Direction of the north-east monsoon winds - Epicentre",
@@ -14610,7 +14910,7 @@
    "e": "Only Direction of the north-east monsoon winds - From the land to the sea is correctly matched."
   },
   {
-   "id": "geography-00974",
+   "id": "geography-00994",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Haryana - Chandigarh",
@@ -14625,7 +14925,7 @@
    "e": "Only Haryana - Chandigarh is correctly matched."
   },
   {
-   "id": "geography-00975",
+   "id": "geography-00995",
    "q": "Which of the following pairs of river and origin is NOT correctly matched?",
    "o": [
     "Alaknanda - Satopanth Glacier",
@@ -14640,7 +14940,7 @@
    "e": "The pair Jhelum - Udaipur is not correctly matched."
   },
   {
-   "id": "geography-00976",
+   "id": "geography-00996",
    "q": "Where are the Pyramids of Giza located?",
    "o": [
     "Five",
@@ -14655,7 +14955,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "geography-00977",
+   "id": "geography-00997",
    "q": "Which of the following pairs of question and answer is correctly matched?",
    "o": [
     "Direction of the north-east monsoon winds - Rain gauge",
@@ -14670,7 +14970,7 @@
    "e": "Only Direction of the north-east monsoon winds - From the land to the sea is correctly matched."
   },
   {
-   "id": "geography-00978",
+   "id": "geography-00998",
    "q": "Which of the following pairs of state and capital is correctly matched?",
    "o": [
     "Manipur - Dehradun",
@@ -14685,7 +14985,7 @@
    "e": "Only Manipur - Imphal is correctly matched."
   },
   {
-   "id": "geography-00979",
+   "id": "geography-00999",
    "q": "Which of the following pairs of river and origin is NOT correctly matched?",
    "o": [
     "Tungabhadra - Kudali",
@@ -14700,313 +15000,13 @@
    "e": "The pair Kaveri - Janapav Hill is not correctly matched."
   },
   {
-   "id": "geography-00980",
+   "id": "geography-01000",
    "q": "Which Indian state has no international border?",
    "o": [
     "Canada",
     "Guru Shikhar",
     "Madhya Pradesh",
     "Sundarbans"
-   ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
-  },
-  {
-   "id": "geography-00981",
-   "q": "Which of the following pairs of question and answer is correctly matched?",
-   "o": [
-    "Which is the innermost layer of the Earth - Core",
-    "Which is the innermost layer of the Earth - Jaisalmer",
-    "Which is the innermost layer of the Earth - Aluminium",
-    "Which is the innermost layer of the Earth - Mars"
-   ],
-   "a": 0,
-   "t": "Climate and Atmosphere",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Which is the innermost layer of the Earth - Core is correctly matched."
-  },
-  {
-   "id": "geography-00982",
-   "q": "Which of the following pairs of state and capital is correctly matched?",
-   "o": [
-    "Manipur - Raipur",
-    "Manipur - Imphal",
-    "Manipur - Gangtok",
-    "Manipur - Bhubaneswar"
-   ],
-   "a": 1,
-   "t": "States and Capitals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Manipur - Imphal is correctly matched."
-  },
-  {
-   "id": "geography-00983",
-   "q": "Which of the following pairs of river and origin is NOT correctly matched?",
-   "o": [
-    "Gomti - Pilibhit",
-    "Chambal - Chamba",
-    "Narmada - Amarkantak",
-    "Ravi - Chamba"
-   ],
-   "a": 1,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Chambal - Chamba is not correctly matched."
-  },
-  {
-   "id": "geography-00984",
-   "q": "Which two countries are called the Low Countries?",
-   "o": [
-    "La Paz",
-    "Netherlands and Belgium",
-    "India",
-    "Ural Mountains"
-   ],
-   "a": 1,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
-  },
-  {
-   "id": "geography-00985",
-   "q": "Which of the following pairs of question and answer is correctly matched?",
-   "o": [
-    "Which is the innermost layer of the Earth - Jaisalmer",
-    "Which is the innermost layer of the Earth - Monsoon",
-    "Which is the innermost layer of the Earth - Igneous rock",
-    "Which is the innermost layer of the Earth - Core"
-   ],
-   "a": 3,
-   "t": "Climate and Atmosphere",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Which is the innermost layer of the Earth - Core is correctly matched."
-  },
-  {
-   "id": "geography-00986",
-   "q": "Which of the following pairs of state and capital is correctly matched?",
-   "o": [
-    "Nagaland - Patna",
-    "Nagaland - Kohima",
-    "Nagaland - Itanagar",
-    "Nagaland - Chandigarh"
-   ],
-   "a": 1,
-   "t": "States and Capitals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nagaland - Kohima is correctly matched."
-  },
-  {
-   "id": "geography-00987",
-   "q": "Which of the following pairs of river and origin is NOT correctly matched?",
-   "o": [
-    "Gomti - Pilibhit",
-    "Brahmaputra - Beas Kund",
-    "Kosi - Nepal Himalayas",
-    "Ganga - Gangotri Glacier"
-   ],
-   "a": 1,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Brahmaputra - Beas Kund is not correctly matched."
-  },
-  {
-   "id": "geography-00988",
-   "q": "Which country is called the Land of Thunderbolts?",
-   "o": [
-    "Indian Ocean",
-    "Seven",
-    "Maharashtra",
-    "Bhutan"
-   ],
-   "a": 3,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
-  },
-  {
-   "id": "geography-00989",
-   "q": "Which of the following pairs of question and answer is correctly matched?",
-   "o": [
-    "Which is the softest mineral - Mawsynram",
-    "Which is the softest mineral - Talc",
-    "Which is the softest mineral - Nitrogen",
-    "Which is the softest mineral - Lava"
-   ],
-   "a": 1,
-   "t": "Climate and Atmosphere",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Which is the softest mineral - Talc is correctly matched."
-  },
-  {
-   "id": "geography-00990",
-   "q": "Which of the following pairs of state and capital is correctly matched?",
-   "o": [
-    "Nagaland - Shillong",
-    "Nagaland - Kolkata",
-    "Nagaland - Chandigarh",
-    "Nagaland - Kohima"
-   ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nagaland - Kohima is correctly matched."
-  },
-  {
-   "id": "geography-00991",
-   "q": "Which of the following pairs of river and origin is NOT correctly matched?",
-   "o": [
-    "Sutlej - Nandi Hills",
-    "Penna - Nandi Hills",
-    "Sabarmati - Udaipur",
-    "Tungabhadra - Kudali"
-   ],
-   "a": 0,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Sutlej - Nandi Hills is not correctly matched."
-  },
-  {
-   "id": "geography-00992",
-   "q": "Which is the easternmost point of India?",
-   "o": [
-    "Kibithu",
-    "Panama",
-    "United States of America",
-    "China"
-   ],
-   "a": 0,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
-  },
-  {
-   "id": "geography-00993",
-   "q": "Which of the following pairs of question and answer is correctly matched?",
-   "o": [
-    "Which is the softest mineral - Diamond",
-    "Which is the softest mineral - Nitrogen",
-    "Which is the softest mineral - Richter scale",
-    "Which is the softest mineral - Talc"
-   ],
-   "a": 3,
-   "t": "Climate and Atmosphere",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Which is the softest mineral - Talc is correctly matched."
-  },
-  {
-   "id": "geography-00994",
-   "q": "Which of the following pairs of state and capital is correctly matched?",
-   "o": [
-    "Maharashtra - Jaipur",
-    "Maharashtra - Bengaluru",
-    "Maharashtra - Imphal",
-    "Maharashtra - Mumbai"
-   ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Maharashtra - Mumbai is correctly matched."
-  },
-  {
-   "id": "geography-00995",
-   "q": "Which of the following pairs of river and origin is NOT correctly matched?",
-   "o": [
-    "Betwa - Vindhya Range",
-    "Gomti - Pilibhit",
-    "Sutlej - Rakas Lake",
-    "Chenab - Ambutirtha"
-   ],
-   "a": 3,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Chenab - Ambutirtha is not correctly matched."
-  },
-  {
-   "id": "geography-00996",
-   "q": "Which gulf lies to the west of India?",
-   "o": [
-    "Madhya Pradesh",
-    "Angel Falls",
-    "Gulf of Kutch",
-    "Tamil Nadu"
-   ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
-  },
-  {
-   "id": "geography-00997",
-   "q": "Which of the following pairs of question and answer is correctly matched?",
-   "o": [
-    "Which instrument measures humidity - Mawsynram",
-    "Which instrument measures humidity - Hygrometer",
-    "Which instrument measures humidity - Jupiter",
-    "Which instrument measures humidity - Ionosphere"
-   ],
-   "a": 1,
-   "t": "Climate and Atmosphere",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Which instrument measures humidity - Hygrometer is correctly matched."
-  },
-  {
-   "id": "geography-00998",
-   "q": "Which of the following pairs of state and capital is correctly matched?",
-   "o": [
-    "Maharashtra - Mumbai",
-    "Maharashtra - Bhopal",
-    "Maharashtra - Patna",
-    "Maharashtra - Agartala"
-   ],
-   "a": 0,
-   "t": "States and Capitals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Maharashtra - Mumbai is correctly matched."
-  },
-  {
-   "id": "geography-00999",
-   "q": "Which of the following pairs of river and origin is NOT correctly matched?",
-   "o": [
-    "Beas - Beas Kund",
-    "Chambal - Janapav Hill",
-    "Chenab - Baralacha La",
-    "Sharavati - Sihawa"
-   ],
-   "a": 3,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Sharavati - Sihawa is not correctly matched."
-  },
-  {
-   "id": "geography-01000",
-   "q": "Which Indian state has the highest sex ratio?",
-   "o": [
-    "Maharashtra",
-    "Narmada",
-    "Kerala",
-    "Kanchenjunga"
    ],
    "a": 2,
    "t": "Geography Questions",

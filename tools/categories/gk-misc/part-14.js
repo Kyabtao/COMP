@@ -20,6 +20,351 @@
  "questions": [
   {
    "id": "gk-misc-p14-0001",
+   "q": "Sarajevo is the capital of which country?",
+   "o": [
+    "Bosnia and Herzegovina",
+    "Indonesia",
+    "Panama",
+    "Mali"
+   ],
+   "a": 0,
+   "t": "Countries, Capitals and Currencies",
+   "l": 1,
+   "s": "generated",
+   "e": "Sarajevo is the capital of Bosnia and Herzegovina."
+  },
+  {
+   "id": "gk-misc-p14-0002",
+   "q": "What is the atomic number of Oxygen?",
+   "o": [
+    "8",
+    "63",
+    "47",
+    "68"
+   ],
+   "a": 0,
+   "t": "Periodic Table",
+   "l": 2,
+   "s": "generated",
+   "e": "The atomic number of Oxygen is 8."
+  },
+  {
+   "id": "gk-misc-p14-0003",
+   "q": "Which of the following pairs of national park and state is correctly matched?",
+   "o": [
+    "Kalesar National Park - Haryana",
+    "Kalesar National Park - Nagaland",
+    "Kalesar National Park - Assam",
+    "Kalesar National Park - Arunachal Pradesh"
+   ],
+   "a": 0,
+   "t": "National Parks and Tiger Reserves",
+   "l": 3,
+   "s": "generated",
+   "e": "Only Kalesar National Park - Haryana is correctly matched."
+  },
+  {
+   "id": "gk-misc-p14-0004",
+   "q": "Which of the following pairs of event and year is correctly matched?",
+   "o": [
+    "Global financial crisis - 1929",
+    "Global financial crisis - 2008",
+    "Global financial crisis - 1789",
+    "Global financial crisis - 1215"
+   ],
+   "a": 1,
+   "t": "World History Events",
+   "l": 3,
+   "s": "generated",
+   "e": "Only Global financial crisis - 2008 is correctly matched."
+  },
+  {
+   "id": "gk-misc-p14-0005",
+   "q": "Which of the following pairs of day and date is correctly matched?",
+   "o": [
+    "World Hindi Day - 9 December",
+    "World Hindi Day - 10 January",
+    "World Hindi Day - 16 September",
+    "World Hindi Day - 3 May"
+   ],
+   "a": 1,
+   "t": "Important Days",
+   "l": 3,
+   "s": "generated",
+   "e": "Only World Hindi Day - 10 January is correctly matched."
+  },
+  {
+   "id": "gk-misc-p14-0006",
+   "q": "Mystery is a synonym of which of the following words?",
+   "o": [
+    "Enigma",
+    "Fortitude",
+    "Elicit",
+    "Conspicuous"
+   ],
+   "a": 0,
+   "t": "Synonyms",
+   "l": 2,
+   "s": "generated",
+   "e": "Mystery is a synonym of Enigma."
+  },
+  {
+   "id": "gk-misc-p14-0007",
+   "q": "Interesting is an antonym of which of the following words?",
+   "o": [
+    "Tedious",
+    "Placid",
+    "Proficient",
+    "Wary"
+   ],
+   "a": 0,
+   "t": "Antonyms",
+   "l": 2,
+   "s": "generated",
+   "e": "Interesting is the opposite of Tedious."
+  },
+  {
+   "id": "gk-misc-p14-0008",
+   "q": "Which of the following pairs is correctly matched?",
+   "o": [
+    "Lose one's head - Do or say the right thing",
+    "Lose one's head - Fail or be defeated",
+    "Lose one's head - Lose self-control",
+    "Lose one's head - Manage within one's income"
+   ],
+   "a": 2,
+   "t": "Idioms and Phrases",
+   "l": 3,
+   "s": "generated",
+   "e": "Only Lose one's head - Lose self-control is correctly matched."
+  },
+  {
+   "id": "gk-misc-p14-0009",
+   "q": "Which of the following pairs is correctly matched?",
+   "o": [
+    "A conversation between two people - Carnivores",
+    "A conversation between two people - Dialogue",
+    "A conversation between two people - Cannibal",
+    "A conversation between two people - Theocracy"
+   ],
+   "a": 1,
+   "t": "One Word Substitution",
+   "l": 3,
+   "s": "generated",
+   "e": "Only A conversation between two people - Dialogue is correctly matched."
+  },
+  {
+   "id": "gk-misc-p14-0010",
+   "q": "Which of the following words is spelt incorrectly?",
+   "o": [
+    "Bicycal",
+    "Hapiness",
+    "Carrage",
+    "Innocense"
+   ],
+   "a": 2,
+   "t": "Spellings",
+   "l": 2,
+   "s": "generated",
+   "e": "The incorrect spelling shown is Carrage; the correct form is Carriage."
+  },
+  {
+   "id": "gk-misc-p14-0011",
+   "q": "Which of the following pairs is correctly matched?",
+   "o": [
+    "Nucleus - Nuclei",
+    "Nucleus - Formulae",
+    "Nucleus - Cacti",
+    "Nucleus - Step-daughters"
+   ],
+   "a": 0,
+   "t": "Plurals",
+   "l": 3,
+   "s": "generated",
+   "e": "Only Nucleus - Nuclei is correctly matched."
+  },
+  {
+   "id": "gk-misc-p14-0012",
+   "q": "Which of the following pairs is correctly matched?",
+   "o": [
+    "Small - Smaller",
+    "Small - Fatter",
+    "Small - Heavier",
+    "Small - Kinder"
+   ],
+   "a": 0,
+   "t": "Degrees of Comparison",
+   "l": 3,
+   "s": "generated",
+   "e": "Only Small - Smaller is correctly matched."
+  },
+  {
+   "id": "gk-misc-p14-0013",
+   "q": "Which of the following pairs of term and description is correctly matched?",
+   "o": [
+    "Encryption - Input device that captures video",
+    "Encryption - Language used to style web pages",
+    "Encryption - Process of converting data into unreadable form",
+    "Encryption - Interface that uses icons and windows"
+   ],
+   "a": 2,
+   "t": "Computer Fundamentals",
+   "l": 3,
+   "s": "generated",
+   "e": "Only Encryption - Process of converting data into unreadable form is correctly matched."
+  },
+  {
+   "id": "gk-misc-p14-0014",
+   "q": "Which of the following abbreviations stands for National Pension System?",
+   "o": [
+    "SWAYAM",
+    "NPS",
+    "BARC",
+    "OPD"
+   ],
+   "a": 1,
+   "t": "Abbreviations",
+   "l": 3,
+   "s": "generated",
+   "e": "National Pension System is abbreviated as NPS."
+  },
+  {
+   "id": "gk-misc-p14-0015",
+   "q": "Kigali is the capital of which country?",
+   "o": [
+    "Kuwait",
+    "Myanmar",
+    "Rwanda",
+    "Cambodia"
+   ],
+   "a": 2,
+   "t": "Countries, Capitals and Currencies",
+   "l": 1,
+   "s": "generated",
+   "e": "Kigali is the capital of Rwanda."
+  },
+  {
+   "id": "gk-misc-p14-0016",
+   "q": "What is the atomic number of Terbium?",
+   "o": [
+    "29",
+    "53",
+    "114",
+    "65"
+   ],
+   "a": 3,
+   "t": "Periodic Table",
+   "l": 2,
+   "s": "generated",
+   "e": "The atomic number of Terbium is 65."
+  },
+  {
+   "id": "gk-misc-p14-0017",
+   "q": "Which of the following pairs of national park and state is correctly matched?",
+   "o": [
+    "Kalesar National Park - Jharkhand",
+    "Kalesar National Park - Haryana",
+    "Kalesar National Park - Kerala",
+    "Kalesar National Park - Madhya Pradesh"
+   ],
+   "a": 1,
+   "t": "National Parks and Tiger Reserves",
+   "l": 3,
+   "s": "generated",
+   "e": "Only Kalesar National Park - Haryana is correctly matched."
+  },
+  {
+   "id": "gk-misc-p14-0018",
+   "q": "Which of the following pairs of event and year is correctly matched?",
+   "o": [
+    "Global financial crisis - 2008",
+    "Global financial crisis - 1865",
+    "Global financial crisis - 1815",
+    "Global financial crisis - 1588"
+   ],
+   "a": 0,
+   "t": "World History Events",
+   "l": 3,
+   "s": "generated",
+   "e": "Only Global financial crisis - 2008 is correctly matched."
+  },
+  {
+   "id": "gk-misc-p14-0019",
+   "q": "Which of the following pairs of day and date is correctly matched?",
+   "o": [
+    "World Radiography Day - 8 November",
+    "World Radiography Day - 10 February",
+    "World Radiography Day - 28 July",
+    "World Radiography Day - 2 December"
+   ],
+   "a": 0,
+   "t": "Important Days",
+   "l": 3,
+   "s": "generated",
+   "e": "Only World Radiography Day - 8 November is correctly matched."
+  },
+  {
+   "id": "gk-misc-p14-0020",
+   "q": "Beginning is a synonym of which of the following words?",
+   "o": [
+    "Audacious",
+    "Incipient",
+    "Fractious",
+    "Precipitate"
+   ],
+   "a": 1,
+   "t": "Synonyms",
+   "l": 2,
+   "s": "generated",
+   "e": "Beginning is a synonym of Incipient."
+  },
+  {
+   "id": "gk-misc-p14-0021",
+   "q": "Beneficial is an antonym of which of the following words?",
+   "o": [
+    "Bold",
+    "Fickle",
+    "Impartial",
+    "Detrimental"
+   ],
+   "a": 3,
+   "t": "Antonyms",
+   "l": 2,
+   "s": "generated",
+   "e": "Beneficial is the opposite of Detrimental."
+  },
+  {
+   "id": "gk-misc-p14-0022",
+   "q": "Which of the following pairs is correctly matched?",
+   "o": [
+    "Null and void - To take the risk",
+    "Null and void - Speak plainly",
+    "Null and void - Permanently",
+    "Null and void - Invalid"
+   ],
+   "a": 3,
+   "t": "Idioms and Phrases",
+   "l": 3,
+   "s": "generated",
+   "e": "Only Null and void - Invalid is correctly matched."
+  },
+  {
+   "id": "gk-misc-p14-0023",
+   "q": "Which of the following pairs is correctly matched?",
+   "o": [
+    "A conversation between two people - Dialogue",
+    "A conversation between two people - Soliloquy",
+    "A conversation between two people - Mint",
+    "A conversation between two people - Armoury"
+   ],
+   "a": 0,
+   "t": "One Word Substitution",
+   "l": 3,
+   "s": "generated",
+   "e": "Only A conversation between two people - Dialogue is correctly matched."
+  },
+  {
+   "id": "gk-misc-p14-0024",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Catagory",
@@ -34,7 +379,7 @@
    "e": "The incorrect spelling shown is Catagory; the correct form is Category."
   },
   {
-   "id": "gk-misc-p14-0002",
+   "id": "gk-misc-p14-0025",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Nucleus - Axes",
@@ -49,7 +394,7 @@
    "e": "Only Nucleus - Nuclei is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0003",
+   "id": "gk-misc-p14-0026",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Small - Braver",
@@ -64,7 +409,7 @@
    "e": "Only Small - Smaller is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0004",
+   "id": "gk-misc-p14-0027",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Encryption - Device that modulates signals for data transmission",
@@ -79,7 +424,7 @@
    "e": "Only Encryption - Process of converting data into unreadable form is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0005",
+   "id": "gk-misc-p14-0028",
    "q": "Which of the following abbreviations stands for Securities and Exchange Board of India?",
    "o": [
     "GNP",
@@ -94,7 +439,7 @@
    "e": "Securities and Exchange Board of India is abbreviated as SEBI."
   },
   {
-   "id": "gk-misc-p14-0006",
+   "id": "gk-misc-p14-0029",
    "q": "Port Moresby is the capital of which country?",
    "o": [
     "Papua New Guinea",
@@ -109,7 +454,7 @@
    "e": "Port Moresby is the capital of Papua New Guinea."
   },
   {
-   "id": "gk-misc-p14-0007",
+   "id": "gk-misc-p14-0030",
    "q": "What is the atomic number of Tantalum?",
    "o": [
     "32",
@@ -124,7 +469,7 @@
    "e": "The atomic number of Tantalum is 73."
   },
   {
-   "id": "gk-misc-p14-0008",
+   "id": "gk-misc-p14-0031",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Balphakram National Park - Assam",
@@ -139,7 +484,7 @@
    "e": "Only Balphakram National Park - Meghalaya is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0009",
+   "id": "gk-misc-p14-0032",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "D-Day landings in Normandy - 1962",
@@ -154,7 +499,7 @@
    "e": "Only D-Day landings in Normandy - 1944 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0010",
+   "id": "gk-misc-p14-0033",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "World Radiography Day - 29 August",
@@ -169,7 +514,7 @@
    "e": "Only World Radiography Day - 8 November is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0011",
+   "id": "gk-misc-p14-0034",
    "q": "Weaken is a synonym of which of the following words?",
    "o": [
     "Philanthropy",
@@ -184,7 +529,7 @@
    "e": "Weaken is a synonym of Debilitate."
   },
   {
-   "id": "gk-misc-p14-0012",
+   "id": "gk-misc-p14-0035",
    "q": "Frequent is an antonym of which of the following words?",
    "o": [
     "Sporadic",
@@ -199,7 +544,7 @@
    "e": "Frequent is the opposite of Sporadic."
   },
   {
-   "id": "gk-misc-p14-0013",
+   "id": "gk-misc-p14-0036",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Null and void - Insincere grief",
@@ -214,7 +559,7 @@
    "e": "Only Null and void - Invalid is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0014",
+   "id": "gk-misc-p14-0037",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who is present everywhere - Anarchy",
@@ -229,7 +574,7 @@
    "e": "Only One who is present everywhere - Omnipresent is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0015",
+   "id": "gk-misc-p14-0038",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Ommision",
@@ -244,7 +589,7 @@
    "e": "The incorrect spelling shown is Ommision; the correct form is Omission."
   },
   {
-   "id": "gk-misc-p14-0016",
+   "id": "gk-misc-p14-0039",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Cactus - Stimuli",
@@ -259,7 +604,7 @@
    "e": "Only Cactus - Cacti is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0017",
+   "id": "gk-misc-p14-0040",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Busy - Busier",
@@ -274,7 +619,7 @@
    "e": "Only Busy - Busier is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0018",
+   "id": "gk-misc-p14-0041",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Device driver - Language used to structure web pages",
@@ -289,7 +634,7 @@
    "e": "Only Device driver - Software that lets the OS talk to hardware is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0019",
+   "id": "gk-misc-p14-0042",
    "q": "Which of the following abbreviations stands for International Securities Identification Number?",
    "o": [
     "RTE",
@@ -304,7 +649,7 @@
    "e": "International Securities Identification Number is abbreviated as ISIN."
   },
   {
-   "id": "gk-misc-p14-0020",
+   "id": "gk-misc-p14-0043",
    "q": "Algiers is the capital of which country?",
    "o": [
     "Malawi",
@@ -319,7 +664,7 @@
    "e": "Algiers is the capital of Algeria."
   },
   {
-   "id": "gk-misc-p14-0021",
+   "id": "gk-misc-p14-0044",
    "q": "What is the atomic number of Lutetium?",
    "o": [
     "16",
@@ -334,7 +679,7 @@
    "e": "The atomic number of Lutetium is 71."
   },
   {
-   "id": "gk-misc-p14-0022",
+   "id": "gk-misc-p14-0045",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Balphakram National Park - Madhya Pradesh",
@@ -349,7 +694,7 @@
    "e": "Only Balphakram National Park - Meghalaya is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0023",
+   "id": "gk-misc-p14-0046",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "D-Day landings in Normandy - 1962",
@@ -364,7 +709,7 @@
    "e": "Only D-Day landings in Normandy - 1944 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0024",
+   "id": "gk-misc-p14-0047",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "World Rivers Day - fourth Sunday of September",
@@ -379,7 +724,7 @@
    "e": "Only World Rivers Day - fourth Sunday of September is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0025",
+   "id": "gk-misc-p14-0048",
    "q": "Pacify is a synonym of which of the following words?",
    "o": [
     "Appease",
@@ -394,7 +739,7 @@
    "e": "Pacify is a synonym of Appease."
   },
   {
-   "id": "gk-misc-p14-0026",
+   "id": "gk-misc-p14-0049",
    "q": "Stable is an antonym of which of the following words?",
    "o": [
     "Conspicuous",
@@ -409,7 +754,7 @@
    "e": "Stable is the opposite of Volatile."
   },
   {
-   "id": "gk-misc-p14-0027",
+   "id": "gk-misc-p14-0050",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "At sixes and sevens - Agree completely",
@@ -424,7 +769,7 @@
    "e": "Only At sixes and sevens - In disorder is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0028",
+   "id": "gk-misc-p14-0051",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who is present everywhere - Pessimist",
@@ -439,7 +784,7 @@
    "e": "Only One who is present everywhere - Omnipresent is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0029",
+   "id": "gk-misc-p14-0052",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Curtesy",
@@ -454,7 +799,7 @@
    "e": "The incorrect spelling shown is Curtesy; the correct form is Courtesy."
   },
   {
-   "id": "gk-misc-p14-0030",
+   "id": "gk-misc-p14-0053",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Cactus - Cacti",
@@ -469,7 +814,7 @@
    "e": "Only Cactus - Cacti is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0031",
+   "id": "gk-misc-p14-0054",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Busy - Faster",
@@ -484,7 +829,7 @@
    "e": "Only Busy - Busier is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0032",
+   "id": "gk-misc-p14-0055",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Device driver - Diagram of the steps of an algorithm",
@@ -499,7 +844,7 @@
    "e": "Only Device driver - Software that lets the OS talk to hardware is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0033",
+   "id": "gk-misc-p14-0056",
    "q": "Which of the following abbreviations stands for Punjab National Bank?",
    "o": [
     "NPS",
@@ -514,7 +859,7 @@
    "e": "Punjab National Bank is abbreviated as PNB."
   },
   {
-   "id": "gk-misc-p14-0034",
+   "id": "gk-misc-p14-0057",
    "q": "Paris is the capital of which country?",
    "o": [
     "France",
@@ -529,7 +874,7 @@
    "e": "Paris is the capital of France."
   },
   {
-   "id": "gk-misc-p14-0035",
+   "id": "gk-misc-p14-0058",
    "q": "What is the atomic number of Krypton?",
    "o": [
     "70",
@@ -544,7 +889,7 @@
    "e": "The atomic number of Krypton is 36."
   },
   {
-   "id": "gk-misc-p14-0036",
+   "id": "gk-misc-p14-0059",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Bhadra Tiger Reserve - Kerala",
@@ -559,7 +904,7 @@
    "e": "Only Bhadra Tiger Reserve - Karnataka is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0037",
+   "id": "gk-misc-p14-0060",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Release of Nelson Mandela from prison - 1990",
@@ -574,7 +919,7 @@
    "e": "Only Release of Nelson Mandela from prison - 1990 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0038",
+   "id": "gk-misc-p14-0061",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "World Rivers Day - 16 September",
@@ -589,7 +934,7 @@
    "e": "Only World Rivers Day - fourth Sunday of September is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0039",
+   "id": "gk-misc-p14-0062",
    "q": "Burdensome is a synonym of which of the following words?",
    "o": [
     "Onerous",
@@ -604,7 +949,7 @@
    "e": "Burdensome is a synonym of Onerous."
   },
   {
-   "id": "gk-misc-p14-0040",
+   "id": "gk-misc-p14-0063",
    "q": "Safe is an antonym of which of the following words?",
    "o": [
     "Hazardous",
@@ -619,7 +964,7 @@
    "e": "Safe is the opposite of Hazardous."
   },
   {
-   "id": "gk-misc-p14-0041",
+   "id": "gk-misc-p14-0064",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "At sixes and sevens - Understand the hidden meaning",
@@ -634,7 +979,7 @@
    "e": "Only At sixes and sevens - In disorder is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0042",
+   "id": "gk-misc-p14-0065",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A person who makes and sells bread - Pessimist",
@@ -649,7 +994,7 @@
    "e": "Only A person who makes and sells bread - Baker is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0043",
+   "id": "gk-misc-p14-0066",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Commitee",
@@ -664,7 +1009,7 @@
    "e": "The incorrect spelling shown is Convinient; the correct form is Convenient."
   },
   {
-   "id": "gk-misc-p14-0044",
+   "id": "gk-misc-p14-0067",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Analysis - Calves",
@@ -679,7 +1024,7 @@
    "e": "Only Analysis - Analyses is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0045",
+   "id": "gk-misc-p14-0068",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Bad - Older",
@@ -694,7 +1039,7 @@
    "e": "Only Bad - Worse is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0046",
+   "id": "gk-misc-p14-0069",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "POP3 - Protocol for retrieving email",
@@ -709,7 +1054,7 @@
    "e": "Only POP3 - Protocol for retrieving email is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0047",
+   "id": "gk-misc-p14-0070",
    "q": "Which of the following abbreviations stands for Organisation for Economic Co-operation and Development?",
    "o": [
     "PMFBY",
@@ -724,7 +1069,7 @@
    "e": "Organisation for Economic Co-operation and Development is abbreviated as OECD."
   },
   {
-   "id": "gk-misc-p14-0048",
+   "id": "gk-misc-p14-0071",
    "q": "Lome is the capital of which country?",
    "o": [
     "Togo",
@@ -739,7 +1084,7 @@
    "e": "Lome is the capital of Togo."
   },
   {
-   "id": "gk-misc-p14-0049",
+   "id": "gk-misc-p14-0072",
    "q": "What is the atomic number of Tungsten?",
    "o": [
     "74",
@@ -754,7 +1099,7 @@
    "e": "The atomic number of Tungsten is 74."
   },
   {
-   "id": "gk-misc-p14-0050",
+   "id": "gk-misc-p14-0073",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Bhadra Tiger Reserve - Karnataka",
@@ -769,7 +1114,7 @@
    "e": "Only Bhadra Tiger Reserve - Karnataka is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0051",
+   "id": "gk-misc-p14-0074",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Release of Nelson Mandela from prison - 1948",
@@ -784,7 +1129,7 @@
    "e": "Only Release of Nelson Mandela from prison - 1990 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0052",
+   "id": "gk-misc-p14-0075",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "World Tourism Day - 28 February",
@@ -799,7 +1144,7 @@
    "e": "Only World Tourism Day - 27 September is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0053",
+   "id": "gk-misc-p14-0076",
    "q": "Complaining is a synonym of which of the following words?",
    "o": [
     "Querulous",
@@ -814,7 +1159,7 @@
    "e": "Complaining is a synonym of Querulous."
   },
   {
-   "id": "gk-misc-p14-0054",
+   "id": "gk-misc-p14-0077",
    "q": "Retain is an antonym of which of the following words?",
    "o": [
     "Relinquish",
@@ -829,7 +1174,7 @@
    "e": "Retain is the opposite of Relinquish."
   },
   {
-   "id": "gk-misc-p14-0055",
+   "id": "gk-misc-p14-0078",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Above board - Speak plainly",
@@ -844,7 +1189,7 @@
    "e": "Only Above board - Honest and open is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0056",
+   "id": "gk-misc-p14-0079",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A person who makes and sells bread - Baker",
@@ -859,7 +1204,7 @@
    "e": "Only A person who makes and sells bread - Baker is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0057",
+   "id": "gk-misc-p14-0080",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Sophistocated",
@@ -874,7 +1219,7 @@
    "e": "The incorrect spelling shown is Sophistocated; the correct form is Sophisticated."
   },
   {
-   "id": "gk-misc-p14-0058",
+   "id": "gk-misc-p14-0081",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Analysis - Analyses",
@@ -889,7 +1234,7 @@
    "e": "Only Analysis - Analyses is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0059",
+   "id": "gk-misc-p14-0082",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Bad - Weaker",
@@ -904,7 +1249,7 @@
    "e": "Only Bad - Worse is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0060",
+   "id": "gk-misc-p14-0083",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "POP3 - The processing unit that executes instructions",
@@ -919,7 +1264,7 @@
    "e": "Only POP3 - Protocol for retrieving email is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0061",
+   "id": "gk-misc-p14-0084",
    "q": "Which of the following abbreviations stands for Pradhan Mantri Fasal Bima Yojana?",
    "o": [
     "EMF",
@@ -934,7 +1279,7 @@
    "e": "Pradhan Mantri Fasal Bima Yojana is abbreviated as PMFBY."
   },
   {
-   "id": "gk-misc-p14-0062",
+   "id": "gk-misc-p14-0085",
    "q": "Honiara is the capital of which country?",
    "o": [
     "New Zealand",
@@ -949,7 +1294,7 @@
    "e": "Honiara is the capital of Solomon Islands."
   },
   {
-   "id": "gk-misc-p14-0063",
+   "id": "gk-misc-p14-0086",
    "q": "What is the atomic number of Hassium?",
    "o": [
     "108",
@@ -964,7 +1309,7 @@
    "e": "The atomic number of Hassium is 108."
   },
   {
-   "id": "gk-misc-p14-0064",
+   "id": "gk-misc-p14-0087",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Mukandra Hills Tiger Reserve - Chhattisgarh",
@@ -979,7 +1324,7 @@
    "e": "Only Mukandra Hills Tiger Reserve - Rajasthan is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0065",
+   "id": "gk-misc-p14-0088",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Assassination of John F. Kennedy - 1950",
@@ -994,7 +1339,7 @@
    "e": "Only Assassination of John F. Kennedy - 1963 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0066",
+   "id": "gk-misc-p14-0089",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "World Tourism Day - 27 September",
@@ -1009,7 +1354,7 @@
    "e": "Only World Tourism Day - 27 September is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0067",
+   "id": "gk-misc-p14-0090",
    "q": "Generous is a synonym of which of the following words?",
    "o": [
     "Astute",
@@ -1024,7 +1369,7 @@
    "e": "Generous is a synonym of Magnanimous."
   },
   {
-   "id": "gk-misc-p14-0068",
+   "id": "gk-misc-p14-0091",
    "q": "Foolish is an antonym of which of the following words?",
    "o": [
     "Superfluous",
@@ -1039,7 +1384,7 @@
    "e": "Foolish is the opposite of Sagacious."
   },
   {
-   "id": "gk-misc-p14-0069",
+   "id": "gk-misc-p14-0092",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Above board - Honest and open",
@@ -1054,7 +1399,7 @@
    "e": "Only Above board - Honest and open is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0070",
+   "id": "gk-misc-p14-0093",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A disease that spreads worldwide - Epitaph",
@@ -1069,7 +1414,7 @@
    "e": "Only A disease that spreads worldwide - Pandemic is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0071",
+   "id": "gk-misc-p14-0094",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Pronounciation",
@@ -1084,7 +1429,7 @@
    "e": "The incorrect spelling shown is Appearence; the correct form is Appearance."
   },
   {
-   "id": "gk-misc-p14-0072",
+   "id": "gk-misc-p14-0095",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Criterion - Armies",
@@ -1099,7 +1444,7 @@
    "e": "Only Criterion - Criteria is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0073",
+   "id": "gk-misc-p14-0096",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Slow - Safer",
@@ -1114,7 +1459,7 @@
    "e": "Only Slow - Slower is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0074",
+   "id": "gk-misc-p14-0097",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Unicode - Protocol for retrieving email",
@@ -1129,7 +1474,7 @@
    "e": "Only Unicode - Universal character encoding standard is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0075",
+   "id": "gk-misc-p14-0098",
    "q": "Which of the following abbreviations stands for Pradhan Mantri Ujjwala Yojana?",
    "o": [
     "PMUY",
@@ -1144,7 +1489,7 @@
    "e": "Pradhan Mantri Ujjwala Yojana is abbreviated as PMUY."
   },
   {
-   "id": "gk-misc-p14-0076",
+   "id": "gk-misc-p14-0099",
    "q": "Gitega is the capital of which country?",
    "o": [
     "Republic of the Congo",
@@ -1159,7 +1504,7 @@
    "e": "Gitega is the capital of Burundi."
   },
   {
-   "id": "gk-misc-p14-0077",
+   "id": "gk-misc-p14-0100",
    "q": "What is the atomic number of Oganesson?",
    "o": [
     "16",
@@ -1174,7 +1519,7 @@
    "e": "The atomic number of Oganesson is 118."
   },
   {
-   "id": "gk-misc-p14-0078",
+   "id": "gk-misc-p14-0101",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Mukandra Hills Tiger Reserve - Odisha",
@@ -1189,7 +1534,7 @@
    "e": "Only Mukandra Hills Tiger Reserve - Rajasthan is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0079",
+   "id": "gk-misc-p14-0102",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Assassination of John F. Kennedy - 1869",
@@ -1204,7 +1549,7 @@
    "e": "Only Assassination of John F. Kennedy - 1963 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0080",
+   "id": "gk-misc-p14-0103",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "International Students' Day - 4 January",
@@ -1219,7 +1564,7 @@
    "e": "Only International Students' Day - 17 November is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0081",
+   "id": "gk-misc-p14-0104",
    "q": "Touching is a synonym of which of the following words?",
    "o": [
     "Adversity",
@@ -1234,7 +1579,7 @@
    "e": "Touching is a synonym of Poignant."
   },
   {
-   "id": "gk-misc-p14-0082",
+   "id": "gk-misc-p14-0105",
    "q": "Extrinsic is an antonym of which of the following words?",
    "o": [
     "Haughty",
@@ -1249,7 +1594,7 @@
    "e": "Extrinsic is the opposite of Intrinsic."
   },
   {
-   "id": "gk-misc-p14-0083",
+   "id": "gk-misc-p14-0106",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Fight shy of - To hope for success",
@@ -1264,7 +1609,7 @@
    "e": "Only Fight shy of - Avoid is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0084",
+   "id": "gk-misc-p14-0107",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A disease that spreads worldwide - Contagious",
@@ -1279,7 +1624,7 @@
    "e": "Only A disease that spreads worldwide - Pandemic is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0085",
+   "id": "gk-misc-p14-0108",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Referance",
@@ -1294,7 +1639,7 @@
    "e": "The incorrect spelling shown is Occassion; the correct form is Occasion."
   },
   {
-   "id": "gk-misc-p14-0086",
+   "id": "gk-misc-p14-0109",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Criterion - Criteria",
@@ -1309,7 +1654,7 @@
    "e": "Only Criterion - Criteria is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0087",
+   "id": "gk-misc-p14-0110",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Slow - More intelligent",
@@ -1324,7 +1669,7 @@
    "e": "Only Slow - Slower is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0088",
+   "id": "gk-misc-p14-0111",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Unicode - Universal character encoding standard",
@@ -1339,7 +1684,7 @@
    "e": "Only Unicode - Universal character encoding standard is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0089",
+   "id": "gk-misc-p14-0112",
    "q": "Which of the following abbreviations stands for Organization of the Petroleum Exporting Countries?",
    "o": [
     "OPEC",
@@ -1354,7 +1699,7 @@
    "e": "Organization of the Petroleum Exporting Countries is abbreviated as OPEC."
   },
   {
-   "id": "gk-misc-p14-0090",
+   "id": "gk-misc-p14-0113",
    "q": "Santo Domingo is the capital of which country?",
    "o": [
     "Dominican Republic",
@@ -1369,7 +1714,7 @@
    "e": "Santo Domingo is the capital of Dominican Republic."
   },
   {
-   "id": "gk-misc-p14-0091",
+   "id": "gk-misc-p14-0114",
    "q": "What is the atomic number of Lawrencium?",
    "o": [
     "62",
@@ -1384,7 +1729,7 @@
    "e": "The atomic number of Lawrencium is 103."
   },
   {
-   "id": "gk-misc-p14-0092",
+   "id": "gk-misc-p14-0115",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Valmiki Tiger Reserve - Jharkhand",
@@ -1399,7 +1744,7 @@
    "e": "Only Valmiki Tiger Reserve - Bihar is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0093",
+   "id": "gk-misc-p14-0116",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Columbus reached the Americas - 1861",
@@ -1414,7 +1759,7 @@
    "e": "Only Columbus reached the Americas - 1492 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0094",
+   "id": "gk-misc-p14-0117",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "International Students' Day - 17 November",
@@ -1429,7 +1774,7 @@
    "e": "Only International Students' Day - 17 November is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0095",
+   "id": "gk-misc-p14-0118",
    "q": "Secret is a synonym of which of the following words?",
    "o": [
     "Punctilious",
@@ -1444,7 +1789,7 @@
    "e": "Secret is a synonym of Surreptitious."
   },
   {
-   "id": "gk-misc-p14-0096",
+   "id": "gk-misc-p14-0119",
    "q": "Turbulent is an antonym of which of the following words?",
    "o": [
     "Serene",
@@ -1459,7 +1804,7 @@
    "e": "Turbulent is the opposite of Serene."
   },
   {
-   "id": "gk-misc-p14-0097",
+   "id": "gk-misc-p14-0120",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Fight shy of - To retract one's statement",
@@ -1474,7 +1819,7 @@
    "e": "Only Fight shy of - Avoid is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0098",
+   "id": "gk-misc-p14-0121",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The practice of having many husbands - Polyandry",
@@ -1489,7 +1834,7 @@
    "e": "Only The practice of having many husbands - Polyandry is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0099",
+   "id": "gk-misc-p14-0122",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Cheif",
@@ -1504,7 +1849,7 @@
    "e": "The incorrect spelling shown is Courgaeous; the correct form is Courageous."
   },
   {
-   "id": "gk-misc-p14-0100",
+   "id": "gk-misc-p14-0123",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Passer-by - Swine",
@@ -1519,7 +1864,7 @@
    "e": "Only Passer-by - Passers-by is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0101",
+   "id": "gk-misc-p14-0124",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Heavy - Stronger",
@@ -1534,7 +1879,7 @@
    "e": "Only Heavy - Heavier is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0102",
+   "id": "gk-misc-p14-0125",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Interpreter - Program that converts source code into machine code",
@@ -1549,7 +1894,7 @@
    "e": "Only Interpreter - Program that executes code line by line is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0103",
+   "id": "gk-misc-p14-0126",
    "q": "Which of the following abbreviations stands for University Grants Commission?",
    "o": [
     "SIDBI",
@@ -1564,7 +1909,7 @@
    "e": "University Grants Commission is abbreviated as UGC."
   },
   {
-   "id": "gk-misc-p14-0104",
+   "id": "gk-misc-p14-0127",
    "q": "Kabul is the capital of which country?",
    "o": [
     "Guatemala",
@@ -1579,7 +1924,7 @@
    "e": "Kabul is the capital of Afghanistan."
   },
   {
-   "id": "gk-misc-p14-0105",
+   "id": "gk-misc-p14-0128",
    "q": "What is the atomic number of Titanium?",
    "o": [
     "42",
@@ -1594,7 +1939,7 @@
    "e": "The atomic number of Titanium is 22."
   },
   {
-   "id": "gk-misc-p14-0106",
+   "id": "gk-misc-p14-0129",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Valmiki Tiger Reserve - Tamil Nadu",
@@ -1609,7 +1954,7 @@
    "e": "Only Valmiki Tiger Reserve - Bihar is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0107",
+   "id": "gk-misc-p14-0130",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Columbus reached the Americas - 1848",
@@ -1624,7 +1969,7 @@
    "e": "Only Columbus reached the Americas - 1492 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0108",
+   "id": "gk-misc-p14-0131",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "World Kindness Day - 8 September",
@@ -1639,7 +1984,7 @@
    "e": "Only World Kindness Day - 13 November is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0109",
+   "id": "gk-misc-p14-0132",
    "q": "Wise is a synonym of which of the following words?",
    "o": [
     "Somnolent",
@@ -1654,7 +1999,7 @@
    "e": "Wise is a synonym of Sagacious."
   },
   {
-   "id": "gk-misc-p14-0110",
+   "id": "gk-misc-p14-0133",
    "q": "Thrifty is an antonym of which of the following words?",
    "o": [
     "Venerable",
@@ -1669,7 +2014,7 @@
    "e": "Thrifty is the opposite of Prodigal."
   },
   {
-   "id": "gk-misc-p14-0111",
+   "id": "gk-misc-p14-0134",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Rule the roost - Be the dominant person",
@@ -1684,7 +2029,7 @@
    "e": "Only Rule the roost - Be the dominant person is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0112",
+   "id": "gk-misc-p14-0135",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The practice of having many husbands - Polyandry",
@@ -1699,7 +2044,7 @@
    "e": "Only The practice of having many husbands - Polyandry is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0113",
+   "id": "gk-misc-p14-0136",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Questionaire",
@@ -1714,7 +2059,7 @@
    "e": "The incorrect spelling shown is Questionaire; the correct form is Questionnaire."
   },
   {
-   "id": "gk-misc-p14-0114",
+   "id": "gk-misc-p14-0137",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Passer-by - Radii",
@@ -1729,7 +2074,7 @@
    "e": "Only Passer-by - Passers-by is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0115",
+   "id": "gk-misc-p14-0138",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Heavy - Stronger",
@@ -1744,7 +2089,7 @@
    "e": "Only Heavy - Heavier is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0116",
+   "id": "gk-misc-p14-0139",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Interpreter - Software that secretly collects information",
@@ -1759,7 +2104,7 @@
    "e": "Only Interpreter - Program that executes code line by line is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0117",
+   "id": "gk-misc-p14-0140",
    "q": "Which of the following abbreviations stands for Pension Fund Regulatory and Development Authority?",
    "o": [
     "SAARC",
@@ -1774,7 +2119,7 @@
    "e": "Pension Fund Regulatory and Development Authority is abbreviated as PFRDA."
   },
   {
-   "id": "gk-misc-p14-0118",
+   "id": "gk-misc-p14-0141",
    "q": "Vilnius is the capital of which country?",
    "o": [
     "Lithuania",
@@ -1789,7 +2134,7 @@
    "e": "Vilnius is the capital of Lithuania."
   },
   {
-   "id": "gk-misc-p14-0119",
+   "id": "gk-misc-p14-0142",
    "q": "What is the atomic number of Promethium?",
    "o": [
     "40",
@@ -1804,7 +2149,7 @@
    "e": "The atomic number of Promethium is 61."
   },
   {
-   "id": "gk-misc-p14-0120",
+   "id": "gk-misc-p14-0143",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Intanki National Park - Nagaland",
@@ -1819,7 +2164,7 @@
    "e": "Only Intanki National Park - Nagaland is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0121",
+   "id": "gk-misc-p14-0144",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Glorious Revolution in England - 1215",
@@ -1834,7 +2179,7 @@
    "e": "Only Glorious Revolution in England - 1688 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0122",
+   "id": "gk-misc-p14-0145",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "World Kindness Day - 4 January",
@@ -1849,7 +2194,7 @@
    "e": "Only World Kindness Day - 13 November is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0123",
+   "id": "gk-misc-p14-0146",
    "q": "Hinder is a synonym of which of the following words?",
    "o": [
     "Tantamount",
@@ -1864,7 +2209,7 @@
    "e": "Hinder is a synonym of Hamper."
   },
   {
-   "id": "gk-misc-p14-0124",
+   "id": "gk-misc-p14-0147",
    "q": "Avoidable is an antonym of which of the following words?",
    "o": [
     "Ubiquitous",
@@ -1879,7 +2224,7 @@
    "e": "Avoidable is the opposite of Inevitable."
   },
   {
-   "id": "gk-misc-p14-0125",
+   "id": "gk-misc-p14-0148",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Rule the roost - At the last moment",
@@ -1894,7 +2239,7 @@
    "e": "Only Rule the roost - Be the dominant person is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0126",
+   "id": "gk-misc-p14-0149",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who never makes a mistake - Psychologist",
@@ -1909,7 +2254,7 @@
    "e": "Only One who never makes a mistake - Infallible is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0127",
+   "id": "gk-misc-p14-0150",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Unforseen",
@@ -1924,7 +2269,7 @@
    "e": "The incorrect spelling shown is Eigth; the correct form is Eighth."
   },
   {
-   "id": "gk-misc-p14-0128",
+   "id": "gk-misc-p14-0151",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "City - Criteria",
@@ -1939,7 +2284,7 @@
    "e": "Only City - Cities is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0129",
+   "id": "gk-misc-p14-0152",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Kind - Busier",
@@ -1954,7 +2299,7 @@
    "e": "Only Kind - Kinder is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0130",
+   "id": "gk-misc-p14-0153",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "URL - Input device that converts paper documents to digital form",
@@ -1969,7 +2314,7 @@
    "e": "Only URL - Address of a resource on the internet is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0131",
+   "id": "gk-misc-p14-0154",
    "q": "Which of the following abbreviations stands for Computed Tomography?",
    "o": [
     "PNB",
@@ -1984,7 +2329,7 @@
    "e": "Computed Tomography is abbreviated as CT."
   },
   {
-   "id": "gk-misc-p14-0132",
+   "id": "gk-misc-p14-0155",
    "q": "Caracas is the capital of which country?",
    "o": [
     "Estonia",
@@ -1999,7 +2344,7 @@
    "e": "Caracas is the capital of Venezuela."
   },
   {
-   "id": "gk-misc-p14-0133",
+   "id": "gk-misc-p14-0156",
    "q": "What is the atomic number of Thallium?",
    "o": [
     "116",
@@ -2014,7 +2359,7 @@
    "e": "The atomic number of Thallium is 81."
   },
   {
-   "id": "gk-misc-p14-0134",
+   "id": "gk-misc-p14-0157",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Intanki National Park - Uttar Pradesh",
@@ -2029,7 +2374,7 @@
    "e": "Only Intanki National Park - Nagaland is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0135",
+   "id": "gk-misc-p14-0158",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Glorious Revolution in England - 1992",
@@ -2044,7 +2389,7 @@
    "e": "Only Glorious Revolution in England - 1688 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0136",
+   "id": "gk-misc-p14-0159",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "World Animal Day - third Thursday of November",
@@ -2059,7 +2404,7 @@
    "e": "Only World Animal Day - 4 October is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0137",
+   "id": "gk-misc-p14-0160",
    "q": "Unintentional is a synonym of which of the following words?",
    "o": [
     "Inadvertent",
@@ -2074,7 +2419,7 @@
    "e": "Unintentional is a synonym of Inadvertent."
   },
   {
-   "id": "gk-misc-p14-0138",
+   "id": "gk-misc-p14-0161",
    "q": "Distant is an antonym of which of the following words?",
    "o": [
     "Imminent",
@@ -2089,7 +2434,7 @@
    "e": "Distant is the opposite of Imminent."
   },
   {
-   "id": "gk-misc-p14-0139",
+   "id": "gk-misc-p14-0162",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Bite the dust - With all one's belongings",
@@ -2104,7 +2449,7 @@
    "e": "Only Bite the dust - Fail or be defeated is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0140",
+   "id": "gk-misc-p14-0163",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who never makes a mistake - Somnambulist",
@@ -2119,7 +2464,7 @@
    "e": "Only One who never makes a mistake - Infallible is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0141",
+   "id": "gk-misc-p14-0164",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Arguement",
@@ -2134,7 +2479,7 @@
    "e": "The incorrect spelling shown is Concieted; the correct form is Conceited."
   },
   {
-   "id": "gk-misc-p14-0142",
+   "id": "gk-misc-p14-0165",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "City - Cities",
@@ -2149,7 +2494,7 @@
    "e": "Only City - Cities is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0143",
+   "id": "gk-misc-p14-0166",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Kind - Heavier",
@@ -2164,7 +2509,7 @@
    "e": "Only Kind - Kinder is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0144",
+   "id": "gk-misc-p14-0167",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "URL - High level general purpose programming language",
@@ -2179,7 +2524,7 @@
    "e": "Only URL - Address of a resource on the internet is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0145",
+   "id": "gk-misc-p14-0168",
    "q": "Which of the following abbreviations stands for International Union for Conservation of Nature?",
    "o": [
     "NAV",
@@ -2194,7 +2539,7 @@
    "e": "International Union for Conservation of Nature is abbreviated as IUCN."
   },
   {
-   "id": "gk-misc-p14-0146",
+   "id": "gk-misc-p14-0169",
    "q": "Bishkek is the capital of which country?",
    "o": [
     "Kyrgyzstan",
@@ -2209,7 +2554,7 @@
    "e": "Bishkek is the capital of Kyrgyzstan."
   },
   {
-   "id": "gk-misc-p14-0147",
+   "id": "gk-misc-p14-0170",
    "q": "What is the atomic number of Americium?",
    "o": [
     "104",
@@ -2224,7 +2569,7 @@
    "e": "The atomic number of Americium is 95."
   },
   {
-   "id": "gk-misc-p14-0148",
+   "id": "gk-misc-p14-0171",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Madhav Tiger Reserve - Maharashtra",
@@ -2239,7 +2584,7 @@
    "e": "Only Madhav Tiger Reserve - Madhya Pradesh is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0149",
+   "id": "gk-misc-p14-0172",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Establishment of the East India Company - 1215",
@@ -2254,7 +2599,7 @@
    "e": "Only Establishment of the East India Company - 1600 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0150",
+   "id": "gk-misc-p14-0173",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "World Animal Day - 21 November",
@@ -2269,7 +2614,7 @@
    "e": "Only World Animal Day - 4 October is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0151",
+   "id": "gk-misc-p14-0174",
    "q": "Relevant is a synonym of which of the following words?",
    "o": [
     "Pertinent",
@@ -2284,7 +2629,7 @@
    "e": "Relevant is a synonym of Pertinent."
   },
   {
-   "id": "gk-misc-p14-0152",
+   "id": "gk-misc-p14-0175",
    "q": "Intensify is an antonym of which of the following words?",
    "o": [
     "Fluctuate",
@@ -2299,7 +2644,7 @@
    "e": "Intensify is the opposite of Mitigate."
   },
   {
-   "id": "gk-misc-p14-0153",
+   "id": "gk-misc-p14-0176",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Bite the dust - Unfair",
@@ -2314,7 +2659,7 @@
    "e": "Only Bite the dust - Fail or be defeated is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0154",
+   "id": "gk-misc-p14-0177",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A place where dead bodies are kept - Mint",
@@ -2329,7 +2674,7 @@
    "e": "Only A place where dead bodies are kept - Mortuary is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0155",
+   "id": "gk-misc-p14-0178",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Wenesday",
@@ -2344,7 +2689,7 @@
    "e": "The incorrect spelling shown is Freind; the correct form is Friend."
   },
   {
-   "id": "gk-misc-p14-0156",
+   "id": "gk-misc-p14-0179",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Index - Armies",
@@ -2359,7 +2704,7 @@
    "e": "Only Index - Indices is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0157",
+   "id": "gk-misc-p14-0180",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Intelligent - Kinder",
@@ -2374,7 +2719,7 @@
    "e": "Only Intelligent - More intelligent is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0158",
+   "id": "gk-misc-p14-0181",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Flowchart - Software that detects and removes malicious programs",
@@ -2389,7 +2734,7 @@
    "e": "Only Flowchart - Diagram of the steps of an algorithm is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0159",
+   "id": "gk-misc-p14-0182",
    "q": "Which of the following abbreviations stands for United Nations Environment Programme?",
    "o": [
     "ISIN",
@@ -2404,7 +2749,7 @@
    "e": "United Nations Environment Programme is abbreviated as UNEP."
   },
   {
-   "id": "gk-misc-p14-0160",
+   "id": "gk-misc-p14-0183",
    "q": "Nouakchott is the capital of which country?",
    "o": [
     "Cameroon",
@@ -2419,7 +2764,7 @@
    "e": "Nouakchott is the capital of Mauritania."
   },
   {
-   "id": "gk-misc-p14-0161",
+   "id": "gk-misc-p14-0184",
    "q": "What is the atomic number of Polonium?",
    "o": [
     "98",
@@ -2434,7 +2779,7 @@
    "e": "The atomic number of Polonium is 84."
   },
   {
-   "id": "gk-misc-p14-0162",
+   "id": "gk-misc-p14-0185",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Madhav Tiger Reserve - Odisha",
@@ -2449,7 +2794,7 @@
    "e": "Only Madhav Tiger Reserve - Madhya Pradesh is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0163",
+   "id": "gk-misc-p14-0186",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Establishment of the East India Company - 2020",
@@ -2464,7 +2809,7 @@
    "e": "Only Establishment of the East India Company - 1600 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0164",
+   "id": "gk-misc-p14-0187",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "World Health Day - 7 April",
@@ -2479,7 +2824,7 @@
    "e": "Only World Health Day - 7 April is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0165",
+   "id": "gk-misc-p14-0188",
    "q": "Abundant is a synonym of which of the following words?",
    "o": [
     "Homogeneous",
@@ -2494,7 +2839,7 @@
    "e": "Abundant is a synonym of Profuse."
   },
   {
-   "id": "gk-misc-p14-0166",
+   "id": "gk-misc-p14-0189",
    "q": "Careless is an antonym of which of the following words?",
    "o": [
     "Hazardous",
@@ -2509,7 +2854,7 @@
    "e": "Careless is the opposite of Vigilant."
   },
   {
-   "id": "gk-misc-p14-0167",
+   "id": "gk-misc-p14-0190",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "An apple of discord - A hint of future events",
@@ -2524,7 +2869,7 @@
    "e": "Only An apple of discord - A cause of quarrel is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0168",
+   "id": "gk-misc-p14-0191",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A place where dead bodies are kept - Mortuary",
@@ -2539,7 +2884,7 @@
    "e": "Only A place where dead bodies are kept - Mortuary is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0169",
+   "id": "gk-misc-p14-0192",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Superintendant",
@@ -2554,7 +2899,7 @@
    "e": "The incorrect spelling shown is Wether; the correct form is Whether."
   },
   {
-   "id": "gk-misc-p14-0170",
+   "id": "gk-misc-p14-0193",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Index - Lives",
@@ -2569,7 +2914,7 @@
    "e": "Only Index - Indices is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0171",
+   "id": "gk-misc-p14-0194",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Intelligent - Busier",
@@ -2584,7 +2929,7 @@
    "e": "Only Intelligent - More intelligent is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0172",
+   "id": "gk-misc-p14-0195",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Flowchart - Informal description of a program",
@@ -2599,7 +2944,7 @@
    "e": "Only Flowchart - Diagram of the steps of an algorithm is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0173",
+   "id": "gk-misc-p14-0196",
    "q": "Which of the following abbreviations stands for Liquid Crystal Display?",
    "o": [
     "ISI",
@@ -2614,7 +2959,7 @@
    "e": "Liquid Crystal Display is abbreviated as LCD."
   },
   {
-   "id": "gk-misc-p14-0174",
+   "id": "gk-misc-p14-0197",
    "q": "Niamey is the capital of which country?",
    "o": [
     "Bosnia and Herzegovina",
@@ -2629,7 +2974,7 @@
    "e": "Niamey is the capital of Niger."
   },
   {
-   "id": "gk-misc-p14-0175",
+   "id": "gk-misc-p14-0198",
    "q": "What is the atomic number of Chromium?",
    "o": [
     "109",
@@ -2644,7 +2989,7 @@
    "e": "The atomic number of Chromium is 24."
   },
   {
-   "id": "gk-misc-p14-0176",
+   "id": "gk-misc-p14-0199",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Namdapha National Park - Karnataka",
@@ -2659,7 +3004,7 @@
    "e": "Only Namdapha National Park - Arunachal Pradesh is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0177",
+   "id": "gk-misc-p14-0200",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Oil crisis - 1973",
@@ -2674,7 +3019,7 @@
    "e": "Only Oil crisis - 1973 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0178",
+   "id": "gk-misc-p14-0201",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "World Health Day - 28 July",
@@ -2689,7 +3034,7 @@
    "e": "Only World Health Day - 7 April is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0179",
+   "id": "gk-misc-p14-0202",
    "q": "Wicked is a synonym of which of the following words?",
    "o": [
     "Philanthropy",
@@ -2704,7 +3049,7 @@
    "e": "Wicked is a synonym of Nefarious."
   },
   {
-   "id": "gk-misc-p14-0180",
+   "id": "gk-misc-p14-0203",
    "q": "Depressed is an antonym of which of the following words?",
    "o": [
     "Deplete",
@@ -2719,7 +3064,7 @@
    "e": "Depressed is the opposite of Elated."
   },
   {
-   "id": "gk-misc-p14-0181",
+   "id": "gk-misc-p14-0204",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "An apple of discord - Acknowledge a rival's merits",
@@ -2734,7 +3079,7 @@
    "e": "Only An apple of discord - A cause of quarrel is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0182",
+   "id": "gk-misc-p14-0205",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Plants that live for many years - Homicide",
@@ -2749,7 +3094,7 @@
    "e": "Only Plants that live for many years - Perennials is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0183",
+   "id": "gk-misc-p14-0206",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Hereditory",
@@ -2764,7 +3109,7 @@
    "e": "The incorrect spelling shown is Jewelery; the correct form is Jewellery."
   },
   {
-   "id": "gk-misc-p14-0184",
+   "id": "gk-misc-p14-0207",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Brother - Stimuli",
@@ -2779,7 +3124,7 @@
    "e": "Only Brother - Brothers is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0185",
+   "id": "gk-misc-p14-0208",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Much - Finer",
@@ -2794,7 +3139,7 @@
    "e": "Only Much - More is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0186",
+   "id": "gk-misc-p14-0209",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "HTTPS - Software that manages databases",
@@ -2809,7 +3154,7 @@
    "e": "Only HTTPS - Secure version of the web transfer protocol is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0187",
+   "id": "gk-misc-p14-0210",
    "q": "Which of the following abbreviations stands for Food and Agriculture Organization?",
    "o": [
     "ESA",
@@ -2824,7 +3169,7 @@
    "e": "Food and Agriculture Organization is abbreviated as FAO."
   },
   {
-   "id": "gk-misc-p14-0188",
+   "id": "gk-misc-p14-0211",
    "q": "Pyongyang is the capital of which country?",
    "o": [
     "North Korea",
@@ -2839,7 +3184,7 @@
    "e": "Pyongyang is the capital of North Korea."
   },
   {
-   "id": "gk-misc-p14-0189",
+   "id": "gk-misc-p14-0212",
    "q": "What is the atomic number of Potassium?",
    "o": [
     "19",
@@ -2854,7 +3199,7 @@
    "e": "The atomic number of Potassium is 19."
   },
   {
-   "id": "gk-misc-p14-0190",
+   "id": "gk-misc-p14-0213",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Namdapha National Park - Bihar",
@@ -2869,7 +3214,7 @@
    "e": "Only Namdapha National Park - Arunachal Pradesh is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0191",
+   "id": "gk-misc-p14-0214",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Oil crisis - 1945",
@@ -2884,7 +3229,7 @@
    "e": "Only Oil crisis - 1973 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0192",
+   "id": "gk-misc-p14-0215",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "International Asteroid Day - 24 October",
@@ -2899,7 +3244,7 @@
    "e": "Only International Asteroid Day - 30 June is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0193",
+   "id": "gk-misc-p14-0216",
    "q": "Belittle is a synonym of which of the following words?",
    "o": [
     "Disparage",
@@ -2914,7 +3259,7 @@
    "e": "Belittle is a synonym of Disparage."
   },
   {
-   "id": "gk-misc-p14-0194",
+   "id": "gk-misc-p14-0217",
    "q": "Condemn is an antonym of which of the following words?",
    "o": [
     "Opulent",
@@ -2929,7 +3274,7 @@
    "e": "Condemn is the opposite of Condone."
   },
   {
-   "id": "gk-misc-p14-0195",
+   "id": "gk-misc-p14-0218",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Chicken-hearted - A person of no substance",
@@ -2944,7 +3289,7 @@
    "e": "Only Chicken-hearted - Cowardly is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0196",
+   "id": "gk-misc-p14-0219",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Plants that live for many years - Ascetic",
@@ -2959,7 +3304,7 @@
    "e": "Only Plants that live for many years - Perennials is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0197",
+   "id": "gk-misc-p14-0220",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Battalian",
@@ -2974,7 +3319,7 @@
    "e": "The incorrect spelling shown is Harrass; the correct form is Harass."
   },
   {
-   "id": "gk-misc-p14-0198",
+   "id": "gk-misc-p14-0221",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Brother - Thieves",
@@ -2989,7 +3334,7 @@
    "e": "Only Brother - Brothers is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0199",
+   "id": "gk-misc-p14-0222",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Much - Higher",
@@ -3004,7 +3349,7 @@
    "e": "Only Much - More is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0200",
+   "id": "gk-misc-p14-0223",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "HTTPS - Restarting a computer",
@@ -3019,7 +3364,7 @@
    "e": "Only HTTPS - Secure version of the web transfer protocol is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0201",
+   "id": "gk-misc-p14-0224",
    "q": "Which of the following abbreviations stands for Shanghai Cooperation Organisation?",
    "o": [
     "RRB",
@@ -3034,7 +3379,7 @@
    "e": "Shanghai Cooperation Organisation is abbreviated as SCO."
   },
   {
-   "id": "gk-misc-p14-0202",
+   "id": "gk-misc-p14-0225",
    "q": "Dhaka is the capital of which country?",
    "o": [
     "China",
@@ -3049,7 +3394,7 @@
    "e": "Dhaka is the capital of Bangladesh."
   },
   {
-   "id": "gk-misc-p14-0203",
+   "id": "gk-misc-p14-0226",
    "q": "What is the atomic number of Rutherfordium?",
    "o": [
     "34",
@@ -3064,7 +3409,7 @@
    "e": "The atomic number of Rutherfordium is 104."
   },
   {
-   "id": "gk-misc-p14-0204",
+   "id": "gk-misc-p14-0227",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Keoladeo National Park - Kerala",
@@ -3079,7 +3424,7 @@
    "e": "Only Keoladeo National Park - Rajasthan is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0205",
+   "id": "gk-misc-p14-0228",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Chernobyl disaster - 1986",
@@ -3094,7 +3439,7 @@
    "e": "Only Chernobyl disaster - 1986 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0206",
+   "id": "gk-misc-p14-0229",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "International Asteroid Day - 20 May",
@@ -3109,7 +3454,7 @@
    "e": "Only International Asteroid Day - 30 June is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0207",
+   "id": "gk-misc-p14-0230",
    "q": "Inactive is a synonym of which of the following words?",
    "o": [
     "Euphoria",
@@ -3124,7 +3469,7 @@
    "e": "Inactive is a synonym of Stagnant."
   },
   {
-   "id": "gk-misc-p14-0208",
+   "id": "gk-misc-p14-0231",
    "q": "Virtuous is an antonym of which of the following words?",
    "o": [
     "Curtail",
@@ -3139,7 +3484,7 @@
    "e": "Virtuous is the opposite of Nefarious."
   },
   {
-   "id": "gk-misc-p14-0209",
+   "id": "gk-misc-p14-0232",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Chicken-hearted - Fail to have the intended effect",
@@ -3154,7 +3499,7 @@
    "e": "Only Chicken-hearted - Cowardly is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0210",
+   "id": "gk-misc-p14-0233",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who studies population - Insolvent",
@@ -3169,7 +3514,7 @@
    "e": "Only One who studies population - Demographer is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0211",
+   "id": "gk-misc-p14-0234",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Courgaeous",
@@ -3184,7 +3529,7 @@
    "e": "The incorrect spelling shown is Sincerly; the correct form is Sincerely."
   },
   {
-   "id": "gk-misc-p14-0212",
+   "id": "gk-misc-p14-0235",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Radius - Series",
@@ -3199,7 +3544,7 @@
    "e": "Only Radius - Radii is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0213",
+   "id": "gk-misc-p14-0236",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Rich - Richer",
@@ -3214,7 +3559,7 @@
    "e": "Only Rich - Richer is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0214",
+   "id": "gk-misc-p14-0237",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Ransomware - Security system that filters network traffic",
@@ -3229,7 +3574,7 @@
    "e": "Only Ransomware - Malware that locks files and demands payment is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0215",
+   "id": "gk-misc-p14-0238",
    "q": "Which of the following abbreviations stands for National Electronic Funds Transfer?",
    "o": [
     "CAG",
@@ -3244,7 +3589,7 @@
    "e": "National Electronic Funds Transfer is abbreviated as NEFT."
   },
   {
-   "id": "gk-misc-p14-0216",
+   "id": "gk-misc-p14-0239",
    "q": "Bandar Seri Begawan is the capital of which country?",
    "o": [
     "Brunei",
@@ -3259,7 +3604,7 @@
    "e": "Bandar Seri Begawan is the capital of Brunei."
   },
   {
-   "id": "gk-misc-p14-0217",
+   "id": "gk-misc-p14-0240",
    "q": "What is the atomic number of Dysprosium?",
    "o": [
     "117",
@@ -3274,7 +3619,7 @@
    "e": "The atomic number of Dysprosium is 66."
   },
   {
-   "id": "gk-misc-p14-0218",
+   "id": "gk-misc-p14-0241",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Keoladeo National Park - Rajasthan",
@@ -3289,7 +3634,7 @@
    "e": "Only Keoladeo National Park - Rajasthan is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0219",
+   "id": "gk-misc-p14-0242",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Chernobyl disaster - 1933",
@@ -3304,7 +3649,7 @@
    "e": "Only Chernobyl disaster - 1986 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0220",
+   "id": "gk-misc-p14-0243",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "Republic Day (India) - 10 January",
@@ -3319,7 +3664,7 @@
    "e": "Only Republic Day (India) - 26 January is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0221",
+   "id": "gk-misc-p14-0244",
    "q": "Relentless is a synonym of which of the following words?",
    "o": [
     "Fickle",
@@ -3334,7 +3679,7 @@
    "e": "Relentless is a synonym of Inexorable."
   },
   {
-   "id": "gk-misc-p14-0222",
+   "id": "gk-misc-p14-0245",
    "q": "Careless is an antonym of which of the following words?",
    "o": [
     "Wary",
@@ -3349,7 +3694,7 @@
    "e": "Careless is the opposite of Wary."
   },
   {
-   "id": "gk-misc-p14-0223",
+   "id": "gk-misc-p14-0246",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Cat's paw - A person used by another",
@@ -3364,7 +3709,7 @@
    "e": "Only Cat's paw - A person used by another is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0224",
+   "id": "gk-misc-p14-0247",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who studies population - Polyglot",
@@ -3379,7 +3724,7 @@
    "e": "Only One who studies population - Demographer is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0225",
+   "id": "gk-misc-p14-0248",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Cemetry",
@@ -3394,7 +3739,7 @@
    "e": "The incorrect spelling shown is Suprise; the correct form is Surprise."
   },
   {
-   "id": "gk-misc-p14-0226",
+   "id": "gk-misc-p14-0249",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Radius - Radii",
@@ -3409,7 +3754,7 @@
    "e": "Only Radius - Radii is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0227",
+   "id": "gk-misc-p14-0250",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Rich - Brighter",
@@ -3424,7 +3769,7 @@
    "e": "Only Rich - Richer is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0228",
+   "id": "gk-misc-p14-0251",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Ransomware - Software that detects and removes malicious programs",
@@ -3439,7 +3784,7 @@
    "e": "Only Ransomware - Malware that locks files and demands payment is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0229",
+   "id": "gk-misc-p14-0252",
    "q": "Which of the following abbreviations stands for Central Industrial Security Force?",
    "o": [
     "CISF",
@@ -3454,7 +3799,7 @@
    "e": "Central Industrial Security Force is abbreviated as CISF."
   },
   {
-   "id": "gk-misc-p14-0230",
+   "id": "gk-misc-p14-0253",
    "q": "San Marino is the capital of which country?",
    "o": [
     "Venezuela",
@@ -3469,7 +3814,7 @@
    "e": "San Marino is the capital of San Marino."
   },
   {
-   "id": "gk-misc-p14-0231",
+   "id": "gk-misc-p14-0254",
    "q": "What is the atomic number of Copernicium?",
    "o": [
     "94",
@@ -3484,7 +3829,7 @@
    "e": "The atomic number of Copernicium is 112."
   },
   {
-   "id": "gk-misc-p14-0232",
+   "id": "gk-misc-p14-0255",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Vikramshila Gangetic Dolphin Sanctuary - Maharashtra",
@@ -3499,7 +3844,7 @@
    "e": "Only Vikramshila Gangetic Dolphin Sanctuary - Bihar is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0233",
+   "id": "gk-misc-p14-0256",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Founding of the United Nations - 2008",
@@ -3514,7 +3859,7 @@
    "e": "Only Founding of the United Nations - 1945 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0234",
+   "id": "gk-misc-p14-0257",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "Republic Day (India) - 26 January",
@@ -3529,7 +3874,7 @@
    "e": "Only Republic Day (India) - 26 January is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0235",
+   "id": "gk-misc-p14-0258",
    "q": "Sociable is a synonym of which of the following words?",
    "o": [
     "Servile",
@@ -3544,7 +3889,7 @@
    "e": "Sociable is a synonym of Gregarious."
   },
   {
-   "id": "gk-misc-p14-0236",
+   "id": "gk-misc-p14-0259",
    "q": "Facilitate is an antonym of which of the following words?",
    "o": [
     "Deluge",
@@ -3559,7 +3904,7 @@
    "e": "Facilitate is the opposite of Impede."
   },
   {
-   "id": "gk-misc-p14-0237",
+   "id": "gk-misc-p14-0260",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Cat's paw - Lose one's temper suddenly",
@@ -3574,7 +3919,7 @@
    "e": "Only Cat's paw - A person used by another is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0238",
+   "id": "gk-misc-p14-0261",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who is unable to pay his debts - Insolvent",
@@ -3589,7 +3934,7 @@
    "e": "Only One who is unable to pay his debts - Insolvent is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0239",
+   "id": "gk-misc-p14-0262",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Fulfill",
@@ -3604,7 +3949,7 @@
    "e": "The incorrect spelling shown is Embarass; the correct form is Embarrass."
   },
   {
-   "id": "gk-misc-p14-0240",
+   "id": "gk-misc-p14-0263",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Sheep - Courts Martial",
@@ -3619,7 +3964,7 @@
    "e": "Only Sheep - Sheep is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0241",
+   "id": "gk-misc-p14-0264",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Thin - Worse",
@@ -3634,7 +3979,7 @@
    "e": "Only Thin - Thinner is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0242",
+   "id": "gk-misc-p14-0265",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Malware - Human readable name of a website",
@@ -3649,7 +3994,7 @@
    "e": "Only Malware - Software designed to damage or intrude is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0243",
+   "id": "gk-misc-p14-0266",
    "q": "Which of the following abbreviations stands for Oral Rehydration Solution?",
    "o": [
     "CERN",
@@ -3664,7 +4009,7 @@
    "e": "Oral Rehydration Solution is abbreviated as ORS."
   },
   {
-   "id": "gk-misc-p14-0244",
+   "id": "gk-misc-p14-0267",
    "q": "Djibouti is the capital of which country?",
    "o": [
     "Djibouti",
@@ -3679,7 +4024,7 @@
    "e": "Djibouti is the capital of Djibouti."
   },
   {
-   "id": "gk-misc-p14-0245",
+   "id": "gk-misc-p14-0268",
    "q": "What is the atomic number of Chlorine?",
    "o": [
     "100",
@@ -3694,7 +4039,7 @@
    "e": "The atomic number of Chlorine is 17."
   },
   {
-   "id": "gk-misc-p14-0246",
+   "id": "gk-misc-p14-0269",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Vikramshila Gangetic Dolphin Sanctuary - Madhya Pradesh",
@@ -3709,7 +4054,7 @@
    "e": "Only Vikramshila Gangetic Dolphin Sanctuary - Bihar is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0247",
+   "id": "gk-misc-p14-0270",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Founding of the United Nations - 1945",
@@ -3724,7 +4069,7 @@
    "e": "Only Founding of the United Nations - 1945 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0248",
+   "id": "gk-misc-p14-0271",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "World Wetlands Day - 21 February",
@@ -3739,7 +4084,7 @@
    "e": "Only World Wetlands Day - 2 February is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0249",
+   "id": "gk-misc-p14-0272",
    "q": "Shortness is a synonym of which of the following words?",
    "o": [
     "Quiescent",
@@ -3754,7 +4099,7 @@
    "e": "Shortness is a synonym of Brevity."
   },
   {
-   "id": "gk-misc-p14-0250",
+   "id": "gk-misc-p14-0273",
    "q": "Concealed is an antonym of which of the following words?",
    "o": [
     "Deluge",
@@ -3769,7 +4114,7 @@
    "e": "Concealed is the opposite of Flagrant."
   },
   {
-   "id": "gk-misc-p14-0251",
+   "id": "gk-misc-p14-0274",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Over head and ears - Completely",
@@ -3784,7 +4129,7 @@
    "e": "Only Over head and ears - Deeply involved is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0252",
+   "id": "gk-misc-p14-0275",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who is unable to pay his debts - Insolvent",
@@ -3799,7 +4144,7 @@
    "e": "Only One who is unable to pay his debts - Insolvent is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0253",
+   "id": "gk-misc-p14-0276",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Idiosyncracy",
@@ -3814,7 +4159,7 @@
    "e": "The incorrect spelling shown is Idiosyncracy; the correct form is Idiosyncrasy."
   },
   {
-   "id": "gk-misc-p14-0254",
+   "id": "gk-misc-p14-0277",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Sheep - Sheep",
@@ -3829,7 +4174,7 @@
    "e": "Only Sheep - Sheep is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0255",
+   "id": "gk-misc-p14-0278",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Thin - Faster",
@@ -3844,7 +4189,7 @@
    "e": "Only Thin - Thinner is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0256",
+   "id": "gk-misc-p14-0279",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Malware - Program that converts source code into machine code",
@@ -3859,7 +4204,7 @@
    "e": "Only Malware - Software designed to damage or intrude is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0257",
+   "id": "gk-misc-p14-0280",
    "q": "Which of the following abbreviations stands for National Service Scheme?",
    "o": [
     "RAW",
@@ -3874,7 +4219,7 @@
    "e": "National Service Scheme is abbreviated as NSS."
   },
   {
-   "id": "gk-misc-p14-0258",
+   "id": "gk-misc-p14-0281",
    "q": "Vientiane is the capital of which country?",
    "o": [
     "Burkina Faso",
@@ -3889,7 +4234,7 @@
    "e": "Vientiane is the capital of Laos."
   },
   {
-   "id": "gk-misc-p14-0259",
+   "id": "gk-misc-p14-0282",
    "q": "What is the atomic number of Tin?",
    "o": [
     "50",
@@ -3904,7 +4249,7 @@
    "e": "The atomic number of Tin is 50."
   },
   {
-   "id": "gk-misc-p14-0260",
+   "id": "gk-misc-p14-0283",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Sariska Tiger Reserve - Karnataka",
@@ -3919,7 +4264,7 @@
    "e": "Only Sariska Tiger Reserve - Rajasthan is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0261",
+   "id": "gk-misc-p14-0284",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Signing of the Magna Carta - 1215",
@@ -3934,7 +4279,7 @@
    "e": "Only Signing of the Magna Carta - 1215 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0262",
+   "id": "gk-misc-p14-0285",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "World Wetlands Day - 3 March",
@@ -3949,7 +4294,7 @@
    "e": "Only World Wetlands Day - 2 February is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0263",
+   "id": "gk-misc-p14-0286",
    "q": "Scanty is a synonym of which of the following words?",
    "o": [
     "Meagre",
@@ -3964,7 +4309,7 @@
    "e": "Scanty is a synonym of Meagre."
   },
   {
-   "id": "gk-misc-p14-0264",
+   "id": "gk-misc-p14-0287",
    "q": "Talkative is an antonym of which of the following words?",
    "o": [
     "Opulent",
@@ -3979,7 +4324,7 @@
    "e": "Talkative is the opposite of Reticent."
   },
   {
-   "id": "gk-misc-p14-0265",
+   "id": "gk-misc-p14-0288",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Over head and ears - Most important",
@@ -3994,7 +4339,7 @@
    "e": "Only Over head and ears - Deeply involved is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0266",
+   "id": "gk-misc-p14-0289",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who loves mankind - Sexagenarian",
@@ -4009,7 +4354,7 @@
    "e": "Only One who loves mankind - Philanthropist is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0267",
+   "id": "gk-misc-p14-0290",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Bureu",
@@ -4024,7 +4369,7 @@
    "e": "The incorrect spelling shown is Unforseen; the correct form is Unforeseen."
   },
   {
-   "id": "gk-misc-p14-0268",
+   "id": "gk-misc-p14-0291",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Trout - Syllabi",
@@ -4039,7 +4384,7 @@
    "e": "Only Trout - Trout is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0269",
+   "id": "gk-misc-p14-0292",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Big - Better",
@@ -4054,7 +4399,7 @@
    "e": "Only Big - Bigger is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0270",
+   "id": "gk-misc-p14-0293",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "ROM - Non-volatile memory that holds firmware",
@@ -4069,7 +4414,7 @@
    "e": "Only ROM - Non-volatile memory that holds firmware is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0271",
+   "id": "gk-misc-p14-0294",
    "q": "Which of the following abbreviations stands for Sports Authority of India?",
    "o": [
     "OTP",
@@ -4084,7 +4429,7 @@
    "e": "Sports Authority of India is abbreviated as SAI."
   },
   {
-   "id": "gk-misc-p14-0272",
+   "id": "gk-misc-p14-0295",
    "q": "Juba is the capital of which country?",
    "o": [
     "Canada",
@@ -4099,7 +4444,7 @@
    "e": "Juba is the capital of South Sudan."
   },
   {
-   "id": "gk-misc-p14-0273",
+   "id": "gk-misc-p14-0296",
    "q": "What is the atomic number of Neptunium?",
    "o": [
     "93",
@@ -4114,7 +4459,7 @@
    "e": "The atomic number of Neptunium is 93."
   },
   {
-   "id": "gk-misc-p14-0274",
+   "id": "gk-misc-p14-0297",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Sariska Tiger Reserve - Meghalaya",
@@ -4129,7 +4474,7 @@
    "e": "Only Sariska Tiger Reserve - Rajasthan is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0275",
+   "id": "gk-misc-p14-0298",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Signing of the Magna Carta - 1776",
@@ -4144,7 +4489,7 @@
    "e": "Only Signing of the Magna Carta - 1215 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0276",
+   "id": "gk-misc-p14-0299",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "World Standards Day - 10 January",
@@ -4159,7 +4504,7 @@
    "e": "Only World Standards Day - 14 October is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0277",
+   "id": "gk-misc-p14-0300",
    "q": "Fear is a synonym of which of the following words?",
    "o": [
     "Unanimous",
@@ -4174,7 +4519,7 @@
    "e": "Fear is a synonym of Trepidation."
   },
   {
-   "id": "gk-misc-p14-0278",
+   "id": "gk-misc-p14-0301",
    "q": "Explicit is an antonym of which of the following words?",
    "o": [
     "Indolent",
@@ -4189,7 +4534,7 @@
    "e": "Explicit is the opposite of Implicit."
   },
   {
-   "id": "gk-misc-p14-0279",
+   "id": "gk-misc-p14-0302",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Dodge the issue - At the last moment",
@@ -4204,7 +4549,7 @@
    "e": "Only Dodge the issue - Avoid the main point is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0280",
+   "id": "gk-misc-p14-0303",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who loves mankind - Gregarious",
@@ -4219,7 +4564,7 @@
    "e": "Only One who loves mankind - Philanthropist is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0281",
+   "id": "gk-misc-p14-0304",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Dilemna",
@@ -4234,7 +4579,7 @@
    "e": "The incorrect spelling shown is Foriegn; the correct form is Foreign."
   },
   {
-   "id": "gk-misc-p14-0282",
+   "id": "gk-misc-p14-0305",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Trout - Salmon",
@@ -4249,7 +4594,7 @@
    "e": "Only Trout - Trout is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0283",
+   "id": "gk-misc-p14-0306",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Big - Bigger",
@@ -4264,7 +4609,7 @@
    "e": "Only Big - Bigger is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0284",
+   "id": "gk-misc-p14-0307",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "ROM - Number system with base sixteen",
@@ -4279,7 +4624,7 @@
    "e": "Only ROM - Non-volatile memory that holds firmware is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0285",
+   "id": "gk-misc-p14-0308",
    "q": "Which of the following abbreviations stands for Association of Mutual Funds in India?",
    "o": [
     "IMF",
@@ -4294,7 +4639,7 @@
    "e": "Association of Mutual Funds in India is abbreviated as AMFI."
   },
   {
-   "id": "gk-misc-p14-0286",
+   "id": "gk-misc-p14-0309",
    "q": "Guatemala City is the capital of which country?",
    "o": [
     "Barbados",
@@ -4309,7 +4654,7 @@
    "e": "Guatemala City is the capital of Guatemala."
   },
   {
-   "id": "gk-misc-p14-0287",
+   "id": "gk-misc-p14-0310",
    "q": "What is the atomic number of Iodine?",
    "o": [
     "27",
@@ -4324,7 +4669,7 @@
    "e": "The atomic number of Iodine is 53."
   },
   {
-   "id": "gk-misc-p14-0288",
+   "id": "gk-misc-p14-0311",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Dibang Wildlife Sanctuary - Jammu and Kashmir",
@@ -4339,7 +4684,7 @@
    "e": "Only Dibang Wildlife Sanctuary - Arunachal Pradesh is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0289",
+   "id": "gk-misc-p14-0312",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "American Declaration of Independence - 1776",
@@ -4354,7 +4699,7 @@
    "e": "Only American Declaration of Independence - 1776 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0290",
+   "id": "gk-misc-p14-0313",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "World Standards Day - 14 October",
@@ -4369,7 +4714,7 @@
    "e": "Only World Standards Day - 14 October is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0291",
+   "id": "gk-misc-p14-0314",
    "q": "Astonishing is a synonym of which of the following words?",
    "o": [
     "Comprehend",
@@ -4384,7 +4729,7 @@
    "e": "Astonishing is a synonym of Stupendous."
   },
   {
-   "id": "gk-misc-p14-0292",
+   "id": "gk-misc-p14-0315",
    "q": "Disloyal is an antonym of which of the following words?",
    "o": [
     "Impartial",
@@ -4399,7 +4744,7 @@
    "e": "Disloyal is the opposite of Staunch."
   },
   {
-   "id": "gk-misc-p14-0293",
+   "id": "gk-misc-p14-0316",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Dodge the issue - To ignore",
@@ -4414,7 +4759,7 @@
    "e": "Only Dodge the issue - Avoid the main point is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0294",
+   "id": "gk-misc-p14-0317",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A person who is an expert in a field - Connoisseur",
@@ -4429,7 +4774,7 @@
    "e": "Only A person who is an expert in a field - Connoisseur is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0295",
+   "id": "gk-misc-p14-0318",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Facinate",
@@ -4444,7 +4789,7 @@
    "e": "The incorrect spelling shown is Marrige; the correct form is Marriage."
   },
   {
-   "id": "gk-misc-p14-0296",
+   "id": "gk-misc-p14-0319",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Life - Photos",
@@ -4459,7 +4804,7 @@
    "e": "Only Life - Lives is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0297",
+   "id": "gk-misc-p14-0320",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Dangerous - More difficult",
@@ -4474,7 +4819,7 @@
    "e": "Only Dangerous - More dangerous is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0298",
+   "id": "gk-misc-p14-0321",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Switch - Copy of data kept for recovery",
@@ -4489,7 +4834,7 @@
    "e": "Only Switch - Device that connects devices inside a network is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0299",
+   "id": "gk-misc-p14-0322",
    "q": "Which of the following abbreviations stands for Personal Identification Number?",
    "o": [
     "PIN",
@@ -4504,7 +4849,7 @@
    "e": "Personal Identification Number is abbreviated as PIN."
   },
   {
-   "id": "gk-misc-p14-0300",
+   "id": "gk-misc-p14-0323",
    "q": "Beijing is the capital of which country?",
    "o": [
     "Cyprus",
@@ -4519,7 +4864,7 @@
    "e": "Beijing is the capital of China."
   },
   {
-   "id": "gk-misc-p14-0301",
+   "id": "gk-misc-p14-0324",
    "q": "What is the atomic number of Ruthenium?",
    "o": [
     "79",
@@ -4534,7 +4879,7 @@
    "e": "The atomic number of Ruthenium is 44."
   },
   {
-   "id": "gk-misc-p14-0302",
+   "id": "gk-misc-p14-0325",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Dibang Wildlife Sanctuary - Maharashtra",
@@ -4549,7 +4894,7 @@
    "e": "Only Dibang Wildlife Sanctuary - Arunachal Pradesh is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0303",
+   "id": "gk-misc-p14-0326",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "American Declaration of Independence - 1588",
@@ -4564,7 +4909,7 @@
    "e": "Only American Declaration of Independence - 1776 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0304",
+   "id": "gk-misc-p14-0327",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "National Science Day (India) - 30 November",
@@ -4579,7 +4924,7 @@
    "e": "Only National Science Day (India) - 28 February is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0305",
+   "id": "gk-misc-p14-0328",
    "q": "Danger is a synonym of which of the following words?",
    "o": [
     "Querulous",
@@ -4594,7 +4939,7 @@
    "e": "Danger is a synonym of Peril."
   },
   {
-   "id": "gk-misc-p14-0306",
+   "id": "gk-misc-p14-0329",
    "q": "Fruitful is an antonym of which of the following words?",
    "o": [
     "Equanimity",
@@ -4609,7 +4954,7 @@
    "e": "Fruitful is the opposite of Futile."
   },
   {
-   "id": "gk-misc-p14-0307",
+   "id": "gk-misc-p14-0330",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Green horn - Laugh secretly",
@@ -4624,7 +4969,7 @@
    "e": "Only Green horn - An inexperienced person is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0308",
+   "id": "gk-misc-p14-0331",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A person who is an expert in a field - Illiterate",
@@ -4639,7 +4984,7 @@
    "e": "Only A person who is an expert in a field - Connoisseur is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0309",
+   "id": "gk-misc-p14-0332",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Lightening",
@@ -4654,7 +4999,7 @@
    "e": "The incorrect spelling shown is Consience; the correct form is Conscience."
   },
   {
-   "id": "gk-misc-p14-0310",
+   "id": "gk-misc-p14-0333",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Life - Dice",
@@ -4669,7 +5014,7 @@
    "e": "Only Life - Lives is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0311",
+   "id": "gk-misc-p14-0334",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Dangerous - Wider",
@@ -4684,7 +5029,7 @@
    "e": "Only Dangerous - More dangerous is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0312",
+   "id": "gk-misc-p14-0335",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Switch - Very fast memory close to the CPU",
@@ -4699,7 +5044,7 @@
    "e": "Only Switch - Device that connects devices inside a network is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0313",
+   "id": "gk-misc-p14-0336",
    "q": "Which of the following abbreviations stands for Public Private Partnership?",
    "o": [
     "PMJAY",
@@ -4714,7 +5059,7 @@
    "e": "Public Private Partnership is abbreviated as PPP."
   },
   {
-   "id": "gk-misc-p14-0314",
+   "id": "gk-misc-p14-0337",
    "q": "Riyadh is the capital of which country?",
    "o": [
     "Indonesia",
@@ -4729,7 +5074,7 @@
    "e": "Riyadh is the capital of Saudi Arabia."
   },
   {
-   "id": "gk-misc-p14-0315",
+   "id": "gk-misc-p14-0338",
    "q": "What is the atomic number of Europium?",
    "o": [
     "78",
@@ -4744,7 +5089,7 @@
    "e": "The atomic number of Europium is 63."
   },
   {
-   "id": "gk-misc-p14-0316",
+   "id": "gk-misc-p14-0339",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Buxa Tiger Reserve - Assam",
@@ -4759,7 +5104,7 @@
    "e": "Only Buxa Tiger Reserve - West Bengal is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0317",
+   "id": "gk-misc-p14-0340",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Launch of Sputnik-1 - 1957",
@@ -4774,7 +5119,7 @@
    "e": "Only Launch of Sputnik-1 - 1957 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0318",
+   "id": "gk-misc-p14-0341",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "National Science Day (India) - 26 July",
@@ -4789,7 +5134,7 @@
    "e": "Only National Science Day (India) - 28 February is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0319",
+   "id": "gk-misc-p14-0342",
    "q": "Similarity is a synonym of which of the following words?",
    "o": [
     "Mundane",
@@ -4804,7 +5149,7 @@
    "e": "Similarity is a synonym of Analogy."
   },
   {
-   "id": "gk-misc-p14-0320",
+   "id": "gk-misc-p14-0343",
    "q": "Unfriendly is an antonym of which of the following words?",
    "o": [
     "Acquit",
@@ -4819,7 +5164,7 @@
    "e": "Unfriendly is the opposite of Affable."
   },
   {
-   "id": "gk-misc-p14-0321",
+   "id": "gk-misc-p14-0344",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Green horn - To ask someone to leave",
@@ -4834,7 +5179,7 @@
    "e": "Only Green horn - An inexperienced person is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0322",
+   "id": "gk-misc-p14-0345",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A person who cuts hair - Omnipresent",
@@ -4849,7 +5194,7 @@
    "e": "Only A person who cuts hair - Barber is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0323",
+   "id": "gk-misc-p14-0346",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Guage",
@@ -4864,7 +5209,7 @@
    "e": "The incorrect spelling shown is Facinate; the correct form is Fascinate."
   },
   {
-   "id": "gk-misc-p14-0324",
+   "id": "gk-misc-p14-0347",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Stimulus - Bases",
@@ -4879,7 +5224,7 @@
    "e": "Only Stimulus - Stimuli is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0325",
+   "id": "gk-misc-p14-0348",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Happy - Happier",
@@ -4894,7 +5239,7 @@
    "e": "Only Happy - Happier is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0326",
+   "id": "gk-misc-p14-0349",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "SSD - Organised collection of data",
@@ -4909,7 +5254,7 @@
    "e": "Only SSD - Storage device with no moving parts is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0327",
+   "id": "gk-misc-p14-0350",
    "q": "Which of the following abbreviations stands for Goods and Services Tax?",
    "o": [
     "FRBM",
@@ -4924,7 +5269,7 @@
    "e": "Goods and Services Tax is abbreviated as GST."
   },
   {
-   "id": "gk-misc-p14-0328",
+   "id": "gk-misc-p14-0351",
    "q": "Tunis is the capital of which country?",
    "o": [
     "Rwanda",
@@ -4939,7 +5284,7 @@
    "e": "Tunis is the capital of Tunisia."
   },
   {
-   "id": "gk-misc-p14-0329",
+   "id": "gk-misc-p14-0352",
    "q": "What is the atomic number of Scandium?",
    "o": [
     "23",
@@ -4954,7 +5299,7 @@
    "e": "The atomic number of Scandium is 21."
   },
   {
-   "id": "gk-misc-p14-0330",
+   "id": "gk-misc-p14-0353",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Buxa Tiger Reserve - Odisha",
@@ -4969,7 +5314,7 @@
    "e": "Only Buxa Tiger Reserve - West Bengal is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0331",
+   "id": "gk-misc-p14-0354",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Launch of Sputnik-1 - 1600",
@@ -4984,7 +5329,7 @@
    "e": "Only Launch of Sputnik-1 - 1957 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0332",
+   "id": "gk-misc-p14-0355",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "World Philosophy Day - 21 May",
@@ -4999,7 +5344,7 @@
    "e": "Only World Philosophy Day - third Thursday of November is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0333",
+   "id": "gk-misc-p14-0356",
    "q": "Reveal is a synonym of which of the following words?",
    "o": [
     "Divulge",
@@ -5014,7 +5359,7 @@
    "e": "Reveal is a synonym of Divulge."
   },
   {
-   "id": "gk-misc-p14-0334",
+   "id": "gk-misc-p14-0357",
    "q": "Restless is an antonym of which of the following words?",
    "o": [
     "Curtail",
@@ -5029,7 +5374,7 @@
    "e": "Restless is the opposite of Tranquil."
   },
   {
-   "id": "gk-misc-p14-0335",
+   "id": "gk-misc-p14-0358",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A wild goose chase - To hope for success",
@@ -5044,7 +5389,7 @@
    "e": "Only A wild goose chase - A futile search is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0336",
+   "id": "gk-misc-p14-0359",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A person who cuts hair - Bibliophile",
@@ -5059,7 +5404,7 @@
    "e": "Only A person who cuts hair - Barber is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0337",
+   "id": "gk-misc-p14-0360",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Personel",
@@ -5074,7 +5419,7 @@
    "e": "The incorrect spelling shown is Liason; the correct form is Liaison."
   },
   {
-   "id": "gk-misc-p14-0338",
+   "id": "gk-misc-p14-0361",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Stimulus - Shelves",
@@ -5089,7 +5434,7 @@
    "e": "Only Stimulus - Stimuli is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0339",
+   "id": "gk-misc-p14-0362",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Happy - Better",
@@ -5104,7 +5449,7 @@
    "e": "Only Happy - Happier is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0340",
+   "id": "gk-misc-p14-0363",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "SSD - Process of starting a computer",
@@ -5119,7 +5464,7 @@
    "e": "Only SSD - Storage device with no moving parts is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0341",
+   "id": "gk-misc-p14-0364",
    "q": "Which of the following abbreviations stands for National Human Rights Commission?",
    "o": [
     "NHRC",
@@ -5134,7 +5479,7 @@
    "e": "National Human Rights Commission is abbreviated as NHRC."
   },
   {
-   "id": "gk-misc-p14-0342",
+   "id": "gk-misc-p14-0365",
    "q": "Jakarta is the capital of which country?",
    "o": [
     "Bahrain",
@@ -5149,7 +5494,7 @@
    "e": "Jakarta is the capital of Indonesia."
   },
   {
-   "id": "gk-misc-p14-0343",
+   "id": "gk-misc-p14-0366",
    "q": "What is the atomic number of Astatine?",
    "o": [
     "85",
@@ -5164,7 +5509,7 @@
    "e": "The atomic number of Astatine is 85."
   },
   {
-   "id": "gk-misc-p14-0344",
+   "id": "gk-misc-p14-0367",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Kaimur Wildlife Sanctuary - Bihar",
@@ -5179,7 +5524,7 @@
    "e": "Only Kaimur Wildlife Sanctuary - Bihar is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0345",
+   "id": "gk-misc-p14-0368",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Adoption of the UN Sustainable Development Goals - 2015",
@@ -5194,7 +5539,7 @@
    "e": "Only Adoption of the UN Sustainable Development Goals - 2015 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0346",
+   "id": "gk-misc-p14-0369",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "World Philosophy Day - 14 December",
@@ -5209,7 +5554,7 @@
    "e": "Only World Philosophy Day - third Thursday of November is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0347",
+   "id": "gk-misc-p14-0370",
    "q": "Insignificant is a synonym of which of the following words?",
    "o": [
     "Trivial",
@@ -5224,7 +5569,7 @@
    "e": "Insignificant is a synonym of Trivial."
   },
   {
-   "id": "gk-misc-p14-0348",
+   "id": "gk-misc-p14-0371",
    "q": "Plenty is an antonym of which of the following words?",
    "o": [
     "Elated",
@@ -5239,7 +5584,7 @@
    "e": "Plenty is the opposite of Famine."
   },
   {
-   "id": "gk-misc-p14-0349",
+   "id": "gk-misc-p14-0372",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A wild goose chase - Support",
@@ -5254,7 +5599,7 @@
    "e": "Only A wild goose chase - A futile search is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0350",
+   "id": "gk-misc-p14-0373",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Words written on a tomb - Connoisseur",
@@ -5269,7 +5614,7 @@
    "e": "Only Words written on a tomb - Epitaph is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0351",
+   "id": "gk-misc-p14-0374",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Supercede",
@@ -5284,7 +5629,7 @@
    "e": "The incorrect spelling shown is Begining; the correct form is Beginning."
   },
   {
-   "id": "gk-misc-p14-0352",
+   "id": "gk-misc-p14-0375",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Potato - Potatoes",
@@ -5299,7 +5644,7 @@
    "e": "Only Potato - Potatoes is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0353",
+   "id": "gk-misc-p14-0376",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Dark - Longer",
@@ -5314,7 +5659,7 @@
    "e": "Only Dark - Darker is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0354",
+   "id": "gk-misc-p14-0377",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Printer - Output device that produces hard copies",
@@ -5329,7 +5674,7 @@
    "e": "Only Printer - Output device that produces hard copies is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0355",
+   "id": "gk-misc-p14-0378",
    "q": "Which of the following abbreviations stands for World Trade Organization?",
    "o": [
     "SWAYAM",
@@ -5344,7 +5689,7 @@
    "e": "World Trade Organization is abbreviated as WTO."
   },
   {
-   "id": "gk-misc-p14-0356",
+   "id": "gk-misc-p14-0379",
    "q": "Maseru is the capital of which country?",
    "o": [
     "Philippines",
@@ -5359,7 +5704,7 @@
    "e": "Maseru is the capital of Lesotho."
   },
   {
-   "id": "gk-misc-p14-0357",
+   "id": "gk-misc-p14-0380",
    "q": "What is the atomic number of Plutonium?",
    "o": [
     "63",
@@ -5374,7 +5719,7 @@
    "e": "The atomic number of Plutonium is 94."
   },
   {
-   "id": "gk-misc-p14-0358",
+   "id": "gk-misc-p14-0381",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Kaimur Wildlife Sanctuary - Bihar",
@@ -5389,7 +5734,7 @@
    "e": "Only Kaimur Wildlife Sanctuary - Bihar is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0359",
+   "id": "gk-misc-p14-0382",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Adoption of the UN Sustainable Development Goals - 1588",
@@ -5404,7 +5749,7 @@
    "e": "Only Adoption of the UN Sustainable Development Goals - 2015 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0360",
+   "id": "gk-misc-p14-0383",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "National Youth Day (India) - 8 September",
@@ -5419,7 +5764,7 @@
    "e": "Only National Youth Day (India) - 12 January is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0361",
+   "id": "gk-misc-p14-0384",
    "q": "Harmless is a synonym of which of the following words?",
    "o": [
     "Arduous",
@@ -5434,7 +5779,7 @@
    "e": "Harmless is a synonym of Innocuous."
   },
   {
-   "id": "gk-misc-p14-0362",
+   "id": "gk-misc-p14-0385",
    "q": "Permanent is an antonym of which of the following words?",
    "o": [
     "Detrimental",
@@ -5449,7 +5794,7 @@
    "e": "Permanent is the opposite of Transient."
   },
   {
-   "id": "gk-misc-p14-0363",
+   "id": "gk-misc-p14-0386",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "An axe to grind - A dangerous person pretending to be harmless",
@@ -5464,7 +5809,7 @@
    "e": "Only An axe to grind - A selfish motive is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0364",
+   "id": "gk-misc-p14-0387",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Words written on a tomb - Endemic",
@@ -5479,7 +5824,7 @@
    "e": "Only Words written on a tomb - Epitaph is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0365",
+   "id": "gk-misc-p14-0388",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Occurence",
@@ -5494,7 +5839,7 @@
    "e": "The incorrect spelling shown is Occurence; the correct form is Occurrence."
   },
   {
-   "id": "gk-misc-p14-0366",
+   "id": "gk-misc-p14-0389",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Potato - Potatoes",
@@ -5509,7 +5854,7 @@
    "e": "Only Potato - Potatoes is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0367",
+   "id": "gk-misc-p14-0390",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Dark - More courageous",
@@ -5524,7 +5869,7 @@
    "e": "Only Dark - Darker is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0368",
+   "id": "gk-misc-p14-0391",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Printer - Organised collection of data",
@@ -5539,7 +5884,7 @@
    "e": "Only Printer - Output device that produces hard copies is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0369",
+   "id": "gk-misc-p14-0392",
    "q": "Which of the following abbreviations stands for Employees' Provident Fund?",
    "o": [
     "EPF",
@@ -5554,7 +5899,7 @@
    "e": "Employees' Provident Fund is abbreviated as EPF."
   },
   {
-   "id": "gk-misc-p14-0370",
+   "id": "gk-misc-p14-0393",
    "q": "Mogadishu is the capital of which country?",
    "o": [
     "Malaysia",
@@ -5569,7 +5914,7 @@
    "e": "Mogadishu is the capital of Somalia."
   },
   {
-   "id": "gk-misc-p14-0371",
+   "id": "gk-misc-p14-0394",
    "q": "What is the atomic number of Thorium?",
    "o": [
     "24",
@@ -5584,7 +5929,7 @@
    "e": "The atomic number of Thorium is 90."
   },
   {
-   "id": "gk-misc-p14-0372",
+   "id": "gk-misc-p14-0395",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Achanakmar Tiger Reserve - Chhattisgarh",
@@ -5599,7 +5944,7 @@
    "e": "Only Achanakmar Tiger Reserve - Chhattisgarh is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0373",
+   "id": "gk-misc-p14-0396",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Cuban Missile Crisis - 1933",
@@ -5614,7 +5959,7 @@
    "e": "Only Cuban Missile Crisis - 1962 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0374",
+   "id": "gk-misc-p14-0397",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "National Youth Day (India) - 17 November",
@@ -5629,7 +5974,7 @@
    "e": "Only National Youth Day (India) - 12 January is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0375",
+   "id": "gk-misc-p14-0398",
    "q": "Dilemma is a synonym of which of the following words?",
    "o": [
     "Predicament",
@@ -5644,7 +5989,7 @@
    "e": "Dilemma is a synonym of Predicament."
   },
   {
-   "id": "gk-misc-p14-0376",
+   "id": "gk-misc-p14-0399",
    "q": "Flexible is an antonym of which of the following words?",
    "o": [
     "Adamant",
@@ -5659,7 +6004,7 @@
    "e": "Flexible is the opposite of Adamant."
   },
   {
-   "id": "gk-misc-p14-0377",
+   "id": "gk-misc-p14-0400",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "An axe to grind - An inexperienced person",
@@ -5674,7 +6019,7 @@
    "e": "Only An axe to grind - A selfish motive is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0378",
+   "id": "gk-misc-p14-0401",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A place where money is coined - Somniloquist",
@@ -5689,7 +6034,7 @@
    "e": "Only A place where money is coined - Mint is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0379",
+   "id": "gk-misc-p14-0402",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Coloumn",
@@ -5704,7 +6049,7 @@
    "e": "The incorrect spelling shown is Emperior; the correct form is Emperor."
   },
   {
-   "id": "gk-misc-p14-0380",
+   "id": "gk-misc-p14-0403",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Crisis - Crises",
@@ -5719,7 +6064,7 @@
    "e": "Only Crisis - Crises is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0381",
+   "id": "gk-misc-p14-0404",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Weak - Longer",
@@ -5734,7 +6079,7 @@
    "e": "Only Weak - Weaker is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0382",
+   "id": "gk-misc-p14-0405",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Plug and play - Language used to structure web pages",
@@ -5749,7 +6094,7 @@
    "e": "Only Plug and play - Devices that work as soon as they are connected is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0383",
+   "id": "gk-misc-p14-0406",
    "q": "Which of the following abbreviations stands for North Atlantic Treaty Organization?",
    "o": [
     "NATO",
@@ -5764,7 +6109,7 @@
    "e": "North Atlantic Treaty Organization is abbreviated as NATO."
   },
   {
-   "id": "gk-misc-p14-0384",
+   "id": "gk-misc-p14-0407",
    "q": "Skopje is the capital of which country?",
    "o": [
     "Gambia",
@@ -5779,7 +6124,7 @@
    "e": "Skopje is the capital of North Macedonia."
   },
   {
-   "id": "gk-misc-p14-0385",
+   "id": "gk-misc-p14-0408",
    "q": "What is the atomic number of Meitnerium?",
    "o": [
     "31",
@@ -5794,7 +6139,7 @@
    "e": "The atomic number of Meitnerium is 109."
   },
   {
-   "id": "gk-misc-p14-0386",
+   "id": "gk-misc-p14-0409",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Achanakmar Tiger Reserve - Jammu and Kashmir",
@@ -5809,7 +6154,7 @@
    "e": "Only Achanakmar Tiger Reserve - Chhattisgarh is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0387",
+   "id": "gk-misc-p14-0410",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Cuban Missile Crisis - 1991",
@@ -5824,7 +6169,7 @@
    "e": "Only Cuban Missile Crisis - 1962 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0388",
+   "id": "gk-misc-p14-0411",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "International Tea Day - 14 October",
@@ -5839,7 +6184,7 @@
    "e": "Only International Tea Day - 21 May is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0389",
+   "id": "gk-misc-p14-0412",
    "q": "Secret is a synonym of which of the following words?",
    "o": [
     "Lament",
@@ -5854,7 +6199,7 @@
    "e": "Secret is a synonym of Clandestine."
   },
   {
-   "id": "gk-misc-p14-0390",
+   "id": "gk-misc-p14-0413",
    "q": "Luxurious is an antonym of which of the following words?",
    "o": [
     "Austere",
@@ -5869,7 +6214,7 @@
    "e": "Luxurious is the opposite of Austere."
   },
   {
-   "id": "gk-misc-p14-0391",
+   "id": "gk-misc-p14-0414",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Without beating about the bush - Praise oneself",
@@ -5884,7 +6229,7 @@
    "e": "Only Without beating about the bush - Without wasting words is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0392",
+   "id": "gk-misc-p14-0415",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A place where money is coined - Inimitable",
@@ -5899,7 +6244,7 @@
    "e": "Only A place where money is coined - Mint is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0393",
+   "id": "gk-misc-p14-0416",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Mispell",
@@ -5914,7 +6259,7 @@
    "e": "The incorrect spelling shown is Occured; the correct form is Occurred."
   },
   {
-   "id": "gk-misc-p14-0394",
+   "id": "gk-misc-p14-0417",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Crisis - Sons-in-law",
@@ -5929,7 +6274,7 @@
    "e": "Only Crisis - Crises is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0395",
+   "id": "gk-misc-p14-0418",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Weak - More courageous",
@@ -5944,7 +6289,7 @@
    "e": "Only Weak - Weaker is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0396",
+   "id": "gk-misc-p14-0419",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Plug and play - Language that adds behaviour to web pages",
@@ -5959,7 +6304,7 @@
    "e": "Only Plug and play - Devices that work as soon as they are connected is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0397",
+   "id": "gk-misc-p14-0420",
    "q": "Which of the following abbreviations stands for Magnetic Resonance Imaging?",
    "o": [
     "ICC cricket",
@@ -5974,7 +6319,7 @@
    "e": "Magnetic Resonance Imaging is abbreviated as MRI."
   },
   {
-   "id": "gk-misc-p14-0398",
+   "id": "gk-misc-p14-0421",
    "q": "Baku is the capital of which country?",
    "o": [
     "Azerbaijan",
@@ -5989,7 +6334,7 @@
    "e": "Baku is the capital of Azerbaijan."
   },
   {
-   "id": "gk-misc-p14-0399",
+   "id": "gk-misc-p14-0422",
    "q": "What is the atomic number of Palladium?",
    "o": [
     "68",
@@ -6004,7 +6349,7 @@
    "e": "The atomic number of Palladium is 46."
   },
   {
-   "id": "gk-misc-p14-0400",
+   "id": "gk-misc-p14-0423",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Keibul Lamjao National Park - Mizoram",
@@ -6019,7 +6364,7 @@
    "e": "Only Keibul Lamjao National Park - Manipur is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0401",
+   "id": "gk-misc-p14-0424",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Founding of the People's Republic of China - 1949",
@@ -6034,7 +6379,7 @@
    "e": "Only Founding of the People's Republic of China - 1949 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0402",
+   "id": "gk-misc-p14-0425",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "International Tea Day - 21 May",
@@ -6049,7 +6394,7 @@
    "e": "Only International Tea Day - 21 May is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0403",
+   "id": "gk-misc-p14-0426",
    "q": "Generous is a synonym of which of the following words?",
    "o": [
     "Placid",
@@ -6064,7 +6409,7 @@
    "e": "Generous is a synonym of Munificent."
   },
   {
-   "id": "gk-misc-p14-0404",
+   "id": "gk-misc-p14-0427",
    "q": "Careless is an antonym of which of the following words?",
    "o": [
     "Discreet",
@@ -6079,7 +6424,7 @@
    "e": "Careless is the opposite of Discreet."
   },
   {
-   "id": "gk-misc-p14-0405",
+   "id": "gk-misc-p14-0428",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Without beating about the bush - Without wasting words",
@@ -6094,7 +6439,7 @@
    "e": "Only Without beating about the bush - Without wasting words is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0406",
+   "id": "gk-misc-p14-0429",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Animals that eat only flesh - Contagious",
@@ -6109,7 +6454,7 @@
    "e": "Only Animals that eat only flesh - Carnivores is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0407",
+   "id": "gk-misc-p14-0430",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Courgaeous",
@@ -6124,7 +6469,7 @@
    "e": "The incorrect spelling shown is Excelent; the correct form is Excellent."
   },
   {
-   "id": "gk-misc-p14-0408",
+   "id": "gk-misc-p14-0431",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Goose - Data",
@@ -6139,7 +6484,7 @@
    "e": "Only Goose - Geese is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0409",
+   "id": "gk-misc-p14-0432",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Many - More difficult",
@@ -6154,7 +6499,7 @@
    "e": "Only Many - More is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0410",
+   "id": "gk-misc-p14-0433",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Operating system - Main circuit board of a computer",
@@ -6169,7 +6514,7 @@
    "e": "Only Operating system - Software that manages hardware and applications is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0411",
+   "id": "gk-misc-p14-0434",
    "q": "Which of the following abbreviations stands for International Committee of the Red Cross?",
    "o": [
     "OPD",
@@ -6184,7 +6529,7 @@
    "e": "International Committee of the Red Cross is abbreviated as ICRC."
   },
   {
-   "id": "gk-misc-p14-0412",
+   "id": "gk-misc-p14-0435",
    "q": "Tripoli is the capital of which country?",
    "o": [
     "Indonesia",
@@ -6199,7 +6544,7 @@
    "e": "Tripoli is the capital of Libya."
   },
   {
-   "id": "gk-misc-p14-0413",
+   "id": "gk-misc-p14-0436",
    "q": "What is the atomic number of Fermium?",
    "o": [
     "26",
@@ -6214,7 +6559,7 @@
    "e": "The atomic number of Fermium is 100."
   },
   {
-   "id": "gk-misc-p14-0414",
+   "id": "gk-misc-p14-0437",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Keibul Lamjao National Park - Meghalaya",
@@ -6229,7 +6574,7 @@
    "e": "Only Keibul Lamjao National Park - Manipur is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0415",
+   "id": "gk-misc-p14-0438",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Founding of the People's Republic of China - 1949",
@@ -6244,7 +6589,7 @@
    "e": "Only Founding of the People's Republic of China - 1949 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0416",
+   "id": "gk-misc-p14-0439",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "World Pulses Day - 14 December",
@@ -6259,7 +6604,7 @@
    "e": "Only World Pulses Day - 10 February is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0417",
+   "id": "gk-misc-p14-0440",
    "q": "Concise is a synonym of which of the following words?",
    "o": [
     "Stagnant",
@@ -6274,7 +6619,7 @@
    "e": "Concise is a synonym of Succinct."
   },
   {
-   "id": "gk-misc-p14-0418",
+   "id": "gk-misc-p14-0441",
    "q": "Barren is an antonym of which of the following words?",
    "o": [
     "Fertile",
@@ -6289,7 +6634,7 @@
    "e": "Barren is the opposite of Fertile."
   },
   {
-   "id": "gk-misc-p14-0419",
+   "id": "gk-misc-p14-0442",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Live from hand to mouth - Interfere",
@@ -6304,7 +6649,7 @@
    "e": "Only Live from hand to mouth - Barely manage to survive is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0420",
+   "id": "gk-misc-p14-0443",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Animals that eat only flesh - Oligarchy",
@@ -6319,7 +6664,7 @@
    "e": "Only Animals that eat only flesh - Carnivores is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0421",
+   "id": "gk-misc-p14-0444",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Comparision",
@@ -6334,7 +6679,7 @@
    "e": "The incorrect spelling shown is Coloumn; the correct form is Column."
   },
   {
-   "id": "gk-misc-p14-0422",
+   "id": "gk-misc-p14-0445",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Goose - Knives",
@@ -6349,7 +6694,7 @@
    "e": "Only Goose - Geese is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0423",
+   "id": "gk-misc-p14-0446",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Many - More",
@@ -6364,7 +6709,7 @@
    "e": "Only Many - More is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0424",
+   "id": "gk-misc-p14-0447",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Operating system - Software that manages hardware and applications",
@@ -6379,7 +6724,7 @@
    "e": "Only Operating system - Software that manages hardware and applications is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0425",
+   "id": "gk-misc-p14-0448",
    "q": "Which of the following abbreviations stands for South Asian Association for Regional Cooperation?",
    "o": [
     "MSF",
@@ -6394,7 +6739,7 @@
    "e": "South Asian Association for Regional Cooperation is abbreviated as SAARC."
   },
   {
-   "id": "gk-misc-p14-0426",
+   "id": "gk-misc-p14-0449",
    "q": "Khartoum is the capital of which country?",
    "o": [
     "Sudan",
@@ -6409,7 +6754,7 @@
    "e": "Khartoum is the capital of Sudan."
   },
   {
-   "id": "gk-misc-p14-0427",
+   "id": "gk-misc-p14-0450",
    "q": "What is the atomic number of Roentgenium?",
    "o": [
     "24",
@@ -6424,7 +6769,7 @@
    "e": "The atomic number of Roentgenium is 111."
   },
   {
-   "id": "gk-misc-p14-0428",
+   "id": "gk-misc-p14-0451",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Sitanadi Wildlife Sanctuary - Karnataka",
@@ -6439,7 +6784,7 @@
    "e": "Only Sitanadi Wildlife Sanctuary - Chhattisgarh is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0429",
+   "id": "gk-misc-p14-0452",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Publication of the Communist Manifesto - 1901",
@@ -6454,7 +6799,7 @@
    "e": "Only Publication of the Communist Manifesto - 1848 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0430",
+   "id": "gk-misc-p14-0453",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "World Pulses Day - 8 September",
@@ -6469,7 +6814,7 @@
    "e": "Only World Pulses Day - 10 February is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0431",
+   "id": "gk-misc-p14-0454",
    "q": "Lavish is a synonym of which of the following words?",
    "o": [
     "Futile",
@@ -6484,7 +6829,7 @@
    "e": "Lavish is a synonym of Sumptuous."
   },
   {
-   "id": "gk-misc-p14-0432",
+   "id": "gk-misc-p14-0455",
    "q": "Permanent is an antonym of which of the following words?",
    "o": [
     "Alleviate",
@@ -6499,7 +6844,7 @@
    "e": "Permanent is the opposite of Ephemeral."
   },
   {
-   "id": "gk-misc-p14-0433",
+   "id": "gk-misc-p14-0456",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Live from hand to mouth - Barely manage to survive",
@@ -6514,7 +6859,7 @@
    "e": "Only Live from hand to mouth - Barely manage to survive is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0434",
+   "id": "gk-misc-p14-0457",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The murder of a king - Manifest",
@@ -6529,7 +6874,7 @@
    "e": "Only The murder of a king - Regicide is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0435",
+   "id": "gk-misc-p14-0458",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Posession",
@@ -6544,7 +6889,7 @@
    "e": "The incorrect spelling shown is Posession; the correct form is Possession."
   },
   {
-   "id": "gk-misc-p14-0436",
+   "id": "gk-misc-p14-0459",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Commander-in-Chief - Mosquitoes",
@@ -6559,7 +6904,7 @@
    "e": "The pair Commander-in-Chief - Mosquitoes is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0437",
+   "id": "gk-misc-p14-0460",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "High - Gentler",
@@ -6574,7 +6919,7 @@
    "e": "Only High - Higher is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0438",
+   "id": "gk-misc-p14-0461",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Hard disk - Magnetic secondary storage device",
@@ -6589,7 +6934,7 @@
    "e": "Only Hard disk - Magnetic secondary storage device is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0439",
+   "id": "gk-misc-p14-0462",
    "q": "Which of the following abbreviations stands for Asian Infrastructure Investment Bank?",
    "o": [
     "POS",
@@ -6604,7 +6949,7 @@
    "e": "Asian Infrastructure Investment Bank is abbreviated as AIIB."
   },
   {
-   "id": "gk-misc-p14-0440",
+   "id": "gk-misc-p14-0463",
    "q": "Bridgetown is the capital of which country?",
    "o": [
     "Barbados",
@@ -6619,7 +6964,7 @@
    "e": "Bridgetown is the capital of Barbados."
   },
   {
-   "id": "gk-misc-p14-0441",
+   "id": "gk-misc-p14-0464",
    "q": "What is the atomic number of Sulphur?",
    "o": [
     "19",
@@ -6634,7 +6979,7 @@
    "e": "The atomic number of Sulphur is 16."
   },
   {
-   "id": "gk-misc-p14-0442",
+   "id": "gk-misc-p14-0465",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Sitanadi Wildlife Sanctuary - Bihar",
@@ -6649,7 +6994,7 @@
    "e": "Only Sitanadi Wildlife Sanctuary - Chhattisgarh is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0443",
+   "id": "gk-misc-p14-0466",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Publication of the Communist Manifesto - 1848",
@@ -6664,7 +7009,7 @@
    "e": "Only Publication of the Communist Manifesto - 1848 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0444",
+   "id": "gk-misc-p14-0467",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "World Heart Day - 29 September",
@@ -6679,7 +7024,7 @@
    "e": "Only World Heart Day - 29 September is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0445",
+   "id": "gk-misc-p14-0468",
    "q": "Recall is a synonym of which of the following words?",
    "o": [
     "Succinct",
@@ -6694,7 +7039,7 @@
    "e": "Recall is a synonym of Reminisce."
   },
   {
-   "id": "gk-misc-p14-0446",
+   "id": "gk-misc-p14-0469",
    "q": "Essential is an antonym of which of the following words?",
    "o": [
     "Scrupulous",
@@ -6709,7 +7054,7 @@
    "e": "Essential is the opposite of Redundant."
   },
   {
-   "id": "gk-misc-p14-0447",
+   "id": "gk-misc-p14-0470",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Hang fire - Remain undecided",
@@ -6724,7 +7069,7 @@
    "e": "Only Hang fire - Remain undecided is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0448",
+   "id": "gk-misc-p14-0471",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The murder of a king - Plutocracy",
@@ -6739,7 +7084,7 @@
    "e": "Only The murder of a king - Regicide is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0449",
+   "id": "gk-misc-p14-0472",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Occassion",
@@ -6754,7 +7099,7 @@
    "e": "The incorrect spelling shown is Aggrevate; the correct form is Aggravate."
   },
   {
-   "id": "gk-misc-p14-0450",
+   "id": "gk-misc-p14-0473",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Tooth - Teeth",
@@ -6769,7 +7114,7 @@
    "e": "The pair Woman - Axes is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0451",
+   "id": "gk-misc-p14-0474",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "High - Darker",
@@ -6784,7 +7129,7 @@
    "e": "Only High - Higher is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0452",
+   "id": "gk-misc-p14-0475",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Hard disk - Protocol used to transfer web pages",
@@ -6799,7 +7144,7 @@
    "e": "Only Hard disk - Magnetic secondary storage device is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0453",
+   "id": "gk-misc-p14-0476",
    "q": "Which of the following abbreviations stands for Pradhan Mantri Jan Arogya Yojana?",
    "o": [
     "PMJAY",
@@ -6814,7 +7159,7 @@
    "e": "Pradhan Mantri Jan Arogya Yojana is abbreviated as PMJAY."
   },
   {
-   "id": "gk-misc-p14-0454",
+   "id": "gk-misc-p14-0477",
    "q": "Tallinn is the capital of which country?",
    "o": [
     "Burkina Faso",
@@ -6829,7 +7174,7 @@
    "e": "Tallinn is the capital of Estonia."
   },
   {
-   "id": "gk-misc-p14-0455",
+   "id": "gk-misc-p14-0478",
    "q": "What is the atomic number of Bismuth?",
    "o": [
     "95",
@@ -6844,7 +7189,7 @@
    "e": "The atomic number of Bismuth is 83."
   },
   {
-   "id": "gk-misc-p14-0456",
+   "id": "gk-misc-p14-0479",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Dibru-Saikhowa National Park - Karnataka",
@@ -6859,7 +7204,7 @@
    "e": "Only Dibru-Saikhowa National Park - Assam is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0457",
+   "id": "gk-misc-p14-0480",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Atomic bombing of Hiroshima and Nagasaki - 1869",
@@ -6874,7 +7219,7 @@
    "e": "Only Atomic bombing of Hiroshima and Nagasaki - 1945 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0458",
+   "id": "gk-misc-p14-0481",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "World Heart Day - first Monday of October",
@@ -6889,7 +7234,7 @@
    "e": "Only World Heart Day - 29 September is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0459",
+   "id": "gk-misc-p14-0482",
    "q": "Overjoyed is a synonym of which of the following words?",
    "o": [
     "Uncanny",
@@ -6904,7 +7249,7 @@
    "e": "Overjoyed is a synonym of Elated."
   },
   {
-   "id": "gk-misc-p14-0460",
+   "id": "gk-misc-p14-0483",
    "q": "Frugal is an antonym of which of the following words?",
    "o": [
     "Ambiguous",
@@ -6919,7 +7264,7 @@
    "e": "Frugal is the opposite of Extravagant."
   },
   {
-   "id": "gk-misc-p14-0461",
+   "id": "gk-misc-p14-0484",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Hang fire - Remain undecided",
@@ -6934,7 +7279,7 @@
    "e": "Only Hang fire - Remain undecided is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0462",
+   "id": "gk-misc-p14-0485",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Animals that live in groups - Amphibians",
@@ -6949,7 +7294,7 @@
    "e": "Only Animals that live in groups - Gregarious is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0463",
+   "id": "gk-misc-p14-0486",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Villiage",
@@ -6964,7 +7309,7 @@
    "e": "The incorrect spelling shown is Attendence; the correct form is Attendance."
   },
   {
-   "id": "gk-misc-p14-0464",
+   "id": "gk-misc-p14-0487",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Series - Series",
@@ -6979,7 +7324,7 @@
    "e": "The pair Photo - Cities is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0465",
+   "id": "gk-misc-p14-0488",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Deep - Smaller",
@@ -6994,7 +7339,7 @@
    "e": "Only Deep - Deeper is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0466",
+   "id": "gk-misc-p14-0489",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "LAN - Secure version of the web transfer protocol",
@@ -7009,7 +7354,7 @@
    "e": "Only LAN - Network covering a small area is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0467",
+   "id": "gk-misc-p14-0490",
    "q": "Which of the following abbreviations stands for Central Reserve Police Force?",
    "o": [
     "LED",
@@ -7024,7 +7369,7 @@
    "e": "Central Reserve Police Force is abbreviated as CRPF."
   },
   {
-   "id": "gk-misc-p14-0468",
+   "id": "gk-misc-p14-0491",
    "q": "Seoul is the capital of which country?",
    "o": [
     "Malawi",
@@ -7039,7 +7384,7 @@
    "e": "Seoul is the capital of South Korea."
   },
   {
-   "id": "gk-misc-p14-0469",
+   "id": "gk-misc-p14-0492",
    "q": "What is the atomic number of Nickel?",
    "o": [
     "3",
@@ -7054,7 +7399,7 @@
    "e": "The atomic number of Nickel is 28."
   },
   {
-   "id": "gk-misc-p14-0470",
+   "id": "gk-misc-p14-0493",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Dibru-Saikhowa National Park - Madhya Pradesh",
@@ -7069,7 +7414,7 @@
    "e": "Only Dibru-Saikhowa National Park - Assam is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0471",
+   "id": "gk-misc-p14-0494",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Atomic bombing of Hiroshima and Nagasaki - 1973",
@@ -7084,7 +7429,7 @@
    "e": "Only Atomic bombing of Hiroshima and Nagasaki - 1945 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0472",
+   "id": "gk-misc-p14-0495",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "United Nations Day for South-South Cooperation - 20 October",
@@ -7099,7 +7444,7 @@
    "e": "Only United Nations Day for South-South Cooperation - 12 September is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0473",
+   "id": "gk-misc-p14-0496",
    "q": "Confirm is a synonym of which of the following words?",
    "o": [
     "Corroborate",
@@ -7114,7 +7459,7 @@
    "e": "Confirm is a synonym of Corroborate."
   },
   {
-   "id": "gk-misc-p14-0474",
+   "id": "gk-misc-p14-0497",
    "q": "Cowardice is an antonym of which of the following words?",
    "o": [
     "Dissent",
@@ -7129,7 +7474,7 @@
    "e": "Cowardice is the opposite of Fortitude."
   },
   {
-   "id": "gk-misc-p14-0475",
+   "id": "gk-misc-p14-0498",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Get the sack - Make money selfishly",
@@ -7144,7 +7489,7 @@
    "e": "Only Get the sack - Be dismissed from a job is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0476",
+   "id": "gk-misc-p14-0499",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Animals that live in groups - Omnipresent",
@@ -7159,7 +7504,7 @@
    "e": "Only Animals that live in groups - Gregarious is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0477",
+   "id": "gk-misc-p14-0500",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Unforseen",
@@ -7174,7 +7519,7 @@
    "e": "The incorrect spelling shown is Writting; the correct form is Writing."
   },
   {
-   "id": "gk-misc-p14-0478",
+   "id": "gk-misc-p14-0501",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Species - Species",
@@ -7189,7 +7534,7 @@
    "e": "The pair Bench - Shelves is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0479",
+   "id": "gk-misc-p14-0502",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Deep - Deeper",
@@ -7204,7 +7549,7 @@
    "e": "Only Deep - Deeper is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0480",
+   "id": "gk-misc-p14-0503",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "LAN - Software used to view web pages",
@@ -7219,7 +7564,7 @@
    "e": "Only LAN - Network covering a small area is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0481",
+   "id": "gk-misc-p14-0504",
    "q": "Which of the following abbreviations stands for National Defence Academy?",
    "o": [
     "ISO",
@@ -7234,7 +7579,7 @@
    "e": "National Defence Academy is abbreviated as NDA."
   },
   {
-   "id": "gk-misc-p14-0482",
+   "id": "gk-misc-p14-0505",
    "q": "Kyiv is the capital of which country?",
    "o": [
     "Mali",
@@ -7249,7 +7594,7 @@
    "e": "Kyiv is the capital of Ukraine."
   },
   {
-   "id": "gk-misc-p14-0483",
+   "id": "gk-misc-p14-0506",
    "q": "What is the atomic number of Radium?",
    "o": [
     "88",
@@ -7264,7 +7609,7 @@
    "e": "The atomic number of Radium is 88."
   },
   {
-   "id": "gk-misc-p14-0484",
+   "id": "gk-misc-p14-0507",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Inderkilla National Park - Himachal Pradesh",
@@ -7279,7 +7624,7 @@
    "e": "Only Inderkilla National Park - Himachal Pradesh is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0485",
+   "id": "gk-misc-p14-0508",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Fall of the Berlin Wall - 1648",
@@ -7294,7 +7639,7 @@
    "e": "Only Fall of the Berlin Wall - 1989 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0486",
+   "id": "gk-misc-p14-0509",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "United Nations Day for South-South Cooperation - 18 April",
@@ -7309,7 +7654,7 @@
    "e": "Only United Nations Day for South-South Cooperation - 12 September is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0487",
+   "id": "gk-misc-p14-0510",
    "q": "Scarcity is a synonym of which of the following words?",
    "o": [
     "Prudent",
@@ -7324,7 +7669,7 @@
    "e": "Scarcity is a synonym of Paucity."
   },
   {
-   "id": "gk-misc-p14-0488",
+   "id": "gk-misc-p14-0511",
    "q": "Unrepentant is an antonym of which of the following words?",
    "o": [
     "Banal",
@@ -7339,7 +7684,7 @@
    "e": "Unrepentant is the opposite of Penitent."
   },
   {
-   "id": "gk-misc-p14-0489",
+   "id": "gk-misc-p14-0512",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Get the sack - Be dismissed from a job",
@@ -7354,7 +7699,7 @@
    "e": "Only Get the sack - Be dismissed from a job is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0490",
+   "id": "gk-misc-p14-0513",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A disease that spreads over a large area - Acronym",
@@ -7369,7 +7714,7 @@
    "e": "Only A disease that spreads over a large area - Epidemic is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0491",
+   "id": "gk-misc-p14-0514",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Priviledge",
@@ -7384,7 +7729,7 @@
    "e": "The incorrect spelling shown is Irresistable; the correct form is Irresistible."
   },
   {
-   "id": "gk-misc-p14-0492",
+   "id": "gk-misc-p14-0515",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Thesis - Theses",
@@ -7399,7 +7744,7 @@
    "e": "The pair Knife - Courts Martial is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0493",
+   "id": "gk-misc-p14-0516",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Important - More important",
@@ -7414,7 +7759,7 @@
    "e": "Only Important - More important is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0494",
+   "id": "gk-misc-p14-0517",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Plotter - Smallest unit of digital data",
@@ -7429,7 +7774,7 @@
    "e": "Only Plotter - Output device that prints large technical drawings is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0495",
+   "id": "gk-misc-p14-0518",
    "q": "Which of the following abbreviations stands for Adenosine Triphosphate?",
    "o": [
     "BRICS",
@@ -7444,7 +7789,7 @@
    "e": "Adenosine Triphosphate is abbreviated as ATP."
   },
   {
-   "id": "gk-misc-p14-0496",
+   "id": "gk-misc-p14-0519",
    "q": "Chisinau is the capital of which country?",
    "o": [
     "Suriname",
@@ -7459,7 +7804,7 @@
    "e": "Chisinau is the capital of Moldova."
   },
   {
-   "id": "gk-misc-p14-0497",
+   "id": "gk-misc-p14-0520",
    "q": "What is the atomic number of Livermorium?",
    "o": [
     "38",
@@ -7474,7 +7819,7 @@
    "e": "The atomic number of Livermorium is 116."
   },
   {
-   "id": "gk-misc-p14-0498",
+   "id": "gk-misc-p14-0521",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Inderkilla National Park - Mizoram",
@@ -7489,7 +7834,7 @@
    "e": "Only Inderkilla National Park - Himachal Pradesh is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0499",
+   "id": "gk-misc-p14-0522",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Fall of the Berlin Wall - 1989",
@@ -7504,7 +7849,7 @@
    "e": "Only Fall of the Berlin Wall - 1989 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0500",
+   "id": "gk-misc-p14-0523",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "International Nurses Day - 9 October",
@@ -7519,7 +7864,7 @@
    "e": "Only International Nurses Day - 12 May is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0501",
+   "id": "gk-misc-p14-0524",
    "q": "Excessive is a synonym of which of the following words?",
    "o": [
     "Staunch",
@@ -7534,7 +7879,7 @@
    "e": "Excessive is a synonym of Exorbitant."
   },
   {
-   "id": "gk-misc-p14-0502",
+   "id": "gk-misc-p14-0525",
    "q": "Petty is an antonym of which of the following words?",
    "o": [
     "Magnanimous",
@@ -7549,7 +7894,7 @@
    "e": "Petty is the opposite of Magnanimous."
   },
   {
-   "id": "gk-misc-p14-0503",
+   "id": "gk-misc-p14-0526",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A lame duck - In a great hurry",
@@ -7564,7 +7909,7 @@
    "e": "Only A lame duck - An ineffective person or government is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0504",
+   "id": "gk-misc-p14-0527",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A disease that spreads over a large area - Dystopia",
@@ -7579,7 +7924,7 @@
    "e": "Only A disease that spreads over a large area - Epidemic is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0505",
+   "id": "gk-misc-p14-0528",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Courgaeous",
@@ -7594,7 +7939,7 @@
    "e": "The incorrect spelling shown is Buisness; the correct form is Business."
   },
   {
-   "id": "gk-misc-p14-0506",
+   "id": "gk-misc-p14-0529",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Court Martial - Courts Martial",
@@ -7609,7 +7954,7 @@
    "e": "The pair Zoo - Lookers-on is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0507",
+   "id": "gk-misc-p14-0530",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Important - Shallower",
@@ -7624,7 +7969,7 @@
    "e": "Only Important - More important is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0508",
+   "id": "gk-misc-p14-0531",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Plotter - Network covering a small area",
@@ -7639,7 +7984,7 @@
    "e": "Only Plotter - Output device that prints large technical drawings is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0509",
+   "id": "gk-misc-p14-0532",
    "q": "Which of the following abbreviations stands for Food Safety and Standards Authority of India?",
    "o": [
     "IPO",
@@ -7654,7 +7999,7 @@
    "e": "Food Safety and Standards Authority of India is abbreviated as FSSAI."
   },
   {
-   "id": "gk-misc-p14-0510",
+   "id": "gk-misc-p14-0533",
    "q": "Madrid is the capital of which country?",
    "o": [
     "Tanzania",
@@ -7669,7 +8014,7 @@
    "e": "Madrid is the capital of Spain."
   },
   {
-   "id": "gk-misc-p14-0511",
+   "id": "gk-misc-p14-0534",
    "q": "What is the atomic number of Actinium?",
    "o": [
     "109",
@@ -7684,7 +8029,7 @@
    "e": "The atomic number of Actinium is 89."
   },
   {
-   "id": "gk-misc-p14-0512",
+   "id": "gk-misc-p14-0535",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Bandipur National Park - Uttarakhand",
@@ -7699,7 +8044,7 @@
    "e": "Only Bandipur National Park - Karnataka is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0513",
+   "id": "gk-misc-p14-0536",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Assassination of Abraham Lincoln - 1588",
@@ -7714,7 +8059,7 @@
    "e": "Only Assassination of Abraham Lincoln - 1865 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0514",
+   "id": "gk-misc-p14-0537",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "International Nurses Day - 12 May",
@@ -7729,7 +8074,7 @@
    "e": "Only International Nurses Day - 12 May is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0515",
+   "id": "gk-misc-p14-0538",
    "q": "Flatterer is a synonym of which of the following words?",
    "o": [
     "Cease",
@@ -7744,7 +8089,7 @@
    "e": "Flatterer is a synonym of Sycophant."
   },
   {
-   "id": "gk-misc-p14-0516",
+   "id": "gk-misc-p14-0539",
    "q": "Overturn is an antonym of which of the following words?",
    "o": [
     "Conceal",
@@ -7759,7 +8104,7 @@
    "e": "Overturn is the opposite of Uphold."
   },
   {
-   "id": "gk-misc-p14-0517",
+   "id": "gk-misc-p14-0540",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A lame duck - Punish",
@@ -7774,7 +8119,7 @@
    "e": "Only A lame duck - An ineffective person or government is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0518",
+   "id": "gk-misc-p14-0541",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A place where animals are kept - Panacea",
@@ -7789,7 +8134,7 @@
    "e": "Only A place where animals are kept - Zoo is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0519",
+   "id": "gk-misc-p14-0542",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Litereture",
@@ -7804,7 +8149,7 @@
    "e": "The incorrect spelling shown is Litereture; the correct form is Literature."
   },
   {
-   "id": "gk-misc-p14-0520",
+   "id": "gk-misc-p14-0543",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Index - Indices",
@@ -7819,7 +8164,7 @@
    "e": "The pair Loaf - Lives is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0521",
+   "id": "gk-misc-p14-0544",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Fast - Faster",
@@ -7834,7 +8179,7 @@
    "e": "The pair Kind - Richer is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0522",
+   "id": "gk-misc-p14-0545",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Monitor - Output device that displays visuals",
@@ -7849,7 +8194,7 @@
    "e": "Only Monitor - Output device that displays visuals is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0523",
+   "id": "gk-misc-p14-0546",
    "q": "Which of the following abbreviations stands for Atal Pension Yojana?",
    "o": [
     "APY",
@@ -7864,7 +8209,7 @@
    "e": "Atal Pension Yojana is abbreviated as APY."
   },
   {
-   "id": "gk-misc-p14-0524",
+   "id": "gk-misc-p14-0547",
    "q": "Managua is the capital of which country?",
    "o": [
     "Iceland",
@@ -7879,7 +8224,7 @@
    "e": "Managua is the capital of Nicaragua."
   },
   {
-   "id": "gk-misc-p14-0525",
+   "id": "gk-misc-p14-0548",
    "q": "What is the atomic number of Niobium?",
    "o": [
     "27",
@@ -7894,7 +8239,7 @@
    "e": "The atomic number of Niobium is 41."
   },
   {
-   "id": "gk-misc-p14-0526",
+   "id": "gk-misc-p14-0549",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Bandipur National Park - Bihar",
@@ -7909,7 +8254,7 @@
    "e": "Only Bandipur National Park - Karnataka is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0527",
+   "id": "gk-misc-p14-0550",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Assassination of Abraham Lincoln - 1848",
@@ -7924,7 +8269,7 @@
    "e": "Only Assassination of Abraham Lincoln - 1865 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0528",
+   "id": "gk-misc-p14-0551",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "National Mathematics Day (India) - 30 November",
@@ -7939,7 +8284,7 @@
    "e": "Only National Mathematics Day (India) - 22 December is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0529",
+   "id": "gk-misc-p14-0552",
    "q": "Dilemma is a synonym of which of the following words?",
    "o": [
     "Immense",
@@ -7954,7 +8299,7 @@
    "e": "Dilemma is a synonym of Quandary."
   },
   {
-   "id": "gk-misc-p14-0530",
+   "id": "gk-misc-p14-0553",
    "q": "Reckless is an antonym of which of the following words?",
    "o": [
     "Obstinate",
@@ -7969,7 +8314,7 @@
    "e": "Reckless is the opposite of Prudent."
   },
   {
-   "id": "gk-misc-p14-0531",
+   "id": "gk-misc-p14-0554",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "In hot water - Have a selfish motive",
@@ -7984,7 +8329,7 @@
    "e": "Only In hot water - In trouble is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0532",
+   "id": "gk-misc-p14-0555",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A place where animals are kept - Plutocracy",
@@ -7999,7 +8344,7 @@
    "e": "Only A place where animals are kept - Zoo is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0533",
+   "id": "gk-misc-p14-0556",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Abundence",
@@ -8014,7 +8359,7 @@
    "e": "The incorrect spelling shown is Anonimous; the correct form is Anonymous."
   },
   {
-   "id": "gk-misc-p14-0534",
+   "id": "gk-misc-p14-0557",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Criterion - Criteria",
@@ -8029,7 +8374,7 @@
    "e": "The pair Syllabus - Thieves is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0535",
+   "id": "gk-misc-p14-0558",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Courageous - More courageous",
@@ -8044,7 +8389,7 @@
    "e": "The pair Fat - Shorter is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0536",
+   "id": "gk-misc-p14-0559",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Monitor - Diagram of the steps of an algorithm",
@@ -8059,7 +8404,7 @@
    "e": "Only Monitor - Output device that displays visuals is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0537",
+   "id": "gk-misc-p14-0560",
    "q": "Which of the following abbreviations stands for Athletics track and field club naming?",
    "o": [
     "ATK",
@@ -8074,7 +8419,7 @@
    "e": "Athletics track and field club naming is abbreviated as ATK."
   },
   {
-   "id": "gk-misc-p14-0538",
+   "id": "gk-misc-p14-0561",
    "q": "Singapore is the capital of which country?",
    "o": [
     "Singapore",
@@ -8089,7 +8434,7 @@
    "e": "Singapore is the capital of Singapore."
   },
   {
-   "id": "gk-misc-p14-0539",
+   "id": "gk-misc-p14-0562",
    "q": "What is the atomic number of Mercury?",
    "o": [
     "113",
@@ -8104,7 +8449,7 @@
    "e": "The atomic number of Mercury is 80."
   },
   {
-   "id": "gk-misc-p14-0540",
+   "id": "gk-misc-p14-0563",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Sunderbans Tiger Reserve - Jammu and Kashmir",
@@ -8119,7 +8464,7 @@
    "e": "Only Sunderbans Tiger Reserve - West Bengal is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0541",
+   "id": "gk-misc-p14-0564",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Opening of the Suez Canal - 1945",
@@ -8134,7 +8479,7 @@
    "e": "Only Opening of the Suez Canal - 1869 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0542",
+   "id": "gk-misc-p14-0565",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "National Mathematics Day (India) - 22 December",
@@ -8149,7 +8494,7 @@
    "e": "Only National Mathematics Day (India) - 22 December is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0543",
+   "id": "gk-misc-p14-0566",
    "q": "Forceful is a synonym of which of the following words?",
    "o": [
     "Vehement",
@@ -8164,7 +8509,7 @@
    "e": "Forceful is a synonym of Vehement."
   },
   {
-   "id": "gk-misc-p14-0544",
+   "id": "gk-misc-p14-0567",
    "q": "Neglect is an antonym of which of the following words?",
    "o": [
     "Tentative",
@@ -8179,7 +8524,7 @@
    "e": "Neglect is the opposite of Foster."
   },
   {
-   "id": "gk-misc-p14-0545",
+   "id": "gk-misc-p14-0568",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "In hot water - Spoil a plan",
@@ -8194,7 +8539,7 @@
    "e": "Only In hot water - In trouble is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0546",
+   "id": "gk-misc-p14-0569",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Words with the same meaning - Chauvinism",
@@ -8209,7 +8554,7 @@
    "e": "Only Words with the same meaning - Synonyms is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0547",
+   "id": "gk-misc-p14-0570",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Ambitous",
@@ -8224,7 +8569,7 @@
    "e": "The incorrect spelling shown is Aquiesce; the correct form is Acquiesce."
   },
   {
-   "id": "gk-misc-p14-0548",
+   "id": "gk-misc-p14-0571",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Mosquito - Mosquitoes",
@@ -8239,7 +8584,7 @@
    "e": "The pair Church - Thieves is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0549",
+   "id": "gk-misc-p14-0572",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Happy - Happier",
@@ -8254,7 +8599,7 @@
    "e": "The pair Weak - Thinner is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0550",
+   "id": "gk-misc-p14-0573",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Motherboard - Organised collection of data",
@@ -8269,7 +8614,7 @@
    "e": "Only Motherboard - Main circuit board of a computer is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0551",
+   "id": "gk-misc-p14-0574",
    "q": "Which of the following abbreviations stands for World Wide Fund for Nature?",
    "o": [
     "WWF",
@@ -8284,7 +8629,7 @@
    "e": "World Wide Fund for Nature is abbreviated as WWF."
   },
   {
-   "id": "gk-misc-p14-0552",
+   "id": "gk-misc-p14-0575",
    "q": "Beirut is the capital of which country?",
    "o": [
     "Vatican City",
@@ -8299,7 +8644,7 @@
    "e": "Beirut is the capital of Lebanon."
   },
   {
-   "id": "gk-misc-p14-0553",
+   "id": "gk-misc-p14-0576",
    "q": "What is the atomic number of Flerovium?",
    "o": [
     "78",
@@ -8314,7 +8659,7 @@
    "e": "The atomic number of Flerovium is 114."
   },
   {
-   "id": "gk-misc-p14-0554",
+   "id": "gk-misc-p14-0577",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Sunderbans Tiger Reserve - West Bengal",
@@ -8329,7 +8674,7 @@
    "e": "Only Sunderbans Tiger Reserve - West Bengal is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0555",
+   "id": "gk-misc-p14-0578",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Opening of the Suez Canal - 1944",
@@ -8344,7 +8689,7 @@
    "e": "Only Opening of the Suez Canal - 1869 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0556",
+   "id": "gk-misc-p14-0579",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "World Red Cross Day - 8 May",
@@ -8359,7 +8704,7 @@
    "e": "Only World Red Cross Day - 8 May is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0557",
+   "id": "gk-misc-p14-0580",
    "q": "Defiant is a synonym of which of the following words?",
    "o": [
     "Erudite",
@@ -8374,7 +8719,7 @@
    "e": "Defiant is a synonym of Recalcitrant."
   },
   {
-   "id": "gk-misc-p14-0558",
+   "id": "gk-misc-p14-0581",
    "q": "Light is an antonym of which of the following words?",
    "o": [
     "Sumptuous",
@@ -8389,7 +8734,7 @@
    "e": "Light is the opposite of Onerous."
   },
   {
-   "id": "gk-misc-p14-0559",
+   "id": "gk-misc-p14-0582",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "To carry the day - To win a victory",
@@ -8404,7 +8749,7 @@
    "e": "Only To carry the day - To win a victory is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0560",
+   "id": "gk-misc-p14-0583",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Words with the same meaning - Synonyms",
@@ -8419,7 +8764,7 @@
    "e": "Only Words with the same meaning - Synonyms is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0561",
+   "id": "gk-misc-p14-0584",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Comparision",
@@ -8434,7 +8779,7 @@
    "e": "The incorrect spelling shown is Concious; the correct form is Conscious."
   },
   {
-   "id": "gk-misc-p14-0562",
+   "id": "gk-misc-p14-0585",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Commander-in-Chief - Commanders-in-Chief",
@@ -8449,7 +8794,7 @@
    "e": "The pair Hero - Children is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0563",
+   "id": "gk-misc-p14-0586",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Important - More important",
@@ -8464,7 +8809,7 @@
    "e": "The pair Courageous - More intelligent is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0564",
+   "id": "gk-misc-p14-0587",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Motherboard - Tool that finds information on the web",
@@ -8479,7 +8824,7 @@
    "e": "Only Motherboard - Main circuit board of a computer is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0565",
+   "id": "gk-misc-p14-0588",
    "q": "Which of the following abbreviations stands for Small Industries Development Bank of India?",
    "o": [
     "SIDBI",
@@ -8494,7 +8839,7 @@
    "e": "Small Industries Development Bank of India is abbreviated as SIDBI."
   },
   {
-   "id": "gk-misc-p14-0566",
+   "id": "gk-misc-p14-0589",
    "q": "Which currency is used in Maldives?",
    "o": [
     "Rufiyaa",
@@ -8509,7 +8854,7 @@
    "e": "The currency of Maldives is Male."
   },
   {
-   "id": "gk-misc-p14-0567",
+   "id": "gk-misc-p14-0590",
    "q": "Which element has atomic number 71?",
    "o": [
     "Phosphorus",
@@ -8524,7 +8869,7 @@
    "e": "Atomic number 71 belongs to Lutetium."
   },
   {
-   "id": "gk-misc-p14-0568",
+   "id": "gk-misc-p14-0591",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Phawngpui National Park - Mizoram",
@@ -8539,7 +8884,7 @@
    "e": "Only Phawngpui National Park - Mizoram is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0569",
+   "id": "gk-misc-p14-0592",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Cuban Revolution - 1865",
@@ -8554,7 +8899,7 @@
    "e": "Only Cuban Revolution - 1959 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0570",
+   "id": "gk-misc-p14-0593",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "World Red Cross Day - 30 April",
@@ -8569,7 +8914,7 @@
    "e": "Only World Red Cross Day - 8 May is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0571",
+   "id": "gk-misc-p14-0594",
    "q": "Charge is a synonym of which of the following words?",
    "o": [
     "Ignominy",
@@ -8584,7 +8929,7 @@
    "e": "Charge is a synonym of Indict."
   },
   {
-   "id": "gk-misc-p14-0572",
+   "id": "gk-misc-p14-0595",
    "q": "Careless is an antonym of which of the following words?",
    "o": [
     "Esoteric",
@@ -8599,7 +8944,7 @@
    "e": "Careless is the opposite of Meticulous."
   },
   {
-   "id": "gk-misc-p14-0573",
+   "id": "gk-misc-p14-0596",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "To carry the day - To face danger boldly",
@@ -8614,7 +8959,7 @@
    "e": "Only To carry the day - To win a victory is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0574",
+   "id": "gk-misc-p14-0597",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who can use both hands equally well - Patricide",
@@ -8629,7 +8974,7 @@
    "e": "Only One who can use both hands equally well - Ambidextrous is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0575",
+   "id": "gk-misc-p14-0598",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Irresistable",
@@ -8644,7 +8989,7 @@
    "e": "The incorrect spelling shown is Fourty; the correct form is Forty."
   },
   {
-   "id": "gk-misc-p14-0576",
+   "id": "gk-misc-p14-0599",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Lady - Wives",
@@ -8659,7 +9004,7 @@
    "e": "The pair Lady - Wives is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0577",
+   "id": "gk-misc-p14-0600",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Strong - Stronger",
@@ -8674,7 +9019,7 @@
    "e": "The pair Low - Nobler is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0578",
+   "id": "gk-misc-p14-0601",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Computer network - Two or more connected computers",
@@ -8689,7 +9034,7 @@
    "e": "Only Computer network - Two or more connected computers is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0579",
+   "id": "gk-misc-p14-0602",
    "q": "Which of the following abbreviations stands for Indian Space Research Organisation?",
    "o": [
     "EPF",
@@ -8704,7 +9049,7 @@
    "e": "Indian Space Research Organisation is abbreviated as ISRO."
   },
   {
-   "id": "gk-misc-p14-0580",
+   "id": "gk-misc-p14-0603",
    "q": "Which currency is used in Iceland?",
    "o": [
     "Barbadian Dollar",
@@ -8719,7 +9064,7 @@
    "e": "The currency of Iceland is Reykjavik."
   },
   {
-   "id": "gk-misc-p14-0581",
+   "id": "gk-misc-p14-0604",
    "q": "Which element has atomic number 27?",
    "o": [
     "Cobalt",
@@ -8734,7 +9079,7 @@
    "e": "Atomic number 27 belongs to Cobalt."
   },
   {
-   "id": "gk-misc-p14-0582",
+   "id": "gk-misc-p14-0605",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Phawngpui National Park - Rajasthan",
@@ -8749,7 +9094,7 @@
    "e": "Only Phawngpui National Park - Mizoram is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0583",
+   "id": "gk-misc-p14-0606",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Cuban Revolution - 1912",
@@ -8764,7 +9109,7 @@
    "e": "Only Cuban Revolution - 1959 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0584",
+   "id": "gk-misc-p14-0607",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "Earth Day - 24 January",
@@ -8779,7 +9124,7 @@
    "e": "Only Earth Day - 22 April is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0585",
+   "id": "gk-misc-p14-0608",
    "q": "Praiseworthy is a synonym of which of the following words?",
    "o": [
     "Laudable",
@@ -8794,7 +9139,7 @@
    "e": "Praiseworthy is a synonym of Laudable."
   },
   {
-   "id": "gk-misc-p14-0586",
+   "id": "gk-misc-p14-0609",
    "q": "Active is an antonym of which of the following words?",
    "o": [
     "Torpid",
@@ -8809,7 +9154,7 @@
    "e": "Active is the opposite of Torpid."
   },
   {
-   "id": "gk-misc-p14-0587",
+   "id": "gk-misc-p14-0610",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Hand in glove - To suspect foul play",
@@ -8824,7 +9169,7 @@
    "e": "Only Hand in glove - In close partnership is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0588",
+   "id": "gk-misc-p14-0611",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who can use both hands equally well - Connoisseur",
@@ -8839,7 +9184,7 @@
    "e": "Only One who can use both hands equally well - Ambidextrous is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0589",
+   "id": "gk-misc-p14-0612",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Carrage",
@@ -8854,7 +9199,7 @@
    "e": "The incorrect spelling shown is Preceeding; the correct form is Preceding."
   },
   {
-   "id": "gk-misc-p14-0590",
+   "id": "gk-misc-p14-0613",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Loaf - Loaves",
@@ -8869,7 +9214,7 @@
    "e": "The pair Box - Knives is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0591",
+   "id": "gk-misc-p14-0614",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Weak - Weaker",
@@ -8884,7 +9229,7 @@
    "e": "The pair Many - Smaller is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0592",
+   "id": "gk-misc-p14-0615",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Computer network - Two or more connected computers",
@@ -8899,7 +9244,7 @@
    "e": "Only Computer network - Two or more connected computers is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0593",
+   "id": "gk-misc-p14-0616",
    "q": "Which of the following abbreviations stands for Indian Financial System Code?",
    "o": [
     "PIN",
@@ -8914,7 +9259,7 @@
    "e": "Indian Financial System Code is abbreviated as IFSC."
   },
   {
-   "id": "gk-misc-p14-0594",
+   "id": "gk-misc-p14-0617",
    "q": "Which currency is used in Malta?",
    "o": [
     "Swiss Franc",
@@ -8929,7 +9274,7 @@
    "e": "The currency of Malta is Valletta."
   },
   {
-   "id": "gk-misc-p14-0595",
+   "id": "gk-misc-p14-0618",
    "q": "Which element has atomic number 43?",
    "o": [
     "Technetium",
@@ -8944,7 +9289,7 @@
    "e": "Atomic number 43 belongs to Technetium."
   },
   {
-   "id": "gk-misc-p14-0596",
+   "id": "gk-misc-p14-0619",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Nagarhole National Park - Madhya Pradesh",
@@ -8959,7 +9304,7 @@
    "e": "Only Nagarhole National Park - Karnataka is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0597",
+   "id": "gk-misc-p14-0620",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "First powered flight by the Wright brothers - 1833",
@@ -8974,7 +9319,7 @@
    "e": "Only First powered flight by the Wright brothers - 1903 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0598",
+   "id": "gk-misc-p14-0621",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "Earth Day - 22 April",
@@ -8989,7 +9334,7 @@
    "e": "Only Earth Day - 22 April is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0599",
+   "id": "gk-misc-p14-0622",
    "q": "Strict is a synonym of which of the following words?",
    "o": [
     "Garrulous",
@@ -9004,7 +9349,7 @@
    "e": "Strict is a synonym of Stringent."
   },
   {
-   "id": "gk-misc-p14-0600",
+   "id": "gk-misc-p14-0623",
    "q": "Polite is an antonym of which of the following words?",
    "o": [
     "Mitigate",
@@ -9019,7 +9364,7 @@
    "e": "Polite is the opposite of Insolent."
   },
   {
-   "id": "gk-misc-p14-0601",
+   "id": "gk-misc-p14-0624",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Hand in glove - To hope for success",
@@ -9034,7 +9379,7 @@
    "e": "Only Hand in glove - In close partnership is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0602",
+   "id": "gk-misc-p14-0625",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who studies plants - Inedible",
@@ -9049,7 +9394,7 @@
    "e": "Only One who studies plants - Botanist is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0603",
+   "id": "gk-misc-p14-0626",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Appropraite",
@@ -9064,7 +9409,7 @@
    "e": "The incorrect spelling shown is Recieve; the correct form is Receive."
   },
   {
-   "id": "gk-misc-p14-0604",
+   "id": "gk-misc-p14-0627",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Datum - Data",
@@ -9079,7 +9424,7 @@
    "e": "The pair Fish - Children is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0605",
+   "id": "gk-misc-p14-0628",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Brave - More beautiful",
@@ -9094,7 +9439,7 @@
    "e": "The pair Brave - More beautiful is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0606",
+   "id": "gk-misc-p14-0629",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Application software - Software whose source code is freely available",
@@ -9109,7 +9454,7 @@
    "e": "Only Application software - Program that performs a user task is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0607",
+   "id": "gk-misc-p14-0630",
    "q": "Which of the following abbreviations stands for Mahatma Gandhi National Rural Employment Guarantee Scheme?",
    "o": [
     "UAV",
@@ -9124,7 +9469,7 @@
    "e": "Mahatma Gandhi National Rural Employment Guarantee Scheme is abbreviated as MGNREGS."
   },
   {
-   "id": "gk-misc-p14-0608",
+   "id": "gk-misc-p14-0631",
    "q": "Which currency is used in Spain?",
    "o": [
     "Somali Shilling",
@@ -9139,7 +9484,7 @@
    "e": "The currency of Spain is Madrid."
   },
   {
-   "id": "gk-misc-p14-0609",
+   "id": "gk-misc-p14-0632",
    "q": "Which element has atomic number 18?",
    "o": [
     "Gadolinium",
@@ -9154,7 +9499,7 @@
    "e": "Atomic number 18 belongs to Argon."
   },
   {
-   "id": "gk-misc-p14-0610",
+   "id": "gk-misc-p14-0633",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Nagarhole National Park - Maharashtra",
@@ -9169,7 +9514,7 @@
    "e": "Only Nagarhole National Park - Karnataka is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0611",
+   "id": "gk-misc-p14-0634",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "First powered flight by the Wright brothers - 1688",
@@ -9184,7 +9529,7 @@
    "e": "Only First powered flight by the Wright brothers - 1903 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0612",
+   "id": "gk-misc-p14-0635",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "International Mother Earth Day - 26 July",
@@ -9199,7 +9544,7 @@
    "e": "Only International Mother Earth Day - 22 April is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0613",
+   "id": "gk-misc-p14-0636",
    "q": "Pretence is a synonym of which of the following words?",
    "o": [
     "Quandary",
@@ -9214,7 +9559,7 @@
    "e": "Pretence is a synonym of Hypocrisy."
   },
   {
-   "id": "gk-misc-p14-0614",
+   "id": "gk-misc-p14-0637",
    "q": "Enthusiasm is an antonym of which of the following words?",
    "o": [
     "Apathy",
@@ -9229,7 +9574,7 @@
    "e": "Enthusiasm is the opposite of Apathy."
   },
   {
-   "id": "gk-misc-p14-0615",
+   "id": "gk-misc-p14-0638",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Pull the wool over one's eyes - Deceive",
@@ -9244,7 +9589,7 @@
    "e": "Only Pull the wool over one's eyes - Deceive is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0616",
+   "id": "gk-misc-p14-0639",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who studies plants - Abstruse",
@@ -9259,7 +9604,7 @@
    "e": "Only One who studies plants - Botanist is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0617",
+   "id": "gk-misc-p14-0640",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Appearence",
@@ -9274,7 +9619,7 @@
    "e": "The incorrect spelling shown is Scisors; the correct form is Scissors."
   },
   {
-   "id": "gk-misc-p14-0618",
+   "id": "gk-misc-p14-0641",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Axis - Axes",
@@ -9289,7 +9634,7 @@
    "e": "The pair Brother - Photos is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0619",
+   "id": "gk-misc-p14-0642",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Brave - Braver",
@@ -9304,7 +9649,7 @@
    "e": "The pair Gentle - Better is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0620",
+   "id": "gk-misc-p14-0643",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Application software - Output device that prints large technical drawings",
@@ -9319,7 +9664,7 @@
    "e": "Only Application software - Program that performs a user task is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0621",
+   "id": "gk-misc-p14-0644",
    "q": "Which of the following abbreviations stands for International Olympic Committee?",
    "o": [
     "IOC",
@@ -9334,7 +9679,7 @@
    "e": "International Olympic Committee is abbreviated as IOC."
   },
   {
-   "id": "gk-misc-p14-0622",
+   "id": "gk-misc-p14-0645",
    "q": "Which currency is used in Egypt?",
    "o": [
     "Egyptian Pound",
@@ -9349,7 +9694,7 @@
    "e": "The currency of Egypt is Cairo."
   },
   {
-   "id": "gk-misc-p14-0623",
+   "id": "gk-misc-p14-0646",
    "q": "Which element has atomic number 29?",
    "o": [
     "Calcium",
@@ -9364,7 +9709,7 @@
    "e": "Atomic number 29 belongs to Copper."
   },
   {
-   "id": "gk-misc-p14-0624",
+   "id": "gk-misc-p14-0647",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Great Himalayan National Park - Manipur",
@@ -9379,7 +9724,7 @@
    "e": "Only Great Himalayan National Park - Himachal Pradesh is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0625",
+   "id": "gk-misc-p14-0648",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Beginning of the French Revolution - 1948",
@@ -9394,7 +9739,7 @@
    "e": "Only Beginning of the French Revolution - 1789 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0626",
+   "id": "gk-misc-p14-0649",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "International Mother Earth Day - 21 February",
@@ -9409,7 +9754,7 @@
    "e": "Only International Mother Earth Day - 22 April is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0627",
+   "id": "gk-misc-p14-0650",
    "q": "Opponent is a synonym of which of the following words?",
    "o": [
     "Adversary",
@@ -9424,7 +9769,7 @@
    "e": "Opponent is a synonym of Adversary."
   },
   {
-   "id": "gk-misc-p14-0628",
+   "id": "gk-misc-p14-0651",
    "q": "Apathetic is an antonym of which of the following words?",
    "o": [
     "Hamper",
@@ -9439,7 +9784,7 @@
    "e": "Apathetic is the opposite of Zealous."
   },
   {
-   "id": "gk-misc-p14-0629",
+   "id": "gk-misc-p14-0652",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Pull the wool over one's eyes - A narrow escape",
@@ -9454,7 +9799,7 @@
    "e": "Only Pull the wool over one's eyes - Deceive is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0630",
+   "id": "gk-misc-p14-0653",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who is between seventy and eighty years old - Septuagenarian",
@@ -9469,7 +9814,7 @@
    "e": "Only One who is between seventy and eighty years old - Septuagenarian is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0631",
+   "id": "gk-misc-p14-0654",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Desparate",
@@ -9484,7 +9829,7 @@
    "e": "The incorrect spelling shown is Sieze; the correct form is Seize."
   },
   {
-   "id": "gk-misc-p14-0632",
+   "id": "gk-misc-p14-0655",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Chief - Chiefs",
@@ -9499,7 +9844,7 @@
    "e": "The pair Swine - Proofs is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0633",
+   "id": "gk-misc-p14-0656",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Long - Longer",
@@ -9514,7 +9859,7 @@
    "e": "The pair Good - More is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0634",
+   "id": "gk-misc-p14-0657",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "GPU - Processor that handles graphics and images",
@@ -9529,7 +9874,7 @@
    "e": "Only GPU - Processor that handles graphics and images is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0635",
+   "id": "gk-misc-p14-0658",
    "q": "Which of the following abbreviations stands for Airborne Warning and Control System?",
    "o": [
     "NPA",
@@ -9544,7 +9889,7 @@
    "e": "Airborne Warning and Control System is abbreviated as AWACS."
   },
   {
-   "id": "gk-misc-p14-0636",
+   "id": "gk-misc-p14-0659",
    "q": "Which currency is used in Malaysia?",
    "o": [
     "Jordanian Dinar",
@@ -9559,7 +9904,7 @@
    "e": "The currency of Malaysia is Kuala Lumpur."
   },
   {
-   "id": "gk-misc-p14-0637",
+   "id": "gk-misc-p14-0660",
    "q": "Which element has atomic number 62?",
    "o": [
     "Samarium",
@@ -9574,7 +9919,7 @@
    "e": "Atomic number 62 belongs to Samarium."
   },
   {
-   "id": "gk-misc-p14-0638",
+   "id": "gk-misc-p14-0661",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Great Himalayan National Park - Chhattisgarh",
@@ -9589,7 +9934,7 @@
    "e": "Only Great Himalayan National Park - Himachal Pradesh is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0639",
+   "id": "gk-misc-p14-0662",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Beginning of the French Revolution - 1949",
@@ -9604,7 +9949,7 @@
    "e": "Only Beginning of the French Revolution - 1789 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0640",
+   "id": "gk-misc-p14-0663",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "World Radio Day - 24 January",
@@ -9619,7 +9964,7 @@
    "e": "Only World Radio Day - 13 February is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0641",
+   "id": "gk-misc-p14-0664",
    "q": "Notorious is a synonym of which of the following words?",
    "o": [
     "Indolent",
@@ -9634,7 +9979,7 @@
    "e": "Notorious is a synonym of Infamous."
   },
   {
-   "id": "gk-misc-p14-0642",
+   "id": "gk-misc-p14-0665",
    "q": "Solitary is an antonym of which of the following words?",
    "o": [
     "Intrepid",
@@ -9649,7 +9994,7 @@
    "e": "Solitary is the opposite of Gregarious."
   },
   {
-   "id": "gk-misc-p14-0643",
+   "id": "gk-misc-p14-0666",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Storm in a teacup - Face any danger",
@@ -9664,7 +10009,7 @@
    "e": "Only Storm in a teacup - Great excitement over trifles is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0644",
+   "id": "gk-misc-p14-0667",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who is between seventy and eighty years old - Septuagenarian",
@@ -9679,7 +10024,7 @@
    "e": "Only One who is between seventy and eighty years old - Septuagenarian is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0645",
+   "id": "gk-misc-p14-0668",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Goverment",
@@ -9694,7 +10039,7 @@
    "e": "The incorrect spelling shown is Goverment; the correct form is Government."
   },
   {
-   "id": "gk-misc-p14-0646",
+   "id": "gk-misc-p14-0669",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Story - Swine",
@@ -9709,7 +10054,7 @@
    "e": "The pair Story - Swine is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0647",
+   "id": "gk-misc-p14-0670",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Deep - Richer",
@@ -9724,7 +10069,7 @@
    "e": "The pair Deep - Richer is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0648",
+   "id": "gk-misc-p14-0671",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "GPU - System that translates domain names into IP addresses",
@@ -9739,7 +10084,7 @@
    "e": "Only GPU - Processor that handles graphics and images is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0649",
+   "id": "gk-misc-p14-0672",
    "q": "Which of the following abbreviations stands for Initial Public Offering?",
    "o": [
     "IPO",
@@ -9754,7 +10099,7 @@
    "e": "Initial Public Offering is abbreviated as IPO."
   },
   {
-   "id": "gk-misc-p14-0650",
+   "id": "gk-misc-p14-0673",
    "q": "Which currency is used in Mauritania?",
    "o": [
     "Ouguiya",
@@ -9769,7 +10114,7 @@
    "e": "The currency of Mauritania is Nouakchott."
   },
   {
-   "id": "gk-misc-p14-0651",
+   "id": "gk-misc-p14-0674",
    "q": "Which element has atomic number 3?",
    "o": [
     "Germanium",
@@ -9784,7 +10129,7 @@
    "e": "Atomic number 3 belongs to Lithium."
   },
   {
-   "id": "gk-misc-p14-0652",
+   "id": "gk-misc-p14-0675",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Kaziranga National Park - Karnataka",
@@ -9799,7 +10144,7 @@
    "e": "Only Kaziranga National Park - Assam is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0653",
+   "id": "gk-misc-p14-0676",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Apollo 11 Moon landing - 1969",
@@ -9814,7 +10159,7 @@
    "e": "Only Apollo 11 Moon landing - 1969 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0654",
+   "id": "gk-misc-p14-0677",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "World Radio Day - 15 October",
@@ -9829,7 +10174,7 @@
    "e": "Only World Radio Day - 13 February is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0655",
+   "id": "gk-misc-p14-0678",
    "q": "Condemn is a synonym of which of the following words?",
    "o": [
     "Denounce",
@@ -9844,7 +10189,7 @@
    "e": "Condemn is a synonym of Denounce."
   },
   {
-   "id": "gk-misc-p14-0656",
+   "id": "gk-misc-p14-0679",
    "q": "Immune is an antonym of which of the following words?",
    "o": [
     "Implicit",
@@ -9859,7 +10204,7 @@
    "e": "Immune is the opposite of Susceptible."
   },
   {
-   "id": "gk-misc-p14-0657",
+   "id": "gk-misc-p14-0680",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Storm in a teacup - Great excitement over trifles",
@@ -9874,7 +10219,7 @@
    "e": "Only Storm in a teacup - Great excitement over trifles is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0658",
+   "id": "gk-misc-p14-0681",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who cannot be avoided - Democracy",
@@ -9889,7 +10234,7 @@
    "e": "Only One who cannot be avoided - Inevitable is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0659",
+   "id": "gk-misc-p14-0682",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Religous",
@@ -9904,7 +10249,7 @@
    "e": "The incorrect spelling shown is Enrollment; the correct form is Enrolment."
   },
   {
-   "id": "gk-misc-p14-0660",
+   "id": "gk-misc-p14-0683",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Passer-by - Series",
@@ -9919,7 +10264,7 @@
    "e": "The pair Passer-by - Series is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0661",
+   "id": "gk-misc-p14-0684",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Difficult - More difficult",
@@ -9934,7 +10279,7 @@
    "e": "The pair Far - Kinder is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0662",
+   "id": "gk-misc-p14-0685",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "HTML - Basic device that connects network devices",
@@ -9949,7 +10294,7 @@
    "e": "Only HTML - Language used to structure web pages is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0663",
+   "id": "gk-misc-p14-0686",
    "q": "Which of the following abbreviations stands for Bombay Stock Exchange?",
    "o": [
     "NCERT",
@@ -9964,7 +10309,7 @@
    "e": "Bombay Stock Exchange is abbreviated as BSE."
   },
   {
-   "id": "gk-misc-p14-0664",
+   "id": "gk-misc-p14-0687",
    "q": "Which currency is used in Samoa?",
    "o": [
     "Egyptian Pound",
@@ -9979,7 +10324,7 @@
    "e": "The currency of Samoa is Apia."
   },
   {
-   "id": "gk-misc-p14-0665",
+   "id": "gk-misc-p14-0688",
    "q": "Which element has atomic number 10?",
    "o": [
     "Gadolinium",
@@ -9994,7 +10339,7 @@
    "e": "Atomic number 10 belongs to Neon."
   },
   {
-   "id": "gk-misc-p14-0666",
+   "id": "gk-misc-p14-0689",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Kaziranga National Park - Maharashtra",
@@ -10009,7 +10354,7 @@
    "e": "Only Kaziranga National Park - Assam is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0667",
+   "id": "gk-misc-p14-0690",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Apollo 11 Moon landing - 1969",
@@ -10024,7 +10369,7 @@
    "e": "Only Apollo 11 Moon landing - 1969 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0668",
+   "id": "gk-misc-p14-0691",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "World Population Day - 4 January",
@@ -10039,7 +10384,7 @@
    "e": "Only World Population Day - 11 July is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0669",
+   "id": "gk-misc-p14-0692",
    "q": "Habitual is a synonym of which of the following words?",
    "o": [
     "Inveterate",
@@ -10054,7 +10399,7 @@
    "e": "Habitual is a synonym of Inveterate."
   },
   {
-   "id": "gk-misc-p14-0670",
+   "id": "gk-misc-p14-0693",
    "q": "Industrious is an antonym of which of the following words?",
    "o": [
     "Indolent",
@@ -10069,7 +10414,7 @@
    "e": "Industrious is the opposite of Indolent."
   },
   {
-   "id": "gk-misc-p14-0671",
+   "id": "gk-misc-p14-0694",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A cock and bull story - To be kept waiting",
@@ -10084,7 +10429,7 @@
    "e": "Only A cock and bull story - An absurd and unlikely story is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0672",
+   "id": "gk-misc-p14-0695",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who cannot be avoided - Inevitable",
@@ -10099,7 +10444,7 @@
    "e": "Only One who cannot be avoided - Inevitable is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0673",
+   "id": "gk-misc-p14-0696",
    "q": "Which of the following words is spelt incorrectly?",
    "o": [
     "Grammer",
@@ -10114,7 +10459,7 @@
    "e": "The incorrect spelling shown is Publically; the correct form is Publicly."
   },
   {
-   "id": "gk-misc-p14-0674",
+   "id": "gk-misc-p14-0697",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Bus - Buffaloes",
@@ -10129,7 +10474,7 @@
    "e": "The pair Bus - Buffaloes is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0675",
+   "id": "gk-misc-p14-0698",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Important - More important",
@@ -10144,7 +10489,7 @@
    "e": "The pair Hot - Lower is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0676",
+   "id": "gk-misc-p14-0699",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "HTML - When data requested is found in cache memory",
@@ -10159,7 +10504,7 @@
    "e": "Only HTML - Language used to structure web pages is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0677",
+   "id": "gk-misc-p14-0700",
    "q": "Which of the following abbreviations stands for Pradhan Mantri Kisan Samman Nidhi?",
    "o": [
     "TRAI",
@@ -10174,7 +10519,7 @@
    "e": "Pradhan Mantri Kisan Samman Nidhi is abbreviated as PM-KISAN."
   },
   {
-   "id": "gk-misc-p14-0678",
+   "id": "gk-misc-p14-0701",
    "q": "Which currency is used in Tunisia?",
    "o": [
     "Tunisian Dinar",
@@ -10189,7 +10534,7 @@
    "e": "The currency of Tunisia is Tunis."
   },
   {
-   "id": "gk-misc-p14-0679",
+   "id": "gk-misc-p14-0702",
    "q": "Which element has atomic number 95?",
    "o": [
     "Argon",
@@ -10204,7 +10549,7 @@
    "e": "Atomic number 95 belongs to Americium."
   },
   {
-   "id": "gk-misc-p14-0680",
+   "id": "gk-misc-p14-0703",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Bandhavgarh Tiger Reserve - Madhya Pradesh",
@@ -10219,7 +10564,7 @@
    "e": "Only Bandhavgarh Tiger Reserve - Madhya Pradesh is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0681",
+   "id": "gk-misc-p14-0704",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "September 11 attacks in the United States - 1945",
@@ -10234,7 +10579,7 @@
    "e": "Only September 11 attacks in the United States - 2001 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0682",
+   "id": "gk-misc-p14-0705",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "World Population Day - 5 September",
@@ -10249,7 +10594,7 @@
    "e": "Only World Population Day - 11 July is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0683",
+   "id": "gk-misc-p14-0706",
    "q": "Annoy is a synonym of which of the following words?",
    "o": [
     "Esoteric",
@@ -10264,7 +10609,7 @@
    "e": "Annoy is a synonym of Vex."
   },
   {
-   "id": "gk-misc-p14-0684",
+   "id": "gk-misc-p14-0707",
    "q": "Yielding is an antonym of which of the following words?",
    "o": [
     "Torpid",
@@ -10279,7 +10624,7 @@
    "e": "Yielding is the opposite of Obstinate."
   },
   {
-   "id": "gk-misc-p14-0685",
+   "id": "gk-misc-p14-0708",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A cock and bull story - Gain an advantage secretly",
@@ -10294,7 +10639,7 @@
    "e": "Only A cock and bull story - An absurd and unlikely story is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0686",
+   "id": "gk-misc-p14-0709",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who loves collecting stamps - Manifest",
@@ -10309,7 +10654,7 @@
    "e": "Only One who loves collecting stamps - Philatelist is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0687",
+   "id": "gk-misc-p14-0710",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Convenient - Litereture",
@@ -10324,7 +10669,7 @@
    "e": "Only Convenient - Convinient is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0688",
+   "id": "gk-misc-p14-0711",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Story - Stories",
@@ -10339,7 +10684,7 @@
    "e": "The pair Baby - Proofs is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0689",
+   "id": "gk-misc-p14-0712",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Long - Longer",
@@ -10354,7 +10699,7 @@
    "e": "The pair Important - Faster is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0690",
+   "id": "gk-misc-p14-0713",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "SQL - L1, L2 and L3 are cache levels",
@@ -10369,7 +10714,7 @@
    "e": "Only SQL - Language used to query databases is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0691",
+   "id": "gk-misc-p14-0714",
    "q": "Which of the following abbreviations stands for Minimum Support Price?",
    "o": [
     "MSP",
@@ -10384,7 +10729,7 @@
    "e": "Minimum Support Price is abbreviated as MSP."
   },
   {
-   "id": "gk-misc-p14-0692",
+   "id": "gk-misc-p14-0715",
    "q": "Which currency is used in Sudan?",
    "o": [
     "Euro",
@@ -10399,7 +10744,7 @@
    "e": "The currency of Sudan is Khartoum."
   },
   {
-   "id": "gk-misc-p14-0693",
+   "id": "gk-misc-p14-0716",
    "q": "Which element has atomic number 87?",
    "o": [
     "Lead",
@@ -10414,7 +10759,7 @@
    "e": "Atomic number 87 belongs to Francium."
   },
   {
-   "id": "gk-misc-p14-0694",
+   "id": "gk-misc-p14-0717",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Bandhavgarh Tiger Reserve - West Bengal",
@@ -10429,7 +10774,7 @@
    "e": "Only Bandhavgarh Tiger Reserve - Madhya Pradesh is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0695",
+   "id": "gk-misc-p14-0718",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "September 11 attacks in the United States - 2001",
@@ -10444,7 +10789,7 @@
    "e": "Only September 11 attacks in the United States - 2001 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0696",
+   "id": "gk-misc-p14-0719",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "International Jazz Day - 31 October",
@@ -10459,7 +10804,7 @@
    "e": "Only International Jazz Day - 30 April is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0697",
+   "id": "gk-misc-p14-0720",
    "q": "Relieve is a synonym of which of the following words?",
    "o": [
     "Ecstasy",
@@ -10474,7 +10819,7 @@
    "e": "Relieve is a synonym of Mitigate."
   },
   {
-   "id": "gk-misc-p14-0698",
+   "id": "gk-misc-p14-0721",
    "q": "Manifest is an antonym of which of the following words?",
    "o": [
     "Ratify",
@@ -10489,7 +10834,7 @@
    "e": "Manifest is the opposite of Latent."
   },
   {
-   "id": "gk-misc-p14-0699",
+   "id": "gk-misc-p14-0722",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Burn one's boats - Keep away from",
@@ -10504,7 +10849,7 @@
    "e": "Only Burn one's boats - Act so as to make retreat impossible is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0700",
+   "id": "gk-misc-p14-0723",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who loves collecting stamps - Astronomer",
@@ -10519,7 +10864,7 @@
    "e": "Only One who loves collecting stamps - Philatelist is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0701",
+   "id": "gk-misc-p14-0724",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Convenient - Minature",
@@ -10534,7 +10879,7 @@
    "e": "Only Convenient - Convinient is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0702",
+   "id": "gk-misc-p14-0725",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Hypothesis - Hypotheses",
@@ -10549,7 +10894,7 @@
    "e": "The pair Crisis - Benches is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0703",
+   "id": "gk-misc-p14-0726",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Important - More important",
@@ -10564,7 +10909,7 @@
    "e": "The pair High - Simpler is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0704",
+   "id": "gk-misc-p14-0727",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "SQL - Language used to query databases",
@@ -10579,7 +10924,7 @@
    "e": "Only SQL - Language used to query databases is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0705",
+   "id": "gk-misc-p14-0728",
    "q": "Which of the following abbreviations stands for National Bank for Agriculture and Rural Development?",
    "o": [
     "BIS",
@@ -10594,7 +10939,7 @@
    "e": "National Bank for Agriculture and Rural Development is abbreviated as NABARD."
   },
   {
-   "id": "gk-misc-p14-0706",
+   "id": "gk-misc-p14-0729",
    "q": "Which currency is used in Austria?",
    "o": [
     "Euro",
@@ -10609,7 +10954,7 @@
    "e": "The currency of Austria is Vienna."
   },
   {
-   "id": "gk-misc-p14-0707",
+   "id": "gk-misc-p14-0730",
    "q": "Which element has atomic number 99?",
    "o": [
     "Einsteinium",
@@ -10624,7 +10969,7 @@
    "e": "Atomic number 99 belongs to Einsteinium."
   },
   {
-   "id": "gk-misc-p14-0708",
+   "id": "gk-misc-p14-0731",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Navegaon National Park - Maharashtra",
@@ -10639,7 +10984,7 @@
    "e": "Only Navegaon National Park - Maharashtra is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0709",
+   "id": "gk-misc-p14-0732",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Yuri Gagarin became the first human in space - 1919",
@@ -10654,7 +10999,7 @@
    "e": "Only Yuri Gagarin became the first human in space - 1961 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0710",
+   "id": "gk-misc-p14-0733",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "International Jazz Day - 30 April",
@@ -10669,7 +11014,7 @@
    "e": "Only International Jazz Day - 30 April is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0711",
+   "id": "gk-misc-p14-0734",
    "q": "Prudent is a synonym of which of the following words?",
    "o": [
     "Ecstasy",
@@ -10684,7 +11029,7 @@
    "e": "Prudent is a synonym of Discreet."
   },
   {
-   "id": "gk-misc-p14-0712",
+   "id": "gk-misc-p14-0735",
    "q": "Flowing is an antonym of which of the following words?",
    "o": [
     "Latent",
@@ -10699,7 +11044,7 @@
    "e": "Flowing is the opposite of Stagnant."
   },
   {
-   "id": "gk-misc-p14-0713",
+   "id": "gk-misc-p14-0736",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Burn one's boats - Act so as to make retreat impossible",
@@ -10714,7 +11059,7 @@
    "e": "Only Burn one's boats - Act so as to make retreat impossible is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0714",
+   "id": "gk-misc-p14-0737",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who is between eighty and ninety years old - Matricide",
@@ -10729,7 +11074,7 @@
    "e": "Only One who is between eighty and ninety years old - Octogenarian is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0715",
+   "id": "gk-misc-p14-0738",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Foreign - Tommorow",
@@ -10744,7 +11089,7 @@
    "e": "Only Foreign - Foriegn is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0716",
+   "id": "gk-misc-p14-0739",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Axis - Axes",
@@ -10759,7 +11104,7 @@
    "e": "The pair Phenomenon - Dice is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0717",
+   "id": "gk-misc-p14-0740",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Easy - Easier",
@@ -10774,7 +11119,7 @@
    "e": "The pair Heavy - Faster is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0718",
+   "id": "gk-misc-p14-0741",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Hexadecimal - Output device that prints large technical drawings",
@@ -10789,7 +11134,7 @@
    "e": "Only Hexadecimal - Number system with base sixteen is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0719",
+   "id": "gk-misc-p14-0742",
    "q": "Which of the following abbreviations stands for International Court of Justice?",
    "o": [
     "CLAT",
@@ -10804,7 +11149,7 @@
    "e": "International Court of Justice is abbreviated as ICJ."
   },
   {
-   "id": "gk-misc-p14-0720",
+   "id": "gk-misc-p14-0743",
    "q": "Which currency is used in Cyprus?",
    "o": [
     "Swiss Franc",
@@ -10819,7 +11164,7 @@
    "e": "The currency of Cyprus is Nicosia."
   },
   {
-   "id": "gk-misc-p14-0721",
+   "id": "gk-misc-p14-0744",
    "q": "Which element has atomic number 23?",
    "o": [
     "Hassium",
@@ -10834,7 +11179,7 @@
    "e": "Atomic number 23 belongs to Vanadium."
   },
   {
-   "id": "gk-misc-p14-0722",
+   "id": "gk-misc-p14-0745",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Navegaon National Park - Maharashtra",
@@ -10849,7 +11194,7 @@
    "e": "Only Navegaon National Park - Maharashtra is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0723",
+   "id": "gk-misc-p14-0746",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Yuri Gagarin became the first human in space - 1776",
@@ -10864,7 +11209,7 @@
    "e": "Only Yuri Gagarin became the first human in space - 1961 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0724",
+   "id": "gk-misc-p14-0747",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "National Education Day (India) - 10 January",
@@ -10879,7 +11224,7 @@
    "e": "Only National Education Day (India) - 11 November is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0725",
+   "id": "gk-misc-p14-0748",
    "q": "Stop is a synonym of which of the following words?",
    "o": [
     "Cease",
@@ -10894,7 +11239,7 @@
    "e": "Stop is a synonym of Cease."
   },
   {
-   "id": "gk-misc-p14-0726",
+   "id": "gk-misc-p14-0749",
    "q": "Constant is an antonym of which of the following words?",
    "o": [
     "Fortitude",
@@ -10909,7 +11254,7 @@
    "e": "Constant is the opposite of Fickle."
   },
   {
-   "id": "gk-misc-p14-0727",
+   "id": "gk-misc-p14-0750",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A snake in the grass - A hidden enemy",
@@ -10924,7 +11269,7 @@
    "e": "Only A snake in the grass - A hidden enemy is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0728",
+   "id": "gk-misc-p14-0751",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who is between eighty and ninety years old - Octogenarian",
@@ -10939,7 +11284,7 @@
    "e": "Only One who is between eighty and ninety years old - Octogenarian is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0729",
+   "id": "gk-misc-p14-0752",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Foreign - Immediat",
@@ -10954,7 +11299,7 @@
    "e": "Only Foreign - Foriegn is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0730",
+   "id": "gk-misc-p14-0753",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Goose - Children",
@@ -10969,7 +11314,7 @@
    "e": "The pair Goose - Children is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0731",
+   "id": "gk-misc-p14-0754",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Long - Finer",
@@ -10984,7 +11329,7 @@
    "e": "The pair Long - Finer is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0732",
+   "id": "gk-misc-p14-0755",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Hexadecimal - Input device that captures video",
@@ -10999,7 +11344,7 @@
    "e": "Only Hexadecimal - Number system with base sixteen is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0733",
+   "id": "gk-misc-p14-0756",
    "q": "Which of the following abbreviations stands for Universal Postal Union?",
    "o": [
     "ATM",
@@ -11014,7 +11359,7 @@
    "e": "Universal Postal Union is abbreviated as UPU."
   },
   {
-   "id": "gk-misc-p14-0734",
+   "id": "gk-misc-p14-0757",
    "q": "Which currency is used in Ecuador?",
    "o": [
     "Euro",
@@ -11029,7 +11374,7 @@
    "e": "The currency of Ecuador is Quito."
   },
   {
-   "id": "gk-misc-p14-0735",
+   "id": "gk-misc-p14-0758",
    "q": "Which element has atomic number 70?",
    "o": [
     "Neptunium",
@@ -11044,7 +11389,7 @@
    "e": "Atomic number 70 belongs to Ytterbium."
   },
   {
-   "id": "gk-misc-p14-0736",
+   "id": "gk-misc-p14-0759",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Ramgarh Vishdhari Tiger Reserve - Madhya Pradesh",
@@ -11059,7 +11404,7 @@
    "e": "Only Ramgarh Vishdhari Tiger Reserve - Rajasthan is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0737",
+   "id": "gk-misc-p14-0760",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Unification of Germany - 1871",
@@ -11074,7 +11419,7 @@
    "e": "Only Unification of Germany - 1871 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0738",
+   "id": "gk-misc-p14-0761",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "National Education Day (India) - 17 May",
@@ -11089,7 +11434,7 @@
    "e": "Only National Education Day (India) - 11 November is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0739",
+   "id": "gk-misc-p14-0762",
    "q": "Reject is a synonym of which of the following words?",
    "o": [
     "Repudiate",
@@ -11104,7 +11449,7 @@
    "e": "Reject is a synonym of Repudiate."
   },
   {
-   "id": "gk-misc-p14-0740",
+   "id": "gk-misc-p14-0763",
    "q": "Taciturn is an antonym of which of the following words?",
    "o": [
     "Torpid",
@@ -11119,7 +11464,7 @@
    "e": "Taciturn is the opposite of Garrulous."
   },
   {
-   "id": "gk-misc-p14-0741",
+   "id": "gk-misc-p14-0764",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A snake in the grass - Keep away from",
@@ -11134,7 +11479,7 @@
    "e": "Only A snake in the grass - A hidden enemy is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0742",
+   "id": "gk-misc-p14-0765",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A medicine that counteracts a poison - Pharmacy",
@@ -11149,7 +11494,7 @@
    "e": "Only A medicine that counteracts a poison - Antidote is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0743",
+   "id": "gk-misc-p14-0766",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Sophisticated - Consience",
@@ -11164,7 +11509,7 @@
    "e": "Only Sophisticated - Sophistocated is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0744",
+   "id": "gk-misc-p14-0767",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Datum - Data",
@@ -11179,7 +11524,7 @@
    "e": "The pair Radius - Stimuli is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0745",
+   "id": "gk-misc-p14-0768",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "High - Higher",
@@ -11194,7 +11539,7 @@
    "e": "The pair Slow - Braver is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0746",
+   "id": "gk-misc-p14-0769",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Router - Pointing input device",
@@ -11209,7 +11554,7 @@
    "e": "Only Router - Device that forwards data between networks is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0747",
+   "id": "gk-misc-p14-0770",
    "q": "Which of the following abbreviations stands for Central Bureau of Investigation?",
    "o": [
     "ED",
@@ -11224,7 +11569,7 @@
    "e": "Central Bureau of Investigation is abbreviated as CBI."
   },
   {
-   "id": "gk-misc-p14-0748",
+   "id": "gk-misc-p14-0771",
    "q": "Which currency is used in Thailand?",
    "o": [
     "Yen",
@@ -11239,7 +11584,7 @@
    "e": "The currency of Thailand is Bangkok."
   },
   {
-   "id": "gk-misc-p14-0749",
+   "id": "gk-misc-p14-0772",
    "q": "Which element has atomic number 48?",
    "o": [
     "Palladium",
@@ -11254,7 +11599,7 @@
    "e": "Atomic number 48 belongs to Cadmium."
   },
   {
-   "id": "gk-misc-p14-0750",
+   "id": "gk-misc-p14-0773",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Ramgarh Vishdhari Tiger Reserve - Rajasthan",
@@ -11269,7 +11614,7 @@
    "e": "Only Ramgarh Vishdhari Tiger Reserve - Rajasthan is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0751",
+   "id": "gk-misc-p14-0774",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Unification of Germany - 2020",
@@ -11284,7 +11629,7 @@
    "e": "Only Unification of Germany - 1871 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0752",
+   "id": "gk-misc-p14-0775",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "Teachers' Day (India) - 8 May",
@@ -11299,7 +11644,7 @@
    "e": "Only Teachers' Day (India) - 5 September is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0753",
+   "id": "gk-misc-p14-0776",
    "q": "Thrifty is a synonym of which of the following words?",
    "o": [
     "Servile",
@@ -11314,7 +11659,7 @@
    "e": "Thrifty is a synonym of Frugal."
   },
   {
-   "id": "gk-misc-p14-0754",
+   "id": "gk-misc-p14-0777",
    "q": "Meagre is an antonym of which of the following words?",
    "o": [
     "Innate",
@@ -11329,7 +11674,7 @@
    "e": "Meagre is the opposite of Sumptuous."
   },
   {
-   "id": "gk-misc-p14-0755",
+   "id": "gk-misc-p14-0778",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Jack of all trades - A person who can do many things but is expert at none",
@@ -11344,7 +11689,7 @@
    "e": "Only Jack of all trades - A person who can do many things but is expert at none is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0756",
+   "id": "gk-misc-p14-0779",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A medicine that counteracts a poison - Aquarium",
@@ -11359,7 +11704,7 @@
    "e": "Only A medicine that counteracts a poison - Antidote is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0757",
+   "id": "gk-misc-p14-0780",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Sophisticated - Sophistocated",
@@ -11374,7 +11719,7 @@
    "e": "Only Sophisticated - Sophistocated is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0758",
+   "id": "gk-misc-p14-0781",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Ox - Oxen",
@@ -11389,7 +11734,7 @@
    "e": "The pair Step-daughter - Fungi is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0759",
+   "id": "gk-misc-p14-0782",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Small - Richer",
@@ -11404,7 +11749,7 @@
    "e": "The pair Small - Richer is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0760",
+   "id": "gk-misc-p14-0783",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Router - Program that performs a user task",
@@ -11419,7 +11764,7 @@
    "e": "Only Router - Device that forwards data between networks is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0761",
+   "id": "gk-misc-p14-0784",
    "q": "Which of the following abbreviations stands for Geostationary Earth Orbit?",
    "o": [
     "PIN",
@@ -11434,7 +11779,7 @@
    "e": "Geostationary Earth Orbit is abbreviated as GEO."
   },
   {
-   "id": "gk-misc-p14-0762",
+   "id": "gk-misc-p14-0785",
    "q": "Which currency is used in Armenia?",
    "o": [
     "Boliviano",
@@ -11449,7 +11794,7 @@
    "e": "The currency of Armenia is Yerevan."
   },
   {
-   "id": "gk-misc-p14-0763",
+   "id": "gk-misc-p14-0786",
    "q": "Which element has atomic number 94?",
    "o": [
     "Holmium",
@@ -11464,7 +11809,7 @@
    "e": "Atomic number 94 belongs to Plutonium."
   },
   {
-   "id": "gk-misc-p14-0764",
+   "id": "gk-misc-p14-0787",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Nokrek National Park - Meghalaya",
@@ -11479,7 +11824,7 @@
    "e": "Only Nokrek National Park - Meghalaya is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0765",
+   "id": "gk-misc-p14-0788",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Paris Climate Agreement adopted - 1979",
@@ -11494,7 +11839,7 @@
    "e": "Only Paris Climate Agreement adopted - 2015 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0766",
+   "id": "gk-misc-p14-0789",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "Teachers' Day (India) - 1 July",
@@ -11509,7 +11854,7 @@
    "e": "Only Teachers' Day (India) - 5 September is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0767",
+   "id": "gk-misc-p14-0790",
    "q": "Arrogant is a synonym of which of the following words?",
    "o": [
     "Forbearance",
@@ -11524,7 +11869,7 @@
    "e": "Arrogant is a synonym of Haughty."
   },
   {
-   "id": "gk-misc-p14-0768",
+   "id": "gk-misc-p14-0791",
    "q": "Reputable is an antonym of which of the following words?",
    "o": [
     "Infamous",
@@ -11539,7 +11884,7 @@
    "e": "Reputable is the opposite of Infamous."
   },
   {
-   "id": "gk-misc-p14-0769",
+   "id": "gk-misc-p14-0792",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Jack of all trades - Be satisfied with past achievements",
@@ -11554,7 +11899,7 @@
    "e": "Only Jack of all trades - A person who can do many things but is expert at none is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0770",
+   "id": "gk-misc-p14-0793",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who drinks too much alcohol - Drunkard",
@@ -11569,7 +11914,7 @@
    "e": "Only One who drinks too much alcohol - Drunkard is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0771",
+   "id": "gk-misc-p14-0794",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Vacuum - Dissapoint",
@@ -11584,7 +11929,7 @@
    "e": "Only Vacuum - Vaccum is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0772",
+   "id": "gk-misc-p14-0795",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Photo - Photos",
@@ -11599,7 +11944,7 @@
    "e": "The pair Man - Zoos is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0773",
+   "id": "gk-misc-p14-0796",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Wide - Cleverer",
@@ -11614,7 +11959,7 @@
    "e": "The pair Wide - Cleverer is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0774",
+   "id": "gk-misc-p14-0797",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Cache memory levels - L1, L2 and L3 are cache levels",
@@ -11629,7 +11974,7 @@
    "e": "Only Cache memory levels - L1, L2 and L3 are cache levels is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0775",
+   "id": "gk-misc-p14-0798",
    "q": "Which of the following abbreviations stands for Employees' State Insurance?",
    "o": [
     "BARC",
@@ -11644,7 +11989,7 @@
    "e": "Employees' State Insurance is abbreviated as ESI."
   },
   {
-   "id": "gk-misc-p14-0776",
+   "id": "gk-misc-p14-0799",
    "q": "Which currency is used in Georgia?",
    "o": [
     "Rupiah",
@@ -11659,7 +12004,7 @@
    "e": "The currency of Georgia is Tbilisi."
   },
   {
-   "id": "gk-misc-p14-0777",
+   "id": "gk-misc-p14-0800",
    "q": "Which element has atomic number 44?",
    "o": [
     "Einsteinium",
@@ -11674,7 +12019,7 @@
    "e": "Atomic number 44 belongs to Ruthenium."
   },
   {
-   "id": "gk-misc-p14-0778",
+   "id": "gk-misc-p14-0801",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Nokrek National Park - Meghalaya",
@@ -11689,7 +12034,7 @@
    "e": "Only Nokrek National Park - Meghalaya is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0779",
+   "id": "gk-misc-p14-0802",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Paris Climate Agreement adopted - 1962",
@@ -11704,7 +12049,7 @@
    "e": "Only Paris Climate Agreement adopted - 2015 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0780",
+   "id": "gk-misc-p14-0803",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "World Computer Security Day - 22 March",
@@ -11719,7 +12064,7 @@
    "e": "Only World Computer Security Day - 30 November is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0781",
+   "id": "gk-misc-p14-0804",
    "q": "Enthusiastic is a synonym of which of the following words?",
    "o": [
     "Zealous",
@@ -11734,7 +12079,7 @@
    "e": "Enthusiastic is a synonym of Zealous."
   },
   {
-   "id": "gk-misc-p14-0782",
+   "id": "gk-misc-p14-0805",
    "q": "Confidence is an antonym of which of the following words?",
    "o": [
     "Apathy",
@@ -11749,7 +12094,7 @@
    "e": "Confidence is the opposite of Trepidation."
   },
   {
-   "id": "gk-misc-p14-0783",
+   "id": "gk-misc-p14-0806",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Set the Thames on fire - Die",
@@ -11764,7 +12109,7 @@
    "e": "Only Set the Thames on fire - Do something remarkable is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0784",
+   "id": "gk-misc-p14-0807",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who drinks too much alcohol - Drunkard",
@@ -11779,7 +12124,7 @@
    "e": "Only One who drinks too much alcohol - Drunkard is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0785",
+   "id": "gk-misc-p14-0808",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Vacuum - Occurence",
@@ -11794,7 +12139,7 @@
    "e": "Only Vacuum - Vaccum is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0786",
+   "id": "gk-misc-p14-0809",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Proof - Proofs",
@@ -11809,7 +12154,7 @@
    "e": "The pair Alumnus - Phenomena is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0787",
+   "id": "gk-misc-p14-0810",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Heavy - Heavier",
@@ -11824,7 +12169,7 @@
    "e": "The pair Busy - Older is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0788",
+   "id": "gk-misc-p14-0811",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Cache memory levels - Malicious program disguised as useful software",
@@ -11839,7 +12184,7 @@
    "e": "Only Cache memory levels - L1, L2 and L3 are cache levels is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0789",
+   "id": "gk-misc-p14-0812",
    "q": "Which of the following abbreviations stands for Bureau of Indian Standards?",
    "o": [
     "CBSE",
@@ -11854,7 +12199,7 @@
    "e": "Bureau of Indian Standards is abbreviated as BIS."
   },
   {
-   "id": "gk-misc-p14-0790",
+   "id": "gk-misc-p14-0813",
    "q": "Which currency is used in Senegal?",
    "o": [
     "Tenge",
@@ -11869,7 +12214,7 @@
    "e": "The currency of Senegal is Dakar."
   },
   {
-   "id": "gk-misc-p14-0791",
+   "id": "gk-misc-p14-0814",
    "q": "Which element has atomic number 35?",
    "o": [
     "Copernicium",
@@ -11884,7 +12229,7 @@
    "e": "Atomic number 35 belongs to Bromine."
   },
   {
-   "id": "gk-misc-p14-0792",
+   "id": "gk-misc-p14-0815",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Nameri Tiger Reserve - Assam",
@@ -11899,7 +12244,7 @@
    "e": "Only Nameri Tiger Reserve - Assam is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0793",
+   "id": "gk-misc-p14-0816",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Founding of NATO - 1992",
@@ -11914,7 +12259,7 @@
    "e": "Only Founding of NATO - 1949 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0794",
+   "id": "gk-misc-p14-0817",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "World Computer Security Day - 16 September",
@@ -11929,7 +12274,7 @@
    "e": "Only World Computer Security Day - 30 November is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0795",
+   "id": "gk-misc-p14-0818",
    "q": "Waver is a synonym of which of the following words?",
    "o": [
     "Destitute",
@@ -11944,7 +12289,7 @@
    "e": "Waver is a synonym of Vacillate."
   },
   {
-   "id": "gk-misc-p14-0796",
+   "id": "gk-misc-p14-0819",
    "q": "Improve is an antonym of which of the following words?",
    "o": [
     "Turbulent",
@@ -11959,7 +12304,7 @@
    "e": "Improve is the opposite of Deteriorate."
   },
   {
-   "id": "gk-misc-p14-0797",
+   "id": "gk-misc-p14-0820",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Set the Thames on fire - Unfair",
@@ -11974,7 +12319,7 @@
    "e": "Only Set the Thames on fire - Do something remarkable is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0798",
+   "id": "gk-misc-p14-0821",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who cannot be heard - Omnivores",
@@ -11989,7 +12334,7 @@
    "e": "Only One who cannot be heard - Inaudible is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0799",
+   "id": "gk-misc-p14-0822",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Welcome - Sargeant",
@@ -12004,7 +12349,7 @@
    "e": "Only Welcome - Wellcome is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0800",
+   "id": "gk-misc-p14-0823",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Fish - Fish",
@@ -12019,7 +12364,7 @@
    "e": "The pair Die - Teeth is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0801",
+   "id": "gk-misc-p14-0824",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Busy - Busier",
@@ -12034,7 +12379,7 @@
    "e": "The pair Narrow - Cleverer is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0802",
+   "id": "gk-misc-p14-0825",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Python - Standard code for representing characters",
@@ -12049,7 +12394,7 @@
    "e": "Only Python - High level general purpose programming language is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0803",
+   "id": "gk-misc-p14-0826",
    "q": "Which of the following abbreviations stands for National Eligibility Test?",
    "o": [
     "NET",
@@ -12064,7 +12409,7 @@
    "e": "National Eligibility Test is abbreviated as NET."
   },
   {
-   "id": "gk-misc-p14-0804",
+   "id": "gk-misc-p14-0827",
    "q": "Which currency is used in Iraq?",
    "o": [
     "Iraqi Dinar",
@@ -12079,7 +12424,7 @@
    "e": "The currency of Iraq is Baghdad."
   },
   {
-   "id": "gk-misc-p14-0805",
+   "id": "gk-misc-p14-0828",
    "q": "Which element has atomic number 73?",
    "o": [
     "Cerium",
@@ -12094,7 +12439,7 @@
    "e": "Atomic number 73 belongs to Tantalum."
   },
   {
-   "id": "gk-misc-p14-0806",
+   "id": "gk-misc-p14-0829",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Nameri Tiger Reserve - Bihar",
@@ -12109,7 +12454,7 @@
    "e": "Only Nameri Tiger Reserve - Assam is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0807",
+   "id": "gk-misc-p14-0830",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Founding of NATO - 1948",
@@ -12124,7 +12469,7 @@
    "e": "Only Founding of NATO - 1949 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0808",
+   "id": "gk-misc-p14-0831",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "International Anti-Corruption Day - 10 October",
@@ -12139,7 +12484,7 @@
    "e": "Only International Anti-Corruption Day - 9 December is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0809",
+   "id": "gk-misc-p14-0832",
    "q": "Supreme is a synonym of which of the following words?",
    "o": [
     "Ubiquitous",
@@ -12154,7 +12499,7 @@
    "e": "Supreme is a synonym of Paramount."
   },
   {
-   "id": "gk-misc-p14-0810",
+   "id": "gk-misc-p14-0833",
    "q": "Sufficient is an antonym of which of the following words?",
    "o": [
     "Deficient",
@@ -12169,7 +12514,7 @@
    "e": "Sufficient is the opposite of Deficient."
   },
   {
-   "id": "gk-misc-p14-0811",
+   "id": "gk-misc-p14-0834",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A dark horse - Make an effort to improve",
@@ -12184,7 +12529,7 @@
    "e": "Only A dark horse - An unexpected winner is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0812",
+   "id": "gk-misc-p14-0835",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who cannot be heard - Barber",
@@ -12199,7 +12544,7 @@
    "e": "Only One who cannot be heard - Inaudible is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0813",
+   "id": "gk-misc-p14-0836",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Welcome - Eigth",
@@ -12214,7 +12559,7 @@
    "e": "Only Welcome - Wellcome is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0814",
+   "id": "gk-misc-p14-0837",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Leaf - Leaves",
@@ -12229,7 +12574,7 @@
    "e": "The pair Shelf - Radios is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0815",
+   "id": "gk-misc-p14-0838",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Big - Bigger",
@@ -12244,7 +12589,7 @@
    "e": "The pair Clever - Faster is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0816",
+   "id": "gk-misc-p14-0839",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Python - High level general purpose programming language",
@@ -12259,7 +12604,7 @@
    "e": "Only Python - High level general purpose programming language is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0817",
+   "id": "gk-misc-p14-0840",
    "q": "Which of the following abbreviations stands for International Atomic Energy Agency?",
    "o": [
     "IAEA",
@@ -12274,7 +12619,7 @@
    "e": "International Atomic Energy Agency is abbreviated as IAEA."
   },
   {
-   "id": "gk-misc-p14-0818",
+   "id": "gk-misc-p14-0841",
    "q": "Which currency is used in Canada?",
    "o": [
     "Rufiyaa",
@@ -12289,7 +12634,7 @@
    "e": "The currency of Canada is Ottawa."
   },
   {
-   "id": "gk-misc-p14-0819",
+   "id": "gk-misc-p14-0842",
    "q": "Which element has atomic number 117?",
    "o": [
     "Helium",
@@ -12304,7 +12649,7 @@
    "e": "Atomic number 117 belongs to Tennessine."
   },
   {
-   "id": "gk-misc-p14-0820",
+   "id": "gk-misc-p14-0843",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Bor Tiger Reserve - Assam",
@@ -12319,7 +12664,7 @@
    "e": "Only Bor Tiger Reserve - Maharashtra is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0821",
+   "id": "gk-misc-p14-0844",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Dissolution of the Soviet Union - 1959",
@@ -12334,7 +12679,7 @@
    "e": "Only Dissolution of the Soviet Union - 1991 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0822",
+   "id": "gk-misc-p14-0845",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "International Anti-Corruption Day - 21 June",
@@ -12349,7 +12694,7 @@
    "e": "Only International Anti-Corruption Day - 9 December is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0823",
+   "id": "gk-misc-p14-0846",
    "q": "Perceive is a synonym of which of the following words?",
    "o": [
     "Judicious",
@@ -12364,7 +12709,7 @@
    "e": "Perceive is a synonym of Discern."
   },
   {
-   "id": "gk-misc-p14-0824",
+   "id": "gk-misc-p14-0847",
    "q": "Humble is an antonym of which of the following words?",
    "o": [
     "Complacent",
@@ -12379,7 +12724,7 @@
    "e": "Humble is the opposite of Haughty."
   },
   {
-   "id": "gk-misc-p14-0825",
+   "id": "gk-misc-p14-0848",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A dark horse - Send a short letter",
@@ -12394,7 +12739,7 @@
    "e": "Only A dark horse - An unexpected winner is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0826",
+   "id": "gk-misc-p14-0849",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Something that is no longer in use - Aristocracy",
@@ -12409,7 +12754,7 @@
    "e": "Only Something that is no longer in use - Obsolete is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0827",
+   "id": "gk-misc-p14-0850",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Committee - Minature",
@@ -12424,7 +12769,7 @@
    "e": "Only Committee - Commitee is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0828",
+   "id": "gk-misc-p14-0851",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Species - Species",
@@ -12439,7 +12784,7 @@
    "e": "The pair Matrix - Salmon is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0829",
+   "id": "gk-misc-p14-0852",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Noble - Nobler",
@@ -12454,7 +12799,7 @@
    "e": "The pair Easy - Thinner is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0830",
+   "id": "gk-misc-p14-0853",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Java - Pointing input device",
@@ -12469,7 +12814,7 @@
    "e": "Only Java - Object oriented programming language is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0831",
+   "id": "gk-misc-p14-0854",
    "q": "Which of the following abbreviations stands for Railway Recruitment Board?",
    "o": [
     "PMGSY",
@@ -12484,7 +12829,7 @@
    "e": "Railway Recruitment Board is abbreviated as RRB."
   },
   {
-   "id": "gk-misc-p14-0832",
+   "id": "gk-misc-p14-0855",
    "q": "Which currency is used in Dominican Republic?",
    "o": [
     "Dong",
@@ -12499,7 +12844,7 @@
    "e": "The currency of Dominican Republic is Santo Domingo."
   },
   {
-   "id": "gk-misc-p14-0833",
+   "id": "gk-misc-p14-0856",
    "q": "Which element has atomic number 54?",
    "o": [
     "Xenon",
@@ -12514,7 +12859,7 @@
    "e": "Atomic number 54 belongs to Xenon."
   },
   {
-   "id": "gk-misc-p14-0834",
+   "id": "gk-misc-p14-0857",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Bor Tiger Reserve - Nagaland",
@@ -12529,7 +12874,7 @@
    "e": "Only Bor Tiger Reserve - Maharashtra is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0835",
+   "id": "gk-misc-p14-0858",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Dissolution of the Soviet Union - 1919",
@@ -12544,7 +12889,7 @@
    "e": "Only Dissolution of the Soviet Union - 1991 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0836",
+   "id": "gk-misc-p14-0859",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "National Voters' Day (India) - 3 May",
@@ -12559,7 +12904,7 @@
    "e": "Only National Voters' Day (India) - 25 January is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0837",
+   "id": "gk-misc-p14-0860",
    "q": "Strange is a synonym of which of the following words?",
    "o": [
     "Avarice",
@@ -12574,7 +12919,7 @@
    "e": "Strange is a synonym of Bizarre."
   },
   {
-   "id": "gk-misc-p14-0838",
+   "id": "gk-misc-p14-0861",
    "q": "Blame is an antonym of which of the following words?",
    "o": [
     "Exonerate",
@@ -12589,7 +12934,7 @@
    "e": "Blame is the opposite of Exonerate."
   },
   {
-   "id": "gk-misc-p14-0839",
+   "id": "gk-misc-p14-0862",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Close shave - A narrow escape",
@@ -12604,7 +12949,7 @@
    "e": "Only Close shave - A narrow escape is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0840",
+   "id": "gk-misc-p14-0863",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Something that is no longer in use - Obsolete",
@@ -12619,7 +12964,7 @@
    "e": "Only Something that is no longer in use - Obsolete is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0841",
+   "id": "gk-misc-p14-0864",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Committee - Villian",
@@ -12634,7 +12979,7 @@
    "e": "Only Committee - Commitee is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0842",
+   "id": "gk-misc-p14-0865",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Species - Species",
@@ -12649,7 +12994,7 @@
    "e": "The pair Axis - Data is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0843",
+   "id": "gk-misc-p14-0866",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Fast - More beautiful",
@@ -12664,7 +13009,7 @@
    "e": "The pair Fast - More beautiful is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0844",
+   "id": "gk-misc-p14-0867",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Java - Malicious program that spreads on its own",
@@ -12679,7 +13024,7 @@
    "e": "Only Java - Object oriented programming language is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0845",
+   "id": "gk-misc-p14-0868",
    "q": "Which of the following abbreviations stands for Insurance Regulatory and Development Authority of India?",
    "o": [
     "PM-KISAN",
@@ -12694,7 +13039,7 @@
    "e": "Insurance Regulatory and Development Authority of India is abbreviated as IRDAI."
   },
   {
-   "id": "gk-misc-p14-0846",
+   "id": "gk-misc-p14-0869",
    "q": "Which currency is used in Republic of the Congo?",
    "o": [
     "Rufiyaa",
@@ -12709,7 +13054,7 @@
    "e": "The currency of Republic of the Congo is Brazzaville."
   },
   {
-   "id": "gk-misc-p14-0847",
+   "id": "gk-misc-p14-0870",
    "q": "Which element has atomic number 21?",
    "o": [
     "Copernicium",
@@ -12724,7 +13069,7 @@
    "e": "Atomic number 21 belongs to Scandium."
   },
   {
-   "id": "gk-misc-p14-0848",
+   "id": "gk-misc-p14-0871",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Rajgir Wildlife Sanctuary - Bihar",
@@ -12739,7 +13084,7 @@
    "e": "Only Rajgir Wildlife Sanctuary - Bihar is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0849",
+   "id": "gk-misc-p14-0872",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Treaty of Versailles signed - 1969",
@@ -12754,7 +13099,7 @@
    "e": "Only Treaty of Versailles signed - 1919 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0850",
+   "id": "gk-misc-p14-0873",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "National Voters' Day (India) - 21 September",
@@ -12769,7 +13114,7 @@
    "e": "Only National Voters' Day (India) - 25 January is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0851",
+   "id": "gk-misc-p14-0874",
    "q": "Surrender is a synonym of which of the following words?",
    "o": [
     "Coerce",
@@ -12784,7 +13129,7 @@
    "e": "Surrender is a synonym of Capitulate."
   },
   {
-   "id": "gk-misc-p14-0852",
+   "id": "gk-misc-p14-0875",
    "q": "Prosperity is an antonym of which of the following words?",
    "o": [
     "Pertinent",
@@ -12799,7 +13144,7 @@
    "e": "Prosperity is the opposite of Adversity."
   },
   {
-   "id": "gk-misc-p14-0853",
+   "id": "gk-misc-p14-0876",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Close shave - Be the dominant person",
@@ -12814,7 +13159,7 @@
    "e": "Only Close shave - A narrow escape is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0854",
+   "id": "gk-misc-p14-0877",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A word formed from the initial letters of other words - Aquarium",
@@ -12829,7 +13174,7 @@
    "e": "Only A word formed from the initial letters of other words - Acronym is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0855",
+   "id": "gk-misc-p14-0878",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Secretary - Vaccum",
@@ -12844,7 +13189,7 @@
    "e": "Only Secretary - Secratary is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0856",
+   "id": "gk-misc-p14-0879",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Cactus - Salmon",
@@ -12859,7 +13204,7 @@
    "e": "The pair Cactus - Salmon is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0857",
+   "id": "gk-misc-p14-0880",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Tall - Taller",
@@ -12874,7 +13219,7 @@
    "e": "The pair Poor - More courageous is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0858",
+   "id": "gk-misc-p14-0881",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Boot - Human readable name of a website",
@@ -12889,7 +13234,7 @@
    "e": "Only Boot - Process of starting a computer is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0859",
+   "id": "gk-misc-p14-0882",
    "q": "Which of the following abbreviations stands for Central Board of Indirect Taxes and Customs?",
    "o": [
     "CBIC",
@@ -12904,7 +13249,7 @@
    "e": "Central Board of Indirect Taxes and Customs is abbreviated as CBIC."
   },
   {
-   "id": "gk-misc-p14-0860",
+   "id": "gk-misc-p14-0883",
    "q": "Which currency is used in Andorra?",
    "o": [
     "Icelandic Krona",
@@ -12919,7 +13264,7 @@
    "e": "The currency of Andorra is Andorra la Vella."
   },
   {
-   "id": "gk-misc-p14-0861",
+   "id": "gk-misc-p14-0884",
    "q": "Which element has atomic number 86?",
    "o": [
     "Nitrogen",
@@ -12934,7 +13279,7 @@
    "e": "Atomic number 86 belongs to Radon."
   },
   {
-   "id": "gk-misc-p14-0862",
+   "id": "gk-misc-p14-0885",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Rajgir Wildlife Sanctuary - Rajasthan",
@@ -12949,7 +13294,7 @@
    "e": "Only Rajgir Wildlife Sanctuary - Bihar is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0863",
+   "id": "gk-misc-p14-0886",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Treaty of Versailles signed - 1919",
@@ -12964,7 +13309,7 @@
    "e": "Only Treaty of Versailles signed - 1919 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0864",
+   "id": "gk-misc-p14-0887",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "International Mother Language Day - 4 February",
@@ -12979,7 +13324,7 @@
    "e": "Only International Mother Language Day - 21 February is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0865",
+   "id": "gk-misc-p14-0888",
    "q": "Opinionated is a synonym of which of the following words?",
    "o": [
     "Insolent",
@@ -12994,7 +13339,7 @@
    "e": "Opinionated is a synonym of Dogmatic."
   },
   {
-   "id": "gk-misc-p14-0866",
+   "id": "gk-misc-p14-0889",
    "q": "Impossible is an antonym of which of the following words?",
    "o": [
     "Anarchy",
@@ -13009,7 +13354,7 @@
    "e": "Impossible is the opposite of Feasible."
   },
   {
-   "id": "gk-misc-p14-0867",
+   "id": "gk-misc-p14-0890",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "To put the cart before the horse - To be in conflict",
@@ -13024,7 +13369,7 @@
    "e": "Only To put the cart before the horse - To reverse the proper order is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0868",
+   "id": "gk-misc-p14-0891",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A word formed from the initial letters of other words - Hermit",
@@ -13039,7 +13384,7 @@
    "e": "Only A word formed from the initial letters of other words - Acronym is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0869",
+   "id": "gk-misc-p14-0892",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Secretary - Facinate",
@@ -13054,7 +13399,7 @@
    "e": "Only Secretary - Secratary is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0870",
+   "id": "gk-misc-p14-0893",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Commander-in-Chief - Commanders-in-Chief",
@@ -13069,7 +13414,7 @@
    "e": "The pair Formula - Women is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0871",
+   "id": "gk-misc-p14-0894",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Important - More important",
@@ -13084,7 +13429,7 @@
    "e": "The pair Bad - Finer is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0872",
+   "id": "gk-misc-p14-0895",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Boot - Small file stored by a website in the browser",
@@ -13099,7 +13444,7 @@
    "e": "Only Boot - Process of starting a computer is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0873",
+   "id": "gk-misc-p14-0896",
    "q": "Which of the following abbreviations stands for National Investigation Agency?",
    "o": [
     "NIA",
@@ -13114,7 +13459,7 @@
    "e": "National Investigation Agency is abbreviated as NIA."
   },
   {
-   "id": "gk-misc-p14-0874",
+   "id": "gk-misc-p14-0897",
    "q": "Which currency is used in Liberia?",
    "o": [
     "Naira",
@@ -13129,7 +13474,7 @@
    "e": "The currency of Liberia is Monrovia."
   },
   {
-   "id": "gk-misc-p14-0875",
+   "id": "gk-misc-p14-0898",
    "q": "Which element has atomic number 45?",
    "o": [
     "Boron",
@@ -13144,7 +13489,7 @@
    "e": "Atomic number 45 belongs to Rhodium."
   },
   {
-   "id": "gk-misc-p14-0876",
+   "id": "gk-misc-p14-0899",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Kishtwar National Park - Jharkhand",
@@ -13159,7 +13504,7 @@
    "e": "Only Kishtwar National Park - Jammu and Kashmir is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0877",
+   "id": "gk-misc-p14-0900",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Wall Street Crash and start of the Great Depression - 1865",
@@ -13174,7 +13519,7 @@
    "e": "Only Wall Street Crash and start of the Great Depression - 1929 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0878",
+   "id": "gk-misc-p14-0901",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "International Mother Language Day - 22 December",
@@ -13189,7 +13534,7 @@
    "e": "Only International Mother Language Day - 21 February is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0879",
+   "id": "gk-misc-p14-0902",
    "q": "Practical is a synonym of which of the following words?",
    "o": [
     "Pragmatic",
@@ -13204,7 +13549,7 @@
    "e": "Practical is a synonym of Pragmatic."
   },
   {
-   "id": "gk-misc-p14-0880",
+   "id": "gk-misc-p14-0903",
    "q": "Contradict is an antonym of which of the following words?",
    "o": [
     "Arduous",
@@ -13219,7 +13564,7 @@
    "e": "Contradict is the opposite of Corroborate."
   },
   {
-   "id": "gk-misc-p14-0881",
+   "id": "gk-misc-p14-0904",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "To put the cart before the horse - To become very angry",
@@ -13234,7 +13579,7 @@
    "e": "Only To put the cart before the horse - To reverse the proper order is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0882",
+   "id": "gk-misc-p14-0905",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A place where aircraft are kept - Gullible",
@@ -13249,7 +13594,7 @@
    "e": "Only A place where aircraft are kept - Hangar is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0883",
+   "id": "gk-misc-p14-0906",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Carriage - Carrage",
@@ -13264,7 +13609,7 @@
    "e": "Only Carriage - Carrage is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0884",
+   "id": "gk-misc-p14-0907",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Army - Armies",
@@ -13279,7 +13624,7 @@
    "e": "The pair Datum - Sons-in-law is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0885",
+   "id": "gk-misc-p14-0908",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Little - Less",
@@ -13294,7 +13639,7 @@
    "e": "The pair Strong - Smaller is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0886",
+   "id": "gk-misc-p14-0909",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Virtual memory - Unique address of a device on a network",
@@ -13309,7 +13654,7 @@
    "e": "Only Virtual memory - Disk space used as an extension of RAM is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0887",
+   "id": "gk-misc-p14-0910",
    "q": "Which of the following abbreviations stands for Employee Stock Option Plan?",
    "o": [
     "ESOP",
@@ -13324,7 +13669,7 @@
    "e": "Employee Stock Option Plan is abbreviated as ESOP."
   },
   {
-   "id": "gk-misc-p14-0888",
+   "id": "gk-misc-p14-0911",
    "q": "Which currency is used in Suriname?",
    "o": [
     "Surinamese Dollar",
@@ -13339,7 +13684,7 @@
    "e": "The currency of Suriname is Paramaribo."
   },
   {
-   "id": "gk-misc-p14-0889",
+   "id": "gk-misc-p14-0912",
    "q": "Which element has atomic number 84?",
    "o": [
     "Carbon",
@@ -13354,7 +13699,7 @@
    "e": "Atomic number 84 belongs to Polonium."
   },
   {
-   "id": "gk-misc-p14-0890",
+   "id": "gk-misc-p14-0913",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Kishtwar National Park - Odisha",
@@ -13369,7 +13714,7 @@
    "e": "Only Kishtwar National Park - Jammu and Kashmir is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0891",
+   "id": "gk-misc-p14-0914",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Wall Street Crash and start of the Great Depression - 1990",
@@ -13384,7 +13729,7 @@
    "e": "Only Wall Street Crash and start of the Great Depression - 1929 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0892",
+   "id": "gk-misc-p14-0915",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "World Press Freedom Day - 3 May",
@@ -13399,7 +13744,7 @@
    "e": "Only World Press Freedom Day - 3 May is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0893",
+   "id": "gk-misc-p14-0916",
    "q": "Deceitful is a synonym of which of the following words?",
    "o": [
     "Fraudulent",
@@ -13414,7 +13759,7 @@
    "e": "Deceitful is a synonym of Fraudulent."
   },
   {
-   "id": "gk-misc-p14-0894",
+   "id": "gk-misc-p14-0917",
    "q": "Open is an antonym of which of the following words?",
    "o": [
     "Benevolent",
@@ -13429,7 +13774,7 @@
    "e": "Open is the opposite of Clandestine."
   },
   {
-   "id": "gk-misc-p14-0895",
+   "id": "gk-misc-p14-0918",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Achilles' heel - A weak point",
@@ -13444,7 +13789,7 @@
    "e": "Only Achilles' heel - A weak point is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0896",
+   "id": "gk-misc-p14-0919",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A place where aircraft are kept - Hangar",
@@ -13459,7 +13804,7 @@
    "e": "Only A place where aircraft are kept - Hangar is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0897",
+   "id": "gk-misc-p14-0920",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Carriage - Buisness",
@@ -13474,7 +13819,7 @@
    "e": "Only Carriage - Carrage is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0898",
+   "id": "gk-misc-p14-0921",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Wife - Echoes",
@@ -13489,7 +13834,7 @@
    "e": "The pair Wife - Echoes is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0899",
+   "id": "gk-misc-p14-0922",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Happy - Happier",
@@ -13504,7 +13849,7 @@
    "e": "The pair Intelligent - Thinner is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0900",
+   "id": "gk-misc-p14-0923",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Virtual memory - Disk space used as an extension of RAM",
@@ -13519,7 +13864,7 @@
    "e": "Only Virtual memory - Disk space used as an extension of RAM is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0901",
+   "id": "gk-misc-p14-0924",
    "q": "Which of the following abbreviations stands for National Institute of Technology?",
    "o": [
     "KVK",
@@ -13534,7 +13879,7 @@
    "e": "National Institute of Technology is abbreviated as NIT."
   },
   {
-   "id": "gk-misc-p14-0902",
+   "id": "gk-misc-p14-0925",
    "q": "Which currency is used in Costa Rica?",
    "o": [
     "Sudanese Pound",
@@ -13549,7 +13894,7 @@
    "e": "The currency of Costa Rica is San Jose."
   },
   {
-   "id": "gk-misc-p14-0903",
+   "id": "gk-misc-p14-0926",
    "q": "Which element has atomic number 58?",
    "o": [
     "Protactinium",
@@ -13564,7 +13909,7 @@
    "e": "Atomic number 58 belongs to Cerium."
   },
   {
-   "id": "gk-misc-p14-0904",
+   "id": "gk-misc-p14-0927",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Dalma Wildlife Sanctuary - Jharkhand",
@@ -13579,7 +13924,7 @@
    "e": "Only Dalma Wildlife Sanctuary - Jharkhand is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0905",
+   "id": "gk-misc-p14-0928",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Bandung Conference - 1492",
@@ -13594,7 +13939,7 @@
    "e": "Only Bandung Conference - 1955 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0906",
+   "id": "gk-misc-p14-0929",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "World Press Freedom Day - 4 October",
@@ -13609,7 +13954,7 @@
    "e": "Only World Press Freedom Day - 3 May is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0907",
+   "id": "gk-misc-p14-0930",
    "q": "Showy is a synonym of which of the following words?",
    "o": [
     "Heresy",
@@ -13624,7 +13969,7 @@
    "e": "Showy is a synonym of Ostentatious."
   },
   {
-   "id": "gk-misc-p14-0908",
+   "id": "gk-misc-p14-0931",
    "q": "Insufficient is an antonym of which of the following words?",
    "o": [
     "Sumptuous",
@@ -13639,7 +13984,7 @@
    "e": "Insufficient is the opposite of Ample."
   },
   {
-   "id": "gk-misc-p14-0909",
+   "id": "gk-misc-p14-0932",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Achilles' heel - To suspect foul play",
@@ -13654,7 +13999,7 @@
    "e": "Only Achilles' heel - A weak point is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0910",
+   "id": "gk-misc-p14-0933",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A person who is new to a profession - Novice",
@@ -13669,7 +14014,7 @@
    "e": "Only A person who is new to a profession - Novice is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0911",
+   "id": "gk-misc-p14-0934",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Possession - Writting",
@@ -13684,7 +14029,7 @@
    "e": "Only Possession - Posession is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0912",
+   "id": "gk-misc-p14-0935",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Thesis - Theses",
@@ -13699,7 +14044,7 @@
    "e": "The pair Basis - Proofs is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0913",
+   "id": "gk-misc-p14-0936",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Poor - Poorer",
@@ -13714,7 +14059,7 @@
    "e": "The pair Dangerous - More is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0914",
+   "id": "gk-misc-p14-0937",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Compiler - Wireless local area networking technology",
@@ -13729,7 +14074,7 @@
    "e": "Only Compiler - Program that converts source code into machine code is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0915",
+   "id": "gk-misc-p14-0938",
    "q": "Which of the following abbreviations stands for Border Security Force?",
    "o": [
     "BSF",
@@ -13744,7 +14089,7 @@
    "e": "Border Security Force is abbreviated as BSF."
   },
   {
-   "id": "gk-misc-p14-0916",
+   "id": "gk-misc-p14-0939",
    "q": "Which currency is used in Brazil?",
    "o": [
     "Quetzal",
@@ -13759,7 +14104,7 @@
    "e": "The currency of Brazil is Brasilia."
   },
   {
-   "id": "gk-misc-p14-0917",
+   "id": "gk-misc-p14-0940",
    "q": "Which element has atomic number 77?",
    "o": [
     "Hydrogen",
@@ -13774,7 +14119,7 @@
    "e": "Atomic number 77 belongs to Iridium."
   },
   {
-   "id": "gk-misc-p14-0918",
+   "id": "gk-misc-p14-0941",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Dalma Wildlife Sanctuary - Haryana",
@@ -13789,7 +14134,7 @@
    "e": "Only Dalma Wildlife Sanctuary - Jharkhand is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0919",
+   "id": "gk-misc-p14-0942",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Bandung Conference - 1919",
@@ -13804,7 +14149,7 @@
    "e": "Only Bandung Conference - 1955 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0920",
+   "id": "gk-misc-p14-0943",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "Human Rights Day - 4 October",
@@ -13819,7 +14164,7 @@
    "e": "Only Human Rights Day - 10 December is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0921",
+   "id": "gk-misc-p14-0944",
    "q": "Careful is a synonym of which of the following words?",
    "o": [
     "Lucid",
@@ -13834,7 +14179,7 @@
    "e": "Careful is a synonym of Meticulous."
   },
   {
-   "id": "gk-misc-p14-0922",
+   "id": "gk-misc-p14-0945",
    "q": "Divided is an antonym of which of the following words?",
    "o": [
     "Complacent",
@@ -13849,7 +14194,7 @@
    "e": "Divided is the opposite of Unanimous."
   },
   {
-   "id": "gk-misc-p14-0923",
+   "id": "gk-misc-p14-0946",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Let the cat out of the bag - A miser",
@@ -13864,7 +14209,7 @@
    "e": "Only Let the cat out of the bag - Reveal a secret is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0924",
+   "id": "gk-misc-p14-0947",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A person who is new to a profession - Theocracy",
@@ -13879,7 +14224,7 @@
    "e": "Only A person who is new to a profession - Novice is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0925",
+   "id": "gk-misc-p14-0948",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Possession - Independance",
@@ -13894,7 +14239,7 @@
    "e": "Only Possession - Posession is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0926",
+   "id": "gk-misc-p14-0949",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Brush - Sons-in-law",
@@ -13909,7 +14254,7 @@
    "e": "The pair Brush - Sons-in-law is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0927",
+   "id": "gk-misc-p14-0950",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Difficult - More difficult",
@@ -13924,7 +14269,7 @@
    "e": "The pair Little - More dangerous is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0928",
+   "id": "gk-misc-p14-0951",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "Compiler - Program that converts source code into machine code",
@@ -13939,7 +14284,7 @@
    "e": "Only Compiler - Program that converts source code into machine code is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0929",
+   "id": "gk-misc-p14-0952",
    "q": "Which of the following abbreviations stands for Gross Domestic Product?",
    "o": [
     "LEO",
@@ -13954,7 +14299,7 @@
    "e": "Gross Domestic Product is abbreviated as GDP."
   },
   {
-   "id": "gk-misc-p14-0930",
+   "id": "gk-misc-p14-0953",
    "q": "Which currency is used in Togo?",
    "o": [
     "Rwandan Franc",
@@ -13969,7 +14314,7 @@
    "e": "The currency of Togo is Lome."
   },
   {
-   "id": "gk-misc-p14-0931",
+   "id": "gk-misc-p14-0954",
    "q": "Which element has atomic number 113?",
    "o": [
     "Einsteinium",
@@ -13984,7 +14329,7 @@
    "e": "Atomic number 113 belongs to Nihonium."
   },
   {
-   "id": "gk-misc-p14-0932",
+   "id": "gk-misc-p14-0955",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Pench National Park - Madhya Pradesh",
@@ -13999,7 +14344,7 @@
    "e": "Only Pench National Park - Madhya Pradesh is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0933",
+   "id": "gk-misc-p14-0956",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Nelson Mandela became President of South Africa - 1993",
@@ -14014,7 +14359,7 @@
    "e": "Only Nelson Mandela became President of South Africa - 1994 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0934",
+   "id": "gk-misc-p14-0957",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "Human Rights Day - 4 January",
@@ -14029,7 +14374,7 @@
    "e": "Only Human Rights Day - 10 December is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0935",
+   "id": "gk-misc-p14-0958",
    "q": "Learned is a synonym of which of the following words?",
    "o": [
     "Inevitable",
@@ -14044,7 +14389,7 @@
    "e": "Learned is a synonym of Erudite."
   },
   {
-   "id": "gk-misc-p14-0936",
+   "id": "gk-misc-p14-0959",
    "q": "Abundance is an antonym of which of the following words?",
    "o": [
     "Perpetual",
@@ -14059,7 +14404,7 @@
    "e": "Abundance is the opposite of Paucity."
   },
   {
-   "id": "gk-misc-p14-0937",
+   "id": "gk-misc-p14-0960",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Let the cat out of the bag - To discuss private matters openly",
@@ -14074,7 +14419,7 @@
    "e": "Only Let the cat out of the bag - Reveal a secret is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0938",
+   "id": "gk-misc-p14-0961",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who eats human flesh - Numismatist",
@@ -14089,7 +14434,7 @@
    "e": "Only One who eats human flesh - Cannibal is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0939",
+   "id": "gk-misc-p14-0962",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Preceding - Greatful",
@@ -14104,7 +14449,7 @@
    "e": "Only Preceding - Preceeding is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0940",
+   "id": "gk-misc-p14-0963",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Zoo - Zoos",
@@ -14119,7 +14464,7 @@
    "e": "The pair Piano - Commanders-in-Chief is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0941",
+   "id": "gk-misc-p14-0964",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Far - Farther",
@@ -14134,7 +14479,7 @@
    "e": "The pair Difficult - Cleverer is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0942",
+   "id": "gk-misc-p14-0965",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "CPU - When data requested is found in cache memory",
@@ -14149,7 +14494,7 @@
    "e": "Only CPU - The processing unit that executes instructions is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0943",
+   "id": "gk-misc-p14-0966",
    "q": "Which of the following abbreviations stands for Light Emitting Diode?",
    "o": [
     "RBI",
@@ -14164,7 +14509,7 @@
    "e": "Light Emitting Diode is abbreviated as LED."
   },
   {
-   "id": "gk-misc-p14-0944",
+   "id": "gk-misc-p14-0967",
    "q": "Which currency is used in Haiti?",
    "o": [
     "Som",
@@ -14179,7 +14524,7 @@
    "e": "The currency of Haiti is Port-au-Prince."
   },
   {
-   "id": "gk-misc-p14-0945",
+   "id": "gk-misc-p14-0968",
    "q": "Which element has atomic number 12?",
    "o": [
     "Beryllium",
@@ -14194,7 +14539,7 @@
    "e": "Atomic number 12 belongs to Magnesium."
   },
   {
-   "id": "gk-misc-p14-0946",
+   "id": "gk-misc-p14-0969",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Pench National Park - Madhya Pradesh",
@@ -14209,7 +14554,7 @@
    "e": "Only Pench National Park - Madhya Pradesh is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0947",
+   "id": "gk-misc-p14-0970",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Nelson Mandela became President of South Africa - 1994",
@@ -14224,7 +14569,7 @@
    "e": "Only Nelson Mandela became President of South Africa - 1994 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0948",
+   "id": "gk-misc-p14-0971",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "Independence Day (India) - 29 September",
@@ -14239,7 +14584,7 @@
    "e": "Only Independence Day (India) - 15 August is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0949",
+   "id": "gk-misc-p14-0972",
    "q": "Everlasting is a synonym of which of the following words?",
    "o": [
     "Perpetual",
@@ -14254,7 +14599,7 @@
    "e": "Everlasting is a synonym of Perpetual."
   },
   {
-   "id": "gk-misc-p14-0950",
+   "id": "gk-misc-p14-0973",
    "q": "Active is an antonym of which of the following words?",
    "o": [
     "Sporadic",
@@ -14269,7 +14614,7 @@
    "e": "Active is the opposite of Dormant."
   },
   {
-   "id": "gk-misc-p14-0951",
+   "id": "gk-misc-p14-0974",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "On cloud nine - Occasionally",
@@ -14284,7 +14629,7 @@
    "e": "Only On cloud nine - Extremely happy is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0952",
+   "id": "gk-misc-p14-0975",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who eats human flesh - Autocracy",
@@ -14299,7 +14644,7 @@
    "e": "Only One who eats human flesh - Cannibal is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0953",
+   "id": "gk-misc-p14-0976",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Preceding - Preceeding",
@@ -14314,7 +14659,7 @@
    "e": "Only Preceding - Preceeding is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0954",
+   "id": "gk-misc-p14-0977",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Curriculum - Cacti",
@@ -14329,7 +14674,7 @@
    "e": "The pair Curriculum - Cacti is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0955",
+   "id": "gk-misc-p14-0978",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Difficult - More difficult",
@@ -14344,7 +14689,7 @@
    "e": "The pair Rich - Braver is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0956",
+   "id": "gk-misc-p14-0979",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "CPU - Secure version of the web transfer protocol",
@@ -14359,7 +14704,7 @@
    "e": "Only CPU - The processing unit that executes instructions is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0957",
+   "id": "gk-misc-p14-0980",
    "q": "Which of the following abbreviations stands for National Institution for Transforming India?",
    "o": [
     "NITI",
@@ -14374,7 +14719,7 @@
    "e": "National Institution for Transforming India is abbreviated as NITI."
   },
   {
-   "id": "gk-misc-p14-0958",
+   "id": "gk-misc-p14-0981",
    "q": "Which currency is used in South Africa?",
    "o": [
     "Rand",
@@ -14389,7 +14734,7 @@
    "e": "The currency of South Africa is Pretoria."
   },
   {
-   "id": "gk-misc-p14-0959",
+   "id": "gk-misc-p14-0982",
    "q": "Which element has atomic number 111?",
    "o": [
     "Roentgenium",
@@ -14404,7 +14749,7 @@
    "e": "Atomic number 111 belongs to Roentgenium."
   },
   {
-   "id": "gk-misc-p14-0960",
+   "id": "gk-misc-p14-0983",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Dachigam National Park - Jammu and Kashmir",
@@ -14419,7 +14764,7 @@
    "e": "Only Dachigam National Park - Jammu and Kashmir is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0961",
+   "id": "gk-misc-p14-0984",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Russian Revolution - 1979",
@@ -14434,7 +14779,7 @@
    "e": "Only Russian Revolution - 1917 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0962",
+   "id": "gk-misc-p14-0985",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "Independence Day (India) - 1 November",
@@ -14449,7 +14794,7 @@
    "e": "Only Independence Day (India) - 15 August is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0963",
+   "id": "gk-misc-p14-0986",
    "q": "Agree is a synonym of which of the following words?",
    "o": [
     "Banal",
@@ -14464,7 +14809,7 @@
    "e": "Agree is a synonym of Concur."
   },
   {
-   "id": "gk-misc-p14-0964",
+   "id": "gk-misc-p14-0987",
    "q": "Retain is an antonym of which of the following words?",
    "o": [
     "Somnolent",
@@ -14479,7 +14824,7 @@
    "e": "Retain is the opposite of Abandon."
   },
   {
-   "id": "gk-misc-p14-0965",
+   "id": "gk-misc-p14-0988",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "On cloud nine - Remain undecided",
@@ -14494,7 +14839,7 @@
    "e": "Only On cloud nine - Extremely happy is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0966",
+   "id": "gk-misc-p14-0989",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Something that is very obvious - Antidote",
@@ -14509,7 +14854,7 @@
    "e": "Only Something that is very obvious - Manifest is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0967",
+   "id": "gk-misc-p14-0990",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Withhold - Appropraite",
@@ -14524,7 +14869,7 @@
    "e": "Only Withhold - Withold is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0968",
+   "id": "gk-misc-p14-0991",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Tomato - Tomatoes",
@@ -14539,7 +14884,7 @@
    "e": "The pair Bacterium - Mice is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0969",
+   "id": "gk-misc-p14-0992",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Beautiful - More beautiful",
@@ -14554,7 +14899,7 @@
    "e": "The pair Tall - Braver is not correctly matched."
   },
   {
-   "id": "gk-misc-p14-0970",
+   "id": "gk-misc-p14-0993",
    "q": "Which of the following pairs of term and description is correctly matched?",
    "o": [
     "C - Procedural programming language",
@@ -14569,7 +14914,7 @@
    "e": "Only C - Procedural programming language is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0971",
+   "id": "gk-misc-p14-0994",
    "q": "Which of the following abbreviations stands for Medecins Sans Frontieres?",
    "o": [
     "WIPO",
@@ -14584,7 +14929,7 @@
    "e": "Medecins Sans Frontieres is abbreviated as MSF."
   },
   {
-   "id": "gk-misc-p14-0972",
+   "id": "gk-misc-p14-0995",
    "q": "Which currency is used in Seychelles?",
    "o": [
     "Tenge",
@@ -14599,7 +14944,7 @@
    "e": "The currency of Seychelles is Victoria."
   },
   {
-   "id": "gk-misc-p14-0973",
+   "id": "gk-misc-p14-0996",
    "q": "Which element has atomic number 40?",
    "o": [
     "Argon",
@@ -14614,7 +14959,7 @@
    "e": "Atomic number 40 belongs to Zirconium."
   },
   {
-   "id": "gk-misc-p14-0974",
+   "id": "gk-misc-p14-0997",
    "q": "Which of the following pairs of national park and state is correctly matched?",
    "o": [
     "Dachigam National Park - Chhattisgarh",
@@ -14629,7 +14974,7 @@
    "e": "Only Dachigam National Park - Jammu and Kashmir is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0975",
+   "id": "gk-misc-p14-0998",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Russian Revolution - 1600",
@@ -14644,7 +14989,7 @@
    "e": "Only Russian Revolution - 1917 is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0976",
+   "id": "gk-misc-p14-0999",
    "q": "Which of the following pairs of day and date is correctly matched?",
    "o": [
     "World Energy Conservation Day - 14 December",
@@ -14659,7 +15004,7 @@
    "e": "Only World Energy Conservation Day - 14 December is correctly matched."
   },
   {
-   "id": "gk-misc-p14-0977",
+   "id": "gk-misc-p14-1000",
    "q": "Unbiased is a synonym of which of the following words?",
    "o": [
     "Rebuke",
@@ -14672,351 +15017,6 @@
    "l": 2,
    "s": "generated",
    "e": "Unbiased is a synonym of Impartial."
-  },
-  {
-   "id": "gk-misc-p14-0978",
-   "q": "Counterfeit is an antonym of which of the following words?",
-   "o": [
-    "Genuine",
-    "Sporadic",
-    "Futile",
-    "Munificent"
-   ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Counterfeit is the opposite of Genuine."
-  },
-  {
-   "id": "gk-misc-p14-0979",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
-    "Go through fire and water - A short-lived sensation",
-    "Go through fire and water - Live a miserable life",
-    "Go through fire and water - Face any danger",
-    "Go through fire and water - To struggle without hope of success"
-   ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Go through fire and water - Face any danger is correctly matched."
-  },
-  {
-   "id": "gk-misc-p14-0980",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
-    "Something that is very obvious - Manifest",
-    "Something that is very obvious - Hydrophobic",
-    "Something that is very obvious - Septuagenarian",
-    "Something that is very obvious - Glutton"
-   ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Something that is very obvious - Manifest is correctly matched."
-  },
-  {
-   "id": "gk-misc-p14-0981",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
-    "Withhold - Withold",
-    "Withhold - Oportunity",
-    "Withhold - Managment",
-    "Withhold - Seperate"
-   ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Withhold - Withold is correctly matched."
-  },
-  {
-   "id": "gk-misc-p14-0982",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
-    "Stimulus - Stimuli",
-    "Potato - Potatoes",
-    "Syllabus - Syllabi",
-    "Fungus - Feet"
-   ],
-   "a": 3,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Fungus - Feet is not correctly matched."
-  },
-  {
-   "id": "gk-misc-p14-0983",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
-    "Old - Older",
-    "Wise - More beautiful",
-    "Short - Shorter",
-    "Dangerous - More dangerous"
-   ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Wise - More beautiful is not correctly matched."
-  },
-  {
-   "id": "gk-misc-p14-0984",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
-    "C - Data storage on remote internet servers",
-    "C - Running several tasks at the same time",
-    "C - Procedural programming language",
-    "C - Software that lets the OS talk to hardware"
-   ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only C - Procedural programming language is correctly matched."
-  },
-  {
-   "id": "gk-misc-p14-0985",
-   "q": "Which of the following abbreviations stands for Closed Circuit Television?",
-   "o": [
-    "AC",
-    "CCTV",
-    "OPD",
-    "ITBP"
-   ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Closed Circuit Television is abbreviated as CCTV."
-  },
-  {
-   "id": "gk-misc-p14-0986",
-   "q": "Which currency is used in Kenya?",
-   "o": [
-    "Kenyan Shilling",
-    "Norwegian Krone",
-    "Riel",
-    "Quetzal"
-   ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 2,
-   "s": "generated",
-   "e": "The currency of Kenya is Nairobi."
-  },
-  {
-   "id": "gk-misc-p14-0987",
-   "q": "Which element has atomic number 20?",
-   "o": [
-    "Iridium",
-    "Silver",
-    "Gadolinium",
-    "Calcium"
-   ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "Atomic number 20 belongs to Calcium."
-  },
-  {
-   "id": "gk-misc-p14-0988",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
-    "Panna National Park - Tamil Nadu",
-    "Panna National Park - Madhya Pradesh",
-    "Panna National Park - Himachal Pradesh",
-    "Panna National Park - Assam"
-   ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Panna National Park - Madhya Pradesh is correctly matched."
-  },
-  {
-   "id": "gk-misc-p14-0989",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
-    "Defeat of the Spanish Armada - 1948",
-    "Defeat of the Spanish Armada - 1949",
-    "Defeat of the Spanish Armada - 1989",
-    "Defeat of the Spanish Armada - 1588"
-   ],
-   "a": 3,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Defeat of the Spanish Armada - 1588 is correctly matched."
-  },
-  {
-   "id": "gk-misc-p14-0990",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
-    "World Energy Conservation Day - 14 December",
-    "World Energy Conservation Day - 20 March",
-    "World Energy Conservation Day - 21 February",
-    "World Energy Conservation Day - 1 December"
-   ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Energy Conservation Day - 14 December is correctly matched."
-  },
-  {
-   "id": "gk-misc-p14-0991",
-   "q": "Peculiarity is a synonym of which of the following words?",
-   "o": [
-    "Condemn",
-    "Idiosyncrasy",
-    "Enigma",
-    "Sumptuous"
-   ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Peculiarity is a synonym of Idiosyncrasy."
-  },
-  {
-   "id": "gk-misc-p14-0992",
-   "q": "Lazy is an antonym of which of the following words?",
-   "o": [
-    "Imminent",
-    "Diligent",
-    "Tranquil",
-    "Prominent"
-   ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Lazy is the opposite of Diligent."
-  },
-  {
-   "id": "gk-misc-p14-0993",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
-    "Go through fire and water - Talk without coming to the point",
-    "Go through fire and water - Face any danger",
-    "Go through fire and water - To enrich oneself",
-    "Go through fire and water - Do something remarkable"
-   ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Go through fire and water - Face any danger is correctly matched."
-  },
-  {
-   "id": "gk-misc-p14-0994",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
-    "One who eats too much - Endemic",
-    "One who eats too much - Glutton",
-    "One who eats too much - Amphibians",
-    "One who eats too much - Chauffeur"
-   ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who eats too much - Glutton is correctly matched."
-  },
-  {
-   "id": "gk-misc-p14-0995",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
-    "Wednesday - Dissappear",
-    "Wednesday - Disatisfied",
-    "Wednesday - Wenesday",
-    "Wednesday - Desparate"
-   ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Wednesday - Wenesday is correctly matched."
-  },
-  {
-   "id": "gk-misc-p14-0996",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
-    "Box - Boxes",
-    "Series - Lice",
-    "Fish - Fish",
-    "Man - Men"
-   ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Series - Lice is not correctly matched."
-  },
-  {
-   "id": "gk-misc-p14-0997",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
-    "Fat - Fatter",
-    "Poor - Poorer",
-    "Important - More important",
-    "Late - Longer"
-   ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Late - Longer is not correctly matched."
-  },
-  {
-   "id": "gk-misc-p14-0998",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
-    "Mouse - Language used to structure web pages",
-    "Mouse - Pointing input device",
-    "Mouse - Software whose source code is freely available",
-    "Mouse - Output device that produces hard copies"
-   ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mouse - Pointing input device is correctly matched."
-  },
-  {
-   "id": "gk-misc-p14-0999",
-   "q": "Which of the following abbreviations stands for Public Distribution System?",
-   "o": [
-    "IPO",
-    "GNP",
-    "PDS",
-    "NEFT"
-   ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Public Distribution System is abbreviated as PDS."
-  },
-  {
-   "id": "gk-misc-p14-1000",
-   "q": "Which currency is used in Vietnam?",
-   "o": [
-    "Dong",
-    "Birr",
-    "Zambian Kwacha",
-    "Liberian Dollar"
-   ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 2,
-   "s": "generated",
-   "e": "The currency of Vietnam is Hanoi."
   }
  ]
 };

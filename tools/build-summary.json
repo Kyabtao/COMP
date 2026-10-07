@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-07T05:00:25.631Z",
-  "totalQuestions": 32907,
+  "generatedAt": "2026-10-07T05:02:14.376Z",
+  "totalQuestions": 32927,
   "categories": [
     {
       "slug": "abbreviations",
@@ -104,7 +104,7 @@
     },
     {
       "slug": "indian-polity",
-      "count": 704,
+      "count": 724,
       "target": 1000
     },
     {

@@ -12,10 +12,310 @@
   "railways"
  ],
  "blurb": "Constitution, articles, amendments and institutions.",
- "count": 704,
+ "count": 724,
  "questions": [
   {
    "id": "indian-polity-00001",
+   "q": "The Constitution of India was adopted on which date?",
+   "o": [
+    "15 August 1947",
+    "26 November 1949",
+    "26 January 1950",
+    "2 October 1950"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "The Constituent Assembly adopted the Constitution on 26 November 1949, now Constitution Day."
+  },
+  {
+   "id": "indian-polity-00002",
+   "q": "Who was the Chairman of the Drafting Committee of the Constitution?",
+   "o": [
+    "Rajendra Prasad",
+    "B. R. Ambedkar",
+    "Jawaharlal Nehru",
+    "Sardar Patel"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Dr B. R. Ambedkar chaired the Drafting Committee."
+  },
+  {
+   "id": "indian-polity-00003",
+   "q": "Which part of the Constitution contains the Fundamental Rights?",
+   "o": [
+    "Part II",
+    "Part III",
+    "Part IV",
+    "Part V"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Part III (Articles 12 to 35) lists the Fundamental Rights."
+  },
+  {
+   "id": "indian-polity-00004",
+   "q": "Which article is called the heart and soul of the Constitution by Ambedkar?",
+   "o": [
+    "Article 14",
+    "Article 19",
+    "Article 32",
+    "Article 44"
+   ],
+   "a": 2,
+   "t": "Curated",
+   "l": 3,
+   "s": "curated",
+   "e": "Article 32 gives citizens the right to move the Supreme Court for enforcement of rights."
+  },
+  {
+   "id": "indian-polity-00005",
+   "q": "How many Fundamental Duties are listed in the Constitution at present?",
+   "o": [
+    "10",
+    "11",
+    "12",
+    "9"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Eleven Fundamental Duties are listed in Article 51A after the 86th Amendment."
+  },
+  {
+   "id": "indian-polity-00006",
+   "q": "Who is the constitutional head of the Indian State?",
+   "o": [
+    "Prime Minister",
+    "President",
+    "Chief Justice",
+    "Speaker"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "The President is the constitutional head; real executive power rests with the Council of Ministers."
+  },
+  {
+   "id": "indian-polity-00007",
+   "q": "What is the maximum strength of the Lok Sabha as per the Constitution?",
+   "o": [
+    "545",
+    "550",
+    "552",
+    "560"
+   ],
+   "a": 2,
+   "t": "Curated",
+   "l": 3,
+   "s": "curated",
+   "e": "Article 81 permits up to 552 members, including nominated Anglo-Indian members before 2020."
+  },
+  {
+   "id": "indian-polity-00008",
+   "q": "The Rajya Sabha is a permanent house because it cannot be dissolved. What is its maximum strength?",
+   "o": [
+    "238",
+    "245",
+    "250",
+    "252"
+   ],
+   "a": 2,
+   "t": "Curated",
+   "l": 3,
+   "s": "curated",
+   "e": "The Rajya Sabha can have up to 250 members."
+  },
+  {
+   "id": "indian-polity-00009",
+   "q": "Who administers the oath of office to the President?",
+   "o": [
+    "Prime Minister",
+    "Chief Justice of India",
+    "Vice President",
+    "Speaker"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "The Chief Justice of India administers the oath."
+  },
+  {
+   "id": "indian-polity-00010",
+   "q": "A money bill can be introduced only in which house?",
+   "o": [
+    "Rajya Sabha",
+    "Lok Sabha",
+    "Either house",
+    "Joint sitting"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Money bills originate only in the Lok Sabha, on the President's recommendation."
+  },
+  {
+   "id": "indian-polity-00011",
+   "q": "Which amendment added the words socialist and secular to the Preamble?",
+   "o": [
+    "24th",
+    "42nd",
+    "44th",
+    "52nd"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 3,
+   "s": "curated",
+   "e": "The 42nd Amendment of 1976 added these words."
+  },
+  {
+   "id": "indian-polity-00012",
+   "q": "The Panchayati Raj system was given constitutional status by which amendment?",
+   "o": [
+    "72nd",
+    "73rd",
+    "74th",
+    "76th"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "The 73rd Amendment (1992) gave constitutional status to Panchayati Raj institutions."
+  },
+  {
+   "id": "indian-polity-00013",
+   "q": "Who appoints the Chief Justice of a High Court?",
+   "o": [
+    "Governor",
+    "President",
+    "Chief Justice of India",
+    "State legislature"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "The President appoints High Court judges in consultation with the Chief Justice of India and the Governor."
+  },
+  {
+   "id": "indian-polity-00014",
+   "q": "What is the tenure of a member of the Rajya Sabha?",
+   "o": [
+    "5 years",
+    "6 years",
+    "4 years",
+    "Life"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Rajya Sabha members serve six-year terms, with one third retiring every two years."
+  },
+  {
+   "id": "indian-polity-00015",
+   "q": "Which body conducts elections to Parliament and State legislatures in India?",
+   "o": [
+    "NITI Aayog",
+    "Election Commission",
+    "UPSC",
+    "Finance Commission"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "The Election Commission of India supervises these elections."
+  },
+  {
+   "id": "indian-polity-00016",
+   "q": "The Governor of a state is appointed by whom?",
+   "o": [
+    "Chief Minister",
+    "President",
+    "Prime Minister",
+    "Chief Justice"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "The President appoints the Governor for a term of five years."
+  },
+  {
+   "id": "indian-polity-00017",
+   "q": "Which schedule of the Constitution deals with anti-defection provisions?",
+   "o": [
+    "Ninth Schedule",
+    "Tenth Schedule",
+    "Eleventh Schedule",
+    "Twelfth Schedule"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 3,
+   "s": "curated",
+   "e": "The Tenth Schedule, added by the 52nd Amendment, covers defection."
+  },
+  {
+   "id": "indian-polity-00018",
+   "q": "In which case did the Supreme Court lay down the basic structure doctrine?",
+   "o": [
+    "Golaknath case",
+    "Kesavananda Bharati case",
+    "Shankari Prasad case",
+    "Minerva Mills case"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 3,
+   "s": "curated",
+   "e": "The Kesavananda Bharati judgment of 1973 established the basic structure doctrine."
+  },
+  {
+   "id": "indian-polity-00019",
+   "q": "Which article abolishes untouchability?",
+   "o": [
+    "Article 15",
+    "Article 16",
+    "Article 17",
+    "Article 18"
+   ],
+   "a": 2,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Article 17 abolishes untouchability in any form."
+  },
+  {
+   "id": "indian-polity-00020",
+   "q": "The idea of a Constituent Assembly for India was first proposed by whom?",
+   "o": [
+    "M. N. Roy",
+    "Gandhi",
+    "Nehru",
+    "Ambedkar"
+   ],
+   "a": 0,
+   "t": "Curated",
+   "l": 3,
+   "s": "curated",
+   "e": "M. N. Roy proposed the idea of a Constituent Assembly in 1934."
+  },
+  {
+   "id": "indian-polity-00021",
    "q": "Which part of the Constitution deals with: The Union Government?",
    "o": [
     "Part XVIII, Articles 352-360",
@@ -30,7 +330,7 @@
    "e": "The Union Government is covered under Part V, Articles 52-151."
   },
   {
-   "id": "indian-polity-00002",
+   "id": "indian-polity-00022",
    "q": "The 61st Amendment of the Constitution is related to which subject?",
    "o": [
     "Provided reservation for economically weaker sections",
@@ -45,7 +345,7 @@
    "e": "The 61st Amendment (1989) — Reduced the voting age from 21 to 18 years."
   },
   {
-   "id": "indian-polity-00003",
+   "id": "indian-polity-00023",
    "q": "Number of Schedules in the Constitution?",
    "o": [
     "Canada",
@@ -60,7 +360,7 @@
    "e": "Number of Schedules in the Constitution — 12."
   },
   {
-   "id": "indian-polity-00004",
+   "id": "indian-polity-00024",
    "q": "Telecom Regulatory Authority of India is best described as which of the following?",
    "o": [
     "Aids and advises the President",
@@ -75,7 +375,7 @@
    "e": "Telecom Regulatory Authority of India — Regulator of telecommunications."
   },
   {
-   "id": "indian-polity-00005",
+   "id": "indian-polity-00025",
    "q": "Which part of the Constitution deals with: Election Commission of India?",
    "o": [
     "Part VI, Articles 152-237",
@@ -90,7 +390,7 @@
    "e": "Election Commission of India is covered under Article 324."
   },
   {
-   "id": "indian-polity-00006",
+   "id": "indian-polity-00026",
    "q": "The First Amendment of the Constitution is related to which subject?",
    "o": [
     "Provided reservation for economically weaker sections",
@@ -105,7 +405,7 @@
    "e": "The First Amendment (1951) — Added the Ninth Schedule and land reform laws."
   },
   {
-   "id": "indian-polity-00007",
+   "id": "indian-polity-00027",
    "q": "Minimum age to become a member of the Lok Sabha?",
    "o": [
     "25 years",
@@ -120,7 +420,7 @@
    "e": "Minimum age to become a member of the Lok Sabha — 25 years."
   },
   {
-   "id": "indian-polity-00008",
+   "id": "indian-polity-00028",
    "q": "Parliament of India is best described as which of the following?",
    "o": [
     "Head of the Indian judiciary",
@@ -135,7 +435,7 @@
    "e": "Parliament of India — Union legislature consisting of the President and two Houses."
   },
   {
-   "id": "indian-polity-00009",
+   "id": "indian-polity-00029",
    "q": "Which part of the Constitution deals with: Advocate General of a State?",
    "o": [
     "Article 352",
@@ -150,7 +450,7 @@
    "e": "Advocate General of a State is covered under Article 165."
   },
   {
-   "id": "indian-polity-00010",
+   "id": "indian-polity-00030",
    "q": "The 52nd Amendment of the Constitution is related to which subject?",
    "o": [
     "Called the Mini Constitution; added Fundamental Duties",
@@ -165,7 +465,7 @@
    "e": "The 52nd Amendment (1985) — Introduced the anti-defection law (Tenth Schedule)."
   },
   {
-   "id": "indian-polity-00011",
+   "id": "indian-polity-00031",
    "q": "Which writ questions the legality of a person's claim to an office?",
    "o": [
     "Quo Warranto",
@@ -180,7 +480,7 @@
    "e": "Which writ questions the legality of a person's claim to an office — Quo Warranto."
   },
   {
-   "id": "indian-polity-00012",
+   "id": "indian-polity-00032",
    "q": "Comptroller and Auditor General is best described as which of the following?",
    "o": [
     "Union legislature consisting of the President and two Houses",
@@ -195,7 +495,7 @@
    "e": "Comptroller and Auditor General — Audits government accounts."
   },
   {
-   "id": "indian-polity-00013",
+   "id": "indian-polity-00033",
    "q": "Which part of the Constitution deals with: Union Public Service Commission?",
    "o": [
     "Articles 25-28",
@@ -210,7 +510,7 @@
    "e": "Union Public Service Commission is covered under Article 315."
   },
   {
-   "id": "indian-polity-00014",
+   "id": "indian-polity-00034",
    "q": "The 44th Amendment of the Constitution is related to which subject?",
    "o": [
     "Removed the right to property from Fundamental Rights",
@@ -225,7 +525,7 @@
    "e": "The 44th Amendment (1978) — Removed the right to property from Fundamental Rights."
   },
   {
-   "id": "indian-polity-00015",
+   "id": "indian-polity-00035",
    "q": "Jammu and Kashmir was reorganised into Union Territories in?",
    "o": [
     "1951",
@@ -240,7 +540,7 @@
    "e": "Jammu and Kashmir was reorganised into Union Territories in — 2019."
   },
   {
-   "id": "indian-polity-00016",
+   "id": "indian-polity-00036",
    "q": "Chief Minister is best described as which of the following?",
    "o": [
     "Head of the State Government",
@@ -255,7 +555,7 @@
    "e": "Chief Minister — Head of the State Government."
   },
   {
-   "id": "indian-polity-00017",
+   "id": "indian-polity-00037",
    "q": "Which part of the Constitution deals with: Right to Freedom?",
    "o": [
     "Article 315",
@@ -270,7 +570,7 @@
    "e": "Right to Freedom is covered under Articles 19-22."
   },
   {
-   "id": "indian-polity-00018",
+   "id": "indian-polity-00038",
    "q": "The 74th Amendment of the Constitution is related to which subject?",
    "o": [
     "Gave constitutional status to Municipalities",
@@ -285,7 +585,7 @@
    "e": "The 74th Amendment (1992) — Gave constitutional status to Municipalities."
   },
   {
-   "id": "indian-polity-00019",
+   "id": "indian-polity-00039",
    "q": "Constituent Assembly was constituted under the?",
    "o": [
     "Election Commission of India",
@@ -300,7 +600,7 @@
    "e": "Constituent Assembly was constituted under the — Cabinet Mission Plan."
   },
   {
-   "id": "indian-polity-00020",
+   "id": "indian-polity-00040",
    "q": "Reserve Bank of India is best described as which of the following?",
    "o": [
     "Central bank and monetary authority",
@@ -315,7 +615,7 @@
    "e": "Reserve Bank of India — Central bank and monetary authority."
   },
   {
-   "id": "indian-polity-00021",
+   "id": "indian-polity-00041",
    "q": "Which part of the Constitution deals with: High Courts?",
    "o": [
     "Articles 19-22",
@@ -330,7 +630,7 @@
    "e": "High Courts is covered under Article 214."
   },
   {
-   "id": "indian-polity-00022",
+   "id": "indian-polity-00042",
    "q": "The 73rd Amendment of the Constitution is related to which subject?",
    "o": [
     "Called the Mini Constitution; added Fundamental Duties",
@@ -345,7 +645,7 @@
    "e": "The 73rd Amendment (1992) — Gave constitutional status to Panchayati Raj."
   },
   {
-   "id": "indian-polity-00023",
+   "id": "indian-polity-00043",
    "q": "Seventh Schedule deals with?",
    "o": [
     "The Chief Justice of India",
@@ -360,7 +660,7 @@
    "e": "Seventh Schedule deals with — Union, State and Concurrent Lists."
   },
   {
-   "id": "indian-polity-00024",
+   "id": "indian-polity-00044",
    "q": "Supreme Court of India is best described as which of the following?",
    "o": [
     "Law-making body of a State",
@@ -375,7 +675,7 @@
    "e": "Supreme Court of India — Apex judicial body of India."
   },
   {
-   "id": "indian-polity-00025",
+   "id": "indian-polity-00045",
    "q": "Which part of the Constitution deals with: Panchayats?",
    "o": [
     "Part IX, Articles 243-243O",
@@ -390,7 +690,7 @@
    "e": "Panchayats is covered under Part IX, Articles 243-243O."
   },
   {
-   "id": "indian-polity-00026",
+   "id": "indian-polity-00046",
    "q": "The 86th Amendment of the Constitution is related to which subject?",
    "o": [
     "Removed the right to property from Fundamental Rights",
@@ -405,7 +705,7 @@
    "e": "The 86th Amendment (2002) — Made elementary education a Fundamental Right."
   },
   {
-   "id": "indian-polity-00027",
+   "id": "indian-polity-00047",
    "q": "Who is the constitutional head of a State?",
    "o": [
     "Impeachment",
@@ -420,7 +720,7 @@
    "e": "Who is the constitutional head of a State — The Governor."
   },
   {
-   "id": "indian-polity-00028",
+   "id": "indian-polity-00048",
    "q": "Vice President of India is best described as which of the following?",
    "o": [
     "Head of the Indian judiciary",
@@ -435,7 +735,7 @@
    "e": "Vice President of India — Ex-officio Chairman of the Rajya Sabha."
   },
   {
-   "id": "indian-polity-00029",
+   "id": "indian-polity-00049",
    "q": "Which part of the Constitution deals with: Composition of the Lok Sabha?",
    "o": [
     "Part IXA, Articles 243P-243ZG",
@@ -450,7 +750,7 @@
    "e": "Composition of the Lok Sabha is covered under Article 81."
   },
   {
-   "id": "indian-polity-00030",
+   "id": "indian-polity-00050",
    "q": "The 91st Amendment of the Constitution is related to which subject?",
    "o": [
     "Limited the size of the Council of Ministers",
@@ -465,7 +765,7 @@
    "e": "The 91st Amendment (2003) — Limited the size of the Council of Ministers."
   },
   {
-   "id": "indian-polity-00031",
+   "id": "indian-polity-00051",
    "q": "Who administers the oath of office to the President?",
    "o": [
     "Dr. Rajendra Prasad",
@@ -480,7 +780,7 @@
    "e": "Who administers the oath of office to the President — The Chief Justice of India."
   },
   {
-   "id": "indian-polity-00032",
+   "id": "indian-polity-00052",
    "q": "Union Territories is best described as which of the following?",
    "o": [
     "Supervises elections to Parliament and State legislatures",
@@ -495,7 +795,7 @@
    "e": "Union Territories — Administered by the President through administrators."
   },
   {
-   "id": "indian-polity-00033",
+   "id": "indian-polity-00053",
    "q": "Which part of the Constitution deals with: Abolition of titles?",
    "o": [
     "Article 214",
@@ -510,7 +810,7 @@
    "e": "Abolition of titles is covered under Article 18."
   },
   {
-   "id": "indian-polity-00034",
+   "id": "indian-polity-00054",
    "q": "The 42nd Amendment of the Constitution is related to which subject?",
    "o": [
     "Called the Mini Constitution; added Fundamental Duties",
@@ -525,7 +825,7 @@
    "e": "The 42nd Amendment (1976) — Called the Mini Constitution; added Fundamental Duties."
   },
   {
-   "id": "indian-polity-00035",
+   "id": "indian-polity-00055",
    "q": "The Preamble declares India to be?",
    "o": [
     "The Prime Minister",
@@ -540,7 +840,7 @@
    "e": "The Preamble declares India to be — A Sovereign Socialist Secular Democratic Republic."
   },
   {
-   "id": "indian-polity-00036",
+   "id": "indian-polity-00056",
    "q": "Lok Sabha is best described as which of the following?",
    "o": [
     "Aids and advises the President",
@@ -555,7 +855,7 @@
    "e": "Lok Sabha — House of the People."
   },
   {
-   "id": "indian-polity-00037",
+   "id": "indian-polity-00057",
    "q": "Which part of the Constitution deals with: Supreme Court of India?",
    "o": [
     "Article 74",
@@ -570,7 +870,7 @@
    "e": "Supreme Court of India is covered under Article 124."
   },
   {
-   "id": "indian-polity-00038",
+   "id": "indian-polity-00058",
    "q": "The Seventh Amendment of the Constitution is related to which subject?",
    "o": [
     "Made elementary education a Fundamental Right",
@@ -585,7 +885,7 @@
    "e": "The Seventh Amendment (1956) — Reorganised states on linguistic lines."
   },
   {
-   "id": "indian-polity-00039",
+   "id": "indian-polity-00059",
    "q": "The maximum gap between two sessions of Parliament is?",
    "o": [
     "United Kingdom",
@@ -600,7 +900,7 @@
    "e": "The maximum gap between two sessions of Parliament is — 6 months."
   },
   {
-   "id": "indian-polity-00040",
+   "id": "indian-polity-00060",
    "q": "National Human Rights Commission is best described as which of the following?",
    "o": [
     "Protects human rights in India",
@@ -615,7 +915,7 @@
    "e": "National Human Rights Commission — Protects human rights in India."
   },
   {
-   "id": "indian-polity-00041",
+   "id": "indian-polity-00061",
    "q": "Which part of the Constitution deals with: Right to Freedom of Religion?",
    "o": [
     "Part V, Articles 52-151",
@@ -630,7 +930,7 @@
    "e": "Right to Freedom of Religion is covered under Articles 25-28."
   },
   {
-   "id": "indian-polity-00042",
+   "id": "indian-polity-00062",
    "q": "The 106th Amendment of the Constitution is related to which subject?",
    "o": [
     "Added the Ninth Schedule and land reform laws",
@@ -645,7 +945,7 @@
    "e": "The 106th Amendment (2023) — Reserved one-third of seats for women in legislatures."
   },
   {
-   "id": "indian-polity-00043",
+   "id": "indian-polity-00063",
    "q": "Tenth Schedule deals with?",
    "o": [
     "Land reform laws protected from judicial review",
@@ -660,7 +960,7 @@
    "e": "Tenth Schedule deals with — Anti-defection provisions."
   },
   {
-   "id": "indian-polity-00044",
+   "id": "indian-polity-00064",
    "q": "SEBI is best described as which of the following?",
    "o": [
     "Administered by the President through administrators",
@@ -675,7 +975,7 @@
    "e": "SEBI — Regulator of the securities market."
   },
   {
-   "id": "indian-polity-00045",
+   "id": "indian-polity-00065",
    "q": "Which part of the Constitution deals with: Protection of life and personal liberty?",
    "o": [
     "Article 21",
@@ -690,7 +990,7 @@
    "e": "Protection of life and personal liberty is covered under Article 21."
   },
   {
-   "id": "indian-polity-00046",
+   "id": "indian-polity-00066",
    "q": "The 104th Amendment of the Constitution is related to which subject?",
    "o": [
     "Gave constitutional status to Municipalities",
@@ -705,7 +1005,7 @@
    "e": "The 104th Amendment (2019) — Extended reservation of seats for SCs and STs."
   },
   {
-   "id": "indian-polity-00047",
+   "id": "indian-polity-00067",
    "q": "Source of amendment procedure?",
    "o": [
     "22",
@@ -720,7 +1020,7 @@
    "e": "Source of amendment procedure — South Africa."
   },
   {
-   "id": "indian-polity-00048",
+   "id": "indian-polity-00068",
    "q": "Council of Ministers is best described as which of the following?",
    "o": [
     "Aids and advises the President",
@@ -735,7 +1035,7 @@
    "e": "Council of Ministers — Aids and advises the President."
   },
   {
-   "id": "indian-polity-00049",
+   "id": "indian-polity-00069",
    "q": "Which part of the Constitution deals with: Abolition of untouchability?",
    "o": [
     "Part IXA, Articles 243P-243ZG",
@@ -750,7 +1050,7 @@
    "e": "Abolition of untouchability is covered under Article 17."
   },
   {
-   "id": "indian-polity-00050",
+   "id": "indian-polity-00070",
    "q": "The 101st Amendment of the Constitution is related to which subject?",
    "o": [
     "Limited the size of the Council of Ministers",
@@ -765,7 +1065,7 @@
    "e": "The 101st Amendment (2016) — Introduced the Goods and Services Tax."
   },
   {
-   "id": "indian-polity-00051",
+   "id": "indian-polity-00071",
    "q": "The contingency fund of India is maintained by?",
    "o": [
     "25 years",
@@ -780,7 +1080,7 @@
    "e": "The contingency fund of India is maintained by — The President of India."
   },
   {
-   "id": "indian-polity-00052",
+   "id": "indian-polity-00072",
    "q": "Attorney General of India is best described as which of the following?",
    "o": [
     "Regulator of the insurance sector",
@@ -795,7 +1095,7 @@
    "e": "Attorney General of India — Chief legal adviser to the Government of India."
   },
   {
-   "id": "indian-polity-00053",
+   "id": "indian-polity-00073",
    "q": "Which part of the Constitution deals with: President's rule in states?",
    "o": [
     "Part XVII, Articles 343-351",
@@ -810,7 +1110,7 @@
    "e": "President's rule in states is covered under Article 356."
   },
   {
-   "id": "indian-polity-00054",
+   "id": "indian-polity-00074",
    "q": "The 103rd Amendment of the Constitution is related to which subject?",
    "o": [
     "Extended reservation of seats for SCs and STs",
@@ -825,7 +1125,7 @@
    "e": "The 103rd Amendment (2019) — Provided reservation for economically weaker sections."
   },
   {
-   "id": "indian-polity-00055",
+   "id": "indian-polity-00075",
    "q": "The head of the Indian Republic is?",
    "o": [
     "The President of India",
@@ -840,7 +1140,7 @@
    "e": "The head of the Indian Republic is — The President of India."
   },
   {
-   "id": "indian-polity-00056",
+   "id": "indian-polity-00076",
    "q": "Prime Minister of India is best described as which of the following?",
    "o": [
     "Local self-government at the village level",
@@ -855,7 +1155,7 @@
    "e": "Prime Minister of India — Head of the Union Government."
   },
   {
-   "id": "indian-polity-00057",
+   "id": "indian-polity-00077",
    "q": "Which part of the Constitution deals with: Comptroller and Auditor General of India?",
    "o": [
     "Articles 19-22",
@@ -870,7 +1170,7 @@
    "e": "Comptroller and Auditor General of India is covered under Article 148."
   },
   {
-   "id": "indian-polity-00058",
+   "id": "indian-polity-00078",
    "q": "Which amendment is described as: Gave constitutional status to Panchayati Raj?",
    "o": [
     "73rd Amendment",
@@ -885,7 +1185,7 @@
    "e": "73rd Amendment — Gave constitutional status to Panchayati Raj."
   },
   {
-   "id": "indian-polity-00059",
+   "id": "indian-polity-00079",
    "q": "The Preamble was amended in?",
    "o": [
     "Article 112 (Annual Financial Statement)",
@@ -900,7 +1200,7 @@
    "e": "The Preamble was amended in — 1976."
   },
   {
-   "id": "indian-polity-00060",
+   "id": "indian-polity-00080",
    "q": "Chief Justice of India is best described as which of the following?",
    "o": [
     "Head of the State Government",
@@ -915,7 +1215,7 @@
    "e": "Chief Justice of India — Head of the Indian judiciary."
   },
   {
-   "id": "indian-polity-00061",
+   "id": "indian-polity-00081",
    "q": "Which part of the Constitution deals with: Cultural and Educational Rights?",
    "o": [
     "Part XV, Articles 324-329",
@@ -930,7 +1230,7 @@
    "e": "Cultural and Educational Rights is covered under Articles 29-30."
   },
   {
-   "id": "indian-polity-00062",
+   "id": "indian-polity-00082",
    "q": "Which amendment is described as: Reorganised states on linguistic lines?",
    "o": [
     "61st Amendment",
@@ -945,7 +1245,7 @@
    "e": "Seventh Amendment — Reorganised states on linguistic lines."
   },
   {
-   "id": "indian-polity-00063",
+   "id": "indian-polity-00083",
    "q": "The Public Accounts Committee is a body of?",
    "o": [
     "Union, State and Concurrent Lists",
@@ -960,7 +1260,7 @@
    "e": "The Public Accounts Committee is a body of — Parliament."
   },
   {
-   "id": "indian-polity-00064",
+   "id": "indian-polity-00084",
    "q": "NITI Aayog Vice Chairman is best described as which of the following?",
    "o": [
     "Regulator of telecommunications",
@@ -975,7 +1275,7 @@
    "e": "NITI Aayog Vice Chairman — Deputy to the Prime Minister in the policy think tank."
   },
   {
-   "id": "indian-polity-00065",
+   "id": "indian-polity-00085",
    "q": "Which part of the Constitution deals with: Prohibition of child labour in factories?",
    "o": [
     "Article 24",
@@ -990,7 +1290,7 @@
    "e": "Prohibition of child labour in factories is covered under Article 24."
   },
   {
-   "id": "indian-polity-00066",
+   "id": "indian-polity-00086",
    "q": "Which amendment is described as: Extended reservation of seats for SCs and STs?",
    "o": [
     "44th Amendment",
@@ -1005,7 +1305,7 @@
    "e": "104th Amendment — Extended reservation of seats for SCs and STs."
   },
   {
-   "id": "indian-polity-00067",
+   "id": "indian-polity-00087",
    "q": "Who conducts elections in India?",
    "o": [
     "United States of America",
@@ -1020,7 +1320,7 @@
    "e": "Who conducts elections in India — Election Commission of India."
   },
   {
-   "id": "indian-polity-00068",
+   "id": "indian-polity-00088",
    "q": "Central Vigilance Commission is best described as which of the following?",
    "o": [
     "Deputy to the Prime Minister in the policy think tank",
@@ -1035,7 +1335,7 @@
    "e": "Central Vigilance Commission — Watches over vigilance in government."
   },
   {
-   "id": "indian-polity-00069",
+   "id": "indian-polity-00089",
    "q": "Which part of the Constitution deals with: Municipalities?",
    "o": [
     "Part XIV, Articles 308-323",
@@ -1050,7 +1350,7 @@
    "e": "Municipalities is covered under Part IXA, Articles 243P-243ZG."
   },
   {
-   "id": "indian-polity-00070",
+   "id": "indian-polity-00090",
    "q": "Which amendment is described as: Introduced the Goods and Services Tax?",
    "o": [
     "104th Amendment",
@@ -1065,7 +1365,7 @@
    "e": "101st Amendment — Introduced the Goods and Services Tax."
   },
   {
-   "id": "indian-polity-00071",
+   "id": "indian-polity-00091",
    "q": "Chairman of the Drafting Committee?",
    "o": [
     "Dr. B. R. Ambedkar",
@@ -1080,7 +1380,7 @@
    "e": "Chairman of the Drafting Committee — Dr. B. R. Ambedkar."
   },
   {
-   "id": "indian-polity-00072",
+   "id": "indian-polity-00092",
    "q": "Municipality is best described as which of the following?",
    "o": [
     "Local body at the district level",
@@ -1095,7 +1395,7 @@
    "e": "Municipality — Local self-government in urban areas."
   },
   {
-   "id": "indian-polity-00073",
+   "id": "indian-polity-00093",
    "q": "Which part of the Constitution deals with: Appointment of the Prime Minister and Council of Ministers?",
    "o": [
     "Article 75",
@@ -1110,7 +1410,7 @@
    "e": "Appointment of the Prime Minister and Council of Ministers is covered under Article 75."
   },
   {
-   "id": "indian-polity-00074",
+   "id": "indian-polity-00094",
    "q": "Which amendment is described as: Added the Ninth Schedule and land reform laws?",
    "o": [
     "Seventh Amendment",
@@ -1125,7 +1425,7 @@
    "e": "First Amendment — Added the Ninth Schedule and land reform laws."
   },
   {
-   "id": "indian-polity-00075",
+   "id": "indian-polity-00095",
    "q": "Which writ is issued to compel performance of a public duty?",
    "o": [
     "Mandamus",
@@ -1140,7 +1440,7 @@
    "e": "Which writ is issued to compel performance of a public duty — Mandamus."
   },
   {
-   "id": "indian-polity-00076",
+   "id": "indian-polity-00096",
    "q": "IRDAI is best described as which of the following?",
    "o": [
     "Local self-government in urban areas",
@@ -1155,7 +1455,7 @@
    "e": "IRDAI — Regulator of the insurance sector."
   },
   {
-   "id": "indian-polity-00077",
+   "id": "indian-polity-00097",
    "q": "Which part of the Constitution deals with: Financial emergency?",
    "o": [
     "Article 352",
@@ -1170,7 +1470,7 @@
    "e": "Financial emergency is covered under Article 360."
   },
   {
-   "id": "indian-polity-00078",
+   "id": "indian-polity-00098",
    "q": "Which amendment is described as: Reserved one-third of seats for women in legislatures?",
    "o": [
     "First Amendment",
@@ -1185,7 +1485,7 @@
    "e": "106th Amendment — Reserved one-third of seats for women in legislatures."
   },
   {
-   "id": "indian-polity-00079",
+   "id": "indian-polity-00099",
    "q": "Article 370 was abrogated in?",
    "o": [
     "Canada",
@@ -1200,7 +1500,7 @@
    "e": "Article 370 was abrogated in — 2019."
   },
   {
-   "id": "indian-polity-00080",
+   "id": "indian-polity-00100",
    "q": "Union Public Service Commission is best described as which of the following?",
    "o": [
     "Deputy to the Prime Minister in the policy think tank",
@@ -1215,7 +1515,7 @@
    "e": "Union Public Service Commission — Recruits civil servants for the Union."
   },
   {
-   "id": "indian-polity-00081",
+   "id": "indian-polity-00101",
    "q": "Which part of the Constitution deals with: Right against Exploitation?",
    "o": [
     "Part II, Articles 5-11",
@@ -1230,7 +1530,7 @@
    "e": "Right against Exploitation is covered under Articles 23-24."
   },
   {
-   "id": "indian-polity-00082",
+   "id": "indian-polity-00102",
    "q": "Which amendment is described as: Reduced the voting age from 21 to 18 years?",
    "o": [
     "73rd Amendment",
@@ -1245,7 +1545,7 @@
    "e": "61st Amendment — Reduced the voting age from 21 to 18 years."
   },
   {
-   "id": "indian-polity-00083",
+   "id": "indian-polity-00103",
    "q": "Source of the Concurrent List?",
    "o": [
     "35 years",
@@ -1260,7 +1560,7 @@
    "e": "Source of the Concurrent List — Australia."
   },
   {
-   "id": "indian-polity-00084",
+   "id": "indian-polity-00104",
    "q": "Governor is best described as which of the following?",
    "o": [
     "Local body at the district level",
@@ -1275,7 +1575,7 @@
    "e": "Governor — Constitutional head of a State."
   },
   {
-   "id": "indian-polity-00085",
+   "id": "indian-polity-00105",
    "q": "Which part of the Constitution deals with: Appointment of the Chief Justice of India?",
    "o": [
     "Article 17",
@@ -1290,7 +1590,7 @@
    "e": "Appointment of the Chief Justice of India is covered under Article 124."
   },
   {
-   "id": "indian-polity-00086",
+   "id": "indian-polity-00106",
    "q": "Which amendment is described as: Called the Mini Constitution; added Fundamental Duties?",
    "o": [
     "104th Amendment",
@@ -1305,7 +1605,7 @@
    "e": "42nd Amendment — Called the Mini Constitution; added Fundamental Duties."
   },
   {
-   "id": "indian-polity-00087",
+   "id": "indian-polity-00107",
    "q": "Term of the President of India?",
    "o": [
     "Quo Warranto",
@@ -1320,7 +1620,7 @@
    "e": "Term of the President of India — 5 years."
   },
   {
-   "id": "indian-polity-00088",
+   "id": "indian-polity-00108",
    "q": "Rajya Sabha is best described as which of the following?",
    "o": [
     "Aids and advises the President",
@@ -1335,7 +1635,7 @@
    "e": "Rajya Sabha — Council of States, permanent house."
   },
   {
-   "id": "indian-polity-00089",
+   "id": "indian-polity-00109",
    "q": "Which part of the Constitution deals with: Right to Constitutional Remedies?",
    "o": [
     "Articles 19-22",
@@ -1350,7 +1650,7 @@
    "e": "Right to Constitutional Remedies is covered under Article 32."
   },
   {
-   "id": "indian-polity-00090",
+   "id": "indian-polity-00110",
    "q": "Which amendment is described as: Gave constitutional status to Municipalities?",
    "o": [
     "74th Amendment",
@@ -1365,7 +1665,7 @@
    "e": "74th Amendment — Gave constitutional status to Municipalities."
   },
   {
-   "id": "indian-polity-00091",
+   "id": "indian-polity-00111",
    "q": "Term of a member of the Rajya Sabha?",
    "o": [
     "2019",
@@ -1380,7 +1680,7 @@
    "e": "Term of a member of the Rajya Sabha — 6 years."
   },
   {
-   "id": "indian-polity-00092",
+   "id": "indian-polity-00112",
    "q": "Finance Commission is best described as which of the following?",
    "o": [
     "Local self-government at the village level",
@@ -1395,7 +1695,7 @@
    "e": "Finance Commission — Recommends distribution of taxes between the Centre and States."
   },
   {
-   "id": "indian-polity-00093",
+   "id": "indian-polity-00113",
    "q": "Which part of the Constitution deals with: Election of the President?",
    "o": [
     "Part IVA, Article 51A",
@@ -1410,7 +1710,7 @@
    "e": "Election of the President is covered under Article 54."
   },
   {
-   "id": "indian-polity-00094",
+   "id": "indian-polity-00114",
    "q": "Which amendment is described as: Made elementary education a Fundamental Right?",
    "o": [
     "42nd Amendment",
@@ -1425,7 +1725,7 @@
    "e": "86th Amendment — Made elementary education a Fundamental Right."
   },
   {
-   "id": "indian-polity-00095",
+   "id": "indian-polity-00115",
    "q": "Twelfth Schedule deals with?",
    "o": [
     "Cabinet Mission Plan",
@@ -1440,7 +1740,7 @@
    "e": "Twelfth Schedule deals with — Powers of Municipalities."
   },
   {
-   "id": "indian-polity-00096",
+   "id": "indian-polity-00116",
    "q": "Panchayat is best described as which of the following?",
    "o": [
     "Head of the State Government",
@@ -1455,7 +1755,7 @@
    "e": "Panchayat — Local self-government at the village level."
   },
   {
-   "id": "indian-polity-00097",
+   "id": "indian-polity-00117",
    "q": "Which part of the Constitution deals with: Union of India consisting of States and Union Territories?",
    "o": [
     "Article 1",
@@ -1470,7 +1770,7 @@
    "e": "Union of India consisting of States and Union Territories is covered under Article 1."
   },
   {
-   "id": "indian-polity-00098",
+   "id": "indian-polity-00118",
    "q": "Which amendment is described as: Removed the right to property from Fundamental Rights?",
    "o": [
     "74th Amendment",
@@ -1485,7 +1785,7 @@
    "e": "44th Amendment — Removed the right to property from Fundamental Rights."
   },
   {
-   "id": "indian-polity-00099",
+   "id": "indian-polity-00119",
    "q": "Source of the emergency provisions?",
    "o": [
     "26 January 1950",
@@ -1500,7 +1800,7 @@
    "e": "Source of the emergency provisions — Germany."
   },
   {
-   "id": "indian-polity-00100",
+   "id": "indian-polity-00120",
    "q": "Zilla Parishad is best described as which of the following?",
    "o": [
     "Council of States, permanent house",
@@ -1515,7 +1815,7 @@
    "e": "Zilla Parishad — Local body at the district level."
   },
   {
-   "id": "indian-polity-00101",
+   "id": "indian-polity-00121",
    "q": "Which part of the Constitution deals with: Right to Equality?",
    "o": [
     "Article 17",
@@ -1530,7 +1830,7 @@
    "e": "Right to Equality is covered under Articles 14-18."
   },
   {
-   "id": "indian-polity-00102",
+   "id": "indian-polity-00122",
    "q": "Which amendment is described as: Introduced the anti-defection law (Tenth Schedule)?",
    "o": [
     "73rd Amendment",
@@ -1545,7 +1845,7 @@
    "e": "52nd Amendment — Introduced the anti-defection law (Tenth Schedule)."
   },
   {
-   "id": "indian-polity-00103",
+   "id": "indian-polity-00123",
    "q": "Number of languages in the Eighth Schedule?",
    "o": [
     "United Kingdom",
@@ -1560,7 +1860,7 @@
    "e": "Number of languages in the Eighth Schedule — 22."
   },
   {
-   "id": "indian-polity-00104",
+   "id": "indian-polity-00124",
    "q": "State Legislature is best described as which of the following?",
    "o": [
     "Central bank and monetary authority",
@@ -1575,7 +1875,7 @@
    "e": "State Legislature — Law-making body of a State."
   },
   {
-   "id": "indian-polity-00105",
+   "id": "indian-polity-00125",
    "q": "Which part of the Constitution deals with: Directive Principles of State Policy?",
    "o": [
     "Article 148",
@@ -1590,7 +1890,7 @@
    "e": "Directive Principles of State Policy is covered under Part IV, Articles 36-51."
   },
   {
-   "id": "indian-polity-00106",
+   "id": "indian-polity-00126",
    "q": "Which amendment is described as: Provided reservation for economically weaker sections?",
    "o": [
     "52nd Amendment",
@@ -1605,7 +1905,7 @@
    "e": "103rd Amendment — Provided reservation for economically weaker sections."
   },
   {
-   "id": "indian-polity-00107",
+   "id": "indian-polity-00127",
    "q": "Which writ is issued to restrain an authority from acting beyond its power?",
    "o": [
     "Prohibition",
@@ -1620,7 +1920,7 @@
    "e": "Which writ is issued to restrain an authority from acting beyond its power — Prohibition."
   },
   {
-   "id": "indian-polity-00108",
+   "id": "indian-polity-00128",
    "q": "Solicitor General of India is best described as which of the following?",
    "o": [
     "Supervises elections to Parliament and State legislatures",
@@ -1635,7 +1935,7 @@
    "e": "Solicitor General of India — Second highest law officer of the Union."
   },
   {
-   "id": "indian-polity-00109",
+   "id": "indian-polity-00129",
    "q": "Which part of the Constitution deals with: Attorney General of India?",
    "o": [
     "Article 18",
@@ -1650,7 +1950,7 @@
    "e": "Attorney General of India is covered under Article 76."
   },
   {
-   "id": "indian-polity-00110",
+   "id": "indian-polity-00130",
    "q": "Which amendment is described as: Limited the size of the Council of Ministers?",
    "o": [
     "First Amendment",
@@ -1665,7 +1965,7 @@
    "e": "91st Amendment — Limited the size of the Council of Ministers."
   },
   {
-   "id": "indian-polity-00111",
+   "id": "indian-polity-00131",
    "q": "Which writ is issued to release a detained person?",
    "o": [
     "Habeas Corpus",
@@ -1680,7 +1980,7 @@
    "e": "Which writ is issued to release a detained person — Habeas Corpus."
   },
   {
-   "id": "indian-polity-00112",
+   "id": "indian-polity-00132",
    "q": "President of India is best described as which of the following?",
    "o": [
     "Head of the Union Government",
@@ -1695,7 +1995,7 @@
    "e": "President of India — Constitutional head of the Republic."
   },
   {
-   "id": "indian-polity-00113",
+   "id": "indian-polity-00133",
    "q": "Which part of the Constitution deals with: Services under the Union and States?",
    "o": [
     "Article 32",
@@ -1710,7 +2010,7 @@
    "e": "Services under the Union and States is covered under Part XIV, Articles 308-323."
   },
   {
-   "id": "indian-polity-00114",
+   "id": "indian-polity-00134",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "103rd Amendment - 2002",
@@ -1725,7 +2025,7 @@
    "e": "Only 103rd Amendment - 2019 is correctly matched."
   },
   {
-   "id": "indian-polity-00115",
+   "id": "indian-polity-00135",
    "q": "The budget is laid before Parliament under?",
    "o": [
     "Comptroller and Auditor General",
@@ -1740,7 +2040,7 @@
    "e": "The budget is laid before Parliament under — Article 112 (Annual Financial Statement)."
   },
   {
-   "id": "indian-polity-00116",
+   "id": "indian-polity-00136",
    "q": "NITI Aayog is best described as which of the following?",
    "o": [
     "Policy think tank of the Government of India",
@@ -1755,7 +2055,7 @@
    "e": "NITI Aayog — Policy think tank of the Government of India."
   },
   {
-   "id": "indian-polity-00117",
+   "id": "indian-polity-00137",
    "q": "Which part of the Constitution deals with: Official language?",
    "o": [
     "Article 124",
@@ -1770,7 +2070,7 @@
    "e": "Official language is covered under Part XVII, Articles 343-351."
   },
   {
-   "id": "indian-polity-00118",
+   "id": "indian-polity-00138",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "103rd Amendment - 1989",
@@ -1785,7 +2085,7 @@
    "e": "Only 103rd Amendment - 2019 is correctly matched."
   },
   {
-   "id": "indian-polity-00119",
+   "id": "indian-polity-00139",
    "q": "Number of Parts in the Constitution (as amended)?",
    "o": [
     "Canada",
@@ -1800,7 +2100,7 @@
    "e": "Number of Parts in the Constitution (as amended) — 25."
   },
   {
-   "id": "indian-polity-00120",
+   "id": "indian-polity-00140",
    "q": "Election Commission of India is best described as which of the following?",
    "o": [
     "Head of the Indian judiciary",
@@ -1815,7 +2115,7 @@
    "e": "Election Commission of India — Supervises elections to Parliament and State legislatures."
   },
   {
-   "id": "indian-polity-00121",
+   "id": "indian-polity-00141",
    "q": "Which part of the Constitution deals with: Fundamental Duties?",
    "o": [
     "Article 1",
@@ -1830,7 +2130,7 @@
    "e": "Fundamental Duties is covered under Part IVA, Article 51A."
   },
   {
-   "id": "indian-polity-00122",
+   "id": "indian-polity-00142",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "106th Amendment - 2016",
@@ -1845,7 +2145,7 @@
    "e": "Only 106th Amendment - 2023 is correctly matched."
   },
   {
-   "id": "indian-polity-00123",
+   "id": "indian-polity-00143",
    "q": "Who is the head of the Union Council of Ministers?",
    "o": [
     "11",
@@ -1860,7 +2160,7 @@
    "e": "Who is the head of the Union Council of Ministers — The Prime Minister."
   },
   {
-   "id": "indian-polity-00124",
+   "id": "indian-polity-00144",
    "q": "Which institution is described as: Ex-officio Chairman of the Rajya Sabha?",
    "o": [
     "NITI Aayog Vice Chairman",
@@ -1875,7 +2175,7 @@
    "e": "Ex-officio Chairman of the Rajya Sabha describes Vice President of India."
   },
   {
-   "id": "indian-polity-00125",
+   "id": "indian-polity-00145",
    "q": "Which part of the Constitution deals with: The Union and its territory?",
    "o": [
     "Part I, Articles 1-4",
@@ -1890,7 +2190,7 @@
    "e": "The Union and its territory is covered under Part I, Articles 1-4."
   },
   {
-   "id": "indian-polity-00126",
+   "id": "indian-polity-00146",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "106th Amendment - 2023",
@@ -1905,7 +2205,7 @@
    "e": "Only 106th Amendment - 2023 is correctly matched."
   },
   {
-   "id": "indian-polity-00127",
+   "id": "indian-polity-00147",
    "q": "Source of the federal structure with a strong Centre?",
    "o": [
     "Certiorari",
@@ -1920,7 +2220,7 @@
    "e": "Source of the federal structure with a strong Centre — Canada."
   },
   {
-   "id": "indian-polity-00128",
+   "id": "indian-polity-00148",
    "q": "Which institution is described as: Local body at the district level?",
    "o": [
     "Vice President of India",
@@ -1935,7 +2235,7 @@
    "e": "Local body at the district level describes Zilla Parishad."
   },
   {
-   "id": "indian-polity-00129",
+   "id": "indian-polity-00149",
    "q": "Which part of the Constitution deals with: Composition of the Rajya Sabha?",
    "o": [
     "Article 124",
@@ -1950,7 +2250,7 @@
    "e": "Composition of the Rajya Sabha is covered under Article 80."
   },
   {
-   "id": "indian-polity-00130",
+   "id": "indian-polity-00150",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "73rd Amendment - 2023",
@@ -1965,7 +2265,7 @@
    "e": "Only 73rd Amendment - 1992 is correctly matched."
   },
   {
-   "id": "indian-polity-00131",
+   "id": "indian-polity-00151",
    "q": "Minimum age to become a member of the Rajya Sabha?",
    "o": [
     "The Supreme Court collegium",
@@ -1980,7 +2280,7 @@
    "e": "Minimum age to become a member of the Rajya Sabha — 30 years."
   },
   {
-   "id": "indian-polity-00132",
+   "id": "indian-polity-00152",
    "q": "Which institution is described as: Protects human rights in India?",
    "o": [
     "Governor",
@@ -1995,7 +2295,7 @@
    "e": "Protects human rights in India describes National Human Rights Commission."
   },
   {
-   "id": "indian-polity-00133",
+   "id": "indian-polity-00153",
    "q": "Which part of the Constitution deals with: Speaker and Deputy Speaker of the Lok Sabha?",
    "o": [
     "Article 165",
@@ -2010,7 +2310,7 @@
    "e": "Speaker and Deputy Speaker of the Lok Sabha is covered under Article 93."
   },
   {
-   "id": "indian-polity-00134",
+   "id": "indian-polity-00154",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "73rd Amendment - 2019",
@@ -2025,7 +2325,7 @@
    "e": "Only 73rd Amendment - 1992 is correctly matched."
   },
   {
-   "id": "indian-polity-00135",
+   "id": "indian-polity-00155",
    "q": "Removal of the President is called?",
    "o": [
     "Impeachment",
@@ -2040,7 +2340,7 @@
    "e": "Removal of the President is called — Impeachment."
   },
   {
-   "id": "indian-polity-00136",
+   "id": "indian-polity-00156",
    "q": "Which institution is described as: Local self-government in urban areas?",
    "o": [
     "Supreme Court of India",
@@ -2055,7 +2355,7 @@
    "e": "Local self-government in urban areas describes Municipality."
   },
   {
-   "id": "indian-polity-00137",
+   "id": "indian-polity-00157",
    "q": "Which part of the Constitution deals with: The State Government?",
    "o": [
     "Article 24",
@@ -2070,7 +2370,7 @@
    "e": "The State Government is covered under Part VI, Articles 152-237."
   },
   {
-   "id": "indian-polity-00138",
+   "id": "indian-polity-00158",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "First Amendment - 1951",
@@ -2085,7 +2385,7 @@
    "e": "Only First Amendment - 1951 is correctly matched."
   },
   {
-   "id": "indian-polity-00139",
+   "id": "indian-polity-00159",
    "q": "The word 'socialist' was added by?",
    "o": [
     "Union, State and Concurrent Lists",
@@ -2100,7 +2400,7 @@
    "e": "The word 'socialist' was added by — 42nd Amendment."
   },
   {
-   "id": "indian-polity-00140",
+   "id": "indian-polity-00160",
    "q": "Which institution is described as: Recruits civil servants for the Union?",
    "o": [
     "Prime Minister of India",
@@ -2115,7 +2415,7 @@
    "e": "Recruits civil servants for the Union describes Union Public Service Commission."
   },
   {
-   "id": "indian-polity-00141",
+   "id": "indian-polity-00161",
    "q": "Which part of the Constitution deals with: Elections?",
    "o": [
     "Articles 29-30",
@@ -2130,7 +2430,7 @@
    "e": "Elections is covered under Part XV, Articles 324-329."
   },
   {
-   "id": "indian-polity-00142",
+   "id": "indian-polity-00162",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "First Amendment - 1951",
@@ -2145,7 +2445,7 @@
    "e": "Only First Amendment - 1951 is correctly matched."
   },
   {
-   "id": "indian-polity-00143",
+   "id": "indian-polity-00163",
    "q": "Ninth Schedule deals with?",
    "o": [
     "6 months",
@@ -2160,7 +2460,7 @@
    "e": "Ninth Schedule deals with — Land reform laws protected from judicial review."
   },
   {
-   "id": "indian-polity-00144",
+   "id": "indian-polity-00164",
    "q": "Which institution is described as: Head of the Union Government?",
    "o": [
     "Prime Minister of India",
@@ -2175,7 +2475,7 @@
    "e": "Head of the Union Government describes Prime Minister of India."
   },
   {
-   "id": "indian-polity-00145",
+   "id": "indian-polity-00165",
    "q": "Which part of the Constitution deals with: Finance Commission?",
    "o": [
     "Article 23",
@@ -2190,7 +2490,7 @@
    "e": "Finance Commission is covered under Article 280."
   },
   {
-   "id": "indian-polity-00146",
+   "id": "indian-polity-00166",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "74th Amendment - 1992",
@@ -2205,7 +2505,7 @@
    "e": "Only 74th Amendment - 1992 is correctly matched."
   },
   {
-   "id": "indian-polity-00147",
+   "id": "indian-polity-00167",
    "q": "Number of Fundamental Rights?",
    "o": [
     "1951",
@@ -2220,7 +2520,7 @@
    "e": "Number of Fundamental Rights — 6."
   },
   {
-   "id": "indian-polity-00148",
+   "id": "indian-polity-00168",
    "q": "Which institution is described as: Central bank and monetary authority?",
    "o": [
     "Election Commission of India",
@@ -2235,7 +2535,7 @@
    "e": "Central bank and monetary authority describes Reserve Bank of India."
   },
   {
-   "id": "indian-polity-00149",
+   "id": "indian-polity-00169",
    "q": "Which part of the Constitution deals with: Right to Education?",
    "o": [
     "Part IV, Articles 36-51",
@@ -2250,7 +2550,7 @@
    "e": "Right to Education is covered under Article 21A."
   },
   {
-   "id": "indian-polity-00150",
+   "id": "indian-polity-00170",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "74th Amendment - 1992",
@@ -2265,7 +2565,7 @@
    "e": "Only 74th Amendment - 1992 is correctly matched."
   },
   {
-   "id": "indian-polity-00151",
+   "id": "indian-polity-00171",
    "q": "Who appoints the Governor of a State?",
    "o": [
     "12",
@@ -2280,7 +2580,7 @@
    "e": "Who appoints the Governor of a State — The President of India."
   },
   {
-   "id": "indian-polity-00152",
+   "id": "indian-polity-00172",
    "q": "Which institution is described as: House of the People?",
    "o": [
     "Lok Sabha",
@@ -2295,7 +2595,7 @@
    "e": "House of the People describes Lok Sabha."
   },
   {
-   "id": "indian-polity-00153",
+   "id": "indian-polity-00173",
    "q": "Which part of the Constitution deals with: Fundamental Rights?",
    "o": [
     "Article 17",
@@ -2310,7 +2610,7 @@
    "e": "Fundamental Rights is covered under Part III, Articles 12-35."
   },
   {
-   "id": "indian-polity-00154",
+   "id": "indian-polity-00174",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "104th Amendment - 2019",
@@ -2325,7 +2625,7 @@
    "e": "Only 104th Amendment - 2019 is correctly matched."
   },
   {
-   "id": "indian-polity-00155",
+   "id": "indian-polity-00175",
    "q": "Money Bill can be introduced only in?",
    "o": [
     "The Lok Sabha",
@@ -2340,7 +2640,7 @@
    "e": "Money Bill can be introduced only in — The Lok Sabha."
   },
   {
-   "id": "indian-polity-00156",
+   "id": "indian-polity-00176",
    "q": "Which institution is described as: Recommends distribution of taxes between the Centre and States?",
    "o": [
     "Parliament of India",
@@ -2355,7 +2655,7 @@
    "e": "Recommends distribution of taxes between the Centre and States describes Finance Commission."
   },
   {
-   "id": "indian-polity-00157",
+   "id": "indian-polity-00177",
    "q": "Which part of the Constitution deals with: Council of Ministers to aid and advise the President?",
    "o": [
     "Article 324",
@@ -2370,7 +2670,7 @@
    "e": "Council of Ministers to aid and advise the President is covered under Article 74."
   },
   {
-   "id": "indian-polity-00158",
+   "id": "indian-polity-00178",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "104th Amendment - 1956",
@@ -2385,7 +2685,7 @@
    "e": "Only 104th Amendment - 2019 is correctly matched."
   },
   {
-   "id": "indian-polity-00159",
+   "id": "indian-polity-00179",
    "q": "Source of procedure established by law?",
    "o": [
     "Germany",
@@ -2400,7 +2700,7 @@
    "e": "Source of procedure established by law — Japan."
   },
   {
-   "id": "indian-polity-00160",
+   "id": "indian-polity-00180",
    "q": "Which institution is described as: Regulator of the insurance sector?",
    "o": [
     "Vice President of India",
@@ -2415,7 +2715,7 @@
    "e": "Regulator of the insurance sector describes IRDAI."
   },
   {
-   "id": "indian-polity-00161",
+   "id": "indian-polity-00181",
    "q": "Which part of the Constitution deals with: Prevention of human trafficking and forced labour?",
    "o": [
     "Part XVIII, Articles 352-360",
@@ -2430,7 +2730,7 @@
    "e": "Prevention of human trafficking and forced labour is covered under Article 23."
   },
   {
-   "id": "indian-polity-00162",
+   "id": "indian-polity-00182",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "52nd Amendment - 1985",
@@ -2445,7 +2745,7 @@
    "e": "Only 52nd Amendment - 1985 is correctly matched."
   },
   {
-   "id": "indian-polity-00163",
+   "id": "indian-polity-00183",
    "q": "The word 'secular' was added by?",
    "o": [
     "1951",
@@ -2460,7 +2760,7 @@
    "e": "The word 'secular' was added by — 42nd Amendment."
   },
   {
-   "id": "indian-polity-00164",
+   "id": "indian-polity-00184",
    "q": "Which institution is described as: Council of States, permanent house?",
    "o": [
     "Chief Justice of India",
@@ -2475,7 +2775,7 @@
    "e": "Council of States, permanent house describes Rajya Sabha."
   },
   {
-   "id": "indian-polity-00165",
+   "id": "indian-polity-00185",
    "q": "Which part of the Constitution deals with: Citizenship?",
    "o": [
     "Article 76",
@@ -2490,7 +2790,7 @@
    "e": "Citizenship is covered under Part II, Articles 5-11."
   },
   {
-   "id": "indian-polity-00166",
+   "id": "indian-polity-00186",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "52nd Amendment - 1976",
@@ -2505,7 +2805,7 @@
    "e": "Only 52nd Amendment - 1985 is correctly matched."
   },
   {
-   "id": "indian-polity-00167",
+   "id": "indian-polity-00187",
    "q": "Maximum strength of the Rajya Sabha?",
    "o": [
     "250 members",
@@ -2520,7 +2820,7 @@
    "e": "Maximum strength of the Rajya Sabha — 250 members."
   },
   {
-   "id": "indian-polity-00168",
+   "id": "indian-polity-00188",
    "q": "Which institution is described as: Regulator of the securities market?",
    "o": [
     "SEBI",
@@ -2535,7 +2835,7 @@
    "e": "Regulator of the securities market describes SEBI."
   },
   {
-   "id": "indian-polity-00169",
+   "id": "indian-polity-00189",
    "q": "Which part of the Constitution deals with: Emergency provisions?",
    "o": [
     "Article 93",
@@ -2550,7 +2850,7 @@
    "e": "Emergency provisions is covered under Part XVIII, Articles 352-360."
   },
   {
-   "id": "indian-polity-00170",
+   "id": "indian-polity-00190",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "61st Amendment - 1956",
@@ -2565,7 +2865,7 @@
    "e": "Only 61st Amendment - 1989 is correctly matched."
   },
   {
-   "id": "indian-polity-00171",
+   "id": "indian-polity-00191",
    "q": "Number of Fundamental Duties?",
    "o": [
     "11",
@@ -2580,7 +2880,7 @@
    "e": "Number of Fundamental Duties — 11."
   },
   {
-   "id": "indian-polity-00172",
+   "id": "indian-polity-00192",
    "q": "Which institution is described as: Aids and advises the President?",
    "o": [
     "Municipality",
@@ -2595,7 +2895,7 @@
    "e": "Aids and advises the President describes Council of Ministers."
   },
   {
-   "id": "indian-polity-00173",
+   "id": "indian-polity-00193",
    "q": "Which part of the Constitution deals with: Emergency due to war or external aggression?",
    "o": [
     "Part III, Articles 12-35",
@@ -2610,7 +2910,7 @@
    "e": "Emergency due to war or external aggression is covered under Article 352."
   },
   {
-   "id": "indian-polity-00174",
+   "id": "indian-polity-00194",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "61st Amendment - 2016",
@@ -2625,7 +2925,7 @@
    "e": "Only 61st Amendment - 1989 is correctly matched."
   },
   {
-   "id": "indian-polity-00175",
+   "id": "indian-polity-00195",
    "q": "Minimum age to become a voter in India?",
    "o": [
     "18 years",
@@ -2640,7 +2940,7 @@
    "e": "Minimum age to become a voter in India — 18 years."
   },
   {
-   "id": "indian-polity-00176",
+   "id": "indian-polity-00196",
    "q": "Which institution is described as: Regulator of telecommunications?",
    "o": [
     "Telecom Regulatory Authority of India",
@@ -2655,7 +2955,7 @@
    "e": "Regulator of telecommunications describes Telecom Regulatory Authority of India."
   },
   {
-   "id": "indian-polity-00177",
+   "id": "indian-polity-00197",
    "q": "Article 18 of the Constitution deals with which of the following?",
    "o": [
     "Abolition of titles",
@@ -2670,7 +2970,7 @@
    "e": "Article 18 deals with Abolition of titles."
   },
   {
-   "id": "indian-polity-00178",
+   "id": "indian-polity-00198",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "86th Amendment - 2002",
@@ -2685,7 +2985,7 @@
    "e": "Only 86th Amendment - 2002 is correctly matched."
   },
   {
-   "id": "indian-polity-00179",
+   "id": "indian-polity-00199",
    "q": "Date the Constitution came into force?",
    "o": [
     "18 years",
@@ -2700,7 +3000,7 @@
    "e": "Date the Constitution came into force — 26 January 1950."
   },
   {
-   "id": "indian-polity-00180",
+   "id": "indian-polity-00200",
    "q": "Which institution is described as: Union legislature consisting of the President and two Houses?",
    "o": [
     "Municipality",
@@ -2715,7 +3015,7 @@
    "e": "Union legislature consisting of the President and two Houses describes Parliament of India."
   },
   {
-   "id": "indian-polity-00181",
+   "id": "indian-polity-00201",
    "q": "Article 74 of the Constitution deals with which of the following?",
    "o": [
     "Council of Ministers to aid and advise the President",
@@ -2730,7 +3030,7 @@
    "e": "Article 74 deals with Council of Ministers to aid and advise the President."
   },
   {
-   "id": "indian-polity-00182",
+   "id": "indian-polity-00202",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "86th Amendment - 2003",
@@ -2745,7 +3045,7 @@
    "e": "Only 86th Amendment - 2002 is correctly matched."
   },
   {
-   "id": "indian-polity-00183",
+   "id": "indian-polity-00203",
    "q": "The First Amendment of the Constitution was made in?",
    "o": [
     "6 months",
@@ -2760,7 +3060,7 @@
    "e": "The First Amendment of the Constitution was made in — 1951."
   },
   {
-   "id": "indian-polity-00184",
+   "id": "indian-polity-00204",
    "q": "Which institution is described as: Supervises elections to Parliament and State legislatures?",
    "o": [
     "Prime Minister of India",
@@ -2775,7 +3075,7 @@
    "e": "Supervises elections to Parliament and State legislatures describes Election Commission of India."
   },
   {
-   "id": "indian-polity-00185",
+   "id": "indian-polity-00205",
    "q": "Part III, Articles 12-35 of the Constitution deals with which of the following?",
    "o": [
     "Fundamental Rights",
@@ -2790,7 +3090,7 @@
    "e": "Part III, Articles 12-35 deals with Fundamental Rights."
   },
   {
-   "id": "indian-polity-00186",
+   "id": "indian-polity-00206",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "44th Amendment - 1978",
@@ -2805,7 +3105,7 @@
    "e": "Only 44th Amendment - 1978 is correctly matched."
   },
   {
-   "id": "indian-polity-00187",
+   "id": "indian-polity-00207",
    "q": "Who administers the oath to the Governor?",
    "o": [
     "Election Commission of India",
@@ -2820,7 +3120,7 @@
    "e": "Who administers the oath to the Governor — The Chief Justice of the concerned High Court."
   },
   {
-   "id": "indian-polity-00188",
+   "id": "indian-polity-00208",
    "q": "Which institution is described as: Administered by the President through administrators?",
    "o": [
     "NITI Aayog",
@@ -2835,7 +3135,7 @@
    "e": "Administered by the President through administrators describes Union Territories."
   },
   {
-   "id": "indian-polity-00189",
+   "id": "indian-polity-00209",
    "q": "Article 17 of the Constitution deals with which of the following?",
    "o": [
     "Financial emergency",
@@ -2850,7 +3150,7 @@
    "e": "Article 17 deals with Abolition of untouchability."
   },
   {
-   "id": "indian-polity-00190",
+   "id": "indian-polity-00210",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "44th Amendment - 1978",
@@ -2865,7 +3165,7 @@
    "e": "Only 44th Amendment - 1978 is correctly matched."
   },
   {
-   "id": "indian-polity-00191",
+   "id": "indian-polity-00211",
    "q": "Which writ is issued by a higher court to a lower court to send records?",
    "o": [
     "Comptroller and Auditor General",
@@ -2880,7 +3180,7 @@
    "e": "Which writ is issued by a higher court to a lower court to send records — Certiorari."
   },
   {
-   "id": "indian-polity-00192",
+   "id": "indian-polity-00212",
    "q": "Which institution is described as: Policy think tank of the Government of India?",
    "o": [
     "President of India",
@@ -2895,7 +3195,7 @@
    "e": "Policy think tank of the Government of India describes NITI Aayog."
   },
   {
-   "id": "indian-polity-00193",
+   "id": "indian-polity-00213",
    "q": "Article 360 of the Constitution deals with which of the following?",
    "o": [
     "Financial emergency",
@@ -2910,7 +3210,7 @@
    "e": "Article 360 deals with Financial emergency."
   },
   {
-   "id": "indian-polity-00194",
+   "id": "indian-polity-00214",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "101st Amendment - 2002",
@@ -2925,7 +3225,7 @@
    "e": "Only 101st Amendment - 2016 is correctly matched."
   },
   {
-   "id": "indian-polity-00195",
+   "id": "indian-polity-00215",
    "q": "Which court is the guardian of the Constitution?",
    "o": [
     "The Supreme Court of India",
@@ -2940,7 +3240,7 @@
    "e": "Which court is the guardian of the Constitution — The Supreme Court of India."
   },
   {
-   "id": "indian-polity-00196",
+   "id": "indian-polity-00216",
    "q": "Which institution is described as: Watches over vigilance in government?",
    "o": [
     "Election Commission of India",
@@ -2955,7 +3255,7 @@
    "e": "Watches over vigilance in government describes Central Vigilance Commission."
   },
   {
-   "id": "indian-polity-00197",
+   "id": "indian-polity-00217",
    "q": "Article 23 of the Constitution deals with which of the following?",
    "o": [
     "Official language",
@@ -2970,7 +3270,7 @@
    "e": "Article 23 deals with Prevention of human trafficking and forced labour."
   },
   {
-   "id": "indian-polity-00198",
+   "id": "indian-polity-00218",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "101st Amendment - 2019",
@@ -2985,7 +3285,7 @@
    "e": "Only 101st Amendment - 2016 is correctly matched."
   },
   {
-   "id": "indian-polity-00199",
+   "id": "indian-polity-00219",
    "q": "Source of the Parliamentary system?",
    "o": [
     "The Governor",
@@ -3000,7 +3300,7 @@
    "e": "Source of the Parliamentary system — United Kingdom."
   },
   {
-   "id": "indian-polity-00200",
+   "id": "indian-polity-00220",
    "q": "Which institution is described as: Constitutional head of the Republic?",
    "o": [
     "President of India",
@@ -3015,7 +3315,7 @@
    "e": "Constitutional head of the Republic describes President of India."
   },
   {
-   "id": "indian-polity-00201",
+   "id": "indian-polity-00221",
    "q": "Article 315 of the Constitution deals with which of the following?",
    "o": [
     "Union Public Service Commission",
@@ -3030,7 +3330,7 @@
    "e": "Article 315 deals with Union Public Service Commission."
   },
   {
-   "id": "indian-polity-00202",
+   "id": "indian-polity-00222",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "91st Amendment - 2019",
@@ -3045,7 +3345,7 @@
    "e": "Only 91st Amendment - 2003 is correctly matched."
   },
   {
-   "id": "indian-polity-00203",
+   "id": "indian-polity-00223",
    "q": "Source of the idea of the Preamble?",
    "o": [
     "Cabinet Mission Plan",
@@ -3060,7 +3360,7 @@
    "e": "Source of the idea of the Preamble — United States of America."
   },
   {
-   "id": "indian-polity-00204",
+   "id": "indian-polity-00224",
    "q": "Which institution is described as: Audits government accounts?",
    "o": [
     "Finance Commission",
@@ -3075,7 +3375,7 @@
    "e": "Audits government accounts describes Comptroller and Auditor General."
   },
   {
-   "id": "indian-polity-00205",
+   "id": "indian-polity-00225",
    "q": "Part IV, Articles 36-51 of the Constitution deals with which of the following?",
    "o": [
     "Union Public Service Commission",
@@ -3090,7 +3390,7 @@
    "e": "Part IV, Articles 36-51 deals with Directive Principles of State Policy."
   },
   {
-   "id": "indian-polity-00206",
+   "id": "indian-polity-00226",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "91st Amendment - 2019",
@@ -3105,7 +3405,7 @@
    "e": "Only 91st Amendment - 2003 is correctly matched."
   },
   {
-   "id": "indian-polity-00207",
+   "id": "indian-polity-00227",
    "q": "Eighth Schedule deals with?",
    "o": [
     "26 November 1949",
@@ -3120,7 +3420,7 @@
    "e": "Eighth Schedule deals with — Official languages."
   },
   {
-   "id": "indian-polity-00208",
+   "id": "indian-polity-00228",
    "q": "Which institution is described as: Local self-government at the village level?",
    "o": [
     "Union Territories",
@@ -3135,7 +3435,7 @@
    "e": "Local self-government at the village level describes Panchayat."
   },
   {
-   "id": "indian-polity-00209",
+   "id": "indian-polity-00229",
    "q": "Part II, Articles 5-11 of the Constitution deals with which of the following?",
    "o": [
     "Appointment of the Chief Justice of India",
@@ -3150,7 +3450,7 @@
    "e": "Part II, Articles 5-11 deals with Citizenship."
   },
   {
-   "id": "indian-polity-00210",
+   "id": "indian-polity-00230",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Seventh Amendment - 2019",
@@ -3165,7 +3465,7 @@
    "e": "Only Seventh Amendment - 1956 is correctly matched."
   },
   {
-   "id": "indian-polity-00211",
+   "id": "indian-polity-00231",
    "q": "The concept of Basic Structure was laid down in?",
    "o": [
     "Kesavananda Bharati case (1973)",
@@ -3180,7 +3480,7 @@
    "e": "The concept of Basic Structure was laid down in — Kesavananda Bharati case (1973)."
   },
   {
-   "id": "indian-polity-00212",
+   "id": "indian-polity-00232",
    "q": "Which institution is described as: Constitutional head of a State?",
    "o": [
     "Central Vigilance Commission",
@@ -3195,7 +3495,7 @@
    "e": "Constitutional head of a State describes Governor."
   },
   {
-   "id": "indian-polity-00213",
+   "id": "indian-polity-00233",
    "q": "Article 214 of the Constitution deals with which of the following?",
    "o": [
     "Supreme Court of India",
@@ -3210,7 +3510,7 @@
    "e": "Article 214 deals with High Courts."
   },
   {
-   "id": "indian-polity-00214",
+   "id": "indian-polity-00234",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Seventh Amendment - 1989",
@@ -3225,7 +3525,7 @@
    "e": "Only Seventh Amendment - 1956 is correctly matched."
   },
   {
-   "id": "indian-polity-00215",
+   "id": "indian-polity-00235",
    "q": "Minimum age to become President of India?",
    "o": [
     "35 years",
@@ -3240,7 +3540,7 @@
    "e": "Minimum age to become President of India — 35 years."
   },
   {
-   "id": "indian-polity-00216",
+   "id": "indian-polity-00236",
    "q": "Which institution is described as: Deputy to the Prime Minister in the policy think tank?",
    "o": [
     "Rajya Sabha",
@@ -3255,7 +3555,7 @@
    "e": "Deputy to the Prime Minister in the policy think tank describes NITI Aayog Vice Chairman."
   },
   {
-   "id": "indian-polity-00217",
+   "id": "indian-polity-00237",
    "q": "Article 21A of the Constitution deals with which of the following?",
    "o": [
     "Financial emergency",
@@ -3270,7 +3570,7 @@
    "e": "Article 21A deals with Right to Education."
   },
   {
-   "id": "indian-polity-00218",
+   "id": "indian-polity-00238",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "42nd Amendment - 2019",
@@ -3285,7 +3585,7 @@
    "e": "Only 42nd Amendment - 1976 is correctly matched."
   },
   {
-   "id": "indian-polity-00219",
+   "id": "indian-polity-00239",
    "q": "Who is called the guardian of the public purse?",
    "o": [
     "42nd Amendment",
@@ -3300,7 +3600,7 @@
    "e": "Who is called the guardian of the public purse — Comptroller and Auditor General."
   },
   {
-   "id": "indian-polity-00220",
+   "id": "indian-polity-00240",
    "q": "Which institution is described as: Head of the Indian judiciary?",
    "o": [
     "Union Territories",
@@ -3315,7 +3615,7 @@
    "e": "Head of the Indian judiciary describes Chief Justice of India."
   },
   {
-   "id": "indian-polity-00221",
+   "id": "indian-polity-00241",
    "q": "Part XVII, Articles 343-351 of the Constitution deals with which of the following?",
    "o": [
     "Right to Freedom of Religion",
@@ -3330,7 +3630,7 @@
    "e": "Part XVII, Articles 343-351 deals with Official language."
   },
   {
-   "id": "indian-polity-00222",
+   "id": "indian-polity-00242",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "42nd Amendment - 1992",
@@ -3345,7 +3645,7 @@
    "e": "Only 42nd Amendment - 1976 is correctly matched."
   },
   {
-   "id": "indian-polity-00223",
+   "id": "indian-polity-00243",
    "q": "Source of Directive Principles?",
    "o": [
     "Kesavananda Bharati case (1973)",
@@ -3360,7 +3660,7 @@
    "e": "Source of Directive Principles — Ireland."
   },
   {
-   "id": "indian-polity-00224",
+   "id": "indian-polity-00244",
    "q": "Which institution is described as: Head of the State Government?",
    "o": [
     "NITI Aayog Vice Chairman",
@@ -3375,7 +3675,7 @@
    "e": "Head of the State Government describes Chief Minister."
   },
   {
-   "id": "indian-polity-00225",
+   "id": "indian-polity-00245",
    "q": "Article 124 of the Constitution deals with which of the following?",
    "o": [
     "Election of the President",
@@ -3390,7 +3690,7 @@
    "e": "Article 124 deals with Appointment of the Chief Justice of India."
   },
   {
-   "id": "indian-polity-00226",
+   "id": "indian-polity-00246",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "73rd Amendment - 1992",
@@ -3405,7 +3705,7 @@
    "e": "The pair First Amendment - 2019 is not correctly matched."
   },
   {
-   "id": "indian-polity-00227",
+   "id": "indian-polity-00247",
    "q": "Article 370 of the Constitution dealt with?",
    "o": [
     "25",
@@ -3420,7 +3720,7 @@
    "e": "Article 370 of the Constitution dealt with — Special status of Jammu and Kashmir."
   },
   {
-   "id": "indian-polity-00228",
+   "id": "indian-polity-00248",
    "q": "Which institution is described as: Second highest law officer of the Union?",
    "o": [
     "Solicitor General of India",
@@ -3435,7 +3735,7 @@
    "e": "Second highest law officer of the Union describes Solicitor General of India."
   },
   {
-   "id": "indian-polity-00229",
+   "id": "indian-polity-00249",
    "q": "Article 352 of the Constitution deals with which of the following?",
    "o": [
     "Cultural and Educational Rights",
@@ -3450,7 +3750,7 @@
    "e": "Article 352 deals with Emergency due to war or external aggression."
   },
   {
-   "id": "indian-polity-00230",
+   "id": "indian-polity-00250",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "74th Amendment - 1992",
@@ -3465,7 +3765,7 @@
    "e": "The pair 106th Amendment - 1989 is not correctly matched."
   },
   {
-   "id": "indian-polity-00231",
+   "id": "indian-polity-00251",
    "q": "Idea of a Constituent Assembly was first proposed by?",
    "o": [
     "18 years",
@@ -3480,7 +3780,7 @@
    "e": "Idea of a Constituent Assembly was first proposed by — M. N. Roy."
   },
   {
-   "id": "indian-polity-00232",
+   "id": "indian-polity-00252",
    "q": "Which institution is described as: Chief legal adviser to the Government of India?",
    "o": [
     "Comptroller and Auditor General",
@@ -3495,7 +3795,7 @@
    "e": "Chief legal adviser to the Government of India describes Attorney General of India."
   },
   {
-   "id": "indian-polity-00233",
+   "id": "indian-polity-00253",
    "q": "Part IX, Articles 243-243O of the Constitution deals with which of the following?",
    "o": [
     "Composition of the Lok Sabha",
@@ -3510,7 +3810,7 @@
    "e": "Part IX, Articles 243-243O deals with Panchayats."
   },
   {
-   "id": "indian-polity-00234",
+   "id": "indian-polity-00254",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "103rd Amendment - 2019",
@@ -3525,7 +3825,7 @@
    "e": "The pair 44th Amendment - 1951 is not correctly matched."
   },
   {
-   "id": "indian-polity-00235",
+   "id": "indian-polity-00255",
    "q": "Constitutional advisor to the Constituent Assembly?",
    "o": [
     "6 years",
@@ -3540,7 +3840,7 @@
    "e": "Constitutional advisor to the Constituent Assembly — B. N. Rau."
   },
   {
-   "id": "indian-polity-00236",
+   "id": "indian-polity-00256",
    "q": "Which institution is described as: Law-making body of a State?",
    "o": [
     "Finance Commission",
@@ -3555,7 +3855,7 @@
    "e": "Law-making body of a State describes State Legislature."
   },
   {
-   "id": "indian-polity-00237",
+   "id": "indian-polity-00257",
    "q": "Article 356 of the Constitution deals with which of the following?",
    "o": [
     "Directive Principles of State Policy",
@@ -3570,7 +3870,7 @@
    "e": "Article 356 deals with President's rule in states."
   },
   {
-   "id": "indian-polity-00238",
+   "id": "indian-polity-00258",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "74th Amendment - 2023",
@@ -3585,7 +3885,7 @@
    "e": "The pair 74th Amendment - 2023 is not correctly matched."
   },
   {
-   "id": "indian-polity-00239",
+   "id": "indian-polity-00259",
    "q": "A no-confidence motion can be moved only in?",
    "o": [
     "The Lok Sabha",
@@ -3600,7 +3900,7 @@
    "e": "A no-confidence motion can be moved only in — The Lok Sabha."
   },
   {
-   "id": "indian-polity-00240",
+   "id": "indian-polity-00260",
    "q": "Which institution is described as: Apex judicial body of India?",
    "o": [
     "State Legislature",
@@ -3615,7 +3915,7 @@
    "e": "Apex judicial body of India describes Supreme Court of India."
   },
   {
-   "id": "indian-polity-00241",
+   "id": "indian-polity-00261",
    "q": "Article 32 of the Constitution deals with which of the following?",
    "o": [
     "Election Commission of India",
@@ -3630,7 +3930,7 @@
    "e": "Article 32 deals with Right to Constitutional Remedies."
   },
   {
-   "id": "indian-polity-00242",
+   "id": "indian-polity-00262",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "106th Amendment - 2023",
@@ -3645,7 +3945,7 @@
    "e": "The pair 91st Amendment - 1956 is not correctly matched."
   },
   {
-   "id": "indian-polity-00243",
+   "id": "indian-polity-00263",
    "q": "First meeting of the Constituent Assembly?",
    "o": [
     "9 December 1946",
@@ -3660,7 +3960,7 @@
    "e": "First meeting of the Constituent Assembly — 9 December 1946."
   },
   {
-   "id": "indian-polity-00244",
+   "id": "indian-polity-00264",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Telecom Regulatory Authority of India - Regulator of telecommunications",
@@ -3675,7 +3975,7 @@
    "e": "Only Telecom Regulatory Authority of India - Regulator of telecommunications is correctly matched."
   },
   {
-   "id": "indian-polity-00245",
+   "id": "indian-polity-00265",
    "q": "Article 280 of the Constitution deals with which of the following?",
    "o": [
     "Appointment of the Chief Justice of India",
@@ -3690,7 +3990,7 @@
    "e": "Article 280 deals with Finance Commission."
   },
   {
-   "id": "indian-polity-00246",
+   "id": "indian-polity-00266",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "42nd Amendment - 1976",
@@ -3705,7 +4005,7 @@
    "e": "The pair 52nd Amendment - 2019 is not correctly matched."
   },
   {
-   "id": "indian-polity-00247",
+   "id": "indian-polity-00267",
    "q": "Maximum strength of the Lok Sabha (as provided in Article 81)?",
    "o": [
     "2019",
@@ -3720,7 +4020,7 @@
    "e": "Maximum strength of the Lok Sabha (as provided in Article 81) — 552 members."
   },
   {
-   "id": "indian-polity-00248",
+   "id": "indian-polity-00268",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Telecom Regulatory Authority of India - Aids and advises the President",
@@ -3735,7 +4035,7 @@
    "e": "Only Telecom Regulatory Authority of India - Regulator of telecommunications is correctly matched."
   },
   {
-   "id": "indian-polity-00249",
+   "id": "indian-polity-00269",
    "q": "Part VI, Articles 152-237 of the Constitution deals with which of the following?",
    "o": [
     "Appointment of the Chief Justice of India",
@@ -3750,7 +4050,7 @@
    "e": "Part VI, Articles 152-237 deals with The State Government."
   },
   {
-   "id": "indian-polity-00250",
+   "id": "indian-polity-00270",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Seventh Amendment - 1956",
@@ -3765,7 +4065,7 @@
    "e": "The pair 101st Amendment - 1989 is not correctly matched."
   },
   {
-   "id": "indian-polity-00251",
+   "id": "indian-polity-00271",
    "q": "Date of adoption of the Constitution?",
    "o": [
     "1976",
@@ -3780,7 +4080,7 @@
    "e": "Date of adoption of the Constitution — 26 November 1949."
   },
   {
-   "id": "indian-polity-00252",
+   "id": "indian-polity-00272",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "State Legislature - Recruits civil servants for the Union",
@@ -3795,7 +4095,7 @@
    "e": "Only State Legislature - Law-making body of a State is correctly matched."
   },
   {
-   "id": "indian-polity-00253",
+   "id": "indian-polity-00273",
    "q": "Articles 14-18 of the Constitution deals with which of the following?",
    "o": [
     "Right to Equality",
@@ -3810,7 +4110,7 @@
    "e": "Articles 14-18 deals with Right to Equality."
   },
   {
-   "id": "indian-polity-00254",
+   "id": "indian-polity-00274",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Seventh Amendment - 1956",
@@ -3825,7 +4125,7 @@
    "e": "The pair 103rd Amendment - 1985 is not correctly matched."
   },
   {
-   "id": "indian-polity-00255",
+   "id": "indian-polity-00275",
    "q": "Which body advises the President on appointment of judges?",
    "o": [
     "12",
@@ -3840,7 +4140,7 @@
    "e": "Which body advises the President on appointment of judges — The Supreme Court collegium."
   },
   {
-   "id": "indian-polity-00256",
+   "id": "indian-polity-00276",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "State Legislature - Central bank and monetary authority",
@@ -3855,7 +4155,7 @@
    "e": "Only State Legislature - Law-making body of a State is correctly matched."
   },
   {
-   "id": "indian-polity-00257",
+   "id": "indian-polity-00277",
    "q": "Part I, Articles 1-4 of the Constitution deals with which of the following?",
    "o": [
     "The Union and its territory",
@@ -3870,7 +4170,7 @@
    "e": "Part I, Articles 1-4 deals with The Union and its territory."
   },
   {
-   "id": "indian-polity-00258",
+   "id": "indian-polity-00278",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "74th Amendment - 1992",
@@ -3885,7 +4185,7 @@
    "e": "The pair Seventh Amendment - 2016 is not correctly matched."
   },
   {
-   "id": "indian-polity-00259",
+   "id": "indian-polity-00279",
    "q": "Source of Fundamental Rights?",
    "o": [
     "United States of America",
@@ -3900,7 +4200,7 @@
    "e": "Source of Fundamental Rights — United States of America."
   },
   {
-   "id": "indian-polity-00260",
+   "id": "indian-polity-00280",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Reserve Bank of India - Audits government accounts",
@@ -3915,7 +4215,7 @@
    "e": "Only Reserve Bank of India - Central bank and monetary authority is correctly matched."
   },
   {
-   "id": "indian-polity-00261",
+   "id": "indian-polity-00281",
    "q": "Article 93 of the Constitution deals with which of the following?",
    "o": [
     "Speaker and Deputy Speaker of the Lok Sabha",
@@ -3930,7 +4230,7 @@
    "e": "Article 93 deals with Speaker and Deputy Speaker of the Lok Sabha."
   },
   {
-   "id": "indian-polity-00262",
+   "id": "indian-polity-00282",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "86th Amendment - 2019",
@@ -3945,7 +4245,7 @@
    "e": "The pair 86th Amendment - 2019 is not correctly matched."
   },
   {
-   "id": "indian-polity-00263",
+   "id": "indian-polity-00283",
    "q": "Chairman of the Constituent Assembly?",
    "o": [
     "A Sovereign Socialist Secular Democratic Republic",
@@ -3960,7 +4260,7 @@
    "e": "Chairman of the Constituent Assembly — Dr. Rajendra Prasad."
   },
   {
-   "id": "indian-polity-00264",
+   "id": "indian-polity-00284",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Reserve Bank of India - House of the People",
@@ -3975,7 +4275,7 @@
    "e": "Only Reserve Bank of India - Central bank and monetary authority is correctly matched."
   },
   {
-   "id": "indian-polity-00265",
+   "id": "indian-polity-00285",
    "q": "Article 21 of the Constitution deals with which of the following?",
    "o": [
     "Right to Freedom",
@@ -3990,7 +4290,7 @@
    "e": "Article 21 deals with Protection of life and personal liberty."
   },
   {
-   "id": "indian-polity-00266",
+   "id": "indian-polity-00286",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "101st Amendment - 2016",
@@ -4005,7 +4305,7 @@
    "e": "The pair 73rd Amendment - 2003 is not correctly matched."
   },
   {
-   "id": "indian-polity-00267",
+   "id": "indian-polity-00287",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Source of amendment procedure - Canada",
@@ -4020,7 +4320,7 @@
    "e": "Only Source of amendment procedure - South Africa is correctly matched."
   },
   {
-   "id": "indian-polity-00268",
+   "id": "indian-polity-00288",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Prime Minister of India - Head of the Union Government",
@@ -4035,7 +4335,7 @@
    "e": "Only Prime Minister of India - Head of the Union Government is correctly matched."
   },
   {
-   "id": "indian-polity-00269",
+   "id": "indian-polity-00289",
    "q": "Article 80 of the Constitution deals with which of the following?",
    "o": [
     "Fundamental Duties",
@@ -4050,7 +4350,7 @@
    "e": "Article 80 deals with Composition of the Rajya Sabha."
   },
   {
-   "id": "indian-polity-00270",
+   "id": "indian-polity-00290",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "86th Amendment - 2002",
@@ -4065,7 +4365,7 @@
    "e": "The pair 42nd Amendment - 1989 is not correctly matched."
   },
   {
-   "id": "indian-polity-00271",
+   "id": "indian-polity-00291",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Source of amendment procedure - Special status of Jammu and Kashmir",
@@ -4080,7 +4380,7 @@
    "e": "Only Source of amendment procedure - South Africa is correctly matched."
   },
   {
-   "id": "indian-polity-00272",
+   "id": "indian-polity-00292",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Prime Minister of India - Head of the Union Government",
@@ -4095,7 +4395,7 @@
    "e": "Only Prime Minister of India - Head of the Union Government is correctly matched."
   },
   {
-   "id": "indian-polity-00273",
+   "id": "indian-polity-00293",
    "q": "Article 54 of the Constitution deals with which of the following?",
    "o": [
     "Election of the President",
@@ -4110,7 +4410,7 @@
    "e": "Article 54 deals with Election of the President."
   },
   {
-   "id": "indian-polity-00274",
+   "id": "indian-polity-00294",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "104th Amendment - 2002",
@@ -4125,7 +4425,7 @@
    "e": "The pair 104th Amendment - 2002 is not correctly matched."
   },
   {
-   "id": "indian-polity-00275",
+   "id": "indian-polity-00295",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Which writ is issued to release a detained person - 2019",
@@ -4140,7 +4440,7 @@
    "e": "Only Which writ is issued to release a detained person - Habeas Corpus is correctly matched."
   },
   {
-   "id": "indian-polity-00276",
+   "id": "indian-polity-00296",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Zilla Parishad - Head of the Indian judiciary",
@@ -4155,7 +4455,7 @@
    "e": "Only Zilla Parishad - Local body at the district level is correctly matched."
   },
   {
-   "id": "indian-polity-00277",
+   "id": "indian-polity-00297",
    "q": "Article 148 of the Constitution deals with which of the following?",
    "o": [
     "President's rule in states",
@@ -4170,7 +4470,7 @@
    "e": "Article 148 deals with Comptroller and Auditor General of India."
   },
   {
-   "id": "indian-polity-00278",
+   "id": "indian-polity-00298",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "52nd Amendment - 1985",
@@ -4185,7 +4485,7 @@
    "e": "The pair 61st Amendment - 1956 is not correctly matched."
   },
   {
-   "id": "indian-polity-00279",
+   "id": "indian-polity-00299",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Which writ is issued to release a detained person - 1976",
@@ -4200,7 +4500,7 @@
    "e": "Only Which writ is issued to release a detained person - Habeas Corpus is correctly matched."
   },
   {
-   "id": "indian-polity-00280",
+   "id": "indian-polity-00300",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Zilla Parishad - Local body at the district level",
@@ -4215,7 +4515,7 @@
    "e": "Only Zilla Parishad - Local body at the district level is correctly matched."
   },
   {
-   "id": "indian-polity-00281",
+   "id": "indian-polity-00301",
    "q": "Article 76 of the Constitution deals with which of the following?",
    "o": [
     "The Union Government",
@@ -4230,7 +4530,7 @@
    "e": "Article 76 deals with Attorney General of India."
   },
   {
-   "id": "indian-polity-00282",
+   "id": "indian-polity-00302",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Which court is the guardian of the Constitution - United States of America",
@@ -4245,7 +4545,7 @@
    "e": "Only Which court is the guardian of the Constitution - The Supreme Court of India is correctly matched."
   },
   {
-   "id": "indian-polity-00283",
+   "id": "indian-polity-00303",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Parliament of India - Apex judicial body of India",
@@ -4260,7 +4560,7 @@
    "e": "Only Parliament of India - Union legislature consisting of the President and two Houses is correctly matched."
   },
   {
-   "id": "indian-polity-00284",
+   "id": "indian-polity-00304",
    "q": "Part IVA, Article 51A of the Constitution deals with which of the following?",
    "o": [
     "Fundamental Duties",
@@ -4275,7 +4575,7 @@
    "e": "Part IVA, Article 51A deals with Fundamental Duties."
   },
   {
-   "id": "indian-polity-00285",
+   "id": "indian-polity-00305",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Which court is the guardian of the Constitution - Kesavananda Bharati case (1973)",
@@ -4290,7 +4590,7 @@
    "e": "Only Which court is the guardian of the Constitution - The Supreme Court of India is correctly matched."
   },
   {
-   "id": "indian-polity-00286",
+   "id": "indian-polity-00306",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Parliament of India - Regulator of telecommunications",
@@ -4305,7 +4605,7 @@
    "e": "Only Parliament of India - Union legislature consisting of the President and two Houses is correctly matched."
   },
   {
-   "id": "indian-polity-00287",
+   "id": "indian-polity-00307",
    "q": "Articles 19-22 of the Constitution deals with which of the following?",
    "o": [
     "Council of Ministers to aid and advise the President",
@@ -4320,7 +4620,7 @@
    "e": "Articles 19-22 deals with Right to Freedom."
   },
   {
-   "id": "indian-polity-00288",
+   "id": "indian-polity-00308",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Which writ is issued to compel performance of a public duty - Kesavananda Bharati case (1973)",
@@ -4335,7 +4635,7 @@
    "e": "Only Which writ is issued to compel performance of a public duty - Mandamus is correctly matched."
   },
   {
-   "id": "indian-polity-00289",
+   "id": "indian-polity-00309",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "SEBI - Aids and advises the President",
@@ -4350,7 +4650,7 @@
    "e": "Only SEBI - Regulator of the securities market is correctly matched."
   },
   {
-   "id": "indian-polity-00290",
+   "id": "indian-polity-00310",
    "q": "Part IXA, Articles 243P-243ZG of the Constitution deals with which of the following?",
    "o": [
     "Services under the Union and States",
@@ -4365,7 +4665,7 @@
    "e": "Part IXA, Articles 243P-243ZG deals with Municipalities."
   },
   {
-   "id": "indian-polity-00291",
+   "id": "indian-polity-00311",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Which writ is issued to compel performance of a public duty - Mandamus",
@@ -4380,7 +4680,7 @@
    "e": "Only Which writ is issued to compel performance of a public duty - Mandamus is correctly matched."
   },
   {
-   "id": "indian-polity-00292",
+   "id": "indian-polity-00312",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "SEBI - Regulator of the securities market",
@@ -4395,7 +4695,7 @@
    "e": "Only SEBI - Regulator of the securities market is correctly matched."
   },
   {
-   "id": "indian-polity-00293",
+   "id": "indian-polity-00313",
    "q": "Article 81 of the Constitution deals with which of the following?",
    "o": [
     "Fundamental Rights",
@@ -4410,7 +4710,7 @@
    "e": "Article 81 deals with Composition of the Lok Sabha."
   },
   {
-   "id": "indian-polity-00294",
+   "id": "indian-polity-00314",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Which writ questions the legality of a person's claim to an office - Quo Warranto",
@@ -4425,7 +4725,7 @@
    "e": "Only Which writ questions the legality of a person's claim to an office - Quo Warranto is correctly matched."
   },
   {
-   "id": "indian-polity-00295",
+   "id": "indian-polity-00315",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Municipality - Regulator of the insurance sector",
@@ -4440,7 +4740,7 @@
    "e": "Only Municipality - Local self-government in urban areas is correctly matched."
   },
   {
-   "id": "indian-polity-00296",
+   "id": "indian-polity-00316",
    "q": "Article 24 of the Constitution deals with which of the following?",
    "o": [
     "Financial emergency",
@@ -4455,7 +4755,7 @@
    "e": "Article 24 deals with Prohibition of child labour in factories."
   },
   {
-   "id": "indian-polity-00297",
+   "id": "indian-polity-00317",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Which writ questions the legality of a person's claim to an office - Union, State and Concurrent Lists",
@@ -4470,7 +4770,7 @@
    "e": "Only Which writ questions the legality of a person's claim to an office - Quo Warranto is correctly matched."
   },
   {
-   "id": "indian-polity-00298",
+   "id": "indian-polity-00318",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Municipality - Local self-government in urban areas",
@@ -4485,7 +4785,7 @@
    "e": "Only Municipality - Local self-government in urban areas is correctly matched."
   },
   {
-   "id": "indian-polity-00299",
+   "id": "indian-polity-00319",
    "q": "Part XVIII, Articles 352-360 of the Constitution deals with which of the following?",
    "o": [
     "Right to Education",
@@ -4500,7 +4800,7 @@
    "e": "Part XVIII, Articles 352-360 deals with Emergency provisions."
   },
   {
-   "id": "indian-polity-00300",
+   "id": "indian-polity-00320",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Money Bill can be introduced only in - Parliament",
@@ -4515,7 +4815,7 @@
    "e": "Only Money Bill can be introduced only in - The Lok Sabha is correctly matched."
   },
   {
-   "id": "indian-polity-00301",
+   "id": "indian-polity-00321",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Comptroller and Auditor General - Head of the State Government",
@@ -4530,7 +4830,7 @@
    "e": "Only Comptroller and Auditor General - Audits government accounts is correctly matched."
   },
   {
-   "id": "indian-polity-00302",
+   "id": "indian-polity-00322",
    "q": "Article 165 of the Constitution deals with which of the following?",
    "o": [
     "Financial emergency",
@@ -4545,7 +4845,7 @@
    "e": "Article 165 deals with Advocate General of a State."
   },
   {
-   "id": "indian-polity-00303",
+   "id": "indian-polity-00323",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Money Bill can be introduced only in - The Lok Sabha",
@@ -4560,7 +4860,7 @@
    "e": "Only Money Bill can be introduced only in - The Lok Sabha is correctly matched."
   },
   {
-   "id": "indian-polity-00304",
+   "id": "indian-polity-00324",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Comptroller and Auditor General - Watches over vigilance in government",
@@ -4575,7 +4875,7 @@
    "e": "Only Comptroller and Auditor General - Audits government accounts is correctly matched."
   },
   {
-   "id": "indian-polity-00305",
+   "id": "indian-polity-00325",
    "q": "Part V, Articles 52-151 of the Constitution deals with which of the following?",
    "o": [
     "Election of the President",
@@ -4590,7 +4890,7 @@
    "e": "Part V, Articles 52-151 deals with The Union Government."
   },
   {
-   "id": "indian-polity-00306",
+   "id": "indian-polity-00326",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Article 370 was abrogated in - 2019",
@@ -4605,7 +4905,7 @@
    "e": "Only Article 370 was abrogated in - 2019 is correctly matched."
   },
   {
-   "id": "indian-polity-00307",
+   "id": "indian-polity-00327",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Rajya Sabha - Watches over vigilance in government",
@@ -4620,7 +4920,7 @@
    "e": "Only Rajya Sabha - Council of States, permanent house is correctly matched."
   },
   {
-   "id": "indian-polity-00308",
+   "id": "indian-polity-00328",
    "q": "Article 124 of the Constitution deals with which of the following?",
    "o": [
     "Abolition of titles",
@@ -4635,7 +4935,7 @@
    "e": "Article 124 deals with Supreme Court of India."
   },
   {
-   "id": "indian-polity-00309",
+   "id": "indian-polity-00329",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Article 370 was abrogated in - Land reform laws protected from judicial review",
@@ -4650,7 +4950,7 @@
    "e": "Only Article 370 was abrogated in - 2019 is correctly matched."
   },
   {
-   "id": "indian-polity-00310",
+   "id": "indian-polity-00330",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Rajya Sabha - Constitutional head of the Republic",
@@ -4665,7 +4965,7 @@
    "e": "Only Rajya Sabha - Council of States, permanent house is correctly matched."
   },
   {
-   "id": "indian-polity-00311",
+   "id": "indian-polity-00331",
    "q": "Articles 25-28 of the Constitution deals with which of the following?",
    "o": [
     "Right to Freedom of Religion",
@@ -4680,7 +4980,7 @@
    "e": "Articles 25-28 deals with Right to Freedom of Religion."
   },
   {
-   "id": "indian-polity-00312",
+   "id": "indian-polity-00332",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Who appoints the Governor of a State - The President of India",
@@ -4695,7 +4995,7 @@
    "e": "Only Who appoints the Governor of a State - The President of India is correctly matched."
   },
   {
-   "id": "indian-polity-00313",
+   "id": "indian-polity-00333",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Central Vigilance Commission - Watches over vigilance in government",
@@ -4710,7 +5010,7 @@
    "e": "Only Central Vigilance Commission - Watches over vigilance in government is correctly matched."
   },
   {
-   "id": "indian-polity-00314",
+   "id": "indian-polity-00334",
    "q": "Part XV, Articles 324-329 of the Constitution deals with which of the following?",
    "o": [
     "Directive Principles of State Policy",
@@ -4725,7 +5025,7 @@
    "e": "Part XV, Articles 324-329 deals with Elections."
   },
   {
-   "id": "indian-polity-00315",
+   "id": "indian-polity-00335",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Who appoints the Governor of a State - 552 members",
@@ -4740,7 +5040,7 @@
    "e": "Only Who appoints the Governor of a State - The President of India is correctly matched."
   },
   {
-   "id": "indian-polity-00316",
+   "id": "indian-polity-00336",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Central Vigilance Commission - Supervises elections to Parliament and State legislatures",
@@ -4755,7 +5055,7 @@
    "e": "Only Central Vigilance Commission - Watches over vigilance in government is correctly matched."
   },
   {
-   "id": "indian-polity-00317",
+   "id": "indian-polity-00337",
    "q": "Articles 29-30 of the Constitution deals with which of the following?",
    "o": [
     "Cultural and Educational Rights",
@@ -4770,7 +5070,7 @@
    "e": "Articles 29-30 deals with Cultural and Educational Rights."
   },
   {
-   "id": "indian-polity-00318",
+   "id": "indian-polity-00338",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Ninth Schedule deals with - 22",
@@ -4785,7 +5085,7 @@
    "e": "Only Ninth Schedule deals with - Land reform laws protected from judicial review is correctly matched."
   },
   {
-   "id": "indian-polity-00319",
+   "id": "indian-polity-00339",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Supreme Court of India - Apex judicial body of India",
@@ -4800,7 +5100,7 @@
    "e": "Only Supreme Court of India - Apex judicial body of India is correctly matched."
   },
   {
-   "id": "indian-polity-00320",
+   "id": "indian-polity-00340",
    "q": "Article 75 of the Constitution deals with which of the following?",
    "o": [
     "The State Government",
@@ -4815,7 +5115,7 @@
    "e": "Article 75 deals with Appointment of the Prime Minister and Council of Ministers."
   },
   {
-   "id": "indian-polity-00321",
+   "id": "indian-polity-00341",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Ninth Schedule deals with - The President of India",
@@ -4830,7 +5130,7 @@
    "e": "Only Ninth Schedule deals with - Land reform laws protected from judicial review is correctly matched."
   },
   {
-   "id": "indian-polity-00322",
+   "id": "indian-polity-00342",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Supreme Court of India - Apex judicial body of India",
@@ -4845,7 +5145,7 @@
    "e": "Only Supreme Court of India - Apex judicial body of India is correctly matched."
   },
   {
-   "id": "indian-polity-00323",
+   "id": "indian-polity-00343",
    "q": "Article 324 of the Constitution deals with which of the following?",
    "o": [
     "Directive Principles of State Policy",
@@ -4860,7 +5160,7 @@
    "e": "Article 324 deals with Election Commission of India."
   },
   {
-   "id": "indian-polity-00324",
+   "id": "indian-polity-00344",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Which writ is issued by a higher court to a lower court to send records - The President of India",
@@ -4875,7 +5175,7 @@
    "e": "Only Which writ is issued by a higher court to a lower court to send records - Certiorari is correctly matched."
   },
   {
-   "id": "indian-polity-00325",
+   "id": "indian-polity-00345",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Finance Commission - Aids and advises the President",
@@ -4890,7 +5190,7 @@
    "e": "Only Finance Commission - Recommends distribution of taxes between the Centre and States is correctly matched."
   },
   {
-   "id": "indian-polity-00326",
+   "id": "indian-polity-00346",
    "q": "Part XIV, Articles 308-323 of the Constitution deals with which of the following?",
    "o": [
     "Appointment of the Prime Minister and Council of Ministers",
@@ -4905,7 +5205,7 @@
    "e": "Part XIV, Articles 308-323 deals with Services under the Union and States."
   },
   {
-   "id": "indian-polity-00327",
+   "id": "indian-polity-00347",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Which writ is issued by a higher court to a lower court to send records - Certiorari",
@@ -4920,7 +5220,7 @@
    "e": "Only Which writ is issued by a higher court to a lower court to send records - Certiorari is correctly matched."
   },
   {
-   "id": "indian-polity-00328",
+   "id": "indian-polity-00348",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Finance Commission - Protects human rights in India",
@@ -4935,7 +5235,7 @@
    "e": "Only Finance Commission - Recommends distribution of taxes between the Centre and States is correctly matched."
   },
   {
-   "id": "indian-polity-00329",
+   "id": "indian-polity-00349",
    "q": "Article 1 of the Constitution deals with which of the following?",
    "o": [
     "Right to Equality",
@@ -4950,7 +5250,7 @@
    "e": "Article 1 deals with Union of India consisting of States and Union Territories."
   },
   {
-   "id": "indian-polity-00330",
+   "id": "indian-polity-00350",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Number of Fundamental Duties - Habeas Corpus",
@@ -4965,7 +5265,7 @@
    "e": "Only Number of Fundamental Duties - 11 is correctly matched."
   },
   {
-   "id": "indian-polity-00331",
+   "id": "indian-polity-00351",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Union Public Service Commission - Second highest law officer of the Union",
@@ -4980,7 +5280,7 @@
    "e": "Only Union Public Service Commission - Recruits civil servants for the Union is correctly matched."
   },
   {
-   "id": "indian-polity-00332",
+   "id": "indian-polity-00352",
    "q": "Articles 23-24 of the Constitution deals with which of the following?",
    "o": [
     "Appointment of the Prime Minister and Council of Ministers",
@@ -4995,7 +5295,7 @@
    "e": "Articles 23-24 deals with Right against Exploitation."
   },
   {
-   "id": "indian-polity-00333",
+   "id": "indian-polity-00353",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Number of Fundamental Duties - 11",
@@ -5010,7 +5310,7 @@
    "e": "Only Number of Fundamental Duties - 11 is correctly matched."
   },
   {
-   "id": "indian-polity-00334",
+   "id": "indian-polity-00354",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Union Public Service Commission - House of the People",
@@ -5025,7 +5325,7 @@
    "e": "Only Union Public Service Commission - Recruits civil servants for the Union is correctly matched."
   },
   {
-   "id": "indian-polity-00335",
+   "id": "indian-polity-00355",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Prevention of human trafficking and forced labour - Article 23",
@@ -5040,7 +5340,7 @@
    "e": "Only Prevention of human trafficking and forced labour - Article 23 is correctly matched."
   },
   {
-   "id": "indian-polity-00336",
+   "id": "indian-polity-00356",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Number of Parts in the Constitution (as amended) - Anti-defection provisions",
@@ -5055,7 +5355,7 @@
    "e": "Only Number of Parts in the Constitution (as amended) - 25 is correctly matched."
   },
   {
-   "id": "indian-polity-00337",
+   "id": "indian-polity-00357",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Union Territories - Head of the Indian judiciary",
@@ -5070,7 +5370,7 @@
    "e": "Only Union Territories - Administered by the President through administrators is correctly matched."
   },
   {
-   "id": "indian-polity-00338",
+   "id": "indian-polity-00358",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Prevention of human trafficking and forced labour - Part I, Articles 1-4",
@@ -5085,7 +5385,7 @@
    "e": "Only Prevention of human trafficking and forced labour - Article 23 is correctly matched."
   },
   {
-   "id": "indian-polity-00339",
+   "id": "indian-polity-00359",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Number of Parts in the Constitution (as amended) - Dr. B. R. Ambedkar",
@@ -5100,7 +5400,7 @@
    "e": "Only Number of Parts in the Constitution (as amended) - 25 is correctly matched."
   },
   {
-   "id": "indian-polity-00340",
+   "id": "indian-polity-00360",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Union Territories - Regulator of telecommunications",
@@ -5115,7 +5415,7 @@
    "e": "Only Union Territories - Administered by the President through administrators is correctly matched."
   },
   {
-   "id": "indian-polity-00341",
+   "id": "indian-polity-00361",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Financial emergency - Article 360",
@@ -5130,7 +5430,7 @@
    "e": "Only Financial emergency - Article 360 is correctly matched."
   },
   {
-   "id": "indian-polity-00342",
+   "id": "indian-polity-00362",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Who is the head of the Union Council of Ministers - Union, State and Concurrent Lists",
@@ -5145,7 +5445,7 @@
    "e": "Only Who is the head of the Union Council of Ministers - The Prime Minister is correctly matched."
   },
   {
-   "id": "indian-polity-00343",
+   "id": "indian-polity-00363",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Election Commission of India - Ex-officio Chairman of the Rajya Sabha",
@@ -5160,7 +5460,7 @@
    "e": "Only Election Commission of India - Supervises elections to Parliament and State legislatures is correctly matched."
   },
   {
-   "id": "indian-polity-00344",
+   "id": "indian-polity-00364",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Financial emergency - Article 360",
@@ -5175,7 +5475,7 @@
    "e": "Only Financial emergency - Article 360 is correctly matched."
   },
   {
-   "id": "indian-polity-00345",
+   "id": "indian-polity-00365",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Who is the head of the Union Council of Ministers - Prohibition",
@@ -5190,7 +5490,7 @@
    "e": "Only Who is the head of the Union Council of Ministers - The Prime Minister is correctly matched."
   },
   {
-   "id": "indian-polity-00346",
+   "id": "indian-polity-00366",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Election Commission of India - Aids and advises the President",
@@ -5205,7 +5505,7 @@
    "e": "Only Election Commission of India - Supervises elections to Parliament and State legislatures is correctly matched."
   },
   {
-   "id": "indian-polity-00347",
+   "id": "indian-polity-00367",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Attorney General of India - Article 76",
@@ -5220,7 +5520,7 @@
    "e": "Only Attorney General of India - Article 76 is correctly matched."
   },
   {
-   "id": "indian-polity-00348",
+   "id": "indian-polity-00368",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Chairman of the Drafting Committee - Dr. B. R. Ambedkar",
@@ -5235,7 +5535,7 @@
    "e": "Only Chairman of the Drafting Committee - Dr. B. R. Ambedkar is correctly matched."
   },
   {
-   "id": "indian-polity-00349",
+   "id": "indian-polity-00369",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Chief Minister - Supervises elections to Parliament and State legislatures",
@@ -5250,7 +5550,7 @@
    "e": "Only Chief Minister - Head of the State Government is correctly matched."
   },
   {
-   "id": "indian-polity-00350",
+   "id": "indian-polity-00370",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Attorney General of India - Article 76",
@@ -5265,7 +5565,7 @@
    "e": "Only Attorney General of India - Article 76 is correctly matched."
   },
   {
-   "id": "indian-polity-00351",
+   "id": "indian-polity-00371",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Chairman of the Drafting Committee - Union, State and Concurrent Lists",
@@ -5280,7 +5580,7 @@
    "e": "Only Chairman of the Drafting Committee - Dr. B. R. Ambedkar is correctly matched."
   },
   {
-   "id": "indian-polity-00352",
+   "id": "indian-polity-00372",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Chief Minister - Local self-government at the village level",
@@ -5295,7 +5595,7 @@
    "e": "Only Chief Minister - Head of the State Government is correctly matched."
   },
   {
-   "id": "indian-polity-00353",
+   "id": "indian-polity-00373",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Right against Exploitation - Part VI, Articles 152-237",
@@ -5310,7 +5610,7 @@
    "e": "Only Right against Exploitation - Articles 23-24 is correctly matched."
   },
   {
-   "id": "indian-polity-00354",
+   "id": "indian-polity-00374",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Seventh Schedule deals with - Prohibition",
@@ -5325,7 +5625,7 @@
    "e": "Only Seventh Schedule deals with - Union, State and Concurrent Lists is correctly matched."
   },
   {
-   "id": "indian-polity-00355",
+   "id": "indian-polity-00375",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Attorney General of India - Protects human rights in India",
@@ -5340,7 +5640,7 @@
    "e": "Only Attorney General of India - Chief legal adviser to the Government of India is correctly matched."
   },
   {
-   "id": "indian-polity-00356",
+   "id": "indian-polity-00376",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Right against Exploitation - Articles 23-24",
@@ -5355,7 +5655,7 @@
    "e": "Only Right against Exploitation - Articles 23-24 is correctly matched."
   },
   {
-   "id": "indian-polity-00357",
+   "id": "indian-polity-00377",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Seventh Schedule deals with - 30 years",
@@ -5370,7 +5670,7 @@
    "e": "Only Seventh Schedule deals with - Union, State and Concurrent Lists is correctly matched."
   },
   {
-   "id": "indian-polity-00358",
+   "id": "indian-polity-00378",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Attorney General of India - Chief legal adviser to the Government of India",
@@ -5385,7 +5685,7 @@
    "e": "Only Attorney General of India - Chief legal adviser to the Government of India is correctly matched."
   },
   {
-   "id": "indian-polity-00359",
+   "id": "indian-polity-00379",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Right to Equality - Articles 14-18",
@@ -5400,7 +5700,7 @@
    "e": "Only Right to Equality - Articles 14-18 is correctly matched."
   },
   {
-   "id": "indian-polity-00360",
+   "id": "indian-polity-00380",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The First Amendment of the Constitution was made in - 26 November 1949",
@@ -5415,7 +5715,7 @@
    "e": "Only The First Amendment of the Constitution was made in - 1951 is correctly matched."
   },
   {
-   "id": "indian-polity-00361",
+   "id": "indian-polity-00381",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Solicitor General of India - Supervises elections to Parliament and State legislatures",
@@ -5430,7 +5730,7 @@
    "e": "Only Solicitor General of India - Second highest law officer of the Union is correctly matched."
   },
   {
-   "id": "indian-polity-00362",
+   "id": "indian-polity-00382",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Right to Equality - Article 80",
@@ -5445,7 +5745,7 @@
    "e": "Only Right to Equality - Articles 14-18 is correctly matched."
   },
   {
-   "id": "indian-polity-00363",
+   "id": "indian-polity-00383",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The First Amendment of the Constitution was made in - 1951",
@@ -5460,7 +5760,7 @@
    "e": "Only The First Amendment of the Constitution was made in - 1951 is correctly matched."
   },
   {
-   "id": "indian-polity-00364",
+   "id": "indian-polity-00384",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Solicitor General of India - Head of the Union Government",
@@ -5475,7 +5775,7 @@
    "e": "Only Solicitor General of India - Second highest law officer of the Union is correctly matched."
   },
   {
-   "id": "indian-polity-00365",
+   "id": "indian-polity-00385",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Union of India consisting of States and Union Territories - Article 23",
@@ -5490,7 +5790,7 @@
    "e": "Only Union of India consisting of States and Union Territories - Article 1 is correctly matched."
   },
   {
-   "id": "indian-polity-00366",
+   "id": "indian-polity-00386",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Term of a member of the Rajya Sabha - A Sovereign Socialist Secular Democratic Republic",
@@ -5505,7 +5805,7 @@
    "e": "Only Term of a member of the Rajya Sabha - 6 years is correctly matched."
   },
   {
-   "id": "indian-polity-00367",
+   "id": "indian-polity-00387",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "NITI Aayog Vice Chairman - Constitutional head of the Republic",
@@ -5520,7 +5820,7 @@
    "e": "Only NITI Aayog Vice Chairman - Deputy to the Prime Minister in the policy think tank is correctly matched."
   },
   {
-   "id": "indian-polity-00368",
+   "id": "indian-polity-00388",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Union of India consisting of States and Union Territories - Article 1",
@@ -5535,7 +5835,7 @@
    "e": "Only Union of India consisting of States and Union Territories - Article 1 is correctly matched."
   },
   {
-   "id": "indian-polity-00369",
+   "id": "indian-polity-00389",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Term of a member of the Rajya Sabha - 25",
@@ -5550,7 +5850,7 @@
    "e": "Only Term of a member of the Rajya Sabha - 6 years is correctly matched."
   },
   {
-   "id": "indian-polity-00370",
+   "id": "indian-polity-00390",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "NITI Aayog Vice Chairman - Supervises elections to Parliament and State legislatures",
@@ -5565,7 +5865,7 @@
    "e": "Only NITI Aayog Vice Chairman - Deputy to the Prime Minister in the policy think tank is correctly matched."
   },
   {
-   "id": "indian-polity-00371",
+   "id": "indian-polity-00391",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Speaker and Deputy Speaker of the Lok Sabha - Part XVIII, Articles 352-360",
@@ -5580,7 +5880,7 @@
    "e": "Only Speaker and Deputy Speaker of the Lok Sabha - Article 93 is correctly matched."
   },
   {
-   "id": "indian-polity-00372",
+   "id": "indian-polity-00392",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Source of the Parliamentary system - Prohibition",
@@ -5595,7 +5895,7 @@
    "e": "Only Source of the Parliamentary system - United Kingdom is correctly matched."
   },
   {
-   "id": "indian-polity-00373",
+   "id": "indian-polity-00393",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Chief Justice of India - Protects human rights in India",
@@ -5610,7 +5910,7 @@
    "e": "Only Chief Justice of India - Head of the Indian judiciary is correctly matched."
   },
   {
-   "id": "indian-polity-00374",
+   "id": "indian-polity-00394",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Speaker and Deputy Speaker of the Lok Sabha - Part XIV, Articles 308-323",
@@ -5625,7 +5925,7 @@
    "e": "Only Speaker and Deputy Speaker of the Lok Sabha - Article 93 is correctly matched."
   },
   {
-   "id": "indian-polity-00375",
+   "id": "indian-polity-00395",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Source of the Parliamentary system - The President of India",
@@ -5640,7 +5940,7 @@
    "e": "Only Source of the Parliamentary system - United Kingdom is correctly matched."
   },
   {
-   "id": "indian-polity-00376",
+   "id": "indian-polity-00396",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Chief Justice of India - Head of the Union Government",
@@ -5655,7 +5955,7 @@
    "e": "Only Chief Justice of India - Head of the Indian judiciary is correctly matched."
   },
   {
-   "id": "indian-polity-00377",
+   "id": "indian-polity-00397",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Council of Ministers to aid and advise the President - Article 74",
@@ -5670,7 +5970,7 @@
    "e": "Only Council of Ministers to aid and advise the President - Article 74 is correctly matched."
   },
   {
-   "id": "indian-polity-00378",
+   "id": "indian-polity-00398",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The word 'socialist' was added by - United States of America",
@@ -5685,7 +5985,7 @@
    "e": "Only The word 'socialist' was added by - 42nd Amendment is correctly matched."
   },
   {
-   "id": "indian-polity-00379",
+   "id": "indian-polity-00399",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Governor - Local self-government in urban areas",
@@ -5700,7 +6000,7 @@
    "e": "Only Governor - Constitutional head of a State is correctly matched."
   },
   {
-   "id": "indian-polity-00380",
+   "id": "indian-polity-00400",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Council of Ministers to aid and advise the President - Article 75",
@@ -5715,7 +6015,7 @@
    "e": "Only Council of Ministers to aid and advise the President - Article 74 is correctly matched."
   },
   {
-   "id": "indian-polity-00381",
+   "id": "indian-polity-00401",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The word 'socialist' was added by - Prohibition",
@@ -5730,7 +6030,7 @@
    "e": "Only The word 'socialist' was added by - 42nd Amendment is correctly matched."
   },
   {
-   "id": "indian-polity-00382",
+   "id": "indian-polity-00402",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Governor - Deputy to the Prime Minister in the policy think tank",
@@ -5745,7 +6045,7 @@
    "e": "Only Governor - Constitutional head of a State is correctly matched."
   },
   {
-   "id": "indian-polity-00383",
+   "id": "indian-polity-00403",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Right to Education - Part I, Articles 1-4",
@@ -5760,7 +6060,7 @@
    "e": "Only Right to Education - Article 21A is correctly matched."
   },
   {
-   "id": "indian-polity-00384",
+   "id": "indian-polity-00404",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Twelfth Schedule deals with - Powers of Municipalities",
@@ -5775,7 +6075,7 @@
    "e": "Only Twelfth Schedule deals with - Powers of Municipalities is correctly matched."
   },
   {
-   "id": "indian-polity-00385",
+   "id": "indian-polity-00405",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "IRDAI - Recommends distribution of taxes between the Centre and States",
@@ -5790,7 +6090,7 @@
    "e": "Only IRDAI - Regulator of the insurance sector is correctly matched."
   },
   {
-   "id": "indian-polity-00386",
+   "id": "indian-polity-00406",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Right to Education - Article 75",
@@ -5805,7 +6105,7 @@
    "e": "Only Right to Education - Article 21A is correctly matched."
   },
   {
-   "id": "indian-polity-00387",
+   "id": "indian-polity-00407",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Twelfth Schedule deals with - Certiorari",
@@ -5820,7 +6120,7 @@
    "e": "Only Twelfth Schedule deals with - Powers of Municipalities is correctly matched."
   },
   {
-   "id": "indian-polity-00388",
+   "id": "indian-polity-00408",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "IRDAI - Regulator of the insurance sector",
@@ -5835,7 +6135,7 @@
    "e": "Only IRDAI - Regulator of the insurance sector is correctly matched."
   },
   {
-   "id": "indian-polity-00389",
+   "id": "indian-polity-00409",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Directive Principles of State Policy - Article 356",
@@ -5850,7 +6150,7 @@
    "e": "Only Directive Principles of State Policy - Part IV, Articles 36-51 is correctly matched."
   },
   {
-   "id": "indian-polity-00390",
+   "id": "indian-polity-00410",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The budget is laid before Parliament under - Land reform laws protected from judicial review",
@@ -5865,7 +6165,7 @@
    "e": "Only The budget is laid before Parliament under - Article 112 (Annual Financial Statement) is correctly matched."
   },
   {
-   "id": "indian-polity-00391",
+   "id": "indian-polity-00411",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Vice President of India - Ex-officio Chairman of the Rajya Sabha",
@@ -5880,7 +6180,7 @@
    "e": "Only Vice President of India - Ex-officio Chairman of the Rajya Sabha is correctly matched."
   },
   {
-   "id": "indian-polity-00392",
+   "id": "indian-polity-00412",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Directive Principles of State Policy - Part IV, Articles 36-51",
@@ -5895,7 +6195,7 @@
    "e": "Only Directive Principles of State Policy - Part IV, Articles 36-51 is correctly matched."
   },
   {
-   "id": "indian-polity-00393",
+   "id": "indian-polity-00413",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The budget is laid before Parliament under - Impeachment",
@@ -5910,7 +6210,7 @@
    "e": "Only The budget is laid before Parliament under - Article 112 (Annual Financial Statement) is correctly matched."
   },
   {
-   "id": "indian-polity-00394",
+   "id": "indian-polity-00414",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Vice President of India - Policy think tank of the Government of India",
@@ -5925,7 +6225,7 @@
    "e": "Only Vice President of India - Ex-officio Chairman of the Rajya Sabha is correctly matched."
   },
   {
-   "id": "indian-polity-00395",
+   "id": "indian-polity-00415",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Prohibition of child labour in factories - Articles 29-30",
@@ -5940,7 +6240,7 @@
    "e": "Only Prohibition of child labour in factories - Article 24 is correctly matched."
   },
   {
-   "id": "indian-polity-00396",
+   "id": "indian-polity-00416",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Minimum age to become a member of the Rajya Sabha - 42nd Amendment",
@@ -5955,7 +6255,7 @@
    "e": "Only Minimum age to become a member of the Rajya Sabha - 30 years is correctly matched."
   },
   {
-   "id": "indian-polity-00397",
+   "id": "indian-polity-00417",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "NITI Aayog - Central bank and monetary authority",
@@ -5970,7 +6270,7 @@
    "e": "Only NITI Aayog - Policy think tank of the Government of India is correctly matched."
   },
   {
-   "id": "indian-polity-00398",
+   "id": "indian-polity-00418",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Prohibition of child labour in factories - Part V, Articles 52-151",
@@ -5985,7 +6285,7 @@
    "e": "Only Prohibition of child labour in factories - Article 24 is correctly matched."
   },
   {
-   "id": "indian-polity-00399",
+   "id": "indian-polity-00419",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Minimum age to become a member of the Rajya Sabha - Prohibition",
@@ -6000,7 +6300,7 @@
    "e": "Only Minimum age to become a member of the Rajya Sabha - 30 years is correctly matched."
   },
   {
-   "id": "indian-polity-00400",
+   "id": "indian-polity-00420",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "NITI Aayog - Regulator of the insurance sector",
@@ -6015,7 +6315,7 @@
    "e": "Only NITI Aayog - Policy think tank of the Government of India is correctly matched."
   },
   {
-   "id": "indian-polity-00401",
+   "id": "indian-polity-00421",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Composition of the Rajya Sabha - Article 280",
@@ -6030,7 +6330,7 @@
    "e": "Only Composition of the Rajya Sabha - Article 80 is correctly matched."
   },
   {
-   "id": "indian-polity-00402",
+   "id": "indian-polity-00422",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Jammu and Kashmir was reorganised into Union Territories in - 22",
@@ -6045,7 +6345,7 @@
    "e": "Only Jammu and Kashmir was reorganised into Union Territories in - 2019 is correctly matched."
   },
   {
-   "id": "indian-polity-00403",
+   "id": "indian-polity-00423",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Council of Ministers - Second highest law officer of the Union",
@@ -6060,7 +6360,7 @@
    "e": "Only Council of Ministers - Aids and advises the President is correctly matched."
   },
   {
-   "id": "indian-polity-00404",
+   "id": "indian-polity-00424",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Composition of the Rajya Sabha - Articles 14-18",
@@ -6075,7 +6375,7 @@
    "e": "Only Composition of the Rajya Sabha - Article 80 is correctly matched."
   },
   {
-   "id": "indian-polity-00405",
+   "id": "indian-polity-00425",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Jammu and Kashmir was reorganised into Union Territories in - United States of America",
@@ -6090,7 +6390,7 @@
    "e": "Only Jammu and Kashmir was reorganised into Union Territories in - 2019 is correctly matched."
   },
   {
-   "id": "indian-polity-00406",
+   "id": "indian-polity-00426",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Council of Ministers - House of the People",
@@ -6105,7 +6405,7 @@
    "e": "Only Council of Ministers - Aids and advises the President is correctly matched."
   },
   {
-   "id": "indian-polity-00407",
+   "id": "indian-polity-00427",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "President's rule in states - Article 54",
@@ -6120,7 +6420,7 @@
    "e": "Only President's rule in states - Article 356 is correctly matched."
   },
   {
-   "id": "indian-polity-00408",
+   "id": "indian-polity-00428",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Number of Schedules in the Constitution - Mandamus",
@@ -6135,7 +6435,7 @@
    "e": "Only Number of Schedules in the Constitution - 12 is correctly matched."
   },
   {
-   "id": "indian-polity-00409",
+   "id": "indian-polity-00429",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Panchayat - Ex-officio Chairman of the Rajya Sabha",
@@ -6150,7 +6450,7 @@
    "e": "Only Panchayat - Local self-government at the village level is correctly matched."
   },
   {
-   "id": "indian-polity-00410",
+   "id": "indian-polity-00430",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "President's rule in states - Article 124",
@@ -6165,7 +6465,7 @@
    "e": "Only President's rule in states - Article 356 is correctly matched."
   },
   {
-   "id": "indian-polity-00411",
+   "id": "indian-polity-00431",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Number of Schedules in the Constitution - 35 years",
@@ -6180,7 +6480,7 @@
    "e": "Only Number of Schedules in the Constitution - 12 is correctly matched."
   },
   {
-   "id": "indian-polity-00412",
+   "id": "indian-polity-00432",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Panchayat - Constitutional head of a State",
@@ -6195,7 +6495,7 @@
    "e": "Only Panchayat - Local self-government at the village level is correctly matched."
   },
   {
-   "id": "indian-polity-00413",
+   "id": "indian-polity-00433",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Fundamental Duties - Part XV, Articles 324-329",
@@ -6210,7 +6510,7 @@
    "e": "Only Fundamental Duties - Part IVA, Article 51A is correctly matched."
   },
   {
-   "id": "indian-polity-00414",
+   "id": "indian-polity-00434",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Source of procedure established by law - The President of India",
@@ -6225,7 +6525,7 @@
    "e": "Only Source of procedure established by law - Japan is correctly matched."
   },
   {
-   "id": "indian-polity-00415",
+   "id": "indian-polity-00435",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "National Human Rights Commission - Aids and advises the President",
@@ -6240,7 +6540,7 @@
    "e": "Only National Human Rights Commission - Protects human rights in India is correctly matched."
   },
   {
-   "id": "indian-polity-00416",
+   "id": "indian-polity-00436",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Fundamental Duties - Articles 19-22",
@@ -6255,7 +6555,7 @@
    "e": "Only Fundamental Duties - Part IVA, Article 51A is correctly matched."
   },
   {
-   "id": "indian-polity-00417",
+   "id": "indian-polity-00437",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Source of procedure established by law - Cabinet Mission Plan",
@@ -6270,7 +6570,7 @@
    "e": "Only Source of procedure established by law - Japan is correctly matched."
   },
   {
-   "id": "indian-polity-00418",
+   "id": "indian-polity-00438",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "National Human Rights Commission - Local body at the district level",
@@ -6285,7 +6585,7 @@
    "e": "Only National Human Rights Commission - Protects human rights in India is correctly matched."
   },
   {
-   "id": "indian-polity-00419",
+   "id": "indian-polity-00439",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Finance Commission - Article 280",
@@ -6300,7 +6600,7 @@
    "e": "Only Finance Commission - Article 280 is correctly matched."
   },
   {
-   "id": "indian-polity-00420",
+   "id": "indian-polity-00440",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Tenth Schedule deals with - Anti-defection provisions",
@@ -6315,7 +6615,7 @@
    "e": "Only Tenth Schedule deals with - Anti-defection provisions is correctly matched."
   },
   {
-   "id": "indian-polity-00421",
+   "id": "indian-polity-00441",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Lok Sabha - Local self-government in urban areas",
@@ -6330,7 +6630,7 @@
    "e": "Only Lok Sabha - House of the People is correctly matched."
   },
   {
-   "id": "indian-polity-00422",
+   "id": "indian-polity-00442",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Finance Commission - Part IXA, Articles 243P-243ZG",
@@ -6345,7 +6645,7 @@
    "e": "Only Finance Commission - Article 280 is correctly matched."
   },
   {
-   "id": "indian-polity-00423",
+   "id": "indian-polity-00443",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Tenth Schedule deals with - The Lok Sabha",
@@ -6360,7 +6660,7 @@
    "e": "Only Tenth Schedule deals with - Anti-defection provisions is correctly matched."
   },
   {
-   "id": "indian-polity-00424",
+   "id": "indian-polity-00444",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "Lok Sabha - Local self-government at the village level",
@@ -6375,7 +6675,7 @@
    "e": "Only Lok Sabha - House of the People is correctly matched."
   },
   {
-   "id": "indian-polity-00425",
+   "id": "indian-polity-00445",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Abolition of titles - Article 18",
@@ -6390,7 +6690,7 @@
    "e": "Only Abolition of titles - Article 18 is correctly matched."
   },
   {
-   "id": "indian-polity-00426",
+   "id": "indian-polity-00446",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Chairman of the Constituent Assembly - Japan",
@@ -6405,7 +6705,7 @@
    "e": "Only Chairman of the Constituent Assembly - Dr. Rajendra Prasad is correctly matched."
   },
   {
-   "id": "indian-polity-00427",
+   "id": "indian-polity-00447",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "President of India - Regulator of the securities market",
@@ -6420,7 +6720,7 @@
    "e": "Only President of India - Constitutional head of the Republic is correctly matched."
   },
   {
-   "id": "indian-polity-00428",
+   "id": "indian-polity-00448",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Abolition of titles - Article 18",
@@ -6435,7 +6735,7 @@
    "e": "Only Abolition of titles - Article 18 is correctly matched."
   },
   {
-   "id": "indian-polity-00429",
+   "id": "indian-polity-00449",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Chairman of the Constituent Assembly - Dr. Rajendra Prasad",
@@ -6450,7 +6750,7 @@
    "e": "Only Chairman of the Constituent Assembly - Dr. Rajendra Prasad is correctly matched."
   },
   {
-   "id": "indian-polity-00430",
+   "id": "indian-polity-00450",
    "q": "Which of the following pairs of institution and description is correctly matched?",
    "o": [
     "President of India - Constitutional head of the Republic",
@@ -6465,7 +6765,7 @@
    "e": "Only President of India - Constitutional head of the Republic is correctly matched."
   },
   {
-   "id": "indian-polity-00431",
+   "id": "indian-polity-00451",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "The State Government - Part VI, Articles 152-237",
@@ -6480,7 +6780,7 @@
    "e": "Only The State Government - Part VI, Articles 152-237 is correctly matched."
   },
   {
-   "id": "indian-polity-00432",
+   "id": "indian-polity-00452",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Source of the emergency provisions - The Lok Sabha",
@@ -6495,7 +6795,7 @@
    "e": "Only Source of the emergency provisions - Germany is correctly matched."
   },
   {
-   "id": "indian-polity-00433",
+   "id": "indian-polity-00453",
    "q": "Which of the following pairs of institution and description is NOT correctly matched?",
    "o": [
     "Finance Commission - Recommends distribution of taxes between the Centre and States",
@@ -6510,7 +6810,7 @@
    "e": "The pair Vice President of India - Constitutional head of the Republic is not correctly matched."
   },
   {
-   "id": "indian-polity-00434",
+   "id": "indian-polity-00454",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "The State Government - Part VI, Articles 152-237",
@@ -6525,7 +6825,7 @@
    "e": "Only The State Government - Part VI, Articles 152-237 is correctly matched."
   },
   {
-   "id": "indian-polity-00435",
+   "id": "indian-polity-00455",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Source of the emergency provisions - Germany",
@@ -6540,7 +6840,7 @@
    "e": "Only Source of the emergency provisions - Germany is correctly matched."
   },
   {
-   "id": "indian-polity-00436",
+   "id": "indian-polity-00456",
    "q": "Which of the following pairs of institution and description is NOT correctly matched?",
    "o": [
     "Finance Commission - Recommends distribution of taxes between the Centre and States",
@@ -6555,7 +6855,7 @@
    "e": "The pair NITI Aayog Vice Chairman - Regulator of telecommunications is not correctly matched."
   },
   {
-   "id": "indian-polity-00437",
+   "id": "indian-polity-00457",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Comptroller and Auditor General of India - Article 24",
@@ -6570,7 +6870,7 @@
    "e": "Only Comptroller and Auditor General of India - Article 148 is correctly matched."
   },
   {
-   "id": "indian-polity-00438",
+   "id": "indian-polity-00458",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "First meeting of the Constituent Assembly - Mandamus",
@@ -6585,7 +6885,7 @@
    "e": "Only First meeting of the Constituent Assembly - 9 December 1946 is correctly matched."
   },
   {
-   "id": "indian-polity-00439",
+   "id": "indian-polity-00459",
    "q": "Which of the following pairs of institution and description is NOT correctly matched?",
    "o": [
     "Council of Ministers - Aids and advises the President",
@@ -6600,7 +6900,7 @@
    "e": "The pair Solicitor General of India - Ex-officio Chairman of the Rajya Sabha is not correctly matched."
   },
   {
-   "id": "indian-polity-00440",
+   "id": "indian-polity-00460",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Comptroller and Auditor General of India - Part IX, Articles 243-243O",
@@ -6615,7 +6915,7 @@
    "e": "Only Comptroller and Auditor General of India - Article 148 is correctly matched."
   },
   {
-   "id": "indian-polity-00441",
+   "id": "indian-polity-00461",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "First meeting of the Constituent Assembly - Union, State and Concurrent Lists",
@@ -6630,7 +6930,7 @@
    "e": "Only First meeting of the Constituent Assembly - 9 December 1946 is correctly matched."
   },
   {
-   "id": "indian-polity-00442",
+   "id": "indian-polity-00462",
    "q": "Which of the following pairs of institution and description is NOT correctly matched?",
    "o": [
     "State Legislature - Regulator of the securities market",
@@ -6645,7 +6945,7 @@
    "e": "The pair State Legislature - Regulator of the securities market is not correctly matched."
   },
   {
-   "id": "indian-polity-00443",
+   "id": "indian-polity-00463",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Emergency due to war or external aggression - Article 352",
@@ -6660,7 +6960,7 @@
    "e": "Only Emergency due to war or external aggression - Article 352 is correctly matched."
   },
   {
-   "id": "indian-polity-00444",
+   "id": "indian-polity-00464",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Source of the Concurrent List - M. N. Roy",
@@ -6675,7 +6975,7 @@
    "e": "Only Source of the Concurrent List - Australia is correctly matched."
   },
   {
-   "id": "indian-polity-00445",
+   "id": "indian-polity-00465",
    "q": "Which of the following pairs of institution and description is NOT correctly matched?",
    "o": [
     "Finance Commission - Recommends distribution of taxes between the Centre and States",
@@ -6690,7 +6990,7 @@
    "e": "The pair Council of Ministers - Council of States, permanent house is not correctly matched."
   },
   {
-   "id": "indian-polity-00446",
+   "id": "indian-polity-00466",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Emergency due to war or external aggression - Article 352",
@@ -6705,7 +7005,7 @@
    "e": "Only Emergency due to war or external aggression - Article 352 is correctly matched."
   },
   {
-   "id": "indian-polity-00447",
+   "id": "indian-polity-00467",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Source of the Concurrent List - 22",
@@ -6720,7 +7020,7 @@
    "e": "Only Source of the Concurrent List - Australia is correctly matched."
   },
   {
-   "id": "indian-polity-00448",
+   "id": "indian-polity-00468",
    "q": "Which of the following pairs of institution and description is NOT correctly matched?",
    "o": [
     "NITI Aayog - Policy think tank of the Government of India",
@@ -6735,7 +7035,7 @@
    "e": "The pair IRDAI - Union legislature consisting of the President and two Houses is not correctly matched."
   },
   {
-   "id": "indian-polity-00449",
+   "id": "indian-polity-00469",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Abolition of untouchability - Article 214",
@@ -6750,7 +7050,7 @@
    "e": "Only Abolition of untouchability - Article 17 is correctly matched."
   },
   {
-   "id": "indian-polity-00450",
+   "id": "indian-polity-00470",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Minimum age to become a voter in India - 11",
@@ -6765,7 +7065,7 @@
    "e": "Only Minimum age to become a voter in India - 18 years is correctly matched."
   },
   {
-   "id": "indian-polity-00451",
+   "id": "indian-polity-00471",
    "q": "Which of the following pairs of institution and description is NOT correctly matched?",
    "o": [
     "SEBI - Watches over vigilance in government",
@@ -6780,7 +7080,7 @@
    "e": "The pair SEBI - Watches over vigilance in government is not correctly matched."
   },
   {
-   "id": "indian-polity-00452",
+   "id": "indian-polity-00472",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Abolition of untouchability - Part IX, Articles 243-243O",
@@ -6795,7 +7095,7 @@
    "e": "Only Abolition of untouchability - Article 17 is correctly matched."
   },
   {
-   "id": "indian-polity-00453",
+   "id": "indian-polity-00473",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Minimum age to become a voter in India - 12",
@@ -6810,7 +7110,7 @@
    "e": "Only Minimum age to become a voter in India - 18 years is correctly matched."
   },
   {
-   "id": "indian-polity-00454",
+   "id": "indian-polity-00474",
    "q": "Which of the following pairs of institution and description is NOT correctly matched?",
    "o": [
     "Union Public Service Commission - Central bank and monetary authority",
@@ -6825,7 +7125,7 @@
    "e": "The pair Union Public Service Commission - Central bank and monetary authority is not correctly matched."
   },
   {
-   "id": "indian-polity-00455",
+   "id": "indian-polity-00475",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Election of the President - Article 81",
@@ -6840,7 +7140,7 @@
    "e": "Only Election of the President - Article 54 is correctly matched."
   },
   {
-   "id": "indian-polity-00456",
+   "id": "indian-polity-00476",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Removal of the President is called - Impeachment",
@@ -6855,7 +7155,7 @@
    "e": "Only Removal of the President is called - Impeachment is correctly matched."
   },
   {
-   "id": "indian-polity-00457",
+   "id": "indian-polity-00477",
    "q": "Which of the following pairs of institution and description is NOT correctly matched?",
    "o": [
     "President of India - Constitutional head of the Republic",
@@ -6870,7 +7170,7 @@
    "e": "The pair Lok Sabha - Administered by the President through administrators is not correctly matched."
   },
   {
-   "id": "indian-polity-00458",
+   "id": "indian-polity-00478",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Election of the President - Article 18",
@@ -6885,7 +7185,7 @@
    "e": "Only Election of the President - Article 54 is correctly matched."
   },
   {
-   "id": "indian-polity-00459",
+   "id": "indian-polity-00479",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Removal of the President is called - The Supreme Court collegium",
@@ -6900,7 +7200,7 @@
    "e": "Only Removal of the President is called - Impeachment is correctly matched."
   },
   {
-   "id": "indian-polity-00460",
+   "id": "indian-polity-00480",
    "q": "Which of the following pairs of institution and description is NOT correctly matched?",
    "o": [
     "NITI Aayog - Policy think tank of the Government of India",
@@ -6915,7 +7215,7 @@
    "e": "The pair Union Territories - Apex judicial body of India is not correctly matched."
   },
   {
-   "id": "indian-polity-00461",
+   "id": "indian-polity-00481",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Union Public Service Commission - Part II, Articles 5-11",
@@ -6930,7 +7230,7 @@
    "e": "Only Union Public Service Commission - Article 315 is correctly matched."
   },
   {
-   "id": "indian-polity-00462",
+   "id": "indian-polity-00482",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The Preamble declares India to be - A Sovereign Socialist Secular Democratic Republic",
@@ -6945,7 +7245,7 @@
    "e": "Only The Preamble declares India to be - A Sovereign Socialist Secular Democratic Republic is correctly matched."
   },
   {
-   "id": "indian-polity-00463",
+   "id": "indian-polity-00483",
    "q": "Which of the following pairs of institution and description is NOT correctly matched?",
    "o": [
     "NITI Aayog - Policy think tank of the Government of India",
@@ -6960,7 +7260,7 @@
    "e": "The pair Zilla Parishad - Chief legal adviser to the Government of India is not correctly matched."
   },
   {
-   "id": "indian-polity-00464",
+   "id": "indian-polity-00484",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Union Public Service Commission - Part XVII, Articles 343-351",
@@ -6975,7 +7275,7 @@
    "e": "Only Union Public Service Commission - Article 315 is correctly matched."
   },
   {
-   "id": "indian-polity-00465",
+   "id": "indian-polity-00485",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The Preamble declares India to be - 30 years",
@@ -6990,7 +7290,7 @@
    "e": "Only The Preamble declares India to be - A Sovereign Socialist Secular Democratic Republic is correctly matched."
   },
   {
-   "id": "indian-polity-00466",
+   "id": "indian-polity-00486",
    "q": "Which of the following pairs of institution and description is NOT correctly matched?",
    "o": [
     "Union Territories - Administered by the President through administrators",
@@ -7005,7 +7305,7 @@
    "e": "The pair Comptroller and Auditor General - Local body at the district level is not correctly matched."
   },
   {
-   "id": "indian-polity-00467",
+   "id": "indian-polity-00487",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "The Union and its territory - Part XV, Articles 324-329",
@@ -7020,7 +7320,7 @@
    "e": "Only The Union and its territory - Part I, Articles 1-4 is correctly matched."
   },
   {
-   "id": "indian-polity-00468",
+   "id": "indian-polity-00488",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Eighth Schedule deals with - Australia",
@@ -7035,7 +7335,7 @@
    "e": "Only Eighth Schedule deals with - Official languages is correctly matched."
   },
   {
-   "id": "indian-polity-00469",
+   "id": "indian-polity-00489",
    "q": "Which of the following pairs of institution and description is NOT correctly matched?",
    "o": [
     "National Human Rights Commission - Protects human rights in India",
@@ -7050,7 +7350,7 @@
    "e": "The pair Governor - Second highest law officer of the Union is not correctly matched."
   },
   {
-   "id": "indian-polity-00470",
+   "id": "indian-polity-00490",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "The Union and its territory - Part XVIII, Articles 352-360",
@@ -7065,7 +7365,7 @@
    "e": "Only The Union and its territory - Part I, Articles 1-4 is correctly matched."
   },
   {
-   "id": "indian-polity-00471",
+   "id": "indian-polity-00491",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Eighth Schedule deals with - The Lok Sabha",
@@ -7080,7 +7380,7 @@
    "e": "Only Eighth Schedule deals with - Official languages is correctly matched."
   },
   {
-   "id": "indian-polity-00472",
+   "id": "indian-polity-00492",
    "q": "Which of the following pairs of institution and description is NOT correctly matched?",
    "o": [
     "NITI Aayog Vice Chairman - Deputy to the Prime Minister in the policy think tank",
@@ -7095,7 +7395,7 @@
    "e": "The pair NITI Aayog - Regulator of the insurance sector is not correctly matched."
   },
   {
-   "id": "indian-polity-00473",
+   "id": "indian-polity-00493",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Advocate General of a State - Articles 29-30",
@@ -7110,7 +7410,7 @@
    "e": "Only Advocate General of a State - Article 165 is correctly matched."
   },
   {
-   "id": "indian-polity-00474",
+   "id": "indian-polity-00494",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A no-confidence motion can be moved only in - Anti-defection provisions",
@@ -7125,7 +7425,7 @@
    "e": "Only A no-confidence motion can be moved only in - The Lok Sabha is correctly matched."
   },
   {
-   "id": "indian-polity-00475",
+   "id": "indian-polity-00495",
    "q": "Which of the following pairs of institution and description is NOT correctly matched?",
    "o": [
     "Finance Commission - Recommends distribution of taxes between the Centre and States",
@@ -7140,7 +7440,7 @@
    "e": "The pair President of India - Recruits civil servants for the Union is not correctly matched."
   },
   {
-   "id": "indian-polity-00476",
+   "id": "indian-polity-00496",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Advocate General of a State - Article 352",
@@ -7155,7 +7455,7 @@
    "e": "Only Advocate General of a State - Article 165 is correctly matched."
   },
   {
-   "id": "indian-polity-00477",
+   "id": "indian-polity-00497",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A no-confidence motion can be moved only in - 42nd Amendment",
@@ -7170,7 +7470,7 @@
    "e": "Only A no-confidence motion can be moved only in - The Lok Sabha is correctly matched."
   },
   {
-   "id": "indian-polity-00478",
+   "id": "indian-polity-00498",
    "q": "Which of the following pairs of institution and description is NOT correctly matched?",
    "o": [
     "Finance Commission - Recommends distribution of taxes between the Centre and States",
@@ -7185,7 +7485,7 @@
    "e": "The pair Rajya Sabha - House of the People is not correctly matched."
   },
   {
-   "id": "indian-polity-00479",
+   "id": "indian-polity-00499",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Supreme Court of India - Articles 14-18",
@@ -7200,7 +7500,7 @@
    "e": "Only Supreme Court of India - Article 124 is correctly matched."
   },
   {
-   "id": "indian-polity-00480",
+   "id": "indian-polity-00500",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Who administers the oath of office to the President - The Chief Justice of India",
@@ -7215,7 +7515,7 @@
    "e": "Only Who administers the oath of office to the President - The Chief Justice of India is correctly matched."
   },
   {
-   "id": "indian-polity-00481",
+   "id": "indian-polity-00501",
    "q": "Which of the following pairs of institution and description is NOT correctly matched?",
    "o": [
     "Telecom Regulatory Authority of India - Regulator of telecommunications",
@@ -7230,7 +7530,7 @@
    "e": "The pair Panchayat - Council of States, permanent house is not correctly matched."
   },
   {
-   "id": "indian-polity-00482",
+   "id": "indian-polity-00502",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Supreme Court of India - Part IXA, Articles 243P-243ZG",
@@ -7245,7 +7545,7 @@
    "e": "Only Supreme Court of India - Article 124 is correctly matched."
   },
   {
-   "id": "indian-polity-00483",
+   "id": "indian-polity-00503",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Who administers the oath of office to the President - The President of India",
@@ -7260,7 +7560,7 @@
    "e": "Only Who administers the oath of office to the President - The Chief Justice of India is correctly matched."
   },
   {
-   "id": "indian-polity-00484",
+   "id": "indian-polity-00504",
    "q": "Which of the following pairs of institution and description is NOT correctly matched?",
    "o": [
     "NITI Aayog Vice Chairman - Deputy to the Prime Minister in the policy think tank",
@@ -7275,7 +7575,7 @@
    "e": "The pair Reserve Bank of India - Watches over vigilance in government is not correctly matched."
   },
   {
-   "id": "indian-polity-00485",
+   "id": "indian-polity-00505",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Official language - Article 324",
@@ -7290,7 +7590,7 @@
    "e": "Only Official language - Part XVII, Articles 343-351 is correctly matched."
   },
   {
-   "id": "indian-polity-00486",
+   "id": "indian-polity-00506",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Term of the President of India - 5 years",
@@ -7305,7 +7605,7 @@
    "e": "Only Term of the President of India - 5 years is correctly matched."
   },
   {
-   "id": "indian-polity-00487",
+   "id": "indian-polity-00507",
    "q": "Which of the following pairs of institution and description is NOT correctly matched?",
    "o": [
     "National Human Rights Commission - Protects human rights in India",
@@ -7320,7 +7620,7 @@
    "e": "The pair Municipality - Audits government accounts is not correctly matched."
   },
   {
-   "id": "indian-polity-00488",
+   "id": "indian-polity-00508",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Official language - Part XVII, Articles 343-351",
@@ -7335,7 +7635,7 @@
    "e": "Only Official language - Part XVII, Articles 343-351 is correctly matched."
   },
   {
-   "id": "indian-polity-00489",
+   "id": "indian-polity-00509",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Term of the President of India - The Prime Minister",
@@ -7350,7 +7650,7 @@
    "e": "Only Term of the President of India - 5 years is correctly matched."
   },
   {
-   "id": "indian-polity-00490",
+   "id": "indian-polity-00510",
    "q": "Which of the following pairs of institution and description is NOT correctly matched?",
    "o": [
     "Central Vigilance Commission - Head of the Indian judiciary",
@@ -7365,7 +7665,7 @@
    "e": "The pair Central Vigilance Commission - Head of the Indian judiciary is not correctly matched."
   },
   {
-   "id": "indian-polity-00491",
+   "id": "indian-polity-00511",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "High Courts - Articles 14-18",
@@ -7380,7 +7680,7 @@
    "e": "Only High Courts - Article 214 is correctly matched."
   },
   {
-   "id": "indian-polity-00492",
+   "id": "indian-polity-00512",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Number of languages in the Eighth Schedule - 9 December 1946",
@@ -7395,7 +7695,7 @@
    "e": "Only Number of languages in the Eighth Schedule - 22 is correctly matched."
   },
   {
-   "id": "indian-polity-00493",
+   "id": "indian-polity-00513",
    "q": "Which of the following pairs of institution and description is NOT correctly matched?",
    "o": [
     "Parliament of India - Council of States, permanent house",
@@ -7410,7 +7710,7 @@
    "e": "The pair Parliament of India - Council of States, permanent house is not correctly matched."
   },
   {
-   "id": "indian-polity-00494",
+   "id": "indian-polity-00514",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "High Courts - Article 214",
@@ -7425,7 +7725,7 @@
    "e": "Only High Courts - Article 214 is correctly matched."
   },
   {
-   "id": "indian-polity-00495",
+   "id": "indian-polity-00515",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Number of languages in the Eighth Schedule - 22",
@@ -7440,7 +7740,7 @@
    "e": "Only Number of languages in the Eighth Schedule - 22 is correctly matched."
   },
   {
-   "id": "indian-polity-00496",
+   "id": "indian-polity-00516",
    "q": "Which of the following pairs of institution and description is NOT correctly matched?",
    "o": [
     "National Human Rights Commission - Regulator of the securities market",
@@ -7455,7 +7755,7 @@
    "e": "The pair National Human Rights Commission - Regulator of the securities market is not correctly matched."
   },
   {
-   "id": "indian-polity-00497",
+   "id": "indian-polity-00517",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Services under the Union and States - Article 21",
@@ -7470,7 +7770,7 @@
    "e": "Only Services under the Union and States - Part XIV, Articles 308-323 is correctly matched."
   },
   {
-   "id": "indian-polity-00498",
+   "id": "indian-polity-00518",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Who is the constitutional head of a State - Canada",
@@ -7485,7 +7785,7 @@
    "e": "Only Who is the constitutional head of a State - The Governor is correctly matched."
   },
   {
-   "id": "indian-polity-00499",
+   "id": "indian-polity-00519",
    "q": "Which of the following pairs of institution and description is NOT correctly matched?",
    "o": [
     "Zilla Parishad - Local body at the district level",
@@ -7500,7 +7800,7 @@
    "e": "The pair Finance Commission - Head of the Indian judiciary is not correctly matched."
   },
   {
-   "id": "indian-polity-00500",
+   "id": "indian-polity-00520",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Services under the Union and States - Article 17",
@@ -7515,7 +7815,7 @@
    "e": "Only Services under the Union and States - Part XIV, Articles 308-323 is correctly matched."
   },
   {
-   "id": "indian-polity-00501",
+   "id": "indian-polity-00521",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Who is the constitutional head of a State - 9 December 1946",
@@ -7530,7 +7830,7 @@
    "e": "Only Who is the constitutional head of a State - The Governor is correctly matched."
   },
   {
-   "id": "indian-polity-00502",
+   "id": "indian-polity-00522",
    "q": "Which of the following pairs of institution and description is NOT correctly matched?",
    "o": [
     "Parliament of India - Union legislature consisting of the President and two Houses",
@@ -7545,7 +7845,7 @@
    "e": "The pair Chief Minister - Local self-government in urban areas is not correctly matched."
   },
   {
-   "id": "indian-polity-00503",
+   "id": "indian-polity-00523",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Panchayats - Article 1",
@@ -7560,7 +7860,7 @@
    "e": "Only Panchayats - Part IX, Articles 243-243O is correctly matched."
   },
   {
-   "id": "indian-polity-00504",
+   "id": "indian-polity-00524",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Maximum strength of the Lok Sabha (as provided in Article 81) - Japan",
@@ -7575,7 +7875,7 @@
    "e": "Only Maximum strength of the Lok Sabha (as provided in Article 81) - 552 members is correctly matched."
   },
   {
-   "id": "indian-polity-00505",
+   "id": "indian-polity-00525",
    "q": "Which of the following pairs of institution and description is NOT correctly matched?",
    "o": [
     "Supreme Court of India - Aids and advises the President",
@@ -7590,7 +7890,7 @@
    "e": "The pair Supreme Court of India - Aids and advises the President is not correctly matched."
   },
   {
-   "id": "indian-polity-00506",
+   "id": "indian-polity-00526",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Panchayats - Article 93",
@@ -7605,7 +7905,7 @@
    "e": "Only Panchayats - Part IX, Articles 243-243O is correctly matched."
   },
   {
-   "id": "indian-polity-00507",
+   "id": "indian-polity-00527",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Maximum strength of the Lok Sabha (as provided in Article 81) - 35 years",
@@ -7620,7 +7920,7 @@
    "e": "Only Maximum strength of the Lok Sabha (as provided in Article 81) - 552 members is correctly matched."
   },
   {
-   "id": "indian-polity-00508",
+   "id": "indian-polity-00528",
    "q": "Which of the following pairs of institution and description is NOT correctly matched?",
    "o": [
     "NITI Aayog - Policy think tank of the Government of India",
@@ -7635,7 +7935,7 @@
    "e": "The pair Chief Justice of India - Second highest law officer of the Union is not correctly matched."
   },
   {
-   "id": "indian-polity-00509",
+   "id": "indian-polity-00529",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Appointment of the Prime Minister and Council of Ministers - Article 75",
@@ -7650,7 +7950,7 @@
    "e": "Only Appointment of the Prime Minister and Council of Ministers - Article 75 is correctly matched."
   },
   {
-   "id": "indian-polity-00510",
+   "id": "indian-polity-00530",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The word 'secular' was added by - 25",
@@ -7665,7 +7965,7 @@
    "e": "Only The word 'secular' was added by - 42nd Amendment is correctly matched."
   },
   {
-   "id": "indian-polity-00511",
+   "id": "indian-polity-00531",
    "q": "Which of the following pairs of institution and description is NOT correctly matched?",
    "o": [
     "Union Public Service Commission - Recruits civil servants for the Union",
@@ -7680,7 +7980,7 @@
    "e": "The pair Election Commission of India - Deputy to the Prime Minister in the policy think tank is not correctly matched."
   },
   {
-   "id": "indian-polity-00512",
+   "id": "indian-polity-00532",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Appointment of the Prime Minister and Council of Ministers - Article 214",
@@ -7695,7 +7995,7 @@
    "e": "Only Appointment of the Prime Minister and Council of Ministers - Article 75 is correctly matched."
   },
   {
-   "id": "indian-polity-00513",
+   "id": "indian-polity-00533",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The word 'secular' was added by - 42nd Amendment",
@@ -7710,7 +8010,7 @@
    "e": "Only The word 'secular' was added by - 42nd Amendment is correctly matched."
   },
   {
-   "id": "indian-polity-00514",
+   "id": "indian-polity-00534",
    "q": "Which of the following pairs of institution and description is NOT correctly matched?",
    "o": [
     "Reserve Bank of India - Central bank and monetary authority",
@@ -7725,7 +8025,7 @@
    "e": "The pair Attorney General of India - Head of the State Government is not correctly matched."
   },
   {
-   "id": "indian-polity-00515",
+   "id": "indian-polity-00535",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Right to Constitutional Remedies - Article 32",
@@ -7740,7 +8040,7 @@
    "e": "Only Right to Constitutional Remedies - Article 32 is correctly matched."
   },
   {
-   "id": "indian-polity-00516",
+   "id": "indian-polity-00536",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Who administers the oath to the Governor - The Chief Justice of the concerned High Court",
@@ -7755,7 +8055,7 @@
    "e": "Only Who administers the oath to the Governor - The Chief Justice of the concerned High Court is correctly matched."
   },
   {
-   "id": "indian-polity-00517",
+   "id": "indian-polity-00537",
    "q": "Which of the following pairs of institution and description is NOT correctly matched?",
    "o": [
     "Rajya Sabha - Council of States, permanent house",
@@ -7770,7 +8070,7 @@
    "e": "The pair Telecom Regulatory Authority of India - Local self-government at the village level is not correctly matched."
   },
   {
-   "id": "indian-polity-00518",
+   "id": "indian-polity-00538",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Right to Constitutional Remedies - Article 21A",
@@ -7785,7 +8085,7 @@
    "e": "Only Right to Constitutional Remedies - Article 32 is correctly matched."
   },
   {
-   "id": "indian-polity-00519",
+   "id": "indian-polity-00539",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Who administers the oath to the Governor - 42nd Amendment",
@@ -7800,7 +8100,7 @@
    "e": "Only Who administers the oath to the Governor - The Chief Justice of the concerned High Court is correctly matched."
   },
   {
-   "id": "indian-polity-00520",
+   "id": "indian-polity-00540",
    "q": "Which of the following pairs of institution and description is NOT correctly matched?",
    "o": [
     "Governor - Constitutional head of a State",
@@ -7815,7 +8115,7 @@
    "e": "The pair Prime Minister of India - Supervises elections to Parliament and State legislatures is not correctly matched."
   },
   {
-   "id": "indian-polity-00521",
+   "id": "indian-polity-00541",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "The Union Government - Part V, Articles 52-151",
@@ -7830,7 +8130,7 @@
    "e": "Only The Union Government - Part V, Articles 52-151 is correctly matched."
   },
   {
-   "id": "indian-polity-00522",
+   "id": "indian-polity-00542",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Date of adoption of the Constitution - 26 November 1949",
@@ -7845,7 +8145,7 @@
    "e": "Only Date of adoption of the Constitution - 26 November 1949 is correctly matched."
   },
   {
-   "id": "indian-polity-00523",
+   "id": "indian-polity-00543",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "The Union Government - Article 165",
@@ -7860,7 +8160,7 @@
    "e": "Only The Union Government - Part V, Articles 52-151 is correctly matched."
   },
   {
-   "id": "indian-polity-00524",
+   "id": "indian-polity-00544",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Date of adoption of the Constitution - 22",
@@ -7875,7 +8175,7 @@
    "e": "Only Date of adoption of the Constitution - 26 November 1949 is correctly matched."
   },
   {
-   "id": "indian-polity-00525",
+   "id": "indian-polity-00545",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Right to Freedom - Articles 19-22",
@@ -7890,7 +8190,7 @@
    "e": "Only Right to Freedom - Articles 19-22 is correctly matched."
   },
   {
-   "id": "indian-polity-00526",
+   "id": "indian-polity-00546",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Which writ is issued to restrain an authority from acting beyond its power - The Supreme Court of India",
@@ -7905,7 +8205,7 @@
    "e": "Only Which writ is issued to restrain an authority from acting beyond its power - Prohibition is correctly matched."
   },
   {
-   "id": "indian-polity-00527",
+   "id": "indian-polity-00547",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Right to Freedom - Article 214",
@@ -7920,7 +8220,7 @@
    "e": "Only Right to Freedom - Articles 19-22 is correctly matched."
   },
   {
-   "id": "indian-polity-00528",
+   "id": "indian-polity-00548",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Which writ is issued to restrain an authority from acting beyond its power - Quo Warranto",
@@ -7935,7 +8235,7 @@
    "e": "Only Which writ is issued to restrain an authority from acting beyond its power - Prohibition is correctly matched."
   },
   {
-   "id": "indian-polity-00529",
+   "id": "indian-polity-00549",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Election Commission of India - Article 324",
@@ -7950,7 +8250,7 @@
    "e": "Only Election Commission of India - Article 324 is correctly matched."
   },
   {
-   "id": "indian-polity-00530",
+   "id": "indian-polity-00550",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Constitutional advisor to the Constituent Assembly - B. N. Rau",
@@ -7965,7 +8265,7 @@
    "e": "Only Constitutional advisor to the Constituent Assembly - B. N. Rau is correctly matched."
   },
   {
-   "id": "indian-polity-00531",
+   "id": "indian-polity-00551",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Election Commission of India - Article 21",
@@ -7980,7 +8280,7 @@
    "e": "Only Election Commission of India - Article 324 is correctly matched."
   },
   {
-   "id": "indian-polity-00532",
+   "id": "indian-polity-00552",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Constitutional advisor to the Constituent Assembly - B. N. Rau",
@@ -7995,7 +8295,7 @@
    "e": "Only Constitutional advisor to the Constituent Assembly - B. N. Rau is correctly matched."
   },
   {
-   "id": "indian-polity-00533",
+   "id": "indian-polity-00553",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Cultural and Educational Rights - Article 324",
@@ -8010,7 +8310,7 @@
    "e": "Only Cultural and Educational Rights - Articles 29-30 is correctly matched."
   },
   {
-   "id": "indian-polity-00534",
+   "id": "indian-polity-00554",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The Public Accounts Committee is a body of - 6 years",
@@ -8025,7 +8325,7 @@
    "e": "Only The Public Accounts Committee is a body of - Parliament is correctly matched."
   },
   {
-   "id": "indian-polity-00535",
+   "id": "indian-polity-00555",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Cultural and Educational Rights - Articles 29-30",
@@ -8040,7 +8340,7 @@
    "e": "Only Cultural and Educational Rights - Articles 29-30 is correctly matched."
   },
   {
-   "id": "indian-polity-00536",
+   "id": "indian-polity-00556",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The Public Accounts Committee is a body of - 250 members",
@@ -8055,7 +8355,7 @@
    "e": "Only The Public Accounts Committee is a body of - Parliament is correctly matched."
   },
   {
-   "id": "indian-polity-00537",
+   "id": "indian-polity-00557",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Right to Freedom of Religion - Articles 25-28",
@@ -8070,7 +8370,7 @@
    "e": "Only Right to Freedom of Religion - Articles 25-28 is correctly matched."
   },
   {
-   "id": "indian-polity-00538",
+   "id": "indian-polity-00558",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Source of the federal structure with a strong Centre - 12",
@@ -8085,7 +8385,7 @@
    "e": "Only Source of the federal structure with a strong Centre - Canada is correctly matched."
   },
   {
-   "id": "indian-polity-00539",
+   "id": "indian-polity-00559",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Right to Freedom of Religion - Part I, Articles 1-4",
@@ -8100,7 +8400,7 @@
    "e": "Only Right to Freedom of Religion - Articles 25-28 is correctly matched."
   },
   {
-   "id": "indian-polity-00540",
+   "id": "indian-polity-00560",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Source of the federal structure with a strong Centre - Canada",
@@ -8115,7 +8415,7 @@
    "e": "Only Source of the federal structure with a strong Centre - Canada is correctly matched."
   },
   {
-   "id": "indian-polity-00541",
+   "id": "indian-polity-00561",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Emergency provisions - Article 21A",
@@ -8130,7 +8430,7 @@
    "e": "Only Emergency provisions - Part XVIII, Articles 352-360 is correctly matched."
   },
   {
-   "id": "indian-polity-00542",
+   "id": "indian-polity-00562",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Maximum strength of the Rajya Sabha - Quo Warranto",
@@ -8145,7 +8445,7 @@
    "e": "Only Maximum strength of the Rajya Sabha - 250 members is correctly matched."
   },
   {
-   "id": "indian-polity-00543",
+   "id": "indian-polity-00563",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Emergency provisions - Part XVIII, Articles 352-360",
@@ -8160,7 +8460,7 @@
    "e": "Only Emergency provisions - Part XVIII, Articles 352-360 is correctly matched."
   },
   {
-   "id": "indian-polity-00544",
+   "id": "indian-polity-00564",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Maximum strength of the Rajya Sabha - Parliament",
@@ -8175,7 +8475,7 @@
    "e": "Only Maximum strength of the Rajya Sabha - 250 members is correctly matched."
   },
   {
-   "id": "indian-polity-00545",
+   "id": "indian-polity-00565",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Appointment of the Chief Justice of India - Article 74",
@@ -8190,7 +8490,7 @@
    "e": "Only Appointment of the Chief Justice of India - Article 124 is correctly matched."
   },
   {
-   "id": "indian-polity-00546",
+   "id": "indian-polity-00566",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The head of the Indian Republic is - Japan",
@@ -8205,7 +8505,7 @@
    "e": "Only The head of the Indian Republic is - The President of India is correctly matched."
   },
   {
-   "id": "indian-polity-00547",
+   "id": "indian-polity-00567",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Appointment of the Chief Justice of India - Article 124",
@@ -8220,7 +8520,7 @@
    "e": "Only Appointment of the Chief Justice of India - Article 124 is correctly matched."
   },
   {
-   "id": "indian-polity-00548",
+   "id": "indian-polity-00568",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The head of the Indian Republic is - The President of India",
@@ -8235,7 +8535,7 @@
    "e": "Only The head of the Indian Republic is - The President of India is correctly matched."
   },
   {
-   "id": "indian-polity-00549",
+   "id": "indian-polity-00569",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Fundamental Rights - Article 124",
@@ -8250,7 +8550,7 @@
    "e": "Only Fundamental Rights - Part III, Articles 12-35 is correctly matched."
   },
   {
-   "id": "indian-polity-00550",
+   "id": "indian-polity-00570",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Who is called the guardian of the public purse - 25 years",
@@ -8265,7 +8565,7 @@
    "e": "Only Who is called the guardian of the public purse - Comptroller and Auditor General is correctly matched."
   },
   {
-   "id": "indian-polity-00551",
+   "id": "indian-polity-00571",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Fundamental Rights - Article 80",
@@ -8280,7 +8580,7 @@
    "e": "Only Fundamental Rights - Part III, Articles 12-35 is correctly matched."
   },
   {
-   "id": "indian-polity-00552",
+   "id": "indian-polity-00572",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Who is called the guardian of the public purse - 5 years",
@@ -8295,7 +8595,7 @@
    "e": "Only Who is called the guardian of the public purse - Comptroller and Auditor General is correctly matched."
   },
   {
-   "id": "indian-polity-00553",
+   "id": "indian-polity-00573",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Elections - Article 356",
@@ -8310,7 +8610,7 @@
    "e": "Only Elections - Part XV, Articles 324-329 is correctly matched."
   },
   {
-   "id": "indian-polity-00554",
+   "id": "indian-polity-00574",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The maximum gap between two sessions of Parliament is - 6 months",
@@ -8325,7 +8625,7 @@
    "e": "Only The maximum gap between two sessions of Parliament is - 6 months is correctly matched."
   },
   {
-   "id": "indian-polity-00555",
+   "id": "indian-polity-00575",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Elections - Part XV, Articles 324-329",
@@ -8340,7 +8640,7 @@
    "e": "Only Elections - Part XV, Articles 324-329 is correctly matched."
   },
   {
-   "id": "indian-polity-00556",
+   "id": "indian-polity-00576",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The maximum gap between two sessions of Parliament is - Kesavananda Bharati case (1973)",
@@ -8355,7 +8655,7 @@
    "e": "Only The maximum gap between two sessions of Parliament is - 6 months is correctly matched."
   },
   {
-   "id": "indian-polity-00557",
+   "id": "indian-polity-00577",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Composition of the Lok Sabha - Articles 14-18",
@@ -8370,7 +8670,7 @@
    "e": "Only Composition of the Lok Sabha - Article 81 is correctly matched."
   },
   {
-   "id": "indian-polity-00558",
+   "id": "indian-polity-00578",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Source of the idea of the Preamble - The President of India",
@@ -8385,7 +8685,7 @@
    "e": "Only Source of the idea of the Preamble - United States of America is correctly matched."
   },
   {
-   "id": "indian-polity-00559",
+   "id": "indian-polity-00579",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Composition of the Lok Sabha - Part XVII, Articles 343-351",
@@ -8400,7 +8700,7 @@
    "e": "Only Composition of the Lok Sabha - Article 81 is correctly matched."
   },
   {
-   "id": "indian-polity-00560",
+   "id": "indian-polity-00580",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Source of the idea of the Preamble - The President of India",
@@ -8415,7 +8715,7 @@
    "e": "Only Source of the idea of the Preamble - United States of America is correctly matched."
   },
   {
-   "id": "indian-polity-00561",
+   "id": "indian-polity-00581",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Citizenship - Article 21",
@@ -8430,7 +8730,7 @@
    "e": "Only Citizenship - Part II, Articles 5-11 is correctly matched."
   },
   {
-   "id": "indian-polity-00562",
+   "id": "indian-polity-00582",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Who conducts elections in India - Election Commission of India",
@@ -8445,7 +8745,7 @@
    "e": "Only Who conducts elections in India - Election Commission of India is correctly matched."
   },
   {
-   "id": "indian-polity-00563",
+   "id": "indian-polity-00583",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Citizenship - Part XVII, Articles 343-351",
@@ -8460,7 +8760,7 @@
    "e": "Only Citizenship - Part II, Articles 5-11 is correctly matched."
   },
   {
-   "id": "indian-polity-00564",
+   "id": "indian-polity-00584",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Who conducts elections in India - 25",
@@ -8475,7 +8775,7 @@
    "e": "Only Who conducts elections in India - Election Commission of India is correctly matched."
   },
   {
-   "id": "indian-polity-00565",
+   "id": "indian-polity-00585",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Municipalities - Part I, Articles 1-4",
@@ -8490,7 +8790,7 @@
    "e": "Only Municipalities - Part IXA, Articles 243P-243ZG is correctly matched."
   },
   {
-   "id": "indian-polity-00566",
+   "id": "indian-polity-00586",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Idea of a Constituent Assembly was first proposed by - 552 members",
@@ -8505,7 +8805,7 @@
    "e": "Only Idea of a Constituent Assembly was first proposed by - M. N. Roy is correctly matched."
   },
   {
-   "id": "indian-polity-00567",
+   "id": "indian-polity-00587",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Municipalities - Article 54",
@@ -8520,7 +8820,7 @@
    "e": "Only Municipalities - Part IXA, Articles 243P-243ZG is correctly matched."
   },
   {
-   "id": "indian-polity-00568",
+   "id": "indian-polity-00588",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Idea of a Constituent Assembly was first proposed by - Dr. B. R. Ambedkar",
@@ -8535,7 +8835,7 @@
    "e": "Only Idea of a Constituent Assembly was first proposed by - M. N. Roy is correctly matched."
   },
   {
-   "id": "indian-polity-00569",
+   "id": "indian-polity-00589",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Protection of life and personal liberty - Article 24",
@@ -8550,7 +8850,7 @@
    "e": "Only Protection of life and personal liberty - Article 21 is correctly matched."
   },
   {
-   "id": "indian-polity-00570",
+   "id": "indian-polity-00590",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Date the Constitution came into force - 26 January 1950",
@@ -8565,7 +8865,7 @@
    "e": "Only Date the Constitution came into force - 26 January 1950 is correctly matched."
   },
   {
-   "id": "indian-polity-00571",
+   "id": "indian-polity-00591",
    "q": "Which of the following pairs of provision and article is correctly matched?",
    "o": [
     "Protection of life and personal liberty - Articles 25-28",
@@ -8580,7 +8880,7 @@
    "e": "Only Protection of life and personal liberty - Article 21 is correctly matched."
   },
   {
-   "id": "indian-polity-00572",
+   "id": "indian-polity-00592",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Date the Constitution came into force - 26 January 1950",
@@ -8595,7 +8895,7 @@
    "e": "Only Date the Constitution came into force - 26 January 1950 is correctly matched."
   },
   {
-   "id": "indian-polity-00573",
+   "id": "indian-polity-00593",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "The State Government - Part VI, Articles 152-237",
@@ -8610,7 +8910,7 @@
    "e": "The pair High Courts - Articles 14-18 is not correctly matched."
   },
   {
-   "id": "indian-polity-00574",
+   "id": "indian-polity-00594",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Source of Directive Principles - 1976",
@@ -8625,7 +8925,7 @@
    "e": "Only Source of Directive Principles - Ireland is correctly matched."
   },
   {
-   "id": "indian-polity-00575",
+   "id": "indian-polity-00595",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "The State Government - Part VI, Articles 152-237",
@@ -8640,7 +8940,7 @@
    "e": "The pair Comptroller and Auditor General of India - Part V, Articles 52-151 is not correctly matched."
   },
   {
-   "id": "indian-polity-00576",
+   "id": "indian-polity-00596",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Source of Directive Principles - 42nd Amendment",
@@ -8655,7 +8955,7 @@
    "e": "Only Source of Directive Principles - Ireland is correctly matched."
   },
   {
-   "id": "indian-polity-00577",
+   "id": "indian-polity-00597",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Directive Principles of State Policy - Part IV, Articles 36-51",
@@ -8670,7 +8970,7 @@
    "e": "The pair Supreme Court of India - Part I, Articles 1-4 is not correctly matched."
   },
   {
-   "id": "indian-polity-00578",
+   "id": "indian-polity-00598",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Constituent Assembly was constituted under the - Cabinet Mission Plan",
@@ -8685,7 +8985,7 @@
    "e": "Only Constituent Assembly was constituted under the - Cabinet Mission Plan is correctly matched."
   },
   {
-   "id": "indian-polity-00579",
+   "id": "indian-polity-00599",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "The Union and its territory - Part I, Articles 1-4",
@@ -8700,7 +9000,7 @@
    "e": "The pair Election Commission of India - Articles 19-22 is not correctly matched."
   },
   {
-   "id": "indian-polity-00580",
+   "id": "indian-polity-00600",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Constituent Assembly was constituted under the - Cabinet Mission Plan",
@@ -8715,7 +9015,7 @@
    "e": "Only Constituent Assembly was constituted under the - Cabinet Mission Plan is correctly matched."
   },
   {
-   "id": "indian-polity-00581",
+   "id": "indian-polity-00601",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Emergency provisions - Part XVIII, Articles 352-360",
@@ -8730,7 +9030,7 @@
    "e": "The pair Cultural and Educational Rights - Article 21A is not correctly matched."
   },
   {
-   "id": "indian-polity-00582",
+   "id": "indian-polity-00602",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The concept of Basic Structure was laid down in - 25 years",
@@ -8745,7 +9045,7 @@
    "e": "Only The concept of Basic Structure was laid down in - Kesavananda Bharati case (1973) is correctly matched."
   },
   {
-   "id": "indian-polity-00583",
+   "id": "indian-polity-00603",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Attorney General of India - Article 76",
@@ -8760,7 +9060,7 @@
    "e": "The pair Appointment of the Chief Justice of India - Article 76 is not correctly matched."
   },
   {
-   "id": "indian-polity-00584",
+   "id": "indian-polity-00604",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The concept of Basic Structure was laid down in - The President of India",
@@ -8775,7 +9075,7 @@
    "e": "Only The concept of Basic Structure was laid down in - Kesavananda Bharati case (1973) is correctly matched."
   },
   {
-   "id": "indian-polity-00585",
+   "id": "indian-polity-00605",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Emergency due to war or external aggression - Article 21",
@@ -8790,7 +9090,7 @@
    "e": "The pair Emergency due to war or external aggression - Article 21 is not correctly matched."
   },
   {
-   "id": "indian-polity-00586",
+   "id": "indian-polity-00606",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The Preamble was amended in - Habeas Corpus",
@@ -8805,7 +9105,7 @@
    "e": "Only The Preamble was amended in - 1976 is correctly matched."
   },
   {
-   "id": "indian-polity-00587",
+   "id": "indian-polity-00607",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Prohibition of child labour in factories - Article 24",
@@ -8820,7 +9120,7 @@
    "e": "The pair Official language - Article 18 is not correctly matched."
   },
   {
-   "id": "indian-polity-00588",
+   "id": "indian-polity-00608",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The Preamble was amended in - United Kingdom",
@@ -8835,7 +9135,7 @@
    "e": "Only The Preamble was amended in - 1976 is correctly matched."
   },
   {
-   "id": "indian-polity-00589",
+   "id": "indian-polity-00609",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Union of India consisting of States and Union Territories - Article 356",
@@ -8850,7 +9150,7 @@
    "e": "The pair Union of India consisting of States and Union Territories - Article 356 is not correctly matched."
   },
   {
-   "id": "indian-polity-00590",
+   "id": "indian-polity-00610",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Source of Fundamental Rights - 26 January 1950",
@@ -8865,7 +9165,7 @@
    "e": "Only Source of Fundamental Rights - United States of America is correctly matched."
   },
   {
-   "id": "indian-polity-00591",
+   "id": "indian-polity-00611",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Prohibition of child labour in factories - Article 24",
@@ -8880,7 +9180,7 @@
    "e": "The pair Right against Exploitation - Part II, Articles 5-11 is not correctly matched."
   },
   {
-   "id": "indian-polity-00592",
+   "id": "indian-polity-00612",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Source of Fundamental Rights - 35 years",
@@ -8895,7 +9195,7 @@
    "e": "Only Source of Fundamental Rights - United States of America is correctly matched."
   },
   {
-   "id": "indian-polity-00593",
+   "id": "indian-polity-00613",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Composition of the Lok Sabha - Article 81",
@@ -8910,7 +9210,7 @@
    "e": "The pair The Union and its territory - Article 80 is not correctly matched."
   },
   {
-   "id": "indian-polity-00594",
+   "id": "indian-polity-00614",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Number of Fundamental Rights - 6",
@@ -8925,7 +9225,7 @@
    "e": "Only Number of Fundamental Rights - 6 is correctly matched."
   },
   {
-   "id": "indian-polity-00595",
+   "id": "indian-polity-00615",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Right to Education - Article 18",
@@ -8940,7 +9240,7 @@
    "e": "The pair Right to Education - Article 18 is not correctly matched."
   },
   {
-   "id": "indian-polity-00596",
+   "id": "indian-polity-00616",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Number of Fundamental Rights - Habeas Corpus",
@@ -8955,7 +9255,7 @@
    "e": "Only Number of Fundamental Rights - 6 is correctly matched."
   },
   {
-   "id": "indian-polity-00597",
+   "id": "indian-polity-00617",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Right to Constitutional Remedies - Part VI, Articles 152-237",
@@ -8970,7 +9270,7 @@
    "e": "The pair Right to Constitutional Remedies - Part VI, Articles 152-237 is not correctly matched."
   },
   {
-   "id": "indian-polity-00598",
+   "id": "indian-polity-00618",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Which body advises the President on appointment of judges - Kesavananda Bharati case (1973)",
@@ -8985,7 +9285,7 @@
    "e": "Only Which body advises the President on appointment of judges - The Supreme Court collegium is correctly matched."
   },
   {
-   "id": "indian-polity-00599",
+   "id": "indian-polity-00619",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "High Courts - Article 214",
@@ -9000,7 +9300,7 @@
    "e": "The pair Municipalities - Article 74 is not correctly matched."
   },
   {
-   "id": "indian-polity-00600",
+   "id": "indian-polity-00620",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Which body advises the President on appointment of judges - The Chief Justice of the concerned High Court",
@@ -9015,7 +9315,7 @@
    "e": "Only Which body advises the President on appointment of judges - The Supreme Court collegium is correctly matched."
   },
   {
-   "id": "indian-polity-00601",
+   "id": "indian-polity-00621",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Right to Freedom - Articles 19-22",
@@ -9030,7 +9330,7 @@
    "e": "The pair Panchayats - Article 356 is not correctly matched."
   },
   {
-   "id": "indian-polity-00602",
+   "id": "indian-polity-00622",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The contingency fund of India is maintained by - 22",
@@ -9045,7 +9345,7 @@
    "e": "Only The contingency fund of India is maintained by - The President of India is correctly matched."
   },
   {
-   "id": "indian-polity-00603",
+   "id": "indian-polity-00623",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Election of the President - Article 54",
@@ -9060,7 +9360,7 @@
    "e": "The pair Appointment of the Prime Minister and Council of Ministers - Article 165 is not correctly matched."
   },
   {
-   "id": "indian-polity-00604",
+   "id": "indian-polity-00624",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The contingency fund of India is maintained by - Japan",
@@ -9075,7 +9375,7 @@
    "e": "Only The contingency fund of India is maintained by - The President of India is correctly matched."
   },
   {
-   "id": "indian-polity-00605",
+   "id": "indian-polity-00625",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Council of Ministers to aid and advise the President - Article 74",
@@ -9090,7 +9390,7 @@
    "e": "The pair Citizenship - Article 360 is not correctly matched."
   },
   {
-   "id": "indian-polity-00606",
+   "id": "indian-polity-00626",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Minimum age to become a member of the Lok Sabha - Japan",
@@ -9105,7 +9405,7 @@
    "e": "Only Minimum age to become a member of the Lok Sabha - 25 years is correctly matched."
   },
   {
-   "id": "indian-polity-00607",
+   "id": "indian-polity-00627",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Council of Ministers to aid and advise the President - Article 214",
@@ -9120,7 +9420,7 @@
    "e": "The pair Council of Ministers to aid and advise the President - Article 214 is not correctly matched."
   },
   {
-   "id": "indian-polity-00608",
+   "id": "indian-polity-00628",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Minimum age to become a member of the Lok Sabha - M. N. Roy",
@@ -9135,7 +9435,7 @@
    "e": "Only Minimum age to become a member of the Lok Sabha - 25 years is correctly matched."
   },
   {
-   "id": "indian-polity-00609",
+   "id": "indian-polity-00629",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Composition of the Rajya Sabha - Article 80",
@@ -9150,7 +9450,7 @@
    "e": "The pair Abolition of untouchability - Part IXA, Articles 243P-243ZG is not correctly matched."
   },
   {
-   "id": "indian-polity-00610",
+   "id": "indian-polity-00630",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Minimum age to become President of India - 35 years",
@@ -9165,7 +9465,7 @@
    "e": "Only Minimum age to become President of India - 35 years is correctly matched."
   },
   {
-   "id": "indian-polity-00611",
+   "id": "indian-polity-00631",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Municipalities - Part IXA, Articles 243P-243ZG",
@@ -9180,7 +9480,7 @@
    "e": "The pair Elections - Part IVA, Article 51A is not correctly matched."
   },
   {
-   "id": "indian-polity-00612",
+   "id": "indian-polity-00632",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Minimum age to become President of India - 2019",
@@ -9195,7 +9495,7 @@
    "e": "Only Minimum age to become President of India - 35 years is correctly matched."
   },
   {
-   "id": "indian-polity-00613",
+   "id": "indian-polity-00633",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Right to Equality - Articles 14-18",
@@ -9210,7 +9510,7 @@
    "e": "The pair Advocate General of a State - Article 18 is not correctly matched."
   },
   {
-   "id": "indian-polity-00614",
+   "id": "indian-polity-00634",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Article 370 of the Constitution dealt with - United States of America",
@@ -9225,7 +9525,7 @@
    "e": "Only Article 370 of the Constitution dealt with - Special status of Jammu and Kashmir is correctly matched."
   },
   {
-   "id": "indian-polity-00615",
+   "id": "indian-polity-00635",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Speaker and Deputy Speaker of the Lok Sabha - Article 93",
@@ -9240,7 +9540,7 @@
    "e": "The pair Union Public Service Commission - Article 75 is not correctly matched."
   },
   {
-   "id": "indian-polity-00616",
+   "id": "indian-polity-00636",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Article 370 of the Constitution dealt with - Habeas Corpus",
@@ -9255,7 +9555,7 @@
    "e": "Only Article 370 of the Constitution dealt with - Special status of Jammu and Kashmir is correctly matched."
   },
   {
-   "id": "indian-polity-00617",
+   "id": "indian-polity-00637",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Supreme Court of India - Article 124",
@@ -9270,7 +9570,7 @@
    "e": "The pair The Union Government - Article 18 is not correctly matched."
   },
   {
-   "id": "indian-polity-00618",
+   "id": "indian-polity-00638",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "The word 'socialist' was added by - 42nd Amendment",
@@ -9285,7 +9585,7 @@
    "e": "The pair Minimum age to become a member of the Lok Sabha - 25 is not correctly matched."
   },
   {
-   "id": "indian-polity-00619",
+   "id": "indian-polity-00639",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Election of the President - Article 54",
@@ -9300,7 +9600,7 @@
    "e": "The pair Directive Principles of State Policy - Part IXA, Articles 243P-243ZG is not correctly matched."
   },
   {
-   "id": "indian-polity-00620",
+   "id": "indian-polity-00640",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Number of Schedules in the Constitution - 12",
@@ -9315,7 +9615,7 @@
    "e": "The pair A no-confidence motion can be moved only in - 12 is not correctly matched."
   },
   {
-   "id": "indian-polity-00621",
+   "id": "indian-polity-00641",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Right to Equality - Articles 14-18",
@@ -9330,7 +9630,7 @@
    "e": "The pair Abolition of titles - Article 352 is not correctly matched."
   },
   {
-   "id": "indian-polity-00622",
+   "id": "indian-polity-00642",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Source of the emergency provisions - Germany",
@@ -9345,7 +9645,7 @@
    "e": "The pair Number of Schedules in the Constitution - 11 is not correctly matched."
   },
   {
-   "id": "indian-polity-00623",
+   "id": "indian-polity-00643",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Financial emergency - Article 75",
@@ -9360,7 +9660,7 @@
    "e": "The pair Financial emergency - Article 75 is not correctly matched."
   },
   {
-   "id": "indian-polity-00624",
+   "id": "indian-polity-00644",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "The Preamble declares India to be - A Sovereign Socialist Secular Democratic Republic",
@@ -9375,7 +9675,7 @@
    "e": "The pair The Preamble was amended in - 26 November 1949 is not correctly matched."
   },
   {
-   "id": "indian-polity-00625",
+   "id": "indian-polity-00645",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "High Courts - Article 214",
@@ -9390,7 +9690,7 @@
    "e": "The pair Prohibition of child labour in factories - Article 124 is not correctly matched."
   },
   {
-   "id": "indian-polity-00626",
+   "id": "indian-polity-00646",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Who is the constitutional head of a State - Certiorari",
@@ -9405,7 +9705,7 @@
    "e": "The pair Who is the constitutional head of a State - Certiorari is not correctly matched."
   },
   {
-   "id": "indian-polity-00627",
+   "id": "indian-polity-00647",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "President's rule in states - Article 148",
@@ -9420,7 +9720,7 @@
    "e": "The pair President's rule in states - Article 148 is not correctly matched."
   },
   {
-   "id": "indian-polity-00628",
+   "id": "indian-polity-00648",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Who conducts elections in India - Prohibition",
@@ -9435,7 +9735,7 @@
    "e": "The pair Who conducts elections in India - Prohibition is not correctly matched."
   },
   {
-   "id": "indian-polity-00629",
+   "id": "indian-polity-00649",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Union of India consisting of States and Union Territories - Article 1",
@@ -9450,7 +9750,7 @@
    "e": "The pair Prevention of human trafficking and forced labour - Part XVIII, Articles 352-360 is not correctly matched."
   },
   {
-   "id": "indian-polity-00630",
+   "id": "indian-polity-00650",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Minimum age to become a voter in India - 18 years",
@@ -9465,7 +9765,7 @@
    "e": "The pair Minimum age to become President of India - United States of America is not correctly matched."
   },
   {
-   "id": "indian-polity-00631",
+   "id": "indian-polity-00651",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Financial emergency - Article 360",
@@ -9480,7 +9780,7 @@
    "e": "The pair Attorney General of India - Article 21A is not correctly matched."
   },
   {
-   "id": "indian-polity-00632",
+   "id": "indian-polity-00652",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Which writ questions the legality of a person's claim to an office - 552 members",
@@ -9495,7 +9795,7 @@
    "e": "The pair Which writ questions the legality of a person's claim to an office - 552 members is not correctly matched."
   },
   {
-   "id": "indian-polity-00633",
+   "id": "indian-polity-00653",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Supreme Court of India - Article 124",
@@ -9510,7 +9810,7 @@
    "e": "The pair The State Government - Part V, Articles 52-151 is not correctly matched."
   },
   {
-   "id": "indian-polity-00634",
+   "id": "indian-polity-00654",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Eighth Schedule deals with - Official languages",
@@ -9525,7 +9825,7 @@
    "e": "The pair Source of amendment procedure - Ireland is not correctly matched."
   },
   {
-   "id": "indian-polity-00635",
+   "id": "indian-polity-00655",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Services under the Union and States - Article 81",
@@ -9540,7 +9840,7 @@
    "e": "The pair Services under the Union and States - Article 81 is not correctly matched."
   },
   {
-   "id": "indian-polity-00636",
+   "id": "indian-polity-00656",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "The word 'socialist' was added by - 42nd Amendment",
@@ -9555,7 +9855,7 @@
    "e": "The pair Twelfth Schedule deals with - Canada is not correctly matched."
   },
   {
-   "id": "indian-polity-00637",
+   "id": "indian-polity-00657",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Election Commission of India - Article 324",
@@ -9570,7 +9870,7 @@
    "e": "The pair Speaker and Deputy Speaker of the Lok Sabha - Article 165 is not correctly matched."
   },
   {
-   "id": "indian-polity-00638",
+   "id": "indian-polity-00658",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Who conducts elections in India - Election Commission of India",
@@ -9585,7 +9885,7 @@
    "e": "The pair Who appoints the Governor of a State - United States of America is not correctly matched."
   },
   {
-   "id": "indian-polity-00639",
+   "id": "indian-polity-00659",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Composition of the Rajya Sabha - Article 80",
@@ -9600,7 +9900,7 @@
    "e": "The pair Fundamental Duties - Articles 14-18 is not correctly matched."
   },
   {
-   "id": "indian-polity-00640",
+   "id": "indian-polity-00660",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Source of the emergency provisions - Germany",
@@ -9615,7 +9915,7 @@
    "e": "The pair Source of the idea of the Preamble - 35 years is not correctly matched."
   },
   {
-   "id": "indian-polity-00641",
+   "id": "indian-polity-00661",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Appointment of the Chief Justice of India - Article 124",
@@ -9630,7 +9930,7 @@
    "e": "The pair Election of the President - Article 280 is not correctly matched."
   },
   {
-   "id": "indian-polity-00642",
+   "id": "indian-polity-00662",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Removal of the President is called - Impeachment",
@@ -9645,7 +9945,7 @@
    "e": "The pair Tenth Schedule deals with - M. N. Roy is not correctly matched."
   },
   {
-   "id": "indian-polity-00643",
+   "id": "indian-polity-00663",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Comptroller and Auditor General of India - Article 148",
@@ -9660,7 +9960,7 @@
    "e": "The pair Composition of the Lok Sabha - Article 21 is not correctly matched."
   },
   {
-   "id": "indian-polity-00644",
+   "id": "indian-polity-00664",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Maximum strength of the Rajya Sabha - 250 members",
@@ -9675,7 +9975,7 @@
    "e": "The pair Source of Directive Principles - 6 is not correctly matched."
   },
   {
-   "id": "indian-polity-00645",
+   "id": "indian-polity-00665",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "The Union Government - Part V, Articles 52-151",
@@ -9690,7 +9990,7 @@
    "e": "The pair Right to Equality - Part V, Articles 52-151 is not correctly matched."
   },
   {
-   "id": "indian-polity-00646",
+   "id": "indian-polity-00666",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "First meeting of the Constituent Assembly - 9 December 1946",
@@ -9705,7 +10005,7 @@
    "e": "The pair Which writ is issued to restrain an authority from acting beyond its power - Ireland is not correctly matched."
   },
   {
-   "id": "indian-polity-00647",
+   "id": "indian-polity-00667",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Fundamental Duties - Part IVA, Article 51A",
@@ -9720,7 +10020,7 @@
    "e": "The pair Finance Commission - Article 75 is not correctly matched."
   },
   {
-   "id": "indian-polity-00648",
+   "id": "indian-polity-00668",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Which writ is issued to compel performance of a public duty - Mandamus",
@@ -9735,7 +10035,7 @@
    "e": "The pair Which body advises the President on appointment of judges - 42nd Amendment is not correctly matched."
   },
   {
-   "id": "indian-polity-00649",
+   "id": "indian-polity-00669",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Fundamental Rights - Article 23",
@@ -9750,7 +10050,7 @@
    "e": "The pair Fundamental Rights - Article 23 is not correctly matched."
   },
   {
-   "id": "indian-polity-00650",
+   "id": "indian-polity-00670",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Money Bill can be introduced only in - Dr. Rajendra Prasad",
@@ -9765,7 +10065,7 @@
    "e": "The pair Money Bill can be introduced only in - Dr. Rajendra Prasad is not correctly matched."
   },
   {
-   "id": "indian-polity-00651",
+   "id": "indian-polity-00671",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Prohibition of child labour in factories - Article 24",
@@ -9780,7 +10080,7 @@
    "e": "The pair Emergency provisions - Part IVA, Article 51A is not correctly matched."
   },
   {
-   "id": "indian-polity-00652",
+   "id": "indian-polity-00672",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Source of the Concurrent List - Australia",
@@ -9795,7 +10095,7 @@
    "e": "The pair Removal of the President is called - Kesavananda Bharati case (1973) is not correctly matched."
   },
   {
-   "id": "indian-polity-00653",
+   "id": "indian-polity-00673",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "The Union Government - Part V, Articles 52-151",
@@ -9810,7 +10110,7 @@
    "e": "The pair Protection of life and personal liberty - Article 18 is not correctly matched."
   },
   {
-   "id": "indian-polity-00654",
+   "id": "indian-polity-00674",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "The First Amendment of the Constitution was made in - 1951",
@@ -9825,7 +10125,7 @@
    "e": "The pair Chairman of the Constituent Assembly - 35 years is not correctly matched."
   },
   {
-   "id": "indian-polity-00655",
+   "id": "indian-polity-00675",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Right to Constitutional Remedies - Article 32",
@@ -9840,7 +10140,7 @@
    "e": "The pair Right to Freedom of Religion - Article 80 is not correctly matched."
   },
   {
-   "id": "indian-polity-00656",
+   "id": "indian-polity-00676",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Term of a member of the Rajya Sabha - 6 years",
@@ -9855,7 +10155,7 @@
    "e": "The pair Maximum strength of the Lok Sabha (as provided in Article 81) - 42nd Amendment is not correctly matched."
   },
   {
-   "id": "indian-polity-00657",
+   "id": "indian-polity-00677",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Panchayats - Part IX, Articles 243-243O",
@@ -9870,7 +10170,7 @@
    "e": "The pair Right to Freedom - Article 165 is not correctly matched."
   },
   {
-   "id": "indian-polity-00658",
+   "id": "indian-polity-00678",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "The Preamble was amended in - 1976",
@@ -9885,7 +10185,7 @@
    "e": "The pair Term of a member of the Rajya Sabha - 5 years is not correctly matched."
   },
   {
-   "id": "indian-polity-00659",
+   "id": "indian-polity-00679",
    "q": "Which of the following pairs of provision and article is NOT correctly matched?",
    "o": [
     "Protection of life and personal liberty - Article 21",
@@ -9900,7 +10200,7 @@
    "e": "The pair Composition of the Rajya Sabha - Article 214 is not correctly matched."
   },
   {
-   "id": "indian-polity-00660",
+   "id": "indian-polity-00680",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "The budget is laid before Parliament under - Article 112 (Annual Financial Statement)",
@@ -9915,7 +10215,7 @@
    "e": "The pair Date of adoption of the Constitution - 6 is not correctly matched."
   },
   {
-   "id": "indian-polity-00661",
+   "id": "indian-polity-00681",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Seventh Schedule deals with - Union, State and Concurrent Lists",
@@ -9930,7 +10230,7 @@
    "e": "The pair First meeting of the Constituent Assembly - Quo Warranto is not correctly matched."
   },
   {
-   "id": "indian-polity-00662",
+   "id": "indian-polity-00682",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Source of the federal structure with a strong Centre - Canada",
@@ -9945,7 +10245,7 @@
    "e": "The pair Which writ is issued to release a detained person - United Kingdom is not correctly matched."
   },
   {
-   "id": "indian-polity-00663",
+   "id": "indian-polity-00683",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "The Public Accounts Committee is a body of - Parliament",
@@ -9960,7 +10260,7 @@
    "e": "The pair Source of the federal structure with a strong Centre - 6 years is not correctly matched."
   },
   {
-   "id": "indian-polity-00664",
+   "id": "indian-polity-00684",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Minimum age to become President of India - 35 years",
@@ -9975,7 +10275,7 @@
    "e": "The pair Who administers the oath of office to the President - 1976 is not correctly matched."
   },
   {
-   "id": "indian-polity-00665",
+   "id": "indian-polity-00685",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Jammu and Kashmir was reorganised into Union Territories in - 2019",
@@ -9990,7 +10290,7 @@
    "e": "The pair Idea of a Constituent Assembly was first proposed by - Election Commission of India is not correctly matched."
   },
   {
-   "id": "indian-polity-00666",
+   "id": "indian-polity-00686",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "First meeting of the Constituent Assembly - 9 December 1946",
@@ -10005,7 +10305,7 @@
    "e": "The pair Who administers the oath to the Governor - The Lok Sabha is not correctly matched."
   },
   {
-   "id": "indian-polity-00667",
+   "id": "indian-polity-00687",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Which court is the guardian of the Constitution - The Supreme Court of India",
@@ -10020,7 +10320,7 @@
    "e": "The pair Chairman of the Drafting Committee - Kesavananda Bharati case (1973) is not correctly matched."
   },
   {
-   "id": "indian-polity-00668",
+   "id": "indian-polity-00688",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Which writ is issued to compel performance of a public duty - Mandamus",
@@ -10035,7 +10335,7 @@
    "e": "The pair Article 370 was abrogated in - 1951 is not correctly matched."
   },
   {
-   "id": "indian-polity-00669",
+   "id": "indian-polity-00689",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Maximum strength of the Rajya Sabha - 250 members",
@@ -10050,7 +10350,7 @@
    "e": "The pair Source of the Concurrent List - Germany is not correctly matched."
   },
   {
-   "id": "indian-polity-00670",
+   "id": "indian-polity-00690",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Term of a member of the Rajya Sabha - 6 years",
@@ -10065,7 +10365,7 @@
    "e": "The pair Jammu and Kashmir was reorganised into Union Territories in - Certiorari is not correctly matched."
   },
   {
-   "id": "indian-polity-00671",
+   "id": "indian-polity-00691",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Minimum age to become President of India - 35 years",
@@ -10080,7 +10380,7 @@
    "e": "The pair The concept of Basic Structure was laid down in - Canada is not correctly matched."
   },
   {
-   "id": "indian-polity-00672",
+   "id": "indian-polity-00692",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Source of the Parliamentary system - United Kingdom",
@@ -10095,7 +10395,7 @@
    "e": "The pair Which writ is issued to compel performance of a public duty - 18 years is not correctly matched."
   },
   {
-   "id": "indian-polity-00673",
+   "id": "indian-polity-00693",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Which writ is issued to compel performance of a public duty - Mandamus",
@@ -10110,7 +10410,7 @@
    "e": "The pair Ninth Schedule deals with - 42nd Amendment is not correctly matched."
   },
   {
-   "id": "indian-polity-00674",
+   "id": "indian-polity-00694",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Number of languages in the Eighth Schedule - 22",
@@ -10125,7 +10425,7 @@
    "e": "The pair Source of Fundamental Rights - Comptroller and Auditor General is not correctly matched."
   },
   {
-   "id": "indian-polity-00675",
+   "id": "indian-polity-00695",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "The contingency fund of India is maintained by - The President of India",
@@ -10140,7 +10440,7 @@
    "e": "The pair Source of the emergency provisions - 250 members is not correctly matched."
   },
   {
-   "id": "indian-polity-00676",
+   "id": "indian-polity-00696",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Number of languages in the Eighth Schedule - 22",
@@ -10155,7 +10455,7 @@
    "e": "The pair The First Amendment of the Constitution was made in - 6 months is not correctly matched."
   },
   {
-   "id": "indian-polity-00677",
+   "id": "indian-polity-00697",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Article 370 was abrogated in - 2019",
@@ -10170,7 +10470,7 @@
    "e": "The pair The Preamble declares India to be - 12 is not correctly matched."
   },
   {
-   "id": "indian-polity-00678",
+   "id": "indian-polity-00698",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Constituent Assembly was constituted under the - Cabinet Mission Plan",
@@ -10185,7 +10485,7 @@
    "e": "The pair The word 'secular' was added by - 6 years is not correctly matched."
   },
   {
-   "id": "indian-polity-00679",
+   "id": "indian-polity-00699",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "The Public Accounts Committee is a body of - 25 years",
@@ -10200,7 +10500,7 @@
    "e": "The pair The Public Accounts Committee is a body of - 25 years is not correctly matched."
   },
   {
-   "id": "indian-polity-00680",
+   "id": "indian-polity-00700",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Minimum age to become a member of the Rajya Sabha - The Chief Justice of India",
@@ -10215,7 +10515,7 @@
    "e": "The pair Minimum age to become a member of the Rajya Sabha - The Chief Justice of India is not correctly matched."
   },
   {
-   "id": "indian-polity-00681",
+   "id": "indian-polity-00701",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Which body advises the President on appointment of judges - The Supreme Court collegium",
@@ -10230,7 +10530,7 @@
    "e": "The pair Who is called the guardian of the public purse - Ireland is not correctly matched."
   },
   {
-   "id": "indian-polity-00682",
+   "id": "indian-polity-00702",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Constituent Assembly was constituted under the - 42nd Amendment",
@@ -10245,7 +10545,7 @@
    "e": "The pair Constituent Assembly was constituted under the - 42nd Amendment is not correctly matched."
   },
   {
-   "id": "indian-polity-00683",
+   "id": "indian-polity-00703",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "The Preamble declares India to be - A Sovereign Socialist Secular Democratic Republic",
@@ -10260,7 +10560,7 @@
    "e": "The pair Who is the head of the Union Council of Ministers - 11 is not correctly matched."
   },
   {
-   "id": "indian-polity-00684",
+   "id": "indian-polity-00704",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "The budget is laid before Parliament under - Article 112 (Annual Financial Statement)",
@@ -10275,7 +10575,7 @@
    "e": "The pair Which writ is issued by a higher court to a lower court to send records - United States of America is not correctly matched."
   },
   {
-   "id": "indian-polity-00685",
+   "id": "indian-polity-00705",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "The budget is laid before Parliament under - United Kingdom",
@@ -10290,7 +10590,7 @@
    "e": "The pair The budget is laid before Parliament under - United Kingdom is not correctly matched."
   },
   {
-   "id": "indian-polity-00686",
+   "id": "indian-polity-00706",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Minimum age to become a voter in India - Official languages",
@@ -10305,7 +10605,7 @@
    "e": "The pair Minimum age to become a voter in India - Official languages is not correctly matched."
   },
   {
-   "id": "indian-polity-00687",
+   "id": "indian-polity-00707",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Source of the idea of the Preamble - United States of America",
@@ -10320,7 +10620,7 @@
    "e": "The pair The maximum gap between two sessions of Parliament is - 1951 is not correctly matched."
   },
   {
-   "id": "indian-polity-00688",
+   "id": "indian-polity-00708",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Source of the federal structure with a strong Centre - Canada",
@@ -10335,7 +10635,7 @@
    "e": "The pair Source of procedure established by law - The Prime Minister is not correctly matched."
   },
   {
-   "id": "indian-polity-00689",
+   "id": "indian-polity-00709",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Who conducts elections in India - Election Commission of India",
@@ -10350,7 +10650,7 @@
    "e": "The pair The contingency fund of India is maintained by - The Lok Sabha is not correctly matched."
   },
   {
-   "id": "indian-polity-00690",
+   "id": "indian-polity-00710",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "The concept of Basic Structure was laid down in - Kesavananda Bharati case (1973)",
@@ -10365,7 +10665,7 @@
    "e": "The pair Constitutional advisor to the Constituent Assembly - 250 members is not correctly matched."
   },
   {
-   "id": "indian-polity-00691",
+   "id": "indian-polity-00711",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Source of amendment procedure - South Africa",
@@ -10380,7 +10680,7 @@
    "e": "The pair Date the Constitution came into force - The Lok Sabha is not correctly matched."
   },
   {
-   "id": "indian-polity-00692",
+   "id": "indian-polity-00712",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Constitutional advisor to the Constituent Assembly - B. N. Rau",
@@ -10395,7 +10695,7 @@
    "e": "The pair Seventh Schedule deals with - 552 members is not correctly matched."
   },
   {
-   "id": "indian-polity-00693",
+   "id": "indian-polity-00713",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Which body advises the President on appointment of judges - The Supreme Court collegium",
@@ -10410,7 +10710,7 @@
    "e": "The pair Number of Fundamental Duties - United Kingdom is not correctly matched."
   },
   {
-   "id": "indian-polity-00694",
+   "id": "indian-polity-00714",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "First meeting of the Constituent Assembly - 9 December 1946",
@@ -10425,7 +10725,7 @@
    "e": "The pair Number of Parts in the Constitution (as amended) - 22 is not correctly matched."
   },
   {
-   "id": "indian-polity-00695",
+   "id": "indian-polity-00715",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Who administers the oath of office to the President - The Chief Justice of India",
@@ -10440,7 +10740,7 @@
    "e": "The pair The head of the Indian Republic is - Powers of Municipalities is not correctly matched."
   },
   {
-   "id": "indian-polity-00696",
+   "id": "indian-polity-00716",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Chairman of the Constituent Assembly - Dr. Rajendra Prasad",
@@ -10455,7 +10755,7 @@
    "e": "The pair Eighth Schedule deals with - South Africa is not correctly matched."
   },
   {
-   "id": "indian-polity-00697",
+   "id": "indian-polity-00717",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "The word 'secular' was added by - 42nd Amendment",
@@ -10470,7 +10770,7 @@
    "e": "The pair Term of the President of India - The Supreme Court of India is not correctly matched."
   },
   {
-   "id": "indian-polity-00698",
+   "id": "indian-polity-00718",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Number of languages in the Eighth Schedule - The Supreme Court collegium",
@@ -10485,7 +10785,7 @@
    "e": "The pair Number of languages in the Eighth Schedule - The Supreme Court collegium is not correctly matched."
   },
   {
-   "id": "indian-polity-00699",
+   "id": "indian-polity-00719",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Idea of a Constituent Assembly was first proposed by - M. N. Roy",
@@ -10500,7 +10800,7 @@
    "e": "The pair Maximum strength of the Rajya Sabha - Comptroller and Auditor General is not correctly matched."
   },
   {
-   "id": "indian-polity-00700",
+   "id": "indian-polity-00720",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Maximum strength of the Lok Sabha (as provided in Article 81) - 552 members",
@@ -10515,7 +10815,7 @@
    "e": "The pair Source of the Parliamentary system - 12 is not correctly matched."
   },
   {
-   "id": "indian-polity-00701",
+   "id": "indian-polity-00721",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Money Bill can be introduced only in - The Lok Sabha",
@@ -10530,7 +10830,7 @@
    "e": "The pair Article 370 of the Constitution dealt with - Official languages is not correctly matched."
   },
   {
-   "id": "indian-polity-00702",
+   "id": "indian-polity-00722",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "The First Amendment of the Constitution was made in - 1951",
@@ -10545,7 +10845,7 @@
    "e": "The pair The word 'socialist' was added by - The President of India is not correctly matched."
   },
   {
-   "id": "indian-polity-00703",
+   "id": "indian-polity-00723",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "The budget is laid before Parliament under - Article 112 (Annual Financial Statement)",
@@ -10560,7 +10860,7 @@
    "e": "The pair Which court is the guardian of the Constitution - Land reform laws protected from judicial review is not correctly matched."
   },
   {
-   "id": "indian-polity-00704",
+   "id": "indian-polity-00724",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "The Public Accounts Committee is a body of - Parliament",

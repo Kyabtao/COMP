@@ -5,7 +5,7 @@ Practice site for school and competitive exams, built around a generated questio
 - **Class selection:** Class 1 to Class 12 and Graduation
 - **Exam selection:** SSC CGL, SSC CHSL, Banking (IBPS / SBI) and Railways (RRB NTPC / Group D)
 - **Every paper:** 40 questions in 40 minutes, +1 per correct answer, 0.25 negative marking
-- **Question bank:** 32,907 questions in 26 categories (see below)
+- **Question bank:** 32,927 questions in 26 categories (see below)
 - **No build step:** plain HTML, CSS and JavaScript, hosted straight from this repository
 
 ## Quick start
@@ -62,7 +62,7 @@ tools/categories/gk-misc/      GENERATED GK Misc parts 01 to 17
 | Indian History | 1,000 |
 | General Science | 1,000 |
 | Current Affairs | 1,000 |
-| Indian Polity | 704 |
+| Indian Polity | 724 |
 | fourteen smaller categories | 201 to 280 each |
 
 Eleven categories carry 1,000 or more questions, and the GK Misc pool ships as 17 part
@@ -70,9 +70,9 @@ files of 1,000 questions each.
 
 ### Where the questions come from
 
-* **Curated (382 questions).** Hand written MCQs in `tools/authored/*.js`, one file per
-  category, each with an explanation. These cover the whole syllabus and are the quality
-  core of the bank.
+* **Curated (562 questions).** Hand written MCQs in `tools/authored/*.js`, one file per
+  category (20 or more each), every one with an explanation. These cover the whole
+  syllabus and are the quality core of the bank.
 * **Generated from facts.** `tools/forms.js` turns the fact tables in `tools/data/*.js`
   (countries, elements, Indian states, science, history, polity, sport, English word
   lists, schemes, computers, abbreviations and more) into exam style MCQs: direct
@@ -92,7 +92,7 @@ The original spec asked for GK Misc to hold 17,000 questions on its own *and* fo
 subject categories to hold 1,000 each, which together need more unique facts than the
 current fact tables can support. The bank reaches 17,000 in GK Misc by giving it the
 whole remaining fact pool, so the smaller categories sit in the 200 to 350 range and
-Indian Polity is at 704. Add rows to `tools/data/*.js` and rerun the build to raise them.
+Indian Polity is at 724. Add rows to `tools/data/*.js` and rerun the build to raise them.
 
 ## Deploying
 

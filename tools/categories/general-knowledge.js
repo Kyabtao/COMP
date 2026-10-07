@@ -16,6 +16,306 @@
  "questions": [
   {
    "id": "general-knowledge-00001",
+   "q": "How many colours are there in a rainbow?",
+   "o": [
+    "Five",
+    "Six",
+    "Seven",
+    "Eight"
+   ],
+   "a": 2,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "A rainbow shows seven colours: violet to red."
+  },
+  {
+   "id": "general-knowledge-00002",
+   "q": "Which is the largest bird in the world?",
+   "o": [
+    "Eagle",
+    "Ostrich",
+    "Emu",
+    "Albatross"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "The ostrich is the largest living bird."
+  },
+  {
+   "id": "general-knowledge-00003",
+   "q": "Which is the national animal of India?",
+   "o": [
+    "Lion",
+    "Bengal Tiger",
+    "Elephant",
+    "Leopard"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "The Bengal Tiger is the national animal of India."
+  },
+  {
+   "id": "general-knowledge-00004",
+   "q": "How many players are there in a football team on the field?",
+   "o": [
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "a": 2,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Each football team fields eleven players."
+  },
+  {
+   "id": "general-knowledge-00005",
+   "q": "Which festival is known as the 'festival of colours'?",
+   "o": [
+    "Diwali",
+    "Holi",
+    "Onam",
+    "Pongal"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Holi is celebrated with coloured powder and water."
+  },
+  {
+   "id": "general-knowledge-00006",
+   "q": "Which is the fastest land animal?",
+   "o": [
+    "Lion",
+    "Cheetah",
+    "Horse",
+    "Leopard"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "The cheetah can reach about 100 km per hour in short bursts."
+  },
+  {
+   "id": "general-knowledge-00007",
+   "q": "What is the currency of the United Kingdom?",
+   "o": [
+    "Euro",
+    "Pound sterling",
+    "Dollar",
+    "Franc"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "The UK uses the pound sterling."
+  },
+  {
+   "id": "general-knowledge-00008",
+   "q": "Which is the largest mammal in the world?",
+   "o": [
+    "Elephant",
+    "Blue whale",
+    "Giraffe",
+    "Hippopotamus"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "The blue whale is the largest animal on Earth."
+  },
+  {
+   "id": "general-knowledge-00009",
+   "q": "How many days are there in a leap year?",
+   "o": [
+    "364",
+    "365",
+    "366",
+    "367"
+   ],
+   "a": 2,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "A leap year has 366 days, with 29 days in February."
+  },
+  {
+   "id": "general-knowledge-00010",
+   "q": "Which is the tallest building in the world?",
+   "o": [
+    "Shanghai Tower",
+    "Burj Khalifa",
+    "Merdeka 118",
+    "One World Trade Center"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Burj Khalifa in Dubai is the tallest building."
+  },
+  {
+   "id": "general-knowledge-00011",
+   "q": "What is the national sport of Japan?",
+   "o": [
+    "Judo",
+    "Sumo wrestling",
+    "Karate",
+    "Baseball"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Sumo wrestling is regarded as Japan's national sport."
+  },
+  {
+   "id": "general-knowledge-00012",
+   "q": "Which is the largest flower in the world?",
+   "o": [
+    "Lotus",
+    "Rafflesia",
+    "Sunflower",
+    "Tulip"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Rafflesia arnoldii produces the world's largest individual flower."
+  },
+  {
+   "id": "general-knowledge-00013",
+   "q": "Which gas do humans breathe in to survive?",
+   "o": [
+    "Carbon dioxide",
+    "Oxygen",
+    "Nitrogen",
+    "Helium"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Humans need oxygen for respiration."
+  },
+  {
+   "id": "general-knowledge-00014",
+   "q": "How many minutes are there in a full day?",
+   "o": [
+    "1200",
+    "1440",
+    "1540",
+    "1680"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "24 hours times 60 minutes equals 1,440 minutes."
+  },
+  {
+   "id": "general-knowledge-00015",
+   "q": "Which is the largest island in the world?",
+   "o": [
+    "Borneo",
+    "Greenland",
+    "New Guinea",
+    "Madagascar"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Greenland is the largest island; Australia counts as a continent."
+  },
+  {
+   "id": "general-knowledge-00016",
+   "q": "Who invented the telephone?",
+   "o": [
+    "Thomas Edison",
+    "Alexander Graham Bell",
+    "Nikola Tesla",
+    "Guglielmo Marconi"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Alexander Graham Bell is credited with inventing the telephone."
+  },
+  {
+   "id": "general-knowledge-00017",
+   "q": "Which is the national flower of India?",
+   "o": [
+    "Rose",
+    "Lotus",
+    "Sunflower",
+    "Marigold"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Lotus is the national flower of India."
+  },
+  {
+   "id": "general-knowledge-00018",
+   "q": "In which sport is the term 'hat-trick' used for three wickets in three balls?",
+   "o": [
+    "Hockey",
+    "Cricket",
+    "Tennis",
+    "Badminton"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "In cricket, three wickets in three consecutive balls is a hat-trick."
+  },
+  {
+   "id": "general-knowledge-00019",
+   "q": "Which is the coldest place on Earth?",
+   "o": [
+    "Siberia",
+    "Antarctica",
+    "Greenland",
+    "Alaska"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Antarctica records the lowest temperatures on Earth."
+  },
+  {
+   "id": "general-knowledge-00020",
+   "q": "How many bones does a newborn baby have approximately?",
+   "o": [
+    "206",
+    "250",
+    "300",
+    "180"
+   ],
+   "a": 2,
+   "t": "Curated",
+   "l": 3,
+   "s": "curated",
+   "e": "A newborn has about 300 bones, which fuse to 206 in adulthood."
+  },
+  {
+   "id": "general-knowledge-00021",
    "q": "What is the capital of Ethiopia?",
    "o": [
     "Damascus",
@@ -30,7 +330,7 @@
    "e": "The capital of Ethiopia is Addis Ababa."
   },
   {
-   "id": "general-knowledge-00002",
+   "id": "general-knowledge-00022",
    "q": "On which date is World First Aid Day observed?",
    "o": [
     "23 March",
@@ -45,7 +345,7 @@
    "e": "World First Aid Day is observed on second Saturday of September."
   },
   {
-   "id": "general-knowledge-00003",
+   "id": "general-knowledge-00023",
    "q": "Where is the headquarters of World Intellectual Property Organization?",
    "o": [
     "Brussels",
@@ -60,7 +360,7 @@
    "e": "World Intellectual Property Organization is headquartered at Geneva."
   },
   {
-   "id": "general-knowledge-00004",
+   "id": "general-knowledge-00024",
    "q": "How many players are there in a Basketball team?",
    "o": [
     "7",
@@ -75,7 +375,7 @@
    "e": "A Basketball team has 5 players."
   },
   {
-   "id": "general-knowledge-00005",
+   "id": "general-knowledge-00025",
    "q": "Academy Award (Oscar) is associated with which of the following?",
    "o": [
     "Second highest military decoration of India",
@@ -90,7 +390,7 @@
    "e": "Academy Award (Oscar) — American award for films."
   },
   {
-   "id": "general-knowledge-00006",
+   "id": "general-knowledge-00026",
    "q": "Who is the author of On the Origin of Species?",
    "o": [
     "Jawaharlal Nehru",
@@ -105,7 +405,7 @@
    "e": "On the Origin of Species is written by Charles Darwin."
   },
   {
-   "id": "general-knowledge-00007",
+   "id": "general-knowledge-00027",
    "q": "First woman to climb Mount Everest is associated with which of the following?",
    "o": [
     "Junko Tabei",
@@ -120,7 +420,7 @@
    "e": "First woman to climb Mount Everest — Junko Tabei."
   },
   {
-   "id": "general-knowledge-00008",
+   "id": "general-knowledge-00028",
    "q": "Which is the largest lake in the world?",
    "o": [
     "Jamshedpur",
@@ -135,7 +435,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00009",
+   "id": "general-knowledge-00029",
    "q": "Which is the lowest capital city in the world?",
    "o": [
     "Guru Shikhar",
@@ -150,7 +450,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00010",
+   "id": "general-knowledge-00030",
    "q": "In which year was the Bombay Stock Exchange established?",
    "o": [
     "Manila",
@@ -165,7 +465,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00011",
+   "id": "general-knowledge-00031",
    "q": "Which Indian became the youngest world chess champion?",
    "o": [
     "Sachin Tendulkar",
@@ -180,7 +480,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00012",
+   "id": "general-knowledge-00032",
    "q": "What is the capital of Romania?",
    "o": [
     "Addis Ababa",
@@ -195,7 +495,7 @@
    "e": "The capital of Romania is Bucharest."
   },
   {
-   "id": "general-knowledge-00013",
+   "id": "general-knowledge-00033",
    "q": "On which date is World Refugee Day observed?",
    "o": [
     "4 October",
@@ -210,7 +510,7 @@
    "e": "World Refugee Day is observed on 20 June."
   },
   {
-   "id": "general-knowledge-00014",
+   "id": "general-knowledge-00034",
    "q": "Where is the headquarters of International Labour Organization?",
    "o": [
     "Geneva",
@@ -225,7 +525,7 @@
    "e": "International Labour Organization is headquartered at Geneva."
   },
   {
-   "id": "general-knowledge-00015",
+   "id": "general-knowledge-00035",
    "q": "How many players are there in a Handball team?",
    "o": [
     "9",
@@ -240,7 +540,7 @@
    "e": "A Handball team has 7 players."
   },
   {
-   "id": "general-knowledge-00016",
+   "id": "general-knowledge-00036",
    "q": "Indian Premier League is associated with which sport?",
    "o": [
     "Cricket",
@@ -255,7 +555,7 @@
    "e": "Indian Premier League is associated with Cricket."
   },
   {
-   "id": "general-knowledge-00017",
+   "id": "general-knowledge-00037",
    "q": "Ashoka Chakra is associated with which of the following?",
    "o": [
     "Indian award in science and technology",
@@ -270,7 +570,7 @@
    "e": "Ashoka Chakra — Highest peacetime gallantry award of India."
   },
   {
-   "id": "general-knowledge-00018",
+   "id": "general-knowledge-00038",
    "q": "Who is the author of The Interpretation of Dreams?",
    "o": [
     "Sigmund Freud",
@@ -285,7 +585,7 @@
    "e": "The Interpretation of Dreams is written by Sigmund Freud."
   },
   {
-   "id": "general-knowledge-00019",
+   "id": "general-knowledge-00039",
    "q": "First country to send a human into space is associated with which of the following?",
    "o": [
     "Neil Armstrong",
@@ -300,7 +600,7 @@
    "e": "First country to send a human into space — Soviet Union."
   },
   {
-   "id": "general-knowledge-00020",
+   "id": "general-knowledge-00040",
    "q": "Which Indian city is called the Steel City?",
    "o": [
     "Jamshedpur",
@@ -315,7 +615,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00021",
+   "id": "general-knowledge-00041",
    "q": "Which river originates from the Gangotri Glacier?",
    "o": [
     "Brazil",
@@ -330,7 +630,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00022",
+   "id": "general-knowledge-00042",
    "q": "How many major banks were nationalised in India in 1969?",
    "o": [
     "Narasimham Committee",
@@ -345,7 +645,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00023",
+   "id": "general-knowledge-00043",
    "q": "In which year was the Swachh Bharat Mission launched?",
    "o": [
     "2014",
@@ -360,7 +660,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00024",
+   "id": "general-knowledge-00044",
    "q": "What is the capital of Lesotho?",
    "o": [
     "Maseru",
@@ -375,7 +675,7 @@
    "e": "The capital of Lesotho is Maseru."
   },
   {
-   "id": "general-knowledge-00025",
+   "id": "general-knowledge-00045",
    "q": "On which date is Doctors' Day (India) observed?",
    "o": [
     "1 July",
@@ -390,7 +690,7 @@
    "e": "Doctors' Day (India) is observed on 1 July."
   },
   {
-   "id": "general-knowledge-00026",
+   "id": "general-knowledge-00046",
    "q": "Where is the headquarters of International Hockey Federation?",
    "o": [
     "Cologny",
@@ -405,7 +705,7 @@
    "e": "International Hockey Federation is headquartered at Lausanne."
   },
   {
-   "id": "general-knowledge-00027",
+   "id": "general-knowledge-00047",
    "q": "How many players are there in a Hockey team?",
    "o": [
     "7",
@@ -420,7 +720,7 @@
    "e": "A Hockey team has 11 players."
   },
   {
-   "id": "general-knowledge-00028",
+   "id": "general-knowledge-00048",
    "q": "Merdeka Cup is associated with which sport?",
    "o": [
     "Cricket",
@@ -435,7 +735,7 @@
    "e": "Merdeka Cup is associated with Football."
   },
   {
-   "id": "general-knowledge-00029",
+   "id": "general-knowledge-00049",
    "q": "Gandhi Peace Prize is associated with which of the following?",
    "o": [
     "Lifetime achievement in Indian sports",
@@ -450,7 +750,7 @@
    "e": "Gandhi Peace Prize — Indian award for social work and peace."
   },
   {
-   "id": "general-knowledge-00030",
+   "id": "general-knowledge-00050",
    "q": "Who is the author of Maila Anchal?",
    "o": [
     "Phanishwar Nath Renu",
@@ -465,7 +765,7 @@
    "e": "Maila Anchal is written by Phanishwar Nath Renu."
   },
   {
-   "id": "general-knowledge-00031",
+   "id": "general-knowledge-00051",
    "q": "First person to walk on the Moon is associated with which of the following?",
    "o": [
     "England",
@@ -480,7 +780,7 @@
    "e": "First person to walk on the Moon — Neil Armstrong."
   },
   {
-   "id": "general-knowledge-00032",
+   "id": "general-knowledge-00052",
    "q": "Which is the longest mountain range in the world?",
    "o": [
     "Andes",
@@ -495,7 +795,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00033",
+   "id": "general-knowledge-00053",
    "q": "Which is the least populous state of India?",
    "o": [
     "Udaipur",
@@ -510,7 +810,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00034",
+   "id": "general-knowledge-00054",
    "q": "What is the minimum percentage of deposits banks must keep in liquid assets?",
    "o": [
     "Lorenz curve",
@@ -525,7 +825,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00035",
+   "id": "general-knowledge-00055",
    "q": "What is the Indian Regional Navigation Satellite System called?",
    "o": [
     "Pradhan Mantri Garib Kalyan Anna Yojana",
@@ -540,7 +840,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00036",
+   "id": "general-knowledge-00056",
    "q": "What is the capital of Uruguay?",
    "o": [
     "Pyongyang",
@@ -555,7 +855,7 @@
    "e": "The capital of Uruguay is Montevideo."
   },
   {
-   "id": "general-knowledge-00037",
+   "id": "general-knowledge-00057",
    "q": "On which date is International Asteroid Day observed?",
    "o": [
     "24 January",
@@ -570,7 +870,7 @@
    "e": "International Asteroid Day is observed on 30 June."
   },
   {
-   "id": "general-knowledge-00038",
+   "id": "general-knowledge-00058",
    "q": "Where is the headquarters of European Space Agency?",
    "o": [
     "Paris",
@@ -585,7 +885,7 @@
    "e": "European Space Agency is headquartered at Paris."
   },
   {
-   "id": "general-knowledge-00039",
+   "id": "general-knowledge-00059",
    "q": "How many players are there in a Ice hockey team?",
    "o": [
     "6",
@@ -600,7 +900,7 @@
    "e": "A Ice hockey team has 6 players."
   },
   {
-   "id": "general-knowledge-00040",
+   "id": "general-knowledge-00060",
    "q": "Aga Khan Cup is associated with which sport?",
    "o": [
     "Cricket",
@@ -615,7 +915,7 @@
    "e": "Aga Khan Cup is associated with Hockey."
   },
   {
-   "id": "general-knowledge-00041",
+   "id": "general-knowledge-00061",
    "q": "Indira Gandhi Prize is associated with which of the following?",
    "o": [
     "Alternative Nobel Prize",
@@ -630,7 +930,7 @@
    "e": "Indira Gandhi Prize — Indian award for peace, disarmament and development."
   },
   {
-   "id": "general-knowledge-00042",
+   "id": "general-knowledge-00062",
    "q": "Who is the author of Oliver Twist?",
    "o": [
     "Adam Smith",
@@ -645,7 +945,7 @@
    "e": "Oliver Twist is written by Charles Dickens."
   },
   {
-   "id": "general-knowledge-00043",
+   "id": "general-knowledge-00063",
    "q": "First woman Prime Minister in the world is associated with which of the following?",
    "o": [
     "Soviet Union",
@@ -660,7 +960,7 @@
    "e": "First woman Prime Minister in the world — Sirimavo Bandaranaike."
   },
   {
-   "id": "general-knowledge-00044",
+   "id": "general-knowledge-00064",
    "q": "Which is the longest river in the world?",
    "o": [
     "Nile",
@@ -675,7 +975,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00045",
+   "id": "general-knowledge-00065",
    "q": "Which line divides the Earth into the Northern and Southern Hemispheres?",
    "o": [
     "Uttar Pradesh",
@@ -690,7 +990,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00046",
+   "id": "general-knowledge-00066",
    "q": "Which is the central bank of the United States?",
    "o": [
     "Federal Reserve",
@@ -705,7 +1005,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00047",
+   "id": "general-knowledge-00067",
    "q": "Which mission will carry Indian astronauts to space?",
    "o": [
     "Manushi Chhillar",
@@ -720,7 +1020,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00048",
+   "id": "general-knowledge-00068",
    "q": "What is the capital of Malta?",
    "o": [
     "Valletta",
@@ -735,7 +1035,7 @@
    "e": "The capital of Malta is Valletta."
   },
   {
-   "id": "general-knowledge-00049",
+   "id": "general-knowledge-00069",
    "q": "On which date is World Computer Security Day observed?",
    "o": [
     "30 November",
@@ -750,7 +1050,7 @@
    "e": "World Computer Security Day is observed on 30 November."
   },
   {
-   "id": "general-knowledge-00050",
+   "id": "general-knowledge-00070",
    "q": "Where is the headquarters of Comprehensive Nuclear-Test-Ban Treaty Organization?",
    "o": [
     "Vienna",
@@ -765,7 +1065,7 @@
    "e": "Comprehensive Nuclear-Test-Ban Treaty Organization is headquartered at Vienna."
   },
   {
-   "id": "general-knowledge-00051",
+   "id": "general-knowledge-00071",
    "q": "How many players are there in a Kabaddi team?",
    "o": [
     "7",
@@ -780,7 +1080,7 @@
    "e": "A Kabaddi team has 7 players."
   },
   {
-   "id": "general-knowledge-00052",
+   "id": "general-knowledge-00072",
    "q": "Beighton Cup is associated with which sport?",
    "o": [
     "Football",
@@ -795,7 +1095,7 @@
    "e": "Beighton Cup is associated with Hockey."
   },
   {
-   "id": "general-knowledge-00053",
+   "id": "general-knowledge-00073",
    "q": "Borlaug Award is associated with which of the following?",
    "o": [
     "Outstanding performance in Indian sports",
@@ -810,7 +1110,7 @@
    "e": "Borlaug Award — Indian award in agricultural science."
   },
   {
-   "id": "general-knowledge-00054",
+   "id": "general-knowledge-00074",
    "q": "Who is the author of The Communist Manifesto?",
    "o": [
     "Mary Kom",
@@ -825,7 +1125,7 @@
    "e": "The Communist Manifesto is written by Karl Marx and Friedrich Engels."
   },
   {
-   "id": "general-knowledge-00055",
+   "id": "general-knowledge-00075",
    "q": "First person to run a mile in under four minutes is associated with which of the following?",
    "o": [
     "Neil Armstrong",
@@ -840,7 +1140,7 @@
    "e": "First person to run a mile in under four minutes — Roger Bannister."
   },
   {
-   "id": "general-knowledge-00056",
+   "id": "general-knowledge-00076",
    "q": "Which is the highest mountain peak in Africa?",
    "o": [
     "Mount Kilimanjaro",
@@ -855,7 +1155,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00057",
+   "id": "general-knowledge-00077",
    "q": "Which Indian state shares borders with the maximum number of states?",
    "o": [
     "Asia",
@@ -870,7 +1170,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00058",
+   "id": "general-knowledge-00078",
    "q": "What is a tax that takes a larger share of income from the poor called?",
    "o": [
     "Pradhan Mantri Jan Dhan Yojana",
@@ -885,7 +1185,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00059",
+   "id": "general-knowledge-00079",
    "q": "Which campaign was launched to make India self-reliant during COVID-19?",
    "o": [
     "Unified Lending Interface",
@@ -900,7 +1200,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00060",
+   "id": "general-knowledge-00080",
    "q": "What is the capital of Germany?",
    "o": [
     "Monaco",
@@ -915,7 +1215,7 @@
    "e": "The capital of Germany is Berlin."
   },
   {
-   "id": "general-knowledge-00061",
+   "id": "general-knowledge-00081",
    "q": "On which date is International Migrants Day observed?",
    "o": [
     "20 October",
@@ -930,7 +1230,7 @@
    "e": "International Migrants Day is observed on 18 December."
   },
   {
-   "id": "general-knowledge-00062",
+   "id": "general-knowledge-00082",
    "q": "Where is the headquarters of Transparency International?",
    "o": [
     "New York",
@@ -945,7 +1245,7 @@
    "e": "Transparency International is headquartered at Berlin."
   },
   {
-   "id": "general-knowledge-00063",
+   "id": "general-knowledge-00083",
    "q": "How many players are there in a Rugby union team?",
    "o": [
     "15",
@@ -960,7 +1260,7 @@
    "e": "A Rugby union team has 15 players."
   },
   {
-   "id": "general-knowledge-00064",
+   "id": "general-knowledge-00084",
    "q": "Davis Cup is associated with which sport?",
    "o": [
     "Badminton",
@@ -975,7 +1275,7 @@
    "e": "Davis Cup is associated with Tennis."
   },
   {
-   "id": "general-knowledge-00065",
+   "id": "general-knowledge-00085",
    "q": "National Bravery Award is associated with which of the following?",
    "o": [
     "Indian award in agricultural science",
@@ -990,7 +1290,7 @@
    "e": "National Bravery Award — Award for brave children in India."
   },
   {
-   "id": "general-knowledge-00066",
+   "id": "general-knowledge-00086",
    "q": "Who is the author of Gitanjali: Rabindranath Tagore's Nobel work?",
    "o": [
     "Plato",
@@ -1005,7 +1305,7 @@
    "e": "Gitanjali: Rabindranath Tagore's Nobel work is written by Rabindranath Tagore."
   },
   {
-   "id": "general-knowledge-00067",
+   "id": "general-knowledge-00087",
    "q": "First woman to fly solo across the Atlantic is associated with which of the following?",
    "o": [
     "Abhinav Bindra",
@@ -1020,7 +1320,7 @@
    "e": "First woman to fly solo across the Atlantic — Amelia Earhart."
   },
   {
-   "id": "general-knowledge-00068",
+   "id": "general-knowledge-00088",
    "q": "Which is the highest mountain peak in the world?",
    "o": [
     "Pacific Ocean",
@@ -1035,7 +1335,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00069",
+   "id": "general-knowledge-00089",
    "q": "Which lake is the largest freshwater lake in India?",
    "o": [
     "Seven",
@@ -1050,7 +1350,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00070",
+   "id": "general-knowledge-00090",
    "q": "What is the fiscal deficit minus interest payments called?",
    "o": [
     "Per capita income",
@@ -1065,7 +1365,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00071",
+   "id": "general-knowledge-00091",
    "q": "Which is the fastest train in India?",
    "o": [
     "Ayushman Bharat",
@@ -1080,7 +1380,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00072",
+   "id": "general-knowledge-00092",
    "q": "What is the capital of Benin?",
    "o": [
     "Ulaanbaatar",
@@ -1095,7 +1395,7 @@
    "e": "The capital of Benin is Porto-Novo."
   },
   {
-   "id": "general-knowledge-00073",
+   "id": "general-knowledge-00093",
    "q": "On which date is International Day of Peace observed?",
    "o": [
     "11 December",
@@ -1110,7 +1410,7 @@
    "e": "International Day of Peace is observed on 21 September."
   },
   {
-   "id": "general-knowledge-00074",
+   "id": "general-knowledge-00094",
    "q": "Where is the headquarters of International Maritime Organization?",
    "o": [
     "Geneva",
@@ -1125,7 +1425,7 @@
    "e": "International Maritime Organization is headquartered at London."
   },
   {
-   "id": "general-knowledge-00075",
+   "id": "general-knowledge-00095",
    "q": "How many players are there in a Baseball team?",
    "o": [
     "15",
@@ -1140,7 +1440,7 @@
    "e": "A Baseball team has 9 players."
   },
   {
-   "id": "general-knowledge-00076",
+   "id": "general-knowledge-00096",
    "q": "Ryder Cup is associated with which sport?",
    "o": [
     "Golf",
@@ -1155,7 +1455,7 @@
    "e": "Ryder Cup is associated with Golf."
   },
   {
-   "id": "general-knowledge-00077",
+   "id": "general-knowledge-00097",
    "q": "Dada Saheb Phalke Award is associated with which of the following?",
    "o": [
     "Highest award in Indian cinema",
@@ -1170,7 +1470,7 @@
    "e": "Dada Saheb Phalke Award — Highest award in Indian cinema."
   },
   {
-   "id": "general-knowledge-00078",
+   "id": "general-knowledge-00098",
    "q": "Who is the author of Mein Kampf?",
    "o": [
     "Jawaharlal Nehru",
@@ -1185,7 +1485,7 @@
    "e": "Mein Kampf is written by Adolf Hitler."
   },
   {
-   "id": "general-knowledge-00079",
+   "id": "general-knowledge-00099",
    "q": "First woman to win an Olympic gold in wrestling for India is associated with which of the following?",
    "o": [
     "United States of America",
@@ -1200,7 +1500,7 @@
    "e": "First woman to win an Olympic gold in wrestling for India — Karnam Malleswari."
   },
   {
-   "id": "general-knowledge-00080",
+   "id": "general-knowledge-00100",
    "q": "Which is the longest river in Africa?",
    "o": [
     "Vatican City",
@@ -1215,7 +1515,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00081",
+   "id": "general-knowledge-00101",
    "q": "Which is the deepest port in India?",
    "o": [
     "Sambhar Lake",
@@ -1230,7 +1530,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00082",
+   "id": "general-knowledge-00102",
    "q": "Which index represents the Bombay Stock Exchange?",
    "o": [
     "An area with special economic regulations to promote exports",
@@ -1245,7 +1545,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00083",
+   "id": "general-knowledge-00103",
    "q": "Which scheme is a small savings scheme for the girl child?",
    "o": [
     "Indra Exercise",
@@ -1260,7 +1560,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00084",
+   "id": "general-knowledge-00104",
    "q": "What is the capital of Mali?",
    "o": [
     "Kuwait City",
@@ -1275,7 +1575,7 @@
    "e": "The capital of Mali is Bamako."
   },
   {
-   "id": "general-knowledge-00085",
+   "id": "general-knowledge-00105",
    "q": "On which date is World Population Day observed?",
    "o": [
     "14 December",
@@ -1290,7 +1590,7 @@
    "e": "World Population Day is observed on 11 July."
   },
   {
-   "id": "general-knowledge-00086",
+   "id": "general-knowledge-00106",
    "q": "Where is the headquarters of Asian Development Bank?",
    "o": [
     "Geneva",
@@ -1305,7 +1605,7 @@
    "e": "Asian Development Bank is headquartered at Manila."
   },
   {
-   "id": "general-knowledge-00087",
+   "id": "general-knowledge-00107",
    "q": "How many players are there in a Rugby sevens team?",
    "o": [
     "1",
@@ -1320,7 +1620,7 @@
    "e": "A Rugby sevens team has 7 players."
   },
   {
-   "id": "general-knowledge-00088",
+   "id": "general-knowledge-00108",
    "q": "UEFA Champions League is associated with which sport?",
    "o": [
     "Badminton",
@@ -1335,7 +1635,7 @@
    "e": "UEFA Champions League is associated with Football."
   },
   {
-   "id": "general-knowledge-00089",
+   "id": "general-knowledge-00109",
    "q": "Templeton Prize is associated with which of the following?",
    "o": [
     "Award for progress in spiritual matters",
@@ -1350,7 +1650,7 @@
    "e": "Templeton Prize — Award for progress in spiritual matters."
   },
   {
-   "id": "general-knowledge-00090",
+   "id": "general-knowledge-00110",
    "q": "Who is the author of Long Walk to Freedom?",
    "o": [
     "Sigmund Freud",
@@ -1365,7 +1665,7 @@
    "e": "Long Walk to Freedom is written by Nelson Mandela."
   },
   {
-   "id": "general-knowledge-00091",
+   "id": "general-knowledge-00111",
    "q": "First country to launch a satellite is associated with which of the following?",
    "o": [
     "New Zealand",
@@ -1380,7 +1680,7 @@
    "e": "First country to launch a satellite — Soviet Union."
   },
   {
-   "id": "general-knowledge-00092",
+   "id": "general-knowledge-00112",
    "q": "Which is the largest sea in the world?",
    "o": [
     "Maharashtra",
@@ -1395,7 +1695,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00093",
+   "id": "general-knowledge-00113",
    "q": "Which waterfall is on the Sharavati river?",
    "o": [
     "Canada",
@@ -1410,7 +1710,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00094",
+   "id": "general-knowledge-00114",
    "q": "Which tax is levied on the import of goods?",
    "o": [
     "28 per cent",
@@ -1425,7 +1725,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00095",
+   "id": "general-knowledge-00115",
    "q": "Which Indian state has the largest number of tiger reserves?",
    "o": [
     "D. Gukesh",
@@ -1440,7 +1740,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00096",
+   "id": "general-knowledge-00116",
    "q": "What is the capital of Iran?",
    "o": [
     "Tehran",
@@ -1455,7 +1755,7 @@
    "e": "The capital of Iran is Tehran."
   },
   {
-   "id": "general-knowledge-00097",
+   "id": "general-knowledge-00117",
    "q": "On which date is National Energy Conservation Day (India) observed?",
    "o": [
     "30 June",
@@ -1470,7 +1770,7 @@
    "e": "National Energy Conservation Day (India) is observed on 14 December."
   },
   {
-   "id": "general-knowledge-00098",
+   "id": "general-knowledge-00118",
    "q": "Where is the headquarters of World Meteorological Organization?",
    "o": [
     "The Hague",
@@ -1485,7 +1785,7 @@
    "e": "World Meteorological Organization is headquartered at Geneva."
   },
   {
-   "id": "general-knowledge-00099",
+   "id": "general-knowledge-00119",
    "q": "How many players are there in a Volleyball team?",
    "o": [
     "4",
@@ -1500,7 +1800,7 @@
    "e": "A Volleyball team has 6 players."
   },
   {
-   "id": "general-knowledge-00100",
+   "id": "general-knowledge-00120",
    "q": "Durand Cup is associated with which sport?",
    "o": [
     "Cricket",
@@ -1515,7 +1815,7 @@
    "e": "Durand Cup is associated with Football."
   },
   {
-   "id": "general-knowledge-00101",
+   "id": "general-knowledge-00121",
    "q": "Sahitya Akademi Award is associated with which of the following?",
    "o": [
     "Literary award for Indian languages",
@@ -1530,7 +1830,7 @@
    "e": "Sahitya Akademi Award — Literary award for Indian languages."
   },
   {
-   "id": "general-knowledge-00102",
+   "id": "general-knowledge-00122",
    "q": "Who is the author of Gitanjali (Song Offerings)?",
    "o": [
     "Rabindranath Tagore",
@@ -1545,7 +1845,7 @@
    "e": "Gitanjali (Song Offerings) is written by Rabindranath Tagore."
   },
   {
-   "id": "general-knowledge-00103",
+   "id": "general-knowledge-00123",
    "q": "First Indian woman to win an Olympic medal is associated with which of the following?",
    "o": [
     "Karnam Malleswari",
@@ -1560,7 +1860,7 @@
    "e": "First Indian woman to win an Olympic medal — Karnam Malleswari."
   },
   {
-   "id": "general-knowledge-00104",
+   "id": "general-knowledge-00124",
    "q": "Which is the longest river in India?",
    "o": [
     "Sundarbans",
@@ -1575,7 +1875,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00105",
+   "id": "general-knowledge-00125",
    "q": "Which country is made up of more than 17,000 islands?",
    "o": [
     "Indonesia",
@@ -1590,7 +1890,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00106",
+   "id": "general-knowledge-00126",
    "q": "Which sector contributes the largest share to India's GDP?",
    "o": [
     "Prime lending rate",
@@ -1605,7 +1905,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00107",
+   "id": "general-knowledge-00127",
    "q": "Which country hosted the FIFA World Cup 2022?",
    "o": [
     "2021",
@@ -1620,7 +1920,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00108",
+   "id": "general-knowledge-00128",
    "q": "What is the capital of Somalia?",
    "o": [
     "Mogadishu",
@@ -1635,7 +1935,7 @@
    "e": "The capital of Somalia is Mogadishu."
   },
   {
-   "id": "general-knowledge-00109",
+   "id": "general-knowledge-00129",
    "q": "On which date is World Diabetes Day observed?",
    "o": [
     "11 December",
@@ -1650,7 +1950,7 @@
    "e": "World Diabetes Day is observed on 14 November."
   },
   {
-   "id": "general-knowledge-00110",
+   "id": "general-knowledge-00130",
    "q": "Where is the headquarters of International Court of Justice?",
    "o": [
     "The Hague",
@@ -1665,7 +1965,7 @@
    "e": "International Court of Justice is headquartered at The Hague."
   },
   {
-   "id": "general-knowledge-00111",
+   "id": "general-knowledge-00131",
    "q": "How many players are there in a Cricket team?",
    "o": [
     "11",
@@ -1680,7 +1980,7 @@
    "e": "A Cricket team has 11 players."
   },
   {
-   "id": "general-knowledge-00112",
+   "id": "general-knowledge-00132",
    "q": "Duleep Trophy is associated with which sport?",
    "o": [
     "Tennis",
@@ -1695,7 +1995,7 @@
    "e": "Duleep Trophy is associated with Cricket."
   },
   {
-   "id": "general-knowledge-00113",
+   "id": "general-knowledge-00133",
    "q": "Shaurya Chakra is associated with which of the following?",
    "o": [
     "Indian award for peace, disarmament and development",
@@ -1710,7 +2010,7 @@
    "e": "Shaurya Chakra — Third highest peacetime gallantry award of India."
   },
   {
-   "id": "general-knowledge-00114",
+   "id": "general-knowledge-00134",
    "q": "Who is the author of War and Peace?",
    "o": [
     "Helen Keller",
@@ -1725,7 +2025,7 @@
    "e": "War and Peace is written by Leo Tolstoy."
   },
   {
-   "id": "general-knowledge-00115",
+   "id": "general-knowledge-00135",
    "q": "First woman to win a Nobel Prize is associated with which of the following?",
    "o": [
     "Roald Amundsen",
@@ -1740,7 +2040,7 @@
    "e": "First woman to win a Nobel Prize — Marie Curie."
   },
   {
-   "id": "general-knowledge-00116",
+   "id": "general-knowledge-00136",
    "q": "Which country is called the Roof of the World?",
    "o": [
     "Majuli",
@@ -1755,7 +2055,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00117",
+   "id": "general-knowledge-00137",
    "q": "Which is the largest lake in Africa?",
    "o": [
     "Marina Beach",
@@ -1770,7 +2070,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00118",
+   "id": "general-knowledge-00138",
    "q": "In which year was the Asian Development Bank established?",
    "o": [
     "Microeconomics",
@@ -1785,7 +2085,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00119",
+   "id": "general-knowledge-00139",
    "q": "Which Indian state has the largest number of Ramsar wetlands?",
    "o": [
     "2016",
@@ -1800,7 +2100,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00120",
+   "id": "general-knowledge-00140",
    "q": "What is the capital of Cuba?",
    "o": [
     "Kyiv",
@@ -1815,7 +2115,7 @@
    "e": "The capital of Cuba is Havana."
   },
   {
-   "id": "general-knowledge-00121",
+   "id": "general-knowledge-00141",
    "q": "On which date is World Nature Conservation Day observed?",
    "o": [
     "8 June",
@@ -1830,7 +2130,7 @@
    "e": "World Nature Conservation Day is observed on 28 July."
   },
   {
-   "id": "general-knowledge-00122",
+   "id": "general-knowledge-00142",
    "q": "Where is the headquarters of UNICEF?",
    "o": [
     "Zurich",
@@ -1845,7 +2145,7 @@
    "e": "UNICEF is headquartered at New York."
   },
   {
-   "id": "general-knowledge-00123",
+   "id": "general-knowledge-00143",
    "q": "How many players are there in a Polo team?",
    "o": [
     "4",
@@ -1860,7 +2160,7 @@
    "e": "A Polo team has 4 players."
   },
   {
-   "id": "general-knowledge-00124",
+   "id": "general-knowledge-00144",
    "q": "Australian Open is associated with which sport?",
    "o": [
     "Football",
@@ -1875,7 +2175,7 @@
    "e": "Australian Open is associated with Tennis."
   },
   {
-   "id": "general-knowledge-00125",
+   "id": "general-knowledge-00145",
    "q": "Sangeet Natak Akademi Award is associated with which of the following?",
    "o": [
     "Indian award for research",
@@ -1890,7 +2190,7 @@
    "e": "Sangeet Natak Akademi Award — Performing arts award of India."
   },
   {
-   "id": "general-knowledge-00126",
+   "id": "general-knowledge-00146",
    "q": "Who is the author of Raag Darbari?",
    "o": [
     "Shrilal Shukla",
@@ -1905,7 +2205,7 @@
    "e": "Raag Darbari is written by Shrilal Shukla."
   },
   {
-   "id": "general-knowledge-00127",
+   "id": "general-knowledge-00147",
    "q": "First Cricket World Cup was held in is associated with which of the following?",
    "o": [
     "England",
@@ -1920,7 +2220,7 @@
    "e": "First Cricket World Cup was held in — England."
   },
   {
-   "id": "general-knowledge-00128",
+   "id": "general-knowledge-00148",
    "q": "Which is the busiest ocean strait in the world?",
    "o": [
     "Asia",
@@ -1935,7 +2235,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00129",
+   "id": "general-knowledge-00149",
    "q": "Which is the largest freshwater lake in the world by area?",
    "o": [
     "Russia",
@@ -1950,7 +2250,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00130",
+   "id": "general-knowledge-00150",
    "q": "What is the minimum number of persons required to start a cooperative bank?",
    "o": [
     "Ten",
@@ -1965,7 +2265,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00131",
+   "id": "general-knowledge-00151",
    "q": "Which is the largest airport in India by area?",
    "o": [
     "Namami Gange",
@@ -1980,7 +2280,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00132",
+   "id": "general-knowledge-00152",
    "q": "What is the capital of Ghana?",
    "o": [
     "Brazzaville",
@@ -1995,7 +2295,7 @@
    "e": "The capital of Ghana is Accra."
   },
   {
-   "id": "general-knowledge-00133",
+   "id": "general-knowledge-00153",
    "q": "On which date is National Technology Day (India) observed?",
    "o": [
     "7 April",
@@ -2010,7 +2310,7 @@
    "e": "National Technology Day (India) is observed on 11 May."
   },
   {
-   "id": "general-knowledge-00134",
+   "id": "general-knowledge-00154",
    "q": "Where is the headquarters of International Committee of the Red Cross?",
    "o": [
     "Geneva",
@@ -2025,7 +2325,7 @@
    "e": "International Committee of the Red Cross is headquartered at Geneva."
   },
   {
-   "id": "general-knowledge-00135",
+   "id": "general-knowledge-00155",
    "q": "How many players are there in a Throwball team?",
    "o": [
     "7",
@@ -2040,7 +2340,7 @@
    "e": "A Throwball team has 7 players."
   },
   {
-   "id": "general-knowledge-00136",
+   "id": "general-knowledge-00156",
    "q": "Champions Trophy (Cricket) is associated with which sport?",
    "o": [
     "Cricket",
@@ -2055,7 +2355,7 @@
    "e": "Champions Trophy (Cricket) is associated with Cricket."
   },
   {
-   "id": "general-knowledge-00137",
+   "id": "general-knowledge-00157",
    "q": "Bharat Ratna is associated with which of the following?",
    "o": [
     "Highest civilian award of India",
@@ -2070,7 +2370,7 @@
    "e": "Bharat Ratna — Highest civilian award of India."
   },
   {
-   "id": "general-knowledge-00138",
+   "id": "general-knowledge-00158",
    "q": "Who is the author of The Wealth of Nations?",
    "o": [
     "Kalidasa",
@@ -2085,7 +2385,7 @@
    "e": "The Wealth of Nations is written by Adam Smith."
   },
   {
-   "id": "general-knowledge-00139",
+   "id": "general-knowledge-00159",
    "q": "First woman in space is associated with which of the following?",
    "o": [
     "Greece",
@@ -2100,7 +2400,7 @@
    "e": "First woman in space — Valentina Tereshkova."
   },
   {
-   "id": "general-knowledge-00140",
+   "id": "general-knowledge-00160",
    "q": "Which Indian city is called the Electronic City of India?",
    "o": [
     "Finland",
@@ -2115,7 +2415,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00141",
+   "id": "general-knowledge-00161",
    "q": "Which lake is the largest saltwater lake in India?",
    "o": [
     "Prime Meridian",
@@ -2130,7 +2430,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00142",
+   "id": "general-knowledge-00162",
    "q": "What is the lowest GST slab rate in India?",
    "o": [
     "5 per cent",
@@ -2145,7 +2445,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00143",
+   "id": "general-knowledge-00163",
    "q": "Which scheme provides free food grains to migrants?",
    "o": [
     "Project Tiger",
@@ -2160,7 +2460,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00144",
+   "id": "general-knowledge-00164",
    "q": "What is the capital of Malaysia?",
    "o": [
     "Port Louis",
@@ -2175,7 +2475,7 @@
    "e": "The capital of Malaysia is Kuala Lumpur."
   },
   {
-   "id": "general-knowledge-00145",
+   "id": "general-knowledge-00165",
    "q": "On which date is World Television Day observed?",
    "o": [
     "5 June",
@@ -2190,7 +2490,7 @@
    "e": "World Television Day is observed on 21 November."
   },
   {
-   "id": "general-knowledge-00146",
+   "id": "general-knowledge-00166",
    "q": "Where is the headquarters of International Olympic Committee?",
    "o": [
     "Lausanne",
@@ -2205,7 +2505,7 @@
    "e": "International Olympic Committee is headquartered at Lausanne."
   },
   {
-   "id": "general-knowledge-00147",
+   "id": "general-knowledge-00167",
    "q": "How many players are there in a Korfball team?",
    "o": [
     "1",
@@ -2220,7 +2520,7 @@
    "e": "A Korfball team has 8 players."
   },
   {
-   "id": "general-knowledge-00148",
+   "id": "general-knowledge-00168",
    "q": "World Cup (Cricket) is associated with which sport?",
    "o": [
     "Badminton",
@@ -2235,7 +2535,7 @@
    "e": "World Cup (Cricket) is associated with Cricket."
   },
   {
-   "id": "general-knowledge-00149",
+   "id": "general-knowledge-00169",
    "q": "Vir Chakra is associated with which of the following?",
    "o": [
     "Asian award for public service",
@@ -2250,7 +2550,7 @@
    "e": "Vir Chakra — Third highest military decoration of India."
   },
   {
-   "id": "general-knowledge-00150",
+   "id": "general-knowledge-00170",
    "q": "Who is the author of Gitanjali?",
    "o": [
     "Homer",
@@ -2265,7 +2565,7 @@
    "e": "Gitanjali is written by Rabindranath Tagore."
   },
   {
-   "id": "general-knowledge-00151",
+   "id": "general-knowledge-00171",
    "q": "First person to reach the North Pole by surface is associated with which of the following?",
    "o": [
     "Soviet Union",
@@ -2280,7 +2580,7 @@
    "e": "First person to reach the North Pole by surface — Wally Herbert."
   },
   {
-   "id": "general-knowledge-00152",
+   "id": "general-knowledge-00172",
    "q": "Which is the largest saltwater lake in India?",
    "o": [
     "Cuba",
@@ -2295,7 +2595,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00153",
+   "id": "general-knowledge-00173",
    "q": "Which lake is the highest lake in India?",
    "o": [
     "Atacama Desert",
@@ -2310,7 +2610,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00154",
+   "id": "general-knowledge-00174",
    "q": "What is the currency symbol of India?",
    "o": [
     "Per capita income",
@@ -2325,7 +2625,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00155",
+   "id": "general-knowledge-00175",
    "q": "Which military exercise is conducted by India and France?",
    "o": [
     "Panchamrit Commitments",
@@ -2340,7 +2640,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00156",
+   "id": "general-knowledge-00176",
    "q": "What is the capital of Serbia?",
    "o": [
     "Belgrade",
@@ -2355,7 +2655,7 @@
    "e": "The capital of Serbia is Belgrade."
   },
   {
-   "id": "general-knowledge-00157",
+   "id": "general-knowledge-00177",
    "q": "On which date is National Voters' Day (India) observed?",
    "o": [
     "19 August",
@@ -2370,7 +2670,7 @@
    "e": "National Voters' Day (India) is observed on 25 January."
   },
   {
-   "id": "general-knowledge-00158",
+   "id": "general-knowledge-00178",
    "q": "Where is the headquarters of Amnesty International?",
    "o": [
     "Washington, D.C.",
@@ -2385,7 +2685,7 @@
    "e": "Amnesty International is headquartered at London."
   },
   {
-   "id": "general-knowledge-00159",
+   "id": "general-knowledge-00179",
    "q": "How many players are there in a Netball team?",
    "o": [
     "5",
@@ -2400,7 +2700,7 @@
    "e": "A Netball team has 7 players."
   },
   {
-   "id": "general-knowledge-00160",
+   "id": "general-knowledge-00180",
    "q": "Major Dhyan Chand Khel Ratna Award is associated with which of the following?",
    "o": [
     "Second highest peacetime gallantry award of India",
@@ -2415,7 +2715,7 @@
    "e": "Major Dhyan Chand Khel Ratna Award — Highest sporting honour of India."
   },
   {
-   "id": "general-knowledge-00161",
+   "id": "general-knowledge-00181",
    "q": "Who is the author of A Brief History of Time?",
    "o": [
     "Charles Darwin",
@@ -2430,7 +2730,7 @@
    "e": "A Brief History of Time is written by Stephen Hawking."
   },
   {
-   "id": "general-knowledge-00162",
+   "id": "general-knowledge-00182",
    "q": "First Indian to win a Nobel Prize is associated with which of the following?",
    "o": [
     "Rabindranath Tagore",
@@ -2445,7 +2745,7 @@
    "e": "First Indian to win a Nobel Prize — Rabindranath Tagore."
   },
   {
-   "id": "general-knowledge-00163",
+   "id": "general-knowledge-00183",
    "q": "Which is the largest river by volume of water?",
    "o": [
     "Tamil Nadu",
@@ -2460,7 +2760,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00164",
+   "id": "general-knowledge-00184",
    "q": "Which river flows through the city of Ahmedabad?",
    "o": [
     "West Bengal",
@@ -2475,7 +2775,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00165",
+   "id": "general-knowledge-00185",
    "q": "What is a tax whose rate rises with income called?",
    "o": [
     "Income inequality",
@@ -2490,7 +2790,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00166",
+   "id": "general-knowledge-00186",
    "q": "Which Indian site was declared a Ramsar site recently?",
    "o": [
     "Namami Gange",
@@ -2505,7 +2805,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00167",
+   "id": "general-knowledge-00187",
    "q": "What is the capital of Singapore?",
    "o": [
     "Santiago",
@@ -2520,7 +2820,7 @@
    "e": "The capital of Singapore is Singapore."
   },
   {
-   "id": "general-knowledge-00168",
+   "id": "general-knowledge-00188",
    "q": "On which date is International Literacy Day observed?",
    "o": [
     "13 February",
@@ -2535,7 +2835,7 @@
    "e": "International Literacy Day is observed on 8 September."
   },
   {
-   "id": "general-knowledge-00169",
+   "id": "general-knowledge-00189",
    "q": "Where is the headquarters of International Monetary Fund?",
    "o": [
     "Washington, D.C.",
@@ -2550,7 +2850,7 @@
    "e": "International Monetary Fund is headquartered at Washington, D.C.."
   },
   {
-   "id": "general-knowledge-00170",
+   "id": "general-knowledge-00190",
    "q": "How many players are there in a Badminton (doubles) team?",
    "o": [
     "4",
@@ -2565,7 +2865,7 @@
    "e": "A Badminton (doubles) team has 2 players."
   },
   {
-   "id": "general-knowledge-00171",
+   "id": "general-knowledge-00191",
    "q": "Rovers Cup is associated with which sport?",
    "o": [
     "Football",
@@ -2580,7 +2880,7 @@
    "e": "Rovers Cup is associated with Football."
   },
   {
-   "id": "general-knowledge-00172",
+   "id": "general-knowledge-00192",
    "q": "Grammy Award is associated with which of the following?",
    "o": [
     "Award for progress in spiritual matters",
@@ -2595,7 +2895,7 @@
    "e": "Grammy Award — American award for music."
   },
   {
-   "id": "general-knowledge-00173",
+   "id": "general-knowledge-00193",
    "q": "Who is the author of Broken Wings?",
    "o": [
     "Charles Dickens",
@@ -2610,7 +2910,7 @@
    "e": "Broken Wings is written by Sarojini Naidu."
   },
   {
-   "id": "general-knowledge-00174",
+   "id": "general-knowledge-00194",
    "q": "First Secretary-General of the United Nations is associated with which of the following?",
    "o": [
     "Karnam Malleswari",
@@ -2625,7 +2925,7 @@
    "e": "First Secretary-General of the United Nations — Trygve Lie."
   },
   {
-   "id": "general-knowledge-00175",
+   "id": "general-knowledge-00195",
    "q": "Which country is called the Land of the Rising Sun?",
    "o": [
     "Surat",
@@ -2640,7 +2940,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00176",
+   "id": "general-knowledge-00196",
    "q": "Which city is known as the City of Seven Hills?",
    "o": [
     "Rome",
@@ -2655,7 +2955,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00177",
+   "id": "general-knowledge-00197",
    "q": "Which of these is a quantitative tool of monetary policy?",
    "o": [
     "Open market operations",
@@ -2670,7 +2970,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00178",
+   "id": "general-knowledge-00198",
    "q": "Which is India's first indigenous space shuttle programme?",
    "o": [
     "Reusable Launch Vehicle",
@@ -2685,7 +2985,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00179",
+   "id": "general-knowledge-00199",
    "q": "What is the capital of Kyrgyzstan?",
    "o": [
     "Doha",
@@ -2700,7 +3000,7 @@
    "e": "The capital of Kyrgyzstan is Bishkek."
   },
   {
-   "id": "general-knowledge-00180",
+   "id": "general-knowledge-00200",
    "q": "On which date is World Animal Day observed?",
    "o": [
     "second Saturday of September",
@@ -2715,7 +3015,7 @@
    "e": "World Animal Day is observed on 4 October."
   },
   {
-   "id": "general-knowledge-00181",
+   "id": "general-knowledge-00201",
    "q": "Where is the headquarters of International Civil Aviation Organization?",
    "o": [
     "Beijing",
@@ -2730,7 +3030,7 @@
    "e": "International Civil Aviation Organization is headquartered at Montreal."
   },
   {
-   "id": "general-knowledge-00182",
+   "id": "general-knowledge-00202",
    "q": "How many players are there in a Table tennis (singles) team?",
    "o": [
     "7",
@@ -2745,7 +3045,7 @@
    "e": "A Table tennis (singles) team has 1 players."
   },
   {
-   "id": "general-knowledge-00183",
+   "id": "general-knowledge-00203",
    "q": "FIH Hockey World Cup is associated with which sport?",
    "o": [
     "Football",
@@ -2760,7 +3060,7 @@
    "e": "FIH Hockey World Cup is associated with Hockey."
   },
   {
-   "id": "general-knowledge-00184",
+   "id": "general-knowledge-00204",
    "q": "Ramon Magsaysay Award is associated with which of the following?",
    "o": [
     "Performing arts award of India",
@@ -2775,7 +3075,7 @@
    "e": "Ramon Magsaysay Award — Asian award for public service."
   },
   {
-   "id": "general-knowledge-00185",
+   "id": "general-knowledge-00205",
    "q": "Who is the author of Meghaduta?",
    "o": [
     "Shrilal Shukla",
@@ -2790,7 +3090,7 @@
    "e": "Meghaduta is written by Kalidasa."
   },
   {
-   "id": "general-knowledge-00186",
+   "id": "general-knowledge-00206",
    "q": "First Asian to win a Nobel Prize is associated with which of the following?",
    "o": [
     "Uruguay",
@@ -2805,7 +3105,7 @@
    "e": "First Asian to win a Nobel Prize — Rabindranath Tagore."
   },
   {
-   "id": "general-knowledge-00187",
+   "id": "general-knowledge-00207",
    "q": "Which Indian city is called the Blue City?",
    "o": [
     "Jodhpur",
@@ -2820,7 +3120,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00188",
+   "id": "general-knowledge-00208",
    "q": "Where is the Charminar located?",
    "o": [
     "Ganga",
@@ -2835,7 +3135,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00189",
+   "id": "general-knowledge-00209",
    "q": "In which year was The Wealth of Nations published?",
    "o": [
     "Reverse repo",
@@ -2850,7 +3150,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00190",
+   "id": "general-knowledge-00210",
    "q": "Which Indian city was the first to become a smart city in India?",
    "o": [
     "National Tobacco Control Programme",
@@ -2865,7 +3165,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00191",
+   "id": "general-knowledge-00211",
    "q": "What is the capital of Spain?",
    "o": [
     "Madrid",
@@ -2880,7 +3180,7 @@
    "e": "The capital of Spain is Madrid."
   },
   {
-   "id": "general-knowledge-00192",
+   "id": "general-knowledge-00212",
    "q": "On which date is World Radiography Day observed?",
    "o": [
     "11 July",
@@ -2895,7 +3195,7 @@
    "e": "World Radiography Day is observed on 8 November."
   },
   {
-   "id": "general-knowledge-00193",
+   "id": "general-knowledge-00213",
    "q": "Where is the headquarters of National Aeronautics and Space Administration?",
    "o": [
     "Washington, D.C.",
@@ -2910,7 +3210,7 @@
    "e": "National Aeronautics and Space Administration is headquartered at Washington, D.C.."
   },
   {
-   "id": "general-knowledge-00194",
+   "id": "general-knowledge-00214",
    "q": "How many players are there in a Water polo team?",
    "o": [
     "4",
@@ -2925,7 +3225,7 @@
    "e": "A Water polo team has 7 players."
   },
   {
-   "id": "general-knowledge-00195",
+   "id": "general-knowledge-00215",
    "q": "Bordoloi Trophy is associated with which sport?",
    "o": [
     "Cricket",
@@ -2940,7 +3240,7 @@
    "e": "Bordoloi Trophy is associated with Football."
   },
   {
-   "id": "general-knowledge-00196",
+   "id": "general-knowledge-00216",
    "q": "Param Vir Chakra is associated with which of the following?",
    "o": [
     "Outstanding performance in Indian sports",
@@ -2955,7 +3255,7 @@
    "e": "Param Vir Chakra — Highest military decoration of India."
   },
   {
-   "id": "general-knowledge-00197",
+   "id": "general-knowledge-00217",
    "q": "Who is the author of Playing It My Way?",
    "o": [
     "Sachin Tendulkar",
@@ -2970,7 +3270,7 @@
    "e": "Playing It My Way is written by Sachin Tendulkar."
   },
   {
-   "id": "general-knowledge-00198",
+   "id": "general-knowledge-00218",
    "q": "First Indian to win an individual Olympic gold is associated with which of the following?",
    "o": [
     "Abhinav Bindra",
@@ -2985,7 +3285,7 @@
    "e": "First Indian to win an individual Olympic gold — Abhinav Bindra."
   },
   {
-   "id": "general-knowledge-00199",
+   "id": "general-knowledge-00219",
    "q": "Which city is known as the Big Apple?",
    "o": [
     "Majuli",
@@ -3000,7 +3300,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00200",
+   "id": "general-knowledge-00220",
    "q": "Which country is the largest producer of rubber?",
    "o": [
     "Thanjavur",
@@ -3015,7 +3315,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00201",
+   "id": "general-knowledge-00221",
    "q": "In which year was the State Bank of India established?",
    "o": [
     "1955",
@@ -3030,7 +3330,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00202",
+   "id": "general-knowledge-00222",
    "q": "Which missile is India's intercontinental ballistic missile?",
    "o": [
     "Agni-V",
@@ -3045,7 +3345,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00203",
+   "id": "general-knowledge-00223",
    "q": "What is the capital of Lithuania?",
    "o": [
     "Vilnius",
@@ -3060,7 +3360,7 @@
    "e": "The capital of Lithuania is Vilnius."
   },
   {
-   "id": "general-knowledge-00204",
+   "id": "general-knowledge-00224",
    "q": "On which date is World Ozone Day observed?",
    "o": [
     "12 January",
@@ -3075,7 +3375,7 @@
    "e": "World Ozone Day is observed on 16 September."
   },
   {
-   "id": "general-knowledge-00205",
+   "id": "general-knowledge-00225",
    "q": "Where is the headquarters of South Asian University?",
    "o": [
     "Geneva",
@@ -3090,7 +3390,7 @@
    "e": "South Asian University is headquartered at New Delhi."
   },
   {
-   "id": "general-knowledge-00206",
+   "id": "general-knowledge-00226",
    "q": "How many players are there in a Football team?",
    "o": [
     "7",
@@ -3105,7 +3405,7 @@
    "e": "A Football team has 11 players."
   },
   {
-   "id": "general-knowledge-00207",
+   "id": "general-knowledge-00227",
    "q": "All England Open is associated with which sport?",
    "o": [
     "Badminton",
@@ -3120,7 +3420,7 @@
    "e": "All England Open is associated with Badminton."
   },
   {
-   "id": "general-knowledge-00208",
+   "id": "general-knowledge-00228",
    "q": "Infosys Prize is associated with which of the following?",
    "o": [
     "Fourth highest civilian award of India",
@@ -3135,7 +3435,7 @@
    "e": "Infosys Prize — Indian award for research."
   },
   {
-   "id": "general-knowledge-00209",
+   "id": "general-knowledge-00229",
    "q": "Who is the author of India 2020?",
    "o": [
     "Rabindranath Tagore",
@@ -3150,7 +3450,7 @@
    "e": "India 2020 is written by A. P. J. Abdul Kalam."
   },
   {
-   "id": "general-knowledge-00210",
+   "id": "general-knowledge-00230",
    "q": "First country to land a man on the Moon is associated with which of the following?",
    "o": [
     "Karnam Malleswari",
@@ -3165,7 +3465,7 @@
    "e": "First country to land a man on the Moon — United States of America."
   },
   {
-   "id": "general-knowledge-00211",
+   "id": "general-knowledge-00231",
    "q": "Which is the largest rainforest in the world?",
    "o": [
     "Amazon Rainforest",
@@ -3180,7 +3480,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00212",
+   "id": "general-knowledge-00232",
    "q": "In which country is the Atacama Desert located?",
    "o": [
     "Delhi",
@@ -3195,7 +3495,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00213",
+   "id": "general-knowledge-00233",
    "q": "Who wrote Das Kapital?",
    "o": [
     "Bank of Hindustan",
@@ -3210,7 +3510,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00214",
+   "id": "general-knowledge-00234",
    "q": "Which Indian initiative promotes clean energy partnerships globally?",
    "o": [
     "Concern Worldwide and Welthungerhilfe",
@@ -3225,7 +3525,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00215",
+   "id": "general-knowledge-00235",
    "q": "What is the capital of Greece?",
    "o": [
     "Athens",
@@ -3240,7 +3540,7 @@
    "e": "The capital of Greece is Athens."
   },
   {
-   "id": "general-knowledge-00216",
+   "id": "general-knowledge-00236",
    "q": "On which date is National Youth Day (India) observed?",
    "o": [
     "11 May",
@@ -3255,7 +3555,7 @@
    "e": "National Youth Day (India) is observed on 12 January."
   },
   {
-   "id": "general-knowledge-00217",
+   "id": "general-knowledge-00237",
    "q": "Where is the headquarters of NATO?",
    "o": [
     "Nairobi",
@@ -3270,7 +3570,7 @@
    "e": "NATO is headquartered at Brussels."
   },
   {
-   "id": "general-knowledge-00218",
+   "id": "general-knowledge-00238",
    "q": "How many players are there in a Kho Kho team?",
    "o": [
     "1",
@@ -3285,7 +3585,7 @@
    "e": "A Kho Kho team has 9 players."
   },
   {
-   "id": "general-knowledge-00219",
+   "id": "general-knowledge-00239",
    "q": "Copa America is associated with which sport?",
    "o": [
     "Football",
@@ -3300,7 +3600,7 @@
    "e": "Copa America is associated with Football."
   },
   {
-   "id": "general-knowledge-00220",
+   "id": "general-knowledge-00240",
    "q": "Dhyan Chand Award is associated with which of the following?",
    "o": [
     "Lifetime achievement in Indian sports",
@@ -3315,7 +3615,7 @@
    "e": "Dhyan Chand Award — Lifetime achievement in Indian sports."
   },
   {
-   "id": "general-knowledge-00221",
+   "id": "general-knowledge-00241",
    "q": "Who is the author of Arthashastra?",
    "o": [
     "Kautilya",
@@ -3330,7 +3630,7 @@
    "e": "Arthashastra is written by Kautilya."
   },
   {
-   "id": "general-knowledge-00222",
+   "id": "general-knowledge-00242",
    "q": "First President of the United States is associated with which of the following?",
    "o": [
     "Amelia Earhart",
@@ -3345,7 +3645,7 @@
    "e": "First President of the United States — George Washington."
   },
   {
-   "id": "general-knowledge-00223",
+   "id": "general-knowledge-00243",
    "q": "Which is the southernmost state of India",
    "o": [
     "Prime Meridian",
@@ -3360,7 +3660,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00224",
+   "id": "general-knowledge-00244",
    "q": "Which is the deepest point in the ocean?",
    "o": [
     "Gulf of Mannar",
@@ -3375,7 +3675,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00225",
+   "id": "general-knowledge-00245",
    "q": "Which organ of the World Bank lends to the private sector?",
    "o": [
     "2000 rupees",
@@ -3390,7 +3690,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00226",
+   "id": "general-knowledge-00246",
    "q": "Which scheme provides collateral-free loans to small businesses?",
    "o": [
     "Transparency International",
@@ -3405,7 +3705,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00227",
+   "id": "general-knowledge-00247",
    "q": "What is the capital of Netherlands?",
    "o": [
     "Nuku'alofa",
@@ -3420,7 +3720,7 @@
    "e": "The capital of Netherlands is Amsterdam."
   },
   {
-   "id": "general-knowledge-00228",
+   "id": "general-knowledge-00248",
    "q": "On which date is World Osteoporosis Day observed?",
    "o": [
     "14 December",
@@ -3435,7 +3735,7 @@
    "e": "World Osteoporosis Day is observed on 20 October."
   },
   {
-   "id": "general-knowledge-00229",
+   "id": "general-knowledge-00249",
    "q": "Where is the headquarters of New Development Bank?",
    "o": [
     "Rome",
@@ -3450,7 +3750,7 @@
    "e": "New Development Bank is headquartered at Shanghai."
   },
   {
-   "id": "general-knowledge-00230",
+   "id": "general-knowledge-00250",
    "q": "Which sport uses teams of 11 players?",
    "o": [
     "Korfball",
@@ -3465,7 +3765,7 @@
    "e": "Teams of 11 players play Hockey."
   },
   {
-   "id": "general-knowledge-00231",
+   "id": "general-knowledge-00251",
    "q": "Sudirman Cup is associated with which sport?",
    "o": [
     "Football",
@@ -3480,7 +3780,7 @@
    "e": "Sudirman Cup is associated with Badminton."
   },
   {
-   "id": "general-knowledge-00232",
+   "id": "general-knowledge-00252",
    "q": "Maha Vir Chakra is associated with which of the following?",
    "o": [
     "Third highest peacetime gallantry award of India",
@@ -3495,7 +3795,7 @@
    "e": "Maha Vir Chakra — Second highest military decoration of India."
   },
   {
-   "id": "general-knowledge-00233",
+   "id": "general-knowledge-00253",
    "q": "Who is the author of The Republic?",
    "o": [
     "Kautilya",
@@ -3510,7 +3810,7 @@
    "e": "The Republic is written by Plato."
   },
   {
-   "id": "general-knowledge-00234",
+   "id": "general-knowledge-00254",
    "q": "First human in space is associated with which of the following?",
    "o": [
     "Joshua Slocum",
@@ -3525,7 +3825,7 @@
    "e": "First human in space — Yuri Gagarin."
   },
   {
-   "id": "general-knowledge-00235",
+   "id": "general-knowledge-00255",
    "q": "Which city is called the City of Canals?",
    "o": [
     "Ganga",
@@ -3540,7 +3840,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00236",
+   "id": "general-knowledge-00256",
    "q": "What is the imaginary line at 23.5 degrees south called?",
    "o": [
     "Tropic of Capricorn",
@@ -3555,7 +3855,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00237",
+   "id": "general-knowledge-00257",
    "q": "Where is the headquarters of the World Trade Organization?",
    "o": [
     "Article 112",
@@ -3570,7 +3870,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00238",
+   "id": "general-knowledge-00258",
    "q": "Which metro rail network is the largest in India?",
    "o": [
     "The Elephant Whisperers",
@@ -3585,7 +3885,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00239",
+   "id": "general-knowledge-00259",
    "q": "What is the capital of Iraq?",
    "o": [
     "Nouakchott",
@@ -3600,7 +3900,7 @@
    "e": "The capital of Iraq is Baghdad."
   },
   {
-   "id": "general-knowledge-00240",
+   "id": "general-knowledge-00260",
    "q": "On which date is International Mountain Day observed?",
    "o": [
     "20 June",
@@ -3615,7 +3915,7 @@
    "e": "International Mountain Day is observed on 11 December."
   },
   {
-   "id": "general-knowledge-00241",
+   "id": "general-knowledge-00261",
    "q": "Where is the headquarters of Greenpeace?",
    "o": [
     "Cologny",
@@ -3630,7 +3930,7 @@
    "e": "Greenpeace is headquartered at Amsterdam."
   },
   {
-   "id": "general-knowledge-00242",
+   "id": "general-knowledge-00262",
    "q": "Which sport uses teams of 11 players?",
    "o": [
     "Football",
@@ -3645,7 +3945,7 @@
    "e": "Teams of 11 players play Football."
   },
   {
-   "id": "general-knowledge-00243",
+   "id": "general-knowledge-00263",
    "q": "Padma Vibhushan is associated with which of the following?",
    "o": [
     "Second highest civilian award of India",
@@ -3660,7 +3960,7 @@
    "e": "Padma Vibhushan — Second highest civilian award of India."
   },
   {
-   "id": "general-knowledge-00244",
+   "id": "general-knowledge-00264",
    "q": "Who is the author of Gulliver's Travels?",
    "o": [
     "Adolf Hitler",
@@ -3675,7 +3975,7 @@
    "e": "Gulliver's Travels is written by Jonathan Swift."
   },
   {
-   "id": "general-knowledge-00245",
+   "id": "general-knowledge-00265",
    "q": "First FIFA World Cup was held in is associated with which of the following?",
    "o": [
     "George Washington",
@@ -3690,7 +3990,7 @@
    "e": "First FIFA World Cup was held in — Uruguay."
   },
   {
-   "id": "general-knowledge-00246",
+   "id": "general-knowledge-00266",
    "q": "Which is the largest continent by area?",
    "o": [
     "Asia",
@@ -3705,7 +4005,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00247",
+   "id": "general-knowledge-00267",
    "q": "Which is the northernmost point of India?",
    "o": [
     "Thanjavur",
@@ -3720,7 +4020,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00248",
+   "id": "general-knowledge-00268",
    "q": "What is a sustained fall in the general price level called?",
    "o": [
     "NITI Aayog",
@@ -3735,7 +4035,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00249",
+   "id": "general-knowledge-00269",
    "q": "What was the theme of India's G20 presidency?",
    "o": [
     "Chenab Bridge",
@@ -3750,7 +4050,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00250",
+   "id": "general-knowledge-00270",
    "q": "What is the capital of El Salvador?",
    "o": [
     "Mogadishu",
@@ -3765,7 +4065,7 @@
    "e": "The capital of El Salvador is San Salvador."
   },
   {
-   "id": "general-knowledge-00251",
+   "id": "general-knowledge-00271",
    "q": "On which date is World Radio Day observed?",
    "o": [
     "22 April",
@@ -3780,7 +4080,7 @@
    "e": "World Radio Day is observed on 13 February."
   },
   {
-   "id": "general-knowledge-00252",
+   "id": "general-knowledge-00272",
    "q": "Where is the headquarters of Asian Infrastructure Investment Bank?",
    "o": [
     "Beijing",
@@ -3795,7 +4095,7 @@
    "e": "Asian Infrastructure Investment Bank is headquartered at Beijing."
   },
   {
-   "id": "general-knowledge-00253",
+   "id": "general-knowledge-00273",
    "q": "Which sport uses teams of 1 players?",
    "o": [
     "Table tennis (singles)",
@@ -3810,7 +4110,7 @@
    "e": "Teams of 1 players play Table tennis (singles)."
   },
   {
-   "id": "general-knowledge-00254",
+   "id": "general-knowledge-00274",
    "q": "Vijay Hazare Trophy is associated with which sport?",
    "o": [
     "Football",
@@ -3825,7 +4125,7 @@
    "e": "Vijay Hazare Trophy is associated with Cricket."
   },
   {
-   "id": "general-knowledge-00255",
+   "id": "general-knowledge-00275",
    "q": "Padma Bhushan is associated with which of the following?",
    "o": [
     "Performing arts award of India",
@@ -3840,7 +4140,7 @@
    "e": "Padma Bhushan — Third highest civilian award of India."
   },
   {
-   "id": "general-knowledge-00256",
+   "id": "general-knowledge-00276",
    "q": "Who is the author of Panchatantra?",
    "o": [
     "Homer",
@@ -3855,7 +4155,7 @@
    "e": "Panchatantra is written by Vishnu Sharma."
   },
   {
-   "id": "general-knowledge-00257",
+   "id": "general-knowledge-00277",
    "q": "First modern Olympic Games were held in is associated with which of the following?",
    "o": [
     "Marie Curie",
@@ -3870,7 +4170,7 @@
    "e": "First modern Olympic Games were held in — Athens."
   },
   {
-   "id": "general-knowledge-00258",
+   "id": "general-knowledge-00278",
    "q": "Which is the smallest ocean?",
    "o": [
     "Russia",
@@ -3885,7 +4185,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00259",
+   "id": "general-knowledge-00279",
    "q": "Which is the longest river in the world?",
    "o": [
     "Nile",
@@ -3900,7 +4200,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00260",
+   "id": "general-knowledge-00280",
    "q": "Which index represents the National Stock Exchange?",
    "o": [
     "Euro",
@@ -3915,7 +4215,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00261",
+   "id": "general-knowledge-00281",
    "q": "Which Indian language was declared a classical language in 2024?",
    "o": [
     "Digital India",
@@ -3930,7 +4230,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00262",
+   "id": "general-knowledge-00282",
    "q": "What is the capital of Liberia?",
    "o": [
     "Asmara",
@@ -3945,7 +4245,7 @@
    "e": "The capital of Liberia is Monrovia."
   },
   {
-   "id": "general-knowledge-00263",
+   "id": "general-knowledge-00283",
    "q": "On which date is United Nations Day for South-South Cooperation observed?",
    "o": [
     "12 September",
@@ -3960,7 +4260,7 @@
    "e": "United Nations Day for South-South Cooperation is observed on 12 September."
   },
   {
-   "id": "general-knowledge-00264",
+   "id": "general-knowledge-00284",
    "q": "Where is the headquarters of International Telecommunication Union?",
    "o": [
     "Geneva",
@@ -3975,7 +4275,7 @@
    "e": "International Telecommunication Union is headquartered at Geneva."
   },
   {
-   "id": "general-knowledge-00265",
+   "id": "general-knowledge-00285",
    "q": "Which sport uses teams of 8 players?",
    "o": [
     "Korfball",
@@ -3990,7 +4290,7 @@
    "e": "Teams of 8 players play Korfball."
   },
   {
-   "id": "general-knowledge-00266",
+   "id": "general-knowledge-00286",
    "q": "US Open is associated with which sport?",
    "o": [
     "Football",
@@ -4005,7 +4305,7 @@
    "e": "US Open is associated with Tennis."
   },
   {
-   "id": "general-knowledge-00267",
+   "id": "general-knowledge-00287",
    "q": "Kalinga Prize is associated with which of the following?",
    "o": [
     "Outstanding performance in Indian sports",
@@ -4020,7 +4320,7 @@
    "e": "Kalinga Prize — UNESCO award for popularisation of science."
   },
   {
-   "id": "general-knowledge-00268",
+   "id": "general-knowledge-00288",
    "q": "Who is the author of David Copperfield?",
    "o": [
     "Milkha Singh",
@@ -4035,7 +4335,7 @@
    "e": "David Copperfield is written by Charles Dickens."
   },
   {
-   "id": "general-knowledge-00269",
+   "id": "general-knowledge-00289",
    "q": "First person to win two Nobel Prizes is associated with which of the following?",
    "o": [
     "Amelia Earhart",
@@ -4050,7 +4350,7 @@
    "e": "First person to win two Nobel Prizes — Marie Curie."
   },
   {
-   "id": "general-knowledge-00270",
+   "id": "general-knowledge-00290",
    "q": "Which is the largest archipelago in the world?",
    "o": [
     "Gujarat",
@@ -4065,7 +4365,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00271",
+   "id": "general-knowledge-00291",
    "q": "Which Indian state is called the Heart of India?",
    "o": [
     "Arabian Sea",
@@ -4080,7 +4380,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00272",
+   "id": "general-knowledge-00292",
    "q": "What is the study of individual economic units called?",
    "o": [
     "Microeconomics",
@@ -4095,7 +4395,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00273",
+   "id": "general-knowledge-00293",
    "q": "Which Indian mission focuses on artificial intelligence for all?",
    "o": [
     "United Nations Sustainable Development Solutions Network",
@@ -4110,7 +4410,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00274",
+   "id": "general-knowledge-00294",
    "q": "What is the capital of Cyprus?",
    "o": [
     "Nicosia",
@@ -4125,7 +4425,7 @@
    "e": "The capital of Cyprus is Nicosia."
   },
   {
-   "id": "general-knowledge-00275",
+   "id": "general-knowledge-00295",
    "q": "On which date is Republic Day (India) observed?",
    "o": [
     "13 February",
@@ -4140,7 +4440,7 @@
    "e": "Republic Day (India) is observed on 26 January."
   },
   {
-   "id": "general-knowledge-00276",
+   "id": "general-knowledge-00296",
    "q": "Where is the headquarters of World Health Organization?",
    "o": [
     "Montreal",
@@ -4155,7 +4455,7 @@
    "e": "World Health Organization is headquartered at Geneva."
   },
   {
-   "id": "general-knowledge-00277",
+   "id": "general-knowledge-00297",
    "q": "Which sport uses teams of 2 players?",
    "o": [
     "Badminton (doubles)",
@@ -4170,7 +4470,7 @@
    "e": "Teams of 2 players play Badminton (doubles)."
   },
   {
-   "id": "general-knowledge-00278",
+   "id": "general-knowledge-00298",
    "q": "Swaythling Cup is associated with which sport?",
    "o": [
     "Football",
@@ -4185,7 +4485,7 @@
    "e": "Swaythling Cup is associated with Table Tennis."
   },
   {
-   "id": "general-knowledge-00279",
+   "id": "general-knowledge-00299",
    "q": "Jnanpith Award is associated with which of the following?",
    "o": [
     "Highest literary award of India",
@@ -4200,7 +4500,7 @@
    "e": "Jnanpith Award — Highest literary award of India."
   },
   {
-   "id": "general-knowledge-00280",
+   "id": "general-knowledge-00300",
    "q": "Who is the author of Mother?",
    "o": [
     "Maxim Gorky",
@@ -4215,7 +4515,7 @@
    "e": "Mother is written by Maxim Gorky."
   },
   {
-   "id": "general-knowledge-00281",
+   "id": "general-knowledge-00301",
    "q": "First person to climb Mount Everest is associated with which of the following?",
    "o": [
     "Edmund Hillary",
@@ -4230,7 +4530,7 @@
    "e": "First person to climb Mount Everest — Edmund Hillary."
   },
   {
-   "id": "general-knowledge-00282",
+   "id": "general-knowledge-00302",
    "q": "Which country is called the Land of the Midnight Sun?",
    "o": [
     "Asia",
@@ -4245,7 +4545,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00283",
+   "id": "general-knowledge-00303",
    "q": "Which ocean lies to the south of India?",
    "o": [
     "Indian Ocean",
@@ -4260,7 +4560,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00284",
+   "id": "general-knowledge-00304",
    "q": "Which body decides monetary policy in India?",
    "o": [
     "Excise duty",
@@ -4275,7 +4575,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00285",
+   "id": "general-knowledge-00305",
    "q": "Which is the longest train route in India?",
    "o": [
     "Vivek Express",
@@ -4290,7 +4590,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00286",
+   "id": "general-knowledge-00306",
    "q": "What is the capital of China?",
    "o": [
     "Apia",
@@ -4305,7 +4605,7 @@
    "e": "The capital of China is Beijing."
   },
   {
-   "id": "general-knowledge-00287",
+   "id": "general-knowledge-00307",
    "q": "On which date is World Milk Day observed?",
    "o": [
     "1 May",
@@ -4320,7 +4620,7 @@
    "e": "World Milk Day is observed on 1 June."
   },
   {
-   "id": "general-knowledge-00288",
+   "id": "general-knowledge-00308",
    "q": "Where is the headquarters of Interpol?",
    "o": [
     "Geneva",
@@ -4335,7 +4635,7 @@
    "e": "Interpol is headquartered at Lyon."
   },
   {
-   "id": "general-knowledge-00289",
+   "id": "general-knowledge-00309",
    "q": "Which sport uses teams of 9 players?",
    "o": [
     "Throwball",
@@ -4350,7 +4650,7 @@
    "e": "Teams of 9 players play Kho Kho."
   },
   {
-   "id": "general-knowledge-00290",
+   "id": "general-knowledge-00310",
    "q": "Khelo India Games is associated with which sport?",
    "o": [
     "Hockey",
@@ -4365,7 +4665,7 @@
    "e": "Khelo India Games is associated with Multi-sport."
   },
   {
-   "id": "general-knowledge-00291",
+   "id": "general-knowledge-00311",
    "q": "Shanti Swarup Bhatnagar Prize is associated with which of the following?",
    "o": [
     "Third highest civilian award of India",
@@ -4380,7 +4680,7 @@
    "e": "Shanti Swarup Bhatnagar Prize — Indian award in science and technology."
   },
   {
-   "id": "general-knowledge-00292",
+   "id": "general-knowledge-00312",
    "q": "Who is the author of The Divine Comedy?",
    "o": [
     "Jonathan Swift",
@@ -4395,7 +4695,7 @@
    "e": "The Divine Comedy is written by Dante Alighieri."
   },
   {
-   "id": "general-knowledge-00293",
+   "id": "general-knowledge-00313",
    "q": "First person to sail solo around the world is associated with which of the following?",
    "o": [
     "Rabindranath Tagore",
@@ -4410,7 +4710,7 @@
    "e": "First person to sail solo around the world — Joshua Slocum."
   },
   {
-   "id": "general-knowledge-00294",
+   "id": "general-knowledge-00314",
    "q": "Which is the largest gulf in the world?",
    "o": [
     "Rajasthan",
@@ -4425,7 +4725,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00295",
+   "id": "general-knowledge-00315",
    "q": "Which Indian city is called the Deccan Queen?",
    "o": [
     "Sahara Desert",
@@ -4440,7 +4740,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00296",
+   "id": "general-knowledge-00316",
    "q": "Which agreement preceded the World Trade Organization?",
    "o": [
     "1995",
@@ -4455,7 +4755,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00297",
+   "id": "general-knowledge-00317",
    "q": "Which scheme provides free gas connections along with the Ujjwala scheme?",
    "o": [
     "Ujjwala Plus",
@@ -4470,7 +4770,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00298",
+   "id": "general-knowledge-00318",
    "q": "What is the capital of Brunei?",
    "o": [
     "Reykjavik",
@@ -4485,7 +4785,7 @@
    "e": "The capital of Brunei is Bandar Seri Begawan."
   },
   {
-   "id": "general-knowledge-00299",
+   "id": "general-knowledge-00319",
    "q": "On which date is World Energy Conservation Day observed?",
    "o": [
     "13 November",
@@ -4500,7 +4800,7 @@
    "e": "World Energy Conservation Day is observed on 14 December."
   },
   {
-   "id": "general-knowledge-00300",
+   "id": "general-knowledge-00320",
    "q": "Where is the headquarters of SAARC?",
    "o": [
     "Kathmandu",
@@ -4515,7 +4815,7 @@
    "e": "SAARC is headquartered at Kathmandu."
   },
   {
-   "id": "general-knowledge-00301",
+   "id": "general-knowledge-00321",
    "q": "Which sport uses teams of 7 players?",
    "o": [
     "Badminton (doubles)",
@@ -4530,7 +4830,7 @@
    "e": "Teams of 7 players play Throwball."
   },
   {
-   "id": "general-knowledge-00302",
+   "id": "general-knowledge-00322",
    "q": "Ranji Trophy is associated with which sport?",
    "o": [
     "Tennis",
@@ -4545,7 +4845,7 @@
    "e": "Ranji Trophy is associated with Cricket."
   },
   {
-   "id": "general-knowledge-00303",
+   "id": "general-knowledge-00323",
    "q": "Booker Prize is associated with which of the following?",
    "o": [
     "Second highest military decoration of India",
@@ -4560,7 +4860,7 @@
    "e": "Booker Prize — British award for fiction."
   },
   {
-   "id": "general-knowledge-00304",
+   "id": "general-knowledge-00324",
    "q": "Who is the author of Hamlet?",
    "o": [
     "Arundhati Roy",
@@ -4575,7 +4875,7 @@
    "e": "Hamlet is written by William Shakespeare."
   },
   {
-   "id": "general-knowledge-00305",
+   "id": "general-knowledge-00325",
    "q": "First country to host the modern Olympic Games is associated with which of the following?",
    "o": [
     "Chamonix",
@@ -4590,7 +4890,7 @@
    "e": "First country to host the modern Olympic Games — Greece."
   },
   {
-   "id": "general-knowledge-00306",
+   "id": "general-knowledge-00326",
    "q": "Which is the largest desert in the world?",
    "o": [
     "Andes",
@@ -4605,7 +4905,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00307",
+   "id": "general-knowledge-00327",
    "q": "Where is the Petra monument located?",
    "o": [
     "Jordan",
@@ -4620,7 +4920,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00308",
+   "id": "general-knowledge-00328",
    "q": "What is GNP minus depreciation called?",
    "o": [
     "General Agreement on Tariffs and Trade",
@@ -4635,7 +4935,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00309",
+   "id": "general-knowledge-00329",
    "q": "Which Indian city was the first to get a metro rail?",
    "o": [
     "2022",
@@ -4650,7 +4950,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00310",
+   "id": "general-knowledge-00330",
    "q": "What is the capital of Colombia?",
    "o": [
     "Bucharest",
@@ -4665,7 +4965,7 @@
    "e": "The capital of Colombia is Bogota."
   },
   {
-   "id": "general-knowledge-00311",
+   "id": "general-knowledge-00331",
    "q": "On which date is Earth Day observed?",
    "o": [
     "22 April",
@@ -4680,7 +4980,7 @@
    "e": "Earth Day is observed on 22 April."
   },
   {
-   "id": "general-knowledge-00312",
+   "id": "general-knowledge-00332",
    "q": "Where is the headquarters of World Bank?",
    "o": [
     "Washington, D.C.",
@@ -4695,7 +4995,7 @@
    "e": "World Bank is headquartered at Washington, D.C.."
   },
   {
-   "id": "general-knowledge-00313",
+   "id": "general-knowledge-00333",
    "q": "Which sport uses teams of 15 players?",
    "o": [
     "Rugby sevens",
@@ -4710,7 +5010,7 @@
    "e": "Teams of 15 players play Rugby union."
   },
   {
-   "id": "general-knowledge-00314",
+   "id": "general-knowledge-00334",
    "q": "Subroto Cup is associated with which sport?",
    "o": [
     "Hockey",
@@ -4725,7 +5025,7 @@
    "e": "Subroto Cup is associated with Football."
   },
   {
-   "id": "general-knowledge-00315",
+   "id": "general-knowledge-00335",
    "q": "Nobel Prize is associated with which of the following?",
    "o": [
     "Third highest peacetime gallantry award of India",
@@ -4740,7 +5040,7 @@
    "e": "Nobel Prize — International award for Physics, Chemistry, Medicine, Literature, Peace and Economics."
   },
   {
-   "id": "general-knowledge-00316",
+   "id": "general-knowledge-00336",
    "q": "Who is the author of The Jungle Book?",
    "o": [
     "Adolf Hitler",
@@ -4755,7 +5055,7 @@
    "e": "The Jungle Book is written by Rudyard Kipling."
   },
   {
-   "id": "general-knowledge-00317",
+   "id": "general-knowledge-00337",
    "q": "First Winter Olympic Games were held in is associated with which of the following?",
    "o": [
     "Neil Armstrong",
@@ -4770,7 +5070,7 @@
    "e": "First Winter Olympic Games were held in — Chamonix."
   },
   {
-   "id": "general-knowledge-00318",
+   "id": "general-knowledge-00338",
    "q": "Which is the most populous country in the world?",
    "o": [
     "Indonesia",
@@ -4785,7 +5085,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00319",
+   "id": "general-knowledge-00339",
    "q": "Which is the highest mountain peak in the world?",
    "o": [
     "Mount Everest",
@@ -4800,7 +5100,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00320",
+   "id": "general-knowledge-00340",
    "q": "Which is a direct tax in India?",
    "o": [
     "People's Bank of China",
@@ -4815,7 +5115,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00321",
+   "id": "general-knowledge-00341",
    "q": "Which Indian institution is the nodal agency for the Aspirational Districts Programme?",
    "o": [
     "India Semiconductor Mission",
@@ -4830,7 +5130,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00322",
+   "id": "general-knowledge-00342",
    "q": "What is the capital of Tunisia?",
    "o": [
     "Tunis",
@@ -4845,7 +5145,7 @@
    "e": "The capital of Tunisia is Tunis."
   },
   {
-   "id": "general-knowledge-00323",
+   "id": "general-knowledge-00343",
    "q": "On which date is World No Tobacco Day observed?",
    "o": [
     "first Monday of October",
@@ -4860,7 +5160,7 @@
    "e": "World No Tobacco Day is observed on 31 May."
   },
   {
-   "id": "general-knowledge-00324",
+   "id": "general-knowledge-00344",
    "q": "Where is the headquarters of World Economic Forum?",
    "o": [
     "London",
@@ -4875,7 +5175,7 @@
    "e": "World Economic Forum is headquartered at Cologny."
   },
   {
-   "id": "general-knowledge-00325",
+   "id": "general-knowledge-00345",
    "q": "Which sport uses teams of 11 players?",
    "o": [
     "Cricket",
@@ -4890,7 +5190,7 @@
    "e": "Teams of 11 players play Cricket."
   },
   {
-   "id": "general-knowledge-00326",
+   "id": "general-knowledge-00346",
    "q": "Syed Mushtaq Ali Trophy is associated with which sport?",
    "o": [
     "Badminton",
@@ -4905,7 +5205,7 @@
    "e": "Syed Mushtaq Ali Trophy is associated with Cricket."
   },
   {
-   "id": "general-knowledge-00327",
+   "id": "general-knowledge-00347",
    "q": "Padma Shri is associated with which of the following?",
    "o": [
     "Fourth highest civilian award of India",
@@ -4920,7 +5220,7 @@
    "e": "Padma Shri — Fourth highest civilian award of India."
   },
   {
-   "id": "general-knowledge-00328",
+   "id": "general-knowledge-00348",
    "q": "Who is the author of The Iliad?",
    "o": [
     "Karl Marx and Friedrich Engels",
@@ -4935,7 +5235,7 @@
    "e": "The Iliad is written by Homer."
   },
   {
-   "id": "general-knowledge-00329",
+   "id": "general-knowledge-00349",
    "q": "First country to give women the vote is associated with which of the following?",
    "o": [
     "United States of America",
@@ -4950,7 +5250,7 @@
    "e": "First country to give women the vote — New Zealand."
   },
   {
-   "id": "general-knowledge-00330",
+   "id": "general-knowledge-00350",
    "q": "Which state of India is called the Granary of India?",
    "o": [
     "Surat",
@@ -4965,7 +5265,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00331",
+   "id": "general-knowledge-00351",
    "q": "Which country is the largest producer of bananas?",
    "o": [
     "India",
@@ -4980,7 +5280,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00332",
+   "id": "general-knowledge-00352",
    "q": "Which currency is used by most countries of the European Union?",
    "o": [
     "Euro",
@@ -4995,7 +5295,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00333",
+   "id": "general-knowledge-00353",
    "q": "Which international conference did India attend to announce climate targets?",
    "o": [
     "Maharashtra",
@@ -5010,7 +5310,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00334",
+   "id": "general-knowledge-00354",
    "q": "What is the capital of Paraguay?",
    "o": [
     "Asmara",
@@ -5025,7 +5325,7 @@
    "e": "The capital of Paraguay is Asuncion."
   },
   {
-   "id": "general-knowledge-00335",
+   "id": "general-knowledge-00355",
    "q": "On which date is World Habitat Day observed?",
    "o": [
     "12 May",
@@ -5040,7 +5340,7 @@
    "e": "World Habitat Day is observed on first Monday of October."
   },
   {
-   "id": "general-knowledge-00336",
+   "id": "general-knowledge-00356",
    "q": "Where is the headquarters of Commonwealth of Nations?",
    "o": [
     "Vienna",
@@ -5055,7 +5355,7 @@
    "e": "Commonwealth of Nations is headquartered at London."
   },
   {
-   "id": "general-knowledge-00337",
+   "id": "general-knowledge-00357",
    "q": "Which sport uses teams of 7 players?",
    "o": [
     "Water polo",
@@ -5070,7 +5370,7 @@
    "e": "Teams of 7 players play Water polo."
   },
   {
-   "id": "general-knowledge-00338",
+   "id": "general-knowledge-00358",
    "q": "Grand Slam (Tennis) is associated with which sport?",
    "o": [
     "Football",
@@ -5085,7 +5385,7 @@
    "e": "Grand Slam (Tennis) is associated with Tennis."
   },
   {
-   "id": "general-knowledge-00339",
+   "id": "general-knowledge-00359",
    "q": "Right Livelihood Award is associated with which of the following?",
    "o": [
     "Third highest military decoration of India",
@@ -5100,7 +5400,7 @@
    "e": "Right Livelihood Award — Alternative Nobel Prize."
   },
   {
-   "id": "general-knowledge-00340",
+   "id": "general-knowledge-00360",
    "q": "Who is the author of The God of Small Things?",
    "o": [
     "A. P. J. Abdul Kalam",
@@ -5115,7 +5415,7 @@
    "e": "The God of Small Things is written by Arundhati Roy."
   },
   {
-   "id": "general-knowledge-00341",
+   "id": "general-knowledge-00361",
    "q": "First person to reach the South Pole is associated with which of the following?",
    "o": [
     "Sirimavo Bandaranaike",
@@ -5130,7 +5430,7 @@
    "e": "First person to reach the South Pole — Roald Amundsen."
   },
   {
-   "id": "general-knowledge-00342",
+   "id": "general-knowledge-00362",
    "q": "Which is the highest navigable lake in the world?",
    "o": [
     "Ganga",
@@ -5145,7 +5445,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00343",
+   "id": "general-knowledge-00363",
    "q": "In which ocean is the Mariana Trench located?",
    "o": [
     "Kochi",
@@ -5160,7 +5460,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00344",
+   "id": "general-knowledge-00364",
    "q": "What does the Gini coefficient measure?",
    "o": [
     "Non-performing asset",
@@ -5175,7 +5475,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00345",
+   "id": "general-knowledge-00365",
    "q": "Which Indian is the fastest to score 50 ODI centuries?",
    "o": [
     "Pradhan Mantri Gram Sadak Yojana",
@@ -5190,7 +5490,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00346",
+   "id": "general-knowledge-00366",
    "q": "What is the capital of Liechtenstein?",
    "o": [
     "Mbabane",
@@ -5205,7 +5505,7 @@
    "e": "The capital of Liechtenstein is Vaduz."
   },
   {
-   "id": "general-knowledge-00347",
+   "id": "general-knowledge-00367",
    "q": "On which date is Children's Day (India) observed?",
    "o": [
     "15 October",
@@ -5220,7 +5520,7 @@
    "e": "Children's Day (India) is observed on 14 November."
   },
   {
-   "id": "general-knowledge-00348",
+   "id": "general-knowledge-00368",
    "q": "Where is the headquarters of Shanghai Cooperation Organisation?",
    "o": [
     "Beijing",
@@ -5235,7 +5535,7 @@
    "e": "Shanghai Cooperation Organisation is headquartered at Beijing."
   },
   {
-   "id": "general-knowledge-00349",
+   "id": "general-knowledge-00369",
    "q": "Which sport uses teams of 7 players?",
    "o": [
     "Volleyball",
@@ -5250,7 +5550,7 @@
    "e": "Teams of 7 players play Rugby sevens."
   },
   {
-   "id": "general-knowledge-00350",
+   "id": "general-knowledge-00370",
    "q": "Asia Cup is associated with which sport?",
    "o": [
     "Football",
@@ -5265,7 +5565,7 @@
    "e": "Asia Cup is associated with Cricket."
   },
   {
-   "id": "general-knowledge-00351",
+   "id": "general-knowledge-00371",
    "q": "Vyas Samman is associated with which of the following?",
    "o": [
     "UNESCO award for popularisation of science",
@@ -5280,7 +5580,7 @@
    "e": "Vyas Samman — Indian literary award."
   },
   {
-   "id": "general-knowledge-00352",
+   "id": "general-knowledge-00372",
    "q": "Who is the author of Mahabharata?",
    "o": [
     "Karl Marx and Friedrich Engels",
@@ -5295,7 +5595,7 @@
    "e": "Mahabharata is written by Ved Vyasa."
   },
   {
-   "id": "general-knowledge-00353",
+   "id": "general-knowledge-00373",
    "q": "Which of the following achievements belongs to Marie Curie?",
    "o": [
     "First Asian to win a Nobel Prize",
@@ -5310,7 +5610,7 @@
    "e": "First person to win two Nobel Prizes belongs to Marie Curie."
   },
   {
-   "id": "general-knowledge-00354",
+   "id": "general-knowledge-00374",
    "q": "Which country has the largest population of any landlocked country?",
    "o": [
     "Seven",
@@ -5325,7 +5625,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00355",
+   "id": "general-knowledge-00375",
    "q": "Where is the Victoria Memorial located?",
    "o": [
     "United States of America",
@@ -5340,7 +5640,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00356",
+   "id": "general-knowledge-00376",
    "q": "Which is the currency of Japan?",
    "o": [
     "Yen",
@@ -5355,7 +5655,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00357",
+   "id": "general-knowledge-00377",
    "q": "Which scheme promotes solar power in India?",
    "o": [
     "Beti Bachao Beti Padhao",
@@ -5370,7 +5670,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00358",
+   "id": "general-knowledge-00378",
    "q": "What is the capital of Armenia?",
    "o": [
     "Budapest",
@@ -5385,7 +5685,7 @@
    "e": "The capital of Armenia is Yerevan."
   },
   {
-   "id": "general-knowledge-00359",
+   "id": "general-knowledge-00379",
    "q": "On which date is International Mother Language Day observed?",
    "o": [
     "22 December",
@@ -5400,7 +5700,7 @@
    "e": "International Mother Language Day is observed on 21 February."
   },
   {
-   "id": "general-knowledge-00360",
+   "id": "general-knowledge-00380",
    "q": "Where is the headquarters of United Nations?",
    "o": [
     "New York",
@@ -5415,7 +5715,7 @@
    "e": "United Nations is headquartered at New York."
   },
   {
-   "id": "general-knowledge-00361",
+   "id": "general-knowledge-00381",
    "q": "Which sport uses teams of 7 players?",
    "o": [
     "Rugby sevens",
@@ -5430,7 +5730,7 @@
    "e": "Teams of 7 players play Netball."
   },
   {
-   "id": "general-knowledge-00362",
+   "id": "general-knowledge-00382",
    "q": "Santosh Trophy is associated with which sport?",
    "o": [
     "Cricket",
@@ -5445,7 +5745,7 @@
    "e": "Santosh Trophy is associated with Football."
   },
   {
-   "id": "general-knowledge-00363",
+   "id": "general-knowledge-00383",
    "q": "Dronacharya Award is associated with which of the following?",
    "o": [
     "Literary award for Indian languages",
@@ -5460,7 +5760,7 @@
    "e": "Dronacharya Award — Coaching excellence in Indian sports."
   },
   {
-   "id": "general-knowledge-00364",
+   "id": "general-knowledge-00384",
    "q": "Who is the author of Gitanjali and Other Songs?",
    "o": [
     "Rabindranath Tagore",
@@ -5475,7 +5775,7 @@
    "e": "Gitanjali and Other Songs is written by Rabindranath Tagore."
   },
   {
-   "id": "general-knowledge-00365",
+   "id": "general-knowledge-00385",
    "q": "Which of the following achievements belongs to Joshua Slocum?",
    "o": [
     "First person to sail solo around the world",
@@ -5490,7 +5790,7 @@
    "e": "First person to sail solo around the world belongs to Joshua Slocum."
   },
   {
-   "id": "general-knowledge-00366",
+   "id": "general-knowledge-00386",
    "q": "Which city is called the City of Lights?",
    "o": [
     "Bangladesh",
@@ -5505,7 +5805,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00367",
+   "id": "general-knowledge-00387",
    "q": "Which is the longest beach in India?",
    "o": [
     "Ooty",
@@ -5520,7 +5820,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00368",
+   "id": "general-knowledge-00388",
    "q": "What is the investment in the equity of a company abroad called?",
    "o": [
     "Pradhan Mantri Jan Dhan Yojana",
@@ -5535,7 +5835,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00369",
+   "id": "general-knowledge-00389",
    "q": "Which Indian city was declared a UNESCO World Heritage City in 2017?",
    "o": [
     "Manushi Chhillar",
@@ -5550,7 +5850,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00370",
+   "id": "general-knowledge-00390",
    "q": "What is the capital of Vietnam?",
    "o": [
     "Vatican City",
@@ -5565,7 +5865,7 @@
    "e": "The capital of Vietnam is Hanoi."
   },
   {
-   "id": "general-knowledge-00371",
+   "id": "general-knowledge-00391",
    "q": "On which date is World Meteorological Day observed?",
    "o": [
     "8 September",
@@ -5580,7 +5880,7 @@
    "e": "World Meteorological Day is observed on 23 March."
   },
   {
-   "id": "general-knowledge-00372",
+   "id": "general-knowledge-00392",
    "q": "Where is the headquarters of CERN?",
    "o": [
     "Washington, D.C.",
@@ -5595,7 +5895,7 @@
    "e": "CERN is headquartered at Geneva."
   },
   {
-   "id": "general-knowledge-00373",
+   "id": "general-knowledge-00393",
    "q": "Which sport uses teams of 5 players?",
    "o": [
     "Basketball",
@@ -5610,7 +5910,7 @@
    "e": "Teams of 5 players play Basketball."
   },
   {
-   "id": "general-knowledge-00374",
+   "id": "general-knowledge-00394",
    "q": "National Film Award is associated with which of the following?",
    "o": [
     "Indian literary award",
@@ -5625,7 +5925,7 @@
    "e": "National Film Award — Awards for Indian cinema."
   },
   {
-   "id": "general-knowledge-00375",
+   "id": "general-knowledge-00395",
    "q": "Who is the author of The Story of My Life?",
    "o": [
     "Adam Smith",
@@ -5640,7 +5940,7 @@
    "e": "The Story of My Life is written by Helen Keller."
   },
   {
-   "id": "general-knowledge-00376",
+   "id": "general-knowledge-00396",
    "q": "Which of the following achievements belongs to Chamonix?",
    "o": [
     "First President of the United States",
@@ -5655,7 +5955,7 @@
    "e": "First Winter Olympic Games were held in belongs to Chamonix."
   },
   {
-   "id": "general-knowledge-00377",
+   "id": "general-knowledge-00397",
    "q": "Which Indian city is called the Silicon Valley of India?",
    "o": [
     "Surat",
@@ -5670,7 +5970,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00378",
+   "id": "general-knowledge-00398",
    "q": "Which country has the largest natural gas reserves?",
    "o": [
     "Tropic of Cancer",
@@ -5685,7 +5985,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00379",
+   "id": "general-knowledge-00399",
    "q": "Which bank was created from the Imperial Bank of India?",
    "o": [
     "Cash Reserve Ratio",
@@ -5700,7 +6000,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00380",
+   "id": "general-knowledge-00400",
    "q": "Which Indian river cleaning mission was extended to other rivers?",
    "o": [
     "Kerala",
@@ -5715,7 +6015,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00381",
+   "id": "general-knowledge-00401",
    "q": "What is the capital of Hungary?",
    "o": [
     "Kigali",
@@ -5730,7 +6030,7 @@
    "e": "The capital of Hungary is Budapest."
   },
   {
-   "id": "general-knowledge-00382",
+   "id": "general-knowledge-00402",
    "q": "On which date is Independence Day (India) observed?",
    "o": [
     "28 February",
@@ -5745,7 +6045,7 @@
    "e": "Independence Day (India) is observed on 15 August."
   },
   {
-   "id": "general-knowledge-00383",
+   "id": "general-knowledge-00403",
    "q": "Where is the headquarters of International Fund for Agricultural Development?",
    "o": [
     "Shanghai",
@@ -5760,7 +6060,7 @@
    "e": "International Fund for Agricultural Development is headquartered at Rome."
   },
   {
-   "id": "general-knowledge-00384",
+   "id": "general-knowledge-00404",
    "q": "Which sport uses teams of 7 players?",
    "o": [
     "Korfball",
@@ -5775,7 +6075,7 @@
    "e": "Teams of 7 players play Handball."
   },
   {
-   "id": "general-knowledge-00385",
+   "id": "general-knowledge-00405",
    "q": "Nehru Cup is associated with which sport?",
    "o": [
     "Hockey",
@@ -5790,7 +6090,7 @@
    "e": "Nehru Cup is associated with Football."
   },
   {
-   "id": "general-knowledge-00386",
+   "id": "general-knowledge-00406",
    "q": "Kirti Chakra is associated with which of the following?",
    "o": [
     "American award for music",
@@ -5805,7 +6105,7 @@
    "e": "Kirti Chakra — Second highest peacetime gallantry award of India."
   },
   {
-   "id": "general-knowledge-00387",
+   "id": "general-knowledge-00407",
    "q": "Who is the author of Abhijnanashakuntalam?",
    "o": [
     "Stephen Hawking",
@@ -5820,7 +6120,7 @@
    "e": "Abhijnanashakuntalam is written by Kalidasa."
   },
   {
-   "id": "general-knowledge-00388",
+   "id": "general-knowledge-00408",
    "q": "Which of the following achievements belongs to Roger Bannister?",
    "o": [
     "First country to send a human into space",
@@ -5835,7 +6135,7 @@
    "e": "First person to run a mile in under four minutes belongs to Roger Bannister."
   },
   {
-   "id": "general-knowledge-00389",
+   "id": "general-knowledge-00409",
    "q": "Which is the smallest state of India by area?",
    "o": [
     "West Bengal",
@@ -5850,7 +6150,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00390",
+   "id": "general-knowledge-00410",
    "q": "Which is the largest continent by population density?",
    "o": [
     "New York",
@@ -5865,7 +6165,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00391",
+   "id": "general-knowledge-00411",
    "q": "What is the cost of the next best alternative forgone called?",
    "o": [
     "Dumping",
@@ -5880,7 +6180,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00392",
+   "id": "general-knowledge-00412",
    "q": "Which Indian space mission studied the lunar south pole region?",
    "o": [
     "H. S. Prannoy",
@@ -5895,7 +6195,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00393",
+   "id": "general-knowledge-00413",
    "q": "What is the capital of Barbados?",
    "o": [
     "Port of Spain",
@@ -5910,7 +6210,7 @@
    "e": "The capital of Barbados is Bridgetown."
   },
   {
-   "id": "general-knowledge-00394",
+   "id": "general-knowledge-00414",
    "q": "On which date is World Press Freedom Day observed?",
    "o": [
     "30 June",
@@ -5925,7 +6225,7 @@
    "e": "World Press Freedom Day is observed on 3 May."
   },
   {
-   "id": "general-knowledge-00395",
+   "id": "general-knowledge-00415",
    "q": "Where is the headquarters of Bank for International Settlements?",
    "o": [
     "Kathmandu",
@@ -5940,7 +6240,7 @@
    "e": "Bank for International Settlements is headquartered at Basel."
   },
   {
-   "id": "general-knowledge-00396",
+   "id": "general-knowledge-00416",
    "q": "Which sport uses teams of 9 players?",
    "o": [
     "Water polo",
@@ -5955,7 +6255,7 @@
    "e": "Teams of 9 players play Baseball."
   },
   {
-   "id": "general-knowledge-00397",
+   "id": "general-knowledge-00417",
    "q": "The Ashes is associated with which sport?",
    "o": [
     "Cricket",
@@ -5970,7 +6270,7 @@
    "e": "The Ashes is associated with Cricket."
   },
   {
-   "id": "general-knowledge-00398",
+   "id": "general-knowledge-00418",
    "q": "Saraswati Samman is associated with which of the following?",
    "o": [
     "Indian award for peace, disarmament and development",
@@ -5985,7 +6285,7 @@
    "e": "Saraswati Samman — Indian literary award."
   },
   {
-   "id": "general-knowledge-00399",
+   "id": "general-knowledge-00419",
    "q": "Who is the author of Ramayana?",
    "o": [
     "Valmiki",
@@ -6000,7 +6300,7 @@
    "e": "Ramayana is written by Valmiki."
   },
   {
-   "id": "general-knowledge-00400",
+   "id": "general-knowledge-00420",
    "q": "Which of the following achievements belongs to England?",
    "o": [
     "First country to host the modern Olympic Games",
@@ -6015,7 +6315,7 @@
    "e": "First Cricket World Cup was held in belongs to England."
   },
   {
-   "id": "general-knowledge-00401",
+   "id": "general-knowledge-00421",
    "q": "Which is the easternmost state of India?",
    "o": [
     "Strait of Gibraltar",
@@ -6030,7 +6330,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00402",
+   "id": "general-knowledge-00422",
    "q": "Which plateau is known as the Roof of the World?",
    "o": [
     "Kerala",
@@ -6045,7 +6345,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00403",
+   "id": "general-knowledge-00423",
    "q": "Which scheme provides subsidised food grains to the poor?",
    "o": [
     "Yellow Revolution",
@@ -6060,7 +6360,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00404",
+   "id": "general-knowledge-00424",
    "q": "Which index measures corruption perception across countries?",
    "o": [
     "2024",
@@ -6075,7 +6375,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00405",
+   "id": "general-knowledge-00425",
    "q": "What is the capital of Angola?",
    "o": [
     "Luanda",
@@ -6090,7 +6390,7 @@
    "e": "The capital of Angola is Luanda."
   },
   {
-   "id": "general-knowledge-00406",
+   "id": "general-knowledge-00426",
    "q": "On which date is World Cancer Day observed?",
    "o": [
     "4 February",
@@ -6105,7 +6405,7 @@
    "e": "World Cancer Day is observed on 4 February."
   },
   {
-   "id": "general-knowledge-00407",
+   "id": "general-knowledge-00427",
    "q": "Where is the headquarters of United Nations Industrial Development Organization?",
    "o": [
     "Geneva",
@@ -6120,7 +6420,7 @@
    "e": "United Nations Industrial Development Organization is headquartered at Vienna."
   },
   {
-   "id": "general-knowledge-00408",
+   "id": "general-knowledge-00428",
    "q": "Which sport uses teams of 7 players?",
    "o": [
     "Netball",
@@ -6135,7 +6435,7 @@
    "e": "Teams of 7 players play Kabaddi."
   },
   {
-   "id": "general-knowledge-00409",
+   "id": "general-knowledge-00429",
    "q": "World Test Championship is associated with which sport?",
    "o": [
     "Cricket",
@@ -6150,7 +6450,7 @@
    "e": "World Test Championship is associated with Cricket."
   },
   {
-   "id": "general-knowledge-00410",
+   "id": "general-knowledge-00430",
    "q": "Pulitzer Prize is associated with which of the following?",
    "o": [
     "Highest peacetime gallantry award of India",
@@ -6165,7 +6465,7 @@
    "e": "Pulitzer Prize — American award for journalism and letters."
   },
   {
-   "id": "general-knowledge-00411",
+   "id": "general-knowledge-00431",
    "q": "Who is the author of Das Kapital?",
    "o": [
     "William Shakespeare",
@@ -6180,7 +6480,7 @@
    "e": "Das Kapital is written by Karl Marx."
   },
   {
-   "id": "general-knowledge-00412",
+   "id": "general-knowledge-00432",
    "q": "Which of the following achievements belongs to Rabindranath Tagore?",
    "o": [
     "First woman in space",
@@ -6195,7 +6495,7 @@
    "e": "First Indian to win a Nobel Prize belongs to Rabindranath Tagore."
   },
   {
-   "id": "general-knowledge-00413",
+   "id": "general-knowledge-00433",
    "q": "Which is the northernmost state of India?",
    "o": [
     "Arma Konda",
@@ -6210,7 +6510,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00414",
+   "id": "general-knowledge-00434",
    "q": "Which is the highest peak of the Nilgiri hills?",
    "o": [
     "Doddabetta",
@@ -6225,7 +6525,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00415",
+   "id": "general-knowledge-00435",
    "q": "Which article provides for the Finance Commission?",
    "o": [
     "DICGC",
@@ -6240,7 +6540,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00416",
+   "id": "general-knowledge-00436",
    "q": "Which report measures the state of the environment in India?",
    "o": [
     "Uttar Pradesh",
@@ -6255,7 +6555,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00417",
+   "id": "general-knowledge-00437",
    "q": "What is the capital of Mozambique?",
    "o": [
     "Freetown",
@@ -6270,7 +6570,7 @@
    "e": "The capital of Mozambique is Maputo."
   },
   {
-   "id": "general-knowledge-00418",
+   "id": "general-knowledge-00438",
    "q": "On which date is International Day of the World's Indigenous Peoples observed?",
    "o": [
     "24 January",
@@ -6285,7 +6585,7 @@
    "e": "International Day of the World's Indigenous Peoples is observed on 9 August."
   },
   {
-   "id": "general-knowledge-00419",
+   "id": "general-knowledge-00439",
    "q": "Where is the headquarters of UN High Commissioner for Refugees?",
    "o": [
     "Jakarta",
@@ -6300,7 +6600,7 @@
    "e": "UN High Commissioner for Refugees is headquartered at Geneva."
   },
   {
-   "id": "general-knowledge-00420",
+   "id": "general-knowledge-00440",
    "q": "Which sport uses teams of 6 players?",
    "o": [
     "Rugby sevens",
@@ -6315,7 +6615,7 @@
    "e": "Teams of 6 players play Ice hockey."
   },
   {
-   "id": "general-knowledge-00421",
+   "id": "general-knowledge-00441",
    "q": "Irani Cup is associated with which sport?",
    "o": [
     "Football",
@@ -6330,7 +6630,7 @@
    "e": "Irani Cup is associated with Cricket."
   },
   {
-   "id": "general-knowledge-00422",
+   "id": "general-knowledge-00442",
    "q": "Arjuna Award is associated with which of the following?",
    "o": [
     "Performing arts award of India",
@@ -6345,7 +6645,7 @@
    "e": "Arjuna Award — Outstanding performance in Indian sports."
   },
   {
-   "id": "general-knowledge-00423",
+   "id": "general-knowledge-00443",
    "q": "Who is the author of India Wins Freedom?",
    "o": [
     "Jonathan Swift",
@@ -6360,7 +6660,7 @@
    "e": "India Wins Freedom is written by Maulana Abul Kalam Azad."
   },
   {
-   "id": "general-knowledge-00424",
+   "id": "general-knowledge-00444",
    "q": "Which of the following achievements belongs to Junko Tabei?",
    "o": [
     "First person to reach the South Pole",
@@ -6375,7 +6675,7 @@
    "e": "First woman to climb Mount Everest belongs to Junko Tabei."
   },
   {
-   "id": "general-knowledge-00425",
+   "id": "general-knowledge-00445",
    "q": "Which is the largest state of India by area?",
    "o": [
     "Mumbai",
@@ -6390,7 +6690,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00426",
+   "id": "general-knowledge-00446",
    "q": "Which city is called the Windy City?",
    "o": [
     "Hyderabad",
@@ -6405,7 +6705,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00427",
+   "id": "general-knowledge-00447",
    "q": "Which institution prints currency notes in India?",
    "o": [
     "Reserve Bank of India",
@@ -6420,7 +6720,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00428",
+   "id": "general-knowledge-00448",
    "q": "Which country hosted the 2023 Asian Games?",
    "o": [
     "China",
@@ -6435,7 +6735,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00429",
+   "id": "general-knowledge-00449",
    "q": "What is the capital of Bolivia?",
    "o": [
     "Ankara",
@@ -6450,7 +6750,7 @@
    "e": "The capital of Bolivia is Sucre."
   },
   {
-   "id": "general-knowledge-00430",
+   "id": "general-knowledge-00450",
    "q": "On which date is World Vegan Day observed?",
    "o": [
     "26 January",
@@ -6465,7 +6765,7 @@
    "e": "World Vegan Day is observed on 1 November."
   },
   {
-   "id": "general-knowledge-00431",
+   "id": "general-knowledge-00451",
    "q": "Where is the headquarters of World Wide Fund for Nature?",
    "o": [
     "Vienna",
@@ -6480,7 +6780,7 @@
    "e": "World Wide Fund for Nature is headquartered at Gland."
   },
   {
-   "id": "general-knowledge-00432",
+   "id": "general-knowledge-00452",
    "q": "Which sport uses teams of 4 players?",
    "o": [
     "Volleyball",
@@ -6495,7 +6795,7 @@
    "e": "Teams of 4 players play Polo."
   },
   {
-   "id": "general-knowledge-00433",
+   "id": "general-knowledge-00453",
    "q": "Which award is described as: Indian literary award?",
    "o": [
     "Dhyan Chand Award",
@@ -6510,7 +6810,7 @@
    "e": "Indian literary award describes Saraswati Samman."
   },
   {
-   "id": "general-knowledge-00434",
+   "id": "general-knowledge-00454",
    "q": "Who is the author of Midnight's Children?",
    "o": [
     "Sigmund Freud",
@@ -6525,7 +6825,7 @@
    "e": "Midnight's Children is written by Salman Rushdie."
   },
   {
-   "id": "general-knowledge-00435",
+   "id": "general-knowledge-00455",
    "q": "Which of the following achievements belongs to United States of America?",
    "o": [
     "First person to run a mile in under four minutes",
@@ -6540,7 +6840,7 @@
    "e": "First country to land a man on the Moon belongs to United States of America."
   },
   {
-   "id": "general-knowledge-00436",
+   "id": "general-knowledge-00456",
    "q": "Which is the most populous state of India?",
    "o": [
     "Dead Sea",
@@ -6555,7 +6855,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00437",
+   "id": "general-knowledge-00457",
    "q": "Where are the Ellora Caves located?",
    "o": [
     "OPEC",
@@ -6570,7 +6870,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00438",
+   "id": "general-knowledge-00458",
    "q": "Which sector is known as the tertiary sector of the economy?",
    "o": [
     "Income tax",
@@ -6585,7 +6885,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00439",
+   "id": "general-knowledge-00459",
    "q": "Which Indian Air Force officer is set to fly on the Gaganyaan mission?",
    "o": [
     "BRICS Summit",
@@ -6600,7 +6900,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00440",
+   "id": "general-knowledge-00460",
    "q": "What is the capital of Gambia?",
    "o": [
     "Monrovia",
@@ -6615,7 +6915,7 @@
    "e": "The capital of Gambia is Banjul."
   },
   {
-   "id": "general-knowledge-00441",
+   "id": "general-knowledge-00461",
    "q": "On which date is Human Rights Day observed?",
    "o": [
     "10 December",
@@ -6630,7 +6930,7 @@
    "e": "Human Rights Day is observed on 10 December."
   },
   {
-   "id": "general-knowledge-00442",
+   "id": "general-knowledge-00462",
    "q": "Where is the headquarters of FIFA?",
    "o": [
     "Rome",
@@ -6645,7 +6945,7 @@
    "e": "FIFA is headquartered at Zurich."
   },
   {
-   "id": "general-knowledge-00443",
+   "id": "general-knowledge-00463",
    "q": "Which sport uses teams of 6 players?",
    "o": [
     "Volleyball",
@@ -6660,7 +6960,7 @@
    "e": "Teams of 6 players play Volleyball."
   },
   {
-   "id": "general-knowledge-00444",
+   "id": "general-knowledge-00464",
    "q": "Deodhar Trophy is associated with which sport?",
    "o": [
     "Tennis",
@@ -6675,7 +6975,7 @@
    "e": "Deodhar Trophy is associated with Cricket."
   },
   {
-   "id": "general-knowledge-00445",
+   "id": "general-knowledge-00465",
    "q": "Which award is described as: Coaching excellence in Indian sports?",
    "o": [
     "Sahitya Akademi Award",
@@ -6690,7 +6990,7 @@
    "e": "Coaching excellence in Indian sports describes Dronacharya Award."
   },
   {
-   "id": "general-knowledge-00446",
+   "id": "general-knowledge-00466",
    "q": "Who is the author of The Origin of Species by Means of Natural Selection?",
    "o": [
     "Munshi Premchand",
@@ -6705,7 +7005,7 @@
    "e": "The Origin of Species by Means of Natural Selection is written by Charles Darwin."
   },
   {
-   "id": "general-knowledge-00447",
+   "id": "general-knowledge-00467",
    "q": "Which of the following achievements belongs to Athens?",
    "o": [
     "First Secretary-General of the United Nations",
@@ -6720,7 +7020,7 @@
    "e": "First modern Olympic Games were held in belongs to Athens."
   },
   {
-   "id": "general-knowledge-00448",
+   "id": "general-knowledge-00468",
    "q": "Which is the southernmost point of India?",
    "o": [
     "South China Sea",
@@ -6735,7 +7035,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00449",
+   "id": "general-knowledge-00469",
    "q": "Where is the Kailasa Temple located?",
    "o": [
     "India",
@@ -6750,7 +7050,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00450",
+   "id": "general-knowledge-00470",
    "q": "Which organ of the World Bank provides loans to the poorest countries?",
    "o": [
     "Progressive tax",
@@ -6765,7 +7065,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00451",
+   "id": "general-knowledge-00471",
    "q": "Which high-speed rail project is being built in India with Japanese assistance?",
    "o": [
     "Mangalyaan",
@@ -6780,7 +7080,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00452",
+   "id": "general-knowledge-00472",
    "q": "What is the capital of Suriname?",
    "o": [
     "Paramaribo",
@@ -6795,7 +7095,7 @@
    "e": "The capital of Suriname is Paramaribo."
   },
   {
-   "id": "general-knowledge-00453",
+   "id": "general-knowledge-00473",
    "q": "On which date is World Braille Day observed?",
    "o": [
     "15 October",
@@ -6810,7 +7110,7 @@
    "e": "World Braille Day is observed on 4 January."
   },
   {
-   "id": "general-knowledge-00454",
+   "id": "general-knowledge-00474",
    "q": "Where is the headquarters of OPEC?",
    "o": [
     "Vienna",
@@ -6825,7 +7125,7 @@
    "e": "OPEC is headquartered at Vienna."
   },
   {
-   "id": "general-knowledge-00455",
+   "id": "general-knowledge-00475",
    "q": "Which of the following pairs of sport and number of players is correctly matched?",
    "o": [
     "Badminton (doubles) - 7",
@@ -6840,7 +7140,7 @@
    "e": "Only Badminton (doubles) - 2 is correctly matched."
   },
   {
-   "id": "general-knowledge-00456",
+   "id": "general-knowledge-00476",
    "q": "Wimbledon is associated with which sport?",
    "o": [
     "Football",
@@ -6855,7 +7155,7 @@
    "e": "Wimbledon is associated with Tennis."
   },
   {
-   "id": "general-knowledge-00457",
+   "id": "general-knowledge-00477",
    "q": "Which award is described as: Highest military decoration of India?",
    "o": [
     "Param Vir Chakra",
@@ -6870,7 +7170,7 @@
    "e": "Highest military decoration of India describes Param Vir Chakra."
   },
   {
-   "id": "general-knowledge-00458",
+   "id": "general-knowledge-00478",
    "q": "Who is the author of Discovery of India?",
    "o": [
     "A. P. J. Abdul Kalam",
@@ -6885,7 +7185,7 @@
    "e": "Discovery of India is written by Jawaharlal Nehru."
   },
   {
-   "id": "general-knowledge-00459",
+   "id": "general-knowledge-00479",
    "q": "Which of the following achievements belongs to Karnam Malleswari?",
    "o": [
     "First Indian woman to win an Olympic medal",
@@ -6900,7 +7200,7 @@
    "e": "First Indian woman to win an Olympic medal belongs to Karnam Malleswari."
   },
   {
-   "id": "general-knowledge-00460",
+   "id": "general-knowledge-00480",
    "q": "Which is the largest peninsula in the world?",
    "o": [
     "Australia",
@@ -6915,7 +7215,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00461",
+   "id": "general-knowledge-00481",
    "q": "Where is the Somnath Temple located?",
    "o": [
     "Mumbai",
@@ -6930,7 +7230,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00462",
+   "id": "general-knowledge-00482",
    "q": "Who is known as the father of the Green Revolution in India?",
    "o": [
     "Insolvency and Bankruptcy Code, 2016",
@@ -6945,7 +7245,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00463",
+   "id": "general-knowledge-00483",
    "q": "Which country has the largest tiger population?",
    "o": [
     "India",
@@ -6960,7 +7260,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00464",
+   "id": "general-knowledge-00484",
    "q": "What is the capital of Tanzania?",
    "o": [
     "Dodoma",
@@ -6975,7 +7275,7 @@
    "e": "The capital of Tanzania is Dodoma."
   },
   {
-   "id": "general-knowledge-00465",
+   "id": "general-knowledge-00485",
    "q": "On which date is World Philosophy Day observed?",
    "o": [
     "10 October",
@@ -6990,7 +7290,7 @@
    "e": "World Philosophy Day is observed on third Thursday of November."
   },
   {
-   "id": "general-knowledge-00466",
+   "id": "general-knowledge-00486",
    "q": "Where is the headquarters of International Cricket Council?",
    "o": [
     "London",
@@ -7005,7 +7305,7 @@
    "e": "International Cricket Council is headquartered at Dubai."
   },
   {
-   "id": "general-knowledge-00467",
+   "id": "general-knowledge-00487",
    "q": "Which of the following pairs of sport and number of players is correctly matched?",
    "o": [
     "Badminton (doubles) - 9",
@@ -7020,7 +7320,7 @@
    "e": "Only Badminton (doubles) - 2 is correctly matched."
   },
   {
-   "id": "general-knowledge-00468",
+   "id": "general-knowledge-00488",
    "q": "Uber Cup is associated with which sport?",
    "o": [
     "Cricket",
@@ -7035,7 +7335,7 @@
    "e": "Uber Cup is associated with Badminton."
   },
   {
-   "id": "general-knowledge-00469",
+   "id": "general-knowledge-00489",
    "q": "Which award is described as: Second highest civilian award of India?",
    "o": [
     "Maha Vir Chakra",
@@ -7050,7 +7350,7 @@
    "e": "Second highest civilian award of India describes Padma Vibhushan."
   },
   {
-   "id": "general-knowledge-00470",
+   "id": "general-knowledge-00490",
    "q": "Who is the author of Ignited Minds?",
    "o": [
     "Shrilal Shukla",
@@ -7065,7 +7365,7 @@
    "e": "Ignited Minds is written by A. P. J. Abdul Kalam."
   },
   {
-   "id": "general-knowledge-00471",
+   "id": "general-knowledge-00491",
    "q": "Which of the following achievements belongs to Karnam Malleswari?",
    "o": [
     "First woman to win an Olympic gold in wrestling for India",
@@ -7080,7 +7380,7 @@
    "e": "First woman to win an Olympic gold in wrestling for India belongs to Karnam Malleswari."
   },
   {
-   "id": "general-knowledge-00472",
+   "id": "general-knowledge-00492",
    "q": "Which is the largest country by area?",
    "o": [
     "Kanchenjunga",
@@ -7095,7 +7395,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00473",
+   "id": "general-knowledge-00493",
    "q": "Which canal connects the Mediterranean Sea with the Red Sea?",
    "o": [
     "Strait of Gibraltar",
@@ -7110,7 +7410,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00474",
+   "id": "general-knowledge-00494",
    "q": "Which body recommends the distribution of taxes between the Centre and States?",
    "o": [
     "1975",
@@ -7125,7 +7425,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00475",
+   "id": "general-knowledge-00495",
    "q": "Which Indian state is the largest producer of millets?",
    "o": [
     "Kerala",
@@ -7140,7 +7440,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00476",
+   "id": "general-knowledge-00496",
    "q": "What is the capital of Italy?",
    "o": [
     "Vatican City",
@@ -7155,7 +7455,7 @@
    "e": "The capital of Italy is Rome."
   },
   {
-   "id": "general-knowledge-00477",
+   "id": "general-knowledge-00497",
    "q": "On which date is International Yoga Day observed?",
    "o": [
     "21 June",
@@ -7170,7 +7470,7 @@
    "e": "International Yoga Day is observed on 21 June."
   },
   {
-   "id": "general-knowledge-00478",
+   "id": "general-knowledge-00498",
    "q": "Where is the headquarters of ASEAN?",
    "o": [
     "Geneva",
@@ -7185,7 +7485,7 @@
    "e": "ASEAN is headquartered at Jakarta."
   },
   {
-   "id": "general-knowledge-00479",
+   "id": "general-knowledge-00499",
    "q": "Sultan Azlan Shah Cup is associated with which sport?",
    "o": [
     "Cricket",
@@ -7200,7 +7500,7 @@
    "e": "Sultan Azlan Shah Cup is associated with Hockey."
   },
   {
-   "id": "general-knowledge-00480",
+   "id": "general-knowledge-00500",
    "q": "Which award is described as: Highest award in Indian cinema?",
    "o": [
     "Bharat Ratna",
@@ -7215,7 +7515,7 @@
    "e": "Highest award in Indian cinema describes Dada Saheb Phalke Award."
   },
   {
-   "id": "general-knowledge-00481",
+   "id": "general-knowledge-00501",
    "q": "Who is the author of Autobiography of a Yogi?",
    "o": [
     "William Shakespeare",
@@ -7230,7 +7530,7 @@
    "e": "Autobiography of a Yogi is written by Paramahansa Yogananda."
   },
   {
-   "id": "general-knowledge-00482",
+   "id": "general-knowledge-00502",
    "q": "Which of the following achievements belongs to Soviet Union?",
    "o": [
     "First person to run a mile in under four minutes",
@@ -7245,7 +7545,7 @@
    "e": "First country to send a human into space belongs to Soviet Union."
   },
   {
-   "id": "general-knowledge-00483",
+   "id": "general-knowledge-00503",
    "q": "Which country is called the Land of Thousand Lakes?",
    "o": [
     "Finland",
@@ -7260,7 +7560,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00484",
+   "id": "general-knowledge-00504",
    "q": "Which continent is called the Dark Continent?",
    "o": [
     "Kerala",
@@ -7275,7 +7575,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00485",
+   "id": "general-knowledge-00505",
    "q": "Which is the apex bank of India?",
    "o": [
     "Agriculture sector",
@@ -7290,7 +7590,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00486",
+   "id": "general-knowledge-00506",
    "q": "Which cyclone hit Odisha in 1999 with severe impact?",
    "o": [
     "Mahatma Gandhi National Rural Employment Guarantee Scheme",
@@ -7305,7 +7605,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00487",
+   "id": "general-knowledge-00507",
    "q": "What is the capital of Argentina?",
    "o": [
     "Vienna",
@@ -7320,7 +7620,7 @@
    "e": "The capital of Argentina is Buenos Aires."
   },
   {
-   "id": "general-knowledge-00488",
+   "id": "general-knowledge-00508",
    "q": "On which date is Teachers' Day (India) observed?",
    "o": [
     "7 April",
@@ -7335,7 +7635,7 @@
    "e": "Teachers' Day (India) is observed on 5 September."
   },
   {
-   "id": "general-knowledge-00489",
+   "id": "general-knowledge-00509",
    "q": "Where is the headquarters of Indian Space Research Organisation?",
    "o": [
     "Paris",
@@ -7350,7 +7650,7 @@
    "e": "Indian Space Research Organisation is headquartered at Bengaluru."
   },
   {
-   "id": "general-knowledge-00490",
+   "id": "general-knowledge-00510",
    "q": "Which of the following pairs of sport and number of players is correctly matched?",
    "o": [
     "Korfball - 6",
@@ -7365,7 +7665,7 @@
    "e": "Only Korfball - 8 is correctly matched."
   },
   {
-   "id": "general-knowledge-00491",
+   "id": "general-knowledge-00511",
    "q": "Which trophy or cup is associated with Badminton?",
    "o": [
     "All England Open",
@@ -7380,7 +7680,7 @@
    "e": "All England Open is associated with Badminton."
   },
   {
-   "id": "general-knowledge-00492",
+   "id": "general-knowledge-00512",
    "q": "Which award is described as: Award for progress in spiritual matters?",
    "o": [
     "Templeton Prize",
@@ -7395,7 +7695,7 @@
    "e": "Award for progress in spiritual matters describes Templeton Prize."
   },
   {
-   "id": "general-knowledge-00493",
+   "id": "general-knowledge-00513",
    "q": "Who is the author of The Race of My Life?",
    "o": [
     "Charles Darwin",
@@ -7410,7 +7710,7 @@
    "e": "The Race of My Life is written by Milkha Singh."
   },
   {
-   "id": "general-knowledge-00494",
+   "id": "general-knowledge-00514",
    "q": "Which of the following achievements belongs to Wally Herbert?",
    "o": [
     "First country to host the modern Olympic Games",
@@ -7425,7 +7725,7 @@
    "e": "First person to reach the North Pole by surface belongs to Wally Herbert."
   },
   {
-   "id": "general-knowledge-00495",
+   "id": "general-knowledge-00515",
    "q": "Which strait separates Asia from North America?",
    "o": [
     "Caspian Sea",
@@ -7440,7 +7740,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00496",
+   "id": "general-knowledge-00516",
    "q": "Which continent has the largest population?",
    "o": [
     "Madhya Pradesh",
@@ -7455,7 +7755,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00497",
+   "id": "general-knowledge-00517",
    "q": "Which code deals with insolvency resolution in India?",
    "o": [
     "Liberalisation, Privatisation and Globalisation",
@@ -7470,7 +7770,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00498",
+   "id": "general-knowledge-00518",
    "q": "Which Indian state has the highest number of UNESCO World Heritage Sites?",
    "o": [
     "Vande Bharat Express",
@@ -7485,7 +7785,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00499",
+   "id": "general-knowledge-00519",
    "q": "What is the capital of Morocco?",
    "o": [
     "Luxembourg City",
@@ -7500,7 +7800,7 @@
    "e": "The capital of Morocco is Rabat."
   },
   {
-   "id": "general-knowledge-00500",
+   "id": "general-knowledge-00520",
    "q": "On which date is Kargil Vijay Diwas observed?",
    "o": [
     "14 November",
@@ -7515,7 +7815,7 @@
    "e": "Kargil Vijay Diwas is observed on 26 July."
   },
   {
-   "id": "general-knowledge-00501",
+   "id": "general-knowledge-00521",
    "q": "Where is the headquarters of World Food Programme?",
    "o": [
     "Paris",
@@ -7530,7 +7830,7 @@
    "e": "World Food Programme is headquartered at Rome."
   },
   {
-   "id": "general-knowledge-00502",
+   "id": "general-knowledge-00522",
    "q": "Which of the following pairs of sport and number of players is correctly matched?",
    "o": [
     "Ice hockey - 6",
@@ -7545,7 +7845,7 @@
    "e": "Only Ice hockey - 6 is correctly matched."
   },
   {
-   "id": "general-knowledge-00503",
+   "id": "general-knowledge-00523",
    "q": "Which trophy or cup is associated with Cricket?",
    "o": [
     "Uber Cup",
@@ -7560,7 +7860,7 @@
    "e": "Deodhar Trophy is associated with Cricket."
   },
   {
-   "id": "general-knowledge-00504",
+   "id": "general-knowledge-00524",
    "q": "Which award is described as: Indian award for research?",
    "o": [
     "Padma Shri",
@@ -7575,7 +7875,7 @@
    "e": "Indian award for research describes Infosys Prize."
   },
   {
-   "id": "general-knowledge-00505",
+   "id": "general-knowledge-00525",
    "q": "Who is the author of Godaan?",
    "o": [
     "Munshi Premchand",
@@ -7590,7 +7890,7 @@
    "e": "Godaan is written by Munshi Premchand."
   },
   {
-   "id": "general-knowledge-00506",
+   "id": "general-knowledge-00526",
    "q": "Which of the following achievements belongs to Marie Curie?",
    "o": [
     "First President of the United States",
@@ -7605,7 +7905,7 @@
    "e": "First woman to win a Nobel Prize belongs to Marie Curie."
   },
   {
-   "id": "general-knowledge-00507",
+   "id": "general-knowledge-00527",
    "q": "Which is the highest mountain peak in India?",
    "o": [
     "Kanchenjunga",
@@ -7620,7 +7920,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00508",
+   "id": "general-knowledge-00528",
    "q": "Which is the highest plateau in the world?",
    "o": [
     "Egypt",
@@ -7635,7 +7935,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00509",
+   "id": "general-knowledge-00529",
    "q": "What is the reserve asset of the International Monetary Fund called?",
    "o": [
     "Nifty",
@@ -7650,7 +7950,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00510",
+   "id": "general-knowledge-00530",
    "q": "Which Indian submarine launched a ballistic missile test in 2024?",
    "o": [
     "Sachin Tendulkar",
@@ -7665,7 +7965,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00511",
+   "id": "general-knowledge-00531",
    "q": "What is the capital of Indonesia?",
    "o": [
     "Jakarta",
@@ -7680,7 +7980,7 @@
    "e": "The capital of Indonesia is Jakarta."
   },
   {
-   "id": "general-knowledge-00512",
+   "id": "general-knowledge-00532",
    "q": "On which date is World Cities Day observed?",
    "o": [
     "30 April",
@@ -7695,7 +7995,7 @@
    "e": "World Cities Day is observed on 31 October."
   },
   {
-   "id": "general-knowledge-00513",
+   "id": "general-knowledge-00533",
    "q": "Where is the headquarters of Board of Control for Cricket in India?",
    "o": [
     "Mumbai",
@@ -7710,7 +8010,7 @@
    "e": "Board of Control for Cricket in India is headquartered at Mumbai."
   },
   {
-   "id": "general-knowledge-00514",
+   "id": "general-knowledge-00534",
    "q": "Which of the following pairs of sport and number of players is correctly matched?",
    "o": [
     "Ice hockey - 15",
@@ -7725,7 +8025,7 @@
    "e": "Only Ice hockey - 6 is correctly matched."
   },
   {
-   "id": "general-knowledge-00515",
+   "id": "general-knowledge-00535",
    "q": "Which trophy or cup is associated with Golf?",
    "o": [
     "Durand Cup",
@@ -7740,7 +8040,7 @@
    "e": "Ryder Cup is associated with Golf."
   },
   {
-   "id": "general-knowledge-00516",
+   "id": "general-knowledge-00536",
    "q": "Which award is described as: Indian award in science and technology?",
    "o": [
     "Ashoka Chakra",
@@ -7755,7 +8055,7 @@
    "e": "Indian award in science and technology describes Shanti Swarup Bhatnagar Prize."
   },
   {
-   "id": "general-knowledge-00517",
+   "id": "general-knowledge-00537",
    "q": "Who is the author of Gaban?",
    "o": [
     "Munshi Premchand",
@@ -7770,7 +8070,7 @@
    "e": "Gaban is written by Munshi Premchand."
   },
   {
-   "id": "general-knowledge-00518",
+   "id": "general-knowledge-00538",
    "q": "Which of the following achievements belongs to Soviet Union?",
    "o": [
     "First President of the United States",
@@ -7785,7 +8085,7 @@
    "e": "First country to launch a satellite belongs to Soviet Union."
   },
   {
-   "id": "general-knowledge-00519",
+   "id": "general-knowledge-00539",
    "q": "Which city is known as the Forbidden City?",
    "o": [
     "Beijing",
@@ -7800,7 +8100,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00520",
+   "id": "general-knowledge-00540",
    "q": "What is the time difference between Indian Standard Time and Greenwich Mean Time?",
    "o": [
     "Five and a half hours",
@@ -7815,7 +8115,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00521",
+   "id": "general-knowledge-00541",
    "q": "Which scheme provides loans to micro-enterprises in India?",
    "o": [
     "Pradhan Mantri Mudra Yojana",
@@ -7830,7 +8130,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00522",
+   "id": "general-knowledge-00542",
    "q": "Which rocket is ISRO's heaviest launch vehicle?",
    "o": [
     "Swachh Bharat Abhiyan",
@@ -7845,7 +8145,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00523",
+   "id": "general-knowledge-00543",
    "q": "What is the capital of Japan?",
    "o": [
     "Tallinn",
@@ -7860,7 +8160,7 @@
    "e": "The capital of Japan is Tokyo."
   },
   {
-   "id": "general-knowledge-00524",
+   "id": "general-knowledge-00544",
    "q": "On which date is World Wildlife Day observed?",
    "o": [
     "3 March",
@@ -7875,7 +8175,7 @@
    "e": "World Wildlife Day is observed on 3 March."
   },
   {
-   "id": "general-knowledge-00525",
+   "id": "general-knowledge-00545",
    "q": "Where is the headquarters of Food and Agriculture Organization?",
    "o": [
     "Geneva",
@@ -7890,7 +8190,7 @@
    "e": "Food and Agriculture Organization is headquartered at Rome."
   },
   {
-   "id": "general-knowledge-00526",
+   "id": "general-knowledge-00546",
    "q": "Which of the following pairs of sport and number of players is correctly matched?",
    "o": [
     "Kabaddi - 6",
@@ -7905,7 +8205,7 @@
    "e": "Only Kabaddi - 7 is correctly matched."
   },
   {
-   "id": "general-knowledge-00527",
+   "id": "general-knowledge-00547",
    "q": "Which trophy or cup is associated with Football?",
    "o": [
     "Beighton Cup",
@@ -7920,7 +8220,7 @@
    "e": "Merdeka Cup is associated with Football."
   },
   {
-   "id": "general-knowledge-00528",
+   "id": "general-knowledge-00548",
    "q": "Which award is described as: Highest civilian award of India?",
    "o": [
     "Bharat Ratna",
@@ -7935,7 +8235,7 @@
    "e": "Highest civilian award of India describes Bharat Ratna."
   },
   {
-   "id": "general-knowledge-00529",
+   "id": "general-knowledge-00549",
    "q": "Who is the author of The Odyssey?",
    "o": [
     "Mary Kom",
@@ -7950,7 +8250,7 @@
    "e": "The Odyssey is written by Homer."
   },
   {
-   "id": "general-knowledge-00530",
+   "id": "general-knowledge-00550",
    "q": "Which of the following achievements belongs to Edmund Hillary?",
    "o": [
     "First person to sail solo around the world",
@@ -7965,7 +8265,7 @@
    "e": "First person to climb Mount Everest belongs to Edmund Hillary."
   },
   {
-   "id": "general-knowledge-00531",
+   "id": "general-knowledge-00551",
    "q": "Which is the largest bay in the world?",
    "o": [
     "Bay of Bengal",
@@ -7980,7 +8280,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00532",
+   "id": "general-knowledge-00552",
    "q": "Which sea lies to the east of India?",
    "o": [
     "Torres Strait",
@@ -7995,7 +8295,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00533",
+   "id": "general-knowledge-00553",
    "q": "In which year was NABARD established?",
    "o": [
     "SIDBI",
@@ -8010,7 +8310,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00534",
+   "id": "general-knowledge-00554",
    "q": "Which Indian chess player challenged for the world title in 2023?",
    "o": [
     "Ayushman Bharat",
@@ -8025,7 +8325,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00535",
+   "id": "general-knowledge-00555",
    "q": "What is the capital of Poland?",
    "o": [
     "Warsaw",
@@ -8040,7 +8340,7 @@
    "e": "The capital of Poland is Warsaw."
   },
   {
-   "id": "general-knowledge-00536",
+   "id": "general-knowledge-00556",
    "q": "On which date is International Anti-Corruption Day observed?",
    "o": [
     "9 December",
@@ -8055,7 +8355,7 @@
    "e": "International Anti-Corruption Day is observed on 9 December."
   },
   {
-   "id": "general-knowledge-00537",
+   "id": "general-knowledge-00557",
    "q": "Where is the headquarters of International Labour Organization headquarters city?",
    "o": [
     "Gland",
@@ -8070,7 +8370,7 @@
    "e": "International Labour Organization headquarters city is headquartered at Geneva."
   },
   {
-   "id": "general-knowledge-00538",
+   "id": "general-knowledge-00558",
    "q": "Which of the following pairs of sport and number of players is correctly matched?",
    "o": [
     "Kabaddi - 7",
@@ -8085,7 +8385,7 @@
    "e": "Only Kabaddi - 7 is correctly matched."
   },
   {
-   "id": "general-knowledge-00539",
+   "id": "general-knowledge-00559",
    "q": "Which trophy or cup is associated with Cricket?",
    "o": [
     "Irani Cup",
@@ -8100,7 +8400,7 @@
    "e": "Irani Cup is associated with Cricket."
   },
   {
-   "id": "general-knowledge-00540",
+   "id": "general-knowledge-00560",
    "q": "Which award is described as: Awards for Indian cinema?",
    "o": [
     "Param Vir Chakra",
@@ -8115,7 +8415,7 @@
    "e": "Awards for Indian cinema describes National Film Award."
   },
   {
-   "id": "general-knowledge-00541",
+   "id": "general-knowledge-00561",
    "q": "Who is the author of Wings of Fire?",
    "o": [
     "Munshi Premchand",
@@ -8130,7 +8430,7 @@
    "e": "Wings of Fire is written by A. P. J. Abdul Kalam."
   },
   {
-   "id": "general-knowledge-00542",
+   "id": "general-knowledge-00562",
    "q": "Which of the following achievements belongs to Neil Armstrong?",
    "o": [
     "First FIFA World Cup was held in",
@@ -8145,7 +8445,7 @@
    "e": "First person to walk on the Moon belongs to Neil Armstrong."
   },
   {
-   "id": "general-knowledge-00543",
+   "id": "general-knowledge-00563",
    "q": "Which is the largest freshwater lake in India?",
    "o": [
     "Mauna Loa",
@@ -8160,7 +8460,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00544",
+   "id": "general-knowledge-00564",
    "q": "Which is the most populous state of India?",
    "o": [
     "China",
@@ -8175,7 +8475,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00545",
+   "id": "general-knowledge-00565",
    "q": "Which Constitutional amendment introduced GST in India?",
    "o": [
     "Bank of England",
@@ -8190,7 +8490,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00546",
+   "id": "general-knowledge-00566",
    "q": "Which mission of ISRO reached Mars orbit in 2014?",
    "o": [
     "BharatNet",
@@ -8205,7 +8505,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00547",
+   "id": "general-knowledge-00567",
    "q": "What is the capital of Togo?",
    "o": [
     "Berlin",
@@ -8220,7 +8520,7 @@
    "e": "The capital of Togo is Lome."
   },
   {
-   "id": "general-knowledge-00548",
+   "id": "general-knowledge-00568",
    "q": "On which date is International Students' Day observed?",
    "o": [
     "17 November",
@@ -8235,7 +8535,7 @@
    "e": "International Students' Day is observed on 17 November."
   },
   {
-   "id": "general-knowledge-00549",
+   "id": "general-knowledge-00569",
    "q": "Where is the headquarters of International Criminal Court?",
    "o": [
     "Paris",
@@ -8250,7 +8550,7 @@
    "e": "International Criminal Court is headquartered at The Hague."
   },
   {
-   "id": "general-knowledge-00550",
+   "id": "general-knowledge-00570",
    "q": "Which trophy or cup is associated with Cricket?",
    "o": [
     "World Cup (Cricket)",
@@ -8265,7 +8565,7 @@
    "e": "World Cup (Cricket) is associated with Cricket."
   },
   {
-   "id": "general-knowledge-00551",
+   "id": "general-knowledge-00571",
    "q": "Which award is described as: Third highest civilian award of India?",
    "o": [
     "Kirti Chakra",
@@ -8280,7 +8580,7 @@
    "e": "Third highest civilian award of India describes Padma Bhushan."
   },
   {
-   "id": "general-knowledge-00552",
+   "id": "general-knowledge-00572",
    "q": "Who is the author of Pride and Prejudice?",
    "o": [
     "Charles Darwin",
@@ -8295,7 +8595,7 @@
    "e": "Pride and Prejudice is written by Jane Austen."
   },
   {
-   "id": "general-knowledge-00553",
+   "id": "general-knowledge-00573",
    "q": "Which of the following achievements belongs to New Zealand?",
    "o": [
     "First Winter Olympic Games were held in",
@@ -8310,7 +8610,7 @@
    "e": "First country to give women the vote belongs to New Zealand."
   },
   {
-   "id": "general-knowledge-00554",
+   "id": "general-knowledge-00574",
    "q": "Which imaginary line passes through India?",
    "o": [
     "Belgium",
@@ -8325,7 +8625,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00555",
+   "id": "general-knowledge-00575",
    "q": "Which country is called the Land of a Thousand Dances?",
    "o": [
     "Canada",
@@ -8340,7 +8640,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00556",
+   "id": "general-knowledge-00576",
    "q": "Who is known as the father of modern economics?",
    "o": [
     "Green Revolution",
@@ -8355,7 +8655,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00557",
+   "id": "general-knowledge-00577",
    "q": "Which scheme supports the establishment of new MSMEs?",
    "o": [
     "Pradhan Mantri Mudra Yojana",
@@ -8370,7 +8670,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00558",
+   "id": "general-knowledge-00578",
    "q": "What is the capital of Latvia?",
    "o": [
     "Riga",
@@ -8385,7 +8685,7 @@
    "e": "The capital of Latvia is Riga."
   },
   {
-   "id": "general-knowledge-00559",
+   "id": "general-knowledge-00579",
    "q": "On which date is World Food Day observed?",
    "o": [
     "20 May",
@@ -8400,7 +8700,7 @@
    "e": "World Food Day is observed on 16 October."
   },
   {
-   "id": "general-knowledge-00560",
+   "id": "general-knowledge-00580",
    "q": "Where is the headquarters of UNESCO?",
    "o": [
     "Lyon",
@@ -8415,7 +8715,7 @@
    "e": "UNESCO is headquartered at Paris."
   },
   {
-   "id": "general-knowledge-00561",
+   "id": "general-knowledge-00581",
    "q": "Which of the following pairs of sport and number of players is correctly matched?",
    "o": [
     "Water polo - 9",
@@ -8430,7 +8730,7 @@
    "e": "Only Water polo - 7 is correctly matched."
   },
   {
-   "id": "general-knowledge-00562",
+   "id": "general-knowledge-00582",
    "q": "Which trophy or cup is associated with Football?",
    "o": [
     "US Open",
@@ -8445,7 +8745,7 @@
    "e": "Durand Cup is associated with Football."
   },
   {
-   "id": "general-knowledge-00563",
+   "id": "general-knowledge-00583",
    "q": "Which award is described as: American award for films?",
    "o": [
     "Major Dhyan Chand Khel Ratna Award",
@@ -8460,7 +8760,7 @@
    "e": "American award for films describes Academy Award (Oscar)."
   },
   {
-   "id": "general-knowledge-00564",
+   "id": "general-knowledge-00584",
    "q": "Who is the author of Romeo and Juliet?",
    "o": [
     "John Milton",
@@ -8475,7 +8775,7 @@
    "e": "Romeo and Juliet is written by William Shakespeare."
   },
   {
-   "id": "general-knowledge-00565",
+   "id": "general-knowledge-00585",
    "q": "Which of the following achievements belongs to Sirimavo Bandaranaike?",
    "o": [
     "First woman Prime Minister in the world",
@@ -8490,7 +8790,7 @@
    "e": "First woman Prime Minister in the world belongs to Sirimavo Bandaranaike."
   },
   {
-   "id": "general-knowledge-00566",
+   "id": "general-knowledge-00586",
    "q": "Which is the largest volcano in the world?",
    "o": [
     "Rome",
@@ -8505,7 +8805,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00567",
+   "id": "general-knowledge-00587",
    "q": "Which is the largest port in India?",
    "o": [
     "Jawaharlal Nehru Port",
@@ -8520,7 +8820,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00568",
+   "id": "general-knowledge-00588",
    "q": "Which body regulates the insurance sector in India?",
    "o": [
     "IRDAI",
@@ -8535,7 +8835,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00569",
+   "id": "general-knowledge-00589",
    "q": "Which index measures press freedom worldwide?",
    "o": [
     "AstroSat",
@@ -8550,7 +8850,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00570",
+   "id": "general-knowledge-00590",
    "q": "What is the capital of Finland?",
    "o": [
     "Washington, D.C.",
@@ -8565,7 +8865,7 @@
    "e": "The capital of Finland is Helsinki."
   },
   {
-   "id": "general-knowledge-00571",
+   "id": "general-knowledge-00591",
    "q": "On which date is World Kindness Day observed?",
    "o": [
     "22 December",
@@ -8580,7 +8880,7 @@
    "e": "World Kindness Day is observed on 13 November."
   },
   {
-   "id": "general-knowledge-00572",
+   "id": "general-knowledge-00592",
    "q": "Where is the headquarters of World Trade Organization?",
    "o": [
     "Montreal",
@@ -8595,7 +8895,7 @@
    "e": "World Trade Organization is headquartered at Geneva."
   },
   {
-   "id": "general-knowledge-00573",
+   "id": "general-knowledge-00593",
    "q": "Which of the following pairs of sport and number of players is correctly matched?",
    "o": [
     "Cricket - 6",
@@ -8610,7 +8910,7 @@
    "e": "Only Cricket - 11 is correctly matched."
   },
   {
-   "id": "general-knowledge-00574",
+   "id": "general-knowledge-00594",
    "q": "Which trophy or cup is associated with Badminton?",
    "o": [
     "Sudirman Cup",
@@ -8625,7 +8925,7 @@
    "e": "Sudirman Cup is associated with Badminton."
   },
   {
-   "id": "general-knowledge-00575",
+   "id": "general-knowledge-00595",
    "q": "Which award is described as: Highest sporting honour of India?",
    "o": [
     "Nobel Prize",
@@ -8640,7 +8940,7 @@
    "e": "Highest sporting honour of India describes Major Dhyan Chand Khel Ratna Award."
   },
   {
-   "id": "general-knowledge-00576",
+   "id": "general-knowledge-00596",
    "q": "Who is the author of My Experiments with Truth?",
    "o": [
     "William Shakespeare",
@@ -8655,7 +8955,7 @@
    "e": "My Experiments with Truth is written by Mahatma Gandhi."
   },
   {
-   "id": "general-knowledge-00577",
+   "id": "general-knowledge-00597",
    "q": "Which of the following achievements belongs to George Washington?",
    "o": [
     "First Secretary-General of the United Nations",
@@ -8670,7 +8970,7 @@
    "e": "First President of the United States belongs to George Washington."
   },
   {
-   "id": "general-knowledge-00578",
+   "id": "general-knowledge-00598",
    "q": "Which Indian city is called the City of Lakes?",
    "o": [
     "Tamil Nadu",
@@ -8685,7 +8985,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00579",
+   "id": "general-knowledge-00599",
    "q": "Which mountain range separates Europe from Asia?",
    "o": [
     "Challenger Deep",
@@ -8700,7 +9000,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00580",
+   "id": "general-knowledge-00600",
    "q": "In which year was NITI Aayog constituted?",
    "o": [
     "2017",
@@ -8715,7 +9015,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00581",
+   "id": "general-knowledge-00601",
    "q": "Which scheme aims to double the income of farmers?",
    "o": [
     "Mars Orbiter Mission",
@@ -8730,7 +9030,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00582",
+   "id": "general-knowledge-00602",
    "q": "What is the capital of Brazil?",
    "o": [
     "Port-au-Prince",
@@ -8745,7 +9045,7 @@
    "e": "The capital of Brazil is Brasilia."
   },
   {
-   "id": "general-knowledge-00583",
+   "id": "general-knowledge-00603",
    "q": "On which date is Engineers' Day (India) observed?",
    "o": [
     "4 February",
@@ -8760,7 +9060,7 @@
    "e": "Engineers' Day (India) is observed on 15 September."
   },
   {
-   "id": "general-knowledge-00584",
+   "id": "general-knowledge-00604",
    "q": "Where is the headquarters of European Union?",
    "o": [
     "Bengaluru",
@@ -8775,7 +9075,7 @@
    "e": "European Union is headquartered at Brussels."
   },
   {
-   "id": "general-knowledge-00585",
+   "id": "general-knowledge-00605",
    "q": "Which of the following pairs of sport and number of players is correctly matched?",
    "o": [
     "Cricket - 15",
@@ -8790,7 +9090,7 @@
    "e": "Only Cricket - 11 is correctly matched."
   },
   {
-   "id": "general-knowledge-00586",
+   "id": "general-knowledge-00606",
    "q": "Which trophy or cup is associated with Tennis?",
    "o": [
     "Sultan Azlan Shah Cup",
@@ -8805,7 +9105,7 @@
    "e": "Wimbledon is associated with Tennis."
   },
   {
-   "id": "general-knowledge-00587",
+   "id": "general-knowledge-00607",
    "q": "Which award is described as: American award for music?",
    "o": [
     "Borlaug Award",
@@ -8820,7 +9120,7 @@
    "e": "American award for music describes Grammy Award."
   },
   {
-   "id": "general-knowledge-00588",
+   "id": "general-knowledge-00608",
    "q": "Who is the author of Unbreakable?",
    "o": [
     "John Milton",
@@ -8835,7 +9135,7 @@
    "e": "Unbreakable is written by Mary Kom."
   },
   {
-   "id": "general-knowledge-00589",
+   "id": "general-knowledge-00609",
    "q": "Which of the following achievements belongs to Greece?",
    "o": [
     "First woman to climb Mount Everest",
@@ -8850,7 +9150,7 @@
    "e": "First country to host the modern Olympic Games belongs to Greece."
   },
   {
-   "id": "general-knowledge-00590",
+   "id": "general-knowledge-00610",
    "q": "Which is the driest place on Earth?",
    "o": [
     "Tibetan Plateau",
@@ -8865,7 +9165,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00591",
+   "id": "general-knowledge-00611",
    "q": "Which lake is the highest navigable lake in the world?",
    "o": [
     "Lake Titicaca",
@@ -8880,7 +9180,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00592",
+   "id": "general-knowledge-00612",
    "q": "Which body regulates the securities market in India?",
    "o": [
     "SEBI",
@@ -8895,7 +9195,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00593",
+   "id": "general-knowledge-00613",
    "q": "Which Indian documentary won an Oscar in 2023?",
    "o": [
     "Gujarat",
@@ -8910,7 +9210,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00594",
+   "id": "general-knowledge-00614",
    "q": "What is the capital of Cambodia?",
    "o": [
     "Bangui",
@@ -8925,7 +9225,7 @@
    "e": "The capital of Cambodia is Phnom Penh."
   },
   {
-   "id": "general-knowledge-00595",
+   "id": "general-knowledge-00615",
    "q": "On which date is World Polio Day observed?",
    "o": [
     "7 April",
@@ -8940,7 +9240,7 @@
    "e": "World Polio Day is observed on 24 October."
   },
   {
-   "id": "general-knowledge-00596",
+   "id": "general-knowledge-00616",
    "q": "Where is the headquarters of World Anti-Doping Agency?",
    "o": [
     "Kathmandu",
@@ -8955,7 +9255,7 @@
    "e": "World Anti-Doping Agency is headquartered at Montreal."
   },
   {
-   "id": "general-knowledge-00597",
+   "id": "general-knowledge-00617",
    "q": "Which of the following pairs of sport and number of players is correctly matched?",
    "o": [
     "Baseball - 15",
@@ -8970,7 +9270,7 @@
    "e": "Only Baseball - 9 is correctly matched."
   },
   {
-   "id": "general-knowledge-00598",
+   "id": "general-knowledge-00618",
    "q": "Which trophy or cup is associated with Hockey?",
    "o": [
     "UEFA Champions League",
@@ -8985,7 +9285,7 @@
    "e": "Aga Khan Cup is associated with Hockey."
   },
   {
-   "id": "general-knowledge-00599",
+   "id": "general-knowledge-00619",
    "q": "Which award is described as: UNESCO award for popularisation of science?",
    "o": [
     "Kalinga Prize",
@@ -9000,7 +9300,7 @@
    "e": "UNESCO award for popularisation of science describes Kalinga Prize."
   },
   {
-   "id": "general-knowledge-00600",
+   "id": "general-knowledge-00620",
    "q": "Who is the author of An Autobiography (Toward Freedom)?",
    "o": [
     "Jawaharlal Nehru",
@@ -9015,7 +9315,7 @@
    "e": "An Autobiography (Toward Freedom) is written by Jawaharlal Nehru."
   },
   {
-   "id": "general-knowledge-00601",
+   "id": "general-knowledge-00621",
    "q": "Which of the following achievements belongs to Rabindranath Tagore?",
    "o": [
     "First person to climb Mount Everest",
@@ -9030,7 +9330,7 @@
    "e": "First Asian to win a Nobel Prize belongs to Rabindranath Tagore."
   },
   {
-   "id": "general-knowledge-00602",
+   "id": "general-knowledge-00622",
    "q": "Which Indian city is called the Orange City?",
    "o": [
     "Norway",
@@ -9045,7 +9345,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00603",
+   "id": "general-knowledge-00623",
    "q": "Which is the largest gulf in the world?",
    "o": [
     "Gulf of Mexico",
@@ -9060,7 +9360,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00604",
+   "id": "general-knowledge-00624",
    "q": "Which revolution is associated with fish production?",
    "o": [
     "State Bank of India",
@@ -9075,7 +9375,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00605",
+   "id": "general-knowledge-00625",
    "q": "In which year was the Jal Jeevan Mission launched?",
    "o": [
     "2019",
@@ -9090,7 +9390,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00606",
+   "id": "general-knowledge-00626",
    "q": "What is the capital of Kenya?",
    "o": [
     "Athens",
@@ -9105,7 +9405,7 @@
    "e": "The capital of Kenya is Nairobi."
   },
   {
-   "id": "general-knowledge-00607",
+   "id": "general-knowledge-00627",
    "q": "On which date is World Wetlands Day observed?",
    "o": [
     "3 March",
@@ -9120,7 +9420,7 @@
    "e": "World Wetlands Day is observed on 2 February."
   },
   {
-   "id": "general-knowledge-00608",
+   "id": "general-knowledge-00628",
    "q": "Where is the headquarters of Universal Postal Union?",
    "o": [
     "Bern",
@@ -9135,7 +9435,7 @@
    "e": "Universal Postal Union is headquartered at Bern."
   },
   {
-   "id": "general-knowledge-00609",
+   "id": "general-knowledge-00629",
    "q": "Which of the following pairs of sport and number of players is correctly matched?",
    "o": [
     "Baseball - 11",
@@ -9150,7 +9450,7 @@
    "e": "Only Baseball - 9 is correctly matched."
   },
   {
-   "id": "general-knowledge-00610",
+   "id": "general-knowledge-00630",
    "q": "Which trophy or cup is associated with Tennis?",
    "o": [
     "Aga Khan Cup",
@@ -9165,7 +9465,7 @@
    "e": "Davis Cup is associated with Tennis."
   },
   {
-   "id": "general-knowledge-00611",
+   "id": "general-knowledge-00631",
    "q": "Which award is described as: Highest peacetime gallantry award of India?",
    "o": [
     "Ashoka Chakra",
@@ -9180,7 +9480,7 @@
    "e": "Highest peacetime gallantry award of India describes Ashoka Chakra."
   },
   {
-   "id": "general-knowledge-00612",
+   "id": "general-knowledge-00632",
    "q": "Who is the author of Paradise Lost?",
    "o": [
     "Rudyard Kipling",
@@ -9195,7 +9495,7 @@
    "e": "Paradise Lost is written by John Milton."
   },
   {
-   "id": "general-knowledge-00613",
+   "id": "general-knowledge-00633",
    "q": "Which of the following achievements belongs to Roald Amundsen?",
    "o": [
     "First Asian to win a Nobel Prize",
@@ -9210,7 +9510,7 @@
    "e": "First person to reach the South Pole belongs to Roald Amundsen."
   },
   {
-   "id": "general-knowledge-00614",
+   "id": "general-knowledge-00634",
    "q": "Which is the highest waterfall in the world?",
    "o": [
     "Angel Falls",
@@ -9225,7 +9525,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00615",
+   "id": "general-knowledge-00635",
    "q": "Which country is known as the Land of White Elephants?",
    "o": [
     "Thailand",
@@ -9240,7 +9540,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00616",
+   "id": "general-knowledge-00636",
    "q": "Who was the first Governor of the Reserve Bank of India?",
    "o": [
     "1975",
@@ -9255,7 +9555,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00617",
+   "id": "general-knowledge-00637",
    "q": "Which Indian won a silver medal in wrestling at the 2021 Olympics?",
    "o": [
     "Ravi Dahiya",
@@ -9270,7 +9570,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00618",
+   "id": "general-knowledge-00638",
    "q": "What is the capital of North Korea?",
    "o": [
     "Pyongyang",
@@ -9285,7 +9585,7 @@
    "e": "The capital of North Korea is Pyongyang."
   },
   {
-   "id": "general-knowledge-00619",
+   "id": "general-knowledge-00639",
    "q": "On which date is World Oceans Day observed?",
    "o": [
     "8 June",
@@ -9300,7 +9600,7 @@
    "e": "World Oceans Day is observed on 8 June."
   },
   {
-   "id": "general-knowledge-00620",
+   "id": "general-knowledge-00640",
    "q": "Where is the headquarters of OECD?",
    "o": [
     "Bengaluru",
@@ -9315,7 +9615,7 @@
    "e": "OECD is headquartered at Paris."
   },
   {
-   "id": "general-knowledge-00621",
+   "id": "general-knowledge-00641",
    "q": "Which of the following pairs of sport and number of players is correctly matched?",
    "o": [
     "Hockey - 11",
@@ -9330,7 +9630,7 @@
    "e": "Only Hockey - 11 is correctly matched."
   },
   {
-   "id": "general-knowledge-00622",
+   "id": "general-knowledge-00642",
    "q": "Which trophy or cup is associated with Tennis?",
    "o": [
     "Ranji Trophy",
@@ -9345,7 +9645,7 @@
    "e": "French Open is associated with Tennis."
   },
   {
-   "id": "general-knowledge-00623",
+   "id": "general-knowledge-00643",
    "q": "Which award is described as: Award for brave children in India?",
    "o": [
     "Templeton Prize",
@@ -9360,7 +9660,7 @@
    "e": "Award for brave children in India describes National Bravery Award."
   },
   {
-   "id": "general-knowledge-00624",
+   "id": "general-knowledge-00644",
    "q": "Which of the following books was written by Vishnu Sharma?",
    "o": [
     "My Experiments with Truth",
@@ -9375,7 +9675,7 @@
    "e": "Panchatantra was written by Vishnu Sharma."
   },
   {
-   "id": "general-knowledge-00625",
+   "id": "general-knowledge-00645",
    "q": "Which of the following achievements belongs to Trygve Lie?",
    "o": [
     "First Cricket World Cup was held in",
@@ -9390,7 +9690,7 @@
    "e": "First Secretary-General of the United Nations belongs to Trygve Lie."
   },
   {
-   "id": "general-knowledge-00626",
+   "id": "general-knowledge-00646",
    "q": "Which is the longest river in Europe?",
    "o": [
     "Volga",
@@ -9405,7 +9705,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00627",
+   "id": "general-knowledge-00647",
    "q": "Which country shares the longest border with India?",
    "o": [
     "Rwanda",
@@ -9420,7 +9720,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00628",
+   "id": "general-knowledge-00648",
    "q": "Which is the highest denomination banknote currently in circulation in India?",
    "o": [
     "Manila",
@@ -9435,7 +9735,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00629",
+   "id": "general-knowledge-00649",
    "q": "Which scheme was launched for street vendors during the pandemic?",
    "o": [
     "Vulture Conservation Action Plan",
@@ -9450,7 +9750,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00630",
+   "id": "general-knowledge-00650",
    "q": "What is the capital of Nicaragua?",
    "o": [
     "Minsk",
@@ -9465,7 +9765,7 @@
    "e": "The capital of Nicaragua is Managua."
   },
   {
-   "id": "general-knowledge-00631",
+   "id": "general-knowledge-00651",
    "q": "On which date is International Jazz Day observed?",
    "o": [
     "18 December",
@@ -9480,7 +9780,7 @@
    "e": "International Jazz Day is observed on 30 April."
   },
   {
-   "id": "general-knowledge-00632",
+   "id": "general-knowledge-00652",
    "q": "Where is the headquarters of International Atomic Energy Agency?",
    "o": [
     "Geneva",
@@ -9495,7 +9795,7 @@
    "e": "International Atomic Energy Agency is headquartered at Vienna."
   },
   {
-   "id": "general-knowledge-00633",
+   "id": "general-knowledge-00653",
    "q": "Which of the following pairs of sport and number of players is correctly matched?",
    "o": [
     "Hockey - 11",
@@ -9510,7 +9810,7 @@
    "e": "Only Hockey - 11 is correctly matched."
   },
   {
-   "id": "general-knowledge-00634",
+   "id": "general-knowledge-00654",
    "q": "Which trophy or cup is associated with Tennis?",
    "o": [
     "Khelo India Games",
@@ -9525,7 +9825,7 @@
    "e": "Australian Open is associated with Tennis."
   },
   {
-   "id": "general-knowledge-00635",
+   "id": "general-knowledge-00655",
    "q": "Which award is described as: Literary award for Indian languages?",
    "o": [
     "Sahitya Akademi Award",
@@ -9540,7 +9840,7 @@
    "e": "Literary award for Indian languages describes Sahitya Akademi Award."
   },
   {
-   "id": "general-knowledge-00636",
+   "id": "general-knowledge-00656",
    "q": "Which of the following books was written by Sarojini Naidu?",
    "o": [
     "The Divine Comedy",
@@ -9555,7 +9855,7 @@
    "e": "Broken Wings was written by Sarojini Naidu."
   },
   {
-   "id": "general-knowledge-00637",
+   "id": "general-knowledge-00657",
    "q": "Which of the following achievements belongs to Abhinav Bindra?",
    "o": [
     "First Indian to win an individual Olympic gold",
@@ -9570,7 +9870,7 @@
    "e": "First Indian to win an individual Olympic gold belongs to Abhinav Bindra."
   },
   {
-   "id": "general-knowledge-00638",
+   "id": "general-knowledge-00658",
    "q": "Which is the highest waterfall in India?",
    "o": [
     "South China Sea",
@@ -9585,7 +9885,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00639",
+   "id": "general-knowledge-00659",
    "q": "Where is the Sanchi Stupa located?",
    "o": [
     "Madhya Pradesh",
@@ -9600,7 +9900,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00640",
+   "id": "general-knowledge-00660",
    "q": "What is the gap between government expenditure and revenue called?",
    "o": [
     "101st Amendment",
@@ -9615,7 +9915,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00641",
+   "id": "general-knowledge-00661",
    "q": "Which scheme provides a subsidy on cooking gas cylinders?",
    "o": [
     "North East Special Infrastructure Development Scheme",
@@ -9630,7 +9930,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00642",
+   "id": "general-knowledge-00662",
    "q": "What is the capital of Moldova?",
    "o": [
     "Astana",
@@ -9645,7 +9945,7 @@
    "e": "The capital of Moldova is Chisinau."
   },
   {
-   "id": "general-knowledge-00643",
+   "id": "general-knowledge-00663",
    "q": "On which date is National Sports Day (India) observed?",
    "o": [
     "24 January",
@@ -9660,7 +9960,7 @@
    "e": "National Sports Day (India) is observed on 29 August."
   },
   {
-   "id": "general-knowledge-00644",
+   "id": "general-knowledge-00664",
    "q": "Where is the headquarters of United Nations Environment Programme?",
    "o": [
     "Bern",
@@ -9675,7 +9975,7 @@
    "e": "United Nations Environment Programme is headquartered at Nairobi."
   },
   {
-   "id": "general-knowledge-00645",
+   "id": "general-knowledge-00665",
    "q": "Which of the following pairs of sport and number of players is correctly matched?",
    "o": [
     "Netball - 1",
@@ -9690,7 +9990,7 @@
    "e": "Only Netball - 7 is correctly matched."
   },
   {
-   "id": "general-knowledge-00646",
+   "id": "general-knowledge-00666",
    "q": "Which trophy or cup is associated with Hockey?",
    "o": [
     "Merdeka Cup",
@@ -9705,7 +10005,7 @@
    "e": "Azlan Shah Trophy is associated with Hockey."
   },
   {
-   "id": "general-knowledge-00647",
+   "id": "general-knowledge-00667",
    "q": "Which award is described as: American award for journalism and letters?",
    "o": [
     "Pulitzer Prize",
@@ -9720,7 +10020,7 @@
    "e": "American award for journalism and letters describes Pulitzer Prize."
   },
   {
-   "id": "general-knowledge-00648",
+   "id": "general-knowledge-00668",
    "q": "Which of the following books was written by Paramahansa Yogananda?",
    "o": [
     "Gitanjali and Other Songs",
@@ -9735,7 +10035,7 @@
    "e": "Autobiography of a Yogi was written by Paramahansa Yogananda."
   },
   {
-   "id": "general-knowledge-00649",
+   "id": "general-knowledge-00669",
    "q": "Which of the following achievements belongs to Valentina Tereshkova?",
    "o": [
     "First woman to win a Nobel Prize",
@@ -9750,7 +10050,7 @@
    "e": "First woman in space belongs to Valentina Tereshkova."
   },
   {
-   "id": "general-knowledge-00650",
+   "id": "general-knowledge-00670",
    "q": "Which Indian state shares the longest border with China?",
    "o": [
     "Majuli",
@@ -9765,7 +10065,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00651",
+   "id": "general-knowledge-00671",
    "q": "Which is the deepest lake in the world?",
    "o": [
     "Switzerland",
@@ -9780,7 +10080,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00652",
+   "id": "general-knowledge-00672",
    "q": "Which body administers indirect taxes in India?",
    "o": [
     "Central Board of Indirect Taxes and Customs",
@@ -9795,7 +10095,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00653",
+   "id": "general-knowledge-00673",
    "q": "In which year did D. Gukesh become world chess champion?",
    "o": [
     "Udhampur-Srinagar-Baramulla Rail Link",
@@ -9810,7 +10110,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00654",
+   "id": "general-knowledge-00674",
    "q": "What is the capital of Georgia?",
    "o": [
     "Washington, D.C.",
@@ -9825,7 +10125,7 @@
    "e": "The capital of Georgia is Tbilisi."
   },
   {
-   "id": "general-knowledge-00655",
+   "id": "general-knowledge-00675",
    "q": "On which date is World Statistics Day observed?",
    "o": [
     "28 July",
@@ -9840,7 +10140,7 @@
    "e": "World Statistics Day is observed on 20 October."
   },
   {
-   "id": "general-knowledge-00656",
+   "id": "general-knowledge-00676",
    "q": "Which of the following organisations has its headquarters at Bengaluru?",
    "o": [
     "SAARC",
@@ -9855,7 +10155,7 @@
    "e": "Indian Space Research Organisation is headquartered at Bengaluru."
   },
   {
-   "id": "general-knowledge-00657",
+   "id": "general-knowledge-00677",
    "q": "Which of the following pairs of sport and number of players is correctly matched?",
    "o": [
     "Netball - 7",
@@ -9870,7 +10170,7 @@
    "e": "Only Netball - 7 is correctly matched."
   },
   {
-   "id": "general-knowledge-00658",
+   "id": "general-knowledge-00678",
    "q": "Which trophy or cup is associated with Tennis?",
    "o": [
     "Syed Mushtaq Ali Trophy",
@@ -9885,7 +10185,7 @@
    "e": "Grand Slam (Tennis) is associated with Tennis."
   },
   {
-   "id": "general-knowledge-00659",
+   "id": "general-knowledge-00679",
    "q": "Which award is described as: Indian award for peace, disarmament and development?",
    "o": [
     "Infosys Prize",
@@ -9900,7 +10200,7 @@
    "e": "Indian award for peace, disarmament and development describes Indira Gandhi Prize."
   },
   {
-   "id": "general-knowledge-00660",
+   "id": "general-knowledge-00680",
    "q": "Which of the following books was written by Karl Marx and Friedrich Engels?",
    "o": [
     "The Communist Manifesto",
@@ -9915,7 +10215,7 @@
    "e": "The Communist Manifesto was written by Karl Marx and Friedrich Engels."
   },
   {
-   "id": "general-knowledge-00661",
+   "id": "general-knowledge-00681",
    "q": "Which of the following achievements belongs to Yuri Gagarin?",
    "o": [
     "First Winter Olympic Games were held in",
@@ -9930,7 +10230,7 @@
    "e": "First human in space belongs to Yuri Gagarin."
   },
   {
-   "id": "general-knowledge-00662",
+   "id": "general-knowledge-00682",
    "q": "Which is the largest delta in the world?",
    "o": [
     "Australia",
@@ -9945,7 +10245,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00663",
+   "id": "general-knowledge-00683",
    "q": "Which is the largest sea in the world?",
    "o": [
     "Dead Sea",
@@ -9960,7 +10260,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00664",
+   "id": "general-knowledge-00684",
    "q": "Which curve depicts income distribution?",
    "o": [
     "Disinvestment",
@@ -9975,7 +10275,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00665",
+   "id": "general-knowledge-00685",
    "q": "Which Indian state performs best on the Multidimensional Poverty Index?",
    "o": [
     "Kerala",
@@ -9990,7 +10290,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00666",
+   "id": "general-knowledge-00686",
    "q": "What is the capital of Qatar?",
    "o": [
     "Djibouti",
@@ -10005,7 +10305,7 @@
    "e": "The capital of Qatar is Doha."
   },
   {
-   "id": "general-knowledge-00667",
+   "id": "general-knowledge-00687",
    "q": "On which date is International Day of the Girl Child observed?",
    "o": [
     "2 February",
@@ -10020,7 +10320,7 @@
    "e": "International Day of the Girl Child is observed on 11 October."
   },
   {
-   "id": "general-knowledge-00668",
+   "id": "general-knowledge-00688",
    "q": "Which of the following organisations has its headquarters at Geneva?",
    "o": [
     "Universal Postal Union",
@@ -10035,7 +10335,7 @@
    "e": "International Labour Organization headquarters city is headquartered at Geneva."
   },
   {
-   "id": "general-knowledge-00669",
+   "id": "general-knowledge-00689",
    "q": "Which of the following pairs of sport and number of players is correctly matched?",
    "o": [
     "Throwball - 6",
@@ -10050,7 +10350,7 @@
    "e": "Only Throwball - 7 is correctly matched."
   },
   {
-   "id": "general-knowledge-00670",
+   "id": "general-knowledge-00690",
    "q": "Which trophy or cup is associated with Football?",
    "o": [
     "Subroto Cup",
@@ -10065,7 +10365,7 @@
    "e": "Rovers Cup is associated with Football."
   },
   {
-   "id": "general-knowledge-00671",
+   "id": "general-knowledge-00691",
    "q": "Which award is described as: Asian award for public service?",
    "o": [
     "Dronacharya Award",
@@ -10080,7 +10380,7 @@
    "e": "Asian award for public service describes Ramon Magsaysay Award."
   },
   {
-   "id": "general-knowledge-00672",
+   "id": "general-knowledge-00692",
    "q": "Which of the following books was written by Jonathan Swift?",
    "o": [
     "Gitanjali (Song Offerings)",
@@ -10095,7 +10395,7 @@
    "e": "Gulliver's Travels was written by Jonathan Swift."
   },
   {
-   "id": "general-knowledge-00673",
+   "id": "general-knowledge-00693",
    "q": "Which of the following achievements belongs to Uruguay?",
    "o": [
     "First country to land a man on the Moon",
@@ -10110,7 +10410,7 @@
    "e": "First FIFA World Cup was held in belongs to Uruguay."
   },
   {
-   "id": "general-knowledge-00674",
+   "id": "general-knowledge-00694",
    "q": "Which country is called the Playground of Europe?",
    "o": [
     "Arunachal Pradesh",
@@ -10125,7 +10425,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00675",
+   "id": "general-knowledge-00695",
    "q": "What is the imaginary line at 23.5 degrees north called?",
    "o": [
     "Dead Sea",
@@ -10140,7 +10440,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00676",
+   "id": "general-knowledge-00696",
    "q": "Where is the headquarters of the World Bank?",
    "o": [
     "Fiscal federalism",
@@ -10155,7 +10455,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00677",
+   "id": "general-knowledge-00697",
    "q": "Which Indian observatory detected the first X-ray polarisation from a black hole?",
    "o": [
     "2014",
@@ -10170,7 +10470,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00678",
+   "id": "general-knowledge-00698",
    "q": "What is the capital of Turkey?",
    "o": [
     "Kingston",
@@ -10185,7 +10485,7 @@
    "e": "The capital of Turkey is Ankara."
   },
   {
-   "id": "general-knowledge-00679",
+   "id": "general-knowledge-00699",
    "q": "On which date is World Hindi Day observed?",
    "o": [
     "10 January",
@@ -10200,7 +10500,7 @@
    "e": "World Hindi Day is observed on 10 January."
   },
   {
-   "id": "general-knowledge-00680",
+   "id": "general-knowledge-00700",
    "q": "Which of the following organisations has its headquarters at Basel?",
    "o": [
     "Shanghai Cooperation Organisation",
@@ -10215,7 +10515,7 @@
    "e": "Bank for International Settlements is headquartered at Basel."
   },
   {
-   "id": "general-knowledge-00681",
+   "id": "general-knowledge-00701",
    "q": "Which of the following pairs of sport and number of players is correctly matched?",
    "o": [
     "Throwball - 11",
@@ -10230,7 +10530,7 @@
    "e": "Only Throwball - 7 is correctly matched."
   },
   {
-   "id": "general-knowledge-00682",
+   "id": "general-knowledge-00702",
    "q": "Which trophy or cup is associated with Hockey?",
    "o": [
     "World Test Championship",
@@ -10245,7 +10545,7 @@
    "e": "FIH Hockey World Cup is associated with Hockey."
   },
   {
-   "id": "general-knowledge-00683",
+   "id": "general-knowledge-00703",
    "q": "Which award is described as: Alternative Nobel Prize?",
    "o": [
     "Shanti Swarup Bhatnagar Prize",
@@ -10260,7 +10560,7 @@
    "e": "Alternative Nobel Prize describes Right Livelihood Award."
   },
   {
-   "id": "general-knowledge-00684",
+   "id": "general-knowledge-00704",
    "q": "Which of the following books was written by William Shakespeare?",
    "o": [
     "Romeo and Juliet",
@@ -10275,7 +10575,7 @@
    "e": "Romeo and Juliet was written by William Shakespeare."
   },
   {
-   "id": "general-knowledge-00685",
+   "id": "general-knowledge-00705",
    "q": "Which of the following achievements belongs to Amelia Earhart?",
    "o": [
     "First woman to win an Olympic gold in wrestling for India",
@@ -10290,7 +10590,7 @@
    "e": "First woman to fly solo across the Atlantic belongs to Amelia Earhart."
   },
   {
-   "id": "general-knowledge-00686",
+   "id": "general-knowledge-00706",
    "q": "Which is the smallest continent by area?",
    "o": [
     "Surat",
@@ -10305,7 +10605,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00687",
+   "id": "general-knowledge-00707",
    "q": "Which country has the largest number of volcanoes?",
    "o": [
     "Mussoorie",
@@ -10320,7 +10620,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00688",
+   "id": "general-knowledge-00708",
    "q": "What is money taken from the Consolidated Fund of India for unforeseen expenditure called?",
    "o": [
     "Fiscal deficit",
@@ -10335,7 +10635,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00689",
+   "id": "general-knowledge-00709",
    "q": "Which scheme provides cash transfer support to pregnant women?",
    "o": [
     "United Nations Sustainable Development Solutions Network",
@@ -10350,7 +10650,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00690",
+   "id": "general-knowledge-00710",
    "q": "What is the capital of South Africa?",
    "o": [
     "Vientiane",
@@ -10365,7 +10665,7 @@
    "e": "The capital of South Africa is Pretoria."
   },
   {
-   "id": "general-knowledge-00691",
+   "id": "general-knowledge-00711",
    "q": "On which date is World Water Day observed?",
    "o": [
     "11 October",
@@ -10380,7 +10680,7 @@
    "e": "World Water Day is observed on 22 March."
   },
   {
-   "id": "general-knowledge-00692",
+   "id": "general-knowledge-00712",
    "q": "Which of the following organisations has its headquarters at Amsterdam?",
    "o": [
     "International Labour Organization",
@@ -10395,7 +10695,7 @@
    "e": "Greenpeace is headquartered at Amsterdam."
   },
   {
-   "id": "general-knowledge-00693",
+   "id": "general-knowledge-00713",
    "q": "Which of the following pairs of sport and number of players is correctly matched?",
    "o": [
     "Kho Kho - 7",
@@ -10410,7 +10710,7 @@
    "e": "Only Kho Kho - 9 is correctly matched."
   },
   {
-   "id": "general-knowledge-00694",
+   "id": "general-knowledge-00714",
    "q": "Which trophy or cup is associated with Cricket?",
    "o": [
     "Aga Khan Cup",
@@ -10425,7 +10725,7 @@
    "e": "Champions Trophy (Cricket) is associated with Cricket."
   },
   {
-   "id": "general-knowledge-00695",
+   "id": "general-knowledge-00715",
    "q": "Which award is described as: Outstanding performance in Indian sports?",
    "o": [
     "Booker Prize",
@@ -10440,7 +10740,7 @@
    "e": "Outstanding performance in Indian sports describes Arjuna Award."
   },
   {
-   "id": "general-knowledge-00696",
+   "id": "general-knowledge-00716",
    "q": "Which of the following books was written by Plato?",
    "o": [
     "The Origin of Species by Means of Natural Selection",
@@ -10455,7 +10755,7 @@
    "e": "The Republic was written by Plato."
   },
   {
-   "id": "general-knowledge-00697",
+   "id": "general-knowledge-00717",
    "q": "Which of the following pairs of achievement and person is correctly matched?",
    "o": [
     "First woman to climb Mount Everest - Roger Bannister",
@@ -10470,7 +10770,7 @@
    "e": "Only First woman to climb Mount Everest - Junko Tabei is correctly matched."
   },
   {
-   "id": "general-knowledge-00698",
+   "id": "general-knowledge-00718",
    "q": "Which is the largest island in the world?",
    "o": [
     "Greenland",
@@ -10485,7 +10785,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00699",
+   "id": "general-knowledge-00719",
    "q": "Which country is known as the country of a thousand hills?",
    "o": [
     "Saudi Arabia",
@@ -10500,7 +10800,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00700",
+   "id": "general-knowledge-00720",
    "q": "Who was the first Indian Governor of the Reserve Bank of India?",
    "o": [
     "Goods and Services Tax",
@@ -10515,7 +10815,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00701",
+   "id": "general-knowledge-00721",
    "q": "Which scheme aims to provide credit to street vendors?",
    "o": [
     "Mirabai Chanu",
@@ -10530,7 +10830,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00702",
+   "id": "general-knowledge-00722",
    "q": "What is the capital of Mexico?",
    "o": [
     "Ottawa",
@@ -10545,7 +10845,7 @@
    "e": "The capital of Mexico is Mexico City."
   },
   {
-   "id": "general-knowledge-00703",
+   "id": "general-knowledge-00723",
    "q": "On which date is World Health Day observed?",
    "o": [
     "11 May",
@@ -10560,7 +10860,7 @@
    "e": "World Health Day is observed on 7 April."
   },
   {
-   "id": "general-knowledge-00704",
+   "id": "general-knowledge-00724",
    "q": "Which of the following organisations has its headquarters at Rome?",
    "o": [
     "World Food Programme",
@@ -10575,7 +10875,7 @@
    "e": "International Fund for Agricultural Development is headquartered at Rome."
   },
   {
-   "id": "general-knowledge-00705",
+   "id": "general-knowledge-00725",
    "q": "Which of the following pairs of sport and number of players is correctly matched?",
    "o": [
     "Kho Kho - 9",
@@ -10590,7 +10890,7 @@
    "e": "Only Kho Kho - 9 is correctly matched."
   },
   {
-   "id": "general-knowledge-00706",
+   "id": "general-knowledge-00726",
    "q": "Which trophy or cup is associated with Cricket?",
    "o": [
     "Asia Cup",
@@ -10605,7 +10905,7 @@
    "e": "Asia Cup is associated with Cricket."
   },
   {
-   "id": "general-knowledge-00707",
+   "id": "general-knowledge-00727",
    "q": "Which award is described as: British award for fiction?",
    "o": [
     "Booker Prize",
@@ -10620,7 +10920,7 @@
    "e": "British award for fiction describes Booker Prize."
   },
   {
-   "id": "general-knowledge-00708",
+   "id": "general-knowledge-00728",
    "q": "Which of the following books was written by Munshi Premchand?",
    "o": [
     "Gaban",
@@ -10635,7 +10935,7 @@
    "e": "Gaban was written by Munshi Premchand."
   },
   {
-   "id": "general-knowledge-00709",
+   "id": "general-knowledge-00729",
    "q": "Which of the following pairs of achievement and person is correctly matched?",
    "o": [
     "First woman to climb Mount Everest - Soviet Union",
@@ -10650,7 +10950,7 @@
    "e": "Only First woman to climb Mount Everest - Junko Tabei is correctly matched."
   },
   {
-   "id": "general-knowledge-00710",
+   "id": "general-knowledge-00730",
    "q": "Which Indian city is called the Manchester of India?",
    "o": [
     "Ahmedabad",
@@ -10665,7 +10965,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00711",
+   "id": "general-knowledge-00731",
    "q": "Which Indian city is called the Pink City?",
    "o": [
     "Mongolia",
@@ -10680,7 +10980,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00712",
+   "id": "general-knowledge-00732",
    "q": "What is the minimum percentage of deposits banks must keep with the RBI?",
    "o": [
     "Bank of England",
@@ -10695,7 +10995,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00713",
+   "id": "general-knowledge-00733",
    "q": "In which year was the Pradhan Mantri Ujjwala Yojana launched?",
    "o": [
     "COP26",
@@ -10710,7 +11010,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00714",
+   "id": "general-knowledge-00734",
    "q": "What is the capital of Russia?",
    "o": [
     "Minsk",
@@ -10725,7 +11025,7 @@
    "e": "The capital of Russia is Moscow."
   },
   {
-   "id": "general-knowledge-00715",
+   "id": "general-knowledge-00735",
    "q": "On which date is International Women's Day observed?",
    "o": [
     "second Saturday of September",
@@ -10740,7 +11040,7 @@
    "e": "International Women's Day is observed on 8 March."
   },
   {
-   "id": "general-knowledge-00716",
+   "id": "general-knowledge-00736",
    "q": "Which of the following organisations has its headquarters at Montreal?",
    "o": [
     "Greenpeace",
@@ -10755,7 +11055,7 @@
    "e": "International Civil Aviation Organization is headquartered at Montreal."
   },
   {
-   "id": "general-knowledge-00717",
+   "id": "general-knowledge-00737",
    "q": "Which trophy or cup is associated with Football?",
    "o": [
     "UEFA Champions League",
@@ -10770,7 +11070,7 @@
    "e": "UEFA Champions League is associated with Football."
   },
   {
-   "id": "general-knowledge-00718",
+   "id": "general-knowledge-00738",
    "q": "Which award is described as: International award for Physics, Chemistry, Medicine, Literature, Peace and Economics?",
    "o": [
     "Pulitzer Prize",
@@ -10785,7 +11085,7 @@
    "e": "International award for Physics, Chemistry, Medicine, Literature, Peace and Economics describes Nobel Prize."
   },
   {
-   "id": "general-knowledge-00719",
+   "id": "general-knowledge-00739",
    "q": "Which of the following books was written by Jawaharlal Nehru?",
    "o": [
     "Godaan",
@@ -10800,7 +11100,7 @@
    "e": "An Autobiography (Toward Freedom) was written by Jawaharlal Nehru."
   },
   {
-   "id": "general-knowledge-00720",
+   "id": "general-knowledge-00740",
    "q": "Which of the following pairs of achievement and person is correctly matched?",
    "o": [
     "First country to launch a satellite - Soviet Union",
@@ -10815,7 +11115,7 @@
    "e": "Only First country to launch a satellite - Soviet Union is correctly matched."
   },
   {
-   "id": "general-knowledge-00721",
+   "id": "general-knowledge-00741",
    "q": "Which strait separates India from Sri Lanka?",
    "o": [
     "Lucknow",
@@ -10830,7 +11130,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00722",
+   "id": "general-knowledge-00742",
    "q": "Which lake in India is famous for its floating islands?",
    "o": [
     "Loktak Lake",
@@ -10845,7 +11145,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00723",
+   "id": "general-knowledge-00743",
    "q": "Which is the currency of the United States of America?",
    "o": [
     "US Dollar",
@@ -10860,7 +11160,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00724",
+   "id": "general-knowledge-00744",
    "q": "Which programme aims to link rivers in India?",
    "o": [
     "National River Linking Project",
@@ -10875,7 +11175,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00725",
+   "id": "general-knowledge-00745",
    "q": "What is the capital of Namibia?",
    "o": [
     "Windhoek",
@@ -10890,7 +11190,7 @@
    "e": "The capital of Namibia is Windhoek."
   },
   {
-   "id": "general-knowledge-00726",
+   "id": "general-knowledge-00746",
    "q": "On which date is International Nurses Day observed?",
    "o": [
     "14 November",
@@ -10905,7 +11205,7 @@
    "e": "International Nurses Day is observed on 12 May."
   },
   {
-   "id": "general-knowledge-00727",
+   "id": "general-knowledge-00747",
    "q": "Which of the following organisations has its headquarters at Dubai?",
    "o": [
     "Commonwealth of Nations",
@@ -10920,7 +11220,7 @@
    "e": "International Cricket Council is headquartered at Dubai."
   },
   {
-   "id": "general-knowledge-00728",
+   "id": "general-knowledge-00748",
    "q": "Which of the following pairs of sport and number of players is correctly matched?",
    "o": [
     "Basketball - 5",
@@ -10935,7 +11235,7 @@
    "e": "Only Basketball - 5 is correctly matched."
   },
   {
-   "id": "general-knowledge-00729",
+   "id": "general-knowledge-00749",
    "q": "Which trophy or cup is associated with Cricket?",
    "o": [
     "Durand Cup",
@@ -10950,7 +11250,7 @@
    "e": "The Ashes is associated with Cricket."
   },
   {
-   "id": "general-knowledge-00730",
+   "id": "general-knowledge-00750",
    "q": "Which award is described as: Fourth highest civilian award of India?",
    "o": [
     "Kirti Chakra",
@@ -10965,7 +11265,7 @@
    "e": "Fourth highest civilian award of India describes Padma Shri."
   },
   {
-   "id": "general-knowledge-00731",
+   "id": "general-knowledge-00751",
    "q": "Which of the following books was written by Charles Dickens?",
    "o": [
     "David Copperfield",
@@ -10980,7 +11280,7 @@
    "e": "David Copperfield was written by Charles Dickens."
   },
   {
-   "id": "general-knowledge-00732",
+   "id": "general-knowledge-00752",
    "q": "Which of the following pairs of achievement and person is correctly matched?",
    "o": [
     "First country to launch a satellite - Chamonix",
@@ -10995,7 +11295,7 @@
    "e": "Only First country to launch a satellite - Soviet Union is correctly matched."
   },
   {
-   "id": "general-knowledge-00733",
+   "id": "general-knowledge-00753",
    "q": "Which is the longest river in Asia?",
    "o": [
     "La Paz",
@@ -11010,7 +11310,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00734",
+   "id": "general-knowledge-00754",
    "q": "Which country is the largest producer of coffee?",
    "o": [
     "Brazil",
@@ -11025,7 +11325,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00735",
+   "id": "general-knowledge-00755",
    "q": "Which revolution is associated with egg and poultry production?",
    "o": [
     "Mumbai",
@@ -11040,7 +11340,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00736",
+   "id": "general-knowledge-00756",
    "q": "Which portal was used for COVID-19 vaccination registration in India?",
    "o": [
     "Beti Bachao Beti Padhao",
@@ -11055,7 +11355,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00737",
+   "id": "general-knowledge-00757",
    "q": "What is the capital of Djibouti?",
    "o": [
     "Sarajevo",
@@ -11070,7 +11370,7 @@
    "e": "The capital of Djibouti is Djibouti."
   },
   {
-   "id": "general-knowledge-00738",
+   "id": "general-knowledge-00758",
    "q": "On which date is International Labour Day observed?",
    "o": [
     "1 May",
@@ -11085,7 +11385,7 @@
    "e": "International Labour Day is observed on 1 May."
   },
   {
-   "id": "general-knowledge-00739",
+   "id": "general-knowledge-00759",
    "q": "Which of the following organisations has its headquarters at Manila?",
    "o": [
     "UN High Commissioner for Refugees",
@@ -11100,7 +11400,7 @@
    "e": "Asian Development Bank is headquartered at Manila."
   },
   {
-   "id": "general-knowledge-00740",
+   "id": "general-knowledge-00760",
    "q": "Which of the following pairs of sport and number of players is correctly matched?",
    "o": [
     "Handball - 6",
@@ -11115,7 +11415,7 @@
    "e": "Only Handball - 7 is correctly matched."
   },
   {
-   "id": "general-knowledge-00741",
+   "id": "general-knowledge-00761",
    "q": "Which trophy or cup is associated with Table Tennis?",
    "o": [
     "FIH Hockey World Cup",
@@ -11130,7 +11430,7 @@
    "e": "Swaythling Cup is associated with Table Tennis."
   },
   {
-   "id": "general-knowledge-00742",
+   "id": "general-knowledge-00762",
    "q": "Which award is described as: Second highest peacetime gallantry award of India?",
    "o": [
     "National Film Award",
@@ -11145,7 +11445,7 @@
    "e": "Second highest peacetime gallantry award of India describes Kirti Chakra."
   },
   {
-   "id": "general-knowledge-00743",
+   "id": "general-knowledge-00763",
    "q": "Which of the following books was written by Rabindranath Tagore?",
    "o": [
     "Mother",
@@ -11160,7 +11460,7 @@
    "e": "Gitanjali: Rabindranath Tagore's Nobel work was written by Rabindranath Tagore."
   },
   {
-   "id": "general-knowledge-00744",
+   "id": "general-knowledge-00764",
    "q": "Which of the following pairs of achievement and person is correctly matched?",
    "o": [
     "First FIFA World Cup was held in - Karnam Malleswari",
@@ -11175,7 +11475,7 @@
    "e": "Only First FIFA World Cup was held in - Uruguay is correctly matched."
   },
   {
-   "id": "general-knowledge-00745",
+   "id": "general-knowledge-00765",
    "q": "Which is the largest ocean?",
    "o": [
     "Australia",
@@ -11190,7 +11490,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00746",
+   "id": "general-knowledge-00766",
    "q": "Which canal is in Egypt?",
    "o": [
     "Five",
@@ -11205,7 +11505,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00747",
+   "id": "general-knowledge-00767",
    "q": "Which sector is known as the secondary sector of the economy?",
    "o": [
     "Consumer Price Index",
@@ -11220,7 +11520,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00748",
+   "id": "general-knowledge-00768",
    "q": "Which group of nations does the G20 represent?",
    "o": [
     "Major economies of the world",
@@ -11235,7 +11535,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00749",
+   "id": "general-knowledge-00769",
    "q": "What is the capital of Iceland?",
    "o": [
     "Reykjavik",
@@ -11250,7 +11550,7 @@
    "e": "The capital of Iceland is Reykjavik."
   },
   {
-   "id": "general-knowledge-00750",
+   "id": "general-knowledge-00770",
    "q": "On which date is World Tourism Day observed?",
    "o": [
     "3 March",
@@ -11265,7 +11565,7 @@
    "e": "World Tourism Day is observed on 27 September."
   },
   {
-   "id": "general-knowledge-00751",
+   "id": "general-knowledge-00771",
    "q": "Which of the following organisations has its headquarters at Cologny?",
    "o": [
     "FIFA",
@@ -11280,7 +11580,7 @@
    "e": "World Economic Forum is headquartered at Cologny."
   },
   {
-   "id": "general-knowledge-00752",
+   "id": "general-knowledge-00772",
    "q": "Which of the following pairs of sport and number of players is correctly matched?",
    "o": [
     "Handball - 15",
@@ -11295,7 +11595,7 @@
    "e": "Only Handball - 7 is correctly matched."
   },
   {
-   "id": "general-knowledge-00753",
+   "id": "general-knowledge-00773",
    "q": "Which trophy or cup is associated with Table Tennis?",
    "o": [
     "Santosh Trophy",
@@ -11310,7 +11610,7 @@
    "e": "Corbillon Cup is associated with Table Tennis."
   },
   {
-   "id": "general-knowledge-00754",
+   "id": "general-knowledge-00774",
    "q": "Which award is described as: Second highest military decoration of India?",
    "o": [
     "Indira Gandhi Prize",
@@ -11325,7 +11625,7 @@
    "e": "Second highest military decoration of India describes Maha Vir Chakra."
   },
   {
-   "id": "general-knowledge-00755",
+   "id": "general-knowledge-00775",
    "q": "Which of the following books was written by Dante Alighieri?",
    "o": [
     "My Experiments with Truth",
@@ -11340,7 +11640,7 @@
    "e": "The Divine Comedy was written by Dante Alighieri."
   },
   {
-   "id": "general-knowledge-00756",
+   "id": "general-knowledge-00776",
    "q": "Which of the following pairs of achievement and person is correctly matched?",
    "o": [
     "First FIFA World Cup was held in - England",
@@ -11355,7 +11655,7 @@
    "e": "Only First FIFA World Cup was held in - Uruguay is correctly matched."
   },
   {
-   "id": "general-knowledge-00757",
+   "id": "general-knowledge-00777",
    "q": "Which is the highest plateau in the world?",
    "o": [
     "Mount Kilimanjaro",
@@ -11370,7 +11670,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00758",
+   "id": "general-knowledge-00778",
    "q": "Which is the highest peak of the Western Ghats?",
    "o": [
     "Uttar Pradesh",
@@ -11385,7 +11685,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00759",
+   "id": "general-knowledge-00779",
    "q": "Which scheme provides a pension to unorganised sector workers in India?",
    "o": [
     "Oligopoly",
@@ -11400,7 +11700,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00760",
+   "id": "general-knowledge-00780",
    "q": "Who was awarded the Bharat Ratna posthumously in 2024 along with others?",
    "o": [
     "Karpoori Thakur",
@@ -11415,7 +11715,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00761",
+   "id": "general-knowledge-00781",
    "q": "What is the capital of Bhutan?",
    "o": [
     "Thimphu",
@@ -11430,7 +11730,7 @@
    "e": "The capital of Bhutan is Thimphu."
   },
   {
-   "id": "general-knowledge-00762",
+   "id": "general-knowledge-00782",
    "q": "On which date is International Day of Democracy observed?",
    "o": [
     "28 July",
@@ -11445,7 +11745,7 @@
    "e": "International Day of Democracy is observed on 15 September."
   },
   {
-   "id": "general-knowledge-00763",
+   "id": "general-knowledge-00783",
    "q": "Which of the following organisations has its headquarters at London?",
    "o": [
     "Commonwealth of Nations",
@@ -11460,7 +11760,7 @@
    "e": "International Maritime Organization is headquartered at London."
   },
   {
-   "id": "general-knowledge-00764",
+   "id": "general-knowledge-00784",
    "q": "Which of the following pairs of sport and number of players is correctly matched?",
    "o": [
     "Polo - 9",
@@ -11475,7 +11775,7 @@
    "e": "Only Polo - 4 is correctly matched."
   },
   {
-   "id": "general-knowledge-00765",
+   "id": "general-knowledge-00785",
    "q": "Which trophy or cup is associated with Cricket?",
    "o": [
     "Australian Open",
@@ -11490,7 +11790,7 @@
    "e": "Ranji Trophy is associated with Cricket."
   },
   {
-   "id": "general-knowledge-00766",
+   "id": "general-knowledge-00786",
    "q": "Which award is described as: Lifetime achievement in Indian sports?",
    "o": [
     "Dhyan Chand Award",
@@ -11505,7 +11805,7 @@
    "e": "Lifetime achievement in Indian sports describes Dhyan Chand Award."
   },
   {
-   "id": "general-knowledge-00767",
+   "id": "general-knowledge-00787",
    "q": "Which of the following books was written by Phanishwar Nath Renu?",
    "o": [
     "An Autobiography (Toward Freedom)",
@@ -11520,7 +11820,7 @@
    "e": "Maila Anchal was written by Phanishwar Nath Renu."
   },
   {
-   "id": "general-knowledge-00768",
+   "id": "general-knowledge-00788",
    "q": "Which of the following pairs of achievement and person is correctly matched?",
    "o": [
     "First person to reach the South Pole - Karnam Malleswari",
@@ -11535,7 +11835,7 @@
    "e": "Only First person to reach the South Pole - Roald Amundsen is correctly matched."
   },
   {
-   "id": "general-knowledge-00769",
+   "id": "general-knowledge-00789",
    "q": "Which country is called the Sugar Bowl of the World?",
    "o": [
     "Cuba",
@@ -11550,7 +11850,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00770",
+   "id": "general-knowledge-00790",
    "q": "Where is the Qutub Minar located?",
    "o": [
     "Amazon",
@@ -11565,7 +11865,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00771",
+   "id": "general-knowledge-00791",
    "q": "How many main tax slabs are there in the Indian GST structure?",
    "o": [
     "Mumbai",
@@ -11580,7 +11880,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00772",
+   "id": "general-knowledge-00792",
    "q": "Which Indian city hosted the 2023 G20 finance track meetings?",
    "o": [
     "Sukanya Samriddhi Yojana",
@@ -11595,7 +11895,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00773",
+   "id": "general-knowledge-00793",
    "q": "What is the capital of Rwanda?",
    "o": [
     "Wellington",
@@ -11610,7 +11910,7 @@
    "e": "The capital of Rwanda is Kigali."
   },
   {
-   "id": "general-knowledge-00774",
+   "id": "general-knowledge-00794",
    "q": "On which date is World Computer Literacy Day observed?",
    "o": [
     "9 October",
@@ -11625,7 +11925,7 @@
    "e": "World Computer Literacy Day is observed on 2 December."
   },
   {
-   "id": "general-knowledge-00775",
+   "id": "general-knowledge-00795",
    "q": "Which of the following organisations has its headquarters at Rome?",
    "o": [
     "Indian Space Research Organisation",
@@ -11640,7 +11940,7 @@
    "e": "World Food Programme is headquartered at Rome."
   },
   {
-   "id": "general-knowledge-00776",
+   "id": "general-knowledge-00796",
    "q": "Which of the following pairs of sport and number of players is correctly matched?",
    "o": [
     "Polo - 4",
@@ -11655,7 +11955,7 @@
    "e": "Only Polo - 4 is correctly matched."
   },
   {
-   "id": "general-knowledge-00777",
+   "id": "general-knowledge-00797",
    "q": "Which trophy or cup is associated with Cricket?",
    "o": [
     "Duleep Trophy",
@@ -11670,7 +11970,7 @@
    "e": "World Test Championship is associated with Cricket."
   },
   {
-   "id": "general-knowledge-00778",
+   "id": "general-knowledge-00798",
    "q": "Which award is described as: Third highest peacetime gallantry award of India?",
    "o": [
     "Shaurya Chakra",
@@ -11685,7 +11985,7 @@
    "e": "Third highest peacetime gallantry award of India describes Shaurya Chakra."
   },
   {
-   "id": "general-knowledge-00779",
+   "id": "general-knowledge-00799",
    "q": "Which of the following books was written by Sachin Tendulkar?",
    "o": [
     "Mein Kampf",
@@ -11700,7 +12000,7 @@
    "e": "Playing It My Way was written by Sachin Tendulkar."
   },
   {
-   "id": "general-knowledge-00780",
+   "id": "general-knowledge-00800",
    "q": "Which of the following pairs of achievement and person is correctly matched?",
    "o": [
     "First person to reach the South Pole - Roald Amundsen",
@@ -11715,7 +12015,7 @@
    "e": "Only First person to reach the South Pole - Roald Amundsen is correctly matched."
   },
   {
-   "id": "general-knowledge-00781",
+   "id": "general-knowledge-00801",
    "q": "Which is the westernmost state of India?",
    "o": [
     "Kanpur",
@@ -11730,7 +12030,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00782",
+   "id": "general-knowledge-00802",
    "q": "Which port is known as the Queen of the Arabian Sea?",
    "o": [
     "Tibetan Plateau",
@@ -11745,7 +12045,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00783",
+   "id": "general-knowledge-00803",
    "q": "Which is the currency of the United Kingdom?",
    "o": [
     "RBI Act, 1934",
@@ -11760,7 +12060,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00784",
+   "id": "general-knowledge-00804",
    "q": "Which is the highest civilian award given recently to sports personalities?",
    "o": [
     "Mumbai",
@@ -11775,7 +12075,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00785",
+   "id": "general-knowledge-00805",
    "q": "What is the capital of Chad?",
    "o": [
     "Rabat",
@@ -11790,7 +12090,7 @@
    "e": "The capital of Chad is N'Djamena."
   },
   {
-   "id": "general-knowledge-00786",
+   "id": "general-knowledge-00806",
    "q": "On which date is World AIDS Day observed?",
    "o": [
     "1 December",
@@ -11805,7 +12105,7 @@
    "e": "World AIDS Day is observed on 1 December."
   },
   {
-   "id": "general-knowledge-00787",
+   "id": "general-knowledge-00807",
    "q": "Which of the following organisations has its headquarters at Washington, D.C.?",
    "o": [
     "World Intellectual Property Organization",
@@ -11820,7 +12120,7 @@
    "e": "World Bank is headquartered at Washington, D.C.."
   },
   {
-   "id": "general-knowledge-00788",
+   "id": "general-knowledge-00808",
    "q": "Which of the following pairs of sport and number of players is correctly matched?",
    "o": [
     "Volleyball - 11",
@@ -11835,7 +12135,7 @@
    "e": "Only Volleyball - 6 is correctly matched."
   },
   {
-   "id": "general-knowledge-00789",
+   "id": "general-knowledge-00809",
    "q": "Which trophy or cup is associated with Tennis?",
    "o": [
     "Nehru Cup",
@@ -11850,7 +12150,7 @@
    "e": "US Open is associated with Tennis."
   },
   {
-   "id": "general-knowledge-00790",
+   "id": "general-knowledge-00810",
    "q": "Which award is described as: Indian literary award?",
    "o": [
     "Jnanpith Award",
@@ -11865,7 +12165,7 @@
    "e": "Indian literary award describes Vyas Samman."
   },
   {
-   "id": "general-knowledge-00791",
+   "id": "general-knowledge-00811",
    "q": "Which of the following books was written by Ved Vyasa?",
    "o": [
     "Unbreakable",
@@ -11880,7 +12180,7 @@
    "e": "Mahabharata was written by Ved Vyasa."
   },
   {
-   "id": "general-knowledge-00792",
+   "id": "general-knowledge-00812",
    "q": "Which of the following pairs of achievement and person is correctly matched?",
    "o": [
     "First Indian to win a Nobel Prize - Rabindranath Tagore",
@@ -11895,7 +12195,7 @@
    "e": "Only First Indian to win a Nobel Prize - Rabindranath Tagore is correctly matched."
   },
   {
-   "id": "general-knowledge-00793",
+   "id": "general-knowledge-00813",
    "q": "Which pass connects India with Tibet near Sikkim?",
    "o": [
     "Andes",
@@ -11910,7 +12210,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00794",
+   "id": "general-knowledge-00814",
    "q": "Which country is the largest producer of pulses?",
    "o": [
     "India",
@@ -11925,7 +12225,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00795",
+   "id": "general-knowledge-00815",
    "q": "Which committee recommended the monetary policy framework in India?",
    "o": [
     "Green Revolution",
@@ -11940,7 +12240,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00796",
+   "id": "general-knowledge-00816",
    "q": "Which launch vehicle was used for Chandrayaan-3?",
    "o": [
     "LVM3",
@@ -11955,7 +12255,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00797",
+   "id": "general-knowledge-00817",
    "q": "What is the capital of Luxembourg?",
    "o": [
     "Dublin",
@@ -11970,7 +12270,7 @@
    "e": "The capital of Luxembourg is Luxembourg City."
   },
   {
-   "id": "general-knowledge-00798",
+   "id": "general-knowledge-00818",
    "q": "On which date is International Day of Education observed?",
    "o": [
     "24 January",
@@ -11985,7 +12285,7 @@
    "e": "International Day of Education is observed on 24 January."
   },
   {
-   "id": "general-knowledge-00799",
+   "id": "general-knowledge-00819",
    "q": "Which of the following organisations has its headquarters at Montreal?",
    "o": [
     "International Civil Aviation Organization",
@@ -12000,7 +12300,7 @@
    "e": "World Anti-Doping Agency is headquartered at Montreal."
   },
   {
-   "id": "general-knowledge-00800",
+   "id": "general-knowledge-00820",
    "q": "Which trophy or cup is associated with Football?",
    "o": [
     "Santosh Trophy",
@@ -12015,7 +12315,7 @@
    "e": "Santosh Trophy is associated with Football."
   },
   {
-   "id": "general-knowledge-00801",
+   "id": "general-knowledge-00821",
    "q": "Which award is described as: Indian award in agricultural science?",
    "o": [
     "Borlaug Award",
@@ -12030,7 +12330,7 @@
    "e": "Indian award in agricultural science describes Borlaug Award."
   },
   {
-   "id": "general-knowledge-00802",
+   "id": "general-knowledge-00822",
    "q": "Which of the following books was written by Homer?",
    "o": [
     "Paradise Lost",
@@ -12045,7 +12345,7 @@
    "e": "The Odyssey was written by Homer."
   },
   {
-   "id": "general-knowledge-00803",
+   "id": "general-knowledge-00823",
    "q": "Which of the following pairs of achievement and person is correctly matched?",
    "o": [
     "First Indian to win a Nobel Prize - Uruguay",
@@ -12060,7 +12360,7 @@
    "e": "Only First Indian to win a Nobel Prize - Rabindranath Tagore is correctly matched."
   },
   {
-   "id": "general-knowledge-00804",
+   "id": "general-knowledge-00824",
    "q": "Which Indian city is called the City of Temples?",
    "o": [
     "Sundarbans",
@@ -12075,7 +12375,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00805",
+   "id": "general-knowledge-00825",
    "q": "Which is the longest river in Europe?",
    "o": [
     "Italy",
@@ -12090,7 +12390,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00806",
+   "id": "general-knowledge-00826",
    "q": "Which revolution is associated with oilseeds production?",
    "o": [
     "Yellow Revolution",
@@ -12105,7 +12405,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00807",
+   "id": "general-knowledge-00827",
    "q": "Which Indian city was included in the UNESCO Creative Cities Network?",
    "o": [
     "INS Arihant",
@@ -12120,7 +12420,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00808",
+   "id": "general-knowledge-00828",
    "q": "What is the capital of Central African Republic?",
    "o": [
     "Tbilisi",
@@ -12135,7 +12435,7 @@
    "e": "The capital of Central African Republic is Bangui."
   },
   {
-   "id": "general-knowledge-00809",
+   "id": "general-knowledge-00829",
    "q": "On which date is World Post Day observed?",
    "o": [
     "15 September",
@@ -12150,7 +12450,7 @@
    "e": "World Post Day is observed on 9 October."
   },
   {
-   "id": "general-knowledge-00810",
+   "id": "general-knowledge-00830",
    "q": "Which of the following organisations has its headquarters at Kathmandu?",
    "o": [
     "International Labour Organization",
@@ -12165,7 +12465,7 @@
    "e": "SAARC is headquartered at Kathmandu."
   },
   {
-   "id": "general-knowledge-00811",
+   "id": "general-knowledge-00831",
    "q": "Which of the following pairs of sport and number of players is correctly matched?",
    "o": [
     "Football - 8",
@@ -12180,7 +12480,7 @@
    "e": "Only Football - 11 is correctly matched."
   },
   {
-   "id": "general-knowledge-00812",
+   "id": "general-knowledge-00832",
    "q": "Which trophy or cup is associated with Cricket?",
    "o": [
     "The Ashes",
@@ -12195,7 +12495,7 @@
    "e": "Duleep Trophy is associated with Cricket."
   },
   {
-   "id": "general-knowledge-00813",
+   "id": "general-knowledge-00833",
    "q": "Which award is described as: Highest literary award of India?",
    "o": [
     "National Bravery Award",
@@ -12210,7 +12510,7 @@
    "e": "Highest literary award of India describes Jnanpith Award."
   },
   {
-   "id": "general-knowledge-00814",
+   "id": "general-knowledge-00834",
    "q": "Which of the following books was written by Maulana Abul Kalam Azad?",
    "o": [
     "The Story of My Life",
@@ -12225,7 +12525,7 @@
    "e": "India Wins Freedom was written by Maulana Abul Kalam Azad."
   },
   {
-   "id": "general-knowledge-00815",
+   "id": "general-knowledge-00835",
    "q": "Which of the following pairs of achievement and person is correctly matched?",
    "o": [
     "First human in space - Yuri Gagarin",
@@ -12240,7 +12540,7 @@
    "e": "Only First human in space - Yuri Gagarin is correctly matched."
   },
   {
-   "id": "general-knowledge-00816",
+   "id": "general-knowledge-00836",
    "q": "Which strait separates Africa from Europe?",
    "o": [
     "Strait of Gibraltar",
@@ -12255,7 +12555,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00817",
+   "id": "general-knowledge-00837",
    "q": "Which strait separates Asia from North America?",
    "o": [
     "Bering Strait",
@@ -12270,7 +12570,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00818",
+   "id": "general-knowledge-00838",
    "q": "Which act governs fiscal discipline in India?",
    "o": [
     "2011-12",
@@ -12285,7 +12585,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00819",
+   "id": "general-knowledge-00839",
    "q": "Which G20 theme song was released by India?",
    "o": [
     "Vasudhaiva Kutumbakam",
@@ -12300,7 +12600,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00820",
+   "id": "general-knowledge-00840",
    "q": "What is the capital of Cameroon?",
    "o": [
     "Chisinau",
@@ -12315,7 +12615,7 @@
    "e": "The capital of Cameroon is Yaounde."
   },
   {
-   "id": "general-knowledge-00821",
+   "id": "general-knowledge-00841",
    "q": "On which date is International Mother Earth Day observed?",
    "o": [
     "20 May",
@@ -12330,7 +12630,7 @@
    "e": "International Mother Earth Day is observed on 22 April."
   },
   {
-   "id": "general-knowledge-00822",
+   "id": "general-knowledge-00842",
    "q": "Which of the following organisations has its headquarters at Paris?",
    "o": [
     "National Aeronautics and Space Administration",
@@ -12345,7 +12645,7 @@
    "e": "European Space Agency is headquartered at Paris."
   },
   {
-   "id": "general-knowledge-00823",
+   "id": "general-knowledge-00843",
    "q": "Which of the following pairs of sport and number of players is correctly matched?",
    "o": [
     "Football - 9",
@@ -12360,7 +12660,7 @@
    "e": "Only Football - 11 is correctly matched."
   },
   {
-   "id": "general-knowledge-00824",
+   "id": "general-knowledge-00844",
    "q": "Which trophy or cup is associated with Badminton?",
    "o": [
     "Durand Cup",
@@ -12375,7 +12675,7 @@
    "e": "Thomas Cup is associated with Badminton."
   },
   {
-   "id": "general-knowledge-00825",
+   "id": "general-knowledge-00845",
    "q": "Which award is described as: Indian award for social work and peace?",
    "o": [
     "Dhyan Chand Award",
@@ -12390,7 +12690,7 @@
    "e": "Indian award for social work and peace describes Gandhi Peace Prize."
   },
   {
-   "id": "general-knowledge-00826",
+   "id": "general-knowledge-00846",
    "q": "Which of the following books was written by Adam Smith?",
    "o": [
     "Maila Anchal",
@@ -12405,7 +12705,7 @@
    "e": "The Wealth of Nations was written by Adam Smith."
   },
   {
-   "id": "general-knowledge-00827",
+   "id": "general-knowledge-00847",
    "q": "Which of the following pairs of achievement and person is correctly matched?",
    "o": [
     "First human in space - Rabindranath Tagore",
@@ -12420,7 +12720,7 @@
    "e": "Only First human in space - Yuri Gagarin is correctly matched."
   },
   {
-   "id": "general-knowledge-00828",
+   "id": "general-knowledge-00848",
    "q": "Which country is known as the Land of Thunder Dragon?",
    "o": [
     "Wular Lake",
@@ -12435,7 +12735,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00829",
+   "id": "general-knowledge-00849",
    "q": "Where is the Eiffel Tower located?",
    "o": [
     "Maharashtra",
@@ -12450,7 +12750,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00830",
+   "id": "general-knowledge-00850",
    "q": "In which year was the rupee symbol adopted?",
    "o": [
     "Bank of England",
@@ -12465,7 +12765,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00831",
+   "id": "general-knowledge-00851",
    "q": "Which tiger census is conducted every four years in India?",
    "o": [
     "IndiaAI Mission",
@@ -12480,7 +12780,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00832",
+   "id": "general-knowledge-00852",
    "q": "What is the capital of Austria?",
    "o": [
     "Canberra",
@@ -12495,7 +12795,7 @@
    "e": "The capital of Austria is Vienna."
   },
   {
-   "id": "general-knowledge-00833",
+   "id": "general-knowledge-00853",
    "q": "On which date is United Nations Day observed?",
    "o": [
     "9 December",
@@ -12510,7 +12810,7 @@
    "e": "United Nations Day is observed on 24 October."
   },
   {
-   "id": "general-knowledge-00834",
+   "id": "general-knowledge-00854",
    "q": "Which of the following organisations has its headquarters at Zurich?",
    "o": [
     "ASEAN",
@@ -12525,7 +12825,7 @@
    "e": "FIFA is headquartered at Zurich."
   },
   {
-   "id": "general-knowledge-00835",
+   "id": "general-knowledge-00855",
    "q": "Which of the following pairs of sport and number of players is correctly matched?",
    "o": [
     "Rugby union - 11",
@@ -12540,7 +12840,7 @@
    "e": "Only Rugby union - 15 is correctly matched."
   },
   {
-   "id": "general-knowledge-00836",
+   "id": "general-knowledge-00856",
    "q": "Which trophy or cup is associated with Multi-sport?",
    "o": [
     "Aga Khan Cup",
@@ -12555,7 +12855,7 @@
    "e": "Khelo India Games is associated with Multi-sport."
   },
   {
-   "id": "general-knowledge-00837",
+   "id": "general-knowledge-00857",
    "q": "Which award is described as: Performing arts award of India?",
    "o": [
     "Ashoka Chakra",
@@ -12570,7 +12870,7 @@
    "e": "Performing arts award of India describes Sangeet Natak Akademi Award."
   },
   {
-   "id": "general-knowledge-00838",
+   "id": "general-knowledge-00858",
    "q": "Which of the following books was written by Leo Tolstoy?",
    "o": [
     "Unbreakable",
@@ -12585,7 +12885,7 @@
    "e": "War and Peace was written by Leo Tolstoy."
   },
   {
-   "id": "general-knowledge-00839",
+   "id": "general-knowledge-00859",
    "q": "Which of the following pairs of achievement and person is correctly matched?",
    "o": [
     "First woman in space - Edmund Hillary",
@@ -12600,7 +12900,7 @@
    "e": "Only First woman in space - Valentina Tereshkova is correctly matched."
   },
   {
-   "id": "general-knowledge-00840",
+   "id": "general-knowledge-00860",
    "q": "Which is the deepest ocean trench?",
    "o": [
     "Maharashtra",
@@ -12615,7 +12915,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00841",
+   "id": "general-knowledge-00861",
    "q": "Which is the largest island in the world?",
    "o": [
     "Sambhar Lake",
@@ -12630,7 +12930,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00842",
+   "id": "general-knowledge-00862",
    "q": "What is Net National Product divided by population called?",
    "o": [
     "Fiscal federalism",
@@ -12645,7 +12945,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00843",
+   "id": "general-knowledge-00863",
    "q": "Which country won the Cricket World Cup 2019?",
    "o": [
     "Madhya Pradesh",
@@ -12660,7 +12960,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00844",
+   "id": "general-knowledge-00864",
    "q": "What is the capital of Belize?",
    "o": [
     "Budapest",
@@ -12675,7 +12975,7 @@
    "e": "The capital of Belize is Belmopan."
   },
   {
-   "id": "general-knowledge-00845",
+   "id": "general-knowledge-00865",
    "q": "On which date is International Tea Day observed?",
    "o": [
     "21 May",
@@ -12690,7 +12990,7 @@
    "e": "International Tea Day is observed on 21 May."
   },
   {
-   "id": "general-knowledge-00846",
+   "id": "general-knowledge-00866",
    "q": "Which of the following organisations has its headquarters at Geneva?",
    "o": [
     "Asian Infrastructure Investment Bank",
@@ -12705,7 +13005,7 @@
    "e": "CERN is headquartered at Geneva."
   },
   {
-   "id": "general-knowledge-00847",
+   "id": "general-knowledge-00867",
    "q": "Which of the following pairs of sport and number of players is correctly matched?",
    "o": [
     "Rugby union - 6",
@@ -12720,7 +13020,7 @@
    "e": "Only Rugby union - 15 is correctly matched."
   },
   {
-   "id": "general-knowledge-00848",
+   "id": "general-knowledge-00868",
    "q": "Which trophy or cup is associated with Football?",
    "o": [
     "World Cup (Cricket)",
@@ -12735,7 +13035,7 @@
    "e": "Nehru Cup is associated with Football."
   },
   {
-   "id": "general-knowledge-00849",
+   "id": "general-knowledge-00869",
    "q": "Which award is described as: Third highest military decoration of India?",
    "o": [
     "Saraswati Samman",
@@ -12750,7 +13050,7 @@
    "e": "Third highest military decoration of India describes Vir Chakra."
   },
   {
-   "id": "general-knowledge-00850",
+   "id": "general-knowledge-00870",
    "q": "Which of the following books was written by Helen Keller?",
    "o": [
     "Unbreakable",
@@ -12765,7 +13065,7 @@
    "e": "The Story of My Life was written by Helen Keller."
   },
   {
-   "id": "general-knowledge-00851",
+   "id": "general-knowledge-00871",
    "q": "Which of the following pairs of achievement and person is correctly matched?",
    "o": [
     "First woman in space - Junko Tabei",
@@ -12780,7 +13080,7 @@
    "e": "Only First woman in space - Valentina Tereshkova is correctly matched."
   },
   {
-   "id": "general-knowledge-00852",
+   "id": "general-knowledge-00872",
    "q": "Which Indian city is called the Gateway of India?",
    "o": [
     "Varanasi",
@@ -12795,7 +13095,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00853",
+   "id": "general-knowledge-00873",
    "q": "Which Indian state has the lowest sex ratio?",
    "o": [
     "Amazon",
@@ -12810,7 +13110,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00854",
+   "id": "general-knowledge-00874",
    "q": "Which act deals with the recovery of debts by banks in India?",
    "o": [
     "Shanghai",
@@ -12825,7 +13125,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00855",
+   "id": "general-knowledge-00875",
    "q": "Which programme aims to build 100 smart cities in India?",
    "o": [
     "Smart Cities Mission",
@@ -12840,7 +13140,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00856",
+   "id": "general-knowledge-00876",
    "q": "What is the capital of Malawi?",
    "o": [
     "Valletta",
@@ -12855,7 +13155,7 @@
    "e": "The capital of Malawi is Lilongwe."
   },
   {
-   "id": "general-knowledge-00857",
+   "id": "general-knowledge-00877",
    "q": "On which date is World Standards Day observed?",
    "o": [
     "14 October",
@@ -12870,7 +13170,7 @@
    "e": "World Standards Day is observed on 14 October."
   },
   {
-   "id": "general-knowledge-00858",
+   "id": "general-knowledge-00878",
    "q": "Which of the following organisations has its headquarters at Mumbai?",
    "o": [
     "International Telecommunication Union",
@@ -12885,7 +13185,7 @@
    "e": "Board of Control for Cricket in India is headquartered at Mumbai."
   },
   {
-   "id": "general-knowledge-00859",
+   "id": "general-knowledge-00879",
    "q": "Which of the following pairs of sport and number of players is correctly matched?",
    "o": [
     "Table tennis (singles) - 1",
@@ -12900,7 +13200,7 @@
    "e": "Only Table tennis (singles) - 1 is correctly matched."
   },
   {
-   "id": "general-knowledge-00860",
+   "id": "general-knowledge-00880",
    "q": "Which trophy or cup is associated with Hockey?",
    "o": [
     "French Open",
@@ -12915,7 +13215,7 @@
    "e": "Beighton Cup is associated with Hockey."
   },
   {
-   "id": "general-knowledge-00861",
+   "id": "general-knowledge-00881",
    "q": "Which of the following pairs of award and field is correctly matched?",
    "o": [
     "Padma Vibhushan - Second highest civilian award of India",
@@ -12930,7 +13230,7 @@
    "e": "Only Padma Vibhushan - Second highest civilian award of India is correctly matched."
   },
   {
-   "id": "general-knowledge-00862",
+   "id": "general-knowledge-00882",
    "q": "Which of the following books was written by Rudyard Kipling?",
    "o": [
     "The Jungle Book",
@@ -12945,7 +13245,7 @@
    "e": "The Jungle Book was written by Rudyard Kipling."
   },
   {
-   "id": "general-knowledge-00863",
+   "id": "general-knowledge-00883",
    "q": "Which of the following pairs of achievement and person is correctly matched?",
    "o": [
     "First woman to win a Nobel Prize - Joshua Slocum",
@@ -12960,7 +13260,7 @@
    "e": "Only First woman to win a Nobel Prize - Marie Curie is correctly matched."
   },
   {
-   "id": "general-knowledge-00864",
+   "id": "general-knowledge-00884",
    "q": "Which is the largest river island in the world?",
    "o": [
     "Amazon",
@@ -12975,7 +13275,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00865",
+   "id": "general-knowledge-00885",
    "q": "Which lake is known as the Skeleton Lake?",
    "o": [
     "Egypt",
@@ -12990,7 +13290,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00866",
+   "id": "general-knowledge-00886",
    "q": "Which institution issues coins in India?",
    "o": [
     "Deposit insurance",
@@ -13005,7 +13305,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00867",
+   "id": "general-knowledge-00887",
    "q": "Which city will host the 2028 Summer Olympics?",
    "o": [
     "Los Angeles",
@@ -13020,7 +13320,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00868",
+   "id": "general-knowledge-00888",
    "q": "What is the capital of Trinidad and Tobago?",
    "o": [
     "Dhaka",
@@ -13035,7 +13335,7 @@
    "e": "The capital of Trinidad and Tobago is Port of Spain."
   },
   {
-   "id": "general-knowledge-00869",
+   "id": "general-knowledge-00889",
    "q": "On which date is World Rivers Day observed?",
    "o": [
     "fourth Sunday of September",
@@ -13050,7 +13350,7 @@
    "e": "World Rivers Day is observed on fourth Sunday of September."
   },
   {
-   "id": "general-knowledge-00870",
+   "id": "general-knowledge-00890",
    "q": "Which of the following organisations has its headquarters at Vienna?",
    "o": [
     "International Labour Organization",
@@ -13065,7 +13365,7 @@
    "e": "United Nations Industrial Development Organization is headquartered at Vienna."
   },
   {
-   "id": "general-knowledge-00871",
+   "id": "general-knowledge-00891",
    "q": "Which of the following pairs of sport and number of players is correctly matched?",
    "o": [
     "Table tennis (singles) - 7",
@@ -13080,7 +13380,7 @@
    "e": "Only Table tennis (singles) - 1 is correctly matched."
   },
   {
-   "id": "general-knowledge-00872",
+   "id": "general-knowledge-00892",
    "q": "Which trophy or cup is associated with Football?",
    "o": [
     "Subroto Cup",
@@ -13095,7 +13395,7 @@
    "e": "Subroto Cup is associated with Football."
   },
   {
-   "id": "general-knowledge-00873",
+   "id": "general-knowledge-00893",
    "q": "Which of the following pairs of award and field is correctly matched?",
    "o": [
     "Padma Vibhushan - Second highest civilian award of India",
@@ -13110,7 +13410,7 @@
    "e": "Only Padma Vibhushan - Second highest civilian award of India is correctly matched."
   },
   {
-   "id": "general-knowledge-00874",
+   "id": "general-knowledge-00894",
    "q": "Which of the following books was written by Maxim Gorky?",
    "o": [
     "Mother",
@@ -13125,7 +13425,7 @@
    "e": "Mother was written by Maxim Gorky."
   },
   {
-   "id": "general-knowledge-00875",
+   "id": "general-knowledge-00895",
    "q": "Which of the following pairs of achievement and person is correctly matched?",
    "o": [
     "First woman to win a Nobel Prize - Trygve Lie",
@@ -13140,7 +13440,7 @@
    "e": "Only First woman to win a Nobel Prize - Marie Curie is correctly matched."
   },
   {
-   "id": "general-knowledge-00876",
+   "id": "general-knowledge-00896",
    "q": "Which state of India is called the Spice Garden of India?",
    "o": [
     "Sahara Desert",
@@ -13155,7 +13455,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00877",
+   "id": "general-knowledge-00897",
    "q": "Which is the largest archipelago in the world?",
    "o": [
     "Marina Beach",
@@ -13170,7 +13470,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00878",
+   "id": "general-knowledge-00898",
    "q": "What is the rate that banks charge each other for short-term funds called?",
    "o": [
     "Silver Revolution",
@@ -13185,7 +13485,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00879",
+   "id": "general-knowledge-00899",
    "q": "Which scheme is associated with the Ministry of Rural Development for rural roads?",
    "o": [
     "Uttar Pradesh",
@@ -13200,7 +13500,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00880",
+   "id": "general-knowledge-00900",
    "q": "What is the capital of Panama?",
    "o": [
     "Panama City",
@@ -13215,7 +13515,7 @@
    "e": "The capital of Panama is Panama City."
   },
   {
-   "id": "general-knowledge-00881",
+   "id": "general-knowledge-00901",
    "q": "On which date is World Photography Day observed?",
    "o": [
     "19 August",
@@ -13230,7 +13530,7 @@
    "e": "World Photography Day is observed on 19 August."
   },
   {
-   "id": "general-knowledge-00882",
+   "id": "general-knowledge-00902",
    "q": "Which of the following organisations has its headquarters at Vienna?",
    "o": [
     "OPEC",
@@ -13245,7 +13545,7 @@
    "e": "OPEC is headquartered at Vienna."
   },
   {
-   "id": "general-knowledge-00883",
+   "id": "general-knowledge-00903",
    "q": "Which of the following pairs of sport and number of players is correctly matched?",
    "o": [
     "Rugby sevens - 7",
@@ -13260,7 +13560,7 @@
    "e": "Only Rugby sevens - 7 is correctly matched."
   },
   {
-   "id": "general-knowledge-00884",
+   "id": "general-knowledge-00904",
    "q": "Which trophy or cup is associated with Football?",
    "o": [
     "Ranji Trophy",
@@ -13275,7 +13575,7 @@
    "e": "FIFA World Cup is associated with Football."
   },
   {
-   "id": "general-knowledge-00885",
+   "id": "general-knowledge-00905",
    "q": "Which of the following pairs of award and field is correctly matched?",
    "o": [
     "Sahitya Akademi Award - American award for music",
@@ -13290,7 +13590,7 @@
    "e": "Only Sahitya Akademi Award - Literary award for Indian languages is correctly matched."
   },
   {
-   "id": "general-knowledge-00886",
+   "id": "general-knowledge-00906",
    "q": "Which of the following books was written by Mahatma Gandhi?",
    "o": [
     "Wings of Fire",
@@ -13305,7 +13605,7 @@
    "e": "My Experiments with Truth was written by Mahatma Gandhi."
   },
   {
-   "id": "general-knowledge-00887",
+   "id": "general-knowledge-00907",
    "q": "Which of the following pairs of achievement and person is correctly matched?",
    "o": [
     "First country to give women the vote - Sirimavo Bandaranaike",
@@ -13320,7 +13620,7 @@
    "e": "Only First country to give women the vote - New Zealand is correctly matched."
   },
   {
-   "id": "general-knowledge-00888",
+   "id": "general-knowledge-00908",
    "q": "Which is the highest peak in the Eastern Ghats?",
    "o": [
     "Tamil Nadu",
@@ -13335,7 +13635,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00889",
+   "id": "general-knowledge-00909",
    "q": "Which country is the largest producer of milk?",
    "o": [
     "Ireland",
@@ -13350,7 +13650,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00890",
+   "id": "general-knowledge-00910",
    "q": "Where is the headquarters of the Life Insurance Corporation of India?",
    "o": [
     "Pradhan Mantri Mudra Yojana",
@@ -13365,7 +13665,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00891",
+   "id": "general-knowledge-00911",
    "q": "Which Indian state has the largest number of dams?",
    "o": [
     "Jawaharlal Nehru Port",
@@ -13380,7 +13680,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00892",
+   "id": "general-knowledge-00912",
    "q": "What is the capital of Afghanistan?",
    "o": [
     "Kabul",
@@ -13395,7 +13695,7 @@
    "e": "The capital of Afghanistan is Kabul."
   },
   {
-   "id": "general-knowledge-00893",
+   "id": "general-knowledge-00913",
    "q": "On which date is World Toilet Day observed?",
    "o": [
     "25 January",
@@ -13410,7 +13710,7 @@
    "e": "World Toilet Day is observed on 19 November."
   },
   {
-   "id": "general-knowledge-00894",
+   "id": "general-knowledge-00914",
    "q": "Which of the following organisations has its headquarters at Bern?",
    "o": [
     "Universal Postal Union",
@@ -13425,7 +13725,7 @@
    "e": "Universal Postal Union is headquartered at Bern."
   },
   {
-   "id": "general-knowledge-00895",
+   "id": "general-knowledge-00915",
    "q": "Which trophy or cup is associated with Cricket?",
    "o": [
     "US Open",
@@ -13440,7 +13740,7 @@
    "e": "Indian Premier League is associated with Cricket."
   },
   {
-   "id": "general-knowledge-00896",
+   "id": "general-knowledge-00916",
    "q": "Which of the following pairs of award and field is correctly matched?",
    "o": [
     "Sahitya Akademi Award - Lifetime achievement in Indian sports",
@@ -13455,7 +13755,7 @@
    "e": "Only Sahitya Akademi Award - Literary award for Indian languages is correctly matched."
   },
   {
-   "id": "general-knowledge-00897",
+   "id": "general-knowledge-00917",
    "q": "Which of the following books was written by Charles Darwin?",
    "o": [
     "An Autobiography (Toward Freedom)",
@@ -13470,7 +13770,7 @@
    "e": "On the Origin of Species was written by Charles Darwin."
   },
   {
-   "id": "general-knowledge-00898",
+   "id": "general-knowledge-00918",
    "q": "Which of the following pairs of achievement and person is correctly matched?",
    "o": [
     "First country to give women the vote - Chamonix",
@@ -13485,7 +13785,7 @@
    "e": "Only First country to give women the vote - New Zealand is correctly matched."
   },
   {
-   "id": "general-knowledge-00899",
+   "id": "general-knowledge-00919",
    "q": "Which is the longest river in South America?",
    "o": [
     "Amazon",
@@ -13500,7 +13800,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00900",
+   "id": "general-knowledge-00920",
    "q": "Which river is called the Ganga of the South?",
    "o": [
     "Antarctic Desert",
@@ -13515,7 +13815,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00901",
+   "id": "general-knowledge-00921",
    "q": "What is the record of all economic transactions of a country called?",
    "o": [
     "Balance of payments",
@@ -13530,7 +13830,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00902",
+   "id": "general-knowledge-00922",
    "q": "Which Indian institution publishes the Economic Survey?",
    "o": [
     "Jal Jeevan Mission",
@@ -13545,7 +13845,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00903",
+   "id": "general-knowledge-00923",
    "q": "What is the capital of Belarus?",
    "o": [
     "Bucharest",
@@ -13560,7 +13860,7 @@
    "e": "The capital of Belarus is Minsk."
   },
   {
-   "id": "general-knowledge-00904",
+   "id": "general-knowledge-00924",
    "q": "On which date is World Students' Day observed?",
    "o": [
     "9 August",
@@ -13575,7 +13875,7 @@
    "e": "World Students' Day is observed on 15 October."
   },
   {
-   "id": "general-knowledge-00905",
+   "id": "general-knowledge-00925",
    "q": "Which of the following organisations has its headquarters at Beijing?",
    "o": [
     "NATO",
@@ -13590,7 +13890,7 @@
    "e": "Asian Infrastructure Investment Bank is headquartered at Beijing."
   },
   {
-   "id": "general-knowledge-00906",
+   "id": "general-knowledge-00926",
    "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
    "o": [
     "Ice hockey - 5",
@@ -13605,7 +13905,7 @@
    "e": "The pair Ice hockey - 5 is not correctly matched."
   },
   {
-   "id": "general-knowledge-00907",
+   "id": "general-knowledge-00927",
    "q": "Which trophy or cup is associated with Badminton?",
    "o": [
     "Rovers Cup",
@@ -13620,7 +13920,7 @@
    "e": "Uber Cup is associated with Badminton."
   },
   {
-   "id": "general-knowledge-00908",
+   "id": "general-knowledge-00928",
    "q": "Which of the following pairs of award and field is correctly matched?",
    "o": [
     "Grammy Award - American award for journalism and letters",
@@ -13635,7 +13935,7 @@
    "e": "Only Grammy Award - American award for music is correctly matched."
   },
   {
-   "id": "general-knowledge-00909",
+   "id": "general-knowledge-00929",
    "q": "Which of the following books was written by William Shakespeare?",
    "o": [
     "Hamlet",
@@ -13650,7 +13950,7 @@
    "e": "Hamlet was written by William Shakespeare."
   },
   {
-   "id": "general-knowledge-00910",
+   "id": "general-knowledge-00930",
    "q": "Which of the following pairs of achievement and person is correctly matched?",
    "o": [
     "First Winter Olympic Games were held in - Greece",
@@ -13665,7 +13965,7 @@
    "e": "Only First Winter Olympic Games were held in - Chamonix is correctly matched."
   },
   {
-   "id": "general-knowledge-00911",
+   "id": "general-knowledge-00931",
    "q": "Which country shares the longest border with India?",
    "o": [
     "Beijing",
@@ -13680,7 +13980,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00912",
+   "id": "general-knowledge-00932",
    "q": "Which city is known as the City of Lights?",
    "o": [
     "Loktak Lake",
@@ -13695,7 +13995,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00913",
+   "id": "general-knowledge-00933",
    "q": "Which type of bank was introduced in India to serve small businesses?",
    "o": [
     "Green Revolution",
@@ -13710,7 +14010,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00914",
+   "id": "general-knowledge-00934",
    "q": "Which Indian city is home to the National Stock Exchange?",
    "o": [
     "Atmanirbhar Bharat Abhiyan",
@@ -13725,7 +14025,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00915",
+   "id": "general-knowledge-00935",
    "q": "What is the capital of Ivory Coast?",
    "o": [
     "Baku",
@@ -13740,7 +14040,7 @@
    "e": "The capital of Ivory Coast is Yamoussoukro."
   },
   {
-   "id": "general-knowledge-00916",
+   "id": "general-knowledge-00936",
    "q": "On which date is National Science Day (India) observed?",
    "o": [
     "1 June",
@@ -13755,7 +14055,7 @@
    "e": "National Science Day (India) is observed on 28 February."
   },
   {
-   "id": "general-knowledge-00917",
+   "id": "general-knowledge-00937",
    "q": "Which of the following organisations has its headquarters at New York?",
    "o": [
     "United Nations",
@@ -13770,7 +14070,7 @@
    "e": "United Nations is headquartered at New York."
   },
   {
-   "id": "general-knowledge-00918",
+   "id": "general-knowledge-00938",
    "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
    "o": [
     "Badminton (doubles) - 1",
@@ -13785,7 +14085,7 @@
    "e": "The pair Badminton (doubles) - 1 is not correctly matched."
   },
   {
-   "id": "general-knowledge-00919",
+   "id": "general-knowledge-00939",
    "q": "Which trophy or cup is associated with Football?",
    "o": [
     "Copa America",
@@ -13800,7 +14100,7 @@
    "e": "Copa America is associated with Football."
   },
   {
-   "id": "general-knowledge-00920",
+   "id": "general-knowledge-00940",
    "q": "Which of the following pairs of award and field is correctly matched?",
    "o": [
     "Grammy Award - Award for brave children in India",
@@ -13815,7 +14115,7 @@
    "e": "Only Grammy Award - American award for music is correctly matched."
   },
   {
-   "id": "general-knowledge-00921",
+   "id": "general-knowledge-00941",
    "q": "Which of the following books was written by Kautilya?",
    "o": [
     "The Jungle Book",
@@ -13830,7 +14130,7 @@
    "e": "Arthashastra was written by Kautilya."
   },
   {
-   "id": "general-knowledge-00922",
+   "id": "general-knowledge-00942",
    "q": "Which of the following pairs of achievement and person is correctly matched?",
    "o": [
     "First Winter Olympic Games were held in - Roald Amundsen",
@@ -13845,7 +14145,7 @@
    "e": "Only First Winter Olympic Games were held in - Chamonix is correctly matched."
   },
   {
-   "id": "general-knowledge-00923",
+   "id": "general-knowledge-00943",
    "q": "Which line divides the Earth into Northern and Southern hemispheres?",
    "o": [
     "Kolkata",
@@ -13860,7 +14160,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00924",
+   "id": "general-knowledge-00944",
    "q": "Which latitude passes through the middle of India?",
    "o": [
     "Pacific Ocean",
@@ -13875,7 +14175,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00925",
+   "id": "general-knowledge-00945",
    "q": "Which tax is levied on the manufacture of goods in India?",
    "o": [
     "Excise duty",
@@ -13890,7 +14190,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00926",
+   "id": "general-knowledge-00946",
    "q": "Which organisation publishes the Corruption Perceptions Index?",
    "o": [
     "Cyclone Amphan",
@@ -13905,7 +14205,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00927",
+   "id": "general-knowledge-00947",
    "q": "What is the capital of Ireland?",
    "o": [
     "Reykjavik",
@@ -13920,7 +14220,7 @@
    "e": "The capital of Ireland is Dublin."
   },
   {
-   "id": "general-knowledge-00928",
+   "id": "general-knowledge-00948",
    "q": "On which date is World Book Day observed?",
    "o": [
     "23 April",
@@ -13935,7 +14235,7 @@
    "e": "World Book Day is observed on 23 April."
   },
   {
-   "id": "general-knowledge-00929",
+   "id": "general-knowledge-00949",
    "q": "Which of the following organisations has its headquarters at Geneva?",
    "o": [
     "International Labour Organization",
@@ -13950,7 +14250,7 @@
    "e": "UN High Commissioner for Refugees is headquartered at Geneva."
   },
   {
-   "id": "general-knowledge-00930",
+   "id": "general-knowledge-00950",
    "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
    "o": [
     "Netball - 7",
@@ -13965,7 +14265,7 @@
    "e": "The pair Baseball - 15 is not correctly matched."
   },
   {
-   "id": "general-knowledge-00931",
+   "id": "general-knowledge-00951",
    "q": "Which trophy or cup is associated with Cricket?",
    "o": [
     "The Ashes",
@@ -13980,7 +14280,7 @@
    "e": "Syed Mushtaq Ali Trophy is associated with Cricket."
   },
   {
-   "id": "general-knowledge-00932",
+   "id": "general-knowledge-00952",
    "q": "Which of the following pairs of award and field is correctly matched?",
    "o": [
     "Academy Award (Oscar) - Award for brave children in India",
@@ -13995,7 +14295,7 @@
    "e": "Only Academy Award (Oscar) - American award for films is correctly matched."
   },
   {
-   "id": "general-knowledge-00933",
+   "id": "general-knowledge-00953",
    "q": "Which of the following books was written by A. P. J. Abdul Kalam?",
    "o": [
     "Wings of Fire",
@@ -14010,7 +14310,7 @@
    "e": "Wings of Fire was written by A. P. J. Abdul Kalam."
   },
   {
-   "id": "general-knowledge-00934",
+   "id": "general-knowledge-00954",
    "q": "Which of the following pairs of achievement and person is correctly matched?",
    "o": [
     "First Indian woman to win an Olympic medal - Neil Armstrong",
@@ -14025,7 +14325,7 @@
    "e": "Only First Indian woman to win an Olympic medal - Karnam Malleswari is correctly matched."
   },
   {
-   "id": "general-knowledge-00935",
+   "id": "general-knowledge-00955",
    "q": "Which line of longitude is at zero degrees?",
    "o": [
     "Prime Meridian",
@@ -14040,7 +14340,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00936",
+   "id": "general-knowledge-00956",
    "q": "Which Indian state is called the Land of Kings?",
    "o": [
     "Rajasthan",
@@ -14055,7 +14355,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00937",
+   "id": "general-knowledge-00957",
    "q": "What is a sustained rise in the general price level called?",
    "o": [
     "TRAI",
@@ -14070,7 +14370,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00938",
+   "id": "general-knowledge-00958",
    "q": "Which Indian state topped the NITI Aayog SDG India Index in recent years?",
    "o": [
     "Ayushman Bharat",
@@ -14085,7 +14385,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00939",
+   "id": "general-knowledge-00959",
    "q": "What is the capital of United Kingdom?",
    "o": [
     "Nicosia",
@@ -14100,7 +14400,7 @@
    "e": "The capital of United Kingdom is London."
   },
   {
-   "id": "general-knowledge-00940",
+   "id": "general-knowledge-00960",
    "q": "On which date is World Environment Day observed?",
    "o": [
     "10 February",
@@ -14115,7 +14415,7 @@
    "e": "World Environment Day is observed on 5 June."
   },
   {
-   "id": "general-knowledge-00941",
+   "id": "general-knowledge-00961",
    "q": "Which of the following organisations has its headquarters at Paris?",
    "o": [
     "UNESCO",
@@ -14130,7 +14430,7 @@
    "e": "UNESCO is headquartered at Paris."
   },
   {
-   "id": "general-knowledge-00942",
+   "id": "general-knowledge-00962",
    "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
    "o": [
     "Basketball - 5",
@@ -14145,7 +14445,7 @@
    "e": "The pair Polo - 2 is not correctly matched."
   },
   {
-   "id": "general-knowledge-00943",
+   "id": "general-knowledge-00963",
    "q": "Which trophy or cup is associated with Football?",
    "o": [
     "Bordoloi Trophy",
@@ -14160,7 +14460,7 @@
    "e": "Bordoloi Trophy is associated with Football."
   },
   {
-   "id": "general-knowledge-00944",
+   "id": "general-knowledge-00964",
    "q": "Which of the following pairs of award and field is correctly matched?",
    "o": [
     "Academy Award (Oscar) - International award for Physics, Chemistry, Medicine, Literature, Peace and Economics",
@@ -14175,7 +14475,7 @@
    "e": "Only Academy Award (Oscar) - American award for films is correctly matched."
   },
   {
-   "id": "general-knowledge-00945",
+   "id": "general-knowledge-00965",
    "q": "Which of the following books was written by Jane Austen?",
    "o": [
     "Ramayana",
@@ -14190,7 +14490,7 @@
    "e": "Pride and Prejudice was written by Jane Austen."
   },
   {
-   "id": "general-knowledge-00946",
+   "id": "general-knowledge-00966",
    "q": "Which of the following pairs of achievement and person is correctly matched?",
    "o": [
     "First Indian woman to win an Olympic medal - Karnam Malleswari",
@@ -14205,7 +14505,7 @@
    "e": "Only First Indian woman to win an Olympic medal - Karnam Malleswari is correctly matched."
   },
   {
-   "id": "general-knowledge-00947",
+   "id": "general-knowledge-00967",
    "q": "Which Indian city is called the Diamond City?",
    "o": [
     "Finland",
@@ -14220,7 +14520,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00948",
+   "id": "general-knowledge-00968",
    "q": "Which country is called the Land of Thunderbolts?",
    "o": [
     "Bhutan",
@@ -14235,7 +14535,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00949",
+   "id": "general-knowledge-00969",
    "q": "Which sector employs the largest share of India's workforce?",
    "o": [
     "1966",
@@ -14250,7 +14550,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00950",
+   "id": "general-knowledge-00970",
    "q": "Which joint exercise is held between India and China?",
    "o": [
     "Hand-in-Hand Exercise",
@@ -14265,7 +14565,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00951",
+   "id": "general-knowledge-00971",
    "q": "What is the capital of Estonia?",
    "o": [
     "Astana",
@@ -14280,7 +14580,7 @@
    "e": "The capital of Estonia is Tallinn."
   },
   {
-   "id": "general-knowledge-00952",
+   "id": "general-knowledge-00972",
    "q": "On which date is Constitution Day (India) observed?",
    "o": [
     "22 December",
@@ -14295,7 +14595,7 @@
    "e": "Constitution Day (India) is observed on 26 November."
   },
   {
-   "id": "general-knowledge-00953",
+   "id": "general-knowledge-00973",
    "q": "Which of the following organisations has its headquarters at New Delhi?",
    "o": [
     "NATO",
@@ -14310,7 +14610,7 @@
    "e": "South Asian University is headquartered at New Delhi."
   },
   {
-   "id": "general-knowledge-00954",
+   "id": "general-knowledge-00974",
    "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
    "o": [
     "Rugby sevens - 7",
@@ -14325,7 +14625,7 @@
    "e": "The pair Hockey - 7 is not correctly matched."
   },
   {
-   "id": "general-knowledge-00955",
+   "id": "general-knowledge-00975",
    "q": "Which trophy or cup is associated with Hockey?",
    "o": [
     "Swaythling Cup",
@@ -14340,7 +14640,7 @@
    "e": "Sultan Azlan Shah Cup is associated with Hockey."
   },
   {
-   "id": "general-knowledge-00956",
+   "id": "general-knowledge-00976",
    "q": "Which of the following pairs of award and field is correctly matched?",
    "o": [
     "Kalinga Prize - UNESCO award for popularisation of science",
@@ -14355,7 +14655,7 @@
    "e": "Only Kalinga Prize - UNESCO award for popularisation of science is correctly matched."
   },
   {
-   "id": "general-knowledge-00957",
+   "id": "general-knowledge-00977",
    "q": "Which of the following books was written by Rabindranath Tagore?",
    "o": [
     "Oliver Twist",
@@ -14370,7 +14670,7 @@
    "e": "Gitanjali was written by Rabindranath Tagore."
   },
   {
-   "id": "general-knowledge-00958",
+   "id": "general-knowledge-00978",
    "q": "Which of the following pairs of achievement and person is correctly matched?",
    "o": [
     "First person to win two Nobel Prizes - Soviet Union",
@@ -14385,7 +14685,7 @@
    "e": "Only First person to win two Nobel Prizes - Marie Curie is correctly matched."
   },
   {
-   "id": "general-knowledge-00959",
+   "id": "general-knowledge-00979",
    "q": "Which Indian state has the longest land border with another country?",
    "o": [
     "Jamshedpur",
@@ -14400,7 +14700,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00960",
+   "id": "general-knowledge-00980",
    "q": "Where is the Leaning Tower of Pisa located?",
    "o": [
     "Italy",
@@ -14415,7 +14715,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00961",
+   "id": "general-knowledge-00981",
    "q": "What is the rate at which the RBI lends to commercial banks called?",
    "o": [
     "Pradhan Mantri Mudra Yojana",
@@ -14430,7 +14730,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00962",
+   "id": "general-knowledge-00982",
    "q": "Which mission aims to provide piped drinking water to every rural household?",
    "o": [
     "Uttar Pradesh",
@@ -14445,7 +14745,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00963",
+   "id": "general-knowledge-00983",
    "q": "What is the capital of Norway?",
    "o": [
     "Harare",
@@ -14460,7 +14760,7 @@
    "e": "The capital of Norway is Oslo."
   },
   {
-   "id": "general-knowledge-00964",
+   "id": "general-knowledge-00984",
    "q": "On which date is Independence Day (USA) observed?",
    "o": [
     "30 November",
@@ -14475,7 +14775,7 @@
    "e": "Independence Day (USA) is observed on 4 July."
   },
   {
-   "id": "general-knowledge-00965",
+   "id": "general-knowledge-00985",
    "q": "Which of the following organisations has its headquarters at Lausanne?",
    "o": [
     "Amnesty International",
@@ -14490,7 +14790,7 @@
    "e": "International Olympic Committee is headquartered at Lausanne."
   },
   {
-   "id": "general-knowledge-00966",
+   "id": "general-knowledge-00986",
    "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
    "o": [
     "Korfball - 11",
@@ -14505,7 +14805,7 @@
    "e": "The pair Korfball - 11 is not correctly matched."
   },
   {
-   "id": "general-knowledge-00967",
+   "id": "general-knowledge-00987",
    "q": "Which trophy or cup is associated with Cricket?",
    "o": [
     "World Test Championship",
@@ -14520,7 +14820,7 @@
    "e": "Vijay Hazare Trophy is associated with Cricket."
   },
   {
-   "id": "general-knowledge-00968",
+   "id": "general-knowledge-00988",
    "q": "Which of the following pairs of award and field is correctly matched?",
    "o": [
     "Kalinga Prize - Literary award for Indian languages",
@@ -14535,7 +14835,7 @@
    "e": "Only Kalinga Prize - UNESCO award for popularisation of science is correctly matched."
   },
   {
-   "id": "general-knowledge-00969",
+   "id": "general-knowledge-00989",
    "q": "Which of the following books was written by Valmiki?",
    "o": [
     "Ramayana",
@@ -14550,7 +14850,7 @@
    "e": "Ramayana was written by Valmiki."
   },
   {
-   "id": "general-knowledge-00970",
+   "id": "general-knowledge-00990",
    "q": "Which of the following pairs of achievement and person is correctly matched?",
    "o": [
     "First person to win two Nobel Prizes - Marie Curie",
@@ -14565,7 +14865,7 @@
    "e": "Only First person to win two Nobel Prizes - Marie Curie is correctly matched."
   },
   {
-   "id": "general-knowledge-00971",
+   "id": "general-knowledge-00991",
    "q": "Which Indian city is called the Garden City?",
    "o": [
     "Bengaluru",
@@ -14580,7 +14880,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "general-knowledge-00972",
+   "id": "general-knowledge-00992",
    "q": "Which Indian city is called the Diamond City?",
    "o": [
     "Surat",
@@ -14595,7 +14895,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "general-knowledge-00973",
+   "id": "general-knowledge-00993",
    "q": "Which Five Year Plan focused on the Green Revolution?",
    "o": [
     "Fourth Five Year Plan",
@@ -14610,7 +14910,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "general-knowledge-00974",
+   "id": "general-knowledge-00994",
    "q": "Which is India's first nuclear-powered ballistic missile submarine?",
    "o": [
     "Swachh Bharat Abhiyan",
@@ -14625,7 +14925,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "general-knowledge-00975",
+   "id": "general-knowledge-00995",
    "q": "What is the capital of Senegal?",
    "o": [
     "Tirana",
@@ -14640,7 +14940,7 @@
    "e": "The capital of Senegal is Dakar."
   },
   {
-   "id": "general-knowledge-00976",
+   "id": "general-knowledge-00996",
    "q": "On which date is National Girl Child Day (India) observed?",
    "o": [
     "fourth Sunday of September",
@@ -14655,7 +14955,7 @@
    "e": "National Girl Child Day (India) is observed on 24 January."
   },
   {
-   "id": "general-knowledge-00977",
+   "id": "general-knowledge-00997",
    "q": "Which of the following organisations has its headquarters at Geneva?",
    "o": [
     "South Asian University",
@@ -14670,7 +14970,7 @@
    "e": "International Committee of the Red Cross is headquartered at Geneva."
   },
   {
-   "id": "general-knowledge-00978",
+   "id": "general-knowledge-00998",
    "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
    "o": [
     "Ice hockey - 6",
@@ -14685,7 +14985,7 @@
    "e": "The pair Throwball - 6 is not correctly matched."
   },
   {
-   "id": "general-knowledge-00979",
+   "id": "general-knowledge-00999",
    "q": "Which of the following pairs of trophy and sport is correctly matched?",
    "o": [
     "Nehru Cup - Cricket",
@@ -14700,7 +15000,7 @@
    "e": "Only Nehru Cup - Football is correctly matched."
   },
   {
-   "id": "general-knowledge-00980",
+   "id": "general-knowledge-01000",
    "q": "Which of the following pairs of award and field is correctly matched?",
    "o": [
     "Borlaug Award - Indian award for social work and peace",
@@ -14713,306 +15013,6 @@
    "l": 3,
    "s": "generated",
    "e": "Only Borlaug Award - Indian award in agricultural science is correctly matched."
-  },
-  {
-   "id": "general-knowledge-00981",
-   "q": "Which of the following books was written by Homer?",
-   "o": [
-    "Gitanjali and Other Songs",
-    "Panchatantra",
-    "Abhijnanashakuntalam",
-    "The Iliad"
-   ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The Iliad was written by Homer."
-  },
-  {
-   "id": "general-knowledge-00982",
-   "q": "Which of the following pairs of achievement and person is correctly matched?",
-   "o": [
-    "First country to host the modern Olympic Games - Greece",
-    "First country to host the modern Olympic Games - Abhinav Bindra",
-    "First country to host the modern Olympic Games - Sirimavo Bandaranaike",
-    "First country to host the modern Olympic Games - Marie Curie"
-   ],
-   "a": 0,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First country to host the modern Olympic Games - Greece is correctly matched."
-  },
-  {
-   "id": "general-knowledge-00983",
-   "q": "Which is the smallest country by area?",
-   "o": [
-    "Jodhpur",
-    "Vatican City",
-    "Kanchenjunga",
-    "Palk Strait"
-   ],
-   "a": 1,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
-  },
-  {
-   "id": "general-knowledge-00984",
-   "q": "Which river flows through the Grand Canyon of India?",
-   "o": [
-    "India",
-    "Tunga",
-    "Rome",
-    "Marina Beach"
-   ],
-   "a": 1,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
-  },
-  {
-   "id": "general-knowledge-00985",
-   "q": "What does LPG stand for in the context of economic reforms?",
-   "o": [
-    "1975",
-    "Manmohan Singh",
-    "Bank rate",
-    "Liberalisation, Privatisation and Globalisation"
-   ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
-  },
-  {
-   "id": "general-knowledge-00986",
-   "q": "Which satellite did India launch to study black holes?",
-   "o": [
-    "India",
-    "INS Vikrant",
-    "XPoSat",
-    "Chenab Bridge"
-   ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
-  },
-  {
-   "id": "general-knowledge-00987",
-   "q": "What is the capital of Switzerland?",
-   "o": [
-    "Suva",
-    "Managua",
-    "Dhaka",
-    "Bern"
-   ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Switzerland is Bern."
-  },
-  {
-   "id": "general-knowledge-00988",
-   "q": "On which date is World Mental Health Day observed?",
-   "o": [
-    "10 October",
-    "14 December",
-    "30 April",
-    "31 October"
-   ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Mental Health Day is observed on 10 October."
-  },
-  {
-   "id": "general-knowledge-00989",
-   "q": "Which of the following organisations has its headquarters at Geneva?",
-   "o": [
-    "World Trade Organization",
-    "Universal Postal Union",
-    "SAARC",
-    "International Fund for Agricultural Development"
-   ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "World Trade Organization is headquartered at Geneva."
-  },
-  {
-   "id": "general-knowledge-00990",
-   "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
-   "o": [
-    "Football - 11",
-    "Volleyball - 6",
-    "Rugby union - 15",
-    "Cricket - 9"
-   ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Cricket - 9 is not correctly matched."
-  },
-  {
-   "id": "general-knowledge-00991",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
-    "Borlaug Award - Indian award in agricultural science",
-    "Borlaug Award - American award for films",
-    "Borlaug Award - Highest military decoration of India",
-    "Borlaug Award - Fourth highest civilian award of India"
-   ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Borlaug Award - Indian award in agricultural science is correctly matched."
-  },
-  {
-   "id": "general-knowledge-00992",
-   "q": "Which of the following books was written by Rabindranath Tagore?",
-   "o": [
-    "Das Kapital",
-    "Gitanjali and Other Songs",
-    "Gitanjali: Rabindranath Tagore's Nobel work",
-    "Ignited Minds"
-   ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Gitanjali and Other Songs was written by Rabindranath Tagore."
-  },
-  {
-   "id": "general-knowledge-00993",
-   "q": "Which of the following pairs of achievement and person is correctly matched?",
-   "o": [
-    "First country to host the modern Olympic Games - Sirimavo Bandaranaike",
-    "First country to host the modern Olympic Games - Edmund Hillary",
-    "First country to host the modern Olympic Games - Greece",
-    "First country to host the modern Olympic Games - Roger Bannister"
-   ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First country to host the modern Olympic Games - Greece is correctly matched."
-  },
-  {
-   "id": "general-knowledge-00994",
-   "q": "Which Indian city is called the Leather City?",
-   "o": [
-    "Kanpur",
-    "Mariana Trench",
-    "Yangtze",
-    "Surat"
-   ],
-   "a": 0,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
-  },
-  {
-   "id": "general-knowledge-00995",
-   "q": "Which is the smallest landlocked country?",
-   "o": [
-    "Canada",
-    "Indonesia",
-    "Vatican City",
-    "Gulf of Mannar"
-   ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
-  },
-  {
-   "id": "general-knowledge-00996",
-   "q": "Which revolution is associated with the production of cotton?",
-   "o": [
-    "1982",
-    "Silver Fibre Revolution",
-    "Foreign Direct Investment",
-    "Sensex"
-   ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
-  },
-  {
-   "id": "general-knowledge-00997",
-   "q": "Which scheme provides insurance cover of two lakh rupees to the poor?",
-   "o": [
-    "Vande Bharat Express",
-    "Pradhan Mantri Jeevan Jyoti Bima Yojana",
-    "National River Linking Project",
-    "Sachin Tendulkar"
-   ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
-  },
-  {
-   "id": "general-knowledge-00998",
-   "q": "What is the capital of Bahamas?",
-   "o": [
-    "Bangui",
-    "Nassau",
-    "Abuja",
-    "Nuku'alofa"
-   ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Bahamas is Nassau."
-  },
-  {
-   "id": "general-knowledge-00999",
-   "q": "On which date is World Heritage Day observed?",
-   "o": [
-    "21 June",
-    "18 April",
-    "10 February",
-    "13 February"
-   ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Heritage Day is observed on 18 April."
-  },
-  {
-   "id": "general-knowledge-01000",
-   "q": "Which of the following organisations has its headquarters at Brussels?",
-   "o": [
-    "NATO",
-    "United Nations Industrial Development Organization",
-    "International Telecommunication Union",
-    "International Fund for Agricultural Development"
-   ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "NATO is headquartered at Brussels."
   }
  ]
 };

@@ -20,6 +20,351 @@
  "questions": [
   {
    "id": "gk-misc-p17-0001",
+   "q": "To which category of elements does Potassium belong?",
+   "o": [
+    "Alkaline earth metal",
+    "Post-transition metal",
+    "Transition metal",
+    "Alkali metal"
+   ],
+   "a": 3,
+   "t": "Periodic Table",
+   "l": 3,
+   "s": "generated",
+   "e": "Potassium is classified as a Alkali metal."
+  },
+  {
+   "id": "gk-misc-p17-0002",
+   "q": "Which of the following pairs of day and date is NOT correctly matched?",
+   "o": [
+    "World Nature Conservation Day - 28 July",
+    "Children's Day (India) - 14 November",
+    "World Polio Day - 17 November",
+    "World Hypertension Day - 17 May"
+   ],
+   "a": 2,
+   "t": "Important Days",
+   "l": 3,
+   "s": "generated",
+   "e": "The pair World Polio Day - 17 November is not correctly matched."
+  },
+  {
+   "id": "gk-misc-p17-0003",
+   "q": "Describe is a synonym of which of the following words?",
+   "o": [
+    "Innate",
+    "Tenacious",
+    "Delineate",
+    "Hypocrisy"
+   ],
+   "a": 2,
+   "t": "Synonyms",
+   "l": 2,
+   "s": "generated",
+   "e": "Describe is a synonym of Delineate."
+  },
+  {
+   "id": "gk-misc-p17-0004",
+   "q": "Which of the following pairs is correctly matched?",
+   "o": [
+    "Exonerate - Pessimistic",
+    "Exonerate - Blame",
+    "Exonerate - Strengthen",
+    "Exonerate - Rare"
+   ],
+   "a": 1,
+   "t": "Antonyms",
+   "l": 3,
+   "s": "generated",
+   "e": "Only Exonerate - Blame is correctly matched."
+  },
+  {
+   "id": "gk-misc-p17-0005",
+   "q": "Which of the following pairs is correctly matched?",
+   "o": [
+    "Bring to book - Confess fully",
+    "Bring to book - Punish",
+    "Bring to book - Something easily understood",
+    "Bring to book - Be ruined"
+   ],
+   "a": 1,
+   "t": "Idioms and Phrases",
+   "l": 3,
+   "s": "generated",
+   "e": "Only Bring to book - Punish is correctly matched."
+  },
+  {
+   "id": "gk-misc-p17-0006",
+   "q": "Which of the following pairs is correctly matched?",
+   "o": [
+    "An imaginary place where everything is bad - Inaudible",
+    "An imaginary place where everything is bad - Misanthrope",
+    "An imaginary place where everything is bad - Cobbler",
+    "An imaginary place where everything is bad - Dystopia"
+   ],
+   "a": 3,
+   "t": "One Word Substitution",
+   "l": 3,
+   "s": "generated",
+   "e": "Only An imaginary place where everything is bad - Dystopia is correctly matched."
+  },
+  {
+   "id": "gk-misc-p17-0007",
+   "q": "Which of the following pairs is correctly matched?",
+   "o": [
+    "Threshold - Labratory",
+    "Threshold - Restaurent",
+    "Threshold - Arguement",
+    "Threshold - Threshhold"
+   ],
+   "a": 3,
+   "t": "Spellings",
+   "l": 3,
+   "s": "generated",
+   "e": "Only Threshold - Threshhold is correctly matched."
+  },
+  {
+   "id": "gk-misc-p17-0008",
+   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "o": [
+    "EMF - Shanghai Cooperation Organisation",
+    "EMF - Sports Authority of India",
+    "EMF - Electromotive Force",
+    "EMF - Polar Satellite Launch Vehicle"
+   ],
+   "a": 2,
+   "t": "Abbreviations",
+   "l": 3,
+   "s": "generated",
+   "e": "Only EMF - Electromotive Force is correctly matched."
+  },
+  {
+   "id": "gk-misc-p17-0009",
+   "q": "The currency Canadian Dollar is used in which country?",
+   "o": [
+    "Armenia",
+    "Japan",
+    "Canada",
+    "Ghana"
+   ],
+   "a": 2,
+   "t": "Countries, Capitals and Currencies",
+   "l": 3,
+   "s": "generated",
+   "e": "Canadian Dollar is the currency of Canada."
+  },
+  {
+   "id": "gk-misc-p17-0010",
+   "q": "To which category of elements does Fluorine belong?",
+   "o": [
+    "Halogen",
+    "Non-metal",
+    "Transition metal",
+    "Actinide"
+   ],
+   "a": 0,
+   "t": "Periodic Table",
+   "l": 3,
+   "s": "generated",
+   "e": "Fluorine is classified as a Halogen."
+  },
+  {
+   "id": "gk-misc-p17-0011",
+   "q": "Which of the following pairs of day and date is NOT correctly matched?",
+   "o": [
+    "World Tourism Day - 27 September",
+    "Independence Day (India) - 15 August",
+    "World Radiography Day - 8 November",
+    "World Students' Day - 14 November"
+   ],
+   "a": 3,
+   "t": "Important Days",
+   "l": 3,
+   "s": "generated",
+   "e": "The pair World Students' Day - 14 November is not correctly matched."
+  },
+  {
+   "id": "gk-misc-p17-0012",
+   "q": "Disagreement is a synonym of which of the following words?",
+   "o": [
+    "Staunch",
+    "Dissent",
+    "Levity",
+    "Deference"
+   ],
+   "a": 1,
+   "t": "Synonyms",
+   "l": 2,
+   "s": "generated",
+   "e": "Disagreement is a synonym of Dissent."
+  },
+  {
+   "id": "gk-misc-p17-0013",
+   "q": "Which of the following pairs is correctly matched?",
+   "o": [
+    "Penitent - Independent",
+    "Penitent - Unrepentant",
+    "Penitent - Original",
+    "Penitent - Hopeful"
+   ],
+   "a": 1,
+   "t": "Antonyms",
+   "l": 3,
+   "s": "generated",
+   "e": "Only Penitent - Unrepentant is correctly matched."
+  },
+  {
+   "id": "gk-misc-p17-0014",
+   "q": "Which of the following pairs is correctly matched?",
+   "o": [
+    "Bring to book - Extremely happy",
+    "Bring to book - A narrow escape",
+    "Bring to book - Of the required standard",
+    "Bring to book - Punish"
+   ],
+   "a": 3,
+   "t": "Idioms and Phrases",
+   "l": 3,
+   "s": "generated",
+   "e": "Only Bring to book - Punish is correctly matched."
+  },
+  {
+   "id": "gk-misc-p17-0015",
+   "q": "Which of the following pairs is correctly matched?",
+   "o": [
+    "One who does not believe in God - Somniloquist",
+    "One who does not believe in God - Atheist",
+    "One who does not believe in God - Centenarian",
+    "One who does not believe in God - Mobocracy"
+   ],
+   "a": 1,
+   "t": "One Word Substitution",
+   "l": 3,
+   "s": "generated",
+   "e": "Only One who does not believe in God - Atheist is correctly matched."
+  },
+  {
+   "id": "gk-misc-p17-0016",
+   "q": "Which of the following pairs is correctly matched?",
+   "o": [
+    "Transferring - Irresistable",
+    "Transferring - Convinient",
+    "Transferring - Suprise",
+    "Transferring - Transfering"
+   ],
+   "a": 3,
+   "t": "Spellings",
+   "l": 3,
+   "s": "generated",
+   "e": "Only Transferring - Transfering is correctly matched."
+  },
+  {
+   "id": "gk-misc-p17-0017",
+   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "o": [
+    "RNA - Net Asset Value",
+    "RNA - Ribonucleic Acid",
+    "RNA - World Anti-Doping Agency",
+    "RNA - Asian Infrastructure Investment Bank"
+   ],
+   "a": 1,
+   "t": "Abbreviations",
+   "l": 3,
+   "s": "generated",
+   "e": "Only RNA - Ribonucleic Acid is correctly matched."
+  },
+  {
+   "id": "gk-misc-p17-0018",
+   "q": "The currency Dong is used in which country?",
+   "o": [
+    "Liechtenstein",
+    "Chad",
+    "Venezuela",
+    "Vietnam"
+   ],
+   "a": 3,
+   "t": "Countries, Capitals and Currencies",
+   "l": 3,
+   "s": "generated",
+   "e": "Dong is the currency of Vietnam."
+  },
+  {
+   "id": "gk-misc-p17-0019",
+   "q": "To which category of elements does Rhodium belong?",
+   "o": [
+    "Alkaline earth metal",
+    "Metalloid",
+    "Noble gas",
+    "Transition metal"
+   ],
+   "a": 3,
+   "t": "Periodic Table",
+   "l": 3,
+   "s": "generated",
+   "e": "Rhodium is classified as a Transition metal."
+  },
+  {
+   "id": "gk-misc-p17-0020",
+   "q": "Which of the following pairs of day and date is NOT correctly matched?",
+   "o": [
+    "World Diabetes Day - 14 November",
+    "World Kindness Day - 13 November",
+    "International Migrants Day - 14 December",
+    "World No Tobacco Day - 31 May"
+   ],
+   "a": 2,
+   "t": "Important Days",
+   "l": 3,
+   "s": "generated",
+   "e": "The pair International Migrants Day - 14 December is not correctly matched."
+  },
+  {
+   "id": "gk-misc-p17-0021",
+   "q": "Sensible is a synonym of which of the following words?",
+   "o": [
+    "Hostile",
+    "Augment",
+    "Judicious",
+    "Abundant"
+   ],
+   "a": 2,
+   "t": "Synonyms",
+   "l": 2,
+   "s": "generated",
+   "e": "Sensible is a synonym of Judicious."
+  },
+  {
+   "id": "gk-misc-p17-0022",
+   "q": "Which of the following pairs is correctly matched?",
+   "o": [
+    "Penitent - Sorrowful",
+    "Penitent - Temporary",
+    "Penitent - Alert",
+    "Penitent - Unrepentant"
+   ],
+   "a": 3,
+   "t": "Antonyms",
+   "l": 3,
+   "s": "generated",
+   "e": "Only Penitent - Unrepentant is correctly matched."
+  },
+  {
+   "id": "gk-misc-p17-0023",
+   "q": "Which of the following pairs is correctly matched?",
+   "o": [
+    "At the eleventh hour - Make every effort",
+    "At the eleventh hour - Deceive",
+    "At the eleventh hour - At the last moment",
+    "At the eleventh hour - Do a pointless thing"
+   ],
+   "a": 2,
+   "t": "Idioms and Phrases",
+   "l": 3,
+   "s": "generated",
+   "e": "Only At the eleventh hour - At the last moment is correctly matched."
+  },
+  {
+   "id": "gk-misc-p17-0024",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who does not believe in God - Atheist",
@@ -34,7 +379,7 @@
    "e": "Only One who does not believe in God - Atheist is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0002",
+   "id": "gk-misc-p17-0025",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Transferring - Transfering",
@@ -49,7 +394,7 @@
    "e": "Only Transferring - Transfering is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0003",
+   "id": "gk-misc-p17-0026",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "RNA - Deoxyribonucleic Acid",
@@ -64,7 +409,7 @@
    "e": "Only RNA - Ribonucleic Acid is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0004",
+   "id": "gk-misc-p17-0027",
    "q": "The currency Kuwaiti Dinar is used in which country?",
    "o": [
     "Kuwait",
@@ -79,7 +424,7 @@
    "e": "Kuwaiti Dinar is the currency of Kuwait."
   },
   {
-   "id": "gk-misc-p17-0005",
+   "id": "gk-misc-p17-0028",
    "q": "To which category of elements does Neon belong?",
    "o": [
     "Actinide",
@@ -94,7 +439,7 @@
    "e": "Neon is classified as a Noble gas."
   },
   {
-   "id": "gk-misc-p17-0006",
+   "id": "gk-misc-p17-0029",
    "q": "Which of the following pairs of day and date is NOT correctly matched?",
    "o": [
     "International Mountain Day - 22 December",
@@ -109,7 +454,7 @@
    "e": "The pair International Mountain Day - 22 December is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0007",
+   "id": "gk-misc-p17-0030",
    "q": "Irritable is a synonym of which of the following words?",
    "o": [
     "Itinerant",
@@ -124,7 +469,7 @@
    "e": "Irritable is a synonym of Irascible."
   },
   {
-   "id": "gk-misc-p17-0008",
+   "id": "gk-misc-p17-0031",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Fertile - Overturn",
@@ -139,7 +484,7 @@
    "e": "Only Fertile - Barren is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0009",
+   "id": "gk-misc-p17-0032",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "At the eleventh hour - Relatives",
@@ -154,7 +499,7 @@
    "e": "Only At the eleventh hour - At the last moment is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0010",
+   "id": "gk-misc-p17-0033",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Government by the nobility - Chauvinism",
@@ -169,7 +514,7 @@
    "e": "Only Government by the nobility - Aristocracy is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0011",
+   "id": "gk-misc-p17-0034",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Aggravate - Concieted",
@@ -184,7 +529,7 @@
    "e": "Only Aggravate - Aggrevate is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0012",
+   "id": "gk-misc-p17-0035",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "ITBP - National Stock Exchange",
@@ -199,7 +544,7 @@
    "e": "Only ITBP - Indo-Tibetan Border Police is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0013",
+   "id": "gk-misc-p17-0036",
    "q": "The currency Chilean Peso is used in which country?",
    "o": [
     "Chile",
@@ -214,7 +559,7 @@
    "e": "Chilean Peso is the currency of Chile."
   },
   {
-   "id": "gk-misc-p17-0014",
+   "id": "gk-misc-p17-0037",
    "q": "To which category of elements does Californium belong?",
    "o": [
     "Actinide",
@@ -229,7 +574,7 @@
    "e": "Californium is classified as a Actinide."
   },
   {
-   "id": "gk-misc-p17-0015",
+   "id": "gk-misc-p17-0038",
    "q": "Which of the following pairs of day and date is NOT correctly matched?",
    "o": [
     "International Anti-Corruption Day - 12 January",
@@ -244,7 +589,7 @@
    "e": "The pair International Anti-Corruption Day - 12 January is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0016",
+   "id": "gk-misc-p17-0039",
    "q": "Shy is a synonym of which of the following words?",
    "o": [
     "Timid",
@@ -259,7 +604,7 @@
    "e": "Shy is a synonym of Timid."
   },
   {
-   "id": "gk-misc-p17-0017",
+   "id": "gk-misc-p17-0040",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Fertile - Increase",
@@ -274,7 +619,7 @@
    "e": "Only Fertile - Barren is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0018",
+   "id": "gk-misc-p17-0041",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Beat about the bush - Invalid",
@@ -289,7 +634,7 @@
    "e": "Only Beat about the bush - Talk without coming to the point is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0019",
+   "id": "gk-misc-p17-0042",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Government by the nobility - Panacea",
@@ -304,7 +649,7 @@
    "e": "Only Government by the nobility - Aristocracy is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0020",
+   "id": "gk-misc-p17-0043",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Aggravate - Sacrafice",
@@ -319,7 +664,7 @@
    "e": "Only Aggravate - Aggrevate is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0021",
+   "id": "gk-misc-p17-0044",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "ITBP - Indo-Tibetan Border Police",
@@ -334,7 +679,7 @@
    "e": "Only ITBP - Indo-Tibetan Border Police is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0022",
+   "id": "gk-misc-p17-0045",
    "q": "The currency Quetzal is used in which country?",
    "o": [
     "Albania",
@@ -349,7 +694,7 @@
    "e": "Quetzal is the currency of Guatemala."
   },
   {
-   "id": "gk-misc-p17-0023",
+   "id": "gk-misc-p17-0046",
    "q": "To which category of elements does Nitrogen belong?",
    "o": [
     "Transition metal",
@@ -364,7 +709,7 @@
    "e": "Nitrogen is classified as a Non-metal."
   },
   {
-   "id": "gk-misc-p17-0024",
+   "id": "gk-misc-p17-0047",
    "q": "Diligent is a synonym of which of the following words?",
    "o": [
     "Eminent",
@@ -379,7 +724,7 @@
    "e": "Diligent is a synonym of Assiduous."
   },
   {
-   "id": "gk-misc-p17-0025",
+   "id": "gk-misc-p17-0048",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Pacify - Provoke",
@@ -394,7 +739,7 @@
    "e": "Only Pacify - Provoke is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0026",
+   "id": "gk-misc-p17-0049",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Beat about the bush - A selfish motive",
@@ -409,7 +754,7 @@
    "e": "Only Beat about the bush - Talk without coming to the point is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0027",
+   "id": "gk-misc-p17-0050",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Something that is difficult to understand - Abstruse",
@@ -424,7 +769,7 @@
    "e": "Only Something that is difficult to understand - Abstruse is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0028",
+   "id": "gk-misc-p17-0051",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Independence - Changable",
@@ -439,7 +784,7 @@
    "e": "Only Independence - Independance is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0029",
+   "id": "gk-misc-p17-0052",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "NSE - Sashastra Seema Bal",
@@ -454,7 +799,7 @@
    "e": "Only NSE - National Stock Exchange is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0030",
+   "id": "gk-misc-p17-0053",
    "q": "The currency Kwanza is used in which country?",
    "o": [
     "Hungary",
@@ -469,7 +814,7 @@
    "e": "Kwanza is the currency of Angola."
   },
   {
-   "id": "gk-misc-p17-0031",
+   "id": "gk-misc-p17-0054",
    "q": "To which category of elements does Beryllium belong?",
    "o": [
     "Lanthanide",
@@ -484,7 +829,7 @@
    "e": "Beryllium is classified as a Alkaline earth metal."
   },
   {
-   "id": "gk-misc-p17-0032",
+   "id": "gk-misc-p17-0055",
    "q": "Indifference is a synonym of which of the following words?",
    "o": [
     "Banal",
@@ -499,7 +844,7 @@
    "e": "Indifference is a synonym of Apathy."
   },
   {
-   "id": "gk-misc-p17-0033",
+   "id": "gk-misc-p17-0056",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Pacify - Plentiful",
@@ -514,7 +859,7 @@
    "e": "Only Pacify - Provoke is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0034",
+   "id": "gk-misc-p17-0057",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Cut a sorry figure - Be ruined",
@@ -529,7 +874,7 @@
    "e": "Only Cut a sorry figure - Make a poor impression is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0035",
+   "id": "gk-misc-p17-0058",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Something that is difficult to understand - Genocide",
@@ -544,7 +889,7 @@
    "e": "Only Something that is difficult to understand - Abstruse is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0036",
+   "id": "gk-misc-p17-0059",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Independence - Independance",
@@ -559,7 +904,7 @@
    "e": "Only Independence - Independance is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0037",
+   "id": "gk-misc-p17-0060",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "NSE - Personal Identification Number",
@@ -574,7 +919,7 @@
    "e": "Only NSE - National Stock Exchange is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0038",
+   "id": "gk-misc-p17-0061",
    "q": "The currency Metical is used in which country?",
    "o": [
     "Mozambique",
@@ -589,7 +934,7 @@
    "e": "Metical is the currency of Mozambique."
   },
   {
-   "id": "gk-misc-p17-0039",
+   "id": "gk-misc-p17-0062",
    "q": "To which category of elements does Manganese belong?",
    "o": [
     "Alkali metal",
@@ -604,7 +949,7 @@
    "e": "Manganese is classified as a Transition metal."
   },
   {
-   "id": "gk-misc-p17-0040",
+   "id": "gk-misc-p17-0063",
    "q": "Fearless is a synonym of which of the following words?",
    "o": [
     "Debacle",
@@ -619,7 +964,7 @@
    "e": "Fearless is a synonym of Intrepid."
   },
   {
-   "id": "gk-misc-p17-0041",
+   "id": "gk-misc-p17-0064",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Preposterous - Concise",
@@ -634,7 +979,7 @@
    "e": "Only Preposterous - Sensible is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0042",
+   "id": "gk-misc-p17-0065",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Cut a sorry figure - An achievement to be proud of",
@@ -649,7 +994,7 @@
    "e": "Only Cut a sorry figure - Make a poor impression is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0043",
+   "id": "gk-misc-p17-0066",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Government by one person with absolute power - Anatomy",
@@ -664,7 +1009,7 @@
    "e": "Only Government by one person with absolute power - Autocracy is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0044",
+   "id": "gk-misc-p17-0067",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Anonymous - Medival",
@@ -679,7 +1024,7 @@
    "e": "Only Anonymous - Anonimous is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0045",
+   "id": "gk-misc-p17-0068",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "ESOP - Global Positioning System",
@@ -694,7 +1039,7 @@
    "e": "Only ESOP - Employee Stock Option Plan is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0046",
+   "id": "gk-misc-p17-0069",
    "q": "The currency Peso is used in which country?",
    "o": [
     "Qatar",
@@ -709,7 +1054,7 @@
    "e": "Peso is the currency of Philippines."
   },
   {
-   "id": "gk-misc-p17-0047",
+   "id": "gk-misc-p17-0070",
    "q": "To which category of elements does Dubnium belong?",
    "o": [
     "Alkali metal",
@@ -724,7 +1069,7 @@
    "e": "Dubnium is classified as a Transition metal."
   },
   {
-   "id": "gk-misc-p17-0048",
+   "id": "gk-misc-p17-0071",
    "q": "Difficult is a synonym of which of the following words?",
    "o": [
     "Inundate",
@@ -739,7 +1084,7 @@
    "e": "Difficult is a synonym of Arduous."
   },
   {
-   "id": "gk-misc-p17-0049",
+   "id": "gk-misc-p17-0072",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Preposterous - Permanent",
@@ -754,7 +1099,7 @@
    "e": "Only Preposterous - Sensible is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0050",
+   "id": "gk-misc-p17-0073",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "To go back on one's word - A weak point",
@@ -769,7 +1114,7 @@
    "e": "Only To go back on one's word - To break a promise is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0051",
+   "id": "gk-misc-p17-0074",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Government by one person with absolute power - Autocracy",
@@ -784,7 +1129,7 @@
    "e": "Only Government by one person with absolute power - Autocracy is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0052",
+   "id": "gk-misc-p17-0075",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Anonymous - Anonimous",
@@ -799,7 +1144,7 @@
    "e": "Only Anonymous - Anonimous is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0053",
+   "id": "gk-misc-p17-0076",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "ESOP - Employee Stock Option Plan",
@@ -814,7 +1159,7 @@
    "e": "Only ESOP - Employee Stock Option Plan is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0054",
+   "id": "gk-misc-p17-0077",
    "q": "The currency Shekel is used in which country?",
    "o": [
     "Slovakia",
@@ -829,7 +1174,7 @@
    "e": "Shekel is the currency of Israel."
   },
   {
-   "id": "gk-misc-p17-0055",
+   "id": "gk-misc-p17-0078",
    "q": "To which category of elements does Holmium belong?",
    "o": [
     "Noble gas",
@@ -844,7 +1189,7 @@
    "e": "Holmium is classified as a Lanthanide."
   },
   {
-   "id": "gk-misc-p17-0056",
+   "id": "gk-misc-p17-0079",
    "q": "Remorseful is a synonym of which of the following words?",
    "o": [
     "Lethargic",
@@ -859,7 +1204,7 @@
    "e": "Remorseful is a synonym of Penitent."
   },
   {
-   "id": "gk-misc-p17-0057",
+   "id": "gk-misc-p17-0080",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Jubilant - Agitated",
@@ -874,7 +1219,7 @@
    "e": "Only Jubilant - Sorrowful is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0058",
+   "id": "gk-misc-p17-0081",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "To go back on one's word - Occasionally",
@@ -889,7 +1234,7 @@
    "e": "Only To go back on one's word - To break a promise is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0059",
+   "id": "gk-misc-p17-0082",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A person who sells flowers - Amphibians",
@@ -904,7 +1249,7 @@
    "e": "Only A person who sells flowers - Florist is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0060",
+   "id": "gk-misc-p17-0083",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Conscience - Wenesday",
@@ -919,7 +1264,7 @@
    "e": "Only Conscience - Consience is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0061",
+   "id": "gk-misc-p17-0084",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "NSG - Athletics track and field club naming",
@@ -934,7 +1279,7 @@
    "e": "Only NSG - National Security Guard is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0062",
+   "id": "gk-misc-p17-0085",
    "q": "The currency Euro is used in which country?",
    "o": [
     "Austria",
@@ -949,7 +1294,7 @@
    "e": "Euro is the currency of Austria."
   },
   {
-   "id": "gk-misc-p17-0063",
+   "id": "gk-misc-p17-0086",
    "q": "To which category of elements does Uranium belong?",
    "o": [
     "Non-metal",
@@ -964,7 +1309,7 @@
    "e": "Uranium is classified as a Actinide."
   },
   {
-   "id": "gk-misc-p17-0064",
+   "id": "gk-misc-p17-0087",
    "q": "Implied is a synonym of which of the following words?",
    "o": [
     "Fortitude",
@@ -979,7 +1324,7 @@
    "e": "Implied is a synonym of Implicit."
   },
   {
-   "id": "gk-misc-p17-0065",
+   "id": "gk-misc-p17-0088",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Jubilant - Certain",
@@ -994,7 +1339,7 @@
    "e": "Only Jubilant - Sorrowful is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0066",
+   "id": "gk-misc-p17-0089",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Drop a line - A decision cannot be changed",
@@ -1009,7 +1354,7 @@
    "e": "Only Drop a line - Send a short letter is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0067",
+   "id": "gk-misc-p17-0090",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A person who sells flowers - Anatomy",
@@ -1024,7 +1369,7 @@
    "e": "Only A person who sells flowers - Florist is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0068",
+   "id": "gk-misc-p17-0091",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Conscience - Consience",
@@ -1039,7 +1384,7 @@
    "e": "Only Conscience - Consience is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0069",
+   "id": "gk-misc-p17-0092",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "NSG - International Committee of the Red Cross",
@@ -1054,7 +1399,7 @@
    "e": "Only NSG - National Security Guard is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0070",
+   "id": "gk-misc-p17-0093",
    "q": "The currency Fijian Dollar is used in which country?",
    "o": [
     "Lesotho",
@@ -1069,7 +1414,7 @@
    "e": "Fijian Dollar is the currency of Fiji."
   },
   {
-   "id": "gk-misc-p17-0071",
+   "id": "gk-misc-p17-0094",
    "q": "To which category of elements does Osmium belong?",
    "o": [
     "Post-transition metal",
@@ -1084,7 +1429,7 @@
    "e": "Osmium is classified as a Transition metal."
   },
   {
-   "id": "gk-misc-p17-0072",
+   "id": "gk-misc-p17-0095",
    "q": "Shy is a synonym of which of the following words?",
    "o": [
     "Feasible",
@@ -1099,7 +1444,7 @@
    "e": "Shy is a synonym of Diffident."
   },
   {
-   "id": "gk-misc-p17-0073",
+   "id": "gk-misc-p17-0096",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Adversity - Intensify",
@@ -1114,7 +1459,7 @@
    "e": "Only Adversity - Prosperity is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0074",
+   "id": "gk-misc-p17-0097",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Drop a line - To be involved in everything",
@@ -1129,7 +1474,7 @@
    "e": "Only Drop a line - Send a short letter is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0075",
+   "id": "gk-misc-p17-0098",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who talks too much - Zoo",
@@ -1144,7 +1489,7 @@
    "e": "Only One who talks too much - Garrulous is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0076",
+   "id": "gk-misc-p17-0099",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Tongue - Tounge",
@@ -1159,7 +1504,7 @@
    "e": "Only Tongue - Tounge is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0077",
+   "id": "gk-misc-p17-0100",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "UNICEF - Magnetic Resonance Imaging",
@@ -1174,7 +1519,7 @@
    "e": "Only UNICEF - United Nations Children's Fund is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0078",
+   "id": "gk-misc-p17-0101",
    "q": "The currency Guarani is used in which country?",
    "o": [
     "Vietnam",
@@ -1189,7 +1534,7 @@
    "e": "Guarani is the currency of Paraguay."
   },
   {
-   "id": "gk-misc-p17-0079",
+   "id": "gk-misc-p17-0102",
    "q": "To which category of elements does Dysprosium belong?",
    "o": [
     "Lanthanide",
@@ -1204,7 +1549,7 @@
    "e": "Dysprosium is classified as a Lanthanide."
   },
   {
-   "id": "gk-misc-p17-0080",
+   "id": "gk-misc-p17-0103",
    "q": "Odd is a synonym of which of the following words?",
    "o": [
     "Formidable",
@@ -1219,7 +1564,7 @@
    "e": "Odd is a synonym of Eccentric."
   },
   {
-   "id": "gk-misc-p17-0081",
+   "id": "gk-misc-p17-0104",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Adversity - Restless",
@@ -1234,7 +1579,7 @@
    "e": "Only Adversity - Prosperity is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0082",
+   "id": "gk-misc-p17-0105",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "End in smoke - Absence without permission",
@@ -1249,7 +1594,7 @@
    "e": "Only End in smoke - Come to nothing is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0083",
+   "id": "gk-misc-p17-0106",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who talks too much - Septuagenarian",
@@ -1264,7 +1609,7 @@
    "e": "Only One who talks too much - Garrulous is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0084",
+   "id": "gk-misc-p17-0107",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Tongue - Accesible",
@@ -1279,7 +1624,7 @@
    "e": "Only Tongue - Tounge is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0085",
+   "id": "gk-misc-p17-0108",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "UNICEF - Know Your Customer",
@@ -1294,7 +1639,7 @@
    "e": "Only UNICEF - United Nations Children's Fund is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0086",
+   "id": "gk-misc-p17-0109",
    "q": "The currency Costa Rican Colon is used in which country?",
    "o": [
     "South Korea",
@@ -1309,7 +1654,7 @@
    "e": "Costa Rican Colon is the currency of Costa Rica."
   },
   {
-   "id": "gk-misc-p17-0087",
+   "id": "gk-misc-p17-0110",
    "q": "To which category of elements does Ruthenium belong?",
    "o": [
     "Halogen",
@@ -1324,7 +1669,7 @@
    "e": "Ruthenium is classified as a Transition metal."
   },
   {
-   "id": "gk-misc-p17-0088",
+   "id": "gk-misc-p17-0111",
    "q": "Unmanageable is a synonym of which of the following words?",
    "o": [
     "Incorrigible",
@@ -1339,7 +1684,7 @@
    "e": "Unmanageable is a synonym of Incorrigible."
   },
   {
-   "id": "gk-misc-p17-0089",
+   "id": "gk-misc-p17-0112",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Thrifty - Conventional",
@@ -1354,7 +1699,7 @@
    "e": "Only Thrifty - Wasteful is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0090",
+   "id": "gk-misc-p17-0113",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "End in smoke - Make every effort",
@@ -1369,7 +1714,7 @@
    "e": "Only End in smoke - Come to nothing is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0091",
+   "id": "gk-misc-p17-0114",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who is not sure about God's existence - Epitaph",
@@ -1384,7 +1729,7 @@
    "e": "Only One who is not sure about God's existence - Agnostic is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0092",
+   "id": "gk-misc-p17-0115",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Category - Catagory",
@@ -1399,7 +1744,7 @@
    "e": "Only Category - Catagory is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0093",
+   "id": "gk-misc-p17-0116",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "POS - International Telecommunication Union",
@@ -1414,7 +1759,7 @@
    "e": "Only POS - Point of Sale is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0094",
+   "id": "gk-misc-p17-0117",
    "q": "The currency Rufiyaa is used in which country?",
    "o": [
     "Haiti",
@@ -1429,7 +1774,7 @@
    "e": "Rufiyaa is the currency of Maldives."
   },
   {
-   "id": "gk-misc-p17-0095",
+   "id": "gk-misc-p17-0118",
    "q": "To which category of elements does Tin belong?",
    "o": [
     "Lanthanide",
@@ -1444,7 +1789,7 @@
    "e": "Tin is classified as a Post-transition metal."
   },
   {
-   "id": "gk-misc-p17-0096",
+   "id": "gk-misc-p17-0119",
    "q": "Hasty is a synonym of which of the following words?",
    "o": [
     "Precipitate",
@@ -1459,7 +1804,7 @@
    "e": "Hasty is a synonym of Precipitate."
   },
   {
-   "id": "gk-misc-p17-0097",
+   "id": "gk-misc-p17-0120",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Thrifty - Fearful",
@@ -1474,7 +1819,7 @@
    "e": "Only Thrifty - Wasteful is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0098",
+   "id": "gk-misc-p17-0121",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Come to light - Become known",
@@ -1489,7 +1834,7 @@
    "e": "Only Come to light - Become known is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0099",
+   "id": "gk-misc-p17-0122",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who is not sure about God's existence - Etymologist",
@@ -1504,7 +1849,7 @@
    "e": "Only One who is not sure about God's existence - Agnostic is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0100",
+   "id": "gk-misc-p17-0123",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Category - Emperior",
@@ -1519,7 +1864,7 @@
    "e": "Only Category - Catagory is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0101",
+   "id": "gk-misc-p17-0124",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "POS - National Aeronautics and Space Administration",
@@ -1534,7 +1879,7 @@
    "e": "Only POS - Point of Sale is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0102",
+   "id": "gk-misc-p17-0125",
    "q": "The currency Surinamese Dollar is used in which country?",
    "o": [
     "Mali",
@@ -1549,7 +1894,7 @@
    "e": "Surinamese Dollar is the currency of Suriname."
   },
   {
-   "id": "gk-misc-p17-0103",
+   "id": "gk-misc-p17-0126",
    "q": "To which category of elements does Tennessine belong?",
    "o": [
     "Halogen",
@@ -1564,7 +1909,7 @@
    "e": "Tennessine is classified as a Halogen."
   },
   {
-   "id": "gk-misc-p17-0104",
+   "id": "gk-misc-p17-0127",
    "q": "Penniless is a synonym of which of the following words?",
    "o": [
     "Novice",
@@ -1579,7 +1924,7 @@
    "e": "Penniless is a synonym of Destitute."
   },
   {
-   "id": "gk-misc-p17-0105",
+   "id": "gk-misc-p17-0128",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Superfluous - Independent",
@@ -1594,7 +1939,7 @@
    "e": "Only Superfluous - Necessary is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0106",
+   "id": "gk-misc-p17-0129",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Come to light - To act unfairly",
@@ -1609,7 +1954,7 @@
    "e": "Only Come to light - Become known is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0107",
+   "id": "gk-misc-p17-0130",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A state of lawlessness - Apiary",
@@ -1624,7 +1969,7 @@
    "e": "Only A state of lawlessness - Anarchy is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0108",
+   "id": "gk-misc-p17-0131",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Accommodation - Forth",
@@ -1639,7 +1984,7 @@
    "e": "Only Accommodation - Accomodation is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0109",
+   "id": "gk-misc-p17-0132",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "ASEAN - Digital Infrastructure for Knowledge Sharing",
@@ -1654,7 +1999,7 @@
    "e": "Only ASEAN - Association of South East Asian Nations is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0110",
+   "id": "gk-misc-p17-0133",
    "q": "The currency Belarusian Ruble is used in which country?",
    "o": [
     "Peru",
@@ -1669,7 +2014,7 @@
    "e": "Belarusian Ruble is the currency of Belarus."
   },
   {
-   "id": "gk-misc-p17-0111",
+   "id": "gk-misc-p17-0134",
    "q": "To which category of elements does Chromium belong?",
    "o": [
     "Halogen",
@@ -1684,7 +2029,7 @@
    "e": "Chromium is classified as a Transition metal."
   },
   {
-   "id": "gk-misc-p17-0112",
+   "id": "gk-misc-p17-0135",
    "q": "Wandering is a synonym of which of the following words?",
    "o": [
     "Reprimand",
@@ -1699,7 +2044,7 @@
    "e": "Wandering is a synonym of Nomadic."
   },
   {
-   "id": "gk-misc-p17-0113",
+   "id": "gk-misc-p17-0136",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Superfluous - Condemn",
@@ -1714,7 +2059,7 @@
    "e": "Only Superfluous - Necessary is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0114",
+   "id": "gk-misc-p17-0137",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Tall talk - Completely",
@@ -1729,7 +2074,7 @@
    "e": "Only Tall talk - Exaggerated speech is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0115",
+   "id": "gk-misc-p17-0138",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A state of lawlessness - Anarchy",
@@ -1744,7 +2089,7 @@
    "e": "Only A state of lawlessness - Anarchy is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0116",
+   "id": "gk-misc-p17-0139",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Accommodation - Independance",
@@ -1759,7 +2104,7 @@
    "e": "Only Accommodation - Accomodation is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0117",
+   "id": "gk-misc-p17-0140",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "ASEAN - Pradhan Mantri Fasal Bima Yojana",
@@ -1774,7 +2119,7 @@
    "e": "Only ASEAN - Association of South East Asian Nations is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0118",
+   "id": "gk-misc-p17-0141",
    "q": "The currency New Zealand Dollar is used in which country?",
    "o": [
     "Syria",
@@ -1789,7 +2134,7 @@
    "e": "New Zealand Dollar is the currency of New Zealand."
   },
   {
-   "id": "gk-misc-p17-0119",
+   "id": "gk-misc-p17-0142",
    "q": "To which category of elements does Promethium belong?",
    "o": [
     "Non-metal",
@@ -1804,7 +2149,7 @@
    "e": "Promethium is classified as a Lanthanide."
   },
   {
-   "id": "gk-misc-p17-0120",
+   "id": "gk-misc-p17-0143",
    "q": "Charity is a synonym of which of the following words?",
    "o": [
     "Dissent",
@@ -1819,7 +2164,7 @@
    "e": "Charity is a synonym of Philanthropy."
   },
   {
-   "id": "gk-misc-p17-0121",
+   "id": "gk-misc-p17-0144",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Plausible - Fruitful",
@@ -1834,7 +2179,7 @@
    "e": "Only Plausible - Implausible is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0122",
+   "id": "gk-misc-p17-0145",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Tall talk - At the last moment",
@@ -1849,7 +2194,7 @@
    "e": "Only Tall talk - Exaggerated speech is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0123",
+   "id": "gk-misc-p17-0146",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A study of the human body - Ambidextrous",
@@ -1864,7 +2209,7 @@
    "e": "Only A study of the human body - Anatomy is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0124",
+   "id": "gk-misc-p17-0147",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Persistent - Persistant",
@@ -1879,7 +2224,7 @@
    "e": "Only Persistent - Persistant is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0125",
+   "id": "gk-misc-p17-0148",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "SEZ - Oral Rehydration Solution",
@@ -1894,7 +2239,7 @@
    "e": "Only SEZ - Special Economic Zone is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0126",
+   "id": "gk-misc-p17-0149",
    "q": "The currency Icelandic Krona is used in which country?",
    "o": [
     "Tunisia",
@@ -1909,7 +2254,7 @@
    "e": "Icelandic Krona is the currency of Iceland."
   },
   {
-   "id": "gk-misc-p17-0127",
+   "id": "gk-misc-p17-0150",
    "q": "To which category of elements does Copernicium belong?",
    "o": [
     "Transition metal",
@@ -1924,7 +2269,7 @@
    "e": "Copernicium is classified as a Transition metal."
   },
   {
-   "id": "gk-misc-p17-0128",
+   "id": "gk-misc-p17-0151",
    "q": "Reduce is a synonym of which of the following words?",
    "o": [
     "Disdain",
@@ -1939,7 +2284,7 @@
    "e": "Reduce is a synonym of Curtail."
   },
   {
-   "id": "gk-misc-p17-0129",
+   "id": "gk-misc-p17-0152",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Plausible - Implausible",
@@ -1954,7 +2299,7 @@
    "e": "Only Plausible - Implausible is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0130",
+   "id": "gk-misc-p17-0153",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Cut the Gordian knot - To waste time",
@@ -1969,7 +2314,7 @@
    "e": "Only Cut the Gordian knot - Solve a difficult problem is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0131",
+   "id": "gk-misc-p17-0154",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A study of the human body - Anatomy",
@@ -1984,7 +2329,7 @@
    "e": "Only A study of the human body - Anatomy is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0132",
+   "id": "gk-misc-p17-0155",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Persistent - Indispensible",
@@ -1999,7 +2344,7 @@
    "e": "Only Persistent - Persistant is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0133",
+   "id": "gk-misc-p17-0156",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "SEZ - Indian Standards Institution",
@@ -2014,7 +2359,7 @@
    "e": "Only SEZ - Special Economic Zone is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0134",
+   "id": "gk-misc-p17-0157",
    "q": "The currency Euro is used in which country?",
    "o": [
     "Argentina",
@@ -2029,7 +2374,7 @@
    "e": "Euro is the currency of Andorra."
   },
   {
-   "id": "gk-misc-p17-0135",
+   "id": "gk-misc-p17-0158",
    "q": "To which category of elements does Platinum belong?",
    "o": [
     "Actinide",
@@ -2044,7 +2389,7 @@
    "e": "Platinum is classified as a Transition metal."
   },
   {
-   "id": "gk-misc-p17-0136",
+   "id": "gk-misc-p17-0159",
    "q": "Watchful is a synonym of which of the following words?",
    "o": [
     "Contempt",
@@ -2059,7 +2404,7 @@
    "e": "Watchful is a synonym of Vigilant."
   },
   {
-   "id": "gk-misc-p17-0137",
+   "id": "gk-misc-p17-0160",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Peril - Virtuous",
@@ -2074,7 +2419,7 @@
    "e": "Only Peril - Safety is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0138",
+   "id": "gk-misc-p17-0161",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Cut the Gordian knot - Solve a difficult problem",
@@ -2089,7 +2434,7 @@
    "e": "Only Cut the Gordian knot - Solve a difficult problem is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0139",
+   "id": "gk-misc-p17-0162",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who is all powerful - Connoisseur",
@@ -2104,7 +2449,7 @@
    "e": "Only One who is all powerful - Omnipotent is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0140",
+   "id": "gk-misc-p17-0163",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Truly - Truely",
@@ -2119,7 +2464,7 @@
    "e": "Only Truly - Truely is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0141",
+   "id": "gk-misc-p17-0164",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "TDS - National Payments Corporation of India",
@@ -2134,7 +2479,7 @@
    "e": "Only TDS - Tax Deducted at Source is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0142",
+   "id": "gk-misc-p17-0165",
    "q": "The currency Euro is used in which country?",
    "o": [
     "Saudi Arabia",
@@ -2149,7 +2494,7 @@
    "e": "Euro is the currency of Greece."
   },
   {
-   "id": "gk-misc-p17-0143",
+   "id": "gk-misc-p17-0166",
    "q": "To which category of elements does Tantalum belong?",
    "o": [
     "Alkaline earth metal",
@@ -2164,7 +2509,7 @@
    "e": "Tantalum is classified as a Transition metal."
   },
   {
-   "id": "gk-misc-p17-0144",
+   "id": "gk-misc-p17-0167",
    "q": "Flexible is a synonym of which of the following words?",
    "o": [
     "Inundate",
@@ -2179,7 +2524,7 @@
    "e": "Flexible is a synonym of Resilient."
   },
   {
-   "id": "gk-misc-p17-0145",
+   "id": "gk-misc-p17-0168",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Peril - Safety",
@@ -2194,7 +2539,7 @@
    "e": "Only Peril - Safety is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0146",
+   "id": "gk-misc-p17-0169",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "As the crow flies - Noble birth",
@@ -2209,7 +2554,7 @@
    "e": "Only As the crow flies - In a straight line is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0147",
+   "id": "gk-misc-p17-0170",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who is all powerful - Polyandry",
@@ -2224,7 +2569,7 @@
    "e": "Only One who is all powerful - Omnipotent is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0148",
+   "id": "gk-misc-p17-0171",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Truly - Threshhold",
@@ -2239,7 +2584,7 @@
    "e": "Only Truly - Truely is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0149",
+   "id": "gk-misc-p17-0172",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "TDS - National Stock Exchange",
@@ -2254,7 +2599,7 @@
    "e": "Only TDS - Tax Deducted at Source is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0150",
+   "id": "gk-misc-p17-0173",
    "q": "The currency Loti is used in which country?",
    "o": [
     "India",
@@ -2269,7 +2614,7 @@
    "e": "Loti is the currency of Lesotho."
   },
   {
-   "id": "gk-misc-p17-0151",
+   "id": "gk-misc-p17-0174",
    "q": "To which category of elements does Tellurium belong?",
    "o": [
     "Transition metal",
@@ -2284,7 +2629,7 @@
    "e": "Tellurium is classified as a Metalloid."
   },
   {
-   "id": "gk-misc-p17-0152",
+   "id": "gk-misc-p17-0175",
    "q": "Embodiment is a synonym of which of the following words?",
    "o": [
     "Fastidious",
@@ -2299,7 +2644,7 @@
    "e": "Embodiment is a synonym of Epitome."
   },
   {
-   "id": "gk-misc-p17-0153",
+   "id": "gk-misc-p17-0176",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Serene - Turbulent",
@@ -2314,7 +2659,7 @@
    "e": "Only Serene - Turbulent is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0154",
+   "id": "gk-misc-p17-0177",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "As the crow flies - Take advantage of disturbance",
@@ -2329,7 +2674,7 @@
    "e": "Only As the crow flies - In a straight line is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0155",
+   "id": "gk-misc-p17-0178",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The practice of having many wives - Omnipotent",
@@ -2344,7 +2689,7 @@
    "e": "Only The practice of having many wives - Polygamy is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0156",
+   "id": "gk-misc-p17-0179",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Millennium - Independant",
@@ -2359,7 +2704,7 @@
    "e": "Only Millennium - Millenium is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0157",
+   "id": "gk-misc-p17-0180",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "WMO - Consumer Price Index",
@@ -2374,7 +2719,7 @@
    "e": "Only WMO - World Meteorological Organization is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0158",
+   "id": "gk-misc-p17-0181",
    "q": "The currency Gourde is used in which country?",
    "o": [
     "Haiti",
@@ -2389,7 +2734,7 @@
    "e": "Gourde is the currency of Haiti."
   },
   {
-   "id": "gk-misc-p17-0159",
+   "id": "gk-misc-p17-0182",
    "q": "To which category of elements does Oxygen belong?",
    "o": [
     "Lanthanide",
@@ -2404,7 +2749,7 @@
    "e": "Oxygen is classified as a Non-metal."
   },
   {
-   "id": "gk-misc-p17-0160",
+   "id": "gk-misc-p17-0183",
    "q": "Make poor is a synonym of which of the following words?",
    "o": [
     "Volatile",
@@ -2419,7 +2764,7 @@
    "e": "Make poor is a synonym of Impoverish."
   },
   {
-   "id": "gk-misc-p17-0161",
+   "id": "gk-misc-p17-0184",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Serene - Careless",
@@ -2434,7 +2779,7 @@
    "e": "Only Serene - Turbulent is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0162",
+   "id": "gk-misc-p17-0185",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A bolt from the blue - Face the main impact",
@@ -2449,7 +2794,7 @@
    "e": "Only A bolt from the blue - An unexpected event is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0163",
+   "id": "gk-misc-p17-0186",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The practice of having many wives - Incorrigible",
@@ -2464,7 +2809,7 @@
    "e": "Only The practice of having many wives - Polygamy is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0164",
+   "id": "gk-misc-p17-0187",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Millennium - Sieze",
@@ -2479,7 +2824,7 @@
    "e": "Only Millennium - Millenium is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0165",
+   "id": "gk-misc-p17-0188",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "WMO - World Meteorological Organization",
@@ -2494,7 +2839,7 @@
    "e": "Only WMO - World Meteorological Organization is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0166",
+   "id": "gk-misc-p17-0189",
    "q": "The currency Colombian Peso is used in which country?",
    "o": [
     "Bosnia and Herzegovina",
@@ -2509,7 +2854,7 @@
    "e": "Colombian Peso is the currency of Colombia."
   },
   {
-   "id": "gk-misc-p17-0167",
+   "id": "gk-misc-p17-0190",
    "q": "To which category of elements does Praseodymium belong?",
    "o": [
     "Lanthanide",
@@ -2524,7 +2869,7 @@
    "e": "Praseodymium is classified as a Lanthanide."
   },
   {
-   "id": "gk-misc-p17-0168",
+   "id": "gk-misc-p17-0191",
    "q": "Compassion is a synonym of which of the following words?",
    "o": [
     "Heresy",
@@ -2539,7 +2884,7 @@
    "e": "Compassion is a synonym of Empathy."
   },
   {
-   "id": "gk-misc-p17-0169",
+   "id": "gk-misc-p17-0192",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Sagacious - Original",
@@ -2554,7 +2899,7 @@
    "e": "Only Sagacious - Foolish is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0170",
+   "id": "gk-misc-p17-0193",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A bolt from the blue - Be logically sound",
@@ -2569,7 +2914,7 @@
    "e": "Only A bolt from the blue - An unexpected event is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0171",
+   "id": "gk-misc-p17-0194",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A person who has just started learning something - Carpenter",
@@ -2584,7 +2929,7 @@
    "e": "Only A person who has just started learning something - Beginner is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0172",
+   "id": "gk-misc-p17-0195",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Repetition - Repitition",
@@ -2599,7 +2944,7 @@
    "e": "Only Repetition - Repitition is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0173",
+   "id": "gk-misc-p17-0196",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "D-mat - National Payments Corporation of India",
@@ -2614,7 +2959,7 @@
    "e": "Only D-mat - Dematerialised account for shares is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0174",
+   "id": "gk-misc-p17-0197",
    "q": "The currency Euro is used in which country?",
    "o": [
     "Austria",
@@ -2629,7 +2974,7 @@
    "e": "Euro is the currency of Cyprus."
   },
   {
-   "id": "gk-misc-p17-0175",
+   "id": "gk-misc-p17-0198",
    "q": "To which category of elements does Cerium belong?",
    "o": [
     "Lanthanide",
@@ -2644,7 +2989,7 @@
    "e": "Cerium is classified as a Lanthanide."
   },
   {
-   "id": "gk-misc-p17-0176",
+   "id": "gk-misc-p17-0199",
    "q": "Prominent is a synonym of which of the following words?",
    "o": [
     "Nomadic",
@@ -2659,7 +3004,7 @@
    "e": "Prominent is a synonym of Salient."
   },
   {
-   "id": "gk-misc-p17-0177",
+   "id": "gk-misc-p17-0200",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Sagacious - Foolish",
@@ -2674,7 +3019,7 @@
    "e": "Only Sagacious - Foolish is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0178",
+   "id": "gk-misc-p17-0201",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Put the cart before the horse - Without wasting words",
@@ -2689,7 +3034,7 @@
    "e": "Only Put the cart before the horse - Do things in the wrong order is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0179",
+   "id": "gk-misc-p17-0202",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A person who has just started learning something - Cannibal",
@@ -2704,7 +3049,7 @@
    "e": "Only A person who has just started learning something - Beginner is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0180",
+   "id": "gk-misc-p17-0203",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Repetition - Repitition",
@@ -2719,7 +3064,7 @@
    "e": "Only Repetition - Repitition is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0181",
+   "id": "gk-misc-p17-0204",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "D-mat - Out Patient Department",
@@ -2734,7 +3079,7 @@
    "e": "Only D-mat - Dematerialised account for shares is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0182",
+   "id": "gk-misc-p17-0205",
    "q": "The currency Euro is used in which country?",
    "o": [
     "Sierra Leone",
@@ -2749,7 +3094,7 @@
    "e": "Euro is the currency of Spain."
   },
   {
-   "id": "gk-misc-p17-0183",
+   "id": "gk-misc-p17-0206",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "47 - Fe",
@@ -2764,7 +3109,7 @@
    "e": "Only 47 - Ag is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0184",
+   "id": "gk-misc-p17-0207",
    "q": "Peaceful is a synonym of which of the following words?",
    "o": [
     "Poignant",
@@ -2779,7 +3124,7 @@
    "e": "Peaceful is a synonym of Tranquil."
   },
   {
-   "id": "gk-misc-p17-0185",
+   "id": "gk-misc-p17-0208",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Tranquil - Praise",
@@ -2794,7 +3139,7 @@
    "e": "Only Tranquil - Restless is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0186",
+   "id": "gk-misc-p17-0209",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Put the cart before the horse - Do things in the wrong order",
@@ -2809,7 +3154,7 @@
    "e": "Only Put the cart before the horse - Do things in the wrong order is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0187",
+   "id": "gk-misc-p17-0210",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who knows everything - Omniscient",
@@ -2824,7 +3169,7 @@
    "e": "Only One who knows everything - Omniscient is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0188",
+   "id": "gk-misc-p17-0211",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Appropriate - Rememberance",
@@ -2839,7 +3184,7 @@
    "e": "Only Appropriate - Appropraite is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0189",
+   "id": "gk-misc-p17-0212",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "RAW - Research and Analysis Wing",
@@ -2854,7 +3199,7 @@
    "e": "Only RAW - Research and Analysis Wing is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0190",
+   "id": "gk-misc-p17-0213",
    "q": "The currency Zambian Kwacha is used in which country?",
    "o": [
     "Luxembourg",
@@ -2869,7 +3214,7 @@
    "e": "Zambian Kwacha is the currency of Zambia."
   },
   {
-   "id": "gk-misc-p17-0191",
+   "id": "gk-misc-p17-0214",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "47 - O",
@@ -2884,7 +3229,7 @@
    "e": "Only 47 - Ag is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0192",
+   "id": "gk-misc-p17-0215",
    "q": "Concise is a synonym of which of the following words?",
    "o": [
     "Debilitate",
@@ -2899,7 +3244,7 @@
    "e": "Concise is a synonym of Terse."
   },
   {
-   "id": "gk-misc-p17-0193",
+   "id": "gk-misc-p17-0216",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Tranquil - Frugal",
@@ -2914,7 +3259,7 @@
    "e": "Only Tranquil - Restless is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0194",
+   "id": "gk-misc-p17-0217",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Out and out - Thoroughly",
@@ -2929,7 +3274,7 @@
    "e": "Only Out and out - Thoroughly is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0195",
+   "id": "gk-misc-p17-0218",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "One who knows everything - Carnivores",
@@ -2944,7 +3289,7 @@
    "e": "Only One who knows everything - Omniscient is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0196",
+   "id": "gk-misc-p17-0219",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Appropriate - Carrage",
@@ -2959,7 +3304,7 @@
    "e": "Only Appropriate - Appropraite is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0197",
+   "id": "gk-misc-p17-0220",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "RAW - Ribonucleic Acid",
@@ -2974,7 +3319,7 @@
    "e": "Only RAW - Research and Analysis Wing is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0198",
+   "id": "gk-misc-p17-0221",
    "q": "The currency Bahraini Dinar is used in which country?",
    "o": [
     "Bahrain",
@@ -2989,7 +3334,7 @@
    "e": "Bahraini Dinar is the currency of Bahrain."
   },
   {
-   "id": "gk-misc-p17-0199",
+   "id": "gk-misc-p17-0222",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "98 - Cn",
@@ -3004,7 +3349,7 @@
    "e": "Only 98 - Cf is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0200",
+   "id": "gk-misc-p17-0223",
    "q": "Countless is a synonym of which of the following words?",
    "o": [
     "Gregarious",
@@ -3019,7 +3364,7 @@
    "e": "Countless is a synonym of Myriad."
   },
   {
-   "id": "gk-misc-p17-0201",
+   "id": "gk-misc-p17-0224",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Innate - Extravagant",
@@ -3034,7 +3379,7 @@
    "e": "Only Innate - Acquired is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0202",
+   "id": "gk-misc-p17-0225",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Out and out - Speak plainly",
@@ -3049,7 +3394,7 @@
    "e": "Only Out and out - Thoroughly is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0203",
+   "id": "gk-misc-p17-0226",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A medicine that reduces pain - Septuagenarian",
@@ -3064,7 +3409,7 @@
    "e": "Only A medicine that reduces pain - Analgesic is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0204",
+   "id": "gk-misc-p17-0227",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Happiness - Emperior",
@@ -3079,7 +3424,7 @@
    "e": "Only Happiness - Hapiness is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0205",
+   "id": "gk-misc-p17-0228",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "NPA - Border Security Force",
@@ -3094,7 +3439,7 @@
    "e": "Only NPA - Non Performing Asset is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0206",
+   "id": "gk-misc-p17-0229",
    "q": "The currency Lempira is used in which country?",
    "o": [
     "Suriname",
@@ -3109,7 +3454,7 @@
    "e": "Lempira is the currency of Honduras."
   },
   {
-   "id": "gk-misc-p17-0207",
+   "id": "gk-misc-p17-0230",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "98 - U",
@@ -3124,7 +3469,7 @@
    "e": "Only 98 - Cf is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0208",
+   "id": "gk-misc-p17-0231",
    "q": "Wordy is a synonym of which of the following words?",
    "o": [
     "Torpid",
@@ -3139,7 +3484,7 @@
    "e": "Wordy is a synonym of Verbose."
   },
   {
-   "id": "gk-misc-p17-0209",
+   "id": "gk-misc-p17-0232",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Innate - Confirm",
@@ -3154,7 +3499,7 @@
    "e": "Only Innate - Acquired is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0210",
+   "id": "gk-misc-p17-0233",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Kick the bucket - Make an effort to improve",
@@ -3169,7 +3514,7 @@
    "e": "Only Kick the bucket - Die is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0211",
+   "id": "gk-misc-p17-0234",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A medicine that reduces pain - Ephemeral",
@@ -3184,7 +3529,7 @@
    "e": "Only A medicine that reduces pain - Analgesic is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0212",
+   "id": "gk-misc-p17-0235",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Happiness - Heros",
@@ -3199,7 +3544,7 @@
    "e": "Only Happiness - Hapiness is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0213",
+   "id": "gk-misc-p17-0236",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "NPA - Universal Postal Union",
@@ -3214,7 +3559,7 @@
    "e": "Only NPA - Non Performing Asset is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0214",
+   "id": "gk-misc-p17-0237",
    "q": "The currency Manat is used in which country?",
    "o": [
     "Jamaica",
@@ -3229,7 +3574,7 @@
    "e": "Manat is the currency of Azerbaijan."
   },
   {
-   "id": "gk-misc-p17-0215",
+   "id": "gk-misc-p17-0238",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "82 - Er",
@@ -3244,7 +3589,7 @@
    "e": "Only 82 - Pb is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0216",
+   "id": "gk-misc-p17-0239",
    "q": "Believable is a synonym of which of the following words?",
    "o": [
     "Reminisce",
@@ -3259,7 +3604,7 @@
    "e": "Believable is a synonym of Plausible."
   },
   {
-   "id": "gk-misc-p17-0217",
+   "id": "gk-misc-p17-0240",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Somnolent - Praise",
@@ -3274,7 +3619,7 @@
    "e": "Only Somnolent - Alert is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0218",
+   "id": "gk-misc-p17-0241",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Kick the bucket - Die",
@@ -3289,7 +3634,7 @@
    "e": "Only Kick the bucket - Die is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0219",
+   "id": "gk-misc-p17-0242",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A place where coins and stamps are made - Mint",
@@ -3304,7 +3649,7 @@
    "e": "Only A place where coins and stamps are made - Mint is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0220",
+   "id": "gk-misc-p17-0243",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Pronunciation - Heros",
@@ -3319,7 +3664,7 @@
    "e": "Only Pronunciation - Pronounciation is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0221",
+   "id": "gk-misc-p17-0244",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "IMF - Indian Institute of Management",
@@ -3334,7 +3679,7 @@
    "e": "Only IMF - International Monetary Fund is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0222",
+   "id": "gk-misc-p17-0245",
    "q": "The currency Lari is used in which country?",
    "o": [
     "Bahamas",
@@ -3349,7 +3694,7 @@
    "e": "Lari is the currency of Georgia."
   },
   {
-   "id": "gk-misc-p17-0223",
+   "id": "gk-misc-p17-0246",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "82 - Na",
@@ -3364,7 +3709,7 @@
    "e": "Only 82 - Pb is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0224",
+   "id": "gk-misc-p17-0247",
    "q": "Possible is a synonym of which of the following words?",
    "o": [
     "Feasible",
@@ -3379,7 +3724,7 @@
    "e": "Possible is a synonym of Feasible."
   },
   {
-   "id": "gk-misc-p17-0225",
+   "id": "gk-misc-p17-0248",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Somnolent - Increase",
@@ -3394,7 +3739,7 @@
    "e": "Only Somnolent - Alert is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0226",
+   "id": "gk-misc-p17-0249",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Black sheep - Without wasting words",
@@ -3409,7 +3754,7 @@
    "e": "Only Black sheep - A disreputable member of a family is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0227",
+   "id": "gk-misc-p17-0250",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A place where coins and stamps are made - Mint",
@@ -3424,7 +3769,7 @@
    "e": "Only A place where coins and stamps are made - Mint is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0228",
+   "id": "gk-misc-p17-0251",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Pronunciation - Disatisfied",
@@ -3439,7 +3784,7 @@
    "e": "Only Pronunciation - Pronounciation is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0229",
+   "id": "gk-misc-p17-0252",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "IMF - United Nations Environment Programme",
@@ -3454,7 +3799,7 @@
    "e": "Only IMF - International Monetary Fund is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0230",
+   "id": "gk-misc-p17-0253",
    "q": "The currency Iraqi Dinar is used in which country?",
    "o": [
     "France",
@@ -3469,7 +3814,7 @@
    "e": "Iraqi Dinar is the currency of Iraq."
   },
   {
-   "id": "gk-misc-p17-0231",
+   "id": "gk-misc-p17-0254",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "107 - Fr",
@@ -3484,7 +3829,7 @@
    "e": "Only 107 - Bh is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0232",
+   "id": "gk-misc-p17-0255",
    "q": "Calmness is a synonym of which of the following words?",
    "o": [
     "Profuse",
@@ -3499,7 +3844,7 @@
    "e": "Calmness is a synonym of Equanimity."
   },
   {
-   "id": "gk-misc-p17-0233",
+   "id": "gk-misc-p17-0256",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Staunch - Hostile",
@@ -3514,7 +3859,7 @@
    "e": "Only Staunch - Disloyal is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0234",
+   "id": "gk-misc-p17-0257",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Black sheep - A disreputable member of a family",
@@ -3529,7 +3874,7 @@
    "e": "Only Black sheep - A disreputable member of a family is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0235",
+   "id": "gk-misc-p17-0258",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who cannot be imitated - Inimitable",
@@ -3544,7 +3889,7 @@
    "e": "The pair One who hates mankind - Hermit is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0236",
+   "id": "gk-misc-p17-0259",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Liaison - Publically",
@@ -3559,7 +3904,7 @@
    "e": "Only Liaison - Liason is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0237",
+   "id": "gk-misc-p17-0260",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "AIIB - Asian Infrastructure Investment Bank",
@@ -3574,7 +3919,7 @@
    "e": "Only AIIB - Asian Infrastructure Investment Bank is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0238",
+   "id": "gk-misc-p17-0261",
    "q": "The currency Naira is used in which country?",
    "o": [
     "Netherlands",
@@ -3589,7 +3934,7 @@
    "e": "Naira is the currency of Nigeria."
   },
   {
-   "id": "gk-misc-p17-0239",
+   "id": "gk-misc-p17-0262",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "107 - Se",
@@ -3604,7 +3949,7 @@
    "e": "Only 107 - Bh is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0240",
+   "id": "gk-misc-p17-0263",
    "q": "Hide is a synonym of which of the following words?",
    "o": [
     "Impoverish",
@@ -3619,7 +3964,7 @@
    "e": "Hide is a synonym of Conceal."
   },
   {
-   "id": "gk-misc-p17-0241",
+   "id": "gk-misc-p17-0264",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Staunch - Decide",
@@ -3634,7 +3979,7 @@
    "e": "Only Staunch - Disloyal is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0242",
+   "id": "gk-misc-p17-0265",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Herculean task - A very short distance",
@@ -3649,7 +3994,7 @@
    "e": "Only Herculean task - A very difficult task is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0243",
+   "id": "gk-misc-p17-0266",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "An examination of a dead body - Post-mortem",
@@ -3664,7 +4009,7 @@
    "e": "The pair One who studies animals - Herbivores is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0244",
+   "id": "gk-misc-p17-0267",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Liaison - Woolen",
@@ -3679,7 +4024,7 @@
    "e": "Only Liaison - Liason is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0245",
+   "id": "gk-misc-p17-0268",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "AIIB - National Security Guard",
@@ -3694,7 +4039,7 @@
    "e": "Only AIIB - Asian Infrastructure Investment Bank is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0246",
+   "id": "gk-misc-p17-0269",
    "q": "The currency Manat is used in which country?",
    "o": [
     "Turkmenistan",
@@ -3709,7 +4054,7 @@
    "e": "Manat is the currency of Turkmenistan."
   },
   {
-   "id": "gk-misc-p17-0247",
+   "id": "gk-misc-p17-0270",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "105 - Mc",
@@ -3724,7 +4069,7 @@
    "e": "Only 105 - Db is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0248",
+   "id": "gk-misc-p17-0271",
    "q": "Disparage is a synonym of which of the following words?",
    "o": [
     "Lucid",
@@ -3739,7 +4084,7 @@
    "e": "Disparage is a synonym of Belittle."
   },
   {
-   "id": "gk-misc-p17-0249",
+   "id": "gk-misc-p17-0272",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Fickle - Constant",
@@ -3754,7 +4099,7 @@
    "e": "Only Fickle - Constant is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0250",
+   "id": "gk-misc-p17-0273",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Herculean task - Keep away from",
@@ -3769,7 +4114,7 @@
    "e": "Only Herculean task - A very difficult task is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0251",
+   "id": "gk-misc-p17-0274",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who is between seventy and eighty years old - Septuagenarian",
@@ -3784,7 +4129,7 @@
    "e": "The pair One who loves collecting coins - Somnambulist is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0252",
+   "id": "gk-misc-p17-0275",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Disappear - Innocense",
@@ -3799,7 +4144,7 @@
    "e": "Only Disappear - Dissappear is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0253",
+   "id": "gk-misc-p17-0276",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "NDA - South Asian Association for Regional Cooperation",
@@ -3814,7 +4159,7 @@
    "e": "Only NDA - National Defence Academy is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0254",
+   "id": "gk-misc-p17-0277",
    "q": "The currency Moroccan Dirham is used in which country?",
    "o": [
     "Madagascar",
@@ -3829,7 +4174,7 @@
    "e": "Moroccan Dirham is the currency of Morocco."
   },
   {
-   "id": "gk-misc-p17-0255",
+   "id": "gk-misc-p17-0278",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "105 - Sg",
@@ -3844,7 +4189,7 @@
    "e": "Only 105 - Db is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0256",
+   "id": "gk-misc-p17-0279",
    "q": "Hardworking is a synonym of which of the following words?",
    "o": [
     "Bewilder",
@@ -3859,7 +4204,7 @@
    "e": "Hardworking is a synonym of Diligent."
   },
   {
-   "id": "gk-misc-p17-0257",
+   "id": "gk-misc-p17-0280",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Fickle - Verbose",
@@ -3874,7 +4219,7 @@
    "e": "Only Fickle - Constant is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0258",
+   "id": "gk-misc-p17-0281",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Fall flat - Fail to have the intended effect",
@@ -3889,7 +4234,7 @@
    "e": "Only Fall flat - Fail to have the intended effect is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0259",
+   "id": "gk-misc-p17-0282",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Government by officials - Bureaucracy",
@@ -3904,7 +4249,7 @@
    "e": "The pair One who is all powerful - Omniscient is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0260",
+   "id": "gk-misc-p17-0283",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Disappear - Begining",
@@ -3919,7 +4264,7 @@
    "e": "Only Disappear - Dissappear is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0261",
+   "id": "gk-misc-p17-0284",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "NDA - Defence Research and Development Organisation",
@@ -3934,7 +4279,7 @@
    "e": "Only NDA - National Defence Academy is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0262",
+   "id": "gk-misc-p17-0285",
    "q": "The currency Barbadian Dollar is used in which country?",
    "o": [
     "Somalia",
@@ -3949,7 +4294,7 @@
    "e": "Barbadian Dollar is the currency of Barbados."
   },
   {
-   "id": "gk-misc-p17-0263",
+   "id": "gk-misc-p17-0286",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "33 - In",
@@ -3964,7 +4309,7 @@
    "e": "Only 33 - As is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0264",
+   "id": "gk-misc-p17-0287",
    "q": "Draw out is a synonym of which of the following words?",
    "o": [
     "Esoteric",
@@ -3979,7 +4324,7 @@
    "e": "Draw out is a synonym of Elicit."
   },
   {
-   "id": "gk-misc-p17-0265",
+   "id": "gk-misc-p17-0288",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Condemn - Favourable",
@@ -3994,7 +4339,7 @@
    "e": "Only Condemn - Praise is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0266",
+   "id": "gk-misc-p17-0289",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Fall flat - A person without influence",
@@ -4009,7 +4354,7 @@
    "e": "Only Fall flat - Fail to have the intended effect is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0267",
+   "id": "gk-misc-p17-0290",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A disease that occurs regularly in a region - Inimitable",
@@ -4024,7 +4369,7 @@
    "e": "The pair A disease that occurs regularly in a region - Inimitable is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0268",
+   "id": "gk-misc-p17-0291",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Acknowledgment - Aknowledgment",
@@ -4039,7 +4384,7 @@
    "e": "Only Acknowledgment - Aknowledgment is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0269",
+   "id": "gk-misc-p17-0292",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "PSLV - Food and Agriculture Organization",
@@ -4054,7 +4399,7 @@
    "e": "Only PSLV - Polar Satellite Launch Vehicle is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0270",
+   "id": "gk-misc-p17-0293",
    "q": "The currency Tugrik is used in which country?",
    "o": [
     "Angola",
@@ -4069,7 +4414,7 @@
    "e": "Tugrik is the currency of Mongolia."
   },
   {
-   "id": "gk-misc-p17-0271",
+   "id": "gk-misc-p17-0294",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "33 - As",
@@ -4084,7 +4429,7 @@
    "e": "Only 33 - As is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0272",
+   "id": "gk-misc-p17-0295",
    "q": "Forgive is a synonym of which of the following words?",
    "o": [
     "Condone",
@@ -4099,7 +4444,7 @@
    "e": "Forgive is a synonym of Condone."
   },
   {
-   "id": "gk-misc-p17-0273",
+   "id": "gk-misc-p17-0296",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Condemn - Praise",
@@ -4114,7 +4459,7 @@
    "e": "Only Condemn - Praise is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0274",
+   "id": "gk-misc-p17-0297",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A slap on the wrist - A mild punishment",
@@ -4129,7 +4474,7 @@
    "e": "Only A slap on the wrist - A mild punishment is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0275",
+   "id": "gk-misc-p17-0298",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who cannot read or write - Disinfectant",
@@ -4144,7 +4489,7 @@
    "e": "The pair One who cannot read or write - Disinfectant is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0276",
+   "id": "gk-misc-p17-0299",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Acknowledgment - Threshhold",
@@ -4159,7 +4504,7 @@
    "e": "Only Acknowledgment - Aknowledgment is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0277",
+   "id": "gk-misc-p17-0300",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "PSLV - Polar Satellite Launch Vehicle",
@@ -4174,7 +4519,7 @@
    "e": "Only PSLV - Polar Satellite Launch Vehicle is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0278",
+   "id": "gk-misc-p17-0301",
    "q": "The currency Burundian Franc is used in which country?",
    "o": [
     "Vanuatu",
@@ -4189,7 +4534,7 @@
    "e": "Burundian Franc is the currency of Burundi."
   },
   {
-   "id": "gk-misc-p17-0279",
+   "id": "gk-misc-p17-0302",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "110 - Pu",
@@ -4204,7 +4549,7 @@
    "e": "Only 110 - Ds is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0280",
+   "id": "gk-misc-p17-0303",
    "q": "Elation is a synonym of which of the following words?",
    "o": [
     "Ingenious",
@@ -4219,7 +4564,7 @@
    "e": "Elation is a synonym of Euphoria."
   },
   {
-   "id": "gk-misc-p17-0281",
+   "id": "gk-misc-p17-0304",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Enmity - Clean",
@@ -4234,7 +4579,7 @@
    "e": "Only Enmity - Friendship is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0282",
+   "id": "gk-misc-p17-0305",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A slap on the wrist - Repeat the same point",
@@ -4249,7 +4594,7 @@
    "e": "Only A slap on the wrist - A mild punishment is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0283",
+   "id": "gk-misc-p17-0306",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who does not believe in God - Numismatist",
@@ -4264,7 +4609,7 @@
    "e": "The pair One who does not believe in God - Numismatist is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0284",
+   "id": "gk-misc-p17-0307",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Excellent - Fulfill",
@@ -4279,7 +4624,7 @@
    "e": "Only Excellent - Excelent is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0285",
+   "id": "gk-misc-p17-0308",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "JAM - Gross National Product",
@@ -4294,7 +4639,7 @@
    "e": "Only JAM - Jan Dhan, Aadhaar and Mobile is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0286",
+   "id": "gk-misc-p17-0309",
    "q": "The currency Euro is used in which country?",
    "o": [
     "Slovenia",
@@ -4309,7 +4654,7 @@
    "e": "Euro is the currency of Slovenia."
   },
   {
-   "id": "gk-misc-p17-0287",
+   "id": "gk-misc-p17-0310",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "110 - Am",
@@ -4324,7 +4669,7 @@
    "e": "Only 110 - Ds is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0288",
+   "id": "gk-misc-p17-0311",
    "q": "Frugal is a synonym of which of the following words?",
    "o": [
     "Uncanny",
@@ -4339,7 +4684,7 @@
    "e": "Frugal is a synonym of Thrifty."
   },
   {
-   "id": "gk-misc-p17-0289",
+   "id": "gk-misc-p17-0312",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Enmity - Necessary",
@@ -4354,7 +4699,7 @@
    "e": "Only Enmity - Friendship is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0290",
+   "id": "gk-misc-p17-0313",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A chip on the shoulder - A feeling of resentment",
@@ -4369,7 +4714,7 @@
    "e": "Only A chip on the shoulder - A feeling of resentment is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0291",
+   "id": "gk-misc-p17-0314",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Something that cannot be eaten - Inedible",
@@ -4384,7 +4729,7 @@
    "e": "The pair A long speech by one person in a group - Amphibians is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0292",
+   "id": "gk-misc-p17-0315",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Excellent - Excelent",
@@ -4399,7 +4744,7 @@
    "e": "Only Excellent - Excelent is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0293",
+   "id": "gk-misc-p17-0316",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "JAM - Jan Dhan, Aadhaar and Mobile",
@@ -4414,7 +4759,7 @@
    "e": "Only JAM - Jan Dhan, Aadhaar and Mobile is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0294",
+   "id": "gk-misc-p17-0317",
    "q": "The currency Euro is used in which country?",
    "o": [
     "Jordan",
@@ -4429,7 +4774,7 @@
    "e": "Euro is the currency of Monaco."
   },
   {
-   "id": "gk-misc-p17-0295",
+   "id": "gk-misc-p17-0318",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "85 - Fm",
@@ -4444,7 +4789,7 @@
    "e": "Only 85 - At is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0296",
+   "id": "gk-misc-p17-0319",
    "q": "Unstable is a synonym of which of the following words?",
    "o": [
     "Volatile",
@@ -4459,7 +4804,7 @@
    "e": "Unstable is a synonym of Volatile."
   },
   {
-   "id": "gk-misc-p17-0297",
+   "id": "gk-misc-p17-0320",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Coarse - Unproductive",
@@ -4474,7 +4819,7 @@
    "e": "Only Coarse - Fine is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0298",
+   "id": "gk-misc-p17-0321",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A chip on the shoulder - Have a selfish motive",
@@ -4489,7 +4834,7 @@
    "e": "Only A chip on the shoulder - A feeling of resentment is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0299",
+   "id": "gk-misc-p17-0322",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A speech made without preparation - Hydrophobic",
@@ -4504,7 +4849,7 @@
    "e": "The pair A speech made without preparation - Hydrophobic is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0300",
+   "id": "gk-misc-p17-0323",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Friend - Apparant",
@@ -4519,7 +4864,7 @@
    "e": "Only Friend - Freind is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0301",
+   "id": "gk-misc-p17-0324",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "ICMR - International Securities Identification Number",
@@ -4534,7 +4879,7 @@
    "e": "Only ICMR - Indian Council of Medical Research is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0302",
+   "id": "gk-misc-p17-0325",
    "q": "The currency Birr is used in which country?",
    "o": [
     "Paraguay",
@@ -4549,7 +4894,7 @@
    "e": "Birr is the currency of Ethiopia."
   },
   {
-   "id": "gk-misc-p17-0303",
+   "id": "gk-misc-p17-0326",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "85 - Ru",
@@ -4564,7 +4909,7 @@
    "e": "Only 85 - At is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0304",
+   "id": "gk-misc-p17-0327",
    "q": "Clear is a synonym of which of the following words?",
    "o": [
     "Lucid",
@@ -4579,7 +4924,7 @@
    "e": "Clear is a synonym of Lucid."
   },
   {
-   "id": "gk-misc-p17-0305",
+   "id": "gk-misc-p17-0328",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Coarse - Fearful",
@@ -4594,7 +4939,7 @@
    "e": "Only Coarse - Fine is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0306",
+   "id": "gk-misc-p17-0329",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Up to the mark - Be logically sound",
@@ -4609,7 +4954,7 @@
    "e": "Only Up to the mark - Of the required standard is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0307",
+   "id": "gk-misc-p17-0330",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Something that can be eaten - Meteorologist",
@@ -4624,7 +4969,7 @@
    "e": "The pair Something that can be eaten - Meteorologist is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0308",
+   "id": "gk-misc-p17-0331",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Friend - Seperate",
@@ -4639,7 +4984,7 @@
    "e": "Only Friend - Freind is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0309",
+   "id": "gk-misc-p17-0332",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "ICMR - Telecom Regulatory Authority of India",
@@ -4654,7 +4999,7 @@
    "e": "Only ICMR - Indian Council of Medical Research is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0310",
+   "id": "gk-misc-p17-0333",
    "q": "The currency Tanzanian Shilling is used in which country?",
    "o": [
     "Portugal",
@@ -4669,7 +5014,7 @@
    "e": "Tanzanian Shilling is the currency of Tanzania."
   },
   {
-   "id": "gk-misc-p17-0311",
+   "id": "gk-misc-p17-0334",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "112 - Nh",
@@ -4684,7 +5029,7 @@
    "e": "Only 112 - Cn is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0312",
+   "id": "gk-misc-p17-0335",
    "q": "Unfriendly is a synonym of which of the following words?",
    "o": [
     "Hostile",
@@ -4699,7 +5044,7 @@
    "e": "Unfriendly is a synonym of Hostile."
   },
   {
-   "id": "gk-misc-p17-0313",
+   "id": "gk-misc-p17-0336",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Formidable - Ignorant",
@@ -4714,7 +5059,7 @@
    "e": "Only Formidable - Weak is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0314",
+   "id": "gk-misc-p17-0337",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Up to the mark - Of the required standard",
@@ -4729,7 +5074,7 @@
    "e": "Only Up to the mark - Of the required standard is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0315",
+   "id": "gk-misc-p17-0338",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "The murder of one's mother - Matricide",
@@ -4744,7 +5089,7 @@
    "e": "The pair One who studies insects - Xenophobic is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0316",
+   "id": "gk-misc-p17-0339",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Noticeable - Litereture",
@@ -4759,7 +5104,7 @@
    "e": "Only Noticeable - Noticable is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0317",
+   "id": "gk-misc-p17-0340",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "WIPO - World Intellectual Property Organization",
@@ -4774,7 +5119,7 @@
    "e": "Only WIPO - World Intellectual Property Organization is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0318",
+   "id": "gk-misc-p17-0341",
    "q": "The currency Pound Sterling is used in which country?",
    "o": [
     "Sudan",
@@ -4789,7 +5134,7 @@
    "e": "Pound Sterling is the currency of United Kingdom."
   },
   {
-   "id": "gk-misc-p17-0319",
+   "id": "gk-misc-p17-0342",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "112 - Ir",
@@ -4804,7 +5149,7 @@
    "e": "Only 112 - Cn is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0320",
+   "id": "gk-misc-p17-0343",
    "q": "Effectiveness is a synonym of which of the following words?",
    "o": [
     "Antipathy",
@@ -4819,7 +5164,7 @@
    "e": "Effectiveness is a synonym of Efficacy."
   },
   {
-   "id": "gk-misc-p17-0321",
+   "id": "gk-misc-p17-0344",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Formidable - Extrinsic",
@@ -4834,7 +5179,7 @@
    "e": "Only Formidable - Weak is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0322",
+   "id": "gk-misc-p17-0345",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "See eye to eye - Do something remarkable",
@@ -4849,7 +5194,7 @@
    "e": "Only See eye to eye - Agree completely is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0323",
+   "id": "gk-misc-p17-0346",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A person who mends clothes - Tailor",
@@ -4864,7 +5209,7 @@
    "e": "The pair The practice of having many wives - Linguist is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0324",
+   "id": "gk-misc-p17-0347",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Noticeable - Grammer",
@@ -4879,7 +5224,7 @@
    "e": "Only Noticeable - Noticable is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0325",
+   "id": "gk-misc-p17-0348",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "WIPO - Airborne Warning and Control System",
@@ -4894,7 +5239,7 @@
    "e": "Only WIPO - World Intellectual Property Organization is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0326",
+   "id": "gk-misc-p17-0349",
    "q": "The currency Jordanian Dinar is used in which country?",
    "o": [
     "Belgium",
@@ -4909,7 +5254,7 @@
    "e": "Jordanian Dinar is the currency of Jordan."
   },
   {
-   "id": "gk-misc-p17-0327",
+   "id": "gk-misc-p17-0350",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "103 - K",
@@ -4924,7 +5269,7 @@
    "e": "Only 103 - Lr is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0328",
+   "id": "gk-misc-p17-0351",
    "q": "Hopeless is a synonym of which of the following words?",
    "o": [
     "Ignominy",
@@ -4939,7 +5284,7 @@
    "e": "Hopeless is a synonym of Despondent."
   },
   {
-   "id": "gk-misc-p17-0329",
+   "id": "gk-misc-p17-0352",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Tentative - Praise",
@@ -4954,7 +5299,7 @@
    "e": "Only Tentative - Definite is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0330",
+   "id": "gk-misc-p17-0353",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "See eye to eye - Without wasting words",
@@ -4969,7 +5314,7 @@
    "e": "Only See eye to eye - Agree completely is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0331",
+   "id": "gk-misc-p17-0354",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A person employed to drive a car - Chauffeur",
@@ -4984,7 +5329,7 @@
    "e": "The pair A speech made to oneself when alone - Hydrophobic is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0332",
+   "id": "gk-misc-p17-0355",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Indispensable - Interupt",
@@ -4999,7 +5344,7 @@
    "e": "Only Indispensable - Indispensible is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0333",
+   "id": "gk-misc-p17-0356",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "RBI - Reserve Bank of India",
@@ -5014,7 +5359,7 @@
    "e": "Only RBI - Reserve Bank of India is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0334",
+   "id": "gk-misc-p17-0357",
    "q": "The currency Solomon Islands Dollar is used in which country?",
    "o": [
     "Solomon Islands",
@@ -5029,7 +5374,7 @@
    "e": "Solomon Islands Dollar is the currency of Solomon Islands."
   },
   {
-   "id": "gk-misc-p17-0335",
+   "id": "gk-misc-p17-0358",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "103 - Bi",
@@ -5044,7 +5389,7 @@
    "e": "Only 103 - Lr is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0336",
+   "id": "gk-misc-p17-0359",
    "q": "Rude is a synonym of which of the following words?",
    "o": [
     "Disdain",
@@ -5059,7 +5404,7 @@
    "e": "Rude is a synonym of Insolent."
   },
   {
-   "id": "gk-misc-p17-0337",
+   "id": "gk-misc-p17-0360",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Tentative - Lax",
@@ -5074,7 +5419,7 @@
    "e": "Only Tentative - Definite is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0338",
+   "id": "gk-misc-p17-0361",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Play second fiddle - Take a subordinate role",
@@ -5089,7 +5434,7 @@
    "e": "Only Play second fiddle - Take a subordinate role is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0339",
+   "id": "gk-misc-p17-0362",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who cannot be heard - Inaudible",
@@ -5104,7 +5449,7 @@
    "e": "The pair Government by a king or queen - Blacksmith is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0340",
+   "id": "gk-misc-p17-0363",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Indispensable - Indispensible",
@@ -5119,7 +5464,7 @@
    "e": "Only Indispensable - Indispensible is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0341",
+   "id": "gk-misc-p17-0364",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "RBI - Indo-Tibetan Border Police",
@@ -5134,7 +5479,7 @@
    "e": "Only RBI - Reserve Bank of India is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0342",
+   "id": "gk-misc-p17-0365",
    "q": "The currency Dinar is used in which country?",
    "o": [
     "Serbia",
@@ -5149,7 +5494,7 @@
    "e": "Dinar is the currency of Serbia."
   },
   {
-   "id": "gk-misc-p17-0343",
+   "id": "gk-misc-p17-0366",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "92 - Pd",
@@ -5164,7 +5509,7 @@
    "e": "Only 92 - U is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0344",
+   "id": "gk-misc-p17-0367",
    "q": "Lacking is a synonym of which of the following words?",
    "o": [
     "Euphoria",
@@ -5179,7 +5524,7 @@
    "e": "Lacking is a synonym of Deficient."
   },
   {
-   "id": "gk-misc-p17-0345",
+   "id": "gk-misc-p17-0368",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Prodigal - Thrifty",
@@ -5194,7 +5539,7 @@
    "e": "Only Prodigal - Thrifty is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0346",
+   "id": "gk-misc-p17-0369",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Play second fiddle - Be ruined",
@@ -5209,7 +5554,7 @@
    "e": "Only Play second fiddle - Take a subordinate role is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0347",
+   "id": "gk-misc-p17-0370",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who studies birds - Ornithologist",
@@ -5224,7 +5569,7 @@
    "e": "The pair Government by one person with absolute power - Insolvent is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0348",
+   "id": "gk-misc-p17-0371",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Restaurant - Apparant",
@@ -5239,7 +5584,7 @@
    "e": "Only Restaurant - Restaurent is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0349",
+   "id": "gk-misc-p17-0372",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "PMJDY - European Organization for Nuclear Research",
@@ -5254,7 +5599,7 @@
    "e": "Only PMJDY - Pradhan Mantri Jan Dhan Yojana is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0350",
+   "id": "gk-misc-p17-0373",
    "q": "The currency Euro is used in which country?",
    "o": [
     "Albania",
@@ -5269,7 +5614,7 @@
    "e": "Euro is the currency of Malta."
   },
   {
-   "id": "gk-misc-p17-0351",
+   "id": "gk-misc-p17-0374",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "92 - U",
@@ -5284,7 +5629,7 @@
    "e": "Only 92 - U is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0352",
+   "id": "gk-misc-p17-0375",
    "q": "Calm is a synonym of which of the following words?",
    "o": [
     "Tentative",
@@ -5299,7 +5644,7 @@
    "e": "Calm is a synonym of Placid."
   },
   {
-   "id": "gk-misc-p17-0353",
+   "id": "gk-misc-p17-0376",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Prodigal - Cruel",
@@ -5314,7 +5659,7 @@
    "e": "Only Prodigal - Thrifty is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0354",
+   "id": "gk-misc-p17-0377",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A thorn in one's flesh - A constant source of trouble",
@@ -5329,7 +5674,7 @@
    "e": "Only A thorn in one's flesh - A constant source of trouble is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0355",
+   "id": "gk-misc-p17-0378",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A place where money is coined - Mint",
@@ -5344,7 +5689,7 @@
    "e": "The pair One who studies plants - Chauffeur is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0356",
+   "id": "gk-misc-p17-0379",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Restaurant - Oportunity",
@@ -5359,7 +5704,7 @@
    "e": "Only Restaurant - Restaurent is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0357",
+   "id": "gk-misc-p17-0380",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "PMJDY - International Securities Identification Number",
@@ -5374,7 +5719,7 @@
    "e": "Only PMJDY - Pradhan Mantri Jan Dhan Yojana is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0358",
+   "id": "gk-misc-p17-0381",
    "q": "The currency CFA Franc is used in which country?",
    "o": [
     "Qatar",
@@ -5389,7 +5734,7 @@
    "e": "CFA Franc is the currency of Mali."
   },
   {
-   "id": "gk-misc-p17-0359",
+   "id": "gk-misc-p17-0382",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "71 - Sn",
@@ -5404,7 +5749,7 @@
    "e": "Only 71 - Lu is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0360",
+   "id": "gk-misc-p17-0383",
    "q": "Impending is a synonym of which of the following words?",
    "o": [
     "Enigma",
@@ -5419,7 +5764,7 @@
    "e": "Impending is a synonym of Imminent."
   },
   {
-   "id": "gk-misc-p17-0361",
+   "id": "gk-misc-p17-0384",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Fallacy - Truth",
@@ -5434,7 +5779,7 @@
    "e": "Only Fallacy - Truth is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0362",
+   "id": "gk-misc-p17-0385",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "A thorn in one's flesh - Be the dominant person",
@@ -5449,7 +5794,7 @@
    "e": "Only A thorn in one's flesh - A constant source of trouble is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0363",
+   "id": "gk-misc-p17-0386",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A conversation between two people - Dialogue",
@@ -5464,7 +5809,7 @@
    "e": "The pair One who is always hopeful - Armoury is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0364",
+   "id": "gk-misc-p17-0387",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Ridiculous - Independance",
@@ -5479,7 +5824,7 @@
    "e": "Only Ridiculous - Ridiculos is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0365",
+   "id": "gk-misc-p17-0388",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "PMGSY - Pradhan Mantri Gram Sadak Yojana",
@@ -5494,7 +5839,7 @@
    "e": "Only PMGSY - Pradhan Mantri Gram Sadak Yojana is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0366",
+   "id": "gk-misc-p17-0389",
    "q": "The currency Convertible Mark is used in which country?",
    "o": [
     "Togo",
@@ -5509,7 +5854,7 @@
    "e": "Convertible Mark is the currency of Bosnia and Herzegovina."
   },
   {
-   "id": "gk-misc-p17-0367",
+   "id": "gk-misc-p17-0390",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "71 - No",
@@ -5524,7 +5869,7 @@
    "e": "Only 71 - Lu is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0368",
+   "id": "gk-misc-p17-0391",
    "q": "Relevant is a synonym of which of the following words?",
    "o": [
     "Pugnacious",
@@ -5539,7 +5884,7 @@
    "e": "Relevant is a synonym of Germane."
   },
   {
-   "id": "gk-misc-p17-0369",
+   "id": "gk-misc-p17-0392",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Fallacy - Malevolent",
@@ -5554,7 +5899,7 @@
    "e": "Only Fallacy - Truth is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0370",
+   "id": "gk-misc-p17-0393",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Left-handed compliment - An ambiguous compliment",
@@ -5569,7 +5914,7 @@
    "e": "Only Left-handed compliment - An ambiguous compliment is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0371",
+   "id": "gk-misc-p17-0394",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Something that is no longer in use - Obsolete",
@@ -5584,7 +5929,7 @@
    "e": "The pair A person who eats only plants and no animal products - Hangar is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0372",
+   "id": "gk-misc-p17-0395",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Ridiculous - Advantagous",
@@ -5599,7 +5944,7 @@
    "e": "Only Ridiculous - Ridiculos is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0373",
+   "id": "gk-misc-p17-0396",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "PMGSY - Pradhan Mantri Gram Sadak Yojana",
@@ -5614,7 +5959,7 @@
    "e": "Only PMGSY - Pradhan Mantri Gram Sadak Yojana is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0374",
+   "id": "gk-misc-p17-0397",
    "q": "The currency Guinean Franc is used in which country?",
    "o": [
     "Guinea",
@@ -5629,7 +5974,7 @@
    "e": "Guinean Franc is the currency of Guinea."
   },
   {
-   "id": "gk-misc-p17-0375",
+   "id": "gk-misc-p17-0398",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "29 - Os",
@@ -5644,7 +5989,7 @@
    "e": "Only 29 - Cu is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0376",
+   "id": "gk-misc-p17-0399",
    "q": "Greedy is a synonym of which of the following words?",
    "o": [
     "Voracious",
@@ -5659,7 +6004,7 @@
    "e": "Greedy is a synonym of Voracious."
   },
   {
-   "id": "gk-misc-p17-0377",
+   "id": "gk-misc-p17-0400",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Vivacious - Pessimistic",
@@ -5674,7 +6019,7 @@
    "e": "Only Vivacious - Dull is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0378",
+   "id": "gk-misc-p17-0401",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Left-handed compliment - A decision cannot be changed",
@@ -5689,7 +6034,7 @@
    "e": "Only Left-handed compliment - An ambiguous compliment is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0379",
+   "id": "gk-misc-p17-0402",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who is more than one hundred years old - Centenarian",
@@ -5704,7 +6049,7 @@
    "e": "The pair A person who writes books - Numismatist is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0380",
+   "id": "gk-misc-p17-0403",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Omission - Inteligence",
@@ -5719,7 +6064,7 @@
    "e": "Only Omission - Ommision is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0381",
+   "id": "gk-misc-p17-0404",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "NTA - Fiscal Responsibility and Budget Management",
@@ -5734,7 +6079,7 @@
    "e": "Only NTA - National Testing Agency is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0382",
+   "id": "gk-misc-p17-0405",
    "q": "The currency Euro is used in which country?",
    "o": [
     "North Korea",
@@ -5749,7 +6094,7 @@
    "e": "Euro is the currency of Luxembourg."
   },
   {
-   "id": "gk-misc-p17-0383",
+   "id": "gk-misc-p17-0406",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "29 - Cu",
@@ -5764,7 +6109,7 @@
    "e": "Only 29 - Cu is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0384",
+   "id": "gk-misc-p17-0407",
    "q": "Poverty is a synonym of which of the following words?",
    "o": [
     "Sporadic",
@@ -5779,7 +6124,7 @@
    "e": "Poverty is a synonym of Indigence."
   },
   {
-   "id": "gk-misc-p17-0385",
+   "id": "gk-misc-p17-0408",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Vivacious - Dull",
@@ -5794,7 +6139,7 @@
    "e": "Only Vivacious - Dull is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0386",
+   "id": "gk-misc-p17-0409",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Through thick and thin - Ill feeling",
@@ -5809,7 +6154,7 @@
    "e": "Only Through thick and thin - In good and bad times is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0387",
+   "id": "gk-misc-p17-0410",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A person who is made to bear the blame for others - Scapegoat",
@@ -5824,7 +6169,7 @@
    "e": "The pair Government by officials - Octogenarian is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0388",
+   "id": "gk-misc-p17-0411",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Omission - Achievment",
@@ -5839,7 +6184,7 @@
    "e": "Only Omission - Ommision is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0389",
+   "id": "gk-misc-p17-0412",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "NTA - Jan Dhan, Aadhaar and Mobile",
@@ -5854,7 +6199,7 @@
    "e": "Only NTA - National Testing Agency is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0390",
+   "id": "gk-misc-p17-0413",
    "q": "The currency Rupiah is used in which country?",
    "o": [
     "Tonga",
@@ -5869,7 +6214,7 @@
    "e": "Rupiah is the currency of Indonesia."
   },
   {
-   "id": "gk-misc-p17-0391",
+   "id": "gk-misc-p17-0414",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "4 - Be",
@@ -5884,7 +6229,7 @@
    "e": "Only 4 - Be is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0392",
+   "id": "gk-misc-p17-0415",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Complacent - Profitable",
@@ -5899,7 +6244,7 @@
    "e": "Only Complacent - Self-satisfied is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0393",
+   "id": "gk-misc-p17-0416",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Negligible - Essential",
@@ -5914,7 +6259,7 @@
    "e": "Only Negligible - Significant is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0394",
+   "id": "gk-misc-p17-0417",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Through thick and thin - In good and bad times",
@@ -5929,7 +6274,7 @@
    "e": "Only Through thick and thin - In good and bad times is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0395",
+   "id": "gk-misc-p17-0418",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Words written on a tomb - Epitaph",
@@ -5944,7 +6289,7 @@
    "e": "The pair The murder of one's father - Omniscient is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0396",
+   "id": "gk-misc-p17-0419",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Proceed - Procede",
@@ -5959,7 +6304,7 @@
    "e": "Only Proceed - Procede is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0397",
+   "id": "gk-misc-p17-0420",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "ED - Launch Vehicle Mark 3",
@@ -5974,7 +6319,7 @@
    "e": "Only ED - Enforcement Directorate is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0398",
+   "id": "gk-misc-p17-0421",
    "q": "The currency US Dollar is used in which country?",
    "o": [
     "Peru",
@@ -5989,7 +6334,7 @@
    "e": "US Dollar is the currency of Ecuador."
   },
   {
-   "id": "gk-misc-p17-0399",
+   "id": "gk-misc-p17-0422",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "4 - Fr",
@@ -6004,7 +6349,7 @@
    "e": "Only 4 - Be is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0400",
+   "id": "gk-misc-p17-0423",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Complacent - Patience",
@@ -6019,7 +6364,7 @@
    "e": "Only Complacent - Self-satisfied is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0401",
+   "id": "gk-misc-p17-0424",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Negligible - Significant",
@@ -6034,7 +6379,7 @@
    "e": "Only Negligible - Significant is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0402",
+   "id": "gk-misc-p17-0425",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "To cry over spilt milk - Facing the same difficulty",
@@ -6049,7 +6394,7 @@
    "e": "Only To cry over spilt milk - To lament what cannot be undone is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0403",
+   "id": "gk-misc-p17-0426",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A substance that destroys germs - Disinfectant",
@@ -6064,7 +6409,7 @@
    "e": "The pair One who is between sixty and seventy years old - Linguist is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0404",
+   "id": "gk-misc-p17-0427",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Proceed - Collegue",
@@ -6079,7 +6424,7 @@
    "e": "Only Proceed - Procede is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0405",
+   "id": "gk-misc-p17-0428",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "ED - Minimum Support Price",
@@ -6094,7 +6439,7 @@
    "e": "Only ED - Enforcement Directorate is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0406",
+   "id": "gk-misc-p17-0429",
    "q": "The currency Pakistani Rupee is used in which country?",
    "o": [
     "Estonia",
@@ -6109,7 +6454,7 @@
    "e": "Pakistani Rupee is the currency of Pakistan."
   },
   {
-   "id": "gk-misc-p17-0407",
+   "id": "gk-misc-p17-0430",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "37 - Cr",
@@ -6124,7 +6469,7 @@
    "e": "Only 37 - Rb is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0408",
+   "id": "gk-misc-p17-0431",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Uncanny - Learned",
@@ -6139,7 +6484,7 @@
    "e": "Only Uncanny - Strange is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0409",
+   "id": "gk-misc-p17-0432",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Volatile - Agreement",
@@ -6154,7 +6499,7 @@
    "e": "Only Volatile - Stable is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0410",
+   "id": "gk-misc-p17-0433",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "To cry over spilt milk - To lament what cannot be undone",
@@ -6169,7 +6514,7 @@
    "e": "Only To cry over spilt milk - To lament what cannot be undone is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0411",
+   "id": "gk-misc-p17-0434",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A person who works with iron - Agnostic",
@@ -6184,7 +6529,7 @@
    "e": "The pair A person who works with iron - Agnostic is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0412",
+   "id": "gk-misc-p17-0435",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Medieval - Medival",
@@ -6199,7 +6544,7 @@
    "e": "Only Medieval - Medival is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0413",
+   "id": "gk-misc-p17-0436",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "PMFBY - Jan Dhan, Aadhaar and Mobile",
@@ -6214,7 +6559,7 @@
    "e": "Only PMFBY - Pradhan Mantri Fasal Bima Yojana is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0414",
+   "id": "gk-misc-p17-0437",
    "q": "The currency Mexican Peso is used in which country?",
    "o": [
     "Vanuatu",
@@ -6229,7 +6574,7 @@
    "e": "Mexican Peso is the currency of Mexico."
   },
   {
-   "id": "gk-misc-p17-0415",
+   "id": "gk-misc-p17-0438",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "37 - Rb",
@@ -6244,7 +6589,7 @@
    "e": "Only 37 - Rb is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0416",
+   "id": "gk-misc-p17-0439",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Uncanny - Generous",
@@ -6259,7 +6604,7 @@
    "e": "Only Uncanny - Strange is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0417",
+   "id": "gk-misc-p17-0440",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Volatile - Stable",
@@ -6274,7 +6619,7 @@
    "e": "Only Volatile - Stable is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0418",
+   "id": "gk-misc-p17-0441",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "To move heaven and earth - Much excitement over a trivial matter",
@@ -6289,7 +6634,7 @@
    "e": "Only To move heaven and earth - To make every possible effort is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0419",
+   "id": "gk-misc-p17-0442",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Something that cannot be eaten - Inedible",
@@ -6304,7 +6649,7 @@
    "e": "The pair Words with the same meaning - Drunkard is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0420",
+   "id": "gk-misc-p17-0443",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Medieval - Medival",
@@ -6319,7 +6664,7 @@
    "e": "Only Medieval - Medival is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0421",
+   "id": "gk-misc-p17-0444",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "PMFBY - Pradhan Mantri Fasal Bima Yojana",
@@ -6334,7 +6679,7 @@
    "e": "Only PMFBY - Pradhan Mantri Fasal Bima Yojana is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0422",
+   "id": "gk-misc-p17-0445",
    "q": "The currency Rand is used in which country?",
    "o": [
     "Hungary",
@@ -6349,7 +6694,7 @@
    "e": "Rand is the currency of South Africa."
   },
   {
-   "id": "gk-misc-p17-0423",
+   "id": "gk-misc-p17-0446",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "115 - Mc",
@@ -6364,7 +6709,7 @@
    "e": "Only 115 - Mc is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0424",
+   "id": "gk-misc-p17-0447",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Lament - Mourn",
@@ -6379,7 +6724,7 @@
    "e": "Only Lament - Mourn is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0425",
+   "id": "gk-misc-p17-0448",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Genuine - Counterfeit",
@@ -6394,7 +6739,7 @@
    "e": "Only Genuine - Counterfeit is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0426",
+   "id": "gk-misc-p17-0449",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "To move heaven and earth - Much excitement over a trivial matter",
@@ -6409,7 +6754,7 @@
    "e": "Only To move heaven and earth - To make every possible effort is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0427",
+   "id": "gk-misc-p17-0450",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A life story written by oneself - Autobiography",
@@ -6424,7 +6769,7 @@
    "e": "The pair One who loves books - Florist is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0428",
+   "id": "gk-misc-p17-0451",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Courtesy - Arguement",
@@ -6439,7 +6784,7 @@
    "e": "Only Courtesy - Curtesy is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0429",
+   "id": "gk-misc-p17-0452",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "CTET - International Atomic Energy Agency",
@@ -6454,7 +6799,7 @@
    "e": "Only CTET - Central Teacher Eligibility Test is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0430",
+   "id": "gk-misc-p17-0453",
    "q": "The currency Cuban Peso is used in which country?",
    "o": [
     "Chad",
@@ -6469,7 +6814,7 @@
    "e": "Cuban Peso is the currency of Cuba."
   },
   {
-   "id": "gk-misc-p17-0431",
+   "id": "gk-misc-p17-0454",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "115 - Hf",
@@ -6484,7 +6829,7 @@
    "e": "Only 115 - Mc is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0432",
+   "id": "gk-misc-p17-0455",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Lament - Mourn",
@@ -6499,7 +6844,7 @@
    "e": "Only Lament - Mourn is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0433",
+   "id": "gk-misc-p17-0456",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Genuine - Counterfeit",
@@ -6514,7 +6859,7 @@
    "e": "Only Genuine - Counterfeit is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0434",
+   "id": "gk-misc-p17-0457",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Straw in the wind - A hint of future events",
@@ -6529,7 +6874,7 @@
    "e": "The pair To bell the cat - A constant source of trouble is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0435",
+   "id": "gk-misc-p17-0458",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who studies the weather - Omnipotent",
@@ -6544,7 +6889,7 @@
    "e": "The pair One who studies the weather - Omnipotent is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0436",
+   "id": "gk-misc-p17-0459",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Courtesy - Dilemna",
@@ -6559,7 +6904,7 @@
    "e": "Only Courtesy - Curtesy is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0437",
+   "id": "gk-misc-p17-0460",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "CTET - National Stock Exchange",
@@ -6574,7 +6919,7 @@
    "e": "Only CTET - Central Teacher Eligibility Test is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0438",
+   "id": "gk-misc-p17-0461",
    "q": "The currency Indian Rupee is used in which country?",
    "o": [
     "India",
@@ -6589,7 +6934,7 @@
    "e": "Indian Rupee is the currency of India."
   },
   {
-   "id": "gk-misc-p17-0439",
+   "id": "gk-misc-p17-0462",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "99 - Th",
@@ -6604,7 +6949,7 @@
    "e": "Only 99 - Es is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0440",
+   "id": "gk-misc-p17-0463",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Impoverish - Optimistic",
@@ -6619,7 +6964,7 @@
    "e": "Only Impoverish - Make poor is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0441",
+   "id": "gk-misc-p17-0464",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Impartial - Foolish",
@@ -6634,7 +6979,7 @@
    "e": "Only Impartial - Biased is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0442",
+   "id": "gk-misc-p17-0465",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Head over heels - A miser",
@@ -6649,7 +6994,7 @@
    "e": "The pair Head over heels - A miser is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0443",
+   "id": "gk-misc-p17-0466",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A medicine that kills bacteria - Antibiotic",
@@ -6664,7 +7009,7 @@
    "e": "The pair One who cannot be heard - Invincible is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0444",
+   "id": "gk-misc-p17-0467",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Particularly - Relevent",
@@ -6679,7 +7024,7 @@
    "e": "Only Particularly - Particulary is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0445",
+   "id": "gk-misc-p17-0468",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "LVM3 - Central Teacher Eligibility Test",
@@ -6694,7 +7039,7 @@
    "e": "Only LVM3 - Launch Vehicle Mark 3 is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0446",
+   "id": "gk-misc-p17-0469",
    "q": "The currency Brunei Dollar is used in which country?",
    "o": [
     "Luxembourg",
@@ -6709,7 +7054,7 @@
    "e": "Brunei Dollar is the currency of Brunei."
   },
   {
-   "id": "gk-misc-p17-0447",
+   "id": "gk-misc-p17-0470",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "99 - Es",
@@ -6724,7 +7069,7 @@
    "e": "Only 99 - Es is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0448",
+   "id": "gk-misc-p17-0471",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Impoverish - Stop",
@@ -6739,7 +7084,7 @@
    "e": "Only Impoverish - Make poor is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0449",
+   "id": "gk-misc-p17-0472",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Impartial - Confirm",
@@ -6754,7 +7099,7 @@
    "e": "Only Impartial - Biased is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0450",
+   "id": "gk-misc-p17-0473",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "To wash one's dirty linen in public - A very short distance",
@@ -6769,7 +7114,7 @@
    "e": "The pair To wash one's dirty linen in public - A very short distance is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0451",
+   "id": "gk-misc-p17-0474",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Plants that live for one season - Annuals",
@@ -6784,7 +7129,7 @@
    "e": "The pair A disease that spreads by contact - Demographer is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0452",
+   "id": "gk-misc-p17-0475",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Particularly - Sieze",
@@ -6799,7 +7144,7 @@
    "e": "Only Particularly - Particulary is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0453",
+   "id": "gk-misc-p17-0476",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "LVM3 - Launch Vehicle Mark 3",
@@ -6814,7 +7159,7 @@
    "e": "Only LVM3 - Launch Vehicle Mark 3 is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0454",
+   "id": "gk-misc-p17-0477",
    "q": "The currency Congolese Franc is used in which country?",
    "o": [
     "San Marino",
@@ -6829,7 +7174,7 @@
    "e": "Congolese Franc is the currency of Democratic Republic of the Congo."
   },
   {
-   "id": "gk-misc-p17-0455",
+   "id": "gk-misc-p17-0478",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "41 - Cl",
@@ -6844,7 +7189,7 @@
    "e": "Only 41 - Nb is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0456",
+   "id": "gk-misc-p17-0479",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Disparage - Thin",
@@ -6859,7 +7204,7 @@
    "e": "Only Disparage - Belittle is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0457",
+   "id": "gk-misc-p17-0480",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Haughty - Unruly",
@@ -6874,7 +7219,7 @@
    "e": "Only Haughty - Humble is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0458",
+   "id": "gk-misc-p17-0481",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Rule the roost - Be the dominant person",
@@ -6889,7 +7234,7 @@
    "e": "The pair Close shave - To discuss private matters openly is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0459",
+   "id": "gk-misc-p17-0482",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A person who abstains from eating meat - Vegetarian",
@@ -6904,7 +7249,7 @@
    "e": "The pair A life story written by another person - Anarchy is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0460",
+   "id": "gk-misc-p17-0483",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Adolescent - Dissapoint",
@@ -6919,7 +7264,7 @@
    "e": "Only Adolescent - Adolescant is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0461",
+   "id": "gk-misc-p17-0484",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "PDS - Public Distribution System",
@@ -6934,7 +7279,7 @@
    "e": "Only PDS - Public Distribution System is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0462",
+   "id": "gk-misc-p17-0485",
    "q": "The currency Sri Lankan Rupee is used in which country?",
    "o": [
     "France",
@@ -6949,7 +7294,7 @@
    "e": "Sri Lankan Rupee is the currency of Sri Lanka."
   },
   {
-   "id": "gk-misc-p17-0463",
+   "id": "gk-misc-p17-0486",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "41 - Ca",
@@ -6964,7 +7309,7 @@
    "e": "Only 41 - Nb is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0464",
+   "id": "gk-misc-p17-0487",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Disparage - Praise",
@@ -6979,7 +7324,7 @@
    "e": "Only Disparage - Belittle is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0465",
+   "id": "gk-misc-p17-0488",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Haughty - Clean",
@@ -6994,7 +7339,7 @@
    "e": "Only Haughty - Humble is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0466",
+   "id": "gk-misc-p17-0489",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Let the cat out of the bag - Reveal a secret",
@@ -7009,7 +7354,7 @@
    "e": "The pair By and large - Unable to speak plainly is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0467",
+   "id": "gk-misc-p17-0490",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who is always hopeful - Optimist",
@@ -7024,7 +7369,7 @@
    "e": "The pair A person who is new to a profession - Edible is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0468",
+   "id": "gk-misc-p17-0491",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Adolescent - Perseverence",
@@ -7039,7 +7384,7 @@
    "e": "Only Adolescent - Adolescant is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0469",
+   "id": "gk-misc-p17-0492",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "PDS - Insolvency and Bankruptcy Code",
@@ -7054,7 +7399,7 @@
    "e": "Only PDS - Public Distribution System is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0470",
+   "id": "gk-misc-p17-0493",
    "q": "The currency Som is used in which country?",
    "o": [
     "Solomon Islands",
@@ -7069,7 +7414,7 @@
    "e": "Som is the currency of Uzbekistan."
   },
   {
-   "id": "gk-misc-p17-0471",
+   "id": "gk-misc-p17-0494",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "83 - Nd",
@@ -7084,7 +7429,7 @@
    "e": "Only 83 - Bi is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0472",
+   "id": "gk-misc-p17-0495",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Assiduous - Diligent",
@@ -7099,7 +7444,7 @@
    "e": "Only Assiduous - Diligent is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0473",
+   "id": "gk-misc-p17-0496",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Fluctuate - Respected",
@@ -7114,7 +7459,7 @@
    "e": "Only Fluctuate - Stabilise is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0474",
+   "id": "gk-misc-p17-0497",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Cat's paw - A person used by another",
@@ -7129,7 +7474,7 @@
    "e": "The pair A man of straw - Under suspicion is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0475",
+   "id": "gk-misc-p17-0498",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who is between eighty and ninety years old - Bureaucracy",
@@ -7144,7 +7489,7 @@
    "e": "The pair One who is between eighty and ninety years old - Bureaucracy is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0476",
+   "id": "gk-misc-p17-0499",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Hygiene - Hygeine",
@@ -7159,7 +7504,7 @@
    "e": "Only Hygiene - Hygeine is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0477",
+   "id": "gk-misc-p17-0500",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "OPEC - National Pension System",
@@ -7174,7 +7519,7 @@
    "e": "Only OPEC - Organization of the Petroleum Exporting Countries is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0478",
+   "id": "gk-misc-p17-0501",
    "q": "The currency South Sudanese Pound is used in which country?",
    "o": [
     "South Sudan",
@@ -7189,7 +7534,7 @@
    "e": "South Sudanese Pound is the currency of South Sudan."
   },
   {
-   "id": "gk-misc-p17-0479",
+   "id": "gk-misc-p17-0502",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "83 - Br",
@@ -7204,7 +7549,7 @@
    "e": "Only 83 - Bi is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0480",
+   "id": "gk-misc-p17-0503",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Assiduous - Diligent",
@@ -7219,7 +7564,7 @@
    "e": "Only Assiduous - Diligent is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0481",
+   "id": "gk-misc-p17-0504",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Fluctuate - Unruly",
@@ -7234,7 +7579,7 @@
    "e": "Only Fluctuate - Stabilise is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0482",
+   "id": "gk-misc-p17-0505",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Go to the dogs - Be ruined",
@@ -7249,7 +7594,7 @@
    "e": "The pair Poke one's nose - Lose self-control is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0483",
+   "id": "gk-misc-p17-0506",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A medicine that counteracts a poison - Antidote",
@@ -7264,7 +7609,7 @@
    "e": "The pair The practice of having many husbands - Mortuary is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0484",
+   "id": "gk-misc-p17-0507",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Hygiene - Freind",
@@ -7279,7 +7624,7 @@
    "e": "Only Hygiene - Hygeine is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0485",
+   "id": "gk-misc-p17-0508",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "OPEC - Consumer Price Index",
@@ -7294,7 +7639,7 @@
    "e": "Only OPEC - Organization of the Petroleum Exporting Countries is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0486",
+   "id": "gk-misc-p17-0509",
    "q": "The currency Bahamian Dollar is used in which country?",
    "o": [
     "Togo",
@@ -7309,7 +7654,7 @@
    "e": "Bahamian Dollar is the currency of Bahamas."
   },
   {
-   "id": "gk-misc-p17-0487",
+   "id": "gk-misc-p17-0510",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "5 - Mo",
@@ -7324,7 +7669,7 @@
    "e": "Only 5 - B is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0488",
+   "id": "gk-misc-p17-0511",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Flagrant - Unharmed",
@@ -7339,7 +7684,7 @@
    "e": "Only Flagrant - Glaring is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0489",
+   "id": "gk-misc-p17-0512",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Detrimental - Rare",
@@ -7354,7 +7699,7 @@
    "e": "Only Detrimental - Beneficial is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0490",
+   "id": "gk-misc-p17-0513",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A dark horse - An unexpected winner",
@@ -7369,7 +7714,7 @@
    "e": "The pair A hard nut to crack - To ask someone to leave is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0491",
+   "id": "gk-misc-p17-0514",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A place where fishes are kept - Antibiotic",
@@ -7384,7 +7729,7 @@
    "e": "The pair A place where fishes are kept - Antibiotic is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0492",
+   "id": "gk-misc-p17-0515",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Disappoint - Hygeine",
@@ -7399,7 +7744,7 @@
    "e": "Only Disappoint - Dissapoint is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0493",
+   "id": "gk-misc-p17-0516",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "IUCN - Central Industrial Security Force",
@@ -7414,7 +7759,7 @@
    "e": "Only IUCN - International Union for Conservation of Nature is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0494",
+   "id": "gk-misc-p17-0517",
    "q": "The currency Euro is used in which country?",
    "o": [
     "Benin",
@@ -7429,7 +7774,7 @@
    "e": "Euro is the currency of Estonia."
   },
   {
-   "id": "gk-misc-p17-0495",
+   "id": "gk-misc-p17-0518",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "5 - Nh",
@@ -7444,7 +7789,7 @@
    "e": "Only 5 - B is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0496",
+   "id": "gk-misc-p17-0519",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Flagrant - Prominent",
@@ -7459,7 +7804,7 @@
    "e": "Only Flagrant - Glaring is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0497",
+   "id": "gk-misc-p17-0520",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Detrimental - Significant",
@@ -7474,7 +7819,7 @@
    "e": "Only Detrimental - Beneficial is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0498",
+   "id": "gk-misc-p17-0521",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "To go back on one's word - Destroy at an early stage",
@@ -7489,7 +7834,7 @@
    "e": "The pair To go back on one's word - Destroy at an early stage is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0499",
+   "id": "gk-misc-p17-0522",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A place where weapons are stored - Geologist",
@@ -7504,7 +7849,7 @@
    "e": "The pair A place where weapons are stored - Geologist is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0500",
+   "id": "gk-misc-p17-0523",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Disappoint - Occurence",
@@ -7519,7 +7864,7 @@
    "e": "Only Disappoint - Dissapoint is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0501",
+   "id": "gk-misc-p17-0524",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "IUCN - Employees' State Insurance",
@@ -7534,7 +7879,7 @@
    "e": "Only IUCN - International Union for Conservation of Nature is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0502",
+   "id": "gk-misc-p17-0525",
    "q": "The currency Renminbi is used in which country?",
    "o": [
     "Netherlands",
@@ -7549,7 +7894,7 @@
    "e": "Renminbi is the currency of China."
   },
   {
-   "id": "gk-misc-p17-0503",
+   "id": "gk-misc-p17-0526",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "26 - Fe",
@@ -7564,7 +7909,7 @@
    "e": "Only 26 - Fe is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0504",
+   "id": "gk-misc-p17-0527",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Unscathed - Generous",
@@ -7579,7 +7924,7 @@
    "e": "Only Unscathed - Unharmed is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0505",
+   "id": "gk-misc-p17-0528",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Incessant - Scarce",
@@ -7594,7 +7939,7 @@
    "e": "Only Incessant - Intermittent is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0506",
+   "id": "gk-misc-p17-0529",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A cock and bull story - An unexpected winner",
@@ -7609,7 +7954,7 @@
    "e": "The pair A cock and bull story - An unexpected winner is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0507",
+   "id": "gk-misc-p17-0530",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who does not care about food or comfort - Monarchy",
@@ -7624,7 +7969,7 @@
    "e": "The pair One who does not care about food or comfort - Monarchy is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0508",
+   "id": "gk-misc-p17-0531",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Preference - Goverment",
@@ -7639,7 +7984,7 @@
    "e": "Only Preference - Preferance is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0509",
+   "id": "gk-misc-p17-0532",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "NATO - Oral Rehydration Solution",
@@ -7654,7 +7999,7 @@
    "e": "Only NATO - North Atlantic Treaty Organization is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0510",
+   "id": "gk-misc-p17-0533",
    "q": "The currency Swiss Franc is used in which country?",
    "o": [
     "Costa Rica",
@@ -7669,7 +8014,7 @@
    "e": "Swiss Franc is the currency of Switzerland."
   },
   {
-   "id": "gk-misc-p17-0511",
+   "id": "gk-misc-p17-0534",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "26 - Fe",
@@ -7684,7 +8029,7 @@
    "e": "Only 26 - Fe is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0512",
+   "id": "gk-misc-p17-0535",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Unscathed - Strict",
@@ -7699,7 +8044,7 @@
    "e": "Only Unscathed - Unharmed is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0513",
+   "id": "gk-misc-p17-0536",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Incessant - Intermittent",
@@ -7714,7 +8059,7 @@
    "e": "Only Incessant - Intermittent is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0514",
+   "id": "gk-misc-p17-0537",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Tall talk - Suspect something wrong",
@@ -7729,7 +8074,7 @@
    "e": "The pair Tall talk - Suspect something wrong is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0515",
+   "id": "gk-misc-p17-0538",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Government by a king or queen - Monarchy",
@@ -7744,7 +8089,7 @@
    "e": "The pair The killing of a whole race of people - Zoologist is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0516",
+   "id": "gk-misc-p17-0539",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Preference - Withold",
@@ -7759,7 +8104,7 @@
    "e": "Only Preference - Preferance is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0517",
+   "id": "gk-misc-p17-0540",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "NATO - Deoxyribonucleic Acid",
@@ -7774,7 +8119,7 @@
    "e": "Only NATO - North Atlantic Treaty Organization is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0518",
+   "id": "gk-misc-p17-0541",
    "q": "The currency Lilangeni is used in which country?",
    "o": [
     "Gambia",
@@ -7789,7 +8134,7 @@
    "e": "Lilangeni is the currency of Eswatini."
   },
   {
-   "id": "gk-misc-p17-0519",
+   "id": "gk-misc-p17-0542",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "109 - Be",
@@ -7804,7 +8149,7 @@
    "e": "Only 109 - Mt is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0520",
+   "id": "gk-misc-p17-0543",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Formidable - Wealthy",
@@ -7819,7 +8164,7 @@
    "e": "Only Formidable - Daunting is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0521",
+   "id": "gk-misc-p17-0544",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Torpid - Easy",
@@ -7834,7 +8179,7 @@
    "e": "Only Torpid - Active is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0522",
+   "id": "gk-misc-p17-0545",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Every inch - Be dismissed from a job",
@@ -7849,7 +8194,7 @@
    "e": "The pair Every inch - Be dismissed from a job is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0523",
+   "id": "gk-misc-p17-0546",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A place where money is coined - Mint",
@@ -7864,7 +8209,7 @@
    "e": "The pair One who studies rocks - Insolvent is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0524",
+   "id": "gk-misc-p17-0547",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Villain - Concieted",
@@ -7879,7 +8224,7 @@
    "e": "Only Villain - Villian is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0525",
+   "id": "gk-misc-p17-0548",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "UNEP - Micro, Small and Medium Enterprises",
@@ -7894,7 +8239,7 @@
    "e": "Only UNEP - United Nations Environment Programme is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0526",
+   "id": "gk-misc-p17-0549",
    "q": "The currency Qatari Riyal is used in which country?",
    "o": [
     "Gabon",
@@ -7909,7 +8254,7 @@
    "e": "Qatari Riyal is the currency of Qatar."
   },
   {
-   "id": "gk-misc-p17-0527",
+   "id": "gk-misc-p17-0550",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "109 - Y",
@@ -7924,7 +8269,7 @@
    "e": "Only 109 - Mt is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0528",
+   "id": "gk-misc-p17-0551",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Formidable - Daunting",
@@ -7939,7 +8284,7 @@
    "e": "Only Formidable - Daunting is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0529",
+   "id": "gk-misc-p17-0552",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Torpid - Generosity",
@@ -7954,7 +8299,7 @@
    "e": "Only Torpid - Active is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0530",
+   "id": "gk-misc-p17-0553",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Move heaven and earth - Fail or be defeated",
@@ -7969,7 +8314,7 @@
    "e": "The pair Move heaven and earth - Fail or be defeated is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0531",
+   "id": "gk-misc-p17-0554",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who cannot be defeated - Invincible",
@@ -7984,7 +8329,7 @@
    "e": "The pair Plants that live for many years - Omniscient is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0532",
+   "id": "gk-misc-p17-0555",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Villain - Withold",
@@ -7999,7 +8344,7 @@
    "e": "Only Villain - Villian is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0533",
+   "id": "gk-misc-p17-0556",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "UNEP - Food Corporation of India",
@@ -8014,7 +8359,7 @@
    "e": "Only UNEP - United Nations Environment Programme is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0534",
+   "id": "gk-misc-p17-0557",
    "q": "The currency Euro is used in which country?",
    "o": [
     "Montenegro",
@@ -8029,7 +8374,7 @@
    "e": "Euro is the currency of Montenegro."
   },
   {
-   "id": "gk-misc-p17-0535",
+   "id": "gk-misc-p17-0558",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "73 - Nd",
@@ -8044,7 +8389,7 @@
    "e": "Only 73 - Ta is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0536",
+   "id": "gk-misc-p17-0559",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Plight - Acquit",
@@ -8059,7 +8404,7 @@
    "e": "Only Plight - Predicament is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0537",
+   "id": "gk-misc-p17-0560",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Predicament - Unruly",
@@ -8074,7 +8419,7 @@
    "e": "Only Predicament - Solution is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0538",
+   "id": "gk-misc-p17-0561",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Mealy-mouthed - Unable to speak plainly",
@@ -8089,7 +8434,7 @@
    "e": "The pair Come to light - Confess fully is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0539",
+   "id": "gk-misc-p17-0562",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who believes in the existence of God - Theist",
@@ -8104,7 +8449,7 @@
    "e": "The pair One who eats too much - Agnostic is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0540",
+   "id": "gk-misc-p17-0563",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Definitely - Achievment",
@@ -8119,7 +8464,7 @@
    "e": "Only Definitely - Definately is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0541",
+   "id": "gk-misc-p17-0564",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "OTP - Atal Pension Yojana",
@@ -8134,7 +8479,7 @@
    "e": "Only OTP - One Time Password is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0542",
+   "id": "gk-misc-p17-0565",
    "q": "The currency Leone is used in which country?",
    "o": [
     "Equatorial Guinea",
@@ -8149,7 +8494,7 @@
    "e": "Leone is the currency of Sierra Leone."
   },
   {
-   "id": "gk-misc-p17-0543",
+   "id": "gk-misc-p17-0566",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "73 - Rn",
@@ -8164,7 +8509,7 @@
    "e": "Only 73 - Ta is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0544",
+   "id": "gk-misc-p17-0567",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Plight - Condemn",
@@ -8179,7 +8524,7 @@
    "e": "Only Plight - Predicament is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0545",
+   "id": "gk-misc-p17-0568",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Predicament - Solution",
@@ -8194,7 +8539,7 @@
    "e": "Only Predicament - Solution is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0546",
+   "id": "gk-misc-p17-0569",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "To cool one's heels - In close partnership",
@@ -8209,7 +8554,7 @@
    "e": "The pair To cool one's heels - In close partnership is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0547",
+   "id": "gk-misc-p17-0570",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Plants that live for one season - Annuals",
@@ -8224,7 +8569,7 @@
    "e": "The pair A state of lawlessness - Manifest is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0548",
+   "id": "gk-misc-p17-0571",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Definitely - Begining",
@@ -8239,7 +8584,7 @@
    "e": "Only Definitely - Definately is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0549",
+   "id": "gk-misc-p17-0572",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "OTP - One Time Password",
@@ -8254,7 +8599,7 @@
    "e": "Only OTP - One Time Password is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0550",
+   "id": "gk-misc-p17-0573",
    "q": "The currency CFA Franc is used in which country?",
    "o": [
     "Uruguay",
@@ -8269,7 +8614,7 @@
    "e": "CFA Franc is the currency of Senegal."
   },
   {
-   "id": "gk-misc-p17-0551",
+   "id": "gk-misc-p17-0574",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "97 - Au",
@@ -8284,7 +8629,7 @@
    "e": "Only 97 - Bk is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0552",
+   "id": "gk-misc-p17-0575",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Pertinent - Prominent",
@@ -8299,7 +8644,7 @@
    "e": "Only Pertinent - Relevant is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0553",
+   "id": "gk-misc-p17-0576",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Wary - Strengthen",
@@ -8314,7 +8659,7 @@
    "e": "Only Wary - Careless is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0554",
+   "id": "gk-misc-p17-0577",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "To play to the gallery - To seek popular approval",
@@ -8329,7 +8674,7 @@
    "e": "The pair Run amuck - Treat harshly is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0555",
+   "id": "gk-misc-p17-0578",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who can use both hands equally well - Ambidextrous",
@@ -8344,7 +8689,7 @@
    "e": "The pair A person who abstains from eating meat - Mobocracy is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0556",
+   "id": "gk-misc-p17-0579",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Column - Coloumn",
@@ -8359,7 +8704,7 @@
    "e": "Only Column - Coloumn is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0557",
+   "id": "gk-misc-p17-0580",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "FCI - Food Corporation of India",
@@ -8374,7 +8719,7 @@
    "e": "Only FCI - Food Corporation of India is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0558",
+   "id": "gk-misc-p17-0581",
    "q": "The currency Zimbabwean Dollar is used in which country?",
    "o": [
     "Suriname",
@@ -8389,7 +8734,7 @@
    "e": "Zimbabwean Dollar is the currency of Zimbabwe."
   },
   {
-   "id": "gk-misc-p17-0559",
+   "id": "gk-misc-p17-0582",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "97 - Li",
@@ -8404,7 +8749,7 @@
    "e": "Only 97 - Bk is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0560",
+   "id": "gk-misc-p17-0583",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Pertinent - Flatterer",
@@ -8419,7 +8764,7 @@
    "e": "Only Pertinent - Relevant is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0561",
+   "id": "gk-misc-p17-0584",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Wary - Energetic",
@@ -8434,7 +8779,7 @@
    "e": "Only Wary - Careless is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0562",
+   "id": "gk-misc-p17-0585",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Play second fiddle - Take a subordinate role",
@@ -8449,7 +8794,7 @@
    "e": "The pair Odds and ends - Die is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0563",
+   "id": "gk-misc-p17-0586",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A conversation between two people - Dialogue",
@@ -8464,7 +8809,7 @@
    "e": "The pair The murder of a human being - Obsolete is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0564",
+   "id": "gk-misc-p17-0587",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Column - Coloumn",
@@ -8479,7 +8824,7 @@
    "e": "Only Column - Coloumn is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0565",
+   "id": "gk-misc-p17-0588",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "FCI - National Eligibility cum Entrance Test",
@@ -8494,7 +8839,7 @@
    "e": "Only FCI - Food Corporation of India is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0566",
+   "id": "gk-misc-p17-0589",
    "q": "The currency Yemeni Rial is used in which country?",
    "o": [
     "Yemen",
@@ -8509,7 +8854,7 @@
    "e": "Yemeni Rial is the currency of Yemen."
   },
   {
-   "id": "gk-misc-p17-0567",
+   "id": "gk-misc-p17-0590",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "20 - Rg",
@@ -8524,7 +8869,7 @@
    "e": "Only 20 - Ca is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0568",
+   "id": "gk-misc-p17-0591",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Brevity - Shortness",
@@ -8539,7 +8884,7 @@
    "e": "Only Brevity - Shortness is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0569",
+   "id": "gk-misc-p17-0592",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Flagrant - Concealed",
@@ -8554,7 +8899,7 @@
    "e": "Only Flagrant - Concealed is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0570",
+   "id": "gk-misc-p17-0593",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Few and far between - Die while working",
@@ -8569,7 +8914,7 @@
    "e": "The pair Few and far between - Die while working is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0571",
+   "id": "gk-misc-p17-0594",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A person who is made to bear the blame for others - Scapegoat",
@@ -8584,7 +8929,7 @@
    "e": "The pair One who eats human flesh - Hermit is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0572",
+   "id": "gk-misc-p17-0595",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Battalion - Bureu",
@@ -8599,7 +8944,7 @@
    "e": "Only Battalion - Battalian is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0573",
+   "id": "gk-misc-p17-0596",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "IBC - One Time Password",
@@ -8614,7 +8959,7 @@
    "e": "Only IBC - Insolvency and Bankruptcy Code is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0574",
+   "id": "gk-misc-p17-0597",
    "q": "The currency Saudi Riyal is used in which country?",
    "o": [
     "Croatia",
@@ -8629,7 +8974,7 @@
    "e": "Saudi Riyal is the currency of Saudi Arabia."
   },
   {
-   "id": "gk-misc-p17-0575",
+   "id": "gk-misc-p17-0598",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "20 - Sc",
@@ -8644,7 +8989,7 @@
    "e": "Only 20 - Ca is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0576",
+   "id": "gk-misc-p17-0599",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Brevity - Shortness",
@@ -8659,7 +9004,7 @@
    "e": "Only Brevity - Shortness is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0577",
+   "id": "gk-misc-p17-0600",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Flagrant - Rare",
@@ -8674,7 +9019,7 @@
    "e": "Only Flagrant - Concealed is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0578",
+   "id": "gk-misc-p17-0601",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Keep one's fingers crossed - Hope for a good result",
@@ -8689,7 +9034,7 @@
    "e": "The pair Burn the midnight oil - A difficult problem is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0579",
+   "id": "gk-misc-p17-0602",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Excessive love for one's own country - Panacea",
@@ -8704,7 +9049,7 @@
    "e": "The pair Excessive love for one's own country - Panacea is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0580",
+   "id": "gk-misc-p17-0603",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Battalion - Persue",
@@ -8719,7 +9064,7 @@
    "e": "Only Battalion - Battalian is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0581",
+   "id": "gk-misc-p17-0604",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "IBC - Digital Infrastructure for Knowledge Sharing",
@@ -8734,7 +9079,7 @@
    "e": "Only IBC - Insolvency and Bankruptcy Code is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0582",
+   "id": "gk-misc-p17-0605",
    "q": "The currency Omani Rial is used in which country?",
    "o": [
     "Egypt",
@@ -8749,7 +9094,7 @@
    "e": "Omani Rial is the currency of Oman."
   },
   {
-   "id": "gk-misc-p17-0583",
+   "id": "gk-misc-p17-0606",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "50 - Cf",
@@ -8764,7 +9109,7 @@
    "e": "Only 50 - Sn is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0584",
+   "id": "gk-misc-p17-0607",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Candid - Subservient",
@@ -8779,7 +9124,7 @@
    "e": "Only Candid - Frank is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0585",
+   "id": "gk-misc-p17-0608",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Frugal - Inconspicuous",
@@ -8794,7 +9139,7 @@
    "e": "Only Frugal - Extravagant is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0586",
+   "id": "gk-misc-p17-0609",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "To turn over a new leaf - To make a fresh start",
@@ -8809,7 +9154,7 @@
    "e": "The pair Let the cat out of the bag - Uncomfortable is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0587",
+   "id": "gk-misc-p17-0610",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A substance that prevents infection - Antiseptic",
@@ -8824,7 +9169,7 @@
    "e": "The pair One who drinks too much alcohol - Post-mortem is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0588",
+   "id": "gk-misc-p17-0611",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Attendance - Agressive",
@@ -8839,7 +9184,7 @@
    "e": "Only Attendance - Attendence is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0589",
+   "id": "gk-misc-p17-0612",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "NEFT - Mahatma Gandhi National Rural Employment Guarantee Scheme",
@@ -8854,7 +9199,7 @@
    "e": "Only NEFT - National Electronic Funds Transfer is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0590",
+   "id": "gk-misc-p17-0613",
    "q": "The currency Tunisian Dinar is used in which country?",
    "o": [
     "Tunisia",
@@ -8869,7 +9214,7 @@
    "e": "Tunisian Dinar is the currency of Tunisia."
   },
   {
-   "id": "gk-misc-p17-0591",
+   "id": "gk-misc-p17-0614",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "50 - Og",
@@ -8884,7 +9229,7 @@
    "e": "Only 50 - Sn is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0592",
+   "id": "gk-misc-p17-0615",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Candid - Calm",
@@ -8899,7 +9244,7 @@
    "e": "Only Candid - Frank is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0593",
+   "id": "gk-misc-p17-0616",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Frugal - Overturn",
@@ -8914,7 +9259,7 @@
    "e": "Only Frugal - Extravagant is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0594",
+   "id": "gk-misc-p17-0617",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "To carry the day - Begin a conversation",
@@ -8929,7 +9274,7 @@
    "e": "The pair To carry the day - Begin a conversation is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0595",
+   "id": "gk-misc-p17-0618",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Government by the people - Hermit",
@@ -8944,7 +9289,7 @@
    "e": "The pair Government by the people - Hermit is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0596",
+   "id": "gk-misc-p17-0619",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Attendance - Anonimous",
@@ -8959,7 +9304,7 @@
    "e": "Only Attendance - Attendence is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0597",
+   "id": "gk-misc-p17-0620",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "NEFT - Athletics track and field club naming",
@@ -8974,7 +9319,7 @@
    "e": "Only NEFT - National Electronic Funds Transfer is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0598",
+   "id": "gk-misc-p17-0621",
    "q": "The currency Australian Dollar is used in which country?",
    "o": [
     "Laos",
@@ -8989,7 +9334,7 @@
    "e": "Australian Dollar is the currency of Australia."
   },
   {
-   "id": "gk-misc-p17-0599",
+   "id": "gk-misc-p17-0622",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "56 - Ce",
@@ -9004,7 +9349,7 @@
    "e": "Only 56 - Ba is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0600",
+   "id": "gk-misc-p17-0623",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Reticent - Conscientious",
@@ -9019,7 +9364,7 @@
    "e": "Only Reticent - Reserved is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0601",
+   "id": "gk-misc-p17-0624",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Audacious - Truth",
@@ -9034,7 +9379,7 @@
    "e": "Only Audacious - Timid is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0602",
+   "id": "gk-misc-p17-0625",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "To see red - To become very angry",
@@ -9049,7 +9394,7 @@
    "e": "The pair A thorn in one's flesh - Become known is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0603",
+   "id": "gk-misc-p17-0626",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A place of perfect happiness - Cobbler",
@@ -9064,7 +9409,7 @@
    "e": "The pair A place of perfect happiness - Cobbler is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0604",
+   "id": "gk-misc-p17-0627",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Professor - Proffesor",
@@ -9079,7 +9424,7 @@
    "e": "Only Professor - Proffesor is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0605",
+   "id": "gk-misc-p17-0628",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "BrahMos - Special Economic Zone",
@@ -9094,7 +9439,7 @@
    "e": "Only BrahMos - Brahmaputra Moscow missile is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0606",
+   "id": "gk-misc-p17-0629",
    "q": "The currency Euro is used in which country?",
    "o": [
     "Oman",
@@ -9109,7 +9454,7 @@
    "e": "Euro is the currency of Croatia."
   },
   {
-   "id": "gk-misc-p17-0607",
+   "id": "gk-misc-p17-0630",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "56 - Dy",
@@ -9124,7 +9469,7 @@
    "e": "Only 56 - Ba is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0608",
+   "id": "gk-misc-p17-0631",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Reticent - Courage",
@@ -9139,7 +9484,7 @@
    "e": "Only Reticent - Reserved is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0609",
+   "id": "gk-misc-p17-0632",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Audacious - Disagree",
@@ -9154,7 +9499,7 @@
    "e": "Only Audacious - Timid is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0610",
+   "id": "gk-misc-p17-0633",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "To turn a deaf ear - To ignore",
@@ -9169,7 +9514,7 @@
    "e": "The pair Through thick and thin - Completely is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0611",
+   "id": "gk-misc-p17-0634",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A person employed to drive a car - Chauffeur",
@@ -9184,7 +9529,7 @@
    "e": "The pair A place where books are kept - Chauffeur is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0612",
+   "id": "gk-misc-p17-0635",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Professor - Proffesor",
@@ -9199,7 +9544,7 @@
    "e": "Only Professor - Proffesor is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0613",
+   "id": "gk-misc-p17-0636",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "BrahMos - Central Statistics Office",
@@ -9214,7 +9559,7 @@
    "e": "Only BrahMos - Brahmaputra Moscow missile is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0614",
+   "id": "gk-misc-p17-0637",
    "q": "The currency Forint is used in which country?",
    "o": [
     "Solomon Islands",
@@ -9229,7 +9574,7 @@
    "e": "Forint is the currency of Hungary."
   },
   {
-   "id": "gk-misc-p17-0615",
+   "id": "gk-misc-p17-0638",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "25 - Yb",
@@ -9244,7 +9589,7 @@
    "e": "Only 25 - Mn is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0616",
+   "id": "gk-misc-p17-0639",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Refute - Meticulous",
@@ -9259,7 +9604,7 @@
    "e": "Only Refute - Disprove is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0617",
+   "id": "gk-misc-p17-0640",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Laconic - Rare",
@@ -9274,7 +9619,7 @@
    "e": "Only Laconic - Verbose is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0618",
+   "id": "gk-misc-p17-0641",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Gift of the gab - Fluency of speech",
@@ -9289,7 +9634,7 @@
    "e": "The pair A snake in the grass - Make a poor impression is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0619",
+   "id": "gk-misc-p17-0642",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A person who talks in his sleep - Somniloquist",
@@ -9304,7 +9649,7 @@
    "e": "The pair One who cannot be corrected - Atheist is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0620",
+   "id": "gk-misc-p17-0643",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Publicly - Collegue",
@@ -9319,7 +9664,7 @@
    "e": "Only Publicly - Publically is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0621",
+   "id": "gk-misc-p17-0644",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "CLAT - Regional Rural Bank",
@@ -9334,7 +9679,7 @@
    "e": "Only CLAT - Common Law Admission Test is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0622",
+   "id": "gk-misc-p17-0645",
    "q": "The currency Dalasi is used in which country?",
    "o": [
     "Gambia",
@@ -9349,7 +9694,7 @@
    "e": "Dalasi is the currency of Gambia."
   },
   {
-   "id": "gk-misc-p17-0623",
+   "id": "gk-misc-p17-0646",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "25 - Fe",
@@ -9364,7 +9709,7 @@
    "e": "Only 25 - Mn is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0624",
+   "id": "gk-misc-p17-0647",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Refute - Hardworking",
@@ -9379,7 +9724,7 @@
    "e": "Only Refute - Disprove is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0625",
+   "id": "gk-misc-p17-0648",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Laconic - Verbose",
@@ -9394,7 +9739,7 @@
    "e": "Only Laconic - Verbose is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0626",
+   "id": "gk-misc-p17-0649",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Feather one's nest - Make money selfishly",
@@ -9409,7 +9754,7 @@
    "e": "The pair Bring to book - Full details is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0627",
+   "id": "gk-misc-p17-0650",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A person who takes care of books in a library - Librarian",
@@ -9424,7 +9769,7 @@
    "e": "The pair A medicine that kills bacteria - Dystopia is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0628",
+   "id": "gk-misc-p17-0651",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Publicly - Medival",
@@ -9439,7 +9784,7 @@
    "e": "Only Publicly - Publically is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0629",
+   "id": "gk-misc-p17-0652",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "CLAT - Minimum Support Price",
@@ -9454,7 +9799,7 @@
    "e": "Only CLAT - Common Law Admission Test is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0630",
+   "id": "gk-misc-p17-0653",
    "q": "The currency Libyan Dinar is used in which country?",
    "o": [
     "Romania",
@@ -9469,7 +9814,7 @@
    "e": "Libyan Dinar is the currency of Libya."
   },
   {
-   "id": "gk-misc-p17-0631",
+   "id": "gk-misc-p17-0654",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "64 - Gd",
@@ -9484,7 +9829,7 @@
    "e": "Only 64 - Gd is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0632",
+   "id": "gk-misc-p17-0655",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Despondent - Wise",
@@ -9499,7 +9844,7 @@
    "e": "Only Despondent - Hopeless is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0633",
+   "id": "gk-misc-p17-0656",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Dissent - Extraordinary",
@@ -9514,7 +9859,7 @@
    "e": "Only Dissent - Agreement is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0634",
+   "id": "gk-misc-p17-0657",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Beyond the pale - Unacceptable",
@@ -9529,7 +9874,7 @@
    "e": "The pair A chip on the shoulder - Show one's feelings openly is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0635",
+   "id": "gk-misc-p17-0658",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who lives a simple life without possessions - Recluse",
@@ -9544,7 +9889,7 @@
    "e": "The pair A person who is made to bear the blame for others - Theocracy is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0636",
+   "id": "gk-misc-p17-0659",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Tendency - Repitition",
@@ -9559,7 +9904,7 @@
    "e": "Only Tendency - Tendancy is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0637",
+   "id": "gk-misc-p17-0660",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "IIM - National Council of Educational Research and Training",
@@ -9574,7 +9919,7 @@
    "e": "Only IIM - Indian Institute of Management is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0638",
+   "id": "gk-misc-p17-0661",
    "q": "The currency Won is used in which country?",
    "o": [
     "North Korea",
@@ -9589,7 +9934,7 @@
    "e": "Won is the currency of North Korea."
   },
   {
-   "id": "gk-misc-p17-0639",
+   "id": "gk-misc-p17-0662",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "64 - Rh",
@@ -9604,7 +9949,7 @@
    "e": "Only 64 - Gd is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0640",
+   "id": "gk-misc-p17-0663",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Despondent - Hopeless",
@@ -9619,7 +9964,7 @@
    "e": "Only Despondent - Hopeless is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0641",
+   "id": "gk-misc-p17-0664",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Dissent - Agreement",
@@ -9634,7 +9979,7 @@
    "e": "Only Dissent - Agreement is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0642",
+   "id": "gk-misc-p17-0665",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Hit the nail on the head - Do or say the right thing",
@@ -9649,7 +9994,7 @@
    "e": "The pair Straw in the wind - A weak point is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0643",
+   "id": "gk-misc-p17-0666",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A person who writes about his own life - Homicide",
@@ -9664,7 +10009,7 @@
    "e": "The pair A person who writes about his own life - Homicide is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0644",
+   "id": "gk-misc-p17-0667",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Tendency - Tendancy",
@@ -9679,7 +10024,7 @@
    "e": "Only Tendency - Tendancy is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0645",
+   "id": "gk-misc-p17-0668",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "IIM - Direct Benefit Transfer",
@@ -9694,7 +10039,7 @@
    "e": "Only IIM - Indian Institute of Management is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0646",
+   "id": "gk-misc-p17-0669",
    "q": "The currency Lek is used in which country?",
    "o": [
     "Moldova",
@@ -9709,7 +10054,7 @@
    "e": "Lek is the currency of Albania."
   },
   {
-   "id": "gk-misc-p17-0647",
+   "id": "gk-misc-p17-0670",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "35 - Tm",
@@ -9724,7 +10069,7 @@
    "e": "Only 35 - Br is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0648",
+   "id": "gk-misc-p17-0671",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Incipient - Praise",
@@ -9739,7 +10084,7 @@
    "e": "Only Incipient - Beginning is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0649",
+   "id": "gk-misc-p17-0672",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Precarious - Intensify",
@@ -9754,7 +10099,7 @@
    "e": "Only Precarious - Secure is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0650",
+   "id": "gk-misc-p17-0673",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Without beating about the bush - An ambiguous compliment",
@@ -9769,7 +10114,7 @@
    "e": "The pair Without beating about the bush - An ambiguous compliment is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0651",
+   "id": "gk-misc-p17-0674",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A disease that spreads by contact - Contagious",
@@ -9784,7 +10129,7 @@
    "e": "The pair A place where money is coined - Philatelist is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0652",
+   "id": "gk-misc-p17-0675",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Knowledge - Eigth",
@@ -9799,7 +10144,7 @@
    "e": "Only Knowledge - Knowlege is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0653",
+   "id": "gk-misc-p17-0676",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "SSC - South Asian Association for Regional Cooperation",
@@ -9814,7 +10159,7 @@
    "e": "Only SSC - Staff Selection Commission is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0654",
+   "id": "gk-misc-p17-0677",
    "q": "The currency Vatu is used in which country?",
    "o": [
     "Bahrain",
@@ -9829,7 +10174,7 @@
    "e": "Vatu is the currency of Vanuatu."
   },
   {
-   "id": "gk-misc-p17-0655",
+   "id": "gk-misc-p17-0678",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "35 - V",
@@ -9844,7 +10189,7 @@
    "e": "Only 35 - Br is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0656",
+   "id": "gk-misc-p17-0679",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Incipient - Filthy",
@@ -9859,7 +10204,7 @@
    "e": "Only Incipient - Beginning is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0657",
+   "id": "gk-misc-p17-0680",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Precarious - Clean",
@@ -9874,7 +10219,7 @@
    "e": "Only Precarious - Secure is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0658",
+   "id": "gk-misc-p17-0681",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "An apple of discord - A cause of quarrel",
@@ -9889,7 +10234,7 @@
    "e": "The pair A dark horse - Be ruined is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0659",
+   "id": "gk-misc-p17-0682",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who lives a simple life without possessions - Recluse",
@@ -9904,7 +10249,7 @@
    "e": "The pair Animals that live both on land and in water - Herbivores is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0660",
+   "id": "gk-misc-p17-0683",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Knowledge - Knowlege",
@@ -9919,7 +10264,7 @@
    "e": "Only Knowledge - Knowlege is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0661",
+   "id": "gk-misc-p17-0684",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "SSC - Brahmaputra Moscow missile",
@@ -9934,7 +10279,7 @@
    "e": "Only SSC - Staff Selection Commission is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0662",
+   "id": "gk-misc-p17-0685",
    "q": "The currency Nepalese Rupee is used in which country?",
    "o": [
     "Central African Republic",
@@ -9949,7 +10294,7 @@
    "e": "Nepalese Rupee is the currency of Nepal."
   },
   {
-   "id": "gk-misc-p17-0663",
+   "id": "gk-misc-p17-0686",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "13 - Te",
@@ -9964,7 +10309,7 @@
    "e": "Only 13 - Al is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0664",
+   "id": "gk-misc-p17-0687",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Latent - Lavish",
@@ -9979,7 +10324,7 @@
    "e": "Only Latent - Hidden is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0665",
+   "id": "gk-misc-p17-0688",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Infamous - Unproductive",
@@ -9994,7 +10339,7 @@
    "e": "Only Infamous - Reputable is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0666",
+   "id": "gk-misc-p17-0689",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Feather one's nest - Make money selfishly",
@@ -10009,7 +10354,7 @@
    "e": "The pair Take a back seat - To be honest is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0667",
+   "id": "gk-misc-p17-0690",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who has an unreasonable fear of heights - Acrophobic",
@@ -10024,7 +10369,7 @@
    "e": "The pair A disease that spreads worldwide - Utopia is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0668",
+   "id": "gk-misc-p17-0691",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Guidance - Guidence",
@@ -10039,7 +10384,7 @@
    "e": "Only Guidance - Guidence is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0669",
+   "id": "gk-misc-p17-0692",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "CACP - Unified Payments Interface",
@@ -10054,7 +10399,7 @@
    "e": "Only CACP - Commission for Agricultural Costs and Prices is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0670",
+   "id": "gk-misc-p17-0693",
    "q": "The currency Mauritian Rupee is used in which country?",
    "o": [
     "Bangladesh",
@@ -10069,7 +10414,7 @@
    "e": "Mauritian Rupee is the currency of Mauritius."
   },
   {
-   "id": "gk-misc-p17-0671",
+   "id": "gk-misc-p17-0694",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "13 - Nd",
@@ -10084,7 +10429,7 @@
    "e": "Only 13 - Al is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0672",
+   "id": "gk-misc-p17-0695",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Latent - Impending",
@@ -10099,7 +10444,7 @@
    "e": "Only Latent - Hidden is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0673",
+   "id": "gk-misc-p17-0696",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Infamous - Increase",
@@ -10114,7 +10459,7 @@
    "e": "Only Infamous - Reputable is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0674",
+   "id": "gk-misc-p17-0697",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Play second fiddle - Take a subordinate role",
@@ -10129,7 +10474,7 @@
    "e": "The pair Feather one's nest - Uncomfortable is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0675",
+   "id": "gk-misc-p17-0698",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who lives alone and avoids company - Hermit",
@@ -10144,7 +10489,7 @@
    "e": "The pair Something that is difficult to understand - Manifest is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0676",
+   "id": "gk-misc-p17-0699",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Guidance - Explaination",
@@ -10159,7 +10504,7 @@
    "e": "Only Guidance - Guidence is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0677",
+   "id": "gk-misc-p17-0700",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "CACP - Commission for Agricultural Costs and Prices",
@@ -10174,7 +10519,7 @@
    "e": "Only CACP - Commission for Agricultural Costs and Prices is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0678",
+   "id": "gk-misc-p17-0701",
    "q": "The currency Euro is used in which country?",
    "o": [
     "Malawi",
@@ -10189,7 +10534,7 @@
    "e": "Euro is the currency of Finland."
   },
   {
-   "id": "gk-misc-p17-0679",
+   "id": "gk-misc-p17-0702",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "48 - Ac",
@@ -10204,7 +10549,7 @@
    "e": "Only 48 - Cd is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0680",
+   "id": "gk-misc-p17-0703",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Inexorable - Draw out",
@@ -10219,7 +10564,7 @@
    "e": "Only Inexorable - Relentless is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0681",
+   "id": "gk-misc-p17-0704",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Equanimity - Agitation",
@@ -10234,7 +10579,7 @@
    "e": "Only Equanimity - Agitation is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0682",
+   "id": "gk-misc-p17-0705",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Make both ends meet - Unable to speak plainly",
@@ -10249,7 +10594,7 @@
    "e": "The pair Make both ends meet - Unable to speak plainly is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0683",
+   "id": "gk-misc-p17-0706",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A place where books are kept - Library",
@@ -10264,7 +10609,7 @@
    "e": "The pair One who cannot be imitated - Pharmacy is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0684",
+   "id": "gk-misc-p17-0707",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Embarrass - Febuary",
@@ -10279,7 +10624,7 @@
    "e": "Only Embarrass - Embarass is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0685",
+   "id": "gk-misc-p17-0708",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "IBPS - Institute of Banking Personnel Selection",
@@ -10294,7 +10639,7 @@
    "e": "Only IBPS - Institute of Banking Personnel Selection is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0686",
+   "id": "gk-misc-p17-0709",
    "q": "The currency Trinidad and Tobago Dollar is used in which country?",
    "o": [
     "Trinidad and Tobago",
@@ -10309,7 +10654,7 @@
    "e": "Trinidad and Tobago Dollar is the currency of Trinidad and Tobago."
   },
   {
-   "id": "gk-misc-p17-0687",
+   "id": "gk-misc-p17-0710",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "48 - Cd",
@@ -10324,7 +10669,7 @@
    "e": "Only 48 - Cd is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0688",
+   "id": "gk-misc-p17-0711",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Inexorable - Mutual",
@@ -10339,7 +10684,7 @@
    "e": "Only Inexorable - Relentless is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0689",
+   "id": "gk-misc-p17-0712",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Equanimity - Length",
@@ -10354,7 +10699,7 @@
    "e": "Only Equanimity - Agitation is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0690",
+   "id": "gk-misc-p17-0713",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Read between the lines - Understand the hidden meaning",
@@ -10369,7 +10714,7 @@
    "e": "The pair Wear one's heart on one's sleeve - Praise oneself is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0691",
+   "id": "gk-misc-p17-0714",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Something that is no longer in use - Obsolete",
@@ -10384,7 +10729,7 @@
    "e": "The pair A place where dead bodies are kept - Baker is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0692",
+   "id": "gk-misc-p17-0715",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Embarrass - Procede",
@@ -10399,7 +10744,7 @@
    "e": "Only Embarrass - Embarass is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0693",
+   "id": "gk-misc-p17-0716",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "IBPS - Organisation for Economic Co-operation and Development",
@@ -10414,7 +10759,7 @@
    "e": "Only IBPS - Institute of Banking Personnel Selection is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0694",
+   "id": "gk-misc-p17-0717",
    "q": "The currency Kina is used in which country?",
    "o": [
     "Vanuatu",
@@ -10429,7 +10774,7 @@
    "e": "Kina is the currency of Papua New Guinea."
   },
   {
-   "id": "gk-misc-p17-0695",
+   "id": "gk-misc-p17-0718",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "21 - Sc",
@@ -10444,7 +10789,7 @@
    "e": "Only 21 - Sc is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0696",
+   "id": "gk-misc-p17-0719",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Cease - Enthusiastic",
@@ -10459,7 +10804,7 @@
    "e": "Only Cease - Stop is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0697",
+   "id": "gk-misc-p17-0720",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Stringent - Genuine",
@@ -10474,7 +10819,7 @@
    "e": "Only Stringent - Lax is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0698",
+   "id": "gk-misc-p17-0721",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "To fight a losing battle - To struggle without hope of success",
@@ -10489,7 +10834,7 @@
    "e": "The pair Stand by - A scholar is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0699",
+   "id": "gk-misc-p17-0722",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who is always hopeful - Optimist",
@@ -10504,7 +10849,7 @@
    "e": "The pair One who knows everything - Monarchy is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0700",
+   "id": "gk-misc-p17-0723",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Occurrence - Hereditory",
@@ -10519,7 +10864,7 @@
    "e": "Only Occurrence - Occurence is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0701",
+   "id": "gk-misc-p17-0724",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "GEO - Geostationary Earth Orbit",
@@ -10534,7 +10879,7 @@
    "e": "Only GEO - Geostationary Earth Orbit is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0702",
+   "id": "gk-misc-p17-0725",
    "q": "The currency Rwandan Franc is used in which country?",
    "o": [
     "Mauritania",
@@ -10549,7 +10894,7 @@
    "e": "Rwandan Franc is the currency of Rwanda."
   },
   {
-   "id": "gk-misc-p17-0703",
+   "id": "gk-misc-p17-0726",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "21 - Bi",
@@ -10564,7 +10909,7 @@
    "e": "Only 21 - Sc is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0704",
+   "id": "gk-misc-p17-0727",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Cease - Dreadful",
@@ -10579,7 +10924,7 @@
    "e": "Only Cease - Stop is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0705",
+   "id": "gk-misc-p17-0728",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Stringent - Thrifty",
@@ -10594,7 +10939,7 @@
    "e": "Only Stringent - Lax is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0706",
+   "id": "gk-misc-p17-0729",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Hang fire - Remain undecided",
@@ -10609,7 +10954,7 @@
    "e": "The pair To laugh up one's sleeve - Deceive is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0707",
+   "id": "gk-misc-p17-0730",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Something that is no longer in use - Inedible",
@@ -10624,7 +10969,7 @@
    "e": "The pair Something that is no longer in use - Inedible is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0708",
+   "id": "gk-misc-p17-0731",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Occurrence - Occurence",
@@ -10639,7 +10984,7 @@
    "e": "Only Occurrence - Occurence is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0709",
+   "id": "gk-misc-p17-0732",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "GEO - International Union for Conservation of Nature",
@@ -10654,7 +10999,7 @@
    "e": "Only GEO - Geostationary Earth Orbit is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0710",
+   "id": "gk-misc-p17-0733",
    "q": "The currency Liberian Dollar is used in which country?",
    "o": [
     "Liberia",
@@ -10669,7 +11014,7 @@
    "e": "Liberian Dollar is the currency of Liberia."
   },
   {
-   "id": "gk-misc-p17-0711",
+   "id": "gk-misc-p17-0734",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "96 - Al",
@@ -10684,7 +11029,7 @@
    "e": "Only 96 - Cm is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0712",
+   "id": "gk-misc-p17-0735",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Onerous - Meticulous",
@@ -10699,7 +11044,7 @@
    "e": "Only Onerous - Burdensome is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0713",
+   "id": "gk-misc-p17-0736",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Vindicate - Condemn",
@@ -10714,7 +11059,7 @@
    "e": "Only Vindicate - Condemn is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0714",
+   "id": "gk-misc-p17-0737",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Hit the nail on the head - Do or say the right thing",
@@ -10729,7 +11074,7 @@
    "e": "The pair Beyond the pale - To face danger boldly is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0715",
+   "id": "gk-misc-p17-0738",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A person who has just started learning something - Beginner",
@@ -10744,7 +11089,7 @@
    "e": "The pair A substance that destroys germs - Glutton is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0716",
+   "id": "gk-misc-p17-0739",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Tomorrow - Definately",
@@ -10759,7 +11104,7 @@
    "e": "Only Tomorrow - Tommorow is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0717",
+   "id": "gk-misc-p17-0740",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "UPU - Dematerialised account for shares",
@@ -10774,7 +11119,7 @@
    "e": "Only UPU - Universal Postal Union is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0718",
+   "id": "gk-misc-p17-0741",
    "q": "The currency Argentine Peso is used in which country?",
    "o": [
     "Argentina",
@@ -10789,7 +11134,7 @@
    "e": "Argentine Peso is the currency of Argentina."
   },
   {
-   "id": "gk-misc-p17-0719",
+   "id": "gk-misc-p17-0742",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "96 - Lu",
@@ -10804,7 +11149,7 @@
    "e": "Only 96 - Cm is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0720",
+   "id": "gk-misc-p17-0743",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Onerous - Forceful",
@@ -10819,7 +11164,7 @@
    "e": "Only Onerous - Burdensome is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0721",
+   "id": "gk-misc-p17-0744",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Vindicate - Foolish",
@@ -10834,7 +11179,7 @@
    "e": "Only Vindicate - Condemn is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0722",
+   "id": "gk-misc-p17-0745",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "To wash one's dirty linen in public - To discuss private matters openly",
@@ -10849,7 +11194,7 @@
    "e": "The pair Harp on the same string - Lose one's temper suddenly is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0723",
+   "id": "gk-misc-p17-0746",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "The murder of one's brother - Hermit",
@@ -10864,7 +11209,7 @@
    "e": "The pair The murder of one's brother - Hermit is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0724",
+   "id": "gk-misc-p17-0747",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Tomorrow - Preceeding",
@@ -10879,7 +11224,7 @@
    "e": "Only Tomorrow - Tommorow is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0725",
+   "id": "gk-misc-p17-0748",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "UPU - National Testing Agency",
@@ -10894,7 +11239,7 @@
    "e": "Only UPU - Universal Postal Union is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0726",
+   "id": "gk-misc-p17-0749",
    "q": "The currency Balboa is used in which country?",
    "o": [
     "Argentina",
@@ -10909,7 +11254,7 @@
    "e": "Balboa is the currency of Panama."
   },
   {
-   "id": "gk-misc-p17-0727",
+   "id": "gk-misc-p17-0750",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "53 - Pt",
@@ -10924,7 +11269,7 @@
    "e": "Only 53 - I is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0728",
+   "id": "gk-misc-p17-0751",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Extravagant - Plentiful",
@@ -10939,7 +11284,7 @@
    "e": "Only Extravagant - Wasteful is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0729",
+   "id": "gk-misc-p17-0752",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Tedious - Acquired",
@@ -10954,7 +11299,7 @@
    "e": "Only Tedious - Interesting is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0730",
+   "id": "gk-misc-p17-0753",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Fly in the face of - Act in defiance of",
@@ -10969,7 +11314,7 @@
    "e": "The pair Set the Thames on fire - Facing the same difficulty is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0731",
+   "id": "gk-misc-p17-0754",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Government by the wealthy - Plutocracy",
@@ -10984,7 +11329,7 @@
    "e": "The pair A cure for all diseases - Barber is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0732",
+   "id": "gk-misc-p17-0755",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Sincerely - Maintainance",
@@ -10999,7 +11344,7 @@
    "e": "Only Sincerely - Sincerly is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0733",
+   "id": "gk-misc-p17-0756",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "CSO - Central Statistics Office",
@@ -11014,7 +11359,7 @@
    "e": "Only CSO - Central Statistics Office is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0734",
+   "id": "gk-misc-p17-0757",
    "q": "The currency Czech Koruna is used in which country?",
    "o": [
     "Malta",
@@ -11029,7 +11374,7 @@
    "e": "Czech Koruna is the currency of Czech Republic."
   },
   {
-   "id": "gk-misc-p17-0735",
+   "id": "gk-misc-p17-0758",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "53 - Bi",
@@ -11044,7 +11389,7 @@
    "e": "Only 53 - I is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0736",
+   "id": "gk-misc-p17-0759",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Extravagant - Approve",
@@ -11059,7 +11404,7 @@
    "e": "Only Extravagant - Wasteful is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0737",
+   "id": "gk-misc-p17-0760",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Tedious - Careless",
@@ -11074,7 +11419,7 @@
    "e": "Only Tedious - Interesting is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0738",
+   "id": "gk-misc-p17-0761",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A cock and bull story - An absurd and unlikely story",
@@ -11089,7 +11434,7 @@
    "e": "The pair On cloud nine - Deeply involved is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0739",
+   "id": "gk-misc-p17-0762",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A speech made to oneself when alone - Soliloquy",
@@ -11104,7 +11449,7 @@
    "e": "The pair One who does not know how to read and write - Mint is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0740",
+   "id": "gk-misc-p17-0763",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Sincerely - Sincerly",
@@ -11119,7 +11464,7 @@
    "e": "Only Sincerely - Sincerly is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0741",
+   "id": "gk-misc-p17-0764",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "CSO - Central Statistics Office",
@@ -11134,7 +11479,7 @@
    "e": "Only CSO - Central Statistics Office is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0742",
+   "id": "gk-misc-p17-0765",
    "q": "The currency Real is used in which country?",
    "o": [
     "Brazil",
@@ -11149,7 +11494,7 @@
    "e": "Real is the currency of Brazil."
   },
   {
-   "id": "gk-misc-p17-0743",
+   "id": "gk-misc-p17-0766",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "32 - Sn",
@@ -11164,7 +11509,7 @@
    "e": "Only 32 - Ge is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0744",
+   "id": "gk-misc-p17-0767",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Perplex - Remorseful",
@@ -11179,7 +11524,7 @@
    "e": "Only Perplex - Confuse is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0745",
+   "id": "gk-misc-p17-0768",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Succinct - Solitary",
@@ -11194,7 +11539,7 @@
    "e": "Only Succinct - Lengthy is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0746",
+   "id": "gk-misc-p17-0769",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Odds and ends - Miscellaneous items",
@@ -11209,7 +11554,7 @@
    "e": "The pair Kick the bucket - Do or say the right thing is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0747",
+   "id": "gk-misc-p17-0770",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A place where medicines are prepared - Inaudible",
@@ -11224,7 +11569,7 @@
    "e": "The pair A place where medicines are prepared - Inaudible is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0748",
+   "id": "gk-misc-p17-0771",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Colleague - Febuary",
@@ -11239,7 +11584,7 @@
    "e": "Only Colleague - Collegue is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0749",
+   "id": "gk-misc-p17-0772",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "SIDBI - Small Industries Development Bank of India",
@@ -11254,7 +11599,7 @@
    "e": "Only SIDBI - Small Industries Development Bank of India is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0750",
+   "id": "gk-misc-p17-0773",
    "q": "The currency Euro is used in which country?",
    "o": [
     "Sierra Leone",
@@ -11269,7 +11614,7 @@
    "e": "Euro is the currency of Slovakia."
   },
   {
-   "id": "gk-misc-p17-0751",
+   "id": "gk-misc-p17-0774",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "32 - Ge",
@@ -11284,7 +11629,7 @@
    "e": "Only 32 - Ge is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0752",
+   "id": "gk-misc-p17-0775",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Perplex - Confuse",
@@ -11299,7 +11644,7 @@
    "e": "Only Perplex - Confuse is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0753",
+   "id": "gk-misc-p17-0776",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Succinct - Begin",
@@ -11314,7 +11659,7 @@
    "e": "Only Succinct - Lengthy is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0754",
+   "id": "gk-misc-p17-0777",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Spill the beans - Reveal secret information",
@@ -11329,7 +11674,7 @@
    "e": "The pair The die is cast - Live a miserable life is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0755",
+   "id": "gk-misc-p17-0778",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "The murder of one's father - Patricide",
@@ -11344,7 +11689,7 @@
    "e": "The pair A person who repairs shoes - Autobiography is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0756",
+   "id": "gk-misc-p17-0779",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Colleague - Hapiness",
@@ -11359,7 +11704,7 @@
    "e": "Only Colleague - Collegue is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0757",
+   "id": "gk-misc-p17-0780",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "SIDBI - Small Industries Development Bank of India",
@@ -11374,7 +11719,7 @@
    "e": "Only SIDBI - Small Industries Development Bank of India is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0758",
+   "id": "gk-misc-p17-0781",
    "q": "The currency Danish Krone is used in which country?",
    "o": [
     "Ecuador",
@@ -11389,7 +11734,7 @@
    "e": "Danish Krone is the currency of Denmark."
   },
   {
-   "id": "gk-misc-p17-0759",
+   "id": "gk-misc-p17-0782",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "114 - Fl",
@@ -11404,7 +11749,7 @@
    "e": "Only 114 - Fl is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0760",
+   "id": "gk-misc-p17-0783",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Vehement - Decrease",
@@ -11419,7 +11764,7 @@
    "e": "Only Vehement - Forceful is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0761",
+   "id": "gk-misc-p17-0784",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Pragmatic - Careless",
@@ -11434,7 +11779,7 @@
    "e": "Only Pragmatic - Idealistic is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0762",
+   "id": "gk-misc-p17-0785",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Few and far between - Rare",
@@ -11449,7 +11794,7 @@
    "e": "The pair Cold shoulder - A selfish motive is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0763",
+   "id": "gk-misc-p17-0786",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Animals that live in groups - Cobbler",
@@ -11464,7 +11809,7 @@
    "e": "The pair Animals that live in groups - Cobbler is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0764",
+   "id": "gk-misc-p17-0787",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Believe - Beleive",
@@ -11479,7 +11824,7 @@
    "e": "Only Believe - Beleive is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0765",
+   "id": "gk-misc-p17-0788",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "IRDAI - Consumer Price Index",
@@ -11494,7 +11839,7 @@
    "e": "Only IRDAI - Insurance Regulatory and Development Authority of India is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0766",
+   "id": "gk-misc-p17-0789",
    "q": "The currency Bolivar is used in which country?",
    "o": [
     "Venezuela",
@@ -11509,7 +11854,7 @@
    "e": "Bolivar is the currency of Venezuela."
   },
   {
-   "id": "gk-misc-p17-0767",
+   "id": "gk-misc-p17-0790",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "114 - B",
@@ -11524,7 +11869,7 @@
    "e": "Only 114 - Fl is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0768",
+   "id": "gk-misc-p17-0791",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Vehement - Confuse",
@@ -11539,7 +11884,7 @@
    "e": "Only Vehement - Forceful is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0769",
+   "id": "gk-misc-p17-0792",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Pragmatic - Confident",
@@ -11554,7 +11899,7 @@
    "e": "Only Pragmatic - Idealistic is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0770",
+   "id": "gk-misc-p17-0793",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "By hook or by crook - Facing the same difficulty",
@@ -11569,7 +11914,7 @@
    "e": "The pair By hook or by crook - Facing the same difficulty is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0771",
+   "id": "gk-misc-p17-0794",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who studies birds - Democracy",
@@ -11584,7 +11929,7 @@
    "e": "The pair One who studies birds - Democracy is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0772",
+   "id": "gk-misc-p17-0795",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Believe - Hygeine",
@@ -11599,7 +11944,7 @@
    "e": "Only Believe - Beleive is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0773",
+   "id": "gk-misc-p17-0796",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "IRDAI - International Monetary Fund",
@@ -11614,7 +11959,7 @@
    "e": "Only IRDAI - Insurance Regulatory and Development Authority of India is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0774",
+   "id": "gk-misc-p17-0797",
    "q": "The currency Lev is used in which country?",
    "o": [
     "Montenegro",
@@ -11629,7 +11974,7 @@
    "e": "Lev is the currency of Bulgaria."
   },
   {
-   "id": "gk-misc-p17-0775",
+   "id": "gk-misc-p17-0798",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "69 - Ni",
@@ -11644,7 +11989,7 @@
    "e": "Only 69 - Tm is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0776",
+   "id": "gk-misc-p17-0799",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Castigate - Punish",
@@ -11659,7 +12004,7 @@
    "e": "Only Castigate - Punish is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0777",
+   "id": "gk-misc-p17-0800",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Hamper - Assist",
@@ -11674,7 +12019,7 @@
    "e": "Only Hamper - Assist is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0778",
+   "id": "gk-misc-p17-0801",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A gala day - Keep away from",
@@ -11689,7 +12034,7 @@
    "e": "The pair A gala day - Keep away from is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0779",
+   "id": "gk-misc-p17-0802",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who is between seventy and eighty years old - Septuagenarian",
@@ -11704,7 +12049,7 @@
    "e": "The pair A place where coins and stamps are made - Xenophobic is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0780",
+   "id": "gk-misc-p17-0803",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Changeable - Humerous",
@@ -11719,7 +12064,7 @@
    "e": "Only Changeable - Changable is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0781",
+   "id": "gk-misc-p17-0804",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "NDB - New Development Bank",
@@ -11734,7 +12079,7 @@
    "e": "Only NDB - New Development Bank is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0782",
+   "id": "gk-misc-p17-0805",
    "q": "The currency Belize Dollar is used in which country?",
    "o": [
     "Andorra",
@@ -11749,7 +12094,7 @@
    "e": "Belize Dollar is the currency of Belize."
   },
   {
-   "id": "gk-misc-p17-0783",
+   "id": "gk-misc-p17-0806",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "69 - Fm",
@@ -11764,7 +12109,7 @@
    "e": "Only 69 - Tm is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0784",
+   "id": "gk-misc-p17-0807",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Castigate - Ordinary",
@@ -11779,7 +12124,7 @@
    "e": "Only Castigate - Punish is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0785",
+   "id": "gk-misc-p17-0808",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Hamper - Avoidable",
@@ -11794,7 +12139,7 @@
    "e": "Only Hamper - Assist is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0786",
+   "id": "gk-misc-p17-0809",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Fly in the face of - To lament what cannot be undone",
@@ -11809,7 +12154,7 @@
    "e": "The pair Fly in the face of - To lament what cannot be undone is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0787",
+   "id": "gk-misc-p17-0810",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who has an unreasonable fear of being in closed spaces - Claustrophobic",
@@ -11824,7 +12169,7 @@
    "e": "The pair A person who does not take any alcoholic drink - Dystopia is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0788",
+   "id": "gk-misc-p17-0811",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Changeable - Expedetion",
@@ -11839,7 +12184,7 @@
    "e": "Only Changeable - Changable is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0789",
+   "id": "gk-misc-p17-0812",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "NDB - Small Industries Development Bank of India",
@@ -11854,7 +12199,7 @@
    "e": "Only NDB - New Development Bank is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0790",
+   "id": "gk-misc-p17-0813",
    "q": "The currency Kip is used in which country?",
    "o": [
     "Laos",
@@ -11869,7 +12214,7 @@
    "e": "Kip is the currency of Laos."
   },
   {
-   "id": "gk-misc-p17-0791",
+   "id": "gk-misc-p17-0814",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "57 - Eu",
@@ -11884,7 +12229,7 @@
    "e": "Only 57 - La is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0792",
+   "id": "gk-misc-p17-0815",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Bewilder - Obvious",
@@ -11899,7 +12244,7 @@
    "e": "Only Bewilder - Confuse is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0793",
+   "id": "gk-misc-p17-0816",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Condone - Soothe",
@@ -11914,7 +12259,7 @@
    "e": "Only Condone - Condemn is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0794",
+   "id": "gk-misc-p17-0817",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "All in all - Most important",
@@ -11929,7 +12274,7 @@
    "e": "The pair To turn over a new leaf - Unfair is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0795",
+   "id": "gk-misc-p17-0818",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who loves books - Bibliophile",
@@ -11944,7 +12289,7 @@
    "e": "The pair A person who takes care of books in a library - Abstruse is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0796",
+   "id": "gk-misc-p17-0819",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Religious - Comparision",
@@ -11959,7 +12304,7 @@
    "e": "Only Religious - Religous is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0797",
+   "id": "gk-misc-p17-0820",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "AIDS - Sports Authority of India",
@@ -11974,7 +12319,7 @@
    "e": "Only AIDS - Acquired Immune Deficiency Syndrome is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0798",
+   "id": "gk-misc-p17-0821",
    "q": "The currency Kenyan Shilling is used in which country?",
    "o": [
     "Philippines",
@@ -11989,7 +12334,7 @@
    "e": "Kenyan Shilling is the currency of Kenya."
   },
   {
-   "id": "gk-misc-p17-0799",
+   "id": "gk-misc-p17-0822",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "57 - La",
@@ -12004,7 +12349,7 @@
    "e": "Only 57 - La is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0800",
+   "id": "gk-misc-p17-0823",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Bewilder - Mystery",
@@ -12019,7 +12364,7 @@
    "e": "Only Bewilder - Confuse is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0801",
+   "id": "gk-misc-p17-0824",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Condone - Humble",
@@ -12034,7 +12379,7 @@
    "e": "Only Condone - Condemn is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0802",
+   "id": "gk-misc-p17-0825",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Cut a sorry figure - Make a poor impression",
@@ -12049,7 +12394,7 @@
    "e": "The pair Give a wide berth - Die while working is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0803",
+   "id": "gk-misc-p17-0826",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A place where coins and stamps are made - Mint",
@@ -12064,7 +12409,7 @@
    "e": "The pair A person who works with wood - Armoury is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0804",
+   "id": "gk-misc-p17-0827",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Religious - Wellcome",
@@ -12079,7 +12424,7 @@
    "e": "Only Religious - Religous is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0805",
+   "id": "gk-misc-p17-0828",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "AIDS - Acquired Immune Deficiency Syndrome",
@@ -12094,7 +12439,7 @@
    "e": "Only AIDS - Acquired Immune Deficiency Syndrome is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0806",
+   "id": "gk-misc-p17-0829",
    "q": "The currency Leu is used in which country?",
    "o": [
     "Cuba",
@@ -12109,7 +12454,7 @@
    "e": "Leu is the currency of Romania."
   },
   {
-   "id": "gk-misc-p17-0807",
+   "id": "gk-misc-p17-0830",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "88 - Ra",
@@ -12124,7 +12469,7 @@
    "e": "Only 88 - Ra is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0808",
+   "id": "gk-misc-p17-0831",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Punctilious - Meticulous",
@@ -12139,7 +12484,7 @@
    "e": "Only Punctilious - Meticulous is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0809",
+   "id": "gk-misc-p17-0832",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Ratify - Talkative",
@@ -12154,7 +12499,7 @@
    "e": "Only Ratify - Reject is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0810",
+   "id": "gk-misc-p17-0833",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Up to the mark - Of the required standard",
@@ -12169,7 +12514,7 @@
    "e": "The pair Go to the dogs - Reveal a secret is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0811",
+   "id": "gk-misc-p17-0834",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who has an unreasonable fear of strangers - Xenophobic",
@@ -12184,7 +12529,7 @@
    "e": "The pair A life story written by oneself - Entomologist is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0812",
+   "id": "gk-misc-p17-0835",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Misspell - Vaccum",
@@ -12199,7 +12544,7 @@
    "e": "Only Misspell - Mispell is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0813",
+   "id": "gk-misc-p17-0836",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "ILO - Organisation for Economic Co-operation and Development",
@@ -12214,7 +12559,7 @@
    "e": "Only ILO - International Labour Organization is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0814",
+   "id": "gk-misc-p17-0837",
    "q": "The currency US Dollar is used in which country?",
    "o": [
     "United Arab Emirates",
@@ -12229,7 +12574,7 @@
    "e": "US Dollar is the currency of United States of America."
   },
   {
-   "id": "gk-misc-p17-0815",
+   "id": "gk-misc-p17-0838",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "88 - Pt",
@@ -12244,7 +12589,7 @@
    "e": "Only 88 - Ra is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0816",
+   "id": "gk-misc-p17-0839",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Punctilious - Meticulous",
@@ -12259,7 +12604,7 @@
    "e": "Only Punctilious - Meticulous is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0817",
+   "id": "gk-misc-p17-0840",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Ratify - Sorrowful",
@@ -12274,7 +12619,7 @@
    "e": "Only Ratify - Reject is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0818",
+   "id": "gk-misc-p17-0841",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Eat humble pie - Apologise humbly",
@@ -12289,7 +12634,7 @@
    "e": "The pair Dodge the issue - Deliberately and without emotion is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0819",
+   "id": "gk-misc-p17-0842",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who knows everything - Omniscient",
@@ -12304,7 +12649,7 @@
    "e": "The pair Rule by a mob - Acrophobic is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0820",
+   "id": "gk-misc-p17-0843",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Misspell - Mispell",
@@ -12319,7 +12664,7 @@
    "e": "Only Misspell - Mispell is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0821",
+   "id": "gk-misc-p17-0844",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "ILO - International Labour Organization",
@@ -12334,7 +12679,7 @@
    "e": "Only ILO - International Labour Organization is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0822",
+   "id": "gk-misc-p17-0845",
    "q": "The currency Tenge is used in which country?",
    "o": [
     "Brazil",
@@ -12349,7 +12694,7 @@
    "e": "Tenge is the currency of Kazakhstan."
   },
   {
-   "id": "gk-misc-p17-0823",
+   "id": "gk-misc-p17-0846",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "51 - Mo",
@@ -12364,7 +12709,7 @@
    "e": "Only 51 - Sb is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0824",
+   "id": "gk-misc-p17-0847",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Abundant - Plentiful",
@@ -12379,7 +12724,7 @@
    "e": "Only Abundant - Plentiful is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0825",
+   "id": "gk-misc-p17-0848",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Scrupulous - Unscrupulous",
@@ -12394,7 +12739,7 @@
    "e": "Only Scrupulous - Unscrupulous is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0826",
+   "id": "gk-misc-p17-0849",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Let the cat out of the bag - Reveal a secret",
@@ -12409,7 +12754,7 @@
    "e": "The pair Read between the lines - Deeply involved is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0827",
+   "id": "gk-misc-p17-0850",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Government by a king or queen - Monarchy",
@@ -12424,7 +12769,7 @@
    "e": "The pair One who looks at the dark side of things - Atheist is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0828",
+   "id": "gk-misc-p17-0851",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Surprise - Suprise",
@@ -12439,7 +12784,7 @@
    "e": "Only Surprise - Suprise is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0829",
+   "id": "gk-misc-p17-0852",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "BIS - Asian Infrastructure Investment Bank",
@@ -12454,7 +12799,7 @@
    "e": "Only BIS - Bureau of Indian Standards is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0830",
+   "id": "gk-misc-p17-0853",
    "q": "The currency Euro is used in which country?",
    "o": [
     "United States of America",
@@ -12469,7 +12814,7 @@
    "e": "Euro is the currency of Italy."
   },
   {
-   "id": "gk-misc-p17-0831",
+   "id": "gk-misc-p17-0854",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "51 - Pt",
@@ -12484,7 +12829,7 @@
    "e": "Only 51 - Sb is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0832",
+   "id": "gk-misc-p17-0855",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Abundant - Talkative",
@@ -12499,7 +12844,7 @@
    "e": "Only Abundant - Plentiful is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0833",
+   "id": "gk-misc-p17-0856",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Scrupulous - Impossible",
@@ -12514,7 +12859,7 @@
    "e": "Only Scrupulous - Unscrupulous is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0834",
+   "id": "gk-misc-p17-0857",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "To keep one's fingers crossed - To hope for success",
@@ -12529,7 +12874,7 @@
    "e": "The pair Cat's paw - Fail to have the intended effect is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0835",
+   "id": "gk-misc-p17-0858",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who drinks too much alcohol - Drunkard",
@@ -12544,7 +12889,7 @@
    "e": "The pair Something that lasts for a very short time - Autocracy is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0836",
+   "id": "gk-misc-p17-0859",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Surprise - Suprise",
@@ -12559,7 +12904,7 @@
    "e": "Only Surprise - Suprise is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0837",
+   "id": "gk-misc-p17-0860",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "BIS - Bureau of Indian Standards",
@@ -12574,7 +12919,7 @@
    "e": "Only BIS - Bureau of Indian Standards is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0838",
+   "id": "gk-misc-p17-0861",
    "q": "The currency Cedi is used in which country?",
    "o": [
     "Serbia",
@@ -12589,7 +12934,7 @@
    "e": "Cedi is the currency of Ghana."
   },
   {
-   "id": "gk-misc-p17-0839",
+   "id": "gk-misc-p17-0862",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "44 - Zr",
@@ -12604,7 +12949,7 @@
    "e": "Only 44 - Ru is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0840",
+   "id": "gk-misc-p17-0863",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Tenacious - Persistent",
@@ -12619,7 +12964,7 @@
    "e": "Only Tenacious - Persistent is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0841",
+   "id": "gk-misc-p17-0864",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Irascible - Even-tempered",
@@ -12634,7 +12979,7 @@
    "e": "Only Irascible - Even-tempered is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0842",
+   "id": "gk-misc-p17-0865",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Keep one's fingers crossed - Be satisfied with past achievements",
@@ -12649,7 +12994,7 @@
    "e": "The pair Keep one's fingers crossed - Be satisfied with past achievements is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0843",
+   "id": "gk-misc-p17-0866",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who is easily deceived - Gullible",
@@ -12664,7 +13009,7 @@
    "e": "The pair One who is more than one hundred years old - Aquarium is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0844",
+   "id": "gk-misc-p17-0867",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Appearance - Idiosyncracy",
@@ -12679,7 +13024,7 @@
    "e": "Only Appearance - Appearence is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0845",
+   "id": "gk-misc-p17-0868",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "SAARC - South Asian Association for Regional Cooperation",
@@ -12694,7 +13039,7 @@
    "e": "Only SAARC - South Asian Association for Regional Cooperation is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0846",
+   "id": "gk-misc-p17-0869",
    "q": "The currency Euro is used in which country?",
    "o": [
     "Paraguay",
@@ -12709,7 +13054,7 @@
    "e": "Euro is the currency of Germany."
   },
   {
-   "id": "gk-misc-p17-0847",
+   "id": "gk-misc-p17-0870",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "44 - Zr",
@@ -12724,7 +13069,7 @@
    "e": "Only 44 - Ru is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0848",
+   "id": "gk-misc-p17-0871",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Tenacious - Patience",
@@ -12739,7 +13084,7 @@
    "e": "Only Tenacious - Persistent is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0849",
+   "id": "gk-misc-p17-0872",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Irascible - Provoke",
@@ -12754,7 +13099,7 @@
    "e": "Only Irascible - Even-tempered is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0850",
+   "id": "gk-misc-p17-0873",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Mealy-mouthed - Punish",
@@ -12769,7 +13114,7 @@
    "e": "The pair Mealy-mouthed - Punish is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0851",
+   "id": "gk-misc-p17-0874",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who cannot be corrected - Incorrigible",
@@ -12784,7 +13129,7 @@
    "e": "The pair A place where aircraft are kept - Abstruse is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0852",
+   "id": "gk-misc-p17-0875",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Appearance - Sincerly",
@@ -12799,7 +13144,7 @@
    "e": "Only Appearance - Appearence is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0853",
+   "id": "gk-misc-p17-0876",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "SAARC - All India Council for Technical Education",
@@ -12814,7 +13159,7 @@
    "e": "Only SAARC - South Asian Association for Regional Cooperation is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0854",
+   "id": "gk-misc-p17-0877",
    "q": "The currency CFA Franc is used in which country?",
    "o": [
     "Iceland",
@@ -12829,7 +13174,7 @@
    "e": "CFA Franc is the currency of Gabon."
   },
   {
-   "id": "gk-misc-p17-0855",
+   "id": "gk-misc-p17-0878",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "59 - Pr",
@@ -12844,7 +13189,7 @@
    "e": "Only 59 - Pr is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0856",
+   "id": "gk-misc-p17-0879",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Laconic - Failure",
@@ -12859,7 +13204,7 @@
    "e": "Only Laconic - Brief is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0857",
+   "id": "gk-misc-p17-0880",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Demise - Birth",
@@ -12874,7 +13219,7 @@
    "e": "Only Demise - Birth is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0858",
+   "id": "gk-misc-p17-0881",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Make both ends meet - Manage within one's income",
@@ -12889,7 +13234,7 @@
    "e": "The pair At the eleventh hour - To retract one's statement is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0859",
+   "id": "gk-misc-p17-0882",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who is more than one hundred years old - Centenarian",
@@ -12904,7 +13249,7 @@
    "e": "The pair A medicine that reduces pain - Novice is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0860",
+   "id": "gk-misc-p17-0883",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Pursue - Cheif",
@@ -12919,7 +13264,7 @@
    "e": "Only Pursue - Persue is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0861",
+   "id": "gk-misc-p17-0884",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "CBSE - Indian Institute of Management",
@@ -12934,7 +13279,7 @@
    "e": "Only CBSE - Central Board of Secondary Education is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0862",
+   "id": "gk-misc-p17-0885",
    "q": "The currency Kyat is used in which country?",
    "o": [
     "Myanmar",
@@ -12949,7 +13294,7 @@
    "e": "Kyat is the currency of Myanmar."
   },
   {
-   "id": "gk-misc-p17-0863",
+   "id": "gk-misc-p17-0886",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "59 - Bi",
@@ -12964,7 +13309,7 @@
    "e": "Only 59 - Pr is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0864",
+   "id": "gk-misc-p17-0887",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Laconic - Occasional",
@@ -12979,7 +13324,7 @@
    "e": "Only Laconic - Brief is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0865",
+   "id": "gk-misc-p17-0888",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Demise - Evasive",
@@ -12994,7 +13339,7 @@
    "e": "Only Demise - Birth is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0866",
+   "id": "gk-misc-p17-0889",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Carry coals to Newcastle - Do a pointless thing",
@@ -13009,7 +13354,7 @@
    "e": "The pair To keep one's fingers crossed - Thoroughly is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0867",
+   "id": "gk-misc-p17-0890",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A person who repairs shoes - Cobbler",
@@ -13024,7 +13369,7 @@
    "e": "The pair One who can use both hands equally well - Inevitable is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0868",
+   "id": "gk-misc-p17-0891",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Pursue - Priviledge",
@@ -13039,7 +13384,7 @@
    "e": "Only Pursue - Persue is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0869",
+   "id": "gk-misc-p17-0892",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "CBSE - Central Board of Secondary Education",
@@ -13054,7 +13399,7 @@
    "e": "Only CBSE - Central Board of Secondary Education is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0870",
+   "id": "gk-misc-p17-0893",
    "q": "The currency Iranian Rial is used in which country?",
    "o": [
     "Ukraine",
@@ -13069,7 +13414,7 @@
    "e": "Iranian Rial is the currency of Iran."
   },
   {
-   "id": "gk-misc-p17-0871",
+   "id": "gk-misc-p17-0894",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "17 - Ir",
@@ -13084,7 +13429,7 @@
    "e": "Only 17 - Cl is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0872",
+   "id": "gk-misc-p17-0895",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Clandestine - Short-lived",
@@ -13099,7 +13444,7 @@
    "e": "Only Clandestine - Secret is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0873",
+   "id": "gk-misc-p17-0896",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Humane - Malevolent",
@@ -13114,7 +13459,7 @@
    "e": "Only Humane - Cruel is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0874",
+   "id": "gk-misc-p17-0897",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "To show the door - Something that seems bad but turns out to be good",
@@ -13129,7 +13474,7 @@
    "e": "The pair To show the door - Something that seems bad but turns out to be good is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0875",
+   "id": "gk-misc-p17-0898",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Something that cannot be eaten - Inedible",
@@ -13144,7 +13489,7 @@
    "e": "The pair One who studies languages - Omnivores is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0876",
+   "id": "gk-misc-p17-0899",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Jewellery - Jewelery",
@@ -13159,7 +13504,7 @@
    "e": "Only Jewellery - Jewelery is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0877",
+   "id": "gk-misc-p17-0900",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "GNP - National Electronic Funds Transfer",
@@ -13174,7 +13519,7 @@
    "e": "Only GNP - Gross National Product is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0878",
+   "id": "gk-misc-p17-0901",
    "q": "The currency Euro is used in which country?",
    "o": [
     "Turkmenistan",
@@ -13189,7 +13534,7 @@
    "e": "Euro is the currency of France."
   },
   {
-   "id": "gk-misc-p17-0879",
+   "id": "gk-misc-p17-0902",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "17 - Ho",
@@ -13204,7 +13549,7 @@
    "e": "Only 17 - Cl is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0880",
+   "id": "gk-misc-p17-0903",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Clandestine - Meticulous",
@@ -13219,7 +13564,7 @@
    "e": "Only Clandestine - Secret is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0881",
+   "id": "gk-misc-p17-0904",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Humane - Favourable",
@@ -13234,7 +13579,7 @@
    "e": "Only Humane - Cruel is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0882",
+   "id": "gk-misc-p17-0905",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Green horn - An inexperienced person",
@@ -13249,7 +13594,7 @@
    "e": "The pair Show the white flag - A railway engine is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0883",
+   "id": "gk-misc-p17-0906",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who does not know how to read and write - Illiterate",
@@ -13264,7 +13609,7 @@
    "e": "The pair Government by religious leaders - Antonyms is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0884",
+   "id": "gk-misc-p17-0907",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Jewellery - Yeild",
@@ -13279,7 +13624,7 @@
    "e": "Only Jewellery - Jewelery is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0885",
+   "id": "gk-misc-p17-0908",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "GNP - Pradhan Mantri Gram Sadak Yojana",
@@ -13294,7 +13639,7 @@
    "e": "Only GNP - Gross National Product is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0886",
+   "id": "gk-misc-p17-0909",
    "q": "The currency Cordoba is used in which country?",
    "o": [
     "Chad",
@@ -13309,7 +13654,7 @@
    "e": "Cordoba is the currency of Nicaragua."
   },
   {
-   "id": "gk-misc-p17-0887",
+   "id": "gk-misc-p17-0910",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "84 - Po",
@@ -13324,7 +13669,7 @@
    "e": "Only 84 - Po is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0888",
+   "id": "gk-misc-p17-0911",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Trivial - Charity",
@@ -13339,7 +13684,7 @@
    "e": "Only Trivial - Insignificant is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0889",
+   "id": "gk-misc-p17-0912",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Cordial - Suppress",
@@ -13354,7 +13699,7 @@
    "e": "Only Cordial - Hostile is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0890",
+   "id": "gk-misc-p17-0913",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Few and far between - Rare",
@@ -13369,7 +13714,7 @@
    "e": "The pair All in all - Much excitement over a trivial matter is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0891",
+   "id": "gk-misc-p17-0914",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A place where money is coined - Mint",
@@ -13384,7 +13729,7 @@
    "e": "The pair One who never makes a mistake - Utopia is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0892",
+   "id": "gk-misc-p17-0915",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Management - Pronounciation",
@@ -13399,7 +13744,7 @@
    "e": "Only Management - Managment is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0893",
+   "id": "gk-misc-p17-0916",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "SSB - Know Your Customer",
@@ -13414,7 +13759,7 @@
    "e": "Only SSB - Sashastra Seema Bal is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0894",
+   "id": "gk-misc-p17-0917",
    "q": "The currency Hryvnia is used in which country?",
    "o": [
     "Malta",
@@ -13429,7 +13774,7 @@
    "e": "Hryvnia is the currency of Ukraine."
   },
   {
-   "id": "gk-misc-p17-0895",
+   "id": "gk-misc-p17-0918",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "84 - Po",
@@ -13444,7 +13789,7 @@
    "e": "Only 84 - Po is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0896",
+   "id": "gk-misc-p17-0919",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Trivial - Insignificant",
@@ -13459,7 +13804,7 @@
    "e": "Only Trivial - Insignificant is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0897",
+   "id": "gk-misc-p17-0920",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Cordial - Contradict",
@@ -13474,7 +13819,7 @@
    "e": "Only Cordial - Hostile is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0898",
+   "id": "gk-misc-p17-0921",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "An open book - Something easily understood",
@@ -13489,7 +13834,7 @@
    "e": "The pair At the drop of a hat - To break a promise is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0899",
+   "id": "gk-misc-p17-0922",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "The murder of a king - Nuisance",
@@ -13504,7 +13849,7 @@
    "e": "The pair The murder of a king - Nuisance is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0900",
+   "id": "gk-misc-p17-0923",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Management - Transfering",
@@ -13519,7 +13864,7 @@
    "e": "Only Management - Managment is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0901",
+   "id": "gk-misc-p17-0924",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "SSB - Central Statistics Office",
@@ -13534,7 +13879,7 @@
    "e": "Only SSB - Sashastra Seema Bal is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0902",
+   "id": "gk-misc-p17-0925",
    "q": "The currency Ariary is used in which country?",
    "o": [
     "Montenegro",
@@ -13549,7 +13894,7 @@
    "e": "Ariary is the currency of Madagascar."
   },
   {
-   "id": "gk-misc-p17-0903",
+   "id": "gk-misc-p17-0926",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "113 - Nd",
@@ -13564,7 +13909,7 @@
    "e": "Only 113 - Nh is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0904",
+   "id": "gk-misc-p17-0927",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Astute - Learned",
@@ -13579,7 +13924,7 @@
    "e": "Only Astute - Shrewd is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0905",
+   "id": "gk-misc-p17-0928",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Imminent - Respected",
@@ -13594,7 +13939,7 @@
    "e": "Only Imminent - Distant is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0906",
+   "id": "gk-misc-p17-0929",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Lose one's head - Lose self-control",
@@ -13609,7 +13954,7 @@
    "e": "The pair Up to the mark - Study or work late into the night is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0907",
+   "id": "gk-misc-p17-0930",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Rule by a mob - Mobocracy",
@@ -13624,7 +13969,7 @@
    "e": "The pair One who lives alone and avoids company - Regicide is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0908",
+   "id": "gk-misc-p17-0931",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "February - Changable",
@@ -13639,7 +13984,7 @@
    "e": "Only February - Febuary is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0909",
+   "id": "gk-misc-p17-0932",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "RRB - Regional Rural Bank",
@@ -13654,7 +13999,7 @@
    "e": "Only RRB - Regional Rural Bank is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0910",
+   "id": "gk-misc-p17-0933",
    "q": "The currency Seychellois Rupee is used in which country?",
    "o": [
     "Mongolia",
@@ -13669,7 +14014,7 @@
    "e": "Seychellois Rupee is the currency of Seychelles."
   },
   {
-   "id": "gk-misc-p17-0911",
+   "id": "gk-misc-p17-0934",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "113 - Bh",
@@ -13684,7 +14029,7 @@
    "e": "Only 113 - Nh is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0912",
+   "id": "gk-misc-p17-0935",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Astute - Skilled",
@@ -13699,7 +14044,7 @@
    "e": "Only Astute - Shrewd is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0913",
+   "id": "gk-misc-p17-0936",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Imminent - Distant",
@@ -13714,7 +14059,7 @@
    "e": "Only Imminent - Distant is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0914",
+   "id": "gk-misc-p17-0937",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "To turn a deaf ear - To ignore",
@@ -13729,7 +14074,7 @@
    "e": "The pair Sailing in the same boat - Reprimand is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0915",
+   "id": "gk-misc-p17-0938",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "A place where coins and stamps are made - Mint",
@@ -13744,7 +14089,7 @@
    "e": "The pair Words written on a tomb - Omnipresent is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0916",
+   "id": "gk-misc-p17-0939",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "February - Catagory",
@@ -13759,7 +14104,7 @@
    "e": "Only February - Febuary is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0917",
+   "id": "gk-misc-p17-0940",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "RRB - Regional Rural Bank",
@@ -13774,7 +14119,7 @@
    "e": "Only RRB - Regional Rural Bank is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0918",
+   "id": "gk-misc-p17-0941",
    "q": "The currency Namibian Dollar is used in which country?",
    "o": [
     "Brunei",
@@ -13789,7 +14134,7 @@
    "e": "Namibian Dollar is the currency of Namibia."
   },
   {
-   "id": "gk-misc-p17-0919",
+   "id": "gk-misc-p17-0942",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "45 - Pm",
@@ -13804,7 +14149,7 @@
    "e": "Only 45 - Rh is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0920",
+   "id": "gk-misc-p17-0943",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Expedite - Hasten",
@@ -13819,7 +14164,7 @@
    "e": "Only Expedite - Hasten is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0921",
+   "id": "gk-misc-p17-0944",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Erudite - Extraordinary",
@@ -13834,7 +14179,7 @@
    "e": "Only Erudite - Ignorant is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0922",
+   "id": "gk-misc-p17-0945",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "By hook or by crook - By fair or unfair means",
@@ -13849,7 +14194,7 @@
    "e": "The pair Hand in glove - Apologise humbly is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0923",
+   "id": "gk-misc-p17-0946",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who does not know how to read and write - Illiterate",
@@ -13864,7 +14209,7 @@
    "e": "The pair A substance that prevents infection - Aquarium is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0924",
+   "id": "gk-misc-p17-0947",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Supersede - Supercede",
@@ -13879,7 +14224,7 @@
    "e": "Only Supersede - Supercede is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0925",
+   "id": "gk-misc-p17-0948",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "FRBM - Commission for Agricultural Costs and Prices",
@@ -13894,7 +14239,7 @@
    "e": "Only FRBM - Fiscal Responsibility and Budget Management is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0926",
+   "id": "gk-misc-p17-0949",
    "q": "The currency CFA Franc is used in which country?",
    "o": [
     "Burkina Faso",
@@ -13909,7 +14254,7 @@
    "e": "CFA Franc is the currency of Burkina Faso."
   },
   {
-   "id": "gk-misc-p17-0927",
+   "id": "gk-misc-p17-0950",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "45 - Rh",
@@ -13924,7 +14269,7 @@
    "e": "Only 45 - Rh is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0928",
+   "id": "gk-misc-p17-0951",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Expedite - Dilemma",
@@ -13939,7 +14284,7 @@
    "e": "Only Expedite - Hasten is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0929",
+   "id": "gk-misc-p17-0952",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Erudite - Improve",
@@ -13954,7 +14299,7 @@
    "e": "Only Erudite - Ignorant is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0930",
+   "id": "gk-misc-p17-0953",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "At sixes and sevens - In disorder",
@@ -13969,7 +14314,7 @@
    "e": "The pair Rest on one's laurels - To shift responsibility is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0931",
+   "id": "gk-misc-p17-0954",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Animals that eat plants and flesh - Omnivores",
@@ -13984,7 +14329,7 @@
    "e": "The pair One who loves mankind - Epitaph is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0932",
+   "id": "gk-misc-p17-0955",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Supersede - Supercede",
@@ -13999,7 +14344,7 @@
    "e": "Only Supersede - Supercede is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0933",
+   "id": "gk-misc-p17-0956",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "FRBM - Association of Mutual Funds in India",
@@ -14014,7 +14359,7 @@
    "e": "Only FRBM - Fiscal Responsibility and Budget Management is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0934",
+   "id": "gk-misc-p17-0957",
    "q": "The currency Somoni is used in which country?",
    "o": [
     "Saudi Arabia",
@@ -14029,7 +14374,7 @@
    "e": "Somoni is the currency of Tajikistan."
   },
   {
-   "id": "gk-misc-p17-0935",
+   "id": "gk-misc-p17-0958",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "54 - Xe",
@@ -14044,7 +14389,7 @@
    "e": "Only 54 - Xe is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0936",
+   "id": "gk-misc-p17-0959",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Innovative - Greed",
@@ -14059,7 +14404,7 @@
    "e": "Only Innovative - Original is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0937",
+   "id": "gk-misc-p17-0960",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Spurious - Divided",
@@ -14074,7 +14419,7 @@
    "e": "Only Spurious - Genuine is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0938",
+   "id": "gk-misc-p17-0961",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "All in all - Most important",
@@ -14089,7 +14434,7 @@
    "e": "The pair Once in a blue moon - A narrow escape is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0939",
+   "id": "gk-misc-p17-0962",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "The murder of a human being - Homicide",
@@ -14104,7 +14449,7 @@
    "e": "The pair One who lives a simple life without possessions - Annuals is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0940",
+   "id": "gk-misc-p17-0963",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Lightning - Anonimous",
@@ -14119,7 +14464,7 @@
    "e": "Only Lightning - Lightening is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0941",
+   "id": "gk-misc-p17-0964",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "IFSC - Indian Financial System Code",
@@ -14134,7 +14479,7 @@
    "e": "Only IFSC - Indian Financial System Code is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0942",
+   "id": "gk-misc-p17-0965",
    "q": "The currency Euro is used in which country?",
    "o": [
     "Japan",
@@ -14149,7 +14494,7 @@
    "e": "Euro is the currency of Vatican City."
   },
   {
-   "id": "gk-misc-p17-0943",
+   "id": "gk-misc-p17-0966",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "54 - Xe",
@@ -14164,7 +14509,7 @@
    "e": "Only 54 - Xe is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0944",
+   "id": "gk-misc-p17-0967",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Innovative - Changeable",
@@ -14179,7 +14524,7 @@
    "e": "Only Innovative - Original is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0945",
+   "id": "gk-misc-p17-0968",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Spurious - Reveal",
@@ -14194,7 +14539,7 @@
    "e": "Only Spurious - Genuine is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0946",
+   "id": "gk-misc-p17-0969",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Fly off the handle - Lose one's temper suddenly",
@@ -14209,7 +14554,7 @@
    "e": "The pair To play to the gallery - Be ruined is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0947",
+   "id": "gk-misc-p17-0970",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who believes in the existence of God - Chauvinism",
@@ -14224,7 +14569,7 @@
    "e": "The pair One who believes in the existence of God - Chauvinism is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0948",
+   "id": "gk-misc-p17-0971",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Lightning - Accesible",
@@ -14239,7 +14584,7 @@
    "e": "Only Lightning - Lightening is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0949",
+   "id": "gk-misc-p17-0972",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "IFSC - Intelligence Bureau",
@@ -14254,7 +14599,7 @@
    "e": "Only IFSC - Indian Financial System Code is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0950",
+   "id": "gk-misc-p17-0973",
    "q": "The currency Swiss Franc is used in which country?",
    "o": [
     "Andorra",
@@ -14269,7 +14614,7 @@
    "e": "Swiss Franc is the currency of Liechtenstein."
   },
   {
-   "id": "gk-misc-p17-0951",
+   "id": "gk-misc-p17-0974",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "15 - Rh",
@@ -14284,7 +14629,7 @@
    "e": "Only 15 - P is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0952",
+   "id": "gk-misc-p17-0975",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Indolent - Sensible",
@@ -14299,7 +14644,7 @@
    "e": "Only Indolent - Lazy is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0953",
+   "id": "gk-misc-p17-0976",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Ominous - Plentiful",
@@ -14314,7 +14659,7 @@
    "e": "Only Ominous - Favourable is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0954",
+   "id": "gk-misc-p17-0977",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Above board - Honest and open",
@@ -14329,7 +14674,7 @@
    "e": "The pair Pay through the nose - A controversial issue is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0955",
+   "id": "gk-misc-p17-0978",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who is between seventy and eighty years old - Septuagenarian",
@@ -14344,7 +14689,7 @@
    "e": "The pair Plants that live for one season - Theocracy is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0956",
+   "id": "gk-misc-p17-0979",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Beginning - Enrollment",
@@ -14359,7 +14704,7 @@
    "e": "Only Beginning - Begining is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0957",
+   "id": "gk-misc-p17-0980",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "UNDP - Electromotive Force",
@@ -14374,7 +14719,7 @@
    "e": "Only UNDP - United Nations Development Programme is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0958",
+   "id": "gk-misc-p17-0981",
    "q": "The currency Euro is used in which country?",
    "o": [
     "Eswatini",
@@ -14389,7 +14734,7 @@
    "e": "Euro is the currency of Netherlands."
   },
   {
-   "id": "gk-misc-p17-0959",
+   "id": "gk-misc-p17-0982",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "15 - P",
@@ -14404,7 +14749,7 @@
    "e": "Only 15 - P is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0960",
+   "id": "gk-misc-p17-0983",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Indolent - Lazy",
@@ -14419,7 +14764,7 @@
    "e": "Only Indolent - Lazy is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0961",
+   "id": "gk-misc-p17-0984",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Ominous - Unruly",
@@ -14434,7 +14779,7 @@
    "e": "Only Ominous - Favourable is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0962",
+   "id": "gk-misc-p17-0985",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Go through fire and water - In a great hurry",
@@ -14449,7 +14794,7 @@
    "e": "The pair Go through fire and water - In a great hurry is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0963",
+   "id": "gk-misc-p17-0986",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "One who loves collecting coins - Numismatist",
@@ -14464,7 +14809,7 @@
    "e": "The pair A person who has just started learning something - Monologue is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0964",
+   "id": "gk-misc-p17-0987",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Beginning - Appropraite",
@@ -14479,7 +14824,7 @@
    "e": "Only Beginning - Begining is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0965",
+   "id": "gk-misc-p17-0988",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "UNDP - Enforcement Directorate",
@@ -14494,7 +14839,7 @@
    "e": "Only UNDP - United Nations Development Programme is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0966",
+   "id": "gk-misc-p17-0989",
    "q": "The currency CFA Franc is used in which country?",
    "o": [
     "Cameroon",
@@ -14509,7 +14854,7 @@
    "e": "CFA Franc is the currency of Cameroon."
   },
   {
-   "id": "gk-misc-p17-0967",
+   "id": "gk-misc-p17-0990",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "66 - Es",
@@ -14524,7 +14869,7 @@
    "e": "Only 66 - Dy is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0968",
+   "id": "gk-misc-p17-0991",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Paucity - Inherent",
@@ -14539,7 +14884,7 @@
    "e": "Only Paucity - Scarcity is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0969",
+   "id": "gk-misc-p17-0992",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Sporadic - Frequent",
@@ -14554,7 +14899,7 @@
    "e": "Only Sporadic - Frequent is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0970",
+   "id": "gk-misc-p17-0993",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "To have a finger in every pie - To be involved in everything",
@@ -14569,7 +14914,7 @@
    "e": "The pair Fair-weather friend - Speak plainly is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0971",
+   "id": "gk-misc-p17-0994",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Plants that live for one season - Annuals",
@@ -14584,7 +14929,7 @@
    "e": "The pair One who studies the origin of words - Theist is not correctly matched."
   },
   {
-   "id": "gk-misc-p17-0972",
+   "id": "gk-misc-p17-0995",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Immediate - Immediat",
@@ -14599,7 +14944,7 @@
    "e": "Only Immediate - Immediat is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0973",
+   "id": "gk-misc-p17-0996",
    "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
    "o": [
     "ATP - National Human Rights Commission",
@@ -14614,7 +14959,7 @@
    "e": "Only ATP - Adenosine Triphosphate is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0974",
+   "id": "gk-misc-p17-0997",
    "q": "The currency Nakfa is used in which country?",
    "o": [
     "Ukraine",
@@ -14629,7 +14974,7 @@
    "e": "Nakfa is the currency of Eritrea."
   },
   {
-   "id": "gk-misc-p17-0975",
+   "id": "gk-misc-p17-0998",
    "q": "Which of the following pairs of element and symbol is correctly matched?",
    "o": [
     "66 - Dy",
@@ -14644,7 +14989,7 @@
    "e": "Only 66 - Dy is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0976",
+   "id": "gk-misc-p17-0999",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Paucity - Scarcity",
@@ -14659,7 +15004,7 @@
    "e": "Only Paucity - Scarcity is correctly matched."
   },
   {
-   "id": "gk-misc-p17-0977",
+   "id": "gk-misc-p17-1000",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Sporadic - Frequent",
@@ -14672,351 +15017,6 @@
    "l": 3,
    "s": "generated",
    "e": "Only Sporadic - Frequent is correctly matched."
-  },
-  {
-   "id": "gk-misc-p17-0978",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
-    "On cloud nine - Extremely happy",
-    "Stand by - Support",
-    "Iron horse - A railway engine",
-    "A red letter day - Spoil a plan"
-   ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A red letter day - Spoil a plan is not correctly matched."
-  },
-  {
-   "id": "gk-misc-p17-0979",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
-    "Something that can be easily broken - Fragile",
-    "One who has an unreasonable fear of strangers - Glutton",
-    "A person who writes books - Author",
-    "Something that is no longer in use - Obsolete"
-   ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who has an unreasonable fear of strangers - Glutton is not correctly matched."
-  },
-  {
-   "id": "gk-misc-p17-0980",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
-    "Immediate - Particulary",
-    "Immediate - Immediat",
-    "Immediate - Changable",
-    "Immediate - Advantagous"
-   ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Immediate - Immediat is correctly matched."
-  },
-  {
-   "id": "gk-misc-p17-0981",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
-    "ATP - Permanent Account Number",
-    "ATP - Adenosine Triphosphate",
-    "ATP - Insolvency and Bankruptcy Code",
-    "ATP - Index of Industrial Production"
-   ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only ATP - Adenosine Triphosphate is correctly matched."
-  },
-  {
-   "id": "gk-misc-p17-0982",
-   "q": "The currency Somali Shilling is used in which country?",
-   "o": [
-    "Netherlands",
-    "Ethiopia",
-    "Somalia",
-    "Seychelles"
-   ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Somali Shilling is the currency of Somalia."
-  },
-  {
-   "id": "gk-misc-p17-0983",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
-    "46 - Cm",
-    "46 - Pd",
-    "46 - No",
-    "46 - Hf"
-   ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 46 - Pd is correctly matched."
-  },
-  {
-   "id": "gk-misc-p17-0984",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
-    "Zealous - Failure",
-    "Zealous - Strict",
-    "Zealous - Enthusiastic",
-    "Zealous - Quarrelsome"
-   ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Zealous - Enthusiastic is correctly matched."
-  },
-  {
-   "id": "gk-misc-p17-0985",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
-    "Squalid - Depressed",
-    "Squalid - Secure",
-    "Squalid - Reasonable",
-    "Squalid - Clean"
-   ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Squalid - Clean is correctly matched."
-  },
-  {
-   "id": "gk-misc-p17-0986",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
-    "Smell a rat - Suspect something wrong",
-    "Play second fiddle - To discuss private matters openly",
-    "Take to task - Reprimand",
-    "Carry coals to Newcastle - Do a pointless thing"
-   ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Play second fiddle - To discuss private matters openly is not correctly matched."
-  },
-  {
-   "id": "gk-misc-p17-0987",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
-    "A place where animals are kept - Zoo",
-    "One who speaks very little - Taciturn",
-    "One who loves collecting stamps - Optimist",
-    "A person who makes and sells bread - Baker"
-   ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who loves collecting stamps - Optimist is not correctly matched."
-  },
-  {
-   "id": "gk-misc-p17-0988",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
-    "Phenomenon - Hieght",
-    "Phenomenon - Phenomenan",
-    "Phenomenon - Hapiness",
-    "Phenomenon - Priviledge"
-   ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Phenomenon - Phenomenan is correctly matched."
-  },
-  {
-   "id": "gk-misc-p17-0989",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
-    "SIM - National Service Scheme",
-    "SIM - Common Law Admission Test",
-    "SIM - European Space Agency",
-    "SIM - Subscriber Identity Module"
-   ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only SIM - Subscriber Identity Module is correctly matched."
-  },
-  {
-   "id": "gk-misc-p17-0990",
-   "q": "The currency CFA Franc is used in which country?",
-   "o": [
-    "Republic of the Congo",
-    "Portugal",
-    "Ghana",
-    "Brazil"
-   ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "CFA Franc is the currency of Republic of the Congo."
-  },
-  {
-   "id": "gk-misc-p17-0991",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
-    "46 - Mo",
-    "46 - Pd",
-    "46 - Ra",
-    "46 - F"
-   ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 46 - Pd is correctly matched."
-  },
-  {
-   "id": "gk-misc-p17-0992",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
-    "Zealous - Enthusiastic",
-    "Zealous - Concise",
-    "Zealous - Reject",
-    "Zealous - Forgive"
-   ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Zealous - Enthusiastic is correctly matched."
-  },
-  {
-   "id": "gk-misc-p17-0993",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
-    "Squalid - Neglect",
-    "Squalid - Agreement",
-    "Squalid - Careless",
-    "Squalid - Clean"
-   ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Squalid - Clean is correctly matched."
-  },
-  {
-   "id": "gk-misc-p17-0994",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
-    "Once in a blue moon - Very rarely",
-    "Eat humble pie - Apologise humbly",
-    "Break the ice - Rain heavily",
-    "Hang fire - Remain undecided"
-   ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Break the ice - Rain heavily is not correctly matched."
-  },
-  {
-   "id": "gk-misc-p17-0995",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
-    "One who is more than one hundred years old - Centenarian",
-    "One who studies the stars - Gregarious",
-    "One who is between eighty and ninety years old - Octogenarian",
-    "Government by one person with absolute power - Autocracy"
-   ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who studies the stars - Gregarious is not correctly matched."
-  },
-  {
-   "id": "gk-misc-p17-0996",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
-    "Phenomenon - Freind",
-    "Phenomenon - Separetly",
-    "Phenomenon - Phenomenan",
-    "Phenomenon - Irresistable"
-   ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Phenomenon - Phenomenan is correctly matched."
-  },
-  {
-   "id": "gk-misc-p17-0997",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
-    "SIM - Pradhan Mantri Jan Dhan Yojana",
-    "SIM - National Pension System",
-    "SIM - Micro, Small and Medium Enterprises",
-    "SIM - Subscriber Identity Module"
-   ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only SIM - Subscriber Identity Module is correctly matched."
-  },
-  {
-   "id": "gk-misc-p17-0998",
-   "q": "The currency Som is used in which country?",
-   "o": [
-    "Kyrgyzstan",
-    "Philippines",
-    "Cambodia",
-    "Portugal"
-   ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Som is the currency of Kyrgyzstan."
-  },
-  {
-   "id": "gk-misc-p17-0999",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
-    "14 - Rn",
-    "14 - As",
-    "14 - Fm",
-    "14 - Si"
-   ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 14 - Si is correctly matched."
-  },
-  {
-   "id": "gk-misc-p17-1000",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
-    "Volatile - Greed",
-    "Volatile - Provisional",
-    "Volatile - Increase",
-    "Volatile - Unstable"
-   ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Volatile - Unstable is correctly matched."
   }
  ]
 };

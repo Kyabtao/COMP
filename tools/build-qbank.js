@@ -185,7 +185,8 @@ function main() {
   const gkCat = bySlug["gk-misc"];
   const gkPool = poolFor("gk-misc", 987654321);
   const gkTarget = gkCat.target;
-  const gkQuestions = gkPool.pull(gkTarget);
+  const gkAuthored = loadAuthored("gk-misc");
+  const gkQuestions = gkAuthored.concat(gkPool.pull(gkTarget - gkAuthored.length));
   const partSize = Math.ceil(Math.max(1, gkQuestions.length / 17));
   const parts = [];
   for (let p = 0; p < 17; p++) {

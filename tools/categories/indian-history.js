@@ -16,6 +16,306 @@
  "questions": [
   {
    "id": "indian-history-00001",
+   "q": "Which river was most closely associated with the Harappan city of Mohenjo-daro?",
+   "o": [
+    "Ganga",
+    "Indus",
+    "Godavari",
+    "Yamuna"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Mohenjo-daro stands on the Indus in Sindh, Pakistan."
+  },
+  {
+   "id": "indian-history-00002",
+   "q": "Which Harappan site is famous for its dockyard?",
+   "o": [
+    "Lothal",
+    "Kalibangan",
+    "Banawali",
+    "Dholavira"
+   ],
+   "a": 0,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "The tidal dock at Lothal in Gujarat served as a port."
+  },
+  {
+   "id": "indian-history-00003",
+   "q": "Who founded the Maurya dynasty?",
+   "o": [
+    "Ashoka",
+    "Bindusara",
+    "Chandragupta Maurya",
+    "Bimbisara"
+   ],
+   "a": 2,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Chandragupta Maurya founded the dynasty around 321 BCE with Chanakya's help."
+  },
+  {
+   "id": "indian-history-00004",
+   "q": "Ashoka's inscriptions were first deciphered by which scholar?",
+   "o": [
+    "James Prinsep",
+    "John Marshall",
+    "Alexander Cunningham",
+    "William Jones"
+   ],
+   "a": 0,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "James Prinsep deciphered the Brahmi script in 1837."
+  },
+  {
+   "id": "indian-history-00005",
+   "q": "Which battle in 1526 marked the beginning of Mughal rule in India?",
+   "o": [
+    "Battle of Panipat (first)",
+    "Battle of Talikota",
+    "Battle of Plassey",
+    "Battle of Haldighati"
+   ],
+   "a": 0,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Babur defeated Ibrahim Lodi in the First Battle of Panipat in 1526."
+  },
+  {
+   "id": "indian-history-00006",
+   "q": "Who built the Taj Mahal?",
+   "o": [
+    "Akbar",
+    "Shah Jahan",
+    "Aurangzeb",
+    "Humayun"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Shah Jahan built it as a mausoleum for Mumtaz Mahal."
+  },
+  {
+   "id": "indian-history-00007",
+   "q": "Which Mughal emperor is known as Alamgir?",
+   "o": [
+    "Akbar",
+    "Jahangir",
+    "Aurangzeb",
+    "Bahadur Shah"
+   ],
+   "a": 2,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Aurangzeb assumed the title Alamgir, meaning conqueror of the world."
+  },
+  {
+   "id": "indian-history-00008",
+   "q": "The Battle of Plassey in 1757 was fought between the British and which ruler?",
+   "o": [
+    "Tipu Sultan",
+    "Siraj-ud-Daulah",
+    "Mir Jafar",
+    "Shah Alam II"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Robert Clive defeated Siraj-ud-Daulah, the Nawab of Bengal."
+  },
+  {
+   "id": "indian-history-00009",
+   "q": "Who led the Revolt of 1857 at Jhansi?",
+   "o": [
+    "Begum Hazrat Mahal",
+    "Rani Lakshmibai",
+    "Kunwar Singh",
+    "Tantia Tope"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Rani Lakshmibai led the uprising in Jhansi."
+  },
+  {
+   "id": "indian-history-00010",
+   "q": "The Indian National Congress was founded in which year?",
+   "o": [
+    "1857",
+    "1885",
+    "1905",
+    "1919"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "The Congress was founded in 1885, with W. C. Bonnerjee as its first president."
+  },
+  {
+   "id": "indian-history-00011",
+   "q": "Who gave the slogan 'Swaraj is my birthright'?",
+   "o": [
+    "Lala Lajpat Rai",
+    "Bal Gangadhar Tilak",
+    "Gopal Krishna Gokhale",
+    "Bipin Chandra Pal"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Bal Gangadhar Tilak popularised the slogan."
+  },
+  {
+   "id": "indian-history-00012",
+   "q": "The Jallianwala Bagh massacre took place in which city?",
+   "o": [
+    "Lahore",
+    "Amritsar",
+    "Delhi",
+    "Kanpur"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "It happened in Amritsar on 13 April 1919."
+  },
+  {
+   "id": "indian-history-00013",
+   "q": "Who led the Dandi March in 1930?",
+   "o": [
+    "Jawaharlal Nehru",
+    "Mahatma Gandhi",
+    "Subhas Chandra Bose",
+    "Sardar Patel"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Gandhi marched to Dandi to protest the salt tax."
+  },
+  {
+   "id": "indian-history-00014",
+   "q": "Which session of the Congress passed the Purna Swaraj resolution?",
+   "o": [
+    "Lahore 1929",
+    "Nagpur 1920",
+    "Karachi 1931",
+    "Lucknow 1916"
+   ],
+   "a": 0,
+   "t": "Curated",
+   "l": 3,
+   "s": "curated",
+   "e": "The Lahore session of 1929 demanded complete independence."
+  },
+  {
+   "id": "indian-history-00015",
+   "q": "Who founded the Indian National Army (Azad Hind Fauj) in its reorganised form?",
+   "o": [
+    "Bhagat Singh",
+    "Subhas Chandra Bose",
+    "Rash Behari Bose",
+    "Chandrashekhar Azad"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Subhas Chandra Bose reorganised the INA in 1943."
+  },
+  {
+   "id": "indian-history-00016",
+   "q": "Who was the first Governor-General of independent India?",
+   "o": [
+    "C. Rajagopalachari",
+    "Lord Mountbatten",
+    "Lord Wavell",
+    "Rajendra Prasad"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Lord Mountbatten served as the first Governor-General of independent India."
+  },
+  {
+   "id": "indian-history-00017",
+   "q": "Which movement was launched by Gandhi in 1942?",
+   "o": [
+    "Non-Cooperation",
+    "Civil Disobedience",
+    "Quit India",
+    "Khilafat"
+   ],
+   "a": 2,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "The Quit India Movement began in August 1942."
+  },
+  {
+   "id": "indian-history-00018",
+   "q": "The Gupta period is often called the Golden Age mainly because of what?",
+   "o": [
+    "Military conquests",
+    "Achievements in art, science and literature",
+    "Trade with Rome",
+    "Religious tolerance"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Advances in mathematics, astronomy, literature and art marked the Gupta era."
+  },
+  {
+   "id": "indian-history-00019",
+   "q": "Who wrote the Arthashastra?",
+   "o": [
+    "Kalidasa",
+    "Chanakya",
+    "Banabhatta",
+    "Panini"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Chanakya, also called Kautilya, wrote the Arthashastra."
+  },
+  {
+   "id": "indian-history-00020",
+   "q": "Which Viceroy announced the partition of Bengal in 1905?",
+   "o": [
+    "Lord Curzon",
+    "Lord Ripon",
+    "Lord Dalhousie",
+    "Lord Canning"
+   ],
+   "a": 0,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Lord Curzon ordered the partition, which triggered the Swadeshi Movement."
+  },
+  {
+   "id": "indian-history-00021",
    "q": "In which year did the following event take place: Royal Indian Navy Mutiny?",
    "o": [
     "1928",
@@ -30,7 +330,7 @@
    "e": "Royal Indian Navy Mutiny — 1946."
   },
   {
-   "id": "indian-history-00002",
+   "id": "indian-history-00022",
    "q": "In which year did the following event take place: Beginning of World War II?",
    "o": [
     "1939",
@@ -45,7 +345,7 @@
    "e": "Beginning of World War II — 1939."
   },
   {
-   "id": "indian-history-00003",
+   "id": "indian-history-00023",
    "q": "Who founded the Vijayanagara Empire?",
    "o": [
     "Harihara and Bukka",
@@ -60,7 +360,7 @@
    "e": "The Vijayanagara Empire was founded by Harihara and Bukka."
   },
   {
-   "id": "indian-history-00004",
+   "id": "indian-history-00024",
    "q": "Which of the following is true about Tipu Sultan?",
    "o": [
     "Tiger of Mysore",
@@ -75,7 +375,7 @@
    "e": "Tipu Sultan: Tiger of Mysore."
   },
   {
-   "id": "indian-history-00005",
+   "id": "indian-history-00025",
    "q": "Tatya Tope is known by which of the following titles or descriptions?",
    "o": [
     "General of the Revolt of 1857",
@@ -90,7 +390,7 @@
    "e": "Tatya Tope — General of the Revolt of 1857."
   },
   {
-   "id": "indian-history-00006",
+   "id": "indian-history-00026",
    "q": "In which year did the following movement or act begin: Non-Cooperation Movement?",
    "o": [
     "1928",
@@ -105,7 +405,7 @@
    "e": "Non-Cooperation Movement — 1920."
   },
   {
-   "id": "indian-history-00007",
+   "id": "indian-history-00027",
    "q": "In which year did the following event take place: Founding of the Indian National Congress?",
    "o": [
     "1885",
@@ -120,7 +420,7 @@
    "e": "Founding of the Indian National Congress — 1885."
   },
   {
-   "id": "indian-history-00008",
+   "id": "indian-history-00028",
    "q": "In which year did the following event take place: Cuban Missile Crisis?",
    "o": [
     "2011",
@@ -135,7 +435,7 @@
    "e": "Cuban Missile Crisis — 1962."
   },
   {
-   "id": "indian-history-00009",
+   "id": "indian-history-00029",
    "q": "Who founded the Chalukya Dynasty?",
    "o": [
     "Sukaphaa",
@@ -150,7 +450,7 @@
    "e": "The Chalukya Dynasty was founded by Pulakeshin I."
   },
   {
-   "id": "indian-history-00010",
+   "id": "indian-history-00030",
    "q": "Which of the following is true about Sher Shah Suri?",
    "o": [
     "Last Sultan of Delhi, defeated at Panipat in 1526",
@@ -165,7 +465,7 @@
    "e": "Sher Shah Suri: Introduced the Grand Trunk Road and the Rupiya."
   },
   {
-   "id": "indian-history-00011",
+   "id": "indian-history-00031",
    "q": "Annie Besant is known by which of the following titles or descriptions?",
    "o": [
     "Last Governor-General of India",
@@ -180,7 +480,7 @@
    "e": "Annie Besant — Founder of the Home Rule League with Tilak."
   },
   {
-   "id": "indian-history-00012",
+   "id": "indian-history-00032",
    "q": "In which year did the following movement or act begin: Civil Disobedience Movement?",
    "o": [
     "1930",
@@ -195,7 +495,7 @@
    "e": "Civil Disobedience Movement — 1930."
   },
   {
-   "id": "indian-history-00013",
+   "id": "indian-history-00033",
    "q": "In which year did the following event take place: National Emergency declared in India?",
    "o": [
     "1975",
@@ -210,7 +510,7 @@
    "e": "National Emergency declared in India — 1975."
   },
   {
-   "id": "indian-history-00014",
+   "id": "indian-history-00034",
    "q": "In which year did the following event take place: Yuri Gagarin became the first human in space?",
    "o": [
     "1986",
@@ -225,7 +525,7 @@
    "e": "Yuri Gagarin became the first human in space — 1961."
   },
   {
-   "id": "indian-history-00015",
+   "id": "indian-history-00035",
    "q": "Who founded the Slave Dynasty of Delhi?",
    "o": [
     "Shivaji",
@@ -240,7 +540,7 @@
    "e": "The Slave Dynasty of Delhi was founded by Qutb-ud-din Aibak."
   },
   {
-   "id": "indian-history-00016",
+   "id": "indian-history-00036",
    "q": "Which of the following is true about Rajaraja Chola I?",
    "o": [
     "Last Mughal emperor",
@@ -255,7 +555,7 @@
    "e": "Rajaraja Chola I: Built the Brihadeeswarar Temple at Thanjavur."
   },
   {
-   "id": "indian-history-00017",
+   "id": "indian-history-00037",
    "q": "Jawaharlal Nehru is known by which of the following titles or descriptions?",
    "o": [
     "Revolutionary executed with Bhagat Singh",
@@ -270,7 +570,7 @@
    "e": "Jawaharlal Nehru — First Prime Minister of India."
   },
   {
-   "id": "indian-history-00018",
+   "id": "indian-history-00038",
    "q": "In which year did the following movement or act begin: Khilafat Movement?",
    "o": [
     "1930",
@@ -285,7 +585,7 @@
    "e": "Khilafat Movement — 1919."
   },
   {
-   "id": "indian-history-00019",
+   "id": "indian-history-00039",
    "q": "In which year did the following event take place: Purna Swaraj declared at the Lahore session?",
    "o": [
     "1972",
@@ -300,7 +600,7 @@
    "e": "Purna Swaraj declared at the Lahore session — 1929."
   },
   {
-   "id": "indian-history-00020",
+   "id": "indian-history-00040",
    "q": "In which year did the following event take place: Formation of the USSR?",
    "o": [
     "1922",
@@ -315,7 +615,7 @@
    "e": "Formation of the USSR — 1922."
   },
   {
-   "id": "indian-history-00021",
+   "id": "indian-history-00041",
    "q": "Who founded the Gupta Empire?",
    "o": [
     "Shivaji",
@@ -330,7 +630,7 @@
    "e": "The Gupta Empire was founded by Sri Gupta."
   },
   {
-   "id": "indian-history-00022",
+   "id": "indian-history-00042",
    "q": "Which of the following is true about Rani Lakshmibai?",
    "o": [
     "Rani of Jhansi in the Revolt of 1857",
@@ -345,7 +645,7 @@
    "e": "Rani Lakshmibai: Rani of Jhansi in the Revolt of 1857."
   },
   {
-   "id": "indian-history-00023",
+   "id": "indian-history-00043",
    "q": "Begum Hazrat Mahal is known by which of the following titles or descriptions?",
    "o": [
     "Leader of the Revolt in Awadh",
@@ -360,7 +660,7 @@
    "e": "Begum Hazrat Mahal — Leader of the Revolt in Awadh."
   },
   {
-   "id": "indian-history-00024",
+   "id": "indian-history-00044",
    "q": "In which year did the following movement or act begin: Lahore Session of the INC?",
    "o": [
     "1929",
@@ -375,7 +675,7 @@
    "e": "Lahore Session of the INC — 1929."
   },
   {
-   "id": "indian-history-00025",
+   "id": "indian-history-00045",
    "q": "In which year did the following event take place: Bhopal gas tragedy?",
    "o": [
     "2023",
@@ -390,7 +690,7 @@
    "e": "Bhopal gas tragedy — 1984."
   },
   {
-   "id": "indian-history-00026",
+   "id": "indian-history-00046",
    "q": "In which year did the following event take place: Attack on Pearl Harbor?",
    "o": [
     "1949",
@@ -405,7 +705,7 @@
    "e": "Attack on Pearl Harbor — 1941."
   },
   {
-   "id": "indian-history-00027",
+   "id": "indian-history-00047",
    "q": "Who founded the Pala Dynasty?",
    "o": [
     "Rajaraja Chola I",
@@ -420,7 +720,7 @@
    "e": "The Pala Dynasty was founded by Gopala."
   },
   {
-   "id": "indian-history-00028",
+   "id": "indian-history-00048",
    "q": "Which of the following is true about Hyder Ali?",
    "o": [
     "Known as Vikramaditya and patron of the Navaratnas",
@@ -435,7 +735,7 @@
    "e": "Hyder Ali: Father of Tipu Sultan and ruler of Mysore."
   },
   {
-   "id": "indian-history-00029",
+   "id": "indian-history-00049",
    "q": "Nana Saheb is known by which of the following titles or descriptions?",
    "o": [
     "Punjab Kesari",
@@ -450,7 +750,7 @@
    "e": "Nana Saheb — Leader of the Revolt at Kanpur."
   },
   {
-   "id": "indian-history-00030",
+   "id": "indian-history-00050",
    "q": "In which year did the following movement or act begin: Cabinet Mission?",
    "o": [
     "1946",
@@ -465,7 +765,7 @@
    "e": "Cabinet Mission — 1946."
   },
   {
-   "id": "indian-history-00031",
+   "id": "indian-history-00051",
    "q": "In which year did the following event take place: Shimla Agreement signed?",
    "o": [
     "1885",
@@ -480,7 +780,7 @@
    "e": "Shimla Agreement signed — 1972."
   },
   {
-   "id": "indian-history-00032",
+   "id": "indian-history-00052",
    "q": "In which year did the following event take place: Founding of the World Health Organization?",
    "o": [
     "1948",
@@ -495,7 +795,7 @@
    "e": "Founding of the World Health Organization — 1948."
   },
   {
-   "id": "indian-history-00033",
+   "id": "indian-history-00053",
    "q": "Who founded the Khilji Dynasty?",
    "o": [
     "Jalal-ud-din Khalji",
@@ -510,7 +810,7 @@
    "e": "The Khilji Dynasty was founded by Jalal-ud-din Khalji."
   },
   {
-   "id": "indian-history-00034",
+   "id": "indian-history-00054",
    "q": "Which of the following is true about Baji Rao I?",
    "o": [
     "Built the Taj Mahal",
@@ -525,7 +825,7 @@
    "e": "Baji Rao I: Greatest of the Peshwas."
   },
   {
-   "id": "indian-history-00035",
+   "id": "indian-history-00055",
    "q": "Mangal Pandey is known by which of the following titles or descriptions?",
    "o": [
     "Revolutionary executed in 1931",
@@ -540,7 +840,7 @@
    "e": "Mangal Pandey — Soldier who sparked the Revolt of 1857."
   },
   {
-   "id": "indian-history-00036",
+   "id": "indian-history-00056",
    "q": "In which year did the following movement or act begin: Quit India Movement?",
    "o": [
     "1923",
@@ -555,7 +855,7 @@
    "e": "Quit India Movement — 1942."
   },
   {
-   "id": "indian-history-00037",
+   "id": "indian-history-00057",
    "q": "In which year did the following event take place: Launch of the Non-Cooperation Movement?",
    "o": [
     "1920",
@@ -570,7 +870,7 @@
    "e": "Launch of the Non-Cooperation Movement — 1920."
   },
   {
-   "id": "indian-history-00038",
+   "id": "indian-history-00058",
    "q": "In which year did the following event take place: COVID-19 declared a pandemic by WHO?",
    "o": [
     "2020",
@@ -585,7 +885,7 @@
    "e": "COVID-19 declared a pandemic by WHO — 2020."
   },
   {
-   "id": "indian-history-00039",
+   "id": "indian-history-00059",
    "q": "Who founded the Mughal Empire?",
    "o": [
     "Jalal-ud-din Khalji",
@@ -600,7 +900,7 @@
    "e": "The Mughal Empire was founded by Babur."
   },
   {
-   "id": "indian-history-00040",
+   "id": "indian-history-00060",
    "q": "Which of the following is true about Bahadur Shah Zafar?",
    "o": [
     "Won the First Battle of Panipat in 1526",
@@ -615,7 +915,7 @@
    "e": "Bahadur Shah Zafar: Last Mughal emperor."
   },
   {
-   "id": "indian-history-00041",
+   "id": "indian-history-00061",
    "q": "Rajguru is known by which of the following titles or descriptions?",
    "o": [
     "Leader of the Bhoodan movement",
@@ -630,7 +930,7 @@
    "e": "Rajguru — Revolutionary executed with Bhagat Singh."
   },
   {
-   "id": "indian-history-00042",
+   "id": "indian-history-00062",
    "q": "In which year did the following movement or act begin: Champaran Satyagraha?",
    "o": [
     "1917",
@@ -645,7 +945,7 @@
    "e": "Champaran Satyagraha — 1917."
   },
   {
-   "id": "indian-history-00043",
+   "id": "indian-history-00063",
    "q": "In which year did the following event take place: Poona Pact signed?",
    "o": [
     "2014",
@@ -660,7 +960,7 @@
    "e": "Poona Pact signed — 1932."
   },
   {
-   "id": "indian-history-00044",
+   "id": "indian-history-00064",
    "q": "In which year did the following event take place: Apollo 11 Moon landing?",
    "o": [
     "1948",
@@ -675,7 +975,7 @@
    "e": "Apollo 11 Moon landing — 1969."
   },
   {
-   "id": "indian-history-00045",
+   "id": "indian-history-00065",
    "q": "Who founded the Sunga Dynasty?",
    "o": [
     "Kujula Kadphises",
@@ -690,7 +990,7 @@
    "e": "The Sunga Dynasty was founded by Pushyamitra Sunga."
   },
   {
-   "id": "indian-history-00046",
+   "id": "indian-history-00066",
    "q": "Which of the following is true about Ibrahim Lodi?",
    "o": [
     "Last Mughal emperor",
@@ -705,7 +1005,7 @@
    "e": "Ibrahim Lodi: Last Sultan of Delhi, defeated at Panipat in 1526."
   },
   {
-   "id": "indian-history-00047",
+   "id": "indian-history-00067",
    "q": "C. Rajagopalachari is known by which of the following titles or descriptions?",
    "o": [
     "Revolutionary executed with Bhagat Singh",
@@ -720,7 +1020,7 @@
    "e": "C. Rajagopalachari — Last Governor-General of India."
   },
   {
-   "id": "indian-history-00048",
+   "id": "indian-history-00068",
    "q": "In which year did the following movement or act begin: Round Table Conferences?",
    "o": [
     "1920",
@@ -735,7 +1035,7 @@
    "e": "Round Table Conferences — 1930."
   },
   {
-   "id": "indian-history-00049",
+   "id": "indian-history-00069",
    "q": "In which year did the following event take place: Partition of Bengal by Lord Curzon?",
    "o": [
     "2023",
@@ -750,7 +1050,7 @@
    "e": "Partition of Bengal by Lord Curzon — 1905."
   },
   {
-   "id": "indian-history-00050",
+   "id": "indian-history-00070",
    "q": "In which year did the following event take place: Defeat of the Spanish Armada?",
    "o": [
     "1789",
@@ -765,7 +1065,7 @@
    "e": "Defeat of the Spanish Armada — 1588."
   },
   {
-   "id": "indian-history-00051",
+   "id": "indian-history-00071",
    "q": "Who founded the Maratha Empire?",
    "o": [
     "Chandragupta Maurya",
@@ -780,7 +1080,7 @@
    "e": "The Maratha Empire was founded by Shivaji."
   },
   {
-   "id": "indian-history-00052",
+   "id": "indian-history-00072",
    "q": "Which of the following is true about Muhammad bin Tughlaq?",
    "o": [
     "Market control policies and Siri fort",
@@ -795,7 +1095,7 @@
    "e": "Muhammad bin Tughlaq: Shifted the capital from Delhi to Daulatabad."
   },
   {
-   "id": "indian-history-00053",
+   "id": "indian-history-00073",
    "q": "Madan Mohan Malaviya is known by which of the following titles or descriptions?",
    "o": [
     "Political mentor of Mahatma Gandhi",
@@ -810,7 +1110,7 @@
    "e": "Madan Mohan Malaviya — Founder of Banaras Hindu University."
   },
   {
-   "id": "indian-history-00054",
+   "id": "indian-history-00074",
    "q": "In which year did the following movement or act begin: Simon Commission boycott?",
    "o": [
     "1947",
@@ -825,7 +1125,7 @@
    "e": "Simon Commission boycott — 1928."
   },
   {
-   "id": "indian-history-00055",
+   "id": "indian-history-00075",
    "q": "In which year did the following event take place: Dandi March launched by Mahatma Gandhi?",
    "o": [
     "2014",
@@ -840,7 +1140,7 @@
    "e": "Dandi March launched by Mahatma Gandhi — 1930."
   },
   {
-   "id": "indian-history-00056",
+   "id": "indian-history-00076",
    "q": "In which year did the following event take place: Global financial crisis?",
    "o": [
     "1920",
@@ -855,7 +1155,7 @@
    "e": "Global financial crisis — 2008."
   },
   {
-   "id": "indian-history-00057",
+   "id": "indian-history-00077",
    "q": "Who founded the Kushana Empire?",
    "o": [
     "Pulakeshin I",
@@ -870,7 +1170,7 @@
    "e": "The Kushana Empire was founded by Kujula Kadphises."
   },
   {
-   "id": "indian-history-00058",
+   "id": "indian-history-00078",
    "q": "Which of the following is true about Guru Gobind Singh?",
    "o": [
     "Built the Brihadeeswarar Temple at Thanjavur",
@@ -885,7 +1185,7 @@
    "e": "Guru Gobind Singh: Tenth Sikh Guru and founder of the Khalsa."
   },
   {
-   "id": "indian-history-00059",
+   "id": "indian-history-00079",
    "q": "Rabindranath Tagore is known by which of the following titles or descriptions?",
    "o": [
     "First Prime Minister of India",
@@ -900,7 +1200,7 @@
    "e": "Rabindranath Tagore — Author of the national anthem of India."
   },
   {
-   "id": "indian-history-00060",
+   "id": "indian-history-00080",
    "q": "In which year did the following movement or act begin: Rowlatt Act?",
    "o": [
     "1929",
@@ -915,7 +1215,7 @@
    "e": "Rowlatt Act — 1919."
   },
   {
-   "id": "indian-history-00061",
+   "id": "indian-history-00081",
    "q": "In which year did the following event take place: Gandhi-Irwin Pact signed?",
    "o": [
     "1906",
@@ -930,7 +1230,7 @@
    "e": "Gandhi-Irwin Pact signed — 1931."
   },
   {
-   "id": "indian-history-00062",
+   "id": "indian-history-00082",
    "q": "In which year did the following event take place: American Declaration of Independence?",
    "o": [
     "1973",
@@ -945,7 +1245,7 @@
    "e": "American Declaration of Independence — 1776."
   },
   {
-   "id": "indian-history-00063",
+   "id": "indian-history-00083",
    "q": "Who founded the Sayyid Dynasty?",
    "o": [
     "Babur",
@@ -960,7 +1260,7 @@
    "e": "The Sayyid Dynasty was founded by Khizr Khan."
   },
   {
-   "id": "indian-history-00064",
+   "id": "indian-history-00084",
    "q": "Which of the following is true about Akbar?",
    "o": [
     "Established Din-i-Ilahi and the Ibadat Khana",
@@ -975,7 +1275,7 @@
    "e": "Akbar: Established Din-i-Ilahi and the Ibadat Khana."
   },
   {
-   "id": "indian-history-00065",
+   "id": "indian-history-00085",
    "q": "B. R. Ambedkar is known by which of the following titles or descriptions?",
    "o": [
     "Chief architect of the Indian Constitution",
@@ -990,7 +1290,7 @@
    "e": "B. R. Ambedkar — Chief architect of the Indian Constitution."
   },
   {
-   "id": "indian-history-00066",
+   "id": "indian-history-00086",
    "q": "In which year did the following movement or act begin: Swaraj Party?",
    "o": [
     "1942",
@@ -1005,7 +1305,7 @@
    "e": "Swaraj Party — 1923."
   },
   {
-   "id": "indian-history-00067",
+   "id": "indian-history-00087",
    "q": "In which year did the following event take place: Pokhran-I nuclear test (Smiling Buddha)?",
    "o": [
     "1966",
@@ -1020,7 +1320,7 @@
    "e": "Pokhran-I nuclear test (Smiling Buddha) — 1974."
   },
   {
-   "id": "indian-history-00068",
+   "id": "indian-history-00088",
    "q": "In which year did the following event take place: Formation of the European Union by the Maastricht Treaty?",
    "o": [
     "1993",
@@ -1035,7 +1335,7 @@
    "e": "Formation of the European Union by the Maastricht Treaty — 1993."
   },
   {
-   "id": "indian-history-00069",
+   "id": "indian-history-00089",
    "q": "Who founded the Sikh Empire?",
    "o": [
     "Jalal-ud-din Khalji",
@@ -1050,7 +1350,7 @@
    "e": "The Sikh Empire was founded by Ranjit Singh."
   },
   {
-   "id": "indian-history-00070",
+   "id": "indian-history-00090",
    "q": "Which of the following is true about Babur?",
    "o": [
     "Known as Vikramaditya and patron of the Navaratnas",
@@ -1065,7 +1365,7 @@
    "e": "Babur: Won the First Battle of Panipat in 1526."
   },
   {
-   "id": "indian-history-00071",
+   "id": "indian-history-00091",
    "q": "Vinoba Bhave is known by which of the following titles or descriptions?",
    "o": [
     "Punjab Kesari",
@@ -1080,7 +1380,7 @@
    "e": "Vinoba Bhave — Leader of the Bhoodan movement."
   },
   {
-   "id": "indian-history-00072",
+   "id": "indian-history-00092",
    "q": "In which year did the following movement or act begin: Individual Satyagraha?",
    "o": [
     "1932",
@@ -1095,7 +1395,7 @@
    "e": "Individual Satyagraha — 1940."
   },
   {
-   "id": "indian-history-00073",
+   "id": "indian-history-00093",
    "q": "In which year did the following event take place: Janata Party formed the government at the Centre?",
    "o": [
     "1977",
@@ -1110,7 +1410,7 @@
    "e": "Janata Party formed the government at the Centre — 1977."
   },
   {
-   "id": "indian-history-00074",
+   "id": "indian-history-00094",
    "q": "In which year did the following event take place: First Nobel Prizes awarded?",
    "o": [
     "1865",
@@ -1125,7 +1425,7 @@
    "e": "First Nobel Prizes awarded — 1901."
   },
   {
-   "id": "indian-history-00075",
+   "id": "indian-history-00095",
    "q": "Who founded the Ahom Kingdom?",
    "o": [
     "Harihara and Bukka",
@@ -1140,7 +1440,7 @@
    "e": "The Ahom Kingdom was founded by Sukaphaa."
   },
   {
-   "id": "indian-history-00076",
+   "id": "indian-history-00096",
    "q": "Which of the following is true about Bahadur Shah Zafar?",
    "o": [
     "Founded the Maratha empire and was crowned in 1674",
@@ -1155,7 +1455,7 @@
    "e": "Bahadur Shah Zafar: Nominal leader of the Revolt of 1857."
   },
   {
-   "id": "indian-history-00077",
+   "id": "indian-history-00097",
    "q": "Kunwar Singh is known by which of the following titles or descriptions?",
    "o": [
     "Revolutionary executed with Bhagat Singh",
@@ -1170,7 +1470,7 @@
    "e": "Kunwar Singh — Leader of the Revolt in Bihar."
   },
   {
-   "id": "indian-history-00078",
+   "id": "indian-history-00098",
    "q": "In which year did the following movement or act begin: Cripps Mission?",
    "o": [
     "1942",
@@ -1185,7 +1485,7 @@
    "e": "Cripps Mission — 1942."
   },
   {
-   "id": "indian-history-00079",
+   "id": "indian-history-00099",
    "q": "In which year did the following event take place: Attack on the Indian Parliament?",
    "o": [
     "2001",
@@ -1200,7 +1500,7 @@
    "e": "Attack on the Indian Parliament — 2001."
   },
   {
-   "id": "indian-history-00080",
+   "id": "indian-history-00100",
    "q": "In which year did the following event take place: Hitler became Chancellor of Germany?",
    "o": [
     "2008",
@@ -1215,7 +1515,7 @@
    "e": "Hitler became Chancellor of Germany — 1933."
   },
   {
-   "id": "indian-history-00081",
+   "id": "indian-history-00101",
    "q": "Who founded the Bahmani Kingdom?",
    "o": [
     "Harihara and Bukka",
@@ -1230,7 +1530,7 @@
    "e": "The Bahmani Kingdom was founded by Alauddin Bahman Shah."
   },
   {
-   "id": "indian-history-00082",
+   "id": "indian-history-00102",
    "q": "Which of the following is true about Chandragupta Maurya?",
    "o": [
     "Spread Buddhism after the Kalinga war",
@@ -1245,7 +1545,7 @@
    "e": "Chandragupta Maurya: Founded the Maurya Empire with the help of Chanakya."
   },
   {
-   "id": "indian-history-00083",
+   "id": "indian-history-00103",
    "q": "Mahatma Gandhi is known by which of the following titles or descriptions?",
    "o": [
     "Netaji, leader of the INA",
@@ -1260,7 +1560,7 @@
    "e": "Mahatma Gandhi — Father of the Nation."
   },
   {
-   "id": "indian-history-00084",
+   "id": "indian-history-00104",
    "q": "In which year did the following movement or act begin: Mountbatten Plan?",
    "o": [
     "1947",
@@ -1275,7 +1575,7 @@
    "e": "Mountbatten Plan — 1947."
   },
   {
-   "id": "indian-history-00085",
+   "id": "indian-history-00105",
    "q": "In which year did the following event take place: India won the Cricket World Cup?",
    "o": [
     "1952",
@@ -1290,7 +1590,7 @@
    "e": "India won the Cricket World Cup — 1983."
   },
   {
-   "id": "indian-history-00086",
+   "id": "indian-history-00106",
    "q": "In which year did the following event take place: Signing of the Magna Carta?",
    "o": [
     "1949",
@@ -1305,7 +1605,7 @@
    "e": "Signing of the Magna Carta — 1215."
   },
   {
-   "id": "indian-history-00087",
+   "id": "indian-history-00107",
    "q": "Who founded the Chola Dynasty (imperial phase)?",
    "o": [
     "Simhavarman",
@@ -1320,7 +1620,7 @@
    "e": "The Chola Dynasty (imperial phase) was founded by Rajaraja Chola I."
   },
   {
-   "id": "indian-history-00088",
+   "id": "indian-history-00108",
    "q": "Which of the following is true about Shivaji?",
    "o": [
     "Market control policies and Siri fort",
@@ -1335,7 +1635,7 @@
    "e": "Shivaji: Founded the Maratha empire and was crowned in 1674."
   },
   {
-   "id": "indian-history-00089",
+   "id": "indian-history-00109",
    "q": "Sukhdev is known by which of the following titles or descriptions?",
    "o": [
     "Political mentor of Mahatma Gandhi",
@@ -1350,7 +1650,7 @@
    "e": "Sukhdev — Revolutionary executed with Bhagat Singh."
   },
   {
-   "id": "indian-history-00090",
+   "id": "indian-history-00110",
    "q": "In which year did the following movement or act begin: Communal Award?",
    "o": [
     "1932",
@@ -1365,7 +1665,7 @@
    "e": "Communal Award — 1932."
   },
   {
-   "id": "indian-history-00091",
+   "id": "indian-history-00111",
    "q": "In which year did the following event take place: First War of Indian Independence (Revolt of 1857)?",
    "o": [
     "1857",
@@ -1380,7 +1680,7 @@
    "e": "First War of Indian Independence (Revolt of 1857) — 1857."
   },
   {
-   "id": "indian-history-00092",
+   "id": "indian-history-00112",
    "q": "In which year did the following event take place: Beginning of the French Revolution?",
    "o": [
     "1789",
@@ -1395,7 +1695,7 @@
    "e": "Beginning of the French Revolution — 1789."
   },
   {
-   "id": "indian-history-00093",
+   "id": "indian-history-00113",
    "q": "Who founded the Maurya Empire?",
    "o": [
     "Sukaphaa",
@@ -1410,7 +1710,7 @@
    "e": "The Maurya Empire was founded by Chandragupta Maurya."
   },
   {
-   "id": "indian-history-00094",
+   "id": "indian-history-00114",
    "q": "Which of the following is true about Chandragupta II?",
    "o": [
     "Tenth Sikh Guru and founder of the Khalsa",
@@ -1425,7 +1725,7 @@
    "e": "Chandragupta II: Known as Vikramaditya and patron of the Navaratnas."
   },
   {
-   "id": "indian-history-00095",
+   "id": "indian-history-00115",
    "q": "Lala Lajpat Rai is known by which of the following titles or descriptions?",
    "o": [
     "Author of the national anthem of India",
@@ -1440,7 +1740,7 @@
    "e": "Lala Lajpat Rai — Punjab Kesari."
   },
   {
-   "id": "indian-history-00096",
+   "id": "indian-history-00116",
    "q": "Which movement or act is described as: Announced by Ramsay MacDonald?",
    "o": [
     "Mountbatten Plan",
@@ -1455,7 +1755,7 @@
    "e": "Communal Award — Announced by Ramsay MacDonald."
   },
   {
-   "id": "indian-history-00097",
+   "id": "indian-history-00117",
    "q": "In which year did the following event take place: Indira Gandhi became Prime Minister?",
    "o": [
     "1966",
@@ -1470,7 +1770,7 @@
    "e": "Indira Gandhi became Prime Minister — 1966."
   },
   {
-   "id": "indian-history-00098",
+   "id": "indian-history-00118",
    "q": "In which year did the following event take place: Columbus reached the Americas?",
    "o": [
     "1492",
@@ -1485,7 +1785,7 @@
    "e": "Columbus reached the Americas — 1492."
   },
   {
-   "id": "indian-history-00099",
+   "id": "indian-history-00119",
    "q": "Who founded the Pallava Dynasty?",
    "o": [
     "Babur",
@@ -1500,7 +1800,7 @@
    "e": "The Pallava Dynasty was founded by Simhavarman."
   },
   {
-   "id": "indian-history-00100",
+   "id": "indian-history-00120",
    "q": "Which of the following is true about Krishnadevaraya?",
    "o": [
     "Market control policies and Siri fort",
@@ -1515,7 +1815,7 @@
    "e": "Krishnadevaraya: Famous Vijayanagara ruler and author of Amuktamalyada."
   },
   {
-   "id": "indian-history-00101",
+   "id": "indian-history-00121",
    "q": "Sardar Vallabhbhai Patel is known by which of the following titles or descriptions?",
    "o": [
     "Political mentor of Mahatma Gandhi",
@@ -1530,7 +1830,7 @@
    "e": "Sardar Vallabhbhai Patel — Iron Man of India."
   },
   {
-   "id": "indian-history-00102",
+   "id": "indian-history-00122",
    "q": "Which movement or act is described as: Opposed because it had no Indian member?",
    "o": [
     "Champaran Satyagraha",
@@ -1545,7 +1845,7 @@
    "e": "Simon Commission boycott — Opposed because it had no Indian member."
   },
   {
-   "id": "indian-history-00103",
+   "id": "indian-history-00123",
    "q": "In which year did the following event take place: Article 370 provisions abrogated?",
    "o": [
     "1974",
@@ -1560,7 +1860,7 @@
    "e": "Article 370 provisions abrogated — 2019."
   },
   {
-   "id": "indian-history-00104",
+   "id": "indian-history-00124",
    "q": "In which year did the following event take place: Beginning of World War I?",
    "o": [
     "1492",
@@ -1575,7 +1875,7 @@
    "e": "Beginning of World War I — 1914."
   },
   {
-   "id": "indian-history-00105",
+   "id": "indian-history-00125",
    "q": "Who founded the Satavahana Dynasty?",
    "o": [
     "Simuka",
@@ -1590,7 +1890,7 @@
    "e": "The Satavahana Dynasty was founded by Simuka."
   },
   {
-   "id": "indian-history-00106",
+   "id": "indian-history-00126",
    "q": "Which of the following is true about Harshavardhana?",
    "o": [
     "Founder of Buddhism",
@@ -1605,7 +1905,7 @@
    "e": "Harshavardhana: Ruled from Kannauj and was praised by Hiuen Tsang."
   },
   {
-   "id": "indian-history-00107",
+   "id": "indian-history-00127",
    "q": "Dadabhai Naoroji is known by which of the following titles or descriptions?",
    "o": [
     "Founder of the Indian Independence League in Japan",
@@ -1620,7 +1920,7 @@
    "e": "Dadabhai Naoroji — Grand Old Man of India."
   },
   {
-   "id": "indian-history-00108",
+   "id": "indian-history-00128",
    "q": "Which movement or act is described as: Proposed a federal union for India?",
    "o": [
     "Round Table Conferences",
@@ -1635,7 +1935,7 @@
    "e": "Cabinet Mission — Proposed a federal union for India."
   },
   {
-   "id": "indian-history-00109",
+   "id": "indian-history-00129",
    "q": "In which year did the following event take place: First meeting of the Constituent Assembly?",
    "o": [
     "1946",
@@ -1650,7 +1950,7 @@
    "e": "First meeting of the Constituent Assembly — 1946."
   },
   {
-   "id": "indian-history-00110",
+   "id": "indian-history-00130",
    "q": "In which year did the following event take place: End of World War II?",
    "o": [
     "1990",
@@ -1665,7 +1965,7 @@
    "e": "End of World War II — 1945."
   },
   {
-   "id": "indian-history-00111",
+   "id": "indian-history-00131",
    "q": "Who founded the Lodi Dynasty?",
    "o": [
     "Shivaji",
@@ -1680,7 +1980,7 @@
    "e": "The Lodi Dynasty was founded by Bahlul Lodi."
   },
   {
-   "id": "indian-history-00112",
+   "id": "indian-history-00132",
    "q": "Which of the following is true about Ashoka?",
    "o": [
     "Last Sultan of Delhi, defeated at Panipat in 1526",
@@ -1695,7 +1995,7 @@
    "e": "Ashoka: Spread Buddhism after the Kalinga war."
   },
   {
-   "id": "indian-history-00113",
+   "id": "indian-history-00133",
    "q": "Subhas Chandra Bose is known by which of the following titles or descriptions?",
    "o": [
     "Last Governor-General of India",
@@ -1710,7 +2010,7 @@
    "e": "Subhas Chandra Bose — Netaji, leader of the INA."
   },
   {
-   "id": "indian-history-00114",
+   "id": "indian-history-00134",
    "q": "Which movement or act is described as: Led to the partition of India?",
    "o": [
     "Non-Cooperation Movement",
@@ -1725,7 +2025,7 @@
    "e": "Mountbatten Plan — Led to the partition of India."
   },
   {
-   "id": "indian-history-00115",
+   "id": "indian-history-00135",
    "q": "In which year did the following event take place: India signed the civil nuclear deal with the USA?",
    "o": [
     "1951",
@@ -1740,7 +2040,7 @@
    "e": "India signed the civil nuclear deal with the USA — 2008."
   },
   {
-   "id": "indian-history-00116",
+   "id": "indian-history-00136",
    "q": "In which year did the following event take place: Adoption of the UN Sustainable Development Goals?",
    "o": [
     "2015",
@@ -1755,7 +2055,7 @@
    "e": "Adoption of the UN Sustainable Development Goals — 2015."
   },
   {
-   "id": "indian-history-00117",
+   "id": "indian-history-00137",
    "q": "Who founded the Tughlaq Dynasty?",
    "o": [
     "Ghiyas-ud-din Tughlaq",
@@ -1770,7 +2070,7 @@
    "e": "The Tughlaq Dynasty was founded by Ghiyas-ud-din Tughlaq."
   },
   {
-   "id": "indian-history-00118",
+   "id": "indian-history-00138",
    "q": "Which of the following is true about Gautama Buddha?",
    "o": [
     "Founder of Buddhism",
@@ -1785,7 +2085,7 @@
    "e": "Gautama Buddha: Founder of Buddhism."
   },
   {
-   "id": "indian-history-00119",
+   "id": "indian-history-00139",
    "q": "Rash Behari Bose is known by which of the following titles or descriptions?",
    "o": [
     "Founder of the Indian Independence League in Japan",
@@ -1800,7 +2100,7 @@
    "e": "Rash Behari Bose — Founder of the Indian Independence League in Japan."
   },
   {
-   "id": "indian-history-00120",
+   "id": "indian-history-00140",
    "q": "Which movement or act is described as: Launched against the war effort?",
    "o": [
     "Quit India Movement",
@@ -1815,7 +2115,7 @@
    "e": "Individual Satyagraha — Launched against the war effort."
   },
   {
-   "id": "indian-history-00121",
+   "id": "indian-history-00141",
    "q": "In which year did the following event take place: Chandrayaan-3 soft landing near the lunar south pole?",
    "o": [
     "1928",
@@ -1830,7 +2130,7 @@
    "e": "Chandrayaan-3 soft landing near the lunar south pole — 2023."
   },
   {
-   "id": "indian-history-00122",
+   "id": "indian-history-00142",
    "q": "In which year did the following event take place: Treaty of Rome establishing the EEC?",
    "o": [
     "1994",
@@ -1845,7 +2145,7 @@
    "e": "Treaty of Rome establishing the EEC — 1957."
   },
   {
-   "id": "indian-history-00123",
+   "id": "indian-history-00143",
    "q": "Bahlul Lodi founded which of the following?",
    "o": [
     "Lodi Dynasty",
@@ -1860,7 +2160,7 @@
    "e": "Bahlul Lodi founded the Lodi Dynasty."
   },
   {
-   "id": "indian-history-00124",
+   "id": "indian-history-00144",
    "q": "Which of the following is true about Maharaja Ranjit Singh?",
    "o": [
     "Known as Vikramaditya and patron of the Navaratnas",
@@ -1875,7 +2175,7 @@
    "e": "Maharaja Ranjit Singh: Founder of the Sikh Empire."
   },
   {
-   "id": "indian-history-00125",
+   "id": "indian-history-00145",
    "q": "Rani Lakshmibai is known by which of the following titles or descriptions?",
    "o": [
     "Punjab Kesari",
@@ -1890,7 +2190,7 @@
    "e": "Rani Lakshmibai — Queen who fought at Jhansi in 1857."
   },
   {
-   "id": "indian-history-00126",
+   "id": "indian-history-00146",
    "q": "Which movement or act is described as: Launched at the Gowalia Tank Maidan?",
    "o": [
     "Quit India Movement",
@@ -1905,7 +2205,7 @@
    "e": "Quit India Movement — Launched at the Gowalia Tank Maidan."
   },
   {
-   "id": "indian-history-00127",
+   "id": "indian-history-00147",
    "q": "In which year did the following event take place: Assassination of Mahatma Gandhi?",
    "o": [
     "1948",
@@ -1920,7 +2220,7 @@
    "e": "Assassination of Mahatma Gandhi — 1948."
   },
   {
-   "id": "indian-history-00128",
+   "id": "indian-history-00148",
    "q": "In which year did the following event take place: Nelson Mandela became President of South Africa?",
    "o": [
     "1848",
@@ -1935,7 +2235,7 @@
    "e": "Nelson Mandela became President of South Africa — 1994."
   },
   {
-   "id": "indian-history-00129",
+   "id": "indian-history-00149",
    "q": "Babur founded which of the following?",
    "o": [
     "Mughal Empire",
@@ -1950,7 +2250,7 @@
    "e": "Babur founded the Mughal Empire."
   },
   {
-   "id": "indian-history-00130",
+   "id": "indian-history-00150",
    "q": "Which of the following is true about Kanishka?",
    "o": [
     "Convened the Fourth Buddhist Council",
@@ -1965,7 +2265,7 @@
    "e": "Kanishka: Convened the Fourth Buddhist Council."
   },
   {
-   "id": "indian-history-00131",
+   "id": "indian-history-00151",
    "q": "Sarojini Naidu is known by which of the following titles or descriptions?",
    "o": [
     "Nightingale of India",
@@ -1980,7 +2280,7 @@
    "e": "Sarojini Naidu — Nightingale of India."
   },
   {
-   "id": "indian-history-00132",
+   "id": "indian-history-00152",
    "q": "Which movement or act is described as: Held in London to discuss constitutional reform?",
    "o": [
     "Quit India Movement",
@@ -1995,7 +2295,7 @@
    "e": "Round Table Conferences — Held in London to discuss constitutional reform."
   },
   {
-   "id": "indian-history-00133",
+   "id": "indian-history-00153",
    "q": "In which year did the following event take place: India-China border war?",
    "o": [
     "1947",
@@ -2010,7 +2310,7 @@
    "e": "India-China border war — 1962."
   },
   {
-   "id": "indian-history-00134",
+   "id": "indian-history-00154",
    "q": "In which year did the following event take place: D-Day landings in Normandy?",
    "o": [
     "1948",
@@ -2025,7 +2325,7 @@
    "e": "D-Day landings in Normandy — 1944."
   },
   {
-   "id": "indian-history-00135",
+   "id": "indian-history-00155",
    "q": "Sri Gupta founded which of the following?",
    "o": [
     "Lodi Dynasty",
@@ -2040,7 +2340,7 @@
    "e": "Sri Gupta founded the Gupta Empire."
   },
   {
-   "id": "indian-history-00136",
+   "id": "indian-history-00156",
    "q": "Which of the following is true about Alauddin Khilji?",
    "o": [
     "Market control policies and Siri fort",
@@ -2055,7 +2355,7 @@
    "e": "Alauddin Khilji: Market control policies and Siri fort."
   },
   {
-   "id": "indian-history-00137",
+   "id": "indian-history-00157",
    "q": "Gopal Krishna Gokhale is known by which of the following titles or descriptions?",
    "o": [
     "Political mentor of Mahatma Gandhi",
@@ -2070,7 +2370,7 @@
    "e": "Gopal Krishna Gokhale — Political mentor of Mahatma Gandhi."
   },
   {
-   "id": "indian-history-00138",
+   "id": "indian-history-00158",
    "q": "Which movement or act is described as: Joined hands with the Non-Cooperation Movement?",
    "o": [
     "Round Table Conferences",
@@ -2085,7 +2385,7 @@
    "e": "Khilafat Movement — Joined hands with the Non-Cooperation Movement."
   },
   {
-   "id": "indian-history-00139",
+   "id": "indian-history-00159",
    "q": "In which year did the following event take place: Demonetisation of high value currency notes?",
    "o": [
     "2016",
@@ -2100,7 +2400,7 @@
    "e": "Demonetisation of high value currency notes — 2016."
   },
   {
-   "id": "indian-history-00140",
+   "id": "indian-history-00160",
    "q": "In which year did the following event take place: Battle of Waterloo?",
    "o": [
     "1933",
@@ -2115,7 +2415,7 @@
    "e": "Battle of Waterloo — 1815."
   },
   {
-   "id": "indian-history-00141",
+   "id": "indian-history-00161",
    "q": "Chandragupta Maurya founded which of the following?",
    "o": [
     "Maurya Empire",
@@ -2130,7 +2430,7 @@
    "e": "Chandragupta Maurya founded the Maurya Empire."
   },
   {
-   "id": "indian-history-00142",
+   "id": "indian-history-00162",
    "q": "Which of the following is true about Guru Nanak?",
    "o": [
     "Tenth Sikh Guru and founder of the Khalsa",
@@ -2145,7 +2445,7 @@
    "e": "Guru Nanak: Founder of Sikhism."
   },
   {
-   "id": "indian-history-00143",
+   "id": "indian-history-00163",
    "q": "Bankim Chandra Chatterjee is known by which of the following titles or descriptions?",
    "o": [
     "Author of the national anthem of India",
@@ -2160,7 +2460,7 @@
    "e": "Bankim Chandra Chatterjee — Author of Vande Mataram."
   },
   {
-   "id": "indian-history-00144",
+   "id": "indian-history-00164",
    "q": "Which movement or act is described as: Gandhi's first satyagraha in India?",
    "o": [
     "Champaran Satyagraha",
@@ -2175,7 +2475,7 @@
    "e": "Champaran Satyagraha — Gandhi's first satyagraha in India."
   },
   {
-   "id": "indian-history-00145",
+   "id": "indian-history-00165",
    "q": "In which year did the following event take place: Founding of the All India Muslim League?",
    "o": [
     "1962",
@@ -2190,7 +2490,7 @@
    "e": "Founding of the All India Muslim League — 1906."
   },
   {
-   "id": "indian-history-00146",
+   "id": "indian-history-00166",
    "q": "In which year did the following event take place: Founding of the United Nations?",
    "o": [
     "1917",
@@ -2205,7 +2505,7 @@
    "e": "Founding of the United Nations — 1945."
   },
   {
-   "id": "indian-history-00147",
+   "id": "indian-history-00167",
    "q": "Qutb-ud-din Aibak founded which of the following?",
    "o": [
     "Gupta Empire",
@@ -2220,7 +2520,7 @@
    "e": "Qutb-ud-din Aibak founded the Slave Dynasty of Delhi."
   },
   {
-   "id": "indian-history-00148",
+   "id": "indian-history-00168",
    "q": "Which of the following is true about Shah Jahan?",
    "o": [
     "Father of Tipu Sultan and ruler of Mysore",
@@ -2235,7 +2535,7 @@
    "e": "Shah Jahan: Built the Taj Mahal."
   },
   {
-   "id": "indian-history-00149",
+   "id": "indian-history-00169",
    "q": "Bhagat Singh is known by which of the following titles or descriptions?",
    "o": [
     "Leader of the Revolt at Kanpur",
@@ -2250,7 +2550,7 @@
    "e": "Bhagat Singh — Revolutionary executed in 1931."
   },
   {
-   "id": "indian-history-00150",
+   "id": "indian-history-00170",
    "q": "Which movement or act is described as: Failed to secure Indian cooperation in WWII?",
    "o": [
     "Individual Satyagraha",
@@ -2265,7 +2565,7 @@
    "e": "Cripps Mission — Failed to secure Indian cooperation in WWII."
   },
   {
-   "id": "indian-history-00151",
+   "id": "indian-history-00171",
    "q": "In which year did the following event take place: First general elections held in India?",
    "o": [
     "1929",
@@ -2280,7 +2580,7 @@
    "e": "First general elections held in India — 1952."
   },
   {
-   "id": "indian-history-00152",
+   "id": "indian-history-00172",
    "q": "In which year did the following event take place: Universal Declaration of Human Rights adopted?",
    "o": [
     "1948",
@@ -2295,7 +2595,7 @@
    "e": "Universal Declaration of Human Rights adopted — 1948."
   },
   {
-   "id": "indian-history-00153",
+   "id": "indian-history-00173",
    "q": "Ranjit Singh founded which of the following?",
    "o": [
     "Sikh Empire",
@@ -2310,7 +2610,7 @@
    "e": "Ranjit Singh founded the Sikh Empire."
   },
   {
-   "id": "indian-history-00154",
+   "id": "indian-history-00174",
    "q": "Which of the following is true about Humayun?",
    "o": [
     "Built the Brihadeeswarar Temple at Thanjavur",
@@ -2325,7 +2625,7 @@
    "e": "Humayun: Lost and regained the Mughal throne."
   },
   {
-   "id": "indian-history-00155",
+   "id": "indian-history-00175",
    "q": "Jayaprakash Narayan is known by which of the following titles or descriptions?",
    "o": [
     "First Prime Minister of India",
@@ -2340,7 +2640,7 @@
    "e": "Jayaprakash Narayan — Leader of the 1974-77 movement."
   },
   {
-   "id": "indian-history-00156",
+   "id": "indian-history-00176",
    "q": "Which movement or act is described as: Formed by Motilal Nehru and C. R. Das?",
    "o": [
     "Round Table Conferences",
@@ -2355,7 +2655,7 @@
    "e": "Swaraj Party — Formed by Motilal Nehru and C. R. Das."
   },
   {
-   "id": "indian-history-00157",
+   "id": "indian-history-00177",
    "q": "In which year did the following event take place: Government of India Act passed?",
    "o": [
     "1919",
@@ -2370,7 +2670,7 @@
    "e": "Government of India Act passed — 1935."
   },
   {
-   "id": "indian-history-00158",
+   "id": "indian-history-00178",
    "q": "In which year did the following event take place: Sinking of the Titanic?",
    "o": [
     "1979",
@@ -2385,7 +2685,7 @@
    "e": "Sinking of the Titanic — 1912."
   },
   {
-   "id": "indian-history-00159",
+   "id": "indian-history-00179",
    "q": "Simuka founded which of the following?",
    "o": [
     "Gupta Empire",
@@ -2400,7 +2700,7 @@
    "e": "Simuka founded the Satavahana Dynasty."
   },
   {
-   "id": "indian-history-00160",
+   "id": "indian-history-00180",
    "q": "Which of the following is true about Mahavira?",
    "o": [
     "Convened the Fourth Buddhist Council",
@@ -2415,7 +2715,7 @@
    "e": "Mahavira: Twenty-fourth Tirthankara of Jainism."
   },
   {
-   "id": "indian-history-00161",
+   "id": "indian-history-00181",
    "q": "Bhagat Singh is known by which of the following titles or descriptions?",
    "o": [
     "Nightingale of India",
@@ -2430,7 +2730,7 @@
    "e": "Bhagat Singh — Founder-member of the HSRA."
   },
   {
-   "id": "indian-history-00162",
+   "id": "indian-history-00182",
    "q": "Which movement or act is described as: Began with the Dandi March?",
    "o": [
     "Lahore Session of the INC",
@@ -2445,7 +2745,7 @@
    "e": "Civil Disobedience Movement — Began with the Dandi March."
   },
   {
-   "id": "indian-history-00163",
+   "id": "indian-history-00183",
    "q": "In which year did the following event take place: Pokhran-II nuclear tests?",
    "o": [
     "1977",
@@ -2460,7 +2760,7 @@
    "e": "Pokhran-II nuclear tests — 1998."
   },
   {
-   "id": "indian-history-00164",
+   "id": "indian-history-00184",
    "q": "In which year did the following event take place: Fall of Constantinople?",
    "o": [
     "1453",
@@ -2475,7 +2775,7 @@
    "e": "Fall of Constantinople — 1453."
   },
   {
-   "id": "indian-history-00165",
+   "id": "indian-history-00185",
    "q": "Alauddin Bahman Shah founded which of the following?",
    "o": [
     "Pala Dynasty",
@@ -2490,7 +2790,7 @@
    "e": "Alauddin Bahman Shah founded the Bahmani Kingdom."
   },
   {
-   "id": "indian-history-00166",
+   "id": "indian-history-00186",
    "q": "Which of the following is true about Firoz Shah Tughlaq?",
    "o": [
     "Last Sultan of Delhi, defeated at Panipat in 1526",
@@ -2505,7 +2805,7 @@
    "e": "Firoz Shah Tughlaq: Built canals and founded Firozabad."
   },
   {
-   "id": "indian-history-00167",
+   "id": "indian-history-00187",
    "q": "Maulana Abul Kalam Azad is known by which of the following titles or descriptions?",
    "o": [
     "Last Governor-General of India",
@@ -2520,7 +2820,7 @@
    "e": "Maulana Abul Kalam Azad — First Education Minister of India."
   },
   {
-   "id": "indian-history-00168",
+   "id": "indian-history-00188",
    "q": "Which movement or act is described as: Allowed detention without trial?",
    "o": [
     "Round Table Conferences",
@@ -2535,7 +2835,7 @@
    "e": "Rowlatt Act — Allowed detention without trial."
   },
   {
-   "id": "indian-history-00169",
+   "id": "indian-history-00189",
    "q": "In which year did the following event take place: G20 Summit hosted in New Delhi?",
    "o": [
     "2014",
@@ -2550,7 +2850,7 @@
    "e": "G20 Summit hosted in New Delhi — 2023."
   },
   {
-   "id": "indian-history-00170",
+   "id": "indian-history-00190",
    "q": "In which year did the following event take place: Establishment of the World Trade Organization?",
    "o": [
     "1995",
@@ -2565,7 +2865,7 @@
    "e": "Establishment of the World Trade Organization — 1995."
   },
   {
-   "id": "indian-history-00171",
+   "id": "indian-history-00191",
    "q": "Harihara and Bukka founded which of the following?",
    "o": [
     "Maratha Empire",
@@ -2580,7 +2880,7 @@
    "e": "Harihara and Bukka founded the Vijayanagara Empire."
   },
   {
-   "id": "indian-history-00172",
+   "id": "indian-history-00192",
    "q": "Which of the following is true about Samudragupta?",
    "o": [
     "Known as Alamgir and ruled for nearly 50 years",
@@ -2595,7 +2895,7 @@
    "e": "Samudragupta: Known as the Napoleon of India."
   },
   {
-   "id": "indian-history-00173",
+   "id": "indian-history-00193",
    "q": "Bal Gangadhar Tilak is known by which of the following titles or descriptions?",
    "o": [
     "Revolutionary who died at Alfred Park",
@@ -2610,7 +2910,7 @@
    "e": "Bal Gangadhar Tilak — Lokamanya."
   },
   {
-   "id": "indian-history-00174",
+   "id": "indian-history-00194",
    "q": "Which movement or act is described as: Declared Purna Swaraj under Nehru's presidency?",
    "o": [
     "Civil Disobedience Movement",
@@ -2625,7 +2925,7 @@
    "e": "Lahore Session of the INC — Declared Purna Swaraj under Nehru's presidency."
   },
   {
-   "id": "indian-history-00175",
+   "id": "indian-history-00195",
    "q": "In which year did the following event take place: Bangladesh liberation war involving India?",
    "o": [
     "2019",
@@ -2640,7 +2940,7 @@
    "e": "Bangladesh liberation war involving India — 1971."
   },
   {
-   "id": "indian-history-00176",
+   "id": "indian-history-00196",
    "q": "In which year did the following event take place: First ascent of Mount Everest?",
    "o": [
     "1991",
@@ -2655,7 +2955,7 @@
    "e": "First ascent of Mount Everest — 1953."
   },
   {
-   "id": "indian-history-00177",
+   "id": "indian-history-00197",
    "q": "Sukaphaa founded which of the following?",
    "o": [
     "Sikh Empire",
@@ -2670,7 +2970,7 @@
    "e": "Sukaphaa founded the Ahom Kingdom."
   },
   {
-   "id": "indian-history-00178",
+   "id": "indian-history-00198",
    "q": "Which of the following is true about Aurangzeb?",
    "o": [
     "Won the First Battle of Panipat in 1526",
@@ -2685,7 +2985,7 @@
    "e": "Aurangzeb: Known as Alamgir and ruled for nearly 50 years."
   },
   {
-   "id": "indian-history-00179",
+   "id": "indian-history-00199",
    "q": "Chandrashekhar Azad is known by which of the following titles or descriptions?",
    "o": [
     "Leader of the Bhoodan movement",
@@ -2700,7 +3000,7 @@
    "e": "Chandrashekhar Azad — Revolutionary who died at Alfred Park."
   },
   {
-   "id": "indian-history-00180",
+   "id": "indian-history-00200",
    "q": "Which movement or act is described as: Withdrawn after Chauri Chaura?",
    "o": [
     "Civil Disobedience Movement",
@@ -2715,7 +3015,7 @@
    "e": "Non-Cooperation Movement — Withdrawn after Chauri Chaura."
   },
   {
-   "id": "indian-history-00181",
+   "id": "indian-history-00201",
    "q": "In which year did the following event take place: Constitution of India came into force?",
    "o": [
     "1948",
@@ -2730,7 +3030,7 @@
    "e": "Constitution of India came into force — 1950."
   },
   {
-   "id": "indian-history-00182",
+   "id": "indian-history-00202",
    "q": "In which year did the following event take place: Paris Climate Agreement adopted?",
    "o": [
     "1498",
@@ -2745,7 +3045,7 @@
    "e": "Paris Climate Agreement adopted — 2015."
   },
   {
-   "id": "indian-history-00183",
+   "id": "indian-history-00203",
    "q": "Khizr Khan founded which of the following?",
    "o": [
     "Sayyid Dynasty",
@@ -2760,7 +3060,7 @@
    "e": "Khizr Khan founded the Sayyid Dynasty."
   },
   {
-   "id": "indian-history-00184",
+   "id": "indian-history-00204",
    "q": "Which ruler is associated with the following: Convened the Fourth Buddhist Council?",
    "o": [
     "Sher Shah Suri",
@@ -2775,7 +3075,7 @@
    "e": "Convened the Fourth Buddhist Council is associated with Kanishka."
   },
   {
-   "id": "indian-history-00185",
+   "id": "indian-history-00205",
    "q": "Which freedom fighter is described as Nightingale of India?",
    "o": [
     "Annie Besant",
@@ -2790,7 +3090,7 @@
    "e": "Nightingale of India refers to Sarojini Naidu."
   },
   {
-   "id": "indian-history-00186",
+   "id": "indian-history-00206",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Khilafat Movement - 1928",
@@ -2805,7 +3105,7 @@
    "e": "Only Khilafat Movement - 1919 is correctly matched."
   },
   {
-   "id": "indian-history-00187",
+   "id": "indian-history-00207",
    "q": "In which year did the following event take place: Simon Commission arrived in India?",
    "o": [
     "1928",
@@ -2820,7 +3120,7 @@
    "e": "Simon Commission arrived in India — 1928."
   },
   {
-   "id": "indian-history-00188",
+   "id": "indian-history-00208",
    "q": "In which year did the following event take place: Chernobyl disaster?",
    "o": [
     "1986",
@@ -2835,7 +3135,7 @@
    "e": "Chernobyl disaster — 1986."
   },
   {
-   "id": "indian-history-00189",
+   "id": "indian-history-00209",
    "q": "Shivaji founded which of the following?",
    "o": [
     "Maratha Empire",
@@ -2850,7 +3150,7 @@
    "e": "Shivaji founded the Maratha Empire."
   },
   {
-   "id": "indian-history-00190",
+   "id": "indian-history-00210",
    "q": "Which ruler is associated with the following: Last Sultan of Delhi, defeated at Panipat in 1526?",
    "o": [
     "Ibrahim Lodi",
@@ -2865,7 +3165,7 @@
    "e": "Last Sultan of Delhi, defeated at Panipat in 1526 is associated with Ibrahim Lodi."
   },
   {
-   "id": "indian-history-00191",
+   "id": "indian-history-00211",
    "q": "Which freedom fighter is described as Last Governor-General of India?",
    "o": [
     "C. Rajagopalachari",
@@ -2880,7 +3180,7 @@
    "e": "Last Governor-General of India refers to C. Rajagopalachari."
   },
   {
-   "id": "indian-history-00192",
+   "id": "indian-history-00212",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Khilafat Movement - 1919",
@@ -2895,7 +3195,7 @@
    "e": "Only Khilafat Movement - 1919 is correctly matched."
   },
   {
-   "id": "indian-history-00193",
+   "id": "indian-history-00213",
    "q": "In which year did the following event take place: Mumbai terror attacks?",
    "o": [
     "1928",
@@ -2910,7 +3210,7 @@
    "e": "Mumbai terror attacks — 2008."
   },
   {
-   "id": "indian-history-00194",
+   "id": "indian-history-00214",
    "q": "In which year did the following event take place: Dissolution of the Soviet Union?",
    "o": [
     "1869",
@@ -2925,7 +3225,7 @@
    "e": "Dissolution of the Soviet Union — 1991."
   },
   {
-   "id": "indian-history-00195",
+   "id": "indian-history-00215",
    "q": "Jalal-ud-din Khalji founded which of the following?",
    "o": [
     "Sayyid Dynasty",
@@ -2940,7 +3240,7 @@
    "e": "Jalal-ud-din Khalji founded the Khilji Dynasty."
   },
   {
-   "id": "indian-history-00196",
+   "id": "indian-history-00216",
    "q": "Which ruler is associated with the following: Won the First Battle of Panipat in 1526?",
    "o": [
     "Babur",
@@ -2955,7 +3255,7 @@
    "e": "Won the First Battle of Panipat in 1526 is associated with Babur."
   },
   {
-   "id": "indian-history-00197",
+   "id": "indian-history-00217",
    "q": "Which freedom fighter is described as Leader of the Bhoodan movement?",
    "o": [
     "Vinoba Bhave",
@@ -2970,7 +3270,7 @@
    "e": "Leader of the Bhoodan movement refers to Vinoba Bhave."
   },
   {
-   "id": "indian-history-00198",
+   "id": "indian-history-00218",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Quit India Movement - 1942",
@@ -2985,7 +3285,7 @@
    "e": "Only Quit India Movement - 1942 is correctly matched."
   },
   {
-   "id": "indian-history-00199",
+   "id": "indian-history-00219",
    "q": "In which year did the following event take place: Chandrayaan-1 launched?",
    "o": [
     "1962",
@@ -3000,7 +3300,7 @@
    "e": "Chandrayaan-1 launched — 2008."
   },
   {
-   "id": "indian-history-00200",
+   "id": "indian-history-00220",
    "q": "In which year did the following event take place: Vasco da Gama reached India by sea?",
    "o": [
     "1933",
@@ -3015,7 +3315,7 @@
    "e": "Vasco da Gama reached India by sea — 1498."
   },
   {
-   "id": "indian-history-00201",
+   "id": "indian-history-00221",
    "q": "Rajaraja Chola I founded which of the following?",
    "o": [
     "Chalukya Dynasty",
@@ -3030,7 +3330,7 @@
    "e": "Rajaraja Chola I founded the Chola Dynasty (imperial phase)."
   },
   {
-   "id": "indian-history-00202",
+   "id": "indian-history-00222",
    "q": "Which ruler is associated with the following: Rani of Jhansi in the Revolt of 1857?",
    "o": [
     "Shivaji",
@@ -3045,7 +3345,7 @@
    "e": "Rani of Jhansi in the Revolt of 1857 is associated with Rani Lakshmibai."
   },
   {
-   "id": "indian-history-00203",
+   "id": "indian-history-00223",
    "q": "Which freedom fighter is described as Leader of the Revolt in Awadh?",
    "o": [
     "Sukhdev",
@@ -3060,7 +3360,7 @@
    "e": "Leader of the Revolt in Awadh refers to Begum Hazrat Mahal."
   },
   {
-   "id": "indian-history-00204",
+   "id": "indian-history-00224",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Quit India Movement - 1946",
@@ -3075,7 +3375,7 @@
    "e": "Only Quit India Movement - 1942 is correctly matched."
   },
   {
-   "id": "indian-history-00205",
+   "id": "indian-history-00225",
    "q": "In which year did the following event take place: Kargil War?",
    "o": [
     "1999",
@@ -3090,7 +3390,7 @@
    "e": "Kargil War — 1999."
   },
   {
-   "id": "indian-history-00206",
+   "id": "indian-history-00226",
    "q": "In which year did the following event take place: End of World War I?",
    "o": [
     "1918",
@@ -3105,7 +3405,7 @@
    "e": "End of World War I — 1918."
   },
   {
-   "id": "indian-history-00207",
+   "id": "indian-history-00227",
    "q": "Gopala founded which of the following?",
    "o": [
     "Khilji Dynasty",
@@ -3120,7 +3420,7 @@
    "e": "Gopala founded the Pala Dynasty."
   },
   {
-   "id": "indian-history-00208",
+   "id": "indian-history-00228",
    "q": "Which ruler is associated with the following: Spread Buddhism after the Kalinga war?",
    "o": [
     "Ashoka",
@@ -3135,7 +3435,7 @@
    "e": "Spread Buddhism after the Kalinga war is associated with Ashoka."
   },
   {
-   "id": "indian-history-00209",
+   "id": "indian-history-00229",
    "q": "Which freedom fighter is described as Netaji, leader of the INA?",
    "o": [
     "Subhas Chandra Bose",
@@ -3150,7 +3450,7 @@
    "e": "Netaji, leader of the INA refers to Subhas Chandra Bose."
   },
   {
-   "id": "indian-history-00210",
+   "id": "indian-history-00230",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Round Table Conferences - 1942",
@@ -3165,7 +3465,7 @@
    "e": "Only Round Table Conferences - 1930 is correctly matched."
   },
   {
-   "id": "indian-history-00211",
+   "id": "indian-history-00231",
    "q": "In which year did the following event take place: Chauri Chaura incident?",
    "o": [
     "1946",
@@ -3180,7 +3480,7 @@
    "e": "Chauri Chaura incident — 1922."
   },
   {
-   "id": "indian-history-00212",
+   "id": "indian-history-00232",
    "q": "In which year did the following event take place: Treaty of Versailles signed?",
    "o": [
     "1948",
@@ -3195,7 +3495,7 @@
    "e": "Treaty of Versailles signed — 1919."
   },
   {
-   "id": "indian-history-00213",
+   "id": "indian-history-00233",
    "q": "Pushyamitra Sunga founded which of the following?",
    "o": [
     "Sunga Dynasty",
@@ -3210,7 +3510,7 @@
    "e": "Pushyamitra Sunga founded the Sunga Dynasty."
   },
   {
-   "id": "indian-history-00214",
+   "id": "indian-history-00234",
    "q": "Which ruler is associated with the following: Father of Tipu Sultan and ruler of Mysore?",
    "o": [
     "Rani Lakshmibai",
@@ -3225,7 +3525,7 @@
    "e": "Father of Tipu Sultan and ruler of Mysore is associated with Hyder Ali."
   },
   {
-   "id": "indian-history-00215",
+   "id": "indian-history-00235",
    "q": "Which freedom fighter is described as Leader of the Revolt at Kanpur?",
    "o": [
     "Begum Hazrat Mahal",
@@ -3240,7 +3540,7 @@
    "e": "Leader of the Revolt at Kanpur refers to Nana Saheb."
   },
   {
-   "id": "indian-history-00216",
+   "id": "indian-history-00236",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Round Table Conferences - 1930",
@@ -3255,7 +3555,7 @@
    "e": "Only Round Table Conferences - 1930 is correctly matched."
   },
   {
-   "id": "indian-history-00217",
+   "id": "indian-history-00237",
    "q": "In which year did the following event take place: Mars Orbiter Mission entered Mars orbit?",
    "o": [
     "2023",
@@ -3270,7 +3570,7 @@
    "e": "Mars Orbiter Mission entered Mars orbit — 2014."
   },
   {
-   "id": "indian-history-00218",
+   "id": "indian-history-00238",
    "q": "In which year did the following event take place: Unification of Germany?",
    "o": [
     "1871",
@@ -3285,7 +3585,7 @@
    "e": "Unification of Germany — 1871."
   },
   {
-   "id": "indian-history-00219",
+   "id": "indian-history-00239",
    "q": "Simhavarman founded which of the following?",
    "o": [
     "Pala Dynasty",
@@ -3300,7 +3600,7 @@
    "e": "Simhavarman founded the Pallava Dynasty."
   },
   {
-   "id": "indian-history-00220",
+   "id": "indian-history-00240",
    "q": "Which ruler is associated with the following: Built the Brihadeeswarar Temple at Thanjavur?",
    "o": [
     "Ashoka",
@@ -3315,7 +3615,7 @@
    "e": "Built the Brihadeeswarar Temple at Thanjavur is associated with Rajaraja Chola I."
   },
   {
-   "id": "indian-history-00221",
+   "id": "indian-history-00241",
    "q": "Which freedom fighter is described as First Prime Minister of India?",
    "o": [
     "Subhas Chandra Bose",
@@ -3330,7 +3630,7 @@
    "e": "First Prime Minister of India refers to Jawaharlal Nehru."
   },
   {
-   "id": "indian-history-00222",
+   "id": "indian-history-00242",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Simon Commission boycott - 1932",
@@ -3345,7 +3645,7 @@
    "e": "Only Simon Commission boycott - 1928 is correctly matched."
   },
   {
-   "id": "indian-history-00223",
+   "id": "indian-history-00243",
    "q": "In which year did the following event take place: India attained independence?",
    "o": [
     "2008",
@@ -3360,7 +3660,7 @@
    "e": "India attained independence — 1947."
   },
   {
-   "id": "indian-history-00224",
+   "id": "indian-history-00244",
    "q": "In which year did the following event take place: Opening of the Suez Canal?",
    "o": [
     "1944",
@@ -3375,7 +3675,7 @@
    "e": "Opening of the Suez Canal — 1869."
   },
   {
-   "id": "indian-history-00225",
+   "id": "indian-history-00245",
    "q": "Ghiyas-ud-din Tughlaq founded which of the following?",
    "o": [
     "Sunga Dynasty",
@@ -3390,7 +3690,7 @@
    "e": "Ghiyas-ud-din Tughlaq founded the Tughlaq Dynasty."
   },
   {
-   "id": "indian-history-00226",
+   "id": "indian-history-00246",
    "q": "Which ruler is associated with the following: Twenty-fourth Tirthankara of Jainism?",
    "o": [
     "Babur",
@@ -3405,7 +3705,7 @@
    "e": "Twenty-fourth Tirthankara of Jainism is associated with Mahavira."
   },
   {
-   "id": "indian-history-00227",
+   "id": "indian-history-00247",
    "q": "Which freedom fighter is described as Founder-member of the HSRA?",
    "o": [
     "Kunwar Singh",
@@ -3420,7 +3720,7 @@
    "e": "Founder-member of the HSRA refers to Bhagat Singh."
   },
   {
-   "id": "indian-history-00228",
+   "id": "indian-history-00248",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Simon Commission boycott - 1932",
@@ -3435,7 +3735,7 @@
    "e": "Only Simon Commission boycott - 1928 is correctly matched."
   },
   {
-   "id": "indian-history-00229",
+   "id": "indian-history-00249",
    "q": "In which year did the following event take place: India-Pakistan war and Tashkent Agreement?",
    "o": [
     "1965",
@@ -3450,7 +3750,7 @@
    "e": "India-Pakistan war and Tashkent Agreement — 1965."
   },
   {
-   "id": "indian-history-00230",
+   "id": "indian-history-00250",
    "q": "In which year did the following event take place: Establishment of the East India Company?",
    "o": [
     "1600",
@@ -3465,7 +3765,7 @@
    "e": "Establishment of the East India Company — 1600."
   },
   {
-   "id": "indian-history-00231",
+   "id": "indian-history-00251",
    "q": "Pulakeshin I founded which of the following?",
    "o": [
     "Chalukya Dynasty",
@@ -3480,7 +3780,7 @@
    "e": "Pulakeshin I founded the Chalukya Dynasty."
   },
   {
-   "id": "indian-history-00232",
+   "id": "indian-history-00252",
    "q": "Which ruler is associated with the following: Market control policies and Siri fort?",
    "o": [
     "Alauddin Khilji",
@@ -3495,7 +3795,7 @@
    "e": "Market control policies and Siri fort is associated with Alauddin Khilji."
   },
   {
-   "id": "indian-history-00233",
+   "id": "indian-history-00253",
    "q": "Which freedom fighter is described as Political mentor of Mahatma Gandhi?",
    "o": [
     "Gopal Krishna Gokhale",
@@ -3510,7 +3810,7 @@
    "e": "Political mentor of Mahatma Gandhi refers to Gopal Krishna Gokhale."
   },
   {
-   "id": "indian-history-00234",
+   "id": "indian-history-00254",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Mountbatten Plan - 1942",
@@ -3525,7 +3825,7 @@
    "e": "Only Mountbatten Plan - 1947 is correctly matched."
   },
   {
-   "id": "indian-history-00235",
+   "id": "indian-history-00255",
    "q": "In which year did the following event take place: First Five Year Plan launched?",
    "o": [
     "1971",
@@ -3540,7 +3840,7 @@
    "e": "First Five Year Plan launched — 1951."
   },
   {
-   "id": "indian-history-00236",
+   "id": "indian-history-00256",
    "q": "In which year did the following event take place: Beginning of the Arab Spring?",
    "o": [
     "2011",
@@ -3555,7 +3855,7 @@
    "e": "Beginning of the Arab Spring — 2011."
   },
   {
-   "id": "indian-history-00237",
+   "id": "indian-history-00257",
    "q": "Kujula Kadphises founded which of the following?",
    "o": [
     "Pallava Dynasty",
@@ -3570,7 +3870,7 @@
    "e": "Kujula Kadphises founded the Kushana Empire."
   },
   {
-   "id": "indian-history-00238",
+   "id": "indian-history-00258",
    "q": "Which ruler is associated with the following: Known as Alamgir and ruled for nearly 50 years?",
    "o": [
     "Shivaji",
@@ -3585,7 +3885,7 @@
    "e": "Known as Alamgir and ruled for nearly 50 years is associated with Aurangzeb."
   },
   {
-   "id": "indian-history-00239",
+   "id": "indian-history-00259",
    "q": "Which freedom fighter is described as Revolutionary who died at Alfred Park?",
    "o": [
     "Sukhdev",
@@ -3600,7 +3900,7 @@
    "e": "Revolutionary who died at Alfred Park refers to Chandrashekhar Azad."
   },
   {
-   "id": "indian-history-00240",
+   "id": "indian-history-00260",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Mountbatten Plan - 1947",
@@ -3615,7 +3915,7 @@
    "e": "Only Mountbatten Plan - 1947 is correctly matched."
   },
   {
-   "id": "indian-history-00241",
+   "id": "indian-history-00261",
    "q": "In which year did the following event take place: Formation of the Azad Hind Fauj (INA)?",
    "o": [
     "1943",
@@ -3630,7 +3930,7 @@
    "e": "Formation of the Azad Hind Fauj (INA) — 1943."
   },
   {
-   "id": "indian-history-00242",
+   "id": "indian-history-00262",
    "q": "In which year did the following event take place: Abolition of slavery in the British Empire?",
    "o": [
     "1929",
@@ -3645,7 +3945,7 @@
    "e": "Abolition of slavery in the British Empire — 1833."
   },
   {
-   "id": "indian-history-00243",
+   "id": "indian-history-00263",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Sikh Empire - Kujula Kadphises",
@@ -3660,7 +3960,7 @@
    "e": "Only Sikh Empire - Ranjit Singh is correctly matched."
   },
   {
-   "id": "indian-history-00244",
+   "id": "indian-history-00264",
    "q": "Which ruler is associated with the following: Tenth Sikh Guru and founder of the Khalsa?",
    "o": [
     "Guru Gobind Singh",
@@ -3675,7 +3975,7 @@
    "e": "Tenth Sikh Guru and founder of the Khalsa is associated with Guru Gobind Singh."
   },
   {
-   "id": "indian-history-00245",
+   "id": "indian-history-00265",
    "q": "Which freedom fighter is described as Author of the national anthem of India?",
    "o": [
     "Rabindranath Tagore",
@@ -3690,7 +3990,7 @@
    "e": "Author of the national anthem of India refers to Rabindranath Tagore."
   },
   {
-   "id": "indian-history-00246",
+   "id": "indian-history-00266",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Individual Satyagraha - 1919",
@@ -3705,7 +4005,7 @@
    "e": "Only Individual Satyagraha - 1940 is correctly matched."
   },
   {
-   "id": "indian-history-00247",
+   "id": "indian-history-00267",
    "q": "In which year did the following event take place: Liberation of Goa?",
    "o": [
     "1965",
@@ -3720,7 +4020,7 @@
    "e": "Liberation of Goa — 1961."
   },
   {
-   "id": "indian-history-00248",
+   "id": "indian-history-00268",
    "q": "In which year did the following event take place: Founding of the League of Nations?",
    "o": [
     "1920",
@@ -3735,7 +4035,7 @@
    "e": "Founding of the League of Nations — 1920."
   },
   {
-   "id": "indian-history-00249",
+   "id": "indian-history-00269",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Sikh Empire - Ranjit Singh",
@@ -3750,7 +4050,7 @@
    "e": "Only Sikh Empire - Ranjit Singh is correctly matched."
   },
   {
-   "id": "indian-history-00250",
+   "id": "indian-history-00270",
    "q": "Which ruler is associated with the following: Lost and regained the Mughal throne?",
    "o": [
     "Mahavira",
@@ -3765,7 +4065,7 @@
    "e": "Lost and regained the Mughal throne is associated with Humayun."
   },
   {
-   "id": "indian-history-00251",
+   "id": "indian-history-00271",
    "q": "Which freedom fighter is described as Leader of the 1974-77 movement?",
    "o": [
     "Bhagat Singh",
@@ -3780,7 +4080,7 @@
    "e": "Leader of the 1974-77 movement refers to Jayaprakash Narayan."
   },
   {
-   "id": "indian-history-00252",
+   "id": "indian-history-00272",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Individual Satyagraha - 1942",
@@ -3795,7 +4095,7 @@
    "e": "Only Individual Satyagraha - 1940 is correctly matched."
   },
   {
-   "id": "indian-history-00253",
+   "id": "indian-history-00273",
    "q": "In which year did the following event take place: Quit India Movement launched?",
    "o": [
     "2023",
@@ -3810,7 +4110,7 @@
    "e": "Quit India Movement launched — 1942."
   },
   {
-   "id": "indian-history-00254",
+   "id": "indian-history-00274",
    "q": "In which year did the following event take place: Atomic bombing of Hiroshima and Nagasaki?",
    "o": [
     "1815",
@@ -3825,7 +4125,7 @@
    "e": "Atomic bombing of Hiroshima and Nagasaki — 1945."
   },
   {
-   "id": "indian-history-00255",
+   "id": "indian-history-00275",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Maurya Empire - Babur",
@@ -3840,7 +4140,7 @@
    "e": "Only Maurya Empire - Chandragupta Maurya is correctly matched."
   },
   {
-   "id": "indian-history-00256",
+   "id": "indian-history-00276",
    "q": "Which ruler is associated with the following: Built the Taj Mahal?",
    "o": [
     "Hyder Ali",
@@ -3855,7 +4155,7 @@
    "e": "Built the Taj Mahal is associated with Shah Jahan."
   },
   {
-   "id": "indian-history-00257",
+   "id": "indian-history-00277",
    "q": "Which freedom fighter is described as Revolutionary executed in 1931?",
    "o": [
     "Nana Saheb",
@@ -3870,7 +4170,7 @@
    "e": "Revolutionary executed in 1931 refers to Bhagat Singh."
   },
   {
-   "id": "indian-history-00258",
+   "id": "indian-history-00278",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Cabinet Mission - 1920",
@@ -3885,7 +4185,7 @@
    "e": "Only Cabinet Mission - 1946 is correctly matched."
   },
   {
-   "id": "indian-history-00259",
+   "id": "indian-history-00279",
    "q": "In which year did the following event take place: Operation Blue Star?",
    "o": [
     "2023",
@@ -3900,7 +4200,7 @@
    "e": "Operation Blue Star — 1984."
   },
   {
-   "id": "indian-history-00260",
+   "id": "indian-history-00280",
    "q": "In which year did the following event take place: Rio Earth Summit?",
    "o": [
     "1945",
@@ -3915,7 +4215,7 @@
    "e": "Rio Earth Summit — 1992."
   },
   {
-   "id": "indian-history-00261",
+   "id": "indian-history-00281",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Maurya Empire - Ghiyas-ud-din Tughlaq",
@@ -3930,7 +4230,7 @@
    "e": "Only Maurya Empire - Chandragupta Maurya is correctly matched."
   },
   {
-   "id": "indian-history-00262",
+   "id": "indian-history-00282",
    "q": "Which ruler is associated with the following: Established Din-i-Ilahi and the Ibadat Khana?",
    "o": [
     "Akbar",
@@ -3945,7 +4245,7 @@
    "e": "Established Din-i-Ilahi and the Ibadat Khana is associated with Akbar."
   },
   {
-   "id": "indian-history-00263",
+   "id": "indian-history-00283",
    "q": "Which freedom fighter is described as Chief architect of the Indian Constitution?",
    "o": [
     "B. R. Ambedkar",
@@ -3960,7 +4260,7 @@
    "e": "Chief architect of the Indian Constitution refers to B. R. Ambedkar."
   },
   {
-   "id": "indian-history-00264",
+   "id": "indian-history-00284",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Cabinet Mission - 1917",
@@ -3975,7 +4275,7 @@
    "e": "Only Cabinet Mission - 1946 is correctly matched."
   },
   {
-   "id": "indian-history-00265",
+   "id": "indian-history-00285",
    "q": "In which year did the following event take place: Jallianwala Bagh massacre?",
    "o": [
     "1942",
@@ -3990,7 +4290,7 @@
    "e": "Jallianwala Bagh massacre — 1919."
   },
   {
-   "id": "indian-history-00266",
+   "id": "indian-history-00286",
    "q": "In which year did the following event take place: Founding of NATO?",
    "o": [
     "1994",
@@ -4005,7 +4305,7 @@
    "e": "Founding of NATO — 1949."
   },
   {
-   "id": "indian-history-00267",
+   "id": "indian-history-00287",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Satavahana Dynasty - Rajaraja Chola I",
@@ -4020,7 +4320,7 @@
    "e": "Only Satavahana Dynasty - Simuka is correctly matched."
   },
   {
-   "id": "indian-history-00268",
+   "id": "indian-history-00288",
    "q": "Which ruler is associated with the following: Founded the Maratha empire and was crowned in 1674?",
    "o": [
     "Bahadur Shah Zafar",
@@ -4035,7 +4335,7 @@
    "e": "Founded the Maratha empire and was crowned in 1674 is associated with Shivaji."
   },
   {
-   "id": "indian-history-00269",
+   "id": "indian-history-00289",
    "q": "Which freedom fighter is described as Revolutionary executed with Bhagat Singh?",
    "o": [
     "Kunwar Singh",
@@ -4050,7 +4350,7 @@
    "e": "Revolutionary executed with Bhagat Singh refers to Sukhdev."
   },
   {
-   "id": "indian-history-00270",
+   "id": "indian-history-00290",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Swaraj Party - 1929",
@@ -4065,7 +4365,7 @@
    "e": "Only Swaraj Party - 1923 is correctly matched."
   },
   {
-   "id": "indian-history-00271",
+   "id": "indian-history-00291",
    "q": "Which of the following events took place in 1962?",
    "o": [
     "India-China border war",
@@ -4080,7 +4380,7 @@
    "e": "India-China border war took place in 1962."
   },
   {
-   "id": "indian-history-00272",
+   "id": "indian-history-00292",
    "q": "In which year did the following event take place: Launch of Sputnik-1?",
    "o": [
     "1941",
@@ -4095,7 +4395,7 @@
    "e": "Launch of Sputnik-1 — 1957."
   },
   {
-   "id": "indian-history-00273",
+   "id": "indian-history-00293",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Satavahana Dynasty - Qutb-ud-din Aibak",
@@ -4110,7 +4410,7 @@
    "e": "Only Satavahana Dynasty - Simuka is correctly matched."
   },
   {
-   "id": "indian-history-00274",
+   "id": "indian-history-00294",
    "q": "Which ruler is associated with the following: Shifted the capital from Delhi to Daulatabad?",
    "o": [
     "Guru Nanak",
@@ -4125,7 +4425,7 @@
    "e": "Shifted the capital from Delhi to Daulatabad is associated with Muhammad bin Tughlaq."
   },
   {
-   "id": "indian-history-00275",
+   "id": "indian-history-00295",
    "q": "Which freedom fighter is described as Founder of Banaras Hindu University?",
    "o": [
     "Bankim Chandra Chatterjee",
@@ -4140,7 +4440,7 @@
    "e": "Founder of Banaras Hindu University refers to Madan Mohan Malaviya."
   },
   {
-   "id": "indian-history-00276",
+   "id": "indian-history-00296",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Swaraj Party - 1942",
@@ -4155,7 +4455,7 @@
    "e": "Only Swaraj Party - 1923 is correctly matched."
   },
   {
-   "id": "indian-history-00277",
+   "id": "indian-history-00297",
    "q": "Which of the following events took place in 1975?",
    "o": [
     "Operation Blue Star",
@@ -4170,7 +4470,7 @@
    "e": "National Emergency declared in India took place in 1975."
   },
   {
-   "id": "indian-history-00278",
+   "id": "indian-history-00298",
    "q": "In which year did the following event take place: Bandung Conference?",
    "o": [
     "1955",
@@ -4185,7 +4485,7 @@
    "e": "Bandung Conference — 1955."
   },
   {
-   "id": "indian-history-00279",
+   "id": "indian-history-00299",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Vijayanagara Empire - Jalal-ud-din Khalji",
@@ -4200,7 +4500,7 @@
    "e": "Only Vijayanagara Empire - Harihara and Bukka is correctly matched."
   },
   {
-   "id": "indian-history-00280",
+   "id": "indian-history-00300",
    "q": "Which ruler is associated with the following: Founder of the Sikh Empire?",
    "o": [
     "Shah Jahan",
@@ -4215,7 +4515,7 @@
    "e": "Founder of the Sikh Empire is associated with Maharaja Ranjit Singh."
   },
   {
-   "id": "indian-history-00281",
+   "id": "indian-history-00301",
    "q": "Which freedom fighter is described as Queen who fought at Jhansi in 1857?",
    "o": [
     "Bhagat Singh",
@@ -4230,7 +4530,7 @@
    "e": "Queen who fought at Jhansi in 1857 refers to Rani Lakshmibai."
   },
   {
-   "id": "indian-history-00282",
+   "id": "indian-history-00302",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Cripps Mission - 1917",
@@ -4245,7 +4545,7 @@
    "e": "Only Cripps Mission - 1942 is correctly matched."
   },
   {
-   "id": "indian-history-00283",
+   "id": "indian-history-00303",
    "q": "Which of the following events took place in 1922?",
    "o": [
     "Attack on the Indian Parliament",
@@ -4260,7 +4560,7 @@
    "e": "Chauri Chaura incident took place in 1922."
   },
   {
-   "id": "indian-history-00284",
+   "id": "indian-history-00304",
    "q": "In which year did the following event take place: Cuban Revolution?",
    "o": [
     "1922",
@@ -4275,7 +4575,7 @@
    "e": "Cuban Revolution — 1959."
   },
   {
-   "id": "indian-history-00285",
+   "id": "indian-history-00305",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Vijayanagara Empire - Alauddin Bahman Shah",
@@ -4290,7 +4590,7 @@
    "e": "Only Vijayanagara Empire - Harihara and Bukka is correctly matched."
   },
   {
-   "id": "indian-history-00286",
+   "id": "indian-history-00306",
    "q": "Which ruler is associated with the following: Greatest of the Peshwas?",
    "o": [
     "Aurangzeb",
@@ -4305,7 +4605,7 @@
    "e": "Greatest of the Peshwas is associated with Baji Rao I."
   },
   {
-   "id": "indian-history-00287",
+   "id": "indian-history-00307",
    "q": "Which freedom fighter is described as Soldier who sparked the Revolt of 1857?",
    "o": [
     "Chandrashekhar Azad",
@@ -4320,7 +4620,7 @@
    "e": "Soldier who sparked the Revolt of 1857 refers to Mangal Pandey."
   },
   {
-   "id": "indian-history-00288",
+   "id": "indian-history-00308",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Cripps Mission - 1932",
@@ -4335,7 +4635,7 @@
    "e": "Only Cripps Mission - 1942 is correctly matched."
   },
   {
-   "id": "indian-history-00289",
+   "id": "indian-history-00309",
    "q": "Which of the following events took place in 1998?",
    "o": [
     "India won the Cricket World Cup",
@@ -4350,7 +4650,7 @@
    "e": "Pokhran-II nuclear tests took place in 1998."
   },
   {
-   "id": "indian-history-00290",
+   "id": "indian-history-00310",
    "q": "In which year did the following event take place: First powered flight by the Wright brothers?",
    "o": [
     "1903",
@@ -4365,7 +4665,7 @@
    "e": "First powered flight by the Wright brothers — 1903."
   },
   {
-   "id": "indian-history-00291",
+   "id": "indian-history-00311",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Sunga Dynasty - Pushyamitra Sunga",
@@ -4380,7 +4680,7 @@
    "e": "Only Sunga Dynasty - Pushyamitra Sunga is correctly matched."
   },
   {
-   "id": "indian-history-00292",
+   "id": "indian-history-00312",
    "q": "Which ruler is associated with the following: Ruled from Kannauj and was praised by Hiuen Tsang?",
    "o": [
     "Samudragupta",
@@ -4395,7 +4695,7 @@
    "e": "Ruled from Kannauj and was praised by Hiuen Tsang is associated with Harshavardhana."
   },
   {
-   "id": "indian-history-00293",
+   "id": "indian-history-00313",
    "q": "Which freedom fighter is described as Grand Old Man of India?",
    "o": [
     "Bal Gangadhar Tilak",
@@ -4410,7 +4710,7 @@
    "e": "Grand Old Man of India refers to Dadabhai Naoroji."
   },
   {
-   "id": "indian-history-00294",
+   "id": "indian-history-00314",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Non-Cooperation Movement - 1930",
@@ -4425,7 +4725,7 @@
    "e": "Only Non-Cooperation Movement - 1920 is correctly matched."
   },
   {
-   "id": "indian-history-00295",
+   "id": "indian-history-00315",
    "q": "Which of the following events took place in 1942?",
    "o": [
     "Quit India Movement launched",
@@ -4440,7 +4740,7 @@
    "e": "Quit India Movement launched took place in 1942."
   },
   {
-   "id": "indian-history-00296",
+   "id": "indian-history-00316",
    "q": "In which year did the following event take place: Return of Hong Kong to China?",
    "o": [
     "1600",
@@ -4455,7 +4755,7 @@
    "e": "Return of Hong Kong to China — 1997."
   },
   {
-   "id": "indian-history-00297",
+   "id": "indian-history-00317",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Sunga Dynasty - Alauddin Bahman Shah",
@@ -4470,7 +4770,7 @@
    "e": "Only Sunga Dynasty - Pushyamitra Sunga is correctly matched."
   },
   {
-   "id": "indian-history-00298",
+   "id": "indian-history-00318",
    "q": "Which ruler is associated with the following: Known as Vikramaditya and patron of the Navaratnas?",
    "o": [
     "Kanishka",
@@ -4485,7 +4785,7 @@
    "e": "Known as Vikramaditya and patron of the Navaratnas is associated with Chandragupta II."
   },
   {
-   "id": "indian-history-00299",
+   "id": "indian-history-00319",
    "q": "Which freedom fighter is described as Punjab Kesari?",
    "o": [
     "Sarojini Naidu",
@@ -4500,7 +4800,7 @@
    "e": "Punjab Kesari refers to Lala Lajpat Rai."
   },
   {
-   "id": "indian-history-00300",
+   "id": "indian-history-00320",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Non-Cooperation Movement - 1928",
@@ -4515,7 +4815,7 @@
    "e": "Only Non-Cooperation Movement - 1920 is correctly matched."
   },
   {
-   "id": "indian-history-00301",
+   "id": "indian-history-00321",
    "q": "Which of the following events took place in 2008?",
    "o": [
     "Jallianwala Bagh massacre",
@@ -4530,7 +4830,7 @@
    "e": "Mumbai terror attacks took place in 2008."
   },
   {
-   "id": "indian-history-00302",
+   "id": "indian-history-00322",
    "q": "In which year did the following event take place: Publication of the Communist Manifesto?",
    "o": [
     "1871",
@@ -4545,7 +4845,7 @@
    "e": "Publication of the Communist Manifesto — 1848."
   },
   {
-   "id": "indian-history-00303",
+   "id": "indian-history-00323",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Ahom Kingdom - Sukaphaa",
@@ -4560,7 +4860,7 @@
    "e": "Only Ahom Kingdom - Sukaphaa is correctly matched."
   },
   {
-   "id": "indian-history-00304",
+   "id": "indian-history-00324",
    "q": "Which ruler is associated with the following: Introduced the Grand Trunk Road and the Rupiya?",
    "o": [
     "Sher Shah Suri",
@@ -4575,7 +4875,7 @@
    "e": "Introduced the Grand Trunk Road and the Rupiya is associated with Sher Shah Suri."
   },
   {
-   "id": "indian-history-00305",
+   "id": "indian-history-00325",
    "q": "Which freedom fighter is described as Founder of the Home Rule League with Tilak?",
    "o": [
     "Annie Besant",
@@ -4590,7 +4890,7 @@
    "e": "Founder of the Home Rule League with Tilak refers to Annie Besant."
   },
   {
-   "id": "indian-history-00306",
+   "id": "indian-history-00326",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Rowlatt Act - 1919",
@@ -4605,7 +4905,7 @@
    "e": "Only Rowlatt Act - 1919 is correctly matched."
   },
   {
-   "id": "indian-history-00307",
+   "id": "indian-history-00327",
    "q": "Which of the following events took place in 1947?",
    "o": [
     "India attained independence",
@@ -4620,7 +4920,7 @@
    "e": "India attained independence took place in 1947."
   },
   {
-   "id": "indian-history-00308",
+   "id": "indian-history-00328",
    "q": "In which year did the following event take place: Peace of Westphalia?",
    "o": [
     "1969",
@@ -4635,7 +4935,7 @@
    "e": "Peace of Westphalia — 1648."
   },
   {
-   "id": "indian-history-00309",
+   "id": "indian-history-00329",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Ahom Kingdom - Simhavarman",
@@ -4650,7 +4950,7 @@
    "e": "Only Ahom Kingdom - Sukaphaa is correctly matched."
   },
   {
-   "id": "indian-history-00310",
+   "id": "indian-history-00330",
    "q": "Which ruler is associated with the following: Founder of Buddhism?",
    "o": [
     "Guru Gobind Singh",
@@ -4665,7 +4965,7 @@
    "e": "Founder of Buddhism is associated with Gautama Buddha."
   },
   {
-   "id": "indian-history-00311",
+   "id": "indian-history-00331",
    "q": "Which freedom fighter is described as Founder of the Indian Independence League in Japan?",
    "o": [
     "Rabindranath Tagore",
@@ -4680,7 +4980,7 @@
    "e": "Founder of the Indian Independence League in Japan refers to Rash Behari Bose."
   },
   {
-   "id": "indian-history-00312",
+   "id": "indian-history-00332",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Rowlatt Act - 1930",
@@ -4695,7 +4995,7 @@
    "e": "Only Rowlatt Act - 1919 is correctly matched."
   },
   {
-   "id": "indian-history-00313",
+   "id": "indian-history-00333",
    "q": "Which of the following events took place in 2023?",
    "o": [
     "Chandrayaan-3 soft landing near the lunar south pole",
@@ -4710,7 +5010,7 @@
    "e": "Chandrayaan-3 soft landing near the lunar south pole took place in 2023."
   },
   {
-   "id": "indian-history-00314",
+   "id": "indian-history-00334",
    "q": "In which year did the following event take place: Russian Revolution?",
    "o": [
     "1991",
@@ -4725,7 +5025,7 @@
    "e": "Russian Revolution — 1917."
   },
   {
-   "id": "indian-history-00315",
+   "id": "indian-history-00335",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Bahmani Kingdom - Sri Gupta",
@@ -4740,7 +5040,7 @@
    "e": "Only Bahmani Kingdom - Alauddin Bahman Shah is correctly matched."
   },
   {
-   "id": "indian-history-00316",
+   "id": "indian-history-00336",
    "q": "Which ruler is associated with the following: Founder of Sikhism?",
    "o": [
     "Guru Nanak",
@@ -4755,7 +5055,7 @@
    "e": "Founder of Sikhism is associated with Guru Nanak."
   },
   {
-   "id": "indian-history-00317",
+   "id": "indian-history-00337",
    "q": "Which freedom fighter is described as Author of Vande Mataram?",
    "o": [
     "Bankim Chandra Chatterjee",
@@ -4770,7 +5070,7 @@
    "e": "Author of Vande Mataram refers to Bankim Chandra Chatterjee."
   },
   {
-   "id": "indian-history-00318",
+   "id": "indian-history-00338",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Lahore Session of the INC - 1930",
@@ -4785,7 +5085,7 @@
    "e": "Only Lahore Session of the INC - 1929 is correctly matched."
   },
   {
-   "id": "indian-history-00319",
+   "id": "indian-history-00339",
    "q": "Which of the following events took place in 1999?",
    "o": [
     "Launch of the Non-Cooperation Movement",
@@ -4800,7 +5100,7 @@
    "e": "Kargil War took place in 1999."
   },
   {
-   "id": "indian-history-00320",
+   "id": "indian-history-00340",
    "q": "In which year did the following event take place: Oil crisis?",
    "o": [
     "1920",
@@ -4815,7 +5115,7 @@
    "e": "Oil crisis — 1973."
   },
   {
-   "id": "indian-history-00321",
+   "id": "indian-history-00341",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Bahmani Kingdom - Qutb-ud-din Aibak",
@@ -4830,7 +5130,7 @@
    "e": "Only Bahmani Kingdom - Alauddin Bahman Shah is correctly matched."
   },
   {
-   "id": "indian-history-00322",
+   "id": "indian-history-00342",
    "q": "Which ruler is associated with the following: Famous Vijayanagara ruler and author of Amuktamalyada?",
    "o": [
     "Gautama Buddha",
@@ -4845,7 +5145,7 @@
    "e": "Famous Vijayanagara ruler and author of Amuktamalyada is associated with Krishnadevaraya."
   },
   {
-   "id": "indian-history-00323",
+   "id": "indian-history-00343",
    "q": "Which freedom fighter is described as Iron Man of India?",
    "o": [
     "Rash Behari Bose",
@@ -4860,7 +5160,7 @@
    "e": "Iron Man of India refers to Sardar Vallabhbhai Patel."
   },
   {
-   "id": "indian-history-00324",
+   "id": "indian-history-00344",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Lahore Session of the INC - 1919",
@@ -4875,7 +5175,7 @@
    "e": "Only Lahore Session of the INC - 1929 is correctly matched."
   },
   {
-   "id": "indian-history-00325",
+   "id": "indian-history-00345",
    "q": "Which of the following events took place in 2023?",
    "o": [
     "Mumbai terror attacks",
@@ -4890,7 +5190,7 @@
    "e": "G20 Summit hosted in New Delhi took place in 2023."
   },
   {
-   "id": "indian-history-00326",
+   "id": "indian-history-00346",
    "q": "In which year did the following event take place: September 11 attacks in the United States?",
    "o": [
     "1945",
@@ -4905,7 +5205,7 @@
    "e": "September 11 attacks in the United States — 2001."
   },
   {
-   "id": "indian-history-00327",
+   "id": "indian-history-00347",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Pala Dynasty - Ghiyas-ud-din Tughlaq",
@@ -4920,7 +5220,7 @@
    "e": "Only Pala Dynasty - Gopala is correctly matched."
   },
   {
-   "id": "indian-history-00328",
+   "id": "indian-history-00348",
    "q": "Which ruler is associated with the following: Known as the Napoleon of India?",
    "o": [
     "Chandragupta Maurya",
@@ -4935,7 +5235,7 @@
    "e": "Known as the Napoleon of India is associated with Samudragupta."
   },
   {
-   "id": "indian-history-00329",
+   "id": "indian-history-00349",
    "q": "Which freedom fighter is described as Lokamanya?",
    "o": [
     "Mahatma Gandhi",
@@ -4950,7 +5250,7 @@
    "e": "Lokamanya refers to Bal Gangadhar Tilak."
   },
   {
-   "id": "indian-history-00330",
+   "id": "indian-history-00350",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Civil Disobedience Movement - 1917",
@@ -4965,7 +5265,7 @@
    "e": "Only Civil Disobedience Movement - 1930 is correctly matched."
   },
   {
-   "id": "indian-history-00331",
+   "id": "indian-history-00351",
    "q": "Which of the following events took place in 1857?",
    "o": [
     "First War of Indian Independence (Revolt of 1857)",
@@ -4980,7 +5280,7 @@
    "e": "First War of Indian Independence (Revolt of 1857) took place in 1857."
   },
   {
-   "id": "indian-history-00332",
+   "id": "indian-history-00352",
    "q": "In which year did the following event take place: Assassination of Abraham Lincoln?",
    "o": [
     "1789",
@@ -4995,7 +5295,7 @@
    "e": "Assassination of Abraham Lincoln — 1865."
   },
   {
-   "id": "indian-history-00333",
+   "id": "indian-history-00353",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Pala Dynasty - Simhavarman",
@@ -5010,7 +5310,7 @@
    "e": "Only Pala Dynasty - Gopala is correctly matched."
   },
   {
-   "id": "indian-history-00334",
+   "id": "indian-history-00354",
    "q": "Which ruler is associated with the following: Built canals and founded Firozabad?",
    "o": [
     "Chandragupta Maurya",
@@ -5025,7 +5325,7 @@
    "e": "Built canals and founded Firozabad is associated with Firoz Shah Tughlaq."
   },
   {
-   "id": "indian-history-00335",
+   "id": "indian-history-00355",
    "q": "Which freedom fighter is described as First Education Minister of India?",
    "o": [
     "Mahatma Gandhi",
@@ -5040,7 +5340,7 @@
    "e": "First Education Minister of India refers to Maulana Abul Kalam Azad."
   },
   {
-   "id": "indian-history-00336",
+   "id": "indian-history-00356",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Civil Disobedience Movement - 1930",
@@ -5055,7 +5355,7 @@
    "e": "Only Civil Disobedience Movement - 1930 is correctly matched."
   },
   {
-   "id": "indian-history-00337",
+   "id": "indian-history-00357",
    "q": "Which of the following events took place in 2019?",
    "o": [
     "Article 370 provisions abrogated",
@@ -5070,7 +5370,7 @@
    "e": "Article 370 provisions abrogated took place in 2019."
   },
   {
-   "id": "indian-history-00338",
+   "id": "indian-history-00358",
    "q": "In which year did the following event take place: Assassination of John F. Kennedy?",
    "o": [
     "2020",
@@ -5085,7 +5385,7 @@
    "e": "Assassination of John F. Kennedy — 1963."
   },
   {
-   "id": "indian-history-00339",
+   "id": "indian-history-00359",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Sayyid Dynasty - Ranjit Singh",
@@ -5100,7 +5400,7 @@
    "e": "Only Sayyid Dynasty - Khizr Khan is correctly matched."
   },
   {
-   "id": "indian-history-00340",
+   "id": "indian-history-00360",
    "q": "Which ruler is associated with the following: Founded the Maurya Empire with the help of Chanakya?",
    "o": [
     "Maharaja Ranjit Singh",
@@ -5115,7 +5415,7 @@
    "e": "Founded the Maurya Empire with the help of Chanakya is associated with Chandragupta Maurya."
   },
   {
-   "id": "indian-history-00341",
+   "id": "indian-history-00361",
    "q": "Which freedom fighter is described as Father of the Nation?",
    "o": [
     "Rani Lakshmibai",
@@ -5130,7 +5430,7 @@
    "e": "Father of the Nation refers to Mahatma Gandhi."
   },
   {
-   "id": "indian-history-00342",
+   "id": "indian-history-00362",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Communal Award - 1930",
@@ -5145,7 +5445,7 @@
    "e": "Only Communal Award - 1932 is correctly matched."
   },
   {
-   "id": "indian-history-00343",
+   "id": "indian-history-00363",
    "q": "Which of the following events took place in 1983?",
    "o": [
     "Pokhran-II nuclear tests",
@@ -5160,7 +5460,7 @@
    "e": "India won the Cricket World Cup took place in 1983."
   },
   {
-   "id": "indian-history-00344",
+   "id": "indian-history-00364",
    "q": "In which year did the following event take place: Release of Nelson Mandela from prison?",
    "o": [
     "1945",
@@ -5175,7 +5475,7 @@
    "e": "Release of Nelson Mandela from prison — 1990."
   },
   {
-   "id": "indian-history-00345",
+   "id": "indian-history-00365",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Sayyid Dynasty - Simuka",
@@ -5190,7 +5490,7 @@
    "e": "Only Sayyid Dynasty - Khizr Khan is correctly matched."
   },
   {
-   "id": "indian-history-00346",
+   "id": "indian-history-00366",
    "q": "Which ruler is associated with the following: Nominal leader of the Revolt of 1857?",
    "o": [
     "Ashoka",
@@ -5205,7 +5505,7 @@
    "e": "Nominal leader of the Revolt of 1857 is associated with Bahadur Shah Zafar."
   },
   {
-   "id": "indian-history-00347",
+   "id": "indian-history-00367",
    "q": "Which freedom fighter is described as Leader of the Revolt in Bihar?",
    "o": [
     "Subhas Chandra Bose",
@@ -5220,7 +5520,7 @@
    "e": "Leader of the Revolt in Bihar refers to Kunwar Singh."
   },
   {
-   "id": "indian-history-00348",
+   "id": "indian-history-00368",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Communal Award - 1919",
@@ -5235,7 +5535,7 @@
    "e": "Only Communal Award - 1932 is correctly matched."
   },
   {
-   "id": "indian-history-00349",
+   "id": "indian-history-00369",
    "q": "Which of the following events took place in 2008?",
    "o": [
     "Partition of Bengal by Lord Curzon",
@@ -5250,7 +5550,7 @@
    "e": "India signed the civil nuclear deal with the USA took place in 2008."
   },
   {
-   "id": "indian-history-00350",
+   "id": "indian-history-00370",
    "q": "In which year did the following event take place: Beginning of the American Civil War?",
    "o": [
     "1995",
@@ -5265,7 +5565,7 @@
    "e": "Beginning of the American Civil War — 1861."
   },
   {
-   "id": "indian-history-00351",
+   "id": "indian-history-00371",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Gupta Empire - Sri Gupta",
@@ -5280,7 +5580,7 @@
    "e": "Only Gupta Empire - Sri Gupta is correctly matched."
   },
   {
-   "id": "indian-history-00352",
+   "id": "indian-history-00372",
    "q": "Which ruler is associated with the following: Tiger of Mysore?",
    "o": [
     "Baji Rao I",
@@ -5295,7 +5595,7 @@
    "e": "Tiger of Mysore is associated with Tipu Sultan."
   },
   {
-   "id": "indian-history-00353",
+   "id": "indian-history-00373",
    "q": "Which freedom fighter is described as General of the Revolt of 1857?",
    "o": [
     "Mangal Pandey",
@@ -5310,7 +5610,7 @@
    "e": "General of the Revolt of 1857 refers to Tatya Tope."
   },
   {
-   "id": "indian-history-00354",
+   "id": "indian-history-00374",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Champaran Satyagraha - 1930",
@@ -5325,7 +5625,7 @@
    "e": "Only Champaran Satyagraha - 1917 is correctly matched."
   },
   {
-   "id": "indian-history-00355",
+   "id": "indian-history-00375",
    "q": "Which of the following events took place in 1971?",
    "o": [
     "Mars Orbiter Mission entered Mars orbit",
@@ -5340,7 +5640,7 @@
    "e": "Bangladesh liberation war involving India took place in 1971."
   },
   {
-   "id": "indian-history-00356",
+   "id": "indian-history-00376",
    "q": "In which year did the following event take place: Fall of the Berlin Wall?",
    "o": [
     "1989",
@@ -5355,7 +5655,7 @@
    "e": "Fall of the Berlin Wall — 1989."
   },
   {
-   "id": "indian-history-00357",
+   "id": "indian-history-00377",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Gupta Empire - Bahlul Lodi",
@@ -5370,7 +5670,7 @@
    "e": "Only Gupta Empire - Sri Gupta is correctly matched."
   },
   {
-   "id": "indian-history-00358",
+   "id": "indian-history-00378",
    "q": "Which ruler is associated with the following: Last Mughal emperor?",
    "o": [
     "Mahavira",
@@ -5385,7 +5685,7 @@
    "e": "Last Mughal emperor is associated with Bahadur Shah Zafar."
   },
   {
-   "id": "indian-history-00359",
+   "id": "indian-history-00379",
    "q": "Which freedom fighter is described as Revolutionary executed with Bhagat Singh?",
    "o": [
     "Bhagat Singh",
@@ -5400,7 +5700,7 @@
    "e": "Revolutionary executed with Bhagat Singh refers to Rajguru."
   },
   {
-   "id": "indian-history-00360",
+   "id": "indian-history-00380",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Champaran Satyagraha - 1919",
@@ -5415,7 +5715,7 @@
    "e": "Only Champaran Satyagraha - 1917 is correctly matched."
   },
   {
-   "id": "indian-history-00361",
+   "id": "indian-history-00381",
    "q": "Which of the following events took place in 1885?",
    "o": [
     "Dandi March launched by Mahatma Gandhi",
@@ -5430,7 +5730,7 @@
    "e": "Founding of the Indian National Congress took place in 1885."
   },
   {
-   "id": "indian-history-00362",
+   "id": "indian-history-00382",
    "q": "In which year did the following event take place: Beginning of the Korean War?",
    "o": [
     "1948",
@@ -5445,7 +5745,7 @@
    "e": "Beginning of the Korean War — 1950."
   },
   {
-   "id": "indian-history-00363",
+   "id": "indian-history-00383",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Mughal Empire - Babur",
@@ -5460,7 +5760,7 @@
    "e": "Only Mughal Empire - Babur is correctly matched."
   },
   {
-   "id": "indian-history-00364",
+   "id": "indian-history-00384",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Guru Nanak - Rani of Jhansi in the Revolt of 1857",
@@ -5475,7 +5775,7 @@
    "e": "Only Guru Nanak - Founder of Sikhism is correctly matched."
   },
   {
-   "id": "indian-history-00365",
+   "id": "indian-history-00385",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Bankim Chandra Chatterjee - Leader of the Revolt in Awadh",
@@ -5490,7 +5790,7 @@
    "e": "Only Bankim Chandra Chatterjee - Author of Vande Mataram is correctly matched."
   },
   {
-   "id": "indian-history-00366",
+   "id": "indian-history-00386",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Lahore Session of the INC - 1929",
@@ -5505,7 +5805,7 @@
    "e": "The pair Rowlatt Act - 1923 is not correctly matched."
   },
   {
-   "id": "indian-history-00367",
+   "id": "indian-history-00387",
    "q": "Which of the following events took place in 1961?",
    "o": [
     "Royal Indian Navy Mutiny",
@@ -5520,7 +5820,7 @@
    "e": "Liberation of Goa took place in 1961."
   },
   {
-   "id": "indian-history-00368",
+   "id": "indian-history-00388",
    "q": "In which year did the following event take place: Founding of the People's Republic of China?",
    "o": [
     "1492",
@@ -5535,7 +5835,7 @@
    "e": "Founding of the People's Republic of China — 1949."
   },
   {
-   "id": "indian-history-00369",
+   "id": "indian-history-00389",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Mughal Empire - Pulakeshin I",
@@ -5550,7 +5850,7 @@
    "e": "Only Mughal Empire - Babur is correctly matched."
   },
   {
-   "id": "indian-history-00370",
+   "id": "indian-history-00390",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Guru Nanak - Founder of Sikhism",
@@ -5565,7 +5865,7 @@
    "e": "Only Guru Nanak - Founder of Sikhism is correctly matched."
   },
   {
-   "id": "indian-history-00371",
+   "id": "indian-history-00391",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Bankim Chandra Chatterjee - Author of Vande Mataram",
@@ -5580,7 +5880,7 @@
    "e": "Only Bankim Chandra Chatterjee - Author of Vande Mataram is correctly matched."
   },
   {
-   "id": "indian-history-00372",
+   "id": "indian-history-00392",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Non-Cooperation Movement - 1920",
@@ -5595,7 +5895,7 @@
    "e": "The pair Champaran Satyagraha - 1940 is not correctly matched."
   },
   {
-   "id": "indian-history-00373",
+   "id": "indian-history-00393",
    "q": "Which of the following events took place in 1984?",
    "o": [
     "India-China border war",
@@ -5610,7 +5910,7 @@
    "e": "Operation Blue Star took place in 1984."
   },
   {
-   "id": "indian-history-00374",
+   "id": "indian-history-00394",
    "q": "In which year did the following event take place: Issue of the Emancipation Proclamation?",
    "o": [
     "1865",
@@ -5625,7 +5925,7 @@
    "e": "Issue of the Emancipation Proclamation — 1863."
   },
   {
-   "id": "indian-history-00375",
+   "id": "indian-history-00395",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Slave Dynasty of Delhi - Qutb-ud-din Aibak",
@@ -5640,7 +5940,7 @@
    "e": "Only Slave Dynasty of Delhi - Qutb-ud-din Aibak is correctly matched."
   },
   {
-   "id": "indian-history-00376",
+   "id": "indian-history-00396",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Maharaja Ranjit Singh - Founder of the Sikh Empire",
@@ -5655,7 +5955,7 @@
    "e": "Only Maharaja Ranjit Singh - Founder of the Sikh Empire is correctly matched."
   },
   {
-   "id": "indian-history-00377",
+   "id": "indian-history-00397",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Rani Lakshmibai - Queen who fought at Jhansi in 1857",
@@ -5670,7 +5970,7 @@
    "e": "Only Rani Lakshmibai - Queen who fought at Jhansi in 1857 is correctly matched."
   },
   {
-   "id": "indian-history-00378",
+   "id": "indian-history-00398",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Swaraj Party - 1923",
@@ -5685,7 +5985,7 @@
    "e": "The pair Civil Disobedience Movement - 1928 is not correctly matched."
   },
   {
-   "id": "indian-history-00379",
+   "id": "indian-history-00399",
    "q": "Which of the following events took place in 2001?",
    "o": [
     "Operation Blue Star",
@@ -5700,7 +6000,7 @@
    "e": "Attack on the Indian Parliament took place in 2001."
   },
   {
-   "id": "indian-history-00380",
+   "id": "indian-history-00400",
    "q": "In which year did the following event take place: Glorious Revolution in England?",
    "o": [
     "1688",
@@ -5715,7 +6015,7 @@
    "e": "Glorious Revolution in England — 1688."
   },
   {
-   "id": "indian-history-00381",
+   "id": "indian-history-00401",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Slave Dynasty of Delhi - Simhavarman",
@@ -5730,7 +6030,7 @@
    "e": "Only Slave Dynasty of Delhi - Qutb-ud-din Aibak is correctly matched."
   },
   {
-   "id": "indian-history-00382",
+   "id": "indian-history-00402",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Maharaja Ranjit Singh - Founder of the Sikh Empire",
@@ -5745,7 +6045,7 @@
    "e": "Only Maharaja Ranjit Singh - Founder of the Sikh Empire is correctly matched."
   },
   {
-   "id": "indian-history-00383",
+   "id": "indian-history-00403",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Rani Lakshmibai - Queen who fought at Jhansi in 1857",
@@ -5760,7 +6060,7 @@
    "e": "Only Rani Lakshmibai - Queen who fought at Jhansi in 1857 is correctly matched."
   },
   {
-   "id": "indian-history-00384",
+   "id": "indian-history-00404",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Cabinet Mission - 1930",
@@ -5775,7 +6075,7 @@
    "e": "The pair Cabinet Mission - 1930 is not correctly matched."
   },
   {
-   "id": "indian-history-00385",
+   "id": "indian-history-00405",
    "q": "Which of the following events took place in 1920?",
    "o": [
     "Launch of the Non-Cooperation Movement",
@@ -5790,7 +6090,7 @@
    "e": "Launch of the Non-Cooperation Movement took place in 1920."
   },
   {
-   "id": "indian-history-00386",
+   "id": "indian-history-00406",
    "q": "In which year did the following event take place: Wall Street Crash and start of the Great Depression?",
    "o": [
     "1929",
@@ -5805,7 +6105,7 @@
    "e": "Wall Street Crash and start of the Great Depression — 1929."
   },
   {
-   "id": "indian-history-00387",
+   "id": "indian-history-00407",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Khilji Dynasty - Pushyamitra Sunga",
@@ -5820,7 +6120,7 @@
    "e": "Only Khilji Dynasty - Jalal-ud-din Khalji is correctly matched."
   },
   {
-   "id": "indian-history-00388",
+   "id": "indian-history-00408",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Kanishka - Known as Vikramaditya and patron of the Navaratnas",
@@ -5835,7 +6135,7 @@
    "e": "Only Kanishka - Convened the Fourth Buddhist Council is correctly matched."
   },
   {
-   "id": "indian-history-00389",
+   "id": "indian-history-00409",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Sarojini Naidu - Punjab Kesari",
@@ -5850,7 +6150,7 @@
    "e": "Only Sarojini Naidu - Nightingale of India is correctly matched."
   },
   {
-   "id": "indian-history-00390",
+   "id": "indian-history-00410",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Quit India Movement - 1942",
@@ -5865,7 +6165,7 @@
    "e": "The pair Non-Cooperation Movement - 1917 is not correctly matched."
   },
   {
-   "id": "indian-history-00391",
+   "id": "indian-history-00411",
    "q": "Which of the following events took place in 1972?",
    "o": [
     "Bhopal gas tragedy",
@@ -5880,7 +6180,7 @@
    "e": "Shimla Agreement signed took place in 1972."
   },
   {
-   "id": "indian-history-00392",
+   "id": "indian-history-00412",
    "q": "In which year did the following event take place: Iranian Revolution?",
    "o": [
     "1955",
@@ -5895,7 +6195,7 @@
    "e": "Iranian Revolution — 1979."
   },
   {
-   "id": "indian-history-00393",
+   "id": "indian-history-00413",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Khilji Dynasty - Jalal-ud-din Khalji",
@@ -5910,7 +6210,7 @@
    "e": "Only Khilji Dynasty - Jalal-ud-din Khalji is correctly matched."
   },
   {
-   "id": "indian-history-00394",
+   "id": "indian-history-00414",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Kanishka - Founder of Sikhism",
@@ -5925,7 +6225,7 @@
    "e": "Only Kanishka - Convened the Fourth Buddhist Council is correctly matched."
   },
   {
-   "id": "indian-history-00395",
+   "id": "indian-history-00415",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Sarojini Naidu - Author of Vande Mataram",
@@ -5940,7 +6240,7 @@
    "e": "Only Sarojini Naidu - Nightingale of India is correctly matched."
   },
   {
-   "id": "indian-history-00396",
+   "id": "indian-history-00416",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Individual Satyagraha - 1947",
@@ -5955,7 +6255,7 @@
    "e": "The pair Individual Satyagraha - 1947 is not correctly matched."
   },
   {
-   "id": "indian-history-00397",
+   "id": "indian-history-00417",
    "q": "Which of the following events took place in 1977?",
    "o": [
     "Assassination of Mahatma Gandhi",
@@ -5970,7 +6270,7 @@
    "e": "Janata Party formed the government at the Centre took place in 1977."
   },
   {
-   "id": "indian-history-00398",
+   "id": "indian-history-00418",
    "q": "Which of the following events took place in 1929?",
    "o": [
     "September 11 attacks in the United States",
@@ -5985,7 +6285,7 @@
    "e": "Wall Street Crash and start of the Great Depression took place in 1929."
   },
   {
-   "id": "indian-history-00399",
+   "id": "indian-history-00419",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Lodi Dynasty - Alauddin Bahman Shah",
@@ -6000,7 +6300,7 @@
    "e": "Only Lodi Dynasty - Bahlul Lodi is correctly matched."
   },
   {
-   "id": "indian-history-00400",
+   "id": "indian-history-00420",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Bahadur Shah Zafar - Built the Brihadeeswarar Temple at Thanjavur",
@@ -6015,7 +6315,7 @@
    "e": "Only Bahadur Shah Zafar - Last Mughal emperor is correctly matched."
   },
   {
-   "id": "indian-history-00401",
+   "id": "indian-history-00421",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Rajguru - First Prime Minister of India",
@@ -6030,7 +6330,7 @@
    "e": "Only Rajguru - Revolutionary executed with Bhagat Singh is correctly matched."
   },
   {
-   "id": "indian-history-00402",
+   "id": "indian-history-00422",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Round Table Conferences - 1917",
@@ -6045,7 +6345,7 @@
    "e": "The pair Round Table Conferences - 1917 is not correctly matched."
   },
   {
-   "id": "indian-history-00403",
+   "id": "indian-history-00423",
    "q": "Which of the following events took place in 1946?",
    "o": [
     "First meeting of the Constituent Assembly",
@@ -6060,7 +6360,7 @@
    "e": "First meeting of the Constituent Assembly took place in 1946."
   },
   {
-   "id": "indian-history-00404",
+   "id": "indian-history-00424",
    "q": "Which of the following events took place in 1869?",
    "o": [
     "First Nobel Prizes awarded",
@@ -6075,7 +6375,7 @@
    "e": "Opening of the Suez Canal took place in 1869."
   },
   {
-   "id": "indian-history-00405",
+   "id": "indian-history-00425",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Lodi Dynasty - Bahlul Lodi",
@@ -6090,7 +6390,7 @@
    "e": "Only Lodi Dynasty - Bahlul Lodi is correctly matched."
   },
   {
-   "id": "indian-history-00406",
+   "id": "indian-history-00426",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Bahadur Shah Zafar - Last Mughal emperor",
@@ -6105,7 +6405,7 @@
    "e": "Only Bahadur Shah Zafar - Last Mughal emperor is correctly matched."
   },
   {
-   "id": "indian-history-00407",
+   "id": "indian-history-00427",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Rajguru - Revolutionary executed with Bhagat Singh",
@@ -6120,7 +6420,7 @@
    "e": "Only Rajguru - Revolutionary executed with Bhagat Singh is correctly matched."
   },
   {
-   "id": "indian-history-00408",
+   "id": "indian-history-00428",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Lahore Session of the INC - 1919",
@@ -6135,7 +6435,7 @@
    "e": "The pair Lahore Session of the INC - 1919 is not correctly matched."
   },
   {
-   "id": "indian-history-00409",
+   "id": "indian-history-00429",
    "q": "Which of the following events took place in 1950?",
    "o": [
     "Assassination of Mahatma Gandhi",
@@ -6150,7 +6450,7 @@
    "e": "Constitution of India came into force took place in 1950."
   },
   {
-   "id": "indian-history-00410",
+   "id": "indian-history-00430",
    "q": "Which of the following events took place in 1992?",
    "o": [
     "Founding of the League of Nations",
@@ -6165,7 +6465,7 @@
    "e": "Rio Earth Summit took place in 1992."
   },
   {
-   "id": "indian-history-00411",
+   "id": "indian-history-00431",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Pallava Dynasty - Rajaraja Chola I",
@@ -6180,7 +6480,7 @@
    "e": "Only Pallava Dynasty - Simhavarman is correctly matched."
   },
   {
-   "id": "indian-history-00412",
+   "id": "indian-history-00432",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Mahavira - Tenth Sikh Guru and founder of the Khalsa",
@@ -6195,7 +6495,7 @@
    "e": "Only Mahavira - Twenty-fourth Tirthankara of Jainism is correctly matched."
   },
   {
-   "id": "indian-history-00413",
+   "id": "indian-history-00433",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Bhagat Singh - Author of the national anthem of India",
@@ -6210,7 +6510,7 @@
    "e": "Only Bhagat Singh - Founder-member of the HSRA is correctly matched."
   },
   {
-   "id": "indian-history-00414",
+   "id": "indian-history-00434",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Lahore Session of the INC - 1929",
@@ -6225,7 +6525,7 @@
    "e": "The pair Mountbatten Plan - 1928 is not correctly matched."
   },
   {
-   "id": "indian-history-00415",
+   "id": "indian-history-00435",
    "q": "Which of the following events took place in 1906?",
    "o": [
     "Founding of the All India Muslim League",
@@ -6240,7 +6540,7 @@
    "e": "Founding of the All India Muslim League took place in 1906."
   },
   {
-   "id": "indian-history-00416",
+   "id": "indian-history-00436",
    "q": "Which of the following events took place in 1979?",
    "o": [
     "Founding of the United Nations",
@@ -6255,7 +6555,7 @@
    "e": "Iranian Revolution took place in 1979."
   },
   {
-   "id": "indian-history-00417",
+   "id": "indian-history-00437",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Pallava Dynasty - Simhavarman",
@@ -6270,7 +6570,7 @@
    "e": "Only Pallava Dynasty - Simhavarman is correctly matched."
   },
   {
-   "id": "indian-history-00418",
+   "id": "indian-history-00438",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Mahavira - Known as the Napoleon of India",
@@ -6285,7 +6585,7 @@
    "e": "Only Mahavira - Twenty-fourth Tirthankara of Jainism is correctly matched."
   },
   {
-   "id": "indian-history-00419",
+   "id": "indian-history-00439",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Bhagat Singh - Lokamanya",
@@ -6300,7 +6600,7 @@
    "e": "Only Bhagat Singh - Founder-member of the HSRA is correctly matched."
   },
   {
-   "id": "indian-history-00420",
+   "id": "indian-history-00440",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Non-Cooperation Movement - 1920",
@@ -6315,7 +6615,7 @@
    "e": "The pair Khilafat Movement - 1920 is not correctly matched."
   },
   {
-   "id": "indian-history-00421",
+   "id": "indian-history-00441",
    "q": "Which of the following events took place in 1930?",
    "o": [
     "First general elections held in India",
@@ -6330,7 +6630,7 @@
    "e": "Dandi March launched by Mahatma Gandhi took place in 1930."
   },
   {
-   "id": "indian-history-00422",
+   "id": "indian-history-00442",
    "q": "Which of the following events took place in 1918?",
    "o": [
     "Publication of the Communist Manifesto",
@@ -6345,7 +6645,7 @@
    "e": "End of World War I took place in 1918."
   },
   {
-   "id": "indian-history-00423",
+   "id": "indian-history-00443",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Kushana Empire - Harihara and Bukka",
@@ -6360,7 +6660,7 @@
    "e": "Only Kushana Empire - Kujula Kadphises is correctly matched."
   },
   {
-   "id": "indian-history-00424",
+   "id": "indian-history-00444",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Samudragupta - Founder of Sikhism",
@@ -6375,7 +6675,7 @@
    "e": "Only Samudragupta - Known as the Napoleon of India is correctly matched."
   },
   {
-   "id": "indian-history-00425",
+   "id": "indian-history-00445",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Bal Gangadhar Tilak - Author of Vande Mataram",
@@ -6390,7 +6690,7 @@
    "e": "Only Bal Gangadhar Tilak - Lokamanya is correctly matched."
   },
   {
-   "id": "indian-history-00426",
+   "id": "indian-history-00446",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Round Table Conferences - 1930",
@@ -6405,7 +6705,7 @@
    "e": "The pair Swaraj Party - 1919 is not correctly matched."
   },
   {
-   "id": "indian-history-00427",
+   "id": "indian-history-00447",
    "q": "Which of the following events took place in 1928?",
    "o": [
     "Dandi March launched by Mahatma Gandhi",
@@ -6420,7 +6720,7 @@
    "e": "Simon Commission arrived in India took place in 1928."
   },
   {
-   "id": "indian-history-00428",
+   "id": "indian-history-00448",
    "q": "Which of the following events took place in 1848?",
    "o": [
     "Publication of the Communist Manifesto",
@@ -6435,7 +6735,7 @@
    "e": "Publication of the Communist Manifesto took place in 1848."
   },
   {
-   "id": "indian-history-00429",
+   "id": "indian-history-00449",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Kushana Empire - Jalal-ud-din Khalji",
@@ -6450,7 +6750,7 @@
    "e": "Only Kushana Empire - Kujula Kadphises is correctly matched."
   },
   {
-   "id": "indian-history-00430",
+   "id": "indian-history-00450",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Samudragupta - Twenty-fourth Tirthankara of Jainism",
@@ -6465,7 +6765,7 @@
    "e": "Only Samudragupta - Known as the Napoleon of India is correctly matched."
   },
   {
-   "id": "indian-history-00431",
+   "id": "indian-history-00451",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Bal Gangadhar Tilak - Founder-member of the HSRA",
@@ -6480,7 +6780,7 @@
    "e": "Only Bal Gangadhar Tilak - Lokamanya is correctly matched."
   },
   {
-   "id": "indian-history-00432",
+   "id": "indian-history-00452",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Quit India Movement - 1947",
@@ -6495,7 +6795,7 @@
    "e": "The pair Quit India Movement - 1947 is not correctly matched."
   },
   {
-   "id": "indian-history-00433",
+   "id": "indian-history-00453",
    "q": "Which of the following events took place in 2014?",
    "o": [
     "Mars Orbiter Mission entered Mars orbit",
@@ -6510,7 +6810,7 @@
    "e": "Mars Orbiter Mission entered Mars orbit took place in 2014."
   },
   {
-   "id": "indian-history-00434",
+   "id": "indian-history-00454",
    "q": "Which of the following events took place in 1453?",
    "o": [
     "Fall of Constantinople",
@@ -6525,7 +6825,7 @@
    "e": "Fall of Constantinople took place in 1453."
   },
   {
-   "id": "indian-history-00435",
+   "id": "indian-history-00455",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Chalukya Dynasty - Gopala",
@@ -6540,7 +6840,7 @@
    "e": "Only Chalukya Dynasty - Pulakeshin I is correctly matched."
   },
   {
-   "id": "indian-history-00436",
+   "id": "indian-history-00456",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Gautama Buddha - Won the First Battle of Panipat in 1526",
@@ -6555,7 +6855,7 @@
    "e": "Only Gautama Buddha - Founder of Buddhism is correctly matched."
   },
   {
-   "id": "indian-history-00437",
+   "id": "indian-history-00457",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Rash Behari Bose - Leader of the Bhoodan movement",
@@ -6570,7 +6870,7 @@
    "e": "Only Rash Behari Bose - Founder of the Indian Independence League in Japan is correctly matched."
   },
   {
-   "id": "indian-history-00438",
+   "id": "indian-history-00458",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Non-Cooperation Movement - 1920",
@@ -6585,7 +6885,7 @@
    "e": "The pair Simon Commission boycott - 1929 is not correctly matched."
   },
   {
-   "id": "indian-history-00439",
+   "id": "indian-history-00459",
    "q": "Which of the following events took place in 1932?",
    "o": [
     "Government of India Act passed",
@@ -6600,7 +6900,7 @@
    "e": "Poona Pact signed took place in 1932."
   },
   {
-   "id": "indian-history-00440",
+   "id": "indian-history-00460",
    "q": "Which of the following events took place in 1498?",
    "o": [
     "Cuban Revolution",
@@ -6615,7 +6915,7 @@
    "e": "Vasco da Gama reached India by sea took place in 1498."
   },
   {
-   "id": "indian-history-00441",
+   "id": "indian-history-00461",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Chalukya Dynasty - Sukaphaa",
@@ -6630,7 +6930,7 @@
    "e": "Only Chalukya Dynasty - Pulakeshin I is correctly matched."
   },
   {
-   "id": "indian-history-00442",
+   "id": "indian-history-00462",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Gautama Buddha - Famous Vijayanagara ruler and author of Amuktamalyada",
@@ -6645,7 +6945,7 @@
    "e": "Only Gautama Buddha - Founder of Buddhism is correctly matched."
   },
   {
-   "id": "indian-history-00443",
+   "id": "indian-history-00463",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Rash Behari Bose - Iron Man of India",
@@ -6660,7 +6960,7 @@
    "e": "Only Rash Behari Bose - Founder of the Indian Independence League in Japan is correctly matched."
   },
   {
-   "id": "indian-history-00444",
+   "id": "indian-history-00464",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Mountbatten Plan - 1947",
@@ -6675,7 +6975,7 @@
    "e": "The pair Cripps Mission - 1947 is not correctly matched."
   },
   {
-   "id": "indian-history-00445",
+   "id": "indian-history-00465",
    "q": "Which of the following events took place in 1952?",
    "o": [
     "First general elections held in India",
@@ -6690,7 +6990,7 @@
    "e": "First general elections held in India took place in 1952."
   },
   {
-   "id": "indian-history-00446",
+   "id": "indian-history-00466",
    "q": "Which of the following events took place in 1917?",
    "o": [
     "Columbus reached the Americas",
@@ -6705,7 +7005,7 @@
    "e": "Russian Revolution took place in 1917."
   },
   {
-   "id": "indian-history-00447",
+   "id": "indian-history-00467",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Chola Dynasty (imperial phase) - Pushyamitra Sunga",
@@ -6720,7 +7020,7 @@
    "e": "Only Chola Dynasty (imperial phase) - Rajaraja Chola I is correctly matched."
   },
   {
-   "id": "indian-history-00448",
+   "id": "indian-history-00468",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Harshavardhana - Last Mughal emperor",
@@ -6735,7 +7035,7 @@
    "e": "Only Harshavardhana - Ruled from Kannauj and was praised by Hiuen Tsang is correctly matched."
   },
   {
-   "id": "indian-history-00449",
+   "id": "indian-history-00469",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Dadabhai Naoroji - Revolutionary executed with Bhagat Singh",
@@ -6750,7 +7050,7 @@
    "e": "Only Dadabhai Naoroji - Grand Old Man of India is correctly matched."
   },
   {
-   "id": "indian-history-00450",
+   "id": "indian-history-00470",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Communal Award - 1940",
@@ -6765,7 +7065,7 @@
    "e": "The pair Communal Award - 1940 is not correctly matched."
   },
   {
-   "id": "indian-history-00451",
+   "id": "indian-history-00471",
    "q": "Which of the following events took place in 1929?",
    "o": [
     "Constitution of India came into force",
@@ -6780,7 +7080,7 @@
    "e": "Purna Swaraj declared at the Lahore session took place in 1929."
   },
   {
-   "id": "indian-history-00452",
+   "id": "indian-history-00472",
    "q": "Which of the following events took place in 1953?",
    "o": [
     "First ascent of Mount Everest",
@@ -6795,7 +7095,7 @@
    "e": "First ascent of Mount Everest took place in 1953."
   },
   {
-   "id": "indian-history-00453",
+   "id": "indian-history-00473",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Chola Dynasty (imperial phase) - Babur",
@@ -6810,7 +7110,7 @@
    "e": "Only Chola Dynasty (imperial phase) - Rajaraja Chola I is correctly matched."
   },
   {
-   "id": "indian-history-00454",
+   "id": "indian-history-00474",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Harshavardhana - Convened the Fourth Buddhist Council",
@@ -6825,7 +7125,7 @@
    "e": "Only Harshavardhana - Ruled from Kannauj and was praised by Hiuen Tsang is correctly matched."
   },
   {
-   "id": "indian-history-00455",
+   "id": "indian-history-00475",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Dadabhai Naoroji - Nightingale of India",
@@ -6840,7 +7140,7 @@
    "e": "Only Dadabhai Naoroji - Grand Old Man of India is correctly matched."
   },
   {
-   "id": "indian-history-00456",
+   "id": "indian-history-00476",
    "q": "Which of the following events took place in 2008?",
    "o": [
     "Chandrayaan-1 launched",
@@ -6855,7 +7155,7 @@
    "e": "Chandrayaan-1 launched took place in 2008."
   },
   {
-   "id": "indian-history-00457",
+   "id": "indian-history-00477",
    "q": "Which of the following events took place in 1949?",
    "o": [
     "Founding of NATO",
@@ -6870,7 +7170,7 @@
    "e": "Founding of NATO took place in 1949."
   },
   {
-   "id": "indian-history-00458",
+   "id": "indian-history-00478",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Tughlaq Dynasty - Khizr Khan",
@@ -6885,7 +7185,7 @@
    "e": "Only Tughlaq Dynasty - Ghiyas-ud-din Tughlaq is correctly matched."
   },
   {
-   "id": "indian-history-00459",
+   "id": "indian-history-00479",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Shivaji - Founded the Maratha empire and was crowned in 1674",
@@ -6900,7 +7200,7 @@
    "e": "Only Shivaji - Founded the Maratha empire and was crowned in 1674 is correctly matched."
   },
   {
-   "id": "indian-history-00460",
+   "id": "indian-history-00480",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Sukhdev - Revolutionary executed with Bhagat Singh",
@@ -6915,7 +7215,7 @@
    "e": "Only Sukhdev - Revolutionary executed with Bhagat Singh is correctly matched."
   },
   {
-   "id": "indian-history-00461",
+   "id": "indian-history-00481",
    "q": "Which of the following events took place in 1905?",
    "o": [
     "Gandhi-Irwin Pact signed",
@@ -6930,7 +7230,7 @@
    "e": "Partition of Bengal by Lord Curzon took place in 1905."
   },
   {
-   "id": "indian-history-00462",
+   "id": "indian-history-00482",
    "q": "Which of the following events took place in 1993?",
    "o": [
     "Glorious Revolution in England",
@@ -6945,7 +7245,7 @@
    "e": "Formation of the European Union by the Maastricht Treaty took place in 1993."
   },
   {
-   "id": "indian-history-00463",
+   "id": "indian-history-00483",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Tughlaq Dynasty - Ranjit Singh",
@@ -6960,7 +7260,7 @@
    "e": "Only Tughlaq Dynasty - Ghiyas-ud-din Tughlaq is correctly matched."
   },
   {
-   "id": "indian-history-00464",
+   "id": "indian-history-00484",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Shivaji - Founded the Maratha empire and was crowned in 1674",
@@ -6975,7 +7275,7 @@
    "e": "Only Shivaji - Founded the Maratha empire and was crowned in 1674 is correctly matched."
   },
   {
-   "id": "indian-history-00465",
+   "id": "indian-history-00485",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Sukhdev - Revolutionary executed with Bhagat Singh",
@@ -6990,7 +7290,7 @@
    "e": "Only Sukhdev - Revolutionary executed with Bhagat Singh is correctly matched."
   },
   {
-   "id": "indian-history-00466",
+   "id": "indian-history-00486",
    "q": "Which of the following events took place in 1919?",
    "o": [
     "Jallianwala Bagh massacre",
@@ -7005,7 +7305,7 @@
    "e": "Jallianwala Bagh massacre took place in 1919."
   },
   {
-   "id": "indian-history-00467",
+   "id": "indian-history-00487",
    "q": "Which of the following events took place in 1903?",
    "o": [
     "First powered flight by the Wright brothers",
@@ -7020,7 +7320,7 @@
    "e": "First powered flight by the Wright brothers took place in 1903."
   },
   {
-   "id": "indian-history-00468",
+   "id": "indian-history-00488",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Maratha Empire - Ghiyas-ud-din Tughlaq",
@@ -7035,7 +7335,7 @@
    "e": "Only Maratha Empire - Shivaji is correctly matched."
   },
   {
-   "id": "indian-history-00469",
+   "id": "indian-history-00489",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Chandragupta II - Twenty-fourth Tirthankara of Jainism",
@@ -7050,7 +7350,7 @@
    "e": "Only Chandragupta II - Known as Vikramaditya and patron of the Navaratnas is correctly matched."
   },
   {
-   "id": "indian-history-00470",
+   "id": "indian-history-00490",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Lala Lajpat Rai - Founder-member of the HSRA",
@@ -7065,7 +7365,7 @@
    "e": "Only Lala Lajpat Rai - Punjab Kesari is correctly matched."
   },
   {
-   "id": "indian-history-00471",
+   "id": "indian-history-00491",
    "q": "Which of the following events took place in 1943?",
    "o": [
     "Bhopal gas tragedy",
@@ -7080,7 +7380,7 @@
    "e": "Formation of the Azad Hind Fauj (INA) took place in 1943."
   },
   {
-   "id": "indian-history-00472",
+   "id": "indian-history-00492",
    "q": "Which of the following events took place in 1648?",
    "o": [
     "Fall of Constantinople",
@@ -7095,7 +7395,7 @@
    "e": "Peace of Westphalia took place in 1648."
   },
   {
-   "id": "indian-history-00473",
+   "id": "indian-history-00493",
    "q": "Which of the following pairs of dynasty and founder is correctly matched?",
    "o": [
     "Maratha Empire - Harihara and Bukka",
@@ -7110,7 +7410,7 @@
    "e": "Only Maratha Empire - Shivaji is correctly matched."
   },
   {
-   "id": "indian-history-00474",
+   "id": "indian-history-00494",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Chandragupta II - Known as Vikramaditya and patron of the Navaratnas",
@@ -7125,7 +7425,7 @@
    "e": "Only Chandragupta II - Known as Vikramaditya and patron of the Navaratnas is correctly matched."
   },
   {
-   "id": "indian-history-00475",
+   "id": "indian-history-00495",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Lala Lajpat Rai - Punjab Kesari",
@@ -7140,7 +7440,7 @@
    "e": "Only Lala Lajpat Rai - Punjab Kesari is correctly matched."
   },
   {
-   "id": "indian-history-00476",
+   "id": "indian-history-00496",
    "q": "Which of the following events took place in 2016?",
    "o": [
     "Pokhran-I nuclear test (Smiling Buddha)",
@@ -7155,7 +7455,7 @@
    "e": "Demonetisation of high value currency notes took place in 2016."
   },
   {
-   "id": "indian-history-00477",
+   "id": "indian-history-00497",
    "q": "Which of the following events took place in 1815?",
    "o": [
     "COVID-19 declared a pandemic by WHO",
@@ -7170,7 +7470,7 @@
    "e": "Battle of Waterloo took place in 1815."
   },
   {
-   "id": "indian-history-00478",
+   "id": "indian-history-00498",
    "q": "Which of the following pairs of dynasty and founder is NOT correctly matched?",
    "o": [
     "Chola Dynasty (imperial phase) - Rajaraja Chola I",
@@ -7185,7 +7485,7 @@
    "e": "The pair Tughlaq Dynasty - Simhavarman is not correctly matched."
   },
   {
-   "id": "indian-history-00479",
+   "id": "indian-history-00499",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Bahadur Shah Zafar - Nominal leader of the Revolt of 1857",
@@ -7200,7 +7500,7 @@
    "e": "Only Bahadur Shah Zafar - Nominal leader of the Revolt of 1857 is correctly matched."
   },
   {
-   "id": "indian-history-00480",
+   "id": "indian-history-00500",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Kunwar Singh - Leader of the Revolt in Bihar",
@@ -7215,7 +7515,7 @@
    "e": "Only Kunwar Singh - Leader of the Revolt in Bihar is correctly matched."
   },
   {
-   "id": "indian-history-00481",
+   "id": "indian-history-00501",
    "q": "Which of the following events took place in 1946?",
    "o": [
     "Government of India Act passed",
@@ -7230,7 +7530,7 @@
    "e": "Royal Indian Navy Mutiny took place in 1946."
   },
   {
-   "id": "indian-history-00482",
+   "id": "indian-history-00502",
    "q": "Which of the following events took place in 2008?",
    "o": [
     "First powered flight by the Wright brothers",
@@ -7245,7 +7545,7 @@
    "e": "Global financial crisis took place in 2008."
   },
   {
-   "id": "indian-history-00483",
+   "id": "indian-history-00503",
    "q": "Which of the following pairs of dynasty and founder is NOT correctly matched?",
    "o": [
     "Chalukya Dynasty - Pulakeshin I",
@@ -7260,7 +7560,7 @@
    "e": "The pair Mughal Empire - Alauddin Bahman Shah is not correctly matched."
   },
   {
-   "id": "indian-history-00484",
+   "id": "indian-history-00504",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Bahadur Shah Zafar - Introduced the Grand Trunk Road and the Rupiya",
@@ -7275,7 +7575,7 @@
    "e": "Only Bahadur Shah Zafar - Nominal leader of the Revolt of 1857 is correctly matched."
   },
   {
-   "id": "indian-history-00485",
+   "id": "indian-history-00505",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Kunwar Singh - Founder of the Home Rule League with Tilak",
@@ -7290,7 +7590,7 @@
    "e": "Only Kunwar Singh - Leader of the Revolt in Bihar is correctly matched."
   },
   {
-   "id": "indian-history-00486",
+   "id": "indian-history-00506",
    "q": "Which of the following events took place in 1965?",
    "o": [
     "Partition of Bengal by Lord Curzon",
@@ -7305,7 +7605,7 @@
    "e": "India-Pakistan war and Tashkent Agreement took place in 1965."
   },
   {
-   "id": "indian-history-00487",
+   "id": "indian-history-00507",
    "q": "Which of the following events took place in 1914?",
    "o": [
     "Formation of the USSR",
@@ -7320,7 +7620,7 @@
    "e": "Beginning of World War I took place in 1914."
   },
   {
-   "id": "indian-history-00488",
+   "id": "indian-history-00508",
    "q": "Which of the following pairs of dynasty and founder is NOT correctly matched?",
    "o": [
     "Kushana Empire - Kujula Kadphises",
@@ -7335,7 +7635,7 @@
    "e": "The pair Gupta Empire - Ranjit Singh is not correctly matched."
   },
   {
-   "id": "indian-history-00489",
+   "id": "indian-history-00509",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Firoz Shah Tughlaq - Built canals and founded Firozabad",
@@ -7350,7 +7650,7 @@
    "e": "Only Firoz Shah Tughlaq - Built canals and founded Firozabad is correctly matched."
   },
   {
-   "id": "indian-history-00490",
+   "id": "indian-history-00510",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Maulana Abul Kalam Azad - First Education Minister of India",
@@ -7365,7 +7665,7 @@
    "e": "Only Maulana Abul Kalam Azad - First Education Minister of India is correctly matched."
   },
   {
-   "id": "indian-history-00491",
+   "id": "indian-history-00511",
    "q": "Which of the following events took place in 1984?",
    "o": [
     "Bhopal gas tragedy",
@@ -7380,7 +7680,7 @@
    "e": "Bhopal gas tragedy took place in 1984."
   },
   {
-   "id": "indian-history-00492",
+   "id": "indian-history-00512",
    "q": "Which of the following events took place in 1920?",
    "o": [
     "Global financial crisis",
@@ -7395,7 +7695,7 @@
    "e": "Founding of the League of Nations took place in 1920."
   },
   {
-   "id": "indian-history-00493",
+   "id": "indian-history-00513",
    "q": "Which of the following pairs of dynasty and founder is NOT correctly matched?",
    "o": [
     "Sayyid Dynasty - Pulakeshin I",
@@ -7410,7 +7710,7 @@
    "e": "The pair Sayyid Dynasty - Pulakeshin I is not correctly matched."
   },
   {
-   "id": "indian-history-00494",
+   "id": "indian-history-00514",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Firoz Shah Tughlaq - Built canals and founded Firozabad",
@@ -7425,7 +7725,7 @@
    "e": "Only Firoz Shah Tughlaq - Built canals and founded Firozabad is correctly matched."
   },
   {
-   "id": "indian-history-00495",
+   "id": "indian-history-00515",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Maulana Abul Kalam Azad - First Education Minister of India",
@@ -7440,7 +7740,7 @@
    "e": "Only Maulana Abul Kalam Azad - First Education Minister of India is correctly matched."
   },
   {
-   "id": "indian-history-00496",
+   "id": "indian-history-00516",
    "q": "Which of the following events took place in 1948?",
    "o": [
     "Chandrayaan-3 soft landing near the lunar south pole",
@@ -7455,7 +7755,7 @@
    "e": "Assassination of Mahatma Gandhi took place in 1948."
   },
   {
-   "id": "indian-history-00497",
+   "id": "indian-history-00517",
    "q": "Which of the following events took place in 1215?",
    "o": [
     "Signing of the Magna Carta",
@@ -7470,7 +7770,7 @@
    "e": "Signing of the Magna Carta took place in 1215."
   },
   {
-   "id": "indian-history-00498",
+   "id": "indian-history-00518",
    "q": "Which of the following pairs of dynasty and founder is NOT correctly matched?",
    "o": [
     "Sikh Empire - Sri Gupta",
@@ -7485,7 +7785,7 @@
    "e": "The pair Sikh Empire - Sri Gupta is not correctly matched."
   },
   {
-   "id": "indian-history-00499",
+   "id": "indian-history-00519",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Guru Gobind Singh - Shifted the capital from Delhi to Daulatabad",
@@ -7500,7 +7800,7 @@
    "e": "Only Guru Gobind Singh - Tenth Sikh Guru and founder of the Khalsa is correctly matched."
   },
   {
-   "id": "indian-history-00500",
+   "id": "indian-history-00520",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Rabindranath Tagore - Founder of Banaras Hindu University",
@@ -7515,7 +7815,7 @@
    "e": "Only Rabindranath Tagore - Author of the national anthem of India is correctly matched."
   },
   {
-   "id": "indian-history-00501",
+   "id": "indian-history-00521",
    "q": "Which of the following events took place in 1931?",
    "o": [
     "Attack on the Indian Parliament",
@@ -7530,7 +7830,7 @@
    "e": "Gandhi-Irwin Pact signed took place in 1931."
   },
   {
-   "id": "indian-history-00502",
+   "id": "indian-history-00522",
    "q": "Which of the following events took place in 2015?",
    "o": [
     "Paris Climate Agreement adopted",
@@ -7545,7 +7845,7 @@
    "e": "Paris Climate Agreement adopted took place in 2015."
   },
   {
-   "id": "indian-history-00503",
+   "id": "indian-history-00523",
    "q": "Which of the following pairs of dynasty and founder is NOT correctly matched?",
    "o": [
     "Chalukya Dynasty - Pulakeshin I",
@@ -7560,7 +7860,7 @@
    "e": "The pair Vijayanagara Empire - Gopala is not correctly matched."
   },
   {
-   "id": "indian-history-00504",
+   "id": "indian-history-00524",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Guru Gobind Singh - Nominal leader of the Revolt of 1857",
@@ -7575,7 +7875,7 @@
    "e": "Only Guru Gobind Singh - Tenth Sikh Guru and founder of the Khalsa is correctly matched."
   },
   {
-   "id": "indian-history-00505",
+   "id": "indian-history-00525",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Rabindranath Tagore - Leader of the Revolt in Bihar",
@@ -7590,7 +7890,7 @@
    "e": "Only Rabindranath Tagore - Author of the national anthem of India is correctly matched."
   },
   {
-   "id": "indian-history-00506",
+   "id": "indian-history-00526",
    "q": "Which of the following events took place in 1974?",
    "o": [
     "Mars Orbiter Mission entered Mars orbit",
@@ -7605,7 +7905,7 @@
    "e": "Pokhran-I nuclear test (Smiling Buddha) took place in 1974."
   },
   {
-   "id": "indian-history-00507",
+   "id": "indian-history-00527",
    "q": "Which of the following events took place in 2011?",
    "o": [
     "Abolition of slavery in the British Empire",
@@ -7620,7 +7920,7 @@
    "e": "Beginning of the Arab Spring took place in 2011."
   },
   {
-   "id": "indian-history-00508",
+   "id": "indian-history-00528",
    "q": "Which of the following pairs of dynasty and founder is NOT correctly matched?",
    "o": [
     "Sayyid Dynasty - Khizr Khan",
@@ -7635,7 +7935,7 @@
    "e": "The pair Satavahana Dynasty - Kujula Kadphises is not correctly matched."
   },
   {
-   "id": "indian-history-00509",
+   "id": "indian-history-00529",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Babur - Won the First Battle of Panipat in 1526",
@@ -7650,7 +7950,7 @@
    "e": "Only Babur - Won the First Battle of Panipat in 1526 is correctly matched."
   },
   {
-   "id": "indian-history-00510",
+   "id": "indian-history-00530",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Vinoba Bhave - Leader of the Bhoodan movement",
@@ -7665,7 +7965,7 @@
    "e": "Only Vinoba Bhave - Leader of the Bhoodan movement is correctly matched."
   },
   {
-   "id": "indian-history-00511",
+   "id": "indian-history-00531",
    "q": "Which of the following events took place in 1966?",
    "o": [
     "First War of Indian Independence (Revolt of 1857)",
@@ -7680,7 +7980,7 @@
    "e": "Indira Gandhi became Prime Minister took place in 1966."
   },
   {
-   "id": "indian-history-00512",
+   "id": "indian-history-00532",
    "q": "Which of the following events took place in 1919?",
    "o": [
     "Battle of Waterloo",
@@ -7695,7 +7995,7 @@
    "e": "Treaty of Versailles signed took place in 1919."
   },
   {
-   "id": "indian-history-00513",
+   "id": "indian-history-00533",
    "q": "Which of the following pairs of dynasty and founder is NOT correctly matched?",
    "o": [
     "Sikh Empire - Ranjit Singh",
@@ -7710,7 +8010,7 @@
    "e": "The pair Sunga Dynasty - Ranjit Singh is not correctly matched."
   },
   {
-   "id": "indian-history-00514",
+   "id": "indian-history-00534",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Babur - Won the First Battle of Panipat in 1526",
@@ -7725,7 +8025,7 @@
    "e": "Only Babur - Won the First Battle of Panipat in 1526 is correctly matched."
   },
   {
-   "id": "indian-history-00515",
+   "id": "indian-history-00535",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Vinoba Bhave - Leader of the Bhoodan movement",
@@ -7740,7 +8040,7 @@
    "e": "Only Vinoba Bhave - Leader of the Bhoodan movement is correctly matched."
   },
   {
-   "id": "indian-history-00516",
+   "id": "indian-history-00536",
    "q": "Which of the following events took place in 1935?",
    "o": [
     "First general elections held in India",
@@ -7755,7 +8055,7 @@
    "e": "Government of India Act passed took place in 1935."
   },
   {
-   "id": "indian-history-00517",
+   "id": "indian-history-00537",
    "q": "Which of the following events took place in 1901?",
    "o": [
     "Founding of the United Nations",
@@ -7770,7 +8070,7 @@
    "e": "First Nobel Prizes awarded took place in 1901."
   },
   {
-   "id": "indian-history-00518",
+   "id": "indian-history-00538",
    "q": "Which of the following pairs of dynasty and founder is NOT correctly matched?",
    "o": [
     "Ahom Kingdom - Sukaphaa",
@@ -7785,7 +8085,7 @@
    "e": "The pair Chola Dynasty (imperial phase) - Qutb-ud-din Aibak is not correctly matched."
   },
   {
-   "id": "indian-history-00519",
+   "id": "indian-history-00539",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Muhammad bin Tughlaq - Spread Buddhism after the Kalinga war",
@@ -7800,7 +8100,7 @@
    "e": "Only Muhammad bin Tughlaq - Shifted the capital from Delhi to Daulatabad is correctly matched."
   },
   {
-   "id": "indian-history-00520",
+   "id": "indian-history-00540",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Madan Mohan Malaviya - Netaji, leader of the INA",
@@ -7815,7 +8115,7 @@
    "e": "Only Madan Mohan Malaviya - Founder of Banaras Hindu University is correctly matched."
   },
   {
-   "id": "indian-history-00521",
+   "id": "indian-history-00541",
    "q": "Which of the following events took place in 1951?",
    "o": [
     "Indira Gandhi became Prime Minister",
@@ -7830,7 +8130,7 @@
    "e": "First Five Year Plan launched took place in 1951."
   },
   {
-   "id": "indian-history-00522",
+   "id": "indian-history-00542",
    "q": "Which of the following events took place in 1944?",
    "o": [
     "Assassination of Abraham Lincoln",
@@ -7845,7 +8145,7 @@
    "e": "D-Day landings in Normandy took place in 1944."
   },
   {
-   "id": "indian-history-00523",
+   "id": "indian-history-00543",
    "q": "Which of the following pairs of dynasty and founder is NOT correctly matched?",
    "o": [
     "Mughal Empire - Babur",
@@ -7860,7 +8160,7 @@
    "e": "The pair Chalukya Dynasty - Kujula Kadphises is not correctly matched."
   },
   {
-   "id": "indian-history-00524",
+   "id": "indian-history-00544",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Muhammad bin Tughlaq - Market control policies and Siri fort",
@@ -7875,7 +8175,7 @@
    "e": "Only Muhammad bin Tughlaq - Shifted the capital from Delhi to Daulatabad is correctly matched."
   },
   {
-   "id": "indian-history-00525",
+   "id": "indian-history-00545",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Madan Mohan Malaviya - Political mentor of Mahatma Gandhi",
@@ -7890,7 +8190,7 @@
    "e": "Only Madan Mohan Malaviya - Founder of Banaras Hindu University is correctly matched."
   },
   {
-   "id": "indian-history-00526",
+   "id": "indian-history-00546",
    "q": "In which decade did the following event take place: Attack on the Indian Parliament?",
    "o": [
     "1980s",
@@ -7905,7 +8205,7 @@
    "e": "Attack on the Indian Parliament took place in the 2001s."
   },
   {
-   "id": "indian-history-00527",
+   "id": "indian-history-00547",
    "q": "Which of the following events took place in 1922?",
    "o": [
     "Beginning of the Korean War",
@@ -7920,7 +8220,7 @@
    "e": "Formation of the USSR took place in 1922."
   },
   {
-   "id": "indian-history-00528",
+   "id": "indian-history-00548",
    "q": "Which of the following pairs of dynasty and founder is NOT correctly matched?",
    "o": [
     "Kushana Empire - Shivaji",
@@ -7935,7 +8235,7 @@
    "e": "The pair Kushana Empire - Shivaji is not correctly matched."
   },
   {
-   "id": "indian-history-00529",
+   "id": "indian-history-00549",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Alauddin Khilji - Nominal leader of the Revolt of 1857",
@@ -7950,7 +8250,7 @@
    "e": "Only Alauddin Khilji - Market control policies and Siri fort is correctly matched."
   },
   {
-   "id": "indian-history-00530",
+   "id": "indian-history-00550",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Gopal Krishna Gokhale - Leader of the Revolt in Bihar",
@@ -7965,7 +8265,7 @@
    "e": "Only Gopal Krishna Gokhale - Political mentor of Mahatma Gandhi is correctly matched."
   },
   {
-   "id": "indian-history-00531",
+   "id": "indian-history-00551",
    "q": "In which decade did the following event take place: First meeting of the Constituent Assembly?",
    "o": [
     "1880s",
@@ -7980,7 +8280,7 @@
    "e": "First meeting of the Constituent Assembly took place in the 1946s."
   },
   {
-   "id": "indian-history-00532",
+   "id": "indian-history-00552",
    "q": "Which of the following events took place in 1957?",
    "o": [
     "Treaty of Rome establishing the EEC",
@@ -7995,7 +8295,7 @@
    "e": "Treaty of Rome establishing the EEC took place in 1957."
   },
   {
-   "id": "indian-history-00533",
+   "id": "indian-history-00553",
    "q": "Which of the following pairs of dynasty and founder is NOT correctly matched?",
    "o": [
     "Sikh Empire - Ranjit Singh",
@@ -8010,7 +8310,7 @@
    "e": "The pair Khilji Dynasty - Rajaraja Chola I is not correctly matched."
   },
   {
-   "id": "indian-history-00534",
+   "id": "indian-history-00554",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Alauddin Khilji - Spread Buddhism after the Kalinga war",
@@ -8025,7 +8325,7 @@
    "e": "Only Alauddin Khilji - Market control policies and Siri fort is correctly matched."
   },
   {
-   "id": "indian-history-00535",
+   "id": "indian-history-00555",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Gopal Krishna Gokhale - Netaji, leader of the INA",
@@ -8040,7 +8340,7 @@
    "e": "Only Gopal Krishna Gokhale - Political mentor of Mahatma Gandhi is correctly matched."
   },
   {
-   "id": "indian-history-00536",
+   "id": "indian-history-00556",
    "q": "In which decade did the following event take place: India attained independence?",
    "o": [
     "2010s",
@@ -8055,7 +8355,7 @@
    "e": "India attained independence took place in the 1947s."
   },
   {
-   "id": "indian-history-00537",
+   "id": "indian-history-00557",
    "q": "Which of the following events took place in 1600?",
    "o": [
     "Establishment of the World Trade Organization",
@@ -8070,7 +8370,7 @@
    "e": "Establishment of the East India Company took place in 1600."
   },
   {
-   "id": "indian-history-00538",
+   "id": "indian-history-00558",
    "q": "Which of the following pairs of dynasty and founder is NOT correctly matched?",
    "o": [
     "Sayyid Dynasty - Khizr Khan",
@@ -8085,7 +8385,7 @@
    "e": "The pair Slave Dynasty of Delhi - Jalal-ud-din Khalji is not correctly matched."
   },
   {
-   "id": "indian-history-00539",
+   "id": "indian-history-00559",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Sher Shah Suri - Introduced the Grand Trunk Road and the Rupiya",
@@ -8100,7 +8400,7 @@
    "e": "Only Sher Shah Suri - Introduced the Grand Trunk Road and the Rupiya is correctly matched."
   },
   {
-   "id": "indian-history-00540",
+   "id": "indian-history-00560",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Annie Besant - Founder of the Home Rule League with Tilak",
@@ -8115,7 +8415,7 @@
    "e": "Only Annie Besant - Founder of the Home Rule League with Tilak is correctly matched."
   },
   {
-   "id": "indian-history-00541",
+   "id": "indian-history-00561",
    "q": "In which decade did the following event take place: Pokhran-II nuclear tests?",
    "o": [
     "1990s",
@@ -8130,7 +8430,7 @@
    "e": "Pokhran-II nuclear tests took place in the 1998s."
   },
   {
-   "id": "indian-history-00542",
+   "id": "indian-history-00562",
    "q": "Which of the following events took place in 1871?",
    "o": [
     "Glorious Revolution in England",
@@ -8145,7 +8445,7 @@
    "e": "Unification of Germany took place in 1871."
   },
   {
-   "id": "indian-history-00543",
+   "id": "indian-history-00563",
    "q": "Which of the following pairs of dynasty and founder is NOT correctly matched?",
    "o": [
     "Bahmani Kingdom - Alauddin Bahman Shah",
@@ -8160,7 +8460,7 @@
    "e": "The pair Maurya Empire - Ghiyas-ud-din Tughlaq is not correctly matched."
   },
   {
-   "id": "indian-history-00544",
+   "id": "indian-history-00564",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Sher Shah Suri - Introduced the Grand Trunk Road and the Rupiya",
@@ -8175,7 +8475,7 @@
    "e": "Only Sher Shah Suri - Introduced the Grand Trunk Road and the Rupiya is correctly matched."
   },
   {
-   "id": "indian-history-00545",
+   "id": "indian-history-00565",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Annie Besant - Founder of the Home Rule League with Tilak",
@@ -8190,7 +8490,7 @@
    "e": "Only Annie Besant - Founder of the Home Rule League with Tilak is correctly matched."
   },
   {
-   "id": "indian-history-00546",
+   "id": "indian-history-00566",
    "q": "In which decade did the following event take place: Bhopal gas tragedy?",
    "o": [
     "1970s",
@@ -8205,7 +8505,7 @@
    "e": "Bhopal gas tragedy took place in the 1984s."
   },
   {
-   "id": "indian-history-00547",
+   "id": "indian-history-00567",
    "q": "Which of the following events took place in 1945?",
    "o": [
     "Assassination of Abraham Lincoln",
@@ -8220,7 +8520,7 @@
    "e": "End of World War II took place in 1945."
   },
   {
-   "id": "indian-history-00548",
+   "id": "indian-history-00568",
    "q": "Which of the following pairs of dynasty and founder is NOT correctly matched?",
    "o": [
     "Kushana Empire - Kujula Kadphises",
@@ -8235,7 +8535,7 @@
    "e": "The pair Pallava Dynasty - Bahlul Lodi is not correctly matched."
   },
   {
-   "id": "indian-history-00549",
+   "id": "indian-history-00569",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Aurangzeb - Known as Alamgir and ruled for nearly 50 years",
@@ -8250,7 +8550,7 @@
    "e": "Only Aurangzeb - Known as Alamgir and ruled for nearly 50 years is correctly matched."
   },
   {
-   "id": "indian-history-00550",
+   "id": "indian-history-00570",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Chandrashekhar Azad - Revolutionary who died at Alfred Park",
@@ -8265,7 +8565,7 @@
    "e": "Only Chandrashekhar Azad - Revolutionary who died at Alfred Park is correctly matched."
   },
   {
-   "id": "indian-history-00551",
+   "id": "indian-history-00571",
    "q": "In which decade did the following event take place: First general elections held in India?",
    "o": [
     "1980s",
@@ -8280,7 +8580,7 @@
    "e": "First general elections held in India took place in the 1952s."
   },
   {
-   "id": "indian-history-00552",
+   "id": "indian-history-00572",
    "q": "Which of the following events took place in 1994?",
    "o": [
     "Nelson Mandela became President of South Africa",
@@ -8295,7 +8595,7 @@
    "e": "Nelson Mandela became President of South Africa took place in 1994."
   },
   {
-   "id": "indian-history-00553",
+   "id": "indian-history-00573",
    "q": "Which of the following pairs of dynasty and founder is NOT correctly matched?",
    "o": [
     "Gupta Empire - Sri Gupta",
@@ -8310,7 +8610,7 @@
    "e": "The pair Ahom Kingdom - Babur is not correctly matched."
   },
   {
-   "id": "indian-history-00554",
+   "id": "indian-history-00574",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Aurangzeb - Known as Vikramaditya and patron of the Navaratnas",
@@ -8325,7 +8625,7 @@
    "e": "Only Aurangzeb - Known as Alamgir and ruled for nearly 50 years is correctly matched."
   },
   {
-   "id": "indian-history-00555",
+   "id": "indian-history-00575",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Chandrashekhar Azad - Punjab Kesari",
@@ -8340,7 +8640,7 @@
    "e": "Only Chandrashekhar Azad - Revolutionary who died at Alfred Park is correctly matched."
   },
   {
-   "id": "indian-history-00556",
+   "id": "indian-history-00576",
    "q": "In which decade did the following event take place: Gandhi-Irwin Pact signed?",
    "o": [
     "2000s",
@@ -8355,7 +8655,7 @@
    "e": "Gandhi-Irwin Pact signed took place in the 1931s."
   },
   {
-   "id": "indian-history-00557",
+   "id": "indian-history-00577",
    "q": "Which of the following events took place in 1990?",
    "o": [
     "Cuban Missile Crisis",
@@ -8370,7 +8670,7 @@
    "e": "Release of Nelson Mandela from prison took place in 1990."
   },
   {
-   "id": "indian-history-00558",
+   "id": "indian-history-00578",
    "q": "Which of the following pairs of dynasty and founder is NOT correctly matched?",
    "o": [
     "Maratha Empire - Simhavarman",
@@ -8385,7 +8685,7 @@
    "e": "The pair Maratha Empire - Simhavarman is not correctly matched."
   },
   {
-   "id": "indian-history-00559",
+   "id": "indian-history-00579",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Tipu Sultan - Rani of Jhansi in the Revolt of 1857",
@@ -8400,7 +8700,7 @@
    "e": "Only Tipu Sultan - Tiger of Mysore is correctly matched."
   },
   {
-   "id": "indian-history-00560",
+   "id": "indian-history-00580",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Tatya Tope - Leader of the Revolt in Awadh",
@@ -8415,7 +8715,7 @@
    "e": "Only Tatya Tope - General of the Revolt of 1857 is correctly matched."
   },
   {
-   "id": "indian-history-00561",
+   "id": "indian-history-00581",
    "q": "In which decade did the following event take place: Dandi March launched by Mahatma Gandhi?",
    "o": [
     "2000s",
@@ -8430,7 +8730,7 @@
    "e": "Dandi March launched by Mahatma Gandhi took place in the 1930s."
   },
   {
-   "id": "indian-history-00562",
+   "id": "indian-history-00582",
    "q": "Which of the following events took place in 1961?",
    "o": [
     "Yuri Gagarin became the first human in space",
@@ -8445,7 +8745,7 @@
    "e": "Yuri Gagarin became the first human in space took place in 1961."
   },
   {
-   "id": "indian-history-00563",
+   "id": "indian-history-00583",
    "q": "Which of the following pairs of dynasty and founder is NOT correctly matched?",
    "o": [
     "Sikh Empire - Ranjit Singh",
@@ -8460,7 +8760,7 @@
    "e": "The pair Pala Dynasty - Sri Gupta is not correctly matched."
   },
   {
-   "id": "indian-history-00564",
+   "id": "indian-history-00584",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Tipu Sultan - Tiger of Mysore",
@@ -8475,7 +8775,7 @@
    "e": "Only Tipu Sultan - Tiger of Mysore is correctly matched."
   },
   {
-   "id": "indian-history-00565",
+   "id": "indian-history-00585",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Tatya Tope - General of the Revolt of 1857",
@@ -8490,7 +8790,7 @@
    "e": "Only Tatya Tope - General of the Revolt of 1857 is correctly matched."
   },
   {
-   "id": "indian-history-00566",
+   "id": "indian-history-00586",
    "q": "In which decade did the following event take place: First Five Year Plan launched?",
    "o": [
     "1960s",
@@ -8505,7 +8805,7 @@
    "e": "First Five Year Plan launched took place in the 1951s."
   },
   {
-   "id": "indian-history-00567",
+   "id": "indian-history-00587",
    "q": "Which of the following events took place in 1991?",
    "o": [
     "Dissolution of the Soviet Union",
@@ -8520,7 +8820,7 @@
    "e": "Dissolution of the Soviet Union took place in 1991."
   },
   {
-   "id": "indian-history-00568",
+   "id": "indian-history-00588",
    "q": "Which of the following pairs of dynasty and founder is NOT correctly matched?",
    "o": [
     "Slave Dynasty of Delhi - Qutb-ud-din Aibak",
@@ -8535,7 +8835,7 @@
    "e": "The pair Bahmani Kingdom - Kujula Kadphises is not correctly matched."
   },
   {
-   "id": "indian-history-00569",
+   "id": "indian-history-00589",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Rani Lakshmibai - Rani of Jhansi in the Revolt of 1857",
@@ -8550,7 +8850,7 @@
    "e": "Only Rani Lakshmibai - Rani of Jhansi in the Revolt of 1857 is correctly matched."
   },
   {
-   "id": "indian-history-00570",
+   "id": "indian-history-00590",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Begum Hazrat Mahal - Leader of the Revolt in Awadh",
@@ -8565,7 +8865,7 @@
    "e": "Only Begum Hazrat Mahal - Leader of the Revolt in Awadh is correctly matched."
   },
   {
-   "id": "indian-history-00571",
+   "id": "indian-history-00591",
    "q": "In which decade did the following event take place: Launch of the Non-Cooperation Movement?",
    "o": [
     "1930s",
@@ -8580,7 +8880,7 @@
    "e": "Launch of the Non-Cooperation Movement took place in the 1920s."
   },
   {
-   "id": "indian-history-00572",
+   "id": "indian-history-00592",
    "q": "Which of the following events took place in 1973?",
    "o": [
     "Oil crisis",
@@ -8595,7 +8895,7 @@
    "e": "Oil crisis took place in 1973."
   },
   {
-   "id": "indian-history-00573",
+   "id": "indian-history-00593",
    "q": "Which of the following pairs of dynasty and founder is NOT correctly matched?",
    "o": [
     "Lodi Dynasty - Chandragupta Maurya",
@@ -8610,7 +8910,7 @@
    "e": "The pair Lodi Dynasty - Chandragupta Maurya is not correctly matched."
   },
   {
-   "id": "indian-history-00574",
+   "id": "indian-history-00594",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Rani Lakshmibai - Father of Tipu Sultan and ruler of Mysore",
@@ -8625,7 +8925,7 @@
    "e": "Only Rani Lakshmibai - Rani of Jhansi in the Revolt of 1857 is correctly matched."
   },
   {
-   "id": "indian-history-00575",
+   "id": "indian-history-00595",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Begum Hazrat Mahal - Leader of the Revolt at Kanpur",
@@ -8640,7 +8940,7 @@
    "e": "Only Begum Hazrat Mahal - Leader of the Revolt in Awadh is correctly matched."
   },
   {
-   "id": "indian-history-00576",
+   "id": "indian-history-00596",
    "q": "In which decade did the following event take place: Formation of the Azad Hind Fauj (INA)?",
    "o": [
     "1920s",
@@ -8655,7 +8955,7 @@
    "e": "Formation of the Azad Hind Fauj (INA) took place in the 1943s."
   },
   {
-   "id": "indian-history-00577",
+   "id": "indian-history-00597",
    "q": "Which of the following events took place in 1957?",
    "o": [
     "Vasco da Gama reached India by sea",
@@ -8670,7 +8970,7 @@
    "e": "Launch of Sputnik-1 took place in 1957."
   },
   {
-   "id": "indian-history-00578",
+   "id": "indian-history-00598",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Humayun - Tenth Sikh Guru and founder of the Khalsa",
@@ -8685,7 +8985,7 @@
    "e": "Only Humayun - Lost and regained the Mughal throne is correctly matched."
   },
   {
-   "id": "indian-history-00579",
+   "id": "indian-history-00599",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Jayaprakash Narayan - Author of the national anthem of India",
@@ -8700,7 +9000,7 @@
    "e": "Only Jayaprakash Narayan - Leader of the 1974-77 movement is correctly matched."
   },
   {
-   "id": "indian-history-00580",
+   "id": "indian-history-00600",
    "q": "In which decade did the following event take place: Operation Blue Star?",
    "o": [
     "1940s",
@@ -8715,7 +9015,7 @@
    "e": "Operation Blue Star took place in the 1984s."
   },
   {
-   "id": "indian-history-00581",
+   "id": "indian-history-00601",
    "q": "Which of the following events took place in 2015?",
    "o": [
     "Peace of Westphalia",
@@ -8730,7 +9030,7 @@
    "e": "Adoption of the UN Sustainable Development Goals took place in 2015."
   },
   {
-   "id": "indian-history-00582",
+   "id": "indian-history-00602",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Humayun - Known as the Napoleon of India",
@@ -8745,7 +9045,7 @@
    "e": "Only Humayun - Lost and regained the Mughal throne is correctly matched."
   },
   {
-   "id": "indian-history-00583",
+   "id": "indian-history-00603",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Jayaprakash Narayan - Lokamanya",
@@ -8760,7 +9060,7 @@
    "e": "Only Jayaprakash Narayan - Leader of the 1974-77 movement is correctly matched."
   },
   {
-   "id": "indian-history-00584",
+   "id": "indian-history-00604",
    "q": "In which decade did the following event take place: Royal Indian Navy Mutiny?",
    "o": [
     "2000s",
@@ -8775,7 +9075,7 @@
    "e": "Royal Indian Navy Mutiny took place in the 1946s."
   },
   {
-   "id": "indian-history-00585",
+   "id": "indian-history-00605",
    "q": "Which of the following events took place in 1963?",
    "o": [
     "Assassination of John F. Kennedy",
@@ -8790,7 +9090,7 @@
    "e": "Assassination of John F. Kennedy took place in 1963."
   },
   {
-   "id": "indian-history-00586",
+   "id": "indian-history-00606",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Ibrahim Lodi - Known as Alamgir and ruled for nearly 50 years",
@@ -8805,7 +9105,7 @@
    "e": "Only Ibrahim Lodi - Last Sultan of Delhi, defeated at Panipat in 1526 is correctly matched."
   },
   {
-   "id": "indian-history-00587",
+   "id": "indian-history-00607",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "C. Rajagopalachari - Revolutionary who died at Alfred Park",
@@ -8820,7 +9120,7 @@
    "e": "Only C. Rajagopalachari - Last Governor-General of India is correctly matched."
   },
   {
-   "id": "indian-history-00588",
+   "id": "indian-history-00608",
    "q": "In which decade did the following event take place: India-China border war?",
    "o": [
     "1990s",
@@ -8835,7 +9135,7 @@
    "e": "India-China border war took place in the 1962s."
   },
   {
-   "id": "indian-history-00589",
+   "id": "indian-history-00609",
    "q": "Which of the following events took place in 1948?",
    "o": [
     "Unification of Germany",
@@ -8850,7 +9150,7 @@
    "e": "Founding of the World Health Organization took place in 1948."
   },
   {
-   "id": "indian-history-00590",
+   "id": "indian-history-00610",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Ibrahim Lodi - Introduced the Grand Trunk Road and the Rupiya",
@@ -8865,7 +9165,7 @@
    "e": "Only Ibrahim Lodi - Last Sultan of Delhi, defeated at Panipat in 1526 is correctly matched."
   },
   {
-   "id": "indian-history-00591",
+   "id": "indian-history-00611",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "C. Rajagopalachari - Founder of the Home Rule League with Tilak",
@@ -8880,7 +9180,7 @@
    "e": "Only C. Rajagopalachari - Last Governor-General of India is correctly matched."
   },
   {
-   "id": "indian-history-00592",
+   "id": "indian-history-00612",
    "q": "In which decade did the following event take place: Mumbai terror attacks?",
    "o": [
     "1960s",
@@ -8895,7 +9195,7 @@
    "e": "Mumbai terror attacks took place in the 2008s."
   },
   {
-   "id": "indian-history-00593",
+   "id": "indian-history-00613",
    "q": "Which of the following events took place in 1833?",
    "o": [
     "Dissolution of the Soviet Union",
@@ -8910,7 +9210,7 @@
    "e": "Abolition of slavery in the British Empire took place in 1833."
   },
   {
-   "id": "indian-history-00594",
+   "id": "indian-history-00614",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Chandragupta Maurya - Founder of the Sikh Empire",
@@ -8925,7 +9225,7 @@
    "e": "Only Chandragupta Maurya - Founded the Maurya Empire with the help of Chanakya is correctly matched."
   },
   {
-   "id": "indian-history-00595",
+   "id": "indian-history-00615",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Mahatma Gandhi - Queen who fought at Jhansi in 1857",
@@ -8940,7 +9240,7 @@
    "e": "Only Mahatma Gandhi - Father of the Nation is correctly matched."
   },
   {
-   "id": "indian-history-00596",
+   "id": "indian-history-00616",
    "q": "In which decade did the following event take place: Pokhran-I nuclear test (Smiling Buddha)?",
    "o": [
     "1970s",
@@ -8955,7 +9255,7 @@
    "e": "Pokhran-I nuclear test (Smiling Buddha) took place in the 1974s."
   },
   {
-   "id": "indian-history-00597",
+   "id": "indian-history-00617",
    "q": "Which of the following events took place in 1789?",
    "o": [
     "Beginning of the French Revolution",
@@ -8970,7 +9270,7 @@
    "e": "Beginning of the French Revolution took place in 1789."
   },
   {
-   "id": "indian-history-00598",
+   "id": "indian-history-00618",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Chandragupta Maurya - Founder of the Sikh Empire",
@@ -8985,7 +9285,7 @@
    "e": "Only Chandragupta Maurya - Founded the Maurya Empire with the help of Chanakya is correctly matched."
   },
   {
-   "id": "indian-history-00599",
+   "id": "indian-history-00619",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Mahatma Gandhi - Queen who fought at Jhansi in 1857",
@@ -9000,7 +9300,7 @@
    "e": "Only Mahatma Gandhi - Father of the Nation is correctly matched."
   },
   {
-   "id": "indian-history-00600",
+   "id": "indian-history-00620",
    "q": "In which decade did the following event take place: Bangladesh liberation war involving India?",
    "o": [
     "1950s",
@@ -9015,7 +9315,7 @@
    "e": "Bangladesh liberation war involving India took place in the 1971s."
   },
   {
-   "id": "indian-history-00601",
+   "id": "indian-history-00621",
    "q": "Which of the following events took place in 1989?",
    "o": [
     "Fall of the Berlin Wall",
@@ -9030,7 +9330,7 @@
    "e": "Fall of the Berlin Wall took place in 1989."
   },
   {
-   "id": "indian-history-00602",
+   "id": "indian-history-00622",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Shah Jahan - Founder of Buddhism",
@@ -9045,7 +9345,7 @@
    "e": "Only Shah Jahan - Built the Taj Mahal is correctly matched."
   },
   {
-   "id": "indian-history-00603",
+   "id": "indian-history-00623",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Bhagat Singh - Founder of the Indian Independence League in Japan",
@@ -9060,7 +9360,7 @@
    "e": "Only Bhagat Singh - Revolutionary executed in 1931 is correctly matched."
   },
   {
-   "id": "indian-history-00604",
+   "id": "indian-history-00624",
    "q": "In which decade did the following event take place: National Emergency declared in India?",
    "o": [
     "1930s",
@@ -9075,7 +9375,7 @@
    "e": "National Emergency declared in India took place in the 1975s."
   },
   {
-   "id": "indian-history-00605",
+   "id": "indian-history-00625",
    "q": "Which of the following events took place in 1948?",
    "o": [
     "September 11 attacks in the United States",
@@ -9090,7 +9390,7 @@
    "e": "Universal Declaration of Human Rights adopted took place in 1948."
   },
   {
-   "id": "indian-history-00606",
+   "id": "indian-history-00626",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Shah Jahan - Known as Alamgir and ruled for nearly 50 years",
@@ -9105,7 +9405,7 @@
    "e": "Only Shah Jahan - Built the Taj Mahal is correctly matched."
   },
   {
-   "id": "indian-history-00607",
+   "id": "indian-history-00627",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Bhagat Singh - Revolutionary who died at Alfred Park",
@@ -9120,7 +9420,7 @@
    "e": "Only Bhagat Singh - Revolutionary executed in 1931 is correctly matched."
   },
   {
-   "id": "indian-history-00608",
+   "id": "indian-history-00628",
    "q": "In which decade did the following event take place: Assassination of Mahatma Gandhi?",
    "o": [
     "1920s",
@@ -9135,7 +9435,7 @@
    "e": "Assassination of Mahatma Gandhi took place in the 1948s."
   },
   {
-   "id": "indian-history-00609",
+   "id": "indian-history-00629",
    "q": "Which of the following events took place in 1959?",
    "o": [
     "Beginning of the American Civil War",
@@ -9150,7 +9450,7 @@
    "e": "Cuban Revolution took place in 1959."
   },
   {
-   "id": "indian-history-00610",
+   "id": "indian-history-00630",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Baji Rao I - Convened the Fourth Buddhist Council",
@@ -9165,7 +9465,7 @@
    "e": "Only Baji Rao I - Greatest of the Peshwas is correctly matched."
   },
   {
-   "id": "indian-history-00611",
+   "id": "indian-history-00631",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Mangal Pandey - Nightingale of India",
@@ -9180,7 +9480,7 @@
    "e": "Only Mangal Pandey - Soldier who sparked the Revolt of 1857 is correctly matched."
   },
   {
-   "id": "indian-history-00612",
+   "id": "indian-history-00632",
    "q": "In which decade did the following event take place: Shimla Agreement signed?",
    "o": [
     "1970s",
@@ -9195,7 +9495,7 @@
    "e": "Shimla Agreement signed took place in the 1972s."
   },
   {
-   "id": "indian-history-00613",
+   "id": "indian-history-00633",
    "q": "Which of the following events took place in 2020?",
    "o": [
     "End of World War I",
@@ -9210,7 +9510,7 @@
    "e": "COVID-19 declared a pandemic by WHO took place in 2020."
   },
   {
-   "id": "indian-history-00614",
+   "id": "indian-history-00634",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Baji Rao I - Founder of the Sikh Empire",
@@ -9225,7 +9525,7 @@
    "e": "Only Baji Rao I - Greatest of the Peshwas is correctly matched."
   },
   {
-   "id": "indian-history-00615",
+   "id": "indian-history-00635",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Mangal Pandey - Queen who fought at Jhansi in 1857",
@@ -9240,7 +9540,7 @@
    "e": "Only Mangal Pandey - Soldier who sparked the Revolt of 1857 is correctly matched."
   },
   {
-   "id": "indian-history-00616",
+   "id": "indian-history-00636",
    "q": "In which decade did the following event take place: Article 370 provisions abrogated?",
    "o": [
     "1960s",
@@ -9255,7 +9555,7 @@
    "e": "Article 370 provisions abrogated took place in the 2019s."
   },
   {
-   "id": "indian-history-00617",
+   "id": "indian-history-00637",
    "q": "Which of the following events took place in 1945?",
    "o": [
     "Founding of the People's Republic of China",
@@ -9270,7 +9570,7 @@
    "e": "Atomic bombing of Hiroshima and Nagasaki took place in 1945."
   },
   {
-   "id": "indian-history-00618",
+   "id": "indian-history-00638",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Hyder Ali - Known as Vikramaditya and patron of the Navaratnas",
@@ -9285,7 +9585,7 @@
    "e": "Only Hyder Ali - Father of Tipu Sultan and ruler of Mysore is correctly matched."
   },
   {
-   "id": "indian-history-00619",
+   "id": "indian-history-00639",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Nana Saheb - Punjab Kesari",
@@ -9300,7 +9600,7 @@
    "e": "Only Nana Saheb - Leader of the Revolt at Kanpur is correctly matched."
   },
   {
-   "id": "indian-history-00620",
+   "id": "indian-history-00640",
    "q": "In which decade did the following event take place: Founding of the All India Muslim League?",
    "o": [
     "1920s",
@@ -9315,7 +9615,7 @@
    "e": "Founding of the All India Muslim League took place in the 1906s."
   },
   {
-   "id": "indian-history-00621",
+   "id": "indian-history-00641",
    "q": "Which of the following events took place in 1969?",
    "o": [
     "D-Day landings in Normandy",
@@ -9330,7 +9630,7 @@
    "e": "Apollo 11 Moon landing took place in 1969."
   },
   {
-   "id": "indian-history-00622",
+   "id": "indian-history-00642",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Hyder Ali - Introduced the Grand Trunk Road and the Rupiya",
@@ -9345,7 +9645,7 @@
    "e": "Only Hyder Ali - Father of Tipu Sultan and ruler of Mysore is correctly matched."
   },
   {
-   "id": "indian-history-00623",
+   "id": "indian-history-00643",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Nana Saheb - Founder of the Home Rule League with Tilak",
@@ -9360,7 +9660,7 @@
    "e": "Only Nana Saheb - Leader of the Revolt at Kanpur is correctly matched."
   },
   {
-   "id": "indian-history-00624",
+   "id": "indian-history-00644",
    "q": "In which decade did the following event take place: India signed the civil nuclear deal with the USA?",
    "o": [
     "1960s",
@@ -9375,7 +9675,7 @@
    "e": "India signed the civil nuclear deal with the USA took place in the 2008s."
   },
   {
-   "id": "indian-history-00625",
+   "id": "indian-history-00645",
    "q": "Which of the following events took place in 1861?",
    "o": [
     "End of World War I",
@@ -9390,7 +9690,7 @@
    "e": "Beginning of the American Civil War took place in 1861."
   },
   {
-   "id": "indian-history-00626",
+   "id": "indian-history-00646",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Akbar - Built canals and founded Firozabad",
@@ -9405,7 +9705,7 @@
    "e": "Only Akbar - Established Din-i-Ilahi and the Ibadat Khana is correctly matched."
   },
   {
-   "id": "indian-history-00627",
+   "id": "indian-history-00647",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "B. R. Ambedkar - First Education Minister of India",
@@ -9420,7 +9720,7 @@
    "e": "Only B. R. Ambedkar - Chief architect of the Indian Constitution is correctly matched."
   },
   {
-   "id": "indian-history-00628",
+   "id": "indian-history-00648",
    "q": "In which decade did the following event take place: Government of India Act passed?",
    "o": [
     "1930s",
@@ -9435,7 +9735,7 @@
    "e": "Government of India Act passed took place in the 1935s."
   },
   {
-   "id": "indian-history-00629",
+   "id": "indian-history-00649",
    "q": "Which of the following events took place in 1962?",
    "o": [
     "Beginning of the American Civil War",
@@ -9450,7 +9750,7 @@
    "e": "Cuban Missile Crisis took place in 1962."
   },
   {
-   "id": "indian-history-00630",
+   "id": "indian-history-00650",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Akbar - Greatest of the Peshwas",
@@ -9465,7 +9765,7 @@
    "e": "Only Akbar - Established Din-i-Ilahi and the Ibadat Khana is correctly matched."
   },
   {
-   "id": "indian-history-00631",
+   "id": "indian-history-00651",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "B. R. Ambedkar - Soldier who sparked the Revolt of 1857",
@@ -9480,7 +9780,7 @@
    "e": "Only B. R. Ambedkar - Chief architect of the Indian Constitution is correctly matched."
   },
   {
-   "id": "indian-history-00632",
+   "id": "indian-history-00652",
    "q": "In which decade did the following event take place: Purna Swaraj declared at the Lahore session?",
    "o": [
     "2000s",
@@ -9495,7 +9795,7 @@
    "e": "Purna Swaraj declared at the Lahore session took place in the 1929s."
   },
   {
-   "id": "indian-history-00633",
+   "id": "indian-history-00653",
    "q": "Which of the following events took place in 1941?",
    "o": [
     "Return of Hong Kong to China",
@@ -9510,7 +9810,7 @@
    "e": "Attack on Pearl Harbor took place in 1941."
   },
   {
-   "id": "indian-history-00634",
+   "id": "indian-history-00654",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Rajaraja Chola I - Known as Alamgir and ruled for nearly 50 years",
@@ -9525,7 +9825,7 @@
    "e": "Only Rajaraja Chola I - Built the Brihadeeswarar Temple at Thanjavur is correctly matched."
   },
   {
-   "id": "indian-history-00635",
+   "id": "indian-history-00655",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Jawaharlal Nehru - Revolutionary who died at Alfred Park",
@@ -9540,7 +9840,7 @@
    "e": "Only Jawaharlal Nehru - First Prime Minister of India is correctly matched."
   },
   {
-   "id": "indian-history-00636",
+   "id": "indian-history-00656",
    "q": "In which decade did the following event take place: Constitution of India came into force?",
    "o": [
     "1980s",
@@ -9555,7 +9855,7 @@
    "e": "Constitution of India came into force took place in the 1950s."
   },
   {
-   "id": "indian-history-00637",
+   "id": "indian-history-00657",
    "q": "Which of the following events took place in 1955?",
    "o": [
     "Chernobyl disaster",
@@ -9570,7 +9870,7 @@
    "e": "Bandung Conference took place in 1955."
   },
   {
-   "id": "indian-history-00638",
+   "id": "indian-history-00658",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Rajaraja Chola I - Rani of Jhansi in the Revolt of 1857",
@@ -9585,7 +9885,7 @@
    "e": "Only Rajaraja Chola I - Built the Brihadeeswarar Temple at Thanjavur is correctly matched."
   },
   {
-   "id": "indian-history-00639",
+   "id": "indian-history-00659",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Jawaharlal Nehru - Leader of the Revolt in Awadh",
@@ -9600,7 +9900,7 @@
    "e": "Only Jawaharlal Nehru - First Prime Minister of India is correctly matched."
   },
   {
-   "id": "indian-history-00640",
+   "id": "indian-history-00660",
    "q": "In which decade did the following event take place: G20 Summit hosted in New Delhi?",
    "o": [
     "1970s",
@@ -9615,7 +9915,7 @@
    "e": "G20 Summit hosted in New Delhi took place in the 2023s."
   },
   {
-   "id": "indian-history-00641",
+   "id": "indian-history-00661",
    "q": "Which of the following events took place in 1776?",
    "o": [
     "September 11 attacks in the United States",
@@ -9630,7 +9930,7 @@
    "e": "American Declaration of Independence took place in 1776."
   },
   {
-   "id": "indian-history-00642",
+   "id": "indian-history-00662",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Krishnadevaraya - Established Din-i-Ilahi and the Ibadat Khana",
@@ -9645,7 +9945,7 @@
    "e": "Only Krishnadevaraya - Famous Vijayanagara ruler and author of Amuktamalyada is correctly matched."
   },
   {
-   "id": "indian-history-00643",
+   "id": "indian-history-00663",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Sardar Vallabhbhai Patel - Chief architect of the Indian Constitution",
@@ -9660,7 +9960,7 @@
    "e": "Only Sardar Vallabhbhai Patel - Iron Man of India is correctly matched."
   },
   {
-   "id": "indian-history-00644",
+   "id": "indian-history-00664",
    "q": "In which decade did the following event take place: Mars Orbiter Mission entered Mars orbit?",
    "o": [
     "2010s",
@@ -9675,7 +9975,7 @@
    "e": "Mars Orbiter Mission entered Mars orbit took place in the 2014s."
   },
   {
-   "id": "indian-history-00645",
+   "id": "indian-history-00665",
    "q": "Which of the following events took place in 1995?",
    "o": [
     "Wall Street Crash and start of the Great Depression",
@@ -9690,7 +9990,7 @@
    "e": "Establishment of the World Trade Organization took place in 1995."
   },
   {
-   "id": "indian-history-00646",
+   "id": "indian-history-00666",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Krishnadevaraya - Famous Vijayanagara ruler and author of Amuktamalyada",
@@ -9705,7 +10005,7 @@
    "e": "Only Krishnadevaraya - Famous Vijayanagara ruler and author of Amuktamalyada is correctly matched."
   },
   {
-   "id": "indian-history-00647",
+   "id": "indian-history-00667",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Sardar Vallabhbhai Patel - Iron Man of India",
@@ -9720,7 +10020,7 @@
    "e": "Only Sardar Vallabhbhai Patel - Iron Man of India is correctly matched."
   },
   {
-   "id": "indian-history-00648",
+   "id": "indian-history-00668",
    "q": "In which decade did the following event take place: Jallianwala Bagh massacre?",
    "o": [
     "1950s",
@@ -9735,7 +10035,7 @@
    "e": "Jallianwala Bagh massacre took place in the 1919s."
   },
   {
-   "id": "indian-history-00649",
+   "id": "indian-history-00669",
    "q": "Which of the following events took place in 1688?",
    "o": [
     "Beginning of the American Civil War",
@@ -9750,7 +10050,7 @@
    "e": "Glorious Revolution in England took place in 1688."
   },
   {
-   "id": "indian-history-00650",
+   "id": "indian-history-00670",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Ashoka - Tenth Sikh Guru and founder of the Khalsa",
@@ -9765,7 +10065,7 @@
    "e": "Only Ashoka - Spread Buddhism after the Kalinga war is correctly matched."
   },
   {
-   "id": "indian-history-00651",
+   "id": "indian-history-00671",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Subhas Chandra Bose - Author of the national anthem of India",
@@ -9780,7 +10080,7 @@
    "e": "Only Subhas Chandra Bose - Netaji, leader of the INA is correctly matched."
   },
   {
-   "id": "indian-history-00652",
+   "id": "indian-history-00672",
    "q": "In which decade did the following event take place: First War of Indian Independence (Revolt of 1857)?",
    "o": [
     "1930s",
@@ -9795,7 +10095,7 @@
    "e": "First War of Indian Independence (Revolt of 1857) took place in the 1857s."
   },
   {
-   "id": "indian-history-00653",
+   "id": "indian-history-00673",
    "q": "Which of the following events took place in 1933?",
    "o": [
     "Adoption of the UN Sustainable Development Goals",
@@ -9810,7 +10110,7 @@
    "e": "Hitler became Chancellor of Germany took place in 1933."
   },
   {
-   "id": "indian-history-00654",
+   "id": "indian-history-00674",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Ashoka - Won the First Battle of Panipat in 1526",
@@ -9825,7 +10125,7 @@
    "e": "Only Ashoka - Spread Buddhism after the Kalinga war is correctly matched."
   },
   {
-   "id": "indian-history-00655",
+   "id": "indian-history-00675",
    "q": "Which of the following pairs of person and title is correctly matched?",
    "o": [
     "Subhas Chandra Bose - Leader of the Bhoodan movement",
@@ -9840,7 +10140,7 @@
    "e": "Only Subhas Chandra Bose - Netaji, leader of the INA is correctly matched."
   },
   {
-   "id": "indian-history-00656",
+   "id": "indian-history-00676",
    "q": "In which decade did the following event take place: Founding of the Indian National Congress?",
    "o": [
     "1940s",
@@ -9855,7 +10155,7 @@
    "e": "Founding of the Indian National Congress took place in the 1885s."
   },
   {
-   "id": "indian-history-00657",
+   "id": "indian-history-00677",
    "q": "Which of the following events took place in 1912?",
    "o": [
     "D-Day landings in Normandy",
@@ -9870,7 +10170,7 @@
    "e": "Sinking of the Titanic took place in 1912."
   },
   {
-   "id": "indian-history-00658",
+   "id": "indian-history-00678",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Babur - Nominal leader of the Revolt of 1857",
@@ -9885,7 +10185,7 @@
    "e": "The pair Babur - Nominal leader of the Revolt of 1857 is not correctly matched."
   },
   {
-   "id": "indian-history-00659",
+   "id": "indian-history-00679",
    "q": "Which of the following pairs of person and title is NOT correctly matched?",
    "o": [
     "Vinoba Bhave - Leader of the Revolt in Bihar",
@@ -9900,7 +10200,7 @@
    "e": "The pair Vinoba Bhave - Leader of the Revolt in Bihar is not correctly matched."
   },
   {
-   "id": "indian-history-00660",
+   "id": "indian-history-00680",
    "q": "In which decade did the following event take place: Simon Commission arrived in India?",
    "o": [
     "1940s",
@@ -9915,7 +10215,7 @@
    "e": "Simon Commission arrived in India took place in the 1928s."
   },
   {
-   "id": "indian-history-00661",
+   "id": "indian-history-00681",
    "q": "Which of the following events took place in 1945?",
    "o": [
     "D-Day landings in Normandy",
@@ -9930,7 +10230,7 @@
    "e": "Founding of the United Nations took place in 1945."
   },
   {
-   "id": "indian-history-00662",
+   "id": "indian-history-00682",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Babur - Won the First Battle of Panipat in 1526",
@@ -9945,7 +10245,7 @@
    "e": "The pair Muhammad bin Tughlaq - Introduced the Grand Trunk Road and the Rupiya is not correctly matched."
   },
   {
-   "id": "indian-history-00663",
+   "id": "indian-history-00683",
    "q": "Which of the following pairs of person and title is NOT correctly matched?",
    "o": [
     "Vinoba Bhave - Leader of the Bhoodan movement",
@@ -9960,7 +10260,7 @@
    "e": "The pair Madan Mohan Malaviya - Founder of the Home Rule League with Tilak is not correctly matched."
   },
   {
-   "id": "indian-history-00664",
+   "id": "indian-history-00684",
    "q": "In which decade did the following event take place: Chandrayaan-3 soft landing near the lunar south pole?",
    "o": [
     "1950s",
@@ -9975,7 +10275,7 @@
    "e": "Chandrayaan-3 soft landing near the lunar south pole took place in the 2023s."
   },
   {
-   "id": "indian-history-00665",
+   "id": "indian-history-00685",
    "q": "Which of the following events took place in 1997?",
    "o": [
     "Beginning of World War II",
@@ -9990,7 +10290,7 @@
    "e": "Return of Hong Kong to China took place in 1997."
   },
   {
-   "id": "indian-history-00666",
+   "id": "indian-history-00686",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Baji Rao I - Greatest of the Peshwas",
@@ -10005,7 +10305,7 @@
    "e": "The pair Bahadur Shah Zafar - Greatest of the Peshwas is not correctly matched."
   },
   {
-   "id": "indian-history-00667",
+   "id": "indian-history-00687",
    "q": "Which of the following pairs of person and title is NOT correctly matched?",
    "o": [
     "Mangal Pandey - Soldier who sparked the Revolt of 1857",
@@ -10020,7 +10320,7 @@
    "e": "The pair Rajguru - Soldier who sparked the Revolt of 1857 is not correctly matched."
   },
   {
-   "id": "indian-history-00668",
+   "id": "indian-history-00688",
    "q": "In which decade did the following event take place: Janata Party formed the government at the Centre?",
    "o": [
     "1980s",
@@ -10035,7 +10335,7 @@
    "e": "Janata Party formed the government at the Centre took place in the 1977s."
   },
   {
-   "id": "indian-history-00669",
+   "id": "indian-history-00689",
    "q": "Which of the following events took place in 1939?",
    "o": [
     "Apollo 11 Moon landing",
@@ -10050,7 +10350,7 @@
    "e": "Beginning of World War II took place in 1939."
   },
   {
-   "id": "indian-history-00670",
+   "id": "indian-history-00690",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Mahavira - Twenty-fourth Tirthankara of Jainism",
@@ -10065,7 +10365,7 @@
    "e": "The pair Chandragupta II - Founded the Maratha empire and was crowned in 1674 is not correctly matched."
   },
   {
-   "id": "indian-history-00671",
+   "id": "indian-history-00691",
    "q": "Which of the following pairs of person and title is NOT correctly matched?",
    "o": [
     "Bhagat Singh - Founder-member of the HSRA",
@@ -10080,7 +10380,7 @@
    "e": "The pair Lala Lajpat Rai - Revolutionary executed with Bhagat Singh is not correctly matched."
   },
   {
-   "id": "indian-history-00672",
+   "id": "indian-history-00692",
    "q": "In which decade did the following event take place: Poona Pact signed?",
    "o": [
     "2010s",
@@ -10095,7 +10395,7 @@
    "e": "Poona Pact signed took place in the 1932s."
   },
   {
-   "id": "indian-history-00673",
+   "id": "indian-history-00693",
    "q": "Which of the following events took place in 1863?",
    "o": [
     "Dissolution of the Soviet Union",
@@ -10110,7 +10410,7 @@
    "e": "Issue of the Emancipation Proclamation took place in 1863."
   },
   {
-   "id": "indian-history-00674",
+   "id": "indian-history-00694",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Ibrahim Lodi - Last Sultan of Delhi, defeated at Panipat in 1526",
@@ -10125,7 +10425,7 @@
    "e": "The pair Firoz Shah Tughlaq - Ruled from Kannauj and was praised by Hiuen Tsang is not correctly matched."
   },
   {
-   "id": "indian-history-00675",
+   "id": "indian-history-00695",
    "q": "Which of the following pairs of person and title is NOT correctly matched?",
    "o": [
     "C. Rajagopalachari - Last Governor-General of India",
@@ -10140,7 +10440,7 @@
    "e": "The pair Maulana Abul Kalam Azad - Grand Old Man of India is not correctly matched."
   },
   {
-   "id": "indian-history-00676",
+   "id": "indian-history-00696",
    "q": "In which decade did the following event take place: Partition of Bengal by Lord Curzon?",
    "o": [
     "1920s",
@@ -10155,7 +10455,7 @@
    "e": "Partition of Bengal by Lord Curzon took place in the 1905s."
   },
   {
-   "id": "indian-history-00677",
+   "id": "indian-history-00697",
    "q": "Which of the following events took place in 1588?",
    "o": [
     "Peace of Westphalia",
@@ -10170,7 +10470,7 @@
    "e": "Defeat of the Spanish Armada took place in 1588."
   },
   {
-   "id": "indian-history-00678",
+   "id": "indian-history-00698",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Chandragupta Maurya - Founded the Maurya Empire with the help of Chanakya",
@@ -10185,7 +10485,7 @@
    "e": "The pair Mahavira - Known as Vikramaditya and patron of the Navaratnas is not correctly matched."
   },
   {
-   "id": "indian-history-00679",
+   "id": "indian-history-00699",
    "q": "Which of the following pairs of person and title is NOT correctly matched?",
    "o": [
     "Mahatma Gandhi - Father of the Nation",
@@ -10200,7 +10500,7 @@
    "e": "The pair Bhagat Singh - Punjab Kesari is not correctly matched."
   },
   {
-   "id": "indian-history-00680",
+   "id": "indian-history-00700",
    "q": "In which decade did the following event take place: Liberation of Goa?",
    "o": [
     "1960s",
@@ -10215,7 +10515,7 @@
    "e": "Liberation of Goa took place in the 1961s."
   },
   {
-   "id": "indian-history-00681",
+   "id": "indian-history-00701",
    "q": "Which of the following events took place in 1865?",
    "o": [
     "Fall of the Berlin Wall",
@@ -10230,7 +10530,7 @@
    "e": "Assassination of Abraham Lincoln took place in 1865."
   },
   {
-   "id": "indian-history-00682",
+   "id": "indian-history-00702",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Sher Shah Suri - Introduced the Grand Trunk Road and the Rupiya",
@@ -10245,7 +10545,7 @@
    "e": "The pair Samudragupta - Spread Buddhism after the Kalinga war is not correctly matched."
   },
   {
-   "id": "indian-history-00683",
+   "id": "indian-history-00703",
    "q": "Which of the following pairs of person and title is NOT correctly matched?",
    "o": [
     "Annie Besant - Founder of the Home Rule League with Tilak",
@@ -10260,7 +10560,7 @@
    "e": "The pair Bal Gangadhar Tilak - Netaji, leader of the INA is not correctly matched."
   },
   {
-   "id": "indian-history-00684",
+   "id": "indian-history-00704",
    "q": "In which decade did the following event take place: Kargil War?",
    "o": [
     "1940s",
@@ -10275,7 +10575,7 @@
    "e": "Kargil War took place in the 1999s."
   },
   {
-   "id": "indian-history-00685",
+   "id": "indian-history-00705",
    "q": "Which of the following events took place in 1949?",
    "o": [
     "Founding of the People's Republic of China",
@@ -10290,7 +10590,7 @@
    "e": "Founding of the People's Republic of China took place in 1949."
   },
   {
-   "id": "indian-history-00686",
+   "id": "indian-history-00706",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Kanishka - Convened the Fourth Buddhist Council",
@@ -10305,7 +10605,7 @@
    "e": "The pair Ashoka - Known as the Napoleon of India is not correctly matched."
   },
   {
-   "id": "indian-history-00687",
+   "id": "indian-history-00707",
    "q": "Which of the following pairs of person and title is NOT correctly matched?",
    "o": [
     "Sarojini Naidu - Nightingale of India",
@@ -10320,7 +10620,7 @@
    "e": "The pair Subhas Chandra Bose - Lokamanya is not correctly matched."
   },
   {
-   "id": "indian-history-00688",
+   "id": "indian-history-00708",
    "q": "In which decade did the following event take place: Chandrayaan-1 launched?",
    "o": [
     "2010s",
@@ -10335,7 +10635,7 @@
    "e": "Chandrayaan-1 launched took place in the 2008s."
   },
   {
-   "id": "indian-history-00689",
+   "id": "indian-history-00709",
    "q": "Which of the following events took place in 1492?",
    "o": [
     "Wall Street Crash and start of the Great Depression",
@@ -10350,7 +10650,7 @@
    "e": "Columbus reached the Americas took place in 1492."
   },
   {
-   "id": "indian-history-00690",
+   "id": "indian-history-00710",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Hyder Ali - Lost and regained the Mughal throne",
@@ -10365,7 +10665,7 @@
    "e": "The pair Hyder Ali - Lost and regained the Mughal throne is not correctly matched."
   },
   {
-   "id": "indian-history-00691",
+   "id": "indian-history-00711",
    "q": "Which of the following pairs of person and title is NOT correctly matched?",
    "o": [
     "Nana Saheb - Leader of the 1974-77 movement",
@@ -10380,7 +10680,7 @@
    "e": "The pair Nana Saheb - Leader of the 1974-77 movement is not correctly matched."
   },
   {
-   "id": "indian-history-00692",
+   "id": "indian-history-00712",
    "q": "In which decade did the following event take place: India won the Cricket World Cup?",
    "o": [
     "1980s",
@@ -10395,7 +10695,7 @@
    "e": "India won the Cricket World Cup took place in the 1983s."
   },
   {
-   "id": "indian-history-00693",
+   "id": "indian-history-00713",
    "q": "Which of the following events took place in 1986?",
    "o": [
     "End of World War I",
@@ -10410,7 +10710,7 @@
    "e": "Chernobyl disaster took place in 1986."
   },
   {
-   "id": "indian-history-00694",
+   "id": "indian-history-00714",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Ibrahim Lodi - Last Sultan of Delhi, defeated at Panipat in 1526",
@@ -10425,7 +10725,7 @@
    "e": "The pair Humayun - Famous Vijayanagara ruler and author of Amuktamalyada is not correctly matched."
   },
   {
-   "id": "indian-history-00695",
+   "id": "indian-history-00715",
    "q": "Which of the following pairs of person and title is NOT correctly matched?",
    "o": [
     "C. Rajagopalachari - Last Governor-General of India",
@@ -10440,7 +10740,7 @@
    "e": "The pair Jayaprakash Narayan - Iron Man of India is not correctly matched."
   },
   {
-   "id": "indian-history-00696",
+   "id": "indian-history-00716",
    "q": "In which decade did the following event take place: Chauri Chaura incident?",
    "o": [
     "1880s",
@@ -10455,7 +10755,7 @@
    "e": "Chauri Chaura incident took place in the 1922s."
   },
   {
-   "id": "indian-history-00697",
+   "id": "indian-history-00717",
    "q": "Which of the following events took place in 1950?",
    "o": [
     "Release of Nelson Mandela from prison",
@@ -10470,7 +10770,7 @@
    "e": "Beginning of the Korean War took place in 1950."
   },
   {
-   "id": "indian-history-00698",
+   "id": "indian-history-00718",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Ashoka - Spread Buddhism after the Kalinga war",
@@ -10485,7 +10785,7 @@
    "e": "The pair Baji Rao I - Ruled from Kannauj and was praised by Hiuen Tsang is not correctly matched."
   },
   {
-   "id": "indian-history-00699",
+   "id": "indian-history-00719",
    "q": "Which of the following pairs of person and title is NOT correctly matched?",
    "o": [
     "Subhas Chandra Bose - Netaji, leader of the INA",
@@ -10500,7 +10800,7 @@
    "e": "The pair Mangal Pandey - Grand Old Man of India is not correctly matched."
   },
   {
-   "id": "indian-history-00700",
+   "id": "indian-history-00720",
    "q": "In which decade did the following event take place: India-Pakistan war and Tashkent Agreement?",
    "o": [
     "1930s",
@@ -10515,7 +10815,7 @@
    "e": "India-Pakistan war and Tashkent Agreement took place in the 1965s."
   },
   {
-   "id": "indian-history-00701",
+   "id": "indian-history-00721",
    "q": "Which of the following events took place in 2001?",
    "o": [
     "Yuri Gagarin became the first human in space",
@@ -10530,7 +10830,7 @@
    "e": "September 11 attacks in the United States took place in 2001."
   },
   {
-   "id": "indian-history-00702",
+   "id": "indian-history-00722",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Kanishka - Convened the Fourth Buddhist Council",
@@ -10545,7 +10845,7 @@
    "e": "The pair Shah Jahan - Tiger of Mysore is not correctly matched."
   },
   {
-   "id": "indian-history-00703",
+   "id": "indian-history-00723",
    "q": "Which of the following pairs of person and title is NOT correctly matched?",
    "o": [
     "Sarojini Naidu - Nightingale of India",
@@ -10560,7 +10860,7 @@
    "e": "The pair Bhagat Singh - General of the Revolt of 1857 is not correctly matched."
   },
   {
-   "id": "indian-history-00704",
+   "id": "indian-history-00724",
    "q": "In which decade did the following event take place: Quit India Movement launched?",
    "o": [
     "2010s",
@@ -10575,7 +10875,7 @@
    "e": "Quit India Movement launched took place in the 1942s."
   },
   {
-   "id": "indian-history-00705",
+   "id": "indian-history-00725",
    "q": "In which decade did the following event take place: Treaty of Rome establishing the EEC?",
    "o": [
     "1910s",
@@ -10590,7 +10890,7 @@
    "e": "Treaty of Rome establishing the EEC took place in the 1957s."
   },
   {
-   "id": "indian-history-00706",
+   "id": "indian-history-00726",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Alauddin Khilji - Greatest of the Peshwas",
@@ -10605,7 +10905,7 @@
    "e": "The pair Alauddin Khilji - Greatest of the Peshwas is not correctly matched."
   },
   {
-   "id": "indian-history-00707",
+   "id": "indian-history-00727",
    "q": "Which of the following pairs of person and title is NOT correctly matched?",
    "o": [
     "Gopal Krishna Gokhale - Soldier who sparked the Revolt of 1857",
@@ -10620,7 +10920,7 @@
    "e": "The pair Gopal Krishna Gokhale - Soldier who sparked the Revolt of 1857 is not correctly matched."
   },
   {
-   "id": "indian-history-00708",
+   "id": "indian-history-00728",
    "q": "In which decade did the following event take place: Indira Gandhi became Prime Minister?",
    "o": [
     "1990s",
@@ -10635,7 +10935,7 @@
    "e": "Indira Gandhi became Prime Minister took place in the 1966s."
   },
   {
-   "id": "indian-history-00709",
+   "id": "indian-history-00729",
    "q": "In which decade did the following event take place: Assassination of Abraham Lincoln?",
    "o": [
     "1940s",
@@ -10650,7 +10950,7 @@
    "e": "Assassination of Abraham Lincoln took place in the 1865s."
   },
   {
-   "id": "indian-history-00710",
+   "id": "indian-history-00730",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Bahadur Shah Zafar - Nominal leader of the Revolt of 1857",
@@ -10665,7 +10965,7 @@
    "e": "The pair Aurangzeb - Founded the Maurya Empire with the help of Chanakya is not correctly matched."
   },
   {
-   "id": "indian-history-00711",
+   "id": "indian-history-00731",
    "q": "Which of the following pairs of person and title is NOT correctly matched?",
    "o": [
     "Kunwar Singh - Leader of the Revolt in Bihar",
@@ -10680,7 +10980,7 @@
    "e": "The pair Chandrashekhar Azad - Father of the Nation is not correctly matched."
   },
   {
-   "id": "indian-history-00712",
+   "id": "indian-history-00732",
    "q": "In which decade did the following event take place: Demonetisation of high value currency notes?",
    "o": [
     "2000s",
@@ -10695,7 +10995,7 @@
    "e": "Demonetisation of high value currency notes took place in the 2016s."
   },
   {
-   "id": "indian-history-00713",
+   "id": "indian-history-00733",
    "q": "In which decade did the following event take place: Launch of Sputnik-1?",
    "o": [
     "1860s",
@@ -10710,7 +11010,7 @@
    "e": "Launch of Sputnik-1 took place in the 1957s."
   },
   {
-   "id": "indian-history-00714",
+   "id": "indian-history-00734",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Rajaraja Chola I - Built the Brihadeeswarar Temple at Thanjavur",
@@ -10725,7 +11025,7 @@
    "e": "The pair Kanishka - Greatest of the Peshwas is not correctly matched."
   },
   {
-   "id": "indian-history-00715",
+   "id": "indian-history-00735",
    "q": "Which of the following pairs of person and title is NOT correctly matched?",
    "o": [
     "Jawaharlal Nehru - First Prime Minister of India",
@@ -10740,7 +11040,7 @@
    "e": "The pair Sarojini Naidu - Soldier who sparked the Revolt of 1857 is not correctly matched."
   },
   {
-   "id": "indian-history-00716",
+   "id": "indian-history-00736",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "G20 Summit hosted in New Delhi - 1906",
@@ -10755,7 +11055,7 @@
    "e": "Only G20 Summit hosted in New Delhi - 2023 is correctly matched."
   },
   {
-   "id": "indian-history-00717",
+   "id": "indian-history-00737",
    "q": "In which decade did the following event take place: American Declaration of Independence?",
    "o": [
     "1960s",
@@ -10770,7 +11070,7 @@
    "e": "American Declaration of Independence took place in the 1776s."
   },
   {
-   "id": "indian-history-00718",
+   "id": "indian-history-00738",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Gautama Buddha - Founder of Buddhism",
@@ -10785,7 +11085,7 @@
    "e": "The pair Harshavardhana - Known as the Napoleon of India is not correctly matched."
   },
   {
-   "id": "indian-history-00719",
+   "id": "indian-history-00739",
    "q": "Which of the following pairs of person and title is NOT correctly matched?",
    "o": [
     "Rash Behari Bose - Founder of the Indian Independence League in Japan",
@@ -10800,7 +11100,7 @@
    "e": "The pair Dadabhai Naoroji - Lokamanya is not correctly matched."
   },
   {
-   "id": "indian-history-00720",
+   "id": "indian-history-00740",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "G20 Summit hosted in New Delhi - 1983",
@@ -10815,7 +11115,7 @@
    "e": "Only G20 Summit hosted in New Delhi - 2023 is correctly matched."
   },
   {
-   "id": "indian-history-00721",
+   "id": "indian-history-00741",
    "q": "In which decade did the following event take place: First Nobel Prizes awarded?",
    "o": [
     "1990s",
@@ -10830,7 +11130,7 @@
    "e": "First Nobel Prizes awarded took place in the 1901s."
   },
   {
-   "id": "indian-history-00722",
+   "id": "indian-history-00742",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Krishnadevaraya - Lost and regained the Mughal throne",
@@ -10845,7 +11145,7 @@
    "e": "The pair Krishnadevaraya - Lost and regained the Mughal throne is not correctly matched."
   },
   {
-   "id": "indian-history-00723",
+   "id": "indian-history-00743",
    "q": "Which of the following pairs of person and title is NOT correctly matched?",
    "o": [
     "Sardar Vallabhbhai Patel - Leader of the 1974-77 movement",
@@ -10860,7 +11160,7 @@
    "e": "The pair Sardar Vallabhbhai Patel - Leader of the 1974-77 movement is not correctly matched."
   },
   {
-   "id": "indian-history-00724",
+   "id": "indian-history-00744",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "First general elections held in India - 1999",
@@ -10875,7 +11175,7 @@
    "e": "Only First general elections held in India - 1952 is correctly matched."
   },
   {
-   "id": "indian-history-00725",
+   "id": "indian-history-00745",
    "q": "In which decade did the following event take place: Hitler became Chancellor of Germany?",
    "o": [
     "1810s",
@@ -10890,7 +11190,7 @@
    "e": "Hitler became Chancellor of Germany took place in the 1933s."
   },
   {
-   "id": "indian-history-00726",
+   "id": "indian-history-00746",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Sher Shah Suri - Introduced the Grand Trunk Road and the Rupiya",
@@ -10905,7 +11205,7 @@
    "e": "The pair Guru Gobind Singh - Convened the Fourth Buddhist Council is not correctly matched."
   },
   {
-   "id": "indian-history-00727",
+   "id": "indian-history-00747",
    "q": "Which of the following pairs of person and title is NOT correctly matched?",
    "o": [
     "Annie Besant - Founder of the Home Rule League with Tilak",
@@ -10920,7 +11220,7 @@
    "e": "The pair Rabindranath Tagore - Nightingale of India is not correctly matched."
   },
   {
-   "id": "indian-history-00728",
+   "id": "indian-history-00748",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "First general elections held in India - 1932",
@@ -10935,7 +11235,7 @@
    "e": "Only First general elections held in India - 1952 is correctly matched."
   },
   {
-   "id": "indian-history-00729",
+   "id": "indian-history-00749",
    "q": "In which decade did the following event take place: Universal Declaration of Human Rights adopted?",
    "o": [
     "1940s",
@@ -10950,7 +11250,7 @@
    "e": "Universal Declaration of Human Rights adopted took place in the 1948s."
   },
   {
-   "id": "indian-history-00730",
+   "id": "indian-history-00750",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Sher Shah Suri - Introduced the Grand Trunk Road and the Rupiya",
@@ -10965,7 +11265,7 @@
    "e": "The pair Maharaja Ranjit Singh - Market control policies and Siri fort is not correctly matched."
   },
   {
-   "id": "indian-history-00731",
+   "id": "indian-history-00751",
    "q": "Which of the following pairs of person and title is NOT correctly matched?",
    "o": [
     "Annie Besant - Founder of the Home Rule League with Tilak",
@@ -10980,7 +11280,7 @@
    "e": "The pair Rani Lakshmibai - Political mentor of Mahatma Gandhi is not correctly matched."
   },
   {
-   "id": "indian-history-00732",
+   "id": "indian-history-00752",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "India signed the civil nuclear deal with the USA - 2008",
@@ -10995,7 +11295,7 @@
    "e": "Only India signed the civil nuclear deal with the USA - 2008 is correctly matched."
   },
   {
-   "id": "indian-history-00733",
+   "id": "indian-history-00753",
    "q": "In which decade did the following event take place: Nelson Mandela became President of South Africa?",
    "o": [
     "1950s",
@@ -11010,7 +11310,7 @@
    "e": "Nelson Mandela became President of South Africa took place in the 1994s."
   },
   {
-   "id": "indian-history-00734",
+   "id": "indian-history-00754",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Rani Lakshmibai - Rani of Jhansi in the Revolt of 1857",
@@ -11025,7 +11325,7 @@
    "e": "The pair Gautama Buddha - Founded the Maurya Empire with the help of Chanakya is not correctly matched."
   },
   {
-   "id": "indian-history-00735",
+   "id": "indian-history-00755",
    "q": "Which of the following pairs of person and title is NOT correctly matched?",
    "o": [
     "Begum Hazrat Mahal - Leader of the Revolt in Awadh",
@@ -11040,7 +11340,7 @@
    "e": "The pair Rash Behari Bose - Father of the Nation is not correctly matched."
   },
   {
-   "id": "indian-history-00736",
+   "id": "indian-history-00756",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "India signed the civil nuclear deal with the USA - 2008",
@@ -11055,7 +11355,7 @@
    "e": "Only India signed the civil nuclear deal with the USA - 2008 is correctly matched."
   },
   {
-   "id": "indian-history-00737",
+   "id": "indian-history-00757",
    "q": "In which decade did the following event take place: Bandung Conference?",
    "o": [
     "1860s",
@@ -11070,7 +11370,7 @@
    "e": "Bandung Conference took place in the 1955s."
   },
   {
-   "id": "indian-history-00738",
+   "id": "indian-history-00758",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Tipu Sultan - Built the Taj Mahal",
@@ -11085,7 +11385,7 @@
    "e": "The pair Tipu Sultan - Built the Taj Mahal is not correctly matched."
   },
   {
-   "id": "indian-history-00739",
+   "id": "indian-history-00759",
    "q": "Which of the following pairs of person and title is NOT correctly matched?",
    "o": [
     "Tatya Tope - Revolutionary executed in 1931",
@@ -11100,7 +11400,7 @@
    "e": "The pair Tatya Tope - Revolutionary executed in 1931 is not correctly matched."
   },
   {
-   "id": "indian-history-00740",
+   "id": "indian-history-00760",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Janata Party formed the government at the Centre - 1922",
@@ -11115,7 +11415,7 @@
    "e": "Only Janata Party formed the government at the Centre - 1977 is correctly matched."
   },
   {
-   "id": "indian-history-00741",
+   "id": "indian-history-00761",
    "q": "In which decade did the following event take place: Atomic bombing of Hiroshima and Nagasaki?",
    "o": [
     "1910s",
@@ -11130,7 +11430,7 @@
    "e": "Atomic bombing of Hiroshima and Nagasaki took place in the 1945s."
   },
   {
-   "id": "indian-history-00742",
+   "id": "indian-history-00762",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Muhammad bin Tughlaq - Shifted the capital from Delhi to Daulatabad",
@@ -11145,7 +11445,7 @@
    "e": "The pair Ibrahim Lodi - Founded the Maratha empire and was crowned in 1674 is not correctly matched."
   },
   {
-   "id": "indian-history-00743",
+   "id": "indian-history-00763",
    "q": "Which of the following pairs of person and title is NOT correctly matched?",
    "o": [
     "Madan Mohan Malaviya - Founder of Banaras Hindu University",
@@ -11160,7 +11460,7 @@
    "e": "The pair C. Rajagopalachari - Revolutionary executed with Bhagat Singh is not correctly matched."
   },
   {
-   "id": "indian-history-00744",
+   "id": "indian-history-00764",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Janata Party formed the government at the Centre - 1983",
@@ -11175,7 +11475,7 @@
    "e": "Only Janata Party formed the government at the Centre - 1977 is correctly matched."
   },
   {
-   "id": "indian-history-00745",
+   "id": "indian-history-00765",
    "q": "In which decade did the following event take place: Attack on Pearl Harbor?",
    "o": [
     "1870s",
@@ -11190,7 +11490,7 @@
    "e": "Attack on Pearl Harbor took place in the 1941s."
   },
   {
-   "id": "indian-history-00746",
+   "id": "indian-history-00766",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Rani Lakshmibai - Founder of Sikhism",
@@ -11205,7 +11505,7 @@
    "e": "The pair Rani Lakshmibai - Founder of Sikhism is not correctly matched."
   },
   {
-   "id": "indian-history-00747",
+   "id": "indian-history-00767",
    "q": "Which of the following pairs of person and title is NOT correctly matched?",
    "o": [
     "Begum Hazrat Mahal - Author of Vande Mataram",
@@ -11220,7 +11520,7 @@
    "e": "The pair Begum Hazrat Mahal - Author of Vande Mataram is not correctly matched."
   },
   {
-   "id": "indian-history-00748",
+   "id": "indian-history-00768",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Chauri Chaura incident - 1974",
@@ -11235,7 +11535,7 @@
    "e": "Only Chauri Chaura incident - 1922 is correctly matched."
   },
   {
-   "id": "indian-history-00749",
+   "id": "indian-history-00769",
    "q": "In which decade did the following event take place: Signing of the Magna Carta?",
    "o": [
     "1450s",
@@ -11250,7 +11550,7 @@
    "e": "Signing of the Magna Carta took place in the 1215s."
   },
   {
-   "id": "indian-history-00750",
+   "id": "indian-history-00770",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Shah Jahan - Built the Taj Mahal",
@@ -11265,7 +11565,7 @@
    "e": "The pair Rajaraja Chola I - Lost and regained the Mughal throne is not correctly matched."
   },
   {
-   "id": "indian-history-00751",
+   "id": "indian-history-00771",
    "q": "Which of the following pairs of person and title is NOT correctly matched?",
    "o": [
     "Bhagat Singh - Revolutionary executed in 1931",
@@ -11280,7 +11580,7 @@
    "e": "The pair Jawaharlal Nehru - Leader of the 1974-77 movement is not correctly matched."
   },
   {
-   "id": "indian-history-00752",
+   "id": "indian-history-00772",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Chauri Chaura incident - 1961",
@@ -11295,7 +11595,7 @@
    "e": "Only Chauri Chaura incident - 1922 is correctly matched."
   },
   {
-   "id": "indian-history-00753",
+   "id": "indian-history-00773",
    "q": "In which decade did the following event take place: Formation of the USSR?",
    "o": [
     "1580s",
@@ -11310,7 +11610,7 @@
    "e": "Formation of the USSR took place in the 1922s."
   },
   {
-   "id": "indian-history-00754",
+   "id": "indian-history-00774",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Shivaji - Won the First Battle of Panipat in 1526",
@@ -11325,7 +11625,7 @@
    "e": "The pair Shivaji - Won the First Battle of Panipat in 1526 is not correctly matched."
   },
   {
-   "id": "indian-history-00755",
+   "id": "indian-history-00775",
    "q": "Which of the following pairs of person and title is NOT correctly matched?",
    "o": [
     "Sukhdev - Leader of the Bhoodan movement",
@@ -11340,7 +11640,7 @@
    "e": "The pair Sukhdev - Leader of the Bhoodan movement is not correctly matched."
   },
   {
-   "id": "indian-history-00756",
+   "id": "indian-history-00776",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Founding of the Indian National Congress - 1998",
@@ -11355,7 +11655,7 @@
    "e": "Only Founding of the Indian National Congress - 1885 is correctly matched."
   },
   {
-   "id": "indian-history-00757",
+   "id": "indian-history-00777",
    "q": "In which decade did the following event take place: End of World War II?",
    "o": [
     "2020s",
@@ -11370,7 +11670,7 @@
    "e": "End of World War II took place in the 1945s."
   },
   {
-   "id": "indian-history-00758",
+   "id": "indian-history-00778",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Rajaraja Chola I - Built the Brihadeeswarar Temple at Thanjavur",
@@ -11385,7 +11685,7 @@
    "e": "The pair Chandragupta Maurya - Ruled from Kannauj and was praised by Hiuen Tsang is not correctly matched."
   },
   {
-   "id": "indian-history-00759",
+   "id": "indian-history-00779",
    "q": "Which of the following pairs of person and title is NOT correctly matched?",
    "o": [
     "Jawaharlal Nehru - First Prime Minister of India",
@@ -11400,7 +11700,7 @@
    "e": "The pair Mahatma Gandhi - Grand Old Man of India is not correctly matched."
   },
   {
-   "id": "indian-history-00760",
+   "id": "indian-history-00780",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Founding of the Indian National Congress - 2008",
@@ -11415,7 +11715,7 @@
    "e": "Only Founding of the Indian National Congress - 1885 is correctly matched."
   },
   {
-   "id": "indian-history-00761",
+   "id": "indian-history-00781",
    "q": "In which decade did the following event take place: Battle of Waterloo?",
    "o": [
     "1810s",
@@ -11430,7 +11730,7 @@
    "e": "Battle of Waterloo took place in the 1815s."
   },
   {
-   "id": "indian-history-00762",
+   "id": "indian-history-00782",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Kanishka - Convened the Fourth Buddhist Council",
@@ -11445,7 +11745,7 @@
    "e": "The pair Bahadur Shah Zafar - Founder of the Sikh Empire is not correctly matched."
   },
   {
-   "id": "indian-history-00763",
+   "id": "indian-history-00783",
    "q": "Which of the following pairs of person and title is NOT correctly matched?",
    "o": [
     "Sarojini Naidu - Nightingale of India",
@@ -11460,7 +11760,7 @@
    "e": "The pair Kunwar Singh - Queen who fought at Jhansi in 1857 is not correctly matched."
   },
   {
-   "id": "indian-history-00764",
+   "id": "indian-history-00784",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Dandi March launched by Mahatma Gandhi - 1930",
@@ -11475,7 +11775,7 @@
    "e": "Only Dandi March launched by Mahatma Gandhi - 1930 is correctly matched."
   },
   {
-   "id": "indian-history-00765",
+   "id": "indian-history-00785",
    "q": "In which decade did the following event take place: Founding of the People's Republic of China?",
    "o": [
     "1940s",
@@ -11490,7 +11790,7 @@
    "e": "Founding of the People's Republic of China took place in the 1949s."
   },
   {
-   "id": "indian-history-00766",
+   "id": "indian-history-00786",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Harshavardhana - Ruled from Kannauj and was praised by Hiuen Tsang",
@@ -11505,7 +11805,7 @@
    "e": "The pair Akbar - Built canals and founded Firozabad is not correctly matched."
   },
   {
-   "id": "indian-history-00767",
+   "id": "indian-history-00787",
    "q": "Which of the following pairs of person and title is NOT correctly matched?",
    "o": [
     "Dadabhai Naoroji - Grand Old Man of India",
@@ -11520,7 +11820,7 @@
    "e": "The pair B. R. Ambedkar - First Education Minister of India is not correctly matched."
   },
   {
-   "id": "indian-history-00768",
+   "id": "indian-history-00788",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Dandi March launched by Mahatma Gandhi - 1942",
@@ -11535,7 +11835,7 @@
    "e": "Only Dandi March launched by Mahatma Gandhi - 1930 is correctly matched."
   },
   {
-   "id": "indian-history-00769",
+   "id": "indian-history-00789",
    "q": "In which decade did the following event take place: Dissolution of the Soviet Union?",
    "o": [
     "1680s",
@@ -11550,7 +11850,7 @@
    "e": "Dissolution of the Soviet Union took place in the 1991s."
   },
   {
-   "id": "indian-history-00770",
+   "id": "indian-history-00790",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Rani Lakshmibai - Rani of Jhansi in the Revolt of 1857",
@@ -11565,7 +11865,7 @@
    "e": "The pair Sher Shah Suri - Market control policies and Siri fort is not correctly matched."
   },
   {
-   "id": "indian-history-00771",
+   "id": "indian-history-00791",
    "q": "Which of the following pairs of person and title is NOT correctly matched?",
    "o": [
     "Begum Hazrat Mahal - Leader of the Revolt in Awadh",
@@ -11580,7 +11880,7 @@
    "e": "The pair Annie Besant - Political mentor of Mahatma Gandhi is not correctly matched."
   },
   {
-   "id": "indian-history-00772",
+   "id": "indian-history-00792",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Chandrayaan-3 soft landing near the lunar south pole - 2023",
@@ -11595,7 +11895,7 @@
    "e": "Only Chandrayaan-3 soft landing near the lunar south pole - 2023 is correctly matched."
   },
   {
-   "id": "indian-history-00773",
+   "id": "indian-history-00793",
    "q": "In which decade did the following event take place: Beginning of the Arab Spring?",
    "o": [
     "1960s",
@@ -11610,7 +11910,7 @@
    "e": "Beginning of the Arab Spring took place in the 2011s."
   },
   {
-   "id": "indian-history-00774",
+   "id": "indian-history-00794",
    "q": "Which of the following pairs is NOT correctly matched?",
    "o": [
     "Samudragupta - Known as the Napoleon of India",
@@ -11625,7 +11925,7 @@
    "e": "The pair Guru Nanak - Greatest of the Peshwas is not correctly matched."
   },
   {
-   "id": "indian-history-00775",
+   "id": "indian-history-00795",
    "q": "Which of the following pairs of person and title is NOT correctly matched?",
    "o": [
     "Bal Gangadhar Tilak - Lokamanya",
@@ -11640,7 +11940,7 @@
    "e": "The pair Bankim Chandra Chatterjee - Soldier who sparked the Revolt of 1857 is not correctly matched."
   },
   {
-   "id": "indian-history-00776",
+   "id": "indian-history-00796",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Chandrayaan-3 soft landing near the lunar south pole - 1962",
@@ -11655,7 +11955,7 @@
    "e": "Only Chandrayaan-3 soft landing near the lunar south pole - 2023 is correctly matched."
   },
   {
-   "id": "indian-history-00777",
+   "id": "indian-history-00797",
    "q": "In which decade did the following event take place: First powered flight by the Wright brothers?",
    "o": [
     "1970s",
@@ -11670,7 +11970,7 @@
    "e": "First powered flight by the Wright brothers took place in the 1903s."
   },
   {
-   "id": "indian-history-00778",
+   "id": "indian-history-00798",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Constitution of India came into force - 1950",
@@ -11685,7 +11985,7 @@
    "e": "Only Constitution of India came into force - 1950 is correctly matched."
   },
   {
-   "id": "indian-history-00779",
+   "id": "indian-history-00799",
    "q": "In which decade did the following event take place: Russian Revolution?",
    "o": [
     "1940s",
@@ -11700,7 +12000,7 @@
    "e": "Russian Revolution took place in the 1917s."
   },
   {
-   "id": "indian-history-00780",
+   "id": "indian-history-00800",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Constitution of India came into force - 1950",
@@ -11715,7 +12015,7 @@
    "e": "Only Constitution of India came into force - 1950 is correctly matched."
   },
   {
-   "id": "indian-history-00781",
+   "id": "indian-history-00801",
    "q": "In which decade did the following event take place: Unification of Germany?",
    "o": [
     "1870s",
@@ -11730,7 +12030,7 @@
    "e": "Unification of Germany took place in the 1871s."
   },
   {
-   "id": "indian-history-00782",
+   "id": "indian-history-00802",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "First War of Indian Independence (Revolt of 1857) - 1961",
@@ -11745,7 +12045,7 @@
    "e": "Only First War of Indian Independence (Revolt of 1857) - 1857 is correctly matched."
   },
   {
-   "id": "indian-history-00783",
+   "id": "indian-history-00803",
    "q": "In which decade did the following event take place: Beginning of World War II?",
    "o": [
     "1930s",
@@ -11760,7 +12060,7 @@
    "e": "Beginning of World War II took place in the 1939s."
   },
   {
-   "id": "indian-history-00784",
+   "id": "indian-history-00804",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "First War of Indian Independence (Revolt of 1857) - 1931",
@@ -11775,7 +12075,7 @@
    "e": "Only First War of Indian Independence (Revolt of 1857) - 1857 is correctly matched."
   },
   {
-   "id": "indian-history-00785",
+   "id": "indian-history-00805",
    "q": "In which decade did the following event take place: Glorious Revolution in England?",
    "o": [
     "1950s",
@@ -11790,7 +12090,7 @@
    "e": "Glorious Revolution in England took place in the 1688s."
   },
   {
-   "id": "indian-history-00786",
+   "id": "indian-history-00806",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "India-China border war - 1932",
@@ -11805,7 +12105,7 @@
    "e": "Only India-China border war - 1962 is correctly matched."
   },
   {
-   "id": "indian-history-00787",
+   "id": "indian-history-00807",
    "q": "In which decade did the following event take place: Beginning of World War I?",
    "o": [
     "1910s",
@@ -11820,7 +12120,7 @@
    "e": "Beginning of World War I took place in the 1914s."
   },
   {
-   "id": "indian-history-00788",
+   "id": "indian-history-00808",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "India-China border war - 1999",
@@ -11835,7 +12135,7 @@
    "e": "Only India-China border war - 1962 is correctly matched."
   },
   {
-   "id": "indian-history-00789",
+   "id": "indian-history-00809",
    "q": "In which decade did the following event take place: Yuri Gagarin became the first human in space?",
    "o": [
     "1960s",
@@ -11850,7 +12150,7 @@
    "e": "Yuri Gagarin became the first human in space took place in the 1961s."
   },
   {
-   "id": "indian-history-00790",
+   "id": "indian-history-00810",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Pokhran-I nuclear test (Smiling Buddha) - 1922",
@@ -11865,7 +12165,7 @@
    "e": "Only Pokhran-I nuclear test (Smiling Buddha) - 1974 is correctly matched."
   },
   {
-   "id": "indian-history-00791",
+   "id": "indian-history-00811",
    "q": "In which decade did the following event take place: Return of Hong Kong to China?",
    "o": [
     "1770s",
@@ -11880,7 +12180,7 @@
    "e": "Return of Hong Kong to China took place in the 1997s."
   },
   {
-   "id": "indian-history-00792",
+   "id": "indian-history-00812",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Pokhran-I nuclear test (Smiling Buddha) - 1919",
@@ -11895,7 +12195,7 @@
    "e": "Only Pokhran-I nuclear test (Smiling Buddha) - 1974 is correctly matched."
   },
   {
-   "id": "indian-history-00793",
+   "id": "indian-history-00813",
    "q": "In which decade did the following event take place: Publication of the Communist Manifesto?",
    "o": [
     "1840s",
@@ -11910,7 +12210,7 @@
    "e": "Publication of the Communist Manifesto took place in the 1848s."
   },
   {
-   "id": "indian-history-00794",
+   "id": "indian-history-00814",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Article 370 provisions abrogated - 2008",
@@ -11925,7 +12225,7 @@
    "e": "Only Article 370 provisions abrogated - 2019 is correctly matched."
   },
   {
-   "id": "indian-history-00795",
+   "id": "indian-history-00815",
    "q": "In which decade did the following event take place: Treaty of Versailles signed?",
    "o": [
     "1910s",
@@ -11940,7 +12240,7 @@
    "e": "Treaty of Versailles signed took place in the 1919s."
   },
   {
-   "id": "indian-history-00796",
+   "id": "indian-history-00816",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Article 370 provisions abrogated - 1999",
@@ -11955,7 +12255,7 @@
    "e": "Only Article 370 provisions abrogated - 2019 is correctly matched."
   },
   {
-   "id": "indian-history-00797",
+   "id": "indian-history-00817",
    "q": "In which decade did the following event take place: Founding of the United Nations?",
    "o": [
     "1940s",
@@ -11970,7 +12270,7 @@
    "e": "Founding of the United Nations took place in the 1945s."
   },
   {
-   "id": "indian-history-00798",
+   "id": "indian-history-00818",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Bhopal gas tragedy - 2023",
@@ -11985,7 +12285,7 @@
    "e": "Only Bhopal gas tragedy - 1984 is correctly matched."
   },
   {
-   "id": "indian-history-00799",
+   "id": "indian-history-00819",
    "q": "In which decade did the following event take place: Beginning of the American Civil War?",
    "o": [
     "1990s",
@@ -12000,7 +12300,7 @@
    "e": "Beginning of the American Civil War took place in the 1861s."
   },
   {
-   "id": "indian-history-00800",
+   "id": "indian-history-00820",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Bhopal gas tragedy - 1974",
@@ -12015,7 +12315,7 @@
    "e": "Only Bhopal gas tragedy - 1984 is correctly matched."
   },
   {
-   "id": "indian-history-00801",
+   "id": "indian-history-00821",
    "q": "In which decade did the following event take place: September 11 attacks in the United States?",
    "o": [
     "1940s",
@@ -12030,7 +12330,7 @@
    "e": "September 11 attacks in the United States took place in the 2001s."
   },
   {
-   "id": "indian-history-00802",
+   "id": "indian-history-00822",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Royal Indian Navy Mutiny - 2019",
@@ -12045,7 +12345,7 @@
    "e": "Only Royal Indian Navy Mutiny - 1946 is correctly matched."
   },
   {
-   "id": "indian-history-00803",
+   "id": "indian-history-00823",
    "q": "In which decade did the following event take place: Cuban Revolution?",
    "o": [
     "1990s",
@@ -12060,7 +12360,7 @@
    "e": "Cuban Revolution took place in the 1959s."
   },
   {
-   "id": "indian-history-00804",
+   "id": "indian-history-00824",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Royal Indian Navy Mutiny - 1885",
@@ -12075,7 +12375,7 @@
    "e": "Only Royal Indian Navy Mutiny - 1946 is correctly matched."
   },
   {
-   "id": "indian-history-00805",
+   "id": "indian-history-00825",
    "q": "In which decade did the following event take place: Chernobyl disaster?",
    "o": [
     "2010s",
@@ -12090,7 +12390,7 @@
    "e": "Chernobyl disaster took place in the 1986s."
   },
   {
-   "id": "indian-history-00806",
+   "id": "indian-history-00826",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Government of India Act passed - 1962",
@@ -12105,7 +12405,7 @@
    "e": "Only Government of India Act passed - 1935 is correctly matched."
   },
   {
-   "id": "indian-history-00807",
+   "id": "indian-history-00827",
    "q": "In which decade did the following event take place: Sinking of the Titanic?",
    "o": [
     "1960s",
@@ -12120,7 +12420,7 @@
    "e": "Sinking of the Titanic took place in the 1912s."
   },
   {
-   "id": "indian-history-00808",
+   "id": "indian-history-00828",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Government of India Act passed - 1932",
@@ -12135,7 +12435,7 @@
    "e": "Only Government of India Act passed - 1935 is correctly matched."
   },
   {
-   "id": "indian-history-00809",
+   "id": "indian-history-00829",
    "q": "In which decade did the following event take place: Issue of the Emancipation Proclamation?",
    "o": [
     "1870s",
@@ -12150,7 +12450,7 @@
    "e": "Issue of the Emancipation Proclamation took place in the 1863s."
   },
   {
-   "id": "indian-history-00810",
+   "id": "indian-history-00830",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Shimla Agreement signed - 1961",
@@ -12165,7 +12465,7 @@
    "e": "Only Shimla Agreement signed - 1972 is correctly matched."
   },
   {
-   "id": "indian-history-00811",
+   "id": "indian-history-00831",
    "q": "In which decade did the following event take place: D-Day landings in Normandy?",
    "o": [
     "1990s",
@@ -12180,7 +12480,7 @@
    "e": "D-Day landings in Normandy took place in the 1944s."
   },
   {
-   "id": "indian-history-00812",
+   "id": "indian-history-00832",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Shimla Agreement signed - 1983",
@@ -12195,7 +12495,7 @@
    "e": "Only Shimla Agreement signed - 1972 is correctly matched."
   },
   {
-   "id": "indian-history-00813",
+   "id": "indian-history-00833",
    "q": "In which decade did the following event take place: Apollo 11 Moon landing?",
    "o": [
     "1990s",
@@ -12210,7 +12510,7 @@
    "e": "Apollo 11 Moon landing took place in the 1969s."
   },
   {
-   "id": "indian-history-00814",
+   "id": "indian-history-00834",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "National Emergency declared in India - 2023",
@@ -12225,7 +12525,7 @@
    "e": "Only National Emergency declared in India - 1975 is correctly matched."
   },
   {
-   "id": "indian-history-00815",
+   "id": "indian-history-00835",
    "q": "In which decade did the following event take place: Fall of the Berlin Wall?",
    "o": [
     "1840s",
@@ -12240,7 +12540,7 @@
    "e": "Fall of the Berlin Wall took place in the 1989s."
   },
   {
-   "id": "indian-history-00816",
+   "id": "indian-history-00836",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "National Emergency declared in India - 1920",
@@ -12255,7 +12555,7 @@
    "e": "Only National Emergency declared in India - 1975 is correctly matched."
   },
   {
-   "id": "indian-history-00817",
+   "id": "indian-history-00837",
    "q": "In which decade did the following event take place: Establishment of the East India Company?",
    "o": [
     "1600s",
@@ -12270,7 +12570,7 @@
    "e": "Establishment of the East India Company took place in the 1600s."
   },
   {
-   "id": "indian-history-00818",
+   "id": "indian-history-00838",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Quit India Movement launched - 2016",
@@ -12285,7 +12585,7 @@
    "e": "Only Quit India Movement launched - 1942 is correctly matched."
   },
   {
-   "id": "indian-history-00819",
+   "id": "indian-history-00839",
    "q": "In which decade did the following event take place: First ascent of Mount Everest?",
    "o": [
     "1990s",
@@ -12300,7 +12600,7 @@
    "e": "First ascent of Mount Everest took place in the 1953s."
   },
   {
-   "id": "indian-history-00820",
+   "id": "indian-history-00840",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Quit India Movement launched - 2019",
@@ -12315,7 +12615,7 @@
    "e": "Only Quit India Movement launched - 1942 is correctly matched."
   },
   {
-   "id": "indian-history-00821",
+   "id": "indian-history-00841",
    "q": "In which decade did the following event take place: Beginning of the French Revolution?",
    "o": [
     "1860s",
@@ -12330,7 +12630,7 @@
    "e": "Beginning of the French Revolution took place in the 1789s."
   },
   {
-   "id": "indian-history-00822",
+   "id": "indian-history-00842",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Launch of the Non-Cooperation Movement - 1984",
@@ -12345,7 +12645,7 @@
    "e": "Only Launch of the Non-Cooperation Movement - 1920 is correctly matched."
   },
   {
-   "id": "indian-history-00823",
+   "id": "indian-history-00843",
    "q": "In which decade did the following event take place: Cuban Missile Crisis?",
    "o": [
     "1960s",
@@ -12360,7 +12660,7 @@
    "e": "Cuban Missile Crisis took place in the 1962s."
   },
   {
-   "id": "indian-history-00824",
+   "id": "indian-history-00844",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Launch of the Non-Cooperation Movement - 2001",
@@ -12375,7 +12675,7 @@
    "e": "Only Launch of the Non-Cooperation Movement - 1920 is correctly matched."
   },
   {
-   "id": "indian-history-00825",
+   "id": "indian-history-00845",
    "q": "In which decade did the following event take place: Wall Street Crash and start of the Great Depression?",
    "o": [
     "1940s",
@@ -12390,7 +12690,7 @@
    "e": "Wall Street Crash and start of the Great Depression took place in the 1929s."
   },
   {
-   "id": "indian-history-00826",
+   "id": "indian-history-00846",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "India attained independence - 2008",
@@ -12405,7 +12705,7 @@
    "e": "Only India attained independence - 1947 is correctly matched."
   },
   {
-   "id": "indian-history-00827",
+   "id": "indian-history-00847",
    "q": "In which decade did the following event take place: Abolition of slavery in the British Empire?",
    "o": [
     "1950s",
@@ -12420,7 +12720,7 @@
    "e": "Abolition of slavery in the British Empire took place in the 1833s."
   },
   {
-   "id": "indian-history-00828",
+   "id": "indian-history-00848",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "India attained independence - 1947",
@@ -12435,7 +12735,7 @@
    "e": "Only India attained independence - 1947 is correctly matched."
   },
   {
-   "id": "indian-history-00829",
+   "id": "indian-history-00849",
    "q": "In which decade did the following event take place: Defeat of the Spanish Armada?",
    "o": [
     "1490s",
@@ -12450,7 +12750,7 @@
    "e": "Defeat of the Spanish Armada took place in the 1588s."
   },
   {
-   "id": "indian-history-00830",
+   "id": "indian-history-00850",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Gandhi-Irwin Pact signed - 1919",
@@ -12465,7 +12765,7 @@
    "e": "Only Gandhi-Irwin Pact signed - 1931 is correctly matched."
   },
   {
-   "id": "indian-history-00831",
+   "id": "indian-history-00851",
    "q": "In which decade did the following event take place: Beginning of the Korean War?",
    "o": [
     "1960s",
@@ -12480,7 +12780,7 @@
    "e": "Beginning of the Korean War took place in the 1950s."
   },
   {
-   "id": "indian-history-00832",
+   "id": "indian-history-00852",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Gandhi-Irwin Pact signed - 1931",
@@ -12495,7 +12795,7 @@
    "e": "Only Gandhi-Irwin Pact signed - 1931 is correctly matched."
   },
   {
-   "id": "indian-history-00833",
+   "id": "indian-history-00853",
    "q": "In which decade did the following event take place: Formation of the European Union by the Maastricht Treaty?",
    "o": [
     "2010s",
@@ -12510,7 +12810,7 @@
    "e": "Formation of the European Union by the Maastricht Treaty took place in the 1993s."
   },
   {
-   "id": "indian-history-00834",
+   "id": "indian-history-00854",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Operation Blue Star - 1932",
@@ -12525,7 +12825,7 @@
    "e": "Only Operation Blue Star - 1984 is correctly matched."
   },
   {
-   "id": "indian-history-00835",
+   "id": "indian-history-00855",
    "q": "In which decade did the following event take place: Establishment of the World Trade Organization?",
    "o": [
     "1600s",
@@ -12540,7 +12840,7 @@
    "e": "Establishment of the World Trade Organization took place in the 1995s."
   },
   {
-   "id": "indian-history-00836",
+   "id": "indian-history-00856",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Operation Blue Star - 1984",
@@ -12555,7 +12855,7 @@
    "e": "Only Operation Blue Star - 1984 is correctly matched."
   },
   {
-   "id": "indian-history-00837",
+   "id": "indian-history-00857",
    "q": "In which decade did the following event take place: Founding of NATO?",
    "o": [
     "1940s",
@@ -12570,7 +12870,7 @@
    "e": "Founding of NATO took place in the 1949s."
   },
   {
-   "id": "indian-history-00838",
+   "id": "indian-history-00858",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Attack on the Indian Parliament - 2001",
@@ -12585,7 +12885,7 @@
    "e": "Only Attack on the Indian Parliament - 2001 is correctly matched."
   },
   {
-   "id": "indian-history-00839",
+   "id": "indian-history-00859",
    "q": "In which decade did the following event take place: Columbus reached the Americas?",
    "o": [
     "1490s",
@@ -12600,7 +12900,7 @@
    "e": "Columbus reached the Americas took place in the 1492s."
   },
   {
-   "id": "indian-history-00840",
+   "id": "indian-history-00860",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Attack on the Indian Parliament - 1977",
@@ -12615,7 +12915,7 @@
    "e": "Only Attack on the Indian Parliament - 2001 is correctly matched."
   },
   {
-   "id": "indian-history-00841",
+   "id": "indian-history-00861",
    "q": "In which decade did the following event take place: Opening of the Suez Canal?",
    "o": [
     "2010s",
@@ -12630,7 +12930,7 @@
    "e": "Opening of the Suez Canal took place in the 1869s."
   },
   {
-   "id": "indian-history-00842",
+   "id": "indian-history-00862",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Pokhran-II nuclear tests - 1983",
@@ -12645,7 +12945,7 @@
    "e": "Only Pokhran-II nuclear tests - 1998 is correctly matched."
   },
   {
-   "id": "indian-history-00843",
+   "id": "indian-history-00863",
    "q": "In which decade did the following event take place: Founding of the League of Nations?",
    "o": [
     "1990s",
@@ -12660,7 +12960,7 @@
    "e": "Founding of the League of Nations took place in the 1920s."
   },
   {
-   "id": "indian-history-00844",
+   "id": "indian-history-00864",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Pokhran-II nuclear tests - 1999",
@@ -12675,7 +12975,7 @@
    "e": "Only Pokhran-II nuclear tests - 1998 is correctly matched."
   },
   {
-   "id": "indian-history-00845",
+   "id": "indian-history-00865",
    "q": "In which decade did the following event take place: Peace of Westphalia?",
    "o": [
     "1940s",
@@ -12690,7 +12990,7 @@
    "e": "Peace of Westphalia took place in the 1648s."
   },
   {
-   "id": "indian-history-00846",
+   "id": "indian-history-00866",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Assassination of Mahatma Gandhi - 1906",
@@ -12705,7 +13005,7 @@
    "e": "Only Assassination of Mahatma Gandhi - 1948 is correctly matched."
   },
   {
-   "id": "indian-history-00847",
+   "id": "indian-history-00867",
    "q": "In which decade did the following event take place: Rio Earth Summit?",
    "o": [
     "2000s",
@@ -12720,7 +13020,7 @@
    "e": "Rio Earth Summit took place in the 1992s."
   },
   {
-   "id": "indian-history-00848",
+   "id": "indian-history-00868",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Assassination of Mahatma Gandhi - 1948",
@@ -12735,7 +13035,7 @@
    "e": "Only Assassination of Mahatma Gandhi - 1948 is correctly matched."
   },
   {
-   "id": "indian-history-00849",
+   "id": "indian-history-00869",
    "q": "In which decade did the following event take place: Vasco da Gama reached India by sea?",
    "o": [
     "1490s",
@@ -12750,7 +13050,7 @@
    "e": "Vasco da Gama reached India by sea took place in the 1498s."
   },
   {
-   "id": "indian-history-00850",
+   "id": "indian-history-00870",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Mars Orbiter Mission entered Mars orbit - 1984",
@@ -12765,7 +13065,7 @@
    "e": "Only Mars Orbiter Mission entered Mars orbit - 2014 is correctly matched."
   },
   {
-   "id": "indian-history-00851",
+   "id": "indian-history-00871",
    "q": "In which decade did the following event take place: End of World War I?",
    "o": [
     "1490s",
@@ -12780,7 +13080,7 @@
    "e": "End of World War I took place in the 1918s."
   },
   {
-   "id": "indian-history-00852",
+   "id": "indian-history-00872",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Mars Orbiter Mission entered Mars orbit - 2014",
@@ -12795,7 +13095,7 @@
    "e": "Only Mars Orbiter Mission entered Mars orbit - 2014 is correctly matched."
   },
   {
-   "id": "indian-history-00853",
+   "id": "indian-history-00873",
    "q": "In which decade did the following event take place: COVID-19 declared a pandemic by WHO?",
    "o": [
     "1950s",
@@ -12810,7 +13110,7 @@
    "e": "COVID-19 declared a pandemic by WHO took place in the 2020s."
   },
   {
-   "id": "indian-history-00854",
+   "id": "indian-history-00874",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Partition of Bengal by Lord Curzon - 1931",
@@ -12825,7 +13125,7 @@
    "e": "Only Partition of Bengal by Lord Curzon - 1905 is correctly matched."
   },
   {
-   "id": "indian-history-00855",
+   "id": "indian-history-00875",
    "q": "In which decade did the following event take place: Assassination of John F. Kennedy?",
    "o": [
     "1990s",
@@ -12840,7 +13140,7 @@
    "e": "Assassination of John F. Kennedy took place in the 1963s."
   },
   {
-   "id": "indian-history-00856",
+   "id": "indian-history-00876",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Partition of Bengal by Lord Curzon - 2016",
@@ -12855,7 +13155,7 @@
    "e": "Only Partition of Bengal by Lord Curzon - 1905 is correctly matched."
   },
   {
-   "id": "indian-history-00857",
+   "id": "indian-history-00877",
    "q": "In which decade did the following event take place: Fall of Constantinople?",
    "o": [
     "1450s",
@@ -12870,7 +13170,7 @@
    "e": "Fall of Constantinople took place in the 1453s."
   },
   {
-   "id": "indian-history-00858",
+   "id": "indian-history-00878",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "First meeting of the Constituent Assembly - 1984",
@@ -12885,7 +13185,7 @@
    "e": "Only First meeting of the Constituent Assembly - 1946 is correctly matched."
   },
   {
-   "id": "indian-history-00859",
+   "id": "indian-history-00879",
    "q": "In which decade did the following event take place: Iranian Revolution?",
    "o": [
     "1490s",
@@ -12900,7 +13200,7 @@
    "e": "Iranian Revolution took place in the 1979s."
   },
   {
-   "id": "indian-history-00860",
+   "id": "indian-history-00880",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "First meeting of the Constituent Assembly - 1965",
@@ -12915,7 +13215,7 @@
    "e": "Only First meeting of the Constituent Assembly - 1946 is correctly matched."
   },
   {
-   "id": "indian-history-00861",
+   "id": "indian-history-00881",
    "q": "In which decade did the following event take place: Oil crisis?",
    "o": [
     "1840s",
@@ -12930,7 +13230,7 @@
    "e": "Oil crisis took place in the 1973s."
   },
   {
-   "id": "indian-history-00862",
+   "id": "indian-history-00882",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Poona Pact signed - 2008",
@@ -12945,7 +13245,7 @@
    "e": "Only Poona Pact signed - 1932 is correctly matched."
   },
   {
-   "id": "indian-history-00863",
+   "id": "indian-history-00883",
    "q": "In which decade did the following event take place: Release of Nelson Mandela from prison?",
    "o": [
     "1980s",
@@ -12960,7 +13260,7 @@
    "e": "Release of Nelson Mandela from prison took place in the 1990s."
   },
   {
-   "id": "indian-history-00864",
+   "id": "indian-history-00884",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Poona Pact signed - 1962",
@@ -12975,7 +13275,7 @@
    "e": "Only Poona Pact signed - 1932 is correctly matched."
   },
   {
-   "id": "indian-history-00865",
+   "id": "indian-history-00885",
    "q": "In which decade did the following event take place: Adoption of the UN Sustainable Development Goals?",
    "o": [
     "1810s",
@@ -12990,7 +13290,7 @@
    "e": "Adoption of the UN Sustainable Development Goals took place in the 2015s."
   },
   {
-   "id": "indian-history-00866",
+   "id": "indian-history-00886",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Purna Swaraj declared at the Lahore session - 1930",
@@ -13005,7 +13305,7 @@
    "e": "Only Purna Swaraj declared at the Lahore session - 1929 is correctly matched."
   },
   {
-   "id": "indian-history-00867",
+   "id": "indian-history-00887",
    "q": "In which decade did the following event take place: Paris Climate Agreement adopted?",
    "o": [
     "1940s",
@@ -13020,7 +13320,7 @@
    "e": "Paris Climate Agreement adopted took place in the 2015s."
   },
   {
-   "id": "indian-history-00868",
+   "id": "indian-history-00888",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Purna Swaraj declared at the Lahore session - 1922",
@@ -13035,7 +13335,7 @@
    "e": "Only Purna Swaraj declared at the Lahore session - 1929 is correctly matched."
   },
   {
-   "id": "indian-history-00869",
+   "id": "indian-history-00889",
    "q": "In which decade did the following event take place: Founding of the World Health Organization?",
    "o": [
     "1950s",
@@ -13050,7 +13350,7 @@
    "e": "Founding of the World Health Organization took place in the 1948s."
   },
   {
-   "id": "indian-history-00870",
+   "id": "indian-history-00890",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Jallianwala Bagh massacre - 1919",
@@ -13065,7 +13365,7 @@
    "e": "Only Jallianwala Bagh massacre - 1919 is correctly matched."
   },
   {
-   "id": "indian-history-00871",
+   "id": "indian-history-00891",
    "q": "In which decade did the following event take place: Global financial crisis?",
    "o": [
     "2000s",
@@ -13080,7 +13380,7 @@
    "e": "Global financial crisis took place in the 2008s."
   },
   {
-   "id": "indian-history-00872",
+   "id": "indian-history-00892",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Jallianwala Bagh massacre - 2008",
@@ -13095,7 +13395,7 @@
    "e": "Only Jallianwala Bagh massacre - 1919 is correctly matched."
   },
   {
-   "id": "indian-history-00873",
+   "id": "indian-history-00893",
    "q": "To which century does the following event belong: Dissolution of the Soviet Union?",
    "o": [
     "20th century",
@@ -13110,7 +13410,7 @@
    "e": "Dissolution of the Soviet Union belongs to the 1991."
   },
   {
-   "id": "indian-history-00874",
+   "id": "indian-history-00894",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "First Five Year Plan launched - 1951",
@@ -13125,7 +13425,7 @@
    "e": "Only First Five Year Plan launched - 1951 is correctly matched."
   },
   {
-   "id": "indian-history-00875",
+   "id": "indian-history-00895",
    "q": "To which century does the following event belong: Issue of the Emancipation Proclamation?",
    "o": [
     "21st century",
@@ -13140,7 +13440,7 @@
    "e": "Issue of the Emancipation Proclamation belongs to the 1863."
   },
   {
-   "id": "indian-history-00876",
+   "id": "indian-history-00896",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "First Five Year Plan launched - 1952",
@@ -13155,7 +13455,7 @@
    "e": "Only First Five Year Plan launched - 1951 is correctly matched."
   },
   {
-   "id": "indian-history-00877",
+   "id": "indian-history-00897",
    "q": "To which century does the following event belong: Opening of the Suez Canal?",
    "o": [
     "17th century",
@@ -13170,7 +13470,7 @@
    "e": "Opening of the Suez Canal belongs to the 1869."
   },
   {
-   "id": "indian-history-00878",
+   "id": "indian-history-00898",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Chandrayaan-1 launched - 1906",
@@ -13185,7 +13485,7 @@
    "e": "Only Chandrayaan-1 launched - 2008 is correctly matched."
   },
   {
-   "id": "indian-history-00879",
+   "id": "indian-history-00899",
    "q": "To which century does the following event belong: Founding of the United Nations?",
    "o": [
     "13th century",
@@ -13200,7 +13500,7 @@
    "e": "Founding of the United Nations belongs to the 1945."
   },
   {
-   "id": "indian-history-00880",
+   "id": "indian-history-00900",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Chandrayaan-1 launched - 2008",
@@ -13215,7 +13515,7 @@
    "e": "Only Chandrayaan-1 launched - 2008 is correctly matched."
   },
   {
-   "id": "indian-history-00881",
+   "id": "indian-history-00901",
    "q": "To which century does the following event belong: Fall of the Berlin Wall?",
    "o": [
     "20th century",
@@ -13230,7 +13530,7 @@
    "e": "Fall of the Berlin Wall belongs to the 1989."
   },
   {
-   "id": "indian-history-00882",
+   "id": "indian-history-00902",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "India-Pakistan war and Tashkent Agreement - 1935",
@@ -13245,7 +13545,7 @@
    "e": "Only India-Pakistan war and Tashkent Agreement - 1965 is correctly matched."
   },
   {
-   "id": "indian-history-00883",
+   "id": "indian-history-00903",
    "q": "To which century does the following event belong: First Nobel Prizes awarded?",
    "o": [
     "19th century",
@@ -13260,7 +13560,7 @@
    "e": "First Nobel Prizes awarded belongs to the 1901."
   },
   {
-   "id": "indian-history-00884",
+   "id": "indian-history-00904",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "India-Pakistan war and Tashkent Agreement - 1928",
@@ -13275,7 +13575,7 @@
    "e": "Only India-Pakistan war and Tashkent Agreement - 1965 is correctly matched."
   },
   {
-   "id": "indian-history-00885",
+   "id": "indian-history-00905",
    "q": "To which century does the following event belong: Launch of Sputnik-1?",
    "o": [
     "21st century",
@@ -13290,7 +13590,7 @@
    "e": "Launch of Sputnik-1 belongs to the 1957."
   },
   {
-   "id": "indian-history-00886",
+   "id": "indian-history-00906",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Kargil War - 1998",
@@ -13305,7 +13605,7 @@
    "e": "Only Kargil War - 1999 is correctly matched."
   },
   {
-   "id": "indian-history-00887",
+   "id": "indian-history-00907",
    "q": "To which century does the following event belong: Abolition of slavery in the British Empire?",
    "o": [
     "21st century",
@@ -13320,7 +13620,7 @@
    "e": "Abolition of slavery in the British Empire belongs to the 1833."
   },
   {
-   "id": "indian-history-00888",
+   "id": "indian-history-00908",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Kargil War - 1920",
@@ -13335,7 +13635,7 @@
    "e": "Only Kargil War - 1999 is correctly matched."
   },
   {
-   "id": "indian-history-00889",
+   "id": "indian-history-00909",
    "q": "To which century does the following event belong: Oil crisis?",
    "o": [
     "20th century",
@@ -13350,7 +13650,7 @@
    "e": "Oil crisis belongs to the 1973."
   },
   {
-   "id": "indian-history-00890",
+   "id": "indian-history-00910",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Simon Commission arrived in India - 1946",
@@ -13365,7 +13665,7 @@
    "e": "Only Simon Commission arrived in India - 1928 is correctly matched."
   },
   {
-   "id": "indian-history-00891",
+   "id": "indian-history-00911",
    "q": "To which century does the following event belong: Sinking of the Titanic?",
    "o": [
     "15th century",
@@ -13380,7 +13680,7 @@
    "e": "Sinking of the Titanic belongs to the 1912."
   },
   {
-   "id": "indian-history-00892",
+   "id": "indian-history-00912",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Simon Commission arrived in India - 1922",
@@ -13395,7 +13695,7 @@
    "e": "Only Simon Commission arrived in India - 1928 is correctly matched."
   },
   {
-   "id": "indian-history-00893",
+   "id": "indian-history-00913",
    "q": "To which century does the following event belong: Cuban Missile Crisis?",
    "o": [
     "18th century",
@@ -13410,7 +13710,7 @@
    "e": "Cuban Missile Crisis belongs to the 1962."
   },
   {
-   "id": "indian-history-00894",
+   "id": "indian-history-00914",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Formation of the Azad Hind Fauj (INA) - 1943",
@@ -13425,7 +13725,7 @@
    "e": "Only Formation of the Azad Hind Fauj (INA) - 1943 is correctly matched."
   },
   {
-   "id": "indian-history-00895",
+   "id": "indian-history-00915",
    "q": "To which century does the following event belong: End of World War II?",
    "o": [
     "21st century",
@@ -13440,7 +13740,7 @@
    "e": "End of World War II belongs to the 1945."
   },
   {
-   "id": "indian-history-00896",
+   "id": "indian-history-00916",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Formation of the Azad Hind Fauj (INA) - 1935",
@@ -13455,7 +13755,7 @@
    "e": "Only Formation of the Azad Hind Fauj (INA) - 1943 is correctly matched."
   },
   {
-   "id": "indian-history-00897",
+   "id": "indian-history-00917",
    "q": "To which century does the following event belong: American Declaration of Independence?",
    "o": [
     "19th century",
@@ -13470,7 +13770,7 @@
    "e": "American Declaration of Independence belongs to the 1776."
   },
   {
-   "id": "indian-history-00898",
+   "id": "indian-history-00918",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Founding of the All India Muslim League - 1971",
@@ -13485,7 +13785,7 @@
    "e": "Only Founding of the All India Muslim League - 1906 is correctly matched."
   },
   {
-   "id": "indian-history-00899",
+   "id": "indian-history-00919",
    "q": "To which century does the following event belong: Treaty of Versailles signed?",
    "o": [
     "19th century",
@@ -13500,7 +13800,7 @@
    "e": "Treaty of Versailles signed belongs to the 1919."
   },
   {
-   "id": "indian-history-00900",
+   "id": "indian-history-00920",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Founding of the All India Muslim League - 1906",
@@ -13515,7 +13815,7 @@
    "e": "Only Founding of the All India Muslim League - 1906 is correctly matched."
   },
   {
-   "id": "indian-history-00901",
+   "id": "indian-history-00921",
    "q": "To which century does the following event belong: Assassination of Abraham Lincoln?",
    "o": [
     "19th century",
@@ -13530,7 +13830,7 @@
    "e": "Assassination of Abraham Lincoln belongs to the 1865."
   },
   {
-   "id": "indian-history-00902",
+   "id": "indian-history-00922",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Bangladesh liberation war involving India - 1919",
@@ -13545,7 +13845,7 @@
    "e": "Only Bangladesh liberation war involving India - 1971 is correctly matched."
   },
   {
-   "id": "indian-history-00903",
+   "id": "indian-history-00923",
    "q": "To which century does the following event belong: Iranian Revolution?",
    "o": [
     "21st century",
@@ -13560,7 +13860,7 @@
    "e": "Iranian Revolution belongs to the 1979."
   },
   {
-   "id": "indian-history-00904",
+   "id": "indian-history-00924",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Bangladesh liberation war involving India - 2008",
@@ -13575,7 +13875,7 @@
    "e": "Only Bangladesh liberation war involving India - 1971 is correctly matched."
   },
   {
-   "id": "indian-history-00905",
+   "id": "indian-history-00925",
    "q": "To which century does the following event belong: COVID-19 declared a pandemic by WHO?",
    "o": [
     "21st century",
@@ -13590,7 +13890,7 @@
    "e": "COVID-19 declared a pandemic by WHO belongs to the 2020."
   },
   {
-   "id": "indian-history-00906",
+   "id": "indian-history-00926",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Mumbai terror attacks - 1946",
@@ -13605,7 +13905,7 @@
    "e": "Only Mumbai terror attacks - 2008 is correctly matched."
   },
   {
-   "id": "indian-history-00907",
+   "id": "indian-history-00927",
    "q": "To which century does the following event belong: Founding of the World Health Organization?",
    "o": [
     "18th century",
@@ -13620,7 +13920,7 @@
    "e": "Founding of the World Health Organization belongs to the 1948."
   },
   {
-   "id": "indian-history-00908",
+   "id": "indian-history-00928",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Mumbai terror attacks - 1948",
@@ -13635,7 +13935,7 @@
    "e": "Only Mumbai terror attacks - 2008 is correctly matched."
   },
   {
-   "id": "indian-history-00909",
+   "id": "indian-history-00929",
    "q": "To which century does the following event belong: Founding of NATO?",
    "o": [
     "20th century",
@@ -13650,7 +13950,7 @@
    "e": "Founding of NATO belongs to the 1949."
   },
   {
-   "id": "indian-history-00910",
+   "id": "indian-history-00930",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "India won the Cricket World Cup - 1950",
@@ -13665,7 +13965,7 @@
    "e": "Only India won the Cricket World Cup - 1983 is correctly matched."
   },
   {
-   "id": "indian-history-00911",
+   "id": "indian-history-00931",
    "q": "To which century does the following event belong: Founding of the People's Republic of China?",
    "o": [
     "20th century",
@@ -13680,7 +13980,7 @@
    "e": "Founding of the People's Republic of China belongs to the 1949."
   },
   {
-   "id": "indian-history-00912",
+   "id": "indian-history-00932",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "India won the Cricket World Cup - 1906",
@@ -13695,7 +13995,7 @@
    "e": "Only India won the Cricket World Cup - 1983 is correctly matched."
   },
   {
-   "id": "indian-history-00913",
+   "id": "indian-history-00933",
    "q": "To which century does the following event belong: Founding of the League of Nations?",
    "o": [
     "16th century",
@@ -13710,7 +14010,7 @@
    "e": "Founding of the League of Nations belongs to the 1920."
   },
   {
-   "id": "indian-history-00914",
+   "id": "indian-history-00934",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Indira Gandhi became Prime Minister - 2008",
@@ -13725,7 +14025,7 @@
    "e": "Only Indira Gandhi became Prime Minister - 1966 is correctly matched."
   },
   {
-   "id": "indian-history-00915",
+   "id": "indian-history-00935",
    "q": "To which century does the following event belong: First powered flight by the Wright brothers?",
    "o": [
     "20th century",
@@ -13740,7 +14040,7 @@
    "e": "First powered flight by the Wright brothers belongs to the 1903."
   },
   {
-   "id": "indian-history-00916",
+   "id": "indian-history-00936",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Indira Gandhi became Prime Minister - 1984",
@@ -13755,7 +14055,7 @@
    "e": "Only Indira Gandhi became Prime Minister - 1966 is correctly matched."
   },
   {
-   "id": "indian-history-00917",
+   "id": "indian-history-00937",
    "q": "To which century does the following event belong: Establishment of the World Trade Organization?",
    "o": [
     "20th century",
@@ -13770,7 +14070,7 @@
    "e": "Establishment of the World Trade Organization belongs to the 1995."
   },
   {
-   "id": "indian-history-00918",
+   "id": "indian-history-00938",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Liberation of Goa - 1922",
@@ -13785,7 +14085,7 @@
    "e": "Only Liberation of Goa - 1961 is correctly matched."
   },
   {
-   "id": "indian-history-00919",
+   "id": "indian-history-00939",
    "q": "To which century does the following event belong: Beginning of the Korean War?",
    "o": [
     "16th century",
@@ -13800,7 +14100,7 @@
    "e": "Beginning of the Korean War belongs to the 1950."
   },
   {
-   "id": "indian-history-00920",
+   "id": "indian-history-00940",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Liberation of Goa - 1922",
@@ -13815,7 +14115,7 @@
    "e": "Only Liberation of Goa - 1961 is correctly matched."
   },
   {
-   "id": "indian-history-00921",
+   "id": "indian-history-00941",
    "q": "To which century does the following event belong: Columbus reached the Americas?",
    "o": [
     "16th century",
@@ -13830,7 +14130,7 @@
    "e": "Columbus reached the Americas belongs to the 1492."
   },
   {
-   "id": "indian-history-00922",
+   "id": "indian-history-00942",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Demonetisation of high value currency notes - 1971",
@@ -13845,7 +14145,7 @@
    "e": "Only Demonetisation of high value currency notes - 2016 is correctly matched."
   },
   {
-   "id": "indian-history-00923",
+   "id": "indian-history-00943",
    "q": "To which century does the following event belong: Formation of the USSR?",
    "o": [
     "21st century",
@@ -13860,7 +14160,7 @@
    "e": "Formation of the USSR belongs to the 1922."
   },
   {
-   "id": "indian-history-00924",
+   "id": "indian-history-00944",
    "q": "Which of the following pairs of event and year is correctly matched?",
    "o": [
     "Demonetisation of high value currency notes - 2001",
@@ -13875,7 +14175,7 @@
    "e": "Only Demonetisation of high value currency notes - 2016 is correctly matched."
   },
   {
-   "id": "indian-history-00925",
+   "id": "indian-history-00945",
    "q": "To which century does the following event belong: Fall of Constantinople?",
    "o": [
     "19th century",
@@ -13890,7 +14190,7 @@
    "e": "Fall of Constantinople belongs to the 1453."
   },
   {
-   "id": "indian-history-00926",
+   "id": "indian-history-00946",
    "q": "Which of the following pairs of event and year is NOT correctly matched?",
    "o": [
     "First Five Year Plan launched - 1951",
@@ -13905,7 +14205,7 @@
    "e": "The pair Shimla Agreement signed - 1962 is not correctly matched."
   },
   {
-   "id": "indian-history-00927",
+   "id": "indian-history-00947",
    "q": "To which century does the following event belong: End of World War I?",
    "o": [
     "20th century",
@@ -13920,7 +14220,7 @@
    "e": "End of World War I belongs to the 1918."
   },
   {
-   "id": "indian-history-00928",
+   "id": "indian-history-00948",
    "q": "Which of the following pairs of event and year is NOT correctly matched?",
    "o": [
     "Partition of Bengal by Lord Curzon - 1905",
@@ -13935,7 +14235,7 @@
    "e": "The pair Chandrayaan-3 soft landing near the lunar south pole - 1857 is not correctly matched."
   },
   {
-   "id": "indian-history-00929",
+   "id": "indian-history-00949",
    "q": "To which century does the following event belong: Defeat of the Spanish Armada?",
    "o": [
     "20th century",
@@ -13950,7 +14250,7 @@
    "e": "Defeat of the Spanish Armada belongs to the 1588."
   },
   {
-   "id": "indian-history-00930",
+   "id": "indian-history-00950",
    "q": "Which of the following pairs of event and year is NOT correctly matched?",
    "o": [
     "First meeting of the Constituent Assembly - 1946",
@@ -13965,7 +14265,7 @@
    "e": "The pair Royal Indian Navy Mutiny - 1984 is not correctly matched."
   },
   {
-   "id": "indian-history-00931",
+   "id": "indian-history-00951",
    "q": "To which century does the following event belong: Beginning of the French Revolution?",
    "o": [
     "20th century",
@@ -13980,7 +14280,7 @@
    "e": "Beginning of the French Revolution belongs to the 1789."
   },
   {
-   "id": "indian-history-00932",
+   "id": "indian-history-00952",
    "q": "Which of the following pairs of event and year is NOT correctly matched?",
    "o": [
     "Chauri Chaura incident - 1922",
@@ -13995,7 +14295,7 @@
    "e": "The pair Government of India Act passed - 1929 is not correctly matched."
   },
   {
-   "id": "indian-history-00933",
+   "id": "indian-history-00953",
    "q": "To which century does the following event belong: Paris Climate Agreement adopted?",
    "o": [
     "21st century",
@@ -14010,7 +14310,7 @@
    "e": "Paris Climate Agreement adopted belongs to the 2015."
   },
   {
-   "id": "indian-history-00934",
+   "id": "indian-history-00954",
    "q": "Which of the following pairs of event and year is NOT correctly matched?",
    "o": [
     "Quit India Movement launched - 1942",
@@ -14025,7 +14325,7 @@
    "e": "The pair Assassination of Mahatma Gandhi - 1930 is not correctly matched."
   },
   {
-   "id": "indian-history-00935",
+   "id": "indian-history-00955",
    "q": "To which century does the following event belong: Return of Hong Kong to China?",
    "o": [
     "16th century",
@@ -14040,7 +14340,7 @@
    "e": "Return of Hong Kong to China belongs to the 1997."
   },
   {
-   "id": "indian-history-00936",
+   "id": "indian-history-00956",
    "q": "Which of the following pairs of event and year is NOT correctly matched?",
    "o": [
     "Formation of the Azad Hind Fauj (INA) - 1943",
@@ -14055,7 +14355,7 @@
    "e": "The pair Pokhran-II nuclear tests - 1942 is not correctly matched."
   },
   {
-   "id": "indian-history-00937",
+   "id": "indian-history-00957",
    "q": "To which century does the following event belong: Apollo 11 Moon landing?",
    "o": [
     "15th century",
@@ -14070,7 +14370,7 @@
    "e": "Apollo 11 Moon landing belongs to the 1969."
   },
   {
-   "id": "indian-history-00938",
+   "id": "indian-history-00958",
    "q": "Which of the following pairs of event and year is NOT correctly matched?",
    "o": [
     "Mumbai terror attacks - 2008",
@@ -14085,7 +14385,7 @@
    "e": "The pair First meeting of the Constituent Assembly - 1906 is not correctly matched."
   },
   {
-   "id": "indian-history-00939",
+   "id": "indian-history-00959",
    "q": "To which century does the following event belong: September 11 attacks in the United States?",
    "o": [
     "20th century",
@@ -14100,7 +14400,7 @@
    "e": "September 11 attacks in the United States belongs to the 2001."
   },
   {
-   "id": "indian-history-00940",
+   "id": "indian-history-00960",
    "q": "Which of the following pairs of event and year is NOT correctly matched?",
    "o": [
     "Pokhran-II nuclear tests - 1998",
@@ -14115,7 +14415,7 @@
    "e": "The pair First War of Indian Independence (Revolt of 1857) - 1962 is not correctly matched."
   },
   {
-   "id": "indian-history-00941",
+   "id": "indian-history-00961",
    "q": "To which century does the following event belong: Chernobyl disaster?",
    "o": [
     "20th century",
@@ -14130,7 +14430,7 @@
    "e": "Chernobyl disaster belongs to the 1986."
   },
   {
-   "id": "indian-history-00942",
+   "id": "indian-history-00962",
    "q": "Which of the following pairs of event and year is NOT correctly matched?",
    "o": [
     "Founding of the Indian National Congress - 1885",
@@ -14145,7 +14445,7 @@
    "e": "The pair Quit India Movement launched - 2016 is not correctly matched."
   },
   {
-   "id": "indian-history-00943",
+   "id": "indian-history-00963",
    "q": "To which century does the following event belong: Battle of Waterloo?",
    "o": [
     "13th century",
@@ -14160,7 +14460,7 @@
    "e": "Battle of Waterloo belongs to the 1815."
   },
   {
-   "id": "indian-history-00944",
+   "id": "indian-history-00964",
    "q": "Which of the following pairs of event and year is NOT correctly matched?",
    "o": [
     "Janata Party formed the government at the Centre - 1977",
@@ -14175,7 +14475,7 @@
    "e": "The pair Constitution of India came into force - 1946 is not correctly matched."
   },
   {
-   "id": "indian-history-00945",
+   "id": "indian-history-00965",
    "q": "To which century does the following event belong: Unification of Germany?",
    "o": [
     "21st century",
@@ -14190,7 +14490,7 @@
    "e": "Unification of Germany belongs to the 1871."
   },
   {
-   "id": "indian-history-00946",
+   "id": "indian-history-00966",
    "q": "Which of the following pairs of event and year is NOT correctly matched?",
    "o": [
     "Founding of the Indian National Congress - 1885",
@@ -14205,7 +14505,7 @@
    "e": "The pair Partition of Bengal by Lord Curzon - 1983 is not correctly matched."
   },
   {
-   "id": "indian-history-00947",
+   "id": "indian-history-00967",
    "q": "To which century does the following event belong: Release of Nelson Mandela from prison?",
    "o": [
     "17th century",
@@ -14220,7 +14520,7 @@
    "e": "Release of Nelson Mandela from prison belongs to the 1990."
   },
   {
-   "id": "indian-history-00948",
+   "id": "indian-history-00968",
    "q": "Which of the following pairs of event and year is NOT correctly matched?",
    "o": [
     "Chauri Chaura incident - 1922",
@@ -14235,7 +14535,7 @@
    "e": "The pair Jallianwala Bagh massacre - 2016 is not correctly matched."
   },
   {
-   "id": "indian-history-00949",
+   "id": "indian-history-00969",
    "q": "To which century does the following event belong: Establishment of the East India Company?",
    "o": [
     "20th century",
@@ -14250,7 +14550,7 @@
    "e": "Establishment of the East India Company belongs to the 1600."
   },
   {
-   "id": "indian-history-00950",
+   "id": "indian-history-00970",
    "q": "Which of the following pairs of event and year is NOT correctly matched?",
    "o": [
     "Attack on the Indian Parliament - 2001",
@@ -14265,7 +14565,7 @@
    "e": "The pair Chauri Chaura incident - 1930 is not correctly matched."
   },
   {
-   "id": "indian-history-00951",
+   "id": "indian-history-00971",
    "q": "To which century does the following event belong: Global financial crisis?",
    "o": [
     "21st century",
@@ -14280,7 +14580,7 @@
    "e": "Global financial crisis belongs to the 2008."
   },
   {
-   "id": "indian-history-00952",
+   "id": "indian-history-00972",
    "q": "Which of the following pairs of event and year is NOT correctly matched?",
    "o": [
     "India-China border war - 1962",
@@ -14295,7 +14595,7 @@
    "e": "The pair First general elections held in India - 1999 is not correctly matched."
   },
   {
-   "id": "indian-history-00953",
+   "id": "indian-history-00973",
    "q": "To which century does the following event belong: Rio Earth Summit?",
    "o": [
     "16th century",
@@ -14310,7 +14610,7 @@
    "e": "Rio Earth Summit belongs to the 1992."
   },
   {
-   "id": "indian-history-00954",
+   "id": "indian-history-00974",
    "q": "Which of the following pairs of event and year is NOT correctly matched?",
    "o": [
     "India-China border war - 1962",
@@ -14325,7 +14625,7 @@
    "e": "The pair Dandi March launched by Mahatma Gandhi - 1906 is not correctly matched."
   },
   {
-   "id": "indian-history-00955",
+   "id": "indian-history-00975",
    "q": "To which century does the following event belong: Attack on Pearl Harbor?",
    "o": [
     "15th century",
@@ -14340,7 +14640,7 @@
    "e": "Attack on Pearl Harbor belongs to the 1941."
   },
   {
-   "id": "indian-history-00956",
+   "id": "indian-history-00976",
    "q": "Which of the following pairs of event and year is NOT correctly matched?",
    "o": [
     "Attack on the Indian Parliament - 1947",
@@ -14355,7 +14655,7 @@
    "e": "The pair Attack on the Indian Parliament - 1947 is not correctly matched."
   },
   {
-   "id": "indian-history-00957",
+   "id": "indian-history-00977",
    "q": "To which century does the following event belong: Adoption of the UN Sustainable Development Goals?",
    "o": [
     "21st century",
@@ -14370,7 +14670,7 @@
    "e": "Adoption of the UN Sustainable Development Goals belongs to the 2015."
   },
   {
-   "id": "indian-history-00958",
+   "id": "indian-history-00978",
    "q": "Which of the following pairs of event and year is NOT correctly matched?",
    "o": [
     "First meeting of the Constituent Assembly - 1946",
@@ -14385,7 +14685,7 @@
    "e": "The pair Operation Blue Star - 2019 is not correctly matched."
   },
   {
-   "id": "indian-history-00959",
+   "id": "indian-history-00979",
    "q": "To which century does the following event belong: D-Day landings in Normandy?",
    "o": [
     "16th century",
@@ -14400,7 +14700,7 @@
    "e": "D-Day landings in Normandy belongs to the 1944."
   },
   {
-   "id": "indian-history-00960",
+   "id": "indian-history-00980",
    "q": "Which of the following pairs of event and year is NOT correctly matched?",
    "o": [
     "Janata Party formed the government at the Centre - 1977",
@@ -14415,7 +14715,7 @@
    "e": "The pair Founding of the All India Muslim League - 1919 is not correctly matched."
   },
   {
-   "id": "indian-history-00961",
+   "id": "indian-history-00981",
    "q": "To which century does the following event belong: Publication of the Communist Manifesto?",
    "o": [
     "16th century",
@@ -14430,7 +14730,7 @@
    "e": "Publication of the Communist Manifesto belongs to the 1848."
   },
   {
-   "id": "indian-history-00962",
+   "id": "indian-history-00982",
    "q": "Which of the following pairs of event and year is NOT correctly matched?",
    "o": [
     "First general elections held in India - 1952",
@@ -14445,7 +14745,7 @@
    "e": "The pair India-Pakistan war and Tashkent Agreement - 1942 is not correctly matched."
   },
   {
-   "id": "indian-history-00963",
+   "id": "indian-history-00983",
    "q": "To which century does the following event belong: Assassination of John F. Kennedy?",
    "o": [
     "16th century",
@@ -14460,7 +14760,7 @@
    "e": "Assassination of John F. Kennedy belongs to the 1963."
   },
   {
-   "id": "indian-history-00964",
+   "id": "indian-history-00984",
    "q": "Which of the following pairs of event and year is NOT correctly matched?",
    "o": [
     "Pokhran-II nuclear tests - 1998",
@@ -14475,7 +14775,7 @@
    "e": "The pair India won the Cricket World Cup - 1928 is not correctly matched."
   },
   {
-   "id": "indian-history-00965",
+   "id": "indian-history-00985",
    "q": "To which century does the following event belong: Hitler became Chancellor of Germany?",
    "o": [
     "17th century",
@@ -14490,7 +14790,7 @@
    "e": "Hitler became Chancellor of Germany belongs to the 1933."
   },
   {
-   "id": "indian-history-00966",
+   "id": "indian-history-00986",
    "q": "Which of the following pairs of event and year is NOT correctly matched?",
    "o": [
     "Founding of the All India Muslim League - 1906",
@@ -14505,7 +14805,7 @@
    "e": "The pair Demonetisation of high value currency notes - 1972 is not correctly matched."
   },
   {
-   "id": "indian-history-00967",
+   "id": "indian-history-00987",
    "q": "To which century does the following event belong: Nelson Mandela became President of South Africa?",
    "o": [
     "15th century",
@@ -14520,7 +14820,7 @@
    "e": "Nelson Mandela became President of South Africa belongs to the 1994."
   },
   {
-   "id": "indian-history-00968",
+   "id": "indian-history-00988",
    "q": "Which of the following pairs of event and year is NOT correctly matched?",
    "o": [
     "Shimla Agreement signed - 1972",
@@ -14535,7 +14835,7 @@
    "e": "The pair Poona Pact signed - 1885 is not correctly matched."
   },
   {
-   "id": "indian-history-00969",
+   "id": "indian-history-00989",
    "q": "To which century does the following event belong: Cuban Revolution?",
    "o": [
     "19th century",
@@ -14550,7 +14850,7 @@
    "e": "Cuban Revolution belongs to the 1959."
   },
   {
-   "id": "indian-history-00970",
+   "id": "indian-history-00990",
    "q": "Which of the following pairs of event and year is NOT correctly matched?",
    "o": [
     "Royal Indian Navy Mutiny - 1946",
@@ -14565,7 +14865,7 @@
    "e": "The pair Mars Orbiter Mission entered Mars orbit - 1920 is not correctly matched."
   },
   {
-   "id": "indian-history-00971",
+   "id": "indian-history-00991",
    "q": "To which century does the following event belong: Russian Revolution?",
    "o": [
     "18th century",
@@ -14580,7 +14880,7 @@
    "e": "Russian Revolution belongs to the 1917."
   },
   {
-   "id": "indian-history-00972",
+   "id": "indian-history-00992",
    "q": "Which of the following pairs of event and year is NOT correctly matched?",
    "o": [
     "Simon Commission arrived in India - 1920",
@@ -14595,7 +14895,7 @@
    "e": "The pair Simon Commission arrived in India - 1920 is not correctly matched."
   },
   {
-   "id": "indian-history-00973",
+   "id": "indian-history-00993",
    "q": "To which century does the following event belong: Signing of the Magna Carta?",
    "o": [
     "13th century",
@@ -14610,7 +14910,7 @@
    "e": "Signing of the Magna Carta belongs to the 1215."
   },
   {
-   "id": "indian-history-00974",
+   "id": "indian-history-00994",
    "q": "Which of the following pairs of event and year is NOT correctly matched?",
    "o": [
     "Partition of Bengal by Lord Curzon - 1905",
@@ -14625,7 +14925,7 @@
    "e": "The pair Founding of the Indian National Congress - 1919 is not correctly matched."
   },
   {
-   "id": "indian-history-00975",
+   "id": "indian-history-00995",
    "q": "To which century does the following event belong: First ascent of Mount Everest?",
    "o": [
     "13th century",
@@ -14640,7 +14940,7 @@
    "e": "First ascent of Mount Everest belongs to the 1953."
   },
   {
-   "id": "indian-history-00976",
+   "id": "indian-history-00996",
    "q": "Which of the following pairs of event and year is NOT correctly matched?",
    "o": [
     "Government of India Act passed - 1935",
@@ -14655,7 +14955,7 @@
    "e": "The pair Article 370 provisions abrogated - 1977 is not correctly matched."
   },
   {
-   "id": "indian-history-00977",
+   "id": "indian-history-00997",
    "q": "To which century does the following event belong: Wall Street Crash and start of the Great Depression?",
    "o": [
     "21st century",
@@ -14670,7 +14970,7 @@
    "e": "Wall Street Crash and start of the Great Depression belongs to the 1929."
   },
   {
-   "id": "indian-history-00978",
+   "id": "indian-history-00998",
    "q": "Which of the following pairs of event and year is NOT correctly matched?",
    "o": [
     "Gandhi-Irwin Pact signed - 1931",
@@ -14685,7 +14985,7 @@
    "e": "The pair Purna Swaraj declared at the Lahore session - 2023 is not correctly matched."
   },
   {
-   "id": "indian-history-00979",
+   "id": "indian-history-00999",
    "q": "To which century does the following event belong: Yuri Gagarin became the first human in space?",
    "o": [
     "16th century",
@@ -14700,7 +15000,7 @@
    "e": "Yuri Gagarin became the first human in space belongs to the 1961."
   },
   {
-   "id": "indian-history-00980",
+   "id": "indian-history-01000",
    "q": "Which of the following pairs of event and year is NOT correctly matched?",
    "o": [
     "First general elections held in India - 1952",
@@ -14713,306 +15013,6 @@
    "l": 3,
    "s": "generated",
    "e": "The pair India signed the civil nuclear deal with the USA - 1975 is not correctly matched."
-  },
-  {
-   "id": "indian-history-00981",
-   "q": "To which century does the following event belong: Bandung Conference?",
-   "o": [
-    "16th century",
-    "15th century",
-    "19th century",
-    "20th century"
-   ],
-   "a": 3,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Bandung Conference belongs to the 1955."
-  },
-  {
-   "id": "indian-history-00982",
-   "q": "Which of the following pairs of event and year is NOT correctly matched?",
-   "o": [
-    "Partition of Bengal by Lord Curzon - 1905",
-    "Bhopal gas tragedy - 1928",
-    "Launch of the Non-Cooperation Movement - 1920",
-    "Pokhran-I nuclear test (Smiling Buddha) - 1974"
-   ],
-   "a": 1,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Bhopal gas tragedy - 1928 is not correctly matched."
-  },
-  {
-   "id": "indian-history-00983",
-   "q": "To which century does the following event belong: Treaty of Rome establishing the EEC?",
-   "o": [
-    "20th century",
-    "18th century",
-    "19th century",
-    "17th century"
-   ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Treaty of Rome establishing the EEC belongs to the 1957."
-  },
-  {
-   "id": "indian-history-00984",
-   "q": "Which of the following pairs of event and year is NOT correctly matched?",
-   "o": [
-    "Liberation of Goa - 1961",
-    "Purna Swaraj declared at the Lahore session - 1929",
-    "Assassination of Mahatma Gandhi - 1948",
-    "Mumbai terror attacks - 1966"
-   ],
-   "a": 3,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Mumbai terror attacks - 1966 is not correctly matched."
-  },
-  {
-   "id": "indian-history-00985",
-   "q": "To which century does the following event belong: Formation of the European Union by the Maastricht Treaty?",
-   "o": [
-    "19th century",
-    "20th century",
-    "17th century",
-    "15th century"
-   ],
-   "a": 1,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Formation of the European Union by the Maastricht Treaty belongs to the 1993."
-  },
-  {
-   "id": "indian-history-00986",
-   "q": "Which of the following pairs of event and year is NOT correctly matched?",
-   "o": [
-    "Demonetisation of high value currency notes - 2016",
-    "Mars Orbiter Mission entered Mars orbit - 2014",
-    "Formation of the Azad Hind Fauj (INA) - 2019",
-    "Government of India Act passed - 1935"
-   ],
-   "a": 2,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Formation of the Azad Hind Fauj (INA) - 2019 is not correctly matched."
-  },
-  {
-   "id": "indian-history-00987",
-   "q": "To which century does the following event belong: Beginning of World War II?",
-   "o": [
-    "16th century",
-    "19th century",
-    "17th century",
-    "20th century"
-   ],
-   "a": 3,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Beginning of World War II belongs to the 1939."
-  },
-  {
-   "id": "indian-history-00988",
-   "q": "Which of the following pairs of event and year is NOT correctly matched?",
-   "o": [
-    "Attack on the Indian Parliament - 2001",
-    "Royal Indian Navy Mutiny - 1946",
-    "Indira Gandhi became Prime Minister - 1965",
-    "National Emergency declared in India - 1975"
-   ],
-   "a": 2,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Indira Gandhi became Prime Minister - 1965 is not correctly matched."
-  },
-  {
-   "id": "indian-history-00989",
-   "q": "To which century does the following event belong: Universal Declaration of Human Rights adopted?",
-   "o": [
-    "19th century",
-    "21st century",
-    "17th century",
-    "20th century"
-   ],
-   "a": 3,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Universal Declaration of Human Rights adopted belongs to the 1948."
-  },
-  {
-   "id": "indian-history-00990",
-   "q": "Which of the following pairs of event and year is NOT correctly matched?",
-   "o": [
-    "Demonetisation of high value currency notes - 2016",
-    "G20 Summit hosted in New Delhi - 1905",
-    "India signed the civil nuclear deal with the USA - 2008",
-    "First War of Indian Independence (Revolt of 1857) - 1857"
-   ],
-   "a": 1,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair G20 Summit hosted in New Delhi - 1905 is not correctly matched."
-  },
-  {
-   "id": "indian-history-00991",
-   "q": "To which century does the following event belong: Vasco da Gama reached India by sea?",
-   "o": [
-    "20th century",
-    "19th century",
-    "15th century",
-    "13th century"
-   ],
-   "a": 2,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Vasco da Gama reached India by sea belongs to the 1498."
-  },
-  {
-   "id": "indian-history-00992",
-   "q": "Which of the following pairs of event and year is NOT correctly matched?",
-   "o": [
-    "Constitution of India came into force - 1950",
-    "Jallianwala Bagh massacre - 1919",
-    "G20 Summit hosted in New Delhi - 2023",
-    "National Emergency declared in India - 1984"
-   ],
-   "a": 3,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair National Emergency declared in India - 1984 is not correctly matched."
-  },
-  {
-   "id": "indian-history-00993",
-   "q": "To which century does the following event belong: Beginning of the American Civil War?",
-   "o": [
-    "15th century",
-    "21st century",
-    "19th century",
-    "20th century"
-   ],
-   "a": 2,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Beginning of the American Civil War belongs to the 1861."
-  },
-  {
-   "id": "indian-history-00994",
-   "q": "Which of the following pairs of event and year is NOT correctly matched?",
-   "o": [
-    "Chandrayaan-3 soft landing near the lunar south pole - 2023",
-    "Royal Indian Navy Mutiny - 1946",
-    "Pokhran-I nuclear test (Smiling Buddha) - 2008",
-    "Chauri Chaura incident - 1922"
-   ],
-   "a": 2,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Pokhran-I nuclear test (Smiling Buddha) - 2008 is not correctly matched."
-  },
-  {
-   "id": "indian-history-00995",
-   "q": "To which century does the following event belong: Glorious Revolution in England?",
-   "o": [
-    "18th century",
-    "20th century",
-    "17th century",
-    "16th century"
-   ],
-   "a": 2,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Glorious Revolution in England belongs to the 1688."
-  },
-  {
-   "id": "indian-history-00996",
-   "q": "Which of the following pairs of event and year is NOT correctly matched?",
-   "o": [
-    "Founding of the All India Muslim League - 1906",
-    "Janata Party formed the government at the Centre - 1984",
-    "India attained independence - 1947",
-    "G20 Summit hosted in New Delhi - 2023"
-   ],
-   "a": 1,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Janata Party formed the government at the Centre - 1984 is not correctly matched."
-  },
-  {
-   "id": "indian-history-00997",
-   "q": "To which century does the following event belong: Atomic bombing of Hiroshima and Nagasaki?",
-   "o": [
-    "15th century",
-    "19th century",
-    "20th century",
-    "21st century"
-   ],
-   "a": 2,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Atomic bombing of Hiroshima and Nagasaki belongs to the 1945."
-  },
-  {
-   "id": "indian-history-00998",
-   "q": "Which of the following pairs of event and year is NOT correctly matched?",
-   "o": [
-    "Partition of Bengal by Lord Curzon - 1905",
-    "Chandrayaan-1 launched - 2008",
-    "Quit India Movement launched - 1942",
-    "India attained independence - 1932"
-   ],
-   "a": 3,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair India attained independence - 1932 is not correctly matched."
-  },
-  {
-   "id": "indian-history-00999",
-   "q": "To which century does the following event belong: Peace of Westphalia?",
-   "o": [
-    "18th century",
-    "19th century",
-    "20th century",
-    "17th century"
-   ],
-   "a": 3,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Peace of Westphalia belongs to the 1648."
-  },
-  {
-   "id": "indian-history-01000",
-   "q": "Which of the following pairs of event and year is NOT correctly matched?",
-   "o": [
-    "National Emergency declared in India - 1975",
-    "Gandhi-Irwin Pact signed - 1966",
-    "Chandrayaan-1 launched - 2008",
-    "Article 370 provisions abrogated - 2019"
-   ],
-   "a": 1,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Gandhi-Irwin Pact signed - 1966 is not correctly matched."
   }
  ]
 };

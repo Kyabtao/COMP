@@ -16,6 +16,306 @@
  "questions": [
   {
    "id": "english-00001",
+   "q": "Choose the word most similar in meaning to 'abundant'.",
+   "o": [
+    "Scarce",
+    "Plentiful",
+    "Fragile",
+    "Reluctant"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Abundant means existing in large quantities, that is plentiful."
+  },
+  {
+   "id": "english-00002",
+   "q": "Choose the word most opposite in meaning to 'ancient'.",
+   "o": [
+    "Old",
+    "Modern",
+    "Historic",
+    "Ruined"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Modern is the opposite of ancient."
+  },
+  {
+   "id": "english-00003",
+   "q": "Fill in the blank: She has been living here ____ 2015.",
+   "o": [
+    "for",
+    "since",
+    "from",
+    "by"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Since is used with a point in time; for is used with a duration."
+  },
+  {
+   "id": "english-00004",
+   "q": "Identify the correctly spelt word.",
+   "o": [
+    "Recieve",
+    "Receive",
+    "Receeve",
+    "Receve"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "The rule 'i before e except after c' gives receive."
+  },
+  {
+   "id": "english-00005",
+   "q": "What is the plural of 'crisis'?",
+   "o": [
+    "Crises",
+    "Crisises",
+    "Crisis",
+    "Crisi"
+   ],
+   "a": 0,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Nouns ending in -is form the plural with -es: crisis becomes crises."
+  },
+  {
+   "id": "english-00006",
+   "q": "Choose the correct passive form: 'The boy broke the window.'",
+   "o": [
+    "The window was broken by the boy.",
+    "The window is broken by the boy.",
+    "The window had broken by the boy.",
+    "The window broke by the boy."
+   ],
+   "a": 0,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Simple past active becomes was/were plus past participle in the passive."
+  },
+  {
+   "id": "english-00007",
+   "q": "Pick the correct article: He is ____ honest man.",
+   "o": [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Honest begins with a vowel sound, so 'an' is used."
+  },
+  {
+   "id": "english-00008",
+   "q": "What does the idiom 'to let the cat out of the bag' mean?",
+   "o": [
+    "To free an animal",
+    "To reveal a secret",
+    "To create trouble",
+    "To waste time"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "It means to disclose a secret carelessly."
+  },
+  {
+   "id": "english-00009",
+   "q": "Choose the correct preposition: She is good ____ mathematics.",
+   "o": [
+    "in",
+    "at",
+    "on",
+    "with"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "Good at is used for skills and subjects."
+  },
+  {
+   "id": "english-00010",
+   "q": "Identify the part of speech of the underlined word: 'He runs quickly.' The word quickly is a:",
+   "o": [
+    "Adjective",
+    "Adverb",
+    "Noun",
+    "Verb"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Quickly describes the verb runs, so it is an adverb."
+  },
+  {
+   "id": "english-00011",
+   "q": "Choose the one-word substitute for 'a person who loves books'.",
+   "o": [
+    "Bibliophile",
+    "Philanthropist",
+    "Bibliographer",
+    "Linguist"
+   ],
+   "a": 0,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "A bibliophile is a lover or collector of books."
+  },
+  {
+   "id": "english-00012",
+   "q": "Fill in the blank: If it ____ tomorrow, we will cancel the match.",
+   "o": [
+    "will rain",
+    "rains",
+    "rained",
+    "would rain"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "In a first conditional, the if clause takes the simple present."
+  },
+  {
+   "id": "english-00013",
+   "q": "Choose the correct comparative form of 'bad'.",
+   "o": [
+    "Badder",
+    "Worse",
+    "Worst",
+    "More bad"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Bad has the irregular comparative worse and superlative worst."
+  },
+  {
+   "id": "english-00014",
+   "q": "What is the antonym of 'transparent'?",
+   "o": [
+    "Clear",
+    "Opaque",
+    "Visible",
+    "Bright"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Opaque means not able to be seen through."
+  },
+  {
+   "id": "english-00015",
+   "q": "Choose the correctly punctuated sentence.",
+   "o": [
+    "Where are you going?",
+    "Where are you going.",
+    "Where are you going!",
+    "Where, are you going?"
+   ],
+   "a": 0,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "A direct question ends with a question mark."
+  },
+  {
+   "id": "english-00016",
+   "q": "Identify the error: 'One of my friend is a doctor.'",
+   "o": [
+    "One of",
+    "my friend",
+    "is",
+    "a doctor"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 3,
+   "s": "curated",
+   "e": "One of takes a plural noun: one of my friends."
+  },
+  {
+   "id": "english-00017",
+   "q": "What is the meaning of the idiom 'a blessing in disguise'?",
+   "o": [
+    "A hidden curse",
+    "An apparent misfortune that turns out well",
+    "A religious ritual",
+    "A false promise"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "It describes something that seems bad but produces a good result."
+  },
+  {
+   "id": "english-00018",
+   "q": "Choose the correct indirect speech: He said, 'I am tired.'",
+   "o": [
+    "He said that he is tired.",
+    "He said that he was tired.",
+    "He said that I was tired.",
+    "He says that he was tired."
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "The present tense shifts to the past in reported speech."
+  },
+  {
+   "id": "english-00019",
+   "q": "What is the feminine gender of 'bachelor'?",
+   "o": [
+    "Spinster",
+    "Widow",
+    "Madam",
+    "Lady"
+   ],
+   "a": 0,
+   "t": "Curated",
+   "l": 2,
+   "s": "curated",
+   "e": "An unmarried woman is called a spinster."
+  },
+  {
+   "id": "english-00020",
+   "q": "Choose the word that is a synonym of 'diligent'.",
+   "o": [
+    "Lazy",
+    "Hardworking",
+    "Careless",
+    "Slow"
+   ],
+   "a": 1,
+   "t": "Curated",
+   "l": 1,
+   "s": "curated",
+   "e": "Diligent means showing steady careful effort, that is hardworking."
+  },
+  {
+   "id": "english-00021",
    "q": "Choose the word most similar in meaning to Euphoria.",
    "o": [
     "Arrogant",
@@ -30,7 +330,7 @@
    "e": "Euphoria means Elation."
   },
   {
-   "id": "english-00002",
+   "id": "english-00022",
    "q": "Choose the word most opposite in meaning to Vehement.",
    "o": [
     "Fine",
@@ -45,7 +345,7 @@
    "e": "The opposite of Vehement is Mild."
   },
   {
-   "id": "english-00003",
+   "id": "english-00023",
    "q": "What is the meaning of the idiom 'To cool one's heels'?",
    "o": [
     "To be kept waiting",
@@ -60,7 +360,7 @@
    "e": "'To cool one's heels' means To be kept waiting."
   },
   {
-   "id": "english-00004",
+   "id": "english-00024",
    "q": "Choose the one word substitute for: One who hates mankind",
    "o": [
     "Biennials",
@@ -75,7 +375,7 @@
    "e": "One who hates mankind — Misanthrope."
   },
   {
-   "id": "english-00005",
+   "id": "english-00025",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Foreign",
@@ -90,7 +390,7 @@
    "e": "The correct spelling is Mathematics."
   },
   {
-   "id": "english-00006",
+   "id": "english-00026",
    "q": "What is the plural of Curriculum?",
    "o": [
     "Curricula",
@@ -105,7 +405,7 @@
    "e": "The plural of Curriculum is Curricula."
   },
   {
-   "id": "english-00007",
+   "id": "english-00027",
    "q": "What is the feminine form of Drake?",
    "o": [
     "Duck",
@@ -120,7 +420,7 @@
    "e": "The feminine of Drake is Duck."
   },
   {
-   "id": "english-00008",
+   "id": "english-00028",
    "q": "What is the comparative degree of Strong?",
    "o": [
     "Stronger",
@@ -135,7 +435,7 @@
    "e": "Strong — Stronger — Strongest."
   },
   {
-   "id": "english-00009",
+   "id": "english-00029",
    "q": "Fill in the blank with the correct preposition: He is capable ____ doing this work.",
    "o": [
     "of",
@@ -150,7 +450,7 @@
    "e": "The correct preposition is 'of'."
   },
   {
-   "id": "english-00010",
+   "id": "english-00030",
    "q": "What is the collective noun for a group of lions?",
    "o": [
     "Admission",
@@ -165,7 +465,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00011",
+   "id": "english-00031",
    "q": "Choose the word most similar in meaning to Somnolent.",
    "o": [
     "Friendly",
@@ -180,7 +480,7 @@
    "e": "Somnolent means Sleepy."
   },
   {
-   "id": "english-00012",
+   "id": "english-00032",
    "q": "Choose the word most opposite in meaning to Serene.",
    "o": [
     "Sensible",
@@ -195,7 +495,7 @@
    "e": "The opposite of Serene is Turbulent."
   },
   {
-   "id": "english-00013",
+   "id": "english-00033",
    "q": "What is the meaning of the idiom 'An apple of discord'?",
    "o": [
     "Unable to speak plainly",
@@ -210,7 +510,7 @@
    "e": "'An apple of discord' means A cause of quarrel."
   },
   {
-   "id": "english-00014",
+   "id": "english-00034",
    "q": "Choose the one word substitute for: A medicine that reduces pain",
    "o": [
     "Aquarium",
@@ -225,7 +525,7 @@
    "e": "A medicine that reduces pain — Analgesic."
   },
   {
-   "id": "english-00015",
+   "id": "english-00035",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Proceed",
@@ -240,7 +540,7 @@
    "e": "The correct spelling is Management."
   },
   {
-   "id": "english-00016",
+   "id": "english-00036",
    "q": "What is the plural of Mosquito?",
    "o": [
     "Benches",
@@ -255,7 +555,7 @@
    "e": "The plural of Mosquito is Mosquitoes."
   },
   {
-   "id": "english-00017",
+   "id": "english-00037",
    "q": "What is the feminine form of Father?",
    "o": [
     "Duck",
@@ -270,7 +570,7 @@
    "e": "The feminine of Father is Mother."
   },
   {
-   "id": "english-00018",
+   "id": "english-00038",
    "q": "What is the comparative degree of Long?",
    "o": [
     "More important",
@@ -285,7 +585,7 @@
    "e": "Long — Longer — Longest."
   },
   {
-   "id": "english-00019",
+   "id": "english-00039",
    "q": "Fill in the blank with the correct preposition: I prefer coffee ____ tea.",
    "o": [
     "with",
@@ -300,7 +600,7 @@
    "e": "The correct preposition is 'to'."
   },
   {
-   "id": "english-00020",
+   "id": "english-00040",
    "q": "What is a noun that cannot be counted called?",
    "o": [
     "Written",
@@ -315,7 +615,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00021",
+   "id": "english-00041",
    "q": "Choose the word most similar in meaning to Connoisseur.",
    "o": [
     "Embodiment",
@@ -330,7 +630,7 @@
    "e": "Connoisseur means Expert."
   },
   {
-   "id": "english-00022",
+   "id": "english-00042",
    "q": "Choose the word most opposite in meaning to Cordial.",
    "o": [
     "Hostile",
@@ -345,7 +645,7 @@
    "e": "The opposite of Cordial is Hostile."
   },
   {
-   "id": "english-00023",
+   "id": "english-00043",
    "q": "What is the meaning of the idiom 'Bag and baggage'?",
    "o": [
     "With all one's belongings",
@@ -360,7 +660,7 @@
    "e": "'Bag and baggage' means With all one's belongings."
   },
   {
-   "id": "english-00024",
+   "id": "english-00044",
    "q": "Choose the one word substitute for: Plants that live for many years",
    "o": [
     "Dialogue",
@@ -375,7 +675,7 @@
    "e": "Plants that live for many years — Perennials."
   },
   {
-   "id": "english-00025",
+   "id": "english-00045",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Existence",
@@ -390,7 +690,7 @@
    "e": "The correct spelling is Changeable."
   },
   {
-   "id": "english-00026",
+   "id": "english-00046",
    "q": "What is the plural of Phenomenon?",
    "o": [
     "Wives",
@@ -405,7 +705,7 @@
    "e": "The plural of Phenomenon is Phenomena."
   },
   {
-   "id": "english-00027",
+   "id": "english-00047",
    "q": "What is the feminine form of Wizard?",
    "o": [
     "Grandmother",
@@ -420,7 +720,7 @@
    "e": "The feminine of Wizard is Witch."
   },
   {
-   "id": "english-00028",
+   "id": "english-00048",
    "q": "What is the comparative degree of Small?",
    "o": [
     "Cleverer",
@@ -435,7 +735,7 @@
    "e": "Small — Smaller — Smallest."
   },
   {
-   "id": "english-00029",
+   "id": "english-00049",
    "q": "Which punctuation mark shows a question?",
    "o": [
     "Uncountable noun",
@@ -450,7 +750,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00030",
+   "id": "english-00050",
    "q": "Choose the word most similar in meaning to Jubilant.",
    "o": [
     "Superfluous",
@@ -465,7 +765,7 @@
    "e": "Jubilant means Overjoyed."
   },
   {
-   "id": "english-00031",
+   "id": "english-00051",
    "q": "Choose the word most opposite in meaning to Ascend.",
    "o": [
     "Reputable",
@@ -480,7 +780,7 @@
    "e": "The opposite of Ascend is Descend."
   },
   {
-   "id": "english-00032",
+   "id": "english-00052",
    "q": "What is the meaning of the idiom 'Lead a dog's life'?",
    "o": [
     "Much excitement over a trivial matter",
@@ -495,7 +795,7 @@
    "e": "'Lead a dog's life' means Live a miserable life."
   },
   {
-   "id": "english-00033",
+   "id": "english-00053",
    "q": "Choose the one word substitute for: The killing of a whole race of people",
    "o": [
     "Genocide",
@@ -510,7 +810,7 @@
    "e": "The killing of a whole race of people — Genocide."
   },
   {
-   "id": "english-00034",
+   "id": "english-00054",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Marriage",
@@ -525,7 +825,7 @@
    "e": "The correct spelling is Accommodation."
   },
   {
-   "id": "english-00035",
+   "id": "english-00055",
    "q": "What is the plural of Analysis?",
    "o": [
     "Wolves",
@@ -540,7 +840,7 @@
    "e": "The plural of Analysis is Analyses."
   },
   {
-   "id": "english-00036",
+   "id": "english-00056",
    "q": "What is the feminine form of Prince?",
    "o": [
     "Duck",
@@ -555,7 +855,7 @@
    "e": "The feminine of Prince is Princess."
   },
   {
-   "id": "english-00037",
+   "id": "english-00057",
    "q": "What is the comparative degree of Much?",
    "o": [
     "Wiser",
@@ -570,7 +870,7 @@
    "e": "Much — More — Most."
   },
   {
-   "id": "english-00038",
+   "id": "english-00058",
    "q": "Fill in the blank with the correct preposition: He is famous ____ his paintings.",
    "o": [
     "over",
@@ -585,7 +885,7 @@
    "e": "The correct preposition is 'for'."
   },
   {
-   "id": "english-00039",
+   "id": "english-00059",
    "q": "Which form of the verb follows a modal like 'can'?",
    "o": [
     "Apostrophe",
@@ -600,7 +900,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00040",
+   "id": "english-00060",
    "q": "Choose the word most similar in meaning to Clandestine.",
    "o": [
     "Secret",
@@ -615,7 +915,7 @@
    "e": "Clandestine means Secret."
   },
   {
-   "id": "english-00041",
+   "id": "english-00061",
    "q": "Choose the word most opposite in meaning to Superfluous.",
    "o": [
     "Necessary",
@@ -630,7 +930,7 @@
    "e": "The opposite of Superfluous is Necessary."
   },
   {
-   "id": "english-00042",
+   "id": "english-00062",
    "q": "What is the meaning of the idiom 'A thorn in one's flesh'?",
    "o": [
     "A decision cannot be changed",
@@ -645,7 +945,7 @@
    "e": "'A thorn in one's flesh' means A constant source of trouble."
   },
   {
-   "id": "english-00043",
+   "id": "english-00063",
    "q": "Choose the one word substitute for: A person who guides tourists",
    "o": [
     "Guide",
@@ -660,7 +960,7 @@
    "e": "A person who guides tourists — Guide."
   },
   {
-   "id": "english-00044",
+   "id": "english-00064",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Woollen",
@@ -675,7 +975,7 @@
    "e": "The correct spelling is Aggressive."
   },
   {
-   "id": "english-00045",
+   "id": "english-00065",
    "q": "What is the plural of Salmon?",
    "o": [
     "Churches",
@@ -690,7 +990,7 @@
    "e": "The plural of Salmon is Salmon."
   },
   {
-   "id": "english-00046",
+   "id": "english-00066",
    "q": "What is the feminine form of Uncle?",
    "o": [
     "Aunt",
@@ -705,7 +1005,7 @@
    "e": "The feminine of Uncle is Aunt."
   },
   {
-   "id": "english-00047",
+   "id": "english-00067",
    "q": "What is the comparative degree of Slow?",
    "o": [
     "Slower",
@@ -720,7 +1020,7 @@
    "e": "Slow — Slower — Slowest."
   },
   {
-   "id": "english-00048",
+   "id": "english-00068",
    "q": "Fill in the blank with the correct preposition: I am looking forward ____ meeting you.",
    "o": [
     "to",
@@ -735,7 +1035,7 @@
    "e": "The correct preposition is 'to'."
   },
   {
-   "id": "english-00049",
+   "id": "english-00069",
    "q": "What is the collective noun for a group of bees?",
    "o": [
     "She requested me to help her",
@@ -750,7 +1050,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00050",
+   "id": "english-00070",
    "q": "Choose the word most similar in meaning to Volatile.",
    "o": [
     "Unstable",
@@ -765,7 +1065,7 @@
    "e": "Volatile means Unstable."
   },
   {
-   "id": "english-00051",
+   "id": "english-00071",
    "q": "Choose the word most opposite in meaning to Avarice.",
    "o": [
     "Disagree",
@@ -780,7 +1080,7 @@
    "e": "The opposite of Avarice is Generosity."
   },
   {
-   "id": "english-00052",
+   "id": "english-00072",
    "q": "What is the meaning of the idiom 'For good'?",
    "o": [
     "A day of festivity",
@@ -795,7 +1095,7 @@
    "e": "'For good' means Permanently."
   },
   {
-   "id": "english-00053",
+   "id": "english-00073",
    "q": "Choose the one word substitute for: One who studies society",
    "o": [
     "Sociologist",
@@ -810,7 +1110,7 @@
    "e": "One who studies society — Sociologist."
   },
   {
-   "id": "english-00054",
+   "id": "english-00074",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Opportunity",
@@ -825,7 +1125,7 @@
    "e": "The correct spelling is Opportunity."
   },
   {
-   "id": "english-00055",
+   "id": "english-00075",
    "q": "What is the plural of Cactus?",
    "o": [
     "Step-daughters",
@@ -840,7 +1140,7 @@
    "e": "The plural of Cactus is Cacti."
   },
   {
-   "id": "english-00056",
+   "id": "english-00076",
    "q": "What is the feminine form of Steward?",
    "o": [
     "Goose",
@@ -855,7 +1155,7 @@
    "e": "The feminine of Steward is Stewardess."
   },
   {
-   "id": "english-00057",
+   "id": "english-00077",
    "q": "What is the comparative degree of Far?",
    "o": [
     "Farther",
@@ -870,7 +1170,7 @@
    "e": "Far — Farther — Farthest."
   },
   {
-   "id": "english-00058",
+   "id": "english-00078",
    "q": "Fill in the blank with the correct preposition: We shall meet ____ Monday.",
    "o": [
     "on",
@@ -885,7 +1185,7 @@
    "e": "The correct preposition is 'on'."
   },
   {
-   "id": "english-00059",
+   "id": "english-00079",
    "q": "What is the indirect form of 'She said to me, Please help me'?",
    "o": [
     "The base form (infinitive)",
@@ -900,7 +1200,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00060",
+   "id": "english-00080",
    "q": "Choose the word most similar in meaning to Empathy.",
    "o": [
     "Overjoyed",
@@ -915,7 +1215,7 @@
    "e": "Empathy means Compassion."
   },
   {
-   "id": "english-00061",
+   "id": "english-00081",
    "q": "Choose the word most opposite in meaning to Anarchy.",
    "o": [
     "Careless",
@@ -930,7 +1230,7 @@
    "e": "The opposite of Anarchy is Order."
   },
   {
-   "id": "english-00062",
+   "id": "english-00082",
    "q": "What is the meaning of the idiom 'To wash one's dirty linen in public'?",
    "o": [
     "Extremely happy",
@@ -945,7 +1245,7 @@
    "e": "'To wash one's dirty linen in public' means To discuss private matters openly."
   },
   {
-   "id": "english-00063",
+   "id": "english-00083",
    "q": "Choose the one word substitute for: A disease that spreads worldwide",
    "o": [
     "Pandemic",
@@ -960,7 +1260,7 @@
    "e": "A disease that spreads worldwide — Pandemic."
   },
   {
-   "id": "english-00064",
+   "id": "english-00084",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Possession",
@@ -975,7 +1275,7 @@
    "e": "The correct spelling is Embarrass."
   },
   {
-   "id": "english-00065",
+   "id": "english-00085",
    "q": "What is the plural of Wife?",
    "o": [
     "Loaves",
@@ -990,7 +1290,7 @@
    "e": "The plural of Wife is Wives."
   },
   {
-   "id": "english-00066",
+   "id": "english-00086",
    "q": "What is the feminine form of Monk?",
    "o": [
     "Authoress",
@@ -1005,7 +1305,7 @@
    "e": "The feminine of Monk is Nun."
   },
   {
-   "id": "english-00067",
+   "id": "english-00087",
    "q": "What is the comparative degree of Fast?",
    "o": [
     "Darker",
@@ -1020,7 +1320,7 @@
    "e": "Fast — Faster — Fastest."
   },
   {
-   "id": "english-00068",
+   "id": "english-00088",
    "q": "Fill in the blank with the correct preposition: They are looking ____ the matter.",
    "o": [
     "to",
@@ -1035,7 +1335,7 @@
    "e": "The correct preposition is 'into'."
   },
   {
-   "id": "english-00069",
+   "id": "english-00089",
    "q": "What is the past participle of 'choose'?",
    "o": [
     "Clause",
@@ -1050,7 +1350,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00070",
+   "id": "english-00090",
    "q": "Choose the word most similar in meaning to Candid.",
    "o": [
     "Inactive",
@@ -1065,7 +1365,7 @@
    "e": "Candid means Frank."
   },
   {
-   "id": "english-00071",
+   "id": "english-00091",
    "q": "Choose the word most opposite in meaning to Obsolete.",
    "o": [
     "Modern",
@@ -1080,7 +1380,7 @@
    "e": "The opposite of Obsolete is Modern."
   },
   {
-   "id": "english-00072",
+   "id": "english-00092",
    "q": "What is the meaning of the idiom 'To smell a rat'?",
    "o": [
     "To suspect foul play",
@@ -1095,7 +1395,7 @@
    "e": "'To smell a rat' means To suspect foul play."
   },
   {
-   "id": "english-00073",
+   "id": "english-00093",
    "q": "Choose the one word substitute for: Government by religious leaders",
    "o": [
     "Polyandry",
@@ -1110,7 +1410,7 @@
    "e": "Government by religious leaders — Theocracy."
   },
   {
-   "id": "english-00074",
+   "id": "english-00094",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Conscience",
@@ -1125,7 +1425,7 @@
    "e": "The correct spelling is Conscience."
   },
   {
-   "id": "english-00075",
+   "id": "english-00095",
    "q": "What is the plural of Basis?",
    "o": [
     "Fish",
@@ -1140,7 +1440,7 @@
    "e": "The plural of Basis is Bases."
   },
   {
-   "id": "english-00076",
+   "id": "english-00096",
    "q": "What is the feminine form of Baron?",
    "o": [
     "Poetess",
@@ -1155,7 +1455,7 @@
    "e": "The feminine of Baron is Baroness."
   },
   {
-   "id": "english-00077",
+   "id": "english-00097",
    "q": "What is the comparative degree of Heavy?",
    "o": [
     "Heavier",
@@ -1170,7 +1470,7 @@
    "e": "Heavy — Heavier — Heaviest."
   },
   {
-   "id": "english-00078",
+   "id": "english-00098",
    "q": "Fill in the blank with the correct preposition: She is married ____ a doctor.",
    "o": [
     "to",
@@ -1185,7 +1485,7 @@
    "e": "The correct preposition is 'to'."
   },
   {
-   "id": "english-00079",
+   "id": "english-00099",
    "q": "What is the adjective form of the noun 'courage'?",
    "o": [
     "Courageous",
@@ -1200,7 +1500,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00080",
+   "id": "english-00100",
    "q": "Choose the word most similar in meaning to Tedious.",
    "o": [
     "Omnipresent",
@@ -1215,7 +1515,7 @@
    "e": "Tedious means Boring."
   },
   {
-   "id": "english-00081",
+   "id": "english-00101",
    "q": "Choose the word most opposite in meaning to Adamant.",
    "o": [
     "Dissatisfied",
@@ -1230,7 +1530,7 @@
    "e": "The opposite of Adamant is Flexible."
   },
   {
-   "id": "english-00082",
+   "id": "english-00102",
    "q": "What is the meaning of the idiom 'Hold water'?",
    "o": [
     "Be logically sound",
@@ -1245,7 +1545,7 @@
    "e": "'Hold water' means Be logically sound."
   },
   {
-   "id": "english-00083",
+   "id": "english-00103",
    "q": "Choose the one word substitute for: One who eats human flesh",
    "o": [
     "Demographer",
@@ -1260,7 +1560,7 @@
    "e": "One who eats human flesh — Cannibal."
   },
   {
-   "id": "english-00084",
+   "id": "english-00104",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Literature",
@@ -1275,7 +1575,7 @@
    "e": "The correct spelling is Superintendent."
   },
   {
-   "id": "english-00085",
+   "id": "english-00105",
    "q": "What is the plural of Formula?",
    "o": [
     "Loaves",
@@ -1290,7 +1590,7 @@
    "e": "The plural of Formula is Formulae."
   },
   {
-   "id": "english-00086",
+   "id": "english-00106",
    "q": "What is the feminine form of Actor?",
    "o": [
     "Stewardess",
@@ -1305,7 +1605,7 @@
    "e": "The feminine of Actor is Actress."
   },
   {
-   "id": "english-00087",
+   "id": "english-00107",
    "q": "What is the comparative degree of Poor?",
    "o": [
     "Poorer",
@@ -1320,7 +1620,7 @@
    "e": "Poor — Poorer — Poorest."
   },
   {
-   "id": "english-00088",
+   "id": "english-00108",
    "q": "Fill in the blank with the correct preposition: She has been waiting ____ two hours.",
    "o": [
     "for",
@@ -1335,7 +1635,7 @@
    "e": "The correct preposition is 'for'."
   },
   {
-   "id": "english-00089",
+   "id": "english-00109",
    "q": "What is the indirect form of 'He asked, Where do you live?'",
    "o": [
     "He asked where I lived",
@@ -1350,7 +1650,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00090",
+   "id": "english-00110",
    "q": "Choose the word most similar in meaning to Condone.",
    "o": [
     "Daunting",
@@ -1365,7 +1665,7 @@
    "e": "Condone means Forgive."
   },
   {
-   "id": "english-00091",
+   "id": "english-00111",
    "q": "Choose the word most opposite in meaning to Imminent.",
    "o": [
     "Open",
@@ -1380,7 +1680,7 @@
    "e": "The opposite of Imminent is Distant."
   },
   {
-   "id": "english-00092",
+   "id": "english-00112",
    "q": "What is the meaning of the idiom 'Feather one's nest'?",
    "o": [
     "Study or work late into the night",
@@ -1395,7 +1695,7 @@
    "e": "'Feather one's nest' means Make money selfishly."
   },
   {
-   "id": "english-00093",
+   "id": "english-00113",
    "q": "Choose the one word substitute for: Government by one person with absolute power",
    "o": [
     "Post-mortem",
@@ -1410,7 +1710,7 @@
    "e": "Government by one person with absolute power — Autocracy."
   },
   {
-   "id": "english-00094",
+   "id": "english-00114",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Happiness",
@@ -1425,7 +1725,7 @@
    "e": "The correct spelling is Happiness."
   },
   {
-   "id": "english-00095",
+   "id": "english-00115",
    "q": "What is the plural of Alumnus?",
    "o": [
     "Hypotheses",
@@ -1440,7 +1740,7 @@
    "e": "The plural of Alumnus is Alumni."
   },
   {
-   "id": "english-00096",
+   "id": "english-00116",
    "q": "What is the feminine form of Hero?",
    "o": [
     "Stewardess",
@@ -1455,7 +1755,7 @@
    "e": "The feminine of Hero is Heroine."
   },
   {
-   "id": "english-00097",
+   "id": "english-00117",
    "q": "What is the comparative degree of Fat?",
    "o": [
     "Slower",
@@ -1470,7 +1770,7 @@
    "e": "Fat — Fatter — Fattest."
   },
   {
-   "id": "english-00098",
+   "id": "english-00118",
    "q": "Fill in the blank with the correct preposition: He is endowed ____ great talent.",
    "o": [
     "from",
@@ -1485,7 +1785,7 @@
    "e": "The correct preposition is 'with'."
   },
   {
-   "id": "english-00099",
+   "id": "english-00119",
    "q": "What is a word with the same spelling but different meaning called?",
    "o": [
     "Homonym",
@@ -1500,7 +1800,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00100",
+   "id": "english-00120",
    "q": "Choose the word most similar in meaning to Prolific.",
    "o": [
     "Shrewd",
@@ -1515,7 +1815,7 @@
    "e": "Prolific means Productive."
   },
   {
-   "id": "english-00101",
+   "id": "english-00121",
    "q": "Choose the word most opposite in meaning to Alleviate.",
    "o": [
     "Aggravate",
@@ -1530,7 +1830,7 @@
    "e": "The opposite of Alleviate is Aggravate."
   },
   {
-   "id": "english-00102",
+   "id": "english-00122",
    "q": "What is the meaning of the idiom 'Null and void'?",
    "o": [
     "To exaggerate a small matter",
@@ -1545,7 +1845,7 @@
    "e": "'Null and void' means Invalid."
   },
   {
-   "id": "english-00103",
+   "id": "english-00123",
    "q": "Choose the one word substitute for: A person who walks in his sleep",
    "o": [
     "Somnambulist",
@@ -1560,7 +1860,7 @@
    "e": "A person who walks in his sleep — Somnambulist."
   },
   {
-   "id": "english-00104",
+   "id": "english-00124",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Humorous",
@@ -1575,7 +1875,7 @@
    "e": "The correct spelling is Expedition."
   },
   {
-   "id": "english-00105",
+   "id": "english-00125",
    "q": "What is the plural of Thief?",
    "o": [
     "Thieves",
@@ -1590,7 +1890,7 @@
    "e": "The plural of Thief is Thieves."
   },
   {
-   "id": "english-00106",
+   "id": "english-00126",
    "q": "What is the feminine form of Man?",
    "o": [
     "Woman",
@@ -1605,7 +1905,7 @@
    "e": "The feminine of Man is Woman."
   },
   {
-   "id": "english-00107",
+   "id": "english-00127",
    "q": "What is the comparative degree of Noble?",
    "o": [
     "Less",
@@ -1620,7 +1920,7 @@
    "e": "Noble — Nobler — Noblest."
   },
   {
-   "id": "english-00108",
+   "id": "english-00128",
    "q": "Fill in the blank with the correct preposition: She was deprived ____ her rights.",
    "o": [
     "for",
@@ -1635,7 +1935,7 @@
    "e": "The correct preposition is 'of'."
   },
   {
-   "id": "english-00109",
+   "id": "english-00129",
    "q": "What is the passive form of 'He will buy a car'?",
    "o": [
     "A car will be bought by him",
@@ -1650,7 +1950,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00110",
+   "id": "english-00130",
    "q": "Choose the word most similar in meaning to Reverence.",
    "o": [
     "Notorious",
@@ -1665,7 +1965,7 @@
    "e": "Reverence means Deep respect."
   },
   {
-   "id": "english-00111",
+   "id": "english-00131",
    "q": "Choose the word most opposite in meaning to Garrulous.",
    "o": [
     "Disreputable",
@@ -1680,7 +1980,7 @@
    "e": "The opposite of Garrulous is Taciturn."
   },
   {
-   "id": "english-00112",
+   "id": "english-00132",
    "q": "What is the meaning of the idiom 'Rule the roost'?",
    "o": [
     "Deliberately and without emotion",
@@ -1695,7 +1995,7 @@
    "e": "'Rule the roost' means Be the dominant person."
   },
   {
-   "id": "english-00113",
+   "id": "english-00133",
    "q": "Choose the one word substitute for: One who talks too much",
    "o": [
     "Garrulous",
@@ -1710,7 +2010,7 @@
    "e": "One who talks too much — Garrulous."
   },
   {
-   "id": "english-00114",
+   "id": "english-00134",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Genuine",
@@ -1725,7 +2025,7 @@
    "e": "The correct spelling is Adolescent."
   },
   {
-   "id": "english-00115",
+   "id": "english-00135",
    "q": "What is the plural of Man?",
    "o": [
     "Chiefs",
@@ -1740,7 +2040,7 @@
    "e": "The plural of Man is Men."
   },
   {
-   "id": "english-00116",
+   "id": "english-00136",
    "q": "What is the feminine form of Cock?",
    "o": [
     "Wife",
@@ -1755,7 +2055,7 @@
    "e": "The feminine of Cock is Hen."
   },
   {
-   "id": "english-00117",
+   "id": "english-00137",
    "q": "What is the comparative degree of Weak?",
    "o": [
     "Older",
@@ -1770,7 +2070,7 @@
    "e": "Weak — Weaker — Weakest."
   },
   {
-   "id": "english-00118",
+   "id": "english-00138",
    "q": "Fill in the blank with the correct preposition: She is aware ____ the problem.",
    "o": [
     "from",
@@ -1785,7 +2085,7 @@
    "e": "The correct preposition is 'of'."
   },
   {
-   "id": "english-00119",
+   "id": "english-00139",
    "q": "What is the underlined noun that names a particular person or place called?",
    "o": [
     "Homophone",
@@ -1800,7 +2100,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00120",
+   "id": "english-00140",
    "q": "Choose the word most similar in meaning to Superfluous.",
    "o": [
     "Unnecessary",
@@ -1815,7 +2115,7 @@
    "e": "Superfluous means Unnecessary."
   },
   {
-   "id": "english-00121",
+   "id": "english-00141",
    "q": "Choose the word most opposite in meaning to Precarious.",
    "o": [
     "Provoke",
@@ -1830,7 +2130,7 @@
    "e": "The opposite of Precarious is Secure."
   },
   {
-   "id": "english-00122",
+   "id": "english-00142",
    "q": "What is the meaning of the idiom 'Carry coals to Newcastle'?",
    "o": [
     "Spoil a plan",
@@ -1845,7 +2145,7 @@
    "e": "'Carry coals to Newcastle' means Do a pointless thing."
   },
   {
-   "id": "english-00123",
+   "id": "english-00143",
    "q": "Choose the one word substitute for: A place where ships are repaired",
    "o": [
     "Agnostic",
@@ -1860,7 +2160,7 @@
    "e": "A place where ships are repaired — Dockyard."
   },
   {
-   "id": "english-00124",
+   "id": "english-00144",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Carriage",
@@ -1875,7 +2175,7 @@
    "e": "The correct spelling is Woollen."
   },
   {
-   "id": "english-00125",
+   "id": "english-00145",
    "q": "What is the plural of Life?",
    "o": [
     "Species",
@@ -1890,7 +2190,7 @@
    "e": "The plural of Life is Lives."
   },
   {
-   "id": "english-00126",
+   "id": "english-00146",
    "q": "What is the feminine form of Tiger?",
    "o": [
     "Princess",
@@ -1905,7 +2205,7 @@
    "e": "The feminine of Tiger is Tigress."
   },
   {
-   "id": "english-00127",
+   "id": "english-00147",
    "q": "What is the comparative degree of Bad?",
    "o": [
     "Longer",
@@ -1920,7 +2220,7 @@
    "e": "Bad — Worse — Worst."
   },
   {
-   "id": "english-00128",
+   "id": "english-00148",
    "q": "Fill in the blank with the correct preposition: He died ____ malaria.",
    "o": [
     "to",
@@ -1935,7 +2235,7 @@
    "e": "The correct preposition is 'of'."
   },
   {
-   "id": "english-00129",
+   "id": "english-00149",
    "q": "What is the tense of 'I had finished the work'?",
    "o": [
     "Past perfect",
@@ -1950,7 +2250,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00130",
+   "id": "english-00150",
    "q": "Choose the word most similar in meaning to Bewilder.",
    "o": [
     "Optimistic",
@@ -1965,7 +2265,7 @@
    "e": "Bewilder means Confuse."
   },
   {
-   "id": "english-00131",
+   "id": "english-00151",
    "q": "Choose the word most opposite in meaning to Pertinent.",
    "o": [
     "Hopeful",
@@ -1980,7 +2280,7 @@
    "e": "The opposite of Pertinent is Irrelevant."
   },
   {
-   "id": "english-00132",
+   "id": "english-00152",
    "q": "What is the meaning of the idiom 'Dead letter'?",
    "o": [
     "Spoil a plan",
@@ -1995,7 +2295,7 @@
    "e": "'Dead letter' means A law no longer observed."
   },
   {
-   "id": "english-00133",
+   "id": "english-00153",
    "q": "Choose the one word substitute for: Government by officials",
    "o": [
     "Autocracy",
@@ -2010,7 +2310,7 @@
    "e": "Government by officials — Bureaucracy."
   },
   {
-   "id": "english-00134",
+   "id": "english-00154",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Sacrifice",
@@ -2025,7 +2325,7 @@
    "e": "The correct spelling is Hereditary."
   },
   {
-   "id": "english-00135",
+   "id": "english-00155",
    "q": "What is the plural of Army?",
    "o": [
     "Appendices",
@@ -2040,7 +2340,7 @@
    "e": "The plural of Army is Armies."
   },
   {
-   "id": "english-00136",
+   "id": "english-00156",
    "q": "What is the feminine form of Manager?",
    "o": [
     "Manageress",
@@ -2055,7 +2355,7 @@
    "e": "The feminine of Manager is Manageress."
   },
   {
-   "id": "english-00137",
+   "id": "english-00157",
    "q": "What is the comparative degree of Bright?",
    "o": [
     "Brighter",
@@ -2070,7 +2370,7 @@
    "e": "Bright — Brighter — Brightest."
   },
   {
-   "id": "english-00138",
+   "id": "english-00158",
    "q": "Fill in the blank with the correct preposition: The reason ____ his failure is laziness.",
    "o": [
     "for",
@@ -2085,7 +2385,7 @@
    "e": "The correct preposition is 'for'."
   },
   {
-   "id": "english-00139",
+   "id": "english-00159",
    "q": "What is the passive form of 'The boy broke the window'?",
    "o": [
     "School",
@@ -2100,7 +2400,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00140",
+   "id": "english-00160",
    "q": "Choose the word most similar in meaning to Incipient.",
    "o": [
     "Elation",
@@ -2115,7 +2415,7 @@
    "e": "Incipient means Beginning."
   },
   {
-   "id": "english-00141",
+   "id": "english-00161",
    "q": "Choose the word most opposite in meaning to Paramount.",
    "o": [
     "Original",
@@ -2130,7 +2430,7 @@
    "e": "The opposite of Paramount is Secondary."
   },
   {
-   "id": "english-00142",
+   "id": "english-00162",
    "q": "What is the meaning of the idiom 'Live from hand to mouth'?",
    "o": [
     "Completely",
@@ -2145,7 +2445,7 @@
    "e": "'Live from hand to mouth' means Barely manage to survive."
   },
   {
-   "id": "english-00143",
+   "id": "english-00163",
    "q": "Choose the one word substitute for: Animals that live both on land and in water",
    "o": [
     "Ornithologist",
@@ -2160,7 +2460,7 @@
    "e": "Animals that live both on land and in water — Amphibians."
   },
   {
-   "id": "english-00144",
+   "id": "english-00164",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Beautiful",
@@ -2175,7 +2475,7 @@
    "e": "The correct spelling is Accidentally."
   },
   {
-   "id": "english-00145",
+   "id": "english-00165",
    "q": "What is the plural of Shelf?",
    "o": [
     "Teeth",
@@ -2190,7 +2490,7 @@
    "e": "The plural of Shelf is Shelves."
   },
   {
-   "id": "english-00146",
+   "id": "english-00166",
    "q": "What is the feminine form of Bull?",
    "o": [
     "Authoress",
@@ -2205,7 +2505,7 @@
    "e": "The feminine of Bull is Cow."
   },
   {
-   "id": "english-00147",
+   "id": "english-00167",
    "q": "What is the comparative degree of Many?",
    "o": [
     "More",
@@ -2220,7 +2520,7 @@
    "e": "Many — More — Most."
   },
   {
-   "id": "english-00148",
+   "id": "english-00168",
    "q": "Fill in the blank with the correct preposition: The shop is closed ____ Sundays.",
    "o": [
     "on",
@@ -2235,7 +2535,7 @@
    "e": "The correct preposition is 'on'."
   },
   {
-   "id": "english-00149",
+   "id": "english-00169",
    "q": "What is the passive form of 'She is singing a song'?",
    "o": [
     "Uncountable noun",
@@ -2250,7 +2550,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00150",
+   "id": "english-00170",
    "q": "Choose the word most similar in meaning to Cryptic.",
    "o": [
     "Severe",
@@ -2265,7 +2565,7 @@
    "e": "Cryptic means Mysterious."
   },
   {
-   "id": "english-00151",
+   "id": "english-00171",
    "q": "Choose the word most opposite in meaning to Antipathy.",
    "o": [
     "Scanty",
@@ -2280,7 +2580,7 @@
    "e": "The opposite of Antipathy is Liking."
   },
   {
-   "id": "english-00152",
+   "id": "english-00172",
    "q": "What is the meaning of the idiom 'The die is cast'?",
    "o": [
     "Solve a difficult problem",
@@ -2295,7 +2595,7 @@
    "e": "'The die is cast' means A decision cannot be changed."
   },
   {
-   "id": "english-00153",
+   "id": "english-00173",
    "q": "Choose the one word substitute for: A person who is an expert in a field",
    "o": [
     "Epidemic",
@@ -2310,7 +2610,7 @@
    "e": "A person who is an expert in a field — Connoisseur."
   },
   {
-   "id": "english-00154",
+   "id": "english-00174",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Restaurant",
@@ -2325,7 +2625,7 @@
    "e": "The correct spelling is Sergeant."
   },
   {
-   "id": "english-00155",
+   "id": "english-00175",
    "q": "What is the plural of Potato?",
    "o": [
     "Potatoes",
@@ -2340,7 +2640,7 @@
    "e": "The plural of Potato is Potatoes."
   },
   {
-   "id": "english-00156",
+   "id": "english-00176",
    "q": "What is the feminine form of Stepfather?",
    "o": [
     "Hen",
@@ -2355,7 +2655,7 @@
    "e": "The feminine of Stepfather is Stepmother."
   },
   {
-   "id": "english-00157",
+   "id": "english-00177",
    "q": "What is the comparative degree of Late?",
    "o": [
     "Faster",
@@ -2370,7 +2670,7 @@
    "e": "Late — Later — Latest."
   },
   {
-   "id": "english-00158",
+   "id": "english-00178",
    "q": "Fill in the blank with the correct preposition: I am confident ____ success.",
    "o": [
     "into",
@@ -2385,7 +2685,7 @@
    "e": "The correct preposition is 'of'."
   },
   {
-   "id": "english-00159",
+   "id": "english-00179",
    "q": "Which tense is used for a habitual action?",
    "o": [
     "Colon",
@@ -2400,7 +2700,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00160",
+   "id": "english-00180",
    "q": "Choose the word most similar in meaning to Magnanimous.",
    "o": [
     "Abandon",
@@ -2415,7 +2715,7 @@
    "e": "Magnanimous means Generous."
   },
   {
-   "id": "english-00161",
+   "id": "english-00181",
    "q": "Choose the word most opposite in meaning to Prudent.",
    "o": [
     "Expert",
@@ -2430,7 +2730,7 @@
    "e": "The opposite of Prudent is Reckless."
   },
   {
-   "id": "english-00162",
+   "id": "english-00182",
    "q": "What is the meaning of the idiom 'All ears'?",
    "o": [
     "Praise oneself",
@@ -2445,7 +2745,7 @@
    "e": "'All ears' means Listening attentively."
   },
   {
-   "id": "english-00163",
+   "id": "english-00183",
    "q": "Choose the one word substitute for: A place where coins and stamps are made",
    "o": [
     "Mint",
@@ -2460,7 +2760,7 @@
    "e": "A place where coins and stamps are made — Mint."
   },
   {
-   "id": "english-00164",
+   "id": "english-00184",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Idiosyncrasy",
@@ -2475,7 +2775,7 @@
    "e": "The correct spelling is Wednesday."
   },
   {
-   "id": "english-00165",
+   "id": "english-00185",
    "q": "What is the plural of Nucleus?",
    "o": [
     "Cacti",
@@ -2490,7 +2790,7 @@
    "e": "The plural of Nucleus is Nuclei."
   },
   {
-   "id": "english-00166",
+   "id": "english-00186",
    "q": "What is the feminine form of Godfather?",
    "o": [
     "Nun",
@@ -2505,7 +2805,7 @@
    "e": "The feminine of Godfather is Godmother."
   },
   {
-   "id": "english-00167",
+   "id": "english-00187",
    "q": "What is the comparative degree of Busy?",
    "o": [
     "Gentler",
@@ -2520,7 +2820,7 @@
    "e": "Busy — Busier — Busiest."
   },
   {
-   "id": "english-00168",
+   "id": "english-00188",
    "q": "Fill in the blank with the correct preposition: He is proud ____ his success.",
    "o": [
     "in",
@@ -2535,7 +2835,7 @@
    "e": "The correct preposition is 'of'."
   },
   {
-   "id": "english-00169",
+   "id": "english-00189",
    "q": "What is the abstract noun formed from 'free'?",
    "o": [
     "Subject",
@@ -2550,7 +2850,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00170",
+   "id": "english-00190",
    "q": "Choose the word most similar in meaning to Hostile.",
    "o": [
     "Productive",
@@ -2565,7 +2865,7 @@
    "e": "Hostile means Unfriendly."
   },
   {
-   "id": "english-00171",
+   "id": "english-00191",
    "q": "Choose the word most opposite in meaning to Impartial.",
    "o": [
     "Thrifty",
@@ -2580,7 +2880,7 @@
    "e": "The opposite of Impartial is Biased."
   },
   {
-   "id": "english-00172",
+   "id": "english-00192",
    "q": "What is the meaning of the idiom 'Face the music'?",
    "o": [
     "Bear the consequences",
@@ -2595,7 +2895,7 @@
    "e": "'Face the music' means Bear the consequences."
   },
   {
-   "id": "english-00173",
+   "id": "english-00193",
    "q": "Choose the one word substitute for: One who is more than one hundred years old",
    "o": [
     "Democracy",
@@ -2610,7 +2910,7 @@
    "e": "One who is more than one hundred years old — Centenarian."
   },
   {
-   "id": "english-00174",
+   "id": "english-00194",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Jewellery",
@@ -2625,7 +2925,7 @@
    "e": "The correct spelling is Repetition."
   },
   {
-   "id": "english-00175",
+   "id": "english-00195",
    "q": "What is the plural of Commander-in-Chief?",
    "o": [
     "Teeth",
@@ -2640,7 +2940,7 @@
    "e": "The plural of Commander-in-Chief is Commanders-in-Chief."
   },
   {
-   "id": "english-00176",
+   "id": "english-00196",
    "q": "What is the feminine form of Gander?",
    "o": [
     "Goose",
@@ -2655,7 +2955,7 @@
    "e": "The feminine of Gander is Goose."
   },
   {
-   "id": "english-00177",
+   "id": "english-00197",
    "q": "What is the comparative degree of Gentle?",
    "o": [
     "Weaker",
@@ -2670,7 +2970,7 @@
    "e": "Gentle — Gentler — Gentlest."
   },
   {
-   "id": "english-00178",
+   "id": "english-00198",
    "q": "Fill in the blank with the correct preposition: He is blind ____ one eye.",
    "o": [
     "to",
@@ -2685,7 +2985,7 @@
    "e": "The correct preposition is 'in'."
   },
   {
-   "id": "english-00179",
+   "id": "english-00199",
    "q": "What is the past tense of 'buy'?",
    "o": [
     "The work has been finished by them",
@@ -2700,7 +3000,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00180",
+   "id": "english-00200",
    "q": "Choose the word most similar in meaning to Astute.",
    "o": [
     "Mourn",
@@ -2715,7 +3015,7 @@
    "e": "Astute means Shrewd."
   },
   {
-   "id": "english-00181",
+   "id": "english-00201",
    "q": "Choose the word most opposite in meaning to Prevalent.",
    "o": [
     "Necessary",
@@ -2730,7 +3030,7 @@
    "e": "The opposite of Prevalent is Rare."
   },
   {
-   "id": "english-00182",
+   "id": "english-00202",
    "q": "What is the meaning of the idiom 'Under a cloud'?",
    "o": [
     "In a great hurry",
@@ -2745,7 +3045,7 @@
    "e": "'Under a cloud' means Under suspicion."
   },
   {
-   "id": "english-00183",
+   "id": "english-00203",
    "q": "Choose the one word substitute for: Animals that eat plants and flesh",
    "o": [
     "Omnivores",
@@ -2760,7 +3060,7 @@
    "e": "Animals that eat plants and flesh — Omnivores."
   },
   {
-   "id": "english-00184",
+   "id": "english-00204",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Apparent",
@@ -2775,7 +3075,7 @@
    "e": "The correct spelling is Anonymous."
   },
   {
-   "id": "english-00185",
+   "id": "english-00205",
    "q": "What is the plural of Brush?",
    "o": [
     "Brushes",
@@ -2790,7 +3090,7 @@
    "e": "The plural of Brush is Brushes."
   },
   {
-   "id": "english-00186",
+   "id": "english-00206",
    "q": "What is the feminine form of Leopard?",
    "o": [
     "Leopardess",
@@ -2805,7 +3105,7 @@
    "e": "The feminine of Leopard is Leopardess."
   },
   {
-   "id": "english-00187",
+   "id": "english-00207",
    "q": "What is the comparative degree of Narrow?",
    "o": [
     "Narrower",
@@ -2820,7 +3120,7 @@
    "e": "Narrow — Narrower — Narrowest."
   },
   {
-   "id": "english-00188",
+   "id": "english-00208",
    "q": "Fill in the blank with the correct preposition: The building is ____ fire.",
    "o": [
     "on",
@@ -2835,7 +3135,7 @@
    "e": "The correct preposition is 'on'."
   },
   {
-   "id": "english-00189",
+   "id": "english-00209",
    "q": "What is the past participle of 'break'?",
    "o": [
     "Went",
@@ -2850,7 +3150,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00190",
+   "id": "english-00210",
    "q": "Choose the word most similar in meaning to Hypocrisy.",
    "o": [
     "Similarity",
@@ -2865,7 +3165,7 @@
    "e": "Hypocrisy means Pretence."
   },
   {
-   "id": "english-00191",
+   "id": "english-00211",
    "q": "Choose the word most opposite in meaning to Redundant.",
    "o": [
     "Essential",
@@ -2880,7 +3180,7 @@
    "e": "The opposite of Redundant is Essential."
   },
   {
-   "id": "english-00192",
+   "id": "english-00212",
    "q": "What is the meaning of the idiom 'Nip in the bud'?",
    "o": [
     "Destroy at an early stage",
@@ -2895,7 +3195,7 @@
    "e": "'Nip in the bud' means Destroy at an early stage."
   },
   {
-   "id": "english-00193",
+   "id": "english-00213",
    "q": "Choose the one word substitute for: Plants that live for one season",
    "o": [
     "Anarchy",
@@ -2910,7 +3210,7 @@
    "e": "Plants that live for one season — Annuals."
   },
   {
-   "id": "english-00194",
+   "id": "english-00214",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Government",
@@ -2925,7 +3225,7 @@
    "e": "The correct spelling is Government."
   },
   {
-   "id": "english-00195",
+   "id": "english-00215",
    "q": "What is the plural of Child?",
    "o": [
     "Salmon",
@@ -2940,7 +3240,7 @@
    "e": "The plural of Child is Children."
   },
   {
-   "id": "english-00196",
+   "id": "english-00216",
    "q": "What is the feminine form of King?",
    "o": [
     "Bitch",
@@ -2955,7 +3255,7 @@
    "e": "The feminine of King is Queen."
   },
   {
-   "id": "english-00197",
+   "id": "english-00217",
    "q": "What is the comparative degree of Dangerous?",
    "o": [
     "More dangerous",
@@ -2970,7 +3270,7 @@
    "e": "Dangerous — More dangerous — Most dangerous."
   },
   {
-   "id": "english-00198",
+   "id": "english-00218",
    "q": "Fill in the blank with the correct preposition: She was disgusted ____ his behaviour.",
    "o": [
     "with",
@@ -2985,7 +3285,7 @@
    "e": "The correct preposition is 'with'."
   },
   {
-   "id": "english-00199",
+   "id": "english-00219",
    "q": "What is the past participle of 'write'?",
    "o": [
     "Courageous",
@@ -3000,7 +3300,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00200",
+   "id": "english-00220",
    "q": "Choose the word most similar in meaning to Incorrigible.",
    "o": [
     "Unmanageable",
@@ -3015,7 +3315,7 @@
    "e": "Incorrigible means Unmanageable."
   },
   {
-   "id": "english-00201",
+   "id": "english-00221",
    "q": "Choose the word most opposite in meaning to Servile.",
    "o": [
     "Independent",
@@ -3030,7 +3330,7 @@
    "e": "The opposite of Servile is Independent."
   },
   {
-   "id": "english-00202",
+   "id": "english-00222",
    "q": "What is the meaning of the idiom 'In hot water'?",
    "o": [
     "Exaggerated speech",
@@ -3045,7 +3345,7 @@
    "e": "'In hot water' means In trouble."
   },
   {
-   "id": "english-00203",
+   "id": "english-00223",
    "q": "Choose the one word substitute for: A place where birds are kept",
    "o": [
     "Aviary",
@@ -3060,7 +3360,7 @@
    "e": "A place where birds are kept — Aviary."
   },
   {
-   "id": "english-00204",
+   "id": "english-00224",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Forty",
@@ -3075,7 +3375,7 @@
    "e": "The correct spelling is Recommend."
   },
   {
-   "id": "english-00205",
+   "id": "english-00225",
    "q": "What is the plural of Goose?",
    "o": [
     "Tomatoes",
@@ -3090,7 +3390,7 @@
    "e": "The plural of Goose is Geese."
   },
   {
-   "id": "english-00206",
+   "id": "english-00226",
    "q": "What is the feminine form of Son?",
    "o": [
     "Countess",
@@ -3105,7 +3405,7 @@
    "e": "The feminine of Son is Daughter."
   },
   {
-   "id": "english-00207",
+   "id": "english-00227",
    "q": "What is the comparative degree of Wide?",
    "o": [
     "Taller",
@@ -3120,7 +3420,7 @@
    "e": "Wide — Wider — Widest."
   },
   {
-   "id": "english-00208",
+   "id": "english-00228",
    "q": "Fill in the blank with the correct preposition: The old man died ____ his illness.",
    "o": [
     "on",
@@ -3135,7 +3435,7 @@
    "e": "The correct preposition is 'of'."
   },
   {
-   "id": "english-00209",
+   "id": "english-00229",
    "q": "What is the noun form of the verb 'decide'?",
    "o": [
     "Adverb",
@@ -3150,7 +3450,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00210",
+   "id": "english-00230",
    "q": "Choose the word most similar in meaning to Frivolous.",
    "o": [
     "Distinguished",
@@ -3165,7 +3465,7 @@
    "e": "Frivolous means Trivial."
   },
   {
-   "id": "english-00211",
+   "id": "english-00231",
    "q": "Choose the word most opposite in meaning to Vindicate.",
    "o": [
     "Diminish",
@@ -3180,7 +3480,7 @@
    "e": "The opposite of Vindicate is Condemn."
   },
   {
-   "id": "english-00212",
+   "id": "english-00232",
    "q": "What is the meaning of the idiom 'To carry the day'?",
    "o": [
     "Without wasting words",
@@ -3195,7 +3495,7 @@
    "e": "'To carry the day' means To win a victory."
   },
   {
-   "id": "english-00213",
+   "id": "english-00233",
    "q": "Choose the one word substitute for: A person who repairs shoes",
    "o": [
     "Zoologist",
@@ -3210,7 +3510,7 @@
    "e": "A person who repairs shoes — Cobbler."
   },
   {
-   "id": "english-00214",
+   "id": "english-00234",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Approximate",
@@ -3225,7 +3525,7 @@
    "e": "The correct spelling is Excellent."
   },
   {
-   "id": "english-00215",
+   "id": "english-00235",
    "q": "What is the plural of Aircraft?",
    "o": [
     "Wolves",
@@ -3240,7 +3540,7 @@
    "e": "The plural of Aircraft is Aircraft."
   },
   {
-   "id": "english-00216",
+   "id": "english-00236",
    "q": "What is the feminine form of Host?",
    "o": [
     "Girl",
@@ -3255,7 +3555,7 @@
    "e": "The feminine of Host is Hostess."
   },
   {
-   "id": "english-00217",
+   "id": "english-00237",
    "q": "What is the comparative degree of Dark?",
    "o": [
     "Braver",
@@ -3270,7 +3570,7 @@
    "e": "Dark — Darker — Darkest."
   },
   {
-   "id": "english-00218",
+   "id": "english-00238",
    "q": "Fill in the blank with the correct preposition: He is not equal ____ the task.",
    "o": [
     "of",
@@ -3285,7 +3585,7 @@
    "e": "The correct preposition is 'to'."
   },
   {
-   "id": "english-00219",
+   "id": "english-00239",
    "q": "What is the tense of 'They are playing'?",
    "o": [
     "Present continuous",
@@ -3300,7 +3600,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00220",
+   "id": "english-00240",
    "q": "Choose the word most similar in meaning to Contempt.",
    "o": [
     "Similarity",
@@ -3315,7 +3615,7 @@
    "e": "Contempt means Scorn."
   },
   {
-   "id": "english-00221",
+   "id": "english-00241",
    "q": "Choose the word most opposite in meaning to Contempt.",
    "o": [
     "Respect",
@@ -3330,7 +3630,7 @@
    "e": "The opposite of Contempt is Respect."
   },
   {
-   "id": "english-00222",
+   "id": "english-00242",
    "q": "What is the meaning of the idiom 'To keep one's fingers crossed'?",
    "o": [
     "Invalid",
@@ -3345,7 +3645,7 @@
    "e": "'To keep one's fingers crossed' means To hope for success."
   },
   {
-   "id": "english-00223",
+   "id": "english-00243",
    "q": "Choose the one word substitute for: A substance that prevents infection",
    "o": [
     "Pandemic",
@@ -3360,7 +3660,7 @@
    "e": "A substance that prevents infection — Antiseptic."
   },
   {
-   "id": "english-00224",
+   "id": "english-00244",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Approximate",
@@ -3375,7 +3675,7 @@
    "e": "The correct spelling is Approximate."
   },
   {
-   "id": "english-00225",
+   "id": "english-00245",
    "q": "What is the plural of Species?",
    "o": [
     "Species",
@@ -3390,7 +3690,7 @@
    "e": "The plural of Species is Species."
   },
   {
-   "id": "english-00226",
+   "id": "english-00246",
    "q": "What is the feminine form of Lord?",
    "o": [
     "Lady",
@@ -3405,7 +3705,7 @@
    "e": "The feminine of Lord is Lady."
   },
   {
-   "id": "english-00227",
+   "id": "english-00247",
    "q": "What is the comparative degree of Happy?",
    "o": [
     "Stronger",
@@ -3420,7 +3720,7 @@
    "e": "Happy — Happier — Happiest."
   },
   {
-   "id": "english-00228",
+   "id": "english-00248",
    "q": "Fill in the blank with the correct preposition: He is well versed ____ Sanskrit.",
    "o": [
     "of",
@@ -3435,7 +3735,7 @@
    "e": "The correct preposition is 'in'."
   },
   {
-   "id": "english-00229",
+   "id": "english-00249",
    "q": "What is a word that expresses strong feeling called?",
    "o": [
     "Preposition",
@@ -3450,7 +3750,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00230",
+   "id": "english-00250",
    "q": "Choose the word most similar in meaning to Nefarious.",
    "o": [
     "Secret",
@@ -3465,7 +3765,7 @@
    "e": "Nefarious means Wicked."
   },
   {
-   "id": "english-00231",
+   "id": "english-00251",
    "q": "Choose the word most opposite in meaning to Foment.",
    "o": [
     "Suppress",
@@ -3480,7 +3780,7 @@
    "e": "The opposite of Foment is Suppress."
   },
   {
-   "id": "english-00232",
+   "id": "english-00252",
    "q": "What is the meaning of the idiom 'End in smoke'?",
    "o": [
     "Just in time",
@@ -3495,7 +3795,7 @@
    "e": "'End in smoke' means Come to nothing."
   },
   {
-   "id": "english-00233",
+   "id": "english-00253",
    "q": "Choose the one word substitute for: A person whose life story is written by another",
    "o": [
     "Fragile",
@@ -3510,7 +3810,7 @@
    "e": "A person whose life story is written by another — Biographer."
   },
   {
-   "id": "english-00234",
+   "id": "english-00254",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Acknowledgment",
@@ -3525,7 +3825,7 @@
    "e": "The correct spelling is Secretary."
   },
   {
-   "id": "english-00235",
+   "id": "english-00255",
    "q": "What is the plural of Focus?",
    "o": [
     "Zoos",
@@ -3540,7 +3840,7 @@
    "e": "The plural of Focus is Foci."
   },
   {
-   "id": "english-00236",
+   "id": "english-00256",
    "q": "What is the feminine form of Stallion?",
    "o": [
     "Actress",
@@ -3555,7 +3855,7 @@
    "e": "The feminine of Stallion is Mare."
   },
   {
-   "id": "english-00237",
+   "id": "english-00257",
    "q": "What is the comparative degree of Intelligent?",
    "o": [
     "Hotter",
@@ -3570,7 +3870,7 @@
    "e": "Intelligent — More intelligent — Most intelligent."
   },
   {
-   "id": "english-00238",
+   "id": "english-00258",
    "q": "Fill in the blank with the correct preposition: I have no appetite ____ food.",
    "o": [
     "from",
@@ -3585,7 +3885,7 @@
    "e": "The correct preposition is 'for'."
   },
   {
-   "id": "english-00239",
+   "id": "english-00259",
    "q": "What is the past participle of 'drink'?",
    "o": [
     "Past perfect tense",
@@ -3600,7 +3900,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00240",
+   "id": "english-00260",
    "q": "Choose the word most similar in meaning to Unscathed.",
    "o": [
     "Omnipresent",
@@ -3615,7 +3915,7 @@
    "e": "Unscathed means Unharmed."
   },
   {
-   "id": "english-00241",
+   "id": "english-00261",
    "q": "Choose the word most opposite in meaning to Gregarious.",
    "o": [
     "Solitary",
@@ -3630,7 +3930,7 @@
    "e": "The opposite of Gregarious is Solitary."
   },
   {
-   "id": "english-00242",
+   "id": "english-00262",
    "q": "What is the meaning of the idiom 'Blue blood'?",
    "o": [
     "Noble birth",
@@ -3645,7 +3945,7 @@
    "e": "'Blue blood' means Noble birth."
   },
   {
-   "id": "english-00243",
+   "id": "english-00263",
    "q": "Choose the one word substitute for: A person who does not take any alcoholic drink",
    "o": [
     "Inedible",
@@ -3660,7 +3960,7 @@
    "e": "A person who does not take any alcoholic drink — Teetotaller."
   },
   {
-   "id": "english-00244",
+   "id": "english-00264",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Definitely",
@@ -3675,7 +3975,7 @@
    "e": "The correct spelling is Parliament."
   },
   {
-   "id": "english-00245",
+   "id": "english-00265",
    "q": "What is the plural of Woman?",
    "o": [
     "Calves",
@@ -3690,7 +3990,7 @@
    "e": "The plural of Woman is Women."
   },
   {
-   "id": "english-00246",
+   "id": "english-00266",
    "q": "What is the feminine form of Priest?",
    "o": [
     "Wife",
@@ -3705,7 +4005,7 @@
    "e": "The feminine of Priest is Priestess."
   },
   {
-   "id": "english-00247",
+   "id": "english-00267",
    "q": "What is the comparative degree of Fine?",
    "o": [
     "Thinner",
@@ -3720,7 +4020,7 @@
    "e": "Fine — Finer — Finest."
   },
   {
-   "id": "english-00248",
+   "id": "english-00268",
    "q": "Fill in the blank with the correct preposition: The teacher is popular ____ the students.",
    "o": [
     "in",
@@ -3735,7 +4035,7 @@
    "e": "The correct preposition is 'with'."
   },
   {
-   "id": "english-00249",
+   "id": "english-00269",
    "q": "What is a word that describes a noun called?",
    "o": [
     "A letter is written by him",
@@ -3750,7 +4050,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00250",
+   "id": "english-00270",
    "q": "Choose the word most similar in meaning to Exacerbate.",
    "o": [
     "Unintentional",
@@ -3765,7 +4065,7 @@
    "e": "Exacerbate means Worsen."
   },
   {
-   "id": "english-00251",
+   "id": "english-00271",
    "q": "Choose the word most opposite in meaning to Recalcitrant.",
    "o": [
     "Polite",
@@ -3780,7 +4080,7 @@
    "e": "The opposite of Recalcitrant is Obedient."
   },
   {
-   "id": "english-00252",
+   "id": "english-00272",
    "q": "What is the meaning of the idiom 'A dark horse'?",
    "o": [
     "An unexpected winner",
@@ -3795,7 +4095,7 @@
    "e": "'A dark horse' means An unexpected winner."
   },
   {
-   "id": "english-00253",
+   "id": "english-00273",
    "q": "Choose the one word substitute for: Something that is no longer in use",
    "o": [
     "Obsolete",
@@ -3810,7 +4110,7 @@
    "e": "Something that is no longer in use — Obsolete."
   },
   {
-   "id": "english-00254",
+   "id": "english-00274",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Appearance",
@@ -3825,7 +4125,7 @@
    "e": "The correct spelling is Desperate."
   },
   {
-   "id": "english-00255",
+   "id": "english-00275",
    "q": "What is the plural of Medium?",
    "o": [
     "Crises",
@@ -3840,7 +4140,7 @@
    "e": "The plural of Medium is Media."
   },
   {
-   "id": "english-00256",
+   "id": "english-00276",
    "q": "What is the feminine form of Ram?",
    "o": [
     "Duck",
@@ -3855,7 +4155,7 @@
    "e": "The feminine of Ram is Ewe."
   },
   {
-   "id": "english-00257",
+   "id": "english-00277",
    "q": "What is the comparative degree of Short?",
    "o": [
     "Shorter",
@@ -3870,7 +4170,7 @@
    "e": "Short — Shorter — Shortest."
   },
   {
-   "id": "english-00258",
+   "id": "english-00278",
    "q": "Fill in the blank with the correct preposition: He was accused ____ theft.",
    "o": [
     "of",
@@ -3885,7 +4185,7 @@
    "e": "The correct preposition is 'of'."
   },
   {
-   "id": "english-00259",
+   "id": "english-00279",
    "q": "What is the collective noun for a group of flowers?",
    "o": [
     "Adjective",
@@ -3900,7 +4200,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00260",
+   "id": "english-00280",
    "q": "Choose the word most similar in meaning to Laudable.",
    "o": [
     "Changeable",
@@ -3915,7 +4215,7 @@
    "e": "Laudable means Praiseworthy."
   },
   {
-   "id": "english-00261",
+   "id": "english-00281",
    "q": "Choose the word most opposite in meaning to Hazardous.",
    "o": [
     "Safe",
@@ -3930,7 +4230,7 @@
    "e": "The opposite of Hazardous is Safe."
   },
   {
-   "id": "english-00262",
+   "id": "english-00282",
    "q": "What is the meaning of the idiom 'Spill the beans'?",
    "o": [
     "An ineffective person or government",
@@ -3945,7 +4245,7 @@
    "e": "'Spill the beans' means Reveal secret information."
   },
   {
-   "id": "english-00263",
+   "id": "english-00283",
    "q": "Choose the one word substitute for: Government by the nobility",
    "o": [
     "Dockyard",
@@ -3960,7 +4260,7 @@
    "e": "Government by the nobility — Aristocracy."
   },
   {
-   "id": "english-00264",
+   "id": "english-00284",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Village",
@@ -3975,7 +4275,7 @@
    "e": "The correct spelling is Supersede."
   },
   {
-   "id": "english-00265",
+   "id": "english-00285",
    "q": "What is the plural of Looker-on?",
    "o": [
     "Foci",
@@ -3990,7 +4290,7 @@
    "e": "The plural of Looker-on is Lookers-on."
   },
   {
-   "id": "english-00266",
+   "id": "english-00286",
    "q": "What is the feminine form of Dog?",
    "o": [
     "Cow",
@@ -4005,7 +4305,7 @@
    "e": "The feminine of Dog is Bitch."
   },
   {
-   "id": "english-00267",
+   "id": "english-00287",
    "q": "What is the comparative degree of Beautiful?",
    "o": [
     "Simpler",
@@ -4020,7 +4320,7 @@
    "e": "Beautiful — More beautiful — Most beautiful."
   },
   {
-   "id": "english-00268",
+   "id": "english-00288",
    "q": "Fill in the blank with the correct preposition: I congratulated him ____ his success.",
    "o": [
     "over",
@@ -4035,7 +4335,7 @@
    "e": "The correct preposition is 'on'."
   },
   {
-   "id": "english-00269",
+   "id": "english-00289",
    "q": "What is the part of a sentence that says something about the subject?",
    "o": [
     "Predicate",
@@ -4050,7 +4350,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00270",
+   "id": "english-00290",
    "q": "Choose the word most similar in meaning to Capitulate.",
    "o": [
     "Unmanageable",
@@ -4065,7 +4365,7 @@
    "e": "Capitulate means Surrender."
   },
   {
-   "id": "english-00271",
+   "id": "english-00291",
    "q": "Choose the word most opposite in meaning to Expedite.",
    "o": [
     "Acquired",
@@ -4080,7 +4380,7 @@
    "e": "The opposite of Expedite is Delay."
   },
   {
-   "id": "english-00272",
+   "id": "english-00292",
    "q": "What is the meaning of the idiom 'Drop a line'?",
    "o": [
     "Die while working",
@@ -4095,7 +4395,7 @@
    "e": "'Drop a line' means Send a short letter."
   },
   {
-   "id": "english-00273",
+   "id": "english-00293",
    "q": "Choose the one word substitute for: A life story written by oneself",
    "o": [
     "Optimist",
@@ -4110,7 +4410,7 @@
    "e": "A life story written by oneself — Autobiography."
   },
   {
-   "id": "english-00274",
+   "id": "english-00294",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Parallel",
@@ -4125,7 +4425,7 @@
    "e": "The correct spelling is Parallel."
   },
   {
-   "id": "english-00275",
+   "id": "english-00295",
    "q": "What is the plural of Wolf?",
    "o": [
     "Photos",
@@ -4140,7 +4440,7 @@
    "e": "The plural of Wolf is Wolves."
   },
   {
-   "id": "english-00276",
+   "id": "english-00296",
    "q": "What is the feminine form of Lion?",
    "o": [
     "Bride",
@@ -4155,7 +4455,7 @@
    "e": "The feminine of Lion is Lioness."
   },
   {
-   "id": "english-00277",
+   "id": "english-00297",
    "q": "What is the comparative degree of Little?",
    "o": [
     "Less",
@@ -4170,7 +4470,7 @@
    "e": "Little — Less — Least."
   },
   {
-   "id": "english-00278",
+   "id": "english-00298",
    "q": "Fill in the blank with the correct preposition: She apologised ____ her mistake.",
    "o": [
     "for",
@@ -4185,7 +4485,7 @@
    "e": "The correct preposition is 'for'."
   },
   {
-   "id": "english-00279",
+   "id": "english-00299",
    "q": "What is a sentence with one main clause and one subordinate clause called?",
    "o": [
     "Complex sentence",
@@ -4200,7 +4500,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00280",
+   "id": "english-00300",
    "q": "Choose the word most similar in meaning to Coerce.",
    "o": [
     "Compel",
@@ -4215,7 +4515,7 @@
    "e": "Coerce means Compel."
   },
   {
-   "id": "english-00281",
+   "id": "english-00301",
    "q": "Choose the word most opposite in meaning to Prolific.",
    "o": [
     "Delay",
@@ -4230,7 +4530,7 @@
    "e": "The opposite of Prolific is Unproductive."
   },
   {
-   "id": "english-00282",
+   "id": "english-00302",
    "q": "What is the meaning of the idiom 'Sailing in the same boat'?",
    "o": [
     "With great success",
@@ -4245,7 +4545,7 @@
    "e": "'Sailing in the same boat' means Facing the same difficulty."
   },
   {
-   "id": "english-00283",
+   "id": "english-00303",
    "q": "Choose the one word substitute for: A cure for all diseases",
    "o": [
     "Illiterate",
@@ -4260,7 +4560,7 @@
    "e": "A cure for all diseases — Panacea."
   },
   {
-   "id": "english-00284",
+   "id": "english-00304",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Questionnaire",
@@ -4275,7 +4575,7 @@
    "e": "The correct spelling is Lightning."
   },
   {
-   "id": "english-00285",
+   "id": "english-00305",
    "q": "What is the plural of Sheep?",
    "o": [
     "Babies",
@@ -4290,7 +4590,7 @@
    "e": "The plural of Sheep is Sheep."
   },
   {
-   "id": "english-00286",
+   "id": "english-00306",
    "q": "What is the feminine form of Husband?",
    "o": [
     "Wife",
@@ -4305,7 +4605,7 @@
    "e": "The feminine of Husband is Wife."
   },
   {
-   "id": "english-00287",
+   "id": "english-00307",
    "q": "What is the comparative degree of Rich?",
    "o": [
     "Nobler",
@@ -4320,7 +4620,7 @@
    "e": "Rich — Richer — Richest."
   },
   {
-   "id": "english-00288",
+   "id": "english-00308",
    "q": "Fill in the blank with the correct preposition: He has been living here ____ 2010.",
    "o": [
     "of",
@@ -4335,7 +4635,7 @@
    "e": "The correct preposition is 'since'."
   },
   {
-   "id": "english-00289",
+   "id": "english-00309",
    "q": "What is the tense of 'We were waiting'?",
    "o": [
     "Bought",
@@ -4350,7 +4650,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00290",
+   "id": "english-00310",
    "q": "Choose the word most similar in meaning to Explicit.",
    "o": [
     "Essential",
@@ -4365,7 +4665,7 @@
    "e": "Explicit means Clear."
   },
   {
-   "id": "english-00291",
+   "id": "english-00311",
    "q": "Choose the word most opposite in meaning to Corroborate.",
    "o": [
     "Temporary",
@@ -4380,7 +4680,7 @@
    "e": "The opposite of Corroborate is Contradict."
   },
   {
-   "id": "english-00292",
+   "id": "english-00312",
    "q": "What is the meaning of the idiom 'An axe to grind'?",
    "o": [
     "In close partnership",
@@ -4395,7 +4695,7 @@
    "e": "'An axe to grind' means A selfish motive."
   },
   {
-   "id": "english-00293",
+   "id": "english-00313",
    "q": "Choose the one word substitute for: One who knows everything",
    "o": [
     "Ornithologist",
@@ -4410,7 +4710,7 @@
    "e": "One who knows everything — Omniscient."
   },
   {
-   "id": "english-00294",
+   "id": "english-00314",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Disappoint",
@@ -4425,7 +4725,7 @@
    "e": "The correct spelling is Foreign."
   },
   {
-   "id": "english-00295",
+   "id": "english-00315",
    "q": "What is the plural of Datum?",
    "o": [
     "Halves",
@@ -4440,7 +4740,7 @@
    "e": "The plural of Datum is Data."
   },
   {
-   "id": "english-00296",
+   "id": "english-00316",
    "q": "What is the feminine form of Duke?",
    "o": [
     "Empress",
@@ -4455,7 +4755,7 @@
    "e": "The feminine of Duke is Duchess."
   },
   {
-   "id": "english-00297",
+   "id": "english-00317",
    "q": "What is the comparative degree of Hot?",
    "o": [
     "More dangerous",
@@ -4470,7 +4770,7 @@
    "e": "Hot — Hotter — Hottest."
   },
   {
-   "id": "english-00298",
+   "id": "english-00318",
    "q": "Fill in the blank with the correct preposition: She is different ____ her sister.",
    "o": [
     "with",
@@ -4485,7 +4785,7 @@
    "e": "The correct preposition is 'from'."
   },
   {
-   "id": "english-00299",
+   "id": "english-00319",
    "q": "Which word is used to show a condition?",
    "o": [
     "Quickly",
@@ -4500,7 +4800,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00300",
+   "id": "english-00320",
    "q": "Choose the word most similar in meaning to Ostentatious.",
    "o": [
     "Opinionated",
@@ -4515,7 +4815,7 @@
    "e": "Ostentatious means Showy."
   },
   {
-   "id": "english-00301",
+   "id": "english-00321",
    "q": "Choose the word most opposite in meaning to Haughty.",
    "o": [
     "Frequent",
@@ -4530,7 +4830,7 @@
    "e": "The opposite of Haughty is Humble."
   },
   {
-   "id": "english-00302",
+   "id": "english-00322",
    "q": "What is the meaning of the idiom 'Cut a sorry figure'?",
    "o": [
     "Make a poor impression",
@@ -4545,7 +4845,7 @@
    "e": "'Cut a sorry figure' means Make a poor impression."
   },
   {
-   "id": "english-00303",
+   "id": "english-00323",
    "q": "Choose the one word substitute for: One who speaks many languages",
    "o": [
     "Zoo",
@@ -4560,7 +4860,7 @@
    "e": "One who speaks many languages — Polyglot."
   },
   {
-   "id": "english-00304",
+   "id": "english-00324",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Disappear",
@@ -4575,7 +4875,7 @@
    "e": "The correct spelling is Grateful."
   },
   {
-   "id": "english-00305",
+   "id": "english-00325",
    "q": "What is the plural of Fungus?",
    "o": [
     "Studios",
@@ -4590,7 +4890,7 @@
    "e": "The plural of Fungus is Fungi."
   },
   {
-   "id": "english-00306",
+   "id": "english-00326",
    "q": "What is the feminine form of Earl?",
    "o": [
     "Aunt",
@@ -4605,7 +4905,7 @@
    "e": "The feminine of Earl is Countess."
   },
   {
-   "id": "english-00307",
+   "id": "english-00327",
    "q": "What is the comparative degree of Safe?",
    "o": [
     "Taller",
@@ -4620,7 +4920,7 @@
    "e": "Safe — Safer — Safest."
   },
   {
-   "id": "english-00308",
+   "id": "english-00328",
    "q": "Fill in the blank with the correct preposition: He complied ____ my request.",
    "o": [
     "at",
@@ -4635,7 +4935,7 @@
    "e": "The correct preposition is 'with'."
   },
   {
-   "id": "english-00309",
+   "id": "english-00329",
    "q": "Which article is used before a consonant sound?",
    "o": [
     "A",
@@ -4650,7 +4950,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00310",
+   "id": "english-00330",
    "q": "Choose the word most similar in meaning to Resilient.",
    "o": [
     "Flexible",
@@ -4665,7 +4965,7 @@
    "e": "Resilient means Flexible."
   },
   {
-   "id": "english-00311",
+   "id": "english-00331",
    "q": "Choose the word most opposite in meaning to Pragmatic.",
    "o": [
     "Hostile",
@@ -4680,7 +4980,7 @@
    "e": "The opposite of Pragmatic is Idealistic."
   },
   {
-   "id": "english-00312",
+   "id": "english-00332",
    "q": "What is the meaning of the idiom 'To eat one's words'?",
    "o": [
     "An inexperienced person",
@@ -4695,7 +4995,7 @@
    "e": "'To eat one's words' means To retract one's statement."
   },
   {
-   "id": "english-00313",
+   "id": "english-00333",
    "q": "Choose the one word substitute for: One who is always hopeful",
    "o": [
     "Optimist",
@@ -4710,7 +5010,7 @@
    "e": "One who is always hopeful — Optimist."
   },
   {
-   "id": "english-00314",
+   "id": "english-00334",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Laboratory",
@@ -4725,7 +5025,7 @@
    "e": "The correct spelling is Occasion."
   },
   {
-   "id": "english-00315",
+   "id": "english-00335",
    "q": "What is the plural of Fish?",
    "o": [
     "Buffaloes",
@@ -4740,7 +5040,7 @@
    "e": "The plural of Fish is Fish."
   },
   {
-   "id": "english-00316",
+   "id": "english-00336",
    "q": "What is the feminine form of Sir?",
    "o": [
     "Hostess",
@@ -4755,7 +5055,7 @@
    "e": "The feminine of Sir is Madam."
   },
   {
-   "id": "english-00317",
+   "id": "english-00337",
    "q": "What is the comparative degree of Good?",
    "o": [
     "Longer",
@@ -4770,7 +5070,7 @@
    "e": "Good — Better — Best."
   },
   {
-   "id": "english-00318",
+   "id": "english-00338",
    "q": "Fill in the blank with the correct preposition: The train is ____ time today.",
    "o": [
     "to",
@@ -4785,7 +5085,7 @@
    "e": "The correct preposition is 'on'."
   },
   {
-   "id": "english-00319",
+   "id": "english-00339",
    "q": "What is a word with the same sound but different spelling called?",
    "o": [
     "Present continuous",
@@ -4800,7 +5100,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00320",
+   "id": "english-00340",
    "q": "Choose the word most similar in meaning to Transient.",
    "o": [
     "Outdated",
@@ -4815,7 +5115,7 @@
    "e": "Transient means Temporary."
   },
   {
-   "id": "english-00321",
+   "id": "english-00341",
    "q": "Choose the word most opposite in meaning to Vigilant.",
    "o": [
     "Frequent",
@@ -4830,7 +5130,7 @@
    "e": "The opposite of Vigilant is Careless."
   },
   {
-   "id": "english-00322",
+   "id": "english-00342",
    "q": "What is the meaning of the idiom 'Stick to one's guns'?",
    "o": [
     "In trouble",
@@ -4845,7 +5145,7 @@
    "e": "'Stick to one's guns' means Refuse to change one's stand."
   },
   {
-   "id": "english-00323",
+   "id": "english-00343",
    "q": "Choose the one word substitute for: One who is all powerful",
    "o": [
     "Linguist",
@@ -4860,7 +5160,7 @@
    "e": "One who is all powerful — Omnipotent."
   },
   {
-   "id": "english-00324",
+   "id": "english-00344",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Explanation",
@@ -4875,7 +5175,7 @@
    "e": "The correct spelling is Proceed."
   },
   {
-   "id": "english-00325",
+   "id": "english-00345",
    "q": "What is the plural of Trout?",
    "o": [
     "Photos",
@@ -4890,7 +5190,7 @@
    "e": "The plural of Trout is Trout."
   },
   {
-   "id": "english-00326",
+   "id": "english-00346",
    "q": "What is the feminine form of Brother?",
    "o": [
     "Manageress",
@@ -4905,7 +5205,7 @@
    "e": "The feminine of Brother is Sister."
   },
   {
-   "id": "english-00327",
+   "id": "english-00347",
    "q": "What is the comparative degree of Difficult?",
    "o": [
     "Brighter",
@@ -4920,7 +5220,7 @@
    "e": "Difficult — More difficult — Most difficult."
   },
   {
-   "id": "english-00328",
+   "id": "english-00348",
    "q": "Fill in the blank with the correct preposition: The house is made ____ bricks.",
    "o": [
     "for",
@@ -4935,7 +5235,7 @@
    "e": "The correct preposition is 'of'."
   },
   {
-   "id": "english-00329",
+   "id": "english-00349",
    "q": "Which conjunction pairs with 'not only'?",
    "o": [
     "Compound sentence",
@@ -4950,7 +5250,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00330",
+   "id": "english-00350",
    "q": "Choose the word most similar in meaning to Unanimous.",
    "o": [
     "United",
@@ -4965,7 +5265,7 @@
    "e": "Unanimous means United."
   },
   {
-   "id": "english-00331",
+   "id": "english-00351",
    "q": "Choose the word most opposite in meaning to Prodigal.",
    "o": [
     "Scarce",
@@ -4980,7 +5280,7 @@
    "e": "The opposite of Prodigal is Thrifty."
   },
   {
-   "id": "english-00332",
+   "id": "english-00352",
    "q": "What is the meaning of the idiom 'Off and on'?",
    "o": [
     "Occasionally",
@@ -4995,7 +5295,7 @@
    "e": "'Off and on' means Occasionally."
   },
   {
-   "id": "english-00333",
+   "id": "english-00353",
    "q": "Choose the one word substitute for: A place where medicines are prepared",
    "o": [
     "Pharmacy",
@@ -5010,7 +5310,7 @@
    "e": "A place where medicines are prepared — Pharmacy."
   },
   {
-   "id": "english-00334",
+   "id": "english-00354",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Heroes",
@@ -5025,7 +5325,7 @@
    "e": "The correct spelling is Successful."
   },
   {
-   "id": "english-00335",
+   "id": "english-00355",
    "q": "What is the plural of Radio?",
    "o": [
     "Studios",
@@ -5040,7 +5340,7 @@
    "e": "The plural of Radio is Radios."
   },
   {
-   "id": "english-00336",
+   "id": "english-00356",
    "q": "What is the feminine form of Waiter?",
    "o": [
     "Priestess",
@@ -5055,7 +5355,7 @@
    "e": "The feminine of Waiter is Waitress."
   },
   {
-   "id": "english-00337",
+   "id": "english-00357",
    "q": "What is the comparative degree of High?",
    "o": [
     "Colder",
@@ -5070,7 +5370,7 @@
    "e": "High — Higher — Highest."
   },
   {
-   "id": "english-00338",
+   "id": "english-00358",
    "q": "Fill in the blank with the correct preposition: He was charged ____ murder.",
    "o": [
     "on",
@@ -5085,7 +5385,7 @@
    "e": "The correct preposition is 'with'."
   },
   {
-   "id": "english-00339",
+   "id": "english-00359",
    "q": "What is the collective noun for a group of fish?",
    "o": [
     "Begun",
@@ -5100,7 +5400,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00340",
+   "id": "english-00360",
    "q": "Choose the word most similar in meaning to Famine.",
    "o": [
     "Essential",
@@ -5115,7 +5415,7 @@
    "e": "Famine means Starvation."
   },
   {
-   "id": "english-00341",
+   "id": "english-00361",
    "q": "Choose the word most opposite in meaning to Arduous.",
    "o": [
     "Easy",
@@ -5130,7 +5430,7 @@
    "e": "The opposite of Arduous is Easy."
   },
   {
-   "id": "english-00342",
+   "id": "english-00362",
    "q": "What is the meaning of the idiom 'Bear the brunt'?",
    "o": [
     "Apologise humbly",
@@ -5145,7 +5445,7 @@
    "e": "'Bear the brunt' means Face the main impact."
   },
   {
-   "id": "english-00343",
+   "id": "english-00363",
    "q": "Choose the one word substitute for: A person who works with wood",
    "o": [
     "Taciturn",
@@ -5160,7 +5460,7 @@
    "e": "A person who works with wood — Carpenter."
   },
   {
-   "id": "english-00344",
+   "id": "english-00364",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Welcome",
@@ -5175,7 +5475,7 @@
    "e": "The correct spelling is Welcome."
   },
   {
-   "id": "english-00345",
+   "id": "english-00365",
    "q": "What is the plural of Baby?",
    "o": [
     "Echoes",
@@ -5190,7 +5490,7 @@
    "e": "The plural of Baby is Babies."
   },
   {
-   "id": "english-00346",
+   "id": "english-00366",
    "q": "What is the feminine form of Bridegroom?",
    "o": [
     "Godmother",
@@ -5205,7 +5505,7 @@
    "e": "The feminine of Bridegroom is Bride."
   },
   {
-   "id": "english-00347",
+   "id": "english-00367",
    "q": "What is the comparative degree of Old?",
    "o": [
     "Hotter",
@@ -5220,7 +5520,7 @@
    "e": "Old — Older — Oldest."
   },
   {
-   "id": "english-00348",
+   "id": "english-00368",
    "q": "Fill in the blank with the correct preposition: He was absent ____ the class.",
    "o": [
     "of",
@@ -5235,7 +5535,7 @@
    "e": "The correct preposition is 'from'."
   },
   {
-   "id": "english-00349",
+   "id": "english-00369",
    "q": "What is the tense of 'She will have left'?",
    "o": [
     "Predicate",
@@ -5250,7 +5550,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00350",
+   "id": "english-00370",
    "q": "Choose the word most similar in meaning to Judicious.",
    "o": [
     "Silent",
@@ -5265,7 +5565,7 @@
    "e": "Judicious means Sensible."
   },
   {
-   "id": "english-00351",
+   "id": "english-00371",
    "q": "Choose the word most opposite in meaning to Malleable.",
    "o": [
     "Certain",
@@ -5280,7 +5580,7 @@
    "e": "The opposite of Malleable is Rigid."
   },
   {
-   "id": "english-00352",
+   "id": "english-00372",
    "q": "What is the meaning of the idiom 'To let the grass grow under one's feet'?",
    "o": [
     "To hope for success",
@@ -5295,7 +5595,7 @@
    "e": "'To let the grass grow under one's feet' means To waste time."
   },
   {
-   "id": "english-00353",
+   "id": "english-00373",
    "q": "Choose the one word substitute for: Animals that live in groups",
    "o": [
     "Gregarious",
@@ -5310,7 +5610,7 @@
    "e": "Animals that live in groups — Gregarious."
   },
   {
-   "id": "english-00354",
+   "id": "english-00374",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Adolescent",
@@ -5325,7 +5625,7 @@
    "e": "The correct spelling is Amateur."
   },
   {
-   "id": "english-00355",
+   "id": "english-00375",
    "q": "What is the plural of Index?",
    "o": [
     "Indices",
@@ -5340,7 +5640,7 @@
    "e": "The plural of Index is Indices."
   },
   {
-   "id": "english-00356",
+   "id": "english-00376",
    "q": "What is the feminine form of Emperor?",
    "o": [
     "Empress",
@@ -5355,7 +5655,7 @@
    "e": "The feminine of Emperor is Empress."
   },
   {
-   "id": "english-00357",
+   "id": "english-00377",
    "q": "What is the comparative degree of Easy?",
    "o": [
     "More intelligent",
@@ -5370,7 +5670,7 @@
    "e": "Easy — Easier — Easiest."
   },
   {
-   "id": "english-00358",
+   "id": "english-00378",
    "q": "Fill in the blank with the correct preposition: The teacher was angry ____ the students.",
    "o": [
     "for",
@@ -5385,7 +5685,7 @@
    "e": "The correct preposition is 'with'."
   },
   {
-   "id": "english-00359",
+   "id": "english-00379",
    "q": "What is the noun form of the verb 'admit'?",
    "o": [
     "Future perfect",
@@ -5400,7 +5700,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00360",
+   "id": "english-00380",
    "q": "Choose the word most similar in meaning to Intrinsic.",
    "o": [
     "Inherent",
@@ -5415,7 +5715,7 @@
    "e": "Intrinsic means Inherent."
   },
   {
-   "id": "english-00361",
+   "id": "english-00381",
    "q": "Choose the word most opposite in meaning to Abundant.",
    "o": [
     "Verbose",
@@ -5430,7 +5730,7 @@
    "e": "The opposite of Abundant is Scarce."
   },
   {
-   "id": "english-00362",
+   "id": "english-00382",
    "q": "What is the meaning of the idiom 'Beat about the bush'?",
    "o": [
     "To lament what cannot be undone",
@@ -5445,7 +5745,7 @@
    "e": "'Beat about the bush' means Talk without coming to the point."
   },
   {
-   "id": "english-00363",
+   "id": "english-00383",
    "q": "Choose the one word substitute for: A person who sells flowers",
    "o": [
     "Florist",
@@ -5460,7 +5760,7 @@
    "e": "A person who sells flowers — Florist."
   },
   {
-   "id": "english-00364",
+   "id": "english-00384",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Accidentally",
@@ -5475,7 +5775,7 @@
    "e": "The correct spelling is Medieval."
   },
   {
-   "id": "english-00365",
+   "id": "english-00385",
    "q": "What is the plural of Tooth?",
    "o": [
     "Teeth",
@@ -5490,7 +5790,7 @@
    "e": "The plural of Tooth is Teeth."
   },
   {
-   "id": "english-00366",
+   "id": "english-00386",
    "q": "What is the feminine form of Fox?",
    "o": [
     "Witch",
@@ -5505,7 +5805,7 @@
    "e": "The feminine of Fox is Vixen."
   },
   {
-   "id": "english-00367",
+   "id": "english-00387",
    "q": "What is the comparative degree of Wise?",
    "o": [
     "Higher",
@@ -5520,7 +5820,7 @@
    "e": "Wise — Wiser — Wisest."
   },
   {
-   "id": "english-00368",
+   "id": "english-00388",
    "q": "Fill in the blank with the correct preposition: He is addicted ____ gambling.",
    "o": [
     "with",
@@ -5535,7 +5835,7 @@
    "e": "The correct preposition is 'to'."
   },
   {
-   "id": "english-00369",
+   "id": "english-00389",
    "q": "Which punctuation mark introduces a list?",
    "o": [
     "Nor",
@@ -5550,7 +5850,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00370",
+   "id": "english-00390",
    "q": "Choose the word most similar in meaning to Philanthropy.",
    "o": [
     "Penniless",
@@ -5565,7 +5865,7 @@
    "e": "Philanthropy means Charity."
   },
   {
-   "id": "english-00371",
+   "id": "english-00391",
    "q": "Choose the word most opposite in meaning to Succinct.",
    "o": [
     "Lengthy",
@@ -5580,7 +5880,7 @@
    "e": "The opposite of Succinct is Lengthy."
   },
   {
-   "id": "english-00372",
+   "id": "english-00392",
    "q": "What is the meaning of the idiom 'Stand by'?",
    "o": [
     "An achievement to be proud of",
@@ -5595,7 +5895,7 @@
    "e": "'Stand by' means Support."
   },
   {
-   "id": "english-00373",
+   "id": "english-00393",
    "q": "Choose the one word substitute for: Animals that eat only flesh",
    "o": [
     "Homicide",
@@ -5610,7 +5910,7 @@
    "e": "Animals that eat only flesh — Carnivores."
   },
   {
-   "id": "english-00374",
+   "id": "english-00394",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Carriage",
@@ -5625,7 +5925,7 @@
    "e": "The correct spelling is Carriage."
   },
   {
-   "id": "english-00375",
+   "id": "english-00395",
    "q": "What is the plural of Axis?",
    "o": [
     "Crises",
@@ -5640,7 +5940,7 @@
    "e": "The plural of Axis is Axes."
   },
   {
-   "id": "english-00376",
+   "id": "english-00396",
    "q": "What is the feminine form of Nephew?",
    "o": [
     "Niece",
@@ -5655,7 +5955,7 @@
    "e": "The feminine of Nephew is Niece."
   },
   {
-   "id": "english-00377",
+   "id": "english-00397",
    "q": "What is the comparative degree of Simple?",
    "o": [
     "Busier",
@@ -5670,7 +5970,7 @@
    "e": "Simple — Simpler — Simplest."
   },
   {
-   "id": "english-00378",
+   "id": "english-00398",
    "q": "Fill in the blank with the correct preposition: The meeting was presided ____ the chairman.",
    "o": [
     "of",
@@ -5685,7 +5985,7 @@
    "e": "The correct preposition is 'over'."
   },
   {
-   "id": "english-00379",
+   "id": "english-00399",
    "q": "Which tense is used with 'since' and 'for'?",
    "o": [
     "The",
@@ -5700,7 +6000,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00380",
+   "id": "english-00400",
    "q": "Choose the word most similar in meaning to Hiatus.",
    "o": [
     "Anger",
@@ -5715,7 +6015,7 @@
    "e": "Hiatus means Gap."
   },
   {
-   "id": "english-00381",
+   "id": "english-00401",
    "q": "Choose the word most opposite in meaning to Meticulous.",
    "o": [
     "Permanent",
@@ -5730,7 +6030,7 @@
    "e": "The opposite of Meticulous is Careless."
   },
   {
-   "id": "english-00382",
+   "id": "english-00402",
    "q": "What is the meaning of the idiom 'At the eleventh hour'?",
    "o": [
     "At the last moment",
@@ -5745,7 +6045,7 @@
    "e": "'At the eleventh hour' means At the last moment."
   },
   {
-   "id": "english-00383",
+   "id": "english-00403",
    "q": "Choose the one word substitute for: One who loves mankind",
    "o": [
     "Infallible",
@@ -5760,7 +6060,7 @@
    "e": "One who loves mankind — Philanthropist."
   },
   {
-   "id": "english-00384",
+   "id": "english-00404",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Believe",
@@ -5775,7 +6075,7 @@
    "e": "The correct spelling is Surprise."
   },
   {
-   "id": "english-00385",
+   "id": "english-00405",
    "q": "What is the plural of Foot?",
    "o": [
     "Feet",
@@ -5790,7 +6090,7 @@
    "e": "The plural of Foot is Feet."
   },
   {
-   "id": "english-00386",
+   "id": "english-00406",
    "q": "What is the feminine form of Boy?",
    "o": [
     "Poetess",
@@ -5805,7 +6105,7 @@
    "e": "The feminine of Boy is Girl."
   },
   {
-   "id": "english-00387",
+   "id": "english-00407",
    "q": "What is the comparative degree of Courageous?",
    "o": [
     "Simpler",
@@ -5820,7 +6120,7 @@
    "e": "Courageous — More courageous — Most courageous."
   },
   {
-   "id": "english-00388",
+   "id": "english-00408",
    "q": "Fill in the blank with the correct preposition: He is accustomed ____ hard work.",
    "o": [
     "over",
@@ -5835,7 +6135,7 @@
    "e": "The correct preposition is 'to'."
   },
   {
-   "id": "english-00389",
+   "id": "english-00409",
    "q": "What is the collective noun for a group of stars?",
    "o": [
     "Constellation",
@@ -5850,7 +6150,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00390",
+   "id": "english-00410",
    "q": "Choose the word most similar in meaning to Myriad.",
    "o": [
     "Calmness",
@@ -5865,7 +6165,7 @@
    "e": "Myriad means Countless."
   },
   {
-   "id": "english-00391",
+   "id": "english-00411",
    "q": "Choose the word most opposite in meaning to Famine.",
    "o": [
     "Manifest",
@@ -5880,7 +6180,7 @@
    "e": "The opposite of Famine is Plenty."
   },
   {
-   "id": "english-00392",
+   "id": "english-00412",
    "q": "What is the meaning of the idiom 'Iron horse'?",
    "o": [
     "A person used by another",
@@ -5895,7 +6195,7 @@
    "e": "'Iron horse' means A railway engine."
   },
   {
-   "id": "english-00393",
+   "id": "english-00413",
    "q": "Choose the one word substitute for: One who is not sure about God's existence",
    "o": [
     "Novice",
@@ -5910,7 +6210,7 @@
    "e": "One who is not sure about God's existence — Agnostic."
   },
   {
-   "id": "english-00394",
+   "id": "english-00414",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Hundred",
@@ -5925,7 +6225,7 @@
    "e": "The correct spelling is Attendance."
   },
   {
-   "id": "english-00395",
+   "id": "english-00415",
    "q": "What is the plural of Vertex?",
    "o": [
     "Vertices",
@@ -5940,7 +6240,7 @@
    "e": "The plural of Vertex is Vertices."
   },
   {
-   "id": "english-00396",
+   "id": "english-00416",
    "q": "What is the feminine form of Widower?",
    "o": [
     "Widow",
@@ -5955,7 +6255,7 @@
    "e": "The feminine of Widower is Widow."
   },
   {
-   "id": "english-00397",
+   "id": "english-00417",
    "q": "What is the comparative degree of Cold?",
    "o": [
     "Colder",
@@ -5970,7 +6270,7 @@
    "e": "Cold — Colder — Coldest."
   },
   {
-   "id": "english-00398",
+   "id": "english-00418",
    "q": "Fill in the blank with the correct preposition: He insisted ____ going alone.",
    "o": [
     "on",
@@ -5985,7 +6285,7 @@
    "e": "The correct preposition is 'on'."
   },
   {
-   "id": "english-00399",
+   "id": "english-00419",
    "q": "What is the indirect form of 'He said, What a lovely day!'?",
    "o": [
     "Decision",
@@ -6000,7 +6300,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00400",
+   "id": "english-00420",
    "q": "Choose the word most similar in meaning to Wrath.",
    "o": [
     "Conscientious",
@@ -6015,7 +6315,7 @@
    "e": "Wrath means Anger."
   },
   {
-   "id": "english-00401",
+   "id": "english-00421",
    "q": "Choose the word most opposite in meaning to Ephemeral.",
    "o": [
     "Permanent",
@@ -6030,7 +6330,7 @@
    "e": "The opposite of Ephemeral is Permanent."
   },
   {
-   "id": "english-00402",
+   "id": "english-00422",
    "q": "What is the meaning of the idiom 'A stone's throw'?",
    "o": [
     "A very short distance",
@@ -6045,7 +6345,7 @@
    "e": "'A stone's throw' means A very short distance."
   },
   {
-   "id": "english-00403",
+   "id": "english-00423",
    "q": "Choose the one word substitute for: Government by a king or queen",
    "o": [
     "Antonyms",
@@ -6060,7 +6360,7 @@
    "e": "Government by a king or queen — Monarchy."
   },
   {
-   "id": "english-00404",
+   "id": "english-00424",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Parliament",
@@ -6075,7 +6375,7 @@
    "e": "The correct spelling is Correspondence."
   },
   {
-   "id": "english-00405",
+   "id": "english-00425",
    "q": "What is the plural of Bus?",
    "o": [
     "Criteria",
@@ -6090,7 +6390,7 @@
    "e": "The plural of Bus is Buses."
   },
   {
-   "id": "english-00406",
+   "id": "english-00426",
    "q": "What is the feminine form of Horse?",
    "o": [
     "Mare",
@@ -6105,7 +6405,7 @@
    "e": "The feminine of Horse is Mare."
   },
   {
-   "id": "english-00407",
+   "id": "english-00427",
    "q": "What is the comparative degree of Kind?",
    "o": [
     "Worse",
@@ -6120,7 +6420,7 @@
    "e": "Kind — Kinder — Kindest."
   },
   {
-   "id": "english-00408",
+   "id": "english-00428",
    "q": "Fill in the blank with the correct preposition: He is jealous ____ his friend.",
    "o": [
     "with",
@@ -6135,7 +6435,7 @@
    "e": "The correct preposition is 'of'."
   },
   {
-   "id": "english-00409",
+   "id": "english-00429",
    "q": "What is a group of words without a subject and predicate called?",
    "o": [
     "The base form (infinitive)",
@@ -6150,7 +6450,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00410",
+   "id": "english-00430",
    "q": "Choose the word most similar in meaning to Imminent.",
    "o": [
     "Outdated",
@@ -6165,7 +6465,7 @@
    "e": "Imminent means Impending."
   },
   {
-   "id": "english-00411",
+   "id": "english-00431",
    "q": "Choose the word most opposite in meaning to Formidable.",
    "o": [
     "Solitary",
@@ -6180,7 +6480,7 @@
    "e": "The opposite of Formidable is Weak."
   },
   {
-   "id": "english-00412",
+   "id": "english-00432",
    "q": "What is the meaning of the idiom 'Mealy-mouthed'?",
    "o": [
     "Unable to speak plainly",
@@ -6195,7 +6495,7 @@
    "e": "'Mealy-mouthed' means Unable to speak plainly."
   },
   {
-   "id": "english-00413",
+   "id": "english-00433",
    "q": "Choose the one word substitute for: A place of perfect happiness",
    "o": [
     "Utopia",
@@ -6210,7 +6510,7 @@
    "e": "A place of perfect happiness — Utopia."
   },
   {
-   "id": "english-00414",
+   "id": "english-00434",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Existence",
@@ -6225,7 +6525,7 @@
    "e": "The correct spelling is Ridiculous."
   },
   {
-   "id": "english-00415",
+   "id": "english-00435",
    "q": "What is the plural of Roof?",
    "o": [
     "Roofs",
@@ -6240,7 +6540,7 @@
    "e": "The plural of Roof is Roofs."
   },
   {
-   "id": "english-00416",
+   "id": "english-00436",
    "q": "What is the feminine form of Poet?",
    "o": [
     "Madam",
@@ -6255,7 +6555,7 @@
    "e": "The feminine of Poet is Poetess."
   },
   {
-   "id": "english-00417",
+   "id": "english-00437",
    "q": "What is the comparative degree of Low?",
    "o": [
     "Wider",
@@ -6270,7 +6570,7 @@
    "e": "Low — Lower — Lowest."
   },
   {
-   "id": "english-00418",
+   "id": "english-00438",
    "q": "Fill in the blank with the correct preposition: The child is suffering ____ fever.",
    "o": [
     "for",
@@ -6285,7 +6585,7 @@
    "e": "The correct preposition is 'from'."
   },
   {
-   "id": "english-00419",
+   "id": "english-00439",
    "q": "What is the past tense of 'teach'?",
    "o": [
     "Worst",
@@ -6300,7 +6600,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00420",
+   "id": "english-00440",
    "q": "Choose the word most similar in meaning to Enigma.",
    "o": [
     "Increase",
@@ -6315,7 +6615,7 @@
    "e": "Enigma means Mystery."
   },
   {
-   "id": "english-00421",
+   "id": "english-00441",
    "q": "Choose the word most opposite in meaning to Irascible.",
    "o": [
     "Even-tempered",
@@ -6330,7 +6630,7 @@
    "e": "The opposite of Irascible is Even-tempered."
   },
   {
-   "id": "english-00422",
+   "id": "english-00442",
    "q": "What is the meaning of the idiom 'A close-fisted person'?",
    "o": [
     "To get into trouble",
@@ -6345,7 +6645,7 @@
    "e": "'A close-fisted person' means A miser."
   },
   {
-   "id": "english-00423",
+   "id": "english-00443",
    "q": "Choose the one word substitute for: A speech made without preparation",
    "o": [
     "Zoologist",
@@ -6360,7 +6660,7 @@
    "e": "A speech made without preparation — Extempore."
   },
   {
-   "id": "english-00424",
+   "id": "english-00444",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Misspell",
@@ -6375,7 +6675,7 @@
    "e": "The correct spelling is Misspell."
   },
   {
-   "id": "english-00425",
+   "id": "english-00445",
    "q": "What is the plural of Son-in-law?",
    "o": [
     "Halves",
@@ -6390,7 +6690,7 @@
    "e": "The plural of Son-in-law is Sons-in-law."
   },
   {
-   "id": "english-00426",
+   "id": "english-00446",
    "q": "What is the feminine form of Peacock?",
    "o": [
     "Peahen",
@@ -6405,7 +6705,7 @@
    "e": "The feminine of Peacock is Peahen."
   },
   {
-   "id": "english-00427",
+   "id": "english-00447",
    "q": "What is the comparative degree of Tall?",
    "o": [
     "Richer",
@@ -6420,7 +6720,7 @@
    "e": "Tall — Taller — Tallest."
   },
   {
-   "id": "english-00428",
+   "id": "english-00448",
    "q": "Fill in the blank with the correct preposition: The book is ____ the table.",
    "o": [
     "since",
@@ -6435,7 +6735,7 @@
    "e": "The correct preposition is 'on'."
   },
   {
-   "id": "english-00429",
+   "id": "english-00449",
    "q": "Which form of the verb follows 'to'?",
    "o": [
     "Fleet",
@@ -6450,7 +6750,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00430",
+   "id": "english-00450",
    "q": "Choose the word most similar in meaning to Munificent.",
    "o": [
     "Generous",
@@ -6465,7 +6765,7 @@
    "e": "Munificent means Generous."
   },
   {
-   "id": "english-00431",
+   "id": "english-00451",
    "q": "Choose the word most opposite in meaning to Apathy.",
    "o": [
     "Scanty",
@@ -6480,7 +6780,7 @@
    "e": "The opposite of Apathy is Enthusiasm."
   },
   {
-   "id": "english-00432",
+   "id": "english-00452",
    "q": "What is the meaning of the idiom 'Give a wide berth'?",
    "o": [
     "Keep away from",
@@ -6495,7 +6795,7 @@
    "e": "'Give a wide berth' means Keep away from."
   },
   {
-   "id": "english-00433",
+   "id": "english-00453",
    "q": "Choose the one word substitute for: A person who takes care of books in a library",
    "o": [
     "Librarian",
@@ -6510,7 +6810,7 @@
    "e": "A person who takes care of books in a library — Librarian."
   },
   {
-   "id": "english-00434",
+   "id": "english-00454",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Beautiful",
@@ -6525,7 +6825,7 @@
    "e": "The correct spelling is Persistent."
   },
   {
-   "id": "english-00435",
+   "id": "english-00455",
    "q": "What is the plural of Tomato?",
    "o": [
     "Analyses",
@@ -6540,7 +6840,7 @@
    "e": "The plural of Tomato is Tomatoes."
   },
   {
-   "id": "english-00436",
+   "id": "english-00456",
    "q": "What is the feminine form of Bachelor?",
    "o": [
     "Bitch",
@@ -6555,7 +6855,7 @@
    "e": "The feminine of Bachelor is Spinster."
   },
   {
-   "id": "english-00437",
+   "id": "english-00457",
    "q": "What is the comparative degree of Big?",
    "o": [
     "Taller",
@@ -6570,7 +6870,7 @@
    "e": "Big — Bigger — Biggest."
   },
   {
-   "id": "english-00438",
+   "id": "english-00458",
    "q": "Fill in the blank with the correct preposition: He is good ____ mathematics.",
    "o": [
     "on",
@@ -6585,7 +6885,7 @@
    "e": "The correct preposition is 'at'."
   },
   {
-   "id": "english-00439",
+   "id": "english-00459",
    "q": "What is a word that joins two clauses called?",
    "o": [
     "Past perfect tense",
@@ -6600,7 +6900,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00440",
+   "id": "english-00460",
    "q": "Choose the word most similar in meaning to Appease.",
    "o": [
     "Irritable",
@@ -6615,7 +6915,7 @@
    "e": "Appease means Pacify."
   },
   {
-   "id": "english-00441",
+   "id": "english-00461",
    "q": "Choose the word most opposite in meaning to Fertile.",
    "o": [
     "Extravagant",
@@ -6630,7 +6930,7 @@
    "e": "The opposite of Fertile is Barren."
   },
   {
-   "id": "english-00442",
+   "id": "english-00462",
    "q": "What is the meaning of the idiom 'Poke one's nose'?",
    "o": [
     "Interfere",
@@ -6645,7 +6945,7 @@
    "e": "'Poke one's nose' means Interfere."
   },
   {
-   "id": "english-00443",
+   "id": "english-00463",
    "q": "Choose the one word substitute for: One who never makes a mistake",
    "o": [
     "Aviary",
@@ -6660,7 +6960,7 @@
    "e": "One who never makes a mistake — Infallible."
   },
   {
-   "id": "english-00444",
+   "id": "english-00464",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Independence",
@@ -6675,7 +6975,7 @@
    "e": "The correct spelling is Independence."
   },
   {
-   "id": "english-00445",
+   "id": "english-00465",
    "q": "What is the plural of Photo?",
    "o": [
     "Alumni",
@@ -6690,7 +6990,7 @@
    "e": "The plural of Photo is Photos."
   },
   {
-   "id": "english-00446",
+   "id": "english-00466",
    "q": "What is the feminine form of Foster-father?",
    "o": [
     "Foster-mother",
@@ -6705,7 +7005,7 @@
    "e": "The feminine of Foster-father is Foster-mother."
   },
   {
-   "id": "english-00447",
+   "id": "english-00467",
    "q": "What is the comparative degree of Deep?",
    "o": [
     "Cleverer",
@@ -6720,7 +7020,7 @@
    "e": "Deep — Deeper — Deepest."
   },
   {
-   "id": "english-00448",
+   "id": "english-00468",
    "q": "Fill in the blank with the correct preposition: He is known ____ everybody here.",
    "o": [
     "for",
@@ -6735,7 +7035,7 @@
    "e": "The correct preposition is 'to'."
   },
   {
-   "id": "english-00449",
+   "id": "english-00469",
    "q": "Which conjunction pairs with 'neither'?",
    "o": [
     "A song is being sung by her",
@@ -6750,7 +7050,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00450",
+   "id": "english-00470",
    "q": "Choose the word most similar in meaning to Dubious.",
    "o": [
     "Ease",
@@ -6765,7 +7065,7 @@
    "e": "Dubious means Doubtful."
   },
   {
-   "id": "english-00451",
+   "id": "english-00471",
    "q": "Choose the word most opposite in meaning to Humane.",
    "o": [
     "Cruel",
@@ -6780,7 +7080,7 @@
    "e": "The opposite of Humane is Cruel."
   },
   {
-   "id": "english-00452",
+   "id": "english-00472",
    "q": "What is the meaning of the idiom 'To give a piece of one's mind'?",
    "o": [
     "A weak point",
@@ -6795,7 +7095,7 @@
    "e": "'To give a piece of one's mind' means To rebuke frankly."
   },
   {
-   "id": "english-00453",
+   "id": "english-00473",
    "q": "Choose the one word substitute for: A person who is a source of annoyance",
    "o": [
     "Demographer",
@@ -6810,7 +7110,7 @@
    "e": "A person who is a source of annoyance — Nuisance."
   },
   {
-   "id": "english-00454",
+   "id": "english-00474",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Proceed",
@@ -6825,7 +7125,7 @@
    "e": "The correct spelling is Disappear."
   },
   {
-   "id": "english-00455",
+   "id": "english-00475",
    "q": "What is the plural of Die?",
    "o": [
     "Dice",
@@ -6840,7 +7140,7 @@
    "e": "The plural of Die is Dice."
   },
   {
-   "id": "english-00456",
+   "id": "english-00476",
    "q": "What is the feminine form of Grandfather?",
    "o": [
     "Mother",
@@ -6855,7 +7155,7 @@
    "e": "The feminine of Grandfather is Grandmother."
   },
   {
-   "id": "english-00457",
+   "id": "english-00477",
    "q": "What is the comparative degree of Important?",
    "o": [
     "Older",
@@ -6870,7 +7170,7 @@
    "e": "Important — More important — Most important."
   },
   {
-   "id": "english-00458",
+   "id": "english-00478",
    "q": "Fill in the blank with the correct preposition: This is a departure ____ the rule.",
    "o": [
     "for",
@@ -6885,7 +7185,7 @@
    "e": "The correct preposition is 'from'."
   },
   {
-   "id": "english-00459",
+   "id": "english-00479",
    "q": "Which conjunction pairs with 'either'?",
    "o": [
     "Or",
@@ -6900,7 +7200,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00460",
+   "id": "english-00480",
    "q": "Choose the word most similar in meaning to Redundant.",
    "o": [
     "Talkative",
@@ -6915,7 +7215,7 @@
    "e": "Redundant means Superfluous."
   },
   {
-   "id": "english-00461",
+   "id": "english-00481",
    "q": "Choose the word most opposite in meaning to Unanimous.",
    "o": [
     "Malevolent",
@@ -6930,7 +7230,7 @@
    "e": "The opposite of Unanimous is Divided."
   },
   {
-   "id": "english-00462",
+   "id": "english-00482",
    "q": "What is the meaning of the idiom 'Hit the nail on the head'?",
    "o": [
     "A very difficult task",
@@ -6945,7 +7245,7 @@
    "e": "'Hit the nail on the head' means Do or say the right thing."
   },
   {
-   "id": "english-00463",
+   "id": "english-00483",
    "q": "Choose the one word substitute for: A person who mends clothes",
    "o": [
     "Hangar",
@@ -6960,7 +7260,7 @@
    "e": "A person who mends clothes — Tailor."
   },
   {
-   "id": "english-00464",
+   "id": "english-00484",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Disappoint",
@@ -6975,7 +7275,7 @@
    "e": "The correct spelling is Seize."
   },
   {
-   "id": "english-00465",
+   "id": "english-00485",
    "q": "What is the plural of Swine?",
    "o": [
     "Salmon",
@@ -6990,7 +7290,7 @@
    "e": "The plural of Swine is Swine."
   },
   {
-   "id": "english-00466",
+   "id": "english-00486",
    "q": "What is the feminine form of Author?",
    "o": [
     "Lady",
@@ -7005,7 +7305,7 @@
    "e": "The feminine of Author is Authoress."
   },
   {
-   "id": "english-00467",
+   "id": "english-00487",
    "q": "What is the comparative degree of Shallow?",
    "o": [
     "Shallower",
@@ -7020,7 +7320,7 @@
    "e": "Shallow — Shallower — Shallowest."
   },
   {
-   "id": "english-00468",
+   "id": "english-00488",
    "q": "Fill in the blank with the correct preposition: She is busy ____ her homework.",
    "o": [
     "with",
@@ -7035,7 +7335,7 @@
    "e": "The correct preposition is 'with'."
   },
   {
-   "id": "english-00469",
+   "id": "english-00489",
    "q": "What is the plural of 'information'?",
    "o": [
     "Information",
@@ -7050,7 +7350,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00470",
+   "id": "english-00490",
    "q": "Choose the word most similar in meaning to Complacent.",
    "o": [
     "Incite",
@@ -7065,7 +7365,7 @@
    "e": "Complacent means Self-satisfied."
   },
   {
-   "id": "english-00471",
+   "id": "english-00491",
    "q": "Choose the word most opposite in meaning to Jubilant.",
    "o": [
     "Sorrowful",
@@ -7080,7 +7380,7 @@
    "e": "The opposite of Jubilant is Sorrowful."
   },
   {
-   "id": "english-00472",
+   "id": "english-00492",
    "q": "What is the meaning of the idiom 'Odds and ends'?",
    "o": [
     "To seek popular approval",
@@ -7095,7 +7395,7 @@
    "e": "'Odds and ends' means Miscellaneous items."
   },
   {
-   "id": "english-00473",
+   "id": "english-00493",
    "q": "Choose the one word substitute for: A place where money is coined",
    "o": [
     "Carnivores",
@@ -7110,7 +7410,7 @@
    "e": "A place where money is coined — Mint."
   },
   {
-   "id": "english-00474",
+   "id": "english-00494",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Management",
@@ -7125,7 +7425,7 @@
    "e": "The correct spelling is Committee."
   },
   {
-   "id": "english-00475",
+   "id": "english-00495",
    "q": "What is the plural of Church?",
    "o": [
     "Formulae",
@@ -7140,7 +7440,7 @@
    "e": "The plural of Church is Churches."
   },
   {
-   "id": "english-00476",
+   "id": "english-00496",
    "q": "What is the feminine form of Boar?",
    "o": [
     "Queen",
@@ -7155,7 +7455,7 @@
    "e": "The feminine of Boar is Sow."
   },
   {
-   "id": "english-00477",
+   "id": "english-00497",
    "q": "What is the comparative degree of Thin?",
    "o": [
     "Deeper",
@@ -7170,7 +7470,7 @@
    "e": "Thin — Thinner — Thinnest."
   },
   {
-   "id": "english-00478",
+   "id": "english-00498",
    "q": "Fill in the blank with the correct preposition: She takes pride ____ her work.",
    "o": [
     "with",
@@ -7185,7 +7485,7 @@
    "e": "The correct preposition is 'in'."
   },
   {
-   "id": "english-00479",
+   "id": "english-00499",
    "q": "What is the -ing form of a verb called?",
    "o": [
     "Adverb",
@@ -7200,7 +7500,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00480",
+   "id": "english-00500",
    "q": "Choose the word most similar in meaning to Exonerate.",
    "o": [
     "Acquit",
@@ -7215,7 +7515,7 @@
    "e": "Exonerate means Acquit."
   },
   {
-   "id": "english-00481",
+   "id": "english-00501",
    "q": "Choose the word most opposite in meaning to Capricious.",
    "o": [
     "Generosity",
@@ -7230,7 +7530,7 @@
    "e": "The opposite of Capricious is Steady."
   },
   {
-   "id": "english-00482",
+   "id": "english-00502",
    "q": "What is the meaning of the idiom 'Burn the midnight oil'?",
    "o": [
     "To seek popular approval",
@@ -7245,7 +7545,7 @@
    "e": "'Burn the midnight oil' means Study or work late into the night."
   },
   {
-   "id": "english-00483",
+   "id": "english-00503",
    "q": "Choose the one word substitute for: Something that lasts for a very short time",
    "o": [
     "Amphibians",
@@ -7260,7 +7560,7 @@
    "e": "Something that lasts for a very short time — Ephemeral."
   },
   {
-   "id": "english-00484",
+   "id": "english-00504",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Acquiesce",
@@ -7275,7 +7575,7 @@
    "e": "The correct spelling is Occurred."
   },
   {
-   "id": "english-00485",
+   "id": "english-00505",
    "q": "What is the plural of Passer-by?",
    "o": [
     "Lice",
@@ -7290,7 +7590,7 @@
    "e": "The plural of Passer-by is Passers-by."
   },
   {
-   "id": "english-00486",
+   "id": "english-00506",
    "q": "The masculine form of Mare is which of the following?",
    "o": [
     "Poet",
@@ -7305,7 +7605,7 @@
    "e": "Mare is the feminine of Horse."
   },
   {
-   "id": "english-00487",
+   "id": "english-00507",
    "q": "What is the comparative degree of Clever?",
    "o": [
     "More courageous",
@@ -7320,7 +7620,7 @@
    "e": "Clever — Cleverer — Cleverest."
   },
   {
-   "id": "english-00488",
+   "id": "english-00508",
    "q": "Fill in the blank with the correct preposition: He has a great talent ____ music.",
    "o": [
     "to",
@@ -7335,7 +7635,7 @@
    "e": "The correct preposition is 'for'."
   },
   {
-   "id": "english-00489",
+   "id": "english-00509",
    "q": "What is the past tense of 'catch'?",
    "o": [
     "Entreat",
@@ -7350,7 +7650,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00490",
+   "id": "english-00510",
    "q": "Choose the word most similar in meaning to Repudiate.",
    "o": [
     "Reject",
@@ -7365,7 +7665,7 @@
    "e": "Repudiate means Reject."
   },
   {
-   "id": "english-00491",
+   "id": "english-00511",
    "q": "Choose the word most opposite in meaning to Adversity.",
    "o": [
     "Begin",
@@ -7380,7 +7680,7 @@
    "e": "The opposite of Adversity is Prosperity."
   },
   {
-   "id": "english-00492",
+   "id": "english-00512",
    "q": "What is the meaning of the idiom 'Come to light'?",
    "o": [
     "An inexperienced person",
@@ -7395,7 +7695,7 @@
    "e": "'Come to light' means Become known."
   },
   {
-   "id": "english-00493",
+   "id": "english-00513",
    "q": "Choose the one word substitute for: One who looks at the dark side of things",
    "o": [
     "Ascetic",
@@ -7410,7 +7710,7 @@
    "e": "One who looks at the dark side of things — Pessimist."
   },
   {
-   "id": "english-00494",
+   "id": "english-00514",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Writing",
@@ -7425,7 +7725,7 @@
    "e": "The correct spelling is Writing."
   },
   {
-   "id": "english-00495",
+   "id": "english-00515",
    "q": "What is the plural of City?",
    "o": [
     "Zoos",
@@ -7440,7 +7740,7 @@
    "e": "The plural of City is Cities."
   },
   {
-   "id": "english-00496",
+   "id": "english-00516",
    "q": "The masculine form of Baroness is which of the following?",
    "o": [
     "Baron",
@@ -7455,7 +7755,7 @@
    "e": "Baroness is the feminine of Baron."
   },
   {
-   "id": "english-00497",
+   "id": "english-00517",
    "q": "What is the comparative degree of Brave?",
    "o": [
     "Faster",
@@ -7470,7 +7770,7 @@
    "e": "Brave — Braver — Bravest."
   },
   {
-   "id": "english-00498",
+   "id": "english-00518",
    "q": "Fill in the blank with the correct preposition: The old man is hard ____ hearing.",
    "o": [
     "for",
@@ -7485,7 +7785,7 @@
    "e": "The correct preposition is 'of'."
   },
   {
-   "id": "english-00499",
+   "id": "english-00519",
    "q": "What is a sentence with two independent clauses joined by a conjunction called?",
    "o": [
     "Present perfect",
@@ -7500,7 +7800,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00500",
+   "id": "english-00520",
    "q": "Choose the word most similar in meaning to Lucid.",
    "o": [
     "Opinionated",
@@ -7515,7 +7815,7 @@
    "e": "Lucid means Clear."
   },
   {
-   "id": "english-00501",
+   "id": "english-00521",
    "q": "Choose the word most opposite in meaning to Judicious.",
    "o": [
     "Mild",
@@ -7530,7 +7830,7 @@
    "e": "The opposite of Judicious is Foolish."
   },
   {
-   "id": "english-00502",
+   "id": "english-00522",
    "q": "What is the meaning of the idiom 'Tide over'?",
    "o": [
     "An inexperienced person",
@@ -7545,7 +7845,7 @@
    "e": "'Tide over' means Help in a difficult period."
   },
   {
-   "id": "english-00503",
+   "id": "english-00523",
    "q": "Choose the one word substitute for: A disease that occurs regularly in a region",
    "o": [
     "Endemic",
@@ -7560,7 +7860,7 @@
    "e": "A disease that occurs regularly in a region — Endemic."
   },
   {
-   "id": "english-00504",
+   "id": "english-00524",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Battalion",
@@ -7575,7 +7875,7 @@
    "e": "The correct spelling is Sufficient."
   },
   {
-   "id": "english-00505",
+   "id": "english-00525",
    "q": "What is the plural of Radius?",
    "o": [
     "Tomatoes",
@@ -7590,7 +7890,7 @@
    "e": "The plural of Radius is Radii."
   },
   {
-   "id": "english-00506",
+   "id": "english-00526",
    "q": "The masculine form of Vixen is which of the following?",
    "o": [
     "Fox",
@@ -7605,7 +7905,7 @@
    "e": "Vixen is the feminine of Fox."
   },
   {
-   "id": "english-00507",
+   "id": "english-00527",
    "q": "What is the superlative degree of Noble?",
    "o": [
     "Coldest",
@@ -7620,7 +7920,7 @@
    "e": "Noble — Nobler — Noblest."
   },
   {
-   "id": "english-00508",
+   "id": "english-00528",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "She was deprived ____ her rights. - on",
@@ -7635,7 +7935,7 @@
    "e": "Only She was deprived ____ her rights. - of is correctly matched."
   },
   {
-   "id": "english-00509",
+   "id": "english-00529",
    "q": "What is the part of a sentence that names what it is about?",
    "o": [
     "Subject",
@@ -7650,7 +7950,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00510",
+   "id": "english-00530",
    "q": "Choose the word most similar in meaning to Lament.",
    "o": [
     "Expert",
@@ -7665,7 +7965,7 @@
    "e": "Lament means Mourn."
   },
   {
-   "id": "english-00511",
+   "id": "english-00531",
    "q": "Choose the word most opposite in meaning to Stringent.",
    "o": [
     "Stingy",
@@ -7680,7 +7980,7 @@
    "e": "The opposite of Stringent is Lax."
   },
   {
-   "id": "english-00512",
+   "id": "english-00532",
    "q": "What is the meaning of the idiom 'To fight a losing battle'?",
    "o": [
     "To act unfairly",
@@ -7695,7 +7995,7 @@
    "e": "'To fight a losing battle' means To struggle without hope of success."
   },
   {
-   "id": "english-00513",
+   "id": "english-00533",
    "q": "Choose the one word substitute for: One who studies insects",
    "o": [
     "Pandemic",
@@ -7710,7 +8010,7 @@
    "e": "One who studies insects — Entomologist."
   },
   {
-   "id": "english-00514",
+   "id": "english-00534",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Appropriate",
@@ -7725,7 +8025,7 @@
    "e": "The correct spelling is Independent."
   },
   {
-   "id": "english-00515",
+   "id": "english-00535",
    "q": "What is the plural of Crisis?",
    "o": [
     "Crises",
@@ -7740,7 +8040,7 @@
    "e": "The plural of Crisis is Crises."
   },
   {
-   "id": "english-00516",
+   "id": "english-00536",
    "q": "The masculine form of Grandmother is which of the following?",
    "o": [
     "Son",
@@ -7755,7 +8055,7 @@
    "e": "Grandmother is the feminine of Grandfather."
   },
   {
-   "id": "english-00517",
+   "id": "english-00537",
    "q": "What is the superlative degree of Fat?",
    "o": [
     "Fattest",
@@ -7770,7 +8070,7 @@
    "e": "Fat — Fatter — Fattest."
   },
   {
-   "id": "english-00518",
+   "id": "english-00538",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "She was deprived ____ her rights. - for",
@@ -7785,7 +8085,7 @@
    "e": "Only She was deprived ____ her rights. - of is correctly matched."
   },
   {
-   "id": "english-00519",
+   "id": "english-00539",
    "q": "Which article is used before a unique noun like the sun?",
    "o": [
     "Complex sentence",
@@ -7800,7 +8100,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00520",
+   "id": "english-00540",
    "q": "Choose the word most similar in meaning to Surreptitious.",
    "o": [
     "Frugal",
@@ -7815,7 +8115,7 @@
    "e": "Surreptitious means Secret."
   },
   {
-   "id": "english-00521",
+   "id": "english-00541",
    "q": "Choose the word most opposite in meaning to Spurious.",
    "o": [
     "Irresolute",
@@ -7830,7 +8130,7 @@
    "e": "The opposite of Spurious is Genuine."
   },
   {
-   "id": "english-00522",
+   "id": "english-00542",
    "q": "What is the meaning of the idiom 'At daggers drawn'?",
    "o": [
     "Cowardly",
@@ -7845,7 +8145,7 @@
    "e": "'At daggers drawn' means In bitter enmity."
   },
   {
-   "id": "english-00523",
+   "id": "english-00543",
    "q": "Choose the one word substitute for: A conversation between two people",
    "o": [
     "Dialogue",
@@ -7860,7 +8160,7 @@
    "e": "A conversation between two people — Dialogue."
   },
   {
-   "id": "english-00524",
+   "id": "english-00544",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Recommend",
@@ -7875,7 +8175,7 @@
    "e": "The correct spelling is Chief."
   },
   {
-   "id": "english-00525",
+   "id": "english-00545",
    "q": "What is the plural of Box?",
    "o": [
     "Churches",
@@ -7890,7 +8190,7 @@
    "e": "The plural of Box is Boxes."
   },
   {
-   "id": "english-00526",
+   "id": "english-00546",
    "q": "The masculine form of Mother is which of the following?",
    "o": [
     "Godfather",
@@ -7905,7 +8205,7 @@
    "e": "Mother is the feminine of Father."
   },
   {
-   "id": "english-00527",
+   "id": "english-00547",
    "q": "What is the superlative degree of Old?",
    "o": [
     "Oldest",
@@ -7920,7 +8220,7 @@
    "e": "Old — Older — Oldest."
   },
   {
-   "id": "english-00528",
+   "id": "english-00548",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "He is endowed ____ great talent. - on",
@@ -7935,7 +8235,7 @@
    "e": "Only He is endowed ____ great talent. - with is correctly matched."
   },
   {
-   "id": "english-00529",
+   "id": "english-00549",
    "q": "What is the past tense of 'go'?",
    "o": [
     "Went",
@@ -7950,7 +8250,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00530",
+   "id": "english-00550",
    "q": "Choose the word most similar in meaning to Refute.",
    "o": [
     "Disprove",
@@ -7965,7 +8265,7 @@
    "e": "Refute means Disprove."
   },
   {
-   "id": "english-00531",
+   "id": "english-00551",
    "q": "Choose the word most opposite in meaning to Venerable.",
    "o": [
     "Disreputable",
@@ -7980,7 +8280,7 @@
    "e": "The opposite of Venerable is Disreputable."
   },
   {
-   "id": "english-00532",
+   "id": "english-00552",
    "q": "What is the meaning of the idiom 'Read between the lines'?",
    "o": [
     "Talk without coming to the point",
@@ -7995,7 +8295,7 @@
    "e": "'Read between the lines' means Understand the hidden meaning."
   },
   {
-   "id": "english-00533",
+   "id": "english-00553",
    "q": "Choose the one word substitute for: One who is between sixty and seventy years old",
    "o": [
     "Disinfectant",
@@ -8010,7 +8310,7 @@
    "e": "One who is between sixty and seventy years old — Sexagenarian."
   },
   {
-   "id": "english-00534",
+   "id": "english-00554",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Occurrence",
@@ -8025,7 +8325,7 @@
    "e": "The correct spelling is Pronunciation."
   },
   {
-   "id": "english-00535",
+   "id": "english-00555",
    "q": "What is the plural of Deer?",
    "o": [
     "Photos",
@@ -8040,7 +8340,7 @@
    "e": "The plural of Deer is Deer."
   },
   {
-   "id": "english-00536",
+   "id": "english-00556",
    "q": "The masculine form of Stepmother is which of the following?",
    "o": [
     "Baron",
@@ -8055,7 +8355,7 @@
    "e": "Stepmother is the feminine of Stepfather."
   },
   {
-   "id": "english-00537",
+   "id": "english-00557",
    "q": "What is the superlative degree of Dangerous?",
    "o": [
     "Most dangerous",
@@ -8070,7 +8370,7 @@
    "e": "Dangerous — More dangerous — Most dangerous."
   },
   {
-   "id": "english-00538",
+   "id": "english-00558",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "He is endowed ____ great talent. - with",
@@ -8085,7 +8385,7 @@
    "e": "Only He is endowed ____ great talent. - with is correctly matched."
   },
   {
-   "id": "english-00539",
+   "id": "english-00559",
    "q": "What is a word that describes a verb called?",
    "o": [
     "Subject",
@@ -8100,7 +8400,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00540",
+   "id": "english-00560",
    "q": "Choose the word most similar in meaning to Adversary.",
    "o": [
     "Perceive",
@@ -8115,7 +8415,7 @@
    "e": "Adversary means Opponent."
   },
   {
-   "id": "english-00541",
+   "id": "english-00561",
    "q": "Choose the word most opposite in meaning to Scrupulous.",
    "o": [
     "Sincerity",
@@ -8130,7 +8430,7 @@
    "e": "The opposite of Scrupulous is Unscrupulous."
   },
   {
-   "id": "english-00542",
+   "id": "english-00562",
    "q": "What is the meaning of the idiom 'Out and out'?",
    "o": [
     "Agree completely",
@@ -8145,7 +8445,7 @@
    "e": "'Out and out' means Thoroughly."
   },
   {
-   "id": "english-00543",
+   "id": "english-00563",
    "q": "Choose the one word substitute for: A person who is new to a profession",
    "o": [
     "Mint",
@@ -8160,7 +8460,7 @@
    "e": "A person who is new to a profession — Novice."
   },
   {
-   "id": "english-00544",
+   "id": "english-00564",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Writing",
@@ -8175,7 +8475,7 @@
    "e": "The correct spelling is Dilemma."
   },
   {
-   "id": "english-00545",
+   "id": "english-00565",
    "q": "What is the plural of Syllabus?",
    "o": [
     "Hypotheses",
@@ -8190,7 +8490,7 @@
    "e": "The plural of Syllabus is Syllabi."
   },
   {
-   "id": "english-00546",
+   "id": "english-00566",
    "q": "The masculine form of Peahen is which of the following?",
    "o": [
     "Peacock",
@@ -8205,7 +8505,7 @@
    "e": "Peahen is the feminine of Peacock."
   },
   {
-   "id": "english-00547",
+   "id": "english-00567",
    "q": "What is the superlative degree of High?",
    "o": [
     "Safest",
@@ -8220,7 +8520,7 @@
    "e": "High — Higher — Highest."
   },
   {
-   "id": "english-00548",
+   "id": "english-00568",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "He was absent ____ the class. - from",
@@ -8235,7 +8535,7 @@
    "e": "Only He was absent ____ the class. - from is correctly matched."
   },
   {
-   "id": "english-00549",
+   "id": "english-00569",
    "q": "Which article is used before a vowel sound?",
    "o": [
     "An",
@@ -8250,7 +8550,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00550",
+   "id": "english-00570",
    "q": "Choose the word most similar in meaning to Ephemeral.",
    "o": [
     "Beginner",
@@ -8265,7 +8565,7 @@
    "e": "Ephemeral means Short-lived."
   },
   {
-   "id": "english-00551",
+   "id": "english-00571",
    "q": "Choose the word most opposite in meaning to Latent.",
    "o": [
     "Manifest",
@@ -8280,7 +8580,7 @@
    "e": "The opposite of Latent is Manifest."
   },
   {
-   "id": "english-00552",
+   "id": "english-00572",
    "q": "What is the meaning of the idiom 'Get down to brass tacks'?",
    "o": [
     "An ineffective person or government",
@@ -8295,7 +8595,7 @@
    "e": "'Get down to brass tacks' means Come to the essential point."
   },
   {
-   "id": "english-00553",
+   "id": "english-00573",
    "q": "Choose the one word substitute for: One who believes in the existence of God",
    "o": [
     "Mortuary",
@@ -8310,7 +8610,7 @@
    "e": "One who believes in the existence of God — Theist."
   },
   {
-   "id": "english-00554",
+   "id": "english-00574",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Convenient",
@@ -8325,7 +8625,7 @@
    "e": "The correct spelling is Pursue."
   },
   {
-   "id": "english-00555",
+   "id": "english-00575",
    "q": "What is the plural of Leaf?",
    "o": [
     "Women",
@@ -8340,7 +8640,7 @@
    "e": "The plural of Leaf is Leaves."
   },
   {
-   "id": "english-00556",
+   "id": "english-00576",
    "q": "The masculine form of Bitch is which of the following?",
    "o": [
     "Bridegroom",
@@ -8355,7 +8655,7 @@
    "e": "Bitch is the feminine of Dog."
   },
   {
-   "id": "english-00557",
+   "id": "english-00577",
    "q": "What is the superlative degree of Clever?",
    "o": [
     "Bravest",
@@ -8370,7 +8670,7 @@
    "e": "Clever — Cleverer — Cleverest."
   },
   {
-   "id": "english-00558",
+   "id": "english-00578",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "He was absent ____ the class. - to",
@@ -8385,7 +8685,7 @@
    "e": "Only He was absent ____ the class. - from is correctly matched."
   },
   {
-   "id": "english-00559",
+   "id": "english-00579",
    "q": "What is the adverb form of the adjective 'quick'?",
    "o": [
     "Present participle",
@@ -8400,7 +8700,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00560",
+   "id": "english-00580",
    "q": "Choose the word most similar in meaning to Tirade.",
    "o": [
     "Rant",
@@ -8415,7 +8715,7 @@
    "e": "Tirade means Rant."
   },
   {
-   "id": "english-00561",
+   "id": "english-00581",
    "q": "Choose the word most opposite in meaning to Wary.",
    "o": [
     "Careless",
@@ -8430,7 +8730,7 @@
    "e": "The opposite of Wary is Careless."
   },
   {
-   "id": "english-00562",
+   "id": "english-00582",
    "q": "What is the meaning of the idiom 'Straw in the wind'?",
    "o": [
     "Come to the essential point",
@@ -8445,7 +8745,7 @@
    "e": "'Straw in the wind' means A hint of future events."
   },
   {
-   "id": "english-00563",
+   "id": "english-00583",
    "q": "Choose the one word substitute for: A word formed from the initial letters of other words",
    "o": [
     "Biennials",
@@ -8460,7 +8760,7 @@
    "e": "A word formed from the initial letters of other words — Acronym."
   },
   {
-   "id": "english-00564",
+   "id": "english-00584",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Emperor",
@@ -8475,7 +8775,7 @@
    "e": "The correct spelling is Sincerely."
   },
   {
-   "id": "english-00565",
+   "id": "english-00585",
    "q": "What is the plural of Louse?",
    "o": [
     "Axes",
@@ -8490,7 +8790,7 @@
    "e": "The plural of Louse is Lice."
   },
   {
-   "id": "english-00566",
+   "id": "english-00586",
    "q": "The masculine form of Sow is which of the following?",
    "o": [
     "Boar",
@@ -8505,7 +8805,7 @@
    "e": "Sow is the feminine of Boar."
   },
   {
-   "id": "english-00567",
+   "id": "english-00587",
    "q": "What is the superlative degree of Bright?",
    "o": [
     "Safest",
@@ -8520,7 +8820,7 @@
    "e": "Bright — Brighter — Brightest."
   },
   {
-   "id": "english-00568",
+   "id": "english-00588",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "She was disgusted ____ his behaviour. - for",
@@ -8535,7 +8835,7 @@
    "e": "Only She was disgusted ____ his behaviour. - with is correctly matched."
   },
   {
-   "id": "english-00569",
+   "id": "english-00589",
    "q": "What is the third form of the verb 'begin'?",
    "o": [
     "Taught",
@@ -8550,7 +8850,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00570",
+   "id": "english-00590",
    "q": "Choose the word most similar in meaning to Stagnant.",
    "o": [
     "Insignificant",
@@ -8565,7 +8865,7 @@
    "e": "Stagnant means Inactive."
   },
   {
-   "id": "english-00571",
+   "id": "english-00591",
    "q": "Choose the word most opposite in meaning to Affable.",
    "o": [
     "Restless",
@@ -8580,7 +8880,7 @@
    "e": "The opposite of Affable is Unfriendly."
   },
   {
-   "id": "english-00572",
+   "id": "english-00592",
    "q": "What is the meaning of the idiom 'Kick the bucket'?",
    "o": [
     "Cowardly",
@@ -8595,7 +8895,7 @@
    "e": "'Kick the bucket' means Die."
   },
   {
-   "id": "english-00573",
+   "id": "english-00593",
    "q": "Choose the one word substitute for: The murder of a king",
    "o": [
     "Ascetic",
@@ -8610,7 +8910,7 @@
    "e": "The murder of a king — Regicide."
   },
   {
-   "id": "english-00574",
+   "id": "english-00594",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Hundred",
@@ -8625,7 +8925,7 @@
    "e": "The correct spelling is Innocence."
   },
   {
-   "id": "english-00575",
+   "id": "english-00595",
    "q": "What is the plural of Proof?",
    "o": [
     "Boxes",
@@ -8640,7 +8940,7 @@
    "e": "The plural of Proof is Proofs."
   },
   {
-   "id": "english-00576",
+   "id": "english-00596",
    "q": "The masculine form of Girl is which of the following?",
    "o": [
     "Emperor",
@@ -8655,7 +8955,7 @@
    "e": "Girl is the feminine of Boy."
   },
   {
-   "id": "english-00577",
+   "id": "english-00597",
    "q": "What is the superlative degree of Thin?",
    "o": [
     "Oldest",
@@ -8670,7 +8970,7 @@
    "e": "Thin — Thinner — Thinnest."
   },
   {
-   "id": "english-00578",
+   "id": "english-00598",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "She was disgusted ____ his behaviour. - on",
@@ -8685,7 +8985,7 @@
    "e": "Only She was disgusted ____ his behaviour. - with is correctly matched."
   },
   {
-   "id": "english-00579",
+   "id": "english-00599",
    "q": "What is the tense of 'He has gone'?",
    "o": [
     "Compound sentence",
@@ -8700,7 +9000,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00580",
+   "id": "english-00600",
    "q": "Choose the word most similar in meaning to Haughty.",
    "o": [
     "Arrogant",
@@ -8715,7 +9015,7 @@
    "e": "Haughty means Arrogant."
   },
   {
-   "id": "english-00581",
+   "id": "english-00601",
    "q": "Choose the word most opposite in meaning to Discreet.",
    "o": [
     "Disagree",
@@ -8730,7 +9030,7 @@
    "e": "The opposite of Discreet is Careless."
   },
   {
-   "id": "english-00582",
+   "id": "english-00602",
    "q": "What is the meaning of the idiom 'A red letter day'?",
    "o": [
     "To face danger boldly",
@@ -8745,7 +9045,7 @@
    "e": "'A red letter day' means An important day."
   },
   {
-   "id": "english-00583",
+   "id": "english-00603",
    "q": "Choose the one word substitute for: One who drinks too much alcohol",
    "o": [
     "Drunkard",
@@ -8760,7 +9060,7 @@
    "e": "One who drinks too much alcohol — Drunkard."
   },
   {
-   "id": "english-00584",
+   "id": "english-00604",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Expedition",
@@ -8775,7 +9075,7 @@
    "e": "The correct spelling is Privilege."
   },
   {
-   "id": "english-00585",
+   "id": "english-00605",
    "q": "What is the plural of Zoo?",
    "o": [
     "Zoos",
@@ -8790,7 +9090,7 @@
    "e": "The plural of Zoo is Zoos."
   },
   {
-   "id": "english-00586",
+   "id": "english-00606",
    "q": "The masculine form of Tigress is which of the following?",
    "o": [
     "Priest",
@@ -8805,7 +9105,7 @@
    "e": "Tigress is the feminine of Tiger."
   },
   {
-   "id": "english-00587",
+   "id": "english-00607",
    "q": "What is the superlative degree of Courageous?",
    "o": [
     "Deepest",
@@ -8820,7 +9120,7 @@
    "e": "Courageous — More courageous — Most courageous."
   },
   {
-   "id": "english-00588",
+   "id": "english-00608",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "He was charged ____ murder. - since",
@@ -8835,7 +9135,7 @@
    "e": "Only He was charged ____ murder. - with is correctly matched."
   },
   {
-   "id": "english-00589",
+   "id": "english-00609",
    "q": "What is the passive form of 'Open the door'?",
    "o": [
     "Clause",
@@ -8850,7 +9150,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00590",
+   "id": "english-00610",
    "q": "Choose the word most similar in meaning to Fickle.",
    "o": [
     "Forceful",
@@ -8865,7 +9165,7 @@
    "e": "Fickle means Changeable."
   },
   {
-   "id": "english-00591",
+   "id": "english-00611",
    "q": "Choose the word most opposite in meaning to Feasible.",
    "o": [
     "Impossible",
@@ -8880,7 +9180,7 @@
    "e": "The opposite of Feasible is Impossible."
   },
   {
-   "id": "english-00592",
+   "id": "english-00612",
    "q": "What is the meaning of the idiom 'Pull one's socks up'?",
    "o": [
     "Make an effort to improve",
@@ -8895,7 +9195,7 @@
    "e": "'Pull one's socks up' means Make an effort to improve."
   },
   {
-   "id": "english-00593",
+   "id": "english-00613",
    "q": "Choose the one word substitute for: One who has an unreasonable fear of water",
    "o": [
     "Ambidextrous",
@@ -8910,7 +9210,7 @@
    "e": "One who has an unreasonable fear of water — Hydrophobic."
   },
   {
-   "id": "english-00594",
+   "id": "english-00614",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Possession",
@@ -8925,7 +9225,7 @@
    "e": "The correct spelling is Mischievous."
   },
   {
-   "id": "english-00595",
+   "id": "english-00615",
    "q": "What is the plural of Criterion?",
    "o": [
     "Children",
@@ -8940,7 +9240,7 @@
    "e": "The plural of Criterion is Criteria."
   },
   {
-   "id": "english-00596",
+   "id": "english-00616",
    "q": "The masculine form of Duchess is which of the following?",
    "o": [
     "Grandfather",
@@ -8955,7 +9255,7 @@
    "e": "Duchess is the feminine of Duke."
   },
   {
-   "id": "english-00597",
+   "id": "english-00617",
    "q": "What is the superlative degree of Hot?",
    "o": [
     "Worst",
@@ -8970,7 +9270,7 @@
    "e": "Hot — Hotter — Hottest."
   },
   {
-   "id": "english-00598",
+   "id": "english-00618",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "He was charged ____ murder. - for",
@@ -8985,7 +9285,7 @@
    "e": "Only He was charged ____ murder. - with is correctly matched."
   },
   {
-   "id": "english-00599",
+   "id": "english-00619",
    "q": "What is the synonym of 'beg'?",
    "o": [
     "The work has been finished by them",
@@ -9000,7 +9300,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00600",
+   "id": "english-00620",
    "q": "Choose the word most similar in meaning to Vengeance.",
    "o": [
     "Everlasting",
@@ -9015,7 +9315,7 @@
    "e": "Vengeance means Revenge."
   },
   {
-   "id": "english-00601",
+   "id": "english-00621",
    "q": "Choose the word most opposite in meaning to Audacious.",
    "o": [
     "Condemn",
@@ -9030,7 +9330,7 @@
    "e": "The opposite of Audacious is Timid."
   },
   {
-   "id": "english-00602",
+   "id": "english-00622",
    "q": "What is the meaning of the idiom 'Make both ends meet'?",
    "o": [
     "To be honest",
@@ -9045,7 +9345,7 @@
    "e": "'Make both ends meet' means Manage within one's income."
   },
   {
-   "id": "english-00603",
+   "id": "english-00623",
    "q": "Choose the one word substitute for: One who eats too much",
    "o": [
     "Biographer",
@@ -9060,7 +9360,7 @@
    "e": "One who eats too much — Glutton."
   },
   {
-   "id": "english-00604",
+   "id": "english-00624",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Woollen",
@@ -9075,7 +9375,7 @@
    "e": "The correct spelling is Intelligence."
   },
   {
-   "id": "english-00605",
+   "id": "english-00625",
    "q": "What is the plural of Chief?",
    "o": [
     "Fungi",
@@ -9090,7 +9390,7 @@
    "e": "The plural of Chief is Chiefs."
   },
   {
-   "id": "english-00606",
+   "id": "english-00626",
    "q": "The masculine form of Lioness is which of the following?",
    "o": [
     "Prince",
@@ -9105,7 +9405,7 @@
    "e": "Lioness is the feminine of Lion."
   },
   {
-   "id": "english-00607",
+   "id": "english-00627",
    "q": "What is the superlative degree of Fast?",
    "o": [
     "Slowest",
@@ -9120,7 +9420,7 @@
    "e": "Fast — Faster — Fastest."
   },
   {
-   "id": "english-00608",
+   "id": "english-00628",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "He has a great talent ____ music. - of",
@@ -9135,7 +9435,7 @@
    "e": "Only He has a great talent ____ music. - for is correctly matched."
   },
   {
-   "id": "english-00609",
+   "id": "english-00629",
    "q": "What is the tense of 'The sun rises in the east'?",
    "o": [
     "Compound sentence",
@@ -9150,7 +9450,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00610",
+   "id": "english-00630",
    "q": "Choose the word most similar in meaning to Arduous.",
    "o": [
     "Peaceful",
@@ -9165,7 +9465,7 @@
    "e": "Arduous means Difficult."
   },
   {
-   "id": "english-00611",
+   "id": "english-00631",
    "q": "Choose the word most opposite in meaning to Magnanimous.",
    "o": [
     "Convict",
@@ -9180,7 +9480,7 @@
    "e": "The opposite of Magnanimous is Petty."
   },
   {
-   "id": "english-00612",
+   "id": "english-00632",
    "q": "What is the meaning of the idiom 'Red tape'?",
    "o": [
     "Barely manage to survive",
@@ -9195,7 +9495,7 @@
    "e": "'Red tape' means Excessive official formality."
   },
   {
-   "id": "english-00613",
+   "id": "english-00633",
    "q": "Choose the one word substitute for: One who cannot be heard",
    "o": [
     "Plutocracy",
@@ -9210,7 +9510,7 @@
    "e": "One who cannot be heard — Inaudible."
   },
   {
-   "id": "english-00614",
+   "id": "english-00634",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Receive",
@@ -9225,7 +9525,7 @@
    "e": "The correct spelling is Receive."
   },
   {
-   "id": "english-00615",
+   "id": "english-00635",
    "q": "What is the plural of Thesis?",
    "o": [
     "Benches",
@@ -9240,7 +9540,7 @@
    "e": "The plural of Thesis is Theses."
   },
   {
-   "id": "english-00616",
+   "id": "english-00636",
    "q": "The masculine form of Goose is which of the following?",
    "o": [
     "Monk",
@@ -9255,7 +9555,7 @@
    "e": "Goose is the feminine of Gander."
   },
   {
-   "id": "english-00617",
+   "id": "english-00637",
    "q": "What is the superlative degree of Heavy?",
    "o": [
     "Most beautiful",
@@ -9270,7 +9570,7 @@
    "e": "Heavy — Heavier — Heaviest."
   },
   {
-   "id": "english-00618",
+   "id": "english-00638",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "He has a great talent ____ music. - for",
@@ -9285,7 +9585,7 @@
    "e": "Only He has a great talent ____ music. - for is correctly matched."
   },
   {
-   "id": "english-00619",
+   "id": "english-00639",
    "q": "What is the collective noun for a group of ships?",
    "o": [
     "Nor",
@@ -9300,7 +9600,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00620",
+   "id": "english-00640",
    "q": "Choose the word most similar in meaning to Impartial.",
    "o": [
     "Relevant",
@@ -9315,7 +9615,7 @@
    "e": "Impartial means Unbiased."
   },
   {
-   "id": "english-00621",
+   "id": "english-00641",
    "q": "Choose the word most opposite in meaning to Futile.",
    "o": [
     "Enthusiasm",
@@ -9330,7 +9630,7 @@
    "e": "The opposite of Futile is Fruitful."
   },
   {
-   "id": "english-00622",
+   "id": "english-00642",
    "q": "What is the meaning of the idiom 'Laugh in one's sleeve'?",
    "o": [
     "A hidden enemy",
@@ -9345,7 +9645,7 @@
    "e": "'Laugh in one's sleeve' means Laugh secretly."
   },
   {
-   "id": "english-00623",
+   "id": "english-00643",
    "q": "Choose the one word substitute for: A person employed to drive a car",
    "o": [
     "Genocide",
@@ -9360,7 +9660,7 @@
    "e": "A person employed to drive a car — Chauffeur."
   },
   {
-   "id": "english-00624",
+   "id": "english-00644",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Comparison",
@@ -9375,7 +9675,7 @@
    "e": "The correct spelling is Explanation."
   },
   {
-   "id": "english-00625",
+   "id": "english-00645",
    "q": "What is the plural of Volcano?",
    "o": [
     "Appendices",
@@ -9390,7 +9690,7 @@
    "e": "The plural of Volcano is Volcanoes."
   },
   {
-   "id": "english-00626",
+   "id": "english-00646",
    "q": "The masculine form of Hen is which of the following?",
    "o": [
     "Host",
@@ -9405,7 +9705,7 @@
    "e": "Hen is the feminine of Cock."
   },
   {
-   "id": "english-00627",
+   "id": "english-00647",
    "q": "What is the superlative degree of Kind?",
    "o": [
     "Shortest",
@@ -9420,7 +9720,7 @@
    "e": "Kind — Kinder — Kindest."
   },
   {
-   "id": "english-00628",
+   "id": "english-00648",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The reason ____ his failure is laziness. - with",
@@ -9435,7 +9735,7 @@
    "e": "Only The reason ____ his failure is laziness. - for is correctly matched."
   },
   {
-   "id": "english-00629",
+   "id": "english-00649",
    "q": "What is the indirect form of 'He said, I am busy'?",
    "o": [
     "Freedom",
@@ -9450,7 +9750,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00630",
+   "id": "english-00650",
    "q": "Choose the word most similar in meaning to Ambiguous.",
    "o": [
     "Burdensome",
@@ -9465,7 +9765,7 @@
    "e": "Ambiguous means Vague."
   },
   {
-   "id": "english-00631",
+   "id": "english-00651",
    "q": "Choose the word most opposite in meaning to Onerous.",
    "o": [
     "Certain",
@@ -9480,7 +9780,7 @@
    "e": "The opposite of Onerous is Light."
   },
   {
-   "id": "english-00632",
+   "id": "english-00652",
    "q": "What is the meaning of the idiom 'Go through fire and water'?",
    "o": [
     "Face any danger",
@@ -9495,7 +9795,7 @@
    "e": "'Go through fire and water' means Face any danger."
   },
   {
-   "id": "english-00633",
+   "id": "english-00653",
    "q": "Choose the one word substitute for: A medicine that counteracts a poison",
    "o": [
     "Autocracy",
@@ -9510,7 +9810,7 @@
    "e": "A medicine that counteracts a poison — Antidote."
   },
   {
-   "id": "english-00634",
+   "id": "english-00654",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Sergeant",
@@ -9525,7 +9825,7 @@
    "e": "The correct spelling is Hundred."
   },
   {
-   "id": "english-00635",
+   "id": "english-00655",
    "q": "What is the plural of Bench?",
    "o": [
     "Tomatoes",
@@ -9540,7 +9840,7 @@
    "e": "The plural of Bench is Benches."
   },
   {
-   "id": "english-00636",
+   "id": "english-00656",
    "q": "The masculine form of Mare is which of the following?",
    "o": [
     "Stallion",
@@ -9555,7 +9855,7 @@
    "e": "Mare is the feminine of Stallion."
   },
   {
-   "id": "english-00637",
+   "id": "english-00657",
    "q": "What is the superlative degree of Difficult?",
    "o": [
     "Brightest",
@@ -9570,7 +9870,7 @@
    "e": "Difficult — More difficult — Most difficult."
   },
   {
-   "id": "english-00638",
+   "id": "english-00658",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The reason ____ his failure is laziness. - to",
@@ -9585,7 +9885,7 @@
    "e": "Only The reason ____ his failure is laziness. - for is correctly matched."
   },
   {
-   "id": "english-00639",
+   "id": "english-00659",
    "q": "What is the verb form of the noun 'strength'?",
    "o": [
     "A car will be bought by him",
@@ -9600,7 +9900,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00640",
+   "id": "english-00660",
    "q": "Choose the word most similar in meaning to Efficacy.",
    "o": [
     "Reveal",
@@ -9615,7 +9915,7 @@
    "e": "Efficacy means Effectiveness."
   },
   {
-   "id": "english-00641",
+   "id": "english-00661",
    "q": "Choose the word most opposite in meaning to Somnolent.",
    "o": [
     "Blameworthy",
@@ -9630,7 +9930,7 @@
    "e": "The opposite of Somnolent is Alert."
   },
   {
-   "id": "english-00642",
+   "id": "english-00662",
    "q": "What is the meaning of the idiom 'Beyond the pale'?",
    "o": [
     "Suspect something wrong",
@@ -9645,7 +9945,7 @@
    "e": "'Beyond the pale' means Unacceptable."
   },
   {
-   "id": "english-00643",
+   "id": "english-00663",
    "q": "Choose the one word substitute for: Government by the people",
    "o": [
     "Guide",
@@ -9660,7 +9960,7 @@
    "e": "Government by the people — Democracy."
   },
   {
-   "id": "english-00644",
+   "id": "english-00664",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Sacrifice",
@@ -9675,7 +9975,7 @@
    "e": "The correct spelling is Sacrifice."
   },
   {
-   "id": "english-00645",
+   "id": "english-00665",
    "q": "What is the plural of Calf?",
    "o": [
     "Aircraft",
@@ -9690,7 +9990,7 @@
    "e": "The plural of Calf is Calves."
   },
   {
-   "id": "english-00646",
+   "id": "english-00666",
    "q": "The masculine form of Witch is which of the following?",
    "o": [
     "Actor",
@@ -9705,7 +10005,7 @@
    "e": "Witch is the feminine of Wizard."
   },
   {
-   "id": "english-00647",
+   "id": "english-00667",
    "q": "What is the superlative degree of Beautiful?",
    "o": [
     "Most beautiful",
@@ -9720,7 +10020,7 @@
    "e": "Beautiful — More beautiful — Most beautiful."
   },
   {
-   "id": "english-00648",
+   "id": "english-00668",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "She takes pride ____ her work. - to",
@@ -9735,7 +10035,7 @@
    "e": "Only She takes pride ____ her work. - in is correctly matched."
   },
   {
-   "id": "english-00649",
+   "id": "english-00669",
    "q": "Which punctuation mark shows possession?",
    "o": [
     "Passive voice",
@@ -9750,7 +10050,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00650",
+   "id": "english-00670",
    "q": "Choose the word most similar in meaning to Eloquent.",
    "o": [
     "Enthusiastic",
@@ -9765,7 +10065,7 @@
    "e": "Eloquent means Fluent."
   },
   {
-   "id": "english-00651",
+   "id": "english-00671",
    "q": "Choose the word most opposite in meaning to Ubiquitous.",
    "o": [
     "Rare",
@@ -9780,7 +10080,7 @@
    "e": "The opposite of Ubiquitous is Rare."
   },
   {
-   "id": "english-00652",
+   "id": "english-00672",
    "q": "What is the meaning of the idiom 'Few and far between'?",
    "o": [
     "To be in conflict",
@@ -9795,7 +10095,7 @@
    "e": "'Few and far between' means Rare."
   },
   {
-   "id": "english-00653",
+   "id": "english-00673",
    "q": "Choose the one word substitute for: One who has an unreasonable fear of being in closed spaces",
    "o": [
     "Claustrophobic",
@@ -9810,7 +10110,7 @@
    "e": "One who has an unreasonable fear of being in closed spaces — Claustrophobic."
   },
   {
-   "id": "english-00654",
+   "id": "english-00674",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Explanation",
@@ -9825,7 +10125,7 @@
    "e": "The correct spelling is Fourth."
   },
   {
-   "id": "english-00655",
+   "id": "english-00675",
    "q": "What is the plural of Lady?",
    "o": [
     "Ladies",
@@ -9840,7 +10140,7 @@
    "e": "The plural of Lady is Ladies."
   },
   {
-   "id": "english-00656",
+   "id": "english-00676",
    "q": "The masculine form of Foster-mother is which of the following?",
    "o": [
     "Gander",
@@ -9855,7 +10155,7 @@
    "e": "Foster-mother is the feminine of Foster-father."
   },
   {
-   "id": "english-00657",
+   "id": "english-00677",
    "q": "What is the superlative degree of Poor?",
    "o": [
     "Poorest",
@@ -9870,7 +10170,7 @@
    "e": "Poor — Poorer — Poorest."
   },
   {
-   "id": "english-00658",
+   "id": "english-00678",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "She takes pride ____ her work. - to",
@@ -9885,7 +10185,7 @@
    "e": "Only She takes pride ____ her work. - in is correctly matched."
   },
   {
-   "id": "english-00659",
+   "id": "english-00679",
    "q": "Which tense is used for an action completed before another past action?",
    "o": [
     "Present perfect continuous tense",
@@ -9900,7 +10200,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00660",
+   "id": "english-00680",
    "q": "Choose the word most similar in meaning to Flagrant.",
    "o": [
     "Generous",
@@ -9915,7 +10215,7 @@
    "e": "Flagrant means Glaring."
   },
   {
-   "id": "english-00661",
+   "id": "english-00681",
    "q": "Choose the word most opposite in meaning to Flagrant.",
    "o": [
     "Talkative",
@@ -9930,7 +10230,7 @@
    "e": "The opposite of Flagrant is Concealed."
   },
   {
-   "id": "english-00662",
+   "id": "english-00682",
    "q": "What is the meaning of the idiom 'Green horn'?",
    "o": [
     "Hope for a good result",
@@ -9945,7 +10245,7 @@
    "e": "'Green horn' means An inexperienced person."
   },
   {
-   "id": "english-00663",
+   "id": "english-00683",
    "q": "Choose the one word substitute for: One who studies the origin of words",
    "o": [
     "Gullible",
@@ -9960,7 +10260,7 @@
    "e": "One who studies the origin of words — Etymologist."
   },
   {
-   "id": "english-00664",
+   "id": "english-00684",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Environment",
@@ -9975,7 +10275,7 @@
    "e": "The correct spelling is Environment."
   },
   {
-   "id": "english-00665",
+   "id": "english-00685",
    "q": "What is the plural of Hypothesis?",
    "o": [
     "Hypotheses",
@@ -9990,7 +10290,7 @@
    "e": "The plural of Hypothesis is Hypotheses."
   },
   {
-   "id": "english-00666",
+   "id": "english-00686",
    "q": "The masculine form of Godmother is which of the following?",
    "o": [
     "Lion",
@@ -10005,7 +10305,7 @@
    "e": "Godmother is the feminine of Godfather."
   },
   {
-   "id": "english-00667",
+   "id": "english-00687",
    "q": "What is the superlative degree of Low?",
    "o": [
     "Lowest",
@@ -10020,7 +10320,7 @@
    "e": "Low — Lower — Lowest."
   },
   {
-   "id": "english-00668",
+   "id": "english-00688",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "He is accustomed ____ hard work. - for",
@@ -10035,7 +10335,7 @@
    "e": "Only He is accustomed ____ hard work. - to is correctly matched."
   },
   {
-   "id": "english-00669",
+   "id": "english-00689",
    "q": "What is the passive form of 'He writes a letter'?",
    "o": [
     "Thought",
@@ -10050,7 +10350,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00670",
+   "id": "english-00690",
    "q": "Choose the word most similar in meaning to Thrifty.",
    "o": [
     "Provisional",
@@ -10065,7 +10365,7 @@
    "e": "Thrifty means Frugal."
   },
   {
-   "id": "english-00671",
+   "id": "english-00691",
    "q": "Choose the word most opposite in meaning to Incessant.",
    "o": [
     "Calm",
@@ -10080,7 +10380,7 @@
    "e": "The opposite of Incessant is Intermittent."
   },
   {
-   "id": "english-00672",
+   "id": "english-00692",
    "q": "What is the meaning of the idiom 'Catch red-handed'?",
    "o": [
     "Be ruined",
@@ -10095,7 +10395,7 @@
    "e": "'Catch red-handed' means Catch in the act of doing wrong."
   },
   {
-   "id": "english-00673",
+   "id": "english-00693",
    "q": "Choose the one word substitute for: One who has an unreasonable fear of strangers",
    "o": [
     "Pharmacy",
@@ -10110,7 +10410,7 @@
    "e": "One who has an unreasonable fear of strangers — Xenophobic."
   },
   {
-   "id": "english-00674",
+   "id": "english-00694",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Pursue",
@@ -10125,7 +10425,7 @@
    "e": "The correct spelling is Maintenance."
   },
   {
-   "id": "english-00675",
+   "id": "english-00695",
    "q": "What is the plural of Matrix?",
    "o": [
     "Mice",
@@ -10140,7 +10440,7 @@
    "e": "The plural of Matrix is Matrices."
   },
   {
-   "id": "english-00676",
+   "id": "english-00696",
    "q": "The masculine form of Spinster is which of the following?",
    "o": [
     "Bachelor",
@@ -10155,7 +10455,7 @@
    "e": "Spinster is the feminine of Bachelor."
   },
   {
-   "id": "english-00677",
+   "id": "english-00697",
    "q": "What is the superlative degree of Happy?",
    "o": [
     "Slowest",
@@ -10170,7 +10470,7 @@
    "e": "Happy — Happier — Happiest."
   },
   {
-   "id": "english-00678",
+   "id": "english-00698",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "He is accustomed ____ hard work. - with",
@@ -10185,7 +10485,7 @@
    "e": "Only He is accustomed ____ hard work. - to is correctly matched."
   },
   {
-   "id": "english-00679",
+   "id": "english-00699",
    "q": "What is a word that shows the relation of a noun to another word called?",
    "o": [
     "Taught",
@@ -10200,7 +10500,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00680",
+   "id": "english-00700",
    "q": "Choose the word most similar in meaning to Incessant.",
    "o": [
     "Wordy",
@@ -10215,7 +10515,7 @@
    "e": "Incessant means Continuous."
   },
   {
-   "id": "english-00681",
+   "id": "english-00701",
    "q": "Choose the word most opposite in meaning to Dissent.",
    "o": [
     "Agreement",
@@ -10230,7 +10530,7 @@
    "e": "The opposite of Dissent is Agreement."
   },
   {
-   "id": "english-00682",
+   "id": "english-00702",
    "q": "What is the meaning of the idiom 'Crocodile tears'?",
    "o": [
     "Insincere grief",
@@ -10245,7 +10545,7 @@
    "e": "'Crocodile tears' means Insincere grief."
   },
   {
-   "id": "english-00683",
+   "id": "english-00703",
    "q": "Choose the one word substitute for: A person who talks in his sleep",
    "o": [
     "Antiseptic",
@@ -10260,7 +10560,7 @@
    "e": "A person who talks in his sleep — Somniloquist."
   },
   {
-   "id": "english-00684",
+   "id": "english-00704",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Existence",
@@ -10275,7 +10575,7 @@
    "e": "The correct spelling is Comparison."
   },
   {
-   "id": "english-00685",
+   "id": "english-00705",
    "q": "What is the plural of Studio?",
    "o": [
     "Hypotheses",
@@ -10290,7 +10590,7 @@
    "e": "The plural of Studio is Studios."
   },
   {
-   "id": "english-00686",
+   "id": "english-00706",
    "q": "The masculine form of Madam is which of the following?",
    "o": [
     "Sir",
@@ -10305,7 +10605,7 @@
    "e": "Madam is the feminine of Sir."
   },
   {
-   "id": "english-00687",
+   "id": "english-00707",
    "q": "What is the superlative degree of Long?",
    "o": [
     "Longest",
@@ -10320,7 +10620,7 @@
    "e": "Long — Longer — Longest."
   },
   {
-   "id": "english-00688",
+   "id": "english-00708",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "She is different ____ her sister. - from",
@@ -10335,7 +10635,7 @@
    "e": "Only She is different ____ her sister. - from is correctly matched."
   },
   {
-   "id": "english-00689",
+   "id": "english-00709",
    "q": "What is the collective noun for a group of wolves?",
    "o": [
     "Freedom",
@@ -10350,7 +10650,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00690",
+   "id": "english-00710",
    "q": "Choose the word most similar in meaning to Vivacious.",
    "o": [
     "Plentiful",
@@ -10365,7 +10665,7 @@
    "e": "Vivacious means Lively."
   },
   {
-   "id": "english-00691",
+   "id": "english-00711",
    "q": "Choose the word most opposite in meaning to Impede.",
    "o": [
     "Dull",
@@ -10380,7 +10680,7 @@
    "e": "The opposite of Impede is Facilitate."
   },
   {
-   "id": "english-00692",
+   "id": "english-00712",
    "q": "What is the meaning of the idiom 'Up to the mark'?",
    "o": [
     "Die while working",
@@ -10395,7 +10695,7 @@
    "e": "'Up to the mark' means Of the required standard."
   },
   {
-   "id": "english-00693",
+   "id": "english-00713",
    "q": "Choose the one word substitute for: The murder of one's mother",
    "o": [
     "Matricide",
@@ -10410,7 +10710,7 @@
    "e": "The murder of one's mother — Matricide."
   },
   {
-   "id": "english-00694",
+   "id": "english-00714",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Excellent",
@@ -10425,7 +10725,7 @@
    "e": "The correct spelling is Appropriate."
   },
   {
-   "id": "english-00695",
+   "id": "english-00715",
    "q": "What is the plural of Piano?",
    "o": [
     "Halves",
@@ -10440,7 +10740,7 @@
    "e": "The plural of Piano is Pianos."
   },
   {
-   "id": "english-00696",
+   "id": "english-00716",
    "q": "The masculine form of Cow is which of the following?",
    "o": [
     "Bull",
@@ -10455,7 +10755,7 @@
    "e": "Cow is the feminine of Bull."
   },
   {
-   "id": "english-00697",
+   "id": "english-00717",
    "q": "What is the superlative degree of Gentle?",
    "o": [
     "Fattest",
@@ -10470,7 +10770,7 @@
    "e": "Gentle — Gentler — Gentlest."
   },
   {
-   "id": "english-00698",
+   "id": "english-00718",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "She is different ____ her sister. - from",
@@ -10485,7 +10785,7 @@
    "e": "Only She is different ____ her sister. - from is correctly matched."
   },
   {
-   "id": "english-00699",
+   "id": "english-00719",
    "q": "What is the passive form of 'They have finished the work'?",
    "o": [
     "Simple present tense",
@@ -10500,7 +10800,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00700",
+   "id": "english-00720",
    "q": "Choose the word most similar in meaning to Fortitude.",
    "o": [
     "Sleepy",
@@ -10515,7 +10815,7 @@
    "e": "Fortitude means Courage."
   },
   {
-   "id": "english-00701",
+   "id": "english-00721",
    "q": "Choose the word most opposite in meaning to Abandon.",
    "o": [
     "Confident",
@@ -10530,7 +10830,7 @@
    "e": "The opposite of Abandon is Retain."
   },
   {
-   "id": "english-00702",
+   "id": "english-00722",
    "q": "What is the meaning of the idiom 'A feather in one's cap'?",
    "o": [
     "To discuss private matters openly",
@@ -10545,7 +10845,7 @@
    "e": "'A feather in one's cap' means An achievement to be proud of."
   },
   {
-   "id": "english-00703",
+   "id": "english-00723",
    "q": "Choose the one word substitute for: The murder of a human being",
    "o": [
     "Acrophobic",
@@ -10560,7 +10860,7 @@
    "e": "The murder of a human being — Homicide."
   },
   {
-   "id": "english-00704",
+   "id": "english-00724",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Ambassador",
@@ -10575,7 +10875,7 @@
    "e": "The correct spelling is Business."
   },
   {
-   "id": "english-00705",
+   "id": "english-00725",
    "q": "What is the plural of Brother?",
    "o": [
     "Chiefs",
@@ -10590,7 +10890,7 @@
    "e": "The plural of Brother is Brothers."
   },
   {
-   "id": "english-00706",
+   "id": "english-00726",
    "q": "The masculine form of Poetess is which of the following?",
    "o": [
     "Foster-father",
@@ -10605,7 +10905,7 @@
    "e": "Poetess is the feminine of Poet."
   },
   {
-   "id": "english-00707",
+   "id": "english-00727",
    "q": "What is the superlative degree of Bad?",
    "o": [
     "Kindest",
@@ -10620,7 +10920,7 @@
    "e": "Bad — Worse — Worst."
   },
   {
-   "id": "english-00708",
+   "id": "english-00728",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "They are looking ____ the matter. - into",
@@ -10635,7 +10935,7 @@
    "e": "Only They are looking ____ the matter. - into is correctly matched."
   },
   {
-   "id": "english-00709",
+   "id": "english-00729",
    "q": "What is a word that replaces a noun called?",
    "o": [
     "Pronoun",
@@ -10650,7 +10950,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00710",
+   "id": "english-00730",
    "q": "Choose the word most similar in meaning to Prominent.",
    "o": [
     "Flexible",
@@ -10665,7 +10965,7 @@
    "e": "Prominent means Conspicuous."
   },
   {
-   "id": "english-00711",
+   "id": "english-00731",
    "q": "Choose the word most opposite in meaning to Extravagant.",
    "o": [
     "Talkative",
@@ -10680,7 +10980,7 @@
    "e": "The opposite of Extravagant is Frugal."
   },
   {
-   "id": "english-00712",
+   "id": "english-00732",
    "q": "What is the meaning of the idiom 'In cold blood'?",
    "o": [
     "Deliberately and without emotion",
@@ -10695,7 +10995,7 @@
    "e": "'In cold blood' means Deliberately and without emotion."
   },
   {
-   "id": "english-00713",
+   "id": "english-00733",
    "q": "Choose the one word substitute for: One who does not know how to read and write",
    "o": [
     "Insolvent",
@@ -10710,7 +11010,7 @@
    "e": "One who does not know how to read and write — Illiterate."
   },
   {
-   "id": "english-00714",
+   "id": "english-00734",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Superintendent",
@@ -10725,7 +11025,7 @@
    "e": "The correct spelling is Restaurant."
   },
   {
-   "id": "english-00715",
+   "id": "english-00735",
    "q": "What is the plural of Knife?",
    "o": [
     "Thieves",
@@ -10740,7 +11040,7 @@
    "e": "The plural of Knife is Knives."
   },
   {
-   "id": "english-00716",
+   "id": "english-00736",
    "q": "The masculine form of Empress is which of the following?",
    "o": [
     "Ram",
@@ -10755,7 +11055,7 @@
    "e": "Empress is the feminine of Emperor."
   },
   {
-   "id": "english-00717",
+   "id": "english-00737",
    "q": "What is the superlative degree of Intelligent?",
    "o": [
     "Longest",
@@ -10770,7 +11070,7 @@
    "e": "Intelligent — More intelligent — Most intelligent."
   },
   {
-   "id": "english-00718",
+   "id": "english-00738",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "They are looking ____ the matter. - of",
@@ -10785,7 +11085,7 @@
    "e": "Only They are looking ____ the matter. - into is correctly matched."
   },
   {
-   "id": "english-00719",
+   "id": "english-00739",
    "q": "What is the voice in which the subject performs the action called?",
    "o": [
     "Active voice",
@@ -10800,7 +11100,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00720",
+   "id": "english-00740",
    "q": "Choose the word most similar in meaning to Esoteric.",
    "o": [
     "Obscure",
@@ -10815,7 +11115,7 @@
    "e": "Esoteric means Obscure."
   },
   {
-   "id": "english-00721",
+   "id": "english-00741",
    "q": "Choose the word most opposite in meaning to Opulent.",
    "o": [
     "Decide",
@@ -10830,7 +11130,7 @@
    "e": "The opposite of Opulent is Poor."
   },
   {
-   "id": "english-00722",
+   "id": "english-00742",
    "q": "What is the meaning of the idiom 'To take the bull by the horns'?",
    "o": [
     "Insincere grief",
@@ -10845,7 +11145,7 @@
    "e": "'To take the bull by the horns' means To face danger boldly."
   },
   {
-   "id": "english-00723",
+   "id": "english-00743",
    "q": "Choose the one word substitute for: Words written on a tomb",
    "o": [
     "Baker",
@@ -10860,7 +11160,7 @@
    "e": "Words written on a tomb — Epitaph."
   },
   {
-   "id": "english-00724",
+   "id": "english-00744",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Explanation",
@@ -10875,7 +11175,7 @@
    "e": "The correct spelling is Genuine."
   },
   {
-   "id": "english-00725",
+   "id": "english-00745",
    "q": "What is the plural of Half?",
    "o": [
     "Radii",
@@ -10890,7 +11190,7 @@
    "e": "The plural of Half is Halves."
   },
   {
-   "id": "english-00726",
+   "id": "english-00746",
    "q": "The masculine form of Sister is which of the following?",
    "o": [
     "Emperor",
@@ -10905,7 +11205,7 @@
    "e": "Sister is the feminine of Brother."
   },
   {
-   "id": "english-00727",
+   "id": "english-00747",
    "q": "What is the superlative degree of Late?",
    "o": [
     "Most dangerous",
@@ -10920,7 +11220,7 @@
    "e": "Late — Later — Latest."
   },
   {
-   "id": "english-00728",
+   "id": "english-00748",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "She is married ____ a doctor. - on",
@@ -10935,7 +11235,7 @@
    "e": "Only She is married ____ a doctor. - to is correctly matched."
   },
   {
-   "id": "english-00729",
+   "id": "english-00749",
    "q": "What is the voice in which the subject receives the action called?",
    "o": [
     "Better",
@@ -10950,7 +11250,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00730",
+   "id": "english-00750",
    "q": "Choose the word most similar in meaning to Vigilant.",
    "o": [
     "Wordy",
@@ -10965,7 +11265,7 @@
    "e": "Vigilant means Watchful."
   },
   {
-   "id": "english-00731",
+   "id": "english-00751",
    "q": "Choose the word most opposite in meaning to Infamous.",
    "o": [
     "Explicit",
@@ -10980,7 +11280,7 @@
    "e": "The opposite of Infamous is Reputable."
   },
   {
-   "id": "english-00732",
+   "id": "english-00752",
    "q": "What is the meaning of the idiom 'By and large'?",
    "o": [
     "To shift responsibility",
@@ -10995,7 +11295,7 @@
    "e": "'By and large' means Generally."
   },
   {
-   "id": "english-00733",
+   "id": "english-00753",
    "q": "Choose the one word substitute for: One who studies rocks",
    "o": [
     "Sexagenarian",
@@ -11010,7 +11310,7 @@
    "e": "One who studies rocks — Geologist."
   },
   {
-   "id": "english-00734",
+   "id": "english-00754",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Professor",
@@ -11025,7 +11325,7 @@
    "e": "The correct spelling is Heroes."
   },
   {
-   "id": "english-00735",
+   "id": "english-00755",
    "q": "What is the plural of Buffalo?",
    "o": [
     "Volcanoes",
@@ -11040,7 +11340,7 @@
    "e": "The plural of Buffalo is Buffaloes."
   },
   {
-   "id": "english-00736",
+   "id": "english-00756",
    "q": "The masculine form of Leopardess is which of the following?",
    "o": [
     "Father",
@@ -11055,7 +11355,7 @@
    "e": "Leopardess is the feminine of Leopard."
   },
   {
-   "id": "english-00737",
+   "id": "english-00757",
    "q": "What is the superlative degree of Big?",
    "o": [
     "Least",
@@ -11070,7 +11370,7 @@
    "e": "Big — Bigger — Biggest."
   },
   {
-   "id": "english-00738",
+   "id": "english-00758",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "She is married ____ a doctor. - in",
@@ -11085,7 +11385,7 @@
    "e": "Only She is married ____ a doctor. - to is correctly matched."
   },
   {
-   "id": "english-00739",
+   "id": "english-00759",
    "q": "What is the superlative degree of 'bad'?",
    "o": [
     "Worst",
@@ -11100,7 +11400,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00740",
+   "id": "english-00760",
    "q": "Choose the word most similar in meaning to Servile.",
    "o": [
     "Scanty",
@@ -11115,7 +11415,7 @@
    "e": "Servile means Subservient."
   },
   {
-   "id": "english-00741",
+   "id": "english-00761",
    "q": "Choose the word most opposite in meaning to Demise.",
    "o": [
     "Birth",
@@ -11130,7 +11430,7 @@
    "e": "The opposite of Demise is Birth."
   },
   {
-   "id": "english-00742",
+   "id": "english-00762",
    "q": "What is the meaning of the idiom 'At the drop of a hat'?",
    "o": [
     "To suspect foul play",
@@ -11145,7 +11445,7 @@
    "e": "'At the drop of a hat' means Immediately."
   },
   {
-   "id": "english-00743",
+   "id": "english-00763",
    "q": "Choose the one word substitute for: A life story written by another person",
    "o": [
     "Biography",
@@ -11160,7 +11460,7 @@
    "e": "A life story written by another person — Biography."
   },
   {
-   "id": "english-00744",
+   "id": "english-00764",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Jewellery",
@@ -11175,7 +11475,7 @@
    "e": "The correct spelling is Jewellery."
   },
   {
-   "id": "english-00745",
+   "id": "english-00765",
    "q": "What is the plural of Echo?",
    "o": [
     "Lives",
@@ -11190,7 +11490,7 @@
    "e": "The plural of Echo is Echoes."
   },
   {
-   "id": "english-00746",
+   "id": "english-00766",
    "q": "The masculine form of Aunt is which of the following?",
    "o": [
     "Host",
@@ -11205,7 +11505,7 @@
    "e": "Aunt is the feminine of Uncle."
   },
   {
-   "id": "english-00747",
+   "id": "english-00767",
    "q": "What is the superlative degree of Deep?",
    "o": [
     "Deepest",
@@ -11220,7 +11520,7 @@
    "e": "Deep — Deeper — Deepest."
   },
   {
-   "id": "english-00748",
+   "id": "english-00768",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "He is jealous ____ his friend. - on",
@@ -11235,7 +11535,7 @@
    "e": "Only He is jealous ____ his friend. - of is correctly matched."
   },
   {
-   "id": "english-00749",
+   "id": "english-00769",
    "q": "What is the abstract noun formed from 'child'?",
    "o": [
     "Nor",
@@ -11250,7 +11550,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00750",
+   "id": "english-00770",
    "q": "Choose the word most similar in meaning to Deluge.",
    "o": [
     "Poverty",
@@ -11265,7 +11565,7 @@
    "e": "Deluge means Flood."
   },
   {
-   "id": "english-00751",
+   "id": "english-00771",
    "q": "Choose the word most opposite in meaning to Volatile.",
    "o": [
     "Ignorant",
@@ -11280,7 +11580,7 @@
    "e": "The opposite of Volatile is Stable."
   },
   {
-   "id": "english-00752",
+   "id": "english-00772",
    "q": "What is the meaning of the idiom 'High and dry'?",
    "o": [
     "Have a selfish motive",
@@ -11295,7 +11595,7 @@
    "e": "'High and dry' means Stranded."
   },
   {
-   "id": "english-00753",
+   "id": "english-00773",
    "q": "Choose the one word substitute for: One who can use both hands equally well",
    "o": [
     "Vegetarian",
@@ -11310,7 +11610,7 @@
    "e": "One who can use both hands equally well — Ambidextrous."
   },
   {
-   "id": "english-00754",
+   "id": "english-00774",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Occurred",
@@ -11325,7 +11625,7 @@
    "e": "The correct spelling is Truly."
   },
   {
-   "id": "english-00755",
+   "id": "english-00775",
    "q": "What is the plural of Series?",
    "o": [
     "Series",
@@ -11340,7 +11640,7 @@
    "e": "The plural of Series is Series."
   },
   {
-   "id": "english-00756",
+   "id": "english-00776",
    "q": "The masculine form of Hostess is which of the following?",
    "o": [
     "Sir",
@@ -11355,7 +11655,7 @@
    "e": "Hostess is the feminine of Host."
   },
   {
-   "id": "english-00757",
+   "id": "english-00777",
    "q": "What is the superlative degree of Weak?",
    "o": [
     "Brightest",
@@ -11370,7 +11670,7 @@
    "e": "Weak — Weaker — Weakest."
   },
   {
-   "id": "english-00758",
+   "id": "english-00778",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "He is jealous ____ his friend. - of",
@@ -11385,7 +11685,7 @@
    "e": "Only He is jealous ____ his friend. - of is correctly matched."
   },
   {
-   "id": "english-00759",
+   "id": "english-00779",
    "q": "What is the past tense of 'think'?",
    "o": [
     "Caught",
@@ -11400,7 +11700,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00760",
+   "id": "english-00780",
    "q": "Choose the word most similar in meaning to Exorbitant.",
    "o": [
     "Recall",
@@ -11415,7 +11715,7 @@
    "e": "Exorbitant means Excessive."
   },
   {
-   "id": "english-00761",
+   "id": "english-00781",
    "q": "Choose the word most opposite in meaning to Repudiate.",
    "o": [
     "Accept",
@@ -11430,7 +11730,7 @@
    "e": "The opposite of Repudiate is Accept."
   },
   {
-   "id": "english-00762",
+   "id": "english-00782",
    "q": "What is the meaning of the idiom 'Like a fish out of water'?",
    "o": [
     "Noble birth",
@@ -11445,7 +11745,7 @@
    "e": "'Like a fish out of water' means Uncomfortable."
   },
   {
-   "id": "english-00763",
+   "id": "english-00783",
    "q": "Choose the one word substitute for: Government by a small group of people",
    "o": [
     "Oligarchy",
@@ -11460,7 +11760,7 @@
    "e": "Government by a small group of people — Oligarchy."
   },
   {
-   "id": "english-00764",
+   "id": "english-00784",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Accommodation",
@@ -11475,7 +11775,7 @@
    "e": "The correct spelling is Perseverance."
   },
   {
-   "id": "english-00765",
+   "id": "english-00785",
    "q": "What is the plural of Mouse?",
    "o": [
     "Lice",
@@ -11490,7 +11790,7 @@
    "e": "The plural of Mouse is Mice."
   },
   {
-   "id": "english-00766",
+   "id": "english-00786",
    "q": "The masculine form of Wife is which of the following?",
    "o": [
     "Grandfather",
@@ -11505,7 +11805,7 @@
    "e": "Wife is the feminine of Husband."
   },
   {
-   "id": "english-00767",
+   "id": "english-00787",
    "q": "What is the superlative degree of Cold?",
    "o": [
     "Least",
@@ -11520,7 +11820,7 @@
    "e": "Cold — Colder — Coldest."
   },
   {
-   "id": "english-00768",
+   "id": "english-00788",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The house is made ____ bricks. - of",
@@ -11535,7 +11835,7 @@
    "e": "Only The house is made ____ bricks. - of is correctly matched."
   },
   {
-   "id": "english-00769",
+   "id": "english-00789",
    "q": "What is the indirect form of 'She said, I will come tomorrow'?",
    "o": [
     "Decision",
@@ -11550,7 +11850,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00770",
+   "id": "english-00790",
    "q": "Choose the word most similar in meaning to Indict.",
    "o": [
     "Meticulous",
@@ -11565,7 +11865,7 @@
    "e": "Indict means Charge."
   },
   {
-   "id": "english-00771",
+   "id": "english-00791",
    "q": "Choose the word most opposite in meaning to Taciturn.",
    "o": [
     "Provoke",
@@ -11580,7 +11880,7 @@
    "e": "The opposite of Taciturn is Garrulous."
   },
   {
-   "id": "english-00772",
+   "id": "english-00792",
    "q": "What is the meaning of the idiom 'Ins and outs'?",
    "o": [
     "Begin a conversation",
@@ -11595,7 +11895,7 @@
    "e": "'Ins and outs' means Full details."
   },
   {
-   "id": "english-00773",
+   "id": "english-00793",
    "q": "Choose the one word substitute for: Something that is difficult to understand",
    "o": [
     "Utopia",
@@ -11610,7 +11910,7 @@
    "e": "Something that is difficult to understand — Abstruse."
   },
   {
-   "id": "english-00774",
+   "id": "english-00794",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Ambassador",
@@ -11625,7 +11925,7 @@
    "e": "The correct spelling is Sophisticated."
   },
   {
-   "id": "english-00775",
+   "id": "english-00795",
    "q": "What is the plural of Story?",
    "o": [
     "Buses",
@@ -11640,7 +11940,7 @@
    "e": "The plural of Story is Stories."
   },
   {
-   "id": "english-00776",
+   "id": "english-00796",
    "q": "The masculine form of Nun is which of the following?",
    "o": [
     "Foster-father",
@@ -11655,7 +11955,7 @@
    "e": "Nun is the feminine of Monk."
   },
   {
-   "id": "english-00777",
+   "id": "english-00797",
    "q": "What is the superlative degree of Far?",
    "o": [
     "Richest",
@@ -11670,7 +11970,7 @@
    "e": "Far — Farther — Farthest."
   },
   {
-   "id": "english-00778",
+   "id": "english-00798",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The house is made ____ bricks. - to",
@@ -11685,7 +11985,7 @@
    "e": "Only The house is made ____ bricks. - of is correctly matched."
   },
   {
-   "id": "english-00779",
+   "id": "english-00799",
    "q": "What is the past participle of 'speak'?",
    "o": [
     "Fleet",
@@ -11700,7 +12000,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00780",
+   "id": "english-00800",
    "q": "Choose the word most similar in meaning to Conceal.",
    "o": [
     "Beginner",
@@ -11715,7 +12015,7 @@
    "e": "Conceal means Hide."
   },
   {
-   "id": "english-00781",
+   "id": "english-00801",
    "q": "Choose the word most opposite in meaning to Implicit.",
    "o": [
     "Stingy",
@@ -11730,7 +12030,7 @@
    "e": "The opposite of Implicit is Explicit."
   },
   {
-   "id": "english-00782",
+   "id": "english-00802",
    "q": "What is the meaning of the idiom 'Let the cat out of the bag'?",
    "o": [
     "Unacceptable",
@@ -11745,7 +12045,7 @@
    "e": "'Let the cat out of the bag' means Reveal a secret."
   },
   {
-   "id": "english-00783",
+   "id": "english-00803",
    "q": "Choose the one word substitute for: One who cannot read or write",
    "o": [
     "Xenophobic",
@@ -11760,7 +12060,7 @@
    "e": "One who cannot read or write — Illiterate."
   },
   {
-   "id": "english-00784",
+   "id": "english-00804",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Discipline",
@@ -11775,7 +12075,7 @@
    "e": "The correct spelling is Discipline."
   },
   {
-   "id": "english-00785",
+   "id": "english-00805",
    "q": "What is the plural of Stimulus?",
    "o": [
     "Curricula",
@@ -11790,7 +12090,7 @@
    "e": "The plural of Stimulus is Stimuli."
   },
   {
-   "id": "english-00786",
+   "id": "english-00806",
    "q": "The masculine form of Actress is which of the following?",
    "o": [
     "Actor",
@@ -11805,7 +12105,7 @@
    "e": "Actress is the feminine of Actor."
   },
   {
-   "id": "english-00787",
+   "id": "english-00807",
    "q": "What is the superlative degree of Many?",
    "o": [
     "Happiest",
@@ -11820,7 +12120,7 @@
    "e": "Many — More — Most."
   },
   {
-   "id": "english-00788",
+   "id": "english-00808",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "I congratulated him ____ his success. - on",
@@ -11835,7 +12135,7 @@
    "e": "Only I congratulated him ____ his success. - on is correctly matched."
   },
   {
-   "id": "english-00789",
+   "id": "english-00809",
    "q": "What is the past tense of 'bring'?",
    "o": [
     "Brought",
@@ -11850,7 +12150,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00790",
+   "id": "english-00810",
    "q": "Choose the word most similar in meaning to Verbose.",
    "o": [
     "Wordy",
@@ -11865,7 +12165,7 @@
    "e": "Verbose means Wordy."
   },
   {
-   "id": "english-00791",
+   "id": "english-00811",
    "q": "Choose the word most opposite in meaning to Tranquil.",
    "o": [
     "Provoke",
@@ -11880,7 +12180,7 @@
    "e": "The opposite of Tranquil is Restless."
   },
   {
-   "id": "english-00792",
+   "id": "english-00812",
    "q": "What is the meaning of the idiom 'Jack of all trades'?",
    "o": [
     "An ineffective person or government",
@@ -11895,7 +12195,7 @@
    "e": "'Jack of all trades' means A person who can do many things but is expert at none."
   },
   {
-   "id": "english-00793",
+   "id": "english-00813",
    "q": "Choose the one word substitute for: One who cannot be corrected",
    "o": [
     "Analgesic",
@@ -11910,7 +12210,7 @@
    "e": "One who cannot be corrected — Incorrigible."
   },
   {
-   "id": "english-00794",
+   "id": "english-00814",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Gauge",
@@ -11925,7 +12225,7 @@
    "e": "The correct spelling is Appearance."
   },
   {
-   "id": "english-00795",
+   "id": "english-00815",
    "q": "What is the plural of Bacterium?",
    "o": [
     "Roofs",
@@ -11940,7 +12240,7 @@
    "e": "The plural of Bacterium is Bacteria."
   },
   {
-   "id": "english-00796",
+   "id": "english-00816",
    "q": "The masculine form of Authoress is which of the following?",
    "o": [
     "Author",
@@ -11955,7 +12255,7 @@
    "e": "Authoress is the feminine of Author."
   },
   {
-   "id": "english-00797",
+   "id": "english-00817",
    "q": "What is the superlative degree of Easy?",
    "o": [
     "Easiest",
@@ -11970,7 +12270,7 @@
    "e": "Easy — Easier — Easiest."
   },
   {
-   "id": "english-00798",
+   "id": "english-00818",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "I congratulated him ____ his success. - of",
@@ -11985,7 +12285,7 @@
    "e": "Only I congratulated him ____ his success. - on is correctly matched."
   },
   {
-   "id": "english-00799",
+   "id": "english-00819",
    "q": "What is a group of words with a subject and a predicate called?",
    "o": [
     "An",
@@ -12000,7 +12300,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00800",
+   "id": "english-00820",
    "q": "Choose the word most similar in meaning to Fluctuate.",
    "o": [
     "Vary",
@@ -12015,7 +12315,7 @@
    "e": "Fluctuate means Vary."
   },
   {
-   "id": "english-00801",
+   "id": "english-00821",
    "q": "Choose the word most opposite in meaning to Foster.",
    "o": [
     "Provoke",
@@ -12030,7 +12330,7 @@
    "e": "The opposite of Foster is Neglect."
   },
   {
-   "id": "english-00802",
+   "id": "english-00822",
    "q": "What is the meaning of the idiom 'A hard nut to crack'?",
    "o": [
     "Pay too much",
@@ -12045,7 +12345,7 @@
    "e": "'A hard nut to crack' means A difficult problem."
   },
   {
-   "id": "english-00803",
+   "id": "english-00823",
    "q": "Choose the one word substitute for: One who is easily deceived",
    "o": [
     "Librarian",
@@ -12060,7 +12360,7 @@
    "e": "One who is easily deceived — Gullible."
   },
   {
-   "id": "english-00804",
+   "id": "english-00824",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Column",
@@ -12075,7 +12375,7 @@
    "e": "The correct spelling is Abundance."
   },
   {
-   "id": "english-00805",
+   "id": "english-00825",
    "q": "What is the plural of Court Martial?",
    "o": [
     "Babies",
@@ -12090,7 +12390,7 @@
    "e": "The plural of Court Martial is Courts Martial."
   },
   {
-   "id": "english-00806",
+   "id": "english-00826",
    "q": "The masculine form of Daughter is which of the following?",
    "o": [
     "Godfather",
@@ -12105,7 +12405,7 @@
    "e": "Daughter is the feminine of Son."
   },
   {
-   "id": "english-00807",
+   "id": "english-00827",
    "q": "What is the superlative degree of Simple?",
    "o": [
     "Most difficult",
@@ -12120,7 +12420,7 @@
    "e": "Simple — Simpler — Simplest."
   },
   {
-   "id": "english-00808",
+   "id": "english-00828",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "She has been waiting ____ two hours. - of",
@@ -12135,7 +12435,7 @@
    "e": "Only She has been waiting ____ two hours. - for is correctly matched."
   },
   {
-   "id": "english-00809",
+   "id": "english-00829",
    "q": "What is the collective noun for a group of cattle?",
    "o": [
     "Herd",
@@ -12150,7 +12450,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00810",
+   "id": "english-00830",
    "q": "Choose the word most similar in meaning to Malevolent.",
    "o": [
     "Excessive",
@@ -12165,7 +12465,7 @@
    "e": "Malevolent means Malicious."
   },
   {
-   "id": "english-00811",
+   "id": "english-00831",
    "q": "Choose the word most opposite in meaning to Loquacious.",
    "o": [
     "Independent",
@@ -12180,7 +12480,7 @@
    "e": "The opposite of Loquacious is Reticent."
   },
   {
-   "id": "english-00812",
+   "id": "english-00832",
    "q": "What is the meaning of the idiom 'With flying colours'?",
    "o": [
     "Do a pointless thing",
@@ -12195,7 +12495,7 @@
    "e": "'With flying colours' means With great success."
   },
   {
-   "id": "english-00813",
+   "id": "english-00833",
    "q": "Choose the one word substitute for: Something that is very obvious",
    "o": [
     "Gregarious",
@@ -12210,7 +12510,7 @@
    "e": "Something that is very obvious — Manifest."
   },
   {
-   "id": "english-00814",
+   "id": "english-00834",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Vacuum",
@@ -12225,7 +12525,7 @@
    "e": "The correct spelling is Quantity."
   },
   {
-   "id": "english-00815",
+   "id": "english-00835",
    "q": "What is the plural of Loaf?",
    "o": [
     "Trout",
@@ -12240,7 +12540,7 @@
    "e": "The plural of Loaf is Loaves."
   },
   {
-   "id": "english-00816",
+   "id": "english-00836",
    "q": "The masculine form of Woman is which of the following?",
    "o": [
     "Man",
@@ -12255,7 +12555,7 @@
    "e": "Woman is the feminine of Man."
   },
   {
-   "id": "english-00817",
+   "id": "english-00837",
    "q": "What is the superlative degree of Important?",
    "o": [
     "Most important",
@@ -12270,7 +12570,7 @@
    "e": "Important — More important — Most important."
   },
   {
-   "id": "english-00818",
+   "id": "english-00838",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "She has been waiting ____ two hours. - for",
@@ -12285,7 +12585,7 @@
    "e": "Only She has been waiting ____ two hours. - for is correctly matched."
   },
   {
-   "id": "english-00819",
+   "id": "english-00839",
    "q": "What is the comparative degree of 'good'?",
    "o": [
     "Uncountable noun",
@@ -12300,7 +12600,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "english-00820",
+   "id": "english-00840",
    "q": "Choose the word most similar in meaning to Impede.",
    "o": [
     "Deceitful",
@@ -12315,7 +12615,7 @@
    "e": "Impede means Obstruct."
   },
   {
-   "id": "english-00821",
+   "id": "english-00841",
    "q": "Choose the word most opposite in meaning to Staunch.",
    "o": [
     "Pessimistic",
@@ -12330,7 +12630,7 @@
    "e": "The opposite of Staunch is Disloyal."
   },
   {
-   "id": "english-00822",
+   "id": "english-00842",
    "q": "What is the meaning of the idiom 'Throw dust in one's eyes'?",
    "o": [
     "Fluency of speech",
@@ -12345,7 +12645,7 @@
    "e": "'Throw dust in one's eyes' means Deceive."
   },
   {
-   "id": "english-00823",
+   "id": "english-00843",
    "q": "Choose the one word substitute for: A place where books are kept",
    "o": [
     "Octogenarian",
@@ -12360,7 +12660,7 @@
    "e": "A place where books are kept — Library."
   },
   {
-   "id": "english-00824",
+   "id": "english-00844",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Conceited",
@@ -12375,7 +12675,7 @@
    "e": "The correct spelling is Conceited."
   },
   {
-   "id": "english-00825",
+   "id": "english-00845",
    "q": "What is the plural of Hero?",
    "o": [
     "Armies",
@@ -12390,7 +12690,7 @@
    "e": "The plural of Hero is Heroes."
   },
   {
-   "id": "english-00826",
+   "id": "english-00846",
    "q": "The masculine form of Manageress is which of the following?",
    "o": [
     "Author",
@@ -12405,7 +12705,7 @@
    "e": "Manageress is the feminine of Manager."
   },
   {
-   "id": "english-00827",
+   "id": "english-00847",
    "q": "What is the superlative degree of Much?",
    "o": [
     "Most",
@@ -12420,7 +12720,7 @@
    "e": "Much — More — Most."
   },
   {
-   "id": "english-00828",
+   "id": "english-00848",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The child is suffering ____ fever. - with",
@@ -12435,7 +12735,7 @@
    "e": "Only The child is suffering ____ fever. - from is correctly matched."
   },
   {
-   "id": "english-00829",
+   "id": "english-00849",
    "q": "Choose the word most similar in meaning to Ignominy.",
    "o": [
     "Propriety",
@@ -12450,7 +12750,7 @@
    "e": "Ignominy means Disgrace."
   },
   {
-   "id": "english-00830",
+   "id": "english-00850",
    "q": "Choose the word most opposite in meaning to Inveterate.",
    "o": [
     "Occasional",
@@ -12465,7 +12765,7 @@
    "e": "The opposite of Inveterate is Occasional."
   },
   {
-   "id": "english-00831",
+   "id": "english-00851",
    "q": "What is the meaning of the idiom 'Call a spade a spade'?",
    "o": [
     "Speak plainly",
@@ -12480,7 +12780,7 @@
    "e": "'Call a spade a spade' means Speak plainly."
   },
   {
-   "id": "english-00832",
+   "id": "english-00852",
    "q": "Choose the one word substitute for: One who lives alone and avoids company",
    "o": [
     "Utopia",
@@ -12495,7 +12795,7 @@
    "e": "One who lives alone and avoids company — Hermit."
   },
   {
-   "id": "english-00833",
+   "id": "english-00853",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Lightning",
@@ -12510,7 +12810,7 @@
    "e": "The correct spelling is Whether."
   },
   {
-   "id": "english-00834",
+   "id": "english-00854",
    "q": "What is the plural of Ox?",
    "o": [
     "Brothers",
@@ -12525,7 +12825,7 @@
    "e": "The plural of Ox is Oxen."
   },
   {
-   "id": "english-00835",
+   "id": "english-00855",
    "q": "The masculine form of Priestess is which of the following?",
    "o": [
     "Foster-father",
@@ -12540,7 +12840,7 @@
    "e": "Priestess is the feminine of Priest."
   },
   {
-   "id": "english-00836",
+   "id": "english-00856",
    "q": "What is the superlative degree of Rich?",
    "o": [
     "Hottest",
@@ -12555,7 +12855,7 @@
    "e": "Rich — Richer — Richest."
   },
   {
-   "id": "english-00837",
+   "id": "english-00857",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "The child is suffering ____ fever. - from",
@@ -12570,7 +12870,7 @@
    "e": "Only The child is suffering ____ fever. - from is correctly matched."
   },
   {
-   "id": "english-00838",
+   "id": "english-00858",
    "q": "Choose the word most similar in meaning to Intrepid.",
    "o": [
     "Pleasant",
@@ -12585,7 +12885,7 @@
    "e": "Intrepid means Fearless."
   },
   {
-   "id": "english-00839",
+   "id": "english-00859",
    "q": "Choose the word most opposite in meaning to Augment.",
    "o": [
     "Reckless",
@@ -12600,7 +12900,7 @@
    "e": "The opposite of Augment is Diminish."
   },
   {
-   "id": "english-00840",
+   "id": "english-00860",
    "q": "What is the meaning of the idiom 'Fall flat'?",
    "o": [
     "Deliberately delaying",
@@ -12615,7 +12915,7 @@
    "e": "'Fall flat' means Fail to have the intended effect."
   },
   {
-   "id": "english-00841",
+   "id": "english-00861",
    "q": "Choose the one word substitute for: One who loves books",
    "o": [
     "Aviary",
@@ -12630,7 +12930,7 @@
    "e": "One who loves books — Bibliophile."
   },
   {
-   "id": "english-00842",
+   "id": "english-00862",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Emperor",
@@ -12645,7 +12945,7 @@
    "e": "The correct spelling is Necessary."
   },
   {
-   "id": "english-00843",
+   "id": "english-00863",
    "q": "What is the plural of Appendix?",
    "o": [
     "Trout",
@@ -12660,7 +12960,7 @@
    "e": "The plural of Appendix is Appendices."
   },
   {
-   "id": "english-00844",
+   "id": "english-00864",
    "q": "The masculine form of Queen is which of the following?",
    "o": [
     "Gander",
@@ -12675,7 +12975,7 @@
    "e": "Queen is the feminine of King."
   },
   {
-   "id": "english-00845",
+   "id": "english-00865",
    "q": "What is the superlative degree of Busy?",
    "o": [
     "Darkest",
@@ -12690,7 +12990,7 @@
    "e": "Busy — Busier — Busiest."
   },
   {
-   "id": "english-00846",
+   "id": "english-00866",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "He is well versed ____ Sanskrit. - of",
@@ -12705,7 +13005,7 @@
    "e": "Only He is well versed ____ Sanskrit. - in is correctly matched."
   },
   {
-   "id": "english-00847",
+   "id": "english-00867",
    "q": "Choose the word most similar in meaning to Notorious.",
    "o": [
     "Inborn",
@@ -12720,7 +13020,7 @@
    "e": "Notorious means Infamous."
   },
   {
-   "id": "english-00848",
+   "id": "english-00868",
    "q": "Choose the word most opposite in meaning to Laudable.",
    "o": [
     "Safety",
@@ -12735,7 +13035,7 @@
    "e": "The opposite of Laudable is Blameworthy."
   },
   {
-   "id": "english-00849",
+   "id": "english-00869",
    "q": "What is the meaning of the idiom 'Burn one's boats'?",
    "o": [
     "A cause of quarrel",
@@ -12750,7 +13050,7 @@
    "e": "'Burn one's boats' means Act so as to make retreat impossible."
   },
   {
-   "id": "english-00850",
+   "id": "english-00870",
    "q": "Choose the one word substitute for: One who lives a simple life without possessions",
    "o": [
     "Anarchy",
@@ -12765,7 +13065,7 @@
    "e": "One who lives a simple life without possessions — Recluse."
   },
   {
-   "id": "english-00851",
+   "id": "english-00871",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Sufficient",
@@ -12780,7 +13080,7 @@
    "e": "The correct spelling is Exaggerate."
   },
   {
-   "id": "english-00852",
+   "id": "english-00872",
    "q": "What is the plural of Step-daughter?",
    "o": [
     "Step-daughters",
@@ -12795,7 +13095,7 @@
    "e": "The plural of Step-daughter is Step-daughters."
   },
   {
-   "id": "english-00853",
+   "id": "english-00873",
    "q": "The masculine form of Ewe is which of the following?",
    "o": [
     "Bridegroom",
@@ -12810,7 +13110,7 @@
    "e": "Ewe is the feminine of Ram."
   },
   {
-   "id": "english-00854",
+   "id": "english-00874",
    "q": "What is the superlative degree of Wise?",
    "o": [
     "Slowest",
@@ -12825,7 +13125,7 @@
    "e": "Wise — Wiser — Wisest."
   },
   {
-   "id": "english-00855",
+   "id": "english-00875",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "He is well versed ____ Sanskrit. - in",
@@ -12840,7 +13140,7 @@
    "e": "Only He is well versed ____ Sanskrit. - in is correctly matched."
   },
   {
-   "id": "english-00856",
+   "id": "english-00876",
    "q": "Choose the word most similar in meaning to Epitome.",
    "o": [
     "Starvation",
@@ -12855,7 +13155,7 @@
    "e": "Epitome means Embodiment."
   },
   {
-   "id": "english-00857",
+   "id": "english-00877",
    "q": "Choose the word most opposite in meaning to Ecstasy.",
    "o": [
     "Favourable",
@@ -12870,7 +13170,7 @@
    "e": "The opposite of Ecstasy is Agony."
   },
   {
-   "id": "english-00858",
+   "id": "english-00878",
    "q": "What is the meaning of the idiom 'A wild goose chase'?",
    "o": [
     "Unable to speak plainly",
@@ -12885,7 +13185,7 @@
    "e": "'A wild goose chase' means A futile search."
   },
   {
-   "id": "english-00859",
+   "id": "english-00879",
    "q": "Choose the one word substitute for: Excessive love for one's own country",
    "o": [
     "Chauvinism",
@@ -12900,7 +13200,7 @@
    "e": "Excessive love for one's own country — Chauvinism."
   },
   {
-   "id": "english-00860",
+   "id": "english-00880",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Hereditary",
@@ -12915,7 +13215,7 @@
    "e": "The correct spelling is Eighth."
   },
   {
-   "id": "english-00861",
+   "id": "english-00881",
    "q": "Which of the following is the plural form of Shelf?",
    "o": [
     "Indices",
@@ -12930,7 +13230,7 @@
    "e": "The plural of Shelf is Shelves."
   },
   {
-   "id": "english-00862",
+   "id": "english-00882",
    "q": "The masculine form of Waitress is which of the following?",
    "o": [
     "Boar",
@@ -12945,7 +13245,7 @@
    "e": "Waitress is the feminine of Waiter."
   },
   {
-   "id": "english-00863",
+   "id": "english-00883",
    "q": "What is the superlative degree of Tall?",
    "o": [
     "Bravest",
@@ -12960,7 +13260,7 @@
    "e": "Tall — Taller — Tallest."
   },
   {
-   "id": "english-00864",
+   "id": "english-00884",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "I prefer coffee ____ tea. - from",
@@ -12975,7 +13275,7 @@
    "e": "Only I prefer coffee ____ tea. - to is correctly matched."
   },
   {
-   "id": "english-00865",
+   "id": "english-00885",
    "q": "Choose the word most similar in meaning to Wary.",
    "o": [
     "Stop",
@@ -12990,7 +13290,7 @@
    "e": "Wary means Cautious."
   },
   {
-   "id": "english-00866",
+   "id": "english-00886",
    "q": "Choose the word most opposite in meaning to Profuse.",
    "o": [
     "Occasional",
@@ -13005,7 +13305,7 @@
    "e": "The opposite of Profuse is Scarce."
   },
   {
-   "id": "english-00867",
+   "id": "english-00887",
    "q": "What is the meaning of the idiom 'To bell the cat'?",
    "o": [
     "Agree completely",
@@ -13020,7 +13320,7 @@
    "e": "'To bell the cat' means To take the risk."
   },
   {
-   "id": "english-00868",
+   "id": "english-00888",
    "q": "Choose the one word substitute for: The practice of having many husbands",
    "o": [
     "Armoury",
@@ -13035,7 +13335,7 @@
    "e": "The practice of having many husbands — Polyandry."
   },
   {
-   "id": "english-00869",
+   "id": "english-00889",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Believe",
@@ -13050,7 +13350,7 @@
    "e": "The correct spelling is Believe."
   },
   {
-   "id": "english-00870",
+   "id": "english-00890",
    "q": "Which of the following is the plural form of Bench?",
    "o": [
     "Zoos",
@@ -13065,7 +13365,7 @@
    "e": "The plural of Bench is Benches."
   },
   {
-   "id": "english-00871",
+   "id": "english-00891",
    "q": "The masculine form of Countess is which of the following?",
    "o": [
     "Stallion",
@@ -13080,7 +13380,7 @@
    "e": "Countess is the feminine of Earl."
   },
   {
-   "id": "english-00872",
+   "id": "english-00892",
    "q": "What is the superlative degree of Little?",
    "o": [
     "Darkest",
@@ -13095,7 +13395,7 @@
    "e": "Little — Less — Least."
   },
   {
-   "id": "english-00873",
+   "id": "english-00893",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "I prefer coffee ____ tea. - in",
@@ -13110,7 +13410,7 @@
    "e": "Only I prefer coffee ____ tea. - to is correctly matched."
   },
   {
-   "id": "english-00874",
+   "id": "english-00894",
    "q": "Choose the word most similar in meaning to Poignant.",
    "o": [
     "Shortness",
@@ -13125,7 +13425,7 @@
    "e": "Poignant means Touching."
   },
   {
-   "id": "english-00875",
+   "id": "english-00895",
    "q": "Choose the word most opposite in meaning to Paucity.",
    "o": [
     "Abundance",
@@ -13140,7 +13440,7 @@
    "e": "The opposite of Paucity is Abundance."
   },
   {
-   "id": "english-00876",
+   "id": "english-00896",
    "q": "What is the meaning of the idiom 'Rain cats and dogs'?",
    "o": [
     "Rain heavily",
@@ -13155,7 +13455,7 @@
    "e": "'Rain cats and dogs' means Rain heavily."
   },
   {
-   "id": "english-00877",
+   "id": "english-00897",
    "q": "Choose the one word substitute for: One who speaks very little",
    "o": [
     "Autobiographer",
@@ -13170,7 +13470,7 @@
    "e": "One who speaks very little — Taciturn."
   },
   {
-   "id": "english-00878",
+   "id": "english-00898",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Religious",
@@ -13185,7 +13485,7 @@
    "e": "The correct spelling is Category."
   },
   {
-   "id": "english-00879",
+   "id": "english-00899",
    "q": "Which of the following is the plural form of Syllabus?",
    "o": [
     "Appendices",
@@ -13200,7 +13500,7 @@
    "e": "The plural of Syllabus is Syllabi."
   },
   {
-   "id": "english-00880",
+   "id": "english-00900",
    "q": "The masculine form of Heroine is which of the following?",
    "o": [
     "Monk",
@@ -13215,7 +13515,7 @@
    "e": "Heroine is the feminine of Hero."
   },
   {
-   "id": "english-00881",
+   "id": "english-00901",
    "q": "What is the superlative degree of Fine?",
    "o": [
     "Latest",
@@ -13230,7 +13530,7 @@
    "e": "Fine — Finer — Finest."
   },
   {
-   "id": "english-00882",
+   "id": "english-00902",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "He is blind ____ one eye. - in",
@@ -13245,7 +13545,7 @@
    "e": "Only He is blind ____ one eye. - in is correctly matched."
   },
   {
-   "id": "english-00883",
+   "id": "english-00903",
    "q": "Choose the word most similar in meaning to Ominous.",
    "o": [
     "Predicament",
@@ -13260,7 +13560,7 @@
    "e": "Ominous means Threatening."
   },
   {
-   "id": "english-00884",
+   "id": "english-00904",
    "q": "Choose the word most opposite in meaning to Intrinsic.",
    "o": [
     "Extrinsic",
@@ -13275,7 +13575,7 @@
    "e": "The opposite of Intrinsic is Extrinsic."
   },
   {
-   "id": "english-00885",
+   "id": "english-00905",
    "q": "What is the meaning of the idiom 'A slap on the wrist'?",
    "o": [
     "To reverse the proper order",
@@ -13290,7 +13590,7 @@
    "e": "'A slap on the wrist' means A mild punishment."
   },
   {
-   "id": "english-00886",
+   "id": "english-00906",
    "q": "Choose the one word substitute for: One who studies population",
    "o": [
     "Regicide",
@@ -13305,7 +13605,7 @@
    "e": "One who studies population — Demographer."
   },
   {
-   "id": "english-00887",
+   "id": "english-00907",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Tomorrow",
@@ -13320,7 +13620,7 @@
    "e": "The correct spelling is Hygiene."
   },
   {
-   "id": "english-00888",
+   "id": "english-00908",
    "q": "Which of the following is the plural form of Army?",
    "o": [
     "Armies",
@@ -13335,7 +13635,7 @@
    "e": "The plural of Army is Armies."
   },
   {
-   "id": "english-00889",
+   "id": "english-00909",
    "q": "The masculine form of Lady is which of the following?",
    "o": [
     "Lord",
@@ -13350,7 +13650,7 @@
    "e": "Lady is the feminine of Lord."
   },
   {
-   "id": "english-00890",
+   "id": "english-00910",
    "q": "What is the superlative degree of Short?",
    "o": [
     "Smallest",
@@ -13365,7 +13665,7 @@
    "e": "Short — Shorter — Shortest."
   },
   {
-   "id": "english-00891",
+   "id": "english-00911",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "He is blind ____ one eye. - for",
@@ -13380,7 +13680,7 @@
    "e": "Only He is blind ____ one eye. - in is correctly matched."
   },
   {
-   "id": "english-00892",
+   "id": "english-00912",
    "q": "Choose the word most similar in meaning to Zealous.",
    "o": [
     "Generous",
@@ -13395,7 +13695,7 @@
    "e": "Zealous means Enthusiastic."
   },
   {
-   "id": "english-00893",
+   "id": "english-00913",
    "q": "Choose the word most opposite in meaning to Concur.",
    "o": [
     "Reticent",
@@ -13410,7 +13710,7 @@
    "e": "The opposite of Concur is Disagree."
   },
   {
-   "id": "english-00894",
+   "id": "english-00914",
    "q": "What is the meaning of the idiom 'Kith and kin'?",
    "o": [
     "Relatives",
@@ -13425,7 +13725,7 @@
    "e": "'Kith and kin' means Relatives."
   },
   {
-   "id": "english-00895",
+   "id": "english-00915",
    "q": "Choose the one word substitute for: One who does not believe in God",
    "o": [
     "Cannibal",
@@ -13440,7 +13740,7 @@
    "e": "One who does not believe in God — Atheist."
   },
   {
-   "id": "english-00896",
+   "id": "english-00916",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Appropriate",
@@ -13455,7 +13755,7 @@
    "e": "The correct spelling is Remembrance."
   },
   {
-   "id": "english-00897",
+   "id": "english-00917",
    "q": "Which of the following is the plural form of Deer?",
    "o": [
     "Benches",
@@ -13470,7 +13770,7 @@
    "e": "The plural of Deer is Deer."
   },
   {
-   "id": "english-00898",
+   "id": "english-00918",
    "q": "The masculine form of Stewardess is which of the following?",
    "o": [
     "Steward",
@@ -13485,7 +13785,7 @@
    "e": "Stewardess is the feminine of Steward."
   },
   {
-   "id": "english-00899",
+   "id": "english-00919",
    "q": "What is the superlative degree of Narrow?",
    "o": [
     "Bravest",
@@ -13500,7 +13800,7 @@
    "e": "Narrow — Narrower — Narrowest."
   },
   {
-   "id": "english-00900",
+   "id": "english-00920",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "He died ____ malaria. - of",
@@ -13515,7 +13815,7 @@
    "e": "Only He died ____ malaria. - of is correctly matched."
   },
   {
-   "id": "english-00901",
+   "id": "english-00921",
    "q": "Choose the word most similar in meaning to Meagre.",
    "o": [
     "Scanty",
@@ -13530,7 +13830,7 @@
    "e": "Meagre means Scanty."
   },
   {
-   "id": "english-00902",
+   "id": "english-00922",
    "q": "Choose the word most opposite in meaning to Indolent.",
    "o": [
     "Provoke",
@@ -13545,7 +13845,7 @@
    "e": "The opposite of Indolent is Industrious."
   },
   {
-   "id": "english-00903",
+   "id": "english-00923",
    "q": "What is the meaning of the idiom 'Tall talk'?",
    "o": [
     "Listening attentively",
@@ -13560,7 +13860,7 @@
    "e": "'Tall talk' means Exaggerated speech."
   },
   {
-   "id": "english-00904",
+   "id": "english-00924",
    "q": "Choose the one word substitute for: A person who is made to bear the blame for others",
    "o": [
     "Septuagenarian",
@@ -13575,7 +13875,7 @@
    "e": "A person who is made to bear the blame for others — Scapegoat."
   },
   {
-   "id": "english-00905",
+   "id": "english-00925",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Accidentally",
@@ -13590,7 +13890,7 @@
    "e": "The correct spelling is Reference."
   },
   {
-   "id": "english-00906",
+   "id": "english-00926",
    "q": "Which of the following is the plural form of Photo?",
    "o": [
     "Photos",
@@ -13605,7 +13905,7 @@
    "e": "The plural of Photo is Photos."
   },
   {
-   "id": "english-00907",
+   "id": "english-00927",
    "q": "The masculine form of Widow is which of the following?",
    "o": [
     "Author",
@@ -13620,7 +13920,7 @@
    "e": "Widow is the feminine of Widower."
   },
   {
-   "id": "english-00908",
+   "id": "english-00928",
    "q": "What is the superlative degree of Strong?",
    "o": [
     "Wisest",
@@ -13635,7 +13935,7 @@
    "e": "Strong — Stronger — Strongest."
   },
   {
-   "id": "english-00909",
+   "id": "english-00929",
    "q": "Choose the word most similar in meaning to Immense.",
    "o": [
     "Decrease",
@@ -13650,7 +13950,7 @@
    "e": "Immense means Huge."
   },
   {
-   "id": "english-00910",
+   "id": "english-00930",
    "q": "Choose the word most opposite in meaning to Obstinate.",
    "o": [
     "Impossible",
@@ -13665,7 +13965,7 @@
    "e": "The opposite of Obstinate is Yielding."
   },
   {
-   "id": "english-00911",
+   "id": "english-00931",
    "q": "What is the meaning of the idiom 'Once in a blue moon'?",
    "o": [
     "Deceive",
@@ -13680,7 +13980,7 @@
    "e": "'Once in a blue moon' means Very rarely."
   },
   {
-   "id": "english-00912",
+   "id": "english-00932",
    "q": "Choose the one word substitute for: A place where bees are kept",
    "o": [
     "Pandemic",
@@ -13695,7 +13995,7 @@
    "e": "A place where bees are kept — Apiary."
   },
   {
-   "id": "english-00913",
+   "id": "english-00933",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Existence",
@@ -13710,7 +14010,7 @@
    "e": "The correct spelling is Publicly."
   },
   {
-   "id": "english-00914",
+   "id": "english-00934",
    "q": "Which of the following is the plural form of Man?",
    "o": [
     "Aircraft",
@@ -13725,7 +14025,7 @@
    "e": "The plural of Man is Men."
   },
   {
-   "id": "english-00915",
+   "id": "english-00935",
    "q": "The masculine form of Bride is which of the following?",
    "o": [
     "Bridegroom",
@@ -13740,7 +14040,7 @@
    "e": "Bride is the feminine of Bridegroom."
   },
   {
-   "id": "english-00916",
+   "id": "english-00936",
    "q": "What is the superlative degree of Good?",
    "o": [
     "Brightest",
@@ -13755,7 +14055,7 @@
    "e": "Good — Better — Best."
   },
   {
-   "id": "english-00917",
+   "id": "english-00937",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "I have no appetite ____ food. - to",
@@ -13770,7 +14070,7 @@
    "e": "Only I have no appetite ____ food. - for is correctly matched."
   },
   {
-   "id": "english-00918",
+   "id": "english-00938",
    "q": "Choose the word most similar in meaning to Extravagant.",
    "o": [
     "Wasteful",
@@ -13785,7 +14085,7 @@
    "e": "Extravagant means Wasteful."
   },
   {
-   "id": "english-00919",
+   "id": "english-00939",
    "q": "Choose the word most opposite in meaning to Ominous.",
    "o": [
     "Safe",
@@ -13800,7 +14100,7 @@
    "e": "The opposite of Ominous is Favourable."
   },
   {
-   "id": "english-00920",
+   "id": "english-00940",
    "q": "What is the meaning of the idiom 'Castles in the air'?",
    "o": [
     "To enrich oneself",
@@ -13815,7 +14115,7 @@
    "e": "'Castles in the air' means Daydreams."
   },
   {
-   "id": "english-00921",
+   "id": "english-00941",
    "q": "Choose the one word substitute for: Animals that eat only plants",
    "o": [
     "Oligarchy",
@@ -13830,7 +14130,7 @@
    "e": "Animals that eat only plants — Herbivores."
   },
   {
-   "id": "english-00922",
+   "id": "english-00942",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Attendance",
@@ -13845,7 +14145,7 @@
    "e": "The correct spelling is Villain."
   },
   {
-   "id": "english-00923",
+   "id": "english-00943",
    "q": "Which of the following is the plural form of Radio?",
    "o": [
     "Calves",
@@ -13860,7 +14160,7 @@
    "e": "The plural of Radio is Radios."
   },
   {
-   "id": "english-00924",
+   "id": "english-00944",
    "q": "The masculine form of Niece is which of the following?",
    "o": [
     "Prince",
@@ -13875,7 +14175,7 @@
    "e": "Niece is the feminine of Nephew."
   },
   {
-   "id": "english-00925",
+   "id": "english-00945",
    "q": "What is the superlative degree of Wide?",
    "o": [
     "Widest",
@@ -13890,7 +14190,7 @@
    "e": "Wide — Wider — Widest."
   },
   {
-   "id": "english-00926",
+   "id": "english-00946",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "I have no appetite ____ food. - of",
@@ -13905,7 +14205,7 @@
    "e": "Only I have no appetite ____ food. - for is correctly matched."
   },
   {
-   "id": "english-00927",
+   "id": "english-00947",
    "q": "Choose the word most similar in meaning to Condemn.",
    "o": [
     "Inborn",
@@ -13920,7 +14220,7 @@
    "e": "Condemn means Denounce."
   },
   {
-   "id": "english-00928",
+   "id": "english-00948",
    "q": "Choose the word most opposite in meaning to Destitute.",
    "o": [
     "Intensify",
@@ -13935,7 +14235,7 @@
    "e": "The opposite of Destitute is Wealthy."
   },
   {
-   "id": "english-00929",
+   "id": "english-00949",
    "q": "What is the meaning of the idiom 'Move heaven and earth'?",
    "o": [
     "Understand the hidden meaning",
@@ -13950,7 +14250,7 @@
    "e": "'Move heaven and earth' means Make every effort."
   },
   {
-   "id": "english-00930",
+   "id": "english-00950",
    "q": "Choose the one word substitute for: A person who writes books",
    "o": [
     "Goldsmith",
@@ -13965,7 +14265,7 @@
    "e": "A person who writes books — Author."
   },
   {
-   "id": "english-00931",
+   "id": "english-00951",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Forty",
@@ -13980,7 +14280,7 @@
    "e": "The correct spelling is Separate."
   },
   {
-   "id": "english-00932",
+   "id": "english-00952",
    "q": "Which of the following is the plural form of Axis?",
    "o": [
     "Studios",
@@ -13995,7 +14295,7 @@
    "e": "The plural of Axis is Axes."
   },
   {
-   "id": "english-00933",
+   "id": "english-00953",
    "q": "The masculine form of Duck is which of the following?",
    "o": [
     "Drake",
@@ -14010,7 +14310,7 @@
    "e": "Duck is the feminine of Drake."
   },
   {
-   "id": "english-00934",
+   "id": "english-00954",
    "q": "What is the superlative degree of Slow?",
    "o": [
     "Widest",
@@ -14025,7 +14325,7 @@
    "e": "Slow — Slower — Slowest."
   },
   {
-   "id": "english-00935",
+   "id": "english-00955",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "I am confident ____ success. - since",
@@ -14040,7 +14340,7 @@
    "e": "Only I am confident ____ success. - of is correctly matched."
   },
   {
-   "id": "english-00936",
+   "id": "english-00956",
    "q": "Choose the word most similar in meaning to Inexorable.",
    "o": [
     "Abundant",
@@ -14055,7 +14355,7 @@
    "e": "Inexorable means Relentless."
   },
   {
-   "id": "english-00937",
+   "id": "english-00957",
    "q": "Choose the word most opposite in meaning to Detrimental.",
    "o": [
     "Solution",
@@ -14070,7 +14370,7 @@
    "e": "The opposite of Detrimental is Beneficial."
   },
   {
-   "id": "english-00938",
+   "id": "english-00958",
    "q": "What is the meaning of the idiom 'A bolt from the blue'?",
    "o": [
     "With great success",
@@ -14085,7 +14385,7 @@
    "e": "'A bolt from the blue' means An unexpected event."
   },
   {
-   "id": "english-00939",
+   "id": "english-00959",
    "q": "Choose the one word substitute for: A disease that spreads over a large area",
    "o": [
     "Vegan",
@@ -14100,7 +14400,7 @@
    "e": "A disease that spreads over a large area — Epidemic."
   },
   {
-   "id": "english-00940",
+   "id": "english-00960",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Tendency",
@@ -14115,7 +14415,7 @@
    "e": "The correct spelling is Dependent."
   },
   {
-   "id": "english-00941",
+   "id": "english-00961",
    "q": "Which of the following is the plural form of Court Martial?",
    "o": [
     "Courts Martial",
@@ -14130,7 +14430,7 @@
    "e": "The plural of Court Martial is Courts Martial."
   },
   {
-   "id": "english-00942",
+   "id": "english-00962",
    "q": "The masculine form of Princess is which of the following?",
    "o": [
     "Grandfather",
@@ -14145,7 +14445,7 @@
    "e": "Princess is the feminine of Prince."
   },
   {
-   "id": "english-00943",
+   "id": "english-00963",
    "q": "What is the superlative degree of Brave?",
    "o": [
     "Best",
@@ -14160,7 +14460,7 @@
    "e": "Brave — Braver — Bravest."
   },
   {
-   "id": "english-00944",
+   "id": "english-00964",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "I am confident ____ success. - of",
@@ -14175,7 +14475,7 @@
    "e": "Only I am confident ____ success. - of is correctly matched."
   },
   {
-   "id": "english-00945",
+   "id": "english-00965",
    "q": "Choose the word most similar in meaning to Loquacious.",
    "o": [
     "Talkative",
@@ -14190,7 +14490,7 @@
    "e": "Loquacious means Talkative."
   },
   {
-   "id": "english-00946",
+   "id": "english-00966",
    "q": "Choose the word most opposite in meaning to Conceal.",
    "o": [
     "Reputable",
@@ -14205,7 +14505,7 @@
    "e": "The opposite of Conceal is Reveal."
   },
   {
-   "id": "english-00947",
+   "id": "english-00967",
    "q": "What is the meaning of the idiom 'Man of straw'?",
    "o": [
     "Lose self-control",
@@ -14220,7 +14520,7 @@
    "e": "'Man of straw' means A person without influence."
   },
   {
-   "id": "english-00948",
+   "id": "english-00968",
    "q": "Choose the one word substitute for: A person who writes about his own life",
    "o": [
     "Omnipresent",
@@ -14235,7 +14535,7 @@
    "e": "A person who writes about his own life — Autobiographer."
   },
   {
-   "id": "english-00949",
+   "id": "english-00969",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Changeable",
@@ -14250,7 +14550,7 @@
    "e": "The correct spelling is Particularly."
   },
   {
-   "id": "english-00950",
+   "id": "english-00970",
    "q": "Which of the following is the plural form of Studio?",
    "o": [
     "Studios",
@@ -14265,7 +14565,7 @@
    "e": "The plural of Studio is Studios."
   },
   {
-   "id": "english-00951",
+   "id": "english-00971",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Prince - Princess",
@@ -14280,7 +14580,7 @@
    "e": "Only Prince - Princess is correctly matched."
   },
   {
-   "id": "english-00952",
+   "id": "english-00972",
    "q": "What is the superlative degree of Dark?",
    "o": [
     "Darkest",
@@ -14295,7 +14595,7 @@
    "e": "Dark — Darker — Darkest."
   },
   {
-   "id": "english-00953",
+   "id": "english-00973",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "He is good ____ mathematics. - in",
@@ -14310,7 +14610,7 @@
    "e": "Only He is good ____ mathematics. - at is correctly matched."
   },
   {
-   "id": "english-00954",
+   "id": "english-00974",
    "q": "Choose the word most similar in meaning to Penitent.",
    "o": [
     "Deadlock",
@@ -14325,7 +14625,7 @@
    "e": "Penitent means Remorseful."
   },
   {
-   "id": "english-00955",
+   "id": "english-00975",
    "q": "Choose the word most opposite in meaning to Reticent.",
    "o": [
     "Meagre",
@@ -14340,7 +14640,7 @@
    "e": "The opposite of Reticent is Talkative."
   },
   {
-   "id": "english-00956",
+   "id": "english-00976",
    "q": "What is the meaning of the idiom 'Fight shy of'?",
    "o": [
     "Full details",
@@ -14355,7 +14655,7 @@
    "e": "'Fight shy of' means Avoid."
   },
   {
-   "id": "english-00957",
+   "id": "english-00977",
    "q": "Choose the one word substitute for: A strong dislike for foreigners",
    "o": [
     "Xenophobia",
@@ -14370,7 +14670,7 @@
    "e": "A strong dislike for foreigners — Xenophobia."
   },
   {
-   "id": "english-00958",
+   "id": "english-00978",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Fascinate",
@@ -14385,7 +14685,7 @@
    "e": "The correct spelling is Fascinate."
   },
   {
-   "id": "english-00959",
+   "id": "english-00979",
    "q": "Which of the following is the plural form of Species?",
    "o": [
     "Alumni",
@@ -14400,7 +14700,7 @@
    "e": "The plural of Species is Species."
   },
   {
-   "id": "english-00960",
+   "id": "english-00980",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Prince - Princess",
@@ -14415,7 +14715,7 @@
    "e": "Only Prince - Princess is correctly matched."
   },
   {
-   "id": "english-00961",
+   "id": "english-00981",
    "q": "What is the superlative degree of Safe?",
    "o": [
     "Busiest",
@@ -14430,7 +14730,7 @@
    "e": "Safe — Safer — Safest."
   },
   {
-   "id": "english-00962",
+   "id": "english-00982",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "He is good ____ mathematics. - on",
@@ -14445,7 +14745,7 @@
    "e": "Only He is good ____ mathematics. - at is correctly matched."
   },
   {
-   "id": "english-00963",
+   "id": "english-00983",
    "q": "Choose the word most similar in meaning to Quandary.",
    "o": [
     "Dilemma",
@@ -14460,7 +14760,7 @@
    "e": "Quandary means Dilemma."
   },
   {
-   "id": "english-00964",
+   "id": "english-00984",
    "q": "Choose the word most opposite in meaning to Frugal.",
    "o": [
     "Polite",
@@ -14475,7 +14775,7 @@
    "e": "The opposite of Frugal is Extravagant."
   },
   {
-   "id": "english-00965",
+   "id": "english-00985",
    "q": "What is the meaning of the idiom 'On cloud nine'?",
    "o": [
     "Extremely happy",
@@ -14490,7 +14790,7 @@
    "e": "'On cloud nine' means Extremely happy."
   },
   {
-   "id": "english-00966",
+   "id": "english-00986",
    "q": "Choose the one word substitute for: The practice of having many wives",
    "o": [
     "Extempore",
@@ -14505,7 +14805,7 @@
    "e": "The practice of having many wives — Polygamy."
   },
   {
-   "id": "english-00967",
+   "id": "english-00987",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Sincerely",
@@ -14520,7 +14820,7 @@
    "e": "The correct spelling is Colleague."
   },
   {
-   "id": "english-00968",
+   "id": "english-00988",
    "q": "Which of the following is the plural form of Mosquito?",
    "o": [
     "Armies",
@@ -14535,7 +14835,7 @@
    "e": "The plural of Mosquito is Mosquitoes."
   },
   {
-   "id": "english-00969",
+   "id": "english-00989",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Steward - Stewardess",
@@ -14550,7 +14850,7 @@
    "e": "Only Steward - Stewardess is correctly matched."
   },
   {
-   "id": "english-00970",
+   "id": "english-00990",
    "q": "What is the superlative degree of Shallow?",
    "o": [
     "Best",
@@ -14565,7 +14865,7 @@
    "e": "Shallow — Shallower — Shallowest."
   },
   {
-   "id": "english-00971",
+   "id": "english-00991",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "He is known ____ everybody here. - of",
@@ -14580,7 +14880,7 @@
    "e": "Only He is known ____ everybody here. - to is correctly matched."
   },
   {
-   "id": "english-00972",
+   "id": "english-00992",
    "q": "Choose the word most similar in meaning to Preposterous.",
    "o": [
     "Absurd",
@@ -14595,7 +14895,7 @@
    "e": "Preposterous means Absurd."
   },
   {
-   "id": "english-00973",
+   "id": "english-00993",
    "q": "Choose the word most opposite in meaning to Conspicuous.",
    "o": [
     "Extend",
@@ -14610,7 +14910,7 @@
    "e": "The opposite of Conspicuous is Inconspicuous."
   },
   {
-   "id": "english-00974",
+   "id": "english-00994",
    "q": "What is the meaning of the idiom 'An open book'?",
    "o": [
     "Something easily understood",
@@ -14625,7 +14925,7 @@
    "e": "'An open book' means Something easily understood."
   },
   {
-   "id": "english-00975",
+   "id": "english-00995",
    "q": "Choose the one word substitute for: A person who cuts hair",
    "o": [
     "Inimitable",
@@ -14640,7 +14940,7 @@
    "e": "A person who cuts hair — Barber."
   },
   {
-   "id": "english-00976",
+   "id": "english-00996",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Until",
@@ -14655,7 +14955,7 @@
    "e": "The correct spelling is Until."
   },
   {
-   "id": "english-00977",
+   "id": "english-00997",
    "q": "Which of the following is the plural form of Potato?",
    "o": [
     "Analyses",
@@ -14670,7 +14970,7 @@
    "e": "The plural of Potato is Potatoes."
   },
   {
-   "id": "english-00978",
+   "id": "english-00998",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Steward - Stewardess",
@@ -14685,7 +14985,7 @@
    "e": "Only Steward - Stewardess is correctly matched."
   },
   {
-   "id": "english-00979",
+   "id": "english-00999",
    "q": "What is the superlative degree of Small?",
    "o": [
     "Smallest",
@@ -14700,7 +15000,7 @@
    "e": "Small — Smaller — Smallest."
   },
   {
-   "id": "english-00980",
+   "id": "english-01000",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "He is known ____ everybody here. - of",
@@ -14713,306 +15013,6 @@
    "l": 3,
    "s": "generated",
    "e": "Only He is known ____ everybody here. - to is correctly matched."
-  },
-  {
-   "id": "english-00981",
-   "q": "Choose the word most similar in meaning to Feasible.",
-   "o": [
-    "Possible",
-    "Mysterious",
-    "Hostility",
-    "Quarrelsome"
-   ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Feasible means Possible."
-  },
-  {
-   "id": "english-00982",
-   "q": "Choose the word most opposite in meaning to Peril.",
-   "o": [
-    "Concise",
-    "Convict",
-    "Interesting",
-    "Safety"
-   ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Peril is Safety."
-  },
-  {
-   "id": "english-00983",
-   "q": "What is the meaning of the idiom 'Hand in glove'?",
-   "o": [
-    "Rain heavily",
-    "In close partnership",
-    "Face the main impact",
-    "Avoid"
-   ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Hand in glove' means In close partnership."
-  },
-  {
-   "id": "english-00984",
-   "q": "Choose the one word substitute for: An imaginary place where everything is bad",
-   "o": [
-    "Disinfectant",
-    "Dystopia",
-    "Analgesic",
-    "Scapegoat"
-   ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "An imaginary place where everything is bad — Dystopia."
-  },
-  {
-   "id": "english-00985",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
-    "Harass",
-    "Pronunciation",
-    "Acquiesce",
-    "Bicycle"
-   ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Acquiesce."
-  },
-  {
-   "id": "english-00986",
-   "q": "Which of the following is the plural form of Salmon?",
-   "o": [
-    "Stories",
-    "Salmon",
-    "Studios",
-    "Media"
-   ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 2,
-   "s": "generated",
-   "e": "The plural of Salmon is Salmon."
-  },
-  {
-   "id": "english-00987",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
-    "Father - Empress",
-    "Father - Authoress",
-    "Father - Nun",
-    "Father - Mother"
-   ],
-   "a": 3,
-   "t": "Genders",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Father - Mother is correctly matched."
-  },
-  {
-   "id": "english-00988",
-   "q": "Fill in the blank correctly: Tall, ____, Tallest",
-   "o": [
-    "Fatter",
-    "Taller",
-    "More",
-    "Weaker"
-   ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct sequence is Tall, Taller, Tallest."
-  },
-  {
-   "id": "english-00989",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
-    "She is aware ____ the problem. - with",
-    "She is aware ____ the problem. - from",
-    "She is aware ____ the problem. - on",
-    "She is aware ____ the problem. - of"
-   ],
-   "a": 3,
-   "t": "Prepositions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only She is aware ____ the problem. - of is correctly matched."
-  },
-  {
-   "id": "english-00990",
-   "q": "Choose the word most similar in meaning to Ecstasy.",
-   "o": [
-    "Concise",
-    "Joy",
-    "Secret",
-    "Thorough"
-   ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Ecstasy means Joy."
-  },
-  {
-   "id": "english-00991",
-   "q": "Choose the word most opposite in meaning to Despondent.",
-   "o": [
-    "Alert",
-    "Dull",
-    "Hopeful",
-    "Depressed"
-   ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Despondent is Hopeful."
-  },
-  {
-   "id": "english-00992",
-   "q": "What is the meaning of the idiom 'Play second fiddle'?",
-   "o": [
-    "Take a subordinate role",
-    "A futile search",
-    "Unacceptable",
-    "To face danger boldly"
-   ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Play second fiddle' means Take a subordinate role."
-  },
-  {
-   "id": "english-00993",
-   "q": "Choose the one word substitute for: Government by the wealthy",
-   "o": [
-    "Biographer",
-    "Armoury",
-    "Plutocracy",
-    "Teetotaller"
-   ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "Government by the wealthy — Plutocracy."
-  },
-  {
-   "id": "english-00994",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
-    "Courageous",
-    "Hygiene",
-    "Emperor",
-    "Whether"
-   ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Courageous."
-  },
-  {
-   "id": "english-00995",
-   "q": "Which of the following is the plural form of Basis?",
-   "o": [
-    "Alumni",
-    "Boxes",
-    "Sons-in-law",
-    "Bases"
-   ],
-   "a": 3,
-   "t": "Plurals",
-   "l": 2,
-   "s": "generated",
-   "e": "The plural of Basis is Bases."
-  },
-  {
-   "id": "english-00996",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
-    "Father - Heroine",
-    "Father - Priestess",
-    "Father - Stepmother",
-    "Father - Mother"
-   ],
-   "a": 3,
-   "t": "Genders",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Father - Mother is correctly matched."
-  },
-  {
-   "id": "english-00997",
-   "q": "Fill in the blank correctly: Difficult, ____, Most difficult",
-   "o": [
-    "More difficult",
-    "Deeper",
-    "Shallower",
-    "Hotter"
-   ],
-   "a": 0,
-   "t": "Degrees of Comparison",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct sequence is Difficult, More difficult, Most difficult."
-  },
-  {
-   "id": "english-00998",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
-    "She is aware ____ the problem. - with",
-    "She is aware ____ the problem. - of",
-    "She is aware ____ the problem. - from",
-    "She is aware ____ the problem. - to"
-   ],
-   "a": 1,
-   "t": "Prepositions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only She is aware ____ the problem. - of is correctly matched."
-  },
-  {
-   "id": "english-00999",
-   "q": "Choose the word most similar in meaning to Prevalent.",
-   "o": [
-    "Unharmed",
-    "Widespread",
-    "Mourn",
-    "Boring"
-   ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Prevalent means Widespread."
-  },
-  {
-   "id": "english-01000",
-   "q": "Choose the word most opposite in meaning to Appease.",
-   "o": [
-    "Significant",
-    "Safety",
-    "Scanty",
-    "Provoke"
-   ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Appease is Provoke."
   }
  ]
 };

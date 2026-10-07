@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-07T05:00:26.080Z",
-  "totalQuestions": 32907,
+  "generatedAt": "2026-10-07T05:02:14.758Z",
+  "totalQuestions": 32927,
   "categoriesAt1000Plus": [
     "gk-misc",
     "general-knowledge",
@@ -48,7 +48,7 @@
     {
       "slug": "indian-polity",
       "name": "Indian Polity",
-      "count": 704,
+      "count": 724,
       "target": 1000
     },
     {
@@ -220,7 +220,7 @@
     {
       "name": "question ids are unique",
       "pass": true,
-      "detail": "32907 unique ids for 32907 questions"
+      "detail": "32927 unique ids for 32927 questions"
     },
     {
       "name": "class selection covers 1-12 and Graduation",
@@ -240,7 +240,7 @@
     {
       "name": "[spec] total questions reach 25,000",
       "pass": true,
-      "detail": "32907 questions built"
+      "detail": "32927 questions built"
     },
     {
       "name": "[spec] GK Misc reaches 17,000",

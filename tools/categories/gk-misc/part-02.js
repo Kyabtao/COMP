@@ -20,6 +20,321 @@
  "questions": [
   {
    "id": "gk-misc-p02-0001",
+   "q": "Which of the following is an effect or source of Noise above 85 decibels?",
+   "o": [
+    "Damage marine life and coastlines",
+    "Causes eutrophication of water bodies",
+    "Causes genetic damage and cancer",
+    "Causes hearing loss"
+   ],
+   "a": 3,
+   "t": "Pollutants and Effects",
+   "l": 3,
+   "s": "generated",
+   "e": "Noise above 85 decibels — Causes hearing loss."
+  },
+  {
+   "id": "gk-misc-p02-0002",
+   "q": "Chilika Lake is located in which state?",
+   "o": [
+    "Madhya Pradesh",
+    "Rajasthan",
+    "Manipur",
+    "Odisha"
+   ],
+   "a": 3,
+   "t": "Biosphere Reserves and Wetlands",
+   "l": 3,
+   "s": "generated",
+   "e": "Chilika Lake is in Odisha."
+  },
+  {
+   "id": "gk-misc-p02-0003",
+   "q": "Project Elephant is associated with which purpose?",
+   "o": [
+    "Prevention of water pollution",
+    "Conservation of elephants",
+    "Umbrella law for environmental protection",
+    "Protection of wild animals and plants"
+   ],
+   "a": 1,
+   "t": "Environmental Laws and Schemes",
+   "l": 3,
+   "s": "generated",
+   "e": "Project Elephant — Conservation of elephants."
+  },
+  {
+   "id": "gk-misc-p02-0004",
+   "q": "What is the capital of Cuba?",
+   "o": [
+    "Bucharest",
+    "Lima",
+    "Havana",
+    "Tehran"
+   ],
+   "a": 2,
+   "t": "Countries, Capitals and Currencies",
+   "l": 1,
+   "s": "generated",
+   "e": "The capital of Cuba is Havana."
+  },
+  {
+   "id": "gk-misc-p02-0005",
+   "q": "Which element has the chemical symbol Yb?",
+   "o": [
+    "Rutherfordium",
+    "Ytterbium",
+    "Iodine",
+    "Samarium"
+   ],
+   "a": 1,
+   "t": "Periodic Table",
+   "l": 1,
+   "s": "generated",
+   "e": "Yb is the symbol of Ytterbium."
+  },
+  {
+   "id": "gk-misc-p02-0006",
+   "q": "What is the capital of Punjab?",
+   "o": [
+    "Bengaluru",
+    "Chandigarh",
+    "Lucknow",
+    "Shimla"
+   ],
+   "a": 1,
+   "t": "States and Capitals",
+   "l": 1,
+   "s": "generated",
+   "e": "The capital of Punjab is Chandigarh."
+  },
+  {
+   "id": "gk-misc-p02-0007",
+   "q": "Ganga holds which of the following positions in India?",
+   "o": [
+    "National Fruit",
+    "National River",
+    "National Emblem",
+    "National Reptile"
+   ],
+   "a": 1,
+   "t": "National Symbols",
+   "l": 2,
+   "s": "generated",
+   "e": "Ganga is the National River of India."
+  },
+  {
+   "id": "gk-misc-p02-0008",
+   "q": "First woman to win a Nobel Prize in India is associated with which of the following?",
+   "o": [
+    "Sucheta Kripalani",
+    "Dr. S. Radhakrishnan",
+    "Mother Teresa",
+    "Lord Mountbatten"
+   ],
+   "a": 2,
+   "t": "First in India",
+   "l": 2,
+   "s": "generated",
+   "e": "First woman to win a Nobel Prize in India — Mother Teresa."
+  },
+  {
+   "id": "gk-misc-p02-0009",
+   "q": "Sambalpuri is a folk or classical dance form of which state?",
+   "o": [
+    "Odisha",
+    "Meghalaya",
+    "Karnataka",
+    "Manipur"
+   ],
+   "a": 0,
+   "t": "Folk Dances of India",
+   "l": 2,
+   "s": "generated",
+   "e": "Sambalpuri belongs to Odisha."
+  },
+  {
+   "id": "gk-misc-p02-0010",
+   "q": "Desert Festival is a major festival of which state?",
+   "o": [
+    "Rajasthan",
+    "Arunachal Pradesh",
+    "Nagaland",
+    "Kerala"
+   ],
+   "a": 0,
+   "t": "Festivals of India",
+   "l": 2,
+   "s": "generated",
+   "e": "Desert Festival is celebrated mainly in Rajasthan."
+  },
+  {
+   "id": "gk-misc-p02-0011",
+   "q": "The river Krishna originates from which of the following?",
+   "o": [
+    "Janapav Hill",
+    "Angsi Glacier",
+    "Mahabaleshwar",
+    "Beas Kund"
+   ],
+   "a": 2,
+   "t": "Rivers of India",
+   "l": 3,
+   "s": "generated",
+   "e": "Krishna originates from Mahabaleshwar."
+  },
+  {
+   "id": "gk-misc-p02-0012",
+   "q": "Polavaram Dam is built on which river?",
+   "o": [
+    "Koyna",
+    "Bhagirathi",
+    "Godavari",
+    "Narmada"
+   ],
+   "a": 2,
+   "t": "Dams of India",
+   "l": 2,
+   "s": "generated",
+   "e": "Polavaram Dam is built on the Godavari."
+  },
+  {
+   "id": "gk-misc-p02-0013",
+   "q": "Guru Ghasidas National Park is located in which state?",
+   "o": [
+    "Jammu and Kashmir",
+    "Rajasthan",
+    "Odisha",
+    "Chhattisgarh"
+   ],
+   "a": 3,
+   "t": "National Parks and Tiger Reserves",
+   "l": 2,
+   "s": "generated",
+   "e": "Guru Ghasidas National Park is located in Chhattisgarh."
+  },
+  {
+   "id": "gk-misc-p02-0014",
+   "q": "Banihal Pass pass is located in which state or union territory?",
+   "o": [
+    "Jammu and Kashmir",
+    "Ladakh",
+    "Uttarakhand",
+    "Arunachal Pradesh"
+   ],
+   "a": 0,
+   "t": "Mountain Passes of India",
+   "l": 3,
+   "s": "generated",
+   "e": "Banihal Pass is located in Jammu and Kashmir."
+  },
+  {
+   "id": "gk-misc-p02-0015",
+   "q": "What is the SI unit of Luminous intensity?",
+   "o": [
+    "Henry",
+    "Second",
+    "Candela",
+    "Hertz"
+   ],
+   "a": 2,
+   "t": "SI Units",
+   "l": 1,
+   "s": "generated",
+   "e": "The SI unit of Luminous intensity is the Candela."
+  },
+  {
+   "id": "gk-misc-p02-0016",
+   "q": "Which instrument is used to measure Viscosity of liquids?",
+   "o": [
+    "Kymograph",
+    "Anemometer",
+    "Viscometer",
+    "Speedometer"
+   ],
+   "a": 2,
+   "t": "Scientific Instruments",
+   "l": 2,
+   "s": "generated",
+   "e": "Viscometer is used to measure Viscosity of liquids."
+  },
+  {
+   "id": "gk-misc-p02-0017",
+   "q": "What is the main function of the White blood cells in the human body?",
+   "o": [
+    "Digestion of food",
+    "Largest artery",
+    "Filtration of blood and urine formation",
+    "Body immunity"
+   ],
+   "a": 3,
+   "t": "Human Body",
+   "l": 2,
+   "s": "generated",
+   "e": "The White blood cells is responsible for Body immunity."
+  },
+  {
+   "id": "gk-misc-p02-0018",
+   "q": "Deficiency of which nutrient causes Paresthesia?",
+   "o": [
+    "Vitamin B5",
+    "Calcium",
+    "Vitamin B12",
+    "Phosphorus"
+   ],
+   "a": 0,
+   "t": "Vitamins and Deficiencies",
+   "l": 2,
+   "s": "generated",
+   "e": "Deficiency of Vitamin B5 causes Paresthesia."
+  },
+  {
+   "id": "gk-misc-p02-0019",
+   "q": "Which of the following causes Ringworm?",
+   "o": [
+    "Mycobacterium tuberculosis bacteria",
+    "Trypanosoma brucei",
+    "Salmonella typhi bacteria",
+    "Fungi"
+   ],
+   "a": 3,
+   "t": "Diseases and Causative Agents",
+   "l": 2,
+   "s": "generated",
+   "e": "Ringworm is caused by Fungi."
+  },
+  {
+   "id": "gk-misc-p02-0020",
+   "q": "Who is credited with Television?",
+   "o": [
+    "Joseph Lister",
+    "Tim Berners-Lee",
+    "J. J. Thomson",
+    "John Logie Baird"
+   ],
+   "a": 3,
+   "t": "Inventions and Discoveries",
+   "l": 2,
+   "s": "generated",
+   "e": "Television — John Logie Baird."
+  },
+  {
+   "id": "gk-misc-p02-0021",
+   "q": "What is the chemical name of Oil of vitriol?",
+   "o": [
+    "Aqueous formaldehyde (HCHO)",
+    "Calcium hydroxide (Ca(OH)2)",
+    "Sulphuric acid (H2SO4)",
+    "Magnesium sulphate (MgSO4.7H2O)"
+   ],
+   "a": 2,
+   "t": "Chemical Names",
+   "l": 2,
+   "s": "generated",
+   "e": "Oil of vitriol is Sulphuric acid (H2SO4)."
+  },
+  {
+   "id": "gk-misc-p02-0022",
    "q": "Which branch of science deals with Plants?",
    "o": [
     "Thermodynamics",
@@ -34,7 +349,7 @@
    "e": "Botany deals with Plants."
   },
   {
-   "id": "gk-misc-p02-0002",
+   "id": "gk-misc-p02-0023",
    "q": "Which planet or body is described as: Moon?",
    "o": [
     "Nebula",
@@ -49,7 +364,7 @@
    "e": "Moon — Moon."
   },
   {
-   "id": "gk-misc-p02-0003",
+   "id": "gk-misc-p02-0024",
    "q": "Nicolaus Copernicus is known for which of the following?",
    "o": [
     "Ionisation theory of stars",
@@ -64,7 +379,7 @@
    "e": "Nicolaus Copernicus is known for Heliocentric model of the Solar System."
   },
   {
-   "id": "gk-misc-p02-0004",
+   "id": "gk-misc-p02-0025",
    "q": "In which year did the following event take place: Kargil War?",
    "o": [
     "1999",
@@ -79,7 +394,7 @@
    "e": "Kargil War — 1999."
   },
   {
-   "id": "gk-misc-p02-0005",
+   "id": "gk-misc-p02-0026",
    "q": "In which year did the following event take place: First powered flight by the Wright brothers?",
    "o": [
     "1600",
@@ -94,7 +409,7 @@
    "e": "First powered flight by the Wright brothers — 1903."
   },
   {
-   "id": "gk-misc-p02-0006",
+   "id": "gk-misc-p02-0027",
    "q": "Who founded the Chalukya Dynasty?",
    "o": [
     "Qutb-ud-din Aibak",
@@ -109,7 +424,7 @@
    "e": "The Chalukya Dynasty was founded by Pulakeshin I."
   },
   {
-   "id": "gk-misc-p02-0007",
+   "id": "gk-misc-p02-0028",
    "q": "Which of the following is true about Rajaraja Chola I?",
    "o": [
     "Introduced the Grand Trunk Road and the Rupiya",
@@ -124,7 +439,7 @@
    "e": "Rajaraja Chola I: Built the Brihadeeswarar Temple at Thanjavur."
   },
   {
-   "id": "gk-misc-p02-0008",
+   "id": "gk-misc-p02-0029",
    "q": "Jawaharlal Nehru is known by which of the following titles or descriptions?",
    "o": [
     "Founder of the Home Rule League with Tilak",
@@ -139,7 +454,7 @@
    "e": "Jawaharlal Nehru — First Prime Minister of India."
   },
   {
-   "id": "gk-misc-p02-0009",
+   "id": "gk-misc-p02-0030",
    "q": "Which movement or act is described as: Declared Purna Swaraj under Nehru's presidency?",
    "o": [
     "Cabinet Mission",
@@ -154,7 +469,7 @@
    "e": "Lahore Session of the INC — Declared Purna Swaraj under Nehru's presidency."
   },
   {
-   "id": "gk-misc-p02-0010",
+   "id": "gk-misc-p02-0031",
    "q": "Which part of the Constitution deals with: Right to Equality?",
    "o": [
     "Articles 14-18",
@@ -169,7 +484,7 @@
    "e": "Right to Equality is covered under Articles 14-18."
   },
   {
-   "id": "gk-misc-p02-0011",
+   "id": "gk-misc-p02-0032",
    "q": "Which amendment is described as: Reduced the voting age from 21 to 18 years?",
    "o": [
     "52nd Amendment",
@@ -184,7 +499,7 @@
    "e": "61st Amendment — Reduced the voting age from 21 to 18 years."
   },
   {
-   "id": "gk-misc-p02-0012",
+   "id": "gk-misc-p02-0033",
    "q": "Source of the emergency provisions?",
    "o": [
     "12",
@@ -199,7 +514,7 @@
    "e": "Source of the emergency provisions — Germany."
   },
   {
-   "id": "gk-misc-p02-0013",
+   "id": "gk-misc-p02-0034",
    "q": "Election Commission of India is best described as which of the following?",
    "o": [
     "Local self-government at the village level",
@@ -214,7 +529,7 @@
    "e": "Election Commission of India — Supervises elections to Parliament and State legislatures."
   },
   {
-   "id": "gk-misc-p02-0014",
+   "id": "gk-misc-p02-0035",
    "q": "On which date is World Computer Literacy Day observed?",
    "o": [
     "27 September",
@@ -229,7 +544,7 @@
    "e": "World Computer Literacy Day is observed on 2 December."
   },
   {
-   "id": "gk-misc-p02-0015",
+   "id": "gk-misc-p02-0036",
    "q": "Where is the headquarters of World Economic Forum?",
    "o": [
     "Bengaluru",
@@ -244,7 +559,7 @@
    "e": "World Economic Forum is headquartered at Cologny."
   },
   {
-   "id": "gk-misc-p02-0016",
+   "id": "gk-misc-p02-0037",
    "q": "How many players are there in a Kho Kho team?",
    "o": [
     "5",
@@ -259,7 +574,7 @@
    "e": "A Kho Kho team has 9 players."
   },
   {
-   "id": "gk-misc-p02-0017",
+   "id": "gk-misc-p02-0038",
    "q": "Syed Mushtaq Ali Trophy is associated with which sport?",
    "o": [
     "Badminton",
@@ -274,7 +589,7 @@
    "e": "Syed Mushtaq Ali Trophy is associated with Cricket."
   },
   {
-   "id": "gk-misc-p02-0018",
+   "id": "gk-misc-p02-0039",
    "q": "Pulitzer Prize is associated with which of the following?",
    "o": [
     "Second highest peacetime gallantry award of India",
@@ -289,7 +604,7 @@
    "e": "Pulitzer Prize — American award for journalism and letters."
   },
   {
-   "id": "gk-misc-p02-0019",
+   "id": "gk-misc-p02-0040",
    "q": "Who is the author of The Origin of Species by Means of Natural Selection?",
    "o": [
     "Charles Darwin",
@@ -304,7 +619,7 @@
    "e": "The Origin of Species by Means of Natural Selection is written by Charles Darwin."
   },
   {
-   "id": "gk-misc-p02-0020",
+   "id": "gk-misc-p02-0041",
    "q": "First modern Olympic Games were held in is associated with which of the following?",
    "o": [
     "Trygve Lie",
@@ -319,7 +634,7 @@
    "e": "First modern Olympic Games were held in — Athens."
   },
   {
-   "id": "gk-misc-p02-0021",
+   "id": "gk-misc-p02-0042",
    "q": "Which is the smallest continent by area?",
    "o": [
     "Bengaluru",
@@ -334,7 +649,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "gk-misc-p02-0022",
+   "id": "gk-misc-p02-0043",
    "q": "Which lake is the highest navigable lake in the world?",
    "o": [
     "Tunga",
@@ -349,7 +664,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "gk-misc-p02-0023",
+   "id": "gk-misc-p02-0044",
    "q": "What is the calm centre of a cyclone called?",
    "o": [
     "Eye",
@@ -364,7 +679,7 @@
    "e": "What is the calm centre of a cyclone called — Eye."
   },
   {
-   "id": "gk-misc-p02-0024",
+   "id": "gk-misc-p02-0045",
    "q": "Which of the following is true about Alluvial soil?",
    "o": [
     "Most fertile soil, found in the northern plains",
@@ -379,7 +694,7 @@
    "e": "Alluvial soil: Most fertile soil, found in the northern plains."
   },
   {
-   "id": "gk-misc-p02-0025",
+   "id": "gk-misc-p02-0046",
    "q": "Which Indian state is a major producer of Kyanite?",
    "o": [
     "Madhya Pradesh",
@@ -394,7 +709,7 @@
    "e": "Kyanite is produced in large quantities in Jharkhand."
   },
   {
-   "id": "gk-misc-p02-0026",
+   "id": "gk-misc-p02-0047",
    "q": "Which is the first Indian bank to open an overseas branch?",
    "o": [
     "Bank of India",
@@ -409,7 +724,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "gk-misc-p02-0027",
+   "id": "gk-misc-p02-0048",
    "q": "Choose the word most similar in meaning to Implicit.",
    "o": [
     "Shortness",
@@ -424,7 +739,7 @@
    "e": "Implicit means Implied."
   },
   {
-   "id": "gk-misc-p02-0028",
+   "id": "gk-misc-p02-0049",
    "q": "Choose the word most opposite in meaning to Clandestine.",
    "o": [
     "Open",
@@ -439,7 +754,7 @@
    "e": "The opposite of Clandestine is Open."
   },
   {
-   "id": "gk-misc-p02-0029",
+   "id": "gk-misc-p02-0050",
    "q": "What is the meaning of the idiom 'Go to the dogs'?",
    "o": [
     "Fail or be defeated",
@@ -454,7 +769,7 @@
    "e": "'Go to the dogs' means Be ruined."
   },
   {
-   "id": "gk-misc-p02-0030",
+   "id": "gk-misc-p02-0051",
    "q": "Choose the one word substitute for: A conversation between two people",
    "o": [
     "Beginner",
@@ -469,7 +784,7 @@
    "e": "A conversation between two people — Dialogue."
   },
   {
-   "id": "gk-misc-p02-0031",
+   "id": "gk-misc-p02-0052",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Secretary",
@@ -484,7 +799,7 @@
    "e": "The correct spelling is Secretary."
   },
   {
-   "id": "gk-misc-p02-0032",
+   "id": "gk-misc-p02-0053",
    "q": "What is the plural of Church?",
    "o": [
     "Churches",
@@ -499,7 +814,7 @@
    "e": "The plural of Church is Churches."
   },
   {
-   "id": "gk-misc-p02-0033",
+   "id": "gk-misc-p02-0054",
    "q": "What is the feminine form of King?",
    "o": [
     "Bitch",
@@ -514,7 +829,7 @@
    "e": "The feminine of King is Queen."
   },
   {
-   "id": "gk-misc-p02-0034",
+   "id": "gk-misc-p02-0055",
    "q": "What is the comparative degree of Rich?",
    "o": [
     "Deeper",
@@ -529,7 +844,7 @@
    "e": "Rich — Richer — Richest."
   },
   {
-   "id": "gk-misc-p02-0035",
+   "id": "gk-misc-p02-0056",
    "q": "Fill in the blank with the correct preposition: He has been living here ____ 2010.",
    "o": [
     "to",
@@ -544,7 +859,7 @@
    "e": "The correct preposition is 'since'."
   },
   {
-   "id": "gk-misc-p02-0036",
+   "id": "gk-misc-p02-0057",
    "q": "What is a group of words with a subject and a predicate called?",
    "o": [
     "Clause",
@@ -559,7 +874,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "gk-misc-p02-0037",
+   "id": "gk-misc-p02-0058",
    "q": "Which scheme promotes solar power in India?",
    "o": [
     "2019",
@@ -574,7 +889,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "gk-misc-p02-0038",
+   "id": "gk-misc-p02-0059",
    "q": "The scheme PM Janjatiya Unnat Gram Abhiyan was launched with which objective?",
    "o": [
     "Upgraded health and wellness centres",
@@ -589,7 +904,7 @@
    "e": "PM Janjatiya Unnat Gram Abhiyan — Development of tribal villages."
   },
   {
-   "id": "gk-misc-p02-0039",
+   "id": "gk-misc-p02-0060",
    "q": "GSLV Mk III is associated with which of the following?",
    "o": [
     "Clean cooking fuel for poor households",
@@ -604,7 +919,7 @@
    "e": "GSLV Mk III — India's heavy lift launch vehicle."
   },
   {
-   "id": "gk-misc-p02-0040",
+   "id": "gk-misc-p02-0061",
    "q": "CSS is best described as which of the following?",
    "o": [
     "Basic device that connects network devices",
@@ -619,7 +934,7 @@
    "e": "CSS — Language used to style web pages."
   },
   {
-   "id": "gk-misc-p02-0041",
+   "id": "gk-misc-p02-0062",
    "q": "What is the purpose of the shortcut Ctrl + Y?",
    "o": [
     "Redo the last undone action",
@@ -634,7 +949,7 @@
    "e": "Ctrl + Y is used to Redo the last undone action."
   },
   {
-   "id": "gk-misc-p02-0042",
+   "id": "gk-misc-p02-0063",
    "q": "Which type of file uses the .bat extension?",
    "o": [
     "Microsoft PowerPoint presentation",
@@ -649,7 +964,7 @@
    "e": ".bat is a Batch file."
   },
   {
-   "id": "gk-misc-p02-0043",
+   "id": "gk-misc-p02-0064",
    "q": "What is the full form of UNESCO?",
    "o": [
     "International Atomic Energy Agency",
@@ -664,7 +979,7 @@
    "e": "UNESCO stands for United Nations Educational, Scientific and Cultural Organization."
   },
   {
-   "id": "gk-misc-p02-0044",
+   "id": "gk-misc-p02-0065",
    "q": "What is the main purpose of the UN Decade on Ecosystem Restoration?",
    "o": [
     "Limiting global temperature rise to well below two degrees Celsius",
@@ -679,7 +994,7 @@
    "e": "UN Decade on Ecosystem Restoration — Restoring degraded ecosystems."
   },
   {
-   "id": "gk-misc-p02-0045",
+   "id": "gk-misc-p02-0066",
    "q": "Which of the following is an effect or source of Fly ash from thermal plants?",
    "o": [
     "Cause acid rain and smog",
@@ -694,7 +1009,7 @@
    "e": "Fly ash from thermal plants — Air pollution with fine particulate matter."
   },
   {
-   "id": "gk-misc-p02-0046",
+   "id": "gk-misc-p02-0067",
    "q": "Point Calimere is located in which state?",
    "o": [
     "Andaman and Nicobar Islands",
@@ -709,7 +1024,7 @@
    "e": "Point Calimere is in Tamil Nadu."
   },
   {
-   "id": "gk-misc-p02-0047",
+   "id": "gk-misc-p02-0068",
    "q": "Environment Protection Act 1986 is associated with which purpose?",
    "o": [
     "Umbrella law for environmental protection",
@@ -724,7 +1039,7 @@
    "e": "Environment Protection Act 1986 — Umbrella law for environmental protection."
   },
   {
-   "id": "gk-misc-p02-0048",
+   "id": "gk-misc-p02-0069",
    "q": "What is the capital of South Korea?",
    "o": [
     "Seoul",
@@ -739,7 +1054,7 @@
    "e": "The capital of South Korea is Seoul."
   },
   {
-   "id": "gk-misc-p02-0049",
+   "id": "gk-misc-p02-0070",
    "q": "Which element has the chemical symbol Rb?",
    "o": [
     "Moscovium",
@@ -754,7 +1069,7 @@
    "e": "Rb is the symbol of Rubidium."
   },
   {
-   "id": "gk-misc-p02-0050",
+   "id": "gk-misc-p02-0071",
    "q": "What is the capital of Uttar Pradesh?",
    "o": [
     "Raipur",
@@ -769,7 +1084,7 @@
    "e": "The capital of Uttar Pradesh is Lucknow."
   },
   {
-   "id": "gk-misc-p02-0051",
+   "id": "gk-misc-p02-0072",
    "q": "Saka Calendar holds which of the following positions in India?",
    "o": [
     "National Heritage Animal",
@@ -784,7 +1099,7 @@
    "e": "Saka Calendar is the National Calendar of India."
   },
   {
-   "id": "gk-misc-p02-0052",
+   "id": "gk-misc-p02-0073",
    "q": "First Speaker of the Lok Sabha is associated with which of the following?",
    "o": [
     "C. Rajagopalachari",
@@ -799,7 +1114,7 @@
    "e": "First Speaker of the Lok Sabha — G. V. Mavalankar."
   },
   {
-   "id": "gk-misc-p02-0053",
+   "id": "gk-misc-p02-0074",
    "q": "Cheraw is a folk or classical dance form of which state?",
    "o": [
     "Tripura",
@@ -814,7 +1129,7 @@
    "e": "Cheraw belongs to Mizoram."
   },
   {
-   "id": "gk-misc-p02-0054",
+   "id": "gk-misc-p02-0075",
    "q": "Pongal is a major festival of which state?",
    "o": [
     "Manipur",
@@ -829,7 +1144,7 @@
    "e": "Pongal is celebrated mainly in Tamil Nadu."
   },
   {
-   "id": "gk-misc-p02-0055",
+   "id": "gk-misc-p02-0076",
    "q": "The river Jhelum originates from which of the following?",
    "o": [
     "Amarkantak",
@@ -844,7 +1159,7 @@
    "e": "Jhelum originates from Verinag."
   },
   {
-   "id": "gk-misc-p02-0056",
+   "id": "gk-misc-p02-0077",
    "q": "Dul Hasti Dam is built on which river?",
    "o": [
     "Godavari",
@@ -859,7 +1174,7 @@
    "e": "Dul Hasti Dam is built on the Chenab."
   },
   {
-   "id": "gk-misc-p02-0057",
+   "id": "gk-misc-p02-0078",
    "q": "Mudumalai National Park is located in which state?",
    "o": [
     "Kerala",
@@ -874,7 +1189,7 @@
    "e": "Mudumalai National Park is located in Tamil Nadu."
   },
   {
-   "id": "gk-misc-p02-0058",
+   "id": "gk-misc-p02-0079",
    "q": "Shencottah Gap pass is located in which state or union territory?",
    "o": [
     "Tamil Nadu",
@@ -889,7 +1204,7 @@
    "e": "Shencottah Gap is located in Tamil Nadu."
   },
   {
-   "id": "gk-misc-p02-0059",
+   "id": "gk-misc-p02-0080",
    "q": "What is the SI unit of Electrical resistance?",
    "o": [
     "Tesla",
@@ -904,7 +1219,7 @@
    "e": "The SI unit of Electrical resistance is the Ohm."
   },
   {
-   "id": "gk-misc-p02-0060",
+   "id": "gk-misc-p02-0081",
    "q": "Which instrument is used to measure Altitude?",
    "o": [
     "Ammeter",
@@ -919,7 +1234,7 @@
    "e": "Altimeter is used to measure Altitude."
   },
   {
-   "id": "gk-misc-p02-0061",
+   "id": "gk-misc-p02-0082",
    "q": "What is the main function of the Liver in the human body?",
    "o": [
     "Detoxification and bile secretion",
@@ -934,7 +1249,7 @@
    "e": "The Liver is responsible for Detoxification and bile secretion."
   },
   {
-   "id": "gk-misc-p02-0062",
+   "id": "gk-misc-p02-0083",
    "q": "Deficiency of which nutrient causes Scurvy?",
    "o": [
     "Sodium",
@@ -949,7 +1264,7 @@
    "e": "Deficiency of Vitamin C causes Scurvy."
   },
   {
-   "id": "gk-misc-p02-0063",
+   "id": "gk-misc-p02-0084",
    "q": "Which of the following causes Chikungunya?",
    "o": [
     "Chikungunya virus",
@@ -964,7 +1279,7 @@
    "e": "Chikungunya is caused by Chikungunya virus."
   },
   {
-   "id": "gk-misc-p02-0064",
+   "id": "gk-misc-p02-0085",
    "q": "Who is credited with Steam engine?",
    "o": [
     "Theodore Maiman",
@@ -979,7 +1294,7 @@
    "e": "Steam engine — James Watt."
   },
   {
-   "id": "gk-misc-p02-0065",
+   "id": "gk-misc-p02-0086",
    "q": "What is the chemical name of White vitriol?",
    "o": [
     "Calcium sulphate dihydrate (CaSO4.2H2O)",
@@ -994,7 +1309,7 @@
    "e": "White vitriol is Zinc sulphate (ZnSO4.7H2O)."
   },
   {
-   "id": "gk-misc-p02-0066",
+   "id": "gk-misc-p02-0087",
    "q": "Which branch of science deals with Structure of the body?",
    "o": [
     "Cytology",
@@ -1009,7 +1324,7 @@
    "e": "Anatomy deals with Structure of the body."
   },
   {
-   "id": "gk-misc-p02-0067",
+   "id": "gk-misc-p02-0088",
    "q": "Which planet or body is described as: Andromeda?",
    "o": [
     "Ceres",
@@ -1024,7 +1339,7 @@
    "e": "Andromeda — Andromeda."
   },
   {
-   "id": "gk-misc-p02-0068",
+   "id": "gk-misc-p02-0089",
    "q": "Charles Darwin is known for which of the following?",
    "o": [
     "Electrodynamics",
@@ -1039,7 +1354,7 @@
    "e": "Charles Darwin is known for Theory of evolution."
   },
   {
-   "id": "gk-misc-p02-0069",
+   "id": "gk-misc-p02-0090",
    "q": "In which year did the following event take place: Quit India Movement launched?",
    "o": [
     "1929",
@@ -1054,7 +1369,7 @@
    "e": "Quit India Movement launched — 1942."
   },
   {
-   "id": "gk-misc-p02-0070",
+   "id": "gk-misc-p02-0091",
    "q": "In which year did the following event take place: Founding of the World Health Organization?",
    "o": [
     "1948",
@@ -1069,7 +1384,7 @@
    "e": "Founding of the World Health Organization — 1948."
   },
   {
-   "id": "gk-misc-p02-0071",
+   "id": "gk-misc-p02-0092",
    "q": "Who founded the Sunga Dynasty?",
    "o": [
     "Pulakeshin I",
@@ -1084,7 +1399,7 @@
    "e": "The Sunga Dynasty was founded by Pushyamitra Sunga."
   },
   {
-   "id": "gk-misc-p02-0072",
+   "id": "gk-misc-p02-0093",
    "q": "Which of the following is true about Maharaja Ranjit Singh?",
    "o": [
     "Nominal leader of the Revolt of 1857",
@@ -1099,7 +1414,7 @@
    "e": "Maharaja Ranjit Singh: Founder of the Sikh Empire."
   },
   {
-   "id": "gk-misc-p02-0073",
+   "id": "gk-misc-p02-0094",
    "q": "Rani Lakshmibai is known by which of the following titles or descriptions?",
    "o": [
     "Leader of the Revolt in Bihar",
@@ -1114,7 +1429,7 @@
    "e": "Rani Lakshmibai — Queen who fought at Jhansi in 1857."
   },
   {
-   "id": "gk-misc-p02-0074",
+   "id": "gk-misc-p02-0095",
    "q": "Which movement or act is described as: Proposed a federal union for India?",
    "o": [
     "Cripps Mission",
@@ -1129,7 +1444,7 @@
    "e": "Cabinet Mission — Proposed a federal union for India."
   },
   {
-   "id": "gk-misc-p02-0075",
+   "id": "gk-misc-p02-0096",
    "q": "Which part of the Constitution deals with: High Courts?",
    "o": [
     "Article 23",
@@ -1144,7 +1459,7 @@
    "e": "High Courts is covered under Article 214."
   },
   {
-   "id": "gk-misc-p02-0076",
+   "id": "gk-misc-p02-0097",
    "q": "Which amendment is described as: Introduced the Goods and Services Tax?",
    "o": [
     "103rd Amendment",
@@ -1159,7 +1474,7 @@
    "e": "101st Amendment — Introduced the Goods and Services Tax."
   },
   {
-   "id": "gk-misc-p02-0077",
+   "id": "gk-misc-p02-0098",
    "q": "Minimum age to become President of India?",
    "o": [
     "35 years",
@@ -1174,7 +1489,7 @@
    "e": "Minimum age to become President of India — 35 years."
   },
   {
-   "id": "gk-misc-p02-0078",
+   "id": "gk-misc-p02-0099",
    "q": "Solicitor General of India is best described as which of the following?",
    "o": [
     "Law-making body of a State",
@@ -1189,7 +1504,7 @@
    "e": "Solicitor General of India — Second highest law officer of the Union."
   },
   {
-   "id": "gk-misc-p02-0079",
+   "id": "gk-misc-p02-0100",
    "q": "On which date is World Radiography Day observed?",
    "o": [
     "5 September",
@@ -1204,7 +1519,7 @@
    "e": "World Radiography Day is observed on 8 November."
   },
   {
-   "id": "gk-misc-p02-0080",
+   "id": "gk-misc-p02-0101",
    "q": "Where is the headquarters of NATO?",
    "o": [
     "Lausanne",
@@ -1219,7 +1534,7 @@
    "e": "NATO is headquartered at Brussels."
   },
   {
-   "id": "gk-misc-p02-0081",
+   "id": "gk-misc-p02-0102",
    "q": "How many players are there in a Handball team?",
    "o": [
     "11",
@@ -1234,7 +1549,7 @@
    "e": "A Handball team has 7 players."
   },
   {
-   "id": "gk-misc-p02-0082",
+   "id": "gk-misc-p02-0103",
    "q": "Champions Trophy (Cricket) is associated with which sport?",
    "o": [
     "Hockey",
@@ -1249,7 +1564,7 @@
    "e": "Champions Trophy (Cricket) is associated with Cricket."
   },
   {
-   "id": "gk-misc-p02-0083",
+   "id": "gk-misc-p02-0104",
    "q": "Jnanpith Award is associated with which of the following?",
    "o": [
     "Highest literary award of India",
@@ -1264,7 +1579,7 @@
    "e": "Jnanpith Award — Highest literary award of India."
   },
   {
-   "id": "gk-misc-p02-0084",
+   "id": "gk-misc-p02-0105",
    "q": "Who is the author of Paradise Lost?",
    "o": [
     "John Milton",
@@ -1279,7 +1594,7 @@
    "e": "Paradise Lost is written by John Milton."
   },
   {
-   "id": "gk-misc-p02-0085",
+   "id": "gk-misc-p02-0106",
    "q": "First person to run a mile in under four minutes is associated with which of the following?",
    "o": [
     "Rabindranath Tagore",
@@ -1294,7 +1609,7 @@
    "e": "First person to run a mile in under four minutes — Roger Bannister."
   },
   {
-   "id": "gk-misc-p02-0086",
+   "id": "gk-misc-p02-0107",
    "q": "Which pass connects India with Tibet near Sikkim?",
    "o": [
     "Cuba",
@@ -1309,7 +1624,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "gk-misc-p02-0087",
+   "id": "gk-misc-p02-0108",
    "q": "Where is the Red Fort located?",
    "o": [
     "Delhi",
@@ -1324,7 +1639,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "gk-misc-p02-0088",
+   "id": "gk-misc-p02-0109",
    "q": "What is the point of origin of an earthquake called?",
    "o": [
     "Venus",
@@ -1339,7 +1654,7 @@
    "e": "What is the point of origin of an earthquake called — Focus."
   },
   {
-   "id": "gk-misc-p02-0089",
+   "id": "gk-misc-p02-0110",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Alluvial soil - Sandy soil of arid regions",
@@ -1354,7 +1669,7 @@
    "e": "Only Alluvial soil - Most fertile soil, found in the northern plains is correctly matched."
   },
   {
-   "id": "gk-misc-p02-0090",
+   "id": "gk-misc-p02-0111",
    "q": "Which Indian state is a major producer of Gypsum?",
    "o": [
     "Jharkhand",
@@ -1369,7 +1684,7 @@
    "e": "Gypsum is produced in large quantities in Rajasthan."
   },
   {
-   "id": "gk-misc-p02-0091",
+   "id": "gk-misc-p02-0112",
    "q": "What is the reserve asset of the International Monetary Fund called?",
    "o": [
     "Special Drawing Rights",
@@ -1384,7 +1699,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "gk-misc-p02-0092",
+   "id": "gk-misc-p02-0113",
    "q": "Choose the word most similar in meaning to Diminish.",
    "o": [
     "Thorough",
@@ -1399,7 +1714,7 @@
    "e": "Diminish means Decrease."
   },
   {
-   "id": "gk-misc-p02-0093",
+   "id": "gk-misc-p02-0114",
    "q": "Choose the word most opposite in meaning to Explicit.",
    "o": [
     "Plentiful",
@@ -1414,7 +1729,7 @@
    "e": "The opposite of Explicit is Implicit."
   },
   {
-   "id": "gk-misc-p02-0094",
+   "id": "gk-misc-p02-0115",
    "q": "What is the meaning of the idiom 'Null and void'?",
    "o": [
     "An important day",
@@ -1429,7 +1744,7 @@
    "e": "'Null and void' means Invalid."
   },
   {
-   "id": "gk-misc-p02-0095",
+   "id": "gk-misc-p02-0116",
    "q": "Choose the one word substitute for: One who looks at the dark side of things",
    "o": [
     "Astronomer",
@@ -1444,7 +1759,7 @@
    "e": "One who looks at the dark side of things — Pessimist."
   },
   {
-   "id": "gk-misc-p02-0096",
+   "id": "gk-misc-p02-0117",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Dissatisfied",
@@ -1459,7 +1774,7 @@
    "e": "The correct spelling is Dissatisfied."
   },
   {
-   "id": "gk-misc-p02-0097",
+   "id": "gk-misc-p02-0118",
    "q": "What is the plural of Vertex?",
    "o": [
     "Vertices",
@@ -1474,7 +1789,7 @@
    "e": "The plural of Vertex is Vertices."
   },
   {
-   "id": "gk-misc-p02-0098",
+   "id": "gk-misc-p02-0119",
    "q": "What is the feminine form of Emperor?",
    "o": [
     "Countess",
@@ -1489,7 +1804,7 @@
    "e": "The feminine of Emperor is Empress."
   },
   {
-   "id": "gk-misc-p02-0099",
+   "id": "gk-misc-p02-0120",
    "q": "What is the comparative degree of Happy?",
    "o": [
     "Nobler",
@@ -1504,7 +1819,7 @@
    "e": "Happy — Happier — Happiest."
   },
   {
-   "id": "gk-misc-p02-0100",
+   "id": "gk-misc-p02-0121",
    "q": "Fill in the blank with the correct preposition: He is well versed ____ Sanskrit.",
    "o": [
     "on",
@@ -1519,7 +1834,7 @@
    "e": "The correct preposition is 'in'."
   },
   {
-   "id": "gk-misc-p02-0101",
+   "id": "gk-misc-p02-0122",
    "q": "What is the voice in which the subject performs the action called?",
    "o": [
     "Chosen",
@@ -1534,7 +1849,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "gk-misc-p02-0102",
+   "id": "gk-misc-p02-0123",
    "q": "Which Indian state has the highest per capita income?",
    "o": [
     "Aditya-L1",
@@ -1549,7 +1864,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "gk-misc-p02-0103",
+   "id": "gk-misc-p02-0124",
    "q": "The scheme Swachh Bharat Mission was launched with which objective?",
    "o": [
     "Cooperative development of the dairy sector",
@@ -1564,7 +1879,7 @@
    "e": "Swachh Bharat Mission — Cleanliness and sanitation for all."
   },
   {
-   "id": "gk-misc-p02-0104",
+   "id": "gk-misc-p02-0125",
    "q": "Reusable Launch Vehicle is associated with which of the following?",
    "o": [
     "Radar imaging satellites for all-weather observation",
@@ -1579,7 +1894,7 @@
    "e": "Reusable Launch Vehicle — Indigenous reusable space shuttle technology."
   },
   {
-   "id": "gk-misc-p02-0105",
+   "id": "gk-misc-p02-0126",
    "q": "Hexadecimal is best described as which of the following?",
    "o": [
     "Pointing input device",
@@ -1594,7 +1909,7 @@
    "e": "Hexadecimal — Number system with base sixteen."
   },
   {
-   "id": "gk-misc-p02-0106",
+   "id": "gk-misc-p02-0127",
    "q": "What is the purpose of the shortcut Ctrl + N?",
    "o": [
     "Refresh the current window",
@@ -1609,7 +1924,7 @@
    "e": "Ctrl + N is used to Open a new window or document."
   },
   {
-   "id": "gk-misc-p02-0107",
+   "id": "gk-misc-p02-0128",
    "q": "Which type of file uses the .png extension?",
    "o": [
     "Microsoft PowerPoint presentation",
@@ -1624,7 +1939,7 @@
    "e": ".png is a Image file with transparency support."
   },
   {
-   "id": "gk-misc-p02-0108",
+   "id": "gk-misc-p02-0129",
    "q": "What is the full form of CSO?",
    "o": [
     "Central Statistics Office",
@@ -1639,7 +1954,7 @@
    "e": "CSO stands for Central Statistics Office."
   },
   {
-   "id": "gk-misc-p02-0109",
+   "id": "gk-misc-p02-0130",
    "q": "What is the main purpose of the Ramsar Montreux Record?",
    "o": [
     "Restoring degraded ecosystems",
@@ -1654,7 +1969,7 @@
    "e": "Ramsar Montreux Record — Wetlands facing ecological change."
   },
   {
-   "id": "gk-misc-p02-0110",
+   "id": "gk-misc-p02-0131",
    "q": "Which of the following is an effect or source of Phosphate detergents?",
    "o": [
     "Air pollution with fine particulate matter",
@@ -1669,7 +1984,7 @@
    "e": "Phosphate detergents — Cause algal blooms in water."
   },
   {
-   "id": "gk-misc-p02-0111",
+   "id": "gk-misc-p02-0132",
    "q": "Wular Lake is located in which state?",
    "o": [
     "Tamil Nadu",
@@ -1684,7 +1999,7 @@
    "e": "Wular Lake is in Jammu and Kashmir."
   },
   {
-   "id": "gk-misc-p02-0112",
+   "id": "gk-misc-p02-0133",
    "q": "Which law or scheme is described as: Reintroduction of cheetahs?",
    "o": [
     "Project Cheetah",
@@ -1699,7 +2014,7 @@
    "e": "Reintroduction of cheetahs refers to Project Cheetah."
   },
   {
-   "id": "gk-misc-p02-0113",
+   "id": "gk-misc-p02-0134",
    "q": "What is the capital of Serbia?",
    "o": [
     "Stockholm",
@@ -1714,7 +2029,7 @@
    "e": "The capital of Serbia is Belgrade."
   },
   {
-   "id": "gk-misc-p02-0114",
+   "id": "gk-misc-p02-0135",
    "q": "Which element has the chemical symbol Mn?",
    "o": [
     "Polonium",
@@ -1729,7 +2044,7 @@
    "e": "Mn is the symbol of Manganese."
   },
   {
-   "id": "gk-misc-p02-0115",
+   "id": "gk-misc-p02-0136",
    "q": "What is the capital of Meghalaya?",
    "o": [
     "Shillong",
@@ -1744,7 +2059,7 @@
    "e": "The capital of Meghalaya is Shillong."
   },
   {
-   "id": "gk-misc-p02-0116",
+   "id": "gk-misc-p02-0137",
    "q": "Indian Elephant holds which of the following positions in India?",
    "o": [
     "National Tree",
@@ -1759,7 +2074,7 @@
    "e": "Indian Elephant is the National Heritage Animal of India."
   },
   {
-   "id": "gk-misc-p02-0117",
+   "id": "gk-misc-p02-0138",
    "q": "First Indian Institute of Technology was set up at is associated with which of the following?",
    "o": [
     "Kharagpur",
@@ -1774,7 +2089,7 @@
    "e": "First Indian Institute of Technology was set up at — Kharagpur."
   },
   {
-   "id": "gk-misc-p02-0118",
+   "id": "gk-misc-p02-0139",
    "q": "Garba is a folk or classical dance form of which state?",
    "o": [
     "Manipur",
@@ -1789,7 +2104,7 @@
    "e": "Garba belongs to Gujarat."
   },
   {
-   "id": "gk-misc-p02-0119",
+   "id": "gk-misc-p02-0140",
    "q": "Wangala Festival is a major festival of which state?",
    "o": [
     "West Bengal",
@@ -1804,7 +2119,7 @@
    "e": "Wangala Festival is celebrated mainly in Meghalaya."
   },
   {
-   "id": "gk-misc-p02-0120",
+   "id": "gk-misc-p02-0141",
    "q": "The river Gomti originates from which of the following?",
    "o": [
     "Pilibhit",
@@ -1819,7 +2134,7 @@
    "e": "Gomti originates from Pilibhit."
   },
   {
-   "id": "gk-misc-p02-0121",
+   "id": "gk-misc-p02-0142",
    "q": "Baglihar Dam is built on which river?",
    "o": [
     "Narmada",
@@ -1834,7 +2149,7 @@
    "e": "Baglihar Dam is built on the Chenab."
   },
   {
-   "id": "gk-misc-p02-0122",
+   "id": "gk-misc-p02-0143",
    "q": "Guru Ghasidas-Tamor Pingla Tiger Reserve is located in which state?",
    "o": [
     "Madhya Pradesh",
@@ -1849,7 +2164,7 @@
    "e": "Guru Ghasidas-Tamor Pingla Tiger Reserve is located in Chhattisgarh."
   },
   {
-   "id": "gk-misc-p02-0123",
+   "id": "gk-misc-p02-0144",
    "q": "Araku Valley Pass pass is located in which state or union territory?",
    "o": [
     "Andhra Pradesh",
@@ -1864,7 +2179,7 @@
    "e": "Araku Valley Pass is located in Andhra Pradesh."
   },
   {
-   "id": "gk-misc-p02-0124",
+   "id": "gk-misc-p02-0145",
    "q": "What is the SI unit of Absorbed dose?",
    "o": [
     "Gray",
@@ -1879,7 +2194,7 @@
    "e": "The SI unit of Absorbed dose is the Gray."
   },
   {
-   "id": "gk-misc-p02-0125",
+   "id": "gk-misc-p02-0146",
    "q": "Which instrument is used to measure Hearing sensitivity?",
    "o": [
     "Anemometer",
@@ -1894,7 +2209,7 @@
    "e": "Audiometer is used to measure Hearing sensitivity."
   },
   {
-   "id": "gk-misc-p02-0126",
+   "id": "gk-misc-p02-0147",
    "q": "What is the main function of the Cornea in the human body?",
    "o": [
     "Refraction of light in the eye",
@@ -1909,7 +2224,7 @@
    "e": "The Cornea is responsible for Refraction of light in the eye."
   },
   {
-   "id": "gk-misc-p02-0127",
+   "id": "gk-misc-p02-0148",
    "q": "Deficiency of which nutrient causes Megaloblastic anaemia?",
    "o": [
     "Vitamin B7",
@@ -1924,7 +2239,7 @@
    "e": "Deficiency of Vitamin B9 causes Megaloblastic anaemia."
   },
   {
-   "id": "gk-misc-p02-0128",
+   "id": "gk-misc-p02-0149",
    "q": "Which of the following causes Mumps?",
    "o": [
     "Mumps virus",
@@ -1939,7 +2254,7 @@
    "e": "Mumps is caused by Mumps virus."
   },
   {
-   "id": "gk-misc-p02-0129",
+   "id": "gk-misc-p02-0150",
    "q": "Who is credited with Radio?",
    "o": [
     "Ernest Rutherford",
@@ -1954,7 +2269,7 @@
    "e": "Radio — Guglielmo Marconi."
   },
   {
-   "id": "gk-misc-p02-0130",
+   "id": "gk-misc-p02-0151",
    "q": "What is the chemical name of Milk of magnesia?",
    "o": [
     "Calcium hydroxide (Ca(OH)2)",
@@ -1969,7 +2284,7 @@
    "e": "Milk of magnesia is Magnesium hydroxide (Mg(OH)2)."
   },
   {
-   "id": "gk-misc-p02-0131",
+   "id": "gk-misc-p02-0152",
    "q": "Which branch of science deals with Animals?",
    "o": [
     "Gerontology",
@@ -1984,7 +2299,7 @@
    "e": "Zoology deals with Animals."
   },
   {
-   "id": "gk-misc-p02-0132",
+   "id": "gk-misc-p02-0153",
    "q": "Which planet or body is described as: Milky Way?",
    "o": [
     "Venus",
@@ -1999,7 +2314,7 @@
    "e": "Milky Way — Milky Way."
   },
   {
-   "id": "gk-misc-p02-0133",
+   "id": "gk-misc-p02-0154",
    "q": "Johannes Kepler is known for which of the following?",
    "o": [
     "ABO blood group system",
@@ -2014,7 +2329,7 @@
    "e": "Johannes Kepler is known for Laws of planetary motion."
   },
   {
-   "id": "gk-misc-p02-0134",
+   "id": "gk-misc-p02-0155",
    "q": "In which year did the following event take place: Simon Commission arrived in India?",
    "o": [
     "1928",
@@ -2029,7 +2344,7 @@
    "e": "Simon Commission arrived in India — 1928."
   },
   {
-   "id": "gk-misc-p02-0135",
+   "id": "gk-misc-p02-0156",
    "q": "In which year did the following event take place: Oil crisis?",
    "o": [
     "1945",
@@ -2044,7 +2359,7 @@
    "e": "Oil crisis — 1973."
   },
   {
-   "id": "gk-misc-p02-0136",
+   "id": "gk-misc-p02-0157",
    "q": "Who founded the Kushana Empire?",
    "o": [
     "Simuka",
@@ -2059,7 +2374,7 @@
    "e": "The Kushana Empire was founded by Kujula Kadphises."
   },
   {
-   "id": "gk-misc-p02-0137",
+   "id": "gk-misc-p02-0158",
    "q": "Which of the following is true about Muhammad bin Tughlaq?",
    "o": [
     "Shifted the capital from Delhi to Daulatabad",
@@ -2074,7 +2389,7 @@
    "e": "Muhammad bin Tughlaq: Shifted the capital from Delhi to Daulatabad."
   },
   {
-   "id": "gk-misc-p02-0138",
+   "id": "gk-misc-p02-0159",
    "q": "Madan Mohan Malaviya is known by which of the following titles or descriptions?",
    "o": [
     "Founder of Banaras Hindu University",
@@ -2089,7 +2404,7 @@
    "e": "Madan Mohan Malaviya — Founder of Banaras Hindu University."
   },
   {
-   "id": "gk-misc-p02-0139",
+   "id": "gk-misc-p02-0160",
    "q": "Which part of the Constitution deals with: Prohibition of child labour in factories?",
    "o": [
     "Article 1",
@@ -2104,7 +2419,7 @@
    "e": "Prohibition of child labour in factories is covered under Article 24."
   },
   {
-   "id": "gk-misc-p02-0140",
+   "id": "gk-misc-p02-0161",
    "q": "Which amendment is described as: Provided reservation for economically weaker sections?",
    "o": [
     "44th Amendment",
@@ -2119,7 +2434,7 @@
    "e": "103rd Amendment — Provided reservation for economically weaker sections."
   },
   {
-   "id": "gk-misc-p02-0141",
+   "id": "gk-misc-p02-0162",
    "q": "Which writ is issued to release a detained person?",
    "o": [
     "552 members",
@@ -2134,7 +2449,7 @@
    "e": "Which writ is issued to release a detained person — Habeas Corpus."
   },
   {
-   "id": "gk-misc-p02-0142",
+   "id": "gk-misc-p02-0163",
    "q": "Zilla Parishad is best described as which of the following?",
    "o": [
     "Local body at the district level",
@@ -2149,7 +2464,7 @@
    "e": "Zilla Parishad — Local body at the district level."
   },
   {
-   "id": "gk-misc-p02-0143",
+   "id": "gk-misc-p02-0164",
    "q": "On which date is International Day of Peace observed?",
    "o": [
     "21 September",
@@ -2164,7 +2479,7 @@
    "e": "International Day of Peace is observed on 21 September."
   },
   {
-   "id": "gk-misc-p02-0144",
+   "id": "gk-misc-p02-0165",
    "q": "Where is the headquarters of Board of Control for Cricket in India?",
    "o": [
     "Vienna",
@@ -2179,7 +2494,7 @@
    "e": "Board of Control for Cricket in India is headquartered at Mumbai."
   },
   {
-   "id": "gk-misc-p02-0145",
+   "id": "gk-misc-p02-0166",
    "q": "How many players are there in a Rugby union team?",
    "o": [
     "6",
@@ -2194,7 +2509,7 @@
    "e": "A Rugby union team has 15 players."
   },
   {
-   "id": "gk-misc-p02-0146",
+   "id": "gk-misc-p02-0167",
    "q": "Asia Cup is associated with which sport?",
    "o": [
     "Cricket",
@@ -2209,7 +2524,7 @@
    "e": "Asia Cup is associated with Cricket."
   },
   {
-   "id": "gk-misc-p02-0147",
+   "id": "gk-misc-p02-0168",
    "q": "Dronacharya Award is associated with which of the following?",
    "o": [
     "American award for films",
@@ -2224,7 +2539,7 @@
    "e": "Dronacharya Award — Coaching excellence in Indian sports."
   },
   {
-   "id": "gk-misc-p02-0148",
+   "id": "gk-misc-p02-0169",
    "q": "Who is the author of Abhijnanashakuntalam?",
    "o": [
     "Adolf Hitler",
@@ -2239,7 +2554,7 @@
    "e": "Abhijnanashakuntalam is written by Kalidasa."
   },
   {
-   "id": "gk-misc-p02-0149",
+   "id": "gk-misc-p02-0170",
    "q": "First Indian to win a Nobel Prize is associated with which of the following?",
    "o": [
     "Chamonix",
@@ -2254,7 +2569,7 @@
    "e": "First Indian to win a Nobel Prize — Rabindranath Tagore."
   },
   {
-   "id": "gk-misc-p02-0150",
+   "id": "gk-misc-p02-0171",
    "q": "Which is the longest river in the world?",
    "o": [
     "Nile",
@@ -2269,7 +2584,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "gk-misc-p02-0151",
+   "id": "gk-misc-p02-0172",
    "q": "Which sea is the saltiest body of water?",
    "o": [
     "Nepal",
@@ -2284,7 +2599,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "gk-misc-p02-0152",
+   "id": "gk-misc-p02-0173",
    "q": "Which layer of the atmosphere reflects radio waves?",
    "o": [
     "Ionosphere",
@@ -2299,7 +2614,7 @@
    "e": "Which layer of the atmosphere reflects radio waves — Ionosphere."
   },
   {
-   "id": "gk-misc-p02-0153",
+   "id": "gk-misc-p02-0174",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Alluvial soil - Formed from crystalline rocks, rich in iron",
@@ -2314,7 +2629,7 @@
    "e": "Only Alluvial soil - Most fertile soil, found in the northern plains is correctly matched."
   },
   {
-   "id": "gk-misc-p02-0154",
+   "id": "gk-misc-p02-0175",
    "q": "Which Indian state is a major producer of Graphite?",
    "o": [
     "Maharashtra",
@@ -2329,7 +2644,7 @@
    "e": "Graphite is produced in large quantities in Odisha."
   },
   {
-   "id": "gk-misc-p02-0155",
+   "id": "gk-misc-p02-0176",
    "q": "Which tax is levied on the import of goods?",
    "o": [
     "Customs duty",
@@ -2344,7 +2659,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "gk-misc-p02-0156",
+   "id": "gk-misc-p02-0177",
    "q": "Choose the word most similar in meaning to Conceal.",
    "o": [
     "Strange",
@@ -2359,7 +2674,7 @@
    "e": "Conceal means Hide."
   },
   {
-   "id": "gk-misc-p02-0157",
+   "id": "gk-misc-p02-0178",
    "q": "Choose the word most opposite in meaning to Arduous.",
    "o": [
     "Easy",
@@ -2374,7 +2689,7 @@
    "e": "The opposite of Arduous is Easy."
   },
   {
-   "id": "gk-misc-p02-0158",
+   "id": "gk-misc-p02-0179",
    "q": "What is the meaning of the idiom 'Lose one's head'?",
    "o": [
     "An unexpected winner",
@@ -2389,7 +2704,7 @@
    "e": "'Lose one's head' means Lose self-control."
   },
   {
-   "id": "gk-misc-p02-0159",
+   "id": "gk-misc-p02-0180",
    "q": "Choose the one word substitute for: One who has an unreasonable fear of water",
    "o": [
     "Regicide",
@@ -2404,7 +2719,7 @@
    "e": "One who has an unreasonable fear of water — Hydrophobic."
   },
   {
-   "id": "gk-misc-p02-0160",
+   "id": "gk-misc-p02-0181",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Comparison",
@@ -2419,7 +2734,7 @@
    "e": "The correct spelling is Sophisticated."
   },
   {
-   "id": "gk-misc-p02-0161",
+   "id": "gk-misc-p02-0182",
    "q": "What is the plural of City?",
    "o": [
     "Vertices",
@@ -2434,7 +2749,7 @@
    "e": "The plural of City is Cities."
   },
   {
-   "id": "gk-misc-p02-0162",
+   "id": "gk-misc-p02-0183",
    "q": "What is the feminine form of Actor?",
    "o": [
     "Authoress",
@@ -2449,7 +2764,7 @@
    "e": "The feminine of Actor is Actress."
   },
   {
-   "id": "gk-misc-p02-0163",
+   "id": "gk-misc-p02-0184",
    "q": "What is the comparative degree of Poor?",
    "o": [
     "Darker",
@@ -2464,7 +2779,7 @@
    "e": "Poor — Poorer — Poorest."
   },
   {
-   "id": "gk-misc-p02-0164",
+   "id": "gk-misc-p02-0185",
    "q": "Fill in the blank with the correct preposition: She has been waiting ____ two hours.",
    "o": [
     "on",
@@ -2479,7 +2794,7 @@
    "e": "The correct preposition is 'for'."
   },
   {
-   "id": "gk-misc-p02-0165",
+   "id": "gk-misc-p02-0186",
    "q": "Which punctuation mark introduces a list?",
    "o": [
     "But also",
@@ -2494,7 +2809,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "gk-misc-p02-0166",
+   "id": "gk-misc-p02-0187",
    "q": "Which Indian state achieved the first open defecation free status in 2016?",
    "o": [
     "IndiaAI Mission",
@@ -2509,7 +2824,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "gk-misc-p02-0167",
+   "id": "gk-misc-p02-0188",
    "q": "The scheme Pradhan Mantri Krishi Sinchayee Yojana was launched with which objective?",
    "o": [
     "Piped drinking water to every rural household",
@@ -2524,7 +2839,7 @@
    "e": "Pradhan Mantri Krishi Sinchayee Yojana — Irrigation coverage and water use efficiency."
   },
   {
-   "id": "gk-misc-p02-0168",
+   "id": "gk-misc-p02-0189",
    "q": "Project Dolphin is associated with which of the following?",
    "o": [
     "Optical fibre connectivity to gram panchayats",
@@ -2539,7 +2854,7 @@
    "e": "Project Dolphin — Conservation of river and marine dolphins."
   },
   {
-   "id": "gk-misc-p02-0169",
+   "id": "gk-misc-p02-0190",
    "q": "Cloud computing is best described as which of the following?",
    "o": [
     "Devices that work as soon as they are connected",
@@ -2554,7 +2869,7 @@
    "e": "Cloud computing — Delivery of computing services over the internet."
   },
   {
-   "id": "gk-misc-p02-0170",
+   "id": "gk-misc-p02-0191",
    "q": "What is the purpose of the shortcut Ctrl + Alt + Del?",
    "o": [
     "Save the current file",
@@ -2569,7 +2884,7 @@
    "e": "Ctrl + Alt + Del is used to Open the security options screen."
   },
   {
-   "id": "gk-misc-p02-0171",
+   "id": "gk-misc-p02-0192",
    "q": "Which type of file uses the .csv extension?",
    "o": [
     "Executable program file",
@@ -2584,7 +2899,7 @@
    "e": ".csv is a Comma separated values file."
   },
   {
-   "id": "gk-misc-p02-0172",
+   "id": "gk-misc-p02-0193",
    "q": "What is the full form of OPD?",
    "o": [
     "Out Patient Department",
@@ -2599,7 +2914,7 @@
    "e": "OPD stands for Out Patient Department."
   },
   {
-   "id": "gk-misc-p02-0173",
+   "id": "gk-misc-p02-0194",
    "q": "What is the main purpose of the Vienna Convention?",
    "o": [
     "Cooperation on solar energy",
@@ -2614,7 +2929,7 @@
    "e": "Vienna Convention — Protection of the ozone layer."
   },
   {
-   "id": "gk-misc-p02-0174",
+   "id": "gk-misc-p02-0195",
    "q": "Which of the following is an effect or source of Nitrate from fertilisers?",
    "o": [
     "Causes genetic damage and cancer",
@@ -2629,7 +2944,7 @@
    "e": "Nitrate from fertilisers — Causes eutrophication of water bodies."
   },
   {
-   "id": "gk-misc-p02-0175",
+   "id": "gk-misc-p02-0196",
    "q": "Keoladeo Ghana is located in which state?",
    "o": [
     "Manipur",
@@ -2644,7 +2959,7 @@
    "e": "Keoladeo Ghana is in Rajasthan."
   },
   {
-   "id": "gk-misc-p02-0176",
+   "id": "gk-misc-p02-0197",
    "q": "Which law or scheme is described as: Conservation of tigers?",
    "o": [
     "Project Tiger",
@@ -2659,7 +2974,7 @@
    "e": "Conservation of tigers refers to Project Tiger."
   },
   {
-   "id": "gk-misc-p02-0177",
+   "id": "gk-misc-p02-0198",
    "q": "What is the capital of Bahrain?",
    "o": [
     "Dodoma",
@@ -2674,7 +2989,7 @@
    "e": "The capital of Bahrain is Manama."
   },
   {
-   "id": "gk-misc-p02-0178",
+   "id": "gk-misc-p02-0199",
    "q": "Which element has the chemical symbol Li?",
    "o": [
     "Lithium",
@@ -2689,7 +3004,7 @@
    "e": "Li is the symbol of Lithium."
   },
   {
-   "id": "gk-misc-p02-0179",
+   "id": "gk-misc-p02-0200",
    "q": "What is the capital of Gujarat?",
    "o": [
     "Gandhinagar",
@@ -2704,7 +3019,7 @@
    "e": "The capital of Gujarat is Gandhinagar."
   },
   {
-   "id": "gk-misc-p02-0180",
+   "id": "gk-misc-p02-0201",
    "q": "Lion Capital of Ashoka holds which of the following positions in India?",
    "o": [
     "National Calendar",
@@ -2719,7 +3034,7 @@
    "e": "Lion Capital of Ashoka is the National Emblem of India."
   },
   {
-   "id": "gk-misc-p02-0181",
+   "id": "gk-misc-p02-0202",
    "q": "First Indian Prime Minister to visit China is associated with which of the following?",
    "o": [
     "Dr. S. Radhakrishnan",
@@ -2734,7 +3049,7 @@
    "e": "First Indian Prime Minister to visit China — Jawaharlal Nehru."
   },
   {
-   "id": "gk-misc-p02-0182",
+   "id": "gk-misc-p02-0203",
    "q": "Padayani is a folk or classical dance form of which state?",
    "o": [
     "Kerala",
@@ -2749,7 +3064,7 @@
    "e": "Padayani belongs to Kerala."
   },
   {
-   "id": "gk-misc-p02-0183",
+   "id": "gk-misc-p02-0204",
    "q": "Hemis Festival is a major festival of which state?",
    "o": [
     "Manipur",
@@ -2764,7 +3079,7 @@
    "e": "Hemis Festival is celebrated mainly in Ladakh."
   },
   {
-   "id": "gk-misc-p02-0184",
+   "id": "gk-misc-p02-0205",
    "q": "The river Vaigai originates from which of the following?",
    "o": [
     "Angsi Glacier",
@@ -2779,7 +3094,7 @@
    "e": "Vaigai originates from Varusanadu Hills."
   },
   {
-   "id": "gk-misc-p02-0185",
+   "id": "gk-misc-p02-0206",
    "q": "Mettur Dam is built on which river?",
    "o": [
     "Kaveri",
@@ -2794,7 +3109,7 @@
    "e": "Mettur Dam is built on the Kaveri."
   },
   {
-   "id": "gk-misc-p02-0186",
+   "id": "gk-misc-p02-0207",
    "q": "Ramgarh Vishdhari Tiger Reserve is located in which state?",
    "o": [
     "Chhattisgarh",
@@ -2809,7 +3124,7 @@
    "e": "Ramgarh Vishdhari Tiger Reserve is located in Rajasthan."
   },
   {
-   "id": "gk-misc-p02-0187",
+   "id": "gk-misc-p02-0208",
    "q": "Chang La pass is located in which state or union territory?",
    "o": [
     "Tamil Nadu",
@@ -2824,7 +3139,7 @@
    "e": "Chang La is located in Ladakh."
   },
   {
-   "id": "gk-misc-p02-0188",
+   "id": "gk-misc-p02-0209",
    "q": "What is the SI unit of Plane angle?",
    "o": [
     "Second",
@@ -2839,7 +3154,7 @@
    "e": "The SI unit of Plane angle is the Radian."
   },
   {
-   "id": "gk-misc-p02-0189",
+   "id": "gk-misc-p02-0210",
    "q": "Which instrument is used to measure Multiple physiological responses?",
    "o": [
     "Seismograph",
@@ -2854,7 +3169,7 @@
    "e": "Polygraph is used to measure Multiple physiological responses."
   },
   {
-   "id": "gk-misc-p02-0190",
+   "id": "gk-misc-p02-0211",
    "q": "What is the main function of the Red blood cells in the human body?",
    "o": [
     "Refraction of light in the eye",
@@ -2869,7 +3184,7 @@
    "e": "The Red blood cells is responsible for Transport of oxygen."
   },
   {
-   "id": "gk-misc-p02-0191",
+   "id": "gk-misc-p02-0212",
    "q": "Deficiency of which nutrient causes Delayed blood clotting?",
    "o": [
     "Vitamin K and Protein",
@@ -2884,7 +3199,7 @@
    "e": "Deficiency of Vitamin K and Protein causes Delayed blood clotting."
   },
   {
-   "id": "gk-misc-p02-0192",
+   "id": "gk-misc-p02-0213",
    "q": "Which of the following causes Filariasis?",
    "o": [
     "Mumps virus",
@@ -2899,7 +3214,7 @@
    "e": "Filariasis is caused by Wuchereria bancrofti."
   },
   {
-   "id": "gk-misc-p02-0193",
+   "id": "gk-misc-p02-0214",
    "q": "Who is credited with Polio vaccine?",
    "o": [
     "Jonas Salk",
@@ -2914,7 +3229,7 @@
    "e": "Polio vaccine — Jonas Salk."
   },
   {
-   "id": "gk-misc-p02-0194",
+   "id": "gk-misc-p02-0215",
    "q": "What is the chemical name of Talc?",
    "o": [
     "Calcium sulphate hemihydrate (CaSO4.1/2H2O)",
@@ -2929,7 +3244,7 @@
    "e": "Talc is Hydrated magnesium silicate."
   },
   {
-   "id": "gk-misc-p02-0195",
+   "id": "gk-misc-p02-0216",
    "q": "Which branch of science deals with Heredity and variation?",
    "o": [
     "Genetics",
@@ -2944,7 +3259,7 @@
    "e": "Genetics deals with Heredity and variation."
   },
   {
-   "id": "gk-misc-p02-0196",
+   "id": "gk-misc-p02-0217",
    "q": "Which planet or body is described as: Ceres?",
    "o": [
     "Ceres",
@@ -2959,7 +3274,7 @@
    "e": "Ceres — Ceres."
   },
   {
-   "id": "gk-misc-p02-0197",
+   "id": "gk-misc-p02-0218",
    "q": "Alexander Fleming is known for which of the following?",
    "o": [
     "Discovery of penicillin",
@@ -2974,7 +3289,7 @@
    "e": "Alexander Fleming is known for Discovery of penicillin."
   },
   {
-   "id": "gk-misc-p02-0198",
+   "id": "gk-misc-p02-0219",
    "q": "In which year did the following event take place: Pokhran-II nuclear tests?",
    "o": [
     "1998",
@@ -2989,7 +3304,7 @@
    "e": "Pokhran-II nuclear tests — 1998."
   },
   {
-   "id": "gk-misc-p02-0199",
+   "id": "gk-misc-p02-0220",
    "q": "In which year did the following event take place: Formation of the USSR?",
    "o": [
     "1922",
@@ -3004,7 +3319,7 @@
    "e": "Formation of the USSR — 1922."
   },
   {
-   "id": "gk-misc-p02-0200",
+   "id": "gk-misc-p02-0221",
    "q": "Who founded the Lodi Dynasty?",
    "o": [
     "Bahlul Lodi",
@@ -3019,7 +3334,7 @@
    "e": "The Lodi Dynasty was founded by Bahlul Lodi."
   },
   {
-   "id": "gk-misc-p02-0201",
+   "id": "gk-misc-p02-0222",
    "q": "Which of the following is true about Babur?",
    "o": [
     "Known as the Napoleon of India",
@@ -3034,7 +3349,7 @@
    "e": "Babur: Won the First Battle of Panipat in 1526."
   },
   {
-   "id": "gk-misc-p02-0202",
+   "id": "gk-misc-p02-0223",
    "q": "Vinoba Bhave is known by which of the following titles or descriptions?",
    "o": [
     "Lokamanya",
@@ -3049,7 +3364,7 @@
    "e": "Vinoba Bhave — Leader of the Bhoodan movement."
   },
   {
-   "id": "gk-misc-p02-0203",
+   "id": "gk-misc-p02-0224",
    "q": "Which movement or act is described as: Began with the Dandi March?",
    "o": [
     "Civil Disobedience Movement",
@@ -3064,7 +3379,7 @@
    "e": "Civil Disobedience Movement — Began with the Dandi March."
   },
   {
-   "id": "gk-misc-p02-0204",
+   "id": "gk-misc-p02-0225",
    "q": "Which part of the Constitution deals with: Emergency provisions?",
    "o": [
     "Articles 29-30",
@@ -3079,7 +3394,7 @@
    "e": "Emergency provisions is covered under Part XVIII, Articles 352-360."
   },
   {
-   "id": "gk-misc-p02-0205",
+   "id": "gk-misc-p02-0226",
    "q": "Which amendment is described as: Made elementary education a Fundamental Right?",
    "o": [
     "101st Amendment",
@@ -3094,7 +3409,7 @@
    "e": "86th Amendment — Made elementary education a Fundamental Right."
   },
   {
-   "id": "gk-misc-p02-0206",
+   "id": "gk-misc-p02-0227",
    "q": "First meeting of the Constituent Assembly?",
    "o": [
     "9 December 1946",
@@ -3109,7 +3424,7 @@
    "e": "First meeting of the Constituent Assembly — 9 December 1946."
   },
   {
-   "id": "gk-misc-p02-0207",
+   "id": "gk-misc-p02-0228",
    "q": "Rajya Sabha is best described as which of the following?",
    "o": [
     "Head of the Union Government",
@@ -3124,7 +3439,7 @@
    "e": "Rajya Sabha — Council of States, permanent house."
   },
   {
-   "id": "gk-misc-p02-0208",
+   "id": "gk-misc-p02-0229",
    "q": "On which date is World Animal Day observed?",
    "o": [
     "23 March",
@@ -3139,7 +3454,7 @@
    "e": "World Animal Day is observed on 4 October."
   },
   {
-   "id": "gk-misc-p02-0209",
+   "id": "gk-misc-p02-0230",
    "q": "Where is the headquarters of United Nations?",
    "o": [
     "Bern",
@@ -3154,7 +3469,7 @@
    "e": "United Nations is headquartered at New York."
   },
   {
-   "id": "gk-misc-p02-0210",
+   "id": "gk-misc-p02-0231",
    "q": "How many players are there in a Hockey team?",
    "o": [
     "7",
@@ -3169,7 +3484,7 @@
    "e": "A Hockey team has 11 players."
   },
   {
-   "id": "gk-misc-p02-0211",
+   "id": "gk-misc-p02-0232",
    "q": "Param Vir Chakra is associated with which of the following?",
    "o": [
     "Indian award for peace, disarmament and development",
@@ -3184,7 +3499,7 @@
    "e": "Param Vir Chakra — Highest military decoration of India."
   },
   {
-   "id": "gk-misc-p02-0212",
+   "id": "gk-misc-p02-0233",
    "q": "Who is the author of Unbreakable?",
    "o": [
     "William Shakespeare",
@@ -3199,7 +3514,7 @@
    "e": "Unbreakable is written by Mary Kom."
   },
   {
-   "id": "gk-misc-p02-0213",
+   "id": "gk-misc-p02-0234",
    "q": "First country to send a human into space is associated with which of the following?",
    "o": [
     "Wally Herbert",
@@ -3214,7 +3529,7 @@
    "e": "First country to send a human into space — Soviet Union."
   },
   {
-   "id": "gk-misc-p02-0214",
+   "id": "gk-misc-p02-0235",
    "q": "Which is the longest river in Asia?",
    "o": [
     "Australia",
@@ -3229,7 +3544,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "gk-misc-p02-0215",
+   "id": "gk-misc-p02-0236",
    "q": "Which is the highest waterfall in India?",
    "o": [
     "Sundarbans",
@@ -3244,7 +3559,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "gk-misc-p02-0216",
+   "id": "gk-misc-p02-0237",
    "q": "Which cyclone season occurs in the Bay of Bengal?",
    "o": [
     "October to December",
@@ -3259,7 +3574,7 @@
    "e": "Which cyclone season occurs in the Bay of Bengal — October to December."
   },
   {
-   "id": "gk-misc-p02-0217",
+   "id": "gk-misc-p02-0238",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Black soil - Formed in waterlogged areas with organic matter",
@@ -3274,7 +3589,7 @@
    "e": "Only Black soil - Also called regur, ideal for cotton is correctly matched."
   },
   {
-   "id": "gk-misc-p02-0218",
+   "id": "gk-misc-p02-0239",
    "q": "Which Indian state is a major producer of Gold?",
    "o": [
     "Karnataka",
@@ -3289,7 +3604,7 @@
    "e": "Gold is produced in large quantities in Karnataka."
   },
   {
-   "id": "gk-misc-p02-0219",
+   "id": "gk-misc-p02-0240",
    "q": "Which book is considered the foundation of classical economics?",
    "o": [
     "Privatisation",
@@ -3304,7 +3619,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "gk-misc-p02-0220",
+   "id": "gk-misc-p02-0241",
    "q": "Choose the word most similar in meaning to Heresy.",
    "o": [
     "Stop",
@@ -3319,7 +3634,7 @@
    "e": "Heresy means Heterodoxy."
   },
   {
-   "id": "gk-misc-p02-0221",
+   "id": "gk-misc-p02-0242",
    "q": "Choose the word most opposite in meaning to Deficient.",
    "o": [
     "Descend",
@@ -3334,7 +3649,7 @@
    "e": "The opposite of Deficient is Sufficient."
   },
   {
-   "id": "gk-misc-p02-0222",
+   "id": "gk-misc-p02-0243",
    "q": "What is the meaning of the idiom 'At the drop of a hat'?",
    "o": [
     "Immediately",
@@ -3349,7 +3664,7 @@
    "e": "'At the drop of a hat' means Immediately."
   },
   {
-   "id": "gk-misc-p02-0223",
+   "id": "gk-misc-p02-0244",
    "q": "Choose the one word substitute for: One who believes in the existence of God",
    "o": [
     "Mint",
@@ -3364,7 +3679,7 @@
    "e": "One who believes in the existence of God — Theist."
   },
   {
-   "id": "gk-misc-p02-0224",
+   "id": "gk-misc-p02-0245",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Intelligence",
@@ -3379,7 +3694,7 @@
    "e": "The correct spelling is Discipline."
   },
   {
-   "id": "gk-misc-p02-0225",
+   "id": "gk-misc-p02-0246",
    "q": "What is the plural of Box?",
    "o": [
     "Radios",
@@ -3394,7 +3709,7 @@
    "e": "The plural of Box is Boxes."
   },
   {
-   "id": "gk-misc-p02-0226",
+   "id": "gk-misc-p02-0247",
    "q": "What is the feminine form of Prince?",
    "o": [
     "Princess",
@@ -3409,7 +3724,7 @@
    "e": "The feminine of Prince is Princess."
   },
   {
-   "id": "gk-misc-p02-0227",
+   "id": "gk-misc-p02-0248",
    "q": "What is the comparative degree of Beautiful?",
    "o": [
     "More beautiful",
@@ -3424,7 +3739,7 @@
    "e": "Beautiful — More beautiful — Most beautiful."
   },
   {
-   "id": "gk-misc-p02-0228",
+   "id": "gk-misc-p02-0249",
    "q": "Fill in the blank with the correct preposition: I congratulated him ____ his success.",
    "o": [
     "on",
@@ -3439,7 +3754,7 @@
    "e": "The correct preposition is 'on'."
   },
   {
-   "id": "gk-misc-p02-0229",
+   "id": "gk-misc-p02-0250",
    "q": "What is the collective noun for a group of cattle?",
    "o": [
     "Present perfect",
@@ -3454,7 +3769,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "gk-misc-p02-0230",
+   "id": "gk-misc-p02-0251",
    "q": "In which year did Chandrayaan-3 land on the Moon?",
    "o": [
     "Digital India",
@@ -3469,7 +3784,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "gk-misc-p02-0231",
+   "id": "gk-misc-p02-0252",
    "q": "The scheme PM Gati Shakti was launched with which objective?",
    "o": [
     "Loans to women and scheduled caste entrepreneurs",
@@ -3484,7 +3799,7 @@
    "e": "PM Gati Shakti — Integrated infrastructure planning platform."
   },
   {
-   "id": "gk-misc-p02-0232",
+   "id": "gk-misc-p02-0253",
    "q": "PSLV is associated with which of the following?",
    "o": [
     "Workhorse polar satellite launch vehicle",
@@ -3499,7 +3814,7 @@
    "e": "PSLV — Workhorse polar satellite launch vehicle."
   },
   {
-   "id": "gk-misc-p02-0233",
+   "id": "gk-misc-p02-0254",
    "q": "Virtual memory is best described as which of the following?",
    "o": [
     "Running a processor above its rated speed",
@@ -3514,7 +3829,7 @@
    "e": "Virtual memory — Disk space used as an extension of RAM."
   },
   {
-   "id": "gk-misc-p02-0234",
+   "id": "gk-misc-p02-0255",
    "q": "What is the purpose of the shortcut Ctrl + C?",
    "o": [
     "Copy the selected item",
@@ -3529,7 +3844,7 @@
    "e": "Ctrl + C is used to Copy the selected item."
   },
   {
-   "id": "gk-misc-p02-0235",
+   "id": "gk-misc-p02-0256",
    "q": "Which type of file uses the .py extension?",
    "o": [
     "Extensible markup language file",
@@ -3544,7 +3859,7 @@
    "e": ".py is a Python source file."
   },
   {
-   "id": "gk-misc-p02-0236",
+   "id": "gk-misc-p02-0257",
    "q": "What is the full form of AC?",
    "o": [
     "International Civil Aviation Organization",
@@ -3559,7 +3874,7 @@
    "e": "AC stands for Alternating Current."
   },
   {
-   "id": "gk-misc-p02-0237",
+   "id": "gk-misc-p02-0258",
    "q": "What is the main purpose of the Minamata Convention?",
    "o": [
     "Control of mercury emissions",
@@ -3574,7 +3889,7 @@
    "e": "Minamata Convention — Control of mercury emissions."
   },
   {
-   "id": "gk-misc-p02-0238",
+   "id": "gk-misc-p02-0259",
    "q": "Which of the following is an effect or source of Lead?",
    "o": [
     "Damages the nervous system",
@@ -3589,7 +3904,7 @@
    "e": "Lead — Damages the nervous system."
   },
   {
-   "id": "gk-misc-p02-0239",
+   "id": "gk-misc-p02-0260",
    "q": "Achanakmar Amarkantak Biosphere Reserve is located in which state?",
    "o": [
     "Madhya Pradesh and Chhattisgarh",
@@ -3604,7 +3919,7 @@
    "e": "Achanakmar Amarkantak Biosphere Reserve is in Madhya Pradesh and Chhattisgarh."
   },
   {
-   "id": "gk-misc-p02-0240",
+   "id": "gk-misc-p02-0261",
    "q": "Which law or scheme is described as: Prevention of water pollution?",
    "o": [
     "Water Act 1974",
@@ -3619,7 +3934,7 @@
    "e": "Prevention of water pollution refers to Water Act 1974."
   },
   {
-   "id": "gk-misc-p02-0241",
+   "id": "gk-misc-p02-0262",
    "q": "What is the capital of Bahamas?",
    "o": [
     "Nassau",
@@ -3634,7 +3949,7 @@
    "e": "The capital of Bahamas is Nassau."
   },
   {
-   "id": "gk-misc-p02-0242",
+   "id": "gk-misc-p02-0263",
    "q": "Which element has the chemical symbol Pt?",
    "o": [
     "Berkelium",
@@ -3649,7 +3964,7 @@
    "e": "Pt is the symbol of Platinum."
   },
   {
-   "id": "gk-misc-p02-0243",
+   "id": "gk-misc-p02-0264",
    "q": "What is the capital of Odisha?",
    "o": [
     "Thiruvananthapuram",
@@ -3664,7 +3979,7 @@
    "e": "The capital of Odisha is Bhubaneswar."
   },
   {
-   "id": "gk-misc-p02-0244",
+   "id": "gk-misc-p02-0265",
    "q": "Indian Peacock holds which of the following positions in India?",
    "o": [
     "National Song",
@@ -3679,7 +3994,7 @@
    "e": "Indian Peacock is the National Bird of India."
   },
   {
-   "id": "gk-misc-p02-0245",
+   "id": "gk-misc-p02-0266",
    "q": "First woman Prime Minister of India is associated with which of the following?",
    "o": [
     "Dr. S. Radhakrishnan",
@@ -3694,7 +4009,7 @@
    "e": "First woman Prime Minister of India — Indira Gandhi."
   },
   {
-   "id": "gk-misc-p02-0246",
+   "id": "gk-misc-p02-0267",
    "q": "Bharatanatyam is a folk or classical dance form of which state?",
    "o": [
     "Tamil Nadu",
@@ -3709,7 +4024,7 @@
    "e": "Bharatanatyam belongs to Tamil Nadu."
   },
   {
-   "id": "gk-misc-p02-0247",
+   "id": "gk-misc-p02-0268",
    "q": "Ambubachi Mela is a major festival of which state?",
    "o": [
     "Rajasthan",
@@ -3724,7 +4039,7 @@
    "e": "Ambubachi Mela is celebrated mainly in Assam."
   },
   {
-   "id": "gk-misc-p02-0248",
+   "id": "gk-misc-p02-0269",
    "q": "The river Indus originates from which of the following?",
    "o": [
     "Angsi Glacier",
@@ -3739,7 +4054,7 @@
    "e": "Indus originates from Bokhar Chu."
   },
   {
-   "id": "gk-misc-p02-0249",
+   "id": "gk-misc-p02-0270",
    "q": "Koyna Dam is built on which river?",
    "o": [
     "Bhagirathi",
@@ -3754,7 +4069,7 @@
    "e": "Koyna Dam is built on the Koyna."
   },
   {
-   "id": "gk-misc-p02-0250",
+   "id": "gk-misc-p02-0271",
    "q": "Kaimur Wildlife Sanctuary is located in which state?",
    "o": [
     "Bihar",
@@ -3769,7 +4084,7 @@
    "e": "Kaimur Wildlife Sanctuary is located in Bihar."
   },
   {
-   "id": "gk-misc-p02-0251",
+   "id": "gk-misc-p02-0272",
    "q": "Fotu La pass is located in which state or union territory?",
    "o": [
     "Maharashtra",
@@ -3784,7 +4099,7 @@
    "e": "Fotu La is located in Ladakh."
   },
   {
-   "id": "gk-misc-p02-0252",
+   "id": "gk-misc-p02-0273",
    "q": "What is the SI unit of Electric current?",
    "o": [
     "Second",
@@ -3799,7 +4114,7 @@
    "e": "The SI unit of Electric current is the Ampere."
   },
   {
-   "id": "gk-misc-p02-0253",
+   "id": "gk-misc-p02-0274",
    "q": "Which instrument is used to measure Water absorption by plants?",
    "o": [
     "Periscope",
@@ -3814,7 +4129,7 @@
    "e": "Potometer is used to measure Water absorption by plants."
   },
   {
-   "id": "gk-misc-p02-0254",
+   "id": "gk-misc-p02-0275",
    "q": "What is the main function of the Alveoli in the human body?",
    "o": [
     "Transport of nutrients",
@@ -3829,7 +4144,7 @@
    "e": "The Alveoli is responsible for Exchange of oxygen and carbon dioxide."
   },
   {
-   "id": "gk-misc-p02-0255",
+   "id": "gk-misc-p02-0276",
    "q": "Deficiency of which nutrient causes Dermatitis?",
    "o": [
     "Vitamin B5",
@@ -3844,7 +4159,7 @@
    "e": "Deficiency of Vitamin B7 causes Dermatitis."
   },
   {
-   "id": "gk-misc-p02-0256",
+   "id": "gk-misc-p02-0277",
    "q": "Which of the following causes AIDS?",
    "o": [
     "Fungi",
@@ -3859,7 +4174,7 @@
    "e": "AIDS is caused by Human Immunodeficiency Virus."
   },
   {
-   "id": "gk-misc-p02-0257",
+   "id": "gk-misc-p02-0278",
    "q": "Who is credited with Quantum theory?",
    "o": [
     "Michael Faraday",
@@ -3874,7 +4189,7 @@
    "e": "Quantum theory — Max Planck."
   },
   {
-   "id": "gk-misc-p02-0258",
+   "id": "gk-misc-p02-0279",
    "q": "What is the chemical name of TNT?",
    "o": [
     "Ferrous sulphate (FeSO4.7H2O)",
@@ -3889,7 +4204,7 @@
    "e": "TNT is Trinitrotoluene."
   },
   {
-   "id": "gk-misc-p02-0259",
+   "id": "gk-misc-p02-0280",
    "q": "Which branch of science deals with Radiant energy in medicine?",
    "o": [
     "Sericulture",
@@ -3904,7 +4219,7 @@
    "e": "Radiology deals with Radiant energy in medicine."
   },
   {
-   "id": "gk-misc-p02-0260",
+   "id": "gk-misc-p02-0281",
    "q": "Which planet or body is described as: Light year?",
    "o": [
     "Mercury",
@@ -3919,7 +4234,7 @@
    "e": "Light year — Light year."
   },
   {
-   "id": "gk-misc-p02-0261",
+   "id": "gk-misc-p02-0282",
    "q": "Hargobind Khorana is known for which of the following?",
    "o": [
     "Ornithology in India",
@@ -3934,7 +4249,7 @@
    "e": "Hargobind Khorana is known for Synthesis of nucleic acids."
   },
   {
-   "id": "gk-misc-p02-0262",
+   "id": "gk-misc-p02-0283",
    "q": "In which year did the following event take place: Attack on the Indian Parliament?",
    "o": [
     "1932",
@@ -3949,7 +4264,7 @@
    "e": "Attack on the Indian Parliament — 2001."
   },
   {
-   "id": "gk-misc-p02-0263",
+   "id": "gk-misc-p02-0284",
    "q": "In which year did the following event take place: Paris Climate Agreement adopted?",
    "o": [
     "2015",
@@ -3964,7 +4279,7 @@
    "e": "Paris Climate Agreement adopted — 2015."
   },
   {
-   "id": "gk-misc-p02-0264",
+   "id": "gk-misc-p02-0285",
    "q": "Who founded the Mughal Empire?",
    "o": [
     "Ghiyas-ud-din Tughlaq",
@@ -3979,7 +4294,7 @@
    "e": "The Mughal Empire was founded by Babur."
   },
   {
-   "id": "gk-misc-p02-0265",
+   "id": "gk-misc-p02-0286",
    "q": "Which of the following is true about Chandragupta II?",
    "o": [
     "Known as the Napoleon of India",
@@ -3994,7 +4309,7 @@
    "e": "Chandragupta II: Known as Vikramaditya and patron of the Navaratnas."
   },
   {
-   "id": "gk-misc-p02-0266",
+   "id": "gk-misc-p02-0287",
    "q": "Lala Lajpat Rai is known by which of the following titles or descriptions?",
    "o": [
     "Lokamanya",
@@ -4009,7 +4324,7 @@
    "e": "Lala Lajpat Rai — Punjab Kesari."
   },
   {
-   "id": "gk-misc-p02-0267",
+   "id": "gk-misc-p02-0288",
    "q": "Which movement or act is described as: Launched against the war effort?",
    "o": [
     "Individual Satyagraha",
@@ -4024,7 +4339,7 @@
    "e": "Individual Satyagraha — Launched against the war effort."
   },
   {
-   "id": "gk-misc-p02-0268",
+   "id": "gk-misc-p02-0289",
    "q": "Which part of the Constitution deals with: Appointment of the Prime Minister and Council of Ministers?",
    "o": [
     "Part XVIII, Articles 352-360",
@@ -4039,7 +4354,7 @@
    "e": "Appointment of the Prime Minister and Council of Ministers is covered under Article 75."
   },
   {
-   "id": "gk-misc-p02-0269",
+   "id": "gk-misc-p02-0290",
    "q": "Which amendment is described as: Reorganised states on linguistic lines?",
    "o": [
     "73rd Amendment",
@@ -4054,7 +4369,7 @@
    "e": "Seventh Amendment — Reorganised states on linguistic lines."
   },
   {
-   "id": "gk-misc-p02-0270",
+   "id": "gk-misc-p02-0291",
    "q": "The budget is laid before Parliament under?",
    "o": [
     "Article 112 (Annual Financial Statement)",
@@ -4069,7 +4384,7 @@
    "e": "The budget is laid before Parliament under — Article 112 (Annual Financial Statement)."
   },
   {
-   "id": "gk-misc-p02-0271",
+   "id": "gk-misc-p02-0292",
    "q": "Council of Ministers is best described as which of the following?",
    "o": [
     "Head of the Union Government",
@@ -4084,7 +4399,7 @@
    "e": "Council of Ministers — Aids and advises the President."
   },
   {
-   "id": "gk-misc-p02-0272",
+   "id": "gk-misc-p02-0293",
    "q": "On which date is World Oceans Day observed?",
    "o": [
     "4 July",
@@ -4099,7 +4414,7 @@
    "e": "World Oceans Day is observed on 8 June."
   },
   {
-   "id": "gk-misc-p02-0273",
+   "id": "gk-misc-p02-0294",
    "q": "Where is the headquarters of Shanghai Cooperation Organisation?",
    "o": [
     "Beijing",
@@ -4114,7 +4429,7 @@
    "e": "Shanghai Cooperation Organisation is headquartered at Beijing."
   },
   {
-   "id": "gk-misc-p02-0274",
+   "id": "gk-misc-p02-0295",
    "q": "Which sport uses teams of 9 players?",
    "o": [
     "Baseball",
@@ -4129,7 +4444,7 @@
    "e": "Teams of 9 players play Baseball."
   },
   {
-   "id": "gk-misc-p02-0275",
+   "id": "gk-misc-p02-0296",
    "q": "Indian Premier League is associated with which sport?",
    "o": [
     "Table Tennis",
@@ -4144,7 +4459,7 @@
    "e": "Indian Premier League is associated with Cricket."
   },
   {
-   "id": "gk-misc-p02-0276",
+   "id": "gk-misc-p02-0297",
    "q": "Arjuna Award is associated with which of the following?",
    "o": [
     "American award for music",
@@ -4159,7 +4474,7 @@
    "e": "Arjuna Award — Outstanding performance in Indian sports."
   },
   {
-   "id": "gk-misc-p02-0277",
+   "id": "gk-misc-p02-0298",
    "q": "Who is the author of Playing It My Way?",
    "o": [
     "Mary Kom",
@@ -4174,7 +4489,7 @@
    "e": "Playing It My Way is written by Sachin Tendulkar."
   },
   {
-   "id": "gk-misc-p02-0278",
+   "id": "gk-misc-p02-0299",
    "q": "First person to reach the North Pole by surface is associated with which of the following?",
    "o": [
     "Wally Herbert",
@@ -4189,7 +4504,7 @@
    "e": "First person to reach the North Pole by surface — Wally Herbert."
   },
   {
-   "id": "gk-misc-p02-0279",
+   "id": "gk-misc-p02-0300",
    "q": "Which state of India is called the Spice Garden of India?",
    "o": [
     "West Bengal",
@@ -4204,7 +4519,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "gk-misc-p02-0280",
+   "id": "gk-misc-p02-0301",
    "q": "Which river flows through the Grand Canyon of India?",
    "o": [
     "Tunga",
@@ -4219,7 +4534,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "gk-misc-p02-0281",
+   "id": "gk-misc-p02-0302",
    "q": "What are the pre-monsoon showers in Kerala called?",
    "o": [
     "Outer core",
@@ -4234,7 +4549,7 @@
    "e": "What are the pre-monsoon showers in Kerala called — Mango showers."
   },
   {
-   "id": "gk-misc-p02-0282",
+   "id": "gk-misc-p02-0303",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Black soil - Formed from crystalline rocks, rich in iron",
@@ -4249,7 +4564,7 @@
    "e": "Only Black soil - Also called regur, ideal for cotton is correctly matched."
   },
   {
-   "id": "gk-misc-p02-0283",
+   "id": "gk-misc-p02-0304",
    "q": "Which Indian state is a major producer of Limestone?",
    "o": [
     "Rajasthan",
@@ -4264,7 +4579,7 @@
    "e": "Limestone is produced in large quantities in Madhya Pradesh."
   },
   {
-   "id": "gk-misc-p02-0284",
+   "id": "gk-misc-p02-0305",
    "q": "Which committee recommended the establishment of regional rural banks?",
    "o": [
     "C. D. Deshmukh",
@@ -4279,7 +4594,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "gk-misc-p02-0285",
+   "id": "gk-misc-p02-0306",
    "q": "Choose the word most similar in meaning to Imminent.",
    "o": [
     "Opponent",
@@ -4294,7 +4609,7 @@
    "e": "Imminent means Impending."
   },
   {
-   "id": "gk-misc-p02-0286",
+   "id": "gk-misc-p02-0307",
    "q": "Choose the word most opposite in meaning to Robust.",
    "o": [
     "Inarticulate",
@@ -4309,7 +4624,7 @@
    "e": "The opposite of Robust is Feeble."
   },
   {
-   "id": "gk-misc-p02-0287",
+   "id": "gk-misc-p02-0308",
    "q": "What is the meaning of the idiom 'To laugh up one's sleeve'?",
    "o": [
     "To be secretly amused",
@@ -4324,7 +4639,7 @@
    "e": "'To laugh up one's sleeve' means To be secretly amused."
   },
   {
-   "id": "gk-misc-p02-0288",
+   "id": "gk-misc-p02-0309",
    "q": "Choose the one word substitute for: A person who writes books",
    "o": [
     "Mortuary",
@@ -4339,7 +4654,7 @@
    "e": "A person who writes books — Author."
   },
   {
-   "id": "gk-misc-p02-0289",
+   "id": "gk-misc-p02-0310",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Miniature",
@@ -4354,7 +4669,7 @@
    "e": "The correct spelling is Writing."
   },
   {
-   "id": "gk-misc-p02-0290",
+   "id": "gk-misc-p02-0311",
    "q": "What is the plural of Wolf?",
    "o": [
     "Oxen",
@@ -4369,7 +4684,7 @@
    "e": "The plural of Wolf is Wolves."
   },
   {
-   "id": "gk-misc-p02-0291",
+   "id": "gk-misc-p02-0312",
    "q": "What is the feminine form of Sir?",
    "o": [
     "Peahen",
@@ -4384,7 +4699,7 @@
    "e": "The feminine of Sir is Madam."
   },
   {
-   "id": "gk-misc-p02-0292",
+   "id": "gk-misc-p02-0313",
    "q": "What is the comparative degree of Short?",
    "o": [
     "More intelligent",
@@ -4399,7 +4714,7 @@
    "e": "Short — Shorter — Shortest."
   },
   {
-   "id": "gk-misc-p02-0293",
+   "id": "gk-misc-p02-0314",
    "q": "Fill in the blank with the correct preposition: He was accused ____ theft.",
    "o": [
     "for",
@@ -4414,7 +4729,7 @@
    "e": "The correct preposition is 'of'."
   },
   {
-   "id": "gk-misc-p02-0294",
+   "id": "gk-misc-p02-0315",
    "q": "What is the passive form of 'He will buy a car'?",
    "o": [
     "He said that he was busy",
@@ -4429,7 +4744,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "gk-misc-p02-0295",
+   "id": "gk-misc-p02-0316",
    "q": "Which Indian state has the largest number of national parks?",
    "o": [
     "Madhya Pradesh",
@@ -4444,7 +4759,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "gk-misc-p02-0296",
+   "id": "gk-misc-p02-0317",
    "q": "The scheme Atal Pension Yojana was launched with which objective?",
    "o": [
     "Soil testing and nutrient recommendations",
@@ -4459,7 +4774,7 @@
    "e": "Atal Pension Yojana — Pension for workers in the unorganised sector."
   },
   {
-   "id": "gk-misc-p02-0297",
+   "id": "gk-misc-p02-0318",
    "q": "GSAT is associated with which of the following?",
    "o": [
     "Instant bank to bank payments system",
@@ -4474,7 +4789,7 @@
    "e": "GSAT — Communication satellites of India."
   },
   {
-   "id": "gk-misc-p02-0298",
+   "id": "gk-misc-p02-0319",
    "q": "Antivirus is best described as which of the following?",
    "o": [
     "Input device that converts paper documents to digital form",
@@ -4489,7 +4804,7 @@
    "e": "Antivirus — Software that detects and removes malicious programs."
   },
   {
-   "id": "gk-misc-p02-0299",
+   "id": "gk-misc-p02-0320",
    "q": "What is the purpose of the shortcut Ctrl + P?",
    "o": [
     "Redo the last undone action",
@@ -4504,7 +4819,7 @@
    "e": "Ctrl + P is used to Print the current document."
   },
   {
-   "id": "gk-misc-p02-0300",
+   "id": "gk-misc-p02-0321",
    "q": "Which type of file uses the .mp4 extension?",
    "o": [
     "Data interchange file",
@@ -4519,7 +4834,7 @@
    "e": ".mp4 is a Video file."
   },
   {
-   "id": "gk-misc-p02-0301",
+   "id": "gk-misc-p02-0322",
    "q": "What is the full form of SARFAESI?",
    "o": [
     "Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest",
@@ -4534,7 +4849,7 @@
    "e": "SARFAESI stands for Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest."
   },
   {
-   "id": "gk-misc-p02-0302",
+   "id": "gk-misc-p02-0323",
    "q": "What is the main purpose of the Convention on Biological Diversity?",
    "o": [
     "Control of transboundary movement of hazardous waste",
@@ -4549,7 +4864,7 @@
    "e": "Convention on Biological Diversity — Conservation of biological diversity."
   },
   {
-   "id": "gk-misc-p02-0303",
+   "id": "gk-misc-p02-0324",
    "q": "Which of the following is an effect or source of Mercury?",
    "o": [
     "Potent greenhouse gas from livestock and paddy fields",
@@ -4564,7 +4879,7 @@
    "e": "Mercury — Bioaccumulates and damages the brain."
   },
   {
-   "id": "gk-misc-p02-0304",
+   "id": "gk-misc-p02-0325",
    "q": "Great Nicobar Biosphere Reserve is located in which state?",
    "o": [
     "Odisha",
@@ -4579,7 +4894,7 @@
    "e": "Great Nicobar Biosphere Reserve is in Andaman and Nicobar Islands."
   },
   {
-   "id": "gk-misc-p02-0305",
+   "id": "gk-misc-p02-0326",
    "q": "Which law or scheme is described as: Protection of ecologically fragile areas?",
    "o": [
     "Eco Sensitive Zone notification",
@@ -4594,7 +4909,7 @@
    "e": "Protection of ecologically fragile areas refers to Eco Sensitive Zone notification."
   },
   {
-   "id": "gk-misc-p02-0306",
+   "id": "gk-misc-p02-0327",
    "q": "What is the capital of Israel?",
    "o": [
     "Jerusalem",
@@ -4609,7 +4924,7 @@
    "e": "The capital of Israel is Jerusalem."
   },
   {
-   "id": "gk-misc-p02-0307",
+   "id": "gk-misc-p02-0328",
    "q": "Which element has the chemical symbol Mg?",
    "o": [
     "Magnesium",
@@ -4624,7 +4939,7 @@
    "e": "Mg is the symbol of Magnesium."
   },
   {
-   "id": "gk-misc-p02-0308",
+   "id": "gk-misc-p02-0329",
    "q": "What is the capital of Madhya Pradesh?",
    "o": [
     "Kolkata",
@@ -4639,7 +4954,7 @@
    "e": "The capital of Madhya Pradesh is Bhopal."
   },
   {
-   "id": "gk-misc-p02-0309",
+   "id": "gk-misc-p02-0330",
    "q": "Jana Gana Mana holds which of the following positions in India?",
    "o": [
     "National Heritage Animal",
@@ -4654,7 +4969,7 @@
    "e": "Jana Gana Mana is the National Anthem of India."
   },
   {
-   "id": "gk-misc-p02-0310",
+   "id": "gk-misc-p02-0331",
    "q": "First woman President of India is associated with which of the following?",
    "o": [
     "Sushmita Sen",
@@ -4669,7 +4984,7 @@
    "e": "First woman President of India — Pratibha Patil."
   },
   {
-   "id": "gk-misc-p02-0311",
+   "id": "gk-misc-p02-0332",
    "q": "Kuchipudi is a folk or classical dance form of which state?",
    "o": [
     "Andhra Pradesh",
@@ -4684,7 +4999,7 @@
    "e": "Kuchipudi belongs to Andhra Pradesh."
   },
   {
-   "id": "gk-misc-p02-0312",
+   "id": "gk-misc-p02-0333",
    "q": "Mopin is a major festival of which state?",
    "o": [
     "Rajasthan",
@@ -4699,7 +5014,7 @@
    "e": "Mopin is celebrated mainly in Arunachal Pradesh."
   },
   {
-   "id": "gk-misc-p02-0313",
+   "id": "gk-misc-p02-0334",
    "q": "The river Sutlej originates from which of the following?",
    "o": [
     "Nepal Himalayas",
@@ -4714,7 +5029,7 @@
    "e": "Sutlej originates from Rakas Lake."
   },
   {
-   "id": "gk-misc-p02-0314",
+   "id": "gk-misc-p02-0335",
    "q": "Which of the following dams is built on the river Krishna?",
    "o": [
     "Idukki Dam",
@@ -4729,7 +5044,7 @@
    "e": "Srisailam Dam is built on the Krishna."
   },
   {
-   "id": "gk-misc-p02-0315",
+   "id": "gk-misc-p02-0336",
    "q": "Kalesar National Park is located in which state?",
    "o": [
     "Gujarat",
@@ -4744,7 +5059,7 @@
    "e": "Kalesar National Park is located in Haryana."
   },
   {
-   "id": "gk-misc-p02-0316",
+   "id": "gk-misc-p02-0337",
    "q": "Shipki La pass is located in which state or union territory?",
    "o": [
     "Arunachal Pradesh",
@@ -4759,7 +5074,7 @@
    "e": "Shipki La is located in Himachal Pradesh."
   },
   {
-   "id": "gk-misc-p02-0317",
+   "id": "gk-misc-p02-0338",
    "q": "What is the SI unit of Temperature?",
    "o": [
     "Reciprocal metre",
@@ -4774,7 +5089,7 @@
    "e": "The SI unit of Temperature is the Kelvin."
   },
   {
-   "id": "gk-misc-p02-0318",
+   "id": "gk-misc-p02-0339",
    "q": "Which instrument is used to measure Radiant energy?",
    "o": [
     "Fathometer",
@@ -4789,7 +5104,7 @@
    "e": "Radiometer is used to measure Radiant energy."
   },
   {
-   "id": "gk-misc-p02-0319",
+   "id": "gk-misc-p02-0340",
    "q": "What is the main function of the Large intestine in the human body?",
    "o": [
     "Transport of nutrients",
@@ -4804,7 +5119,7 @@
    "e": "The Large intestine is responsible for Absorption of water."
   },
   {
-   "id": "gk-misc-p02-0320",
+   "id": "gk-misc-p02-0341",
    "q": "Deficiency of which nutrient causes Pernicious anaemia?",
    "o": [
     "Vitamin B12",
@@ -4819,7 +5134,7 @@
    "e": "Deficiency of Vitamin B12 causes Pernicious anaemia."
   },
   {
-   "id": "gk-misc-p02-0321",
+   "id": "gk-misc-p02-0342",
    "q": "Which of the following causes Tetanus?",
    "o": [
     "Fungi",
@@ -4834,7 +5149,7 @@
    "e": "Tetanus is caused by Clostridium tetani bacteria."
   },
   {
-   "id": "gk-misc-p02-0322",
+   "id": "gk-misc-p02-0343",
    "q": "Who is credited with Transistor?",
    "o": [
     "Albert Einstein",
@@ -4849,7 +5164,7 @@
    "e": "Transistor — John Bardeen and colleagues."
   },
   {
-   "id": "gk-misc-p02-0323",
+   "id": "gk-misc-p02-0344",
    "q": "What is the chemical name of Laughing gas?",
    "o": [
     "Potassium nitrate (KNO3)",
@@ -4864,7 +5179,7 @@
    "e": "Laughing gas is Nitrous oxide (N2O)."
   },
   {
-   "id": "gk-misc-p02-0324",
+   "id": "gk-misc-p02-0345",
    "q": "Which branch of science deals with Tissues?",
    "o": [
     "Astrophysics",
@@ -4879,7 +5194,7 @@
    "e": "Histology deals with Tissues."
   },
   {
-   "id": "gk-misc-p02-0325",
+   "id": "gk-misc-p02-0346",
    "q": "Which planet or body is described as: Jupiter?",
    "o": [
     "Jupiter",
@@ -4894,7 +5209,7 @@
    "e": "Europa — Jupiter."
   },
   {
-   "id": "gk-misc-p02-0326",
+   "id": "gk-misc-p02-0347",
    "q": "Alessandro Volta is known for which of the following?",
    "o": [
     "Quantum theory",
@@ -4909,7 +5224,7 @@
    "e": "Alessandro Volta is known for Electric battery."
   },
   {
-   "id": "gk-misc-p02-0327",
+   "id": "gk-misc-p02-0348",
    "q": "In which year did the following event take place: Partition of Bengal by Lord Curzon?",
    "o": [
     "1922",
@@ -4924,7 +5239,7 @@
    "e": "Partition of Bengal by Lord Curzon — 1905."
   },
   {
-   "id": "gk-misc-p02-0328",
+   "id": "gk-misc-p02-0349",
    "q": "In which year did the following event take place: Cuban Missile Crisis?",
    "o": [
     "1918",
@@ -4939,7 +5254,7 @@
    "e": "Cuban Missile Crisis — 1962."
   },
   {
-   "id": "gk-misc-p02-0329",
+   "id": "gk-misc-p02-0350",
    "q": "Sukaphaa founded which of the following?",
    "o": [
     "Maratha Empire",
@@ -4954,7 +5269,7 @@
    "e": "Sukaphaa founded the Ahom Kingdom."
   },
   {
-   "id": "gk-misc-p02-0330",
+   "id": "gk-misc-p02-0351",
    "q": "Which of the following is true about Kanishka?",
    "o": [
     "Founder of Buddhism",
@@ -4969,7 +5284,7 @@
    "e": "Kanishka: Convened the Fourth Buddhist Council."
   },
   {
-   "id": "gk-misc-p02-0331",
+   "id": "gk-misc-p02-0352",
    "q": "Sarojini Naidu is known by which of the following titles or descriptions?",
    "o": [
     "Founder of the Indian Independence League in Japan",
@@ -4984,7 +5299,7 @@
    "e": "Sarojini Naidu — Nightingale of India."
   },
   {
-   "id": "gk-misc-p02-0332",
+   "id": "gk-misc-p02-0353",
    "q": "Which movement or act is described as: Led to the partition of India?",
    "o": [
     "Mountbatten Plan",
@@ -4999,7 +5314,7 @@
    "e": "Mountbatten Plan — Led to the partition of India."
   },
   {
-   "id": "gk-misc-p02-0333",
+   "id": "gk-misc-p02-0354",
    "q": "Which part of the Constitution deals with: Services under the Union and States?",
    "o": [
     "Part XIV, Articles 308-323",
@@ -5014,7 +5329,7 @@
    "e": "Services under the Union and States is covered under Part XIV, Articles 308-323."
   },
   {
-   "id": "gk-misc-p02-0334",
+   "id": "gk-misc-p02-0355",
    "q": "Which amendment is described as: Gave constitutional status to Municipalities?",
    "o": [
     "103rd Amendment",
@@ -5029,7 +5344,7 @@
    "e": "74th Amendment — Gave constitutional status to Municipalities."
   },
   {
-   "id": "gk-misc-p02-0335",
+   "id": "gk-misc-p02-0356",
    "q": "Who is the constitutional head of a State?",
    "o": [
     "Japan",
@@ -5044,7 +5359,7 @@
    "e": "Who is the constitutional head of a State — The Governor."
   },
   {
-   "id": "gk-misc-p02-0336",
+   "id": "gk-misc-p02-0357",
    "q": "Parliament of India is best described as which of the following?",
    "o": [
     "Regulator of telecommunications",
@@ -5059,7 +5374,7 @@
    "e": "Parliament of India — Union legislature consisting of the President and two Houses."
   },
   {
-   "id": "gk-misc-p02-0337",
+   "id": "gk-misc-p02-0358",
    "q": "On which date is World Kindness Day observed?",
    "o": [
     "1 December",
@@ -5074,7 +5389,7 @@
    "e": "World Kindness Day is observed on 13 November."
   },
   {
-   "id": "gk-misc-p02-0338",
+   "id": "gk-misc-p02-0359",
    "q": "Where is the headquarters of International Committee of the Red Cross?",
    "o": [
     "Vienna",
@@ -5089,7 +5404,7 @@
    "e": "International Committee of the Red Cross is headquartered at Geneva."
   },
   {
-   "id": "gk-misc-p02-0339",
+   "id": "gk-misc-p02-0360",
    "q": "Which sport uses teams of 7 players?",
    "o": [
     "Rugby sevens",
@@ -5104,7 +5419,7 @@
    "e": "Teams of 7 players play Kabaddi."
   },
   {
-   "id": "gk-misc-p02-0340",
+   "id": "gk-misc-p02-0361",
    "q": "Vir Chakra is associated with which of the following?",
    "o": [
     "Award for progress in spiritual matters",
@@ -5119,7 +5434,7 @@
    "e": "Vir Chakra — Third highest military decoration of India."
   },
   {
-   "id": "gk-misc-p02-0341",
+   "id": "gk-misc-p02-0362",
    "q": "Who is the author of Mein Kampf?",
    "o": [
     "Jane Austen",
@@ -5134,7 +5449,7 @@
    "e": "Mein Kampf is written by Adolf Hitler."
   },
   {
-   "id": "gk-misc-p02-0342",
+   "id": "gk-misc-p02-0363",
    "q": "First Cricket World Cup was held in is associated with which of the following?",
    "o": [
     "Soviet Union",
@@ -5149,7 +5464,7 @@
    "e": "First Cricket World Cup was held in — England."
   },
   {
-   "id": "gk-misc-p02-0343",
+   "id": "gk-misc-p02-0364",
    "q": "Which is the highest waterfall in India?",
    "o": [
     "Nagpur",
@@ -5164,7 +5479,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "gk-misc-p02-0344",
+   "id": "gk-misc-p02-0365",
    "q": "Which strait connects the Mediterranean Sea with the Atlantic Ocean?",
    "o": [
     "Kerala",
@@ -5179,7 +5494,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "gk-misc-p02-0345",
+   "id": "gk-misc-p02-0366",
    "q": "What is the dust storm of Rajasthan called?",
    "o": [
     "Loo",
@@ -5194,7 +5509,7 @@
    "e": "What is the dust storm of Rajasthan called — Andhi."
   },
   {
-   "id": "gk-misc-p02-0346",
+   "id": "gk-misc-p02-0367",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Saline soil - Contains excess salt, found in dry coastal areas",
@@ -5209,7 +5524,7 @@
    "e": "Only Saline soil - Contains excess salt, found in dry coastal areas is correctly matched."
   },
   {
-   "id": "gk-misc-p02-0347",
+   "id": "gk-misc-p02-0368",
    "q": "Which mineral is found in large quantities in Maharashtra?",
    "o": [
     "Chromite",
@@ -5224,7 +5539,7 @@
    "e": "Sillimanite is found in Maharashtra."
   },
   {
-   "id": "gk-misc-p02-0348",
+   "id": "gk-misc-p02-0369",
    "q": "What is the study of the economy as a whole called?",
    "o": [
     "Macroeconomics",
@@ -5239,7 +5554,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "gk-misc-p02-0349",
+   "id": "gk-misc-p02-0370",
    "q": "Choose the word most similar in meaning to Vindicate.",
    "o": [
     "Worsen",
@@ -5254,7 +5569,7 @@
    "e": "Vindicate means Justify."
   },
   {
-   "id": "gk-misc-p02-0350",
+   "id": "gk-misc-p02-0371",
    "q": "Choose the word most opposite in meaning to Fallacy.",
    "o": [
     "Implicit",
@@ -5269,7 +5584,7 @@
    "e": "The opposite of Fallacy is Truth."
   },
   {
-   "id": "gk-misc-p02-0351",
+   "id": "gk-misc-p02-0372",
    "q": "What is the meaning of the idiom 'Iron horse'?",
    "o": [
     "Laugh secretly",
@@ -5284,7 +5599,7 @@
    "e": "'Iron horse' means A railway engine."
   },
   {
-   "id": "gk-misc-p02-0352",
+   "id": "gk-misc-p02-0373",
    "q": "Choose the one word substitute for: A person who is a source of annoyance",
    "o": [
     "Nuisance",
@@ -5299,7 +5614,7 @@
    "e": "A person who is a source of annoyance — Nuisance."
   },
   {
-   "id": "gk-misc-p02-0353",
+   "id": "gk-misc-p02-0374",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Seize",
@@ -5314,7 +5629,7 @@
    "e": "The correct spelling is Ambitious."
   },
   {
-   "id": "gk-misc-p02-0354",
+   "id": "gk-misc-p02-0375",
    "q": "What is the plural of Index?",
    "o": [
     "Indices",
@@ -5329,7 +5644,7 @@
    "e": "The plural of Index is Indices."
   },
   {
-   "id": "gk-misc-p02-0355",
+   "id": "gk-misc-p02-0376",
    "q": "What is the feminine form of Tiger?",
    "o": [
     "Sow",
@@ -5344,7 +5659,7 @@
    "e": "The feminine of Tiger is Tigress."
   },
   {
-   "id": "gk-misc-p02-0356",
+   "id": "gk-misc-p02-0377",
    "q": "What is the comparative degree of Simple?",
    "o": [
     "More",
@@ -5359,7 +5674,7 @@
    "e": "Simple — Simpler — Simplest."
   },
   {
-   "id": "gk-misc-p02-0357",
+   "id": "gk-misc-p02-0378",
    "q": "Fill in the blank with the correct preposition: The meeting was presided ____ the chairman.",
    "o": [
     "of",
@@ -5374,7 +5689,7 @@
    "e": "The correct preposition is 'over'."
   },
   {
-   "id": "gk-misc-p02-0358",
+   "id": "gk-misc-p02-0379",
    "q": "What is the past tense of 'bring'?",
    "o": [
     "Brought",
@@ -5389,7 +5704,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "gk-misc-p02-0359",
+   "id": "gk-misc-p02-0380",
    "q": "Which mission was launched to clean the Ganga river?",
    "o": [
     "Reserve Bank of India",
@@ -5404,7 +5719,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "gk-misc-p02-0360",
+   "id": "gk-misc-p02-0381",
    "q": "The scheme Mission Indradhanush was launched with which objective?",
    "o": [
     "Collateral-free loans for micro enterprises",
@@ -5419,7 +5734,7 @@
    "e": "Mission Indradhanush — Universal immunisation of children."
   },
   {
-   "id": "gk-misc-p02-0361",
+   "id": "gk-misc-p02-0382",
    "q": "Smart Cities Mission is associated with which of the following?",
    "o": [
     "Electric vehicle promotion",
@@ -5434,7 +5749,7 @@
    "e": "Smart Cities Mission — Technology driven urban development."
   },
   {
-   "id": "gk-misc-p02-0362",
+   "id": "gk-misc-p02-0383",
    "q": "Multiprocessing is best described as which of the following?",
    "o": [
     "Object oriented programming language",
@@ -5449,7 +5764,7 @@
    "e": "Multiprocessing — Using more than one processor at a time."
   },
   {
-   "id": "gk-misc-p02-0363",
+   "id": "gk-misc-p02-0384",
    "q": "What is the purpose of the shortcut PrtScr?",
    "o": [
     "Capture the screen",
@@ -5464,7 +5779,7 @@
    "e": "PrtScr is used to Capture the screen."
   },
   {
-   "id": "gk-misc-p02-0364",
+   "id": "gk-misc-p02-0385",
    "q": "Which type of file uses the .pdf extension?",
    "o": [
     "Microsoft PowerPoint presentation",
@@ -5479,7 +5794,7 @@
    "e": ".pdf is a Portable Document Format file."
   },
   {
-   "id": "gk-misc-p02-0365",
+   "id": "gk-misc-p02-0386",
    "q": "What is the full form of IMPS?",
    "o": [
     "Association of South East Asian Nations",
@@ -5494,7 +5809,7 @@
    "e": "IMPS stands for Immediate Payment Service."
   },
   {
-   "id": "gk-misc-p02-0366",
+   "id": "gk-misc-p02-0387",
    "q": "Which agreement or organisation is described as: Seventeen goals for people and planet by 2030?",
    "o": [
     "CITES",
@@ -5509,7 +5824,7 @@
    "e": "Seventeen goals for people and planet by 2030 describes the Sustainable Development Goals."
   },
   {
-   "id": "gk-misc-p02-0367",
+   "id": "gk-misc-p02-0388",
    "q": "Which pollutant is described as: Releases heavy metals when dumped improperly?",
    "o": [
     "Arsenic",
@@ -5524,7 +5839,7 @@
    "e": "Releases heavy metals when dumped improperly is linked to Electronic waste."
   },
   {
-   "id": "gk-misc-p02-0368",
+   "id": "gk-misc-p02-0389",
    "q": "Which biosphere reserve or wetland is located in Assam?",
    "o": [
     "Agasthyamalai Biosphere Reserve",
@@ -5539,7 +5854,7 @@
    "e": "Deepor Beel is located in Assam."
   },
   {
-   "id": "gk-misc-p02-0369",
+   "id": "gk-misc-p02-0390",
    "q": "Which law or scheme is described as: Reduction of air pollution in cities?",
    "o": [
     "Eco Sensitive Zone notification",
@@ -5554,7 +5869,7 @@
    "e": "Reduction of air pollution in cities refers to National Clean Air Programme."
   },
   {
-   "id": "gk-misc-p02-0370",
+   "id": "gk-misc-p02-0391",
    "q": "What is the capital of Kyrgyzstan?",
    "o": [
     "Bishkek",
@@ -5569,7 +5884,7 @@
    "e": "The capital of Kyrgyzstan is Bishkek."
   },
   {
-   "id": "gk-misc-p02-0371",
+   "id": "gk-misc-p02-0392",
    "q": "Which element has the chemical symbol V?",
    "o": [
     "Strontium",
@@ -5584,7 +5899,7 @@
    "e": "V is the symbol of Vanadium."
   },
   {
-   "id": "gk-misc-p02-0372",
+   "id": "gk-misc-p02-0393",
    "q": "What is the capital of Maharashtra?",
    "o": [
     "Dehradun",
@@ -5599,7 +5914,7 @@
    "e": "The capital of Maharashtra is Mumbai."
   },
   {
-   "id": "gk-misc-p02-0373",
+   "id": "gk-misc-p02-0394",
    "q": "King Cobra holds which of the following positions in India?",
    "o": [
     "National Heritage Animal",
@@ -5614,7 +5929,7 @@
    "e": "King Cobra is the National Reptile of India."
   },
   {
-   "id": "gk-misc-p02-0374",
+   "id": "gk-misc-p02-0395",
    "q": "First Vice President of India is associated with which of the following?",
    "o": [
     "Rabindranath Tagore",
@@ -5629,7 +5944,7 @@
    "e": "First Vice President of India — Dr. S. Radhakrishnan."
   },
   {
-   "id": "gk-misc-p02-0375",
+   "id": "gk-misc-p02-0396",
    "q": "Oyilattam is a folk or classical dance form of which state?",
    "o": [
     "Tamil Nadu",
@@ -5644,7 +5959,7 @@
    "e": "Oyilattam belongs to Tamil Nadu."
   },
   {
-   "id": "gk-misc-p02-0376",
+   "id": "gk-misc-p02-0397",
    "q": "Gudi Padwa is a major festival of which state?",
    "o": [
     "Maharashtra",
@@ -5659,7 +5974,7 @@
    "e": "Gudi Padwa is celebrated mainly in Maharashtra."
   },
   {
-   "id": "gk-misc-p02-0377",
+   "id": "gk-misc-p02-0398",
    "q": "The river Brahmaputra originates from which of the following?",
    "o": [
     "Trimbakeshwar",
@@ -5674,7 +5989,7 @@
    "e": "Brahmaputra originates from Angsi Glacier."
   },
   {
-   "id": "gk-misc-p02-0378",
+   "id": "gk-misc-p02-0399",
    "q": "Which of the following dams is built on the river Mahanadi?",
    "o": [
     "Koyna Dam",
@@ -5689,7 +6004,7 @@
    "e": "Hirakud Dam is built on the Mahanadi."
   },
   {
-   "id": "gk-misc-p02-0379",
+   "id": "gk-misc-p02-0400",
    "q": "Eravikulam National Park is located in which state?",
    "o": [
     "Karnataka",
@@ -5704,7 +6019,7 @@
    "e": "Eravikulam National Park is located in Kerala."
   },
   {
-   "id": "gk-misc-p02-0380",
+   "id": "gk-misc-p02-0401",
    "q": "Khardung La pass is located in which state or union territory?",
    "o": [
     "Uttarakhand",
@@ -5719,7 +6034,7 @@
    "e": "Khardung La is located in Ladakh."
   },
   {
-   "id": "gk-misc-p02-0381",
+   "id": "gk-misc-p02-0402",
    "q": "What is the SI unit of Time?",
    "o": [
     "Mole",
@@ -5734,7 +6049,7 @@
    "e": "The SI unit of Time is the Second."
   },
   {
-   "id": "gk-misc-p02-0382",
+   "id": "gk-misc-p02-0403",
    "q": "Which instrument is used to measure Heart electrical activity?",
    "o": [
     "Electrocardiogram machine",
@@ -5749,7 +6064,7 @@
    "e": "Electrocardiogram machine is used to measure Heart electrical activity."
   },
   {
-   "id": "gk-misc-p02-0383",
+   "id": "gk-misc-p02-0404",
    "q": "What is the main function of the Cochlea in the human body?",
    "o": [
     "Hearing in the ear",
@@ -5764,7 +6079,7 @@
    "e": "The Cochlea is responsible for Hearing in the ear."
   },
   {
-   "id": "gk-misc-p02-0384",
+   "id": "gk-misc-p02-0405",
    "q": "Deficiency of which nutrient causes Growth retardation?",
    "o": [
     "Vitamin B3",
@@ -5779,7 +6094,7 @@
    "e": "Deficiency of Zinc causes Growth retardation."
   },
   {
-   "id": "gk-misc-p02-0385",
+   "id": "gk-misc-p02-0406",
    "q": "Which of the following causes Chickenpox?",
    "o": [
     "Varicella zoster virus",
@@ -5794,7 +6109,7 @@
    "e": "Chickenpox is caused by Varicella zoster virus."
   },
   {
-   "id": "gk-misc-p02-0386",
+   "id": "gk-misc-p02-0407",
    "q": "Who is credited with Circulation of blood?",
    "o": [
     "William Harvey",
@@ -5809,7 +6124,7 @@
    "e": "Circulation of blood — William Harvey."
   },
   {
-   "id": "gk-misc-p02-0387",
+   "id": "gk-misc-p02-0408",
    "q": "What is the chemical name of Carbolic acid?",
    "o": [
     "Phenol (C6H5OH)",
@@ -5824,7 +6139,7 @@
    "e": "Carbolic acid is Phenol (C6H5OH)."
   },
   {
-   "id": "gk-misc-p02-0388",
+   "id": "gk-misc-p02-0409",
    "q": "Which branch of science deals with Oceans?",
    "o": [
     "Oceanography",
@@ -5839,7 +6154,7 @@
    "e": "Oceanography deals with Oceans."
   },
   {
-   "id": "gk-misc-p02-0389",
+   "id": "gk-misc-p02-0410",
    "q": "Which planet or body is described as: Comet?",
    "o": [
     "Comet",
@@ -5854,7 +6169,7 @@
    "e": "Comet — Comet."
   },
   {
-   "id": "gk-misc-p02-0390",
+   "id": "gk-misc-p02-0411",
    "q": "Dmitri Mendeleev is known for which of the following?",
    "o": [
     "Periodic table of elements",
@@ -5869,7 +6184,7 @@
    "e": "Dmitri Mendeleev is known for Periodic table of elements."
   },
   {
-   "id": "gk-misc-p02-0391",
+   "id": "gk-misc-p02-0412",
    "q": "In which year did the following event take place: Constitution of India came into force?",
    "o": [
     "2008",
@@ -5884,7 +6199,7 @@
    "e": "Constitution of India came into force — 1950."
   },
   {
-   "id": "gk-misc-p02-0392",
+   "id": "gk-misc-p02-0413",
    "q": "In which year did the following event take place: Beginning of the American Civil War?",
    "o": [
     "1861",
@@ -5899,7 +6214,7 @@
    "e": "Beginning of the American Civil War — 1861."
   },
   {
-   "id": "gk-misc-p02-0393",
+   "id": "gk-misc-p02-0414",
    "q": "Sri Gupta founded which of the following?",
    "o": [
     "Mughal Empire",
@@ -5914,7 +6229,7 @@
    "e": "Sri Gupta founded the Gupta Empire."
   },
   {
-   "id": "gk-misc-p02-0394",
+   "id": "gk-misc-p02-0415",
    "q": "Which of the following is true about Samudragupta?",
    "o": [
     "Ruled from Kannauj and was praised by Hiuen Tsang",
@@ -5929,7 +6244,7 @@
    "e": "Samudragupta: Known as the Napoleon of India."
   },
   {
-   "id": "gk-misc-p02-0395",
+   "id": "gk-misc-p02-0416",
    "q": "Bal Gangadhar Tilak is known by which of the following titles or descriptions?",
    "o": [
     "Grand Old Man of India",
@@ -5944,7 +6259,7 @@
    "e": "Bal Gangadhar Tilak — Lokamanya."
   },
   {
-   "id": "gk-misc-p02-0396",
+   "id": "gk-misc-p02-0417",
    "q": "Which movement or act is described as: Joined hands with the Non-Cooperation Movement?",
    "o": [
     "Khilafat Movement",
@@ -5959,7 +6274,7 @@
    "e": "Khilafat Movement — Joined hands with the Non-Cooperation Movement."
   },
   {
-   "id": "gk-misc-p02-0397",
+   "id": "gk-misc-p02-0418",
    "q": "Which part of the Constitution deals with: Union of India consisting of States and Union Territories?",
    "o": [
     "Article 324",
@@ -5974,7 +6289,7 @@
    "e": "Union of India consisting of States and Union Territories is covered under Article 1."
   },
   {
-   "id": "gk-misc-p02-0398",
+   "id": "gk-misc-p02-0419",
    "q": "Which amendment is described as: Reserved one-third of seats for women in legislatures?",
    "o": [
     "103rd Amendment",
@@ -5989,7 +6304,7 @@
    "e": "106th Amendment — Reserved one-third of seats for women in legislatures."
   },
   {
-   "id": "gk-misc-p02-0399",
+   "id": "gk-misc-p02-0420",
    "q": "Tenth Schedule deals with?",
    "o": [
     "Anti-defection provisions",
@@ -6004,7 +6319,7 @@
    "e": "Tenth Schedule deals with — Anti-defection provisions."
   },
   {
-   "id": "gk-misc-p02-0400",
+   "id": "gk-misc-p02-0421",
    "q": "Prime Minister of India is best described as which of the following?",
    "o": [
     "Apex judicial body of India",
@@ -6019,7 +6334,7 @@
    "e": "Prime Minister of India — Head of the Union Government."
   },
   {
-   "id": "gk-misc-p02-0401",
+   "id": "gk-misc-p02-0422",
    "q": "On which date is International Labour Day observed?",
    "o": [
     "1 May",
@@ -6034,7 +6349,7 @@
    "e": "International Labour Day is observed on 1 May."
   },
   {
-   "id": "gk-misc-p02-0402",
+   "id": "gk-misc-p02-0423",
    "q": "Where is the headquarters of Asian Infrastructure Investment Bank?",
    "o": [
     "Beijing",
@@ -6049,7 +6364,7 @@
    "e": "Asian Infrastructure Investment Bank is headquartered at Beijing."
   },
   {
-   "id": "gk-misc-p02-0403",
+   "id": "gk-misc-p02-0424",
    "q": "Which sport uses teams of 6 players?",
    "o": [
     "Table tennis (singles)",
@@ -6064,7 +6379,7 @@
    "e": "Teams of 6 players play Volleyball."
   },
   {
-   "id": "gk-misc-p02-0404",
+   "id": "gk-misc-p02-0425",
    "q": "Vijay Hazare Trophy is associated with which sport?",
    "o": [
     "Table Tennis",
@@ -6079,7 +6394,7 @@
    "e": "Vijay Hazare Trophy is associated with Cricket."
   },
   {
-   "id": "gk-misc-p02-0405",
+   "id": "gk-misc-p02-0426",
    "q": "Dhyan Chand Award is associated with which of the following?",
    "o": [
     "Third highest military decoration of India",
@@ -6094,7 +6409,7 @@
    "e": "Dhyan Chand Award — Lifetime achievement in Indian sports."
   },
   {
-   "id": "gk-misc-p02-0406",
+   "id": "gk-misc-p02-0427",
    "q": "Who is the author of Panchatantra?",
    "o": [
     "Salman Rushdie",
@@ -6109,7 +6424,7 @@
    "e": "Panchatantra is written by Vishnu Sharma."
   },
   {
-   "id": "gk-misc-p02-0407",
+   "id": "gk-misc-p02-0428",
    "q": "First country to host the modern Olympic Games is associated with which of the following?",
    "o": [
     "Soviet Union",
@@ -6124,7 +6439,7 @@
    "e": "First country to host the modern Olympic Games — Greece."
   },
   {
-   "id": "gk-misc-p02-0408",
+   "id": "gk-misc-p02-0429",
    "q": "Which is the largest island in the world?",
    "o": [
     "Arctic Ocean",
@@ -6139,7 +6454,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "gk-misc-p02-0409",
+   "id": "gk-misc-p02-0430",
    "q": "Where is the Golden Temple located?",
    "o": [
     "China",
@@ -6154,7 +6469,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "gk-misc-p02-0410",
+   "id": "gk-misc-p02-0431",
    "q": "Which planet is nearest to the Earth?",
    "o": [
     "Norwester (Kal Baisakhi)",
@@ -6169,7 +6484,7 @@
    "e": "Which planet is nearest to the Earth — Venus."
   },
   {
-   "id": "gk-misc-p02-0411",
+   "id": "gk-misc-p02-0432",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Saline soil - Most fertile soil, found in the northern plains",
@@ -6184,7 +6499,7 @@
    "e": "Only Saline soil - Contains excess salt, found in dry coastal areas is correctly matched."
   },
   {
-   "id": "gk-misc-p02-0412",
+   "id": "gk-misc-p02-0433",
    "q": "Which mineral is found in large quantities in Odisha?",
    "o": [
     "Limestone",
@@ -6199,7 +6514,7 @@
    "e": "Iron ore is found in Odisha."
   },
   {
-   "id": "gk-misc-p02-0413",
+   "id": "gk-misc-p02-0434",
    "q": "Which sector is known as the tertiary sector of the economy?",
    "o": [
     "1966",
@@ -6214,7 +6529,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "gk-misc-p02-0414",
+   "id": "gk-misc-p02-0435",
    "q": "Choose the word most similar in meaning to Humane.",
    "o": [
     "Compassionate",
@@ -6229,7 +6544,7 @@
    "e": "Humane means Compassionate."
   },
   {
-   "id": "gk-misc-p02-0415",
+   "id": "gk-misc-p02-0436",
    "q": "Choose the word most opposite in meaning to Incessant.",
    "o": [
     "Intermittent",
@@ -6244,7 +6559,7 @@
    "e": "The opposite of Incessant is Intermittent."
   },
   {
-   "id": "gk-misc-p02-0416",
+   "id": "gk-misc-p02-0437",
    "q": "What is the meaning of the idiom 'Hang fire'?",
    "o": [
     "With great success",
@@ -6259,7 +6574,7 @@
    "e": "'Hang fire' means Remain undecided."
   },
   {
-   "id": "gk-misc-p02-0417",
+   "id": "gk-misc-p02-0438",
    "q": "Choose the one word substitute for: Government by officials",
    "o": [
     "Biennials",
@@ -6274,7 +6589,7 @@
    "e": "Government by officials — Bureaucracy."
   },
   {
-   "id": "gk-misc-p02-0418",
+   "id": "gk-misc-p02-0439",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Forty",
@@ -6289,7 +6604,7 @@
    "e": "The correct spelling is Tendency."
   },
   {
-   "id": "gk-misc-p02-0419",
+   "id": "gk-misc-p02-0440",
    "q": "What is the plural of Stimulus?",
    "o": [
     "Stimuli",
@@ -6304,7 +6619,7 @@
    "e": "The plural of Stimulus is Stimuli."
   },
   {
-   "id": "gk-misc-p02-0420",
+   "id": "gk-misc-p02-0441",
    "q": "What is the feminine form of Fox?",
    "o": [
     "Vixen",
@@ -6319,7 +6634,7 @@
    "e": "The feminine of Fox is Vixen."
   },
   {
-   "id": "gk-misc-p02-0421",
+   "id": "gk-misc-p02-0442",
    "q": "What is the comparative degree of Old?",
    "o": [
     "Older",
@@ -6334,7 +6649,7 @@
    "e": "Old — Older — Oldest."
   },
   {
-   "id": "gk-misc-p02-0422",
+   "id": "gk-misc-p02-0443",
    "q": "Fill in the blank with the correct preposition: He was absent ____ the class.",
    "o": [
     "from",
@@ -6349,7 +6664,7 @@
    "e": "The correct preposition is 'from'."
   },
   {
-   "id": "gk-misc-p02-0423",
+   "id": "gk-misc-p02-0444",
    "q": "What is a word that joins two clauses called?",
    "o": [
     "The base form",
@@ -6364,7 +6679,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "gk-misc-p02-0424",
+   "id": "gk-misc-p02-0445",
    "q": "In which year was the Pradhan Mantri Gram Sadak Yojana launched?",
    "o": [
     "The Elephant Whisperers",
@@ -6379,7 +6694,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "gk-misc-p02-0425",
+   "id": "gk-misc-p02-0446",
    "q": "The scheme Digital India was launched with which objective?",
    "o": [
     "Digital delivery of services and digital literacy",
@@ -6394,7 +6709,7 @@
    "e": "Digital India — Digital delivery of services and digital literacy."
   },
   {
-   "id": "gk-misc-p02-0426",
+   "id": "gk-misc-p02-0447",
    "q": "HRIDAY is associated with which of the following?",
    "o": [
     "Heritage city development and rejuvenation",
@@ -6409,7 +6724,7 @@
    "e": "HRIDAY — Heritage city development and rejuvenation."
   },
   {
-   "id": "gk-misc-p02-0427",
+   "id": "gk-misc-p02-0448",
    "q": "Python is best described as which of the following?",
    "o": [
     "Network covering a city",
@@ -6424,7 +6739,7 @@
    "e": "Python — High level general purpose programming language."
   },
   {
-   "id": "gk-misc-p02-0428",
+   "id": "gk-misc-p02-0449",
    "q": "What is the purpose of the shortcut Ctrl + S?",
    "o": [
     "Send the selected item to the Recycle Bin",
@@ -6439,7 +6754,7 @@
    "e": "Ctrl + S is used to Save the current file."
   },
   {
-   "id": "gk-misc-p02-0429",
+   "id": "gk-misc-p02-0450",
    "q": "Which file extension is used for a Data interchange file?",
    "o": [
     ".html",
@@ -6454,7 +6769,7 @@
    "e": "Data interchange file uses the extension .json."
   },
   {
-   "id": "gk-misc-p02-0430",
+   "id": "gk-misc-p02-0451",
    "q": "What is the full form of ICRC?",
    "o": [
     "Public Distribution System",
@@ -6469,7 +6784,7 @@
    "e": "ICRC stands for International Committee of the Red Cross."
   },
   {
-   "id": "gk-misc-p02-0431",
+   "id": "gk-misc-p02-0452",
    "q": "Which agreement or organisation is described as: Reduction of greenhouse gas emissions by developed countries?",
    "o": [
     "Convention on Biological Diversity",
@@ -6484,7 +6799,7 @@
    "e": "Reduction of greenhouse gas emissions by developed countries describes the Kyoto Protocol."
   },
   {
-   "id": "gk-misc-p02-0432",
+   "id": "gk-misc-p02-0453",
    "q": "Which pollutant is described as: Causes acid rain?",
    "o": [
     "Mercury",
@@ -6499,7 +6814,7 @@
    "e": "Causes acid rain is linked to Sulphur dioxide."
   },
   {
-   "id": "gk-misc-p02-0433",
+   "id": "gk-misc-p02-0454",
    "q": "Which biosphere reserve or wetland is located in Uttarakhand?",
    "o": [
     "Great Nicobar Biosphere Reserve",
@@ -6514,7 +6829,7 @@
    "e": "Nanda Devi Biosphere Reserve is located in Uttarakhand."
   },
   {
-   "id": "gk-misc-p02-0434",
+   "id": "gk-misc-p02-0455",
    "q": "Which law or scheme is described as: Prevention of air pollution?",
    "o": [
     "Environment Protection Act 1986",
@@ -6529,7 +6844,7 @@
    "e": "Prevention of air pollution refers to Air Act 1981."
   },
   {
-   "id": "gk-misc-p02-0435",
+   "id": "gk-misc-p02-0456",
    "q": "What is the capital of Albania?",
    "o": [
     "Tirana",
@@ -6544,7 +6859,7 @@
    "e": "The capital of Albania is Tirana."
   },
   {
-   "id": "gk-misc-p02-0436",
+   "id": "gk-misc-p02-0457",
    "q": "Which element has the chemical symbol Ta?",
    "o": [
     "Tantalum",
@@ -6559,7 +6874,7 @@
    "e": "Ta is the symbol of Tantalum."
   },
   {
-   "id": "gk-misc-p02-0437",
+   "id": "gk-misc-p02-0458",
    "q": "What is the capital of Mizoram?",
    "o": [
     "Imphal",
@@ -6574,7 +6889,7 @@
    "e": "The capital of Mizoram is Aizawl."
   },
   {
-   "id": "gk-misc-p02-0438",
+   "id": "gk-misc-p02-0459",
    "q": "Mango holds which of the following positions in India?",
    "o": [
     "National Song",
@@ -6589,7 +6904,7 @@
    "e": "Mango is the National Fruit of India."
   },
   {
-   "id": "gk-misc-p02-0439",
+   "id": "gk-misc-p02-0460",
    "q": "First Indian to travel to space is associated with which of the following?",
    "o": [
     "Lord Mountbatten",
@@ -6604,7 +6919,7 @@
    "e": "First Indian to travel to space — Rakesh Sharma."
   },
   {
-   "id": "gk-misc-p02-0440",
+   "id": "gk-misc-p02-0461",
    "q": "Dhali is a folk or classical dance form of which state?",
    "o": [
     "Andhra Pradesh",
@@ -6619,7 +6934,7 @@
    "e": "Dhali belongs to West Bengal."
   },
   {
-   "id": "gk-misc-p02-0441",
+   "id": "gk-misc-p02-0462",
    "q": "Cheiraoba is a major festival of which state?",
    "o": [
     "Jharkhand",
@@ -6634,7 +6949,7 @@
    "e": "Cheiraoba is celebrated mainly in Manipur."
   },
   {
-   "id": "gk-misc-p02-0442",
+   "id": "gk-misc-p02-0463",
    "q": "The river Narmada originates from which of the following?",
    "o": [
     "Beas Kund",
@@ -6649,7 +6964,7 @@
    "e": "Narmada originates from Amarkantak."
   },
   {
-   "id": "gk-misc-p02-0443",
+   "id": "gk-misc-p02-0464",
    "q": "Which of the following dams is built on the river Godavari?",
    "o": [
     "Koyna Dam",
@@ -6664,7 +6979,7 @@
    "e": "Polavaram Dam is built on the Godavari."
   },
   {
-   "id": "gk-misc-p02-0444",
+   "id": "gk-misc-p02-0465",
    "q": "Kanha National Park is located in which state?",
    "o": [
     "Karnataka",
@@ -6679,7 +6994,7 @@
    "e": "Kanha National Park is located in Madhya Pradesh."
   },
   {
-   "id": "gk-misc-p02-0445",
+   "id": "gk-misc-p02-0466",
    "q": "What is the SI unit of Force?",
    "o": [
     "Hertz",
@@ -6694,7 +7009,7 @@
    "e": "The SI unit of Force is the Newton."
   },
   {
-   "id": "gk-misc-p02-0446",
+   "id": "gk-misc-p02-0467",
    "q": "Which instrument is used to measure Time accurately?",
    "o": [
     "Odometer",
@@ -6709,7 +7024,7 @@
    "e": "Chronometer is used to measure Time accurately."
   },
   {
-   "id": "gk-misc-p02-0447",
+   "id": "gk-misc-p02-0468",
    "q": "What is the main function of the Plasma in the human body?",
    "o": [
     "Transport of nutrients",
@@ -6724,7 +7039,7 @@
    "e": "The Plasma is responsible for Transport of nutrients."
   },
   {
-   "id": "gk-misc-p02-0448",
+   "id": "gk-misc-p02-0469",
    "q": "Deficiency of which nutrient causes Osteoporosis?",
    "o": [
     "Vitamin B1",
@@ -6739,7 +7054,7 @@
    "e": "Deficiency of Calcium causes Osteoporosis."
   },
   {
-   "id": "gk-misc-p02-0449",
+   "id": "gk-misc-p02-0470",
    "q": "Which of the following causes Athlete's foot?",
    "o": [
     "Fungi",
@@ -6754,7 +7069,7 @@
    "e": "Athlete's foot is caused by Fungi."
   },
   {
-   "id": "gk-misc-p02-0450",
+   "id": "gk-misc-p02-0471",
    "q": "Who is credited with Stethoscope?",
    "o": [
     "J. J. Thomson",
@@ -6769,7 +7084,7 @@
    "e": "Stethoscope — Rene Laennec."
   },
   {
-   "id": "gk-misc-p02-0451",
+   "id": "gk-misc-p02-0472",
    "q": "What is the chemical name of Heavy water?",
    "o": [
     "Sodium bicarbonate and tartaric acid",
@@ -6784,7 +7099,7 @@
    "e": "Heavy water is Deuterium oxide (D2O)."
   },
   {
-   "id": "gk-misc-p02-0452",
+   "id": "gk-misc-p02-0473",
    "q": "Which branch of science deals with Motion and forces?",
    "o": [
     "Ophthalmology",
@@ -6799,7 +7114,7 @@
    "e": "Mechanics deals with Motion and forces."
   },
   {
-   "id": "gk-misc-p02-0453",
+   "id": "gk-misc-p02-0474",
    "q": "Which planet or body is described as: Asteroid?",
    "o": [
     "Europa",
@@ -6814,7 +7129,7 @@
    "e": "Asteroid — Asteroid."
   },
   {
-   "id": "gk-misc-p02-0454",
+   "id": "gk-misc-p02-0475",
    "q": "Homi Bhabha is known for which of the following?",
    "o": [
     "Telephone",
@@ -6829,7 +7144,7 @@
    "e": "Homi Bhabha is known for Indian nuclear programme."
   },
   {
-   "id": "gk-misc-p02-0455",
+   "id": "gk-misc-p02-0476",
    "q": "In which year did the following event take place: Founding of the All India Muslim League?",
    "o": [
     "2023",
@@ -6844,7 +7159,7 @@
    "e": "Founding of the All India Muslim League — 1906."
   },
   {
-   "id": "gk-misc-p02-0456",
+   "id": "gk-misc-p02-0477",
    "q": "In which year did the following event take place: D-Day landings in Normandy?",
    "o": [
     "1961",
@@ -6859,7 +7174,7 @@
    "e": "D-Day landings in Normandy — 1944."
   },
   {
-   "id": "gk-misc-p02-0457",
+   "id": "gk-misc-p02-0478",
    "q": "Pulakeshin I founded which of the following?",
    "o": [
     "Mughal Empire",
@@ -6874,7 +7189,7 @@
    "e": "Pulakeshin I founded the Chalukya Dynasty."
   },
   {
-   "id": "gk-misc-p02-0458",
+   "id": "gk-misc-p02-0479",
    "q": "Which of the following is true about Krishnadevaraya?",
    "o": [
     "Last Mughal emperor",
@@ -6889,7 +7204,7 @@
    "e": "Krishnadevaraya: Famous Vijayanagara ruler and author of Amuktamalyada."
   },
   {
-   "id": "gk-misc-p02-0459",
+   "id": "gk-misc-p02-0480",
    "q": "Sardar Vallabhbhai Patel is known by which of the following titles or descriptions?",
    "o": [
     "Revolutionary executed with Bhagat Singh",
@@ -6904,7 +7219,7 @@
    "e": "Sardar Vallabhbhai Patel — Iron Man of India."
   },
   {
-   "id": "gk-misc-p02-0460",
+   "id": "gk-misc-p02-0481",
    "q": "Which movement or act is described as: Gandhi's first satyagraha in India?",
    "o": [
     "Khilafat Movement",
@@ -6919,7 +7234,7 @@
    "e": "Champaran Satyagraha — Gandhi's first satyagraha in India."
   },
   {
-   "id": "gk-misc-p02-0461",
+   "id": "gk-misc-p02-0482",
    "q": "Which part of the Constitution deals with: Panchayats?",
    "o": [
     "Articles 29-30",
@@ -6934,7 +7249,7 @@
    "e": "Panchayats is covered under Part IX, Articles 243-243O."
   },
   {
-   "id": "gk-misc-p02-0462",
+   "id": "gk-misc-p02-0483",
    "q": "Which amendment is described as: Introduced the anti-defection law (Tenth Schedule)?",
    "o": [
     "73rd Amendment",
@@ -6949,7 +7264,7 @@
    "e": "52nd Amendment — Introduced the anti-defection law (Tenth Schedule)."
   },
   {
-   "id": "gk-misc-p02-0463",
+   "id": "gk-misc-p02-0484",
    "q": "Money Bill can be introduced only in?",
    "o": [
     "The President of India",
@@ -6964,7 +7279,7 @@
    "e": "Money Bill can be introduced only in — The Lok Sabha."
   },
   {
-   "id": "gk-misc-p02-0464",
+   "id": "gk-misc-p02-0485",
    "q": "Comptroller and Auditor General is best described as which of the following?",
    "o": [
     "Protects human rights in India",
@@ -6979,7 +7294,7 @@
    "e": "Comptroller and Auditor General — Audits government accounts."
   },
   {
-   "id": "gk-misc-p02-0465",
+   "id": "gk-misc-p02-0486",
    "q": "On which date is World Post Day observed?",
    "o": [
     "28 July",
@@ -6994,7 +7309,7 @@
    "e": "World Post Day is observed on 9 October."
   },
   {
-   "id": "gk-misc-p02-0466",
+   "id": "gk-misc-p02-0487",
    "q": "Where is the headquarters of International Cricket Council?",
    "o": [
     "Dubai",
@@ -7009,7 +7324,7 @@
    "e": "International Cricket Council is headquartered at Dubai."
   },
   {
-   "id": "gk-misc-p02-0467",
+   "id": "gk-misc-p02-0488",
    "q": "Which sport uses teams of 4 players?",
    "o": [
     "Hockey",
@@ -7024,7 +7339,7 @@
    "e": "Teams of 4 players play Polo."
   },
   {
-   "id": "gk-misc-p02-0468",
+   "id": "gk-misc-p02-0489",
    "q": "French Open is associated with which sport?",
    "o": [
     "Football",
@@ -7039,7 +7354,7 @@
    "e": "French Open is associated with Tennis."
   },
   {
-   "id": "gk-misc-p02-0469",
+   "id": "gk-misc-p02-0490",
    "q": "Shanti Swarup Bhatnagar Prize is associated with which of the following?",
    "o": [
     "Indian award in science and technology",
@@ -7054,7 +7369,7 @@
    "e": "Shanti Swarup Bhatnagar Prize — Indian award in science and technology."
   },
   {
-   "id": "gk-misc-p02-0470",
+   "id": "gk-misc-p02-0491",
    "q": "Who is the author of Discovery of India?",
    "o": [
     "Phanishwar Nath Renu",
@@ -7069,7 +7384,7 @@
    "e": "Discovery of India is written by Jawaharlal Nehru."
   },
   {
-   "id": "gk-misc-p02-0471",
+   "id": "gk-misc-p02-0492",
    "q": "First President of the United States is associated with which of the following?",
    "o": [
     "George Washington",
@@ -7084,7 +7399,7 @@
    "e": "First President of the United States — George Washington."
   },
   {
-   "id": "gk-misc-p02-0472",
+   "id": "gk-misc-p02-0493",
    "q": "Which is the highest peak in the Himalayan range in India?",
    "o": [
     "Goa",
@@ -7099,7 +7414,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "gk-misc-p02-0473",
+   "id": "gk-misc-p02-0494",
    "q": "Where is the Charminar located?",
    "o": [
     "Hyderabad",
@@ -7114,7 +7429,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "gk-misc-p02-0474",
+   "id": "gk-misc-p02-0495",
    "q": "Direction of the north-east monsoon winds?",
    "o": [
     "Troposphere",
@@ -7129,7 +7444,7 @@
    "e": "Direction of the north-east monsoon winds — From the land to the sea."
   },
   {
-   "id": "gk-misc-p02-0475",
+   "id": "gk-misc-p02-0496",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Red soil - Contains excess salt, found in dry coastal areas",
@@ -7144,7 +7459,7 @@
    "e": "Only Red soil - Formed from crystalline rocks, rich in iron is correctly matched."
   },
   {
-   "id": "gk-misc-p02-0476",
+   "id": "gk-misc-p02-0497",
    "q": "Which mineral is found in large quantities in Jharkhand?",
    "o": [
     "Limestone",
@@ -7159,7 +7474,7 @@
    "e": "Kyanite is found in Jharkhand."
   },
   {
-   "id": "gk-misc-p02-0477",
+   "id": "gk-misc-p02-0498",
    "q": "Which institution provides refinance to agriculture in India?",
    "o": [
     "Regressive tax",
@@ -7174,7 +7489,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "gk-misc-p02-0478",
+   "id": "gk-misc-p02-0499",
    "q": "Choose the word most similar in meaning to Assiduous.",
    "o": [
     "Diligent",
@@ -7189,7 +7504,7 @@
    "e": "Assiduous means Diligent."
   },
   {
-   "id": "gk-misc-p02-0479",
+   "id": "gk-misc-p02-0500",
    "q": "Choose the word most opposite in meaning to Imminent.",
    "o": [
     "Apathetic",
@@ -7204,7 +7519,7 @@
    "e": "The opposite of Imminent is Distant."
   },
   {
-   "id": "gk-misc-p02-0480",
+   "id": "gk-misc-p02-0501",
    "q": "What is the meaning of the idiom 'Let the cat out of the bag'?",
    "o": [
     "A futile search",
@@ -7219,7 +7534,7 @@
    "e": "'Let the cat out of the bag' means Reveal a secret."
   },
   {
-   "id": "gk-misc-p02-0481",
+   "id": "gk-misc-p02-0502",
    "q": "Choose the one word substitute for: One who never makes a mistake",
    "o": [
     "Infallible",
@@ -7234,7 +7549,7 @@
    "e": "One who never makes a mistake — Infallible."
   },
   {
-   "id": "gk-misc-p02-0482",
+   "id": "gk-misc-p02-0503",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Appropriate",
@@ -7249,7 +7564,7 @@
    "e": "The correct spelling is Appropriate."
   },
   {
-   "id": "gk-misc-p02-0483",
+   "id": "gk-misc-p02-0504",
    "q": "What is the plural of Step-daughter?",
    "o": [
     "Lookers-on",
@@ -7264,7 +7579,7 @@
    "e": "The plural of Step-daughter is Step-daughters."
   },
   {
-   "id": "gk-misc-p02-0484",
+   "id": "gk-misc-p02-0505",
    "q": "What is the feminine form of Lion?",
    "o": [
     "Princess",
@@ -7279,7 +7594,7 @@
    "e": "The feminine of Lion is Lioness."
   },
   {
-   "id": "gk-misc-p02-0485",
+   "id": "gk-misc-p02-0506",
    "q": "What is the comparative degree of Wide?",
    "o": [
     "Shallower",
@@ -7294,7 +7609,7 @@
    "e": "Wide — Wider — Widest."
   },
   {
-   "id": "gk-misc-p02-0486",
+   "id": "gk-misc-p02-0507",
    "q": "Fill in the blank with the correct preposition: The old man died ____ his illness.",
    "o": [
     "with",
@@ -7309,7 +7624,7 @@
    "e": "The correct preposition is 'of'."
   },
   {
-   "id": "gk-misc-p02-0487",
+   "id": "gk-misc-p02-0508",
    "q": "What is the adjective form of the noun 'courage'?",
    "o": [
     "Passive voice",
@@ -7324,7 +7639,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "gk-misc-p02-0488",
+   "id": "gk-misc-p02-0509",
    "q": "Which country hosted the ICC Cricket World Cup 2023?",
    "o": [
     "Madhya Pradesh",
@@ -7339,7 +7654,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "gk-misc-p02-0489",
+   "id": "gk-misc-p02-0510",
    "q": "The scheme Poshan Abhiyaan was launched with which objective?",
    "o": [
     "Sustainable and citizen friendly urban development",
@@ -7354,7 +7669,7 @@
    "e": "Poshan Abhiyaan — Improving nutrition among children and women."
   },
   {
-   "id": "gk-misc-p02-0490",
+   "id": "gk-misc-p02-0511",
    "q": "National Broadband Mission is associated with which of the following?",
    "o": [
     "Workhorse polar satellite launch vehicle",
@@ -7369,7 +7684,7 @@
    "e": "National Broadband Mission — Broadband for all by 2024."
   },
   {
-   "id": "gk-misc-p02-0491",
+   "id": "gk-misc-p02-0512",
    "q": "Backup is best described as which of the following?",
    "o": [
     "Interface that uses icons and windows",
@@ -7384,7 +7699,7 @@
    "e": "Backup — Copy of data kept for recovery."
   },
   {
-   "id": "gk-misc-p02-0492",
+   "id": "gk-misc-p02-0513",
    "q": "What is the purpose of the shortcut Ctrl + F?",
    "o": [
     "Paste the clipboard content",
@@ -7399,7 +7714,7 @@
    "e": "Ctrl + F is used to Find text in a document."
   },
   {
-   "id": "gk-misc-p02-0493",
+   "id": "gk-misc-p02-0514",
    "q": "Which file extension is used for a Comma separated values file?",
    "o": [
     ".jpg",
@@ -7414,7 +7729,7 @@
    "e": "Comma separated values file uses the extension .csv."
   },
   {
-   "id": "gk-misc-p02-0494",
+   "id": "gk-misc-p02-0515",
    "q": "What is the full form of GST?",
    "o": [
     "Geostationary Earth Orbit",
@@ -7429,7 +7744,7 @@
    "e": "GST stands for Goods and Services Tax."
   },
   {
-   "id": "gk-misc-p02-0495",
+   "id": "gk-misc-p02-0516",
    "q": "Which agreement or organisation is described as: Restoring degraded ecosystems?",
    "o": [
     "Convention on Biological Diversity",
@@ -7444,7 +7759,7 @@
    "e": "Restoring degraded ecosystems describes the UN Decade on Ecosystem Restoration."
   },
   {
-   "id": "gk-misc-p02-0496",
+   "id": "gk-misc-p02-0517",
    "q": "Which pollutant is described as: Air pollution with fine particulate matter?",
    "o": [
     "Mercury",
@@ -7459,7 +7774,7 @@
    "e": "Air pollution with fine particulate matter is linked to Fly ash from thermal plants."
   },
   {
-   "id": "gk-misc-p02-0497",
+   "id": "gk-misc-p02-0518",
    "q": "Which biosphere reserve or wetland is located in Tamil Nadu?",
    "o": [
     "Great Nicobar Biosphere Reserve",
@@ -7474,7 +7789,7 @@
    "e": "Point Calimere is located in Tamil Nadu."
   },
   {
-   "id": "gk-misc-p02-0498",
+   "id": "gk-misc-p02-0519",
    "q": "Which law or scheme is described as: Conservation of elephants?",
    "o": [
     "Namami Gange",
@@ -7489,7 +7804,7 @@
    "e": "Conservation of elephants refers to Project Elephant."
   },
   {
-   "id": "gk-misc-p02-0499",
+   "id": "gk-misc-p02-0520",
    "q": "What is the capital of North Korea?",
    "o": [
     "Lilongwe",
@@ -7504,7 +7819,7 @@
    "e": "The capital of North Korea is Pyongyang."
   },
   {
-   "id": "gk-misc-p02-0500",
+   "id": "gk-misc-p02-0521",
    "q": "Which element has the chemical symbol Ga?",
    "o": [
     "Lead",
@@ -7519,7 +7834,7 @@
    "e": "Ga is the symbol of Gallium."
   },
   {
-   "id": "gk-misc-p02-0501",
+   "id": "gk-misc-p02-0522",
    "q": "What is the capital of Karnataka?",
    "o": [
     "Aizawl",
@@ -7534,7 +7849,7 @@
    "e": "The capital of Karnataka is Bengaluru."
   },
   {
-   "id": "gk-misc-p02-0502",
+   "id": "gk-misc-p02-0523",
    "q": "Bengal Tiger holds which of the following positions in India?",
    "o": [
     "National Flower",
@@ -7549,7 +7864,7 @@
    "e": "Bengal Tiger is the National Animal of India."
   },
   {
-   "id": "gk-misc-p02-0503",
+   "id": "gk-misc-p02-0524",
    "q": "First Indian nuclear test was conducted at is associated with which of the following?",
    "o": [
     "Pokhran",
@@ -7564,7 +7879,7 @@
    "e": "First Indian nuclear test was conducted at — Pokhran."
   },
   {
-   "id": "gk-misc-p02-0504",
+   "id": "gk-misc-p02-0525",
    "q": "Phag Dance is a folk or classical dance form of which state?",
    "o": [
     "Punjab",
@@ -7579,7 +7894,7 @@
    "e": "Phag Dance belongs to Haryana."
   },
   {
-   "id": "gk-misc-p02-0505",
+   "id": "gk-misc-p02-0526",
    "q": "Ratha Yatra is a major festival of which state?",
    "o": [
     "Bihar",
@@ -7594,7 +7909,7 @@
    "e": "Ratha Yatra is celebrated mainly in Odisha."
   },
   {
-   "id": "gk-misc-p02-0506",
+   "id": "gk-misc-p02-0527",
    "q": "The river Sharavati originates from which of the following?",
    "o": [
     "Ambutirtha",
@@ -7609,7 +7924,7 @@
    "e": "Sharavati originates from Ambutirtha."
   },
   {
-   "id": "gk-misc-p02-0507",
+   "id": "gk-misc-p02-0528",
    "q": "Which of the following dams is built on the river Narmada?",
    "o": [
     "Salal Dam",
@@ -7624,7 +7939,7 @@
    "e": "Sardar Sarovar Dam is built on the Narmada."
   },
   {
-   "id": "gk-misc-p02-0508",
+   "id": "gk-misc-p02-0529",
    "q": "Velavadar National Park is located in which state?",
    "o": [
     "Jharkhand",
@@ -7639,7 +7954,7 @@
    "e": "Velavadar National Park is located in Gujarat."
   },
   {
-   "id": "gk-misc-p02-0509",
+   "id": "gk-misc-p02-0530",
    "q": "Mana Pass pass is located in which state or union territory?",
    "o": [
     "Ladakh",
@@ -7654,7 +7969,7 @@
    "e": "Mana Pass is located in Uttarakhand."
   },
   {
-   "id": "gk-misc-p02-0510",
+   "id": "gk-misc-p02-0531",
    "q": "What is the SI unit of Illuminance?",
    "o": [
     "Lux",
@@ -7669,7 +7984,7 @@
    "e": "The SI unit of Illuminance is the Lux."
   },
   {
-   "id": "gk-misc-p02-0511",
+   "id": "gk-misc-p02-0532",
    "q": "Which instrument is used to measure Purity of milk?",
    "o": [
     "Fathometer",
@@ -7684,7 +7999,7 @@
    "e": "Lactometer is used to measure Purity of milk."
   },
   {
-   "id": "gk-misc-p02-0512",
+   "id": "gk-misc-p02-0533",
    "q": "What is the main function of the Pancreas in the human body?",
    "o": [
     "Exchange of gases",
@@ -7699,7 +8014,7 @@
    "e": "The Pancreas is responsible for Secretion of insulin."
   },
   {
-   "id": "gk-misc-p02-0513",
+   "id": "gk-misc-p02-0534",
    "q": "Which disease is caused by the deficiency of Vitamin A?",
    "o": [
     "Delayed blood clotting",
@@ -7714,7 +8029,7 @@
    "e": "Deficiency of Vitamin A causes Xerophthalmia."
   },
   {
-   "id": "gk-misc-p02-0514",
+   "id": "gk-misc-p02-0535",
    "q": "Which of the following causes Diphtheria?",
    "o": [
     "Dengue virus",
@@ -7729,7 +8044,7 @@
    "e": "Diphtheria is caused by Corynebacterium diphtheriae bacteria."
   },
   {
-   "id": "gk-misc-p02-0515",
+   "id": "gk-misc-p02-0536",
    "q": "Who is credited with Aerodynamics and flight principles?",
    "o": [
     "George Cayley",
@@ -7744,7 +8059,7 @@
    "e": "Aerodynamics and flight principles — George Cayley."
   },
   {
-   "id": "gk-misc-p02-0516",
+   "id": "gk-misc-p02-0537",
    "q": "What is the chemical name of Caustic soda?",
    "o": [
     "Potassium nitrate (KNO3)",
@@ -7759,7 +8074,7 @@
    "e": "Caustic soda is Sodium hydroxide (NaOH)."
   },
   {
-   "id": "gk-misc-p02-0517",
+   "id": "gk-misc-p02-0538",
    "q": "Which branch of science deals with Insects?",
    "o": [
     "Entomology",
@@ -7774,7 +8089,7 @@
    "e": "Entomology deals with Insects."
   },
   {
-   "id": "gk-misc-p02-0518",
+   "id": "gk-misc-p02-0539",
    "q": "Which planet or body is described as: Halley's Comet?",
    "o": [
     "Halley's Comet",
@@ -7789,7 +8104,7 @@
    "e": "Halley's Comet — Halley's Comet."
   },
   {
-   "id": "gk-misc-p02-0519",
+   "id": "gk-misc-p02-0540",
    "q": "John Dalton is known for which of the following?",
    "o": [
     "Atomic theory",
@@ -7804,7 +8119,7 @@
    "e": "John Dalton is known for Atomic theory."
   },
   {
-   "id": "gk-misc-p02-0520",
+   "id": "gk-misc-p02-0541",
    "q": "In which year did the following event take place: Poona Pact signed?",
    "o": [
     "1932",
@@ -7819,7 +8134,7 @@
    "e": "Poona Pact signed — 1932."
   },
   {
-   "id": "gk-misc-p02-0521",
+   "id": "gk-misc-p02-0542",
    "q": "In which year did the following event take place: Nelson Mandela became President of South Africa?",
    "o": [
     "1973",
@@ -7834,7 +8149,7 @@
    "e": "Nelson Mandela became President of South Africa — 1994."
   },
   {
-   "id": "gk-misc-p02-0522",
+   "id": "gk-misc-p02-0543",
    "q": "Qutb-ud-din Aibak founded which of the following?",
    "o": [
     "Chola Dynasty (imperial phase)",
@@ -7849,7 +8164,7 @@
    "e": "Qutb-ud-din Aibak founded the Slave Dynasty of Delhi."
   },
   {
-   "id": "gk-misc-p02-0523",
+   "id": "gk-misc-p02-0544",
    "q": "Which of the following is true about Ibrahim Lodi?",
    "o": [
     "Last Sultan of Delhi, defeated at Panipat in 1526",
@@ -7864,7 +8179,7 @@
    "e": "Ibrahim Lodi: Last Sultan of Delhi, defeated at Panipat in 1526."
   },
   {
-   "id": "gk-misc-p02-0524",
+   "id": "gk-misc-p02-0545",
    "q": "C. Rajagopalachari is known by which of the following titles or descriptions?",
    "o": [
     "Last Governor-General of India",
@@ -7879,7 +8194,7 @@
    "e": "C. Rajagopalachari — Last Governor-General of India."
   },
   {
-   "id": "gk-misc-p02-0525",
+   "id": "gk-misc-p02-0546",
    "q": "Which movement or act is described as: Failed to secure Indian cooperation in WWII?",
    "o": [
     "Khilafat Movement",
@@ -7894,7 +8209,7 @@
    "e": "Cripps Mission — Failed to secure Indian cooperation in WWII."
   },
   {
-   "id": "gk-misc-p02-0526",
+   "id": "gk-misc-p02-0547",
    "q": "Which part of the Constitution deals with: Comptroller and Auditor General of India?",
    "o": [
     "Article 21A",
@@ -7909,7 +8224,7 @@
    "e": "Comptroller and Auditor General of India is covered under Article 148."
   },
   {
-   "id": "gk-misc-p02-0527",
+   "id": "gk-misc-p02-0548",
    "q": "Which amendment is described as: Added the Ninth Schedule and land reform laws?",
    "o": [
     "42nd Amendment",
@@ -7924,7 +8239,7 @@
    "e": "First Amendment — Added the Ninth Schedule and land reform laws."
   },
   {
-   "id": "gk-misc-p02-0528",
+   "id": "gk-misc-p02-0549",
    "q": "Which body advises the President on appointment of judges?",
    "o": [
     "Habeas Corpus",
@@ -7939,7 +8254,7 @@
    "e": "Which body advises the President on appointment of judges — The Supreme Court collegium."
   },
   {
-   "id": "gk-misc-p02-0529",
+   "id": "gk-misc-p02-0550",
    "q": "Lok Sabha is best described as which of the following?",
    "o": [
     "House of the People",
@@ -7954,7 +8269,7 @@
    "e": "Lok Sabha — House of the People."
   },
   {
-   "id": "gk-misc-p02-0530",
+   "id": "gk-misc-p02-0551",
    "q": "On which date is World Energy Conservation Day observed?",
    "o": [
     "23 April",
@@ -7969,7 +8284,7 @@
    "e": "World Energy Conservation Day is observed on 14 December."
   },
   {
-   "id": "gk-misc-p02-0531",
+   "id": "gk-misc-p02-0552",
    "q": "Where is the headquarters of Transparency International?",
    "o": [
     "Gland",
@@ -7984,7 +8299,7 @@
    "e": "Transparency International is headquartered at Berlin."
   },
   {
-   "id": "gk-misc-p02-0532",
+   "id": "gk-misc-p02-0553",
    "q": "Which sport uses teams of 11 players?",
    "o": [
     "Rugby union",
@@ -7999,7 +8314,7 @@
    "e": "Teams of 11 players play Hockey."
   },
   {
-   "id": "gk-misc-p02-0533",
+   "id": "gk-misc-p02-0554",
    "q": "Templeton Prize is associated with which of the following?",
    "o": [
     "Second highest peacetime gallantry award of India",
@@ -8014,7 +8329,7 @@
    "e": "Templeton Prize — Award for progress in spiritual matters."
   },
   {
-   "id": "gk-misc-p02-0534",
+   "id": "gk-misc-p02-0555",
    "q": "Who is the author of The God of Small Things?",
    "o": [
     "Arundhati Roy",
@@ -8029,7 +8344,7 @@
    "e": "The God of Small Things is written by Arundhati Roy."
   },
   {
-   "id": "gk-misc-p02-0535",
+   "id": "gk-misc-p02-0556",
    "q": "First person to walk on the Moon is associated with which of the following?",
    "o": [
     "Soviet Union",
@@ -8044,7 +8359,7 @@
    "e": "First person to walk on the Moon — Neil Armstrong."
   },
   {
-   "id": "gk-misc-p02-0536",
+   "id": "gk-misc-p02-0557",
    "q": "Which country is called the Cockpit of Europe?",
    "o": [
     "Paris",
@@ -8059,7 +8374,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "gk-misc-p02-0537",
+   "id": "gk-misc-p02-0558",
    "q": "In which ocean is the Mariana Trench located?",
    "o": [
     "Torres Strait",
@@ -8074,7 +8389,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "gk-misc-p02-0538",
+   "id": "gk-misc-p02-0559",
    "q": "Which instrument measures wind direction?",
    "o": [
     "Saturn",
@@ -8089,7 +8404,7 @@
    "e": "Which instrument measures wind direction — Wind vane."
   },
   {
-   "id": "gk-misc-p02-0539",
+   "id": "gk-misc-p02-0560",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Red soil - Found in hilly and forest regions",
@@ -8104,7 +8419,7 @@
    "e": "Only Red soil - Formed from crystalline rocks, rich in iron is correctly matched."
   },
   {
-   "id": "gk-misc-p02-0540",
+   "id": "gk-misc-p02-0561",
    "q": "Which mineral is found in large quantities in Odisha?",
    "o": [
     "Barytes",
@@ -8119,7 +8434,7 @@
    "e": "Manganese is found in Odisha."
   },
   {
-   "id": "gk-misc-p02-0541",
+   "id": "gk-misc-p02-0562",
    "q": "Which is the central bank of Japan?",
    "o": [
     "Public Distribution System",
@@ -8134,7 +8449,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "gk-misc-p02-0542",
+   "id": "gk-misc-p02-0563",
    "q": "Choose the word most similar in meaning to Mitigate.",
    "o": [
     "Disprove",
@@ -8149,7 +8464,7 @@
    "e": "Mitigate means Relieve."
   },
   {
-   "id": "gk-misc-p02-0543",
+   "id": "gk-misc-p02-0564",
    "q": "Choose the word most opposite in meaning to Judicious.",
    "o": [
     "Praise",
@@ -8164,7 +8479,7 @@
    "e": "The opposite of Judicious is Foolish."
   },
   {
-   "id": "gk-misc-p02-0544",
+   "id": "gk-misc-p02-0565",
    "q": "What is the meaning of the idiom 'To move heaven and earth'?",
    "o": [
     "Use every possible effort",
@@ -8179,7 +8494,7 @@
    "e": "'To move heaven and earth' means To make every possible effort."
   },
   {
-   "id": "gk-misc-p02-0545",
+   "id": "gk-misc-p02-0566",
    "q": "Choose the one word substitute for: A state of lawlessness",
    "o": [
     "Panacea",
@@ -8194,7 +8509,7 @@
    "e": "A state of lawlessness — Anarchy."
   },
   {
-   "id": "gk-misc-p02-0546",
+   "id": "gk-misc-p02-0567",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Category",
@@ -8209,7 +8524,7 @@
    "e": "The correct spelling is Sacrifice."
   },
   {
-   "id": "gk-misc-p02-0547",
+   "id": "gk-misc-p02-0568",
    "q": "What is the plural of Army?",
    "o": [
     "Step-daughters",
@@ -8224,7 +8539,7 @@
    "e": "The plural of Army is Armies."
   },
   {
-   "id": "gk-misc-p02-0548",
+   "id": "gk-misc-p02-0569",
    "q": "What is the feminine form of Uncle?",
    "o": [
     "Aunt",
@@ -8239,7 +8554,7 @@
    "e": "The feminine of Uncle is Aunt."
   },
   {
-   "id": "gk-misc-p02-0549",
+   "id": "gk-misc-p02-0570",
    "q": "What is the comparative degree of Hot?",
    "o": [
     "Hotter",
@@ -8254,7 +8569,7 @@
    "e": "Hot — Hotter — Hottest."
   },
   {
-   "id": "gk-misc-p02-0550",
+   "id": "gk-misc-p02-0571",
    "q": "Fill in the blank with the correct preposition: She is different ____ her sister.",
    "o": [
     "from",
@@ -8269,7 +8584,7 @@
    "e": "The correct preposition is 'from'."
   },
   {
-   "id": "gk-misc-p02-0551",
+   "id": "gk-misc-p02-0572",
    "q": "What is the past participle of 'speak'?",
    "o": [
     "Past perfect tense",
@@ -8284,7 +8599,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "gk-misc-p02-0552",
+   "id": "gk-misc-p02-0573",
    "q": "In which year was Aditya-L1 launched?",
    "o": [
     "India Semiconductor Mission",
@@ -8299,7 +8614,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "gk-misc-p02-0553",
+   "id": "gk-misc-p02-0574",
    "q": "The scheme Stand Up India was launched with which objective?",
    "o": [
     "Upgraded health and wellness centres",
@@ -8314,7 +8629,7 @@
    "e": "Stand Up India — Loans to women and scheduled caste entrepreneurs."
   },
   {
-   "id": "gk-misc-p02-0554",
+   "id": "gk-misc-p02-0575",
    "q": "AstroSat is associated with which of the following?",
    "o": [
     "Multi-wavelength space observatory",
@@ -8329,7 +8644,7 @@
    "e": "AstroSat — Multi-wavelength space observatory."
   },
   {
-   "id": "gk-misc-p02-0555",
+   "id": "gk-misc-p02-0576",
    "q": "Malware is best described as which of the following?",
    "o": [
     "Running several tasks at the same time",
@@ -8344,7 +8659,7 @@
    "e": "Malware — Software designed to damage or intrude."
   },
   {
-   "id": "gk-misc-p02-0556",
+   "id": "gk-misc-p02-0577",
    "q": "What is the purpose of the shortcut Delete?",
    "o": [
     "Send the selected item to the Recycle Bin",
@@ -8359,7 +8674,7 @@
    "e": "Delete is used to Send the selected item to the Recycle Bin."
   },
   {
-   "id": "gk-misc-p02-0557",
+   "id": "gk-misc-p02-0578",
    "q": "Which file extension is used for a Cascading style sheet file?",
    "o": [
     ".css",
@@ -8374,7 +8689,7 @@
    "e": "Cascading style sheet file uses the extension .css."
   },
   {
-   "id": "gk-misc-p02-0558",
+   "id": "gk-misc-p02-0579",
    "q": "What is the full form of CBIC?",
    "o": [
     "Commission for Agricultural Costs and Prices",
@@ -8389,7 +8704,7 @@
    "e": "CBIC stands for Central Board of Indirect Taxes and Customs."
   },
   {
-   "id": "gk-misc-p02-0559",
+   "id": "gk-misc-p02-0580",
    "q": "Which agreement or organisation is described as: Limiting global temperature rise to well below two degrees Celsius?",
    "o": [
     "Sendai Framework",
@@ -8404,7 +8719,7 @@
    "e": "Limiting global temperature rise to well below two degrees Celsius describes the Paris Agreement."
   },
   {
-   "id": "gk-misc-p02-0560",
+   "id": "gk-misc-p02-0581",
    "q": "Which pollutant is described as: Cause acid rain and smog?",
    "o": [
     "Noise above 85 decibels",
@@ -8419,7 +8734,7 @@
    "e": "Cause acid rain and smog is linked to Nitrogen oxides."
   },
   {
-   "id": "gk-misc-p02-0561",
+   "id": "gk-misc-p02-0582",
    "q": "Which biosphere reserve or wetland is located in Tamil Nadu?",
    "o": [
     "Chilika Lake",
@@ -8434,7 +8749,7 @@
    "e": "Gulf of Mannar Biosphere Reserve is located in Tamil Nadu."
   },
   {
-   "id": "gk-misc-p02-0562",
+   "id": "gk-misc-p02-0583",
    "q": "Which law or scheme is described as: Cleaning the Ganga?",
    "o": [
     "Namami Gange",
@@ -8449,7 +8764,7 @@
    "e": "Cleaning the Ganga refers to Namami Gange."
   },
   {
-   "id": "gk-misc-p02-0563",
+   "id": "gk-misc-p02-0584",
    "q": "What is the capital of North Macedonia?",
    "o": [
     "Abuja",
@@ -8464,7 +8779,7 @@
    "e": "The capital of North Macedonia is Skopje."
   },
   {
-   "id": "gk-misc-p02-0564",
+   "id": "gk-misc-p02-0585",
    "q": "Which element has the chemical symbol Sb?",
    "o": [
     "Bromine",
@@ -8479,7 +8794,7 @@
    "e": "Sb is the symbol of Antimony."
   },
   {
-   "id": "gk-misc-p02-0565",
+   "id": "gk-misc-p02-0586",
    "q": "What is the capital of Chhattisgarh?",
    "o": [
     "Raipur",
@@ -8494,7 +8809,7 @@
    "e": "The capital of Chhattisgarh is Raipur."
   },
   {
-   "id": "gk-misc-p02-0566",
+   "id": "gk-misc-p02-0587",
    "q": "Banyan holds which of the following positions in India?",
    "o": [
     "National Currency",
@@ -8509,7 +8824,7 @@
    "e": "Banyan is the National Tree of India."
   },
   {
-   "id": "gk-misc-p02-0567",
+   "id": "gk-misc-p02-0588",
    "q": "First woman Chief Minister in India is associated with which of the following?",
    "o": [
     "Sucheta Kripalani",
@@ -8524,7 +8839,7 @@
    "e": "First woman Chief Minister in India — Sucheta Kripalani."
   },
   {
-   "id": "gk-misc-p02-0568",
+   "id": "gk-misc-p02-0589",
    "q": "Kalbelia is a folk or classical dance form of which state?",
    "o": [
     "Kerala",
@@ -8539,7 +8854,7 @@
    "e": "Kalbelia belongs to Rajasthan."
   },
   {
-   "id": "gk-misc-p02-0569",
+   "id": "gk-misc-p02-0590",
    "q": "Bhagoria is a major festival of which state?",
    "o": [
     "Rajasthan",
@@ -8554,7 +8869,7 @@
    "e": "Bhagoria is celebrated mainly in Madhya Pradesh."
   },
   {
-   "id": "gk-misc-p02-0570",
+   "id": "gk-misc-p02-0591",
    "q": "The river Chambal originates from which of the following?",
    "o": [
     "Janapav Hill",
@@ -8569,7 +8884,7 @@
    "e": "Chambal originates from Janapav Hill."
   },
   {
-   "id": "gk-misc-p02-0571",
+   "id": "gk-misc-p02-0592",
    "q": "Which of the following dams is built on the river Barakar?",
    "o": [
     "Maithon Dam",
@@ -8584,7 +8899,7 @@
    "e": "Maithon Dam is built on the Barakar."
   },
   {
-   "id": "gk-misc-p02-0572",
+   "id": "gk-misc-p02-0593",
    "q": "Gautam Buddha Wildlife Sanctuary is located in which state?",
    "o": [
     "Bihar",
@@ -8599,7 +8914,7 @@
    "e": "Gautam Buddha Wildlife Sanctuary is located in Bihar."
   },
   {
-   "id": "gk-misc-p02-0573",
+   "id": "gk-misc-p02-0594",
    "q": "Which of the following passes is located in Sikkim?",
    "o": [
     "Mana Pass",
@@ -8614,7 +8929,7 @@
    "e": "Nathu La is a pass in Sikkim."
   },
   {
-   "id": "gk-misc-p02-0574",
+   "id": "gk-misc-p02-0595",
    "q": "What is the SI unit of Inductance?",
    "o": [
     "Henry",
@@ -8629,7 +8944,7 @@
    "e": "The SI unit of Inductance is the Henry."
   },
   {
-   "id": "gk-misc-p02-0575",
+   "id": "gk-misc-p02-0596",
    "q": "Which instrument is used to measure Small electric currents?",
    "o": [
     "Electrocardiogram machine",
@@ -8644,7 +8959,7 @@
    "e": "Galvanometer is used to measure Small electric currents."
   },
   {
-   "id": "gk-misc-p02-0576",
+   "id": "gk-misc-p02-0597",
    "q": "What is the main function of the Platelets in the human body?",
    "o": [
     "Clotting of blood",
@@ -8659,7 +8974,7 @@
    "e": "The Platelets is responsible for Clotting of blood."
   },
   {
-   "id": "gk-misc-p02-0577",
+   "id": "gk-misc-p02-0598",
    "q": "Which disease is caused by the deficiency of Iodine?",
    "o": [
     "Beri Beri",
@@ -8674,7 +8989,7 @@
    "e": "Deficiency of Iodine causes Goitre."
   },
   {
-   "id": "gk-misc-p02-0578",
+   "id": "gk-misc-p02-0599",
    "q": "Which of the following causes Amoebic dysentery?",
    "o": [
     "Entamoeba histolytica",
@@ -8689,7 +9004,7 @@
    "e": "Amoebic dysentery is caused by Entamoeba histolytica."
   },
   {
-   "id": "gk-misc-p02-0579",
+   "id": "gk-misc-p02-0600",
    "q": "Who is credited with Penicillin?",
    "o": [
     "Karl Benz",
@@ -8704,7 +9019,7 @@
    "e": "Penicillin — Alexander Fleming."
   },
   {
-   "id": "gk-misc-p02-0580",
+   "id": "gk-misc-p02-0601",
    "q": "What is the chemical name of Marble?",
    "o": [
     "Phenol (C6H5OH)",
@@ -8719,7 +9034,7 @@
    "e": "Marble is Calcium carbonate (CaCO3)."
   },
   {
-   "id": "gk-misc-p02-0581",
+   "id": "gk-misc-p02-0602",
    "q": "Which branch of science deals with Diseases?",
    "o": [
     "Virology",
@@ -8734,7 +9049,7 @@
    "e": "Pathology deals with Diseases."
   },
   {
-   "id": "gk-misc-p02-0582",
+   "id": "gk-misc-p02-0603",
    "q": "Which of the following statements about Saturn is correct?",
    "o": [
     "Saturn",
@@ -8749,7 +9064,7 @@
    "e": "Saturn: Saturn."
   },
   {
-   "id": "gk-misc-p02-0583",
+   "id": "gk-misc-p02-0604",
    "q": "Louis Pasteur is known for which of the following?",
    "o": [
     "Fahrenheit temperature scale",
@@ -8764,7 +9079,7 @@
    "e": "Louis Pasteur is known for Germ theory and pasteurisation."
   },
   {
-   "id": "gk-misc-p02-0584",
+   "id": "gk-misc-p02-0605",
    "q": "In which year did the following event take place: Operation Blue Star?",
    "o": [
     "2008",
@@ -8779,7 +9094,7 @@
    "e": "Operation Blue Star — 1984."
   },
   {
-   "id": "gk-misc-p02-0585",
+   "id": "gk-misc-p02-0606",
    "q": "In which year did the following event take place: Bandung Conference?",
    "o": [
     "1957",
@@ -8794,7 +9109,7 @@
    "e": "Bandung Conference — 1955."
   },
   {
-   "id": "gk-misc-p02-0586",
+   "id": "gk-misc-p02-0607",
    "q": "Harihara and Bukka founded which of the following?",
    "o": [
     "Vijayanagara Empire",
@@ -8809,7 +9124,7 @@
    "e": "Harihara and Bukka founded the Vijayanagara Empire."
   },
   {
-   "id": "gk-misc-p02-0587",
+   "id": "gk-misc-p02-0608",
    "q": "Which of the following is true about Sher Shah Suri?",
    "o": [
     "Introduced the Grand Trunk Road and the Rupiya",
@@ -8824,7 +9139,7 @@
    "e": "Sher Shah Suri: Introduced the Grand Trunk Road and the Rupiya."
   },
   {
-   "id": "gk-misc-p02-0588",
+   "id": "gk-misc-p02-0609",
    "q": "Annie Besant is known by which of the following titles or descriptions?",
    "o": [
     "Founder of the Home Rule League with Tilak",
@@ -8839,7 +9154,7 @@
    "e": "Annie Besant — Founder of the Home Rule League with Tilak."
   },
   {
-   "id": "gk-misc-p02-0589",
+   "id": "gk-misc-p02-0610",
    "q": "Which movement or act is described as: Opposed because it had no Indian member?",
    "o": [
     "Round Table Conferences",
@@ -8854,7 +9169,7 @@
    "e": "Simon Commission boycott — Opposed because it had no Indian member."
   },
   {
-   "id": "gk-misc-p02-0590",
+   "id": "gk-misc-p02-0611",
    "q": "Which part of the Constitution deals with: President's rule in states?",
    "o": [
     "Article 356",
@@ -8869,7 +9184,7 @@
    "e": "President's rule in states is covered under Article 356."
   },
   {
-   "id": "gk-misc-p02-0591",
+   "id": "gk-misc-p02-0612",
    "q": "Which amendment is described as: Removed the right to property from Fundamental Rights?",
    "o": [
     "91st Amendment",
@@ -8884,7 +9199,7 @@
    "e": "44th Amendment — Removed the right to property from Fundamental Rights."
   },
   {
-   "id": "gk-misc-p02-0592",
+   "id": "gk-misc-p02-0613",
    "q": "Removal of the President is called?",
    "o": [
     "Comptroller and Auditor General",
@@ -8899,7 +9214,7 @@
    "e": "Removal of the President is called — Impeachment."
   },
   {
-   "id": "gk-misc-p02-0593",
+   "id": "gk-misc-p02-0614",
    "q": "Panchayat is best described as which of the following?",
    "o": [
     "Local self-government at the village level",
@@ -8914,7 +9229,7 @@
    "e": "Panchayat — Local self-government at the village level."
   },
   {
-   "id": "gk-misc-p02-0594",
+   "id": "gk-misc-p02-0615",
    "q": "On which date is World Tourism Day observed?",
    "o": [
     "27 September",
@@ -8929,7 +9244,7 @@
    "e": "World Tourism Day is observed on 27 September."
   },
   {
-   "id": "gk-misc-p02-0595",
+   "id": "gk-misc-p02-0616",
    "q": "Where is the headquarters of World Meteorological Organization?",
    "o": [
     "New Delhi",
@@ -8944,7 +9259,7 @@
    "e": "World Meteorological Organization is headquartered at Geneva."
   },
   {
-   "id": "gk-misc-p02-0596",
+   "id": "gk-misc-p02-0617",
    "q": "Which sport uses teams of 5 players?",
    "o": [
     "Throwball",
@@ -8959,7 +9274,7 @@
    "e": "Teams of 5 players play Basketball."
   },
   {
-   "id": "gk-misc-p02-0597",
+   "id": "gk-misc-p02-0618",
    "q": "Indira Gandhi Prize is associated with which of the following?",
    "o": [
     "International award for Physics, Chemistry, Medicine, Literature, Peace and Economics",
@@ -8974,7 +9289,7 @@
    "e": "Indira Gandhi Prize — Indian award for peace, disarmament and development."
   },
   {
-   "id": "gk-misc-p02-0598",
+   "id": "gk-misc-p02-0619",
    "q": "Who is the author of India Wins Freedom?",
    "o": [
     "Maulana Abul Kalam Azad",
@@ -8989,7 +9304,7 @@
    "e": "India Wins Freedom is written by Maulana Abul Kalam Azad."
   },
   {
-   "id": "gk-misc-p02-0599",
+   "id": "gk-misc-p02-0620",
    "q": "First country to land a man on the Moon is associated with which of the following?",
    "o": [
     "Rabindranath Tagore",
@@ -9004,7 +9319,7 @@
    "e": "First country to land a man on the Moon — United States of America."
   },
   {
-   "id": "gk-misc-p02-0600",
+   "id": "gk-misc-p02-0621",
    "q": "Which is the smallest state of India by area?",
    "o": [
     "Goa",
@@ -9019,7 +9334,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "gk-misc-p02-0601",
+   "id": "gk-misc-p02-0622",
    "q": "Which is the largest lake in the world?",
    "o": [
     "Delhi",
@@ -9034,7 +9349,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "gk-misc-p02-0602",
+   "id": "gk-misc-p02-0623",
    "q": "Which planet is known as the Red Planet?",
    "o": [
     "Venus",
@@ -9049,7 +9364,7 @@
    "e": "Which planet is known as the Red Planet — Mars."
   },
   {
-   "id": "gk-misc-p02-0603",
+   "id": "gk-misc-p02-0624",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Peaty soil - Contains excess salt, found in dry coastal areas",
@@ -9064,7 +9379,7 @@
    "e": "Only Peaty soil - Formed in waterlogged areas with organic matter is correctly matched."
   },
   {
-   "id": "gk-misc-p02-0604",
+   "id": "gk-misc-p02-0625",
    "q": "Which mineral is found in large quantities in Assam?",
    "o": [
     "Petroleum",
@@ -9079,7 +9394,7 @@
    "e": "Petroleum is found in Assam."
   },
   {
-   "id": "gk-misc-p02-0605",
+   "id": "gk-misc-p02-0626",
    "q": "Which organ of the World Bank provides loans to the poorest countries?",
    "o": [
     "International Development Association",
@@ -9094,7 +9409,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "gk-misc-p02-0606",
+   "id": "gk-misc-p02-0627",
    "q": "Choose the word most similar in meaning to Banal.",
    "o": [
     "Patience",
@@ -9109,7 +9424,7 @@
    "e": "Banal means Commonplace."
   },
   {
-   "id": "gk-misc-p02-0607",
+   "id": "gk-misc-p02-0628",
    "q": "Choose the word most opposite in meaning to Affable.",
    "o": [
     "Active",
@@ -9124,7 +9439,7 @@
    "e": "The opposite of Affable is Unfriendly."
   },
   {
-   "id": "gk-misc-p02-0608",
+   "id": "gk-misc-p02-0629",
    "q": "What is the meaning of the idiom 'Red tape'?",
    "o": [
     "Unacceptable",
@@ -9139,7 +9454,7 @@
    "e": "'Red tape' means Excessive official formality."
   },
   {
-   "id": "gk-misc-p02-0609",
+   "id": "gk-misc-p02-0630",
    "q": "Choose the one word substitute for: A medicine that counteracts a poison",
    "o": [
     "Antidote",
@@ -9154,7 +9469,7 @@
    "e": "A medicine that counteracts a poison — Antidote."
   },
   {
-   "id": "gk-misc-p02-0610",
+   "id": "gk-misc-p02-0631",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Lightning",
@@ -9169,7 +9484,7 @@
    "e": "The correct spelling is Ridiculous."
   },
   {
-   "id": "gk-misc-p02-0611",
+   "id": "gk-misc-p02-0632",
    "q": "What is the plural of Calf?",
    "o": [
     "Deer",
@@ -9184,7 +9499,7 @@
    "e": "The plural of Calf is Calves."
   },
   {
-   "id": "gk-misc-p02-0612",
+   "id": "gk-misc-p02-0633",
    "q": "What is the feminine form of Manager?",
    "o": [
     "Lady",
@@ -9199,7 +9514,7 @@
    "e": "The feminine of Manager is Manageress."
   },
   {
-   "id": "gk-misc-p02-0613",
+   "id": "gk-misc-p02-0634",
    "q": "What is the comparative degree of Heavy?",
    "o": [
     "Wiser",
@@ -9214,7 +9529,7 @@
    "e": "Heavy — Heavier — Heaviest."
   },
   {
-   "id": "gk-misc-p02-0614",
+   "id": "gk-misc-p02-0635",
    "q": "Fill in the blank with the correct preposition: She is married ____ a doctor.",
    "o": [
     "from",
@@ -9229,7 +9544,7 @@
    "e": "The correct preposition is 'to'."
   },
   {
-   "id": "gk-misc-p02-0615",
+   "id": "gk-misc-p02-0636",
    "q": "Which tense is used with 'since' and 'for'?",
    "o": [
     "Begun",
@@ -9244,7 +9559,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "gk-misc-p02-0616",
+   "id": "gk-misc-p02-0637",
    "q": "Which Indian scientist received the Bharat Ratna in 2024?",
    "o": [
     "Yudh Abhyas",
@@ -9259,7 +9574,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "gk-misc-p02-0617",
+   "id": "gk-misc-p02-0638",
    "q": "The scheme Golden Revolution was launched with which objective?",
    "o": [
     "Income support of six thousand rupees to small farmers",
@@ -9274,7 +9589,7 @@
    "e": "Golden Revolution — Development of horticulture."
   },
   {
-   "id": "gk-misc-p02-0618",
+   "id": "gk-misc-p02-0639",
    "q": "National Electric Mobility Mission is associated with which of the following?",
    "o": [
     "Regional navigation satellite",
@@ -9289,7 +9604,7 @@
    "e": "National Electric Mobility Mission — Adoption of electric vehicles."
   },
   {
-   "id": "gk-misc-p02-0619",
+   "id": "gk-misc-p02-0640",
    "q": "Scanner is best described as which of the following?",
    "o": [
     "Input device that converts paper documents to digital form",
@@ -9304,7 +9619,7 @@
    "e": "Scanner — Input device that converts paper documents to digital form."
   },
   {
-   "id": "gk-misc-p02-0620",
+   "id": "gk-misc-p02-0641",
    "q": "What is the purpose of the shortcut Alt + Tab?",
    "o": [
     "Select all items",
@@ -9319,7 +9634,7 @@
    "e": "Alt + Tab is used to Switch between open windows."
   },
   {
-   "id": "gk-misc-p02-0621",
+   "id": "gk-misc-p02-0642",
    "q": "Which file extension is used for a Video file?",
    "o": [
     ".pptx",
@@ -9334,7 +9649,7 @@
    "e": "Video file uses the extension .mp4."
   },
   {
-   "id": "gk-misc-p02-0622",
+   "id": "gk-misc-p02-0643",
    "q": "What is the full form of NEFT?",
    "o": [
     "Central Reserve Police Force",
@@ -9349,7 +9664,7 @@
    "e": "NEFT stands for National Electronic Funds Transfer."
   },
   {
-   "id": "gk-misc-p02-0623",
+   "id": "gk-misc-p02-0644",
    "q": "Which agreement or organisation is described as: Access and benefit sharing of genetic resources?",
    "o": [
     "Nagoya Protocol",
@@ -9364,7 +9679,7 @@
    "e": "Access and benefit sharing of genetic resources describes the Nagoya Protocol."
   },
   {
-   "id": "gk-misc-p02-0624",
+   "id": "gk-misc-p02-0645",
    "q": "Which pollutant is described as: Fine particles that reach deep into the lungs?",
    "o": [
     "Particulate matter PM 2.5",
@@ -9379,7 +9694,7 @@
    "e": "Fine particles that reach deep into the lungs is linked to Particulate matter PM 2.5."
   },
   {
-   "id": "gk-misc-p02-0625",
+   "id": "gk-misc-p02-0646",
    "q": "Which biosphere reserve or wetland is located in Himachal Pradesh?",
    "o": [
     "Cold Desert Biosphere Reserve",
@@ -9394,7 +9709,7 @@
    "e": "Cold Desert Biosphere Reserve is located in Himachal Pradesh."
   },
   {
-   "id": "gk-misc-p02-0626",
+   "id": "gk-misc-p02-0647",
    "q": "Which law or scheme is described as: Cleanliness and sanitation?",
    "o": [
     "Air Act 1981",
@@ -9409,7 +9724,7 @@
    "e": "Cleanliness and sanitation refers to Swachh Bharat Mission."
   },
   {
-   "id": "gk-misc-p02-0627",
+   "id": "gk-misc-p02-0648",
    "q": "What is the capital of Paraguay?",
    "o": [
     "Caracas",
@@ -9424,7 +9739,7 @@
    "e": "The capital of Paraguay is Asuncion."
   },
   {
-   "id": "gk-misc-p02-0628",
+   "id": "gk-misc-p02-0649",
    "q": "Which element has the chemical symbol In?",
    "o": [
     "Indium",
@@ -9439,7 +9754,7 @@
    "e": "In is the symbol of Indium."
   },
   {
-   "id": "gk-misc-p02-0629",
+   "id": "gk-misc-p02-0650",
    "q": "What is the capital of Uttarakhand?",
    "o": [
     "Shimla",
@@ -9454,7 +9769,7 @@
    "e": "The capital of Uttarakhand is Dehradun."
   },
   {
-   "id": "gk-misc-p02-0630",
+   "id": "gk-misc-p02-0651",
    "q": "Vande Mataram holds which of the following positions in India?",
    "o": [
     "National Reptile",
@@ -9469,7 +9784,7 @@
    "e": "Vande Mataram is the National Song of India."
   },
   {
-   "id": "gk-misc-p02-0631",
+   "id": "gk-misc-p02-0652",
    "q": "First Indian woman IPS officer is associated with which of the following?",
    "o": [
     "Kiran Bedi",
@@ -9484,7 +9799,7 @@
    "e": "First Indian woman IPS officer — Kiran Bedi."
   },
   {
-   "id": "gk-misc-p02-0632",
+   "id": "gk-misc-p02-0653",
    "q": "Bihu is a folk or classical dance form of which state?",
    "o": [
     "Meghalaya",
@@ -9499,7 +9814,7 @@
    "e": "Bihu belongs to Assam."
   },
   {
-   "id": "gk-misc-p02-0633",
+   "id": "gk-misc-p02-0654",
    "q": "Durga Puja is a major festival of which state?",
    "o": [
     "West Bengal",
@@ -9514,7 +9829,7 @@
    "e": "Durga Puja is celebrated mainly in West Bengal."
   },
   {
-   "id": "gk-misc-p02-0634",
+   "id": "gk-misc-p02-0655",
    "q": "The river Penna originates from which of the following?",
    "o": [
     "Nandi Hills",
@@ -9529,7 +9844,7 @@
    "e": "Penna originates from Nandi Hills."
   },
   {
-   "id": "gk-misc-p02-0635",
+   "id": "gk-misc-p02-0656",
    "q": "Which of the following dams is built on the river Bhavani?",
    "o": [
     "Bhavani Sagar Dam",
@@ -9544,7 +9859,7 @@
    "e": "Bhavani Sagar Dam is built on the Bhavani."
   },
   {
-   "id": "gk-misc-p02-0636",
+   "id": "gk-misc-p02-0657",
    "q": "Parambikulam Tiger Reserve is located in which state?",
    "o": [
     "Kerala",
@@ -9559,7 +9874,7 @@
    "e": "Parambikulam Tiger Reserve is located in Kerala."
   },
   {
-   "id": "gk-misc-p02-0637",
+   "id": "gk-misc-p02-0658",
    "q": "Which of the following passes is located in Ladakh?",
    "o": [
     "Shencottah Gap",
@@ -9574,7 +9889,7 @@
    "e": "Chang La is a pass in Ladakh."
   },
   {
-   "id": "gk-misc-p02-0638",
+   "id": "gk-misc-p02-0659",
    "q": "What is the SI unit of Solid angle?",
    "o": [
     "Steradian",
@@ -9589,7 +9904,7 @@
    "e": "The SI unit of Solid angle is the Steradian."
   },
   {
-   "id": "gk-misc-p02-0639",
+   "id": "gk-misc-p02-0660",
    "q": "Which instrument is used to measure Plant growth?",
    "o": [
     "Microscope",
@@ -9604,7 +9919,7 @@
    "e": "Crescograph is used to measure Plant growth."
   },
   {
-   "id": "gk-misc-p02-0640",
+   "id": "gk-misc-p02-0661",
    "q": "What is the main function of the Villi in the human body?",
    "o": [
     "Absorption of water",
@@ -9619,7 +9934,7 @@
    "e": "The Villi is responsible for Increase surface area for absorption."
   },
   {
-   "id": "gk-misc-p02-0641",
+   "id": "gk-misc-p02-0662",
    "q": "Which disease is caused by the deficiency of Vitamin A?",
    "o": [
     "Haemolysis of red blood cells",
@@ -9634,7 +9949,7 @@
    "e": "Deficiency of Vitamin A causes Night blindness."
   },
   {
-   "id": "gk-misc-p02-0642",
+   "id": "gk-misc-p02-0663",
    "q": "Which of the following causes Scabies?",
    "o": [
     "Clostridium tetani bacteria",
@@ -9649,7 +9964,7 @@
    "e": "Scabies is caused by Sarcoptes scabiei mite."
   },
   {
-   "id": "gk-misc-p02-0643",
+   "id": "gk-misc-p02-0664",
    "q": "Who is credited with Aeroplane?",
    "o": [
     "Marie Curie",
@@ -9664,7 +9979,7 @@
    "e": "Aeroplane — Wright Brothers."
   },
   {
-   "id": "gk-misc-p02-0644",
+   "id": "gk-misc-p02-0665",
    "q": "What is the chemical name of Borax?",
    "o": [
     "Calcium oxychloride (CaOCl2)",
@@ -9679,7 +9994,7 @@
    "e": "Borax is Sodium tetraborate (Na2B4O7.10H2O)."
   },
   {
-   "id": "gk-misc-p02-0645",
+   "id": "gk-misc-p02-0666",
    "q": "Which branch of science deals with Matter, energy and their interactions?",
    "o": [
     "Microbiology",
@@ -9694,7 +10009,7 @@
    "e": "Physics deals with Matter, energy and their interactions."
   },
   {
-   "id": "gk-misc-p02-0646",
+   "id": "gk-misc-p02-0667",
    "q": "Which of the following statements about Light year is correct?",
    "o": [
     "Uranus",
@@ -9709,7 +10024,7 @@
    "e": "Light year: Light year."
   },
   {
-   "id": "gk-misc-p02-0647",
+   "id": "gk-misc-p02-0668",
    "q": "Isaac Newton is known for which of the following?",
    "o": [
     "Electromagnetic induction",
@@ -9724,7 +10039,7 @@
    "e": "Isaac Newton is known for Laws of motion and gravitation."
   },
   {
-   "id": "gk-misc-p02-0648",
+   "id": "gk-misc-p02-0669",
    "q": "In which year did the following event take place: First Five Year Plan launched?",
    "o": [
     "2001",
@@ -9739,7 +10054,7 @@
    "e": "First Five Year Plan launched — 1951."
   },
   {
-   "id": "gk-misc-p02-0649",
+   "id": "gk-misc-p02-0670",
    "q": "In which year did the following event take place: Beginning of the French Revolution?",
    "o": [
     "1789",
@@ -9754,7 +10069,7 @@
    "e": "Beginning of the French Revolution — 1789."
   },
   {
-   "id": "gk-misc-p02-0650",
+   "id": "gk-misc-p02-0671",
    "q": "Ranjit Singh founded which of the following?",
    "o": [
     "Sikh Empire",
@@ -9769,7 +10084,7 @@
    "e": "Ranjit Singh founded the Sikh Empire."
   },
   {
-   "id": "gk-misc-p02-0651",
+   "id": "gk-misc-p02-0672",
    "q": "Which of the following is true about Humayun?",
    "o": [
     "Lost and regained the Mughal throne",
@@ -9784,7 +10099,7 @@
    "e": "Humayun: Lost and regained the Mughal throne."
   },
   {
-   "id": "gk-misc-p02-0652",
+   "id": "gk-misc-p02-0673",
    "q": "Jayaprakash Narayan is known by which of the following titles or descriptions?",
    "o": [
     "Leader of the 1974-77 movement",
@@ -9799,7 +10114,7 @@
    "e": "Jayaprakash Narayan — Leader of the 1974-77 movement."
   },
   {
-   "id": "gk-misc-p02-0653",
+   "id": "gk-misc-p02-0674",
    "q": "Which movement or act is described as: Formed by Motilal Nehru and C. R. Das?",
    "o": [
     "Civil Disobedience Movement",
@@ -9814,7 +10129,7 @@
    "e": "Swaraj Party — Formed by Motilal Nehru and C. R. Das."
   },
   {
-   "id": "gk-misc-p02-0654",
+   "id": "gk-misc-p02-0675",
    "q": "Which part of the Constitution deals with: Fundamental Duties?",
    "o": [
     "Article 23",
@@ -9829,7 +10144,7 @@
    "e": "Fundamental Duties is covered under Part IVA, Article 51A."
   },
   {
-   "id": "gk-misc-p02-0655",
+   "id": "gk-misc-p02-0676",
    "q": "Which amendment is described as: Gave constitutional status to Panchayati Raj?",
    "o": [
     "106th Amendment",
@@ -9844,7 +10159,7 @@
    "e": "73rd Amendment — Gave constitutional status to Panchayati Raj."
   },
   {
-   "id": "gk-misc-p02-0656",
+   "id": "gk-misc-p02-0677",
    "q": "Number of languages in the Eighth Schedule?",
    "o": [
     "22",
@@ -9859,7 +10174,7 @@
    "e": "Number of languages in the Eighth Schedule — 22."
   },
   {
-   "id": "gk-misc-p02-0657",
+   "id": "gk-misc-p02-0678",
    "q": "NITI Aayog Vice Chairman is best described as which of the following?",
    "o": [
     "Deputy to the Prime Minister in the policy think tank",
@@ -9874,7 +10189,7 @@
    "e": "NITI Aayog Vice Chairman — Deputy to the Prime Minister in the policy think tank."
   },
   {
-   "id": "gk-misc-p02-0658",
+   "id": "gk-misc-p02-0679",
    "q": "On which date is International Mother Language Day observed?",
    "o": [
     "11 December",
@@ -9889,7 +10204,7 @@
    "e": "International Mother Language Day is observed on 21 February."
   },
   {
-   "id": "gk-misc-p02-0659",
+   "id": "gk-misc-p02-0680",
    "q": "Where is the headquarters of International Civil Aviation Organization?",
    "o": [
     "Vienna",
@@ -9904,7 +10219,7 @@
    "e": "International Civil Aviation Organization is headquartered at Montreal."
   },
   {
-   "id": "gk-misc-p02-0660",
+   "id": "gk-misc-p02-0681",
    "q": "Which sport uses teams of 7 players?",
    "o": [
     "Water polo",
@@ -9919,7 +10234,7 @@
    "e": "Teams of 7 players play Handball."
   },
   {
-   "id": "gk-misc-p02-0661",
+   "id": "gk-misc-p02-0682",
    "q": "Rovers Cup is associated with which sport?",
    "o": [
     "Cricket",
@@ -9934,7 +10249,7 @@
    "e": "Rovers Cup is associated with Football."
   },
   {
-   "id": "gk-misc-p02-0662",
+   "id": "gk-misc-p02-0683",
    "q": "Shaurya Chakra is associated with which of the following?",
    "o": [
     "Third highest peacetime gallantry award of India",
@@ -9949,7 +10264,7 @@
    "e": "Shaurya Chakra — Third highest peacetime gallantry award of India."
   },
   {
-   "id": "gk-misc-p02-0663",
+   "id": "gk-misc-p02-0684",
    "q": "Who is the author of David Copperfield?",
    "o": [
     "Munshi Premchand",
@@ -9964,7 +10279,7 @@
    "e": "David Copperfield is written by Charles Dickens."
   },
   {
-   "id": "gk-misc-p02-0664",
+   "id": "gk-misc-p02-0685",
    "q": "First Winter Olympic Games were held in is associated with which of the following?",
    "o": [
     "Junko Tabei",
@@ -9979,7 +10294,7 @@
    "e": "First Winter Olympic Games were held in — Chamonix."
   },
   {
-   "id": "gk-misc-p02-0665",
+   "id": "gk-misc-p02-0686",
    "q": "Which is the largest country by area?",
    "o": [
     "West Bengal",
@@ -9994,7 +10309,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "gk-misc-p02-0666",
+   "id": "gk-misc-p02-0687",
    "q": "Which country is the largest producer of wheat?",
    "o": [
     "China",
@@ -10009,7 +10324,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "gk-misc-p02-0667",
+   "id": "gk-misc-p02-0688",
    "q": "Direction of the south-west monsoon winds?",
    "o": [
     "October to November",
@@ -10024,7 +10339,7 @@
    "e": "Direction of the south-west monsoon winds — From the sea to the land."
   },
   {
-   "id": "gk-misc-p02-0668",
+   "id": "gk-misc-p02-0689",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Peaty soil - Formed in waterlogged areas with organic matter",
@@ -10039,7 +10354,7 @@
    "e": "Only Peaty soil - Formed in waterlogged areas with organic matter is correctly matched."
   },
   {
-   "id": "gk-misc-p02-0669",
+   "id": "gk-misc-p02-0690",
    "q": "Which mineral is found in large quantities in Jharkhand?",
    "o": [
     "Uranium",
@@ -10054,7 +10369,7 @@
    "e": "Uranium is found in Jharkhand."
   },
   {
-   "id": "gk-misc-p02-0670",
+   "id": "gk-misc-p02-0691",
    "q": "What is the sale of government stakes in public sector units called?",
    "o": [
     "Disinvestment",
@@ -10069,7 +10384,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "gk-misc-p02-0671",
+   "id": "gk-misc-p02-0692",
    "q": "Choose the word most similar in meaning to Formidable.",
    "o": [
     "Daunting",
@@ -10084,7 +10399,7 @@
    "e": "Formidable means Daunting."
   },
   {
-   "id": "gk-misc-p02-0672",
+   "id": "gk-misc-p02-0693",
    "q": "Choose the word most opposite in meaning to Predicament.",
    "o": [
     "Luxurious",
@@ -10099,7 +10414,7 @@
    "e": "The opposite of Predicament is Solution."
   },
   {
-   "id": "gk-misc-p02-0673",
+   "id": "gk-misc-p02-0694",
    "q": "What is the meaning of the idiom 'Look before you leap'?",
    "o": [
     "Be ruined",
@@ -10114,7 +10429,7 @@
    "e": "'Look before you leap' means Think before acting."
   },
   {
-   "id": "gk-misc-p02-0674",
+   "id": "gk-misc-p02-0695",
    "q": "Choose the one word substitute for: One who loves mankind",
    "o": [
     "Obsolete",
@@ -10129,7 +10444,7 @@
    "e": "One who loves mankind — Philanthropist."
   },
   {
-   "id": "gk-misc-p02-0675",
+   "id": "gk-misc-p02-0696",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Hygiene",
@@ -10144,7 +10459,7 @@
    "e": "The correct spelling is Conscious."
   },
   {
-   "id": "gk-misc-p02-0676",
+   "id": "gk-misc-p02-0697",
    "q": "What is the plural of Tooth?",
    "o": [
     "Teeth",
@@ -10159,7 +10474,7 @@
    "e": "The plural of Tooth is Teeth."
   },
   {
-   "id": "gk-misc-p02-0677",
+   "id": "gk-misc-p02-0698",
    "q": "What is the feminine form of Dog?",
    "o": [
     "Duck",
@@ -10174,7 +10489,7 @@
    "e": "The feminine of Dog is Bitch."
   },
   {
-   "id": "gk-misc-p02-0678",
+   "id": "gk-misc-p02-0699",
    "q": "What is the comparative degree of Big?",
    "o": [
     "Worse",
@@ -10189,7 +10504,7 @@
    "e": "Big — Bigger — Biggest."
   },
   {
-   "id": "gk-misc-p02-0679",
+   "id": "gk-misc-p02-0700",
    "q": "Fill in the blank with the correct preposition: He is good ____ mathematics.",
    "o": [
     "of",
@@ -10204,7 +10519,7 @@
    "e": "The correct preposition is 'at'."
   },
   {
-   "id": "gk-misc-p02-0680",
+   "id": "gk-misc-p02-0701",
    "q": "What is a noun that cannot be counted called?",
    "o": [
     "A song is being sung by her",
@@ -10219,7 +10534,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "gk-misc-p02-0681",
+   "id": "gk-misc-p02-0702",
    "q": "Which missile is India's intercontinental ballistic missile?",
    "o": [
     "BRICS Summit",
@@ -10234,7 +10549,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "gk-misc-p02-0682",
+   "id": "gk-misc-p02-0703",
    "q": "The scheme Rashtriya Gokul Mission was launched with which objective?",
    "o": [
     "Building a semiconductor ecosystem in India",
@@ -10249,7 +10564,7 @@
    "e": "Rashtriya Gokul Mission — Conservation and development of indigenous cattle."
   },
   {
-   "id": "gk-misc-p02-0683",
+   "id": "gk-misc-p02-0704",
    "q": "Ujjwala Mission is associated with which of the following?",
    "o": [
     "Electronic delivery of government services",
@@ -10264,7 +10579,7 @@
    "e": "Ujjwala Mission — Clean cooking fuel for poor households."
   },
   {
-   "id": "gk-misc-p02-0684",
+   "id": "gk-misc-p02-0705",
    "q": "LAN is best described as which of the following?",
    "o": [
     "Device that modulates signals for data transmission",
@@ -10279,7 +10594,7 @@
    "e": "LAN — Network covering a small area."
   },
   {
-   "id": "gk-misc-p02-0685",
+   "id": "gk-misc-p02-0706",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Alt + Tab - Find text in a document",
@@ -10294,7 +10609,7 @@
    "e": "Only Alt + Tab - Switch between open windows is correctly matched."
   },
   {
-   "id": "gk-misc-p02-0686",
+   "id": "gk-misc-p02-0707",
    "q": "Which file extension is used for a Portable Document Format file?",
    "o": [
     ".mp3",
@@ -10309,7 +10624,7 @@
    "e": "Portable Document Format file uses the extension .pdf."
   },
   {
-   "id": "gk-misc-p02-0687",
+   "id": "gk-misc-p02-0708",
    "q": "What is the full form of ASEAN?",
    "o": [
     "International Civil Aviation Organization",
@@ -10324,7 +10639,7 @@
    "e": "ASEAN stands for Association of South East Asian Nations."
   },
   {
-   "id": "gk-misc-p02-0688",
+   "id": "gk-misc-p02-0709",
    "q": "Which agreement or organisation is described as: Framework for climate action?",
    "o": [
     "UN Framework Convention on Climate Change",
@@ -10339,7 +10654,7 @@
    "e": "Framework for climate action describes the UN Framework Convention on Climate Change."
   },
   {
-   "id": "gk-misc-p02-0689",
+   "id": "gk-misc-p02-0710",
    "q": "Which pollutant is described as: Causes fluorosis in excess?",
    "o": [
     "Fluoride",
@@ -10354,7 +10669,7 @@
    "e": "Causes fluorosis in excess is linked to Fluoride."
   },
   {
-   "id": "gk-misc-p02-0690",
+   "id": "gk-misc-p02-0711",
    "q": "Which biosphere reserve or wetland is located in Sikkim?",
    "o": [
     "Kanchenjunga Biosphere Reserve",
@@ -10369,7 +10684,7 @@
    "e": "Kanchenjunga Biosphere Reserve is located in Sikkim."
   },
   {
-   "id": "gk-misc-p02-0691",
+   "id": "gk-misc-p02-0712",
    "q": "Which law or scheme is described as: Eight missions on climate change?",
    "o": [
     "Swachh Bharat Mission",
@@ -10384,7 +10699,7 @@
    "e": "Eight missions on climate change refers to National Action Plan on Climate Change."
   },
   {
-   "id": "gk-misc-p02-0692",
+   "id": "gk-misc-p02-0713",
    "q": "What is the capital of Costa Rica?",
    "o": [
     "N'Djamena",
@@ -10399,7 +10714,7 @@
    "e": "The capital of Costa Rica is San Jose."
   },
   {
-   "id": "gk-misc-p02-0693",
+   "id": "gk-misc-p02-0714",
    "q": "Which element has the chemical symbol Og?",
    "o": [
     "Berkelium",
@@ -10414,7 +10729,7 @@
    "e": "Og is the symbol of Oganesson."
   },
   {
-   "id": "gk-misc-p02-0694",
+   "id": "gk-misc-p02-0715",
    "q": "What is the capital of Himachal Pradesh?",
    "o": [
     "Kohima",
@@ -10429,7 +10744,7 @@
    "e": "The capital of Himachal Pradesh is Shimla."
   },
   {
-   "id": "gk-misc-p02-0695",
+   "id": "gk-misc-p02-0716",
    "q": "Ganges River Dolphin holds which of the following positions in India?",
    "o": [
     "National Aquatic Animal",
@@ -10444,7 +10759,7 @@
    "e": "Ganges River Dolphin is the National Aquatic Animal of India."
   },
   {
-   "id": "gk-misc-p02-0696",
+   "id": "gk-misc-p02-0717",
    "q": "First Indian to win a Nobel Prize is associated with which of the following?",
    "o": [
     "Dr. Rajendra Prasad",
@@ -10459,7 +10774,7 @@
    "e": "First Indian to win a Nobel Prize — Rabindranath Tagore."
   },
   {
-   "id": "gk-misc-p02-0697",
+   "id": "gk-misc-p02-0718",
    "q": "Nati is a folk or classical dance form of which state?",
    "o": [
     "Punjab",
@@ -10474,7 +10789,7 @@
    "e": "Nati belongs to Himachal Pradesh."
   },
   {
-   "id": "gk-misc-p02-0698",
+   "id": "gk-misc-p02-0719",
    "q": "Sekrenyi is a major festival of which state?",
    "o": [
     "Nagaland",
@@ -10489,7 +10804,7 @@
    "e": "Sekrenyi is celebrated mainly in Nagaland."
   },
   {
-   "id": "gk-misc-p02-0699",
+   "id": "gk-misc-p02-0720",
    "q": "The river Godavari originates from which of the following?",
    "o": [
     "Gangotri Glacier",
@@ -10504,7 +10819,7 @@
    "e": "Godavari originates from Trimbakeshwar."
   },
   {
-   "id": "gk-misc-p02-0700",
+   "id": "gk-misc-p02-0721",
    "q": "Which of the following dams is built on the river Koyna?",
    "o": [
     "Mettur Dam",
@@ -10519,7 +10834,7 @@
    "e": "Koyna Dam is built on the Koyna."
   },
   {
-   "id": "gk-misc-p02-0701",
+   "id": "gk-misc-p02-0722",
    "q": "Sariska Tiger Reserve is located in which state?",
    "o": [
     "Haryana",
@@ -10534,7 +10849,7 @@
    "e": "Sariska Tiger Reserve is located in Rajasthan."
   },
   {
-   "id": "gk-misc-p02-0702",
+   "id": "gk-misc-p02-0723",
    "q": "Which of the following passes is located in Himachal Pradesh?",
    "o": [
     "Araku Valley Pass",
@@ -10549,7 +10864,7 @@
    "e": "Rohtang Pass is a pass in Himachal Pradesh."
   },
   {
-   "id": "gk-misc-p02-0703",
+   "id": "gk-misc-p02-0724",
    "q": "What is the SI unit of Amount of substance?",
    "o": [
     "Metre",
@@ -10564,7 +10879,7 @@
    "e": "The SI unit of Amount of substance is the Mole."
   },
   {
-   "id": "gk-misc-p02-0704",
+   "id": "gk-misc-p02-0725",
    "q": "Which instrument is used to measure Atmospheric pressure?",
    "o": [
     "Sphygmomanometer",
@@ -10579,7 +10894,7 @@
    "e": "Barometer is used to measure Atmospheric pressure."
   },
   {
-   "id": "gk-misc-p02-0705",
+   "id": "gk-misc-p02-0726",
    "q": "What is the main function of the Nephrons in the human body?",
    "o": [
     "Taste and speech",
@@ -10594,7 +10909,7 @@
    "e": "The Nephrons is responsible for Basic filtering units of the kidney."
   },
   {
-   "id": "gk-misc-p02-0706",
+   "id": "gk-misc-p02-0727",
    "q": "Which disease is caused by the deficiency of Sodium?",
    "o": [
     "Night blindness",
@@ -10609,7 +10924,7 @@
    "e": "Deficiency of Sodium causes Dehydration."
   },
   {
-   "id": "gk-misc-p02-0707",
+   "id": "gk-misc-p02-0728",
    "q": "Which of the following causes Hepatitis A?",
    "o": [
     "Variola virus",
@@ -10624,7 +10939,7 @@
    "e": "Hepatitis A is caused by Hepatitis A virus."
   },
   {
-   "id": "gk-misc-p02-0708",
+   "id": "gk-misc-p02-0729",
    "q": "Who is credited with Periodic table?",
    "o": [
     "Henry Cavendish",
@@ -10639,7 +10954,7 @@
    "e": "Periodic table — Dmitri Mendeleev."
   },
   {
-   "id": "gk-misc-p02-0709",
+   "id": "gk-misc-p02-0730",
    "q": "What is the chemical name of Common salt?",
    "o": [
     "Calcium oxide (CaO)",
@@ -10654,7 +10969,7 @@
    "e": "Common salt is Sodium chloride (NaCl)."
   },
   {
-   "id": "gk-misc-p02-0710",
+   "id": "gk-misc-p02-0731",
    "q": "Which branch of science deals with Skin?",
    "o": [
     "Nuclear physics",
@@ -10669,7 +10984,7 @@
    "e": "Dermatology deals with Skin."
   },
   {
-   "id": "gk-misc-p02-0711",
+   "id": "gk-misc-p02-0732",
    "q": "Which of the following statements about Neptune is correct?",
    "o": [
     "Neptune",
@@ -10684,7 +10999,7 @@
    "e": "Neptune: Neptune."
   },
   {
-   "id": "gk-misc-p02-0712",
+   "id": "gk-misc-p02-0733",
    "q": "Thomas Edison is known for which of the following?",
    "o": [
     "Missile and space launch technology",
@@ -10699,7 +11014,7 @@
    "e": "Thomas Edison is known for Phonograph and practical electric bulb."
   },
   {
-   "id": "gk-misc-p02-0713",
+   "id": "gk-misc-p02-0734",
    "q": "In which year did the following event take place: Royal Indian Navy Mutiny?",
    "o": [
     "1946",
@@ -10714,7 +11029,7 @@
    "e": "Royal Indian Navy Mutiny — 1946."
   },
   {
-   "id": "gk-misc-p02-0714",
+   "id": "gk-misc-p02-0735",
    "q": "In which year did the following event take place: Iranian Revolution?",
    "o": [
     "1688",
@@ -10729,7 +11044,7 @@
    "e": "Iranian Revolution — 1979."
   },
   {
-   "id": "gk-misc-p02-0715",
+   "id": "gk-misc-p02-0736",
    "q": "Babur founded which of the following?",
    "o": [
     "Lodi Dynasty",
@@ -10744,7 +11059,7 @@
    "e": "Babur founded the Mughal Empire."
   },
   {
-   "id": "gk-misc-p02-0716",
+   "id": "gk-misc-p02-0737",
    "q": "Which of the following is true about Harshavardhana?",
    "o": [
     "Founded the Maurya Empire with the help of Chanakya",
@@ -10759,7 +11074,7 @@
    "e": "Harshavardhana: Ruled from Kannauj and was praised by Hiuen Tsang."
   },
   {
-   "id": "gk-misc-p02-0717",
+   "id": "gk-misc-p02-0738",
    "q": "Dadabhai Naoroji is known by which of the following titles or descriptions?",
    "o": [
     "Father of the Nation",
@@ -10774,7 +11089,7 @@
    "e": "Dadabhai Naoroji — Grand Old Man of India."
   },
   {
-   "id": "gk-misc-p02-0718",
+   "id": "gk-misc-p02-0739",
    "q": "Which movement or act is described as: Announced by Ramsay MacDonald?",
    "o": [
     "Quit India Movement",
@@ -10789,7 +11104,7 @@
    "e": "Communal Award — Announced by Ramsay MacDonald."
   },
   {
-   "id": "gk-misc-p02-0719",
+   "id": "gk-misc-p02-0740",
    "q": "Which part of the Constitution deals with: Abolition of untouchability?",
    "o": [
     "Article 24",
@@ -10804,7 +11119,7 @@
    "e": "Abolition of untouchability is covered under Article 17."
   },
   {
-   "id": "gk-misc-p02-0720",
+   "id": "gk-misc-p02-0741",
    "q": "Which amendment is described as: Extended reservation of seats for SCs and STs?",
    "o": [
     "104th Amendment",
@@ -10819,7 +11134,7 @@
    "e": "104th Amendment — Extended reservation of seats for SCs and STs."
   },
   {
-   "id": "gk-misc-p02-0721",
+   "id": "gk-misc-p02-0742",
    "q": "Which writ is issued to restrain an authority from acting beyond its power?",
    "o": [
     "6",
@@ -10834,7 +11149,7 @@
    "e": "Which writ is issued to restrain an authority from acting beyond its power — Prohibition."
   },
   {
-   "id": "gk-misc-p02-0722",
+   "id": "gk-misc-p02-0743",
    "q": "Supreme Court of India is best described as which of the following?",
    "o": [
     "Constitutional head of the Republic",
@@ -10849,7 +11164,7 @@
    "e": "Supreme Court of India — Apex judicial body of India."
   },
   {
-   "id": "gk-misc-p02-0723",
+   "id": "gk-misc-p02-0744",
    "q": "On which date is Kargil Vijay Diwas observed?",
    "o": [
     "21 February",
@@ -10864,7 +11179,7 @@
    "e": "Kargil Vijay Diwas is observed on 26 July."
   },
   {
-   "id": "gk-misc-p02-0724",
+   "id": "gk-misc-p02-0745",
    "q": "Where is the headquarters of ASEAN?",
    "o": [
     "Jakarta",
@@ -10879,7 +11194,7 @@
    "e": "ASEAN is headquartered at Jakarta."
   },
   {
-   "id": "gk-misc-p02-0725",
+   "id": "gk-misc-p02-0746",
    "q": "Which sport uses teams of 8 players?",
    "o": [
     "Throwball",
@@ -10894,7 +11209,7 @@
    "e": "Teams of 8 players play Korfball."
   },
   {
-   "id": "gk-misc-p02-0726",
+   "id": "gk-misc-p02-0747",
    "q": "Khelo India Games is associated with which sport?",
    "o": [
     "Tennis",
@@ -10909,7 +11224,7 @@
    "e": "Khelo India Games is associated with Multi-sport."
   },
   {
-   "id": "gk-misc-p02-0727",
+   "id": "gk-misc-p02-0748",
    "q": "Gandhi Peace Prize is associated with which of the following?",
    "o": [
     "Highest award in Indian cinema",
@@ -10924,7 +11239,7 @@
    "e": "Gandhi Peace Prize — Indian award for social work and peace."
   },
   {
-   "id": "gk-misc-p02-0728",
+   "id": "gk-misc-p02-0749",
    "q": "Who is the author of Autobiography of a Yogi?",
    "o": [
     "Munshi Premchand",
@@ -10939,7 +11254,7 @@
    "e": "Autobiography of a Yogi is written by Paramahansa Yogananda."
   },
   {
-   "id": "gk-misc-p02-0729",
+   "id": "gk-misc-p02-0750",
    "q": "First FIFA World Cup was held in is associated with which of the following?",
    "o": [
     "Uruguay",
@@ -10954,7 +11269,7 @@
    "e": "First FIFA World Cup was held in — Uruguay."
   },
   {
-   "id": "gk-misc-p02-0730",
+   "id": "gk-misc-p02-0751",
    "q": "Which city is called the City of Canals?",
    "o": [
     "Lake Baikal",
@@ -10969,7 +11284,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "gk-misc-p02-0731",
+   "id": "gk-misc-p02-0752",
    "q": "Which is the most populous country in the world?",
    "o": [
     "India",
@@ -10984,7 +11299,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "gk-misc-p02-0732",
+   "id": "gk-misc-p02-0753",
    "q": "Season of the retreating monsoon in India?",
    "o": [
     "October to November",
@@ -10999,7 +11314,7 @@
    "e": "Season of the retreating monsoon in India — October to November."
   },
   {
-   "id": "gk-misc-p02-0733",
+   "id": "gk-misc-p02-0754",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Laterite soil - Formed by leaching in high rainfall areas",
@@ -11014,7 +11329,7 @@
    "e": "Only Laterite soil - Formed by leaching in high rainfall areas is correctly matched."
   },
   {
-   "id": "gk-misc-p02-0734",
+   "id": "gk-misc-p02-0755",
    "q": "Which mineral is found in large quantities in Madhya Pradesh?",
    "o": [
     "Gold",
@@ -11029,7 +11344,7 @@
    "e": "Limestone is found in Madhya Pradesh."
   },
   {
-   "id": "gk-misc-p02-0735",
+   "id": "gk-misc-p02-0756",
    "q": "Which sector is known as the secondary sector of the economy?",
    "o": [
     "D. Udaya Kumar",
@@ -11044,7 +11359,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "gk-misc-p02-0736",
+   "id": "gk-misc-p02-0757",
    "q": "Choose the word most similar in meaning to Eulogy.",
    "o": [
     "Deadlock",
@@ -11059,7 +11374,7 @@
    "e": "Eulogy means Praise."
   },
   {
-   "id": "gk-misc-p02-0737",
+   "id": "gk-misc-p02-0758",
    "q": "Choose the word most opposite in meaning to Appease.",
    "o": [
     "Reasonable",
@@ -11074,7 +11389,7 @@
    "e": "The opposite of Appease is Provoke."
   },
   {
-   "id": "gk-misc-p02-0738",
+   "id": "gk-misc-p02-0759",
    "q": "What is the meaning of the idiom 'Green horn'?",
    "o": [
     "An inexperienced person",
@@ -11089,7 +11404,7 @@
    "e": "'Green horn' means An inexperienced person."
   },
   {
-   "id": "gk-misc-p02-0739",
+   "id": "gk-misc-p02-0760",
    "q": "Choose the one word substitute for: Words written on a tomb",
    "o": [
     "Invincible",
@@ -11104,7 +11419,7 @@
    "e": "Words written on a tomb — Epitaph."
   },
   {
-   "id": "gk-misc-p02-0740",
+   "id": "gk-misc-p02-0761",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Acknowledgment",
@@ -11119,7 +11434,7 @@
    "e": "The correct spelling is Separate."
   },
   {
-   "id": "gk-misc-p02-0741",
+   "id": "gk-misc-p02-0762",
    "q": "What is the plural of Leaf?",
    "o": [
     "Zoos",
@@ -11134,7 +11449,7 @@
    "e": "The plural of Leaf is Leaves."
   },
   {
-   "id": "gk-misc-p02-0742",
+   "id": "gk-misc-p02-0763",
    "q": "What is the feminine form of Stepfather?",
    "o": [
     "Poetess",
@@ -11149,7 +11464,7 @@
    "e": "The feminine of Stepfather is Stepmother."
   },
   {
-   "id": "gk-misc-p02-0743",
+   "id": "gk-misc-p02-0764",
    "q": "What is the comparative degree of Narrow?",
    "o": [
     "Fatter",
@@ -11164,7 +11479,7 @@
    "e": "Narrow — Narrower — Narrowest."
   },
   {
-   "id": "gk-misc-p02-0744",
+   "id": "gk-misc-p02-0765",
    "q": "Fill in the blank with the correct preposition: The building is ____ fire.",
    "o": [
     "with",
@@ -11179,7 +11494,7 @@
    "e": "The correct preposition is 'on'."
   },
   {
-   "id": "gk-misc-p02-0745",
+   "id": "gk-misc-p02-0766",
    "q": "What is the -ing form of a verb called?",
    "o": [
     "Present participle",
@@ -11194,7 +11509,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "gk-misc-p02-0746",
+   "id": "gk-misc-p02-0767",
    "q": "Which mission aims to study gravitational waves with a space observatory?",
    "o": [
     "LISA Pathfinder",
@@ -11209,7 +11524,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "gk-misc-p02-0747",
+   "id": "gk-misc-p02-0768",
    "q": "The scheme Ayushman Arogya Mandir was launched with which objective?",
    "o": [
     "Housing for all",
@@ -11224,7 +11539,7 @@
    "e": "Ayushman Arogya Mandir — Upgraded health and wellness centres."
   },
   {
-   "id": "gk-misc-p02-0748",
+   "id": "gk-misc-p02-0769",
    "q": "Khelo India is associated with which of the following?",
    "o": [
     "Delivery of services through digital platforms",
@@ -11239,7 +11554,7 @@
    "e": "Khelo India — Grassroots sports development."
   },
   {
-   "id": "gk-misc-p02-0749",
+   "id": "gk-misc-p02-0770",
    "q": "ROM is best described as which of the following?",
    "o": [
     "Language used to style web pages",
@@ -11254,7 +11569,7 @@
    "e": "ROM — Non-volatile memory that holds firmware."
   },
   {
-   "id": "gk-misc-p02-0750",
+   "id": "gk-misc-p02-0771",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Alt + Tab - Switch between open windows",
@@ -11269,7 +11584,7 @@
    "e": "Only Alt + Tab - Switch between open windows is correctly matched."
   },
   {
-   "id": "gk-misc-p02-0751",
+   "id": "gk-misc-p02-0772",
    "q": "Which file extension is used for a Microsoft Word document?",
    "o": [
     ".json",
@@ -11284,7 +11599,7 @@
    "e": "Microsoft Word document uses the extension .docx."
   },
   {
-   "id": "gk-misc-p02-0752",
+   "id": "gk-misc-p02-0773",
    "q": "What is the full form of JEE?",
    "o": [
     "Public Distribution System",
@@ -11299,7 +11614,7 @@
    "e": "JEE stands for Joint Entrance Examination."
   },
   {
-   "id": "gk-misc-p02-0753",
+   "id": "gk-misc-p02-0774",
    "q": "Which agreement or organisation is described as: Conservation of biological diversity?",
    "o": [
     "Minamata Convention",
@@ -11314,7 +11629,7 @@
    "e": "Conservation of biological diversity describes the Convention on Biological Diversity."
   },
   {
-   "id": "gk-misc-p02-0754",
+   "id": "gk-misc-p02-0775",
    "q": "Which pollutant is described as: Bioaccumulates and damages the brain?",
    "o": [
     "Lead",
@@ -11329,7 +11644,7 @@
    "e": "Bioaccumulates and damages the brain is linked to Mercury."
   },
   {
-   "id": "gk-misc-p02-0755",
+   "id": "gk-misc-p02-0776",
    "q": "Which biosphere reserve or wetland is located in Andaman and Nicobar Islands?",
    "o": [
     "Achanakmar Amarkantak Biosphere Reserve",
@@ -11344,7 +11659,7 @@
    "e": "Great Nicobar Biosphere Reserve is located in Andaman and Nicobar Islands."
   },
   {
-   "id": "gk-misc-p02-0756",
+   "id": "gk-misc-p02-0777",
    "q": "Which law or scheme is described as: Umbrella law for environmental protection?",
    "o": [
     "National Green Tribunal",
@@ -11359,7 +11674,7 @@
    "e": "Umbrella law for environmental protection refers to Environment Protection Act 1986."
   },
   {
-   "id": "gk-misc-p02-0757",
+   "id": "gk-misc-p02-0778",
    "q": "What is the capital of Barbados?",
    "o": [
     "Yaounde",
@@ -11374,7 +11689,7 @@
    "e": "The capital of Barbados is Bridgetown."
   },
   {
-   "id": "gk-misc-p02-0758",
+   "id": "gk-misc-p02-0779",
    "q": "Which element has the chemical symbol Cr?",
    "o": [
     "Hydrogen",
@@ -11389,7 +11704,7 @@
    "e": "Cr is the symbol of Chromium."
   },
   {
-   "id": "gk-misc-p02-0759",
+   "id": "gk-misc-p02-0780",
    "q": "What is the capital of Tamil Nadu?",
    "o": [
     "Jaipur",
@@ -11404,7 +11719,7 @@
    "e": "The capital of Tamil Nadu is Chennai."
   },
   {
-   "id": "gk-misc-p02-0760",
+   "id": "gk-misc-p02-0781",
    "q": "Indian Rupee holds which of the following positions in India?",
    "o": [
     "National Animal",
@@ -11419,7 +11734,7 @@
    "e": "Indian Rupee is the National Currency of India."
   },
   {
-   "id": "gk-misc-p02-0761",
+   "id": "gk-misc-p02-0782",
    "q": "First Indian Governor-General of India is associated with which of the following?",
    "o": [
     "Justice Fathima Beevi",
@@ -11434,7 +11749,7 @@
    "e": "First Indian Governor-General of India — C. Rajagopalachari."
   },
   {
-   "id": "gk-misc-p02-0762",
+   "id": "gk-misc-p02-0783",
    "q": "Nongkrem is a folk or classical dance form of which state?",
    "o": [
     "Odisha",
@@ -11449,7 +11764,7 @@
    "e": "Nongkrem belongs to Meghalaya."
   },
   {
-   "id": "gk-misc-p02-0763",
+   "id": "gk-misc-p02-0784",
    "q": "Ugadi is a major festival of which state?",
    "o": [
     "Manipur",
@@ -11464,7 +11779,7 @@
    "e": "Ugadi is celebrated mainly in Karnataka."
   },
   {
-   "id": "gk-misc-p02-0764",
+   "id": "gk-misc-p02-0785",
    "q": "The river Ravi originates from which of the following?",
    "o": [
     "Sivagiri Hills",
@@ -11479,7 +11794,7 @@
    "e": "Ravi originates from Chamba."
   },
   {
-   "id": "gk-misc-p02-0765",
+   "id": "gk-misc-p02-0786",
    "q": "Which of the following dams is built on the river Ganga?",
    "o": [
     "Koyna Dam",
@@ -11494,7 +11809,7 @@
    "e": "Farakka Barrage is built on the Ganga."
   },
   {
-   "id": "gk-misc-p02-0766",
+   "id": "gk-misc-p02-0787",
    "q": "Barnawapara Wildlife Sanctuary is located in which state?",
    "o": [
     "Bihar",
@@ -11509,7 +11824,7 @@
    "e": "Barnawapara Wildlife Sanctuary is located in Chhattisgarh."
   },
   {
-   "id": "gk-misc-p02-0767",
+   "id": "gk-misc-p02-0788",
    "q": "Which of the following passes is located in Arunachal Pradesh?",
    "o": [
     "Bomdila Pass",
@@ -11524,7 +11839,7 @@
    "e": "Bomdila Pass is a pass in Arunachal Pradesh."
   },
   {
-   "id": "gk-misc-p02-0768",
+   "id": "gk-misc-p02-0789",
    "q": "What is the SI unit of Electric charge?",
    "o": [
     "Katal",
@@ -11539,7 +11854,7 @@
    "e": "The SI unit of Electric charge is the Coulomb."
   },
   {
-   "id": "gk-misc-p02-0769",
+   "id": "gk-misc-p02-0790",
    "q": "Which instrument is used to measure Humidity?",
    "o": [
     "Chronometer",
@@ -11554,7 +11869,7 @@
    "e": "Hygrometer is used to measure Humidity."
   },
   {
-   "id": "gk-misc-p02-0770",
+   "id": "gk-misc-p02-0791",
    "q": "What is the main function of the Thyroxine in the human body?",
    "o": [
     "Controls body metabolism",
@@ -11569,7 +11884,7 @@
    "e": "The Thyroxine is responsible for Controls body metabolism."
   },
   {
-   "id": "gk-misc-p02-0771",
+   "id": "gk-misc-p02-0792",
    "q": "Which disease is caused by the deficiency of Vitamin B1?",
    "o": [
     "Delayed blood clotting",
@@ -11584,7 +11899,7 @@
    "e": "Deficiency of Vitamin B1 causes Beri Beri."
   },
   {
-   "id": "gk-misc-p02-0772",
+   "id": "gk-misc-p02-0793",
    "q": "Which of the following causes Pneumonia?",
    "o": [
     "Streptococcus pneumoniae bacteria",
@@ -11599,7 +11914,7 @@
    "e": "Pneumonia is caused by Streptococcus pneumoniae bacteria."
   },
   {
-   "id": "gk-misc-p02-0773",
+   "id": "gk-misc-p02-0794",
    "q": "Who is credited with Atom (nuclear model)?",
    "o": [
     "Niels Bohr",
@@ -11614,7 +11929,7 @@
    "e": "Atom (nuclear model) — Niels Bohr."
   },
   {
-   "id": "gk-misc-p02-0774",
+   "id": "gk-misc-p02-0795",
    "q": "What is the chemical name of Washing soda?",
    "o": [
     "Deuterium oxide (D2O)",
@@ -11629,7 +11944,7 @@
    "e": "Washing soda is Sodium carbonate (Na2CO3)."
   },
   {
-   "id": "gk-misc-p02-0775",
+   "id": "gk-misc-p02-0796",
    "q": "Which branch of science deals with Drugs and medicines?",
    "o": [
     "Pharmacology",
@@ -11644,7 +11959,7 @@
    "e": "Pharmacology deals with Drugs and medicines."
   },
   {
-   "id": "gk-misc-p02-0776",
+   "id": "gk-misc-p02-0797",
    "q": "Which of the following statements about Venus is correct?",
    "o": [
     "Venus",
@@ -11659,7 +11974,7 @@
    "e": "Venus: Venus."
   },
   {
-   "id": "gk-misc-p02-0777",
+   "id": "gk-misc-p02-0798",
    "q": "Watson and Crick is known for which of the following?",
    "o": [
     "Double helix structure of DNA",
@@ -11674,7 +11989,7 @@
    "e": "Watson and Crick is known for Double helix structure of DNA."
   },
   {
-   "id": "gk-misc-p02-0778",
+   "id": "gk-misc-p02-0799",
    "q": "In which year did the following event take place: India-China border war?",
    "o": [
     "1962",
@@ -11689,7 +12004,7 @@
    "e": "India-China border war — 1962."
   },
   {
-   "id": "gk-misc-p02-0779",
+   "id": "gk-misc-p02-0800",
    "q": "In which year did the following event take place: Formation of the European Union by the Maastricht Treaty?",
    "o": [
     "1993",
@@ -11704,7 +12019,7 @@
    "e": "Formation of the European Union by the Maastricht Treaty — 1993."
   },
   {
-   "id": "gk-misc-p02-0780",
+   "id": "gk-misc-p02-0801",
    "q": "Gopala founded which of the following?",
    "o": [
     "Mughal Empire",
@@ -11719,7 +12034,7 @@
    "e": "Gopala founded the Pala Dynasty."
   },
   {
-   "id": "gk-misc-p02-0781",
+   "id": "gk-misc-p02-0802",
    "q": "Which of the following is true about Shivaji?",
    "o": [
     "Tenth Sikh Guru and founder of the Khalsa",
@@ -11734,7 +12049,7 @@
    "e": "Shivaji: Founded the Maratha empire and was crowned in 1674."
   },
   {
-   "id": "gk-misc-p02-0782",
+   "id": "gk-misc-p02-0803",
    "q": "Sukhdev is known by which of the following titles or descriptions?",
    "o": [
     "Author of the national anthem of India",
@@ -11749,7 +12064,7 @@
    "e": "Sukhdev — Revolutionary executed with Bhagat Singh."
   },
   {
-   "id": "gk-misc-p02-0783",
+   "id": "gk-misc-p02-0804",
    "q": "Which movement or act is described as: Held in London to discuss constitutional reform?",
    "o": [
     "Round Table Conferences",
@@ -11764,7 +12079,7 @@
    "e": "Round Table Conferences — Held in London to discuss constitutional reform."
   },
   {
-   "id": "gk-misc-p02-0784",
+   "id": "gk-misc-p02-0805",
    "q": "Which part of the Constitution deals with: Election Commission of India?",
    "o": [
     "Part II, Articles 5-11",
@@ -11779,7 +12094,7 @@
    "e": "Election Commission of India is covered under Article 324."
   },
   {
-   "id": "gk-misc-p02-0785",
+   "id": "gk-misc-p02-0806",
    "q": "Which amendment is described as: Limited the size of the Council of Ministers?",
    "o": [
     "First Amendment",
@@ -11794,7 +12109,7 @@
    "e": "91st Amendment — Limited the size of the Council of Ministers."
   },
   {
-   "id": "gk-misc-p02-0786",
+   "id": "gk-misc-p02-0807",
    "q": "Jammu and Kashmir was reorganised into Union Territories in?",
    "o": [
     "2019",
@@ -11809,7 +12124,7 @@
    "e": "Jammu and Kashmir was reorganised into Union Territories in — 2019."
   },
   {
-   "id": "gk-misc-p02-0787",
+   "id": "gk-misc-p02-0808",
    "q": "Central Vigilance Commission is best described as which of the following?",
    "o": [
     "Central bank and monetary authority",
@@ -11824,7 +12139,7 @@
    "e": "Central Vigilance Commission — Watches over vigilance in government."
   },
   {
-   "id": "gk-misc-p02-0788",
+   "id": "gk-misc-p02-0809",
    "q": "On which date is World Heart Day observed?",
    "o": [
     "29 September",
@@ -11839,7 +12154,7 @@
    "e": "World Heart Day is observed on 29 September."
   },
   {
-   "id": "gk-misc-p02-0789",
+   "id": "gk-misc-p02-0810",
    "q": "Where is the headquarters of World Health Organization?",
    "o": [
     "Lausanne",
@@ -11854,7 +12169,7 @@
    "e": "World Health Organization is headquartered at Geneva."
   },
   {
-   "id": "gk-misc-p02-0790",
+   "id": "gk-misc-p02-0811",
    "q": "Which sport uses teams of 15 players?",
    "o": [
     "Kabaddi",
@@ -11869,7 +12184,7 @@
    "e": "Teams of 15 players play Rugby union."
   },
   {
-   "id": "gk-misc-p02-0791",
+   "id": "gk-misc-p02-0812",
    "q": "Kalinga Prize is associated with which of the following?",
    "o": [
     "Literary award for Indian languages",
@@ -11884,7 +12199,7 @@
    "e": "Kalinga Prize — UNESCO award for popularisation of science."
   },
   {
-   "id": "gk-misc-p02-0792",
+   "id": "gk-misc-p02-0813",
    "q": "Who is the author of Mahabharata?",
    "o": [
     "Ved Vyasa",
@@ -11899,7 +12214,7 @@
    "e": "Mahabharata is written by Ved Vyasa."
   },
   {
-   "id": "gk-misc-p02-0793",
+   "id": "gk-misc-p02-0814",
    "q": "First woman to fly solo across the Atlantic is associated with which of the following?",
    "o": [
     "Karnam Malleswari",
@@ -11914,7 +12229,7 @@
    "e": "First woman to fly solo across the Atlantic — Amelia Earhart."
   },
   {
-   "id": "gk-misc-p02-0794",
+   "id": "gk-misc-p02-0815",
    "q": "Which is the largest saltwater lake in India?",
    "o": [
     "Bangladesh",
@@ -11929,7 +12244,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "gk-misc-p02-0795",
+   "id": "gk-misc-p02-0816",
    "q": "Which city is known as the Forbidden City?",
    "o": [
     "Gulf of Mannar",
@@ -11944,7 +12259,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "gk-misc-p02-0796",
+   "id": "gk-misc-p02-0817",
    "q": "Which instrument measures atmospheric pressure?",
    "o": [
     "Monsoon",
@@ -11959,7 +12274,7 @@
    "e": "Which instrument measures atmospheric pressure — Barometer."
   },
   {
-   "id": "gk-misc-p02-0797",
+   "id": "gk-misc-p02-0818",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Laterite soil - Formed by leaching in high rainfall areas",
@@ -11974,7 +12289,7 @@
    "e": "Only Laterite soil - Formed by leaching in high rainfall areas is correctly matched."
   },
   {
-   "id": "gk-misc-p02-0798",
+   "id": "gk-misc-p02-0819",
    "q": "Which mineral is found in large quantities in Madhya Pradesh?",
    "o": [
     "Limestone",
@@ -11989,7 +12304,7 @@
    "e": "Diamond is found in Madhya Pradesh."
   },
   {
-   "id": "gk-misc-p02-0799",
+   "id": "gk-misc-p02-0820",
    "q": "Which sector contributes the largest share to India's GDP?",
    "o": [
     "Silver Revolution",
@@ -12004,7 +12319,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "gk-misc-p02-0800",
+   "id": "gk-misc-p02-0821",
    "q": "Choose the word most similar in meaning to Coerce.",
    "o": [
     "Rant",
@@ -12019,7 +12334,7 @@
    "e": "Coerce means Compel."
   },
   {
-   "id": "gk-misc-p02-0801",
+   "id": "gk-misc-p02-0822",
    "q": "Choose the word most opposite in meaning to Diligent.",
    "o": [
     "Lazy",
@@ -12034,7 +12349,7 @@
    "e": "The opposite of Diligent is Lazy."
   },
   {
-   "id": "gk-misc-p02-0802",
+   "id": "gk-misc-p02-0823",
    "q": "What is the meaning of the idiom 'Storm in a teacup'?",
    "o": [
     "A hint of future events",
@@ -12049,7 +12364,7 @@
    "e": "'Storm in a teacup' means Great excitement over trifles."
   },
   {
-   "id": "gk-misc-p02-0803",
+   "id": "gk-misc-p02-0824",
    "q": "Choose the one word substitute for: A place of perfect happiness",
    "o": [
     "Utopia",
@@ -12064,7 +12379,7 @@
    "e": "A place of perfect happiness — Utopia."
   },
   {
-   "id": "gk-misc-p02-0804",
+   "id": "gk-misc-p02-0825",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Hygiene",
@@ -12079,7 +12394,7 @@
    "e": "The correct spelling is Lightning."
   },
   {
-   "id": "gk-misc-p02-0805",
+   "id": "gk-misc-p02-0826",
    "q": "What is the plural of Deer?",
    "o": [
     "Passers-by",
@@ -12094,7 +12409,7 @@
    "e": "The plural of Deer is Deer."
   },
   {
-   "id": "gk-misc-p02-0806",
+   "id": "gk-misc-p02-0827",
    "q": "What is the feminine form of Boar?",
    "o": [
     "Heroine",
@@ -12109,7 +12424,7 @@
    "e": "The feminine of Boar is Sow."
   },
   {
-   "id": "gk-misc-p02-0807",
+   "id": "gk-misc-p02-0828",
    "q": "What is the comparative degree of Long?",
    "o": [
     "Longer",
@@ -12124,7 +12439,7 @@
    "e": "Long — Longer — Longest."
   },
   {
-   "id": "gk-misc-p02-0808",
+   "id": "gk-misc-p02-0829",
    "q": "Fill in the blank with the correct preposition: I prefer coffee ____ tea.",
    "o": [
     "to",
@@ -12139,7 +12454,7 @@
    "e": "The correct preposition is 'to'."
   },
   {
-   "id": "gk-misc-p02-0809",
+   "id": "gk-misc-p02-0830",
    "q": "What is the adverb form of the adjective 'quick'?",
    "o": [
     "Simple present",
@@ -12154,7 +12469,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "gk-misc-p02-0810",
+   "id": "gk-misc-p02-0831",
    "q": "Which Indian festival was inscribed on the UNESCO Intangible Cultural Heritage list?",
    "o": [
     "Swachh Bharat Abhiyan",
@@ -12169,7 +12484,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "gk-misc-p02-0811",
+   "id": "gk-misc-p02-0832",
    "q": "The scheme Skill India Mission was launched with which objective?",
    "o": [
     "Food grain self-sufficiency",
@@ -12184,7 +12499,7 @@
    "e": "Skill India Mission — Skill development and employability of youth."
   },
   {
-   "id": "gk-misc-p02-0812",
+   "id": "gk-misc-p02-0833",
    "q": "Faster Adoption and Manufacturing of Electric Vehicles is associated with which of the following?",
    "o": [
     "Conservation of Asiatic lions",
@@ -12199,7 +12514,7 @@
    "e": "Faster Adoption and Manufacturing of Electric Vehicles — Electric vehicle promotion."
   },
   {
-   "id": "gk-misc-p02-0813",
+   "id": "gk-misc-p02-0834",
    "q": "Compiler is best described as which of the following?",
    "o": [
     "Small file stored by a website in the browser",
@@ -12214,7 +12529,7 @@
    "e": "Compiler — Program that converts source code into machine code."
   },
   {
-   "id": "gk-misc-p02-0814",
+   "id": "gk-misc-p02-0835",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Shift + Delete - Delete an item permanently",
@@ -12229,7 +12544,7 @@
    "e": "Only Shift + Delete - Delete an item permanently is correctly matched."
   },
   {
-   "id": "gk-misc-p02-0815",
+   "id": "gk-misc-p02-0836",
    "q": "Which file extension is used for a Java source file?",
    "o": [
     ".json",
@@ -12244,7 +12559,7 @@
    "e": "Java source file uses the extension .java."
   },
   {
-   "id": "gk-misc-p02-0816",
+   "id": "gk-misc-p02-0837",
    "q": "What is the full form of UNDP?",
    "o": [
     "Central Industrial Security Force",
@@ -12259,7 +12574,7 @@
    "e": "UNDP stands for United Nations Development Programme."
   },
   {
-   "id": "gk-misc-p02-0817",
+   "id": "gk-misc-p02-0838",
    "q": "Which agreement or organisation is described as: Phase down of hydrofluorocarbons?",
    "o": [
     "Convention on Biological Diversity",
@@ -12274,7 +12589,7 @@
    "e": "Phase down of hydrofluorocarbons describes the Kigali Amendment."
   },
   {
-   "id": "gk-misc-p02-0818",
+   "id": "gk-misc-p02-0839",
    "q": "Which pollutant is described as: Damage marine life and coastlines?",
    "o": [
     "Mercury",
@@ -12289,7 +12604,7 @@
    "e": "Damage marine life and coastlines is linked to Oil spills."
   },
   {
-   "id": "gk-misc-p02-0819",
+   "id": "gk-misc-p02-0840",
    "q": "Which biosphere reserve or wetland is located in Madhya Pradesh?",
    "o": [
     "Great Nicobar Biosphere Reserve",
@@ -12304,7 +12619,7 @@
    "e": "Panna Biosphere Reserve is located in Madhya Pradesh."
   },
   {
-   "id": "gk-misc-p02-0820",
+   "id": "gk-misc-p02-0841",
    "q": "Which law or scheme is described as: Adjudication of environmental disputes?",
    "o": [
     "Project Cheetah",
@@ -12319,7 +12634,7 @@
    "e": "Adjudication of environmental disputes refers to National Green Tribunal."
   },
   {
-   "id": "gk-misc-p02-0821",
+   "id": "gk-misc-p02-0842",
    "q": "What is the capital of South Sudan?",
    "o": [
     "Khartoum",
@@ -12334,7 +12649,7 @@
    "e": "The capital of South Sudan is Juba."
   },
   {
-   "id": "gk-misc-p02-0822",
+   "id": "gk-misc-p02-0843",
    "q": "Which element has the chemical symbol Pr?",
    "o": [
     "Lanthanum",
@@ -12349,7 +12664,7 @@
    "e": "Pr is the symbol of Praseodymium."
   },
   {
-   "id": "gk-misc-p02-0823",
+   "id": "gk-misc-p02-0844",
    "q": "Agartala is the capital of which Indian state?",
    "o": [
     "Kerala",
@@ -12364,7 +12679,7 @@
    "e": "Agartala is the capital of Tripura."
   },
   {
-   "id": "gk-misc-p02-0824",
+   "id": "gk-misc-p02-0845",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "National Aquatic Animal - Ganges River Dolphin",
@@ -12379,7 +12694,7 @@
    "e": "Only National Aquatic Animal - Ganges River Dolphin is correctly matched."
   },
   {
-   "id": "gk-misc-p02-0825",
+   "id": "gk-misc-p02-0846",
    "q": "First Indian to receive the Bharat Ratna is associated with which of the following?",
    "o": [
     "C. Rajagopalachari",
@@ -12394,7 +12709,7 @@
    "e": "First Indian to receive the Bharat Ratna — C. Rajagopalachari."
   },
   {
-   "id": "gk-misc-p02-0826",
+   "id": "gk-misc-p02-0847",
    "q": "Manipuri is a folk or classical dance form of which state?",
    "o": [
     "Himachal Pradesh",
@@ -12409,7 +12724,7 @@
    "e": "Manipuri belongs to Manipur."
   },
   {
-   "id": "gk-misc-p02-0827",
+   "id": "gk-misc-p02-0848",
    "q": "Dree Festival is a major festival of which state?",
    "o": [
     "Jharkhand",
@@ -12424,7 +12739,7 @@
    "e": "Dree Festival is celebrated mainly in Arunachal Pradesh."
   },
   {
-   "id": "gk-misc-p02-0828",
+   "id": "gk-misc-p02-0849",
    "q": "The river Son originates from which of the following?",
    "o": [
     "Amarkantak",
@@ -12439,7 +12754,7 @@
    "e": "Son originates from Amarkantak."
   },
   {
-   "id": "gk-misc-p02-0829",
+   "id": "gk-misc-p02-0850",
    "q": "Which of the following dams is built on the river Damodar?",
    "o": [
     "Indira Sagar Dam",
@@ -12454,7 +12769,7 @@
    "e": "Panchet Dam is built on the Damodar."
   },
   {
-   "id": "gk-misc-p02-0830",
+   "id": "gk-misc-p02-0851",
    "q": "Pakhui Tiger Reserve is located in which state?",
    "o": [
     "Madhya Pradesh",
@@ -12469,7 +12784,7 @@
    "e": "Pakhui Tiger Reserve is located in Arunachal Pradesh."
   },
   {
-   "id": "gk-misc-p02-0831",
+   "id": "gk-misc-p02-0852",
    "q": "Which of the following passes is located in Andhra Pradesh?",
    "o": [
     "Araku Valley Pass",
@@ -12484,7 +12799,7 @@
    "e": "Araku Valley Pass is a pass in Andhra Pradesh."
   },
   {
-   "id": "gk-misc-p02-0832",
+   "id": "gk-misc-p02-0853",
    "q": "What is the SI unit of Magnetic flux density?",
    "o": [
     "Tesla",
@@ -12499,7 +12814,7 @@
    "e": "The SI unit of Magnetic flux density is the Tesla."
   },
   {
-   "id": "gk-misc-p02-0833",
+   "id": "gk-misc-p02-0854",
    "q": "Which instrument is used to measure Gas pressure?",
    "o": [
     "Spherometer",
@@ -12514,7 +12829,7 @@
    "e": "Manometer is used to measure Gas pressure."
   },
   {
-   "id": "gk-misc-p02-0834",
+   "id": "gk-misc-p02-0855",
    "q": "What is the main function of the Skin in the human body?",
    "o": [
     "Clotting of blood",
@@ -12529,7 +12844,7 @@
    "e": "The Skin is responsible for Protection and temperature regulation."
   },
   {
-   "id": "gk-misc-p02-0835",
+   "id": "gk-misc-p02-0856",
    "q": "Which disease is caused by the deficiency of Vitamin E?",
    "o": [
     "Scurvy",
@@ -12544,7 +12859,7 @@
    "e": "Deficiency of Vitamin E causes Haemolysis of red blood cells."
   },
   {
-   "id": "gk-misc-p02-0836",
+   "id": "gk-misc-p02-0857",
    "q": "Which of the following causes Poliomyelitis?",
    "o": [
     "Entamoeba histolytica",
@@ -12559,7 +12874,7 @@
    "e": "Poliomyelitis is caused by Poliovirus."
   },
   {
-   "id": "gk-misc-p02-0837",
+   "id": "gk-misc-p02-0858",
    "q": "Who is credited with Printing press?",
    "o": [
     "Antonie van Leeuwenhoek",
@@ -12574,7 +12889,7 @@
    "e": "Printing press — Johannes Gutenberg."
   },
   {
-   "id": "gk-misc-p02-0838",
+   "id": "gk-misc-p02-0859",
    "q": "What is the chemical name of Caustic potash?",
    "o": [
     "Ethanol (C2H5OH)",
@@ -12589,7 +12904,7 @@
    "e": "Caustic potash is Potassium hydroxide (KOH)."
   },
   {
-   "id": "gk-misc-p02-0839",
+   "id": "gk-misc-p02-0860",
    "q": "Which branch of science deals with Birds?",
    "o": [
     "Mycology",
@@ -12604,7 +12919,7 @@
    "e": "Ornithology deals with Birds."
   },
   {
-   "id": "gk-misc-p02-0840",
+   "id": "gk-misc-p02-0861",
    "q": "Which of the following statements about Lunar eclipse is correct?",
    "o": [
     "Venus",
@@ -12619,7 +12934,7 @@
    "e": "Lunar eclipse: Lunar eclipse."
   },
   {
-   "id": "gk-misc-p02-0841",
+   "id": "gk-misc-p02-0862",
    "q": "Amedeo Avogadro is known for which of the following?",
    "o": [
     "Kinetic theory of gases",
@@ -12634,7 +12949,7 @@
    "e": "Amedeo Avogadro is known for Molecular theory and Avogadro's law."
   },
   {
-   "id": "gk-misc-p02-0842",
+   "id": "gk-misc-p02-0863",
    "q": "In which year did the following event take place: India attained independence?",
    "o": [
     "1947",
@@ -12649,7 +12964,7 @@
    "e": "India attained independence — 1947."
   },
   {
-   "id": "gk-misc-p02-0843",
+   "id": "gk-misc-p02-0864",
    "q": "In which year did the following event take place: Battle of Waterloo?",
    "o": [
     "1815",
@@ -12664,7 +12979,7 @@
    "e": "Battle of Waterloo — 1815."
   },
   {
-   "id": "gk-misc-p02-0844",
+   "id": "gk-misc-p02-0865",
    "q": "Alauddin Bahman Shah founded which of the following?",
    "o": [
     "Satavahana Dynasty",
@@ -12679,7 +12994,7 @@
    "e": "Alauddin Bahman Shah founded the Bahmani Kingdom."
   },
   {
-   "id": "gk-misc-p02-0845",
+   "id": "gk-misc-p02-0866",
    "q": "Which of the following is true about Bahadur Shah Zafar?",
    "o": [
     "Nominal leader of the Revolt of 1857",
@@ -12694,7 +13009,7 @@
    "e": "Bahadur Shah Zafar: Nominal leader of the Revolt of 1857."
   },
   {
-   "id": "gk-misc-p02-0846",
+   "id": "gk-misc-p02-0867",
    "q": "Kunwar Singh is known by which of the following titles or descriptions?",
    "o": [
     "Leader of the Revolt in Bihar",
@@ -12709,7 +13024,7 @@
    "e": "Kunwar Singh — Leader of the Revolt in Bihar."
   },
   {
-   "id": "gk-misc-p02-0847",
+   "id": "gk-misc-p02-0868",
    "q": "Which movement or act is described as: Withdrawn after Chauri Chaura?",
    "o": [
     "Cripps Mission",
@@ -12724,7 +13039,7 @@
    "e": "Non-Cooperation Movement — Withdrawn after Chauri Chaura."
   },
   {
-   "id": "gk-misc-p02-0848",
+   "id": "gk-misc-p02-0869",
    "q": "Which part of the Constitution deals with: Elections?",
    "o": [
     "Article 148",
@@ -12739,7 +13054,7 @@
    "e": "Elections is covered under Part XV, Articles 324-329."
   },
   {
-   "id": "gk-misc-p02-0849",
+   "id": "gk-misc-p02-0870",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "104th Amendment - 2019",
@@ -12754,7 +13069,7 @@
    "e": "Only 104th Amendment - 2019 is correctly matched."
   },
   {
-   "id": "gk-misc-p02-0850",
+   "id": "gk-misc-p02-0871",
    "q": "Eighth Schedule deals with?",
    "o": [
     "Official languages",
@@ -12769,7 +13084,7 @@
    "e": "Eighth Schedule deals with — Official languages."
   },
   {
-   "id": "gk-misc-p02-0851",
+   "id": "gk-misc-p02-0872",
    "q": "State Legislature is best described as which of the following?",
    "o": [
     "Law-making body of a State",
@@ -12784,7 +13099,7 @@
    "e": "State Legislature — Law-making body of a State."
   },
   {
-   "id": "gk-misc-p02-0852",
+   "id": "gk-misc-p02-0873",
    "q": "On which date is World Bee Day observed?",
    "o": [
     "22 March",
@@ -12799,7 +13114,7 @@
    "e": "World Bee Day is observed on 20 May."
   },
   {
-   "id": "gk-misc-p02-0853",
+   "id": "gk-misc-p02-0874",
    "q": "Where is the headquarters of UN High Commissioner for Refugees?",
    "o": [
     "Zurich",
@@ -12814,7 +13129,7 @@
    "e": "UN High Commissioner for Refugees is headquartered at Geneva."
   },
   {
-   "id": "gk-misc-p02-0854",
+   "id": "gk-misc-p02-0875",
    "q": "Which sport uses teams of 7 players?",
    "o": [
     "Throwball",
@@ -12829,7 +13144,7 @@
    "e": "Teams of 7 players play Throwball."
   },
   {
-   "id": "gk-misc-p02-0855",
+   "id": "gk-misc-p02-0876",
    "q": "World Cup (Cricket) is associated with which sport?",
    "o": [
     "Badminton",
@@ -12844,7 +13159,7 @@
    "e": "World Cup (Cricket) is associated with Cricket."
   },
   {
-   "id": "gk-misc-p02-0856",
+   "id": "gk-misc-p02-0877",
    "q": "Sangeet Natak Akademi Award is associated with which of the following?",
    "o": [
     "British award for fiction",
@@ -12859,7 +13174,7 @@
    "e": "Sangeet Natak Akademi Award — Performing arts award of India."
   },
   {
-   "id": "gk-misc-p02-0857",
+   "id": "gk-misc-p02-0878",
    "q": "Who is the author of Raag Darbari?",
    "o": [
     "Sachin Tendulkar",
@@ -12874,7 +13189,7 @@
    "e": "Raag Darbari is written by Shrilal Shukla."
   },
   {
-   "id": "gk-misc-p02-0858",
+   "id": "gk-misc-p02-0879",
    "q": "First person to sail solo around the world is associated with which of the following?",
    "o": [
     "Wally Herbert",
@@ -12889,7 +13204,7 @@
    "e": "First person to sail solo around the world — Joshua Slocum."
   },
   {
-   "id": "gk-misc-p02-0859",
+   "id": "gk-misc-p02-0880",
    "q": "Which country is called the Roof of the World?",
    "o": [
     "Wular Lake",
@@ -12904,7 +13219,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "gk-misc-p02-0860",
+   "id": "gk-misc-p02-0881",
    "q": "Which Indian port is a natural harbour on the west coast?",
    "o": [
     "Challenger Deep",
@@ -12919,7 +13234,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "gk-misc-p02-0861",
+   "id": "gk-misc-p02-0882",
    "q": "What is the greenhouse gas most responsible for global warming?",
    "o": [
     "Coromandel Coast",
@@ -12934,7 +13249,7 @@
    "e": "What is the greenhouse gas most responsible for global warming — Carbon dioxide."
   },
   {
-   "id": "gk-misc-p02-0862",
+   "id": "gk-misc-p02-0883",
    "q": "Which mineral is found in large quantities in Maharashtra?",
    "o": [
     "Lead and zinc",
@@ -12949,7 +13264,7 @@
    "e": "Natural gas is found in Maharashtra."
   },
   {
-   "id": "gk-misc-p02-0863",
+   "id": "gk-misc-p02-0884",
    "q": "Where is the headquarters of the New Development Bank?",
    "o": [
     "Shanghai",
@@ -12964,7 +13279,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "gk-misc-p02-0864",
+   "id": "gk-misc-p02-0885",
    "q": "Choose the word most similar in meaning to Capricious.",
    "o": [
     "Unpredictable",
@@ -12979,7 +13294,7 @@
    "e": "Capricious means Unpredictable."
   },
   {
-   "id": "gk-misc-p02-0865",
+   "id": "gk-misc-p02-0886",
    "q": "Choose the word most opposite in meaning to Erudite.",
    "o": [
     "Ignorant",
@@ -12994,7 +13309,7 @@
    "e": "The opposite of Erudite is Ignorant."
   },
   {
-   "id": "gk-misc-p02-0866",
+   "id": "gk-misc-p02-0887",
    "q": "What is the meaning of the idiom 'As the crow flies'?",
    "o": [
     "Facing the same difficulty",
@@ -13009,7 +13324,7 @@
    "e": "'As the crow flies' means In a straight line."
   },
   {
-   "id": "gk-misc-p02-0867",
+   "id": "gk-misc-p02-0888",
    "q": "Choose the one word substitute for: One who studies population",
    "o": [
     "Armoury",
@@ -13024,7 +13339,7 @@
    "e": "One who studies population — Demographer."
   },
   {
-   "id": "gk-misc-p02-0868",
+   "id": "gk-misc-p02-0889",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Management",
@@ -13039,7 +13354,7 @@
    "e": "The correct spelling is Existence."
   },
   {
-   "id": "gk-misc-p02-0869",
+   "id": "gk-misc-p02-0890",
    "q": "What is the plural of Court Martial?",
    "o": [
     "Courts Martial",
@@ -13054,7 +13369,7 @@
    "e": "The plural of Court Martial is Courts Martial."
   },
   {
-   "id": "gk-misc-p02-0870",
+   "id": "gk-misc-p02-0891",
    "q": "What is the feminine form of Man?",
    "o": [
     "Authoress",
@@ -13069,7 +13384,7 @@
    "e": "The feminine of Man is Woman."
   },
   {
-   "id": "gk-misc-p02-0871",
+   "id": "gk-misc-p02-0892",
    "q": "What is the comparative degree of Cold?",
    "o": [
     "Stronger",
@@ -13084,7 +13399,7 @@
    "e": "Cold — Colder — Coldest."
   },
   {
-   "id": "gk-misc-p02-0872",
+   "id": "gk-misc-p02-0893",
    "q": "Fill in the blank with the correct preposition: He insisted ____ going alone.",
    "o": [
     "of",
@@ -13099,7 +13414,7 @@
    "e": "The correct preposition is 'on'."
   },
   {
-   "id": "gk-misc-p02-0873",
+   "id": "gk-misc-p02-0894",
    "q": "What is the collective noun for a group of stars?",
    "o": [
     "Constellation",
@@ -13114,7 +13429,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "gk-misc-p02-0874",
+   "id": "gk-misc-p02-0895",
    "q": "Which campaign was launched against open defecation?",
    "o": [
     "Swachh Bharat Mission",
@@ -13129,7 +13444,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "gk-misc-p02-0875",
+   "id": "gk-misc-p02-0896",
    "q": "The scheme Soil Health Card Scheme was launched with which objective?",
    "o": [
     "Working capital loans for street vendors",
@@ -13144,7 +13459,7 @@
    "e": "Soil Health Card Scheme — Soil testing and nutrient recommendations."
   },
   {
-   "id": "gk-misc-p02-0876",
+   "id": "gk-misc-p02-0897",
    "q": "Chandrayaan-2 is associated with which of the following?",
    "o": [
     "Optical fibre connectivity to gram panchayats",
@@ -13159,7 +13474,7 @@
    "e": "Chandrayaan-2 — Lunar orbiter studying the Moon."
   },
   {
-   "id": "gk-misc-p02-0877",
+   "id": "gk-misc-p02-0898",
    "q": "HTTPS is best described as which of the following?",
    "o": [
     "Two or more connected computers",
@@ -13174,7 +13489,7 @@
    "e": "HTTPS — Secure version of the web transfer protocol."
   },
   {
-   "id": "gk-misc-p02-0878",
+   "id": "gk-misc-p02-0899",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Shift + Delete - Delete an item permanently",
@@ -13189,7 +13504,7 @@
    "e": "Only Shift + Delete - Delete an item permanently is correctly matched."
   },
   {
-   "id": "gk-misc-p02-0879",
+   "id": "gk-misc-p02-0900",
    "q": "Which file extension is used for a Microsoft Excel workbook?",
    "o": [
     ".pdf",
@@ -13204,7 +13519,7 @@
    "e": "Microsoft Excel workbook uses the extension .xlsx."
   },
   {
-   "id": "gk-misc-p02-0880",
+   "id": "gk-misc-p02-0901",
    "q": "What is the full form of PM-KISAN?",
    "o": [
     "Indian Standards Institution",
@@ -13219,7 +13534,7 @@
    "e": "PM-KISAN stands for Pradhan Mantri Kisan Samman Nidhi."
   },
   {
-   "id": "gk-misc-p02-0881",
+   "id": "gk-misc-p02-0902",
    "q": "Which agreement or organisation is described as: Biosafety of living modified organisms?",
    "o": [
     "International Solar Alliance",
@@ -13234,7 +13549,7 @@
    "e": "Biosafety of living modified organisms describes the Cartagena Protocol."
   },
   {
-   "id": "gk-misc-p02-0882",
+   "id": "gk-misc-p02-0903",
    "q": "Which pollutant is described as: Persists in the environment for centuries?",
    "o": [
     "Radioactive waste",
@@ -13249,7 +13564,7 @@
    "e": "Persists in the environment for centuries is linked to Plastic waste."
   },
   {
-   "id": "gk-misc-p02-0883",
+   "id": "gk-misc-p02-0904",
    "q": "Which biosphere reserve or wetland is located in Andhra Pradesh?",
    "o": [
     "Loktak Lake",
@@ -13264,7 +13579,7 @@
    "e": "Seshachalam Biosphere Reserve is located in Andhra Pradesh."
   },
   {
-   "id": "gk-misc-p02-0884",
+   "id": "gk-misc-p02-0905",
    "q": "Which law or scheme is described as: Conservation of biological diversity?",
    "o": [
     "Namami Gange",
@@ -13279,7 +13594,7 @@
    "e": "Conservation of biological diversity refers to Biological Diversity Act 2002."
   },
   {
-   "id": "gk-misc-p02-0885",
+   "id": "gk-misc-p02-0906",
    "q": "What is the capital of Iceland?",
    "o": [
     "Luxembourg City",
@@ -13294,7 +13609,7 @@
    "e": "The capital of Iceland is Reykjavik."
   },
   {
-   "id": "gk-misc-p02-0886",
+   "id": "gk-misc-p02-0907",
    "q": "Which element has the chemical symbol Er?",
    "o": [
     "Bismuth",
@@ -13309,7 +13624,7 @@
    "e": "Er is the symbol of Erbium."
   },
   {
-   "id": "gk-misc-p02-0887",
+   "id": "gk-misc-p02-0908",
    "q": "Amaravati is the capital of which Indian state?",
    "o": [
     "Andhra Pradesh",
@@ -13324,7 +13639,7 @@
    "e": "Amaravati is the capital of Andhra Pradesh."
   },
   {
-   "id": "gk-misc-p02-0888",
+   "id": "gk-misc-p02-0909",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "National Aquatic Animal - Ganges River Dolphin",
@@ -13339,7 +13654,7 @@
    "e": "Only National Aquatic Animal - Ganges River Dolphin is correctly matched."
   },
   {
-   "id": "gk-misc-p02-0889",
+   "id": "gk-misc-p02-0910",
    "q": "First Governor-General of independent India is associated with which of the following?",
    "o": [
     "Rakesh Sharma",
@@ -13354,7 +13669,7 @@
    "e": "First Governor-General of independent India — Lord Mountbatten."
   },
   {
-   "id": "gk-misc-p02-0890",
+   "id": "gk-misc-p02-0911",
    "q": "Kolattam is a folk or classical dance form of which state?",
    "o": [
     "Tamil Nadu",
@@ -13369,7 +13684,7 @@
    "e": "Kolattam belongs to Andhra Pradesh."
   },
   {
-   "id": "gk-misc-p02-0891",
+   "id": "gk-misc-p02-0912",
    "q": "Myoko is a major festival of which state?",
    "o": [
     "Ladakh",
@@ -13384,7 +13699,7 @@
    "e": "Myoko is celebrated mainly in Arunachal Pradesh."
   },
   {
-   "id": "gk-misc-p02-0892",
+   "id": "gk-misc-p02-0913",
    "q": "The river Beas originates from which of the following?",
    "o": [
     "Amarkantak",
@@ -13399,7 +13714,7 @@
    "e": "Beas originates from Beas Kund."
   },
   {
-   "id": "gk-misc-p02-0893",
+   "id": "gk-misc-p02-0914",
    "q": "Which of the following dams is built on the river Krishna?",
    "o": [
     "Baglihar Dam",
@@ -13414,7 +13729,7 @@
    "e": "Nagarjuna Sagar Dam is built on the Krishna."
   },
   {
-   "id": "gk-misc-p02-0894",
+   "id": "gk-misc-p02-0915",
    "q": "Veerangana Durgavati Tiger Reserve is located in which state?",
    "o": [
     "Haryana",
@@ -13429,7 +13744,7 @@
    "e": "Veerangana Durgavati Tiger Reserve is located in Madhya Pradesh."
   },
   {
-   "id": "gk-misc-p02-0895",
+   "id": "gk-misc-p02-0916",
    "q": "Which of the following passes is located in Himachal Pradesh?",
    "o": [
     "Shipki La",
@@ -13444,7 +13759,7 @@
    "e": "Shipki La is a pass in Himachal Pradesh."
   },
   {
-   "id": "gk-misc-p02-0896",
+   "id": "gk-misc-p02-0917",
    "q": "What is the SI unit of Frequency?",
    "o": [
     "Newton",
@@ -13459,7 +13774,7 @@
    "e": "The SI unit of Frequency is the Hertz."
   },
   {
-   "id": "gk-misc-p02-0897",
+   "id": "gk-misc-p02-0918",
    "q": "Which instrument is used to measure Speed and distance?",
    "o": [
     "Anemometer",
@@ -13474,7 +13789,7 @@
    "e": "Odometer and Speedometer is used to measure Speed and distance."
   },
   {
-   "id": "gk-misc-p02-0898",
+   "id": "gk-misc-p02-0919",
    "q": "What is the main function of the Insulin in the human body?",
    "o": [
     "Refraction of light in the eye",
@@ -13489,7 +13804,7 @@
    "e": "The Insulin is responsible for Controls blood sugar."
   },
   {
-   "id": "gk-misc-p02-0899",
+   "id": "gk-misc-p02-0920",
    "q": "Which disease is caused by the deficiency of Fluorine?",
    "o": [
     "Ariboflavinosis",
@@ -13504,7 +13819,7 @@
    "e": "Deficiency of Fluorine causes Tooth decay."
   },
   {
-   "id": "gk-misc-p02-0900",
+   "id": "gk-misc-p02-0921",
    "q": "Which of the following causes Meningitis?",
    "o": [
     "Mumps virus",
@@ -13519,7 +13834,7 @@
    "e": "Meningitis is caused by Neisseria meningitidis bacteria."
   },
   {
-   "id": "gk-misc-p02-0901",
+   "id": "gk-misc-p02-0922",
    "q": "Who is credited with Radium?",
    "o": [
     "Marie Curie",
@@ -13534,7 +13849,7 @@
    "e": "Radium — Marie Curie."
   },
   {
-   "id": "gk-misc-p02-0902",
+   "id": "gk-misc-p02-0923",
    "q": "What is the chemical name of Quartz?",
    "o": [
     "Calcium hydroxide (Ca(OH)2)",
@@ -13549,7 +13864,7 @@
    "e": "Quartz is Silicon dioxide (SiO2)."
   },
   {
-   "id": "gk-misc-p02-0903",
+   "id": "gk-misc-p02-0924",
    "q": "Which branch of science deals with Microorganisms?",
    "o": [
     "Microbiology",
@@ -13564,7 +13879,7 @@
    "e": "Microbiology deals with Microorganisms."
   },
   {
-   "id": "gk-misc-p02-0904",
+   "id": "gk-misc-p02-0925",
    "q": "Which of the following statements about Astronomical unit is correct?",
    "o": [
     "Saturn",
@@ -13579,7 +13894,7 @@
    "e": "Astronomical unit: Astronomical unit."
   },
   {
-   "id": "gk-misc-p02-0905",
+   "id": "gk-misc-p02-0926",
    "q": "Michael Faraday is known for which of the following?",
    "o": [
     "Electromagnetic induction",
@@ -13594,7 +13909,7 @@
    "e": "Michael Faraday is known for Electromagnetic induction."
   },
   {
-   "id": "gk-misc-p02-0906",
+   "id": "gk-misc-p02-0927",
    "q": "In which year did the following event take place: Purna Swaraj declared at the Lahore session?",
    "o": [
     "1999",
@@ -13609,7 +13924,7 @@
    "e": "Purna Swaraj declared at the Lahore session — 1929."
   },
   {
-   "id": "gk-misc-p02-0907",
+   "id": "gk-misc-p02-0928",
    "q": "In which year did the following event take place: Cuban Revolution?",
    "o": [
     "1959",
@@ -13624,7 +13939,7 @@
    "e": "Cuban Revolution — 1959."
   },
   {
-   "id": "gk-misc-p02-0908",
+   "id": "gk-misc-p02-0929",
    "q": "Jalal-ud-din Khalji founded which of the following?",
    "o": [
     "Kushana Empire",
@@ -13639,7 +13954,7 @@
    "e": "Jalal-ud-din Khalji founded the Khilji Dynasty."
   },
   {
-   "id": "gk-misc-p02-0909",
+   "id": "gk-misc-p02-0930",
    "q": "Which of the following is true about Bahadur Shah Zafar?",
    "o": [
     "Famous Vijayanagara ruler and author of Amuktamalyada",
@@ -13654,7 +13969,7 @@
    "e": "Bahadur Shah Zafar: Last Mughal emperor."
   },
   {
-   "id": "gk-misc-p02-0910",
+   "id": "gk-misc-p02-0931",
    "q": "Rajguru is known by which of the following titles or descriptions?",
    "o": [
     "Iron Man of India",
@@ -13669,7 +13984,7 @@
    "e": "Rajguru — Revolutionary executed with Bhagat Singh."
   },
   {
-   "id": "gk-misc-p02-0911",
+   "id": "gk-misc-p02-0932",
    "q": "Which movement or act is described as: Allowed detention without trial?",
    "o": [
     "Non-Cooperation Movement",
@@ -13684,7 +13999,7 @@
    "e": "Rowlatt Act — Allowed detention without trial."
   },
   {
-   "id": "gk-misc-p02-0912",
+   "id": "gk-misc-p02-0933",
    "q": "Which part of the Constitution deals with: Finance Commission?",
    "o": [
     "Part II, Articles 5-11",
@@ -13699,7 +14014,7 @@
    "e": "Finance Commission is covered under Article 280."
   },
   {
-   "id": "gk-misc-p02-0913",
+   "id": "gk-misc-p02-0934",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "104th Amendment - 2019",
@@ -13714,7 +14029,7 @@
    "e": "Only 104th Amendment - 2019 is correctly matched."
   },
   {
-   "id": "gk-misc-p02-0914",
+   "id": "gk-misc-p02-0935",
    "q": "Who is the head of the Union Council of Ministers?",
    "o": [
     "The Prime Minister",
@@ -13729,7 +14044,7 @@
    "e": "Who is the head of the Union Council of Ministers — The Prime Minister."
   },
   {
-   "id": "gk-misc-p02-0915",
+   "id": "gk-misc-p02-0936",
    "q": "National Human Rights Commission is best described as which of the following?",
    "o": [
     "Audits government accounts",
@@ -13744,7 +14059,7 @@
    "e": "National Human Rights Commission — Protects human rights in India."
   },
   {
-   "id": "gk-misc-p02-0916",
+   "id": "gk-misc-p02-0937",
    "q": "On which date is World Cities Day observed?",
    "o": [
     "20 June",
@@ -13759,7 +14074,7 @@
    "e": "World Cities Day is observed on 31 October."
   },
   {
-   "id": "gk-misc-p02-0917",
+   "id": "gk-misc-p02-0938",
    "q": "Where is the headquarters of OPEC?",
    "o": [
     "Vienna",
@@ -13774,7 +14089,7 @@
    "e": "OPEC is headquartered at Vienna."
   },
   {
-   "id": "gk-misc-p02-0918",
+   "id": "gk-misc-p02-0939",
    "q": "Which sport uses teams of 7 players?",
    "o": [
     "Water polo",
@@ -13789,7 +14104,7 @@
    "e": "Teams of 7 players play Water polo."
   },
   {
-   "id": "gk-misc-p02-0919",
+   "id": "gk-misc-p02-0940",
    "q": "Copa America is associated with which sport?",
    "o": [
     "Golf",
@@ -13804,7 +14119,7 @@
    "e": "Copa America is associated with Football."
   },
   {
-   "id": "gk-misc-p02-0920",
+   "id": "gk-misc-p02-0941",
    "q": "Saraswati Samman is associated with which of the following?",
    "o": [
     "Highest literary award of India",
@@ -13819,7 +14134,7 @@
    "e": "Saraswati Samman — Indian literary award."
   },
   {
-   "id": "gk-misc-p02-0921",
+   "id": "gk-misc-p02-0942",
    "q": "Who is the author of Long Walk to Freedom?",
    "o": [
     "A. P. J. Abdul Kalam",
@@ -13834,7 +14149,7 @@
    "e": "Long Walk to Freedom is written by Nelson Mandela."
   },
   {
-   "id": "gk-misc-p02-0922",
+   "id": "gk-misc-p02-0943",
    "q": "Which of the following achievements belongs to Junko Tabei?",
    "o": [
     "First person to sail solo around the world",
@@ -13849,7 +14164,7 @@
    "e": "First woman to climb Mount Everest belongs to Junko Tabei."
   },
   {
-   "id": "gk-misc-p02-0923",
+   "id": "gk-misc-p02-0944",
    "q": "Which is the longest river in India?",
    "o": [
     "Volga",
@@ -13864,7 +14179,7 @@
    "e": "World and India facts of the 'first, largest, longest' type."
   },
   {
-   "id": "gk-misc-p02-0924",
+   "id": "gk-misc-p02-0945",
    "q": "Which is the largest country in South America?",
    "o": [
     "Guhar Moti",
@@ -13879,7 +14194,7 @@
    "e": "Geography fact."
   },
   {
-   "id": "gk-misc-p02-0925",
+   "id": "gk-misc-p02-0946",
    "q": "Which place receives the highest rainfall in India?",
    "o": [
     "Loo",
@@ -13894,7 +14209,7 @@
    "e": "Which place receives the highest rainfall in India — Mawsynram."
   },
   {
-   "id": "gk-misc-p02-0926",
+   "id": "gk-misc-p02-0947",
    "q": "Which of the following pairs of soil and feature is correctly matched?",
    "o": [
     "Desert soil - Formed in waterlogged areas with organic matter",
@@ -13909,7 +14224,7 @@
    "e": "Only Desert soil - Sandy soil of arid regions is correctly matched."
   },
   {
-   "id": "gk-misc-p02-0927",
+   "id": "gk-misc-p02-0948",
    "q": "Which mineral is found in large quantities in Odisha?",
    "o": [
     "Graphite",
@@ -13924,7 +14239,7 @@
    "e": "Bauxite is found in Odisha."
   },
   {
-   "id": "gk-misc-p02-0928",
+   "id": "gk-misc-p02-0949",
    "q": "Who is known as the father of the White Revolution in India?",
    "o": [
     "Verghese Kurien",
@@ -13939,7 +14254,7 @@
    "e": "Economics and banking fact."
   },
   {
-   "id": "gk-misc-p02-0929",
+   "id": "gk-misc-p02-0950",
    "q": "Choose the word most similar in meaning to Tenacious.",
    "o": [
     "Support",
@@ -13954,7 +14269,7 @@
    "e": "Tenacious means Persistent."
   },
   {
-   "id": "gk-misc-p02-0930",
+   "id": "gk-misc-p02-0951",
    "q": "Choose the word most opposite in meaning to Coarse.",
    "o": [
     "Seriousness",
@@ -13969,7 +14284,7 @@
    "e": "The opposite of Coarse is Fine."
   },
   {
-   "id": "gk-misc-p02-0931",
+   "id": "gk-misc-p02-0952",
    "q": "What is the meaning of the idiom 'Spill the beans'?",
    "o": [
     "Without wasting words",
@@ -13984,7 +14299,7 @@
    "e": "'Spill the beans' means Reveal secret information."
   },
   {
-   "id": "gk-misc-p02-0932",
+   "id": "gk-misc-p02-0953",
    "q": "Choose the one word substitute for: One who cannot read or write",
    "o": [
     "Illiterate",
@@ -13999,7 +14314,7 @@
    "e": "One who cannot read or write — Illiterate."
   },
   {
-   "id": "gk-misc-p02-0933",
+   "id": "gk-misc-p02-0954",
    "q": "Which of the following words is spelt correctly?",
    "o": [
     "Yield",
@@ -14014,7 +14329,7 @@
    "e": "The correct spelling is Parliament."
   },
   {
-   "id": "gk-misc-p02-0934",
+   "id": "gk-misc-p02-0955",
    "q": "What is the plural of Brush?",
    "o": [
     "Brushes",
@@ -14029,7 +14344,7 @@
    "e": "The plural of Brush is Brushes."
   },
   {
-   "id": "gk-misc-p02-0935",
+   "id": "gk-misc-p02-0956",
    "q": "What is the feminine form of Husband?",
    "o": [
     "Vixen",
@@ -14044,7 +14359,7 @@
    "e": "The feminine of Husband is Wife."
   },
   {
-   "id": "gk-misc-p02-0936",
+   "id": "gk-misc-p02-0957",
    "q": "What is the comparative degree of Bad?",
    "o": [
     "Worse",
@@ -14059,7 +14374,7 @@
    "e": "Bad — Worse — Worst."
   },
   {
-   "id": "gk-misc-p02-0937",
+   "id": "gk-misc-p02-0958",
    "q": "Fill in the blank with the correct preposition: He died ____ malaria.",
    "o": [
     "of",
@@ -14074,7 +14389,7 @@
    "e": "The correct preposition is 'of'."
   },
   {
-   "id": "gk-misc-p02-0938",
+   "id": "gk-misc-p02-0959",
    "q": "What is the underlined noun that names a particular person or place called?",
    "o": [
     "He said that he was busy",
@@ -14089,7 +14404,7 @@
    "e": "English grammar rule."
   },
   {
-   "id": "gk-misc-p02-0939",
+   "id": "gk-misc-p02-0960",
    "q": "Which Indian state has the highest number of airports?",
    "o": [
     "Mars Orbiter Mission",
@@ -14104,7 +14419,7 @@
    "e": "Recent events and schemes."
   },
   {
-   "id": "gk-misc-p02-0940",
+   "id": "gk-misc-p02-0961",
    "q": "The scheme Ujjwala 2.0 was launched with which objective?",
    "o": [
     "Digital delivery of services and digital literacy",
@@ -14119,7 +14434,7 @@
    "e": "Ujjwala 2.0 — Extension of free LPG connections to migrant families."
   },
   {
-   "id": "gk-misc-p02-0941",
+   "id": "gk-misc-p02-0962",
    "q": "XPoSat is associated with which of the following?",
    "o": [
     "Heritage city development and rejuvenation",
@@ -14134,7 +14449,7 @@
    "e": "XPoSat — X-ray polarimetry studies of black holes."
   },
   {
-   "id": "gk-misc-p02-0942",
+   "id": "gk-misc-p02-0963",
    "q": "Bit is best described as which of the following?",
    "o": [
     "Delivery of computing services over the internet",
@@ -14149,7 +14464,7 @@
    "e": "Bit — Smallest unit of digital data."
   },
   {
-   "id": "gk-misc-p02-0943",
+   "id": "gk-misc-p02-0964",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Ctrl + P - Print the current document",
@@ -14164,7 +14479,7 @@
    "e": "Only Ctrl + P - Print the current document is correctly matched."
   },
   {
-   "id": "gk-misc-p02-0944",
+   "id": "gk-misc-p02-0965",
    "q": "Which file extension is used for a Audio file?",
    "o": [
     ".csv",
@@ -14179,7 +14494,7 @@
    "e": "Audio file uses the extension .mp3."
   },
   {
-   "id": "gk-misc-p02-0945",
+   "id": "gk-misc-p02-0966",
    "q": "What is the full form of DBT?",
    "o": [
     "Direct Benefit Transfer",
@@ -14194,7 +14509,7 @@
    "e": "DBT stands for Direct Benefit Transfer."
   },
   {
-   "id": "gk-misc-p02-0946",
+   "id": "gk-misc-p02-0967",
    "q": "Which agreement or organisation is described as: Conservation and wise use of wetlands?",
    "o": [
     "Vienna Convention",
@@ -14209,7 +14524,7 @@
    "e": "Conservation and wise use of wetlands describes the Ramsar Convention."
   },
   {
-   "id": "gk-misc-p02-0947",
+   "id": "gk-misc-p02-0968",
    "q": "Which pollutant is described as: Traps heat and causes global warming?",
    "o": [
     "Nitrate from fertilisers",
@@ -14224,7 +14539,7 @@
    "e": "Traps heat and causes global warming is linked to Carbon dioxide."
   },
   {
-   "id": "gk-misc-p02-0948",
+   "id": "gk-misc-p02-0969",
    "q": "Which biosphere reserve or wetland is located in West Bengal?",
    "o": [
     "Keoladeo Ghana",
@@ -14239,7 +14554,7 @@
    "e": "Sundarbans Biosphere Reserve is located in West Bengal."
   },
   {
-   "id": "gk-misc-p02-0949",
+   "id": "gk-misc-p02-0970",
    "q": "Which law or scheme is described as: Control of diversion of forest land?",
    "o": [
     "Forest Conservation Act 1980",
@@ -14254,7 +14569,7 @@
    "e": "Control of diversion of forest land refers to Forest Conservation Act 1980."
   },
   {
-   "id": "gk-misc-p02-0950",
+   "id": "gk-misc-p02-0971",
    "q": "What is the capital of Togo?",
    "o": [
     "Asuncion",
@@ -14269,7 +14584,7 @@
    "e": "The capital of Togo is Lome."
   },
   {
-   "id": "gk-misc-p02-0951",
+   "id": "gk-misc-p02-0972",
    "q": "Which element has the chemical symbol Sn?",
    "o": [
     "Molybdenum",
@@ -14284,7 +14599,7 @@
    "e": "Sn is the symbol of Tin."
   },
   {
-   "id": "gk-misc-p02-0952",
+   "id": "gk-misc-p02-0973",
    "q": "Chandigarh is the capital of which Indian state?",
    "o": [
     "Arunachal Pradesh",
@@ -14299,7 +14614,7 @@
    "e": "Chandigarh is the capital of Punjab."
   },
   {
-   "id": "gk-misc-p02-0953",
+   "id": "gk-misc-p02-0974",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "National Reptile - Lotus",
@@ -14314,7 +14629,7 @@
    "e": "Only National Reptile - King Cobra is correctly matched."
   },
   {
-   "id": "gk-misc-p02-0954",
+   "id": "gk-misc-p02-0975",
    "q": "Which of the following descriptions matches Bombay and Thane?",
    "o": [
     "First woman Chief Minister in India",
@@ -14329,7 +14644,7 @@
    "e": "Bombay and Thane is associated with: First Indian Railway line started between."
   },
   {
-   "id": "gk-misc-p02-0955",
+   "id": "gk-misc-p02-0976",
    "q": "Bhangra is a folk or classical dance form of which state?",
    "o": [
     "Punjab",
@@ -14344,7 +14659,7 @@
    "e": "Bhangra belongs to Punjab."
   },
   {
-   "id": "gk-misc-p02-0956",
+   "id": "gk-misc-p02-0977",
    "q": "Navratri is a major festival of which state?",
    "o": [
     "Maharashtra",
@@ -14359,7 +14674,7 @@
    "e": "Navratri is celebrated mainly in Gujarat."
   },
   {
-   "id": "gk-misc-p02-0957",
+   "id": "gk-misc-p02-0978",
    "q": "Vindhya Range is the origin of which river?",
    "o": [
     "Chambal",
@@ -14374,7 +14689,7 @@
    "e": "Vindhya Range is the origin of the river Betwa."
   },
   {
-   "id": "gk-misc-p02-0958",
+   "id": "gk-misc-p02-0979",
    "q": "Which of the following dams is built on the river Chenab?",
    "o": [
     "Sardar Sarovar Dam",
@@ -14389,7 +14704,7 @@
    "e": "Baglihar Dam is built on the Chenab."
   },
   {
-   "id": "gk-misc-p02-0959",
+   "id": "gk-misc-p02-0980",
    "q": "Silent Valley National Park is located in which state?",
    "o": [
     "Assam",
@@ -14404,7 +14719,7 @@
    "e": "Silent Valley National Park is located in Kerala."
   },
   {
-   "id": "gk-misc-p02-0960",
+   "id": "gk-misc-p02-0981",
    "q": "Which of the following passes is located in Ladakh?",
    "o": [
     "Lipulekh Pass",
@@ -14419,7 +14734,7 @@
    "e": "Zoji La is a pass in Ladakh."
   },
   {
-   "id": "gk-misc-p02-0961",
+   "id": "gk-misc-p02-0982",
    "q": "Which physical quantity is measured in Becquerel?",
    "o": [
     "Inductance",
@@ -14434,7 +14749,7 @@
    "e": "Becquerel is the SI unit of Radioactivity."
   },
   {
-   "id": "gk-misc-p02-0962",
+   "id": "gk-misc-p02-0983",
    "q": "Which instrument is used to measure Blood pressure?",
    "o": [
     "Crescograph",
@@ -14449,7 +14764,7 @@
    "e": "Sphygmomanometer is used to measure Blood pressure."
   },
   {
-   "id": "gk-misc-p02-0963",
+   "id": "gk-misc-p02-0984",
    "q": "What is the main function of the Spleen in the human body?",
    "o": [
     "Oxygen carrying pigment",
@@ -14464,7 +14779,7 @@
    "e": "The Spleen is responsible for Formation of blood cells."
   },
   {
-   "id": "gk-misc-p02-0964",
+   "id": "gk-misc-p02-0985",
    "q": "Which disease is caused by the deficiency of Vitamin B6?",
    "o": [
     "Growth retardation",
@@ -14479,7 +14794,7 @@
    "e": "Deficiency of Vitamin B6 causes Anaemia."
   },
   {
-   "id": "gk-misc-p02-0965",
+   "id": "gk-misc-p02-0986",
    "q": "Which of the following causes Whooping cough?",
    "o": [
     "Rhinovirus",
@@ -14494,7 +14809,7 @@
    "e": "Whooping cough is caused by Bordetella pertussis bacteria."
   },
   {
-   "id": "gk-misc-p02-0966",
+   "id": "gk-misc-p02-0987",
    "q": "Who is credited with Nitrogen?",
    "o": [
     "Antonie van Leeuwenhoek",
@@ -14509,7 +14824,7 @@
    "e": "Nitrogen — Daniel Rutherford."
   },
   {
-   "id": "gk-misc-p02-0967",
+   "id": "gk-misc-p02-0988",
    "q": "What is the chemical name of Quick lime?",
    "o": [
     "Sodium tetraborate (Na2B4O7.10H2O)",
@@ -14524,7 +14839,7 @@
    "e": "Quick lime is Calcium oxide (CaO)."
   },
   {
-   "id": "gk-misc-p02-0968",
+   "id": "gk-misc-p02-0989",
    "q": "Which branch of science deals with Postage stamps?",
    "o": [
     "Mycology",
@@ -14539,7 +14854,7 @@
    "e": "Philately deals with Postage stamps."
   },
   {
-   "id": "gk-misc-p02-0969",
+   "id": "gk-misc-p02-0990",
    "q": "Which of the following statements about Meteorite is correct?",
    "o": [
     "Mars",
@@ -14554,7 +14869,7 @@
    "e": "Meteorite: Meteorite."
   },
   {
-   "id": "gk-misc-p02-0970",
+   "id": "gk-misc-p02-0991",
    "q": "P. C. Mahalanobis is known for which of the following?",
    "o": [
     "Kinetic theory of gases",
@@ -14569,7 +14884,7 @@
    "e": "P. C. Mahalanobis is known for Statistics and Indian planning."
   },
   {
-   "id": "gk-misc-p02-0971",
+   "id": "gk-misc-p02-0992",
    "q": "In which year did the following event take place: Demonetisation of high value currency notes?",
    "o": [
     "2016",
@@ -14584,7 +14899,7 @@
    "e": "Demonetisation of high value currency notes — 2016."
   },
   {
-   "id": "gk-misc-p02-0972",
+   "id": "gk-misc-p02-0993",
    "q": "In which year did the following event take place: Glorious Revolution in England?",
    "o": [
     "1941",
@@ -14599,7 +14914,7 @@
    "e": "Glorious Revolution in England — 1688."
   },
   {
-   "id": "gk-misc-p02-0973",
+   "id": "gk-misc-p02-0994",
    "q": "Kujula Kadphises founded which of the following?",
    "o": [
     "Slave Dynasty of Delhi",
@@ -14614,7 +14929,7 @@
    "e": "Kujula Kadphises founded the Kushana Empire."
   },
   {
-   "id": "gk-misc-p02-0974",
+   "id": "gk-misc-p02-0995",
    "q": "Which ruler is associated with the following: Market control policies and Siri fort?",
    "o": [
     "Sher Shah Suri",
@@ -14629,7 +14944,7 @@
    "e": "Market control policies and Siri fort is associated with Alauddin Khilji."
   },
   {
-   "id": "gk-misc-p02-0975",
+   "id": "gk-misc-p02-0996",
    "q": "Which freedom fighter is described as Political mentor of Mahatma Gandhi?",
    "o": [
     "Annie Besant",
@@ -14644,7 +14959,7 @@
    "e": "Political mentor of Mahatma Gandhi refers to Gopal Krishna Gokhale."
   },
   {
-   "id": "gk-misc-p02-0976",
+   "id": "gk-misc-p02-0997",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "Swaraj Party - 1930",
@@ -14659,7 +14974,7 @@
    "e": "Only Swaraj Party - 1923 is correctly matched."
   },
   {
-   "id": "gk-misc-p02-0977",
+   "id": "gk-misc-p02-0998",
    "q": "Which part of the Constitution deals with: Official language?",
    "o": [
     "Part IVA, Article 51A",
@@ -14674,7 +14989,7 @@
    "e": "Official language is covered under Part XVII, Articles 343-351."
   },
   {
-   "id": "gk-misc-p02-0978",
+   "id": "gk-misc-p02-0999",
    "q": "Which of the following pairs is correctly matched?",
    "o": [
     "106th Amendment - 1976",
@@ -14689,7 +15004,7 @@
    "e": "Only 106th Amendment - 2023 is correctly matched."
   },
   {
-   "id": "gk-misc-p02-0979",
+   "id": "gk-misc-p02-1000",
    "q": "Number of Fundamental Rights?",
    "o": [
     "1976",
@@ -14702,321 +15017,6 @@
    "l": 2,
    "s": "generated",
    "e": "Number of Fundamental Rights — 6."
-  },
-  {
-   "id": "gk-misc-p02-0980",
-   "q": "Which institution is described as: Local self-government in urban areas?",
-   "o": [
-    "Panchayat",
-    "Municipality",
-    "Election Commission of India",
-    "Comptroller and Auditor General"
-   ],
-   "a": 1,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Local self-government in urban areas describes Municipality."
-  },
-  {
-   "id": "gk-misc-p02-0981",
-   "q": "On which date is World Photography Day observed?",
-   "o": [
-    "27 September",
-    "19 August",
-    "21 June",
-    "26 January"
-   ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Photography Day is observed on 19 August."
-  },
-  {
-   "id": "gk-misc-p02-0982",
-   "q": "Where is the headquarters of Indian Space Research Organisation?",
-   "o": [
-    "Lyon",
-    "Washington, D.C.",
-    "Nairobi",
-    "Bengaluru"
-   ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "Indian Space Research Organisation is headquartered at Bengaluru."
-  },
-  {
-   "id": "gk-misc-p02-0983",
-   "q": "Which sport uses teams of 11 players?",
-   "o": [
-    "Football",
-    "Water polo",
-    "Kabaddi",
-    "Ice hockey"
-   ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 11 players play Football."
-  },
-  {
-   "id": "gk-misc-p02-0984",
-   "q": "Subroto Cup is associated with which sport?",
-   "o": [
-    "Badminton",
-    "Hockey",
-    "Football",
-    "Cricket"
-   ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Subroto Cup is associated with Football."
-  },
-  {
-   "id": "gk-misc-p02-0985",
-   "q": "Major Dhyan Chand Khel Ratna Award is associated with which of the following?",
-   "o": [
-    "Second highest military decoration of India",
-    "Second highest civilian award of India",
-    "Highest sporting honour of India",
-    "Award for progress in spiritual matters"
-   ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Major Dhyan Chand Khel Ratna Award — Highest sporting honour of India."
-  },
-  {
-   "id": "gk-misc-p02-0986",
-   "q": "Who is the author of Broken Wings?",
-   "o": [
-    "Vishnu Sharma",
-    "Sarojini Naidu",
-    "Arundhati Roy",
-    "Stephen Hawking"
-   ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Broken Wings is written by Sarojini Naidu."
-  },
-  {
-   "id": "gk-misc-p02-0987",
-   "q": "Which of the following achievements belongs to George Washington?",
-   "o": [
-    "First President of the United States",
-    "First person to walk on the Moon",
-    "First human in space",
-    "First Indian to win a Nobel Prize"
-   ],
-   "a": 0,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First President of the United States belongs to George Washington."
-  },
-  {
-   "id": "gk-misc-p02-0988",
-   "q": "Which is the highest plateau in the world?",
-   "o": [
-    "Sundarbans",
-    "Tibetan Plateau",
-    "Andhra Pradesh",
-    "Arma Konda"
-   ],
-   "a": 1,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
-  },
-  {
-   "id": "gk-misc-p02-0989",
-   "q": "Which country is the largest producer of spices?",
-   "o": [
-    "Five and a half hours",
-    "India",
-    "Chilika Lake",
-    "Baku"
-   ],
-   "a": 1,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
-  },
-  {
-   "id": "gk-misc-p02-0990",
-   "q": "What percentage of the atmosphere is oxygen?",
-   "o": [
-    "Lava",
-    "Outer core",
-    "Seismograph",
-    "About 21 per cent"
-   ],
-   "a": 3,
-   "t": "Climate and Atmosphere",
-   "l": 2,
-   "s": "generated",
-   "e": "What percentage of the atmosphere is oxygen — About 21 per cent."
-  },
-  {
-   "id": "gk-misc-p02-0991",
-   "q": "Which of the following pairs of soil and feature is correctly matched?",
-   "o": [
-    "Mountain soil - Also called regur, ideal for cotton",
-    "Mountain soil - Found in hilly and forest regions",
-    "Mountain soil - Formed from crystalline rocks, rich in iron",
-    "Mountain soil - Formed by leaching in high rainfall areas"
-   ],
-   "a": 1,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mountain soil - Found in hilly and forest regions is correctly matched."
-  },
-  {
-   "id": "gk-misc-p02-0992",
-   "q": "Which mineral is found in large quantities in Odisha?",
-   "o": [
-    "Manganese",
-    "Graphite",
-    "Copper",
-    "Diamond"
-   ],
-   "a": 1,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Graphite is found in Odisha."
-  },
-  {
-   "id": "gk-misc-p02-0993",
-   "q": "What is the value of final goods and services produced within a country called?",
-   "o": [
-    "International Development Association",
-    "1965",
-    "Balance of payments",
-    "Gross Domestic Product"
-   ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
-  },
-  {
-   "id": "gk-misc-p02-0994",
-   "q": "Choose the word most similar in meaning to Fastidious.",
-   "o": [
-    "Ease",
-    "Starvation",
-    "Meticulous",
-    "Condemn"
-   ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Fastidious means Meticulous."
-  },
-  {
-   "id": "gk-misc-p02-0995",
-   "q": "Choose the word most opposite in meaning to Sanguine.",
-   "o": [
-    "Original",
-    "Frequent",
-    "Pessimistic",
-    "Flowing"
-   ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Sanguine is Pessimistic."
-  },
-  {
-   "id": "gk-misc-p02-0996",
-   "q": "What is the meaning of the idiom 'To fight a losing battle'?",
-   "o": [
-    "An unexpected winner",
-    "Agree completely",
-    "To struggle without hope of success",
-    "Laugh secretly"
-   ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'To fight a losing battle' means To struggle without hope of success."
-  },
-  {
-   "id": "gk-misc-p02-0997",
-   "q": "Choose the one word substitute for: A place where money is coined",
-   "o": [
-    "Somniloquist",
-    "Optimist",
-    "Mint",
-    "Apiary"
-   ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "A place where money is coined — Mint."
-  },
-  {
-   "id": "gk-misc-p02-0998",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
-    "Disappear",
-    "Parallel",
-    "Repetition",
-    "Restaurant"
-   ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Repetition."
-  },
-  {
-   "id": "gk-misc-p02-0999",
-   "q": "What is the plural of Goose?",
-   "o": [
-    "Geese",
-    "Women",
-    "Analyses",
-    "Zoos"
-   ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Goose is Geese."
-  },
-  {
-   "id": "gk-misc-p02-1000",
-   "q": "What is the feminine form of Ram?",
-   "o": [
-    "Queen",
-    "Mother",
-    "Ewe",
-    "Priestess"
-   ],
-   "a": 2,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Ram is Ewe."
   }
  ]
 };
