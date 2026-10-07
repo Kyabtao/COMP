@@ -1,5 +1,5 @@
 {
-  "name": "comp-competition-prep",
+  "name": "examsathi-competition-prep",
   "private": true,
   "scripts": {
     "build:qbank": "node tools/build-qbank.js",

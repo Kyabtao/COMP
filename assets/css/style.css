@@ -1,5 +1,5 @@
 /* ==========================================================================
-   COMP — Competition Prep theme
+   ExamSathi — Competition Prep theme
    A single stylesheet for the whole site: design tokens, layout, components
    and both light + dark palettes. No build step, no external assets.
    ========================================================================== */
@@ -206,11 +206,21 @@ hr { border: 0; border-top: 1px solid var(--line); margin: 18px 0; }
   display: grid; place-items: center;
   border-radius: 13px;
   background: var(--grad-brand);
-  color: #fff; font-weight: 800; font-size: 19px; letter-spacing: -0.02em;
   box-shadow: 0 8px 18px -8px rgba(79, 70, 229, 0.9);
+  overflow: hidden;
 }
+/* Inline SVG mark (assets/img/logo.svg artwork); the gradient behind it is a fallback. */
+.logo svg { width: 100%; height: 100%; display: block; }
 .brand-text { display: flex; flex-direction: column; line-height: 1.15; }
 .brand-name { font-weight: 800; font-size: 1.05rem; letter-spacing: 0.01em; }
+.brand-name .accent { color: var(--brand-strong); }
+@supports ((background-clip: text) or (-webkit-background-clip: text)) {
+  .brand-name .accent {
+    background: var(--grad-brand);
+    -webkit-background-clip: text; background-clip: text;
+    color: transparent; -webkit-text-fill-color: transparent;
+  }
+}
 .tag { font-size: 0.68rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.13em; font-weight: 600; }
 
 .topnav { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }

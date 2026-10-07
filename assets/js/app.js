@@ -1,13 +1,13 @@
 "use strict";
 /**
- * COMP — competition prep app.
+ * ExamSathi — competition prep app.
  * Modes: home, practice (category drill), exam (configurable paper), progress.
  * Paper shape (questions, minutes, marks, penalty) is user selectable and
  * defaults to 40 questions, 40 minutes, +1 / -0.25.
  */
 (function () {
-  var STORE_KEY = "comp.progress.v1";
-  var TARGET_KEY = "comp.target";
+  var STORE_KEY = "examsathi.progress.v1";
+  var TARGET_KEY = "examsathi.target";
   /**
    * Merged target list: school classes and competitive exams live in one list
    * because every paper follows the same shape by default (40 questions,
@@ -45,8 +45,9 @@
     marks: 1,
     penalty: NEGATIVE_MARKING
   };
-  var SETTINGS_KEY = "comp.exam.settings";
-  var DRILL_KEY = "comp.drill.length";
+  var SETTINGS_KEY = "examsathi.exam.settings";
+  var DRILL_KEY = "examsathi.drill.length";
+  var THEME_KEY = "examsathi.theme";
   var DRILL_DEFAULT = 15;
   var QUESTION_CHOICES = [10, 15, 20, 25, 30, 40, 50, 60, 75, 100];
   var TIME_CHOICES = [5, 10, 15, 20, 25, 30, 40, 45, 60, 75, 90, 120];
@@ -75,6 +76,28 @@
   function storeRemove(key) {
     try { localStorage.removeItem(key); } catch (e) {}
   }
+
+  /**
+   * The site was renamed from COMP to ExamSathi: copy saved progress, target,
+   * paper settings, drill length and theme from the old comp.* keys to the new
+   * examsathi.* keys so returning visitors keep everything.
+   */
+  function migrateStorage() {
+    var pairs = [
+      [STORE_KEY, "comp.progress.v1"],
+      [TARGET_KEY, "comp.target"],
+      [SETTINGS_KEY, "comp.exam.settings"],
+      [DRILL_KEY, "comp.drill.length"],
+      [THEME_KEY, "comp.theme"]
+    ];
+    pairs.forEach(function (pair) {
+      if (storeGet(pair[0]) == null) {
+        var old = storeGet(pair[1]);
+        if (old != null) storeSet(pair[0], old);
+      }
+    });
+  }
+  migrateStorage();
 
   /** Saved paper settings, always merged over the defaults so bad values cannot leak in. */
   function examSettings() {
@@ -282,9 +305,8 @@
   function hueFor(group) { return GROUP_HUES[group] != null ? GROUP_HUES[group] : 258; }
 
   /* ------------------------------------------------------------------ */
-  /* theme                                                              */
+  /* theme (THEME_KEY lives with the other storage keys above)            */
   /* ------------------------------------------------------------------ */
-  var THEME_KEY = "comp.theme";
   function systemPrefersDark() {
     return !!(window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches);
   }

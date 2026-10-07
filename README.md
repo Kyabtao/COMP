@@ -1,4 +1,6 @@
-# COMP — Competition Prep
+<img src="assets/img/logo.svg" alt="ExamSathi logo" width="72" />
+
+# ExamSathi — Competition Prep
 
 Practice site for school and competitive exams, built around a generated question bank.
 
@@ -42,10 +44,10 @@ answer, −0.25 per wrong answer** — and every part can be changed before you 
   target can really supply, and it warns when a paper works out under 15 seconds per
   question.
 
-The choices are saved in this browser (`comp.exam.settings`), so the next paper opens
+The choices are saved in this browser (`examsathi.exam.settings`), so the next paper opens
 with your settings. A target that cannot fill the requested length simply gets a
 shorter paper, and the Begin button tells you the real number before you start. Drill
-length is remembered separately (`comp.drill.length`).
+length is remembered separately (`examsathi.drill.length`).
 
 Small things that make it quicker to use:
 

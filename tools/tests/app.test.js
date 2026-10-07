@@ -10,11 +10,11 @@ const example = bank.bySlug("indian-history").find((q) => q.question === "The Ha
 
 function setup(t, hash, categories) {
   const dom = new JSDOM('<main id="app"></main><button id="theme-toggle"></button><p id="bank-stats"></p>', {
-    url: "https://comp.test/" + hash, runScripts: "outside-only"
+    url: "https://examsathi.test/" + hash, runScripts: "outside-only"
   });
   t.after(() => dom.window.close());
   const w = dom.window;
-  w.localStorage.setItem("comp.target", "graduation");
+  w.localStorage.setItem("examsathi.target", "graduation");
   w.QBANK_MANIFEST = categories ? categories.map((c) => ({ ...c, count: c.questions.length })) : bank.manifest;
   w.QBANK_CATEGORIES = Object.fromEntries((categories || bank.categories()).map((c) => [c.slug, c]));
   w.confirm = () => true;
@@ -36,7 +36,7 @@ for (const chosen of [0, 1]) {
     assert.ok(d.querySelectorAll(".opt")[1].classList.contains("correct"));
     if (chosen === 0) assert.ok(d.querySelectorAll(".opt")[0].classList.contains("wrong"));
     d.querySelector("#next").click();
-    const result = JSON.parse(w.localStorage.getItem("comp.progress.v1")).attempts[0];
+    const result = JSON.parse(w.localStorage.getItem("examsathi.progress.v1")).attempts[0];
     assert.equal(result.correct, chosen === 1 ? 1 : 0);
     assert.equal(result.attempted, 1);
   });
@@ -74,7 +74,7 @@ test("exam scores descriptive answers and only reveals explanations in submitted
   d.querySelectorAll(".opt")[(second.answer + 1) % 4].click();
   assert.equal(d.querySelector(".explain"), null);
   d.querySelector("#submit").click();
-  const result = JSON.parse(w.localStorage.getItem("comp.progress.v1")).attempts[0];
+  const result = JSON.parse(w.localStorage.getItem("examsathi.progress.v1")).attempts[0];
   assert.equal(result.correct, 1);
   assert.equal(result.wrong, 1);
   assert.equal(result.skipped, 38);
@@ -94,7 +94,7 @@ test("exam scores descriptive answers and only reveals explanations in submitted
 
 test("the app still boots when storage is unavailable", (t) => {
   const dom = new JSDOM('<main id="app"></main><button id="theme-toggle"></button><p id="bank-stats"></p>', {
-    url: "https://comp.test/", runScripts: "outside-only"
+    url: "https://examsathi.test/", runScripts: "outside-only"
   });
   t.after(() => dom.window.close());
   const w = dom.window;
@@ -130,7 +130,7 @@ test("the setup screen defaults to 40 questions, 40 minutes, +1 and 0.25 penalty
   assert.match(d.querySelector("#begin").textContent, /Begin 40 question exam/);
   assert.match(d.querySelector("#plan-chips").textContent, /40 questions/);
   /* nothing is written until the user changes something */
-  assert.equal(w.localStorage.getItem("comp.exam.settings"), null);
+  assert.equal(w.localStorage.getItem("examsathi.exam.settings"), null);
 });
 
 test("paper settings drive length, clock and marking", (t) => {
@@ -146,7 +146,7 @@ test("paper settings drive length, clock and marking", (t) => {
   set("#e-marks", 2);
   set("#e-penalty", 0.5);
   assert.match(d.querySelector("#begin").textContent, /Begin 10 question exam/);
-  assert.deepEqual(JSON.parse(w.localStorage.getItem("comp.exam.settings")), { questions: 10, minutes: 5, marks: 2, penalty: 0.5 });
+  assert.deepEqual(JSON.parse(w.localStorage.getItem("examsathi.exam.settings")), { questions: 10, minutes: 5, marks: 2, penalty: 0.5 });
 
   d.querySelector("#begin").click();
   assert.equal(d.querySelectorAll("#palette button").length, 10);
@@ -165,7 +165,7 @@ test("paper settings drive length, clock and marking", (t) => {
   const second = currentQuestion();
   d.querySelectorAll(".opt")[(second.answer + 1) % 4].click();
   d.querySelector("#submit").click();
-  const result = JSON.parse(w.localStorage.getItem("comp.progress.v1")).attempts[0];
+  const result = JSON.parse(w.localStorage.getItem("examsathi.progress.v1")).attempts[0];
   assert.equal(result.total, 10);
   assert.equal(result.max, 20);
   assert.equal(result.marks, 2);
@@ -202,6 +202,32 @@ test("a target without enough questions cannot start a paper", (t) => {
   assert.equal(d.querySelectorAll("#palette button").length, 0, "no paper is started");
 });
 
+test("saved data migrates from the old comp.* keys to the examsathi.* keys", (t) => {
+  const dom = new JSDOM('<main id="app"></main><button id="theme-toggle"></button><p id="bank-stats"></p>', {
+    url: "https://examsathi.test/#/exam", runScripts: "outside-only"
+  });
+  t.after(() => dom.window.close());
+  const w = dom.window;
+  /* A returning visitor from before the rename only has the old keys. */
+  w.localStorage.setItem("comp.target", "ssc-chsl");
+  w.localStorage.setItem("comp.exam.settings", JSON.stringify({ questions: 10, minutes: 5, marks: 2, penalty: 0.5 }));
+  w.localStorage.setItem("comp.drill.length", "10");
+  w.localStorage.setItem("comp.theme", "dark");
+  w.QBANK_MANIFEST = bank.manifest;
+  w.QBANK_CATEGORIES = Object.fromEntries(bank.categories().map((c) => [c.slug, c]));
+  w.confirm = () => true;
+  w.eval(appScript);
+  w.dispatchEvent(new w.Event("qbank-ready"));
+  assert.equal(w.localStorage.getItem("examsathi.target"), "ssc-chsl");
+  assert.equal(w.localStorage.getItem("examsathi.exam.settings"), JSON.stringify({ questions: 10, minutes: 5, marks: 2, penalty: 0.5 }));
+  assert.equal(w.localStorage.getItem("examsathi.drill.length"), "10");
+  assert.equal(w.localStorage.getItem("examsathi.theme"), "dark");
+  /* …and the migrated values actually drive the UI. */
+  assert.equal(w.document.querySelector("#e-target").value, "ssc-chsl");
+  assert.equal(w.document.querySelector("#e-questions").value, "10");
+  assert.equal(w.document.documentElement.getAttribute("data-theme"), "dark");
+});
+
 test("drill length is remembered and used by the next drill", (t) => {
   const w = setup(t, "#/practice/indian-history", [{ slug: "indian-history", name: "Indian History", questions: [example] }]);
   const d = w.document;
@@ -212,7 +238,7 @@ test("drill length is remembered and used by the next drill", (t) => {
   assert.ok(select, "practice index offers a drill length");
   select.value = "10";
   select.dispatchEvent(new w.Event("change"));
-  assert.equal(w.localStorage.getItem("comp.drill.length"), "10");
+  assert.equal(w.localStorage.getItem("examsathi.drill.length"), "10");
   w.location.hash = "#/practice/indian-history";
   w.dispatchEvent(new w.Event("hashchange"));
   assert.match(d.querySelector(".badge.plain").textContent, /Question 1 of 1/);
