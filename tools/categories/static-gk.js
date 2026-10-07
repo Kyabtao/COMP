@@ -13,7 +13,7 @@
   "railways"
  ],
  "blurb": "National symbols, dances, festivals, dams, parks, instruments and branches of science.",
- "count": 1000,
+ "count": 1001,
  "questions": [
   {
    "id": "static-gk-00001",
@@ -15014,6 +15014,22 @@
    "topic": "Inventions and Discoveries",
    "level": 2,
    "source": "generated"
+  },
+  {
+   "id": "static-gk-daily-2026-10-07-05",
+   "question": "Municipality is best described as which of the following?",
+   "options": [
+    "Recommends distribution of taxes between the Centre and States",
+    "Local self-government at the village level",
+    "Central bank and monetary authority",
+    "Local self-government in urban areas"
+   ],
+   "answer": 3,
+   "explanation": "Municipality — Local self-government in urban areas.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-07"
   }
  ]
 };

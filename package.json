@@ -3,6 +3,7 @@
   "private": true,
   "scripts": {
     "build:qbank": "node tools/build-qbank.js",
+    "daily": "node tools/daily.js",
     "validate": "node tools/validate.js",
     "test": "node --test tools/tests/*.test.js"
   },

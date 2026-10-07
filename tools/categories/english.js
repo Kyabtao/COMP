@@ -12,7 +12,7 @@
   "banking"
  ],
  "blurb": "Synonyms, antonyms, idioms, one-word substitutes, spellings and grammar.",
- "count": 1000,
+ "count": 1002,
  "questions": [
   {
    "id": "english-00001",
@@ -15013,6 +15013,38 @@
    "topic": "Prepositions",
    "level": 3,
    "source": "generated"
+  },
+  {
+   "id": "english-daily-2026-10-07-04",
+   "question": "Choose the word most similar in meaning to Squalid.",
+   "options": [
+    "Generous",
+    "Expert",
+    "Filthy",
+    "Shrewd"
+   ],
+   "answer": 2,
+   "explanation": "Squalid means Filthy.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-07"
+  },
+  {
+   "id": "english-daily-2026-10-07-10",
+   "question": "Choose the word most opposite in meaning to Intrepid.",
+   "options": [
+    "Expert",
+    "Fearful",
+    "Flowing",
+    "Explicit"
+   ],
+   "answer": 1,
+   "explanation": "The opposite of Intrepid is Fearful.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-07"
   }
  ]
 };

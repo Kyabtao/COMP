@@ -305,8 +305,13 @@ function makeStream(list, topicSet, seed) {
   };
 }
 
+/**
+ * An explicit seed starts the same generators from a different point, which is
+ * how the daily scheduler (tools/daily.js) mints fresh questions. No argument
+ * keeps the historic seeds, so the main bank never changes.
+ */
 module.exports = {
-  quantStream: () => makeStream(QUANT.filter((g, i) => i !== QUANT.length - 1), "quant", 20240501),
-  mathsStream: () => makeStream(MATHS.filter((g, i) => i !== MATHS.length - 1), "maths", 987654321),
-  reasoningStream: () => makeStream(REASONING, "reasoning", 13579)
+  quantStream: (seed) => makeStream(QUANT.filter((g, i) => i !== QUANT.length - 1), "quant", seed === undefined ? 20240501 : seed),
+  mathsStream: (seed) => makeStream(MATHS.filter((g, i) => i !== MATHS.length - 1), "maths", seed === undefined ? 987654321 : seed),
+  reasoningStream: (seed) => makeStream(REASONING, "reasoning", seed === undefined ? 13579 : seed)
 };

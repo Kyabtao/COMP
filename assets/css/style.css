@@ -366,6 +366,11 @@ button.link {
 .kpi b { display: block; font-size: 1.35rem; font-weight: 800; letter-spacing: -0.02em; color: #fff; }
 .kpi span { font-size: 0.68rem; color: rgba(255, 255, 255, 0.82); text-transform: uppercase; letter-spacing: 0.08em; font-weight: 600; }
 
+/* Daily dose strip on the home page. */
+.daily-strip { display: flex; align-items: center; justify-content: space-between; gap: 18px; flex-wrap: wrap; }
+.daily-strip h2 { margin: 8px 0 4px; }
+.daily-strip p { margin: 0; }
+
 /* --------------------------------------------------------------------------
    7. Grids and tiles
    -------------------------------------------------------------------------- */

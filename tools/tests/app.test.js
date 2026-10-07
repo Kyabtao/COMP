@@ -228,6 +228,42 @@ test("saved data migrates from the old comp.* keys to the examsathi.* keys", (t)
   assert.equal(w.document.documentElement.getAttribute("data-theme"), "dark");
 });
 
+test("the daily route drills the latest published set", (t) => {
+  const pad = (n) => String(n).padStart(2, "0");
+  const now = new Date();
+  const stamp = now.getFullYear() + "-" + pad(now.getMonth() + 1) + "-" + pad(now.getDate());
+  const dq = (id, date) => ({ ...example, id, source: "daily", dailyDate: date });
+  const w = setup(t, "#/daily", [
+    { slug: "english", name: "English", questions: [dq("english-daily-" + stamp + "-01", stamp), dq("english-daily-old-01", "2026-01-01")] },
+    { slug: "reasoning", name: "Reasoning", questions: [dq("reasoning-daily-" + stamp + "-02", stamp)] }
+  ]);
+  const d = w.document;
+  /* today published, so the older day is not mixed in */
+  assert.match(d.querySelector(".badge.plain").textContent, /Question 1 of 2/);
+  assert.match(d.querySelector(".badge").textContent, /Daily Dose/);
+  d.querySelectorAll(".opt")[example.answer].click();
+  assert.match(d.querySelector("#feedback").textContent, /Correct answer/);
+  d.querySelector("#next").click();
+  d.querySelectorAll(".opt")[example.answer].click();
+  d.querySelector("#next").click();
+  const result = JSON.parse(w.localStorage.getItem("examsathi.progress.v1")).attempts[0];
+  assert.equal(result.category, "daily");
+  assert.equal(result.correct, 2);
+  /* the drill-again button replays the daily set, not a category drill */
+  d.querySelector("#again").click();
+  assert.match(d.querySelector(".badge.plain").textContent, /Question 1 of 2/);
+  /* the home page advertises the fresh set */
+  w.location.hash = "#/";
+  w.dispatchEvent(new w.Event("hashchange"));
+  assert.match(d.querySelector(".daily-strip").textContent, /2 fresh questions/);
+  assert.match(d.querySelector(".daily-strip").textContent, /New today/);
+});
+
+test("the daily route explains itself when nothing has published yet", (t) => {
+  const w = setup(t, "#/daily", [{ slug: "english", name: "English", questions: [example] }]);
+  assert.match(w.document.querySelector("#app").textContent, /Nothing has been published yet/);
+});
+
 test("drill length is remembered and used by the next drill", (t) => {
   const w = setup(t, "#/practice/indian-history", [{ slug: "indian-history", name: "Indian History", questions: [example] }]);
   const d = w.document;

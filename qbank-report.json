@@ -1,5 +1,5 @@
 {
-  "totalQuestions": 32927,
+  "totalQuestions": 32937,
   "categoriesAt1000Plus": [
     "gk-misc",
     "general-knowledge",
@@ -35,7 +35,7 @@
     {
       "slug": "static-gk",
       "name": "Static GK",
-      "count": 1000,
+      "count": 1001,
       "target": 1000
     },
     {
@@ -65,25 +65,25 @@
     {
       "slug": "english",
       "name": "English Language",
-      "count": 1000,
+      "count": 1002,
       "target": 1000
     },
     {
       "slug": "reasoning",
       "name": "Reasoning",
-      "count": 1500,
+      "count": 1502,
       "target": 1000
     },
     {
       "slug": "quantitative-aptitude",
       "name": "Quantitative Aptitude",
-      "count": 1500,
+      "count": 1502,
       "target": 1000
     },
     {
       "slug": "mathematics",
       "name": "Mathematics",
-      "count": 1500,
+      "count": 1502,
       "target": 1000
     },
     {
@@ -101,7 +101,7 @@
     {
       "slug": "economics",
       "name": "Economics & Banking",
-      "count": 280,
+      "count": 281,
       "target": 600
     },
     {
@@ -224,7 +224,7 @@
     {
       "name": "question ids are unique",
       "pass": true,
-      "detail": "32927 unique ids for 32927 questions"
+      "detail": "32937 unique ids for 32937 questions"
     },
     {
       "name": "class selection covers 1-12 and Graduation",
@@ -249,7 +249,7 @@
     {
       "name": "[spec] total questions reach 25,000",
       "pass": true,
-      "detail": "32927 questions built"
+      "detail": "32937 questions built"
     },
     {
       "name": "[spec] GK Misc reaches 17,000",

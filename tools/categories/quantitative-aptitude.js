@@ -12,7 +12,7 @@
   "banking"
  ],
  "blurb": "Arithmetic, percentages, interest, ratios and mensuration.",
- "count": 1500,
+ "count": 1502,
  "questions": [
   {
    "id": "quantitative-aptitude-00001",
@@ -22513,6 +22513,38 @@
    "topic": "Compound Interest",
    "level": 3,
    "source": "generated"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-07-01",
+   "question": "What is 23 x 61?",
+   "options": [
+    "1426",
+    "1464",
+    "1403",
+    "1342"
+   ],
+   "answer": 2,
+   "explanation": "23 x 61 = 1403.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-07"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-07-07",
+   "question": "What is 14 x 71?",
+   "options": [
+    "1008",
+    "994",
+    "923",
+    "990"
+   ],
+   "answer": 1,
+   "explanation": "14 x 71 = 994.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-07"
   }
  ]
 };

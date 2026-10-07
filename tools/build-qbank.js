@@ -20,6 +20,7 @@ const { assertQuestion } = require("./question-schema");
 const ROOT = path.join(__dirname, "..");
 const OUT = path.join(__dirname, "categories");
 const AUTHORED = path.join(__dirname, "authored");
+const DAILY = path.join(__dirname, "daily");
 
 /**
  * Allocation phases. Niche categories claim their small pools first, broad subject
@@ -65,6 +66,34 @@ function loadAuthored(slug) {
       topic: q.topic || "Curated", level: q.level === undefined ? 1 : q.level, source: "curated"
     };
   });
+}
+
+/**
+ * Daily scheduler questions for one category, oldest day first. Each day file
+ * is tools/daily/YYYY-MM-DD.js (see tools/daily.js). Items carry their own
+ * stable ids so the positional numbering below never renumbers old questions.
+ */
+function loadDaily(slug) {
+  if (!fs.existsSync(DAILY)) return [];
+  const files = fs.readdirSync(DAILY).filter((f) => /^\d{4}-\d{2}-\d{2}\.js$/.test(f)).sort();
+  const out = [];
+  files.forEach((f) => {
+    const day = require(path.join(DAILY, f));
+    (day.questions || []).forEach((q, index) => {
+      if (q.category !== slug) return;
+      assertQuestion(q, "daily " + day.date + " question " + (index + 1));
+      const key = keyOf({ q: q.question, opts: q.options });
+      if (seenQuestions.has(key)) return; // a manual re-run must never duplicate
+      seenQuestions.add(key);
+      out.push({
+        id: slug + "-daily-" + day.date + "-" + String(index + 1).padStart(2, "0"),
+        question: q.question, options: q.options, answer: q.answer, explanation: q.explanation,
+        topic: q.topic, level: q.level === undefined ? 1 : q.level,
+        source: "daily", dailyDate: day.date
+      });
+    });
+  });
+  return out;
 }
 
 /** Internal generators use compact fields; publish only the documented MCQ schema. */
@@ -187,6 +216,9 @@ function main() {
       const cap = Math.max(numericSpec.cap, questions.length);
       questions = questions.concat(numericFill(slug, numeric[numericSpec.stream], Math.max(0, cap - questions.length), seed));
     }
+
+    // daily scheduler additions go last, so existing ids never shift
+    questions = questions.concat(loadDaily(slug));
 
     questions = questions.map((q, i) => ({ id: slug + "-" + String(i + 1).padStart(5, "0"), ...q }));
     built[slug] = questions;

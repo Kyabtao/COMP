@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-07T05:19:02.590Z",
-  "totalQuestions": 32927,
+  "generatedAt": "2026-10-07T07:53:41.172Z",
+  "totalQuestions": 32937,
   "categories": [
     {
       "slug": "abbreviations",
@@ -19,7 +19,7 @@
     },
     {
       "slug": "economics",
-      "count": 280,
+      "count": 281,
       "target": 600
     },
     {
@@ -74,7 +74,7 @@
     },
     {
       "slug": "english",
-      "count": 1000,
+      "count": 1002,
       "target": 1000
     },
     {
@@ -84,7 +84,7 @@
     },
     {
       "slug": "static-gk",
-      "count": 1000,
+      "count": 1001,
       "target": 1000
     },
     {
@@ -114,17 +114,17 @@
     },
     {
       "slug": "reasoning",
-      "count": 1500,
+      "count": 1502,
       "target": 1000
     },
     {
       "slug": "quantitative-aptitude",
-      "count": 1500,
+      "count": 1502,
       "target": 1000
     },
     {
       "slug": "mathematics",
-      "count": 1500,
+      "count": 1502,
       "target": 1000
     },
     {
