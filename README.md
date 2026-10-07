@@ -173,18 +173,31 @@ Indian Polity is at 724. Add rows to `tools/data/*.js` and rerun the build to ra
 
 ## Deploying
 
-`.github/workflows/deploy.yml` validates the bank, stages the static site and publishes
-it to GitHub Pages on every push to `main`. Enable Pages in the repository settings and
-choose **GitHub Actions** as the source.
+GitHub Pages publishes this repository straight from `main` (branch source, root folder),
+and the site needs no build step, so **every push to `main` goes live** at
+<https://kyabtao.github.io/COMP/>. Nothing else has to run: the pages are served exactly
+as committed.
 
-Note: the workflow file ships in the working tree, but the automation token used to build
-this branch does not have GitHub's `workflow` permission, so it could not be committed.
-Add it from a machine that can push workflow files:
+Verification is the one piece that lives outside the browser. `.github/workflows/ci.yml`
+runs the regression suite, validates the bank and checks that the files the browser asks
+for are present — on pushes to `main`, on every pull request and on demand.
 
 ```bash
-mkdir -p .github/workflows
-cp /path/to/deploy.yml .github/workflows/deploy.yml
-git add .github/workflows/deploy.yml && git commit -m "Add GitHub Pages workflow" && git push
+# the same checks locally, before pushing
+npm install && npm test
+node tools/validate.js
+```
+
+The workflow file is **in the working tree but not committed**: the automation token used
+to build these branches does not have GitHub's `workflow` permission, so a push fails with
+`refusing to allow a GitHub App to create or update workflow ... without workflows
+permission`. Commit it once from a machine (or with a token) that has that permission and
+CI starts working on the next push:
+
+```bash
+git add .github/workflows/ci.yml
+git commit -m "Add CI workflow"
+git push
 ```
 
 ## Licence and credits

@@ -92,6 +92,33 @@ test("exam scores descriptive answers and only reveals explanations in submitted
   assert.match(d.querySelectorAll("#list > div")[2].textContent, /Skipped/);
 });
 
+test("the app still boots when storage is unavailable", (t) => {
+  const dom = new JSDOM('<main id="app"></main><button id="theme-toggle"></button><p id="bank-stats"></p>', {
+    url: "https://comp.test/", runScripts: "outside-only"
+  });
+  t.after(() => dom.window.close());
+  const w = dom.window;
+  /* Private browsing and blocked cookies both throw on access. */
+  Object.defineProperty(w, "localStorage", {
+    configurable: true,
+    get() { throw new Error("storage is blocked"); }
+  });
+  w.QBANK_MANIFEST = bank.manifest;
+  w.QBANK_CATEGORIES = Object.fromEntries(bank.categories().map((c) => [c.slug, c]));
+  w.confirm = () => true;
+  w.eval(appScript);
+  w.dispatchEvent(new w.Event("qbank-ready"));
+  const d = w.document;
+  assert.ok(d.querySelector(".hero h1"), "home renders");
+  assert.equal(d.querySelectorAll("#cat-sections .tile").length, bank.manifest.length);
+  /* the exam screen must work too: no draft, straight to the defaults */
+  w.location.hash = "#/exam";
+  w.dispatchEvent(new w.Event("hashchange"));
+  assert.equal(d.querySelector("#e-questions").value, "40");
+  d.querySelector("#begin").click();
+  assert.equal(d.querySelectorAll("#palette button").length, 40);
+});
+
 test("the setup screen defaults to 40 questions, 40 minutes, +1 and 0.25 penalty", (t) => {
   const w = setup(t, "#/exam");
   const d = w.document;

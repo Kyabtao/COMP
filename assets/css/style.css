@@ -22,7 +22,7 @@
   /* text */
   --ink: #141a2e;
   --ink-2: #33405c;
-  --muted: #69738f;
+  --muted: #5e6a87;
 
   /* lines */
   --line: #e6e9f5;
@@ -41,10 +41,10 @@
   --grad-btn: linear-gradient(135deg, #5b52ea 0%, #7c3aed 100%);
 
   /* status */
-  --good: #0e9f6e;
+  --good: #067048;
   --good-soft: #e2f8ef;
   --good-line: #9fe3c7;
-  --bad: #dc2626;
+  --bad: #c02222;
   --bad-soft: #fdecec;
   --bad-line: #f3b6b6;
   --warn: #b45309;

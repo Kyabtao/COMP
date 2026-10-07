@@ -65,6 +65,17 @@
   function trimNumber(n) { return String(Math.round(Number(n) * 100) / 100); }
   function round2(n) { return Math.round(n * 100) / 100; }
 
+  /* Storage can throw (private browsing, blocked cookies) — never let it break the app. */
+  function storeGet(key) {
+    try { return localStorage.getItem(key); } catch (e) { return null; }
+  }
+  function storeSet(key, value) {
+    try { localStorage.setItem(key, value); } catch (e) {}
+  }
+  function storeRemove(key) {
+    try { localStorage.removeItem(key); } catch (e) {}
+  }
+
   /** Saved paper settings, always merged over the defaults so bad values cannot leak in. */
   function examSettings() {
     var out = {
@@ -74,7 +85,7 @@
       penalty: DEFAULT_SETTINGS.penalty
     };
     var raw = null;
-    try { raw = JSON.parse(localStorage.getItem(SETTINGS_KEY)); } catch (e) { raw = null; }
+    try { raw = JSON.parse(storeGet(SETTINGS_KEY)); } catch (e) { raw = null; }
     if (raw && typeof raw === "object") {
       ["questions", "minutes", "marks", "penalty"].forEach(function (key) {
         var value = Number(raw[key]);
@@ -86,19 +97,19 @@
     return out;
   }
   function saveExamSettings(settings) {
-    try { localStorage.setItem(SETTINGS_KEY, JSON.stringify(settings)); } catch (e) {}
+    storeSet(SETTINGS_KEY, JSON.stringify(settings));
   }
   function markingText(settings) {
     return "+" + trimNumber(settings.marks) + " correct \u00B7 " +
       (settings.penalty > 0 ? "\u2212" + trimNumber(settings.penalty) + " wrong" : "no penalty for wrong answers");
   }
   function drillLength() {
-    var saved = 0;
-    try { saved = Number(localStorage.getItem(DRILL_KEY)); } catch (e) { saved = 0; }
+    var saved = Number(storeGet(DRILL_KEY));
+    if (!isFinite(saved)) saved = 0;
     return DRILL_CHOICES.indexOf(saved) !== -1 ? saved : DRILL_DEFAULT;
   }
   function saveDrillLength(n) {
-    try { localStorage.setItem(DRILL_KEY, String(n)); } catch (e) {}
+    storeSet(DRILL_KEY, String(n));
   }
   /** Keeps a saved value visible in its <select> even when it is not one of the usual choices. */
   function choicesFor(list, value) {
@@ -119,19 +130,19 @@
 
   /** Reads the merged target, upgrading old builds that stored class + exam separately. */
   function migrateTarget() {
-    var stored = localStorage.getItem(TARGET_KEY);
+    var stored = storeGet(TARGET_KEY);
     if (stored && targetById(stored)) return stored;
-    var legacyExam = localStorage.getItem("comp.exam");
-    var legacyClass = localStorage.getItem("comp.class");
+    var legacyExam = storeGet("comp.exam");
+    var legacyClass = storeGet("comp.class");
     var next = "ssc-cgl";
     if (legacyExam && targetById(legacyExam)) next = legacyExam;
     else if (legacyClass) {
       var idx = CLASS_NAMES.indexOf(legacyClass);
       if (idx !== -1) next = TARGETS[idx].id;
     }
-    localStorage.setItem(TARGET_KEY, next);
-    localStorage.removeItem("comp.exam");
-    localStorage.removeItem("comp.class");
+    storeSet(TARGET_KEY, next);
+    storeRemove("comp.exam");
+    storeRemove("comp.class");
     return next;
   }
 
@@ -222,7 +233,7 @@
   /* persistence                                                        */
   /* ------------------------------------------------------------------ */
   function loadProgress() {
-    try { return JSON.parse(localStorage.getItem(STORE_KEY)) || { attempts: [] }; }
+    try { return JSON.parse(storeGet(STORE_KEY)) || { attempts: [] }; }
     catch (e) { return { attempts: [] }; }
   }
   function saveAttempt(attempt) {
@@ -232,7 +243,7 @@
     saveProgress(p);
   }
   function saveProgress(progress) {
-    try { localStorage.setItem(STORE_KEY, JSON.stringify(progress)); } catch (e) {}
+    storeSet(STORE_KEY, JSON.stringify(progress));
   }
 
   /* ------------------------------------------------------------------ */
@@ -290,12 +301,10 @@
       btn.setAttribute("aria-pressed", dark ? "true" : "false");
       btn.title = dark ? "Switch to the light theme" : "Switch to the dark theme";
     }
-    if (persist) {
-      try { localStorage.setItem(THEME_KEY, dark ? "dark" : "light"); } catch (e) {}
-    }
+    if (persist) storeSet(THEME_KEY, dark ? "dark" : "light");
   }
   function savedTheme() {
-    try { return localStorage.getItem(THEME_KEY); } catch (e) { return null; }
+    return storeGet(THEME_KEY);
   }
 
   /* ------------------------------------------------------------------ */
@@ -441,7 +450,7 @@
 
     document.getElementById("pick-target").addEventListener("change", function (e) {
       state.target = e.target.value;
-      localStorage.setItem(TARGET_KEY, state.target);
+      storeSet(TARGET_KEY, state.target);
       var badge = document.getElementById("target-badge");
       if (badge) badge.textContent = "\uD83C\uDFAF " + currentTarget().name;
     });
@@ -522,6 +531,7 @@
         '</div>' +
       '</div>' +
       '<div class="progress thin" role="presentation"><div class="bar" style="width:' + pct + '%"></div></div>' +
+      '<h1 class="sr-only">' + esc(s.name) + ' drill, question ' + (s.index + 1) + ' of ' + s.questions.length + '</h1>' +
       '<p class="qtext">' + esc(q.question) + '</p>' +
       '<div class="options" id="opts"></div>' +
       '<div id="feedback" aria-live="polite"></div>' +
@@ -718,7 +728,7 @@
     });
     document.getElementById("e-target").addEventListener("change", function (e) {
       state.target = e.target.value;
-      localStorage.setItem(TARGET_KEY, state.target);
+      storeSet(TARGET_KEY, state.target);
       paint(true);
     });
     document.querySelectorAll("#presets [data-preset]").forEach(function (btn) {
@@ -816,6 +826,7 @@
           '<span class="timer-label">Time left</span> <span id="clock">' + formatTime(s.left) + '</span>' +
         '</div>' +
       '</div>' +
+      '<h1 class="sr-only">' + esc(s.name) + ' exam, question ' + (s.index + 1) + ' of ' + s.questions.length + '</h1>' +
       '<p class="qtext">' + esc(q.question) + '</p>' +
       '<div class="options" id="opts"></div>' +
       '<div class="palette" id="palette"></div>' +
