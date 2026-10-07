@@ -25,3 +25,6 @@ __pycache__/
 # Temporary files
 temp/
 *.tmp
+
+# GitHub Pages staging
+_site/

@@ -1,0 +1,24 @@
+"use strict";
+/** Curated MCQs: Indian Polity */
+module.exports = [
+  { q: "The Constitution of India was adopted on which date?", opts: ["15 August 1947", "26 November 1949", "26 January 1950", "2 October 1950"], ans: 1, level: 1, exp: "The Constituent Assembly adopted the Constitution on 26 November 1949, now Constitution Day." },
+  { q: "Who was the Chairman of the Drafting Committee of the Constitution?", opts: ["Rajendra Prasad", "B. R. Ambedkar", "Jawaharlal Nehru", "Sardar Patel"], ans: 1, level: 1, exp: "Dr B. R. Ambedkar chaired the Drafting Committee." },
+  { q: "Which part of the Constitution contains the Fundamental Rights?", opts: ["Part II", "Part III", "Part IV", "Part V"], ans: 1, level: 2, exp: "Part III (Articles 12 to 35) lists the Fundamental Rights." },
+  { q: "Which article is called the heart and soul of the Constitution by Ambedkar?", opts: ["Article 14", "Article 19", "Article 32", "Article 44"], ans: 2, level: 3, exp: "Article 32 gives citizens the right to move the Supreme Court for enforcement of rights." },
+  { q: "How many Fundamental Duties are listed in the Constitution at present?", opts: ["10", "11", "12", "9"], ans: 1, level: 2, exp: "Eleven Fundamental Duties are listed in Article 51A after the 86th Amendment." },
+  { q: "Who is the constitutional head of the Indian State?", opts: ["Prime Minister", "President", "Chief Justice", "Speaker"], ans: 1, level: 1, exp: "The President is the constitutional head; real executive power rests with the Council of Ministers." },
+  { q: "What is the maximum strength of the Lok Sabha as per the Constitution?", opts: ["545", "550", "552", "560"], ans: 2, level: 3, exp: "Article 81 permits up to 552 members, including nominated Anglo-Indian members before 2020." },
+  { q: "The Rajya Sabha is a permanent house because it cannot be dissolved. What is its maximum strength?", opts: ["238", "245", "250", "252"], ans: 2, level: 3, exp: "The Rajya Sabha can have up to 250 members." },
+  { q: "Who administers the oath of office to the President?", opts: ["Prime Minister", "Chief Justice of India", "Vice President", "Speaker"], ans: 1, level: 2, exp: "The Chief Justice of India administers the oath." },
+  { q: "A money bill can be introduced only in which house?", opts: ["Rajya Sabha", "Lok Sabha", "Either house", "Joint sitting"], ans: 1, level: 2, exp: "Money bills originate only in the Lok Sabha, on the President's recommendation." },
+  { q: "Which amendment added the words socialist and secular to the Preamble?", opts: ["24th", "42nd", "44th", "52nd"], ans: 1, level: 3, exp: "The 42nd Amendment of 1976 added these words." },
+  { q: "The Panchayati Raj system was given constitutional status by which amendment?", opts: ["72nd", "73rd", "74th", "76th"], ans: 1, level: 2, exp: "The 73rd Amendment (1992) gave constitutional status to Panchayati Raj institutions." },
+  { q: "Who appoints the Chief Justice of a High Court?", opts: ["Governor", "President", "Chief Justice of India", "State legislature"], ans: 1, level: 2, exp: "The President appoints High Court judges in consultation with the Chief Justice of India and the Governor." },
+  { q: "What is the tenure of a member of the Rajya Sabha?", opts: ["5 years", "6 years", "4 years", "Life"], ans: 1, level: 1, exp: "Rajya Sabha members serve six-year terms, with one third retiring every two years." },
+  { q: "Which body conducts elections to Parliament and State legislatures in India?", opts: ["NITI Aayog", "Election Commission", "UPSC", "Finance Commission"], ans: 1, level: 1, exp: "The Election Commission of India supervises these elections." },
+  { q: "The Governor of a state is appointed by whom?", opts: ["Chief Minister", "President", "Prime Minister", "Chief Justice"], ans: 1, level: 1, exp: "The President appoints the Governor for a term of five years." },
+  { q: "Which schedule of the Constitution deals with anti-defection provisions?", opts: ["Ninth Schedule", "Tenth Schedule", "Eleventh Schedule", "Twelfth Schedule"], ans: 1, level: 3, exp: "The Tenth Schedule, added by the 52nd Amendment, covers defection." },
+  { q: "In which case did the Supreme Court lay down the basic structure doctrine?", opts: ["Golaknath case", "Kesavananda Bharati case", "Shankari Prasad case", "Minerva Mills case"], ans: 1, level: 3, exp: "The Kesavananda Bharati judgment of 1973 established the basic structure doctrine." },
+  { q: "Which article abolishes untouchability?", opts: ["Article 15", "Article 16", "Article 17", "Article 18"], ans: 2, level: 2, exp: "Article 17 abolishes untouchability in any form." },
+  { q: "The idea of a Constituent Assembly for India was first proposed by whom?", opts: ["M. N. Roy", "Gandhi", "Nehru", "Ambedkar"], ans: 0, level: 3, exp: "M. N. Roy proposed the idea of a Constituent Assembly in 1934." }
+];

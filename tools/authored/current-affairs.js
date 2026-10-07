@@ -1,0 +1,24 @@
+"use strict";
+/** Curated MCQs: Current Affairs (stable, verifiable developments) */
+module.exports = [
+  { q: "Which country hosted the G20 Summit in 2023?", opts: ["Indonesia", "India", "Brazil", "Japan"], ans: 1, level: 1, exp: "India hosted the 2023 G20 Summit in New Delhi." },
+  { q: "Which Indian mission made a soft landing near the Moon's south pole in 2023?", opts: ["Chandrayaan-2", "Chandrayaan-3", "Mangalyaan", "Gaganyaan"], ans: 1, level: 1, exp: "Chandrayaan-3 landed near the lunar south pole in August 2023." },
+  { q: "Aditya-L1 is India's first mission to study what?", opts: ["The Moon", "The Sun", "Mars", "Asteroids"], ans: 1, level: 2, exp: "Aditya-L1 is India's first solar observatory mission, placed at Lagrange point L1." },
+  { q: "NISAR is a joint Earth observation mission between ISRO and which agency?", opts: ["ESA", "NASA", "JAXA", "Roscosmos"], ans: 1, level: 2, exp: "NISAR is a joint mission of ISRO and NASA." },
+  { q: "Which scheme provides free cooking gas connections to poor women?", opts: ["PM Ujjwala Yojana", "PM Awas Yojana", "PM Kisan", "Ayushman Bharat"], ans: 0, level: 1, exp: "Pradhan Mantri Ujjwala Yojana provides LPG connections." },
+  { q: "Ayushman Bharat provides health cover of how much per family per year?", opts: ["1 lakh rupees", "2 lakh rupees", "5 lakh rupees", "10 lakh rupees"], ans: 2, level: 2, exp: "The scheme offers 5 lakh rupees of health cover per family per year." },
+  { q: "What does UPI stand for in digital payments?", opts: ["Unified Payments Interface", "Universal Payment Instrument", "United Payment Index", "Unified Purchase Interface"], ans: 0, level: 1, exp: "UPI stands for Unified Payments Interface." },
+  { q: "India's G20 presidency theme in 2023 was:", opts: ["One Earth, One Family, One Future", "Recover Together", "Shaping an Interconnected World", "Building Consensus"], ans: 0, level: 2, exp: "The theme was Vasudhaiva Kutumbakam, One Earth, One Family, One Future." },
+  { q: "Which organisation publishes the Human Development Index?", opts: ["World Bank", "UNDP", "IMF", "WHO"], ans: 1, level: 2, exp: "The UNDP publishes the Human Development Index." },
+  { q: "Gaganyaan is India's programme for what?", opts: ["Moon landing", "Human spaceflight", "Solar study", "Deep sea exploration"], ans: 1, level: 2, exp: "Gaganyaan is India's human spaceflight programme." },
+  { q: "Which digital payment push of India is built on Aadhaar and is known for direct benefit transfer?", opts: ["Aadhaar Enabled Payment System", "Bharat BillPay", "NEFT", "IMPS"], ans: 0, level: 3, exp: "Aadhaar Enabled Payment System enables banking through Aadhaar authentication." },
+  { q: "The Quad grouping consists of India, Japan, Australia and which country?", opts: ["China", "United States", "Russia", "France"], ans: 1, level: 2, exp: "The Quad is India, Japan, Australia and the United States." },
+  { q: "Which Indian city hosted the 2023 Cricket World Cup final?", opts: ["Mumbai", "Ahmedabad", "Kolkata", "Chennai"], ans: 1, level: 2, exp: "The final was played at the Narendra Modi Stadium in Ahmedabad." },
+  { q: "Which country joined BRICS in 2024 along with others in the first expansion round?", opts: ["Egypt", "Pakistan", "Sri Lanka", "Mexico"], ans: 0, level: 3, exp: "Egypt, Ethiopia, Iran, Saudi Arabia and the UAE joined BRICS from January 2024." },
+  { q: "What is India's ranking ambition under the 'Semicon India' programme?", opts: ["Be a global semiconductor hub", "Ban chip imports", "Export only raw silicon", "Build only test facilities"], ans: 0, level: 3, exp: "Semicon India aims to build a domestic semiconductor manufacturing ecosystem." },
+  { q: "Which mission aims to provide piped drinking water to every rural household?", opts: ["Jal Jeevan Mission", "Swachh Bharat", "Namami Gange", "Jal Shakti Abhiyan"], ans: 0, level: 1, exp: "Jal Jeevan Mission targets functional household tap connections in rural areas." },
+  { q: "The 'Make in India' initiative was launched in which year?", opts: ["2012", "2014", "2016", "2018"], ans: 1, level: 1, exp: "Make in India was launched in September 2014." },
+  { q: "Which Indian state launched the world's largest solar park at Bhadla?", opts: ["Gujarat", "Rajasthan", "Karnataka", "Madhya Pradesh"], ans: 1, level: 2, exp: "Bhadla Solar Park is in Rajasthan." },
+  { q: "What does the 'Digital India' programme primarily aim to do?", opts: ["Provide digital infrastructure and services to citizens", "Reduce internet speed", "Ban cash", "Privatise telecom"], ans: 0, level: 2, exp: "Digital India aims to deliver government services electronically and build digital infrastructure." },
+  { q: "India's first indigenous aircraft carrier commissioned in 2022 is named:", opts: ["INS Vikramaditya", "INS Vikrant", "INS Viraat", "INS Kolkata"], ans: 1, level: 2, exp: "INS Vikrant, built at Kochi, was commissioned in September 2022." }
+];
