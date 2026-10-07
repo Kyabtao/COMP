@@ -168,7 +168,7 @@
   }
   function letter(i) { return "ABCD"[i]; }
   function answerExplanation(q) {
-    return '<p><strong>Correct answer: ' + letter(q.answer) + '. ' + esc(q.options[q.answer]) + '</strong></p>' +
+    return '<p class="explain-line"><strong>Correct answer: ' + letter(q.answer) + '. ' + esc(q.options[q.answer]) + '</strong></p>' +
       '<p><strong>Explanation:</strong> ' + esc(q.explanation) + '</p>';
   }
 
@@ -182,6 +182,110 @@
     lightbulb: "\uD83D\uDCA1", type: "\uD83D\uDD24"
   };
 
+  /* One accent hue per subject family keeps the category grid calm and scannable. */
+  var GROUP_HUES = {
+    "General Knowledge": 258, "Social Studies": 340, "Science": 168,
+    "Language": 24, "Aptitude": 205, "Commerce": 40
+  };
+  var GROUP_ORDER = ["General Knowledge", "Social Studies", "Science", "Language", "Aptitude", "Commerce"];
+  function groupOf(cat) { return (cat && cat.group) || "More"; }
+  function hueFor(group) { return GROUP_HUES[group] != null ? GROUP_HUES[group] : 258; }
+
+  /* ------------------------------------------------------------------ */
+  /* theme                                                              */
+  /* ------------------------------------------------------------------ */
+  var THEME_KEY = "comp.theme";
+  function systemPrefersDark() {
+    return !!(window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches);
+  }
+  function currentTheme() {
+    return document.documentElement.getAttribute("data-theme") === "dark" ? "dark" : "light";
+  }
+  function applyTheme(theme, persist) {
+    var dark = theme === "dark";
+    document.documentElement.setAttribute("data-theme", dark ? "dark" : "light");
+    var btn = document.getElementById("theme-toggle");
+    if (btn) {
+      btn.innerHTML = '<span class="theme-icon" aria-hidden="true">' + (dark ? "\u2600\uFE0F" : "\uD83C\uDF19") + '</span>' +
+        '<span class="theme-label">' + (dark ? "Light" : "Dark") + '</span>';
+      btn.setAttribute("aria-pressed", dark ? "true" : "false");
+      btn.title = dark ? "Switch to the light theme" : "Switch to the dark theme";
+    }
+    if (persist) {
+      try { localStorage.setItem(THEME_KEY, dark ? "dark" : "light"); } catch (e) {}
+    }
+  }
+  function savedTheme() {
+    try { return localStorage.getItem(THEME_KEY); } catch (e) { return null; }
+  }
+
+  /* ------------------------------------------------------------------ */
+  /* category grid (shared by home and the practice index)               */
+  /* ------------------------------------------------------------------ */
+  function categoryTile(cat, countFn) {
+    var count = countFn ? countFn(cat) : Number(cat.count).toLocaleString("en-IN") + " questions";
+    return el('<a class="tile" href="#/practice/' + esc(cat.slug) + '" style="--hue:' + hueFor(groupOf(cat)) + '">' +
+      '<span class="tile-top">' +
+        '<span class="tile-icon" aria-hidden="true">' + (CATEGORY_ICONS[cat.icon] || "\u2022") + '</span>' +
+        '<span class="name">' + esc(cat.name) + '</span>' +
+        '<span class="chev" aria-hidden="true">\u2192</span>' +
+      '</span>' +
+      '<span class="count">' + count + '</span>' +
+      '<span class="desc">' + esc(cat.blurb || "") + '</span></a>');
+  }
+
+  /** Groups in display order, with any unknown group appended alphabetically. */
+  function groupOrderFor(cats) {
+    var present = [], seen = {};
+    cats.forEach(function (c) {
+      var g = groupOf(c);
+      if (!seen[g]) { seen[g] = true; present.push(g); }
+    });
+    var ordered = GROUP_ORDER.filter(function (g) { return seen[g]; });
+    var rest = present.filter(function (g) { return GROUP_ORDER.indexOf(g) === -1; }).sort();
+    return ordered.concat(rest);
+  }
+
+  /** Renders the grouped, searchable category grid and returns how many matched. */
+  function renderCategoryGrid(host, cats, countFn, query) {
+    var q = String(query || "").trim().toLowerCase();
+    var matches = cats.filter(function (c) {
+      if (!q) return true;
+      return (c.name + " " + groupOf(c) + " " + (c.blurb || "") + " " + c.slug).toLowerCase().indexOf(q) !== -1;
+    });
+    host.innerHTML = "";
+    if (!matches.length) {
+      host.appendChild(el('<p class="empty">No category matches \u201C' + esc(query) + '\u201D. Try \u201Chistory\u201D, \u201Ccoding\u201D or \u201Cscience\u201D.</p>'));
+      return 0;
+    }
+    groupOrderFor(matches).forEach(function (group) {
+      var inGroup = matches.filter(function (c) { return groupOf(c) === group; });
+      var block = el('<section class="cat-group"><h3>' + esc(group) +
+        ' <span class="chip">' + inGroup.length + '</span></h3><div class="grid cats"></div></section>');
+      var grid = block.querySelector(".grid");
+      inGroup.slice().sort(function (a, b) { return b.count - a.count; })
+        .forEach(function (c) { grid.appendChild(categoryTile(c, countFn)); });
+      host.appendChild(block);
+    });
+    return matches.length;
+  }
+
+  /** Wires a search box to a category grid and keeps the match note in sync. */
+  function wireCategorySearch(inputId, noteId, host, cats, countFn, allLabel) {
+    var input = document.getElementById(inputId);
+    var note = document.getElementById(noteId);
+    if (!input || !host) return;
+    if (note) note.textContent = allLabel;
+    input.addEventListener("input", function () {
+      var n = renderCategoryGrid(host, cats, countFn, input.value);
+      if (note) {
+        note.textContent = input.value.trim()
+          ? n + (n === 1 ? " category matches " : " categories match ") + "\u201C" + input.value.trim() + "\u201D"
+          : allLabel;
+      }
+    });
+  }
+
   /* ------------------------------------------------------------------ */
   /* views                                                             */
   /* ------------------------------------------------------------------ */
@@ -189,12 +293,14 @@
     var bank = totalQuestions();
     var cats = manifest();
     var oneK = cats.filter(function (c) { return c.count >= 1000; }).length;
+    var target = currentTarget();
     app.innerHTML = "";
     app.appendChild(el(
       '<section class="card hero">' +
-        '<div>' +
+        '<div class="hero-copy">' +
+          '<span class="eyebrow">\uD83C\uDFAF ' + cats.length + ' categories \u00B7 40 question papers</span>' +
           '<h1>Practice for the competition</h1>' +
-          '<p class="muted">One target list — Classes 1 to 12, Graduation, SSC CGL, SSC CHSL, Banking and Railways · every paper is 40 questions in 40 minutes with 0.25 negative marking.</p>' +
+          '<p>One target list \u2014 Classes 1 to 12, Graduation, SSC CGL, SSC CHSL, Banking and Railways. Every paper is 40 questions in 40 minutes with 0.25 negative marking.</p>' +
           '<div class="kpis">' +
             '<div class="kpi"><b>' + bank.toLocaleString("en-IN") + '</b><span>questions</span></div>' +
             '<div class="kpi"><b>' + cats.length + '</b><span>categories</span></div>' +
@@ -203,27 +309,33 @@
           '</div>' +
         '</div>' +
         '<div class="picks">' +
-          '<div style="min-width:min(260px,100%);flex:1">' +
-            '<label class="field" for="pick-target">Target — class or exam</label>' +
+          '<div>' +
+            '<label class="field" for="pick-target">Your target \u2014 class or exam</label>' +
             '<select id="pick-target">' + targetOptions(state.target) + '</select>' +
           '</div>' +
-          '<button class="primary" id="start-exam" type="button">Start 40 question exam</button>' +
+          '<button class="primary" id="start-exam" type="button">\u25B6 Start 40 question exam</button>' +
+          '<button class="secondary" id="browse-practice" type="button">Practise by category</button>' +
+          '<p class="hint">40 questions \u00B7 40 minutes \u00B7 +1 correct, \u22120.25 wrong</p>' +
         '</div>' +
       '</section>'
     ));
 
-    var stats = el('<section class="card"><h2>Question bank</h2>' +
-      '<p class="muted small">Generated by <code>tools/build-qbank.js</code>. Every category file is a plain script that works in the browser and in Node.</p>' +
-      '<div class="grid cats" id="cat-grid"></div></section>');
-    app.appendChild(stats);
-    var grid = stats.querySelector("#cat-grid");
-    cats.slice().sort(function (a, b) { return b.count - a.count; }).forEach(function (c) {
-      var tile = el('<a class="tile" href="#/practice/' + c.slug + '">' +
-        '<span class="name">' + (CATEGORY_ICONS[c.icon] || "\u2022") + " " + esc(c.name) + '</span>' +
-        '<span class="count">' + Number(c.count).toLocaleString("en-IN") + ' questions</span>' +
-        '<span class="desc">' + esc(c.blurb || "") + '</span></a>');
-      grid.appendChild(tile);
-    });
+    app.appendChild(el('<section class="card"><div class="card-head"><div>' +
+      '<h2>Question bank</h2>' +
+      '<p class="muted small">Generated by <code>tools/build-qbank.js</code>. Pick a category for a 15 question drill with instant explanations.</p>' +
+      '</div><span class="badge plain" id="target-badge">\uD83C\uDFAF ' + esc(target.name) + '</span></div>' +
+      '<div class="filter-bar">' +
+        '<label class="search"><span aria-hidden="true">\uD83D\uDD0D</span>' +
+          '<input type="search" id="cat-search" placeholder="Search categories \u2014 history, coding, chemistry\u2026" aria-label="Search categories" />' +
+        '</label>' +
+        '<span class="filter-note" id="cat-note"></span>' +
+      '</div>' +
+      '<div id="cat-sections"></div></section>'));
+
+    var host = document.getElementById("cat-sections");
+    var allLabel = "Showing all " + cats.length + " categories, biggest first.";
+    renderCategoryGrid(host, cats, null, "");
+    wireCategorySearch("cat-search", "cat-note", host, cats, null, allLabel);
 
     app.appendChild(el('<section class="card"><h2>Exam pattern</h2>' +
       '<p class="muted small">One pattern for every target: 40 questions, 40 minutes, +1 for a correct answer and 0.25 negative marking. Class targets draw a balanced paper from every category; competitive exams draw from their own sections.</p>' +
@@ -237,8 +349,11 @@
     document.getElementById("pick-target").addEventListener("change", function (e) {
       state.target = e.target.value;
       localStorage.setItem(TARGET_KEY, state.target);
+      var badge = document.getElementById("target-badge");
+      if (badge) badge.textContent = "\uD83C\uDFAF " + currentTarget().name;
     });
     document.getElementById("start-exam").addEventListener("click", function () { location.hash = "#/exam"; });
+    document.getElementById("browse-practice").addEventListener("click", function () { location.hash = "#/practice"; });
   }
 
   function viewPractice(slug) {
@@ -253,18 +368,30 @@
   }
 
   function viewPracticeIndex() {
-    app.innerHTML = "";
-    app.appendChild(el('<section class="card"><h1>Practice by category</h1>' +
-      '<p class="muted">Pick a category for a 15 question drill with instant explanations. Showing difficulty for <strong>' + esc(currentTarget().name) + '</strong>.</p>' +
-      '<div class="grid cats" id="cat-grid"></div></section>'));
-    var grid = app.querySelector("#cat-grid");
-    manifest().forEach(function (c) {
-      var levels = levelsForTarget(currentTarget());
+    var cats = manifest();
+    var target = currentTarget();
+    var levels = levelsForTarget(target);
+    var countFn = function (c) {
       var available = questionsFor(c.slug).filter(function (q) { return levels.indexOf(q.level) !== -1; }).length;
-      grid.appendChild(el('<a class="tile" href="#/practice/' + c.slug + '">' +
-        '<span class="name">' + (CATEGORY_ICONS[c.icon] || "\u2022") + " " + esc(c.name) + '</span>' +
-        '<span class="count">' + available.toLocaleString("en-IN") + ' of ' + c.count.toLocaleString("en-IN") + ' ready for ' + esc(currentTarget().name) + '</span></a>'));
-    });
+      return available.toLocaleString("en-IN") + " of " + Number(c.count).toLocaleString("en-IN") + " ready";
+    };
+    app.innerHTML = "";
+    app.appendChild(el('<section class="card">' +
+      '<div class="card-head"><div>' +
+        '<h1>Practice by category</h1>' +
+        '<p class="muted">A 15 question drill with instant explanations, drawn from the difficulty levels for <strong>' + esc(target.name) + '</strong>.</p>' +
+      '</div><span class="badge plain">' + esc(target.name) + '</span></div>' +
+      '<div class="filter-bar">' +
+        '<label class="search"><span aria-hidden="true">\uD83D\uDD0D</span>' +
+          '<input type="search" id="cat-search" placeholder="Search categories\u2026" aria-label="Search categories" />' +
+        '</label>' +
+        '<span class="filter-note" id="cat-note"></span>' +
+      '</div>' +
+      '<div id="cat-sections"></div></section>'));
+    var host = document.getElementById("cat-sections");
+    var allLabel = "Showing all " + cats.length + " categories for " + target.name + ".";
+    renderCategoryGrid(host, cats, countFn, "");
+    wireCategorySearch("cat-search", "cat-note", host, cats, countFn, allLabel);
   }
 
   function renderQuestion() {
@@ -276,24 +403,34 @@
     var revealed = s.revealed[s.index];
 
     app.innerHTML = "";
+    var pct = Math.round(((s.index + 1) / s.questions.length) * 100);
     var card = el('<section class="card">' +
       '<div class="qhead">' +
-        '<div><span class="badge">' + esc(s.name) + '</span> <span class="badge">Question ' + (s.index + 1) + ' of ' + s.questions.length + '</span></div>' +
-        '<div class="muted small">' + esc(q.topic || "") + ' · level ' + q.level + '</div>' +
+        '<div class="left">' +
+          '<span class="badge">' + esc(s.name) + '</span>' +
+          '<span class="badge plain">Question ' + (s.index + 1) + ' of ' + s.questions.length + '</span>' +
+        '</div>' +
+        '<div class="qmeta">' +
+          (q.topic ? '<span class="chip">' + esc(q.topic) + '</span>' : "") +
+          '<span class="chip">Level ' + q.level + '</span>' +
+        '</div>' +
       '</div>' +
+      '<div class="progress thin" role="presentation"><div class="bar" style="width:' + pct + '%"></div></div>' +
       '<p class="qtext">' + esc(q.question) + '</p>' +
       '<div class="options" id="opts"></div>' +
       '<div id="feedback" aria-live="polite"></div>' +
       '<div class="toolbar">' +
-        '<button class="secondary" id="prev" type="button"' + (s.index === 0 ? " disabled" : "") + '>Previous</button>' +
-        '<button class="primary" id="next" type="button">' + (s.index === s.questions.length - 1 ? "Finish drill" : "Next question") + '</button>' +
+        '<button class="secondary" id="prev" type="button"' + (s.index === 0 ? " disabled" : "") + '>\u2190 Previous</button>' +
+        '<button class="primary" id="next" type="button">' +
+          (s.index === s.questions.length - 1 ? "Finish drill" : "Next question \u2192") + '</button>' +
+        '<span class="kbd-hint spacer">Press <kbd>A</kbd>\u2013<kbd>D</kbd> to answer, <kbd>\u2190</kbd> <kbd>\u2192</kbd> to move</span>' +
       '</div>' +
     '</section>');
     app.appendChild(card);
 
     var opts = card.querySelector("#opts");
     q.options.forEach(function (text, i) {
-      var b = el('<button class="opt" type="button" data-i="' + i + '"><span class="letter">' + letter(i) + '</span><span>' + esc(text) + '</span></button>');
+      var b = el('<button class="opt" type="button" data-i="' + i + '" aria-pressed="' + (revealed && chosen === i ? "true" : "false") + '"><span class="letter">' + letter(i) + '</span><span>' + esc(text) + '</span></button>');
       if (revealed) {
         if (i === q.answer) b.classList.add("correct");
         if (i === chosen && chosen !== q.answer) b.classList.add("wrong");
@@ -309,8 +446,10 @@
     });
 
     if (revealed) {
-      card.querySelector("#feedback").appendChild(el('<div class="explain"><strong>' +
-        (chosen === q.answer ? "Correct." : "Incorrect.") + '</strong>' + answerExplanation(q) + '</div>'));
+      var ok = chosen === q.answer;
+      card.querySelector("#feedback").appendChild(el('<div class="explain ' + (ok ? "is-correct" : "is-wrong") + '">' +
+        '<p class="explain-title">' + (ok ? "\u2705 Correct." : "\u274C Incorrect.") + '</p>' +
+        answerExplanation(q) + '</div>'));
     }
     card.querySelector("#prev").addEventListener("click", function () { s.index--; renderQuestion(); });
     card.querySelector("#next").addEventListener("click", function () {
@@ -324,38 +463,69 @@
     var correct = s.questions.reduce(function (n, q, i) { return n + (s.answers[i] === q.answer ? 1 : 0); }, 0);
     var attempted = s.answers.filter(function (a) { return a != null; }).length;
     saveAttempt({ at: new Date().toISOString(), mode: "practice", category: s.slug, total: s.questions.length, correct: correct, attempted: attempted });
+    var pct = s.questions.length ? Math.round((correct / s.questions.length) * 100) : 0;
+    var verdict = pct >= 80 ? "Excellent — keep the streak going." : pct >= 50 ? "Solid. Review the explanations you missed." : "Good start — read the explanations and try another set.";
+    state.mode = "result";
     app.innerHTML = "";
-    app.appendChild(el('<section class="card center">' +
+    app.appendChild(el('<section class="card center result-hero">' +
       '<h1>Drill complete</h1>' +
-      '<p class="score">' + correct + " / " + s.questions.length + '</p>' +
-      '<p class="muted">You attempted ' + attempted + ' of ' + s.questions.length + ' questions in ' + esc(s.name) + '.</p>' +
-      '<div class="toolbar" style="justify-content:center">' +
+      scoreRing(pct, correct + " / " + s.questions.length, "correct") +
+      '<p class="muted">' + esc(verdict) + '</p>' +
+      '<div class="stat-grid">' +
+        '<div class="stat good"><b>' + correct + '</b><span>Correct</span></div>' +
+        '<div class="stat bad"><b>' + (attempted - correct) + '</b><span>Wrong</span></div>' +
+        '<div class="stat warn"><b>' + (s.questions.length - attempted) + '</b><span>Skipped</span></div>' +
+        '<div class="stat"><b>' + (attempted ? Math.round((correct / attempted) * 100) : 0) + '%</b><span>Accuracy</span></div>' +
+      '</div>' +
+      '<div class="toolbar center-x">' +
         '<button class="primary" id="again" type="button">Practise another set</button>' +
+        '<button class="secondary" id="all-cats" type="button">All categories</button>' +
         '<button class="secondary" id="home" type="button">Back to home</button>' +
       '</div></section>'));
     document.getElementById("again").addEventListener("click", function () { viewPractice(s.slug); });
+    document.getElementById("all-cats").addEventListener("click", function () { location.hash = "#/practice"; });
     document.getElementById("home").addEventListener("click", function () { location.hash = "#/"; });
+  }
+
+  /** Circular score gauge: 2πr ≈ 327 for r = 52. */
+  function scoreRing(pct, big, label) {
+    var cls = pct >= 70 ? "is-high" : pct >= 40 ? "is-mid" : "is-low";
+    var compact = String(big).length > 4 ? " is-compact" : "";
+    return '<div class="ring ' + cls + '" style="--pct:' + Math.max(0, Math.min(100, pct)) + '" role="img" aria-label="' + esc(pct + "% " + label) + '">' +
+      '<svg viewBox="0 0 120 120" aria-hidden="true">' +
+        '<circle class="ring-track" cx="60" cy="60" r="52"></circle>' +
+        '<circle class="ring-value" cx="60" cy="60" r="52"></circle>' +
+      '</svg>' +
+      '<div class="ring-text' + compact + '"><b>' + esc(big) + '</b><span>' + esc(label) + '</span></div></div>';
   }
 
   function viewExamSetup() {
     app.innerHTML = "";
     app.appendChild(el('<section class="card">' +
-      '<h1>40 question exam</h1>' +
-      '<p class="muted">Every paper follows the competition rules: 40 questions, 40 minutes, +1 for a correct answer and 0.25 negative marking.</p>' +
+      '<div class="card-head"><div>' +
+        '<h1>40 question exam</h1>' +
+        '<p class="muted">Every paper follows the competition rules \u2014 pick a target and begin.</p>' +
+      '</div><span class="badge warn">Timed</span></div>' +
       '<div class="row">' +
-        '<div><label class="field" for="e-target">Target — class or exam</label><select id="e-target">' +
+        '<div><label class="field" for="e-target">Your target \u2014 class or exam</label><select id="e-target">' +
           targetOptions(state.target) +
         '</select></div>' +
       '</div>' +
+      '<div class="stat-grid" style="margin-top:18px">' +
+        '<div class="stat"><b>40</b><span>Questions</span></div>' +
+        '<div class="stat"><b>40 min</b><span>Time limit</span></div>' +
+        '<div class="stat good"><b>+1</b><span>Per correct</span></div>' +
+        '<div class="stat bad"><b>&minus;0.25</b><span>Per wrong</span></div>' +
+      '</div>' +
       '<h3>Sections in this paper</h3><p class="muted small" id="sec-preview"></p>' +
-      '<p class="muted small">Same pattern for every target: 40 questions, 40 minutes, +1 per correct answer and 0.25 negative marking.</p>' +
-      '<button class="primary" id="begin" type="button">Begin exam</button>' +
+      '<div class="toolbar"><button class="primary" id="begin" type="button">\u25B6 Begin exam</button>' +
+      '<span class="kbd-hint spacer">Keys <kbd>A</kbd>\u2013<kbd>D</kbd> answer \u00B7 <kbd>\u2190</kbd> <kbd>\u2192</kbd> move \u00B7 the paper submits itself when time runs out</span></div>' +
     '</section>'));
     function preview() {
       var target = targetById(document.getElementById("e-target").value) || currentTarget();
       var sections = targetSections(target);
       document.getElementById("sec-preview").textContent = target.sections
-        ? sections.map(sectionLabel).join(" · ")
+        ? sections.map(sectionLabel).join(" \u00B7 ")
         : "Balanced paper across all " + sections.length + " categories";
     }
     document.getElementById("e-target").addEventListener("change", function (e) {
@@ -404,6 +574,8 @@
       s.left--;
       var t = document.getElementById("clock");
       if (t) t.textContent = formatTime(s.left);
+      var box = document.getElementById("timer");
+      if (box) box.classList.toggle("low", s.left <= 300);
       if (s.left <= 0) { clearInterval(state.timer); finishExam(); }
     }, 1000);
   }
@@ -416,20 +588,31 @@
     var s = state.session;
     var q = s.questions[s.index];
     app.innerHTML = "";
+    var answered = s.answers.filter(function (a) { return a != null; }).length;
     var card = el('<section class="card">' +
       '<div class="qhead">' +
-        '<div><span class="badge">' + esc(s.name) + '</span> <span class="badge warn">Question ' + (s.index + 1) + ' / ' + s.questions.length + '</span></div>' +
-        '<div class="timer">Time left <span id="clock">' + formatTime(s.left) + '</span></div>' +
+        '<div class="left">' +
+          '<span class="badge">' + esc(s.name) + '</span>' +
+          '<span class="badge warn">Question ' + (s.index + 1) + ' / ' + s.questions.length + '</span>' +
+          '<span class="badge plain">' + answered + ' answered</span>' +
+        '</div>' +
+        '<div class="timer' + (s.left <= 300 ? " low" : "") + '" id="timer">' +
+          '<span class="timer-label">Time left</span> <span id="clock">' + formatTime(s.left) + '</span>' +
+        '</div>' +
       '</div>' +
       '<p class="qtext">' + esc(q.question) + '</p>' +
       '<div class="options" id="opts"></div>' +
       '<div class="palette" id="palette"></div>' +
-      '<div class="toolbar">' +
-        '<button class="secondary" id="prev" type="button"' + (s.index === 0 ? " disabled" : "") + '>Previous</button>' +
-        '<button class="secondary" id="next" type="button"' + (s.index === s.questions.length - 1 ? " disabled" : "") + '>Next</button>' +
-        '<button class="primary" id="submit" type="button" style="margin-left:auto">Submit paper</button>' +
+      '<div class="palette-legend">' +
+        '<span><i class="swatch answered"></i> Answered</span>' +
+        '<span><i class="swatch current"></i> Current question</span>' +
       '</div>' +
-      '<p class="muted small">' + esc(q.topic || "") + ' · level ' + q.level + '</p>' +
+      '<div class="toolbar">' +
+        '<button class="secondary" id="prev" type="button"' + (s.index === 0 ? " disabled" : "") + '>\u2190 Previous</button>' +
+        '<button class="secondary" id="next" type="button"' + (s.index === s.questions.length - 1 ? " disabled" : "") + '>Next \u2192</button>' +
+        '<button class="primary spacer" id="submit" type="button">Submit paper</button>' +
+      '</div>' +
+      '<p class="muted small">' + esc(q.topic || "") + ' \u00B7 level ' + q.level + ' \u00B7 explanations unlock after you submit</p>' +
     '</section>');
     app.appendChild(card);
 
@@ -442,7 +625,7 @@
 
     var pal = card.querySelector("#palette");
     s.questions.forEach(function (_, i) {
-      var b = el('<button type="button" class="' + (s.answers[i] != null ? "answered" : "") + (i === s.index ? " current" : "") + '">' + (i + 1) + '</button>');
+      var b = el('<button type="button" title="Go to question ' + (i + 1) + '" class="' + (s.answers[i] != null ? "answered" : "") + (i === s.index ? " current" : "") + '">' + (i + 1) + '</button>');
       b.addEventListener("click", function () { s.index = i; renderExam(); });
       pal.appendChild(b);
     });
@@ -474,41 +657,100 @@
     };
     saveAttempt(result);
     state.mode = "result";
+    var pct = s.questions.length ? Math.round((Math.max(0, score) / s.questions.length) * 100) : 0;
+    var accuracy = correct + wrong ? Math.round((correct / (correct + wrong)) * 100) : 0;
+    var verdict = pct >= 70 ? "\uD83C\uDF89 Strong paper. Keep this pace."
+      : pct >= 40 ? "\uD83D\uDC4D Decent attempt. Read the explanations you missed."
+      : "\uD83D\uDCA1 Every wrong answer here is a fact learned \u2014 review and retry.";
     app.innerHTML = "";
-    app.appendChild(el('<section class="card center">' +
+    app.appendChild(el('<section class="card center result-hero">' +
       '<h1>Exam submitted</h1>' +
-      '<p class="score">' + result.score + ' <span class="muted small">/ ' + s.questions.length + '</span></p>' +
-      '<p class="muted">' + esc(result.exam) + ' · ' + correct + ' correct, ' + wrong + ' wrong, ' + skipped + ' skipped · time used ' + formatTime(result.seconds) + '</p>' +
-      '<div class="toolbar" style="justify-content:center">' +
+      scoreRing(pct, String(result.score), "of " + s.questions.length) +
+      '<p class="muted">' + esc(result.exam) + ' \u00B7 time used ' + formatTime(result.seconds) + ' of ' + MINUTES_PER_EXAM + ':00</p>' +
+      '<div class="stat-grid">' +
+        '<div class="stat good"><b>' + correct + '</b><span>Correct</span></div>' +
+        '<div class="stat bad"><b>' + wrong + '</b><span>Wrong</span></div>' +
+        '<div class="stat warn"><b>' + skipped + '</b><span>Skipped</span></div>' +
+        '<div class="stat"><b>' + accuracy + '%</b><span>Accuracy</span></div>' +
+      '</div>' +
+      '<p class="muted">' + esc(verdict) + '</p>' +
+      '<div class="toolbar center-x">' +
         '<button class="primary" id="review" type="button">Review answers</button>' +
         '<button class="secondary" id="again" type="button">Take another paper</button>' +
+        '<button class="secondary" id="home" type="button">Back to home</button>' +
       '</div></section>'));
     document.getElementById("review").addEventListener("click", renderExamReview);
     document.getElementById("again").addEventListener("click", function () { location.hash = "#/exam"; });
+    document.getElementById("home").addEventListener("click", function () { location.hash = "#/"; });
   }
 
   function renderExamReview() {
     var s = state.session;
+    var correct = 0, wrong = 0, skipped = 0;
+    s.questions.forEach(function (q, i) {
+      if (s.answers[i] == null) skipped++;
+      else if (s.answers[i] === q.answer) correct++;
+      else wrong++;
+    });
     app.innerHTML = "";
-    var wrap = el('<section class="card"><h1>Review</h1><p class="muted">' + esc(s.name) + ' · 40 questions · 0.25 negative marking</p><div id="list"></div>' +
-      '<div class="toolbar"><button class="primary" id="again" type="button">Take another paper</button></div></section>');
+    var wrap = el('<section class="card">' +
+      '<div class="card-head"><div>' +
+        '<h1>Review</h1>' +
+        '<p class="muted">' + esc(s.name) + ' \u00B7 40 questions \u00B7 0.25 negative marking \u2014 every explanation is unlocked here.</p>' +
+      '</div>' +
+      '<span class="badge good">' + correct + ' correct</span> <span class="badge bad">' + wrong + ' wrong</span> <span class="badge warn">' + skipped + ' skipped</span>' +
+      '</div>' +
+      '<div class="filter-bar">' +
+        '<span class="chips" id="review-filters">' +
+          '<button class="secondary" data-filter="all" type="button">All 40</button>' +
+          '<button class="secondary" data-filter="wrong" type="button">Wrong only</button>' +
+          '<button class="secondary" data-filter="skipped" type="button">Skipped only</button>' +
+        '</span>' +
+        '<span class="filter-note spacer"></span>' +
+      '</div>' +
+      '<div id="list"></div>' +
+      '<div class="toolbar"><button class="primary" id="again" type="button">Take another paper</button>' +
+      '<button class="secondary" id="home" type="button">Back to home</button></div></section>');
     app.appendChild(wrap);
     var list = wrap.querySelector("#list");
-    s.questions.forEach(function (q, i) {
-      var chosen = s.answers[i];
-      var mark = chosen == null ? '<span class="badge warn">Skipped</span>' : (chosen === q.answer ? '<span class="badge good">Correct</span>' : '<span class="badge bad">Wrong</span>');
-      var item = el('<div style="border-bottom:1px solid var(--line); padding:14px 0">' +
-        '<div class="qhead"><strong>Q' + (i + 1) + '</strong> ' + mark + '</div>' +
-        '<p style="font-weight:600;margin:8px 0">' + esc(q.question) + '</p>' +
-        '<p class="small">' + q.options.map(function (o, oi) {
-          var style = oi === q.answer ? "color:var(--good);font-weight:700" : (oi === chosen ? "color:var(--bad)" : "color:var(--muted)");
-          return '<span style="' + style + '">' + letter(oi) + ". " + esc(o) + '</span>';
-        }).join("<br>") + '</p>' +
-        '<div class="explain small">' + answerExplanation(q) + '</div>' +
-      '</div>');
-      list.appendChild(item);
+
+    function paint(filter) {
+      list.innerHTML = "";
+      var shown = 0;
+      s.questions.forEach(function (q, i) {
+        var chosen = s.answers[i];
+        var state2 = chosen == null ? "skipped" : (chosen === q.answer ? "correct" : "wrong");
+        if (filter !== "all" && state2 !== filter) return;
+        shown++;
+        var mark = state2 === "skipped" ? '<span class="badge warn">Skipped</span>'
+          : state2 === "correct" ? '<span class="badge good">Correct</span>' : '<span class="badge bad">Wrong</span>';
+        var item = el('<div class="review-item">' +
+          '<div class="qhead">' +
+            '<div class="left"><span class="badge plain">Q' + (i + 1) + '</span> ' + mark +
+            (q.topic ? ' <span class="chip">' + esc(q.topic) + '</span>' : "") + '</div>' +
+          '</div>' +
+          '<p class="qtext">' + esc(q.question) + '</p>' +
+          '<div class="review-opts">' + q.options.map(function (o, oi) {
+            var cls = oi === q.answer ? " is-answer" : (oi === chosen ? " is-chosen-wrong" : "");
+            return '<span class="review-opt' + cls + '"><span class="letter">' + letter(oi) + '</span><span>' + esc(o) + '</span></span>';
+          }).join("") + '</div>' +
+          '<div class="explain small' + (state2 === "correct" ? " is-correct" : state2 === "wrong" ? " is-wrong" : "") + '">' +
+            answerExplanation(q) + '</div>' +
+        '</div>');
+        list.appendChild(item);
+      });
+      if (!shown) list.appendChild(el('<p class="empty">Nothing in this filter \u2014 nice work.</p>'));
+    }
+    paint("all");
+    wrap.querySelectorAll("#review-filters button").forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        wrap.querySelectorAll("#review-filters button").forEach(function (b) { b.classList.remove("is-active"); });
+        btn.classList.add("is-active");
+        paint(btn.getAttribute("data-filter"));
+      });
     });
     document.getElementById("again").addEventListener("click", function () { location.hash = "#/exam"; });
+    document.getElementById("home").addEventListener("click", function () { location.hash = "#/"; });
   }
 
   function viewProgress() {
@@ -517,10 +759,23 @@
     var avg = attempts.length
       ? Math.round((attempts.reduce(function (n, a) { return n + (a.score != null ? a.score : a.correct); }, 0) / attempts.length) * 100) / 100
       : 0;
+    var best = attempts.length
+      ? attempts.reduce(function (m, a) { var v = a.score != null ? a.score : a.correct; return Math.max(m, v); }, -Infinity)
+      : 0;
+    var exams = attempts.filter(function (a) { return a.mode === "exam"; }).length;
+    var drills = attempts.length - exams;
     app.innerHTML = "";
     app.appendChild(el('<section class="card">' +
-      '<h1>Your progress</h1>' +
-      '<p class="muted">Attempts are stored in this browser only. Total attempts: <strong>' + attempts.length + '</strong> · average score: <strong>' + avg + '</strong></p>' +
+      '<div class="card-head"><div>' +
+        '<h1>Your progress</h1>' +
+        '<p class="muted">Attempts are stored in this browser only \u2014 nothing is uploaded anywhere.</p>' +
+      '</div><span class="badge plain">Average score ' + avg + '</span></div>' +
+      '<div class="stat-grid">' +
+        '<div class="stat"><b>' + attempts.length + '</b><span>Attempts</span></div>' +
+        '<div class="stat"><b>' + exams + '</b><span>Exams</span></div>' +
+        '<div class="stat"><b>' + drills + '</b><span>Drills</span></div>' +
+        '<div class="stat good"><b>' + best + '</b><span>Best score</span></div>' +
+      '</div>' +
       (attempts.length ? '<div class="table-scroll"><table><thead><tr><th>When</th><th>Mode</th><th>Paper</th><th>Correct</th><th>Wrong</th><th>Skipped</th><th>Score</th></tr></thead><tbody>' +
         attempts.map(function (a) {
           return '<tr><td>' + new Date(a.at).toLocaleString() + '</td><td>' + a.mode + '</td><td>' +
@@ -536,6 +791,8 @@
   /* ------------------------------------------------------------------ */
   function route() {
     clearInterval(state.timer); state.timer = null;
+    /* Leaving a view drops its session so leftover keyboard shortcuts do nothing. */
+    state.mode = null;
     var hash = location.hash.replace(/^#\/?/, "");
     var parts = hash.split("/").filter(Boolean);
     document.querySelectorAll("[data-nav]").forEach(function (a) {
@@ -560,20 +817,58 @@
       (window.QBANK_MANIFEST || []).length + " categories.";
   }
 
+  /**
+   * Keyboard shortcuts: A–D (or 1–4) answer, arrows move, Enter goes next.
+   * Ignored while the focus is in a text field, so search stays usable.
+   */
+  function handleKeys(e) {
+    if (e.metaKey || e.ctrlKey || e.altKey) return;
+    var t = e.target;
+    if (t && (t.tagName === "INPUT" || t.tagName === "SELECT" || t.tagName === "TEXTAREA" || t.isContentEditable)) return;
+    var s = state.session;
+    if (!s || !s.questions) return;
+    var key = e.key || "";
+    var picked = key.length === 1 ? "abcd".indexOf(key.toLowerCase()) : -1;
+    if (picked === -1 && key.length === 1) picked = "1234".indexOf(key);
+    if (state.mode === "practice") {
+      if (picked !== -1 && s.questions[s.index]) {
+        s.answers[s.index] = picked; s.revealed[s.index] = true; renderQuestion(); e.preventDefault(); return;
+      }
+      if (key === "ArrowLeft" && s.index > 0) { s.index--; renderQuestion(); e.preventDefault(); }
+      else if (key === "ArrowRight" || key === "Enter") {
+        if (s.index === s.questions.length - 1) renderPracticeSummary();
+        else { s.index++; renderQuestion(); }
+        e.preventDefault();
+      }
+    } else if (state.mode === "exam") {
+      if (picked !== -1 && s.questions[s.index]) { s.answers[s.index] = picked; renderExam(); e.preventDefault(); return; }
+      if (key === "ArrowLeft" && s.index > 0) { s.index--; renderExam(); e.preventDefault(); }
+      else if (key === "ArrowRight" && s.index < s.questions.length - 1) { s.index++; renderExam(); e.preventDefault(); }
+    }
+  }
+
   function boot() {
     updateStats();
     route();
     window.addEventListener("hashchange", route);
-    document.getElementById("theme-toggle").addEventListener("click", function () {
-      var root = document.documentElement;
-      var dark = root.getAttribute("data-theme") === "dark";
-      root.setAttribute("data-theme", dark ? "light" : "dark");
-      this.textContent = dark ? "Dark" : "Light";
-      localStorage.setItem("comp.theme", dark ? "light" : "dark");
-    });
-    if (localStorage.getItem("comp.theme") === "dark") {
-      document.documentElement.setAttribute("data-theme", "dark");
-      document.getElementById("theme-toggle").textContent = "Light";
+    document.addEventListener("keydown", handleKeys);
+
+    /* Theme: saved choice wins, otherwise follow the operating system. */
+    var saved = savedTheme();
+    applyTheme(saved === "dark" || (!saved && systemPrefersDark()) ? "dark" : "light", false);
+    var toggle = document.getElementById("theme-toggle");
+    if (toggle) {
+      toggle.addEventListener("click", function () {
+        applyTheme(currentTheme() === "dark" ? "light" : "dark", true);
+      });
+    }
+    if (window.matchMedia) {
+      var mq = window.matchMedia("(prefers-color-scheme: dark)");
+      var onSystemChange = function (e) {
+        if (!savedTheme()) applyTheme(e.matches ? "dark" : "light", false);
+      };
+      if (mq.addEventListener) mq.addEventListener("change", onSystemChange);
+      else if (mq.addListener) mq.addListener(onSystemChange);
     }
   }
 

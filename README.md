@@ -17,6 +17,27 @@ python3 -m http.server 8000     # then open http://localhost:8000
 
 Opening `index.html` directly in a browser also works.
 
+## Using the site
+
+| Where | What it does |
+| --- | --- |
+| **Home** | Pick a target, search the 26 categories, or jump straight into a 40 question paper |
+| **Practice** | A 15 question drill per category with the correct answer and explanation revealed at once |
+| **Exam** | 40 questions, 40 minutes, +1 correct, −0.25 wrong, a question palette and a timer that turns red in the last five minutes |
+| **Progress** | Every attempt stays in this browser: attempts, exams, drills, best score and the full table |
+
+Small things that make it quicker to use:
+
+* The header toggle switches light and dark. On a first visit the site follows the
+  operating system preference and it remembers your choice afterwards.
+* The category search matches names, groups and descriptions — try `history`,
+  `coding` or `chemistry`.
+* In practice and exam views the keyboard works: <kbd>A</kbd>–<kbd>D</kbd> (or
+  <kbd>1</kbd>–<kbd>4</kbd>) answer, arrow keys move between questions, <kbd>Enter</kbd>
+  goes on, and the exam submits itself when the clock runs out.
+* Everything is responsive down to phone width, honours `prefers-reduced-motion`, and
+  the submitted review prints cleanly.
+
 Rebuild the question bank (deterministic — same output every run):
 
 ```bash
