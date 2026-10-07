@@ -1,17 +1,20 @@
 "use strict";
 /**
  * COMP — competition prep app.
- * Modes: home, practice (category drill), exam (40 question paper), progress.
+ * Modes: home, practice (category drill), exam (configurable paper), progress.
+ * Paper shape (questions, minutes, marks, penalty) is user selectable and
+ * defaults to 40 questions, 40 minutes, +1 / -0.25.
  */
 (function () {
   var STORE_KEY = "comp.progress.v1";
   var TARGET_KEY = "comp.target";
   /**
    * Merged target list: school classes and competitive exams live in one list
-   * because every paper follows the same pattern (40 questions, 40 minutes,
-   * +1 per correct answer, 0.25 negative marking). Class targets draw a
-   * balanced paper from every category and filter by age band; exam targets
-   * draw from their own sections at every difficulty level.
+   * because every paper follows the same shape by default (40 questions,
+   * 40 minutes, +1 per correct answer, 0.25 negative marking) and can be
+   * reshaped on the setup screen. Class targets draw a balanced paper from
+   * every category and filter by age band; exam targets draw from their own
+   * sections at every difficulty level.
    */
   var CLASS_NAMES = ["Class 1", "Class 2", "Class 3", "Class 4", "Class 5", "Class 6", "Class 7", "Class 8",
     "Class 9", "Class 10", "Class 11", "Class 12", "Graduation"];
@@ -32,9 +35,82 @@
     { id: "banking", name: "Banking (IBPS / SBI)", kind: "exam", type: "Competitive", levels: [1, 2, 3], sections: ["reasoning", "quantitative-aptitude", "english", "general-awareness", "computer-awareness"] },
     { id: "railways", name: "Railways (RRB NTPC / Group D)", kind: "exam", type: "Competitive", levels: [1, 2, 3], sections: ["mathematics", "reasoning", "general-awareness"] }
   ]);
+  /* Defaults for every new paper — the exam screen can change all three. */
   var QUESTIONS_PER_EXAM = 40;
   var MINUTES_PER_EXAM = 40;
   var NEGATIVE_MARKING = 0.25;
+  var DEFAULT_SETTINGS = {
+    questions: QUESTIONS_PER_EXAM,
+    minutes: MINUTES_PER_EXAM,
+    marks: 1,
+    penalty: NEGATIVE_MARKING
+  };
+  var SETTINGS_KEY = "comp.exam.settings";
+  var DRILL_KEY = "comp.drill.length";
+  var DRILL_DEFAULT = 15;
+  var QUESTION_CHOICES = [10, 15, 20, 25, 30, 40, 50, 60, 75, 100];
+  var TIME_CHOICES = [5, 10, 15, 20, 25, 30, 40, 45, 60, 75, 90, 120];
+  var MARK_CHOICES = [1, 2, 3, 4];
+  var PENALTY_CHOICES = [0, 0.25, 0.33, 0.5, 1];
+  var DRILL_CHOICES = [5, 10, 15, 20, 25, 30];
+  /* One tap setups that mirror how the big exams are actually marked. */
+  var PRESETS = [
+    { id: "default", name: "Default", note: "40 Q \u00B7 40 min \u00B7 +1 / \u22120.25", settings: { questions: 40, minutes: 40, marks: 1, penalty: 0.25 } },
+    { id: "sprint", name: "Quick sprint", note: "10 Q \u00B7 10 min \u00B7 +1 / no penalty", settings: { questions: 10, minutes: 10, marks: 1, penalty: 0 } },
+    { id: "ssc", name: "SSC style", note: "60 Q \u00B7 60 min \u00B7 +2 / \u22120.5", settings: { questions: 60, minutes: 60, marks: 2, penalty: 0.5 } },
+    { id: "railways", name: "Railways style", note: "100 Q \u00B7 90 min \u00B7 +1 / \u22120.33", settings: { questions: 100, minutes: 90, marks: 1, penalty: 0.33 } },
+    { id: "school", name: "School test", note: "25 Q \u00B7 30 min \u00B7 +1 / no penalty", settings: { questions: 25, minutes: 30, marks: 1, penalty: 0 } }
+  ];
+
+  function trimNumber(n) { return String(Math.round(Number(n) * 100) / 100); }
+  function round2(n) { return Math.round(n * 100) / 100; }
+
+  /** Saved paper settings, always merged over the defaults so bad values cannot leak in. */
+  function examSettings() {
+    var out = {
+      questions: DEFAULT_SETTINGS.questions,
+      minutes: DEFAULT_SETTINGS.minutes,
+      marks: DEFAULT_SETTINGS.marks,
+      penalty: DEFAULT_SETTINGS.penalty
+    };
+    var raw = null;
+    try { raw = JSON.parse(localStorage.getItem(SETTINGS_KEY)); } catch (e) { raw = null; }
+    if (raw && typeof raw === "object") {
+      ["questions", "minutes", "marks", "penalty"].forEach(function (key) {
+        var value = Number(raw[key]);
+        if (isFinite(value) && value >= 0) out[key] = value;
+      });
+    }
+    if (out.questions < 5 || out.questions > 500) out.questions = DEFAULT_SETTINGS.questions;
+    if (out.minutes < 1 || out.minutes > 360) out.minutes = DEFAULT_SETTINGS.minutes;
+    return out;
+  }
+  function saveExamSettings(settings) {
+    try { localStorage.setItem(SETTINGS_KEY, JSON.stringify(settings)); } catch (e) {}
+  }
+  function markingText(settings) {
+    return "+" + trimNumber(settings.marks) + " correct \u00B7 " +
+      (settings.penalty > 0 ? "\u2212" + trimNumber(settings.penalty) + " wrong" : "no penalty for wrong answers");
+  }
+  function drillLength() {
+    var saved = 0;
+    try { saved = Number(localStorage.getItem(DRILL_KEY)); } catch (e) { saved = 0; }
+    return DRILL_CHOICES.indexOf(saved) !== -1 ? saved : DRILL_DEFAULT;
+  }
+  function saveDrillLength(n) {
+    try { localStorage.setItem(DRILL_KEY, String(n)); } catch (e) {}
+  }
+  /** Keeps a saved value visible in its <select> even when it is not one of the usual choices. */
+  function choicesFor(list, value) {
+    var number = Number(value);
+    return list.indexOf(number) !== -1 ? list.slice() : list.concat([number]).sort(function (a, b) { return a - b; });
+  }
+  function optionsHtml(values, selected, labelFn) {
+    return values.map(function (value) {
+      return '<option value="' + value + '"' + (String(value) === String(selected) ? " selected" : "") + '>' +
+        (labelFn ? labelFn(value) : value) + '</option>';
+    }).join("");
+  }
 
   function targetById(id) {
     for (var i = 0; i < TARGETS.length; i++) if (TARGETS[i].id === id) return TARGETS[i];
@@ -153,7 +229,10 @@
     var p = loadProgress();
     p.attempts.unshift(attempt);
     p.attempts = p.attempts.slice(0, 60);
-    localStorage.setItem(STORE_KEY, JSON.stringify(p));
+    saveProgress(p);
+  }
+  function saveProgress(progress) {
+    try { localStorage.setItem(STORE_KEY, JSON.stringify(progress)); } catch (e) {}
   }
 
   /* ------------------------------------------------------------------ */
@@ -294,13 +373,15 @@
     var cats = manifest();
     var oneK = cats.filter(function (c) { return c.count >= 1000; }).length;
     var target = currentTarget();
+    var plan = examSettings();
+    var length = drillLength();
     app.innerHTML = "";
     app.appendChild(el(
       '<section class="card hero">' +
         '<div class="hero-copy">' +
-          '<span class="eyebrow">\uD83C\uDFAF ' + cats.length + ' categories \u00B7 40 question papers</span>' +
+          '<span class="eyebrow">\uD83C\uDFAF ' + cats.length + ' categories \u00B7 papers you design</span>' +
           '<h1>Practice for the competition</h1>' +
-          '<p>One target list \u2014 Classes 1 to 12, Graduation, SSC CGL, SSC CHSL, Banking and Railways. Every paper is 40 questions in 40 minutes with 0.25 negative marking.</p>' +
+          '<p>One target list \u2014 Classes 1 to 12, Graduation, SSC CGL, SSC CHSL, Banking and Railways. The default paper is 40 questions in 40 minutes with 0.25 negative marking, and you can change the length, time and marking before you start.</p>' +
           '<div class="kpis">' +
             '<div class="kpi"><b>' + bank.toLocaleString("en-IN") + '</b><span>questions</span></div>' +
             '<div class="kpi"><b>' + cats.length + '</b><span>categories</span></div>' +
@@ -313,16 +394,16 @@
             '<label class="field" for="pick-target">Your target \u2014 class or exam</label>' +
             '<select id="pick-target">' + targetOptions(state.target) + '</select>' +
           '</div>' +
-          '<button class="primary" id="start-exam" type="button">\u25B6 Start 40 question exam</button>' +
+          '<button class="primary" id="start-exam" type="button">\u25B6 Set up a paper</button>' +
           '<button class="secondary" id="browse-practice" type="button">Practise by category</button>' +
-          '<p class="hint">40 questions \u00B7 40 minutes \u00B7 +1 correct, \u22120.25 wrong</p>' +
+          '<p class="hint" id="home-plan">' + plan.questions + ' questions \u00B7 ' + plan.minutes + ' minutes \u00B7 ' + esc(markingText(plan)) + ' \u00B7 ' + length + ' question drills</p>' +
         '</div>' +
       '</section>'
     ));
 
     app.appendChild(el('<section class="card"><div class="card-head"><div>' +
       '<h2>Question bank</h2>' +
-      '<p class="muted small">Generated by <code>tools/build-qbank.js</code>. Pick a category for a 15 question drill with instant explanations.</p>' +
+      '<p class="muted small">Generated by <code>tools/build-qbank.js</code>. Pick a category for a drill with instant explanations.</p>' +
       '</div><span class="badge plain" id="target-badge">\uD83C\uDFAF ' + esc(target.name) + '</span></div>' +
       '<div class="filter-bar">' +
         '<label class="search"><span aria-hidden="true">\uD83D\uDD0D</span>' +
@@ -337,12 +418,24 @@
     renderCategoryGrid(host, cats, null, "");
     wireCategorySearch("cat-search", "cat-note", host, cats, null, allLabel);
 
-    app.appendChild(el('<section class="card"><h2>Exam pattern</h2>' +
-      '<p class="muted small">One pattern for every target: 40 questions, 40 minutes, +1 for a correct answer and 0.25 negative marking. Class targets draw a balanced paper from every category; competitive exams draw from their own sections.</p>' +
-      '<div class="table-scroll"><table><thead><tr><th>Target</th><th>Type</th><th>Sections</th><th>Questions</th><th>Time</th><th>Marking</th></tr></thead><tbody>' +
+    app.appendChild(el('<section class="card"><div class="card-head"><div>' +
+      '<h2>Paper defaults</h2>' +
+      '<p class="muted small">Every target starts from the same settings, kept in this browser. Change them on the setup screen \u2014 they stay for next time.</p>' +
+      '</div><span class="badge plain">' + plan.questions + ' Q \u00B7 ' + plan.minutes + ' min</span></div>' +
+      '<div class="stat-grid">' +
+        '<div class="stat"><b>' + plan.questions + '</b><span>Questions</span></div>' +
+        '<div class="stat"><b>' + plan.minutes + ' min</b><span>Time limit</span></div>' +
+        '<div class="stat good"><b>+' + trimNumber(plan.marks) + '</b><span>Per correct</span></div>' +
+        '<div class="stat bad"><b>' + (plan.penalty > 0 ? "\u2212" + trimNumber(plan.penalty) : "0") + '</b><span>Per wrong</span></div>' +
+      '</div>' +
+      '<div class="toolbar"><button class="secondary" id="edit-plan" type="button">Change these settings</button>' +
+      '<button class="secondary" id="edit-drill" type="button">Drill length: ' + length + '</button></div>' +
+      '<h3>How each target draws its paper</h3>' +
+      '<div class="table-scroll"><table><thead><tr><th>Target</th><th>Type</th><th>Sections</th><th>Paper</th></tr></thead><tbody>' +
       TARGETS.map(function (t) {
         var sections = t.sections ? t.sections.length + " sections" : "All categories";
-        return '<tr><td>' + esc(t.name) + '</td><td>' + t.type + '</td><td>' + sections + '</td><td>40</td><td>40 minutes</td><td>+1, &minus;0.25</td></tr>';
+        return '<tr><td>' + esc(t.name) + '</td><td>' + t.type + '</td><td>' + sections + '</td><td>' +
+          plan.questions + ' Q \u00B7 ' + plan.minutes + ' min \u00B7 ' + esc(markingText(plan)) + '</td></tr>';
       }).join("") +
       '</tbody></table></div></section>'));
 
@@ -354,6 +447,8 @@
     });
     document.getElementById("start-exam").addEventListener("click", function () { location.hash = "#/exam"; });
     document.getElementById("browse-practice").addEventListener("click", function () { location.hash = "#/practice"; });
+    document.getElementById("edit-plan").addEventListener("click", function () { location.hash = "#/exam"; });
+    document.getElementById("edit-drill").addEventListener("click", function () { location.hash = "#/practice"; });
   }
 
   function viewPractice(slug) {
@@ -361,9 +456,10 @@
     if (!meta) { location.hash = "#/practice"; return; }
     var levels = levelsForTarget(currentTarget());
     var pool = questionsFor(slug).filter(function (q) { return levels.indexOf(q.level) !== -1; });
-    var set = shuffle(pool).slice(0, 15);
+    var length = drillLength();
+    var set = shuffle(pool).slice(0, length);
     state.mode = "practice";
-    state.session = { slug: slug, name: meta.name, questions: set, index: 0, answers: [], revealed: [] };
+    state.session = { slug: slug, name: meta.name, questions: set, index: 0, answers: [], revealed: [], length: length };
     renderQuestion();
   }
 
@@ -371,6 +467,7 @@
     var cats = manifest();
     var target = currentTarget();
     var levels = levelsForTarget(target);
+    var length = drillLength();
     var countFn = function (c) {
       var available = questionsFor(c.slug).filter(function (q) { return levels.indexOf(q.level) !== -1; }).length;
       return available.toLocaleString("en-IN") + " of " + Number(c.count).toLocaleString("en-IN") + " ready";
@@ -379,9 +476,13 @@
     app.appendChild(el('<section class="card">' +
       '<div class="card-head"><div>' +
         '<h1>Practice by category</h1>' +
-        '<p class="muted">A 15 question drill with instant explanations, drawn from the difficulty levels for <strong>' + esc(target.name) + '</strong>.</p>' +
+        '<p class="muted">Instant explanations, drawn from the difficulty levels for <strong>' + esc(target.name) + '</strong>.</p>' +
       '</div><span class="badge plain">' + esc(target.name) + '</span></div>' +
       '<div class="filter-bar">' +
+        '<label class="field inline" for="drill-length">Drill length</label>' +
+        '<select id="drill-length" class="compact-select">' +
+          optionsHtml(choicesFor(DRILL_CHOICES, length), length, function (v) { return v + " questions"; }) +
+        '</select>' +
         '<label class="search"><span aria-hidden="true">\uD83D\uDD0D</span>' +
           '<input type="search" id="cat-search" placeholder="Search categories\u2026" aria-label="Search categories" />' +
         '</label>' +
@@ -392,6 +493,11 @@
     var allLabel = "Showing all " + cats.length + " categories for " + target.name + ".";
     renderCategoryGrid(host, cats, countFn, "");
     wireCategorySearch("cat-search", "cat-note", host, cats, countFn, allLabel);
+    document.getElementById("drill-length").addEventListener("change", function (e) {
+      saveDrillLength(Number(e.target.value));
+      var note = document.getElementById("cat-note");
+      if (note) note.textContent = "Drills now run " + Number(e.target.value) + " questions \u2014 pick a category to start.";
+    });
   }
 
   function renderQuestion() {
@@ -470,7 +576,7 @@
     app.appendChild(el('<section class="card center result-hero">' +
       '<h1>Drill complete</h1>' +
       scoreRing(pct, correct + " / " + s.questions.length, "correct") +
-      '<p class="muted">' + esc(verdict) + '</p>' +
+      '<p class="muted">' + esc(s.name) + ' \u00B7 ' + s.questions.length + ' question drill \u00B7 ' + esc(verdict) + '</p>' +
       '<div class="stat-grid">' +
         '<div class="stat good"><b>' + correct + '</b><span>Correct</span></div>' +
         '<div class="stat bad"><b>' + (attempted - correct) + '</b><span>Wrong</span></div>' +
@@ -500,38 +606,141 @@
   }
 
   function viewExamSetup() {
+    var settings = examSettings();
+    state.draft = settings;
     app.innerHTML = "";
     app.appendChild(el('<section class="card">' +
       '<div class="card-head"><div>' +
-        '<h1>40 question exam</h1>' +
-        '<p class="muted">Every paper follows the competition rules \u2014 pick a target and begin.</p>' +
-      '</div><span class="badge warn">Timed</span></div>' +
+        '<h1>Set up your paper</h1>' +
+        '<p class="muted">Pick how many questions, how long you get and how it is marked \u2014 the defaults are already filled in.</p>' +
+      '</div><span class="badge warn">\u23F1 Timed</span></div>' +
       '<div class="row">' +
         '<div><label class="field" for="e-target">Your target \u2014 class or exam</label><select id="e-target">' +
           targetOptions(state.target) +
         '</select></div>' +
+        '<div><label class="field" for="e-questions">Questions</label><select id="e-questions">' +
+          optionsHtml(choicesFor(QUESTION_CHOICES, settings.questions), settings.questions, function (v) { return v + " questions"; }) +
+        '</select></div>' +
+        '<div><label class="field" for="e-minutes">Time limit</label><select id="e-minutes">' +
+          optionsHtml(choicesFor(TIME_CHOICES, settings.minutes), settings.minutes, function (v) { return v + " minutes"; }) +
+        '</select></div>' +
+        '<div><label class="field" for="e-marks">Marks per correct answer</label><select id="e-marks">' +
+          optionsHtml(MARK_CHOICES, settings.marks, function (v) { return "+" + v; }) +
+        '</select></div>' +
+        '<div><label class="field" for="e-penalty">Penalty per wrong answer</label><select id="e-penalty">' +
+          optionsHtml(PENALTY_CHOICES, settings.penalty, function (v) { return v === 0 ? "No penalty" : "\u2212" + trimNumber(v); }) +
+        '</select></div>' +
       '</div>' +
-      '<div class="stat-grid" style="margin-top:18px">' +
-        '<div class="stat"><b>40</b><span>Questions</span></div>' +
-        '<div class="stat"><b>40 min</b><span>Time limit</span></div>' +
-        '<div class="stat good"><b>+1</b><span>Per correct</span></div>' +
-        '<div class="stat bad"><b>&minus;0.25</b><span>Per wrong</span></div>' +
+      '<h3>Quick presets</h3>' +
+      '<div class="preset-row" id="presets">' +
+        PRESETS.map(function (p) {
+          return '<button class="ghost" type="button" data-preset="' + p.id + '" title="' + esc(p.note) + '">' + esc(p.name) + '</button>';
+        }).join("") +
+        '<button class="ghost" type="button" id="reset-settings">\u21BA Reset</button>' +
+      '</div>' +
+      '<div class="plan">' +
+        '<div class="chips" id="plan-chips"></div>' +
+        '<p class="muted small" id="plan-note"></p>' +
       '</div>' +
       '<h3>Sections in this paper</h3><p class="muted small" id="sec-preview"></p>' +
       '<div class="toolbar"><button class="primary" id="begin" type="button">\u25B6 Begin exam</button>' +
       '<span class="kbd-hint spacer">Keys <kbd>A</kbd>\u2013<kbd>D</kbd> answer \u00B7 <kbd>\u2190</kbd> <kbd>\u2192</kbd> move \u00B7 the paper submits itself when time runs out</span></div>' +
     '</section>'));
-    function preview() {
-      var target = targetById(document.getElementById("e-target").value) || currentTarget();
+
+    var FIELD_IDS = { questions: "e-questions", minutes: "e-minutes", marks: "e-marks", penalty: "e-penalty" };
+    function labelFor(id) {
+      if (id === "e-questions") return function (v) { return v + " questions"; };
+      if (id === "e-minutes") return function (v) { return v + " minutes"; };
+      if (id === "e-marks") return function (v) { return "+" + v; };
+      return function (v) { return v === 0 ? "No penalty" : "\u2212" + trimNumber(v); };
+    }
+    function readSettings() {
+      var out = {};
+      Object.keys(FIELD_IDS).forEach(function (key) {
+        out[key] = Number(document.getElementById(FIELD_IDS[key]).value);
+      });
+      return out;
+    }
+    function currentTargetValue() {
+      return targetById(document.getElementById("e-target").value) || currentTarget();
+    }
+    /** How many questions the current target can actually supply at its levels. */
+    function poolSize(target) {
+      var levels = levelsForTarget(target);
+      return targetSections(target).reduce(function (n, slug) {
+        return n + questionsFor(slug).filter(function (q) { return levels.indexOf(q.level) !== -1; }).length;
+      }, 0);
+    }
+
+    /** @param {boolean} persist only user edits are written to storage */
+    function paint(persist) {
+      var chosen = readSettings();
+      state.draft = chosen;
+      if (persist) saveExamSettings(chosen);
+      var target = currentTargetValue();
+      var available = poolSize(target);
+      var usable = Math.max(1, Math.min(chosen.questions, available));
+      document.getElementById("plan-chips").innerHTML =
+        '<span class="chip">' + chosen.questions + ' questions</span>' +
+        '<span class="chip">' + chosen.minutes + ' minutes</span>' +
+        '<span class="chip">' + esc(markingText(chosen)) + '</span>' +
+        '<span class="chip">Max score ' + trimNumber(chosen.questions * chosen.marks) + '</span>';
+      var note = "Available for " + target.name + ": " + available.toLocaleString("en-IN") + " questions.";
+      if (usable < chosen.questions) {
+        note += " The paper will use " + usable.toLocaleString("en-IN") + " of them \u2014 lower the count or pick another target to use the full length.";
+      }
+      if ((chosen.minutes * 60) / usable < 15) note += " That is under 15 seconds per question.";
+      document.getElementById("plan-note").textContent = note;
+      var tooThin = available < 5;
+      if (tooThin) {
+        document.getElementById("plan-note").textContent =
+          "Only " + available + " question" + (available === 1 ? "" : "s") + " for " + target.name +
+          " \u2014 there is not enough for a paper. Pick another target.";
+      }
+      var begin = document.getElementById("begin");
+      begin.textContent = tooThin ? "\u25B6 Not enough questions" : "\u25B6 Begin " + usable + " question exam";
+      begin.disabled = tooThin;
       var sections = targetSections(target);
       document.getElementById("sec-preview").textContent = target.sections
         ? sections.map(sectionLabel).join(" \u00B7 ")
         : "Balanced paper across all " + sections.length + " categories";
+      var active = PRESETS.filter(function (p) {
+        return p.settings.questions === chosen.questions && p.settings.minutes === chosen.minutes &&
+          p.settings.marks === chosen.marks && p.settings.penalty === chosen.penalty;
+      })[0];
+      document.querySelectorAll("#presets [data-preset]").forEach(function (b) {
+        b.classList.toggle("is-active", !!active && b.getAttribute("data-preset") === active.id);
+      });
     }
-    document.getElementById("e-target").addEventListener("change", function (e) {
-      state.target = e.target.value; localStorage.setItem(TARGET_KEY, state.target); preview();
+
+    Object.keys(FIELD_IDS).forEach(function (key) {
+      document.getElementById(FIELD_IDS[key]).addEventListener("change", function () { paint(true); });
     });
-    preview();
+    document.getElementById("e-target").addEventListener("change", function (e) {
+      state.target = e.target.value;
+      localStorage.setItem(TARGET_KEY, state.target);
+      paint(true);
+    });
+    document.querySelectorAll("#presets [data-preset]").forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        var preset = PRESETS.filter(function (p) { return p.id === btn.getAttribute("data-preset"); })[0];
+        if (!preset) return;
+        Object.keys(FIELD_IDS).forEach(function (key) {
+          var select = document.getElementById(FIELD_IDS[key]);
+          /* keep any custom value already in the list so preset taps never lose it */
+          var values = choicesFor(Array.prototype.map.call(select.options, function (o) { return Number(o.value); }), preset.settings[key]);
+          select.innerHTML = optionsHtml(values, preset.settings[key], labelFor(select.id));
+        });
+        paint(true);
+      });
+    });
+    document.getElementById("reset-settings").addEventListener("click", function () {
+      Object.keys(FIELD_IDS).forEach(function (key) {
+        document.getElementById(FIELD_IDS[key]).value = DEFAULT_SETTINGS[key];
+      });
+      paint(true);
+    });
+    paint(false);
     document.getElementById("begin").addEventListener("click", beginExam);
   }
 
@@ -539,28 +748,35 @@
     var target = currentTarget();
     var sections = targetSections(target);
     var levels = levelsForTarget(target);
-    var perSection = Math.floor(QUESTIONS_PER_EXAM / sections.length);
-    var extra = QUESTIONS_PER_EXAM - perSection * sections.length;
+    var settings = state.draft || examSettings();
+    var wanted = settings.questions;
+    var perSection = Math.floor(wanted / sections.length);
+    var extra = wanted - perSection * sections.length;
     var questions = [];
     sections.forEach(function (slug, i) {
       questions = questions.concat(pickQuestions([slug], perSection + (i < extra ? 1 : 0), levels));
     });
     /* Top up from the combined pool so thin sections never shrink the paper. */
-    if (questions.length < QUESTIONS_PER_EXAM) {
+    if (questions.length < wanted) {
       var spare = [];
       sections.forEach(function (slug) {
         questionsFor(slug).forEach(function (q) {
           if (questions.indexOf(q) === -1 && levels.indexOf(q.level) !== -1) spare.push(q);
         });
       });
-      questions = questions.concat(shuffle(spare).slice(0, QUESTIONS_PER_EXAM - questions.length));
+      questions = questions.concat(shuffle(spare).slice(0, wanted - questions.length));
     }
-    if (questions.length < 10) { alert("Not enough questions for this target yet. Try another target."); return; }
+    if (questions.length < 5) { alert("Not enough questions for this target yet. Try another target."); return; }
     state.mode = "exam";
     state.session = {
       target: target, name: target.name, questions: questions, index: 0,
       answers: new Array(questions.length).fill(null),
-      start: Date.now(), left: MINUTES_PER_EXAM * 60
+      settings: {
+        questions: wanted, minutes: settings.minutes,
+        marks: settings.marks, penalty: settings.penalty
+      },
+      start: Date.now(), left: Math.max(1, settings.minutes) * 60,
+      warnAt: Math.min(300, Math.max(30, Math.round(settings.minutes * 60 * 0.25)))
     };
     startTimer();
     renderExam();
@@ -575,7 +791,7 @@
       var t = document.getElementById("clock");
       if (t) t.textContent = formatTime(s.left);
       var box = document.getElementById("timer");
-      if (box) box.classList.toggle("low", s.left <= 300);
+      if (box) box.classList.toggle("low", s.left <= (s.warnAt || 300));
       if (s.left <= 0) { clearInterval(state.timer); finishExam(); }
     }, 1000);
   }
@@ -596,7 +812,7 @@
           '<span class="badge warn">Question ' + (s.index + 1) + ' / ' + s.questions.length + '</span>' +
           '<span class="badge plain">' + answered + ' answered</span>' +
         '</div>' +
-        '<div class="timer' + (s.left <= 300 ? " low" : "") + '" id="timer">' +
+        '<div class="timer' + (s.left <= (s.warnAt || 300) ? " low" : "") + '" id="timer">' +
           '<span class="timer-label">Time left</span> <span id="clock">' + formatTime(s.left) + '</span>' +
         '</div>' +
       '</div>' +
@@ -612,7 +828,7 @@
         '<button class="secondary" id="next" type="button"' + (s.index === s.questions.length - 1 ? " disabled" : "") + '>Next \u2192</button>' +
         '<button class="primary spacer" id="submit" type="button">Submit paper</button>' +
       '</div>' +
-      '<p class="muted small">' + esc(q.topic || "") + ' \u00B7 level ' + q.level + ' \u00B7 explanations unlock after you submit</p>' +
+      '<p class="muted small">' + esc(q.topic || "") + ' \u00B7 level ' + q.level + ' \u00B7 ' + esc(markingText(s.settings || DEFAULT_SETTINGS)) + ' \u00B7 explanations unlock after you submit</p>' +
     '</section>');
     app.appendChild(card);
 
@@ -642,22 +858,25 @@
   function finishExam() {
     clearInterval(state.timer);
     var s = state.session;
+    var limits = s.settings || DEFAULT_SETTINGS;
     var correct = 0, wrong = 0, skipped = 0;
     s.questions.forEach(function (q, i) {
       if (s.answers[i] == null) skipped++;
       else if (s.answers[i] === q.answer) correct++;
       else wrong++;
     });
-    var score = correct - wrong * NEGATIVE_MARKING;
+    var score = correct * limits.marks - wrong * limits.penalty;
+    var maxScore = s.questions.length * limits.marks;
     var result = {
       at: new Date().toISOString(), mode: "exam", exam: s.target.name, target: s.target.id,
       total: s.questions.length, correct: correct, wrong: wrong, skipped: skipped,
-      score: Math.round(score * 100) / 100,
+      score: round2(score), max: round2(maxScore), marks: limits.marks, penalty: limits.penalty,
+      minutes: limits.minutes,
       seconds: Math.round((Date.now() - s.start) / 1000)
     };
     saveAttempt(result);
     state.mode = "result";
-    var pct = s.questions.length ? Math.round((Math.max(0, score) / s.questions.length) * 100) : 0;
+    var pct = maxScore ? Math.round((Math.max(0, score) / maxScore) * 100) : 0;
     var accuracy = correct + wrong ? Math.round((correct / (correct + wrong)) * 100) : 0;
     var verdict = pct >= 70 ? "\uD83C\uDF89 Strong paper. Keep this pace."
       : pct >= 40 ? "\uD83D\uDC4D Decent attempt. Read the explanations you missed."
@@ -665,8 +884,9 @@
     app.innerHTML = "";
     app.appendChild(el('<section class="card center result-hero">' +
       '<h1>Exam submitted</h1>' +
-      scoreRing(pct, String(result.score), "of " + s.questions.length) +
-      '<p class="muted">' + esc(result.exam) + ' \u00B7 time used ' + formatTime(result.seconds) + ' of ' + MINUTES_PER_EXAM + ':00</p>' +
+      scoreRing(pct, trimNumber(result.score), "of " + trimNumber(maxScore)) +
+      '<p class="muted">' + esc(result.exam) + ' \u00B7 ' + s.questions.length + ' questions \u00B7 ' + esc(markingText(limits)) +
+        ' \u00B7 time used ' + formatTime(result.seconds) + ' of ' + formatTime(limits.minutes * 60) + '</p>' +
       '<div class="stat-grid">' +
         '<div class="stat good"><b>' + correct + '</b><span>Correct</span></div>' +
         '<div class="stat bad"><b>' + wrong + '</b><span>Wrong</span></div>' +
@@ -686,6 +906,7 @@
 
   function renderExamReview() {
     var s = state.session;
+    var limits = s.settings || DEFAULT_SETTINGS;
     var correct = 0, wrong = 0, skipped = 0;
     s.questions.forEach(function (q, i) {
       if (s.answers[i] == null) skipped++;
@@ -696,13 +917,13 @@
     var wrap = el('<section class="card">' +
       '<div class="card-head"><div>' +
         '<h1>Review</h1>' +
-        '<p class="muted">' + esc(s.name) + ' \u00B7 40 questions \u00B7 0.25 negative marking \u2014 every explanation is unlocked here.</p>' +
+        '<p class="muted">' + esc(s.name) + ' \u00B7 ' + s.questions.length + ' questions \u00B7 ' + esc(markingText(limits)) + ' \u2014 every explanation is unlocked here.</p>' +
       '</div>' +
       '<span class="badge good">' + correct + ' correct</span> <span class="badge bad">' + wrong + ' wrong</span> <span class="badge warn">' + skipped + ' skipped</span>' +
       '</div>' +
       '<div class="filter-bar">' +
         '<span class="chips" id="review-filters">' +
-          '<button class="secondary" data-filter="all" type="button">All 40</button>' +
+          '<button class="secondary" data-filter="all" type="button">All ' + s.questions.length + '</button>' +
           '<button class="secondary" data-filter="wrong" type="button">Wrong only</button>' +
           '<button class="secondary" data-filter="skipped" type="button">Skipped only</button>' +
         '</span>' +
@@ -756,12 +977,16 @@
   function viewProgress() {
     var p = loadProgress();
     var attempts = p.attempts || [];
+    /** Percentage of the maximum, so papers of different lengths stay comparable. */
+    function percentOf(a) {
+      if (a.mode === "exam" && a.max) return Math.round((Math.max(0, a.score) / a.max) * 100);
+      if (a.total) return Math.round(((a.correct || 0) / a.total) * 100);
+      return 0;
+    }
     var avg = attempts.length
-      ? Math.round((attempts.reduce(function (n, a) { return n + (a.score != null ? a.score : a.correct); }, 0) / attempts.length) * 100) / 100
+      ? Math.round(attempts.reduce(function (n, a) { return n + percentOf(a); }, 0) / attempts.length)
       : 0;
-    var best = attempts.length
-      ? attempts.reduce(function (m, a) { var v = a.score != null ? a.score : a.correct; return Math.max(m, v); }, -Infinity)
-      : 0;
+    var best = attempts.length ? attempts.reduce(function (m, a) { return Math.max(m, percentOf(a)); }, 0) : 0;
     var exams = attempts.filter(function (a) { return a.mode === "exam"; }).length;
     var drills = attempts.length - exams;
     app.innerHTML = "";
@@ -769,21 +994,33 @@
       '<div class="card-head"><div>' +
         '<h1>Your progress</h1>' +
         '<p class="muted">Attempts are stored in this browser only \u2014 nothing is uploaded anywhere.</p>' +
-      '</div><span class="badge plain">Average score ' + avg + '</span></div>' +
+      '</div><span class="badge plain">Average ' + avg + '%</span></div>' +
       '<div class="stat-grid">' +
         '<div class="stat"><b>' + attempts.length + '</b><span>Attempts</span></div>' +
         '<div class="stat"><b>' + exams + '</b><span>Exams</span></div>' +
         '<div class="stat"><b>' + drills + '</b><span>Drills</span></div>' +
-        '<div class="stat good"><b>' + best + '</b><span>Best score</span></div>' +
+        '<div class="stat good"><b>' + best + '%</b><span>Best</span></div>' +
       '</div>' +
-      (attempts.length ? '<div class="table-scroll"><table><thead><tr><th>When</th><th>Mode</th><th>Paper</th><th>Correct</th><th>Wrong</th><th>Skipped</th><th>Score</th></tr></thead><tbody>' +
-        attempts.map(function (a) {
+      (attempts.length ? '<h3>Recent attempts</h3><div class="table-scroll"><table><thead><tr><th>When</th><th>Mode</th><th>Paper</th><th>Plan</th><th>Correct</th><th>Wrong</th><th>Skipped</th><th>Score</th><th></th></tr></thead><tbody>' +
+        attempts.map(function (a, i) {
+          var plan = a.mode === "exam" && a.marks != null
+            ? a.total + " Q \u00B7 " + (a.minutes || DEFAULT_SETTINGS.minutes) + " min \u00B7 +" + trimNumber(a.marks) + " / " + (a.penalty ? "\u2212" + trimNumber(a.penalty) : "0")
+            : a.total + " Q drill";
           return '<tr><td>' + new Date(a.at).toLocaleString() + '</td><td>' + a.mode + '</td><td>' +
-            esc(a.exam || a.category || "") + '</td><td>' + a.correct + '</td><td>' + (a.wrong || 0) + '</td><td>' +
-            (a.skipped || 0) + '</td><td>' + (a.score != null ? a.score : a.correct + "/" + a.total) + '</td></tr>';
-        }).join("") + '</tbody></table></div>'
-        : '<p class="muted">No attempts yet. Start with a 40 question exam.</p>') +
+            esc(a.exam || a.category || "") + '</td><td>' + plan + '</td><td>' + a.correct + '</td><td>' + (a.wrong || 0) + '</td><td>' +
+            (a.skipped || 0) + '</td><td>' + (a.score != null ? trimNumber(a.score) + (a.max != null ? " / " + trimNumber(a.max) : "") : a.correct + "/" + a.total) +
+            '</td><td>' + percentOf(a) + '%</td></tr>';
+        }).join("") + '</tbody></table></div>' +
+        '<div class="toolbar"><button class="secondary" id="clear-progress" type="button">Clear history</button>' +
+        '<span class="filter-note spacer">Clearing only affects this browser.</span></div>'
+        : '<p class="empty">No attempts yet. Set up a paper \u2014 the default is 40 questions in 40 minutes.</p>') +
     '</section>'));
+    var clear = document.getElementById("clear-progress");
+    if (clear) clear.addEventListener("click", function () {
+      if (!confirm("Delete every saved attempt in this browser?")) return;
+      saveProgress({ attempts: [] });
+      viewProgress();
+    });
   }
 
   /* ------------------------------------------------------------------ */

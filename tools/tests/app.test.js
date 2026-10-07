@@ -91,3 +91,102 @@ test("exam scores descriptive answers and only reveals explanations in submitted
   }
   assert.match(d.querySelectorAll("#list > div")[2].textContent, /Skipped/);
 });
+
+test("the setup screen defaults to 40 questions, 40 minutes, +1 and 0.25 penalty", (t) => {
+  const w = setup(t, "#/exam");
+  const d = w.document;
+  const settings = (id) => d.querySelector(id).value;
+  assert.equal(settings("#e-questions"), "40");
+  assert.equal(settings("#e-minutes"), "40");
+  assert.equal(settings("#e-marks"), "1");
+  assert.equal(settings("#e-penalty"), "0.25");
+  assert.match(d.querySelector("#begin").textContent, /Begin 40 question exam/);
+  assert.match(d.querySelector("#plan-chips").textContent, /40 questions/);
+  /* nothing is written until the user changes something */
+  assert.equal(w.localStorage.getItem("comp.exam.settings"), null);
+});
+
+test("paper settings drive length, clock and marking", (t) => {
+  const w = setup(t, "#/exam");
+  const d = w.document;
+  const set = (id, value) => {
+    const field = d.querySelector(id);
+    field.value = String(value);
+    field.dispatchEvent(new w.Event("change"));
+  };
+  set("#e-questions", 10);
+  set("#e-minutes", 5);
+  set("#e-marks", 2);
+  set("#e-penalty", 0.5);
+  assert.match(d.querySelector("#begin").textContent, /Begin 10 question exam/);
+  assert.deepEqual(JSON.parse(w.localStorage.getItem("comp.exam.settings")), { questions: 10, minutes: 5, marks: 2, penalty: 0.5 });
+
+  d.querySelector("#begin").click();
+  assert.equal(d.querySelectorAll("#palette button").length, 10);
+  assert.equal(d.querySelector("#clock").textContent, "05:00");
+
+  function currentQuestion() {
+    const stem = d.querySelector(".qtext").textContent;
+    const options = Array.from(d.querySelectorAll(".opt > span:last-child"), (el) => el.textContent);
+    const q = bank.questions().find((q) => q.question === stem && JSON.stringify(q.options) === JSON.stringify(options));
+    assert.ok(q, "rendered question is in the bank");
+    return q;
+  }
+  const first = currentQuestion();
+  d.querySelectorAll(".opt")[first.answer].click();
+  d.querySelector("#next").click();
+  const second = currentQuestion();
+  d.querySelectorAll(".opt")[(second.answer + 1) % 4].click();
+  d.querySelector("#submit").click();
+  const result = JSON.parse(w.localStorage.getItem("comp.progress.v1")).attempts[0];
+  assert.equal(result.total, 10);
+  assert.equal(result.max, 20);
+  assert.equal(result.marks, 2);
+  assert.equal(result.penalty, 0.5);
+  assert.equal(result.minutes, 5);
+  assert.equal(result.score, 1 * 2 - 1 * 0.5);
+  assert.match(d.querySelector("#app").textContent, /10 questions · \+2 correct · −0\.5 wrong/);
+  d.querySelector("#review").click();
+  assert.equal(d.querySelectorAll(".explain").length, 10);
+  assert.match(d.querySelector("#review-filters").textContent, /All 10/);
+});
+
+test("preset buttons and reset rewrite every paper setting", (t) => {
+  const w = setup(t, "#/exam");
+  const d = w.document;
+  d.querySelector('#presets [data-preset="railways"]').click();
+  assert.equal(d.querySelector("#e-questions").value, "100");
+  assert.equal(d.querySelector("#e-minutes").value, "90");
+  assert.equal(d.querySelector("#e-penalty").value, "0.33");
+  assert.match(d.querySelector("#plan-chips").textContent, /Max score 100/);
+  d.querySelector("#reset-settings").click();
+  assert.equal(d.querySelector("#e-questions").value, "40");
+  assert.equal(d.querySelector("#e-minutes").value, "40");
+  assert.equal(d.querySelector("#e-marks").value, "1");
+  assert.equal(d.querySelector("#e-penalty").value, "0.25");
+});
+
+test("a target without enough questions cannot start a paper", (t) => {
+  const w = setup(t, "#/exam", [{ slug: "indian-history", name: "Indian History", questions: [example] }]);
+  const d = w.document;
+  assert.match(d.querySelector("#plan-note").textContent, /not enough for a paper/);
+  assert.equal(d.querySelector("#begin").disabled, true);
+  d.querySelector("#begin").click();
+  assert.equal(d.querySelectorAll("#palette button").length, 0, "no paper is started");
+});
+
+test("drill length is remembered and used by the next drill", (t) => {
+  const w = setup(t, "#/practice/indian-history", [{ slug: "indian-history", name: "Indian History", questions: [example] }]);
+  const d = w.document;
+  assert.equal(d.querySelector("#prev").disabled, true);
+  w.location.hash = "#/practice";
+  w.dispatchEvent(new w.Event("hashchange"));
+  const select = d.querySelector("#drill-length");
+  assert.ok(select, "practice index offers a drill length");
+  select.value = "10";
+  select.dispatchEvent(new w.Event("change"));
+  assert.equal(w.localStorage.getItem("comp.drill.length"), "10");
+  w.location.hash = "#/practice/indian-history";
+  w.dispatchEvent(new w.Event("hashchange"));
+  assert.match(d.querySelector(".badge.plain").textContent, /Question 1 of 1/);
+});

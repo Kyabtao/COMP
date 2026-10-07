@@ -3,7 +3,7 @@
 Practice site for school and competitive exams, built around a generated question bank.
 
 - **Single target list:** Classes 1 to 12, Graduation, SSC CGL, SSC CHSL, Banking (IBPS / SBI) and Railways (RRB NTPC / Group D) — classes and exams are merged into one list because they share the same paper pattern
-- **Every paper:** 40 questions in 40 minutes, +1 per correct answer, 0.25 negative marking
+- **Every paper:** you choose the questions, time and marking — the defaults are 40 questions in 40 minutes, +1 per correct answer, 0.25 negative marking
 - **Question bank:** 32,927 questions in 26 categories (see below)
 - **No build step:** plain HTML, CSS and JavaScript, hosted straight from this repository
 
@@ -21,10 +21,31 @@ Opening `index.html` directly in a browser also works.
 
 | Where | What it does |
 | --- | --- |
-| **Home** | Pick a target, search the 26 categories, or jump straight into a 40 question paper |
-| **Practice** | A 15 question drill per category with the correct answer and explanation revealed at once |
-| **Exam** | 40 questions, 40 minutes, +1 correct, −0.25 wrong, a question palette and a timer that turns red in the last five minutes |
-| **Progress** | Every attempt stays in this browser: attempts, exams, drills, best score and the full table |
+| **Home** | Pick a target, search the 26 categories, see your saved paper settings, or jump straight into a paper |
+| **Practice** | A drill per category (5 to 30 questions, default 15) with the correct answer and explanation revealed at once |
+| **Exam** | You choose the paper: question count, time limit, marks per correct answer and the wrong-answer penalty |
+| **Progress** | Every attempt stays in this browser: attempts, exams, drills, best score, the plan used and the full table |
+
+### Designing the paper
+
+The exam screen opens on the defaults — **40 questions, 40 minutes, +1 per correct
+answer, −0.25 per wrong answer** — and every part can be changed before you begin:
+
+* **Questions:** 10, 15, 20, 25, 30, 40, 50, 60, 75 or 100.
+* **Time limit:** 5 to 120 minutes.
+* **Marking:** +1 to +4 per correct answer, and 0 / −0.25 / −0.33 / −0.5 / −1 per wrong
+  answer (0 switches negative marking off).
+* **Quick presets:** Default, Quick sprint, SSC style, Railways style and School test;
+  **Reset** puts the defaults back.
+* The setup screen always shows the plan (for example `40 questions · 40 minutes ·
+  +1 correct · −0.25 wrong`), the maximum score, how many questions the selected
+  target can really supply, and it warns when a paper works out under 15 seconds per
+  question.
+
+The choices are saved in this browser (`comp.exam.settings`), so the next paper opens
+with your settings. A target that cannot fill the requested length simply gets a
+shorter paper, and the Begin button tells you the real number before you start. Drill
+length is remembered separately (`comp.drill.length`).
 
 Small things that make it quicker to use:
 
@@ -51,7 +72,7 @@ node tools/validate.js          # checks counts, shapes and the spec checklist
 index.html                     the site (single page app)
 assets/css/style.css           styling, light and dark themes
 assets/js/qbank-loader.js      loads every category file at start up
-assets/js/app.js               routing, practice drills, unified 40 question exam engine (one target list)
+assets/js/app.js               routing, practice drills, configurable exam engine (one target list)
 qbank.js                       UMD entry point for the bank (browser + Node)
 
 tools/build-qbank.js           generates the category files
