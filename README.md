@@ -3,7 +3,7 @@
 Practice site for school and competitive exams, built around a generated question bank.
 
 - **Single target list:** Classes 1 to 12, Graduation, SSC CGL, SSC CHSL, Banking (IBPS / SBI) and Railways (RRB NTPC / Group D) — classes and exams are merged into one list because they share the same paper pattern
-- **Every paper:** 40 questions in 40 minutes, +1 per correct answer, 0.25 negative marking
+- **Every paper:** you choose the questions, time and marking — the defaults are 40 questions in 40 minutes, +1 per correct answer, 0.25 negative marking
 - **Question bank:** 32,927 questions in 26 categories (see below)
 - **No build step:** plain HTML, CSS and JavaScript, hosted straight from this repository
 
@@ -16,6 +16,48 @@ python3 -m http.server 8000     # then open http://localhost:8000
 ```
 
 Opening `index.html` directly in a browser also works.
+
+## Using the site
+
+| Where | What it does |
+| --- | --- |
+| **Home** | Pick a target, search the 26 categories, see your saved paper settings, or jump straight into a paper |
+| **Practice** | A drill per category (5 to 30 questions, default 15) with the correct answer and explanation revealed at once |
+| **Exam** | You choose the paper: question count, time limit, marks per correct answer and the wrong-answer penalty |
+| **Progress** | Every attempt stays in this browser: attempts, exams, drills, best score, the plan used and the full table |
+
+### Designing the paper
+
+The exam screen opens on the defaults — **40 questions, 40 minutes, +1 per correct
+answer, −0.25 per wrong answer** — and every part can be changed before you begin:
+
+* **Questions:** 10, 15, 20, 25, 30, 40, 50, 60, 75 or 100.
+* **Time limit:** 5 to 120 minutes.
+* **Marking:** +1 to +4 per correct answer, and 0 / −0.25 / −0.33 / −0.5 / −1 per wrong
+  answer (0 switches negative marking off).
+* **Quick presets:** Default, Quick sprint, SSC style, Railways style and School test;
+  **Reset** puts the defaults back.
+* The setup screen always shows the plan (for example `40 questions · 40 minutes ·
+  +1 correct · −0.25 wrong`), the maximum score, how many questions the selected
+  target can really supply, and it warns when a paper works out under 15 seconds per
+  question.
+
+The choices are saved in this browser (`comp.exam.settings`), so the next paper opens
+with your settings. A target that cannot fill the requested length simply gets a
+shorter paper, and the Begin button tells you the real number before you start. Drill
+length is remembered separately (`comp.drill.length`).
+
+Small things that make it quicker to use:
+
+* The header toggle switches light and dark. On a first visit the site follows the
+  operating system preference and it remembers your choice afterwards.
+* The category search matches names, groups and descriptions — try `history`,
+  `coding` or `chemistry`.
+* In practice and exam views the keyboard works: <kbd>A</kbd>–<kbd>D</kbd> (or
+  <kbd>1</kbd>–<kbd>4</kbd>) answer, arrow keys move between questions, <kbd>Enter</kbd>
+  goes on, and the exam submits itself when the clock runs out.
+* Everything is responsive down to phone width, honours `prefers-reduced-motion`, and
+  the submitted review prints cleanly.
 
 Rebuild the question bank (deterministic — same output every run):
 
@@ -30,7 +72,7 @@ node tools/validate.js          # checks counts, shapes and the spec checklist
 index.html                     the site (single page app)
 assets/css/style.css           styling, light and dark themes
 assets/js/qbank-loader.js      loads every category file at start up
-assets/js/app.js               routing, practice drills, unified 40 question exam engine (one target list)
+assets/js/app.js               routing, practice drills, configurable exam engine (one target list)
 qbank.js                       UMD entry point for the bank (browser + Node)
 
 tools/build-qbank.js           generates the category files
@@ -131,18 +173,31 @@ Indian Polity is at 724. Add rows to `tools/data/*.js` and rerun the build to ra
 
 ## Deploying
 
-`.github/workflows/deploy.yml` validates the bank, stages the static site and publishes
-it to GitHub Pages on every push to `main`. Enable Pages in the repository settings and
-choose **GitHub Actions** as the source.
+GitHub Pages publishes this repository straight from `main` (branch source, root folder),
+and the site needs no build step, so **every push to `main` goes live** at
+<https://kyabtao.github.io/COMP/>. Nothing else has to run: the pages are served exactly
+as committed.
 
-Note: the workflow file ships in the working tree, but the automation token used to build
-this branch does not have GitHub's `workflow` permission, so it could not be committed.
-Add it from a machine that can push workflow files:
+Verification is the one piece that lives outside the browser. `.github/workflows/ci.yml`
+runs the regression suite, validates the bank and checks that the files the browser asks
+for are present — on pushes to `main`, on every pull request and on demand.
 
 ```bash
-mkdir -p .github/workflows
-cp /path/to/deploy.yml .github/workflows/deploy.yml
-git add .github/workflows/deploy.yml && git commit -m "Add GitHub Pages workflow" && git push
+# the same checks locally, before pushing
+npm install && npm test
+node tools/validate.js
+```
+
+The workflow file is **in the working tree but not committed**: the automation token used
+to build these branches does not have GitHub's `workflow` permission, so a push fails with
+`refusing to allow a GitHub App to create or update workflow ... without workflows
+permission`. Commit it once from a machine (or with a token) that has that permission and
+CI starts working on the next push:
+
+```bash
+git add .github/workflows/ci.yml
+git commit -m "Add CI workflow"
+git push
 ```
 
 ## Licence and credits
