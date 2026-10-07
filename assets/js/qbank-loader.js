@@ -19,37 +19,53 @@
 
   var bar = document.getElementById("load-bar");
   var status = document.getElementById("load-status");
-  var done = 0;
+  var total = files.length;
+  var settled = 0;
+  var failed = false;
 
   function tick() {
-    done++;
-    if (bar) bar.style.width = Math.round((done / files.length) * 100) + "%";
-    if (status) status.textContent = "Loaded " + done + " of " + files.length + " category files…";
-  }
-
-  function loadNext() {
-    if (!files.length) {
-      if (bar) bar.style.width = "100%";
-      if (status) status.textContent = "Question bank ready.";
-      window.dispatchEvent(new Event("qbank-ready"));
-      return;
+    settled++;
+    if (bar) bar.style.width = Math.round((settled / total) * 100) + "%";
+    if (status && !failed) {
+      status.textContent = "Loaded " + settled + " of " + total + " category files…";
     }
-    var src = files.shift();
-    var s = document.createElement("script");
-    s.src = src;
-    s.async = false;
-    s.onload = function () { tick(); loadNext(); };
-    s.onerror = function () {
-      if (status) status.textContent = "Could not load " + src + " — check that tools/categories exists.";
-      window.dispatchEvent(new Event("qbank-error"));
-    };
-    document.head.appendChild(s);
+    if (settled === total) finish();
   }
 
-  window.QBANK_LOADER = { files: files.slice(), start: loadNext };
+  function finish() {
+    if (failed) return;
+    if (bar) bar.style.width = "100%";
+    if (status) status.textContent = "Question bank ready.";
+    window.dispatchEvent(new Event("qbank-ready"));
+  }
+
+  /**
+   * Every file registers itself into window.QBANK_CATEGORIES under its own slug,
+   * so the order of injection does not matter and they can all be requested at
+   * once. Browsers still queue them a few at a time per host, which is far
+   * faster than waiting for each file in turn.
+   */
+  function start() {
+    files.forEach(function (src) {
+      var s = document.createElement("script");
+      s.src = src;
+      s.async = true;
+      s.onload = tick;
+      s.onerror = function () {
+        failed = true;
+        tick();
+        if (status) status.textContent = "Could not load " + src + " — check that tools/categories exists.";
+        window.dispatchEvent(new Event("qbank-error"));
+      };
+      document.head.appendChild(s);
+    });
+    if (!files.length) finish();
+  }
+
+  window.QBANK_LOADER = { files: files.slice(), start: start };
   if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", loadNext);
+    document.addEventListener("DOMContentLoaded", start);
   } else {
-    loadNext();
+    start();
   }
 })();
