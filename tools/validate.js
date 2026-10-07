@@ -59,7 +59,6 @@ ok("[spec] GK Misc reaches 17,000", gk.data.questions.length >= 17000, gk.data.q
 ok("[spec] nine categories hold 1,000+", oneK.length >= 9, oneK.length + " categories: " + oneK.join(", "));
 
 const report = {
-  generatedAt: new Date().toISOString(),
   totalQuestions: total,
   categoriesAt1000Plus: oneK,
   perCategory: categories.map((c) => ({ slug: c.meta.slug, name: c.meta.name, count: c.data.questions.length, target: CATEGORIES.find((x) => x.slug === c.meta.slug).target })),
