@@ -100,6 +100,16 @@ Indian Polity is at 704. Add rows to `tools/data/*.js` and rerun the build to ra
 it to GitHub Pages on every push to `main`. Enable Pages in the repository settings and
 choose **GitHub Actions** as the source.
 
+Note: the workflow file ships in the working tree, but the automation token used to build
+this branch does not have GitHub's `workflow` permission, so it could not be committed.
+Add it from a machine that can push workflow files:
+
+```bash
+mkdir -p .github/workflows
+cp /path/to/deploy.yml .github/workflows/deploy.yml
+git add .github/workflows/deploy.yml && git commit -m "Add GitHub Pages workflow" && git push
+```
+
 ## Licence and credits
 
 Content is compiled from standard school and competitive exam syllabi. Facts such as
