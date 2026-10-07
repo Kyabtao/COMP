@@ -203,7 +203,7 @@
           '</div>' +
         '</div>' +
         '<div class="picks">' +
-          '<div style="min-width:260px;flex:1">' +
+          '<div style="min-width:min(260px,100%);flex:1">' +
             '<label class="field" for="pick-target">Target — class or exam</label>' +
             '<select id="pick-target">' + targetOptions(state.target) + '</select>' +
           '</div>' +
@@ -227,12 +227,12 @@
 
     app.appendChild(el('<section class="card"><h2>Exam pattern</h2>' +
       '<p class="muted small">One pattern for every target: 40 questions, 40 minutes, +1 for a correct answer and 0.25 negative marking. Class targets draw a balanced paper from every category; competitive exams draw from their own sections.</p>' +
-      '<table><thead><tr><th>Target</th><th>Type</th><th>Sections</th><th>Questions</th><th>Time</th><th>Marking</th></tr></thead><tbody>' +
+      '<div class="table-scroll"><table><thead><tr><th>Target</th><th>Type</th><th>Sections</th><th>Questions</th><th>Time</th><th>Marking</th></tr></thead><tbody>' +
       TARGETS.map(function (t) {
         var sections = t.sections ? t.sections.length + " sections" : "All categories";
         return '<tr><td>' + esc(t.name) + '</td><td>' + t.type + '</td><td>' + sections + '</td><td>40</td><td>40 minutes</td><td>+1, &minus;0.25</td></tr>';
       }).join("") +
-      '</tbody></table></section>'));
+      '</tbody></table></div></section>'));
 
     document.getElementById("pick-target").addEventListener("change", function (e) {
       state.target = e.target.value;
@@ -521,12 +521,12 @@
     app.appendChild(el('<section class="card">' +
       '<h1>Your progress</h1>' +
       '<p class="muted">Attempts are stored in this browser only. Total attempts: <strong>' + attempts.length + '</strong> · average score: <strong>' + avg + '</strong></p>' +
-      (attempts.length ? '<table><thead><tr><th>When</th><th>Mode</th><th>Paper</th><th>Correct</th><th>Wrong</th><th>Skipped</th><th>Score</th></tr></thead><tbody>' +
+      (attempts.length ? '<div class="table-scroll"><table><thead><tr><th>When</th><th>Mode</th><th>Paper</th><th>Correct</th><th>Wrong</th><th>Skipped</th><th>Score</th></tr></thead><tbody>' +
         attempts.map(function (a) {
           return '<tr><td>' + new Date(a.at).toLocaleString() + '</td><td>' + a.mode + '</td><td>' +
             esc(a.exam || a.category || "") + '</td><td>' + a.correct + '</td><td>' + (a.wrong || 0) + '</td><td>' +
             (a.skipped || 0) + '</td><td>' + (a.score != null ? a.score : a.correct + "/" + a.total) + '</td></tr>';
-        }).join("") + '</tbody></table>'
+        }).join("") + '</tbody></table></div>'
         : '<p class="muted">No attempts yet. Start with a 40 question exam.</p>') +
     '</section>'));
   }
