@@ -20,15003 +20,15003 @@
  "questions": [
   {
    "id": "gk-misc-p03-0001",
-   "q": "Which institution is described as: Local self-government in urban areas?",
-   "o": [
+   "question": "Which institution is described as: Local self-government in urban areas?",
+   "options": [
     "Panchayat",
     "Municipality",
     "Election Commission of India",
     "Comptroller and Auditor General"
    ],
-   "a": 1,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Local self-government in urban areas describes Municipality."
+   "answer": 1,
+   "explanation": "Local self-government in urban areas describes Municipality.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0002",
-   "q": "On which date is World Photography Day observed?",
-   "o": [
+   "question": "On which date is World Photography Day observed?",
+   "options": [
     "27 September",
     "19 August",
     "21 June",
     "26 January"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Photography Day is observed on 19 August."
+   "answer": 1,
+   "explanation": "World Photography Day is observed on 19 August.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0003",
-   "q": "Where is the headquarters of Indian Space Research Organisation?",
-   "o": [
+   "question": "Where is the headquarters of Indian Space Research Organisation?",
+   "options": [
     "Lyon",
     "Washington, D.C.",
     "Nairobi",
     "Bengaluru"
    ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "Indian Space Research Organisation is headquartered at Bengaluru."
+   "answer": 3,
+   "explanation": "Indian Space Research Organisation is headquartered at Bengaluru.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0004",
-   "q": "Which sport uses teams of 11 players?",
-   "o": [
+   "question": "Which sport uses teams of 11 players?",
+   "options": [
     "Football",
     "Water polo",
     "Kabaddi",
     "Ice hockey"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 11 players play Football."
+   "answer": 0,
+   "explanation": "Teams of 11 players play Football.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0005",
-   "q": "Subroto Cup is associated with which sport?",
-   "o": [
+   "question": "Subroto Cup is associated with which sport?",
+   "options": [
     "Badminton",
     "Hockey",
     "Football",
     "Cricket"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Subroto Cup is associated with Football."
+   "answer": 2,
+   "explanation": "Subroto Cup is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0006",
-   "q": "Major Dhyan Chand Khel Ratna Award is associated with which of the following?",
-   "o": [
+   "question": "Major Dhyan Chand Khel Ratna Award is associated with which of the following?",
+   "options": [
     "Second highest military decoration of India",
     "Second highest civilian award of India",
     "Highest sporting honour of India",
     "Award for progress in spiritual matters"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Major Dhyan Chand Khel Ratna Award — Highest sporting honour of India."
+   "answer": 2,
+   "explanation": "Major Dhyan Chand Khel Ratna Award — Highest sporting honour of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0007",
-   "q": "Who is the author of Broken Wings?",
-   "o": [
+   "question": "Who is the author of Broken Wings?",
+   "options": [
     "Vishnu Sharma",
     "Sarojini Naidu",
     "Arundhati Roy",
     "Stephen Hawking"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Broken Wings is written by Sarojini Naidu."
+   "answer": 1,
+   "explanation": "Broken Wings is written by Sarojini Naidu.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0008",
-   "q": "Which of the following achievements belongs to George Washington?",
-   "o": [
+   "question": "Which of the following achievements belongs to George Washington?",
+   "options": [
     "First President of the United States",
     "First person to walk on the Moon",
     "First human in space",
     "First Indian to win a Nobel Prize"
    ],
-   "a": 0,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First President of the United States belongs to George Washington."
+   "answer": 0,
+   "explanation": "First President of the United States belongs to George Washington.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0009",
-   "q": "Which is the highest plateau in the world?",
-   "o": [
+   "question": "Which is the highest plateau in the world?",
+   "options": [
     "Sundarbans",
     "Tibetan Plateau",
     "Andhra Pradesh",
     "Arma Konda"
    ],
-   "a": 1,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 1,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0010",
-   "q": "Which country is the largest producer of spices?",
-   "o": [
+   "question": "Which country is the largest producer of spices?",
+   "options": [
     "Five and a half hours",
     "India",
     "Chilika Lake",
     "Baku"
    ],
-   "a": 1,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 1,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0011",
-   "q": "What percentage of the atmosphere is oxygen?",
-   "o": [
+   "question": "What percentage of the atmosphere is oxygen?",
+   "options": [
     "Lava",
     "Outer core",
     "Seismograph",
     "About 21 per cent"
    ],
-   "a": 3,
-   "t": "Climate and Atmosphere",
-   "l": 2,
-   "s": "generated",
-   "e": "What percentage of the atmosphere is oxygen — About 21 per cent."
+   "answer": 3,
+   "explanation": "What percentage of the atmosphere is oxygen — About 21 per cent.",
+   "topic": "Climate and Atmosphere",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0012",
-   "q": "Which of the following pairs of soil and feature is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of soil and feature is correctly matched?",
+   "options": [
     "Mountain soil - Also called regur, ideal for cotton",
     "Mountain soil - Found in hilly and forest regions",
     "Mountain soil - Formed from crystalline rocks, rich in iron",
     "Mountain soil - Formed by leaching in high rainfall areas"
    ],
-   "a": 1,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mountain soil - Found in hilly and forest regions is correctly matched."
+   "answer": 1,
+   "explanation": "Only Mountain soil - Found in hilly and forest regions is correctly matched.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0013",
-   "q": "Which mineral is found in large quantities in Odisha?",
-   "o": [
+   "question": "Which mineral is found in large quantities in Odisha?",
+   "options": [
     "Manganese",
     "Graphite",
     "Copper",
     "Diamond"
    ],
-   "a": 1,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Graphite is found in Odisha."
+   "answer": 1,
+   "explanation": "Graphite is found in Odisha.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0014",
-   "q": "What is the value of final goods and services produced within a country called?",
-   "o": [
+   "question": "What is the value of final goods and services produced within a country called?",
+   "options": [
     "International Development Association",
     "1965",
     "Balance of payments",
     "Gross Domestic Product"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0015",
-   "q": "Choose the word most similar in meaning to Fastidious.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Fastidious.",
+   "options": [
     "Ease",
     "Starvation",
     "Meticulous",
     "Condemn"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Fastidious means Meticulous."
+   "answer": 2,
+   "explanation": "Fastidious means Meticulous.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0016",
-   "q": "Choose the word most opposite in meaning to Sanguine.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Sanguine.",
+   "options": [
     "Original",
     "Frequent",
     "Pessimistic",
     "Flowing"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Sanguine is Pessimistic."
+   "answer": 2,
+   "explanation": "The opposite of Sanguine is Pessimistic.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0017",
-   "q": "What is the meaning of the idiom 'To fight a losing battle'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'To fight a losing battle'?",
+   "options": [
     "An unexpected winner",
     "Agree completely",
     "To struggle without hope of success",
     "Laugh secretly"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'To fight a losing battle' means To struggle without hope of success."
+   "answer": 2,
+   "explanation": "'To fight a losing battle' means To struggle without hope of success.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0018",
-   "q": "Choose the one word substitute for: A place where money is coined",
-   "o": [
+   "question": "Choose the one word substitute for: A place where money is coined",
+   "options": [
     "Somniloquist",
     "Optimist",
     "Mint",
     "Apiary"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "A place where money is coined — Mint."
+   "answer": 2,
+   "explanation": "A place where money is coined — Mint.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0019",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Disappear",
     "Parallel",
     "Repetition",
     "Restaurant"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Repetition."
+   "answer": 2,
+   "explanation": "The correct spelling is Repetition.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0020",
-   "q": "What is the plural of Goose?",
-   "o": [
+   "question": "What is the plural of Goose?",
+   "options": [
     "Geese",
     "Women",
     "Analyses",
     "Zoos"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Goose is Geese."
+   "answer": 0,
+   "explanation": "The plural of Goose is Geese.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0021",
-   "q": "What is the feminine form of Ram?",
-   "o": [
+   "question": "What is the feminine form of Ram?",
+   "options": [
     "Queen",
     "Mother",
     "Ewe",
     "Priestess"
    ],
-   "a": 2,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Ram is Ewe."
+   "answer": 2,
+   "explanation": "The feminine of Ram is Ewe.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0022",
-   "q": "What is the comparative degree of Safe?",
-   "o": [
+   "question": "What is the comparative degree of Safe?",
+   "options": [
     "Stronger",
     "Safer",
     "Wiser",
     "Simpler"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Safe — Safer — Safest."
+   "answer": 1,
+   "explanation": "Safe — Safer — Safest.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0023",
-   "q": "Fill in the blank with the correct preposition: He complied ____ my request.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: He complied ____ my request.",
+   "options": [
     "of",
     "with",
     "to",
     "over"
    ],
-   "a": 1,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'with'."
+   "answer": 1,
+   "explanation": "The correct preposition is 'with'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0024",
-   "q": "What is a word that describes a verb called?",
-   "o": [
+   "question": "What is a word that describes a verb called?",
+   "options": [
     "Begun",
     "She said that she would come the next day",
     "Adverb",
     "Courageous"
    ],
-   "a": 2,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 2,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0025",
-   "q": "Which mission aims to provide piped drinking water to every rural household?",
-   "o": [
+   "question": "Which mission aims to provide piped drinking water to every rural household?",
+   "options": [
     "Doubling Farmers' Income",
     "DigiLocker",
     "Sachin Tendulkar",
     "Jal Jeevan Mission"
    ],
-   "a": 3,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 3,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0026",
-   "q": "The scheme Pradhan Mantri Kisan Samman Nidhi was launched with which objective?",
-   "o": [
+   "question": "The scheme Pradhan Mantri Kisan Samman Nidhi was launched with which objective?",
+   "options": [
     "Development of tribal villages",
     "Skill certification of youth",
     "Income support of six thousand rupees to small farmers",
     "Digital delivery of services and digital literacy"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Pradhan Mantri Kisan Samman Nidhi — Income support of six thousand rupees to small farmers."
+   "answer": 2,
+   "explanation": "Pradhan Mantri Kisan Samman Nidhi — Income support of six thousand rupees to small farmers.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0027",
-   "q": "Bharat Bill Payment System is associated with which of the following?",
-   "o": [
+   "question": "Bharat Bill Payment System is associated with which of the following?",
+   "options": [
     "India's heavy lift launch vehicle",
     "Discovery of water molecules on the Moon",
     "Integrated bill payment platform",
     "Reintroduction of cheetahs in India"
    ],
-   "a": 2,
-   "t": "Missions and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Bharat Bill Payment System — Integrated bill payment platform."
+   "answer": 2,
+   "explanation": "Bharat Bill Payment System — Integrated bill payment platform.",
+   "topic": "Missions and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0028",
-   "q": "Router is best described as which of the following?",
-   "o": [
+   "question": "Router is best described as which of the following?",
+   "options": [
     "Secure version of the web transfer protocol",
     "Device that forwards data between networks",
     "Two or more connected computers",
     "Program that performs a user task"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Router — Device that forwards data between networks."
+   "answer": 1,
+   "explanation": "Router — Device that forwards data between networks.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0029",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + P - Open Task Manager",
     "Ctrl + P - Delete the previous word",
     "Ctrl + P - Print the current document",
     "Ctrl + P - Refresh the current window"
    ],
-   "a": 2,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + P - Print the current document is correctly matched."
+   "answer": 2,
+   "explanation": "Only Ctrl + P - Print the current document is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0030",
-   "q": "Which file extension is used for a Executable program file?",
-   "o": [
+   "question": "Which file extension is used for a Executable program file?",
+   "options": [
     ".svg",
     ".png",
     ".exe",
     ".xml"
    ],
-   "a": 2,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Executable program file uses the extension .exe."
+   "answer": 2,
+   "explanation": "Executable program file uses the extension .exe.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0031",
-   "q": "What is the full form of BRICS?",
-   "o": [
+   "question": "What is the full form of BRICS?",
+   "options": [
     "Brazil, Russia, India, China and South Africa",
     "Asian Development Bank",
     "Employee Stock Option Plan",
     "International Organization for Standardization"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "BRICS stands for Brazil, Russia, India, China and South Africa."
+   "answer": 0,
+   "explanation": "BRICS stands for Brazil, Russia, India, China and South Africa.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0032",
-   "q": "Which agreement or organisation is described as: Protection of the ozone layer?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Protection of the ozone layer?",
+   "options": [
     "Paris Agreement",
     "Vienna Convention",
     "Basel Convention",
     "Kigali Amendment"
    ],
-   "a": 1,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Protection of the ozone layer describes the Vienna Convention."
+   "answer": 1,
+   "explanation": "Protection of the ozone layer describes the Vienna Convention.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0033",
-   "q": "Which pollutant is described as: Causes eutrophication of water bodies?",
-   "o": [
+   "question": "Which pollutant is described as: Causes eutrophication of water bodies?",
+   "options": [
     "Nitrogen oxides",
     "Nitrate from fertilisers",
     "Methane",
     "Oil spills"
    ],
-   "a": 1,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Causes eutrophication of water bodies is linked to Nitrate from fertilisers."
+   "answer": 1,
+   "explanation": "Causes eutrophication of water bodies is linked to Nitrate from fertilisers.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0034",
-   "q": "Which biosphere reserve or wetland is located in Rajasthan?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Rajasthan?",
+   "options": [
     "Gulf of Mannar Biosphere Reserve",
     "Keoladeo Ghana",
     "Simlipal Biosphere Reserve",
     "Panna Biosphere Reserve"
    ],
-   "a": 1,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Keoladeo Ghana is located in Rajasthan."
+   "answer": 1,
+   "explanation": "Keoladeo Ghana is located in Rajasthan.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0035",
-   "q": "Which law or scheme is described as: Funds for afforestation in lieu of diverted forest?",
-   "o": [
+   "question": "Which law or scheme is described as: Funds for afforestation in lieu of diverted forest?",
+   "options": [
     "Compensatory Afforestation Fund",
     "Swachh Bharat Mission",
     "Air Act 1981",
     "Wildlife Protection Act 1972"
    ],
-   "a": 0,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Funds for afforestation in lieu of diverted forest refers to Compensatory Afforestation Fund."
+   "answer": 0,
+   "explanation": "Funds for afforestation in lieu of diverted forest refers to Compensatory Afforestation Fund.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0036",
-   "q": "What is the capital of Guatemala?",
-   "o": [
+   "question": "What is the capital of Guatemala?",
+   "options": [
     "Guatemala City",
     "Apia",
     "Reykjavik",
     "Nouakchott"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Guatemala is Guatemala City."
+   "answer": 0,
+   "explanation": "The capital of Guatemala is Guatemala City.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0037",
-   "q": "Which element has the chemical symbol Bi?",
-   "o": [
+   "question": "Which element has the chemical symbol Bi?",
+   "options": [
     "Einsteinium",
     "Bismuth",
     "Lawrencium",
     "Cerium"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Bi is the symbol of Bismuth."
+   "answer": 1,
+   "explanation": "Bi is the symbol of Bismuth.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0038",
-   "q": "Shimla is the capital of which Indian state?",
-   "o": [
+   "question": "Shimla is the capital of which Indian state?",
+   "options": [
     "Chhattisgarh",
     "Telangana",
     "Himachal Pradesh",
     "Tripura"
    ],
-   "a": 2,
-   "t": "States and Capitals",
-   "l": 2,
-   "s": "generated",
-   "e": "Shimla is the capital of Himachal Pradesh."
+   "answer": 2,
+   "explanation": "Shimla is the capital of Himachal Pradesh.",
+   "topic": "States and Capitals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0039",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "National Reptile - Bengal Tiger",
     "National Reptile - Saka Calendar",
     "National Reptile - Indian Peacock",
     "National Reptile - King Cobra"
    ],
-   "a": 3,
-   "t": "National Symbols",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Reptile - King Cobra is correctly matched."
+   "answer": 3,
+   "explanation": "Only National Reptile - King Cobra is correctly matched.",
+   "topic": "National Symbols",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0040",
-   "q": "Which of the following descriptions matches Dr. S. Radhakrishnan?",
-   "o": [
+   "question": "Which of the following descriptions matches Dr. S. Radhakrishnan?",
+   "options": [
     "First Indian to swim across the English Channel",
     "First woman Chief Minister in India",
     "First Vice President of India",
     "First woman Prime Minister of India"
    ],
-   "a": 2,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "Dr. S. Radhakrishnan is associated with: First Vice President of India."
+   "answer": 2,
+   "explanation": "Dr. S. Radhakrishnan is associated with: First Vice President of India.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0041",
-   "q": "Wangala is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Wangala is a folk or classical dance form of which state?",
+   "options": [
     "Meghalaya",
     "Rajasthan",
     "Odisha",
     "Maharashtra"
    ],
-   "a": 0,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Wangala belongs to Meghalaya."
+   "answer": 0,
+   "explanation": "Wangala belongs to Meghalaya.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0042",
-   "q": "Hornbill Festival is a major festival of which state?",
-   "o": [
+   "question": "Hornbill Festival is a major festival of which state?",
+   "options": [
     "Tamil Nadu",
     "Karnataka",
     "Jharkhand",
     "Nagaland"
    ],
-   "a": 3,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Hornbill Festival is celebrated mainly in Nagaland."
+   "answer": 3,
+   "explanation": "Hornbill Festival is celebrated mainly in Nagaland.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0043",
-   "q": "Angsi Glacier is the origin of which river?",
-   "o": [
+   "question": "Angsi Glacier is the origin of which river?",
+   "options": [
     "Bhima",
     "Chambal",
     "Brahmaputra",
     "Indus"
    ],
-   "a": 2,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Angsi Glacier is the origin of the river Brahmaputra."
+   "answer": 2,
+   "explanation": "Angsi Glacier is the origin of the river Brahmaputra.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0044",
-   "q": "Which of the following dams is built on the river Sutlej?",
-   "o": [
+   "question": "Which of the following dams is built on the river Sutlej?",
+   "options": [
     "Bhakra Nangal Dam",
     "Baglihar Dam",
     "Dul Hasti Dam",
     "Maithon Dam"
    ],
-   "a": 0,
-   "t": "Dams of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Bhakra Nangal Dam is built on the Sutlej."
+   "answer": 0,
+   "explanation": "Bhakra Nangal Dam is built on the Sutlej.",
+   "topic": "Dams of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0045",
-   "q": "Betla National Park is located in which state?",
-   "o": [
+   "question": "Betla National Park is located in which state?",
+   "options": [
     "Jharkhand",
     "Assam",
     "Chhattisgarh",
     "Uttar Pradesh"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Betla National Park is located in Jharkhand."
+   "answer": 0,
+   "explanation": "Betla National Park is located in Jharkhand.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0046",
-   "q": "Which of the following passes is located in Ladakh?",
-   "o": [
+   "question": "Which of the following passes is located in Ladakh?",
+   "options": [
     "Niti Pass",
     "Fotu La",
     "Shipki La",
     "Mana Pass"
    ],
-   "a": 1,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Fotu La is a pass in Ladakh."
+   "answer": 1,
+   "explanation": "Fotu La is a pass in Ladakh.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0047",
-   "q": "Which physical quantity is measured in Second?",
-   "o": [
+   "question": "Which physical quantity is measured in Second?",
+   "options": [
     "Viscosity (dynamic)",
     "Inductance",
     "Time",
     "Electric current"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Second is the SI unit of Time."
+   "answer": 2,
+   "explanation": "Second is the SI unit of Time.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0048",
-   "q": "Which instrument is used to measure Internal body organs?",
-   "o": [
+   "question": "Which instrument is used to measure Internal body organs?",
+   "options": [
     "Audiometer",
     "Endoscope",
     "Spherometer",
     "Fathometer"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Endoscope is used to measure Internal body organs."
+   "answer": 1,
+   "explanation": "Endoscope is used to measure Internal body organs.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0049",
-   "q": "What is the main function of the Vena cava in the human body?",
-   "o": [
+   "question": "What is the main function of the Vena cava in the human body?",
+   "options": [
     "Production of sperm",
     "Secretion of adrenaline",
     "Helps in breathing",
     "Largest vein"
    ],
-   "a": 3,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Vena cava is responsible for Largest vein."
+   "answer": 3,
+   "explanation": "The Vena cava is responsible for Largest vein.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0050",
-   "q": "Which disease is caused by the deficiency of Iron?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Iron?",
+   "options": [
     "Rickets in children",
     "Anaemia",
     "Scurvy",
     "Ariboflavinosis"
    ],
-   "a": 1,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Iron causes Anaemia."
+   "answer": 1,
+   "explanation": "Deficiency of Iron causes Anaemia.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0051",
-   "q": "Which of the following causes Yellow fever?",
-   "o": [
+   "question": "Which of the following causes Yellow fever?",
+   "options": [
     "Neisseria gonorrhoeae bacteria",
     "Rabies virus",
     "Leishmania donovani",
     "Yellow fever virus"
    ],
-   "a": 3,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Yellow fever is caused by Yellow fever virus."
+   "answer": 3,
+   "explanation": "Yellow fever is caused by Yellow fever virus.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0052",
-   "q": "Who is credited with Gravity?",
-   "o": [
+   "question": "Who is credited with Gravity?",
+   "options": [
     "John Bardeen and colleagues",
     "Marie Curie",
     "Dmitri Mendeleev",
     "Isaac Newton"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Gravity — Isaac Newton."
+   "answer": 3,
+   "explanation": "Gravity — Isaac Newton.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0053",
-   "q": "What is the chemical name of Aqua fortis?",
-   "o": [
+   "question": "What is the chemical name of Aqua fortis?",
+   "options": [
     "Magnesium hydroxide (Mg(OH)2)",
     "Nitric acid (HNO3)",
     "Ethanol (C2H5OH)",
     "Potassium nitrate (KNO3)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Aqua fortis is Nitric acid (HNO3)."
+   "answer": 1,
+   "explanation": "Aqua fortis is Nitric acid (HNO3).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0054",
-   "q": "Which branch of science deals with Celestial objects and the universe?",
-   "o": [
+   "question": "Which branch of science deals with Celestial objects and the universe?",
+   "options": [
     "Histology",
     "Microbiology",
     "Dermatology",
     "Astronomy"
    ],
-   "a": 3,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Astronomy deals with Celestial objects and the universe."
+   "answer": 3,
+   "explanation": "Astronomy deals with Celestial objects and the universe.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0055",
-   "q": "Which of the following statements about Jupiter is correct?",
-   "o": [
+   "question": "Which of the following statements about Jupiter is correct?",
+   "options": [
     "Moon",
     "Milky Way",
     "Fifth",
     "Neptune"
    ],
-   "a": 2,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Jupiter: Fifth."
+   "answer": 2,
+   "explanation": "Jupiter: Fifth.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0056",
-   "q": "James Clerk Maxwell is known for which of the following?",
-   "o": [
+   "question": "James Clerk Maxwell is known for which of the following?",
+   "options": [
     "Electric battery",
     "Electromagnetic induction",
     "Phonograph and practical electric bulb",
     "Electromagnetic theory"
    ],
-   "a": 3,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "James Clerk Maxwell is known for Electromagnetic theory."
+   "answer": 3,
+   "explanation": "James Clerk Maxwell is known for Electromagnetic theory.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0057",
-   "q": "In which year did the following event take place: G20 Summit hosted in New Delhi?",
-   "o": [
+   "question": "In which year did the following event take place: G20 Summit hosted in New Delhi?",
+   "options": [
     "1952",
     "2023",
     "1946",
     "1951"
    ],
-   "a": 1,
-   "t": "Indian History Events",
-   "l": 2,
-   "s": "generated",
-   "e": "G20 Summit hosted in New Delhi — 2023."
+   "answer": 1,
+   "explanation": "G20 Summit hosted in New Delhi — 2023.",
+   "topic": "Indian History Events",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0058",
-   "q": "In which year did the following event take place: Return of Hong Kong to China?",
-   "o": [
+   "question": "In which year did the following event take place: Return of Hong Kong to China?",
+   "options": [
     "1997",
     "1933",
     "1914",
     "1959"
    ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 2,
-   "s": "generated",
-   "e": "Return of Hong Kong to China — 1997."
+   "answer": 0,
+   "explanation": "Return of Hong Kong to China — 1997.",
+   "topic": "World History Events",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0059",
-   "q": "Chandragupta Maurya founded which of the following?",
-   "o": [
+   "question": "Chandragupta Maurya founded which of the following?",
+   "options": [
     "Maurya Empire",
     "Kushana Empire",
     "Sunga Dynasty",
     "Vijayanagara Empire"
    ],
-   "a": 0,
-   "t": "Dynasties",
-   "l": 3,
-   "s": "generated",
-   "e": "Chandragupta Maurya founded the Maurya Empire."
+   "answer": 0,
+   "explanation": "Chandragupta Maurya founded the Maurya Empire.",
+   "topic": "Dynasties",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0060",
-   "q": "Which ruler is associated with the following: Known as the Napoleon of India?",
-   "o": [
+   "question": "Which ruler is associated with the following: Known as the Napoleon of India?",
+   "options": [
     "Guru Nanak",
     "Sher Shah Suri",
     "Samudragupta",
     "Chandragupta II"
    ],
-   "a": 2,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "Known as the Napoleon of India is associated with Samudragupta."
+   "answer": 2,
+   "explanation": "Known as the Napoleon of India is associated with Samudragupta.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0061",
-   "q": "Which freedom fighter is described as Lokamanya?",
-   "o": [
+   "question": "Which freedom fighter is described as Lokamanya?",
+   "options": [
     "Bankim Chandra Chatterjee",
     "Annie Besant",
     "Bal Gangadhar Tilak",
     "Lala Lajpat Rai"
    ],
-   "a": 2,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "Lokamanya refers to Bal Gangadhar Tilak."
+   "answer": 2,
+   "explanation": "Lokamanya refers to Bal Gangadhar Tilak.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0062",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Swaraj Party - 1947",
     "Swaraj Party - 1923",
     "Swaraj Party - 1919",
     "Swaraj Party - 1930"
    ],
-   "a": 1,
-   "t": "National Movements",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Swaraj Party - 1923 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Swaraj Party - 1923 is correctly matched.",
+   "topic": "National Movements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0063",
-   "q": "Which part of the Constitution deals with: Election of the President?",
-   "o": [
+   "question": "Which part of the Constitution deals with: Election of the President?",
+   "options": [
     "Article 17",
     "Part VI, Articles 152-237",
     "Part XVII, Articles 343-351",
     "Article 54"
    ],
-   "a": 3,
-   "t": "Constitution Articles",
-   "l": 2,
-   "s": "generated",
-   "e": "Election of the President is covered under Article 54."
+   "answer": 3,
+   "explanation": "Election of the President is covered under Article 54.",
+   "topic": "Constitution Articles",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0064",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "106th Amendment - 1951",
     "106th Amendment - 2016",
     "106th Amendment - 1956",
     "106th Amendment - 2023"
    ],
-   "a": 3,
-   "t": "Constitutional Amendments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 106th Amendment - 2023 is correctly matched."
+   "answer": 3,
+   "explanation": "Only 106th Amendment - 2023 is correctly matched.",
+   "topic": "Constitutional Amendments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0065",
-   "q": "The First Amendment of the Constitution was made in?",
-   "o": [
+   "question": "The First Amendment of the Constitution was made in?",
+   "options": [
     "1951",
     "42nd Amendment",
     "Australia",
     "The Prime Minister"
    ],
-   "a": 0,
-   "t": "Constitution Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "The First Amendment of the Constitution was made in — 1951."
+   "answer": 0,
+   "explanation": "The First Amendment of the Constitution was made in — 1951.",
+   "topic": "Constitution Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0066",
-   "q": "Which institution is described as: Head of the Union Government?",
-   "o": [
+   "question": "Which institution is described as: Head of the Union Government?",
+   "options": [
     "SEBI",
     "Panchayat",
     "Prime Minister of India",
     "Council of Ministers"
    ],
-   "a": 2,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Head of the Union Government describes Prime Minister of India."
+   "answer": 2,
+   "explanation": "Head of the Union Government describes Prime Minister of India.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0067",
-   "q": "On which date is World Rivers Day observed?",
-   "o": [
+   "question": "On which date is World Rivers Day observed?",
+   "options": [
     "fourth Sunday of September",
     "11 December",
     "20 October",
     "31 May"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Rivers Day is observed on fourth Sunday of September."
+   "answer": 0,
+   "explanation": "World Rivers Day is observed on fourth Sunday of September.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0068",
-   "q": "Where is the headquarters of International Atomic Energy Agency?",
-   "o": [
+   "question": "Where is the headquarters of International Atomic Energy Agency?",
+   "options": [
     "Vienna",
     "Brussels",
     "Geneva",
     "Paris"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "International Atomic Energy Agency is headquartered at Vienna."
+   "answer": 0,
+   "explanation": "International Atomic Energy Agency is headquartered at Vienna.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0069",
-   "q": "Which sport uses teams of 7 players?",
-   "o": [
+   "question": "Which sport uses teams of 7 players?",
+   "options": [
     "Ice hockey",
     "Kho Kho",
     "Rugby sevens",
     "Korfball"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 7 players play Rugby sevens."
+   "answer": 2,
+   "explanation": "Teams of 7 players play Rugby sevens.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0070",
-   "q": "Grammy Award is associated with which of the following?",
-   "o": [
+   "question": "Grammy Award is associated with which of the following?",
+   "options": [
     "Alternative Nobel Prize",
     "Indian literary award",
     "Lifetime achievement in Indian sports",
     "American award for music"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Grammy Award — American award for music."
+   "answer": 3,
+   "explanation": "Grammy Award — American award for music.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0071",
-   "q": "Who is the author of The Wealth of Nations?",
-   "o": [
+   "question": "Who is the author of The Wealth of Nations?",
+   "options": [
     "Charles Dickens",
     "Sarojini Naidu",
     "Paramahansa Yogananda",
     "Adam Smith"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "The Wealth of Nations is written by Adam Smith."
+   "answer": 3,
+   "explanation": "The Wealth of Nations is written by Adam Smith.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0072",
-   "q": "Which of the following achievements belongs to Sirimavo Bandaranaike?",
-   "o": [
+   "question": "Which of the following achievements belongs to Sirimavo Bandaranaike?",
+   "options": [
     "First country to send a human into space",
     "First FIFA World Cup was held in",
     "First country to land a man on the Moon",
     "First woman Prime Minister in the world"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First woman Prime Minister in the world belongs to Sirimavo Bandaranaike."
+   "answer": 3,
+   "explanation": "First woman Prime Minister in the world belongs to Sirimavo Bandaranaike.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0073",
-   "q": "Which is the largest peninsula in the world?",
-   "o": [
+   "question": "Which is the largest peninsula in the world?",
+   "options": [
     "Gujarat",
     "Andhra Pradesh",
     "Arabian Peninsula",
     "Bengaluru"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0074",
-   "q": "Which ocean surrounds the North Pole?",
-   "o": [
+   "question": "Which ocean surrounds the North Pole?",
+   "options": [
     "Egypt",
     "China",
     "Arctic Ocean",
     "Strait of Malacca"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0075",
-   "q": "What is the seasonal reversal of winds called?",
-   "o": [
+   "question": "What is the seasonal reversal of winds called?",
+   "options": [
     "Tropical monsoon climate",
     "Diamond",
     "Monsoon",
     "Stratosphere"
    ],
-   "a": 2,
-   "t": "Climate and Atmosphere",
-   "l": 2,
-   "s": "generated",
-   "e": "What is the seasonal reversal of winds called — Monsoon."
+   "answer": 2,
+   "explanation": "What is the seasonal reversal of winds called — Monsoon.",
+   "topic": "Climate and Atmosphere",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0076",
-   "q": "Which of the following pairs of soil and feature is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of soil and feature is correctly matched?",
+   "options": [
     "Mountain soil - Found in hilly and forest regions",
     "Mountain soil - Also called regur, ideal for cotton",
     "Mountain soil - Sandy soil of arid regions",
     "Mountain soil - Formed by leaching in high rainfall areas"
    ],
-   "a": 0,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mountain soil - Found in hilly and forest regions is correctly matched."
+   "answer": 0,
+   "explanation": "Only Mountain soil - Found in hilly and forest regions is correctly matched.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0077",
-   "q": "Which mineral is found in large quantities in Jharkhand?",
-   "o": [
+   "question": "Which mineral is found in large quantities in Jharkhand?",
+   "options": [
     "Coal",
     "Graphite",
     "Gypsum",
     "Petroleum"
    ],
-   "a": 0,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Coal is found in Jharkhand."
+   "answer": 0,
+   "explanation": "Coal is found in Jharkhand.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0078",
-   "q": "In which year was the State Bank of India established?",
-   "o": [
+   "question": "In which year was the State Bank of India established?",
+   "options": [
     "Services sector",
     "US Dollar",
     "Reverse repo",
     "1955"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0079",
-   "q": "Choose the word most similar in meaning to Emaciated.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Emaciated.",
+   "options": [
     "Thin",
     "Conscientious",
     "Sharpness",
     "Astonishing"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Emaciated means Thin."
+   "answer": 0,
+   "explanation": "Emaciated means Thin.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0080",
-   "q": "Choose the word most opposite in meaning to Impede.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Impede.",
+   "options": [
     "Obscure",
     "Lenient",
     "Facilitate",
     "Solitary"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Impede is Facilitate."
+   "answer": 2,
+   "explanation": "The opposite of Impede is Facilitate.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0081",
-   "q": "What is the meaning of the idiom 'A close-fisted person'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'A close-fisted person'?",
+   "options": [
     "Completely",
     "To retract one's statement",
     "Invalid",
     "A miser"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'A close-fisted person' means A miser."
+   "answer": 3,
+   "explanation": "'A close-fisted person' means A miser.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0082",
-   "q": "Choose the one word substitute for: A disease that spreads over a large area",
-   "o": [
+   "question": "Choose the one word substitute for: A disease that spreads over a large area",
+   "options": [
     "Xenophobic",
     "Epidemic",
     "Polyandry",
     "Librarian"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "A disease that spreads over a large area — Epidemic."
+   "answer": 1,
+   "explanation": "A disease that spreads over a large area — Epidemic.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0083",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Perseverance",
     "Beginning",
     "Hundred",
     "Forty"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Perseverance."
+   "answer": 0,
+   "explanation": "The correct spelling is Perseverance.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0084",
-   "q": "What is the plural of Roof?",
-   "o": [
+   "question": "What is the plural of Roof?",
+   "options": [
     "Roofs",
     "Criteria",
     "Tomatoes",
     "Alumni"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Roof is Roofs."
+   "answer": 0,
+   "explanation": "The plural of Roof is Roofs.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0085",
-   "q": "What is the feminine form of Monk?",
-   "o": [
+   "question": "What is the feminine form of Monk?",
+   "options": [
     "Nun",
     "Queen",
     "Mare",
     "Mother"
    ],
-   "a": 0,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Monk is Nun."
+   "answer": 0,
+   "explanation": "The feminine of Monk is Nun.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0086",
-   "q": "What is the comparative degree of Little?",
-   "o": [
+   "question": "What is the comparative degree of Little?",
+   "options": [
     "Simpler",
     "Worse",
     "Narrower",
     "Less"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Little — Less — Least."
+   "answer": 3,
+   "explanation": "Little — Less — Least.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0087",
-   "q": "Fill in the blank with the correct preposition: She apologised ____ her mistake.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: She apologised ____ her mistake.",
+   "options": [
     "over",
     "of",
     "on",
     "for"
    ],
-   "a": 3,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'for'."
+   "answer": 3,
+   "explanation": "The correct preposition is 'for'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0088",
-   "q": "Which conjunction pairs with 'neither'?",
-   "o": [
+   "question": "Which conjunction pairs with 'neither'?",
+   "options": [
     "Future perfect",
     "Childhood",
     "Nor",
     "Spoken"
    ],
-   "a": 2,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 2,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0089",
-   "q": "Who became the first Indian woman to win an Olympic silver in badminton?",
-   "o": [
+   "question": "Who became the first Indian woman to win an Olympic silver in badminton?",
+   "options": [
     "Pradhan Mantri Ujjwala Yojana",
     "P. V. Sindhu",
     "Argentina",
     "International Solar Alliance"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0090",
-   "q": "The scheme Namami Gange was launched with which objective?",
-   "o": [
+   "question": "The scheme Namami Gange was launched with which objective?",
+   "options": [
     "Development of horticulture",
     "Pension for workers in the unorganised sector",
     "Online national agriculture market for farmers",
     "Cleaning and conservation of the Ganga"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Namami Gange — Cleaning and conservation of the Ganga."
+   "answer": 3,
+   "explanation": "Namami Gange — Cleaning and conservation of the Ganga.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0091",
-   "q": "Project Elephant is associated with which of the following?",
-   "o": [
+   "question": "Project Elephant is associated with which of the following?",
+   "options": [
     "Conservation of elephants and corridors",
     "India's heavy lift launch vehicle",
     "Free online courses platform",
     "Discovery of water molecules on the Moon"
    ],
-   "a": 0,
-   "t": "Missions and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Project Elephant — Conservation of elephants and corridors."
+   "answer": 0,
+   "explanation": "Project Elephant — Conservation of elephants and corridors.",
+   "topic": "Missions and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0092",
-   "q": "Firewall is best described as which of the following?",
-   "o": [
+   "question": "Firewall is best described as which of the following?",
+   "options": [
     "Copy of data kept for recovery",
     "Process of starting a computer",
     "Security system that filters network traffic",
     "Software stored permanently on a hardware chip"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Firewall — Security system that filters network traffic."
+   "answer": 2,
+   "explanation": "Firewall — Security system that filters network traffic.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0093",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + F - Lock the computer",
     "Ctrl + F - Delete an item permanently",
     "Ctrl + F - Delete the previous word",
     "Ctrl + F - Find text in a document"
    ],
-   "a": 3,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + F - Find text in a document is correctly matched."
+   "answer": 3,
+   "explanation": "Only Ctrl + F - Find text in a document is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0094",
-   "q": "Which file extension is used for a Microsoft PowerPoint presentation?",
-   "o": [
+   "question": "Which file extension is used for a Microsoft PowerPoint presentation?",
+   "options": [
     ".pptx",
     ".rar",
     ".jpg",
     ".gif"
    ],
-   "a": 0,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Microsoft PowerPoint presentation uses the extension .pptx."
+   "answer": 0,
+   "explanation": "Microsoft PowerPoint presentation uses the extension .pptx.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0095",
-   "q": "What is the full form of ICAR?",
-   "o": [
+   "question": "What is the full form of ICAR?",
+   "options": [
     "Public Private Partnership",
     "Indian Council of Agricultural Research",
     "World Meteorological Organization",
     "International Maritime Organization"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "ICAR stands for Indian Council of Agricultural Research."
+   "answer": 1,
+   "explanation": "ICAR stands for Indian Council of Agricultural Research.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0096",
-   "q": "Which agreement or organisation is described as: Phasing out ozone depleting substances?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Phasing out ozone depleting substances?",
+   "options": [
     "Montreal Protocol",
     "Vienna Convention",
     "Ramsar Montreux Record",
     "Nagoya Protocol"
    ],
-   "a": 0,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Phasing out ozone depleting substances describes the Montreal Protocol."
+   "answer": 0,
+   "explanation": "Phasing out ozone depleting substances describes the Montreal Protocol.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0097",
-   "q": "Which pollutant is described as: Reduces oxygen carrying capacity of blood?",
-   "o": [
+   "question": "Which pollutant is described as: Reduces oxygen carrying capacity of blood?",
+   "options": [
     "Carbon monoxide",
     "Nitrate from fertilisers",
     "Phosphate detergents",
     "Particulate matter PM 2.5"
    ],
-   "a": 0,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Reduces oxygen carrying capacity of blood is linked to Carbon monoxide."
+   "answer": 0,
+   "explanation": "Reduces oxygen carrying capacity of blood is linked to Carbon monoxide.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0098",
-   "q": "Which biosphere reserve or wetland is located in Tamil Nadu, Kerala and Karnataka?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Tamil Nadu, Kerala and Karnataka?",
+   "options": [
     "Nilgiri Biosphere Reserve",
     "Keoladeo Ghana",
     "Wular Lake",
     "Cold Desert Biosphere Reserve"
    ],
-   "a": 0,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Nilgiri Biosphere Reserve is located in Tamil Nadu, Kerala and Karnataka."
+   "answer": 0,
+   "explanation": "Nilgiri Biosphere Reserve is located in Tamil Nadu, Kerala and Karnataka.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0099",
-   "q": "Which law or scheme is described as: Protection of wild animals and plants?",
-   "o": [
+   "question": "Which law or scheme is described as: Protection of wild animals and plants?",
+   "options": [
     "Project Tiger",
     "Swachh Bharat Mission",
     "Wildlife Protection Act 1972",
     "Water Act 1974"
    ],
-   "a": 2,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Protection of wild animals and plants refers to Wildlife Protection Act 1972."
+   "answer": 2,
+   "explanation": "Protection of wild animals and plants refers to Wildlife Protection Act 1972.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0100",
-   "q": "What is the capital of Jamaica?",
-   "o": [
+   "question": "What is the capital of Jamaica?",
+   "options": [
     "Kingston",
     "Vientiane",
     "Tokyo",
     "New Delhi"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Jamaica is Kingston."
+   "answer": 0,
+   "explanation": "The capital of Jamaica is Kingston.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0101",
-   "q": "Which element has the chemical symbol Rf?",
-   "o": [
+   "question": "Which element has the chemical symbol Rf?",
+   "options": [
     "Thulium",
     "Nitrogen",
     "Californium",
     "Rutherfordium"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Rf is the symbol of Rutherfordium."
+   "answer": 3,
+   "explanation": "Rf is the symbol of Rutherfordium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0102",
-   "q": "Thiruvananthapuram is the capital of which Indian state?",
-   "o": [
+   "question": "Thiruvananthapuram is the capital of which Indian state?",
+   "options": [
     "Arunachal Pradesh",
     "Kerala",
     "Manipur",
     "Karnataka"
    ],
-   "a": 1,
-   "t": "States and Capitals",
-   "l": 2,
-   "s": "generated",
-   "e": "Thiruvananthapuram is the capital of Kerala."
+   "answer": 1,
+   "explanation": "Thiruvananthapuram is the capital of Kerala.",
+   "topic": "States and Capitals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0103",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "National Song - Indian Elephant",
     "National Song - Indian Peacock",
     "National Song - Indian Rupee",
     "National Song - Vande Mataram"
    ],
-   "a": 3,
-   "t": "National Symbols",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Song - Vande Mataram is correctly matched."
+   "answer": 3,
+   "explanation": "Only National Song - Vande Mataram is correctly matched.",
+   "topic": "National Symbols",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0104",
-   "q": "Which of the following descriptions matches Reita Faria?",
-   "o": [
+   "question": "Which of the following descriptions matches Reita Faria?",
+   "options": [
     "First Indian to win a Nobel Prize",
     "First Indian Railway line started between",
     "First Indian to win the Miss Universe title",
     "First Indian to win the Miss World title"
    ],
-   "a": 3,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "Reita Faria is associated with: First Indian to win the Miss World title."
+   "answer": 3,
+   "explanation": "Reita Faria is associated with: First Indian to win the Miss World title.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0105",
-   "q": "Singhi Chham is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Singhi Chham is a folk or classical dance form of which state?",
+   "options": [
     "Uttar Pradesh",
     "Haryana",
     "Sikkim",
     "Assam"
    ],
-   "a": 2,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Singhi Chham belongs to Sikkim."
+   "answer": 2,
+   "explanation": "Singhi Chham belongs to Sikkim.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0106",
-   "q": "Baisakhi is a major festival of which state?",
-   "o": [
+   "question": "Baisakhi is a major festival of which state?",
+   "options": [
     "Nagaland",
     "West Bengal",
     "Punjab",
     "Rajasthan"
    ],
-   "a": 2,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Baisakhi is celebrated mainly in Punjab."
+   "answer": 2,
+   "explanation": "Baisakhi is celebrated mainly in Punjab.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0107",
-   "q": "Kudali is the origin of which river?",
-   "o": [
+   "question": "Kudali is the origin of which river?",
+   "options": [
     "Godavari",
     "Betwa",
     "Kosi",
     "Tungabhadra"
    ],
-   "a": 3,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Kudali is the origin of the river Tungabhadra."
+   "answer": 3,
+   "explanation": "Kudali is the origin of the river Tungabhadra.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0108",
-   "q": "Which of the following dams is built on the river Chenab?",
-   "o": [
+   "question": "Which of the following dams is built on the river Chenab?",
+   "options": [
     "Salal Dam",
     "Nagarjuna Sagar Dam",
     "Tehri Dam",
     "Dul Hasti Dam"
    ],
-   "a": 3,
-   "t": "Dams of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Dul Hasti Dam is built on the Chenab."
+   "answer": 3,
+   "explanation": "Dul Hasti Dam is built on the Chenab.",
+   "topic": "Dams of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0109",
-   "q": "Chilika Lake Sanctuary is located in which state?",
-   "o": [
+   "question": "Chilika Lake Sanctuary is located in which state?",
+   "options": [
     "Maharashtra",
     "Odisha",
     "Himachal Pradesh",
     "Mizoram"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Chilika Lake Sanctuary is located in Odisha."
+   "answer": 1,
+   "explanation": "Chilika Lake Sanctuary is located in Odisha.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0110",
-   "q": "Which of the following passes is located in Himachal Pradesh?",
-   "o": [
+   "question": "Which of the following passes is located in Himachal Pradesh?",
+   "options": [
     "Fotu La",
     "Rohtang Pass",
     "Mana Pass",
     "Baralacha La"
    ],
-   "a": 3,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Baralacha La is a pass in Himachal Pradesh."
+   "answer": 3,
+   "explanation": "Baralacha La is a pass in Himachal Pradesh.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0111",
-   "q": "Which physical quantity is measured in Joule per Kelvin?",
-   "o": [
+   "question": "Which physical quantity is measured in Joule per Kelvin?",
+   "options": [
     "Amount of substance",
     "Radioactivity",
     "Wave number",
     "Entropy"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Joule per Kelvin is the SI unit of Entropy."
+   "answer": 3,
+   "explanation": "Joule per Kelvin is the SI unit of Entropy.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0112",
-   "q": "Which instrument is used to measure Heart activity?",
-   "o": [
+   "question": "Which instrument is used to measure Heart activity?",
+   "options": [
     "Galvanometer",
     "Cardiograph",
     "Pyrometer",
     "Manometer"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Cardiograph is used to measure Heart activity."
+   "answer": 1,
+   "explanation": "Cardiograph is used to measure Heart activity.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0113",
-   "q": "What is the main function of the Thyroid gland in the human body?",
-   "o": [
+   "question": "What is the main function of the Thyroid gland in the human body?",
+   "options": [
     "Filtration of blood and urine formation",
     "Sensitive layer of the eye",
     "Secretion of thyroxine",
     "Secretion of adrenaline"
    ],
-   "a": 2,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Thyroid gland is responsible for Secretion of thyroxine."
+   "answer": 2,
+   "explanation": "The Thyroid gland is responsible for Secretion of thyroxine.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0114",
-   "q": "Which disease is caused by the deficiency of Vitamin B5?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Vitamin B5?",
+   "options": [
     "Dermatitis",
     "Excessive bleeding",
     "Paresthesia",
     "Anaemia"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B5 causes Paresthesia."
+   "answer": 2,
+   "explanation": "Deficiency of Vitamin B5 causes Paresthesia.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0115",
-   "q": "Which of the following causes Plague?",
-   "o": [
+   "question": "Which of the following causes Plague?",
+   "options": [
     "Salmonella typhi bacteria",
     "Measles virus",
     "Yersinia pestis bacteria",
     "Rabies virus"
    ],
-   "a": 2,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Plague is caused by Yersinia pestis bacteria."
+   "answer": 2,
+   "explanation": "Plague is caused by Yersinia pestis bacteria.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0116",
-   "q": "Who is credited with Bicycle?",
-   "o": [
+   "question": "Who is credited with Bicycle?",
+   "options": [
     "Rene Laennec",
     "Rudolf Diesel",
     "Karl Benz",
     "Karl von Drais"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Bicycle — Karl von Drais."
+   "answer": 3,
+   "explanation": "Bicycle — Karl von Drais.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0117",
-   "q": "What is the chemical name of Chloroform?",
-   "o": [
+   "question": "What is the chemical name of Chloroform?",
+   "options": [
     "Calcium carbonate (CaCO3)",
     "Trichloromethane (CHCl3)",
     "Potassium aluminium sulphate",
     "Potassium hydroxide (KOH)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Chloroform is Trichloromethane (CHCl3)."
+   "answer": 1,
+   "explanation": "Chloroform is Trichloromethane (CHCl3).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0118",
-   "q": "Which branch of science deals with Bacteria?",
-   "o": [
+   "question": "Which branch of science deals with Bacteria?",
+   "options": [
     "Mechanics",
     "Pisciculture",
     "Virology",
     "Bacteriology"
    ],
-   "a": 3,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Bacteriology deals with Bacteria."
+   "answer": 3,
+   "explanation": "Bacteriology deals with Bacteria.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0119",
-   "q": "Which of the following statements about Mars is correct?",
-   "o": [
+   "question": "Which of the following statements about Mars is correct?",
+   "options": [
     "Sixth",
     "Moon",
     "Asteroid",
     "Mars"
    ],
-   "a": 3,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Mars: Mars."
+   "answer": 3,
+   "explanation": "Mars: Mars.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0120",
-   "q": "Anders Celsius is known for which of the following?",
-   "o": [
+   "question": "Anders Celsius is known for which of the following?",
+   "options": [
     "Indian nuclear programme",
     "Genetic code",
     "Fahrenheit temperature scale",
     "Centigrade temperature scale"
    ],
-   "a": 3,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Anders Celsius is known for Centigrade temperature scale."
+   "answer": 3,
+   "explanation": "Anders Celsius is known for Centigrade temperature scale.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0121",
-   "q": "In which year did the following event take place: Liberation of Goa?",
-   "o": [
+   "question": "In which year did the following event take place: Liberation of Goa?",
+   "options": [
     "2001",
     "2023",
     "1929",
     "1961"
    ],
-   "a": 3,
-   "t": "Indian History Events",
-   "l": 2,
-   "s": "generated",
-   "e": "Liberation of Goa — 1961."
+   "answer": 3,
+   "explanation": "Liberation of Goa — 1961.",
+   "topic": "Indian History Events",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0122",
-   "q": "In which year did the following event take place: Adoption of the UN Sustainable Development Goals?",
-   "o": [
+   "question": "In which year did the following event take place: Adoption of the UN Sustainable Development Goals?",
+   "options": [
     "1929",
     "1949",
     "1953",
     "2015"
    ],
-   "a": 3,
-   "t": "World History Events",
-   "l": 2,
-   "s": "generated",
-   "e": "Adoption of the UN Sustainable Development Goals — 2015."
+   "answer": 3,
+   "explanation": "Adoption of the UN Sustainable Development Goals — 2015.",
+   "topic": "World History Events",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0123",
-   "q": "Pushyamitra Sunga founded which of the following?",
-   "o": [
+   "question": "Pushyamitra Sunga founded which of the following?",
+   "options": [
     "Chola Dynasty (imperial phase)",
     "Khilji Dynasty",
     "Tughlaq Dynasty",
     "Sunga Dynasty"
    ],
-   "a": 3,
-   "t": "Dynasties",
-   "l": 3,
-   "s": "generated",
-   "e": "Pushyamitra Sunga founded the Sunga Dynasty."
+   "answer": 3,
+   "explanation": "Pushyamitra Sunga founded the Sunga Dynasty.",
+   "topic": "Dynasties",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0124",
-   "q": "Which ruler is associated with the following: Twenty-fourth Tirthankara of Jainism?",
-   "o": [
+   "question": "Which ruler is associated with the following: Twenty-fourth Tirthankara of Jainism?",
+   "options": [
     "Harshavardhana",
     "Alauddin Khilji",
     "Gautama Buddha",
     "Mahavira"
    ],
-   "a": 3,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "Twenty-fourth Tirthankara of Jainism is associated with Mahavira."
+   "answer": 3,
+   "explanation": "Twenty-fourth Tirthankara of Jainism is associated with Mahavira.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0125",
-   "q": "Which freedom fighter is described as Founder-member of the HSRA?",
-   "o": [
+   "question": "Which freedom fighter is described as Founder-member of the HSRA?",
+   "options": [
     "Dadabhai Naoroji",
     "Gopal Krishna Gokhale",
     "Rash Behari Bose",
     "Bhagat Singh"
    ],
-   "a": 3,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "Founder-member of the HSRA refers to Bhagat Singh."
+   "answer": 3,
+   "explanation": "Founder-member of the HSRA refers to Bhagat Singh.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0126",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Champaran Satyagraha - 1946",
     "Champaran Satyagraha - 1917",
     "Champaran Satyagraha - 1920",
     "Champaran Satyagraha - 1928"
    ],
-   "a": 1,
-   "t": "National Movements",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Champaran Satyagraha - 1917 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Champaran Satyagraha - 1917 is correctly matched.",
+   "topic": "National Movements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0127",
-   "q": "Which part of the Constitution deals with: Right to Freedom?",
-   "o": [
+   "question": "Which part of the Constitution deals with: Right to Freedom?",
+   "options": [
     "Article 280",
     "Article 93",
     "Article 356",
     "Articles 19-22"
    ],
-   "a": 3,
-   "t": "Constitution Articles",
-   "l": 2,
-   "s": "generated",
-   "e": "Right to Freedom is covered under Articles 19-22."
+   "answer": 3,
+   "explanation": "Right to Freedom is covered under Articles 19-22.",
+   "topic": "Constitution Articles",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0128",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "73rd Amendment - 2019",
     "73rd Amendment - 1956",
     "73rd Amendment - 2003",
     "73rd Amendment - 1992"
    ],
-   "a": 3,
-   "t": "Constitutional Amendments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 73rd Amendment - 1992 is correctly matched."
+   "answer": 3,
+   "explanation": "Only 73rd Amendment - 1992 is correctly matched.",
+   "topic": "Constitutional Amendments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0129",
-   "q": "The contingency fund of India is maintained by?",
-   "o": [
+   "question": "The contingency fund of India is maintained by?",
+   "options": [
     "A Sovereign Socialist Secular Democratic Republic",
     "25 years",
     "The Chief Justice of India",
     "The President of India"
    ],
-   "a": 3,
-   "t": "Constitution Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "The contingency fund of India is maintained by — The President of India."
+   "answer": 3,
+   "explanation": "The contingency fund of India is maintained by — The President of India.",
+   "topic": "Constitution Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0130",
-   "q": "Which institution is described as: Regulator of the insurance sector?",
-   "o": [
+   "question": "Which institution is described as: Regulator of the insurance sector?",
+   "options": [
     "Supreme Court of India",
     "Municipality",
     "Telecom Regulatory Authority of India",
     "IRDAI"
    ],
-   "a": 3,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Regulator of the insurance sector describes IRDAI."
+   "answer": 3,
+   "explanation": "Regulator of the insurance sector describes IRDAI.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0131",
-   "q": "On which date is International Tea Day observed?",
-   "o": [
+   "question": "On which date is International Tea Day observed?",
+   "options": [
     "26 July",
     "21 May",
     "14 December",
     "20 June"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Tea Day is observed on 21 May."
+   "answer": 1,
+   "explanation": "International Tea Day is observed on 21 May.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0132",
-   "q": "Where is the headquarters of International Criminal Court?",
-   "o": [
+   "question": "Where is the headquarters of International Criminal Court?",
+   "options": [
     "Geneva",
     "The Hague",
     "Shanghai",
     "Vienna"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "International Criminal Court is headquartered at The Hague."
+   "answer": 1,
+   "explanation": "International Criminal Court is headquartered at The Hague.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0133",
-   "q": "Which sport uses teams of 6 players?",
-   "o": [
+   "question": "Which sport uses teams of 6 players?",
+   "options": [
     "Hockey",
     "Netball",
     "Basketball",
     "Ice hockey"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 6 players play Ice hockey."
+   "answer": 3,
+   "explanation": "Teams of 6 players play Ice hockey.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0134",
-   "q": "Aga Khan Cup is associated with which sport?",
-   "o": [
+   "question": "Aga Khan Cup is associated with which sport?",
+   "options": [
     "Football",
     "Hockey",
     "Tennis",
     "Cricket"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Aga Khan Cup is associated with Hockey."
+   "answer": 1,
+   "explanation": "Aga Khan Cup is associated with Hockey.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0135",
-   "q": "Borlaug Award is associated with which of the following?",
-   "o": [
+   "question": "Borlaug Award is associated with which of the following?",
+   "options": [
     "Highest award in Indian cinema",
     "Lifetime achievement in Indian sports",
     "American award for journalism and letters",
     "Indian award in agricultural science"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Borlaug Award — Indian award in agricultural science."
+   "answer": 3,
+   "explanation": "Borlaug Award — Indian award in agricultural science.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0136",
-   "q": "Who is the author of Gaban?",
-   "o": [
+   "question": "Who is the author of Gaban?",
+   "options": [
     "Munshi Premchand",
     "Karl Marx",
     "Shrilal Shukla",
     "Salman Rushdie"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Gaban is written by Munshi Premchand."
+   "answer": 0,
+   "explanation": "Gaban is written by Munshi Premchand.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0137",
-   "q": "Which of the following achievements belongs to Edmund Hillary?",
-   "o": [
+   "question": "Which of the following achievements belongs to Edmund Hillary?",
+   "options": [
     "First woman to climb Mount Everest",
     "First person to climb Mount Everest",
     "First person to reach the South Pole",
     "First Winter Olympic Games were held in"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First person to climb Mount Everest belongs to Edmund Hillary."
+   "answer": 1,
+   "explanation": "First person to climb Mount Everest belongs to Edmund Hillary.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0138",
-   "q": "Which Indian state has the longest coastline?",
-   "o": [
+   "question": "Which Indian state has the longest coastline?",
+   "options": [
     "Tropic of Cancer",
     "Jamshedpur",
     "Ganga",
     "Gujarat"
    ],
-   "a": 3,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 3,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0139",
-   "q": "Which port is known as the Queen of the Arabian Sea?",
-   "o": [
+   "question": "Which port is known as the Queen of the Arabian Sea?",
+   "options": [
     "Maharashtra",
     "Palk Strait",
     "Kochi",
     "Sahara Desert"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0140",
-   "q": "Which is the most abundant metal in the Earth's crust?",
-   "o": [
+   "question": "Which is the most abundant metal in the Earth's crust?",
+   "options": [
     "Jupiter",
     "Core",
     "Aluminium",
     "Lava"
    ],
-   "a": 2,
-   "t": "Climate and Atmosphere",
-   "l": 2,
-   "s": "generated",
-   "e": "Which is the most abundant metal in the Earth's crust — Aluminium."
+   "answer": 2,
+   "explanation": "Which is the most abundant metal in the Earth's crust — Aluminium.",
+   "topic": "Climate and Atmosphere",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0141",
-   "q": "Which of the following pairs of soil and feature is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of soil and feature is NOT correctly matched?",
+   "options": [
     "Desert soil - Sandy soil of arid regions",
     "Peaty soil - Formed in waterlogged areas with organic matter",
     "Laterite soil - Formed in waterlogged areas with organic matter",
     "Black soil - Also called regur, ideal for cotton"
    ],
-   "a": 2,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Laterite soil - Formed in waterlogged areas with organic matter is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Laterite soil - Formed in waterlogged areas with organic matter is not correctly matched.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0142",
-   "q": "Which mineral is found in large quantities in Rajasthan?",
-   "o": [
+   "question": "Which mineral is found in large quantities in Rajasthan?",
+   "options": [
     "Barytes",
     "Bauxite",
     "Copper",
     "Gypsum"
    ],
-   "a": 3,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Gypsum is found in Rajasthan."
+   "answer": 3,
+   "explanation": "Gypsum is found in Rajasthan.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0143",
-   "q": "Which is a direct tax in India?",
-   "o": [
+   "question": "Which is a direct tax in India?",
+   "options": [
     "Income inequality",
     "Income tax",
     "Open market operations",
     "Contingency Fund"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0144",
-   "q": "Choose the word most similar in meaning to Tantamount.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Tantamount.",
+   "options": [
     "Stubborn",
     "Recall",
     "Equivalent",
     "Clear"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Tantamount means Equivalent."
+   "answer": 2,
+   "explanation": "Tantamount means Equivalent.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0145",
-   "q": "Choose the word most opposite in meaning to Prodigal.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Prodigal.",
+   "options": [
     "Thrifty",
     "Virtuous",
     "Diminish",
     "Modest"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Prodigal is Thrifty."
+   "answer": 0,
+   "explanation": "The opposite of Prodigal is Thrifty.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0146",
-   "q": "What is the meaning of the idiom 'To turn a deaf ear'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'To turn a deaf ear'?",
+   "options": [
     "To ignore",
     "Study or work late into the night",
     "Reprimand",
     "A person without influence"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'To turn a deaf ear' means To ignore."
+   "answer": 0,
+   "explanation": "'To turn a deaf ear' means To ignore.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0147",
-   "q": "Choose the one word substitute for: One who is present everywhere",
-   "o": [
+   "question": "Choose the one word substitute for: One who is present everywhere",
+   "options": [
     "Teetotaller",
     "Omnipresent",
     "Perennials",
     "Hydrophobic"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "One who is present everywhere — Omnipresent."
+   "answer": 1,
+   "explanation": "One who is present everywhere — Omnipresent.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0148",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Friend",
     "Maintenance",
     "Category",
     "Changeable"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Category."
+   "answer": 2,
+   "explanation": "The correct spelling is Category.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0149",
-   "q": "What is the plural of Species?",
-   "o": [
+   "question": "What is the plural of Species?",
+   "options": [
     "Species",
     "Lives",
     "Teeth",
     "Lookers-on"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Species is Species."
+   "answer": 0,
+   "explanation": "The plural of Species is Species.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0150",
-   "q": "What is the feminine form of Bull?",
-   "o": [
+   "question": "What is the feminine form of Bull?",
+   "options": [
     "Widow",
     "Mother",
     "Cow",
     "Heroine"
    ],
-   "a": 2,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Bull is Cow."
+   "answer": 2,
+   "explanation": "The feminine of Bull is Cow.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0151",
-   "q": "What is the comparative degree of Weak?",
-   "o": [
+   "question": "What is the comparative degree of Weak?",
+   "options": [
     "Wider",
     "More important",
     "Wiser",
     "Weaker"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Weak — Weaker — Weakest."
+   "answer": 3,
+   "explanation": "Weak — Weaker — Weakest.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0152",
-   "q": "Fill in the blank with the correct preposition: She is aware ____ the problem.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: She is aware ____ the problem.",
+   "options": [
     "for",
     "from",
     "to",
     "of"
    ],
-   "a": 3,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'of'."
+   "answer": 3,
+   "explanation": "The correct preposition is 'of'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0153",
-   "q": "Which article is used before a vowel sound?",
-   "o": [
+   "question": "Which article is used before a vowel sound?",
+   "options": [
     "Fleet",
     "Information",
     "An",
     "She requested me to help her"
    ],
-   "a": 2,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 2,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0154",
-   "q": "Which countries form the Quad grouping?",
-   "o": [
+   "question": "Which countries form the Quad grouping?",
+   "options": [
     "United States of America",
     "National Green Hydrogen Mission",
     "India, United States, Japan and Australia",
     "Qatar"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0155",
-   "q": "The scheme FAME India Scheme was launched with which objective?",
-   "o": [
+   "question": "The scheme FAME India Scheme was launched with which objective?",
+   "options": [
     "Development of horticulture",
     "Promotion of electric and hybrid vehicles",
     "Soil testing and nutrient recommendations",
     "Extension of free LPG connections to migrant families"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "FAME India Scheme — Promotion of electric and hybrid vehicles."
+   "answer": 1,
+   "explanation": "FAME India Scheme — Promotion of electric and hybrid vehicles.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0156",
-   "q": "DIKSHA is associated with which of the following?",
-   "o": [
+   "question": "DIKSHA is associated with which of the following?",
+   "options": [
     "Cleanliness ranking of Indian cities",
     "Discovery of water molecules on the Moon",
     "Digital infrastructure for school education",
     "Conservation of Asiatic lions"
    ],
-   "a": 2,
-   "t": "Missions and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "DIKSHA — Digital infrastructure for school education."
+   "answer": 2,
+   "explanation": "DIKSHA — Digital infrastructure for school education.",
+   "topic": "Missions and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0157",
-   "q": "Cache is best described as which of the following?",
-   "o": [
+   "question": "Cache is best described as which of the following?",
+   "options": [
     "Procedural programming language",
     "Input device that captures video",
     "Temporary storage for frequently used data",
     "Organised collection of data"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Cache — Temporary storage for frequently used data."
+   "answer": 2,
+   "explanation": "Cache — Temporary storage for frequently used data.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0158",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + F - Find text in a document",
     "Ctrl + F - Close the current window",
     "Ctrl + F - Lock the computer",
     "Ctrl + F - Rename the selected item"
    ],
-   "a": 0,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + F - Find text in a document is correctly matched."
+   "answer": 0,
+   "explanation": "Only Ctrl + F - Find text in a document is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0159",
-   "q": "Which file extension is used for a Plain text file?",
-   "o": [
+   "question": "Which file extension is used for a Plain text file?",
+   "options": [
     ".csv",
     ".py",
     ".json",
     ".txt"
    ],
-   "a": 3,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Plain text file uses the extension .txt."
+   "answer": 3,
+   "explanation": "Plain text file uses the extension .txt.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0160",
-   "q": "What is the full form of NNP?",
-   "o": [
+   "question": "What is the full form of NNP?",
+   "options": [
     "Reserve Bank of India",
     "Magnetic Resonance Imaging",
     "Indian Space Research Organisation",
     "Net National Product"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "NNP stands for Net National Product."
+   "answer": 3,
+   "explanation": "NNP stands for Net National Product.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0161",
-   "q": "Which agreement or organisation is described as: Wetlands facing ecological change?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Wetlands facing ecological change?",
+   "options": [
     "Sendai Framework",
     "Ramsar Convention",
     "Basel Convention",
     "Ramsar Montreux Record"
    ],
-   "a": 3,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Wetlands facing ecological change describes the Ramsar Montreux Record."
+   "answer": 3,
+   "explanation": "Wetlands facing ecological change describes the Ramsar Montreux Record.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0162",
-   "q": "Which pollutant is described as: Cause algal blooms in water?",
-   "o": [
+   "question": "Which pollutant is described as: Cause algal blooms in water?",
+   "options": [
     "Noise above 85 decibels",
     "Carbon dioxide",
     "Methane",
     "Phosphate detergents"
    ],
-   "a": 3,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Cause algal blooms in water is linked to Phosphate detergents."
+   "answer": 3,
+   "explanation": "Cause algal blooms in water is linked to Phosphate detergents.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0163",
-   "q": "Which biosphere reserve or wetland is located in Jammu and Kashmir?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Jammu and Kashmir?",
+   "options": [
     "Chilika Lake",
     "Sundarbans Biosphere Reserve",
     "Simlipal Biosphere Reserve",
     "Wular Lake"
    ],
-   "a": 3,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Wular Lake is located in Jammu and Kashmir."
+   "answer": 3,
+   "explanation": "Wular Lake is located in Jammu and Kashmir.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0164",
-   "q": "Which of the following pairs of law and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of law and purpose is correctly matched?",
+   "options": [
     "Biological Diversity Act 2002 - Protection of ecologically fragile areas",
     "Biological Diversity Act 2002 - Eight missions on climate change",
     "Biological Diversity Act 2002 - Prevention of air pollution",
     "Biological Diversity Act 2002 - Conservation of biological diversity"
    ],
-   "a": 3,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Biological Diversity Act 2002 - Conservation of biological diversity is correctly matched."
+   "answer": 3,
+   "explanation": "Only Biological Diversity Act 2002 - Conservation of biological diversity is correctly matched.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0165",
-   "q": "What is the capital of Latvia?",
-   "o": [
+   "question": "What is the capital of Latvia?",
+   "options": [
     "Riga",
     "Pyongyang",
     "Tehran",
     "Brazzaville"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Latvia is Riga."
+   "answer": 0,
+   "explanation": "The capital of Latvia is Riga.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0166",
-   "q": "Which element has the chemical symbol La?",
-   "o": [
+   "question": "Which element has the chemical symbol La?",
+   "options": [
     "Lanthanum",
     "Zirconium",
     "Technetium",
     "Cobalt"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "La is the symbol of Lanthanum."
+   "answer": 0,
+   "explanation": "La is the symbol of Lanthanum.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0167",
-   "q": "Imphal is the capital of which Indian state?",
-   "o": [
+   "question": "Imphal is the capital of which Indian state?",
+   "options": [
     "Manipur",
     "Assam",
     "Madhya Pradesh",
     "Nagaland"
    ],
-   "a": 0,
-   "t": "States and Capitals",
-   "l": 2,
-   "s": "generated",
-   "e": "Imphal is the capital of Manipur."
+   "answer": 0,
+   "explanation": "Imphal is the capital of Manipur.",
+   "topic": "States and Capitals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0168",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "National Song - King Cobra",
     "National Song - Indian Peacock",
     "National Song - Vande Mataram",
     "National Song - Jana Gana Mana"
    ],
-   "a": 2,
-   "t": "National Symbols",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Song - Vande Mataram is correctly matched."
+   "answer": 2,
+   "explanation": "Only National Song - Vande Mataram is correctly matched.",
+   "topic": "National Symbols",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0169",
-   "q": "Which of the following descriptions matches Mother Teresa?",
-   "o": [
+   "question": "Which of the following descriptions matches Mother Teresa?",
+   "options": [
     "First Indian woman to climb Mount Everest",
     "First Indian to travel to space",
     "First woman to win a Nobel Prize in India",
     "First Indian Institute of Technology was set up at"
    ],
-   "a": 2,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "Mother Teresa is associated with: First woman to win a Nobel Prize in India."
+   "answer": 2,
+   "explanation": "Mother Teresa is associated with: First woman to win a Nobel Prize in India.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0170",
-   "q": "Ghoomar is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Ghoomar is a folk or classical dance form of which state?",
+   "options": [
     "Tamil Nadu",
     "Haryana",
     "Himachal Pradesh",
     "Rajasthan"
    ],
-   "a": 3,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Ghoomar belongs to Rajasthan."
+   "answer": 3,
+   "explanation": "Ghoomar belongs to Rajasthan.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0171",
-   "q": "Karam is a major festival of which state?",
-   "o": [
+   "question": "Karam is a major festival of which state?",
+   "options": [
     "Manipur",
     "Ladakh",
     "Jharkhand",
     "Madhya Pradesh"
    ],
-   "a": 2,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Karam is celebrated mainly in Jharkhand."
+   "answer": 2,
+   "explanation": "Karam is celebrated mainly in Jharkhand.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0172",
-   "q": "Mahabaleshwar is the origin of which river?",
-   "o": [
+   "question": "Mahabaleshwar is the origin of which river?",
+   "options": [
     "Kaveri",
     "Narmada",
     "Krishna",
     "Gomti"
    ],
-   "a": 2,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Mahabaleshwar is the origin of the river Krishna."
+   "answer": 2,
+   "explanation": "Mahabaleshwar is the origin of the river Krishna.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0173",
-   "q": "Which of the following dams is built on the river Narmada?",
-   "o": [
+   "question": "Which of the following dams is built on the river Narmada?",
+   "options": [
     "Bhavani Sagar Dam",
     "Mettur Dam",
     "Salal Dam",
     "Omkareshwar Dam"
    ],
-   "a": 3,
-   "t": "Dams of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Omkareshwar Dam is built on the Narmada."
+   "answer": 3,
+   "explanation": "Omkareshwar Dam is built on the Narmada.",
+   "topic": "Dams of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0174",
-   "q": "Sitanadi Wildlife Sanctuary is located in which state?",
-   "o": [
+   "question": "Sitanadi Wildlife Sanctuary is located in which state?",
+   "options": [
     "Bihar",
     "Rajasthan",
     "Chhattisgarh",
     "Mizoram"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Sitanadi Wildlife Sanctuary is located in Chhattisgarh."
+   "answer": 2,
+   "explanation": "Sitanadi Wildlife Sanctuary is located in Chhattisgarh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0175",
-   "q": "Which of the following passes is located in Arunachal Pradesh?",
-   "o": [
+   "question": "Which of the following passes is located in Arunachal Pradesh?",
+   "options": [
     "Khardung La",
     "Pangsau Pass",
     "Lipulekh Pass",
     "Araku Valley Pass"
    ],
-   "a": 1,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Pangsau Pass is a pass in Arunachal Pradesh."
+   "answer": 1,
+   "explanation": "Pangsau Pass is a pass in Arunachal Pradesh.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0176",
-   "q": "Which physical quantity is measured in Candela?",
-   "o": [
+   "question": "Which physical quantity is measured in Candela?",
+   "options": [
     "Pressure",
     "Force",
     "Luminous intensity",
     "Absorbed dose"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Candela is the SI unit of Luminous intensity."
+   "answer": 2,
+   "explanation": "Candela is the SI unit of Luminous intensity.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0177",
-   "q": "Which instrument is used to measure Magnified view of tiny objects?",
-   "o": [
+   "question": "Which instrument is used to measure Magnified view of tiny objects?",
+   "options": [
     "Manometer",
     "Altimeter",
     "Electrocardiogram machine",
     "Microscope"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Microscope is used to measure Magnified view of tiny objects."
+   "answer": 3,
+   "explanation": "Microscope is used to measure Magnified view of tiny objects.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0178",
-   "q": "What is the main function of the Aorta in the human body?",
-   "o": [
+   "question": "What is the main function of the Aorta in the human body?",
+   "options": [
     "Largest vein",
     "Largest artery",
     "Controls blood sugar",
     "Production of blood cells"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Aorta is responsible for Largest artery."
+   "answer": 1,
+   "explanation": "The Aorta is responsible for Largest artery.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0179",
-   "q": "Which disease is caused by the deficiency of Copper?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Copper?",
+   "options": [
     "Tooth decay",
     "Anaemia",
     "Beri Beri",
     "Anaemia and bone disorders"
    ],
-   "a": 3,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Copper causes Anaemia and bone disorders."
+   "answer": 3,
+   "explanation": "Deficiency of Copper causes Anaemia and bone disorders.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0180",
-   "q": "Which of the following causes Sleeping sickness?",
-   "o": [
+   "question": "Which of the following causes Sleeping sickness?",
+   "options": [
     "Yellow fever virus",
     "Trypanosoma brucei",
     "Neisseria meningitidis bacteria",
     "Influenza virus"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Sleeping sickness is caused by Trypanosoma brucei."
+   "answer": 1,
+   "explanation": "Sleeping sickness is caused by Trypanosoma brucei.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0181",
-   "q": "Who is credited with Diesel engine?",
-   "o": [
+   "question": "Who is credited with Diesel engine?",
+   "options": [
     "Tim Berners-Lee",
     "Alexander Fleming",
     "Charles Babbage",
     "Rudolf Diesel"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Diesel engine — Rudolf Diesel."
+   "answer": 3,
+   "explanation": "Diesel engine — Rudolf Diesel.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0182",
-   "q": "What is the chemical name of Bleaching powder?",
-   "o": [
+   "question": "What is the chemical name of Bleaching powder?",
+   "options": [
     "Potassium hydroxide (KOH)",
     "Zinc sulphate (ZnSO4.7H2O)",
     "Phenol (C6H5OH)",
     "Calcium oxychloride (CaOCl2)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Bleaching powder is Calcium oxychloride (CaOCl2)."
+   "answer": 3,
+   "explanation": "Bleaching powder is Calcium oxychloride (CaOCl2).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0183",
-   "q": "Which branch of science deals with Fish farming?",
-   "o": [
+   "question": "Which branch of science deals with Fish farming?",
+   "options": [
     "Cardiology",
     "Pathology",
     "Neurology",
     "Pisciculture"
    ],
-   "a": 3,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Pisciculture deals with Fish farming."
+   "answer": 3,
+   "explanation": "Pisciculture deals with Fish farming.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0184",
-   "q": "Which of the following statements about Moon is correct?",
-   "o": [
+   "question": "Which of the following statements about Moon is correct?",
+   "options": [
     "Moon",
     "Earth",
     "First",
     "Neptune"
    ],
-   "a": 0,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Moon: Moon."
+   "answer": 0,
+   "explanation": "Moon: Moon.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0185",
-   "q": "Har Gobind Khorana is known for which of the following?",
-   "o": [
+   "question": "Har Gobind Khorana is known for which of the following?",
+   "options": [
     "Wireless telegraphy",
     "Germ theory and pasteurisation",
     "Improvements to the steam engine",
     "Genetic code"
    ],
-   "a": 3,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Har Gobind Khorana is known for Genetic code."
+   "answer": 3,
+   "explanation": "Har Gobind Khorana is known for Genetic code.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0186",
-   "q": "In which year did the following event take place: Pokhran-I nuclear test (Smiling Buddha)?",
-   "o": [
+   "question": "In which year did the following event take place: Pokhran-I nuclear test (Smiling Buddha)?",
+   "options": [
     "2014",
     "1983",
     "1928",
     "1974"
    ],
-   "a": 3,
-   "t": "Indian History Events",
-   "l": 2,
-   "s": "generated",
-   "e": "Pokhran-I nuclear test (Smiling Buddha) — 1974."
+   "answer": 3,
+   "explanation": "Pokhran-I nuclear test (Smiling Buddha) — 1974.",
+   "topic": "Indian History Events",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0187",
-   "q": "In which year did the following event take place: American Declaration of Independence?",
-   "o": [
+   "question": "In which year did the following event take place: American Declaration of Independence?",
+   "options": [
     "1918",
     "1920",
     "1776",
     "1929"
    ],
-   "a": 2,
-   "t": "World History Events",
-   "l": 2,
-   "s": "generated",
-   "e": "American Declaration of Independence — 1776."
+   "answer": 2,
+   "explanation": "American Declaration of Independence — 1776.",
+   "topic": "World History Events",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0188",
-   "q": "Simhavarman founded which of the following?",
-   "o": [
+   "question": "Simhavarman founded which of the following?",
+   "options": [
     "Sikh Empire",
     "Lodi Dynasty",
     "Chola Dynasty (imperial phase)",
     "Pallava Dynasty"
    ],
-   "a": 3,
-   "t": "Dynasties",
-   "l": 3,
-   "s": "generated",
-   "e": "Simhavarman founded the Pallava Dynasty."
+   "answer": 3,
+   "explanation": "Simhavarman founded the Pallava Dynasty.",
+   "topic": "Dynasties",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0189",
-   "q": "Which ruler is associated with the following: Built the Brihadeeswarar Temple at Thanjavur?",
-   "o": [
+   "question": "Which ruler is associated with the following: Built the Brihadeeswarar Temple at Thanjavur?",
+   "options": [
     "Aurangzeb",
     "Krishnadevaraya",
     "Rajaraja Chola I",
     "Muhammad bin Tughlaq"
    ],
-   "a": 2,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "Built the Brihadeeswarar Temple at Thanjavur is associated with Rajaraja Chola I."
+   "answer": 2,
+   "explanation": "Built the Brihadeeswarar Temple at Thanjavur is associated with Rajaraja Chola I.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0190",
-   "q": "Which freedom fighter is described as First Prime Minister of India?",
-   "o": [
+   "question": "Which freedom fighter is described as First Prime Minister of India?",
+   "options": [
     "Chandrashekhar Azad",
     "Sardar Vallabhbhai Patel",
     "Jawaharlal Nehru",
     "Madan Mohan Malaviya"
    ],
-   "a": 2,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "First Prime Minister of India refers to Jawaharlal Nehru."
+   "answer": 2,
+   "explanation": "First Prime Minister of India refers to Jawaharlal Nehru.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0191",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Champaran Satyagraha - 1919",
     "Champaran Satyagraha - 1930",
     "Champaran Satyagraha - 1932",
     "Champaran Satyagraha - 1917"
    ],
-   "a": 3,
-   "t": "National Movements",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Champaran Satyagraha - 1917 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Champaran Satyagraha - 1917 is correctly matched.",
+   "topic": "National Movements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0192",
-   "q": "Which part of the Constitution deals with: Advocate General of a State?",
-   "o": [
+   "question": "Which part of the Constitution deals with: Advocate General of a State?",
+   "options": [
     "Article 165",
     "Articles 14-18",
     "Article 80",
     "Part I, Articles 1-4"
    ],
-   "a": 0,
-   "t": "Constitution Articles",
-   "l": 2,
-   "s": "generated",
-   "e": "Advocate General of a State is covered under Article 165."
+   "answer": 0,
+   "explanation": "Advocate General of a State is covered under Article 165.",
+   "topic": "Constitution Articles",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0193",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "73rd Amendment - 1956",
     "73rd Amendment - 1989",
     "73rd Amendment - 1992",
     "73rd Amendment - 2023"
    ],
-   "a": 2,
-   "t": "Constitutional Amendments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 73rd Amendment - 1992 is correctly matched."
+   "answer": 2,
+   "explanation": "Only 73rd Amendment - 1992 is correctly matched.",
+   "topic": "Constitutional Amendments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0194",
-   "q": "Number of Fundamental Duties?",
-   "o": [
+   "question": "Number of Fundamental Duties?",
+   "options": [
     "Japan",
     "Cabinet Mission Plan",
     "11",
     "A Sovereign Socialist Secular Democratic Republic"
    ],
-   "a": 2,
-   "t": "Constitution Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "Number of Fundamental Duties — 11."
+   "answer": 2,
+   "explanation": "Number of Fundamental Duties — 11.",
+   "topic": "Constitution Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0195",
-   "q": "Which institution is described as: Supervises elections to Parliament and State legislatures?",
-   "o": [
+   "question": "Which institution is described as: Supervises elections to Parliament and State legislatures?",
+   "options": [
     "NITI Aayog",
     "Comptroller and Auditor General",
     "Election Commission of India",
     "Zilla Parishad"
    ],
-   "a": 2,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Supervises elections to Parliament and State legislatures describes Election Commission of India."
+   "answer": 2,
+   "explanation": "Supervises elections to Parliament and State legislatures describes Election Commission of India.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0196",
-   "q": "On which date is National Science Day (India) observed?",
-   "o": [
+   "question": "On which date is National Science Day (India) observed?",
+   "options": [
     "4 January",
     "28 February",
     "11 December",
     "15 August"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "National Science Day (India) is observed on 28 February."
+   "answer": 1,
+   "explanation": "National Science Day (India) is observed on 28 February.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0197",
-   "q": "Where is the headquarters of SAARC?",
-   "o": [
+   "question": "Where is the headquarters of SAARC?",
+   "options": [
     "Washington, D.C.",
     "Vienna",
     "Bern",
     "Kathmandu"
    ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "SAARC is headquartered at Kathmandu."
+   "answer": 3,
+   "explanation": "SAARC is headquartered at Kathmandu.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0198",
-   "q": "Which sport uses teams of 7 players?",
-   "o": [
+   "question": "Which sport uses teams of 7 players?",
+   "options": [
     "Rugby union",
     "Netball",
     "Throwball",
     "Handball"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 7 players play Netball."
+   "answer": 1,
+   "explanation": "Teams of 7 players play Netball.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0199",
-   "q": "Ranji Trophy is associated with which sport?",
-   "o": [
+   "question": "Ranji Trophy is associated with which sport?",
+   "options": [
     "Hockey",
     "Badminton",
     "Football",
     "Cricket"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Ranji Trophy is associated with Cricket."
+   "answer": 3,
+   "explanation": "Ranji Trophy is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0200",
-   "q": "Padma Shri is associated with which of the following?",
-   "o": [
+   "question": "Padma Shri is associated with which of the following?",
+   "options": [
     "Fourth highest civilian award of India",
     "Asian award for public service",
     "British award for fiction",
     "International award for Physics, Chemistry, Medicine, Literature, Peace and Economics"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Padma Shri — Fourth highest civilian award of India."
+   "answer": 0,
+   "explanation": "Padma Shri — Fourth highest civilian award of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0201",
-   "q": "Who is the author of The Communist Manifesto?",
-   "o": [
+   "question": "Who is the author of The Communist Manifesto?",
+   "options": [
     "William Shakespeare",
     "Kalidasa",
     "Karl Marx and Friedrich Engels",
     "Rabindranath Tagore"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "The Communist Manifesto is written by Karl Marx and Friedrich Engels."
+   "answer": 2,
+   "explanation": "The Communist Manifesto is written by Karl Marx and Friedrich Engels.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0202",
-   "q": "Which of the following achievements belongs to Rabindranath Tagore?",
-   "o": [
+   "question": "Which of the following achievements belongs to Rabindranath Tagore?",
+   "options": [
     "First Asian to win a Nobel Prize",
     "First person to run a mile in under four minutes",
     "First Indian to win a Nobel Prize",
     "First person to reach the South Pole"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First Indian to win a Nobel Prize belongs to Rabindranath Tagore."
+   "answer": 2,
+   "explanation": "First Indian to win a Nobel Prize belongs to Rabindranath Tagore.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0203",
-   "q": "Which country is known as the Land of Thunder Dragon?",
-   "o": [
+   "question": "Which country is known as the Land of Thunder Dragon?",
+   "options": [
     "Russia",
     "India",
     "Bhutan",
     "Sahara Desert"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0204",
-   "q": "Where are the Pyramids of Giza located?",
-   "o": [
+   "question": "Where are the Pyramids of Giza located?",
+   "options": [
     "Jodhpur",
     "Egypt",
     "Philippines",
     "Yangtze"
    ],
-   "a": 1,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 1,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0205",
-   "q": "Season of the south-west monsoon in India?",
-   "o": [
+   "question": "Season of the south-west monsoon in India?",
+   "options": [
     "Aluminium",
     "October to December",
     "Mawsynram",
     "June to September"
    ],
-   "a": 3,
-   "t": "Climate and Atmosphere",
-   "l": 2,
-   "s": "generated",
-   "e": "Season of the south-west monsoon in India — June to September."
+   "answer": 3,
+   "explanation": "Season of the south-west monsoon in India — June to September.",
+   "topic": "Climate and Atmosphere",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0206",
-   "q": "Which of the following pairs of soil and feature is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of soil and feature is NOT correctly matched?",
+   "options": [
     "Peaty soil - Most fertile soil, found in the northern plains",
     "Red soil - Formed from crystalline rocks, rich in iron",
     "Mountain soil - Found in hilly and forest regions",
     "Saline soil - Contains excess salt, found in dry coastal areas"
    ],
-   "a": 0,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Peaty soil - Most fertile soil, found in the northern plains is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Peaty soil - Most fertile soil, found in the northern plains is not correctly matched.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0207",
-   "q": "Which mineral is found in large quantities in Rajasthan?",
-   "o": [
+   "question": "Which mineral is found in large quantities in Rajasthan?",
+   "options": [
     "Uranium",
     "Gold",
     "Barytes",
     "Rock phosphate"
    ],
-   "a": 3,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Rock phosphate is found in Rajasthan."
+   "answer": 3,
+   "explanation": "Rock phosphate is found in Rajasthan.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0208",
-   "q": "Which is the insurance company set up by the Government of India in 1956?",
-   "o": [
+   "question": "Which is the insurance company set up by the Government of India in 1956?",
+   "options": [
     "1955",
     "Life Insurance Corporation of India",
     "Central Board of Indirect Taxes and Customs",
     "Deposit insurance"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0209",
-   "q": "Choose the word most similar in meaning to Relinquish.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Relinquish.",
+   "options": [
     "Abandon",
     "Useless",
     "Weak",
     "Reject"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Relinquish means Abandon."
+   "answer": 0,
+   "explanation": "Relinquish means Abandon.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0210",
-   "q": "Choose the word most opposite in meaning to Frugal.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Frugal.",
+   "options": [
     "Frequent",
     "Definite",
     "Virtuous",
     "Extravagant"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Frugal is Extravagant."
+   "answer": 3,
+   "explanation": "The opposite of Frugal is Extravagant.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0211",
-   "q": "What is the meaning of the idiom 'A gala day'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'A gala day'?",
+   "options": [
     "Of the required standard",
     "Take a subordinate role",
     "Lose one's temper suddenly",
     "A day of festivity"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'A gala day' means A day of festivity."
+   "answer": 3,
+   "explanation": "'A gala day' means A day of festivity.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0212",
-   "q": "Choose the one word substitute for: A person who takes care of books in a library",
-   "o": [
+   "question": "Choose the one word substitute for: A person who takes care of books in a library",
+   "options": [
     "Somnambulist",
     "Ascetic",
     "Librarian",
     "Astronomer"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "A person who takes care of books in a library — Librarian."
+   "answer": 2,
+   "explanation": "A person who takes care of books in a library — Librarian.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0213",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Accessible",
     "Independent",
     "Humorous",
     "Perseverance"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Accessible."
+   "answer": 0,
+   "explanation": "The correct spelling is Accessible.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0214",
-   "q": "What is the plural of Zoo?",
-   "o": [
+   "question": "What is the plural of Zoo?",
+   "options": [
     "Sheep",
     "Photos",
     "Zoos",
     "Potatoes"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Zoo is Zoos."
+   "answer": 2,
+   "explanation": "The plural of Zoo is Zoos.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0215",
-   "q": "What is the feminine form of Lord?",
-   "o": [
+   "question": "What is the feminine form of Lord?",
+   "options": [
     "Lady",
     "Mare",
     "Woman",
     "Leopardess"
    ],
-   "a": 0,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Lord is Lady."
+   "answer": 0,
+   "explanation": "The feminine of Lord is Lady.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0216",
-   "q": "What is the comparative degree of Important?",
-   "o": [
+   "question": "What is the comparative degree of Important?",
+   "options": [
     "Cleverer",
     "Heavier",
     "Gentler",
     "More important"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Important — More important — Most important."
+   "answer": 3,
+   "explanation": "Important — More important — Most important.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0217",
-   "q": "Fill in the blank with the correct preposition: This is a departure ____ the rule.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: This is a departure ____ the rule.",
+   "options": [
     "for",
     "to",
     "in",
     "from"
    ],
-   "a": 3,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'from'."
+   "answer": 3,
+   "explanation": "The correct preposition is 'from'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0218",
-   "q": "What is the tense of 'The sun rises in the east'?",
-   "o": [
+   "question": "What is the tense of 'The sun rises in the east'?",
+   "options": [
     "Phrase",
     "Simple present",
     "Admission",
     "Begun"
    ],
-   "a": 1,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 1,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0219",
-   "q": "Which tiger census is conducted every four years in India?",
-   "o": [
+   "question": "Which tiger census is conducted every four years in India?",
+   "options": [
     "Smart Cities Mission",
     "Atmanirbhar Bharat Abhiyan",
     "All India Tiger Estimation",
     "Kolkata"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0220",
-   "q": "The scheme Mission Shakti was launched with which objective?",
-   "o": [
+   "question": "The scheme Mission Shakti was launched with which objective?",
+   "options": [
     "Building a semiconductor ecosystem in India",
     "Safety and empowerment of women",
     "Free food grains to the poor",
     "Online national agriculture market for farmers"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Mission Shakti — Safety and empowerment of women."
+   "answer": 1,
+   "explanation": "Mission Shakti — Safety and empowerment of women.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0221",
-   "q": "Navic-1 is associated with which of the following?",
-   "o": [
+   "question": "Navic-1 is associated with which of the following?",
+   "options": [
     "Regional navigation satellite",
     "Free online courses platform",
     "Lunar orbiter studying the Moon",
     "Urban water supply and sewerage improvement"
    ],
-   "a": 0,
-   "t": "Missions and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Navic-1 — Regional navigation satellite."
+   "answer": 0,
+   "explanation": "Navic-1 — Regional navigation satellite.",
+   "topic": "Missions and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0222",
-   "q": "Multitasking is best described as which of the following?",
-   "o": [
+   "question": "Multitasking is best described as which of the following?",
+   "options": [
     "Input device that captures video",
     "Magnetic secondary storage device",
     "Running several tasks at the same time",
     "Human readable name of a website"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Multitasking — Running several tasks at the same time."
+   "answer": 2,
+   "explanation": "Multitasking — Running several tasks at the same time.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0223",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Windows + E - Capture the screen",
     "Windows + E - Open File Explorer",
     "Windows + E - Open Task Manager",
     "Windows + E - Close the active program"
    ],
-   "a": 1,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Windows + E - Open File Explorer is correctly matched."
+   "answer": 1,
+   "explanation": "Only Windows + E - Open File Explorer is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0224",
-   "q": "Which file extension is used for a Web page file?",
-   "o": [
+   "question": "Which file extension is used for a Web page file?",
+   "options": [
     ".html",
     ".pdf",
     ".xlsx",
     ".xml"
    ],
-   "a": 0,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Web page file uses the extension .html."
+   "answer": 0,
+   "explanation": "Web page file uses the extension .html.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0225",
-   "q": "What is the full form of NCC?",
-   "o": [
+   "question": "What is the full form of NCC?",
+   "options": [
     "Food and Agriculture Organization",
     "Indian Military Academy",
     "National Eligibility Test",
     "National Cadet Corps"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "NCC stands for National Cadet Corps."
+   "answer": 3,
+   "explanation": "NCC stands for National Cadet Corps.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0226",
-   "q": "Which agreement or organisation is described as: Conservation of wild tigers?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Conservation of wild tigers?",
+   "options": [
     "UN Framework Convention on Climate Change",
     "Minamata Convention",
     "Sendai Framework",
     "Global Tiger Initiative"
    ],
-   "a": 3,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Conservation of wild tigers describes the Global Tiger Initiative."
+   "answer": 3,
+   "explanation": "Conservation of wild tigers describes the Global Tiger Initiative.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0227",
-   "q": "Which pollutant is described as: Raises water temperature and harms aquatic life?",
-   "o": [
+   "question": "Which pollutant is described as: Raises water temperature and harms aquatic life?",
+   "options": [
     "Fluoride",
     "Lead",
     "Noise above 85 decibels",
     "Thermal discharge from power plants"
    ],
-   "a": 3,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Raises water temperature and harms aquatic life is linked to Thermal discharge from power plants."
+   "answer": 3,
+   "explanation": "Raises water temperature and harms aquatic life is linked to Thermal discharge from power plants.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0228",
-   "q": "Which biosphere reserve or wetland is located in Rajasthan?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Rajasthan?",
+   "options": [
     "Kanchenjunga Biosphere Reserve",
     "Achanakmar Amarkantak Biosphere Reserve",
     "Chilika Lake",
     "Sambhar Lake"
    ],
-   "a": 3,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Sambhar Lake is located in Rajasthan."
+   "answer": 3,
+   "explanation": "Sambhar Lake is located in Rajasthan.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0229",
-   "q": "Which of the following pairs of law and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of law and purpose is correctly matched?",
+   "options": [
     "Biological Diversity Act 2002 - Funds for afforestation in lieu of diverted forest",
     "Biological Diversity Act 2002 - Prevention of air pollution",
     "Biological Diversity Act 2002 - Adjudication of environmental disputes",
     "Biological Diversity Act 2002 - Conservation of biological diversity"
    ],
-   "a": 3,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Biological Diversity Act 2002 - Conservation of biological diversity is correctly matched."
+   "answer": 3,
+   "explanation": "Only Biological Diversity Act 2002 - Conservation of biological diversity is correctly matched.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0230",
-   "q": "What is the capital of Cameroon?",
-   "o": [
+   "question": "What is the capital of Cameroon?",
+   "options": [
     "Phnom Penh",
     "Minsk",
     "Yaounde",
     "Brazzaville"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Cameroon is Yaounde."
+   "answer": 2,
+   "explanation": "The capital of Cameroon is Yaounde.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0231",
-   "q": "Which element has the chemical symbol F?",
-   "o": [
+   "question": "Which element has the chemical symbol F?",
+   "options": [
     "Fluorine",
     "Nitrogen",
     "Thallium",
     "Carbon"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "F is the symbol of Fluorine."
+   "answer": 0,
+   "explanation": "F is the symbol of Fluorine.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0232",
-   "q": "Mumbai is the capital of which Indian state?",
-   "o": [
+   "question": "Mumbai is the capital of which Indian state?",
+   "options": [
     "Uttar Pradesh",
     "Nagaland",
     "Andhra Pradesh",
     "Maharashtra"
    ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 2,
-   "s": "generated",
-   "e": "Mumbai is the capital of Maharashtra."
+   "answer": 3,
+   "explanation": "Mumbai is the capital of Maharashtra.",
+   "topic": "States and Capitals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0233",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "National Bird - Jana Gana Mana",
     "National Bird - Ganga",
     "National Bird - Indian Rupee",
     "National Bird - Indian Peacock"
    ],
-   "a": 3,
-   "t": "National Symbols",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Bird - Indian Peacock is correctly matched."
+   "answer": 3,
+   "explanation": "Only National Bird - Indian Peacock is correctly matched.",
+   "topic": "National Symbols",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0234",
-   "q": "Which of the following descriptions matches Mihir Sen?",
-   "o": [
+   "question": "Which of the following descriptions matches Mihir Sen?",
+   "options": [
     "First Indian to swim across the English Channel",
     "First Indian to win a Grand Slam in tennis",
     "First Indian woman IPS officer",
     "First Indian to win an individual Olympic gold"
    ],
-   "a": 0,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "Mihir Sen is associated with: First Indian to swim across the English Channel."
+   "answer": 0,
+   "explanation": "Mihir Sen is associated with: First Indian to swim across the English Channel.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0235",
-   "q": "Giddha is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Giddha is a folk or classical dance form of which state?",
+   "options": [
     "Assam",
     "Punjab",
     "Haryana",
     "Uttar Pradesh"
    ],
-   "a": 1,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Giddha belongs to Punjab."
+   "answer": 1,
+   "explanation": "Giddha belongs to Punjab.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0236",
-   "q": "Which of the following festivals is associated with Arunachal Pradesh?",
-   "o": [
+   "question": "Which of the following festivals is associated with Arunachal Pradesh?",
+   "options": [
     "Pushkar Fair",
     "Bhagoria",
     "Cheiraoba",
     "Myoko"
    ],
-   "a": 3,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Myoko is associated with Arunachal Pradesh."
+   "answer": 3,
+   "explanation": "Myoko is associated with Arunachal Pradesh.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0237",
-   "q": "Bhimashankar is the origin of which river?",
-   "o": [
+   "question": "Bhimashankar is the origin of which river?",
+   "options": [
     "Bhima",
     "Damodar",
     "Penna",
     "Sabarmati"
    ],
-   "a": 0,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Bhimashankar is the origin of the river Bhima."
+   "answer": 0,
+   "explanation": "Bhimashankar is the origin of the river Bhima.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0238",
-   "q": "Which of the following dams is built on the river Bhagirathi?",
-   "o": [
+   "question": "Which of the following dams is built on the river Bhagirathi?",
+   "options": [
     "Tehri Dam",
     "Farakka Barrage",
     "Baglihar Dam",
     "Maithon Dam"
    ],
-   "a": 0,
-   "t": "Dams of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Tehri Dam is built on the Bhagirathi."
+   "answer": 0,
+   "explanation": "Tehri Dam is built on the Bhagirathi.",
+   "topic": "Dams of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0239",
-   "q": "Khangchendzonga National Park is located in which state?",
-   "o": [
+   "question": "Khangchendzonga National Park is located in which state?",
+   "options": [
     "Uttarakhand",
     "Himachal Pradesh",
     "Madhya Pradesh",
     "Sikkim"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Khangchendzonga National Park is located in Sikkim."
+   "answer": 3,
+   "explanation": "Khangchendzonga National Park is located in Sikkim.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0240",
-   "q": "Which of the following passes is located in Uttarakhand?",
-   "o": [
+   "question": "Which of the following passes is located in Uttarakhand?",
+   "options": [
     "Mana Pass",
     "Rohtang Pass",
     "Zoji La",
     "Shencottah Gap"
    ],
-   "a": 0,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Mana Pass is a pass in Uttarakhand."
+   "answer": 0,
+   "explanation": "Mana Pass is a pass in Uttarakhand.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0241",
-   "q": "Which physical quantity is measured in Pascal second?",
-   "o": [
+   "question": "Which physical quantity is measured in Pascal second?",
+   "options": [
     "Viscosity (dynamic)",
     "Capacitance",
     "Solid angle",
     "Electrical conductance"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Pascal second is the SI unit of Viscosity (dynamic)."
+   "answer": 0,
+   "explanation": "Pascal second is the SI unit of Viscosity (dynamic).",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0242",
-   "q": "Which instrument is used to measure Wind speed?",
-   "o": [
+   "question": "Which instrument is used to measure Wind speed?",
+   "options": [
     "Pyrometer",
     "Anemometer",
     "Voltmeter",
     "Viscometer"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Anemometer is used to measure Wind speed."
+   "answer": 1,
+   "explanation": "Anemometer is used to measure Wind speed.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0243",
-   "q": "What is the main function of the Kidneys in the human body?",
-   "o": [
+   "question": "What is the main function of the Kidneys in the human body?",
+   "options": [
     "Exchange of oxygen and carbon dioxide",
     "Filtration of blood and urine formation",
     "Production of eggs",
     "Secretion of adrenaline"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Kidneys is responsible for Filtration of blood and urine formation."
+   "answer": 1,
+   "explanation": "The Kidneys is responsible for Filtration of blood and urine formation.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0244",
-   "q": "Which disease is caused by the deficiency of Zinc?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Zinc?",
+   "options": [
     "Growth retardation",
     "Haemolysis of red blood cells",
     "Anaemia and bone disorders",
     "Osteoporosis"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Zinc causes Growth retardation."
+   "answer": 0,
+   "explanation": "Deficiency of Zinc causes Growth retardation.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0245",
-   "q": "Which of the following causes Typhoid?",
-   "o": [
+   "question": "Which of the following causes Typhoid?",
+   "options": [
     "Human Immunodeficiency Virus",
     "Salmonella typhi bacteria",
     "Treponema pallidum bacteria",
     "Rabies virus"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Typhoid is caused by Salmonella typhi bacteria."
+   "answer": 1,
+   "explanation": "Typhoid is caused by Salmonella typhi bacteria.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0246",
-   "q": "Who is credited with Microscope?",
-   "o": [
+   "question": "Who is credited with Microscope?",
+   "options": [
     "Thomas Alva Edison",
     "Michael Faraday",
     "Antonie van Leeuwenhoek",
     "Gregor Mendel"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Microscope — Antonie van Leeuwenhoek."
+   "answer": 2,
+   "explanation": "Microscope — Antonie van Leeuwenhoek.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0247",
-   "q": "What is the chemical name of Lime water?",
-   "o": [
+   "question": "What is the chemical name of Lime water?",
+   "options": [
     "Potassium aluminium sulphate",
     "Calcium hydroxide (Ca(OH)2)",
     "Calcium carbonate (CaCO3)",
     "Sulphuric acid (H2SO4)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Lime water is Calcium hydroxide (Ca(OH)2)."
+   "answer": 1,
+   "explanation": "Lime water is Calcium hydroxide (Ca(OH)2).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0248",
-   "q": "Which branch of science deals with Fungi?",
-   "o": [
+   "question": "Which branch of science deals with Fungi?",
+   "options": [
     "Biology",
     "Sericulture",
     "Mycology",
     "Seismology"
    ],
-   "a": 2,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Mycology deals with Fungi."
+   "answer": 2,
+   "explanation": "Mycology deals with Fungi.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0249",
-   "q": "Which of the following statements about Comet is correct?",
-   "o": [
+   "question": "Which of the following statements about Comet is correct?",
+   "options": [
     "Asteroid",
     "Astronomical unit",
     "Comet",
     "Fourth"
    ],
-   "a": 2,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Comet: Comet."
+   "answer": 2,
+   "explanation": "Comet: Comet.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0250",
-   "q": "Daniel Bernoulli is known for which of the following?",
-   "o": [
+   "question": "Daniel Bernoulli is known for which of the following?",
+   "options": [
     "Laws of falling bodies and telescope studies",
     "Ornithology in India",
     "Kinetic theory of gases",
     "Father of modern chemistry"
    ],
-   "a": 2,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Daniel Bernoulli is known for Kinetic theory of gases."
+   "answer": 2,
+   "explanation": "Daniel Bernoulli is known for Kinetic theory of gases.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0251",
-   "q": "In which year did the following event take place: National Emergency declared in India?",
-   "o": [
+   "question": "In which year did the following event take place: National Emergency declared in India?",
+   "options": [
     "1905",
     "2008",
     "1961",
     "1975"
    ],
-   "a": 3,
-   "t": "Indian History Events",
-   "l": 2,
-   "s": "generated",
-   "e": "National Emergency declared in India — 1975."
+   "answer": 3,
+   "explanation": "National Emergency declared in India — 1975.",
+   "topic": "Indian History Events",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0252",
-   "q": "In which year did the following event take place: Defeat of the Spanish Armada?",
-   "o": [
+   "question": "In which year did the following event take place: Defeat of the Spanish Armada?",
+   "options": [
     "1648",
     "1995",
     "1991",
     "1588"
    ],
-   "a": 3,
-   "t": "World History Events",
-   "l": 2,
-   "s": "generated",
-   "e": "Defeat of the Spanish Armada — 1588."
+   "answer": 3,
+   "explanation": "Defeat of the Spanish Armada — 1588.",
+   "topic": "World History Events",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0253",
-   "q": "Ghiyas-ud-din Tughlaq founded which of the following?",
-   "o": [
+   "question": "Ghiyas-ud-din Tughlaq founded which of the following?",
+   "options": [
     "Tughlaq Dynasty",
     "Pala Dynasty",
     "Kushana Empire",
     "Vijayanagara Empire"
    ],
-   "a": 0,
-   "t": "Dynasties",
-   "l": 3,
-   "s": "generated",
-   "e": "Ghiyas-ud-din Tughlaq founded the Tughlaq Dynasty."
+   "answer": 0,
+   "explanation": "Ghiyas-ud-din Tughlaq founded the Tughlaq Dynasty.",
+   "topic": "Dynasties",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0254",
-   "q": "Which ruler is associated with the following: Founder of Sikhism?",
-   "o": [
+   "question": "Which ruler is associated with the following: Founder of Sikhism?",
+   "options": [
     "Guru Nanak",
     "Hyder Ali",
     "Humayun",
     "Tipu Sultan"
    ],
-   "a": 0,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "Founder of Sikhism is associated with Guru Nanak."
+   "answer": 0,
+   "explanation": "Founder of Sikhism is associated with Guru Nanak.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0255",
-   "q": "Which freedom fighter is described as Author of Vande Mataram?",
-   "o": [
+   "question": "Which freedom fighter is described as Author of Vande Mataram?",
+   "options": [
     "Bankim Chandra Chatterjee",
     "Nana Saheb",
     "Jayaprakash Narayan",
     "Tatya Tope"
    ],
-   "a": 0,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "Author of Vande Mataram refers to Bankim Chandra Chatterjee."
+   "answer": 0,
+   "explanation": "Author of Vande Mataram refers to Bankim Chandra Chatterjee.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0256",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Non-Cooperation Movement - 1919",
     "Non-Cooperation Movement - 1928",
     "Non-Cooperation Movement - 1920",
     "Non-Cooperation Movement - 1930"
    ],
-   "a": 2,
-   "t": "National Movements",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Non-Cooperation Movement - 1920 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Non-Cooperation Movement - 1920 is correctly matched.",
+   "topic": "National Movements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0257",
-   "q": "Which part of the Constitution deals with: Cultural and Educational Rights?",
-   "o": [
+   "question": "Which part of the Constitution deals with: Cultural and Educational Rights?",
+   "options": [
     "Articles 29-30",
     "Article 17",
     "Article 324",
     "Article 356"
    ],
-   "a": 0,
-   "t": "Constitution Articles",
-   "l": 2,
-   "s": "generated",
-   "e": "Cultural and Educational Rights is covered under Articles 29-30."
+   "answer": 0,
+   "explanation": "Cultural and Educational Rights is covered under Articles 29-30.",
+   "topic": "Constitution Articles",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0258",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Seventh Amendment - 1956",
     "Seventh Amendment - 1992",
     "Seventh Amendment - 2016",
     "Seventh Amendment - 1989"
    ],
-   "a": 0,
-   "t": "Constitutional Amendments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Seventh Amendment - 1956 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Seventh Amendment - 1956 is correctly matched.",
+   "topic": "Constitutional Amendments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0259",
-   "q": "Constitutional advisor to the Constituent Assembly?",
-   "o": [
+   "question": "Constitutional advisor to the Constituent Assembly?",
+   "options": [
     "25",
     "Kesavananda Bharati case (1973)",
     "Special status of Jammu and Kashmir",
     "B. N. Rau"
    ],
-   "a": 3,
-   "t": "Constitution Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "Constitutional advisor to the Constituent Assembly — B. N. Rau."
+   "answer": 3,
+   "explanation": "Constitutional advisor to the Constituent Assembly — B. N. Rau.",
+   "topic": "Constitution Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0260",
-   "q": "Which institution is described as: Regulator of the securities market?",
-   "o": [
+   "question": "Which institution is described as: Regulator of the securities market?",
+   "options": [
     "SEBI",
     "Governor",
     "NITI Aayog Vice Chairman",
     "Chief Justice of India"
    ],
-   "a": 0,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Regulator of the securities market describes SEBI."
+   "answer": 0,
+   "explanation": "Regulator of the securities market describes SEBI.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0261",
-   "q": "On which date is United Nations Day for South-South Cooperation observed?",
-   "o": [
+   "question": "On which date is United Nations Day for South-South Cooperation observed?",
+   "options": [
     "10 January",
     "12 September",
     "17 November",
     "1 June"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "United Nations Day for South-South Cooperation is observed on 12 September."
+   "answer": 1,
+   "explanation": "United Nations Day for South-South Cooperation is observed on 12 September.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0262",
-   "q": "Where is the headquarters of World Food Programme?",
-   "o": [
+   "question": "Where is the headquarters of World Food Programme?",
+   "options": [
     "The Hague",
     "Rome",
     "Geneva",
     "Kathmandu"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "World Food Programme is headquartered at Rome."
+   "answer": 1,
+   "explanation": "World Food Programme is headquartered at Rome.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0263",
-   "q": "Which sport uses teams of 1 players?",
-   "o": [
+   "question": "Which sport uses teams of 1 players?",
+   "options": [
     "Handball",
     "Kho Kho",
     "Table tennis (singles)",
     "Badminton (doubles)"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 1 players play Table tennis (singles)."
+   "answer": 2,
+   "explanation": "Teams of 1 players play Table tennis (singles).",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0264",
-   "q": "Nehru Cup is associated with which sport?",
-   "o": [
+   "question": "Nehru Cup is associated with which sport?",
+   "options": [
     "Football",
     "Tennis",
     "Badminton",
     "Cricket"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Nehru Cup is associated with Football."
+   "answer": 0,
+   "explanation": "Nehru Cup is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0265",
-   "q": "Dada Saheb Phalke Award is associated with which of the following?",
-   "o": [
+   "question": "Dada Saheb Phalke Award is associated with which of the following?",
+   "options": [
     "Indian award in science and technology",
     "Lifetime achievement in Indian sports",
     "Highest award in Indian cinema",
     "International award for Physics, Chemistry, Medicine, Literature, Peace and Economics"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Dada Saheb Phalke Award — Highest award in Indian cinema."
+   "answer": 2,
+   "explanation": "Dada Saheb Phalke Award — Highest award in Indian cinema.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0266",
-   "q": "Who is the author of The Divine Comedy?",
-   "o": [
+   "question": "Who is the author of The Divine Comedy?",
+   "options": [
     "Nelson Mandela",
     "Rabindranath Tagore",
     "Karl Marx and Friedrich Engels",
     "Dante Alighieri"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "The Divine Comedy is written by Dante Alighieri."
+   "answer": 3,
+   "explanation": "The Divine Comedy is written by Dante Alighieri.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0267",
-   "q": "Which of the following achievements belongs to Yuri Gagarin?",
-   "o": [
+   "question": "Which of the following achievements belongs to Yuri Gagarin?",
+   "options": [
     "First country to send a human into space",
     "First woman to fly solo across the Atlantic",
     "First human in space",
     "First FIFA World Cup was held in"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First human in space belongs to Yuri Gagarin."
+   "answer": 2,
+   "explanation": "First human in space belongs to Yuri Gagarin.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0268",
-   "q": "Which line of longitude is at zero degrees?",
-   "o": [
+   "question": "Which line of longitude is at zero degrees?",
+   "options": [
     "Mariana Trench",
     "Prime Meridian",
     "Andes",
     "Arunachal Pradesh"
    ],
-   "a": 1,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 1,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0269",
-   "q": "Which river is called the Sorrow of Bihar?",
-   "o": [
+   "question": "Which river is called the Sorrow of Bihar?",
+   "options": [
     "Paris",
     "Mumbai",
     "Peru",
     "Kosi"
    ],
-   "a": 3,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 3,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0270",
-   "q": "Which is the most abundant element in the Earth's crust?",
-   "o": [
+   "question": "Which is the most abundant element in the Earth's crust?",
+   "options": [
     "Jaisalmer",
     "Mawsynram",
     "June to September",
     "Oxygen"
    ],
-   "a": 3,
-   "t": "Climate and Atmosphere",
-   "l": 2,
-   "s": "generated",
-   "e": "Which is the most abundant element in the Earth's crust — Oxygen."
+   "answer": 3,
+   "explanation": "Which is the most abundant element in the Earth's crust — Oxygen.",
+   "topic": "Climate and Atmosphere",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0271",
-   "q": "Which of the following pairs of soil and feature is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of soil and feature is NOT correctly matched?",
+   "options": [
     "Peaty soil - Formed in waterlogged areas with organic matter",
     "Mountain soil - Found in hilly and forest regions",
     "Black soil - Also called regur, ideal for cotton",
     "Desert soil - Also called regur, ideal for cotton"
    ],
-   "a": 3,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Desert soil - Also called regur, ideal for cotton is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Desert soil - Also called regur, ideal for cotton is not correctly matched.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0272",
-   "q": "Which mineral is found in large quantities in Rajasthan?",
-   "o": [
+   "question": "Which mineral is found in large quantities in Rajasthan?",
+   "options": [
     "Copper",
     "Diamond",
     "Graphite",
     "Petroleum"
    ],
-   "a": 0,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Copper is found in Rajasthan."
+   "answer": 0,
+   "explanation": "Copper is found in Rajasthan.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0273",
-   "q": "What is the highest GST slab rate in India?",
-   "o": [
+   "question": "What is the highest GST slab rate in India?",
+   "options": [
     "Small finance bank",
     "28 per cent",
     "International Development Association",
     "US Dollar"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0274",
-   "q": "Choose the word most similar in meaning to Hypocrisy.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Hypocrisy.",
+   "options": [
     "Thorough",
     "Pretence",
     "Absurd",
     "Wealthy"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Hypocrisy means Pretence."
+   "answer": 1,
+   "explanation": "Hypocrisy means Pretence.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0275",
-   "q": "Choose the word most opposite in meaning to Haughty.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Haughty.",
+   "options": [
     "Humble",
     "Active",
     "Satisfied",
     "Serious"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Haughty is Humble."
+   "answer": 0,
+   "explanation": "The opposite of Haughty is Humble.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0276",
-   "q": "What is the meaning of the idiom 'Kick the bucket'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Kick the bucket'?",
+   "options": [
     "Reprimand",
     "Die",
     "Deceive",
     "A hint of future events"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Kick the bucket' means Die."
+   "answer": 1,
+   "explanation": "'Kick the bucket' means Die.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0277",
-   "q": "Choose the one word substitute for: One who is unable to pay his debts",
-   "o": [
+   "question": "Choose the one word substitute for: One who is unable to pay his debts",
+   "options": [
     "Ascetic",
     "Drunkard",
     "Entomologist",
     "Insolvent"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "One who is unable to pay his debts — Insolvent."
+   "answer": 3,
+   "explanation": "One who is unable to pay his debts — Insolvent.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0278",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Unforeseen",
     "Truly",
     "Acquiesce",
     "Adolescent"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Unforeseen."
+   "answer": 0,
+   "explanation": "The correct spelling is Unforeseen.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0279",
-   "q": "What is the plural of Volcano?",
-   "o": [
+   "question": "What is the plural of Volcano?",
+   "options": [
     "Volcanoes",
     "Men",
     "Foci",
     "Analyses"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Volcano is Volcanoes."
+   "answer": 0,
+   "explanation": "The plural of Volcano is Volcanoes.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0280",
-   "q": "What is the feminine form of Baron?",
-   "o": [
+   "question": "What is the feminine form of Baron?",
+   "options": [
     "Waitress",
     "Baroness",
     "Sow",
     "Duck"
    ],
-   "a": 1,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Baron is Baroness."
+   "answer": 1,
+   "explanation": "The feminine of Baron is Baroness.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0281",
-   "q": "What is the comparative degree of Strong?",
-   "o": [
+   "question": "What is the comparative degree of Strong?",
+   "options": [
     "Taller",
     "More intelligent",
     "Stronger",
     "Later"
    ],
-   "a": 2,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Strong — Stronger — Strongest."
+   "answer": 2,
+   "explanation": "Strong — Stronger — Strongest.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0282",
-   "q": "Fill in the blank with the correct preposition: He is capable ____ doing this work.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: He is capable ____ doing this work.",
+   "options": [
     "from",
     "for",
     "of",
     "on"
    ],
-   "a": 2,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'of'."
+   "answer": 2,
+   "explanation": "The correct preposition is 'of'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0283",
-   "q": "What is a sentence with one main clause and one subordinate clause called?",
-   "o": [
+   "question": "What is a sentence with one main clause and one subordinate clause called?",
+   "options": [
     "Fleet",
     "Or",
     "Complex sentence",
     "Compound sentence"
    ],
-   "a": 2,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 2,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0284",
-   "q": "Which Indian mission promotes green hydrogen?",
-   "o": [
+   "question": "Which Indian mission promotes green hydrogen?",
+   "options": [
     "National River Linking Project",
     "National Green Hydrogen Mission",
     "M. S. Dhoni",
     "CoWIN"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0285",
-   "q": "The scheme e-NAM was launched with which objective?",
-   "o": [
+   "question": "The scheme e-NAM was launched with which objective?",
+   "options": [
     "Integrated infrastructure planning platform",
     "Free LPG connections to women from poor households",
     "Income support of six thousand rupees to small farmers",
     "Online national agriculture market for farmers"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "e-NAM — Online national agriculture market for farmers."
+   "answer": 3,
+   "explanation": "e-NAM — Online national agriculture market for farmers.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0286",
-   "q": "INSAT is associated with which of the following?",
-   "o": [
+   "question": "INSAT is associated with which of the following?",
+   "options": [
     "Global cooperation on solar energy",
     "Communication and weather satellites",
     "Electric vehicle promotion",
     "Electronic delivery of government services"
    ],
-   "a": 1,
-   "t": "Missions and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "INSAT — Communication and weather satellites."
+   "answer": 1,
+   "explanation": "INSAT — Communication and weather satellites.",
+   "topic": "Missions and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0287",
-   "q": "RAM is best described as which of the following?",
-   "o": [
+   "question": "RAM is best described as which of the following?",
+   "options": [
     "Interface that accepts typed commands",
     "Data storage on remote internet servers",
     "Output device that produces sound",
     "Volatile main memory used for running programs"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "RAM — Volatile main memory used for running programs."
+   "answer": 3,
+   "explanation": "RAM — Volatile main memory used for running programs.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0288",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Windows + E - Open File Explorer",
     "Windows + E - Open an existing file",
     "Windows + E - Open Task Manager",
     "Windows + E - Switch between open windows"
    ],
-   "a": 0,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Windows + E - Open File Explorer is correctly matched."
+   "answer": 0,
+   "explanation": "Only Windows + E - Open File Explorer is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0289",
-   "q": "Which file extension is used for a JavaScript file?",
-   "o": [
+   "question": "Which file extension is used for a JavaScript file?",
+   "options": [
     ".docx",
     ".js",
     ".pptx",
     ".exe"
    ],
-   "a": 1,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "JavaScript file uses the extension .js."
+   "answer": 1,
+   "explanation": "JavaScript file uses the extension .js.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0290",
-   "q": "What is the full form of SEBI?",
-   "o": [
+   "question": "What is the full form of SEBI?",
+   "options": [
     "Securities and Exchange Board of India",
     "Small Industries Development Bank of India",
     "Real Time Gross Settlement",
     "Organization of the Petroleum Exporting Countries"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "SEBI stands for Securities and Exchange Board of India."
+   "answer": 0,
+   "explanation": "SEBI stands for Securities and Exchange Board of India.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0291",
-   "q": "Which agreement or organisation is described as: Control of transboundary movement of hazardous waste?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Control of transboundary movement of hazardous waste?",
+   "options": [
     "Basel Convention",
     "Kigali Amendment",
     "Vienna Convention",
     "Nagoya Protocol"
    ],
-   "a": 0,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Control of transboundary movement of hazardous waste describes the Basel Convention."
+   "answer": 0,
+   "explanation": "Control of transboundary movement of hazardous waste describes the Basel Convention.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0292",
-   "q": "Which pollutant is described as: Potent greenhouse gas from livestock and paddy fields?",
-   "o": [
+   "question": "Which pollutant is described as: Potent greenhouse gas from livestock and paddy fields?",
+   "options": [
     "Methane",
     "Oil spills",
     "Nitrate from fertilisers",
     "Particulate matter PM 2.5"
    ],
-   "a": 0,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Potent greenhouse gas from livestock and paddy fields is linked to Methane."
+   "answer": 0,
+   "explanation": "Potent greenhouse gas from livestock and paddy fields is linked to Methane.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0293",
-   "q": "Which biosphere reserve or wetland is located in Odisha?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Odisha?",
+   "options": [
     "Simlipal Biosphere Reserve",
     "Panna Biosphere Reserve",
     "Keoladeo Ghana",
     "Cold Desert Biosphere Reserve"
    ],
-   "a": 0,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Simlipal Biosphere Reserve is located in Odisha."
+   "answer": 0,
+   "explanation": "Simlipal Biosphere Reserve is located in Odisha.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0294",
-   "q": "Which of the following pairs of law and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of law and purpose is correctly matched?",
+   "options": [
     "Eco Sensitive Zone notification - Control of diversion of forest land",
     "Eco Sensitive Zone notification - Protection of ecologically fragile areas",
     "Eco Sensitive Zone notification - Prevention of air pollution",
     "Eco Sensitive Zone notification - Funds for afforestation in lieu of diverted forest"
    ],
-   "a": 1,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Eco Sensitive Zone notification - Protection of ecologically fragile areas is correctly matched."
+   "answer": 1,
+   "explanation": "Only Eco Sensitive Zone notification - Protection of ecologically fragile areas is correctly matched.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0295",
-   "q": "What is the capital of Ethiopia?",
-   "o": [
+   "question": "What is the capital of Ethiopia?",
+   "options": [
     "Addis Ababa",
     "Honiara",
     "Accra",
     "Djibouti"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Ethiopia is Addis Ababa."
+   "answer": 0,
+   "explanation": "The capital of Ethiopia is Addis Ababa.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0296",
-   "q": "Which element has the chemical symbol Lr?",
-   "o": [
+   "question": "Which element has the chemical symbol Lr?",
+   "options": [
     "Ytterbium",
     "Livermorium",
     "Sulphur",
     "Lawrencium"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Lr is the symbol of Lawrencium."
+   "answer": 3,
+   "explanation": "Lr is the symbol of Lawrencium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0297",
-   "q": "Raipur is the capital of which Indian state?",
-   "o": [
+   "question": "Raipur is the capital of which Indian state?",
+   "options": [
     "Rajasthan",
     "Bihar",
     "Nagaland",
     "Chhattisgarh"
    ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 2,
-   "s": "generated",
-   "e": "Raipur is the capital of Chhattisgarh."
+   "answer": 3,
+   "explanation": "Raipur is the capital of Chhattisgarh.",
+   "topic": "States and Capitals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0298",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "National Bird - Mango",
     "National Bird - Lotus",
     "National Bird - Ganga",
     "National Bird - Indian Peacock"
    ],
-   "a": 3,
-   "t": "National Symbols",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Bird - Indian Peacock is correctly matched."
+   "answer": 3,
+   "explanation": "Only National Bird - Indian Peacock is correctly matched.",
+   "topic": "National Symbols",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0299",
-   "q": "Which of the following descriptions matches Sucheta Kripalani?",
-   "o": [
+   "question": "Which of the following descriptions matches Sucheta Kripalani?",
+   "options": [
     "First Indian Governor-General of India",
     "First Indian woman to win an Olympic medal",
     "First Indian satellite launched",
     "First woman Chief Minister in India"
    ],
-   "a": 3,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "Sucheta Kripalani is associated with: First woman Chief Minister in India."
+   "answer": 3,
+   "explanation": "Sucheta Kripalani is associated with: First woman Chief Minister in India.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0300",
-   "q": "Bhavai is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Bhavai is a folk or classical dance form of which state?",
+   "options": [
     "Gujarat",
     "Kerala",
     "Nagaland",
     "Punjab"
    ],
-   "a": 0,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Bhavai belongs to Gujarat."
+   "answer": 0,
+   "explanation": "Bhavai belongs to Gujarat.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0301",
-   "q": "Which of the following festivals is associated with Rajasthan?",
-   "o": [
+   "question": "Which of the following festivals is associated with Rajasthan?",
+   "options": [
     "Khajuraho Dance Festival",
     "Hemis Festival",
     "Ratha Yatra",
     "Teej"
    ],
-   "a": 3,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Teej is associated with Rajasthan."
+   "answer": 3,
+   "explanation": "Teej is associated with Rajasthan.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0302",
-   "q": "Janapav Hill is the origin of which river?",
-   "o": [
+   "question": "Janapav Hill is the origin of which river?",
+   "options": [
     "Ravi",
     "Ghaghara",
     "Alaknanda",
     "Chambal"
    ],
-   "a": 3,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Janapav Hill is the origin of the river Chambal."
+   "answer": 3,
+   "explanation": "Janapav Hill is the origin of the river Chambal.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0303",
-   "q": "Which of the following dams is built on the river Narmada?",
-   "o": [
+   "question": "Which of the following dams is built on the river Narmada?",
+   "options": [
     "Srisailam Dam",
     "Idukki Dam",
     "Tehri Dam",
     "Indira Sagar Dam"
    ],
-   "a": 3,
-   "t": "Dams of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Indira Sagar Dam is built on the Narmada."
+   "answer": 3,
+   "explanation": "Indira Sagar Dam is built on the Narmada.",
+   "topic": "Dams of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0304",
-   "q": "Mukandra Hills Tiger Reserve is located in which state?",
-   "o": [
+   "question": "Mukandra Hills Tiger Reserve is located in which state?",
+   "options": [
     "West Bengal",
     "Odisha",
     "Rajasthan",
     "Meghalaya"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Mukandra Hills Tiger Reserve is located in Rajasthan."
+   "answer": 2,
+   "explanation": "Mukandra Hills Tiger Reserve is located in Rajasthan.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0305",
-   "q": "Which of the following passes is located in Kerala?",
-   "o": [
+   "question": "Which of the following passes is located in Kerala?",
+   "options": [
     "Palakkad Gap",
     "Banihal Pass",
     "Bhor Ghat",
     "Shencottah Gap"
    ],
-   "a": 0,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Palakkad Gap is a pass in Kerala."
+   "answer": 0,
+   "explanation": "Palakkad Gap is a pass in Kerala.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0306",
-   "q": "Which physical quantity is measured in Henry?",
-   "o": [
+   "question": "Which physical quantity is measured in Henry?",
+   "options": [
     "Electric charge",
     "Magnetic flux",
     "Luminous flux",
     "Inductance"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Henry is the SI unit of Inductance."
+   "answer": 3,
+   "explanation": "Henry is the SI unit of Inductance.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0307",
-   "q": "Which instrument is used to measure Rotational speed?",
-   "o": [
+   "question": "Which instrument is used to measure Rotational speed?",
+   "options": [
     "Altimeter",
     "Polygraph",
     "Calorimeter",
     "Tachometer"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Tachometer is used to measure Rotational speed."
+   "answer": 3,
+   "explanation": "Tachometer is used to measure Rotational speed.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0308",
-   "q": "Which body part performs the function of Transmission of nerve impulses?",
-   "o": [
+   "question": "Which body part performs the function of Transmission of nerve impulses?",
+   "options": [
     "Neurons",
     "Villi",
     "Pituitary gland",
     "Pancreas"
    ],
-   "a": 0,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Transmission of nerve impulses is performed by the Neurons."
+   "answer": 0,
+   "explanation": "Transmission of nerve impulses is performed by the Neurons.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0309",
-   "q": "Which disease is caused by the deficiency of Vitamin B7?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Vitamin B7?",
+   "options": [
     "Night blindness",
     "Muscle weakness",
     "Haemolysis of red blood cells",
     "Dermatitis"
    ],
-   "a": 3,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B7 causes Dermatitis."
+   "answer": 3,
+   "explanation": "Deficiency of Vitamin B7 causes Dermatitis.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0310",
-   "q": "Hepatitis B virus causes which of the following diseases?",
-   "o": [
+   "question": "Hepatitis B virus causes which of the following diseases?",
+   "options": [
     "Hepatitis B",
     "Scabies",
     "Anthrax",
     "Diphtheria"
    ],
-   "a": 0,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Hepatitis B virus causes Hepatitis B."
+   "answer": 0,
+   "explanation": "Hepatitis B virus causes Hepatitis B.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0311",
-   "q": "Who is credited with Oxygen?",
-   "o": [
+   "question": "Who is credited with Oxygen?",
+   "options": [
     "James Young Simpson",
     "John Logie Baird",
     "Henry Cavendish",
     "Joseph Priestley"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Oxygen — Joseph Priestley."
+   "answer": 3,
+   "explanation": "Oxygen — Joseph Priestley.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0312",
-   "q": "What is the chemical name of Salt cake?",
-   "o": [
+   "question": "What is the chemical name of Salt cake?",
+   "options": [
     "Zinc sulphate (ZnSO4.7H2O)",
     "Hydrated magnesium silicate",
     "Acetylsalicylic acid",
     "Sodium sulphate (Na2SO4)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Salt cake is Sodium sulphate (Na2SO4)."
+   "answer": 3,
+   "explanation": "Salt cake is Sodium sulphate (Na2SO4).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0313",
-   "q": "Which branch of science deals with Coins?",
-   "o": [
+   "question": "Which branch of science deals with Coins?",
+   "options": [
     "Etymology",
     "Botany",
     "Nuclear physics",
     "Numismatics"
    ],
-   "a": 3,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Numismatics deals with Coins."
+   "answer": 3,
+   "explanation": "Numismatics deals with Coins.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0314",
-   "q": "Which of the following statements about Ceres is correct?",
-   "o": [
+   "question": "Which of the following statements about Ceres is correct?",
+   "options": [
     "Seventh",
     "Nebula",
     "Ceres",
     "Fifth"
    ],
-   "a": 2,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Ceres: Ceres."
+   "answer": 2,
+   "explanation": "Ceres: Ceres.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0315",
-   "q": "Jagadish Chandra Bose is known for which of the following?",
-   "o": [
+   "question": "Jagadish Chandra Bose is known for which of the following?",
+   "options": [
     "Palaeobotany in India",
     "Heliocentric model of the Solar System",
     "Missile and space launch technology",
     "Plant physiology and radio waves"
    ],
-   "a": 3,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Jagadish Chandra Bose is known for Plant physiology and radio waves."
+   "answer": 3,
+   "explanation": "Jagadish Chandra Bose is known for Plant physiology and radio waves.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0316",
-   "q": "In which year did the following event take place: Chandrayaan-3 soft landing near the lunar south pole?",
-   "o": [
+   "question": "In which year did the following event take place: Chandrayaan-3 soft landing near the lunar south pole?",
+   "options": [
     "1946",
     "2019",
     "1975",
     "2023"
    ],
-   "a": 3,
-   "t": "Indian History Events",
-   "l": 2,
-   "s": "generated",
-   "e": "Chandrayaan-3 soft landing near the lunar south pole — 2023."
+   "answer": 3,
+   "explanation": "Chandrayaan-3 soft landing near the lunar south pole — 2023.",
+   "topic": "Indian History Events",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0317",
-   "q": "In which year did the following event take place: Atomic bombing of Hiroshima and Nagasaki?",
-   "o": [
+   "question": "In which year did the following event take place: Atomic bombing of Hiroshima and Nagasaki?",
+   "options": [
     "1945",
     "1848",
     "1863",
     "1914"
    ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 2,
-   "s": "generated",
-   "e": "Atomic bombing of Hiroshima and Nagasaki — 1945."
+   "answer": 0,
+   "explanation": "Atomic bombing of Hiroshima and Nagasaki — 1945.",
+   "topic": "World History Events",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0318",
-   "q": "Simuka founded which of the following?",
-   "o": [
+   "question": "Simuka founded which of the following?",
+   "options": [
     "Ahom Kingdom",
     "Maratha Empire",
     "Tughlaq Dynasty",
     "Satavahana Dynasty"
    ],
-   "a": 3,
-   "t": "Dynasties",
-   "l": 3,
-   "s": "generated",
-   "e": "Simuka founded the Satavahana Dynasty."
+   "answer": 3,
+   "explanation": "Simuka founded the Satavahana Dynasty.",
+   "topic": "Dynasties",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0319",
-   "q": "Which ruler is associated with the following: Introduced the Grand Trunk Road and the Rupiya?",
-   "o": [
+   "question": "Which ruler is associated with the following: Introduced the Grand Trunk Road and the Rupiya?",
+   "options": [
     "Shivaji",
     "Rani Lakshmibai",
     "Firoz Shah Tughlaq",
     "Sher Shah Suri"
    ],
-   "a": 3,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "Introduced the Grand Trunk Road and the Rupiya is associated with Sher Shah Suri."
+   "answer": 3,
+   "explanation": "Introduced the Grand Trunk Road and the Rupiya is associated with Sher Shah Suri.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0320",
-   "q": "Which freedom fighter is described as Founder of the Home Rule League with Tilak?",
-   "o": [
+   "question": "Which freedom fighter is described as Founder of the Home Rule League with Tilak?",
+   "options": [
     "Sukhdev",
     "Begum Hazrat Mahal",
     "Maulana Abul Kalam Azad",
     "Annie Besant"
    ],
-   "a": 3,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "Founder of the Home Rule League with Tilak refers to Annie Besant."
+   "answer": 3,
+   "explanation": "Founder of the Home Rule League with Tilak refers to Annie Besant.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0321",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Non-Cooperation Movement - 1920",
     "Non-Cooperation Movement - 1932",
     "Non-Cooperation Movement - 1947",
     "Non-Cooperation Movement - 1930"
    ],
-   "a": 0,
-   "t": "National Movements",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Non-Cooperation Movement - 1920 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Non-Cooperation Movement - 1920 is correctly matched.",
+   "topic": "National Movements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0322",
-   "q": "Which part of the Constitution deals with: The State Government?",
-   "o": [
+   "question": "Which part of the Constitution deals with: The State Government?",
+   "options": [
     "Part VI, Articles 152-237",
     "Article 80",
     "Part II, Articles 5-11",
     "Article 54"
    ],
-   "a": 0,
-   "t": "Constitution Articles",
-   "l": 2,
-   "s": "generated",
-   "e": "The State Government is covered under Part VI, Articles 152-237."
+   "answer": 0,
+   "explanation": "The State Government is covered under Part VI, Articles 152-237.",
+   "topic": "Constitution Articles",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0323",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Seventh Amendment - 1976",
     "Seventh Amendment - 2023",
     "Seventh Amendment - 1985",
     "Seventh Amendment - 1956"
    ],
-   "a": 3,
-   "t": "Constitutional Amendments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Seventh Amendment - 1956 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Seventh Amendment - 1956 is correctly matched.",
+   "topic": "Constitutional Amendments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0324",
-   "q": "Term of the President of India?",
-   "o": [
+   "question": "Term of the President of India?",
+   "options": [
     "5 years",
     "Land reform laws protected from judicial review",
     "Powers of Municipalities",
     "Australia"
    ],
-   "a": 0,
-   "t": "Constitution Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "Term of the President of India — 5 years."
+   "answer": 0,
+   "explanation": "Term of the President of India — 5 years.",
+   "topic": "Constitution Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0325",
-   "q": "Which institution is described as: Local self-government at the village level?",
-   "o": [
+   "question": "Which institution is described as: Local self-government at the village level?",
+   "options": [
     "Central Vigilance Commission",
     "Chief Minister",
     "Union Territories",
     "Panchayat"
    ],
-   "a": 3,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Local self-government at the village level describes Panchayat."
+   "answer": 3,
+   "explanation": "Local self-government at the village level describes Panchayat.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0326",
-   "q": "On which date is World Milk Day observed?",
-   "o": [
+   "question": "On which date is World Milk Day observed?",
+   "options": [
     "21 May",
     "10 December",
     "12 September",
     "1 June"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Milk Day is observed on 1 June."
+   "answer": 3,
+   "explanation": "World Milk Day is observed on 1 June.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0327",
-   "q": "Where is the headquarters of International Labour Organization headquarters city?",
-   "o": [
+   "question": "Where is the headquarters of International Labour Organization headquarters city?",
+   "options": [
     "Jakarta",
     "Paris",
     "Lyon",
     "Geneva"
    ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "International Labour Organization headquarters city is headquartered at Geneva."
+   "answer": 3,
+   "explanation": "International Labour Organization headquarters city is headquartered at Geneva.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0328",
-   "q": "Which sport uses teams of 9 players?",
-   "o": [
+   "question": "Which sport uses teams of 9 players?",
+   "options": [
     "Handball",
     "Rugby union",
     "Kho Kho",
     "Table tennis (singles)"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 9 players play Kho Kho."
+   "answer": 2,
+   "explanation": "Teams of 9 players play Kho Kho.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0329",
-   "q": "Nobel Prize is associated with which of the following?",
-   "o": [
+   "question": "Nobel Prize is associated with which of the following?",
+   "options": [
     "Indian award for research",
     "Highest peacetime gallantry award of India",
     "American award for music",
     "International award for Physics, Chemistry, Medicine, Literature, Peace and Economics"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Nobel Prize — International award for Physics, Chemistry, Medicine, Literature, Peace and Economics."
+   "answer": 3,
+   "explanation": "Nobel Prize — International award for Physics, Chemistry, Medicine, Literature, Peace and Economics.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0330",
-   "q": "Who is the author of Ignited Minds?",
-   "o": [
+   "question": "Who is the author of Ignited Minds?",
+   "options": [
     "Charles Dickens",
     "A. P. J. Abdul Kalam",
     "Jonathan Swift",
     "Helen Keller"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Ignited Minds is written by A. P. J. Abdul Kalam."
+   "answer": 1,
+   "explanation": "Ignited Minds is written by A. P. J. Abdul Kalam.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0331",
-   "q": "Which of the following achievements belongs to Neil Armstrong?",
-   "o": [
+   "question": "Which of the following achievements belongs to Neil Armstrong?",
+   "options": [
     "First person to sail solo around the world",
     "First person to run a mile in under four minutes",
     "First human in space",
     "First person to walk on the Moon"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First person to walk on the Moon belongs to Neil Armstrong."
+   "answer": 3,
+   "explanation": "First person to walk on the Moon belongs to Neil Armstrong.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0332",
-   "q": "Which country is called the Sugar Bowl of the World?",
-   "o": [
+   "question": "Which country is called the Sugar Bowl of the World?",
+   "options": [
     "Sikkim",
     "Cuba",
     "Mariana Trench",
     "Bengaluru"
    ],
-   "a": 1,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 1,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0333",
-   "q": "Which is the longest mountain range on land?",
-   "o": [
+   "question": "Which is the longest mountain range on land?",
+   "options": [
     "China",
     "France",
     "Andes",
     "Vatican City"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0334",
-   "q": "Which type of rock is formed from cooled magma?",
-   "o": [
+   "question": "Which type of rock is formed from cooled magma?",
+   "options": [
     "Carbon dioxide",
     "From the land to the sea",
     "Igneous rock",
     "About 21 per cent"
    ],
-   "a": 2,
-   "t": "Climate and Atmosphere",
-   "l": 2,
-   "s": "generated",
-   "e": "Which type of rock is formed from cooled magma — Igneous rock."
+   "answer": 2,
+   "explanation": "Which type of rock is formed from cooled magma — Igneous rock.",
+   "topic": "Climate and Atmosphere",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0335",
-   "q": "Which of the following pairs of soil and feature is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of soil and feature is NOT correctly matched?",
+   "options": [
     "Saline soil - Contains excess salt, found in dry coastal areas",
     "Mountain soil - Found in hilly and forest regions",
     "Black soil - Formed from crystalline rocks, rich in iron",
     "Laterite soil - Formed by leaching in high rainfall areas"
    ],
-   "a": 2,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Black soil - Formed from crystalline rocks, rich in iron is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Black soil - Formed from crystalline rocks, rich in iron is not correctly matched.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0336",
-   "q": "Which mineral is found in large quantities in Rajasthan?",
-   "o": [
+   "question": "Which mineral is found in large quantities in Rajasthan?",
+   "options": [
     "Sillimanite",
     "Chromite",
     "Copper",
     "Lead and zinc"
    ],
-   "a": 3,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Lead and zinc is found in Rajasthan."
+   "answer": 3,
+   "explanation": "Lead and zinc is found in Rajasthan.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0337",
-   "q": "Which type of bank was introduced in India to serve small businesses?",
-   "o": [
+   "question": "Which type of bank was introduced in India to serve small businesses?",
+   "options": [
     "PFRDA",
     "Small finance bank",
     "Four",
     "Bombay Stock Exchange"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0338",
-   "q": "Choose the word most similar in meaning to Cease.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Cease.",
+   "options": [
     "Deceitful",
     "Stop",
     "Sensible",
     "Calm"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Cease means Stop."
+   "answer": 1,
+   "explanation": "Cease means Stop.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0339",
-   "q": "Choose the word most opposite in meaning to Enmity.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Enmity.",
+   "options": [
     "Careless",
     "Confusing",
     "Friendship",
     "Hopeful"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Enmity is Friendship."
+   "answer": 2,
+   "explanation": "The opposite of Enmity is Friendship.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0340",
-   "q": "What is the meaning of the idiom 'To put a spoke in one's wheel'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'To put a spoke in one's wheel'?",
+   "options": [
     "To obstruct a plan",
     "A comfortable situation",
     "Reprimand",
     "A futile search"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'To put a spoke in one's wheel' means To obstruct a plan."
+   "answer": 0,
+   "explanation": "'To put a spoke in one's wheel' means To obstruct a plan.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0341",
-   "q": "Choose the one word substitute for: One who cannot be defeated",
-   "o": [
+   "question": "Choose the one word substitute for: One who cannot be defeated",
+   "options": [
     "Fratricide",
     "Obsolete",
     "Psychologist",
     "Invincible"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "One who cannot be defeated — Invincible."
+   "answer": 3,
+   "explanation": "One who cannot be defeated — Invincible.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0342",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Dilemma",
     "Adolescent",
     "Appropriate",
     "Sufficient"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Sufficient."
+   "answer": 3,
+   "explanation": "The correct spelling is Sufficient.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0343",
-   "q": "What is the plural of Analysis?",
-   "o": [
+   "question": "What is the plural of Analysis?",
+   "options": [
     "Analyses",
     "Brothers",
     "Crises",
     "Criteria"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Analysis is Analyses."
+   "answer": 0,
+   "explanation": "The plural of Analysis is Analyses.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0344",
-   "q": "What is the feminine form of Nephew?",
-   "o": [
+   "question": "What is the feminine form of Nephew?",
+   "options": [
     "Princess",
     "Girl",
     "Foster-mother",
     "Niece"
    ],
-   "a": 3,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Nephew is Niece."
+   "answer": 3,
+   "explanation": "The feminine of Nephew is Niece.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0345",
-   "q": "What is the comparative degree of Fine?",
-   "o": [
+   "question": "What is the comparative degree of Fine?",
+   "options": [
     "More dangerous",
     "Richer",
     "Fatter",
     "Finer"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Fine — Finer — Finest."
+   "answer": 3,
+   "explanation": "Fine — Finer — Finest.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0346",
-   "q": "Fill in the blank with the correct preposition: The teacher is popular ____ the students.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: The teacher is popular ____ the students.",
+   "options": [
     "since",
     "for",
     "on",
     "with"
    ],
-   "a": 3,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'with'."
+   "answer": 3,
+   "explanation": "The correct preposition is 'with'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0347",
-   "q": "What is the noun form of the verb 'admit'?",
-   "o": [
+   "question": "What is the noun form of the verb 'admit'?",
+   "options": [
     "Admission",
     "The window was broken by the boy",
     "Phrase",
     "Nor"
    ],
-   "a": 0,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 0,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0348",
-   "q": "Which organisation did India join as a full member in 2017?",
-   "o": [
+   "question": "Which organisation did India join as a full member in 2017?",
+   "options": [
     "BrahMos",
     "2023",
     "Shanghai Cooperation Organisation",
     "Tejas"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0349",
-   "q": "The scheme White Revolution 2.0 was launched with which objective?",
-   "o": [
+   "question": "The scheme White Revolution 2.0 was launched with which objective?",
+   "options": [
     "Cleaning and conservation of the Ganga",
     "Skill development and employability of youth",
     "Cooperative development of the dairy sector",
     "Loans to women and scheduled caste entrepreneurs"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "White Revolution 2.0 — Cooperative development of the dairy sector."
+   "answer": 2,
+   "explanation": "White Revolution 2.0 — Cooperative development of the dairy sector.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0350",
-   "q": "Gaganyaan is associated with which of the following?",
-   "o": [
+   "question": "Gaganyaan is associated with which of the following?",
+   "options": [
     "Workhorse polar satellite launch vehicle",
     "Soft landing near the lunar south pole",
     "Skilling and vocational training",
     "Human spaceflight programme of India"
    ],
-   "a": 3,
-   "t": "Missions and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Gaganyaan — Human spaceflight programme of India."
+   "answer": 3,
+   "explanation": "Gaganyaan — Human spaceflight programme of India.",
+   "topic": "Missions and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0351",
-   "q": "Spyware is best described as which of the following?",
-   "o": [
+   "question": "Spyware is best described as which of the following?",
+   "options": [
     "Software that secretly collects information",
     "When data requested is found in cache memory",
     "Interface that accepts typed commands",
     "Informal description of a program"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Spyware — Software that secretly collects information."
+   "answer": 0,
+   "explanation": "Spyware — Software that secretly collects information.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0352",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + X - Copy the selected item",
     "Ctrl + X - Cut the selected item",
     "Ctrl + X - Find text in a document",
     "Ctrl + X - Delete an item permanently"
    ],
-   "a": 1,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + X - Cut the selected item is correctly matched."
+   "answer": 1,
+   "explanation": "Only Ctrl + X - Cut the selected item is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0353",
-   "q": "Which file extension is used for a Animated image file?",
-   "o": [
+   "question": "Which file extension is used for a Animated image file?",
+   "options": [
     ".py",
     ".mp3",
     ".xlsx",
     ".gif"
    ],
-   "a": 3,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Animated image file uses the extension .gif."
+   "answer": 3,
+   "explanation": "Animated image file uses the extension .gif.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0354",
-   "q": "What is the full form of SEZ?",
-   "o": [
+   "question": "What is the full form of SEZ?",
+   "options": [
     "Central Vigilance Commission",
     "International Committee of the Red Cross",
     "Special Economic Zone",
     "Indian Institute of Management"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "SEZ stands for Special Economic Zone."
+   "answer": 2,
+   "explanation": "SEZ stands for Special Economic Zone.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0355",
-   "q": "Which agreement or organisation is described as: Cooperation on solar energy?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Cooperation on solar energy?",
+   "options": [
     "Sustainable Development Goals",
     "CITES",
     "Basel Convention",
     "International Solar Alliance"
    ],
-   "a": 3,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Cooperation on solar energy describes the International Solar Alliance."
+   "answer": 3,
+   "explanation": "Cooperation on solar energy describes the International Solar Alliance.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0356",
-   "q": "Which pollutant is described as: Causes genetic damage and cancer?",
-   "o": [
+   "question": "Which pollutant is described as: Causes genetic damage and cancer?",
+   "options": [
     "Electronic waste",
     "Arsenic",
     "Methane",
     "Radioactive waste"
    ],
-   "a": 3,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Causes genetic damage and cancer is linked to Radioactive waste."
+   "answer": 3,
+   "explanation": "Causes genetic damage and cancer is linked to Radioactive waste.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0357",
-   "q": "Which biosphere reserve or wetland is located in Manipur?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Manipur?",
+   "options": [
     "Deepor Beel",
     "Agasthyamalai Biosphere Reserve",
     "Simlipal Biosphere Reserve",
     "Loktak Lake"
    ],
-   "a": 3,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Loktak Lake is located in Manipur."
+   "answer": 3,
+   "explanation": "Loktak Lake is located in Manipur.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0358",
-   "q": "Which of the following pairs of law and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of law and purpose is correctly matched?",
+   "options": [
     "Eco Sensitive Zone notification - Eight missions on climate change",
     "Eco Sensitive Zone notification - Protection of ecologically fragile areas",
     "Eco Sensitive Zone notification - Conservation of elephants",
     "Eco Sensitive Zone notification - Prevention of water pollution"
    ],
-   "a": 1,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Eco Sensitive Zone notification - Protection of ecologically fragile areas is correctly matched."
+   "answer": 1,
+   "explanation": "Only Eco Sensitive Zone notification - Protection of ecologically fragile areas is correctly matched.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0359",
-   "q": "What is the capital of Tunisia?",
-   "o": [
+   "question": "What is the capital of Tunisia?",
+   "options": [
     "Ashgabat",
     "Tbilisi",
     "Doha",
     "Tunis"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Tunisia is Tunis."
+   "answer": 3,
+   "explanation": "The capital of Tunisia is Tunis.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0360",
-   "q": "Which element has the chemical symbol Tc?",
-   "o": [
+   "question": "Which element has the chemical symbol Tc?",
+   "options": [
     "Magnesium",
     "Carbon",
     "Technetium",
     "Livermorium"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Tc is the symbol of Technetium."
+   "answer": 2,
+   "explanation": "Tc is the symbol of Technetium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0361",
-   "q": "Panaji is the capital of which Indian state?",
-   "o": [
+   "question": "Panaji is the capital of which Indian state?",
+   "options": [
     "Telangana",
     "Karnataka",
     "Goa",
     "Punjab"
    ],
-   "a": 2,
-   "t": "States and Capitals",
-   "l": 2,
-   "s": "generated",
-   "e": "Panaji is the capital of Goa."
+   "answer": 2,
+   "explanation": "Panaji is the capital of Goa.",
+   "topic": "States and Capitals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0362",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "National Fruit - Jana Gana Mana",
     "National Fruit - Lion Capital of Ashoka",
     "National Fruit - Saka Calendar",
     "National Fruit - Mango"
    ],
-   "a": 3,
-   "t": "National Symbols",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Fruit - Mango is correctly matched."
+   "answer": 3,
+   "explanation": "Only National Fruit - Mango is correctly matched.",
+   "topic": "National Symbols",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0363",
-   "q": "Which of the following descriptions matches Jawaharlal Nehru?",
-   "o": [
+   "question": "Which of the following descriptions matches Jawaharlal Nehru?",
+   "options": [
     "First Indian woman to climb Mount Everest",
     "First Indian to win a Nobel Prize",
     "First Indian Institute of Technology was set up at",
     "First Prime Minister of India"
    ],
-   "a": 3,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "Jawaharlal Nehru is associated with: First Prime Minister of India."
+   "answer": 3,
+   "explanation": "Jawaharlal Nehru is associated with: First Prime Minister of India.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0364",
-   "q": "Theyyam is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Theyyam is a folk or classical dance form of which state?",
+   "options": [
     "Kerala",
     "Tamil Nadu",
     "Himachal Pradesh",
     "Punjab"
    ],
-   "a": 0,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Theyyam belongs to Kerala."
+   "answer": 0,
+   "explanation": "Theyyam belongs to Kerala.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0365",
-   "q": "Which of the following festivals is associated with Maharashtra?",
-   "o": [
+   "question": "Which of the following festivals is associated with Maharashtra?",
+   "options": [
     "Ganesh Chaturthi",
     "Sangai Festival",
     "Bihu",
     "Dree Festival"
    ],
-   "a": 0,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Ganesh Chaturthi is associated with Maharashtra."
+   "answer": 0,
+   "explanation": "Ganesh Chaturthi is associated with Maharashtra.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0366",
-   "q": "Yamunotri Glacier is the origin of which river?",
-   "o": [
+   "question": "Yamunotri Glacier is the origin of which river?",
+   "options": [
     "Kaveri",
     "Godavari",
     "Gomti",
     "Yamuna"
    ],
-   "a": 3,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Yamunotri Glacier is the origin of the river Yamuna."
+   "answer": 3,
+   "explanation": "Yamunotri Glacier is the origin of the river Yamuna.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0367",
-   "q": "Which of the following dams is built on the river Rihand?",
-   "o": [
+   "question": "Which of the following dams is built on the river Rihand?",
+   "options": [
     "Idukki Dam",
     "Salal Dam",
     "Nagarjuna Sagar Dam",
     "Rihand Dam"
    ],
-   "a": 3,
-   "t": "Dams of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Rihand Dam is built on the Rihand."
+   "answer": 3,
+   "explanation": "Rihand Dam is built on the Rihand.",
+   "topic": "Dams of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0368",
-   "q": "Dibang Wildlife Sanctuary is located in which state?",
-   "o": [
+   "question": "Dibang Wildlife Sanctuary is located in which state?",
+   "options": [
     "Arunachal Pradesh",
     "Meghalaya",
     "Chhattisgarh",
     "Rajasthan"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Dibang Wildlife Sanctuary is located in Arunachal Pradesh."
+   "answer": 0,
+   "explanation": "Dibang Wildlife Sanctuary is located in Arunachal Pradesh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0369",
-   "q": "Which of the following passes is located in Rajasthan?",
-   "o": [
+   "question": "Which of the following passes is located in Rajasthan?",
+   "options": [
     "Palakkad Gap",
     "Jelep La",
     "Araku Valley Pass",
     "Haldighati Pass"
    ],
-   "a": 3,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Haldighati Pass is a pass in Rajasthan."
+   "answer": 3,
+   "explanation": "Haldighati Pass is a pass in Rajasthan.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0370",
-   "q": "Which physical quantity is measured in Kilogram?",
-   "o": [
+   "question": "Which physical quantity is measured in Kilogram?",
+   "options": [
     "Pressure",
     "Amount of substance",
     "Absorbed dose",
     "Mass"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Kilogram is the SI unit of Mass."
+   "answer": 3,
+   "explanation": "Kilogram is the SI unit of Mass.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0371",
-   "q": "Which instrument is used to measure Humidity?",
-   "o": [
+   "question": "Which instrument is used to measure Humidity?",
+   "options": [
     "Microscope",
     "Nephelometer",
     "Spectrometer",
     "Hygroscope"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Hygroscope is used to measure Humidity."
+   "answer": 3,
+   "explanation": "Hygroscope is used to measure Humidity.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0372",
-   "q": "Which body part performs the function of Exchange of oxygen and carbon dioxide?",
-   "o": [
+   "question": "Which body part performs the function of Exchange of oxygen and carbon dioxide?",
+   "options": [
     "Cochlea",
     "Alveoli",
     "Spleen",
     "Small intestine"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Exchange of oxygen and carbon dioxide is performed by the Alveoli."
+   "answer": 1,
+   "explanation": "Exchange of oxygen and carbon dioxide is performed by the Alveoli.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0373",
-   "q": "Which disease is caused by the deficiency of Calcium?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Calcium?",
+   "options": [
     "Osteoporosis",
     "Growth retardation",
     "Dehydration",
     "Beri Beri"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Calcium causes Osteoporosis."
+   "answer": 0,
+   "explanation": "Deficiency of Calcium causes Osteoporosis.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0374",
-   "q": "Human Immunodeficiency Virus causes which of the following diseases?",
-   "o": [
+   "question": "Human Immunodeficiency Virus causes which of the following diseases?",
+   "options": [
     "Chickenpox",
     "AIDS",
     "Whooping cough",
     "Leprosy"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Human Immunodeficiency Virus causes AIDS."
+   "answer": 1,
+   "explanation": "Human Immunodeficiency Virus causes AIDS.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0375",
-   "q": "Who is credited with X-ray?",
-   "o": [
+   "question": "Who is credited with X-ray?",
+   "options": [
     "James Watt",
     "Alexander Graham Bell",
     "Wilhelm Roentgen",
     "Rene Laennec"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "X-ray — Wilhelm Roentgen."
+   "answer": 2,
+   "explanation": "X-ray — Wilhelm Roentgen.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0376",
-   "q": "What is the chemical name of Vinegar?",
-   "o": [
+   "question": "What is the chemical name of Vinegar?",
+   "options": [
     "Calcium oxychloride (CaOCl2)",
     "Zinc chloride (ZnCl2)",
     "Solid carbon dioxide (CO2)",
     "Acetic acid (CH3COOH)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Vinegar is Acetic acid (CH3COOH)."
+   "answer": 3,
+   "explanation": "Vinegar is Acetic acid (CH3COOH).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0377",
-   "q": "Which branch of science deals with Chemical processes in living organisms?",
-   "o": [
+   "question": "Which branch of science deals with Chemical processes in living organisms?",
+   "options": [
     "Anatomy",
     "Chemistry",
     "Biochemistry",
     "Mechanics"
    ],
-   "a": 2,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Biochemistry deals with Chemical processes in living organisms."
+   "answer": 2,
+   "explanation": "Biochemistry deals with Chemical processes in living organisms.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0378",
-   "q": "Which of the following statements about Neptune is correct?",
-   "o": [
+   "question": "Which of the following statements about Neptune is correct?",
+   "options": [
     "Nebula",
     "Eighth",
     "Meteorite",
     "Mercury"
    ],
-   "a": 1,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Neptune: Eighth."
+   "answer": 1,
+   "explanation": "Neptune: Eighth.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0379",
-   "q": "Marie Curie is known for which of the following?",
-   "o": [
+   "question": "Marie Curie is known for which of the following?",
+   "options": [
     "Theory of evolution",
     "Theory of relativity",
     "Discovery of radium and polonium",
     "Indian nuclear programme"
    ],
-   "a": 2,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Marie Curie is known for Discovery of radium and polonium."
+   "answer": 2,
+   "explanation": "Marie Curie is known for Discovery of radium and polonium.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0380",
-   "q": "In which year did the following event take place: Dandi March launched by Mahatma Gandhi?",
-   "o": [
+   "question": "In which year did the following event take place: Dandi March launched by Mahatma Gandhi?",
+   "options": [
     "2023",
     "1943",
     "1922",
     "1930"
    ],
-   "a": 3,
-   "t": "Indian History Events",
-   "l": 2,
-   "s": "generated",
-   "e": "Dandi March launched by Mahatma Gandhi — 1930."
+   "answer": 3,
+   "explanation": "Dandi March launched by Mahatma Gandhi — 1930.",
+   "topic": "Indian History Events",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0381",
-   "q": "In which year did the following event take place: Rio Earth Summit?",
-   "o": [
+   "question": "In which year did the following event take place: Rio Earth Summit?",
+   "options": [
     "1869",
     "1992",
     "2020",
     "1600"
    ],
-   "a": 1,
-   "t": "World History Events",
-   "l": 2,
-   "s": "generated",
-   "e": "Rio Earth Summit — 1992."
+   "answer": 1,
+   "explanation": "Rio Earth Summit — 1992.",
+   "topic": "World History Events",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0382",
-   "q": "Khizr Khan founded which of the following?",
-   "o": [
+   "question": "Khizr Khan founded which of the following?",
+   "options": [
     "Maratha Empire",
     "Chola Dynasty (imperial phase)",
     "Khilji Dynasty",
     "Sayyid Dynasty"
    ],
-   "a": 3,
-   "t": "Dynasties",
-   "l": 3,
-   "s": "generated",
-   "e": "Khizr Khan founded the Sayyid Dynasty."
+   "answer": 3,
+   "explanation": "Khizr Khan founded the Sayyid Dynasty.",
+   "topic": "Dynasties",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0383",
-   "q": "Which ruler is associated with the following: Spread Buddhism after the Kalinga war?",
-   "o": [
+   "question": "Which ruler is associated with the following: Spread Buddhism after the Kalinga war?",
+   "options": [
     "Aurangzeb",
     "Harshavardhana",
     "Muhammad bin Tughlaq",
     "Ashoka"
    ],
-   "a": 3,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "Spread Buddhism after the Kalinga war is associated with Ashoka."
+   "answer": 3,
+   "explanation": "Spread Buddhism after the Kalinga war is associated with Ashoka.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0384",
-   "q": "Which freedom fighter is described as Netaji, leader of the INA?",
-   "o": [
+   "question": "Which freedom fighter is described as Netaji, leader of the INA?",
+   "options": [
     "Chandrashekhar Azad",
     "Dadabhai Naoroji",
     "Madan Mohan Malaviya",
     "Subhas Chandra Bose"
    ],
-   "a": 3,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "Netaji, leader of the INA refers to Subhas Chandra Bose."
+   "answer": 3,
+   "explanation": "Netaji, leader of the INA refers to Subhas Chandra Bose.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0385",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Civil Disobedience Movement - 1920",
     "Civil Disobedience Movement - 1946",
     "Civil Disobedience Movement - 1930",
     "Civil Disobedience Movement - 1923"
    ],
-   "a": 2,
-   "t": "National Movements",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Civil Disobedience Movement - 1930 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Civil Disobedience Movement - 1930 is correctly matched.",
+   "topic": "National Movements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0386",
-   "q": "Which part of the Constitution deals with: Citizenship?",
-   "o": [
+   "question": "Which part of the Constitution deals with: Citizenship?",
+   "options": [
     "Articles 23-24",
     "Part II, Articles 5-11",
     "Article 324",
     "Article 23"
    ],
-   "a": 1,
-   "t": "Constitution Articles",
-   "l": 2,
-   "s": "generated",
-   "e": "Citizenship is covered under Part II, Articles 5-11."
+   "answer": 1,
+   "explanation": "Citizenship is covered under Part II, Articles 5-11.",
+   "topic": "Constitution Articles",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0387",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "52nd Amendment - 1992",
     "52nd Amendment - 1985",
     "52nd Amendment - 2002",
     "52nd Amendment - 1978"
    ],
-   "a": 1,
-   "t": "Constitutional Amendments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 52nd Amendment - 1985 is correctly matched."
+   "answer": 1,
+   "explanation": "Only 52nd Amendment - 1985 is correctly matched.",
+   "topic": "Constitutional Amendments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0388",
-   "q": "Article 370 was abrogated in?",
-   "o": [
+   "question": "Article 370 was abrogated in?",
+   "options": [
     "United States of America",
     "2019",
     "Parliament",
     "12"
    ],
-   "a": 1,
-   "t": "Constitution Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "Article 370 was abrogated in — 2019."
+   "answer": 1,
+   "explanation": "Article 370 was abrogated in — 2019.",
+   "topic": "Constitution Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0389",
-   "q": "Which institution is described as: Ex-officio Chairman of the Rajya Sabha?",
-   "o": [
+   "question": "Which institution is described as: Ex-officio Chairman of the Rajya Sabha?",
+   "options": [
     "NITI Aayog",
     "Supreme Court of India",
     "Zilla Parishad",
     "Vice President of India"
    ],
-   "a": 3,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Ex-officio Chairman of the Rajya Sabha describes Vice President of India."
+   "answer": 3,
+   "explanation": "Ex-officio Chairman of the Rajya Sabha describes Vice President of India.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0390",
-   "q": "On which date is World Students' Day observed?",
-   "o": [
+   "question": "On which date is World Students' Day observed?",
+   "options": [
     "29 September",
     "8 May",
     "24 January",
     "15 October"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Students' Day is observed on 15 October."
+   "answer": 3,
+   "explanation": "World Students' Day is observed on 15 October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0391",
-   "q": "Where is the headquarters of United Nations Environment Programme?",
-   "o": [
+   "question": "Where is the headquarters of United Nations Environment Programme?",
+   "options": [
     "Nairobi",
     "Dubai",
     "Montreal",
     "Beijing"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "United Nations Environment Programme is headquartered at Nairobi."
+   "answer": 0,
+   "explanation": "United Nations Environment Programme is headquartered at Nairobi.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0392",
-   "q": "Which sport uses teams of 11 players?",
-   "o": [
+   "question": "Which sport uses teams of 11 players?",
+   "options": [
     "Football",
     "Cricket",
     "Handball",
     "Baseball"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 11 players play Cricket."
+   "answer": 1,
+   "explanation": "Teams of 11 players play Cricket.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0393",
-   "q": "FIH Hockey World Cup is associated with which sport?",
-   "o": [
+   "question": "FIH Hockey World Cup is associated with which sport?",
+   "options": [
     "Tennis",
     "Football",
     "Cricket",
     "Hockey"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "FIH Hockey World Cup is associated with Hockey."
+   "answer": 3,
+   "explanation": "FIH Hockey World Cup is associated with Hockey.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0394",
-   "q": "Which award is described as: Indian literary award?",
-   "o": [
+   "question": "Which award is described as: Indian literary award?",
+   "options": [
     "Saraswati Samman",
     "Infosys Prize",
     "Ashoka Chakra",
     "Maha Vir Chakra"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Indian literary award describes Saraswati Samman."
+   "answer": 0,
+   "explanation": "Indian literary award describes Saraswati Samman.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0395",
-   "q": "Who is the author of My Experiments with Truth?",
-   "o": [
+   "question": "Who is the author of My Experiments with Truth?",
+   "options": [
     "Sachin Tendulkar",
     "Helen Keller",
     "Karl Marx and Friedrich Engels",
     "Mahatma Gandhi"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "My Experiments with Truth is written by Mahatma Gandhi."
+   "answer": 3,
+   "explanation": "My Experiments with Truth is written by Mahatma Gandhi.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0396",
-   "q": "Which of the following achievements belongs to Chamonix?",
-   "o": [
+   "question": "Which of the following achievements belongs to Chamonix?",
+   "options": [
     "First country to land a man on the Moon",
     "First woman to win an Olympic gold in wrestling for India",
     "First President of the United States",
     "First Winter Olympic Games were held in"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First Winter Olympic Games were held in belongs to Chamonix."
+   "answer": 3,
+   "explanation": "First Winter Olympic Games were held in belongs to Chamonix.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0397",
-   "q": "Which is the largest ocean?",
-   "o": [
+   "question": "Which is the largest ocean?",
+   "options": [
     "Pacific Ocean",
     "Lucknow",
     "Volga",
     "Australia"
    ],
-   "a": 0,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 0,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0398",
-   "q": "Which is the highest peak in India?",
-   "o": [
+   "question": "Which is the highest peak in India?",
+   "options": [
     "Bhutan",
     "Angel Falls",
     "Asia",
     "Kanchenjunga"
    ],
-   "a": 3,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 3,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0399",
-   "q": "What is the study of the structure of the Earth called?",
-   "o": [
+   "question": "What is the study of the structure of the Earth called?",
+   "options": [
     "Geology",
     "Sedimentary rock",
     "South-west monsoon",
     "Seismograph"
    ],
-   "a": 0,
-   "t": "Climate and Atmosphere",
-   "l": 2,
-   "s": "generated",
-   "e": "What is the study of the structure of the Earth called — Geology."
+   "answer": 0,
+   "explanation": "What is the study of the structure of the Earth called — Geology.",
+   "topic": "Climate and Atmosphere",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0400",
-   "q": "Which of the following pairs of soil and feature is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of soil and feature is NOT correctly matched?",
+   "options": [
     "Saline soil - Also called regur, ideal for cotton",
     "Mountain soil - Found in hilly and forest regions",
     "Peaty soil - Formed in waterlogged areas with organic matter",
     "Laterite soil - Formed by leaching in high rainfall areas"
    ],
-   "a": 0,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Saline soil - Also called regur, ideal for cotton is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Saline soil - Also called regur, ideal for cotton is not correctly matched.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0401",
-   "q": "Which mineral is found in large quantities in Andhra Pradesh?",
-   "o": [
+   "question": "Which mineral is found in large quantities in Andhra Pradesh?",
+   "options": [
     "Chromite",
     "Barytes",
     "Bauxite",
     "Mica"
    ],
-   "a": 3,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Mica is found in Andhra Pradesh."
+   "answer": 3,
+   "explanation": "Mica is found in Andhra Pradesh.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0402",
-   "q": "Which body regulates the insurance sector in India?",
-   "o": [
+   "question": "Which body regulates the insurance sector in India?",
+   "options": [
     "Urjit Patel Committee",
     "IRDAI",
     "Lala Lajpat Rai",
     "Statutory Liquidity Ratio"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0403",
-   "q": "Choose the word most similar in meaning to Reverence.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Reverence.",
+   "options": [
     "Inherent",
     "Deep respect",
     "Occasional",
     "Self-satisfied"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Reverence means Deep respect."
+   "answer": 1,
+   "explanation": "Reverence means Deep respect.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0404",
-   "q": "Choose the word most opposite in meaning to Intrinsic.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Intrinsic.",
+   "options": [
     "Polite",
     "Careless",
     "Extrinsic",
     "Sensible"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Intrinsic is Extrinsic."
+   "answer": 2,
+   "explanation": "The opposite of Intrinsic is Extrinsic.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0405",
-   "q": "What is the meaning of the idiom 'High and dry'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'High and dry'?",
+   "options": [
     "Do things in the wrong order",
     "Stranded",
     "Generally",
     "Immediately"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'High and dry' means Stranded."
+   "answer": 1,
+   "explanation": "'High and dry' means Stranded.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0406",
-   "q": "Choose the one word substitute for: A speech made without preparation",
-   "o": [
+   "question": "Choose the one word substitute for: A speech made without preparation",
+   "options": [
     "Cannibal",
     "Inimitable",
     "Epidemic",
     "Extempore"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "A speech made without preparation — Extempore."
+   "answer": 3,
+   "explanation": "A speech made without preparation — Extempore.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0407",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Whether",
     "Mathematics",
     "Desperate",
     "Emperor"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Mathematics."
+   "answer": 1,
+   "explanation": "The correct spelling is Mathematics.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0408",
-   "q": "What is the plural of Cactus?",
-   "o": [
+   "question": "What is the plural of Cactus?",
+   "options": [
     "Babies",
     "Cacti",
     "Echoes",
     "Criteria"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Cactus is Cacti."
+   "answer": 1,
+   "explanation": "The plural of Cactus is Cacti.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0409",
-   "q": "What is the feminine form of Host?",
-   "o": [
+   "question": "What is the feminine form of Host?",
+   "options": [
     "Stepmother",
     "Tigress",
     "Countess",
     "Hostess"
    ],
-   "a": 3,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Host is Hostess."
+   "answer": 3,
+   "explanation": "The feminine of Host is Hostess.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0410",
-   "q": "What is the comparative degree of Good?",
-   "o": [
+   "question": "What is the comparative degree of Good?",
+   "options": [
     "Happier",
     "Smaller",
     "Better",
     "Wider"
    ],
-   "a": 2,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Good — Better — Best."
+   "answer": 2,
+   "explanation": "Good — Better — Best.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0411",
-   "q": "Fill in the blank with the correct preposition: The train is ____ time today.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: The train is ____ time today.",
+   "options": [
     "to",
     "of",
     "on",
     "in"
    ],
-   "a": 2,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'on'."
+   "answer": 2,
+   "explanation": "The correct preposition is 'on'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0412",
-   "q": "Which conjunction pairs with 'either'?",
-   "o": [
+   "question": "Which conjunction pairs with 'either'?",
+   "options": [
     "Or",
     "Subject",
     "Entreat",
     "Question mark"
    ],
-   "a": 0,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 0,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0413",
-   "q": "Which cyclone made landfall in Odisha in 2013?",
-   "o": [
+   "question": "Which cyclone made landfall in Odisha in 2013?",
+   "options": [
     "Cyclone Phailin",
     "Major economies of the world",
     "NITI Aayog",
     "Rajasthan"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0414",
-   "q": "The scheme Mahatma Gandhi National Rural Employment Guarantee Scheme was launched with which objective?",
-   "o": [
+   "question": "The scheme Mahatma Gandhi National Rural Employment Guarantee Scheme was launched with which objective?",
+   "options": [
     "Crop insurance for farmers",
     "Conservation and development of indigenous cattle",
     "Skill development and employability of youth",
     "Guaranteed wage employment in rural areas"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Mahatma Gandhi National Rural Employment Guarantee Scheme — Guaranteed wage employment in rural areas."
+   "answer": 3,
+   "explanation": "Mahatma Gandhi National Rural Employment Guarantee Scheme — Guaranteed wage employment in rural areas.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0415",
-   "q": "National Action Plan on Climate Change is associated with which of the following?",
-   "o": [
+   "question": "National Action Plan on Climate Change is associated with which of the following?",
+   "options": [
     "Grassroots sports development",
     "Technology driven urban development",
     "Radar imaging satellites for all-weather observation",
     "Eight national missions on climate"
    ],
-   "a": 3,
-   "t": "Missions and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "National Action Plan on Climate Change — Eight national missions on climate."
+   "answer": 3,
+   "explanation": "National Action Plan on Climate Change — Eight national missions on climate.",
+   "topic": "Missions and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0416",
-   "q": "Device driver is best described as which of the following?",
-   "o": [
+   "question": "Device driver is best described as which of the following?",
+   "options": [
     "Software that lets the OS talk to hardware",
     "Software that detects and removes malicious programs",
     "Procedural programming language",
     "Input device that converts paper documents to digital form"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Device driver — Software that lets the OS talk to hardware."
+   "answer": 0,
+   "explanation": "Device driver — Software that lets the OS talk to hardware.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0417",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + X - Capture the screen",
     "Ctrl + X - Cut the selected item",
     "Ctrl + X - Rename the selected item",
     "Ctrl + X - Close the active program"
    ],
-   "a": 1,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + X - Cut the selected item is correctly matched."
+   "answer": 1,
+   "explanation": "Only Ctrl + X - Cut the selected item is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0418",
-   "q": "Which file extension is used for a Image file with transparency support?",
-   "o": [
+   "question": "Which file extension is used for a Image file with transparency support?",
+   "options": [
     ".js",
     ".jpg",
     ".svg",
     ".png"
    ],
-   "a": 3,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Image file with transparency support uses the extension .png."
+   "answer": 3,
+   "explanation": "Image file with transparency support uses the extension .png.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0419",
-   "q": "What is the full form of BSF?",
-   "o": [
+   "question": "What is the full form of BSF?",
+   "options": [
     "World Wide Fund for Nature",
     "Border Security Force",
     "United Nations Educational, Scientific and Cultural Organization",
     "Foreign Direct Investment"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "BSF stands for Border Security Force."
+   "answer": 1,
+   "explanation": "BSF stands for Border Security Force.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0420",
-   "q": "Which agreement or organisation is described as: Elimination of persistent organic pollutants?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Elimination of persistent organic pollutants?",
+   "options": [
     "CITES",
     "Sendai Framework",
     "Ramsar Convention",
     "Stockholm Convention"
    ],
-   "a": 3,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Elimination of persistent organic pollutants describes the Stockholm Convention."
+   "answer": 3,
+   "explanation": "Elimination of persistent organic pollutants describes the Stockholm Convention.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0421",
-   "q": "Which pollutant is described as: Destroy the ozone layer?",
-   "o": [
+   "question": "Which pollutant is described as: Destroy the ozone layer?",
+   "options": [
     "Arsenic",
     "Noise above 85 decibels",
     "Carbon dioxide",
     "Chlorofluorocarbons"
    ],
-   "a": 3,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Destroy the ozone layer is linked to Chlorofluorocarbons."
+   "answer": 3,
+   "explanation": "Destroy the ozone layer is linked to Chlorofluorocarbons.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0422",
-   "q": "Which biosphere reserve or wetland is located in Madhya Pradesh?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Madhya Pradesh?",
+   "options": [
     "Agasthyamalai Biosphere Reserve",
     "Chilika Lake",
     "Sundarbans Biosphere Reserve",
     "Pachmarhi Biosphere Reserve"
    ],
-   "a": 3,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Pachmarhi Biosphere Reserve is located in Madhya Pradesh."
+   "answer": 3,
+   "explanation": "Pachmarhi Biosphere Reserve is located in Madhya Pradesh.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0423",
-   "q": "Which of the following pairs of law and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of law and purpose is correctly matched?",
+   "options": [
     "Forest Conservation Act 1980 - Control of diversion of forest land",
     "Forest Conservation Act 1980 - Prevention of air pollution",
     "Forest Conservation Act 1980 - Funds for afforestation in lieu of diverted forest",
     "Forest Conservation Act 1980 - Adjudication of environmental disputes"
    ],
-   "a": 0,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Forest Conservation Act 1980 - Control of diversion of forest land is correctly matched."
+   "answer": 0,
+   "explanation": "Only Forest Conservation Act 1980 - Control of diversion of forest land is correctly matched.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0424",
-   "q": "What is the capital of Qatar?",
-   "o": [
+   "question": "What is the capital of Qatar?",
+   "options": [
     "Ankara",
     "Monaco",
     "Doha",
     "Bangui"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Qatar is Doha."
+   "answer": 2,
+   "explanation": "The capital of Qatar is Doha.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0425",
-   "q": "Which element has the chemical symbol Co?",
-   "o": [
+   "question": "Which element has the chemical symbol Co?",
+   "options": [
     "Niobium",
     "Iron",
     "Cobalt",
     "Tennessine"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Co is the symbol of Cobalt."
+   "answer": 2,
+   "explanation": "Co is the symbol of Cobalt.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0426",
-   "q": "Jaipur is the capital of which Indian state?",
-   "o": [
+   "question": "Jaipur is the capital of which Indian state?",
+   "options": [
     "Rajasthan",
     "Uttarakhand",
     "Tripura",
     "Karnataka"
    ],
-   "a": 0,
-   "t": "States and Capitals",
-   "l": 2,
-   "s": "generated",
-   "e": "Jaipur is the capital of Rajasthan."
+   "answer": 0,
+   "explanation": "Jaipur is the capital of Rajasthan.",
+   "topic": "States and Capitals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0427",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "National Fruit - Lion Capital of Ashoka",
     "National Fruit - Ganga",
     "National Fruit - Jana Gana Mana",
     "National Fruit - Mango"
    ],
-   "a": 3,
-   "t": "National Symbols",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Fruit - Mango is correctly matched."
+   "answer": 3,
+   "explanation": "Only National Fruit - Mango is correctly matched.",
+   "topic": "National Symbols",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0428",
-   "q": "Which of the following descriptions matches Rakesh Sharma?",
-   "o": [
+   "question": "Which of the following descriptions matches Rakesh Sharma?",
+   "options": [
     "First Indian satellite launched",
     "First Indian to travel to space",
     "First woman President of India",
     "First Indian to swim across the English Channel"
    ],
-   "a": 1,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "Rakesh Sharma is associated with: First Indian to travel to space."
+   "answer": 1,
+   "explanation": "Rakesh Sharma is associated with: First Indian to travel to space.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0429",
-   "q": "Yakshagana is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Yakshagana is a folk or classical dance form of which state?",
+   "options": [
     "Haryana",
     "Karnataka",
     "Maharashtra",
     "Assam"
    ],
-   "a": 1,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Yakshagana belongs to Karnataka."
+   "answer": 1,
+   "explanation": "Yakshagana belongs to Karnataka.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0430",
-   "q": "Which of the following festivals is associated with Odisha?",
-   "o": [
+   "question": "Which of the following festivals is associated with Odisha?",
+   "options": [
     "Khajuraho Dance Festival",
     "Ugadi",
     "Karam",
     "Nuakhai"
    ],
-   "a": 3,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Nuakhai is associated with Odisha."
+   "answer": 3,
+   "explanation": "Nuakhai is associated with Odisha.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0431",
-   "q": "Amarkantak is the origin of which river?",
-   "o": [
+   "question": "Amarkantak is the origin of which river?",
+   "options": [
     "Alaknanda",
     "Narmada",
     "Sutlej",
     "Bhima"
    ],
-   "a": 1,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Amarkantak is the origin of the river Narmada."
+   "answer": 1,
+   "explanation": "Amarkantak is the origin of the river Narmada.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0432",
-   "q": "Which of the following dams is built on the river Kaveri?",
-   "o": [
+   "question": "Which of the following dams is built on the river Kaveri?",
+   "options": [
     "Srisailam Dam",
     "Mettur Dam",
     "Bhakra Nangal Dam",
     "Farakka Barrage"
    ],
-   "a": 1,
-   "t": "Dams of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Mettur Dam is built on the Kaveri."
+   "answer": 1,
+   "explanation": "Mettur Dam is built on the Kaveri.",
+   "topic": "Dams of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0433",
-   "q": "Nameri National Park is located in which state?",
-   "o": [
+   "question": "Nameri National Park is located in which state?",
+   "options": [
     "Rajasthan",
     "Himachal Pradesh",
     "Assam",
     "Maharashtra"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Nameri National Park is located in Assam."
+   "answer": 2,
+   "explanation": "Nameri National Park is located in Assam.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0434",
-   "q": "Which of the following passes is located in Ladakh?",
-   "o": [
+   "question": "Which of the following passes is located in Ladakh?",
+   "options": [
     "Khardung La",
     "Pangsau Pass",
     "Pir Panjal Pass",
     "Araku Valley Pass"
    ],
-   "a": 0,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Khardung La is a pass in Ladakh."
+   "answer": 0,
+   "explanation": "Khardung La is a pass in Ladakh.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0435",
-   "q": "Which physical quantity is measured in Newton?",
-   "o": [
+   "question": "Which physical quantity is measured in Newton?",
+   "options": [
     "Luminous flux",
     "Force",
     "Temperature",
     "Viscosity (dynamic)"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Newton is the SI unit of Force."
+   "answer": 1,
+   "explanation": "Newton is the SI unit of Force.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0436",
-   "q": "Which instrument is used to measure Electric potential difference?",
-   "o": [
+   "question": "Which instrument is used to measure Electric potential difference?",
+   "options": [
     "Fathometer",
     "Nephelometer",
     "Voltmeter",
     "Ammeter"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Voltmeter is used to measure Electric potential difference."
+   "answer": 2,
+   "explanation": "Voltmeter is used to measure Electric potential difference.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0437",
-   "q": "Which body part performs the function of Protection and temperature regulation?",
-   "o": [
+   "question": "Which body part performs the function of Protection and temperature regulation?",
+   "options": [
     "Skin",
     "Thyroid gland",
     "Diaphragm",
     "Testes"
    ],
-   "a": 0,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Protection and temperature regulation is performed by the Skin."
+   "answer": 0,
+   "explanation": "Protection and temperature regulation is performed by the Skin.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0438",
-   "q": "Which disease is caused by the deficiency of Vitamin B3?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Vitamin B3?",
+   "options": [
     "Rickets",
     "Haemolysis of red blood cells",
     "Pellagra",
     "Scurvy"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B3 causes Pellagra."
+   "answer": 2,
+   "explanation": "Deficiency of Vitamin B3 causes Pellagra.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0439",
-   "q": "Poliovirus causes which of the following diseases?",
-   "o": [
+   "question": "Poliovirus causes which of the following diseases?",
+   "options": [
     "Poliomyelitis",
     "Plague",
     "Kala-azar",
     "Gonorrhoea"
    ],
-   "a": 0,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Poliovirus causes Poliomyelitis."
+   "answer": 0,
+   "explanation": "Poliovirus causes Poliomyelitis.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0440",
-   "q": "Who is credited with Laser?",
-   "o": [
+   "question": "Who is credited with Laser?",
+   "options": [
     "Karl Landsteiner",
     "Theodore Maiman",
     "Karl von Drais",
     "Gregor Mendel"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Laser — Theodore Maiman."
+   "answer": 1,
+   "explanation": "Laser — Theodore Maiman.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0441",
-   "q": "What is the chemical name of Chalk?",
-   "o": [
+   "question": "What is the chemical name of Chalk?",
+   "options": [
     "Potassium nitrate (KNO3)",
     "Zinc chloride (ZnCl2)",
     "Calcium carbonate (CaCO3)",
     "Calcium sulphate dihydrate (CaSO4.2H2O)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Chalk is Calcium carbonate (CaCO3)."
+   "answer": 2,
+   "explanation": "Chalk is Calcium carbonate (CaCO3).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0442",
-   "q": "Which branch of science deals with Cells?",
-   "o": [
+   "question": "Which branch of science deals with Cells?",
+   "options": [
     "Optics",
     "Cytology",
     "Bacteriology",
     "Seismology"
    ],
-   "a": 1,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Cytology deals with Cells."
+   "answer": 1,
+   "explanation": "Cytology deals with Cells.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0443",
-   "q": "Which of the following statements about Nebula is correct?",
-   "o": [
+   "question": "Which of the following statements about Nebula is correct?",
+   "options": [
     "Nebula",
     "Neptune",
     "Eighth",
     "Black hole"
    ],
-   "a": 0,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Nebula: Nebula."
+   "answer": 0,
+   "explanation": "Nebula: Nebula.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0444",
-   "q": "Andre Ampere is known for which of the following?",
-   "o": [
+   "question": "Andre Ampere is known for which of the following?",
+   "options": [
     "Raman effect",
     "Electrodynamics",
     "Centigrade temperature scale",
     "Father of modern chemistry"
    ],
-   "a": 1,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Andre Ampere is known for Electrodynamics."
+   "answer": 1,
+   "explanation": "Andre Ampere is known for Electrodynamics.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0445",
-   "q": "In which year did the following event take place: Jallianwala Bagh massacre?",
-   "o": [
+   "question": "In which year did the following event take place: Jallianwala Bagh massacre?",
+   "options": [
     "1931",
     "1948",
     "1919",
     "2014"
    ],
-   "a": 2,
-   "t": "Indian History Events",
-   "l": 2,
-   "s": "generated",
-   "e": "Jallianwala Bagh massacre — 1919."
+   "answer": 2,
+   "explanation": "Jallianwala Bagh massacre — 1919.",
+   "topic": "Indian History Events",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0446",
-   "q": "In which year did the following event take place: Russian Revolution?",
-   "o": [
+   "question": "In which year did the following event take place: Russian Revolution?",
+   "options": [
     "1917",
     "1973",
     "1688",
     "1453"
    ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 2,
-   "s": "generated",
-   "e": "Russian Revolution — 1917."
+   "answer": 0,
+   "explanation": "Russian Revolution — 1917.",
+   "topic": "World History Events",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0447",
-   "q": "Bahlul Lodi founded which of the following?",
-   "o": [
+   "question": "Bahlul Lodi founded which of the following?",
+   "options": [
     "Ahom Kingdom",
     "Lodi Dynasty",
     "Maurya Empire",
     "Pala Dynasty"
    ],
-   "a": 1,
-   "t": "Dynasties",
-   "l": 3,
-   "s": "generated",
-   "e": "Bahlul Lodi founded the Lodi Dynasty."
+   "answer": 1,
+   "explanation": "Bahlul Lodi founded the Lodi Dynasty.",
+   "topic": "Dynasties",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0448",
-   "q": "Which ruler is associated with the following: Famous Vijayanagara ruler and author of Amuktamalyada?",
-   "o": [
+   "question": "Which ruler is associated with the following: Famous Vijayanagara ruler and author of Amuktamalyada?",
+   "options": [
     "Firoz Shah Tughlaq",
     "Krishnadevaraya",
     "Kanishka",
     "Guru Nanak"
    ],
-   "a": 1,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "Famous Vijayanagara ruler and author of Amuktamalyada is associated with Krishnadevaraya."
+   "answer": 1,
+   "explanation": "Famous Vijayanagara ruler and author of Amuktamalyada is associated with Krishnadevaraya.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0449",
-   "q": "Which freedom fighter is described as Iron Man of India?",
-   "o": [
+   "question": "Which freedom fighter is described as Iron Man of India?",
+   "options": [
     "Maulana Abul Kalam Azad",
     "Sardar Vallabhbhai Patel",
     "Sarojini Naidu",
     "Bankim Chandra Chatterjee"
    ],
-   "a": 1,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "Iron Man of India refers to Sardar Vallabhbhai Patel."
+   "answer": 1,
+   "explanation": "Iron Man of India refers to Sardar Vallabhbhai Patel.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0450",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Civil Disobedience Movement - 1930",
     "Civil Disobedience Movement - 1942",
     "Civil Disobedience Movement - 1946",
     "Civil Disobedience Movement - 1940"
    ],
-   "a": 0,
-   "t": "National Movements",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Civil Disobedience Movement - 1930 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Civil Disobedience Movement - 1930 is correctly matched.",
+   "topic": "National Movements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0451",
-   "q": "Which part of the Constitution deals with: Abolition of titles?",
-   "o": [
+   "question": "Which part of the Constitution deals with: Abolition of titles?",
+   "options": [
     "Article 18",
     "Part III, Articles 12-35",
     "Article 280",
     "Article 21"
    ],
-   "a": 0,
-   "t": "Constitution Articles",
-   "l": 2,
-   "s": "generated",
-   "e": "Abolition of titles is covered under Article 18."
+   "answer": 0,
+   "explanation": "Abolition of titles is covered under Article 18.",
+   "topic": "Constitution Articles",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0452",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "52nd Amendment - 2002",
     "52nd Amendment - 1989",
     "52nd Amendment - 1992",
     "52nd Amendment - 1985"
    ],
-   "a": 3,
-   "t": "Constitutional Amendments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 52nd Amendment - 1985 is correctly matched."
+   "answer": 3,
+   "explanation": "Only 52nd Amendment - 1985 is correctly matched.",
+   "topic": "Constitutional Amendments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0453",
-   "q": "Source of amendment procedure?",
-   "o": [
+   "question": "Source of amendment procedure?",
+   "options": [
     "South Africa",
     "Habeas Corpus",
     "6",
     "26 January 1950"
    ],
-   "a": 0,
-   "t": "Constitution Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "Source of amendment procedure — South Africa."
+   "answer": 0,
+   "explanation": "Source of amendment procedure — South Africa.",
+   "topic": "Constitution Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0454",
-   "q": "Which institution is described as: Audits government accounts?",
-   "o": [
+   "question": "Which institution is described as: Audits government accounts?",
+   "options": [
     "Union Territories",
     "Comptroller and Auditor General",
     "Parliament of India",
     "SEBI"
    ],
-   "a": 1,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Audits government accounts describes Comptroller and Auditor General."
+   "answer": 1,
+   "explanation": "Audits government accounts describes Comptroller and Auditor General.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0455",
-   "q": "On which date is World Mental Health Day observed?",
-   "o": [
+   "question": "On which date is World Mental Health Day observed?",
+   "options": [
     "1 June",
     "10 October",
     "30 June",
     "10 February"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Mental Health Day is observed on 10 October."
+   "answer": 1,
+   "explanation": "World Mental Health Day is observed on 10 October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0456",
-   "q": "Where is the headquarters of United Nations Industrial Development Organization?",
-   "o": [
+   "question": "Where is the headquarters of United Nations Industrial Development Organization?",
+   "options": [
     "Beijing",
     "Washington, D.C.",
     "Vienna",
     "Montreal"
    ],
-   "a": 2,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "United Nations Industrial Development Organization is headquartered at Vienna."
+   "answer": 2,
+   "explanation": "United Nations Industrial Development Organization is headquartered at Vienna.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0457",
-   "q": "Which sport uses teams of 2 players?",
-   "o": [
+   "question": "Which sport uses teams of 2 players?",
+   "options": [
     "Volleyball",
     "Badminton (doubles)",
     "Polo",
     "Basketball"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 2 players play Badminton (doubles)."
+   "answer": 1,
+   "explanation": "Teams of 2 players play Badminton (doubles).",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0458",
-   "q": "Which award is described as: Outstanding performance in Indian sports?",
-   "o": [
+   "question": "Which award is described as: Outstanding performance in Indian sports?",
+   "options": [
     "Arjuna Award",
     "Shanti Swarup Bhatnagar Prize",
     "Padma Bhushan",
     "Right Livelihood Award"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Outstanding performance in Indian sports describes Arjuna Award."
+   "answer": 0,
+   "explanation": "Outstanding performance in Indian sports describes Arjuna Award.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0459",
-   "q": "Who is the author of The Story of My Life?",
-   "o": [
+   "question": "Who is the author of The Story of My Life?",
+   "options": [
     "Stephen Hawking",
     "Jawaharlal Nehru",
     "Helen Keller",
     "Karl Marx and Friedrich Engels"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "The Story of My Life is written by Helen Keller."
+   "answer": 2,
+   "explanation": "The Story of My Life is written by Helen Keller.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0460",
-   "q": "Which of the following achievements belongs to Marie Curie?",
-   "o": [
+   "question": "Which of the following achievements belongs to Marie Curie?",
+   "options": [
     "First Indian woman to win an Olympic medal",
     "First woman to climb Mount Everest",
     "First woman in space",
     "First woman to win a Nobel Prize"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First woman to win a Nobel Prize belongs to Marie Curie."
+   "answer": 3,
+   "explanation": "First woman to win a Nobel Prize belongs to Marie Curie.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0461",
-   "q": "Which is the largest archipelago in the world?",
-   "o": [
+   "question": "Which is the largest archipelago in the world?",
+   "options": [
     "Punjab",
     "Russia",
     "Gujarat",
     "Indonesia"
    ],
-   "a": 3,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 3,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0462",
-   "q": "Where are the Khajuraho temples located?",
-   "o": [
+   "question": "Where are the Khajuraho temples located?",
+   "options": [
     "Nagpur",
     "Madhya Pradesh",
     "Goa",
     "Delhi"
    ],
-   "a": 1,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 1,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0463",
-   "q": "What is the scale used to measure earthquake magnitude?",
-   "o": [
+   "question": "What is the scale used to measure earthquake magnitude?",
+   "options": [
     "Crust",
     "Igneous rock",
     "Norwester (Kal Baisakhi)",
     "Richter scale"
    ],
-   "a": 3,
-   "t": "Climate and Atmosphere",
-   "l": 2,
-   "s": "generated",
-   "e": "What is the scale used to measure earthquake magnitude — Richter scale."
+   "answer": 3,
+   "explanation": "What is the scale used to measure earthquake magnitude — Richter scale.",
+   "topic": "Climate and Atmosphere",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0464",
-   "q": "Which of the following pairs of soil and feature is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of soil and feature is NOT correctly matched?",
+   "options": [
     "Saline soil - Contains excess salt, found in dry coastal areas",
     "Red soil - Formed by leaching in high rainfall areas",
     "Desert soil - Sandy soil of arid regions",
     "Laterite soil - Formed by leaching in high rainfall areas"
    ],
-   "a": 1,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Red soil - Formed by leaching in high rainfall areas is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Red soil - Formed by leaching in high rainfall areas is not correctly matched.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0465",
-   "q": "Which mineral is found in large quantities in Karnataka?",
-   "o": [
+   "question": "Which mineral is found in large quantities in Karnataka?",
+   "options": [
     "Sillimanite",
     "Gold",
     "Coal",
     "Diamond"
    ],
-   "a": 1,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Gold is found in Karnataka."
+   "answer": 1,
+   "explanation": "Gold is found in Karnataka.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0466",
-   "q": "Where is the headquarters of the Life Insurance Corporation of India?",
-   "o": [
+   "question": "Where is the headquarters of the Life Insurance Corporation of India?",
+   "options": [
     "Progressive tax",
     "Mumbai",
     "Adam Smith",
     "PFRDA"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0467",
-   "q": "Choose the word most similar in meaning to Intrepid.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Intrepid.",
+   "options": [
     "Fearless",
     "Supreme",
     "Concise",
     "Short-lived"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Intrepid means Fearless."
+   "answer": 0,
+   "explanation": "Intrepid means Fearless.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0468",
-   "q": "Choose the word most opposite in meaning to Genuine.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Genuine.",
+   "options": [
     "Counterfeit",
     "Concealed",
     "Active",
     "Incompetent"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Genuine is Counterfeit."
+   "answer": 0,
+   "explanation": "The opposite of Genuine is Counterfeit.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0469",
-   "q": "What is the meaning of the idiom 'To carry the day'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'To carry the day'?",
+   "options": [
     "In close partnership",
     "A law no longer observed",
     "A narrow escape",
     "To win a victory"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'To carry the day' means To win a victory."
+   "answer": 3,
+   "explanation": "'To carry the day' means To win a victory.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0470",
-   "q": "Choose the one word substitute for: One who speaks very little",
-   "o": [
+   "question": "Choose the one word substitute for: One who speaks very little",
+   "options": [
     "Genocide",
     "Taciturn",
     "Zoologist",
     "Cannibal"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "One who speaks very little — Taciturn."
+   "answer": 1,
+   "explanation": "One who speaks very little — Taciturn.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0471",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Management",
     "Accidentally",
     "Village",
     "Misspell"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Management."
+   "answer": 0,
+   "explanation": "The correct spelling is Management.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0472",
-   "q": "What is the plural of Bacterium?",
-   "o": [
+   "question": "What is the plural of Bacterium?",
+   "options": [
     "Bacteria",
     "Stories",
     "Media",
     "Echoes"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Bacterium is Bacteria."
+   "answer": 0,
+   "explanation": "The plural of Bacterium is Bacteria.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0473",
-   "q": "What is the feminine form of Duke?",
-   "o": [
+   "question": "What is the feminine form of Duke?",
+   "options": [
     "Duck",
     "Wife",
     "Duchess",
     "Goose"
    ],
-   "a": 2,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Duke is Duchess."
+   "answer": 2,
+   "explanation": "The feminine of Duke is Duchess.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0474",
-   "q": "What is the comparative degree of Noble?",
-   "o": [
+   "question": "What is the comparative degree of Noble?",
+   "options": [
     "Higher",
     "Nobler",
     "Weaker",
     "Later"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Noble — Nobler — Noblest."
+   "answer": 1,
+   "explanation": "Noble — Nobler — Noblest.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0475",
-   "q": "Fill in the blank with the correct preposition: She was deprived ____ her rights.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: She was deprived ____ her rights.",
+   "options": [
     "to",
     "of",
     "with",
     "for"
    ],
-   "a": 1,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'of'."
+   "answer": 1,
+   "explanation": "The correct preposition is 'of'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0476",
-   "q": "What is the part of a sentence that says something about the subject?",
-   "o": [
+   "question": "What is the part of a sentence that says something about the subject?",
+   "options": [
     "A",
     "Compound sentence",
     "Predicate",
     "If"
    ],
-   "a": 2,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 2,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0477",
-   "q": "Which animal is the mascot of Project Tiger?",
-   "o": [
+   "question": "Which animal is the mascot of Project Tiger?",
+   "options": [
     "Tiger",
     "Maharashtra",
     "Gaganyaan",
     "Naatu Naatu from RRR"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0478",
-   "q": "The scheme Pradhan Mantri Matru Vandana Yojana was launched with which objective?",
-   "o": [
+   "question": "The scheme Pradhan Mantri Matru Vandana Yojana was launched with which objective?",
+   "options": [
     "Safety and empowerment of women",
     "Cash incentive for pregnant and lactating mothers",
     "Irrigation coverage and water use efficiency",
     "Subsidised food grains to two-thirds of the population"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Pradhan Mantri Matru Vandana Yojana — Cash incentive for pregnant and lactating mothers."
+   "answer": 1,
+   "explanation": "Pradhan Mantri Matru Vandana Yojana — Cash incentive for pregnant and lactating mothers.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0479",
-   "q": "Cartosat is associated with which of the following?",
-   "o": [
+   "question": "Cartosat is associated with which of the following?",
+   "options": [
     "Electronic delivery of government services",
     "X-ray polarimetry studies of black holes",
     "Earth observation satellites for mapping",
     "Cloud computing initiative of the government"
    ],
-   "a": 2,
-   "t": "Missions and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Cartosat — Earth observation satellites for mapping."
+   "answer": 2,
+   "explanation": "Cartosat — Earth observation satellites for mapping.",
+   "topic": "Missions and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0480",
-   "q": "Virus is best described as which of the following?",
-   "o": [
+   "question": "Virus is best described as which of the following?",
+   "options": [
     "Malicious program that attaches to files",
     "Tool that finds information on the web",
     "Main circuit board of a computer",
     "Network covering a city"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Virus — Malicious program that attaches to files."
+   "answer": 0,
+   "explanation": "Virus — Malicious program that attaches to files.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0481",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + V - Refresh the current window",
     "Ctrl + V - Open File Explorer",
     "Ctrl + V - Paste the clipboard content",
     "Ctrl + V - Select all items"
    ],
-   "a": 2,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + V - Paste the clipboard content is correctly matched."
+   "answer": 2,
+   "explanation": "Only Ctrl + V - Paste the clipboard content is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0482",
-   "q": "Which file extension is used for a Compressed archive file?",
-   "o": [
+   "question": "Which file extension is used for a Compressed archive file?",
+   "options": [
     ".java",
     ".zip",
     ".svg",
     ".pdf"
    ],
-   "a": 1,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Compressed archive file uses the extension .zip."
+   "answer": 1,
+   "explanation": "Compressed archive file uses the extension .zip.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0483",
-   "q": "What is the full form of PPP?",
-   "o": [
+   "question": "What is the full form of PPP?",
+   "options": [
     "National Institute of Technology",
     "World Health Organization",
     "International Olympic Committee",
     "Public Private Partnership"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "PPP stands for Public Private Partnership."
+   "answer": 3,
+   "explanation": "PPP stands for Public Private Partnership.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0484",
-   "q": "Which agreement or organisation is described as: Control of mercury emissions?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Control of mercury emissions?",
+   "options": [
     "Sustainable Development Goals",
     "Minamata Convention",
     "Montreal Protocol",
     "Kigali Amendment"
    ],
-   "a": 1,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Control of mercury emissions describes the Minamata Convention."
+   "answer": 1,
+   "explanation": "Control of mercury emissions describes the Minamata Convention.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0485",
-   "q": "Which pollutant is described as: Damages the nervous system?",
-   "o": [
+   "question": "Which pollutant is described as: Damages the nervous system?",
+   "options": [
     "Electronic waste",
     "Lead",
     "Carbon monoxide",
     "Oil spills"
    ],
-   "a": 1,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Damages the nervous system is linked to Lead."
+   "answer": 1,
+   "explanation": "Damages the nervous system is linked to Lead.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0486",
-   "q": "Which biosphere reserve or wetland is located in Madhya Pradesh and Chhattisgarh?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Madhya Pradesh and Chhattisgarh?",
+   "options": [
     "Deepor Beel",
     "Achanakmar Amarkantak Biosphere Reserve",
     "Nilgiri Biosphere Reserve",
     "Panna Biosphere Reserve"
    ],
-   "a": 1,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Achanakmar Amarkantak Biosphere Reserve is located in Madhya Pradesh and Chhattisgarh."
+   "answer": 1,
+   "explanation": "Achanakmar Amarkantak Biosphere Reserve is located in Madhya Pradesh and Chhattisgarh.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0487",
-   "q": "Which of the following pairs of law and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of law and purpose is correctly matched?",
+   "options": [
     "Forest Conservation Act 1980 - Cleanliness and sanitation",
     "Forest Conservation Act 1980 - Control of diversion of forest land",
     "Forest Conservation Act 1980 - Protection of wild animals and plants",
     "Forest Conservation Act 1980 - Funds for afforestation in lieu of diverted forest"
    ],
-   "a": 1,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Forest Conservation Act 1980 - Control of diversion of forest land is correctly matched."
+   "answer": 1,
+   "explanation": "Only Forest Conservation Act 1980 - Control of diversion of forest land is correctly matched.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0488",
-   "q": "What is the capital of Indonesia?",
-   "o": [
+   "question": "What is the capital of Indonesia?",
+   "options": [
     "Juba",
     "Muscat",
     "Male",
     "Jakarta"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Indonesia is Jakarta."
+   "answer": 3,
+   "explanation": "The capital of Indonesia is Jakarta.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0489",
-   "q": "Which element has the chemical symbol Ne?",
-   "o": [
+   "question": "Which element has the chemical symbol Ne?",
+   "options": [
     "Neon",
     "Flerovium",
     "Gold",
     "Dysprosium"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Ne is the symbol of Neon."
+   "answer": 0,
+   "explanation": "Ne is the symbol of Neon.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0490",
-   "q": "Bhopal is the capital of which Indian state?",
-   "o": [
+   "question": "Bhopal is the capital of which Indian state?",
+   "options": [
     "Goa",
     "Bihar",
     "Jharkhand",
     "Madhya Pradesh"
    ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 2,
-   "s": "generated",
-   "e": "Bhopal is the capital of Madhya Pradesh."
+   "answer": 3,
+   "explanation": "Bhopal is the capital of Madhya Pradesh.",
+   "topic": "States and Capitals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0491",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "National Emblem - Jana Gana Mana",
     "National Emblem - Lion Capital of Ashoka",
     "National Emblem - Ganges River Dolphin",
     "National Emblem - King Cobra"
    ],
-   "a": 1,
-   "t": "National Symbols",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Emblem - Lion Capital of Ashoka is correctly matched."
+   "answer": 1,
+   "explanation": "Only National Emblem - Lion Capital of Ashoka is correctly matched.",
+   "topic": "National Symbols",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0492",
-   "q": "Which of the following descriptions matches Tenzing Norgay?",
-   "o": [
+   "question": "Which of the following descriptions matches Tenzing Norgay?",
+   "options": [
     "First President of India",
     "First Indian to climb Mount Everest",
     "First Indian woman to climb Mount Everest",
     "First Vice President of India"
    ],
-   "a": 1,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "Tenzing Norgay is associated with: First Indian to climb Mount Everest."
+   "answer": 1,
+   "explanation": "Tenzing Norgay is associated with: First Indian to climb Mount Everest.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0493",
-   "q": "Nautanki is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Nautanki is a folk or classical dance form of which state?",
+   "options": [
     "Assam",
     "Uttar Pradesh",
     "Haryana",
     "Jammu and Kashmir"
    ],
-   "a": 1,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Nautanki belongs to Uttar Pradesh."
+   "answer": 1,
+   "explanation": "Nautanki belongs to Uttar Pradesh.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0494",
-   "q": "Which of the following festivals is associated with Manipur?",
-   "o": [
+   "question": "Which of the following festivals is associated with Manipur?",
+   "options": [
     "Sekrenyi",
     "Sangai Festival",
     "Baisakhi",
     "Ambubachi Mela"
    ],
-   "a": 1,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Sangai Festival is associated with Manipur."
+   "answer": 1,
+   "explanation": "Sangai Festival is associated with Manipur.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0495",
-   "q": "Sihawa is the origin of which river?",
-   "o": [
+   "question": "Sihawa is the origin of which river?",
+   "options": [
     "Ganga",
     "Mahanadi",
     "Kaveri",
     "Brahmaputra"
    ],
-   "a": 1,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Sihawa is the origin of the river Mahanadi."
+   "answer": 1,
+   "explanation": "Sihawa is the origin of the river Mahanadi.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0496",
-   "q": "Which of the following dams is built on the river Periyar?",
-   "o": [
+   "question": "Which of the following dams is built on the river Periyar?",
+   "options": [
     "Idukki Dam",
     "Farakka Barrage",
     "Rihand Dam",
     "Indira Sagar Dam"
    ],
-   "a": 0,
-   "t": "Dams of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Idukki Dam is built on the Periyar."
+   "answer": 0,
+   "explanation": "Idukki Dam is built on the Periyar.",
+   "topic": "Dams of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0497",
-   "q": "Kuno National Park is located in which state?",
-   "o": [
+   "question": "Kuno National Park is located in which state?",
+   "options": [
     "Chhattisgarh",
     "West Bengal",
     "Madhya Pradesh",
     "Bihar"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Kuno National Park is located in Madhya Pradesh."
+   "answer": 2,
+   "explanation": "Kuno National Park is located in Madhya Pradesh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0498",
-   "q": "Which of the following passes is located in Maharashtra?",
-   "o": [
+   "question": "Which of the following passes is located in Maharashtra?",
+   "options": [
     "Jelep La",
     "Diphu Pass",
     "Pangsau Pass",
     "Thal Ghat"
    ],
-   "a": 3,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Thal Ghat is a pass in Maharashtra."
+   "answer": 3,
+   "explanation": "Thal Ghat is a pass in Maharashtra.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0499",
-   "q": "Which physical quantity is measured in Watt?",
-   "o": [
+   "question": "Which physical quantity is measured in Watt?",
+   "options": [
     "Length",
     "Power",
     "Pressure",
     "Time"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Watt is the SI unit of Power."
+   "answer": 1,
+   "explanation": "Watt is the SI unit of Power.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0500",
-   "q": "Which instrument is used to measure Heartbeats?",
-   "o": [
+   "question": "Which instrument is used to measure Heartbeats?",
+   "options": [
     "Stethoscope",
     "Polygraph",
     "Microscope",
     "Altimeter"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Stethoscope is used to measure Heartbeats."
+   "answer": 0,
+   "explanation": "Stethoscope is used to measure Heartbeats.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0501",
-   "q": "Which body part performs the function of Helps in breathing?",
-   "o": [
+   "question": "Which body part performs the function of Helps in breathing?",
+   "options": [
     "Nephrons",
     "Lungs",
     "Diaphragm",
     "Platelets"
    ],
-   "a": 2,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Helps in breathing is performed by the Diaphragm."
+   "answer": 2,
+   "explanation": "Helps in breathing is performed by the Diaphragm.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0502",
-   "q": "Which disease is caused by the deficiency of Vitamin B9?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Vitamin B9?",
+   "options": [
     "Ariboflavinosis",
     "Paresthesia",
     "Goitre",
     "Megaloblastic anaemia"
    ],
-   "a": 3,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B9 causes Megaloblastic anaemia."
+   "answer": 3,
+   "explanation": "Deficiency of Vitamin B9 causes Megaloblastic anaemia.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0503",
-   "q": "Leishmania donovani causes which of the following diseases?",
-   "o": [
+   "question": "Leishmania donovani causes which of the following diseases?",
+   "options": [
     "Hepatitis A",
     "Dengue",
     "Kala-azar",
     "Amoebic dysentery"
    ],
-   "a": 2,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Leishmania donovani causes Kala-azar."
+   "answer": 2,
+   "explanation": "Leishmania donovani causes Kala-azar.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0504",
-   "q": "Who is credited with Vaccination against smallpox?",
-   "o": [
+   "question": "Who is credited with Vaccination against smallpox?",
+   "options": [
     "Edward Jenner",
     "Karl von Drais",
     "George Cayley",
     "Rudolf Diesel"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Vaccination against smallpox — Edward Jenner."
+   "answer": 0,
+   "explanation": "Vaccination against smallpox — Edward Jenner.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0505",
-   "q": "What is the chemical name of Slaked lime?",
-   "o": [
+   "question": "What is the chemical name of Slaked lime?",
+   "options": [
     "Calcium hydroxide (Ca(OH)2)",
     "Hydrated magnesium silicate",
     "Calcium oxychloride (CaOCl2)",
     "Zinc sulphate (ZnSO4.7H2O)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Slaked lime is Calcium hydroxide (Ca(OH)2)."
+   "answer": 0,
+   "explanation": "Slaked lime is Calcium hydroxide (Ca(OH)2).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0506",
-   "q": "Which branch of science deals with Organisms and their environment?",
-   "o": [
+   "question": "Which branch of science deals with Organisms and their environment?",
+   "options": [
     "Ecology",
     "Bacteriology",
     "Entomology",
     "Pisciculture"
    ],
-   "a": 0,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Ecology deals with Organisms and their environment."
+   "answer": 0,
+   "explanation": "Ecology deals with Organisms and their environment.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0507",
-   "q": "Which of the following statements about Pluto is correct?",
-   "o": [
+   "question": "Which of the following statements about Pluto is correct?",
+   "options": [
     "Pluto",
     "Nebula",
     "Solar eclipse",
     "Fifth"
    ],
-   "a": 0,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Pluto: Pluto."
+   "answer": 0,
+   "explanation": "Pluto: Pluto.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0508",
-   "q": "Robert Koch is known for which of the following?",
-   "o": [
+   "question": "Robert Koch is known for which of the following?",
+   "options": [
     "Bacteriology and tuberculosis bacillus",
     "Centigrade temperature scale",
     "Atomic theory",
     "Genetic code"
    ],
-   "a": 0,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Robert Koch is known for Bacteriology and tuberculosis bacillus."
+   "answer": 0,
+   "explanation": "Robert Koch is known for Bacteriology and tuberculosis bacillus.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0509",
-   "q": "In which year did the following event take place: Mumbai terror attacks?",
-   "o": [
+   "question": "In which year did the following event take place: Mumbai terror attacks?",
+   "options": [
     "1965",
     "1983",
     "2008",
     "2023"
    ],
-   "a": 2,
-   "t": "Indian History Events",
-   "l": 2,
-   "s": "generated",
-   "e": "Mumbai terror attacks — 2008."
+   "answer": 2,
+   "explanation": "Mumbai terror attacks — 2008.",
+   "topic": "Indian History Events",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0510",
-   "q": "In which year did the following event take place: Issue of the Emancipation Proclamation?",
-   "o": [
+   "question": "In which year did the following event take place: Issue of the Emancipation Proclamation?",
+   "options": [
     "1922",
     "1949",
     "1863",
     "1861"
    ],
-   "a": 2,
-   "t": "World History Events",
-   "l": 2,
-   "s": "generated",
-   "e": "Issue of the Emancipation Proclamation — 1863."
+   "answer": 2,
+   "explanation": "Issue of the Emancipation Proclamation — 1863.",
+   "topic": "World History Events",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0511",
-   "q": "Shivaji founded which of the following?",
-   "o": [
+   "question": "Shivaji founded which of the following?",
+   "options": [
     "Maratha Empire",
     "Pala Dynasty",
     "Sayyid Dynasty",
     "Satavahana Dynasty"
    ],
-   "a": 0,
-   "t": "Dynasties",
-   "l": 3,
-   "s": "generated",
-   "e": "Shivaji founded the Maratha Empire."
+   "answer": 0,
+   "explanation": "Shivaji founded the Maratha Empire.",
+   "topic": "Dynasties",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0512",
-   "q": "Which ruler is associated with the following: Built the Taj Mahal?",
-   "o": [
+   "question": "Which ruler is associated with the following: Built the Taj Mahal?",
+   "options": [
     "Chandragupta Maurya",
     "Shah Jahan",
     "Aurangzeb",
     "Samudragupta"
    ],
-   "a": 1,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "Built the Taj Mahal is associated with Shah Jahan."
+   "answer": 1,
+   "explanation": "Built the Taj Mahal is associated with Shah Jahan.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0513",
-   "q": "Which freedom fighter is described as Revolutionary executed in 1931?",
-   "o": [
+   "question": "Which freedom fighter is described as Revolutionary executed in 1931?",
+   "options": [
     "Mahatma Gandhi",
     "Bhagat Singh",
     "Chandrashekhar Azad",
     "Bal Gangadhar Tilak"
    ],
-   "a": 1,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "Revolutionary executed in 1931 refers to Bhagat Singh."
+   "answer": 1,
+   "explanation": "Revolutionary executed in 1931 refers to Bhagat Singh.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0514",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Round Table Conferences - 1930",
     "Round Table Conferences - 1917",
     "Round Table Conferences - 1929",
     "Round Table Conferences - 1946"
    ],
-   "a": 0,
-   "t": "National Movements",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Round Table Conferences - 1930 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Round Table Conferences - 1930 is correctly matched.",
+   "topic": "National Movements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0515",
-   "q": "Which part of the Constitution deals with: Union Public Service Commission?",
-   "o": [
+   "question": "Which part of the Constitution deals with: Union Public Service Commission?",
+   "options": [
     "Part XV, Articles 324-329",
     "Article 148",
     "Article 315",
     "Article 17"
    ],
-   "a": 2,
-   "t": "Constitution Articles",
-   "l": 2,
-   "s": "generated",
-   "e": "Union Public Service Commission is covered under Article 315."
+   "answer": 2,
+   "explanation": "Union Public Service Commission is covered under Article 315.",
+   "topic": "Constitution Articles",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0516",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "86th Amendment - 1992",
     "86th Amendment - 2002",
     "86th Amendment - 2019",
     "86th Amendment - 2023"
    ],
-   "a": 1,
-   "t": "Constitutional Amendments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 86th Amendment - 2002 is correctly matched."
+   "answer": 1,
+   "explanation": "Only 86th Amendment - 2002 is correctly matched.",
+   "topic": "Constitutional Amendments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0517",
-   "q": "Twelfth Schedule deals with?",
-   "o": [
+   "question": "Twelfth Schedule deals with?",
+   "options": [
     "9 December 1946",
     "30 years",
     "Powers of Municipalities",
     "Anti-defection provisions"
    ],
-   "a": 2,
-   "t": "Constitution Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "Twelfth Schedule deals with — Powers of Municipalities."
+   "answer": 2,
+   "explanation": "Twelfth Schedule deals with — Powers of Municipalities.",
+   "topic": "Constitution Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0518",
-   "q": "Which institution is described as: Recommends distribution of taxes between the Centre and States?",
-   "o": [
+   "question": "Which institution is described as: Recommends distribution of taxes between the Centre and States?",
+   "options": [
     "President of India",
     "Finance Commission",
     "NITI Aayog",
     "Prime Minister of India"
    ],
-   "a": 1,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Recommends distribution of taxes between the Centre and States describes Finance Commission."
+   "answer": 1,
+   "explanation": "Recommends distribution of taxes between the Centre and States describes Finance Commission.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0519",
-   "q": "On which date is World Wetlands Day observed?",
-   "o": [
+   "question": "On which date is World Wetlands Day observed?",
+   "options": [
     "17 May",
     "2 February",
     "16 October",
     "21 September"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Wetlands Day is observed on 2 February."
+   "answer": 1,
+   "explanation": "World Wetlands Day is observed on 2 February.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0520",
-   "q": "Where is the headquarters of World Bank?",
-   "o": [
+   "question": "Where is the headquarters of World Bank?",
+   "options": [
     "Shanghai",
     "Washington, D.C.",
     "Geneva",
     "Mumbai"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "World Bank is headquartered at Washington, D.C.."
+   "answer": 1,
+   "explanation": "World Bank is headquartered at Washington, D.C..",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0521",
-   "q": "Thomas Cup is associated with which sport?",
-   "o": [
+   "question": "Thomas Cup is associated with which sport?",
+   "options": [
     "Badminton",
     "Tennis",
     "Football",
     "Cricket"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Thomas Cup is associated with Badminton."
+   "answer": 0,
+   "explanation": "Thomas Cup is associated with Badminton.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0522",
-   "q": "Which award is described as: UNESCO award for popularisation of science?",
-   "o": [
+   "question": "Which award is described as: UNESCO award for popularisation of science?",
+   "options": [
     "Maha Vir Chakra",
     "Shaurya Chakra",
     "Kalinga Prize",
     "Nobel Prize"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "UNESCO award for popularisation of science describes Kalinga Prize."
+   "answer": 2,
+   "explanation": "UNESCO award for popularisation of science describes Kalinga Prize.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0523",
-   "q": "Who is the author of Gitanjali: Rabindranath Tagore's Nobel work?",
-   "o": [
+   "question": "Who is the author of Gitanjali: Rabindranath Tagore's Nobel work?",
+   "options": [
     "Munshi Premchand",
     "Leo Tolstoy",
     "Homer",
     "Rabindranath Tagore"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Gitanjali: Rabindranath Tagore's Nobel work is written by Rabindranath Tagore."
+   "answer": 3,
+   "explanation": "Gitanjali: Rabindranath Tagore's Nobel work is written by Rabindranath Tagore.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0524",
-   "q": "Which of the following achievements belongs to Soviet Union?",
-   "o": [
+   "question": "Which of the following achievements belongs to Soviet Union?",
+   "options": [
     "First Winter Olympic Games were held in",
     "First woman Prime Minister in the world",
     "First Indian woman to win an Olympic medal",
     "First country to send a human into space"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First country to send a human into space belongs to Soviet Union."
+   "answer": 3,
+   "explanation": "First country to send a human into space belongs to Soviet Union.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0525",
-   "q": "Which is the smallest ocean?",
-   "o": [
+   "question": "Which is the smallest ocean?",
+   "options": [
     "Kanchenjunga",
     "Surat",
     "Arctic Ocean",
     "Atacama Desert"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0526",
-   "q": "Which country is called the Land of a Thousand Dances?",
-   "o": [
+   "question": "Which country is called the Land of a Thousand Dances?",
+   "options": [
     "Mexico",
     "Jaipur",
     "Philippines",
     "Rajasthan"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0527",
-   "q": "What is molten rock that reaches the surface called?",
-   "o": [
+   "question": "What is molten rock that reaches the surface called?",
+   "options": [
     "Hygrometer",
     "Monsoon",
     "Lava",
     "Outer core"
    ],
-   "a": 2,
-   "t": "Climate and Atmosphere",
-   "l": 2,
-   "s": "generated",
-   "e": "What is molten rock that reaches the surface called — Lava."
+   "answer": 2,
+   "explanation": "What is molten rock that reaches the surface called — Lava.",
+   "topic": "Climate and Atmosphere",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0528",
-   "q": "Which of the following pairs of soil and feature is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of soil and feature is NOT correctly matched?",
+   "options": [
     "Red soil - Formed from crystalline rocks, rich in iron",
     "Saline soil - Contains excess salt, found in dry coastal areas",
     "Alluvial soil - Contains excess salt, found in dry coastal areas",
     "Mountain soil - Found in hilly and forest regions"
    ],
-   "a": 2,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Alluvial soil - Contains excess salt, found in dry coastal areas is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Alluvial soil - Contains excess salt, found in dry coastal areas is not correctly matched.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0529",
-   "q": "Which mineral is found in large quantities in Odisha?",
-   "o": [
+   "question": "Which mineral is found in large quantities in Odisha?",
+   "options": [
     "Chromite",
     "Diamond",
     "Mica",
     "Lead and zinc"
    ],
-   "a": 0,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Chromite is found in Odisha."
+   "answer": 0,
+   "explanation": "Chromite is found in Odisha.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0530",
-   "q": "What is the interest charged by banks on loans called?",
-   "o": [
+   "question": "What is the interest charged by banks on loans called?",
+   "options": [
     "Lending rate",
     "1951",
     "Reserve Bank of India",
     "Agriculture and allied activities"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0531",
-   "q": "Choose the word most similar in meaning to Dogmatic.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Dogmatic.",
+   "options": [
     "Opponent",
     "Opinionated",
     "Support",
     "Forceful"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Dogmatic means Opinionated."
+   "answer": 1,
+   "explanation": "Dogmatic means Opinionated.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0532",
-   "q": "Choose the word most opposite in meaning to Candid.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Candid.",
+   "options": [
     "Obscure",
     "Stable",
     "Enthusiasm",
     "Evasive"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Candid is Evasive."
+   "answer": 3,
+   "explanation": "The opposite of Candid is Evasive.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0533",
-   "q": "What is the meaning of the idiom 'Nip in the bud'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Nip in the bud'?",
+   "options": [
     "Act wildly",
     "Destroy at an early stage",
     "Do or say the right thing",
     "A disreputable member of a family"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Nip in the bud' means Destroy at an early stage."
+   "answer": 1,
+   "explanation": "'Nip in the bud' means Destroy at an early stage.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0534",
-   "q": "Choose the one word substitute for: A life story written by oneself",
-   "o": [
+   "question": "Choose the one word substitute for: A life story written by oneself",
+   "options": [
     "Inimitable",
     "Autobiography",
     "Goldsmith",
     "Homicide"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "A life story written by oneself — Autobiography."
+   "answer": 1,
+   "explanation": "A life story written by oneself — Autobiography.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0535",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Excellent",
     "Persistent",
     "Jewellery",
     "Scissors"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Scissors."
+   "answer": 3,
+   "explanation": "The correct spelling is Scissors.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0536",
-   "q": "What is the plural of Axis?",
-   "o": [
+   "question": "What is the plural of Axis?",
+   "options": [
     "Brothers",
     "Axes",
     "Phenomena",
     "Buffaloes"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Axis is Axes."
+   "answer": 1,
+   "explanation": "The plural of Axis is Axes.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0537",
-   "q": "What is the feminine form of Bridegroom?",
-   "o": [
+   "question": "What is the feminine form of Bridegroom?",
+   "options": [
     "Stepmother",
     "Nun",
     "Vixen",
     "Bride"
    ],
-   "a": 3,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Bridegroom is Bride."
+   "answer": 3,
+   "explanation": "The feminine of Bridegroom is Bride.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0538",
-   "q": "What is the comparative degree of Busy?",
-   "o": [
+   "question": "What is the comparative degree of Busy?",
+   "options": [
     "Busier",
     "Weaker",
     "Hotter",
     "More important"
    ],
-   "a": 0,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Busy — Busier — Busiest."
+   "answer": 0,
+   "explanation": "Busy — Busier — Busiest.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0539",
-   "q": "Fill in the blank with the correct preposition: He is proud ____ his success.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: He is proud ____ his success.",
+   "options": [
     "of",
     "to",
     "from",
     "on"
    ],
-   "a": 0,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'of'."
+   "answer": 0,
+   "explanation": "The correct preposition is 'of'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0540",
-   "q": "What is a sentence with two independent clauses joined by a conjunction called?",
-   "o": [
+   "question": "What is a sentence with two independent clauses joined by a conjunction called?",
+   "options": [
     "Pride",
     "Compound sentence",
     "But also",
     "Interjection"
    ],
-   "a": 1,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 1,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0541",
-   "q": "Which mission aims to promote millets across the world?",
-   "o": [
+   "question": "Which mission aims to promote millets across the world?",
+   "options": [
     "International Year of Millets",
     "Make in India textile sector",
     "DigiLocker",
     "Agni-V"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0542",
-   "q": "The scheme Green Revolution was launched with which objective?",
-   "o": [
+   "question": "The scheme Green Revolution was launched with which objective?",
+   "options": [
     "Cash incentive for pregnant and lactating mothers",
     "Small savings scheme for the girl child",
     "Food grain self-sufficiency",
     "Loans to women and scheduled caste entrepreneurs"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Green Revolution — Food grain self-sufficiency."
+   "answer": 2,
+   "explanation": "Green Revolution — Food grain self-sufficiency.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0543",
-   "q": "Ek Bharat Shreshtha Bharat is associated with which of the following?",
-   "o": [
+   "question": "Ek Bharat Shreshtha Bharat is associated with which of the following?",
+   "options": [
     "Grassroots sports development",
     "Conservation of elephants and corridors",
     "Heritage city development and rejuvenation",
     "Cultural integration across states"
    ],
-   "a": 3,
-   "t": "Missions and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Ek Bharat Shreshtha Bharat — Cultural integration across states."
+   "answer": 3,
+   "explanation": "Ek Bharat Shreshtha Bharat — Cultural integration across states.",
+   "topic": "Missions and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0544",
-   "q": "Speaker is best described as which of the following?",
-   "o": [
+   "question": "Speaker is best described as which of the following?",
+   "options": [
     "Software stored permanently on a hardware chip",
     "Output device that produces sound",
     "Program that converts assembly language to machine code",
     "Universal character encoding standard"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Speaker — Output device that produces sound."
+   "answer": 1,
+   "explanation": "Speaker — Output device that produces sound.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0545",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + V - Capture the screen",
     "Ctrl + V - Paste the clipboard content",
     "Ctrl + V - Open the security options screen",
     "Ctrl + V - Undo the last action"
    ],
-   "a": 1,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + V - Paste the clipboard content is correctly matched."
+   "answer": 1,
+   "explanation": "Only Ctrl + V - Paste the clipboard content is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0546",
-   "q": "Which file extension is used for a Compressed image file?",
-   "o": [
+   "question": "Which file extension is used for a Compressed image file?",
+   "options": [
     ".jpg",
     ".py",
     ".html",
     ".docx"
    ],
-   "a": 0,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Compressed image file uses the extension .jpg."
+   "answer": 0,
+   "explanation": "Compressed image file uses the extension .jpg.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0547",
-   "q": "What is the full form of MRI?",
-   "o": [
+   "question": "What is the full form of MRI?",
+   "options": [
     "World Intellectual Property Organization",
     "Council of Scientific and Industrial Research",
     "Magnetic Resonance Imaging",
     "Group of Twenty major economies"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "MRI stands for Magnetic Resonance Imaging."
+   "answer": 2,
+   "explanation": "MRI stands for Magnetic Resonance Imaging.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0548",
-   "q": "Which agreement or organisation is described as: Control of international trade in endangered species?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Control of international trade in endangered species?",
+   "options": [
     "CITES",
     "Kigali Amendment",
     "Stockholm Convention",
     "International Solar Alliance"
    ],
-   "a": 0,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Control of international trade in endangered species describes the CITES."
+   "answer": 0,
+   "explanation": "Control of international trade in endangered species describes the CITES.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0549",
-   "q": "Which pollutant is described as: Causes skin lesions and cancer in groundwater?",
-   "o": [
+   "question": "Which pollutant is described as: Causes skin lesions and cancer in groundwater?",
+   "options": [
     "Arsenic",
     "Oil spills",
     "Chlorofluorocarbons",
     "Radioactive waste"
    ],
-   "a": 0,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Causes skin lesions and cancer in groundwater is linked to Arsenic."
+   "answer": 0,
+   "explanation": "Causes skin lesions and cancer in groundwater is linked to Arsenic.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0550",
-   "q": "Which biosphere reserve or wetland is located in Kerala and Tamil Nadu?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Kerala and Tamil Nadu?",
+   "options": [
     "Agasthyamalai Biosphere Reserve",
     "Panna Biosphere Reserve",
     "Pachmarhi Biosphere Reserve",
     "Loktak Lake"
    ],
-   "a": 0,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Agasthyamalai Biosphere Reserve is located in Kerala and Tamil Nadu."
+   "answer": 0,
+   "explanation": "Agasthyamalai Biosphere Reserve is located in Kerala and Tamil Nadu.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0551",
-   "q": "Which of the following pairs of law and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of law and purpose is correctly matched?",
+   "options": [
     "Wildlife Protection Act 1972 - Protection of wild animals and plants",
     "Wildlife Protection Act 1972 - Prevention of air pollution",
     "Wildlife Protection Act 1972 - Cleaning the Ganga",
     "Wildlife Protection Act 1972 - Funds for afforestation in lieu of diverted forest"
    ],
-   "a": 0,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Wildlife Protection Act 1972 - Protection of wild animals and plants is correctly matched."
+   "answer": 0,
+   "explanation": "Only Wildlife Protection Act 1972 - Protection of wild animals and plants is correctly matched.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0552",
-   "q": "What is the capital of San Marino?",
-   "o": [
+   "question": "What is the capital of San Marino?",
+   "options": [
     "San Marino",
     "Lusaka",
     "Bern",
     "Yamoussoukro"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of San Marino is San Marino."
+   "answer": 0,
+   "explanation": "The capital of San Marino is San Marino.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0553",
-   "q": "Which element has the chemical symbol Am?",
-   "o": [
+   "question": "Which element has the chemical symbol Am?",
+   "options": [
     "Americium",
     "Erbium",
     "Scandium",
     "Lutetium"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Am is the symbol of Americium."
+   "answer": 0,
+   "explanation": "Am is the symbol of Americium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0554",
-   "q": "Kolkata is the capital of which Indian state?",
-   "o": [
+   "question": "Kolkata is the capital of which Indian state?",
+   "options": [
     "Madhya Pradesh",
     "Tripura",
     "Nagaland",
     "West Bengal"
    ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 2,
-   "s": "generated",
-   "e": "Kolkata is the capital of West Bengal."
+   "answer": 3,
+   "explanation": "Kolkata is the capital of West Bengal.",
+   "topic": "States and Capitals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0555",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "National Emblem - Ganga",
     "National Emblem - Indian Rupee",
     "National Emblem - Bengal Tiger",
     "National Emblem - Lion Capital of Ashoka"
    ],
-   "a": 3,
-   "t": "National Symbols",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Emblem - Lion Capital of Ashoka is correctly matched."
+   "answer": 3,
+   "explanation": "Only National Emblem - Lion Capital of Ashoka is correctly matched.",
+   "topic": "National Symbols",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0556",
-   "q": "Which of the following descriptions matches Kalpana Chawla?",
-   "o": [
+   "question": "Which of the following descriptions matches Kalpana Chawla?",
+   "options": [
     "First woman to travel to space from India",
     "First President of India",
     "First Indian Governor-General of India",
     "First Indian to win the Miss Universe title"
    ],
-   "a": 0,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "Kalpana Chawla is associated with: First woman to travel to space from India."
+   "answer": 0,
+   "explanation": "Kalpana Chawla is associated with: First woman to travel to space from India.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0557",
-   "q": "Kathakali is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Kathakali is a folk or classical dance form of which state?",
+   "options": [
     "Kerala",
     "Odisha",
     "Bihar",
     "Jammu and Kashmir"
    ],
-   "a": 0,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Kathakali belongs to Kerala."
+   "answer": 0,
+   "explanation": "Kathakali belongs to Kerala.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0558",
-   "q": "Which of the following festivals is associated with Kerala?",
-   "o": [
+   "question": "Which of the following festivals is associated with Kerala?",
+   "options": [
     "Gudi Padwa",
     "Chapchar Kut",
     "Myoko",
     "Onam"
    ],
-   "a": 3,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Onam is associated with Kerala."
+   "answer": 3,
+   "explanation": "Onam is associated with Kerala.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0559",
-   "q": "Multai is the origin of which river?",
-   "o": [
+   "question": "Multai is the origin of which river?",
+   "options": [
     "Tapti",
     "Ganga",
     "Ravi",
     "Kosi"
    ],
-   "a": 0,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Multai is the origin of the river Tapti."
+   "answer": 0,
+   "explanation": "Multai is the origin of the river Tapti.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0560",
-   "q": "Which of the following dams is built on the river Chenab?",
-   "o": [
+   "question": "Which of the following dams is built on the river Chenab?",
+   "options": [
     "Salal Dam",
     "Nagarjuna Sagar Dam",
     "Idukki Dam",
     "Baglihar Dam"
    ],
-   "a": 0,
-   "t": "Dams of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Salal Dam is built on the Chenab."
+   "answer": 0,
+   "explanation": "Salal Dam is built on the Chenab.",
+   "topic": "Dams of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0561",
-   "q": "Kanha Tiger Reserve is located in which state?",
-   "o": [
+   "question": "Kanha Tiger Reserve is located in which state?",
+   "options": [
     "Madhya Pradesh",
     "Chhattisgarh",
     "Maharashtra",
     "Ladakh"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Kanha Tiger Reserve is located in Madhya Pradesh."
+   "answer": 0,
+   "explanation": "Kanha Tiger Reserve is located in Madhya Pradesh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0562",
-   "q": "Which of the following passes is located in Uttarakhand?",
-   "o": [
+   "question": "Which of the following passes is located in Uttarakhand?",
+   "options": [
     "Se La Pass",
     "Shencottah Gap",
     "Niti Pass",
     "Pangsau Pass"
    ],
-   "a": 2,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Niti Pass is a pass in Uttarakhand."
+   "answer": 2,
+   "explanation": "Niti Pass is a pass in Uttarakhand.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0563",
-   "q": "Which physical quantity is measured in Joule?",
-   "o": [
+   "question": "Which physical quantity is measured in Joule?",
+   "options": [
     "Energy",
     "Length",
     "Electric charge",
     "Wave number"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Joule is the SI unit of Energy."
+   "answer": 0,
+   "explanation": "Joule is the SI unit of Energy.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0564",
-   "q": "Which instrument is used to measure Turbidity of liquid?",
-   "o": [
+   "question": "Which instrument is used to measure Turbidity of liquid?",
+   "options": [
     "Nephelometer",
     "Spectrometer",
     "Transducer",
     "Audiometer"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Nephelometer is used to measure Turbidity of liquid."
+   "answer": 0,
+   "explanation": "Nephelometer is used to measure Turbidity of liquid.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0565",
-   "q": "Which body part performs the function of Secretion of thyroxine?",
-   "o": [
+   "question": "Which body part performs the function of Secretion of thyroxine?",
+   "options": [
     "Nephrons",
     "Thyroid gland",
     "Skin",
     "Cornea"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Secretion of thyroxine is performed by the Thyroid gland."
+   "answer": 1,
+   "explanation": "Secretion of thyroxine is performed by the Thyroid gland.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0566",
-   "q": "Which disease is caused by the deficiency of Vitamin D?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Vitamin D?",
+   "options": [
     "Rickets",
     "Anaemia",
     "Haemolysis of red blood cells",
     "Megaloblastic anaemia"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin D causes Rickets."
+   "answer": 0,
+   "explanation": "Deficiency of Vitamin D causes Rickets.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0567",
-   "q": "Yersinia pestis bacteria causes which of the following diseases?",
-   "o": [
+   "question": "Yersinia pestis bacteria causes which of the following diseases?",
+   "options": [
     "Hepatitis A",
     "Plague",
     "Poliomyelitis",
     "Mumps"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Yersinia pestis bacteria causes Plague."
+   "answer": 1,
+   "explanation": "Yersinia pestis bacteria causes Plague.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0568",
-   "q": "Who is credited with Motor car?",
-   "o": [
+   "question": "Who is credited with Motor car?",
+   "options": [
     "Henry Cavendish",
     "Karl Benz",
     "Joseph Priestley",
     "Daniel Rutherford"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Motor car — Karl Benz."
+   "answer": 1,
+   "explanation": "Motor car — Karl Benz.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0569",
-   "q": "What is the chemical name of Butter of zinc?",
-   "o": [
+   "question": "What is the chemical name of Butter of zinc?",
+   "options": [
     "Zinc chloride (ZnCl2)",
     "Solid carbon dioxide (CO2)",
     "Hydrochloric acid (HCl)",
     "Magnesium hydroxide (Mg(OH)2)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Butter of zinc is Zinc chloride (ZnCl2)."
+   "answer": 0,
+   "explanation": "Butter of zinc is Zinc chloride (ZnCl2).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0570",
-   "q": "Which branch of science deals with Viruses?",
-   "o": [
+   "question": "Which branch of science deals with Viruses?",
+   "options": [
     "Nuclear physics",
     "Virology",
     "Numismatics",
     "Philately"
    ],
-   "a": 1,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Virology deals with Viruses."
+   "answer": 1,
+   "explanation": "Virology deals with Viruses.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0571",
-   "q": "Which of the following statements about Saturn is correct?",
-   "o": [
+   "question": "Which of the following statements about Saturn is correct?",
+   "options": [
     "Nebula",
     "Halley's Comet",
     "Black hole",
     "Saturn"
    ],
-   "a": 3,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Saturn: Saturn."
+   "answer": 3,
+   "explanation": "Saturn: Saturn.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0572",
-   "q": "Daniel Fahrenheit is known for which of the following?",
-   "o": [
+   "question": "Daniel Fahrenheit is known for which of the following?",
+   "options": [
     "Missile and space launch technology",
     "Fahrenheit temperature scale",
     "Plant physiology and radio waves",
     "Statistics and Indian planning"
    ],
-   "a": 1,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Daniel Fahrenheit is known for Fahrenheit temperature scale."
+   "answer": 1,
+   "explanation": "Daniel Fahrenheit is known for Fahrenheit temperature scale.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0573",
-   "q": "In which year did the following event take place: First general elections held in India?",
-   "o": [
+   "question": "In which year did the following event take place: First general elections held in India?",
+   "options": [
     "1931",
     "1952",
     "1948",
     "1950"
    ],
-   "a": 1,
-   "t": "Indian History Events",
-   "l": 2,
-   "s": "generated",
-   "e": "First general elections held in India — 1952."
+   "answer": 1,
+   "explanation": "First general elections held in India — 1952.",
+   "topic": "Indian History Events",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0574",
-   "q": "In which year did the following event take place: Treaty of Rome establishing the EEC?",
-   "o": [
+   "question": "In which year did the following event take place: Treaty of Rome establishing the EEC?",
+   "options": [
     "1953",
     "1776",
     "1957",
     "1863"
    ],
-   "a": 2,
-   "t": "World History Events",
-   "l": 2,
-   "s": "generated",
-   "e": "Treaty of Rome establishing the EEC — 1957."
+   "answer": 2,
+   "explanation": "Treaty of Rome establishing the EEC — 1957.",
+   "topic": "World History Events",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0575",
-   "q": "Rajaraja Chola I founded which of the following?",
-   "o": [
+   "question": "Rajaraja Chola I founded which of the following?",
+   "options": [
     "Chola Dynasty (imperial phase)",
     "Khilji Dynasty",
     "Maratha Empire",
     "Kushana Empire"
    ],
-   "a": 0,
-   "t": "Dynasties",
-   "l": 3,
-   "s": "generated",
-   "e": "Rajaraja Chola I founded the Chola Dynasty (imperial phase)."
+   "answer": 0,
+   "explanation": "Rajaraja Chola I founded the Chola Dynasty (imperial phase).",
+   "topic": "Dynasties",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0576",
-   "q": "Which ruler is associated with the following: Established Din-i-Ilahi and the Ibadat Khana?",
-   "o": [
+   "question": "Which ruler is associated with the following: Established Din-i-Ilahi and the Ibadat Khana?",
+   "options": [
     "Akbar",
     "Chandragupta Maurya",
     "Shivaji",
     "Gautama Buddha"
    ],
-   "a": 0,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "Established Din-i-Ilahi and the Ibadat Khana is associated with Akbar."
+   "answer": 0,
+   "explanation": "Established Din-i-Ilahi and the Ibadat Khana is associated with Akbar.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0577",
-   "q": "Which freedom fighter is described as Chief architect of the Indian Constitution?",
-   "o": [
+   "question": "Which freedom fighter is described as Chief architect of the Indian Constitution?",
+   "options": [
     "B. R. Ambedkar",
     "Mahatma Gandhi",
     "Sukhdev",
     "Rash Behari Bose"
    ],
-   "a": 0,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "Chief architect of the Indian Constitution refers to B. R. Ambedkar."
+   "answer": 0,
+   "explanation": "Chief architect of the Indian Constitution refers to B. R. Ambedkar.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0578",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Round Table Conferences - 1946",
     "Round Table Conferences - 1929",
     "Round Table Conferences - 1932",
     "Round Table Conferences - 1930"
    ],
-   "a": 3,
-   "t": "National Movements",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Round Table Conferences - 1930 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Round Table Conferences - 1930 is correctly matched.",
+   "topic": "National Movements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0579",
-   "q": "Which part of the Constitution deals with: Composition of the Lok Sabha?",
-   "o": [
+   "question": "Which part of the Constitution deals with: Composition of the Lok Sabha?",
+   "options": [
     "Part I, Articles 1-4",
     "Article 81",
     "Article 324",
     "Article 21"
    ],
-   "a": 1,
-   "t": "Constitution Articles",
-   "l": 2,
-   "s": "generated",
-   "e": "Composition of the Lok Sabha is covered under Article 81."
+   "answer": 1,
+   "explanation": "Composition of the Lok Sabha is covered under Article 81.",
+   "topic": "Constitution Articles",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0580",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "86th Amendment - 1989",
     "86th Amendment - 2003",
     "86th Amendment - 1951",
     "86th Amendment - 2002"
    ],
-   "a": 3,
-   "t": "Constitutional Amendments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 86th Amendment - 2002 is correctly matched."
+   "answer": 3,
+   "explanation": "Only 86th Amendment - 2002 is correctly matched.",
+   "topic": "Constitutional Amendments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0581",
-   "q": "Who conducts elections in India?",
-   "o": [
+   "question": "Who conducts elections in India?",
+   "options": [
     "The Chief Justice of India",
     "11",
     "Election Commission of India",
     "Powers of Municipalities"
    ],
-   "a": 2,
-   "t": "Constitution Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "Who conducts elections in India — Election Commission of India."
+   "answer": 2,
+   "explanation": "Who conducts elections in India — Election Commission of India.",
+   "topic": "Constitution Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0582",
-   "q": "Which institution is described as: Recruits civil servants for the Union?",
-   "o": [
+   "question": "Which institution is described as: Recruits civil servants for the Union?",
+   "options": [
     "Union Public Service Commission",
     "President of India",
     "Central Vigilance Commission",
     "Telecom Regulatory Authority of India"
    ],
-   "a": 0,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Recruits civil servants for the Union describes Union Public Service Commission."
+   "answer": 0,
+   "explanation": "Recruits civil servants for the Union describes Union Public Service Commission.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0583",
-   "q": "On which date is Republic Day (India) observed?",
-   "o": [
+   "question": "On which date is Republic Day (India) observed?",
+   "options": [
     "5 June",
     "2 December",
     "20 October",
     "26 January"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "Republic Day (India) is observed on 26 January."
+   "answer": 3,
+   "explanation": "Republic Day (India) is observed on 26 January.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0584",
-   "q": "Where is the headquarters of International Court of Justice?",
-   "o": [
+   "question": "Where is the headquarters of International Court of Justice?",
+   "options": [
     "The Hague",
     "Washington, D.C.",
     "Vienna",
     "Montreal"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "International Court of Justice is headquartered at The Hague."
+   "answer": 0,
+   "explanation": "International Court of Justice is headquartered at The Hague.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0585",
-   "q": "Beighton Cup is associated with which sport?",
-   "o": [
+   "question": "Beighton Cup is associated with which sport?",
+   "options": [
     "Cricket",
     "Hockey",
     "Tennis",
     "Football"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Beighton Cup is associated with Hockey."
+   "answer": 1,
+   "explanation": "Beighton Cup is associated with Hockey.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0586",
-   "q": "Which award is described as: Second highest military decoration of India?",
-   "o": [
+   "question": "Which award is described as: Second highest military decoration of India?",
+   "options": [
     "Academy Award (Oscar)",
     "Shanti Swarup Bhatnagar Prize",
     "Maha Vir Chakra",
     "Param Vir Chakra"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Second highest military decoration of India describes Maha Vir Chakra."
+   "answer": 2,
+   "explanation": "Second highest military decoration of India describes Maha Vir Chakra.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0587",
-   "q": "Who is the author of The Interpretation of Dreams?",
-   "o": [
+   "question": "Who is the author of The Interpretation of Dreams?",
+   "options": [
     "Sachin Tendulkar",
     "William Shakespeare",
     "Sigmund Freud",
     "Rabindranath Tagore"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "The Interpretation of Dreams is written by Sigmund Freud."
+   "answer": 2,
+   "explanation": "The Interpretation of Dreams is written by Sigmund Freud.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0588",
-   "q": "Which of the following achievements belongs to England?",
-   "o": [
+   "question": "Which of the following achievements belongs to England?",
+   "options": [
     "First FIFA World Cup was held in",
     "First Cricket World Cup was held in",
     "First country to host the modern Olympic Games",
     "First country to land a man on the Moon"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First Cricket World Cup was held in belongs to England."
+   "answer": 1,
+   "explanation": "First Cricket World Cup was held in belongs to England.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0589",
-   "q": "Which is the southernmost point of India?",
-   "o": [
+   "question": "Which is the southernmost point of India?",
+   "options": [
     "Indira Point",
     "Jodhpur",
     "Kolkata",
     "Lucknow"
    ],
-   "a": 0,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 0,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0590",
-   "q": "Which country lies to the south of India?",
-   "o": [
+   "question": "Which country lies to the south of India?",
+   "options": [
     "India",
     "Rome",
     "Sri Lanka",
     "France"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0591",
-   "q": "Type of climate of India?",
-   "o": [
+   "question": "Type of climate of India?",
+   "options": [
     "Tropical monsoon climate",
     "Metamorphic rock",
     "Nitrogen",
     "Aluminium"
    ],
-   "a": 0,
-   "t": "Climate and Atmosphere",
-   "l": 2,
-   "s": "generated",
-   "e": "Type of climate of India — Tropical monsoon climate."
+   "answer": 0,
+   "explanation": "Type of climate of India — Tropical monsoon climate.",
+   "topic": "Climate and Atmosphere",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0592",
-   "q": "Which of the following pairs of soil and feature is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of soil and feature is NOT correctly matched?",
+   "options": [
     "Black soil - Also called regur, ideal for cotton",
     "Saline soil - Contains excess salt, found in dry coastal areas",
     "Laterite soil - Formed by leaching in high rainfall areas",
     "Mountain soil - Also called regur, ideal for cotton"
    ],
-   "a": 3,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Mountain soil - Also called regur, ideal for cotton is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Mountain soil - Also called regur, ideal for cotton is not correctly matched.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0593",
-   "q": "Which mineral is found in large quantities in Andhra Pradesh?",
-   "o": [
+   "question": "Which mineral is found in large quantities in Andhra Pradesh?",
+   "options": [
     "Barytes",
     "Bauxite",
     "Chromite",
     "Graphite"
    ],
-   "a": 0,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Barytes is found in Andhra Pradesh."
+   "answer": 0,
+   "explanation": "Barytes is found in Andhra Pradesh.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0594",
-   "q": "Which is the oldest surviving bank in India?",
-   "o": [
+   "question": "Which is the oldest surviving bank in India?",
+   "options": [
     "Progressive tax",
     "Bank of Baroda",
     "Federal Reserve",
     "Public Distribution System"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0595",
-   "q": "Choose the word most similar in meaning to Ingenious.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Ingenious.",
+   "options": [
     "Unstable",
     "Revenge",
     "Clever",
     "Opinionated"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Ingenious means Clever."
+   "answer": 2,
+   "explanation": "Ingenious means Clever.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0596",
-   "q": "Choose the word most opposite in meaning to Refute.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Refute.",
+   "options": [
     "Fine",
     "Confirm",
     "Wealthy",
     "Liking"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Refute is Confirm."
+   "answer": 1,
+   "explanation": "The opposite of Refute is Confirm.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0597",
-   "q": "What is the meaning of the idiom 'To give a piece of one's mind'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'To give a piece of one's mind'?",
+   "options": [
     "Agree completely",
     "Exaggerated speech",
     "Make every effort",
     "To rebuke frankly"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'To give a piece of one's mind' means To rebuke frankly."
+   "answer": 3,
+   "explanation": "'To give a piece of one's mind' means To rebuke frankly.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0598",
-   "q": "Choose the one word substitute for: A person who guides tourists",
-   "o": [
+   "question": "Choose the one word substitute for: A person who guides tourists",
+   "options": [
     "Omnivores",
     "Novice",
     "Antidote",
     "Guide"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "A person who guides tourists — Guide."
+   "answer": 3,
+   "explanation": "A person who guides tourists — Guide.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0599",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Immediate",
     "Discipline",
     "Government",
     "Withhold"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Government."
+   "answer": 2,
+   "explanation": "The correct spelling is Government.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0600",
-   "q": "What is the plural of Medium?",
-   "o": [
+   "question": "What is the plural of Medium?",
+   "options": [
     "Salmon",
     "Media",
     "Volcanoes",
     "Ladies"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Medium is Media."
+   "answer": 1,
+   "explanation": "The plural of Medium is Media.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0601",
-   "q": "What is the feminine form of Bachelor?",
-   "o": [
+   "question": "What is the feminine form of Bachelor?",
+   "options": [
     "Widow",
     "Baroness",
     "Spinster",
     "Daughter"
    ],
-   "a": 2,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Bachelor is Spinster."
+   "answer": 2,
+   "explanation": "The feminine of Bachelor is Spinster.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0602",
-   "q": "What is the comparative degree of Wise?",
-   "o": [
+   "question": "What is the comparative degree of Wise?",
+   "options": [
     "Fatter",
     "Wiser",
     "Finer",
     "Safer"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Wise — Wiser — Wisest."
+   "answer": 1,
+   "explanation": "Wise — Wiser — Wisest.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0603",
-   "q": "What is the collective noun for a group of lions?",
-   "o": [
+   "question": "What is the collective noun for a group of lions?",
+   "options": [
     "Subject",
     "Pride",
     "Chosen",
     "Written"
    ],
-   "a": 1,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 1,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0604",
-   "q": "Which observatory is used by ISRO for X-ray astronomy?",
-   "o": [
+   "question": "Which observatory is used by ISRO for X-ray astronomy?",
+   "options": [
     "AstroSat",
     "2014",
     "Madhya Pradesh",
     "BRICS Summit"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0605",
-   "q": "The scheme PM Surya Ghar Muft Bijli Yojana was launched with which objective?",
-   "o": [
+   "question": "The scheme PM Surya Ghar Muft Bijli Yojana was launched with which objective?",
+   "options": [
     "Digital delivery of services and digital literacy",
     "Irrigation coverage and water use efficiency",
     "Rooftop solar power for households",
     "Promotion of electric and hybrid vehicles"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "PM Surya Ghar Muft Bijli Yojana — Rooftop solar power for households."
+   "answer": 2,
+   "explanation": "PM Surya Ghar Muft Bijli Yojana — Rooftop solar power for households.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0606",
-   "q": "Mission LiFE is associated with which of the following?",
-   "o": [
+   "question": "Mission LiFE is associated with which of the following?",
+   "options": [
     "Cleanliness ranking of Indian cities",
     "Communication and weather satellites",
     "Lifestyle for environment movement",
     "Solar observation from the Lagrange point L1"
    ],
-   "a": 2,
-   "t": "Missions and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Mission LiFE — Lifestyle for environment movement."
+   "answer": 2,
+   "explanation": "Mission LiFE — Lifestyle for environment movement.",
+   "topic": "Missions and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0607",
-   "q": "Flowchart is best described as which of the following?",
-   "o": [
+   "question": "Flowchart is best described as which of the following?",
+   "options": [
     "Copy of data kept for recovery",
     "Delivery of computing services over the internet",
     "Diagram of the steps of an algorithm",
     "Organised collection of data"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Flowchart — Diagram of the steps of an algorithm."
+   "answer": 2,
+   "explanation": "Flowchart — Diagram of the steps of an algorithm.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0608",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + O - Copy the selected item",
     "Ctrl + O - Send the selected item to the Recycle Bin",
     "Ctrl + O - Open an existing file",
     "Ctrl + O - Paste the clipboard content"
    ],
-   "a": 2,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + O - Open an existing file is correctly matched."
+   "answer": 2,
+   "explanation": "Only Ctrl + O - Open an existing file is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0609",
-   "q": "Which file extension is used for a Compressed archive file?",
-   "o": [
+   "question": "Which file extension is used for a Compressed archive file?",
+   "options": [
     ".jpg",
     ".rar",
     ".xml",
     ".mp3"
    ],
-   "a": 1,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Compressed archive file uses the extension .rar."
+   "answer": 1,
+   "explanation": "Compressed archive file uses the extension .rar.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0610",
-   "q": "What is the full form of CLAT?",
-   "o": [
+   "question": "What is the full form of CLAT?",
+   "options": [
     "Central Teacher Eligibility Test",
     "Common Law Admission Test",
     "Regional Rural Bank",
     "Minimum Support Price"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "CLAT stands for Common Law Admission Test."
+   "answer": 1,
+   "explanation": "CLAT stands for Common Law Admission Test.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0611",
-   "q": "Which agreement or organisation is described as: Disaster risk reduction?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Disaster risk reduction?",
+   "options": [
     "Sendai Framework",
     "Ramsar Convention",
     "CITES",
     "Vienna Convention"
    ],
-   "a": 0,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Disaster risk reduction describes the Sendai Framework."
+   "answer": 0,
+   "explanation": "Disaster risk reduction describes the Sendai Framework.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0612",
-   "q": "Which pollutant is described as: Causes hearing loss?",
-   "o": [
+   "question": "Which pollutant is described as: Causes hearing loss?",
+   "options": [
     "Noise above 85 decibels",
     "Carbon dioxide",
     "Arsenic",
     "Nitrate from fertilisers"
    ],
-   "a": 0,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Causes hearing loss is linked to Noise above 85 decibels."
+   "answer": 0,
+   "explanation": "Causes hearing loss is linked to Noise above 85 decibels.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0613",
-   "q": "Which biosphere reserve or wetland is located in Odisha?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Odisha?",
+   "options": [
     "Chilika Lake",
     "Sundarbans Biosphere Reserve",
     "Agasthyamalai Biosphere Reserve",
     "Keoladeo Ghana"
    ],
-   "a": 0,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Chilika Lake is located in Odisha."
+   "answer": 0,
+   "explanation": "Chilika Lake is located in Odisha.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0614",
-   "q": "Which of the following pairs of law and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of law and purpose is correctly matched?",
+   "options": [
     "Wildlife Protection Act 1972 - Conservation of tigers",
     "Wildlife Protection Act 1972 - Protection of wild animals and plants",
     "Wildlife Protection Act 1972 - Conservation of biological diversity",
     "Wildlife Protection Act 1972 - Prevention of air pollution"
    ],
-   "a": 1,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Wildlife Protection Act 1972 - Protection of wild animals and plants is correctly matched."
+   "answer": 1,
+   "explanation": "Only Wildlife Protection Act 1972 - Protection of wild animals and plants is correctly matched.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0615",
-   "q": "What is the capital of Malta?",
-   "o": [
+   "question": "What is the capital of Malta?",
+   "options": [
     "Dhaka",
     "Islamabad",
     "Tunis",
     "Valletta"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Malta is Valletta."
+   "answer": 3,
+   "explanation": "The capital of Malta is Valletta.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0616",
-   "q": "Which element has the chemical symbol Mt?",
-   "o": [
+   "question": "Which element has the chemical symbol Mt?",
+   "options": [
     "Lutetium",
     "Ytterbium",
     "Meitnerium",
     "Terbium"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Mt is the symbol of Meitnerium."
+   "answer": 2,
+   "explanation": "Mt is the symbol of Meitnerium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0617",
-   "q": "Aizawl is the capital of which Indian state?",
-   "o": [
+   "question": "Aizawl is the capital of which Indian state?",
+   "options": [
     "Haryana",
     "Odisha",
     "Mizoram",
     "Tamil Nadu"
    ],
-   "a": 2,
-   "t": "States and Capitals",
-   "l": 2,
-   "s": "generated",
-   "e": "Aizawl is the capital of Mizoram."
+   "answer": 2,
+   "explanation": "Aizawl is the capital of Mizoram.",
+   "topic": "States and Capitals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0618",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "National Heritage Animal - Vande Mataram",
     "National Heritage Animal - Indian Elephant",
     "National Heritage Animal - King Cobra",
     "National Heritage Animal - Jana Gana Mana"
    ],
-   "a": 1,
-   "t": "National Symbols",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Heritage Animal - Indian Elephant is correctly matched."
+   "answer": 1,
+   "explanation": "Only National Heritage Animal - Indian Elephant is correctly matched.",
+   "topic": "National Symbols",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0619",
-   "q": "Which of the following descriptions matches Justice Fathima Beevi?",
-   "o": [
+   "question": "Which of the following descriptions matches Justice Fathima Beevi?",
+   "options": [
     "First Indian to receive the Bharat Ratna",
     "First Indian woman to become a judge of the Supreme Court",
     "First woman to win a Nobel Prize in India",
     "First Indian Governor-General of India"
    ],
-   "a": 1,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "Justice Fathima Beevi is associated with: First Indian woman to become a judge of the Supreme Court."
+   "answer": 1,
+   "explanation": "Justice Fathima Beevi is associated with: First Indian woman to become a judge of the Supreme Court.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0620",
-   "q": "Tamasha is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Tamasha is a folk or classical dance form of which state?",
+   "options": [
     "Rajasthan",
     "Andhra Pradesh",
     "Maharashtra",
     "Mizoram"
    ],
-   "a": 2,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Tamasha belongs to Maharashtra."
+   "answer": 2,
+   "explanation": "Tamasha belongs to Maharashtra.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0621",
-   "q": "Which of the following festivals is associated with Punjab?",
-   "o": [
+   "question": "Which of the following festivals is associated with Punjab?",
+   "options": [
     "Onam",
     "Baisakhi",
     "Vishu",
     "Hemis Festival"
    ],
-   "a": 1,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Baisakhi is associated with Punjab."
+   "answer": 1,
+   "explanation": "Baisakhi is associated with Punjab.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0622",
-   "q": "Sivagiri Hills is the origin of which river?",
-   "o": [
+   "question": "Sivagiri Hills is the origin of which river?",
+   "options": [
     "Son",
     "Periyar",
     "Krishna",
     "Ravi"
    ],
-   "a": 1,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Sivagiri Hills is the origin of the river Periyar."
+   "answer": 1,
+   "explanation": "Sivagiri Hills is the origin of the river Periyar.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0623",
-   "q": "Which of the following pairs of dam and river is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of dam and river is correctly matched?",
+   "options": [
     "Farakka Barrage - Ganga",
     "Farakka Barrage - Barakar",
     "Farakka Barrage - Bhagirathi",
     "Farakka Barrage - Narmada"
    ],
-   "a": 0,
-   "t": "Dams of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Farakka Barrage - Ganga is correctly matched."
+   "answer": 0,
+   "explanation": "Only Farakka Barrage - Ganga is correctly matched.",
+   "topic": "Dams of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0624",
-   "q": "Chandra Prabha Wildlife Sanctuary is located in which state?",
-   "o": [
+   "question": "Chandra Prabha Wildlife Sanctuary is located in which state?",
+   "options": [
     "Odisha",
     "Karnataka",
     "Uttar Pradesh",
     "Tamil Nadu"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Chandra Prabha Wildlife Sanctuary is located in Uttar Pradesh."
+   "answer": 2,
+   "explanation": "Chandra Prabha Wildlife Sanctuary is located in Uttar Pradesh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0625",
-   "q": "Which of the following passes is located in Jammu and Kashmir?",
-   "o": [
+   "question": "Which of the following passes is located in Jammu and Kashmir?",
+   "options": [
     "Pir Panjal Pass",
     "Chang La",
     "Haldighati Pass",
     "Khardung La"
    ],
-   "a": 0,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Pir Panjal Pass is a pass in Jammu and Kashmir."
+   "answer": 0,
+   "explanation": "Pir Panjal Pass is a pass in Jammu and Kashmir.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0626",
-   "q": "Which physical quantity is measured in Katal?",
-   "o": [
+   "question": "Which physical quantity is measured in Katal?",
+   "options": [
     "Magnetic flux density",
     "Catalytic activity",
     "Luminous intensity",
     "Electric charge"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Katal is the SI unit of Catalytic activity."
+   "answer": 1,
+   "explanation": "Katal is the SI unit of Catalytic activity.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0627",
-   "q": "Seismograph is used for which of the following purposes?",
-   "o": [
+   "question": "Seismograph is used for which of the following purposes?",
+   "options": [
     "Gas pressure",
     "Earthquakes",
     "Plant growth",
     "Rotational speed"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Seismograph measures Earthquakes."
+   "answer": 1,
+   "explanation": "Seismograph measures Earthquakes.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0628",
-   "q": "Which body part performs the function of Transport of nutrients?",
-   "o": [
+   "question": "Which body part performs the function of Transport of nutrients?",
+   "options": [
     "Platelets",
     "Lungs",
     "Plasma",
     "Thyroid gland"
    ],
-   "a": 2,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Transport of nutrients is performed by the Plasma."
+   "answer": 2,
+   "explanation": "Transport of nutrients is performed by the Plasma.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0629",
-   "q": "Which disease is caused by the deficiency of Potassium?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Potassium?",
+   "options": [
     "Megaloblastic anaemia",
     "Muscle weakness",
     "Ariboflavinosis",
     "Night blindness"
    ],
-   "a": 1,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Potassium causes Muscle weakness."
+   "answer": 1,
+   "explanation": "Deficiency of Potassium causes Muscle weakness.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0630",
-   "q": "Fungi causes which of the following diseases?",
-   "o": [
+   "question": "Fungi causes which of the following diseases?",
+   "options": [
     "Amoebic dysentery",
     "Dengue",
     "Athlete's foot",
     "Plague"
    ],
-   "a": 2,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Fungi causes Athlete's foot."
+   "answer": 2,
+   "explanation": "Fungi causes Athlete's foot.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0631",
-   "q": "Who is credited with Theory of relativity?",
-   "o": [
+   "question": "Who is credited with Theory of relativity?",
+   "options": [
     "Max Planck",
     "Wilhelm Roentgen",
     "Edward Jenner",
     "Albert Einstein"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Theory of relativity — Albert Einstein."
+   "answer": 3,
+   "explanation": "Theory of relativity — Albert Einstein.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0632",
-   "q": "Calcium sulphate hemihydrate (CaSO4.1/2H2O) is commonly known as which of the following?",
-   "o": [
+   "question": "Calcium sulphate hemihydrate (CaSO4.1/2H2O) is commonly known as which of the following?",
+   "options": [
     "Caustic potash",
     "Plaster of Paris",
     "Borax",
     "Salt cake"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Calcium sulphate hemihydrate (CaSO4.1/2H2O) is commonly known as Plaster of Paris."
+   "answer": 1,
+   "explanation": "Calcium sulphate hemihydrate (CaSO4.1/2H2O) is commonly known as Plaster of Paris.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0633",
-   "q": "Which branch of science deals with Physics of celestial objects?",
-   "o": [
+   "question": "Which branch of science deals with Physics of celestial objects?",
+   "options": [
     "Radiology",
     "Biochemistry",
     "Ecology",
     "Astrophysics"
    ],
-   "a": 3,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Astrophysics deals with Physics of celestial objects."
+   "answer": 3,
+   "explanation": "Astrophysics deals with Physics of celestial objects.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0634",
-   "q": "Which of the following statements about Supernova is correct?",
-   "o": [
+   "question": "Which of the following statements about Supernova is correct?",
+   "options": [
     "Black hole",
     "Mercury",
     "Supernova",
     "Mars"
    ],
-   "a": 2,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Supernova: Supernova."
+   "answer": 2,
+   "explanation": "Supernova: Supernova.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0635",
-   "q": "Max Planck is known for which of the following?",
-   "o": [
+   "question": "Max Planck is known for which of the following?",
+   "options": [
     "Synthesis of nucleic acids",
     "Discovery of radium and polonium",
     "Bacteriology and tuberculosis bacillus",
     "Quantum theory"
    ],
-   "a": 3,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Max Planck is known for Quantum theory."
+   "answer": 3,
+   "explanation": "Max Planck is known for Quantum theory.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0636",
-   "q": "In which year did the following event take place: Launch of the Non-Cooperation Movement?",
-   "o": [
+   "question": "In which year did the following event take place: Launch of the Non-Cooperation Movement?",
+   "options": [
     "1947",
     "1942",
     "1998",
     "1920"
    ],
-   "a": 3,
-   "t": "Indian History Events",
-   "l": 2,
-   "s": "generated",
-   "e": "Launch of the Non-Cooperation Movement — 1920."
+   "answer": 3,
+   "explanation": "Launch of the Non-Cooperation Movement — 1920.",
+   "topic": "Indian History Events",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0637",
-   "q": "In which year did the following event take place: Beginning of the Korean War?",
-   "o": [
+   "question": "In which year did the following event take place: Beginning of the Korean War?",
+   "options": [
     "1997",
     "1865",
     "1871",
     "1950"
    ],
-   "a": 3,
-   "t": "World History Events",
-   "l": 2,
-   "s": "generated",
-   "e": "Beginning of the Korean War — 1950."
+   "answer": 3,
+   "explanation": "Beginning of the Korean War — 1950.",
+   "topic": "World History Events",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0638",
-   "q": "Which of the following pairs of dynasty and founder is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of dynasty and founder is correctly matched?",
+   "options": [
     "Pala Dynasty - Simhavarman",
     "Pala Dynasty - Gopala",
     "Pala Dynasty - Qutb-ud-din Aibak",
     "Pala Dynasty - Harihara and Bukka"
    ],
-   "a": 1,
-   "t": "Dynasties",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pala Dynasty - Gopala is correctly matched."
+   "answer": 1,
+   "explanation": "Only Pala Dynasty - Gopala is correctly matched.",
+   "topic": "Dynasties",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0639",
-   "q": "Which ruler is associated with the following: Tenth Sikh Guru and founder of the Khalsa?",
-   "o": [
+   "question": "Which ruler is associated with the following: Tenth Sikh Guru and founder of the Khalsa?",
+   "options": [
     "Bahadur Shah Zafar",
     "Guru Gobind Singh",
     "Rajaraja Chola I",
     "Shivaji"
    ],
-   "a": 1,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "Tenth Sikh Guru and founder of the Khalsa is associated with Guru Gobind Singh."
+   "answer": 1,
+   "explanation": "Tenth Sikh Guru and founder of the Khalsa is associated with Guru Gobind Singh.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0640",
-   "q": "Which freedom fighter is described as Author of the national anthem of India?",
-   "o": [
+   "question": "Which freedom fighter is described as Author of the national anthem of India?",
+   "options": [
     "Kunwar Singh",
     "Rabindranath Tagore",
     "Jawaharlal Nehru",
     "Sukhdev"
    ],
-   "a": 1,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "Author of the national anthem of India refers to Rabindranath Tagore."
+   "answer": 1,
+   "explanation": "Author of the national anthem of India refers to Rabindranath Tagore.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0641",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Lahore Session of the INC - 1917",
     "Lahore Session of the INC - 1919",
     "Lahore Session of the INC - 1930",
     "Lahore Session of the INC - 1929"
    ],
-   "a": 3,
-   "t": "National Movements",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Lahore Session of the INC - 1929 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Lahore Session of the INC - 1929 is correctly matched.",
+   "topic": "National Movements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0642",
-   "q": "Which part of the Constitution deals with: Emergency due to war or external aggression?",
-   "o": [
+   "question": "Which part of the Constitution deals with: Emergency due to war or external aggression?",
+   "options": [
     "Article 352",
     "Article 74",
     "Article 23",
     "Article 93"
    ],
-   "a": 0,
-   "t": "Constitution Articles",
-   "l": 2,
-   "s": "generated",
-   "e": "Emergency due to war or external aggression is covered under Article 352."
+   "answer": 0,
+   "explanation": "Emergency due to war or external aggression is covered under Article 352.",
+   "topic": "Constitution Articles",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0643",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "103rd Amendment - 1992",
     "103rd Amendment - 2023",
     "103rd Amendment - 2019",
     "103rd Amendment - 2016"
    ],
-   "a": 2,
-   "t": "Constitutional Amendments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 103rd Amendment - 2019 is correctly matched."
+   "answer": 2,
+   "explanation": "Only 103rd Amendment - 2019 is correctly matched.",
+   "topic": "Constitutional Amendments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0644",
-   "q": "Minimum age to become a voter in India?",
-   "o": [
+   "question": "Minimum age to become a voter in India?",
+   "options": [
     "1951",
     "United States of America",
     "Ireland",
     "18 years"
    ],
-   "a": 3,
-   "t": "Constitution Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "Minimum age to become a voter in India — 18 years."
+   "answer": 3,
+   "explanation": "Minimum age to become a voter in India — 18 years.",
+   "topic": "Constitution Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0645",
-   "q": "Which institution is described as: Central bank and monetary authority?",
-   "o": [
+   "question": "Which institution is described as: Central bank and monetary authority?",
+   "options": [
     "State Legislature",
     "Reserve Bank of India",
     "Election Commission of India",
     "Central Vigilance Commission"
    ],
-   "a": 1,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Central bank and monetary authority describes Reserve Bank of India."
+   "answer": 1,
+   "explanation": "Central bank and monetary authority describes Reserve Bank of India.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0646",
-   "q": "On which date is International Anti-Corruption Day observed?",
-   "o": [
+   "question": "On which date is International Anti-Corruption Day observed?",
+   "options": [
     "9 December",
     "8 May",
     "10 February",
     "15 October"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Anti-Corruption Day is observed on 9 December."
+   "answer": 0,
+   "explanation": "International Anti-Corruption Day is observed on 9 December.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0647",
-   "q": "Where is the headquarters of European Space Agency?",
-   "o": [
+   "question": "Where is the headquarters of European Space Agency?",
+   "options": [
     "Paris",
     "Vienna",
     "London",
     "Gland"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "European Space Agency is headquartered at Paris."
+   "answer": 0,
+   "explanation": "European Space Agency is headquartered at Paris.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0648",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Volleyball - 8",
     "Volleyball - 11",
     "Volleyball - 7",
     "Volleyball - 6"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Volleyball - 6 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Volleyball - 6 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0649",
-   "q": "Ryder Cup is associated with which sport?",
-   "o": [
+   "question": "Ryder Cup is associated with which sport?",
+   "options": [
     "Golf",
     "Cricket",
     "Football",
     "Tennis"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Ryder Cup is associated with Golf."
+   "answer": 0,
+   "explanation": "Ryder Cup is associated with Golf.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0650",
-   "q": "Which award is described as: American award for music?",
-   "o": [
+   "question": "Which award is described as: American award for music?",
+   "options": [
     "Padma Bhushan",
     "Templeton Prize",
     "National Bravery Award",
     "Grammy Award"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "American award for music describes Grammy Award."
+   "answer": 3,
+   "explanation": "American award for music describes Grammy Award.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0651",
-   "q": "Who is the author of Gitanjali?",
-   "o": [
+   "question": "Who is the author of Gitanjali?",
+   "options": [
     "Rabindranath Tagore",
     "John Milton",
     "Ved Vyasa",
     "Valmiki"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Gitanjali is written by Rabindranath Tagore."
+   "answer": 0,
+   "explanation": "Gitanjali is written by Rabindranath Tagore.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0652",
-   "q": "Which of the following achievements belongs to Karnam Malleswari?",
-   "o": [
+   "question": "Which of the following achievements belongs to Karnam Malleswari?",
+   "options": [
     "First person to climb Mount Everest",
     "First Indian woman to win an Olympic medal",
     "First Asian to win a Nobel Prize",
     "First Indian to win a Nobel Prize"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First Indian woman to win an Olympic medal belongs to Karnam Malleswari."
+   "answer": 1,
+   "explanation": "First Indian woman to win an Olympic medal belongs to Karnam Malleswari.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0653",
-   "q": "Which is the deepest lake in the world?",
-   "o": [
+   "question": "Which is the deepest lake in the world?",
+   "options": [
     "Lake Baikal",
     "Bengaluru",
     "Lucknow",
     "Jamshedpur"
    ],
-   "a": 0,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 0,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0654",
-   "q": "Which is the largest state of India by area?",
-   "o": [
+   "question": "Which is the largest state of India by area?",
+   "options": [
     "Sahara Desert",
     "Apennines",
     "Rajasthan",
     "Madhya Pradesh"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0655",
-   "q": "Which is the thinnest layer of the Earth?",
-   "o": [
+   "question": "Which is the thinnest layer of the Earth?",
+   "options": [
     "October to November",
     "Core",
     "Richter scale",
     "Crust"
    ],
-   "a": 3,
-   "t": "Climate and Atmosphere",
-   "l": 2,
-   "s": "generated",
-   "e": "Which is the thinnest layer of the Earth — Crust."
+   "answer": 3,
+   "explanation": "Which is the thinnest layer of the Earth — Crust.",
+   "topic": "Climate and Atmosphere",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0656",
-   "q": "Which of the following pairs of mineral and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of mineral and state is correctly matched?",
+   "options": [
     "Diamond - Rajasthan",
     "Diamond - Madhya Pradesh",
     "Diamond - Odisha",
     "Diamond - Assam"
    ],
-   "a": 1,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Diamond - Madhya Pradesh is correctly matched."
+   "answer": 1,
+   "explanation": "Only Diamond - Madhya Pradesh is correctly matched.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0657",
-   "q": "What is the minimum percentage of deposits banks must keep in liquid assets?",
-   "o": [
+   "question": "What is the minimum percentage of deposits banks must keep in liquid assets?",
+   "options": [
     "Statutory Liquidity Ratio",
     "Bank of India",
     "Rupee symbol",
     "Foreign exchange reserves"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0658",
-   "q": "Choose the word most similar in meaning to Exorbitant.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Exorbitant.",
+   "options": [
     "Practical",
     "Justify",
     "Mourn",
     "Excessive"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Exorbitant means Excessive."
+   "answer": 3,
+   "explanation": "Exorbitant means Excessive.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0659",
-   "q": "Choose the word most opposite in meaning to Debilitate.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Debilitate.",
+   "options": [
     "Strengthen",
     "Humble",
     "Careless",
     "Secure"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Debilitate is Strengthen."
+   "answer": 0,
+   "explanation": "The opposite of Debilitate is Strengthen.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0660",
-   "q": "What is the meaning of the idiom 'Under a cloud'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Under a cloud'?",
+   "options": [
     "Under suspicion",
     "Deliberate indifference",
     "To exaggerate a small matter",
     "Deeply involved"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Under a cloud' means Under suspicion."
+   "answer": 0,
+   "explanation": "'Under a cloud' means Under suspicion.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0661",
-   "q": "Choose the one word substitute for: A place where bees are kept",
-   "o": [
+   "question": "Choose the one word substitute for: A place where bees are kept",
+   "options": [
     "Apiary",
     "Philanthropist",
     "Monarchy",
     "Annuals"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "A place where bees are kept — Apiary."
+   "answer": 0,
+   "explanation": "A place where bees are kept — Apiary.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0662",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Advantageous",
     "Aggressive",
     "Government",
     "Changeable"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Aggressive."
+   "answer": 1,
+   "explanation": "The correct spelling is Aggressive.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0663",
-   "q": "What is the plural of Woman?",
-   "o": [
+   "question": "What is the plural of Woman?",
+   "options": [
     "Tomatoes",
     "Lice",
     "Mosquitoes",
     "Women"
    ],
-   "a": 3,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Woman is Women."
+   "answer": 3,
+   "explanation": "The plural of Woman is Women.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0664",
-   "q": "What is the feminine form of Steward?",
-   "o": [
+   "question": "What is the feminine form of Steward?",
+   "options": [
     "Stewardess",
     "Authoress",
     "Wife",
     "Grandmother"
    ],
-   "a": 0,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Steward is Stewardess."
+   "answer": 0,
+   "explanation": "The feminine of Steward is Stewardess.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0665",
-   "q": "What is the comparative degree of Much?",
-   "o": [
+   "question": "What is the comparative degree of Much?",
+   "options": [
     "Shorter",
     "Better",
     "Busier",
     "More"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Much — More — Most."
+   "answer": 3,
+   "explanation": "Much — More — Most.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0666",
-   "q": "Fill in the blank with the correct preposition: He is famous ____ his paintings.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: He is famous ____ his paintings.",
+   "options": [
     "of",
     "on",
     "from",
     "for"
    ],
-   "a": 3,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'for'."
+   "answer": 3,
+   "explanation": "The correct preposition is 'for'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0667",
-   "q": "What is the third form of the verb 'begin'?",
-   "o": [
+   "question": "What is the third form of the verb 'begin'?",
+   "options": [
     "Admission",
     "Constellation",
     "Begun",
     "The"
    ],
-   "a": 2,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 2,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0668",
-   "q": "Which Indian state has the largest installed wind power capacity?",
-   "o": [
+   "question": "Which Indian state has the largest installed wind power capacity?",
+   "options": [
     "Delhi Metro",
     "Tamil Nadu",
     "Panchamrit Commitments",
     "2000"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0669",
-   "q": "The scheme Pradhan Mantri Gram Sadak Yojana was launched with which objective?",
-   "o": [
+   "question": "The scheme Pradhan Mantri Gram Sadak Yojana was launched with which objective?",
+   "options": [
     "Development of fisheries and aquaculture",
     "Cleaning and conservation of the Ganga",
     "All-weather roads for rural areas",
     "Piped drinking water to every rural household"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Pradhan Mantri Gram Sadak Yojana — All-weather roads for rural areas."
+   "answer": 2,
+   "explanation": "Pradhan Mantri Gram Sadak Yojana — All-weather roads for rural areas.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0670",
-   "q": "National Green Hydrogen Mission is associated with which of the following?",
-   "o": [
+   "question": "National Green Hydrogen Mission is associated with which of the following?",
+   "options": [
     "Green hydrogen production and export hub",
     "Optical fibre connectivity to gram panchayats",
     "X-ray polarimetry studies of black holes",
     "Regional satellite navigation system"
    ],
-   "a": 0,
-   "t": "Missions and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "National Green Hydrogen Mission — Green hydrogen production and export hub."
+   "answer": 0,
+   "explanation": "National Green Hydrogen Mission — Green hydrogen production and export hub.",
+   "topic": "Missions and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0671",
-   "q": "BIOS is best described as which of the following?",
-   "o": [
+   "question": "BIOS is best described as which of the following?",
+   "options": [
     "Protocol used to transfer web pages",
     "Core suite of internet protocols",
     "Output device that displays visuals",
     "Firmware that starts the computer"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "BIOS — Firmware that starts the computer."
+   "answer": 3,
+   "explanation": "BIOS — Firmware that starts the computer.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0672",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + O - Cut the selected item",
     "Ctrl + O - Delete the previous word",
     "Ctrl + O - Open an existing file",
     "Ctrl + O - Delete an item permanently"
    ],
-   "a": 2,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + O - Open an existing file is correctly matched."
+   "answer": 2,
+   "explanation": "Only Ctrl + O - Open an existing file is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0673",
-   "q": "Which file extension is used for a Scalable vector graphics file?",
-   "o": [
+   "question": "Which file extension is used for a Scalable vector graphics file?",
+   "options": [
     ".gif",
     ".svg",
     ".css",
     ".bat"
    ],
-   "a": 1,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Scalable vector graphics file uses the extension .svg."
+   "answer": 1,
+   "explanation": "Scalable vector graphics file uses the extension .svg.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0674",
-   "q": "What is the full form of PMJDY?",
-   "o": [
+   "question": "What is the full form of PMJDY?",
+   "options": [
     "Pradhan Mantri Jan Dhan Yojana",
     "National Defence Academy",
     "European Space Agency",
     "Food Corporation of India"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "PMJDY stands for Pradhan Mantri Jan Dhan Yojana."
+   "answer": 0,
+   "explanation": "PMJDY stands for Pradhan Mantri Jan Dhan Yojana.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0675",
-   "q": "Which of the following pairs of agreement and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of agreement and purpose is correctly matched?",
+   "options": [
     "Kigali Amendment - Conservation of wild tigers",
     "Kigali Amendment - Phase down of hydrofluorocarbons",
     "Kigali Amendment - Limiting global temperature rise to well below two degrees Celsius",
     "Kigali Amendment - Access and benefit sharing of genetic resources"
    ],
-   "a": 1,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kigali Amendment - Phase down of hydrofluorocarbons is correctly matched."
+   "answer": 1,
+   "explanation": "Only Kigali Amendment - Phase down of hydrofluorocarbons is correctly matched.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0676",
-   "q": "Which of the following pairs of pollutant and effect is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of pollutant and effect is correctly matched?",
+   "options": [
     "Oil spills - Raises water temperature and harms aquatic life",
     "Oil spills - Damage marine life and coastlines",
     "Oil spills - Cause acid rain and smog",
     "Oil spills - Fine particles that reach deep into the lungs"
    ],
-   "a": 1,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Oil spills - Damage marine life and coastlines is correctly matched."
+   "answer": 1,
+   "explanation": "Only Oil spills - Damage marine life and coastlines is correctly matched.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0677",
-   "q": "Which of the following pairs of site and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of site and state is correctly matched?",
+   "options": [
     "Panna Biosphere Reserve - Rajasthan",
     "Panna Biosphere Reserve - Madhya Pradesh",
     "Panna Biosphere Reserve - Tamil Nadu",
     "Panna Biosphere Reserve - Himachal Pradesh"
    ],
-   "a": 1,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Panna Biosphere Reserve - Madhya Pradesh is correctly matched."
+   "answer": 1,
+   "explanation": "Only Panna Biosphere Reserve - Madhya Pradesh is correctly matched.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0678",
-   "q": "Which of the following pairs of law and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of law and purpose is correctly matched?",
+   "options": [
     "National Green Tribunal - Eight missions on climate change",
     "National Green Tribunal - Adjudication of environmental disputes",
     "National Green Tribunal - Conservation of biological diversity",
     "National Green Tribunal - Conservation of elephants"
    ],
-   "a": 1,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Green Tribunal - Adjudication of environmental disputes is correctly matched."
+   "answer": 1,
+   "explanation": "Only National Green Tribunal - Adjudication of environmental disputes is correctly matched.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0679",
-   "q": "What is the capital of Fiji?",
-   "o": [
+   "question": "What is the capital of Fiji?",
+   "options": [
     "Tehran",
     "Suva",
     "Nouakchott",
     "Chisinau"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Fiji is Suva."
+   "answer": 1,
+   "explanation": "The capital of Fiji is Suva.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0680",
-   "q": "Which element has the chemical symbol Sm?",
-   "o": [
+   "question": "Which element has the chemical symbol Sm?",
+   "options": [
     "Astatine",
     "Lithium",
     "Rhodium",
     "Samarium"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Sm is the symbol of Samarium."
+   "answer": 3,
+   "explanation": "Sm is the symbol of Samarium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0681",
-   "q": "Dispur is the capital of which Indian state?",
-   "o": [
+   "question": "Dispur is the capital of which Indian state?",
+   "options": [
     "Uttarakhand",
     "Himachal Pradesh",
     "Uttar Pradesh",
     "Assam"
    ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 2,
-   "s": "generated",
-   "e": "Dispur is the capital of Assam."
+   "answer": 3,
+   "explanation": "Dispur is the capital of Assam.",
+   "topic": "States and Capitals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0682",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "National Heritage Animal - Mango",
     "National Heritage Animal - Indian Rupee",
     "National Heritage Animal - Banyan",
     "National Heritage Animal - Indian Elephant"
    ],
-   "a": 3,
-   "t": "National Symbols",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Heritage Animal - Indian Elephant is correctly matched."
+   "answer": 3,
+   "explanation": "Only National Heritage Animal - Indian Elephant is correctly matched.",
+   "topic": "National Symbols",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0683",
-   "q": "Which of the following descriptions matches Dr. Rajendra Prasad?",
-   "o": [
+   "question": "Which of the following descriptions matches Dr. Rajendra Prasad?",
+   "options": [
     "First President of India",
     "First Vice President of India",
     "First Speaker of the Lok Sabha",
     "First Indian woman to climb Mount Everest"
    ],
-   "a": 0,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "Dr. Rajendra Prasad is associated with: First President of India."
+   "answer": 0,
+   "explanation": "Dr. Rajendra Prasad is associated with: First President of India.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0684",
-   "q": "Jhumur is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Jhumur is a folk or classical dance form of which state?",
+   "options": [
     "Jharkhand",
     "Kerala",
     "Assam",
     "Gujarat"
    ],
-   "a": 0,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Jhumur belongs to Jharkhand."
+   "answer": 0,
+   "explanation": "Jhumur belongs to Jharkhand.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0685",
-   "q": "Which of the following festivals is associated with Assam?",
-   "o": [
+   "question": "Which of the following festivals is associated with Assam?",
+   "options": [
     "Onam",
     "Bihu",
     "Dree Festival",
     "Karam"
    ],
-   "a": 1,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Bihu is associated with Assam."
+   "answer": 1,
+   "explanation": "Bihu is associated with Assam.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0686",
-   "q": "Gangotri Glacier is the origin of which river?",
-   "o": [
+   "question": "Gangotri Glacier is the origin of which river?",
+   "options": [
     "Ganga",
     "Brahmaputra",
     "Jhelum",
     "Kaveri"
    ],
-   "a": 0,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Gangotri Glacier is the origin of the river Ganga."
+   "answer": 0,
+   "explanation": "Gangotri Glacier is the origin of the river Ganga.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0687",
-   "q": "Which of the following pairs of dam and river is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of dam and river is correctly matched?",
+   "options": [
     "Farakka Barrage - Sutlej",
     "Farakka Barrage - Barakar",
     "Farakka Barrage - Ganga",
     "Farakka Barrage - Chenab"
    ],
-   "a": 2,
-   "t": "Dams of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Farakka Barrage - Ganga is correctly matched."
+   "answer": 2,
+   "explanation": "Only Farakka Barrage - Ganga is correctly matched.",
+   "topic": "Dams of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0688",
-   "q": "Bandhavgarh National Park is located in which state?",
-   "o": [
+   "question": "Bandhavgarh National Park is located in which state?",
+   "options": [
     "Meghalaya",
     "Madhya Pradesh",
     "West Bengal",
     "Chhattisgarh"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Bandhavgarh National Park is located in Madhya Pradesh."
+   "answer": 1,
+   "explanation": "Bandhavgarh National Park is located in Madhya Pradesh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0689",
-   "q": "Which of the following passes is located in Sikkim?",
-   "o": [
+   "question": "Which of the following passes is located in Sikkim?",
+   "options": [
     "Diphu Pass",
     "Shencottah Gap",
     "Banihal Pass",
     "Jelep La"
    ],
-   "a": 3,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Jelep La is a pass in Sikkim."
+   "answer": 3,
+   "explanation": "Jelep La is a pass in Sikkim.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0690",
-   "q": "Which physical quantity is measured in Metre?",
-   "o": [
+   "question": "Which physical quantity is measured in Metre?",
+   "options": [
     "Length",
     "Time",
     "Electrical resistance",
     "Pressure"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Metre is the SI unit of Length."
+   "answer": 0,
+   "explanation": "Metre is the SI unit of Length.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0691",
-   "q": "Polygraph is used for which of the following purposes?",
-   "o": [
+   "question": "Polygraph is used for which of the following purposes?",
+   "options": [
     "Speed of a vehicle",
     "Multiple physiological responses",
     "One form of energy into another",
     "Wind speed"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Polygraph measures Multiple physiological responses."
+   "answer": 1,
+   "explanation": "Polygraph measures Multiple physiological responses.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0692",
-   "q": "Which body part performs the function of Oxygen carrying pigment?",
-   "o": [
+   "question": "Which body part performs the function of Oxygen carrying pigment?",
+   "options": [
     "Cornea",
     "Hemoglobin",
     "Insulin",
     "Cochlea"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Oxygen carrying pigment is performed by the Hemoglobin."
+   "answer": 1,
+   "explanation": "Oxygen carrying pigment is performed by the Hemoglobin.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0693",
-   "q": "Which disease is caused by the deficiency of Phosphorus?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Phosphorus?",
+   "options": [
     "Muscle weakness",
     "Rickets in children",
     "Anaemia",
     "Excessive bleeding"
    ],
-   "a": 1,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Phosphorus causes Rickets in children."
+   "answer": 1,
+   "explanation": "Deficiency of Phosphorus causes Rickets in children.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0694",
-   "q": "Rhinovirus causes which of the following diseases?",
-   "o": [
+   "question": "Rhinovirus causes which of the following diseases?",
+   "options": [
     "Mumps",
     "Common cold",
     "Meningitis",
     "Chickenpox"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Rhinovirus causes Common cold."
+   "answer": 1,
+   "explanation": "Rhinovirus causes Common cold.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0695",
-   "q": "Who is credited with Jet engine?",
-   "o": [
+   "question": "Who is credited with Jet engine?",
+   "options": [
     "James Young Simpson",
     "Frank Whittle",
     "Johannes Kepler",
     "Alfred Nobel"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Jet engine — Frank Whittle."
+   "answer": 1,
+   "explanation": "Jet engine — Frank Whittle.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0696",
-   "q": "Hydrated magnesium silicate is commonly known as which of the following?",
-   "o": [
+   "question": "Hydrated magnesium silicate is commonly known as which of the following?",
+   "options": [
     "Epsom salt",
     "Talc",
     "Spirit of salt",
     "Lime water"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Hydrated magnesium silicate is commonly known as Talc."
+   "answer": 1,
+   "explanation": "Hydrated magnesium silicate is commonly known as Talc.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0697",
-   "q": "Which branch of science deals with Garden cultivation?",
-   "o": [
+   "question": "Which branch of science deals with Garden cultivation?",
+   "options": [
     "Etymology",
     "Horticulture",
     "Herpetology",
     "Physiology"
    ],
-   "a": 1,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Horticulture deals with Garden cultivation."
+   "answer": 1,
+   "explanation": "Horticulture deals with Garden cultivation.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0698",
-   "q": "Which of the following statements about Earth is correct?",
-   "o": [
+   "question": "Which of the following statements about Earth is correct?",
+   "options": [
     "Earth",
     "Jupiter",
     "Eighth",
     "Hottest planet"
    ],
-   "a": 0,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Earth: Earth."
+   "answer": 0,
+   "explanation": "Earth: Earth.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0699",
-   "q": "Srinivasa Ramanujan is known for which of the following?",
-   "o": [
+   "question": "Srinivasa Ramanujan is known for which of the following?",
+   "options": [
     "Palaeobotany in India",
     "Number theory",
     "Charles's law of gases",
     "Laws of inheritance"
    ],
-   "a": 1,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Srinivasa Ramanujan is known for Number theory."
+   "answer": 1,
+   "explanation": "Srinivasa Ramanujan is known for Number theory.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0700",
-   "q": "In which year did the following event take place: Assassination of Mahatma Gandhi?",
-   "o": [
+   "question": "In which year did the following event take place: Assassination of Mahatma Gandhi?",
+   "options": [
     "1984",
     "1948",
     "1947",
     "1983"
    ],
-   "a": 1,
-   "t": "Indian History Events",
-   "l": 2,
-   "s": "generated",
-   "e": "Assassination of Mahatma Gandhi — 1948."
+   "answer": 1,
+   "explanation": "Assassination of Mahatma Gandhi — 1948.",
+   "topic": "Indian History Events",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0701",
-   "q": "In which year did the following event take place: End of World War I?",
-   "o": [
+   "question": "In which year did the following event take place: End of World War I?",
+   "options": [
     "1833",
     "1903",
     "1918",
     "1815"
    ],
-   "a": 2,
-   "t": "World History Events",
-   "l": 2,
-   "s": "generated",
-   "e": "End of World War I — 1918."
+   "answer": 2,
+   "explanation": "End of World War I — 1918.",
+   "topic": "World History Events",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0702",
-   "q": "Which of the following pairs of dynasty and founder is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of dynasty and founder is correctly matched?",
+   "options": [
     "Pala Dynasty - Pushyamitra Sunga",
     "Pala Dynasty - Harihara and Bukka",
     "Pala Dynasty - Qutb-ud-din Aibak",
     "Pala Dynasty - Gopala"
    ],
-   "a": 3,
-   "t": "Dynasties",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pala Dynasty - Gopala is correctly matched."
+   "answer": 3,
+   "explanation": "Only Pala Dynasty - Gopala is correctly matched.",
+   "topic": "Dynasties",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0703",
-   "q": "Which ruler is associated with the following: Founded the Maurya Empire with the help of Chanakya?",
-   "o": [
+   "question": "Which ruler is associated with the following: Founded the Maurya Empire with the help of Chanakya?",
+   "options": [
     "Chandragupta Maurya",
     "Samudragupta",
     "Maharaja Ranjit Singh",
     "Aurangzeb"
    ],
-   "a": 0,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "Founded the Maurya Empire with the help of Chanakya is associated with Chandragupta Maurya."
+   "answer": 0,
+   "explanation": "Founded the Maurya Empire with the help of Chanakya is associated with Chandragupta Maurya.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0704",
-   "q": "Which freedom fighter is described as Father of the Nation?",
-   "o": [
+   "question": "Which freedom fighter is described as Father of the Nation?",
+   "options": [
     "Mahatma Gandhi",
     "Bal Gangadhar Tilak",
     "Rani Lakshmibai",
     "Chandrashekhar Azad"
    ],
-   "a": 0,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "Father of the Nation refers to Mahatma Gandhi."
+   "answer": 0,
+   "explanation": "Father of the Nation refers to Mahatma Gandhi.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0705",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Lahore Session of the INC - 1932",
     "Lahore Session of the INC - 1920",
     "Lahore Session of the INC - 1919",
     "Lahore Session of the INC - 1929"
    ],
-   "a": 3,
-   "t": "National Movements",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Lahore Session of the INC - 1929 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Lahore Session of the INC - 1929 is correctly matched.",
+   "topic": "National Movements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0706",
-   "q": "Which part of the Constitution deals with: Fundamental Rights?",
-   "o": [
+   "question": "Which part of the Constitution deals with: Fundamental Rights?",
+   "options": [
     "Part IX, Articles 243-243O",
     "Part III, Articles 12-35",
     "Article 32",
     "Article 324"
    ],
-   "a": 1,
-   "t": "Constitution Articles",
-   "l": 2,
-   "s": "generated",
-   "e": "Fundamental Rights is covered under Part III, Articles 12-35."
+   "answer": 1,
+   "explanation": "Fundamental Rights is covered under Part III, Articles 12-35.",
+   "topic": "Constitution Articles",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0707",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "103rd Amendment - 1985",
     "103rd Amendment - 2003",
     "103rd Amendment - 1978",
     "103rd Amendment - 2019"
    ],
-   "a": 3,
-   "t": "Constitutional Amendments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 103rd Amendment - 2019 is correctly matched."
+   "answer": 3,
+   "explanation": "Only 103rd Amendment - 2019 is correctly matched.",
+   "topic": "Constitutional Amendments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0708",
-   "q": "Source of procedure established by law?",
-   "o": [
+   "question": "Source of procedure established by law?",
+   "options": [
     "Union, State and Concurrent Lists",
     "Germany",
     "Japan",
     "Official languages"
    ],
-   "a": 2,
-   "t": "Constitution Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "Source of procedure established by law — Japan."
+   "answer": 2,
+   "explanation": "Source of procedure established by law — Japan.",
+   "topic": "Constitution Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0709",
-   "q": "Which institution is described as: Constitutional head of the Republic?",
-   "o": [
+   "question": "Which institution is described as: Constitutional head of the Republic?",
+   "options": [
     "President of India",
     "Prime Minister of India",
     "Solicitor General of India",
     "NITI Aayog"
    ],
-   "a": 0,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Constitutional head of the Republic describes President of India."
+   "answer": 0,
+   "explanation": "Constitutional head of the Republic describes President of India.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0710",
-   "q": "On which date is Independence Day (USA) observed?",
-   "o": [
+   "question": "On which date is Independence Day (USA) observed?",
+   "options": [
     "28 July",
     "4 July",
     "1 June",
     "12 September"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "Independence Day (USA) is observed on 4 July."
+   "answer": 1,
+   "explanation": "Independence Day (USA) is observed on 4 July.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0711",
-   "q": "Where is the headquarters of Food and Agriculture Organization?",
-   "o": [
+   "question": "Where is the headquarters of Food and Agriculture Organization?",
+   "options": [
     "Berlin",
     "Bern",
     "Rome",
     "London"
    ],
-   "a": 2,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "Food and Agriculture Organization is headquartered at Rome."
+   "answer": 2,
+   "explanation": "Food and Agriculture Organization is headquartered at Rome.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0712",
-   "q": "Which trophy or cup is associated with Badminton?",
-   "o": [
+   "question": "Which trophy or cup is associated with Badminton?",
+   "options": [
     "Syed Mushtaq Ali Trophy",
     "All England Open",
     "Copa America",
     "Bordoloi Trophy"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "All England Open is associated with Badminton."
+   "answer": 1,
+   "explanation": "All England Open is associated with Badminton.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0713",
-   "q": "Which award is described as: Second highest civilian award of India?",
-   "o": [
+   "question": "Which award is described as: Second highest civilian award of India?",
+   "options": [
     "Infosys Prize",
     "Padma Vibhushan",
     "Sahitya Akademi Award",
     "Param Vir Chakra"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Second highest civilian award of India describes Padma Vibhushan."
+   "answer": 1,
+   "explanation": "Second highest civilian award of India describes Padma Vibhushan.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0714",
-   "q": "Who is the author of Godaan?",
-   "o": [
+   "question": "Who is the author of Godaan?",
+   "options": [
     "Munshi Premchand",
     "Rabindranath Tagore",
     "Stephen Hawking",
     "Sachin Tendulkar"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Godaan is written by Munshi Premchand."
+   "answer": 0,
+   "explanation": "Godaan is written by Munshi Premchand.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0715",
-   "q": "Which of the following achievements belongs to Soviet Union?",
-   "o": [
+   "question": "Which of the following achievements belongs to Soviet Union?",
+   "options": [
     "First country to launch a satellite",
     "First woman in space",
     "First woman Prime Minister in the world",
     "First country to send a human into space"
    ],
-   "a": 0,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First country to launch a satellite belongs to Soviet Union."
+   "answer": 0,
+   "explanation": "First country to launch a satellite belongs to Soviet Union.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0716",
-   "q": "Which is the highest waterfall in the world?",
-   "o": [
+   "question": "Which is the highest waterfall in the world?",
+   "options": [
     "Lake Superior",
     "Arunachal Pradesh",
     "Angel Falls",
     "Majuli"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0717",
-   "q": "Which is the longest beach in India?",
-   "o": [
+   "question": "Which is the longest beach in India?",
+   "options": [
     "Varanasi",
     "Eleven",
     "Madhya Pradesh",
     "Marina Beach"
    ],
-   "a": 3,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 3,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0718",
-   "q": "Which planet has rings around it?",
-   "o": [
+   "question": "Which planet has rings around it?",
+   "options": [
     "Mango showers",
     "Talc",
     "Saturn",
     "Diamond"
    ],
-   "a": 2,
-   "t": "Climate and Atmosphere",
-   "l": 2,
-   "s": "generated",
-   "e": "Which planet has rings around it — Saturn."
+   "answer": 2,
+   "explanation": "Which planet has rings around it — Saturn.",
+   "topic": "Climate and Atmosphere",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0719",
-   "q": "Which rate is announced by the RBI for emergency lending to banks?",
-   "o": [
+   "question": "Which rate is announced by the RBI for emergency lending to banks?",
+   "options": [
     "Marginal Standing Facility rate",
     "101st Amendment",
     "White Revolution",
     "Finance Commission"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0720",
-   "q": "Choose the word most similar in meaning to Enigma.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Enigma.",
+   "options": [
     "Lazy",
     "Frivolity",
     "Mystery",
     "Impending"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Enigma means Mystery."
+   "answer": 2,
+   "explanation": "Enigma means Mystery.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0721",
-   "q": "Choose the word most opposite in meaning to Ominous.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Ominous.",
+   "options": [
     "Respected",
     "Favourable",
     "Friendship",
     "Active"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Ominous is Favourable."
+   "answer": 1,
+   "explanation": "The opposite of Ominous is Favourable.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0722",
-   "q": "What is the meaning of the idiom 'To cry over spilt milk'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'To cry over spilt milk'?",
+   "options": [
     "Understand the hidden meaning",
     "To ask someone to leave",
     "Convey a great deal",
     "To lament what cannot be undone"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'To cry over spilt milk' means To lament what cannot be undone."
+   "answer": 3,
+   "explanation": "'To cry over spilt milk' means To lament what cannot be undone.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0723",
-   "q": "Choose the one word substitute for: One who lives a simple life without possessions",
-   "o": [
+   "question": "Choose the one word substitute for: One who lives a simple life without possessions",
+   "options": [
     "Post-mortem",
     "Recluse",
     "Goldsmith",
     "Bureaucracy"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "One who lives a simple life without possessions — Recluse."
+   "answer": 1,
+   "explanation": "One who lives a simple life without possessions — Recluse.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0724",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Grateful",
     "Mischievous",
     "Heroes",
     "February"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is February."
+   "answer": 3,
+   "explanation": "The correct spelling is February.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0725",
-   "q": "What is the plural of Passer-by?",
-   "o": [
+   "question": "What is the plural of Passer-by?",
+   "options": [
     "Bases",
     "Passers-by",
     "Studios",
     "Babies"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Passer-by is Passers-by."
+   "answer": 1,
+   "explanation": "The plural of Passer-by is Passers-by.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0726",
-   "q": "What is the feminine form of Foster-father?",
-   "o": [
+   "question": "What is the feminine form of Foster-father?",
+   "options": [
     "Stewardess",
     "Foster-mother",
     "Heroine",
     "Duck"
    ],
-   "a": 1,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Foster-father is Foster-mother."
+   "answer": 1,
+   "explanation": "The feminine of Foster-father is Foster-mother.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0727",
-   "q": "What is the comparative degree of Courageous?",
-   "o": [
+   "question": "What is the comparative degree of Courageous?",
+   "options": [
     "More dangerous",
     "More courageous",
     "Slower",
     "Easier"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Courageous — More courageous — Most courageous."
+   "answer": 1,
+   "explanation": "Courageous — More courageous — Most courageous.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0728",
-   "q": "Fill in the blank with the correct preposition: He is accustomed ____ hard work.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: He is accustomed ____ hard work.",
+   "options": [
     "of",
     "to",
     "over",
     "with"
    ],
-   "a": 1,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'to'."
+   "answer": 1,
+   "explanation": "The correct preposition is 'to'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0729",
-   "q": "What is the indirect form of 'He asked, Where do you live?'",
-   "o": [
+   "question": "What is the indirect form of 'He asked, Where do you live?'",
+   "options": [
     "Bought",
     "Adverb",
     "He asked where I lived",
     "But also"
    ],
-   "a": 2,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 2,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0730",
-   "q": "Which is India's first indigenous space shuttle programme?",
-   "o": [
+   "question": "Which is India's first indigenous space shuttle programme?",
+   "options": [
     "Digital Rupee",
     "Reusable Launch Vehicle",
     "India",
     "Odisha Super Cyclone"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0731",
-   "q": "The scheme Pradhan Mantri Kaushal Vikas Yojana was launched with which objective?",
-   "o": [
+   "question": "The scheme Pradhan Mantri Kaushal Vikas Yojana was launched with which objective?",
+   "options": [
     "Self-reliance in edible oil production",
     "Skill development and employability of youth",
     "Skill certification of youth",
     "Safety and empowerment of women"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Pradhan Mantri Kaushal Vikas Yojana — Skill certification of youth."
+   "answer": 2,
+   "explanation": "Pradhan Mantri Kaushal Vikas Yojana — Skill certification of youth.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0732",
-   "q": "National Skill Development Mission is associated with which of the following?",
-   "o": [
+   "question": "National Skill Development Mission is associated with which of the following?",
+   "options": [
     "Green hydrogen production and export hub",
     "Skilling and vocational training",
     "Conservation of Asiatic lions",
     "Electronic delivery of government services"
    ],
-   "a": 1,
-   "t": "Missions and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "National Skill Development Mission — Skilling and vocational training."
+   "answer": 1,
+   "explanation": "National Skill Development Mission — Skilling and vocational training.",
+   "topic": "Missions and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0733",
-   "q": "Cache memory levels is best described as which of the following?",
-   "o": [
+   "question": "Cache memory levels is best described as which of the following?",
+   "options": [
     "L1, L2 and L3 are cache levels",
     "Human readable name of a website",
     "Secure version of the web transfer protocol",
     "Basic device that connects network devices"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Cache memory levels — L1, L2 and L3 are cache levels."
+   "answer": 0,
+   "explanation": "Cache memory levels — L1, L2 and L3 are cache levels.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0734",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + C - Save the current file",
     "Ctrl + C - Lock the computer",
     "Ctrl + C - Copy the selected item",
     "Ctrl + C - Undo the last action"
    ],
-   "a": 2,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + C - Copy the selected item is correctly matched."
+   "answer": 2,
+   "explanation": "Only Ctrl + C - Copy the selected item is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0735",
-   "q": "Which file extension is used for a Extensible markup language file?",
-   "o": [
+   "question": "Which file extension is used for a Extensible markup language file?",
+   "options": [
     ".java",
     ".pdf",
     ".xml",
     ".svg"
    ],
-   "a": 2,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Extensible markup language file uses the extension .xml."
+   "answer": 2,
+   "explanation": "Extensible markup language file uses the extension .xml.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0736",
-   "q": "What is the full form of UPU?",
-   "o": [
+   "question": "What is the full form of UPU?",
+   "options": [
     "Universal Postal Union",
     "Oral Rehydration Solution",
     "Mahatma Gandhi National Rural Employment Guarantee Scheme",
     "State Bank of India"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "UPU stands for Universal Postal Union."
+   "answer": 0,
+   "explanation": "UPU stands for Universal Postal Union.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0737",
-   "q": "Which of the following pairs of agreement and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of agreement and purpose is correctly matched?",
+   "options": [
     "Kigali Amendment - Wetlands facing ecological change",
     "Kigali Amendment - Access and benefit sharing of genetic resources",
     "Kigali Amendment - Limiting global temperature rise to well below two degrees Celsius",
     "Kigali Amendment - Phase down of hydrofluorocarbons"
    ],
-   "a": 3,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kigali Amendment - Phase down of hydrofluorocarbons is correctly matched."
+   "answer": 3,
+   "explanation": "Only Kigali Amendment - Phase down of hydrofluorocarbons is correctly matched.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0738",
-   "q": "Which of the following pairs of pollutant and effect is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of pollutant and effect is correctly matched?",
+   "options": [
     "Oil spills - Cause algal blooms in water",
     "Oil spills - Fine particles that reach deep into the lungs",
     "Oil spills - Cause acid rain and smog",
     "Oil spills - Damage marine life and coastlines"
    ],
-   "a": 3,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Oil spills - Damage marine life and coastlines is correctly matched."
+   "answer": 3,
+   "explanation": "Only Oil spills - Damage marine life and coastlines is correctly matched.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0739",
-   "q": "Which of the following pairs of site and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of site and state is correctly matched?",
+   "options": [
     "Panna Biosphere Reserve - Jammu and Kashmir",
     "Panna Biosphere Reserve - Himachal Pradesh",
     "Panna Biosphere Reserve - Tamil Nadu",
     "Panna Biosphere Reserve - Madhya Pradesh"
    ],
-   "a": 3,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Panna Biosphere Reserve - Madhya Pradesh is correctly matched."
+   "answer": 3,
+   "explanation": "Only Panna Biosphere Reserve - Madhya Pradesh is correctly matched.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0740",
-   "q": "Which of the following pairs of law and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of law and purpose is correctly matched?",
+   "options": [
     "National Green Tribunal - Protection of wild animals and plants",
     "National Green Tribunal - Adjudication of environmental disputes",
     "National Green Tribunal - Protection of ecologically fragile areas",
     "National Green Tribunal - Conservation of biological diversity"
    ],
-   "a": 1,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Green Tribunal - Adjudication of environmental disputes is correctly matched."
+   "answer": 1,
+   "explanation": "Only National Green Tribunal - Adjudication of environmental disputes is correctly matched.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0741",
-   "q": "What is the capital of Liechtenstein?",
-   "o": [
+   "question": "What is the capital of Liechtenstein?",
+   "options": [
     "Kigali",
     "Zagreb",
     "Vaduz",
     "Kampala"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Liechtenstein is Vaduz."
+   "answer": 2,
+   "explanation": "The capital of Liechtenstein is Vaduz.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0742",
-   "q": "Which element has the chemical symbol Nd?",
-   "o": [
+   "question": "Which element has the chemical symbol Nd?",
+   "options": [
     "Copper",
     "Argon",
     "Neodymium",
     "Palladium"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Nd is the symbol of Neodymium."
+   "answer": 2,
+   "explanation": "Nd is the symbol of Neodymium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0743",
-   "q": "Dehradun is the capital of which Indian state?",
-   "o": [
+   "question": "Dehradun is the capital of which Indian state?",
+   "options": [
     "Uttarakhand",
     "Mizoram",
     "Andhra Pradesh",
     "Jharkhand"
    ],
-   "a": 0,
-   "t": "States and Capitals",
-   "l": 2,
-   "s": "generated",
-   "e": "Dehradun is the capital of Uttarakhand."
+   "answer": 0,
+   "explanation": "Dehradun is the capital of Uttarakhand.",
+   "topic": "States and Capitals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0744",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "National Anthem - Ganges River Dolphin",
     "National Anthem - Lotus",
     "National Anthem - Indian Elephant",
     "National Anthem - Jana Gana Mana"
    ],
-   "a": 3,
-   "t": "National Symbols",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Anthem - Jana Gana Mana is correctly matched."
+   "answer": 3,
+   "explanation": "Only National Anthem - Jana Gana Mana is correctly matched.",
+   "topic": "National Symbols",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0745",
-   "q": "Which of the following descriptions matches Karnam Malleswari?",
-   "o": [
+   "question": "Which of the following descriptions matches Karnam Malleswari?",
+   "options": [
     "First Indian to swim across the English Channel",
     "First Indian Institute of Technology was set up at",
     "First Indian to win a Grand Slam in tennis",
     "First Indian woman to win an Olympic medal"
    ],
-   "a": 3,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "Karnam Malleswari is associated with: First Indian woman to win an Olympic medal."
+   "answer": 3,
+   "explanation": "Karnam Malleswari is associated with: First Indian woman to win an Olympic medal.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0746",
-   "q": "Kikli is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Kikli is a folk or classical dance form of which state?",
+   "options": [
     "Rajasthan",
     "Maharashtra",
     "Bihar",
     "Punjab"
    ],
-   "a": 3,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Kikli belongs to Punjab."
+   "answer": 3,
+   "explanation": "Kikli belongs to Punjab.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0747",
-   "q": "Which of the following festivals is associated with Jharkhand?",
-   "o": [
+   "question": "Which of the following festivals is associated with Jharkhand?",
+   "options": [
     "Cheiraoba",
     "Chhath Puja",
     "Sekrenyi",
     "Sohrai"
    ],
-   "a": 3,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Sohrai is associated with Jharkhand."
+   "answer": 3,
+   "explanation": "Sohrai is associated with Jharkhand.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0748",
-   "q": "Mapchachungo is the origin of which river?",
-   "o": [
+   "question": "Mapchachungo is the origin of which river?",
+   "options": [
     "Bhima",
     "Gomti",
     "Damodar",
     "Ghaghara"
    ],
-   "a": 3,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Mapchachungo is the origin of the river Ghaghara."
+   "answer": 3,
+   "explanation": "Mapchachungo is the origin of the river Ghaghara.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0749",
-   "q": "Which of the following pairs of dam and river is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of dam and river is correctly matched?",
+   "options": [
     "Hirakud Dam - Bhagirathi",
     "Hirakud Dam - Damodar",
     "Hirakud Dam - Mahanadi",
     "Hirakud Dam - Narmada"
    ],
-   "a": 2,
-   "t": "Dams of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Hirakud Dam - Mahanadi is correctly matched."
+   "answer": 2,
+   "explanation": "Only Hirakud Dam - Mahanadi is correctly matched.",
+   "topic": "Dams of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0750",
-   "q": "Satkosia Tiger Reserve is located in which state?",
-   "o": [
+   "question": "Satkosia Tiger Reserve is located in which state?",
+   "options": [
     "Madhya Pradesh",
     "Uttarakhand",
     "Odisha",
     "Karnataka"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Satkosia Tiger Reserve is located in Odisha."
+   "answer": 2,
+   "explanation": "Satkosia Tiger Reserve is located in Odisha.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0751",
-   "q": "Which of the following passes is located in Maharashtra?",
-   "o": [
+   "question": "Which of the following passes is located in Maharashtra?",
+   "options": [
     "Haldighati Pass",
     "Bhor Ghat",
     "Pir Panjal Pass",
     "Bomdila Pass"
    ],
-   "a": 1,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Bhor Ghat is a pass in Maharashtra."
+   "answer": 1,
+   "explanation": "Bhor Ghat is a pass in Maharashtra.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0752",
-   "q": "Which physical quantity is measured in Weber?",
-   "o": [
+   "question": "Which physical quantity is measured in Weber?",
+   "options": [
     "Viscosity (dynamic)",
     "Absorbed dose",
     "Capacitance",
     "Magnetic flux"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Weber is the SI unit of Magnetic flux."
+   "answer": 3,
+   "explanation": "Weber is the SI unit of Magnetic flux.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0753",
-   "q": "Voltmeter is used for which of the following purposes?",
-   "o": [
+   "question": "Voltmeter is used for which of the following purposes?",
+   "options": [
     "Internal body organs",
     "Distant objects",
     "Electric potential difference",
     "Ionising radiation"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Voltmeter measures Electric potential difference."
+   "answer": 2,
+   "explanation": "Voltmeter measures Electric potential difference.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0754",
-   "q": "Which body part performs the function of Hearing in the ear?",
-   "o": [
+   "question": "Which body part performs the function of Hearing in the ear?",
+   "options": [
     "Cochlea",
     "Insulin",
     "Bone marrow",
     "Diaphragm"
    ],
-   "a": 0,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Hearing in the ear is performed by the Cochlea."
+   "answer": 0,
+   "explanation": "Hearing in the ear is performed by the Cochlea.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0755",
-   "q": "Which disease is caused by the deficiency of Vitamin B12?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Vitamin B12?",
+   "options": [
     "Pernicious anaemia",
     "Anaemia",
     "Anaemia and bone disorders",
     "Excessive bleeding"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B12 causes Pernicious anaemia."
+   "answer": 0,
+   "explanation": "Deficiency of Vitamin B12 causes Pernicious anaemia.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0756",
-   "q": "Varicella zoster virus causes which of the following diseases?",
-   "o": [
+   "question": "Varicella zoster virus causes which of the following diseases?",
+   "options": [
     "Chickenpox",
     "Meningitis",
     "Influenza",
     "Kala-azar"
    ],
-   "a": 0,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Varicella zoster virus causes Chickenpox."
+   "answer": 0,
+   "explanation": "Varicella zoster virus causes Chickenpox.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0757",
-   "q": "Who is credited with Electric generator?",
-   "o": [
+   "question": "Who is credited with Electric generator?",
+   "options": [
     "James Chadwick",
     "Michael Faraday",
     "Wright Brothers",
     "James Watt"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Electric generator — Michael Faraday."
+   "answer": 1,
+   "explanation": "Electric generator — Michael Faraday.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0758",
-   "q": "Calcium carbonate (CaCO3) is commonly known as which of the following?",
-   "o": [
+   "question": "Calcium carbonate (CaCO3) is commonly known as which of the following?",
+   "options": [
     "Aqua fortis",
     "Blue vitriol",
     "Chalk",
     "Magnesia"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Calcium carbonate (CaCO3) is commonly known as Chalk."
+   "answer": 2,
+   "explanation": "Calcium carbonate (CaCO3) is commonly known as Chalk.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0759",
-   "q": "Which branch of science deals with Silk production?",
-   "o": [
+   "question": "Which branch of science deals with Silk production?",
+   "options": [
     "Paediatrics",
     "Sericulture",
     "Physics",
     "Anatomy"
    ],
-   "a": 1,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Sericulture deals with Silk production."
+   "answer": 1,
+   "explanation": "Sericulture deals with Silk production.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0760",
-   "q": "Which of the following statements about Venus is correct?",
-   "o": [
+   "question": "Which of the following statements about Venus is correct?",
+   "options": [
     "Earth",
     "Hottest planet",
     "Smallest planet",
     "Andromeda"
    ],
-   "a": 1,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Venus: Hottest planet."
+   "answer": 1,
+   "explanation": "Venus: Hottest planet.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0761",
-   "q": "Salim Ali is known for which of the following?",
-   "o": [
+   "question": "Salim Ali is known for which of the following?",
+   "options": [
     "First powered aeroplane flight",
     "Ornithology in India",
     "Laws of motion and gravitation",
     "Theory of evolution"
    ],
-   "a": 1,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Salim Ali is known for Ornithology in India."
+   "answer": 1,
+   "explanation": "Salim Ali is known for Ornithology in India.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0762",
-   "q": "In which year did the following event take place: Janata Party formed the government at the Centre?",
-   "o": [
+   "question": "In which year did the following event take place: Janata Party formed the government at the Centre?",
+   "options": [
     "1920",
     "2016",
     "1977",
     "1919"
    ],
-   "a": 2,
-   "t": "Indian History Events",
-   "l": 2,
-   "s": "generated",
-   "e": "Janata Party formed the government at the Centre — 1977."
+   "answer": 2,
+   "explanation": "Janata Party formed the government at the Centre — 1977.",
+   "topic": "Indian History Events",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0763",
-   "q": "In which year did the following event take place: Founding of NATO?",
-   "o": [
+   "question": "In which year did the following event take place: Founding of NATO?",
+   "options": [
     "1871",
     "1945",
     "1949",
     "1833"
    ],
-   "a": 2,
-   "t": "World History Events",
-   "l": 2,
-   "s": "generated",
-   "e": "Founding of NATO — 1949."
+   "answer": 2,
+   "explanation": "Founding of NATO — 1949.",
+   "topic": "World History Events",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0764",
-   "q": "Which of the following pairs of dynasty and founder is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of dynasty and founder is correctly matched?",
+   "options": [
     "Gupta Empire - Jalal-ud-din Khalji",
     "Gupta Empire - Ghiyas-ud-din Tughlaq",
     "Gupta Empire - Sri Gupta",
     "Gupta Empire - Alauddin Bahman Shah"
    ],
-   "a": 2,
-   "t": "Dynasties",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Gupta Empire - Sri Gupta is correctly matched."
+   "answer": 2,
+   "explanation": "Only Gupta Empire - Sri Gupta is correctly matched.",
+   "topic": "Dynasties",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0765",
-   "q": "Which ruler is associated with the following: Rani of Jhansi in the Revolt of 1857?",
-   "o": [
+   "question": "Which ruler is associated with the following: Rani of Jhansi in the Revolt of 1857?",
+   "options": [
     "Guru Nanak",
     "Muhammad bin Tughlaq",
     "Hyder Ali",
     "Rani Lakshmibai"
    ],
-   "a": 3,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "Rani of Jhansi in the Revolt of 1857 is associated with Rani Lakshmibai."
+   "answer": 3,
+   "explanation": "Rani of Jhansi in the Revolt of 1857 is associated with Rani Lakshmibai.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0766",
-   "q": "Which freedom fighter is described as Leader of the Revolt in Awadh?",
-   "o": [
+   "question": "Which freedom fighter is described as Leader of the Revolt in Awadh?",
+   "options": [
     "Bankim Chandra Chatterjee",
     "Madan Mohan Malaviya",
     "Nana Saheb",
     "Begum Hazrat Mahal"
    ],
-   "a": 3,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "Leader of the Revolt in Awadh refers to Begum Hazrat Mahal."
+   "answer": 3,
+   "explanation": "Leader of the Revolt in Awadh refers to Begum Hazrat Mahal.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0767",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Rowlatt Act - 1946",
     "Rowlatt Act - 1923",
     "Rowlatt Act - 1932",
     "Rowlatt Act - 1919"
    ],
-   "a": 3,
-   "t": "National Movements",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Rowlatt Act - 1919 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Rowlatt Act - 1919 is correctly matched.",
+   "topic": "National Movements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0768",
-   "q": "Which part of the Constitution deals with: The Union and its territory?",
-   "o": [
+   "question": "Which part of the Constitution deals with: The Union and its territory?",
+   "options": [
     "Part I, Articles 1-4",
     "Articles 29-30",
     "Article 80",
     "Article 54"
    ],
-   "a": 0,
-   "t": "Constitution Articles",
-   "l": 2,
-   "s": "generated",
-   "e": "The Union and its territory is covered under Part I, Articles 1-4."
+   "answer": 0,
+   "explanation": "The Union and its territory is covered under Part I, Articles 1-4.",
+   "topic": "Constitution Articles",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0769",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "74th Amendment - 1976",
     "74th Amendment - 2019",
     "74th Amendment - 1992",
     "74th Amendment - 2002"
    ],
-   "a": 2,
-   "t": "Constitutional Amendments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 74th Amendment - 1992 is correctly matched."
+   "answer": 2,
+   "explanation": "Only 74th Amendment - 1992 is correctly matched.",
+   "topic": "Constitutional Amendments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0770",
-   "q": "Minimum age to become a member of the Lok Sabha?",
-   "o": [
+   "question": "Minimum age to become a member of the Lok Sabha?",
+   "options": [
     "Ireland",
     "552 members",
     "25 years",
     "Union, State and Concurrent Lists"
    ],
-   "a": 2,
-   "t": "Constitution Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "Minimum age to become a member of the Lok Sabha — 25 years."
+   "answer": 2,
+   "explanation": "Minimum age to become a member of the Lok Sabha — 25 years.",
+   "topic": "Constitution Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0771",
-   "q": "Which institution is described as: Head of the State Government?",
-   "o": [
+   "question": "Which institution is described as: Head of the State Government?",
+   "options": [
     "SEBI",
     "Zilla Parishad",
     "Governor",
     "Chief Minister"
    ],
-   "a": 3,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Head of the State Government describes Chief Minister."
+   "answer": 3,
+   "explanation": "Head of the State Government describes Chief Minister.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0772",
-   "q": "On which date is World Water Day observed?",
-   "o": [
+   "question": "On which date is World Water Day observed?",
+   "options": [
     "26 January",
     "24 January",
     "22 March",
     "14 November"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Water Day is observed on 22 March."
+   "answer": 2,
+   "explanation": "World Water Day is observed on 22 March.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0773",
-   "q": "Where is the headquarters of CERN?",
-   "o": [
+   "question": "Where is the headquarters of CERN?",
+   "options": [
     "Geneva",
     "Beijing",
     "Mumbai",
     "Rome"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "CERN is headquartered at Geneva."
+   "answer": 0,
+   "explanation": "CERN is headquartered at Geneva.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0774",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Throwball - 6",
     "Throwball - 1",
     "Throwball - 11",
     "Throwball - 7"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Throwball - 7 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Throwball - 7 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0775",
-   "q": "Which trophy or cup is associated with Cricket?",
-   "o": [
+   "question": "Which trophy or cup is associated with Cricket?",
+   "options": [
     "World Test Championship",
     "Durand Cup",
     "Asia Cup",
     "Corbillon Cup"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "World Test Championship is associated with Cricket."
+   "answer": 0,
+   "explanation": "World Test Championship is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0776",
-   "q": "Which award is described as: Award for brave children in India?",
-   "o": [
+   "question": "Which award is described as: Award for brave children in India?",
+   "options": [
     "Pulitzer Prize",
     "National Bravery Award",
     "Ramon Magsaysay Award",
     "Bharat Ratna"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Award for brave children in India describes National Bravery Award."
+   "answer": 1,
+   "explanation": "Award for brave children in India describes National Bravery Award.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0777",
-   "q": "Who is the author of Mother?",
-   "o": [
+   "question": "Who is the author of Mother?",
+   "options": [
     "Rabindranath Tagore",
     "Maxim Gorky",
     "A. P. J. Abdul Kalam",
     "Salman Rushdie"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Mother is written by Maxim Gorky."
+   "answer": 1,
+   "explanation": "Mother is written by Maxim Gorky.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0778",
-   "q": "Which of the following achievements belongs to Roger Bannister?",
-   "o": [
+   "question": "Which of the following achievements belongs to Roger Bannister?",
+   "options": [
     "First Winter Olympic Games were held in",
     "First woman to win a Nobel Prize",
     "First country to land a man on the Moon",
     "First person to run a mile in under four minutes"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First person to run a mile in under four minutes belongs to Roger Bannister."
+   "answer": 3,
+   "explanation": "First person to run a mile in under four minutes belongs to Roger Bannister.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0779",
-   "q": "Which is the southernmost state of India",
-   "o": [
+   "question": "Which is the southernmost state of India",
+   "options": [
     "Arma Konda",
     "Kolkata",
     "Paris",
     "Tamil Nadu"
    ],
-   "a": 3,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 3,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0780",
-   "q": "Which country is the largest producer of wind energy?",
-   "o": [
+   "question": "Which country is the largest producer of wind energy?",
+   "options": [
     "China",
     "Chhattisgarh",
     "Ganga",
     "Gulf of Mexico"
    ],
-   "a": 0,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 0,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0781",
-   "q": "Which place receives the highest rainfall in the world?",
-   "o": [
+   "question": "Which place receives the highest rainfall in the world?",
+   "options": [
     "Mawsynram",
     "Carbon dioxide",
     "Jupiter",
     "Richter scale"
    ],
-   "a": 0,
-   "t": "Climate and Atmosphere",
-   "l": 2,
-   "s": "generated",
-   "e": "Which place receives the highest rainfall in the world — Mawsynram."
+   "answer": 0,
+   "explanation": "Which place receives the highest rainfall in the world — Mawsynram.",
+   "topic": "Climate and Atmosphere",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0782",
-   "q": "Which of the following pairs of mineral and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of mineral and state is correctly matched?",
+   "options": [
     "Iron ore - Maharashtra",
     "Iron ore - Madhya Pradesh",
     "Iron ore - Rajasthan",
     "Iron ore - Odisha"
    ],
-   "a": 3,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Iron ore - Odisha is correctly matched."
+   "answer": 3,
+   "explanation": "Only Iron ore - Odisha is correctly matched.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0783",
-   "q": "In which year was the Bombay Stock Exchange established?",
-   "o": [
+   "question": "In which year was the Bombay Stock Exchange established?",
+   "options": [
     "Manila",
     "Goods and Services Tax",
     "Third Five Year Plan",
     "1875"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0784",
-   "q": "Choose the word most similar in meaning to Transient.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Transient.",
+   "options": [
     "Wordy",
     "Temporary",
     "Acquit",
     "Indifference"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Transient means Temporary."
+   "answer": 1,
+   "explanation": "Transient means Temporary.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0785",
-   "q": "Choose the word most opposite in meaning to Frivolous.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Frivolous.",
+   "options": [
     "Frequent",
     "Implausible",
     "Easy",
     "Serious"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Frivolous is Serious."
+   "answer": 3,
+   "explanation": "The opposite of Frivolous is Serious.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0786",
-   "q": "What is the meaning of the idiom 'On cloud nine'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'On cloud nine'?",
+   "options": [
     "Avoid",
     "In direct opposition to",
     "To waste time",
     "Extremely happy"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'On cloud nine' means Extremely happy."
+   "answer": 3,
+   "explanation": "'On cloud nine' means Extremely happy.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0787",
-   "q": "Choose the one word substitute for: Plants that live for two seasons",
-   "o": [
+   "question": "Choose the one word substitute for: Plants that live for two seasons",
+   "options": [
     "Autocracy",
     "Anarchy",
     "Biennials",
     "Centenarian"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "Plants that live for two seasons — Biennials."
+   "answer": 2,
+   "explanation": "Plants that live for two seasons — Biennials.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0788",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Grammar",
     "Disappoint",
     "Existence",
     "Battalion"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Grammar."
+   "answer": 0,
+   "explanation": "The correct spelling is Grammar.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0789",
-   "q": "What is the plural of Phenomenon?",
-   "o": [
+   "question": "What is the plural of Phenomenon?",
+   "options": [
     "Bases",
     "Leaves",
     "Radii",
     "Phenomena"
    ],
-   "a": 3,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Phenomenon is Phenomena."
+   "answer": 3,
+   "explanation": "The plural of Phenomenon is Phenomena.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0790",
-   "q": "What is the feminine form of Godfather?",
-   "o": [
+   "question": "What is the feminine form of Godfather?",
+   "options": [
     "Duchess",
     "Authoress",
     "Spinster",
     "Godmother"
    ],
-   "a": 3,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Godfather is Godmother."
+   "answer": 3,
+   "explanation": "The feminine of Godfather is Godmother.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0791",
-   "q": "What is the comparative degree of Intelligent?",
-   "o": [
+   "question": "What is the comparative degree of Intelligent?",
+   "options": [
     "Brighter",
     "More intelligent",
     "Bigger",
     "Happier"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Intelligent — More intelligent — Most intelligent."
+   "answer": 1,
+   "explanation": "Intelligent — More intelligent — Most intelligent.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0792",
-   "q": "Fill in the blank with the correct preposition: I have no appetite ____ food.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: I have no appetite ____ food.",
+   "options": [
     "in",
     "for",
     "on",
     "at"
    ],
-   "a": 1,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'for'."
+   "answer": 1,
+   "explanation": "The correct preposition is 'for'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0793",
-   "q": "What is the superlative degree of 'bad'?",
-   "o": [
+   "question": "What is the superlative degree of 'bad'?",
+   "options": [
     "Worst",
     "A song is being sung by her",
     "Colon",
     "Present participle"
    ],
-   "a": 0,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 0,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0794",
-   "q": "Which Indian payment system is popular in many countries?",
-   "o": [
+   "question": "Which Indian payment system is popular in many countries?",
+   "options": [
     "2023",
     "UPI",
     "NITI Aayog",
     "Swachh Bharat Abhiyan"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0795",
-   "q": "The scheme PM Vishwakarma Yojana was launched with which objective?",
-   "o": [
+   "question": "The scheme PM Vishwakarma Yojana was launched with which objective?",
+   "options": [
     "Support to traditional artisans and craftspeople",
     "Promoting manufacturing and investment in India",
     "Cooperative development of the dairy sector",
     "All-weather roads for rural areas"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "PM Vishwakarma Yojana — Support to traditional artisans and craftspeople."
+   "answer": 0,
+   "explanation": "PM Vishwakarma Yojana — Support to traditional artisans and craftspeople.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0796",
-   "q": "Fit India Movement is associated with which of the following?",
-   "o": [
+   "question": "Fit India Movement is associated with which of the following?",
+   "options": [
     "Earth observation satellites for mapping",
     "Optical fibre connectivity to gram panchayats",
     "Lifestyle for environment movement",
     "Promotion of fitness and sports"
    ],
-   "a": 3,
-   "t": "Missions and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Fit India Movement — Promotion of fitness and sports."
+   "answer": 3,
+   "explanation": "Fit India Movement — Promotion of fitness and sports.",
+   "topic": "Missions and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0797",
-   "q": "Cache memory is best described as which of the following?",
-   "o": [
+   "question": "Cache memory is best described as which of the following?",
+   "options": [
     "Universal character encoding standard",
     "Very fast memory close to the CPU",
     "Software used to view web pages",
     "Restarting a computer"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Cache memory — Very fast memory close to the CPU."
+   "answer": 1,
+   "explanation": "Cache memory — Very fast memory close to the CPU.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0798",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + C - Copy the selected item",
     "Ctrl + C - Open an existing file",
     "Ctrl + C - Undo the last action",
     "Ctrl + C - Select all items"
    ],
-   "a": 0,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + C - Copy the selected item is correctly matched."
+   "answer": 0,
+   "explanation": "Only Ctrl + C - Copy the selected item is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0799",
-   "q": "Which file extension is used for a Batch file?",
-   "o": [
+   "question": "Which file extension is used for a Batch file?",
+   "options": [
     ".docx",
     ".css",
     ".java",
     ".bat"
    ],
-   "a": 3,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Batch file uses the extension .bat."
+   "answer": 3,
+   "explanation": "Batch file uses the extension .bat.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0800",
-   "q": "What is the full form of LEO?",
-   "o": [
+   "question": "What is the full form of LEO?",
+   "options": [
     "Low Earth Orbit",
     "Study Webs of Active Learning for Young Aspiring Minds",
     "Unique Identification Authority of India",
     "Computed Tomography"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "LEO stands for Low Earth Orbit."
+   "answer": 0,
+   "explanation": "LEO stands for Low Earth Orbit.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0801",
-   "q": "Which of the following pairs of agreement and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of agreement and purpose is correctly matched?",
+   "options": [
     "Kyoto Protocol - Conservation and wise use of wetlands",
     "Kyoto Protocol - Control of transboundary movement of hazardous waste",
     "Kyoto Protocol - Reduction of greenhouse gas emissions by developed countries",
     "Kyoto Protocol - Biosafety of living modified organisms"
    ],
-   "a": 2,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kyoto Protocol - Reduction of greenhouse gas emissions by developed countries is correctly matched."
+   "answer": 2,
+   "explanation": "Only Kyoto Protocol - Reduction of greenhouse gas emissions by developed countries is correctly matched.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0802",
-   "q": "Which of the following pairs of pollutant and effect is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of pollutant and effect is correctly matched?",
+   "options": [
     "Sulphur dioxide - Traps heat and causes global warming",
     "Sulphur dioxide - Potent greenhouse gas from livestock and paddy fields",
     "Sulphur dioxide - Causes acid rain",
     "Sulphur dioxide - Persists in the environment for centuries"
    ],
-   "a": 2,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sulphur dioxide - Causes acid rain is correctly matched."
+   "answer": 2,
+   "explanation": "Only Sulphur dioxide - Causes acid rain is correctly matched.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0803",
-   "q": "Which of the following pairs of site and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of site and state is correctly matched?",
+   "options": [
     "Nanda Devi Biosphere Reserve - West Bengal",
     "Nanda Devi Biosphere Reserve - Odisha",
     "Nanda Devi Biosphere Reserve - Uttarakhand",
     "Nanda Devi Biosphere Reserve - Andhra Pradesh"
    ],
-   "a": 2,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nanda Devi Biosphere Reserve - Uttarakhand is correctly matched."
+   "answer": 2,
+   "explanation": "Only Nanda Devi Biosphere Reserve - Uttarakhand is correctly matched.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0804",
-   "q": "Which of the following pairs of law and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of law and purpose is correctly matched?",
+   "options": [
     "Compensatory Afforestation Fund - Conservation of biological diversity",
     "Compensatory Afforestation Fund - Conservation of elephants",
     "Compensatory Afforestation Fund - Cleanliness and sanitation",
     "Compensatory Afforestation Fund - Funds for afforestation in lieu of diverted forest"
    ],
-   "a": 3,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Compensatory Afforestation Fund - Funds for afforestation in lieu of diverted forest is correctly matched."
+   "answer": 3,
+   "explanation": "Only Compensatory Afforestation Fund - Funds for afforestation in lieu of diverted forest is correctly matched.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0805",
-   "q": "What is the capital of Philippines?",
-   "o": [
+   "question": "What is the capital of Philippines?",
+   "options": [
     "Vatican City",
     "Apia",
     "Riyadh",
     "Manila"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Philippines is Manila."
+   "answer": 3,
+   "explanation": "The capital of Philippines is Manila.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0806",
-   "q": "Which element has the chemical symbol Tb?",
-   "o": [
+   "question": "Which element has the chemical symbol Tb?",
+   "options": [
     "Calcium",
     "Terbium",
     "Palladium",
     "Sodium"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Tb is the symbol of Terbium."
+   "answer": 1,
+   "explanation": "Tb is the symbol of Terbium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0807",
-   "q": "Ranchi is the capital of which Indian state?",
-   "o": [
+   "question": "Ranchi is the capital of which Indian state?",
+   "options": [
     "Kerala",
     "Arunachal Pradesh",
     "Jharkhand",
     "Chhattisgarh"
    ],
-   "a": 2,
-   "t": "States and Capitals",
-   "l": 2,
-   "s": "generated",
-   "e": "Ranchi is the capital of Jharkhand."
+   "answer": 2,
+   "explanation": "Ranchi is the capital of Jharkhand.",
+   "topic": "States and Capitals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0808",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "National Anthem - Vande Mataram",
     "National Anthem - Indian Peacock",
     "National Anthem - Jana Gana Mana",
     "National Anthem - Lotus"
    ],
-   "a": 2,
-   "t": "National Symbols",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Anthem - Jana Gana Mana is correctly matched."
+   "answer": 2,
+   "explanation": "Only National Anthem - Jana Gana Mana is correctly matched.",
+   "topic": "National Symbols",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0809",
-   "q": "Which of the following descriptions matches Bachendri Pal?",
-   "o": [
+   "question": "Which of the following descriptions matches Bachendri Pal?",
+   "options": [
     "First Prime Minister of India",
     "First Chief Justice of India",
     "First Indian woman to become a judge of the Supreme Court",
     "First Indian woman to climb Mount Everest"
    ],
-   "a": 3,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "Bachendri Pal is associated with: First Indian woman to climb Mount Everest."
+   "answer": 3,
+   "explanation": "Bachendri Pal is associated with: First Indian woman to climb Mount Everest.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0810",
-   "q": "Bhortal is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Bhortal is a folk or classical dance form of which state?",
+   "options": [
     "Odisha",
     "Assam",
     "Gujarat",
     "Andhra Pradesh"
    ],
-   "a": 1,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Bhortal belongs to Assam."
+   "answer": 1,
+   "explanation": "Bhortal belongs to Assam.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0811",
-   "q": "Which of the following festivals is associated with Gujarat?",
-   "o": [
+   "question": "Which of the following festivals is associated with Gujarat?",
+   "options": [
     "Durga Puja",
     "Desert Festival",
     "Navratri",
     "Gudi Padwa"
    ],
-   "a": 2,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Navratri is associated with Gujarat."
+   "answer": 2,
+   "explanation": "Navratri is associated with Gujarat.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0812",
-   "q": "Talakaveri is the origin of which river?",
-   "o": [
+   "question": "Talakaveri is the origin of which river?",
+   "options": [
     "Yamuna",
     "Chenab",
     "Periyar",
     "Kaveri"
    ],
-   "a": 3,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Talakaveri is the origin of the river Kaveri."
+   "answer": 3,
+   "explanation": "Talakaveri is the origin of the river Kaveri.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0813",
-   "q": "Which of the following pairs of dam and river is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of dam and river is correctly matched?",
+   "options": [
     "Hirakud Dam - Koyna",
     "Hirakud Dam - Mahanadi",
     "Hirakud Dam - Narmada",
     "Hirakud Dam - Ganga"
    ],
-   "a": 1,
-   "t": "Dams of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Hirakud Dam - Mahanadi is correctly matched."
+   "answer": 1,
+   "explanation": "Only Hirakud Dam - Mahanadi is correctly matched.",
+   "topic": "Dams of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0814",
-   "q": "Vikramshila Gangetic Dolphin Sanctuary is located in which state?",
-   "o": [
+   "question": "Vikramshila Gangetic Dolphin Sanctuary is located in which state?",
+   "options": [
     "Bihar",
     "Madhya Pradesh",
     "Arunachal Pradesh",
     "Assam"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Vikramshila Gangetic Dolphin Sanctuary is located in Bihar."
+   "answer": 0,
+   "explanation": "Vikramshila Gangetic Dolphin Sanctuary is located in Bihar.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0815",
-   "q": "Which of the following passes is located in Tamil Nadu?",
-   "o": [
+   "question": "Which of the following passes is located in Tamil Nadu?",
+   "options": [
     "Khardung La",
     "Shencottah Gap",
     "Baralacha La",
     "Palakkad Gap"
    ],
-   "a": 1,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Shencottah Gap is a pass in Tamil Nadu."
+   "answer": 1,
+   "explanation": "Shencottah Gap is a pass in Tamil Nadu.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0816",
-   "q": "Which physical quantity is measured in Pascal?",
-   "o": [
+   "question": "Which physical quantity is measured in Pascal?",
+   "options": [
     "Mass",
     "Electric potential",
     "Catalytic activity",
     "Pressure"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Pascal is the SI unit of Pressure."
+   "answer": 3,
+   "explanation": "Pascal is the SI unit of Pressure.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0817",
-   "q": "Potometer is used for which of the following purposes?",
-   "o": [
+   "question": "Potometer is used for which of the following purposes?",
+   "options": [
     "Electric current",
     "Water absorption by plants",
     "Altitude",
     "Viscosity of liquids"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Potometer measures Water absorption by plants."
+   "answer": 1,
+   "explanation": "Potometer measures Water absorption by plants.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0818",
-   "q": "Which body part performs the function of Production of eggs?",
-   "o": [
+   "question": "Which body part performs the function of Production of eggs?",
+   "options": [
     "Heart",
     "Brain",
     "Hemoglobin",
     "Ovaries"
    ],
-   "a": 3,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Production of eggs is performed by the Ovaries."
+   "answer": 3,
+   "explanation": "Production of eggs is performed by the Ovaries.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0819",
-   "q": "Which disease is caused by the deficiency of Vitamin K and Protein?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Vitamin K and Protein?",
+   "options": [
     "Dehydration",
     "Pernicious anaemia",
     "Paresthesia",
     "Delayed blood clotting"
    ],
-   "a": 3,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin K and Protein causes Delayed blood clotting."
+   "answer": 3,
+   "explanation": "Deficiency of Vitamin K and Protein causes Delayed blood clotting.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0820",
-   "q": "Treponema pallidum bacteria causes which of the following diseases?",
-   "o": [
+   "question": "Treponema pallidum bacteria causes which of the following diseases?",
+   "options": [
     "Malaria",
     "Cholera",
     "Common cold",
     "Syphilis"
    ],
-   "a": 3,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Treponema pallidum bacteria causes Syphilis."
+   "answer": 3,
+   "explanation": "Treponema pallidum bacteria causes Syphilis.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0821",
-   "q": "Who is credited with Electron?",
-   "o": [
+   "question": "Who is credited with Electron?",
+   "options": [
     "J. J. Thomson",
     "Jacob Perkins",
     "Charles Babbage",
     "Albert Einstein"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Electron — J. J. Thomson."
+   "answer": 0,
+   "explanation": "Electron — J. J. Thomson.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0822",
-   "q": "Trinitrotoluene is commonly known as which of the following?",
-   "o": [
+   "question": "Trinitrotoluene is commonly known as which of the following?",
+   "options": [
     "Gypsum",
     "TNT",
     "White vitriol",
     "Oil of vitriol"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Trinitrotoluene is commonly known as TNT."
+   "answer": 1,
+   "explanation": "Trinitrotoluene is commonly known as TNT.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0823",
-   "q": "Which branch of science deals with Eyes?",
-   "o": [
+   "question": "Which branch of science deals with Eyes?",
+   "options": [
     "Ophthalmology",
     "Taxonomy",
     "Neurology",
     "Astrophysics"
    ],
-   "a": 0,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Ophthalmology deals with Eyes."
+   "answer": 0,
+   "explanation": "Ophthalmology deals with Eyes.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0824",
-   "q": "Which of the following statements about Olympus Mons is correct?",
-   "o": [
+   "question": "Which of the following statements about Olympus Mons is correct?",
+   "options": [
     "Mars",
     "Neptune",
     "Third",
     "Smallest planet"
    ],
-   "a": 0,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Olympus Mons: Mars."
+   "answer": 0,
+   "explanation": "Olympus Mons: Mars.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0825",
-   "q": "Alexander Graham Bell is known for which of the following?",
-   "o": [
+   "question": "Alexander Graham Bell is known for which of the following?",
+   "options": [
     "Telephone",
     "Absolute temperature scale",
     "Improvements to the steam engine",
     "Quantum theory"
    ],
-   "a": 0,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Alexander Graham Bell is known for Telephone."
+   "answer": 0,
+   "explanation": "Alexander Graham Bell is known for Telephone.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0826",
-   "q": "In which year did the following event take place: Chauri Chaura incident?",
-   "o": [
+   "question": "In which year did the following event take place: Chauri Chaura incident?",
+   "options": [
     "1929",
     "1950",
     "1922",
     "1906"
    ],
-   "a": 2,
-   "t": "Indian History Events",
-   "l": 2,
-   "s": "generated",
-   "e": "Chauri Chaura incident — 1922."
+   "answer": 2,
+   "explanation": "Chauri Chaura incident — 1922.",
+   "topic": "Indian History Events",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0827",
-   "q": "In which year did the following event take place: Signing of the Magna Carta?",
-   "o": [
+   "question": "In which year did the following event take place: Signing of the Magna Carta?",
+   "options": [
     "1990",
     "1498",
     "1215",
     "1919"
    ],
-   "a": 2,
-   "t": "World History Events",
-   "l": 2,
-   "s": "generated",
-   "e": "Signing of the Magna Carta — 1215."
+   "answer": 2,
+   "explanation": "Signing of the Magna Carta — 1215.",
+   "topic": "World History Events",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0828",
-   "q": "Which of the following pairs of dynasty and founder is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of dynasty and founder is correctly matched?",
+   "options": [
     "Gupta Empire - Gopala",
     "Gupta Empire - Simhavarman",
     "Gupta Empire - Sri Gupta",
     "Gupta Empire - Shivaji"
    ],
-   "a": 2,
-   "t": "Dynasties",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Gupta Empire - Sri Gupta is correctly matched."
+   "answer": 2,
+   "explanation": "Only Gupta Empire - Sri Gupta is correctly matched.",
+   "topic": "Dynasties",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0829",
-   "q": "Which ruler is associated with the following: Known as Alamgir and ruled for nearly 50 years?",
-   "o": [
+   "question": "Which ruler is associated with the following: Known as Alamgir and ruled for nearly 50 years?",
+   "options": [
     "Ashoka",
     "Baji Rao I",
     "Guru Gobind Singh",
     "Aurangzeb"
    ],
-   "a": 3,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "Known as Alamgir and ruled for nearly 50 years is associated with Aurangzeb."
+   "answer": 3,
+   "explanation": "Known as Alamgir and ruled for nearly 50 years is associated with Aurangzeb.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0830",
-   "q": "Which freedom fighter is described as Revolutionary who died at Alfred Park?",
-   "o": [
+   "question": "Which freedom fighter is described as Revolutionary who died at Alfred Park?",
+   "options": [
     "Subhas Chandra Bose",
     "Mangal Pandey",
     "Rabindranath Tagore",
     "Chandrashekhar Azad"
    ],
-   "a": 3,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "Revolutionary who died at Alfred Park refers to Chandrashekhar Azad."
+   "answer": 3,
+   "explanation": "Revolutionary who died at Alfred Park refers to Chandrashekhar Azad.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0831",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Rowlatt Act - 1940",
     "Rowlatt Act - 1919",
     "Rowlatt Act - 1932",
     "Rowlatt Act - 1923"
    ],
-   "a": 1,
-   "t": "National Movements",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Rowlatt Act - 1919 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Rowlatt Act - 1919 is correctly matched.",
+   "topic": "National Movements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0832",
-   "q": "Which part of the Constitution deals with: Right against Exploitation?",
-   "o": [
+   "question": "Which part of the Constitution deals with: Right against Exploitation?",
+   "options": [
     "Article 93",
     "Part XVIII, Articles 352-360",
     "Articles 23-24",
     "Article 76"
    ],
-   "a": 2,
-   "t": "Constitution Articles",
-   "l": 2,
-   "s": "generated",
-   "e": "Right against Exploitation is covered under Articles 23-24."
+   "answer": 2,
+   "explanation": "Right against Exploitation is covered under Articles 23-24.",
+   "topic": "Constitution Articles",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0833",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "74th Amendment - 2023",
     "74th Amendment - 1956",
     "74th Amendment - 1976",
     "74th Amendment - 1992"
    ],
-   "a": 3,
-   "t": "Constitutional Amendments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 74th Amendment - 1992 is correctly matched."
+   "answer": 3,
+   "explanation": "Only 74th Amendment - 1992 is correctly matched.",
+   "topic": "Constitutional Amendments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0834",
-   "q": "Date of adoption of the Constitution?",
-   "o": [
+   "question": "Date of adoption of the Constitution?",
+   "options": [
     "Quo Warranto",
     "Dr. B. R. Ambedkar",
     "26 November 1949",
     "M. N. Roy"
    ],
-   "a": 2,
-   "t": "Constitution Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "Date of adoption of the Constitution — 26 November 1949."
+   "answer": 2,
+   "explanation": "Date of adoption of the Constitution — 26 November 1949.",
+   "topic": "Constitution Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0835",
-   "q": "Which institution is described as: Policy think tank of the Government of India?",
-   "o": [
+   "question": "Which institution is described as: Policy think tank of the Government of India?",
+   "options": [
     "Vice President of India",
     "Attorney General of India",
     "Reserve Bank of India",
     "NITI Aayog"
    ],
-   "a": 3,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Policy think tank of the Government of India describes NITI Aayog."
+   "answer": 3,
+   "explanation": "Policy think tank of the Government of India describes NITI Aayog.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0836",
-   "q": "On which date is World Hindi Day observed?",
-   "o": [
+   "question": "On which date is World Hindi Day observed?",
+   "options": [
     "7 April",
     "31 May",
     "second Saturday of September",
     "10 January"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Hindi Day is observed on 10 January."
+   "answer": 3,
+   "explanation": "World Hindi Day is observed on 10 January.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0837",
-   "q": "Where is the headquarters of International Hockey Federation?",
-   "o": [
+   "question": "Where is the headquarters of International Hockey Federation?",
+   "options": [
     "The Hague",
     "Lausanne",
     "Rome",
     "Nairobi"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "International Hockey Federation is headquartered at Lausanne."
+   "answer": 1,
+   "explanation": "International Hockey Federation is headquartered at Lausanne.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0838",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Throwball - 4",
     "Throwball - 8",
     "Throwball - 7",
     "Throwball - 15"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Throwball - 7 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Throwball - 7 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0839",
-   "q": "Which trophy or cup is associated with Football?",
-   "o": [
+   "question": "Which trophy or cup is associated with Football?",
+   "options": [
     "The Ashes",
     "Champions Trophy (Cricket)",
     "Grand Slam (Tennis)",
     "Merdeka Cup"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Merdeka Cup is associated with Football."
+   "answer": 3,
+   "explanation": "Merdeka Cup is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0840",
-   "q": "Which award is described as: Coaching excellence in Indian sports?",
-   "o": [
+   "question": "Which award is described as: Coaching excellence in Indian sports?",
+   "options": [
     "Padma Vibhushan",
     "Templeton Prize",
     "Kirti Chakra",
     "Dronacharya Award"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Coaching excellence in Indian sports describes Dronacharya Award."
+   "answer": 3,
+   "explanation": "Coaching excellence in Indian sports describes Dronacharya Award.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0841",
-   "q": "Who is the author of Maila Anchal?",
-   "o": [
+   "question": "Who is the author of Maila Anchal?",
+   "options": [
     "Phanishwar Nath Renu",
     "Paramahansa Yogananda",
     "Maxim Gorky",
     "Munshi Premchand"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Maila Anchal is written by Phanishwar Nath Renu."
+   "answer": 0,
+   "explanation": "Maila Anchal is written by Phanishwar Nath Renu.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0842",
-   "q": "Which of the following achievements belongs to Trygve Lie?",
-   "o": [
+   "question": "Which of the following achievements belongs to Trygve Lie?",
+   "options": [
     "First country to host the modern Olympic Games",
     "First woman Prime Minister in the world",
     "First Secretary-General of the United Nations",
     "First person to climb Mount Everest"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First Secretary-General of the United Nations belongs to Trygve Lie."
+   "answer": 2,
+   "explanation": "First Secretary-General of the United Nations belongs to Trygve Lie.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0843",
-   "q": "Which is the longest mountain range in the world?",
-   "o": [
+   "question": "Which is the longest mountain range in the world?",
+   "options": [
     "Tibetan Plateau",
     "Andes",
     "West Bengal",
     "Ahmedabad"
    ],
-   "a": 1,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 1,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0844",
-   "q": "Which is the largest oil producing organisation?",
-   "o": [
+   "question": "Which is the largest oil producing organisation?",
+   "options": [
     "Venice",
     "Brazil",
     "Guhar Moti",
     "OPEC"
    ],
-   "a": 3,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 3,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0845",
-   "q": "Which layer of the atmosphere contains the ozone layer?",
-   "o": [
+   "question": "Which layer of the atmosphere contains the ozone layer?",
+   "options": [
     "Stratosphere",
     "Jupiter",
     "Talc",
     "Focus"
    ],
-   "a": 0,
-   "t": "Climate and Atmosphere",
-   "l": 2,
-   "s": "generated",
-   "e": "Which layer of the atmosphere contains the ozone layer — Stratosphere."
+   "answer": 0,
+   "explanation": "Which layer of the atmosphere contains the ozone layer — Stratosphere.",
+   "topic": "Climate and Atmosphere",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0846",
-   "q": "Which of the following pairs of mineral and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of mineral and state is correctly matched?",
+   "options": [
     "Iron ore - Jharkhand",
     "Iron ore - Odisha",
     "Iron ore - Madhya Pradesh",
     "Iron ore - Andhra Pradesh"
    ],
-   "a": 1,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Iron ore - Odisha is correctly matched."
+   "answer": 1,
+   "explanation": "Only Iron ore - Odisha is correctly matched.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0847",
-   "q": "Which scheme provides loans to micro-enterprises in India?",
-   "o": [
+   "question": "Which scheme provides loans to micro-enterprises in India?",
+   "options": [
     "1776",
     "Urjit Patel Committee",
     "Pradhan Mantri Mudra Yojana",
     "Payment bank"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0848",
-   "q": "Choose the word most similar in meaning to Prolific.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Prolific.",
+   "options": [
     "Productive",
     "Superfluous",
     "Risky",
     "Nurture"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Prolific means Productive."
+   "answer": 0,
+   "explanation": "Prolific means Productive.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0849",
-   "q": "Choose the word most opposite in meaning to Bold.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Bold.",
+   "options": [
     "Implicit",
     "Replenish",
     "Descend",
     "Cowardly"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Bold is Cowardly."
+   "answer": 3,
+   "explanation": "The opposite of Bold is Cowardly.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0850",
-   "q": "What is the meaning of the idiom 'Put the cart before the horse'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Put the cart before the horse'?",
+   "options": [
     "A very difficult task",
     "Excessive official formality",
     "Very rarely",
     "Do things in the wrong order"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Put the cart before the horse' means Do things in the wrong order."
+   "answer": 3,
+   "explanation": "'Put the cart before the horse' means Do things in the wrong order.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0851",
-   "q": "Choose the one word substitute for: One who is between sixty and seventy years old",
-   "o": [
+   "question": "Choose the one word substitute for: One who is between sixty and seventy years old",
+   "options": [
     "Hangar",
     "Librarian",
     "Panacea",
     "Sexagenarian"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "One who is between sixty and seventy years old — Sexagenarian."
+   "answer": 3,
+   "explanation": "One who is between sixty and seventy years old — Sexagenarian.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0852",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Interrupt",
     "Tomorrow",
     "Fulfil",
     "Liaison"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Liaison."
+   "answer": 3,
+   "explanation": "The correct spelling is Liaison.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0853",
-   "q": "What is the plural of Buffalo?",
-   "o": [
+   "question": "What is the plural of Buffalo?",
+   "options": [
     "Churches",
     "Tomatoes",
     "Buffaloes",
     "Men"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Buffalo is Buffaloes."
+   "answer": 2,
+   "explanation": "The plural of Buffalo is Buffaloes.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0854",
-   "q": "What is the feminine form of Hero?",
-   "o": [
+   "question": "What is the feminine form of Hero?",
+   "options": [
     "Heroine",
     "Grandmother",
     "Witch",
     "Baroness"
    ],
-   "a": 0,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Hero is Heroine."
+   "answer": 0,
+   "explanation": "The feminine of Hero is Heroine.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0855",
-   "q": "What is the comparative degree of Shallow?",
-   "o": [
+   "question": "What is the comparative degree of Shallow?",
+   "options": [
     "Shallower",
     "Braver",
     "Gentler",
     "More"
    ],
-   "a": 0,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Shallow — Shallower — Shallowest."
+   "answer": 0,
+   "explanation": "Shallow — Shallower — Shallowest.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0856",
-   "q": "Fill in the blank with the correct preposition: She is busy ____ her homework.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: She is busy ____ her homework.",
+   "options": [
     "with",
     "of",
     "in",
     "for"
    ],
-   "a": 0,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'with'."
+   "answer": 0,
+   "explanation": "The correct preposition is 'with'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0857",
-   "q": "What is the abstract noun formed from 'child'?",
-   "o": [
+   "question": "What is the abstract noun formed from 'child'?",
+   "options": [
     "Childhood",
     "The base form (infinitive)",
     "An",
     "Past perfect"
    ],
-   "a": 0,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 0,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0858",
-   "q": "Which metro rail network is the largest in India?",
-   "o": [
+   "question": "Which metro rail network is the largest in India?",
+   "options": [
     "Ethanol Blending Programme",
     "Delhi Metro",
     "AstroSat",
     "Kerala"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0859",
-   "q": "The scheme Ayushman Bharat was launched with which objective?",
-   "o": [
+   "question": "The scheme Ayushman Bharat was launched with which objective?",
+   "options": [
     "Self-reliance in oilseed production",
     "Online national agriculture market for farmers",
     "Emergency relief during the COVID-19 pandemic",
     "Health insurance cover of five lakh rupees per family"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Ayushman Bharat — Health insurance cover of five lakh rupees per family."
+   "answer": 3,
+   "explanation": "Ayushman Bharat — Health insurance cover of five lakh rupees per family.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0860",
-   "q": "Project Lion is associated with which of the following?",
-   "o": [
+   "question": "Project Lion is associated with which of the following?",
+   "options": [
     "Conservation of Asiatic lions",
     "Regional satellite navigation system",
     "Conservation of tigers and their habitats",
     "Communication and weather satellites"
    ],
-   "a": 0,
-   "t": "Missions and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Project Lion — Conservation of Asiatic lions."
+   "answer": 0,
+   "explanation": "Project Lion — Conservation of Asiatic lions.",
+   "topic": "Missions and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0861",
-   "q": "Firmware is best described as which of the following?",
-   "o": [
+   "question": "Firmware is best described as which of the following?",
+   "options": [
     "Software stored permanently on a hardware chip",
     "Eight bits of digital data",
     "Input device that captures sound",
     "When data requested is found in cache memory"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Firmware — Software stored permanently on a hardware chip."
+   "answer": 0,
+   "explanation": "Firmware — Software stored permanently on a hardware chip.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0862",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "F2 - Lock the computer",
     "F2 - Delete an item permanently",
     "F2 - Rename the selected item",
     "F2 - Copy the selected item"
    ],
-   "a": 2,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only F2 - Rename the selected item is correctly matched."
+   "answer": 2,
+   "explanation": "Only F2 - Rename the selected item is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0863",
-   "q": "Which file extension is used for a Python source file?",
-   "o": [
+   "question": "Which file extension is used for a Python source file?",
+   "options": [
     ".py",
     ".jpg",
     ".css",
     ".docx"
    ],
-   "a": 0,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Python source file uses the extension .py."
+   "answer": 0,
+   "explanation": "Python source file uses the extension .py.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0864",
-   "q": "What is the full form of IRDAI?",
-   "o": [
+   "question": "What is the full form of IRDAI?",
+   "options": [
     "Ribonucleic Acid",
     "Defence Research and Development Organisation",
     "Navigation with Indian Constellation",
     "Insurance Regulatory and Development Authority of India"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "IRDAI stands for Insurance Regulatory and Development Authority of India."
+   "answer": 3,
+   "explanation": "IRDAI stands for Insurance Regulatory and Development Authority of India.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0865",
-   "q": "Which of the following pairs of agreement and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of agreement and purpose is correctly matched?",
+   "options": [
     "Kyoto Protocol - Phase down of hydrofluorocarbons",
     "Kyoto Protocol - Conservation of wild tigers",
     "Kyoto Protocol - Reduction of greenhouse gas emissions by developed countries",
     "Kyoto Protocol - Control of international trade in endangered species"
    ],
-   "a": 2,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kyoto Protocol - Reduction of greenhouse gas emissions by developed countries is correctly matched."
+   "answer": 2,
+   "explanation": "Only Kyoto Protocol - Reduction of greenhouse gas emissions by developed countries is correctly matched.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0866",
-   "q": "Which of the following pairs of pollutant and effect is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of pollutant and effect is correctly matched?",
+   "options": [
     "Sulphur dioxide - Damage marine life and coastlines",
     "Sulphur dioxide - Raises water temperature and harms aquatic life",
     "Sulphur dioxide - Causes acid rain",
     "Sulphur dioxide - Causes skin lesions and cancer in groundwater"
    ],
-   "a": 2,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sulphur dioxide - Causes acid rain is correctly matched."
+   "answer": 2,
+   "explanation": "Only Sulphur dioxide - Causes acid rain is correctly matched.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0867",
-   "q": "Which of the following pairs of site and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of site and state is correctly matched?",
+   "options": [
     "Nanda Devi Biosphere Reserve - Madhya Pradesh",
     "Nanda Devi Biosphere Reserve - Rajasthan",
     "Nanda Devi Biosphere Reserve - Uttarakhand",
     "Nanda Devi Biosphere Reserve - Kerala and Tamil Nadu"
    ],
-   "a": 2,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nanda Devi Biosphere Reserve - Uttarakhand is correctly matched."
+   "answer": 2,
+   "explanation": "Only Nanda Devi Biosphere Reserve - Uttarakhand is correctly matched.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0868",
-   "q": "Which of the following pairs of law and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of law and purpose is correctly matched?",
+   "options": [
     "Compensatory Afforestation Fund - Cleaning the Ganga",
     "Compensatory Afforestation Fund - Funds for afforestation in lieu of diverted forest",
     "Compensatory Afforestation Fund - Adjudication of environmental disputes",
     "Compensatory Afforestation Fund - Reduction of air pollution in cities"
    ],
-   "a": 1,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Compensatory Afforestation Fund - Funds for afforestation in lieu of diverted forest is correctly matched."
+   "answer": 1,
+   "explanation": "Only Compensatory Afforestation Fund - Funds for afforestation in lieu of diverted forest is correctly matched.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0869",
-   "q": "What is the capital of Egypt?",
-   "o": [
+   "question": "What is the capital of Egypt?",
+   "options": [
     "Cairo",
     "Nicosia",
     "Dushanbe",
     "Phnom Penh"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Egypt is Cairo."
+   "answer": 0,
+   "explanation": "The capital of Egypt is Cairo.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0870",
-   "q": "Which element has the chemical symbol Sg?",
-   "o": [
+   "question": "Which element has the chemical symbol Sg?",
+   "options": [
     "Arsenic",
     "Seaborgium",
     "Lanthanum",
     "Thorium"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Sg is the symbol of Seaborgium."
+   "answer": 1,
+   "explanation": "Sg is the symbol of Seaborgium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0871",
-   "q": "Gangtok is the capital of which Indian state?",
-   "o": [
+   "question": "Gangtok is the capital of which Indian state?",
+   "options": [
     "Rajasthan",
     "West Bengal",
     "Uttar Pradesh",
     "Sikkim"
    ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 2,
-   "s": "generated",
-   "e": "Gangtok is the capital of Sikkim."
+   "answer": 3,
+   "explanation": "Gangtok is the capital of Sikkim.",
+   "topic": "States and Capitals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0872",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "National Tree - Indian Elephant",
     "National Tree - Vande Mataram",
     "National Tree - Banyan",
     "National Tree - Saka Calendar"
    ],
-   "a": 2,
-   "t": "National Symbols",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Tree - Banyan is correctly matched."
+   "answer": 2,
+   "explanation": "Only National Tree - Banyan is correctly matched.",
+   "topic": "National Symbols",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0873",
-   "q": "Which of the following descriptions matches Kharagpur?",
-   "o": [
+   "question": "Which of the following descriptions matches Kharagpur?",
+   "options": [
     "First Indian Institute of Technology was set up at",
     "First Indian Prime Minister to visit China",
     "First Indian to win a Grand Slam in tennis",
     "First Indian to travel to space"
    ],
-   "a": 0,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "Kharagpur is associated with: First Indian Institute of Technology was set up at."
+   "answer": 0,
+   "explanation": "Kharagpur is associated with: First Indian Institute of Technology was set up at.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0874",
-   "q": "Odissi is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Odissi is a folk or classical dance form of which state?",
+   "options": [
     "Jammu and Kashmir",
     "Tamil Nadu",
     "Gujarat",
     "Odisha"
    ],
-   "a": 3,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Odissi belongs to Odisha."
+   "answer": 3,
+   "explanation": "Odissi belongs to Odisha.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0875",
-   "q": "Which of the following festivals is associated with Karnataka?",
-   "o": [
+   "question": "Which of the following festivals is associated with Karnataka?",
+   "options": [
     "Nuakhai",
     "Me-Dam-Me-Phi",
     "Ugadi",
     "Hemis Festival"
    ],
-   "a": 2,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Ugadi is associated with Karnataka."
+   "answer": 2,
+   "explanation": "Ugadi is associated with Karnataka.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0876",
-   "q": "Pilibhit is the origin of which river?",
-   "o": [
+   "question": "Pilibhit is the origin of which river?",
+   "options": [
     "Gomti",
     "Vaigai",
     "Damodar",
     "Narmada"
    ],
-   "a": 0,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Pilibhit is the origin of the river Gomti."
+   "answer": 0,
+   "explanation": "Pilibhit is the origin of the river Gomti.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0877",
-   "q": "Which of the following pairs of dam and river is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of dam and river is correctly matched?",
+   "options": [
     "Nagarjuna Sagar Dam - Krishna",
     "Nagarjuna Sagar Dam - Bhavani",
     "Nagarjuna Sagar Dam - Godavari",
     "Nagarjuna Sagar Dam - Chenab"
    ],
-   "a": 0,
-   "t": "Dams of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nagarjuna Sagar Dam - Krishna is correctly matched."
+   "answer": 0,
+   "explanation": "Only Nagarjuna Sagar Dam - Krishna is correctly matched.",
+   "topic": "Dams of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0878",
-   "q": "Udanti Sitanadi Tiger Reserve is located in which state?",
-   "o": [
+   "question": "Udanti Sitanadi Tiger Reserve is located in which state?",
+   "options": [
     "Bihar",
     "Chhattisgarh",
     "Assam",
     "West Bengal"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Udanti Sitanadi Tiger Reserve is located in Chhattisgarh."
+   "answer": 1,
+   "explanation": "Udanti Sitanadi Tiger Reserve is located in Chhattisgarh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0879",
-   "q": "Which of the following passes is located in Arunachal Pradesh?",
-   "o": [
+   "question": "Which of the following passes is located in Arunachal Pradesh?",
+   "options": [
     "Diphu Pass",
     "Fotu La",
     "Thal Ghat",
     "Niti Pass"
    ],
-   "a": 0,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Diphu Pass is a pass in Arunachal Pradesh."
+   "answer": 0,
+   "explanation": "Diphu Pass is a pass in Arunachal Pradesh.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0880",
-   "q": "Which physical quantity is measured in Gray?",
-   "o": [
+   "question": "Which physical quantity is measured in Gray?",
+   "options": [
     "Absorbed dose",
     "Plane angle",
     "Capacitance",
     "Force"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Gray is the SI unit of Absorbed dose."
+   "answer": 0,
+   "explanation": "Gray is the SI unit of Absorbed dose.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0881",
-   "q": "Fathometer is used for which of the following purposes?",
-   "o": [
+   "question": "Fathometer is used for which of the following purposes?",
+   "options": [
     "Turbidity of liquid",
     "Temperature",
     "Distance travelled",
     "Depth of the sea"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Fathometer measures Depth of the sea."
+   "answer": 3,
+   "explanation": "Fathometer measures Depth of the sea.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0882",
-   "q": "Which body part performs the function of Basic filtering units of the kidney?",
-   "o": [
+   "question": "Which body part performs the function of Basic filtering units of the kidney?",
+   "options": [
     "Insulin",
     "Plasma",
     "Liver",
     "Nephrons"
    ],
-   "a": 3,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Basic filtering units of the kidney is performed by the Nephrons."
+   "answer": 3,
+   "explanation": "Basic filtering units of the kidney is performed by the Nephrons.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0883",
-   "q": "Which disease is caused by the deficiency of Vitamin B2?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Vitamin B2?",
+   "options": [
     "Dermatitis",
     "Ariboflavinosis",
     "Muscle weakness",
     "Tetany"
    ],
-   "a": 1,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B2 causes Ariboflavinosis."
+   "answer": 1,
+   "explanation": "Deficiency of Vitamin B2 causes Ariboflavinosis.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0884",
-   "q": "Hepatitis A virus causes which of the following diseases?",
-   "o": [
+   "question": "Hepatitis A virus causes which of the following diseases?",
+   "options": [
     "Meningitis",
     "Athlete's foot",
     "Chikungunya",
     "Hepatitis A"
    ],
-   "a": 3,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Hepatitis A virus causes Hepatitis A."
+   "answer": 3,
+   "explanation": "Hepatitis A virus causes Hepatitis A.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0885",
-   "q": "Who is credited with Thermometer (mercury)?",
-   "o": [
+   "question": "Who is credited with Thermometer (mercury)?",
+   "options": [
     "Galileo Galilei",
     "J. J. Thomson",
     "Jonas Salk",
     "Daniel Gabriel Fahrenheit"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Thermometer (mercury) — Daniel Gabriel Fahrenheit."
+   "answer": 3,
+   "explanation": "Thermometer (mercury) — Daniel Gabriel Fahrenheit.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0886",
-   "q": "Potassium nitrate (KNO3) is commonly known as which of the following?",
-   "o": [
+   "question": "Potassium nitrate (KNO3) is commonly known as which of the following?",
+   "options": [
     "Butter of zinc",
     "Baking soda",
     "Baking powder",
     "Nitre / saltpetre"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Potassium nitrate (KNO3) is commonly known as Nitre / saltpetre."
+   "answer": 3,
+   "explanation": "Potassium nitrate (KNO3) is commonly known as Nitre / saltpetre.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0887",
-   "q": "Which branch of science deals with Beekeeping?",
-   "o": [
+   "question": "Which branch of science deals with Beekeeping?",
+   "options": [
     "Ichthyology",
     "Ophthalmology",
     "Genetics",
     "Apiculture"
    ],
-   "a": 3,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Apiculture deals with Beekeeping."
+   "answer": 3,
+   "explanation": "Apiculture deals with Beekeeping.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0888",
-   "q": "Which of the following statements about Venus is correct?",
-   "o": [
+   "question": "Which of the following statements about Venus is correct?",
+   "options": [
     "Mercury",
     "Second",
     "Comet",
     "Solar eclipse"
    ],
-   "a": 1,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Venus: Second."
+   "answer": 1,
+   "explanation": "Venus: Second.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0889",
-   "q": "G. N. Ramachandran is known for which of the following?",
-   "o": [
+   "question": "G. N. Ramachandran is known for which of the following?",
+   "options": [
     "Boyle's law of gases",
     "Telephone",
     "Discovery of penicillin",
     "Triple helical structure of collagen"
    ],
-   "a": 3,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "G. N. Ramachandran is known for Triple helical structure of collagen."
+   "answer": 3,
+   "explanation": "G. N. Ramachandran is known for Triple helical structure of collagen.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0890",
-   "q": "In which year did the following event take place: Gandhi-Irwin Pact signed?",
-   "o": [
+   "question": "In which year did the following event take place: Gandhi-Irwin Pact signed?",
+   "options": [
     "1931",
     "1950",
     "2008",
     "1975"
    ],
-   "a": 0,
-   "t": "Indian History Events",
-   "l": 2,
-   "s": "generated",
-   "e": "Gandhi-Irwin Pact signed — 1931."
+   "answer": 0,
+   "explanation": "Gandhi-Irwin Pact signed — 1931.",
+   "topic": "Indian History Events",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0891",
-   "q": "In which year did the following event take place: Release of Nelson Mandela from prison?",
-   "o": [
+   "question": "In which year did the following event take place: Release of Nelson Mandela from prison?",
+   "options": [
     "1941",
     "1990",
     "1991",
     "1492"
    ],
-   "a": 1,
-   "t": "World History Events",
-   "l": 2,
-   "s": "generated",
-   "e": "Release of Nelson Mandela from prison — 1990."
+   "answer": 1,
+   "explanation": "Release of Nelson Mandela from prison — 1990.",
+   "topic": "World History Events",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0892",
-   "q": "Which of the following pairs of dynasty and founder is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of dynasty and founder is correctly matched?",
+   "options": [
     "Khilji Dynasty - Jalal-ud-din Khalji",
     "Khilji Dynasty - Pulakeshin I",
     "Khilji Dynasty - Pushyamitra Sunga",
     "Khilji Dynasty - Gopala"
    ],
-   "a": 0,
-   "t": "Dynasties",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Khilji Dynasty - Jalal-ud-din Khalji is correctly matched."
+   "answer": 0,
+   "explanation": "Only Khilji Dynasty - Jalal-ud-din Khalji is correctly matched.",
+   "topic": "Dynasties",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0893",
-   "q": "Which ruler is associated with the following: Shifted the capital from Delhi to Daulatabad?",
-   "o": [
+   "question": "Which ruler is associated with the following: Shifted the capital from Delhi to Daulatabad?",
+   "options": [
     "Muhammad bin Tughlaq",
     "Babur",
     "Hyder Ali",
     "Krishnadevaraya"
    ],
-   "a": 0,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "Shifted the capital from Delhi to Daulatabad is associated with Muhammad bin Tughlaq."
+   "answer": 0,
+   "explanation": "Shifted the capital from Delhi to Daulatabad is associated with Muhammad bin Tughlaq.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0894",
-   "q": "Which freedom fighter is described as Founder of Banaras Hindu University?",
-   "o": [
+   "question": "Which freedom fighter is described as Founder of Banaras Hindu University?",
+   "options": [
     "Madan Mohan Malaviya",
     "Vinoba Bhave",
     "Nana Saheb",
     "Sardar Vallabhbhai Patel"
    ],
-   "a": 0,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "Founder of Banaras Hindu University refers to Madan Mohan Malaviya."
+   "answer": 0,
+   "explanation": "Founder of Banaras Hindu University refers to Madan Mohan Malaviya.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0895",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Simon Commission boycott - 1919",
     "Simon Commission boycott - 1932",
     "Simon Commission boycott - 1928",
     "Simon Commission boycott - 1917"
    ],
-   "a": 2,
-   "t": "National Movements",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Simon Commission boycott - 1928 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Simon Commission boycott - 1928 is correctly matched.",
+   "topic": "National Movements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0896",
-   "q": "Article 75 of the Constitution deals with which of the following?",
-   "o": [
+   "question": "Article 75 of the Constitution deals with which of the following?",
+   "options": [
     "Election of the President",
     "Appointment of the Prime Minister and Council of Ministers",
     "Composition of the Rajya Sabha",
     "Municipalities"
    ],
-   "a": 1,
-   "t": "Constitution Articles",
-   "l": 3,
-   "s": "generated",
-   "e": "Article 75 deals with Appointment of the Prime Minister and Council of Ministers."
+   "answer": 1,
+   "explanation": "Article 75 deals with Appointment of the Prime Minister and Council of Ministers.",
+   "topic": "Constitution Articles",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0897",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "44th Amendment - 1992",
     "44th Amendment - 2003",
     "44th Amendment - 2019",
     "44th Amendment - 1978"
    ],
-   "a": 3,
-   "t": "Constitutional Amendments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 44th Amendment - 1978 is correctly matched."
+   "answer": 3,
+   "explanation": "Only 44th Amendment - 1978 is correctly matched.",
+   "topic": "Constitutional Amendments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0898",
-   "q": "Which writ questions the legality of a person's claim to an office?",
-   "o": [
+   "question": "Which writ questions the legality of a person's claim to an office?",
+   "options": [
     "1976",
     "Quo Warranto",
     "Special status of Jammu and Kashmir",
     "Dr. Rajendra Prasad"
    ],
-   "a": 1,
-   "t": "Constitution Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "Which writ questions the legality of a person's claim to an office — Quo Warranto."
+   "answer": 1,
+   "explanation": "Which writ questions the legality of a person's claim to an office — Quo Warranto.",
+   "topic": "Constitution Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0899",
-   "q": "Which institution is described as: Local body at the district level?",
-   "o": [
+   "question": "Which institution is described as: Local body at the district level?",
+   "options": [
     "Zilla Parishad",
     "Rajya Sabha",
     "Governor",
     "Comptroller and Auditor General"
    ],
-   "a": 0,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Local body at the district level describes Zilla Parishad."
+   "answer": 0,
+   "explanation": "Local body at the district level describes Zilla Parishad.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0900",
-   "q": "On which date is World First Aid Day observed?",
-   "o": [
+   "question": "On which date is World First Aid Day observed?",
+   "options": [
     "21 November",
     "20 May",
     "26 July",
     "second Saturday of September"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World First Aid Day is observed on second Saturday of September."
+   "answer": 3,
+   "explanation": "World First Aid Day is observed on second Saturday of September.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0901",
-   "q": "Where is the headquarters of UNESCO?",
-   "o": [
+   "question": "Where is the headquarters of UNESCO?",
+   "options": [
     "Paris",
     "Beijing",
     "Geneva",
     "Gland"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "UNESCO is headquartered at Paris."
+   "answer": 0,
+   "explanation": "UNESCO is headquartered at Paris.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0902",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Rugby sevens - 11",
     "Rugby sevens - 8",
     "Rugby sevens - 6",
     "Rugby sevens - 7"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Rugby sevens - 7 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Rugby sevens - 7 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0903",
-   "q": "Which trophy or cup is associated with Multi-sport?",
-   "o": [
+   "question": "Which trophy or cup is associated with Multi-sport?",
+   "options": [
     "Asia Cup",
     "Champions Trophy (Cricket)",
     "Khelo India Games",
     "Beighton Cup"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Khelo India Games is associated with Multi-sport."
+   "answer": 2,
+   "explanation": "Khelo India Games is associated with Multi-sport.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0904",
-   "q": "Which award is described as: Highest sporting honour of India?",
-   "o": [
+   "question": "Which award is described as: Highest sporting honour of India?",
+   "options": [
     "Major Dhyan Chand Khel Ratna Award",
     "Vir Chakra",
     "Gandhi Peace Prize",
     "Padma Bhushan"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Highest sporting honour of India describes Major Dhyan Chand Khel Ratna Award."
+   "answer": 0,
+   "explanation": "Highest sporting honour of India describes Major Dhyan Chand Khel Ratna Award.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0905",
-   "q": "Who is the author of The Republic?",
-   "o": [
+   "question": "Who is the author of The Republic?",
+   "options": [
     "A. P. J. Abdul Kalam",
     "Plato",
     "Munshi Premchand",
     "Sarojini Naidu"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "The Republic is written by Plato."
+   "answer": 1,
+   "explanation": "The Republic is written by Plato.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0906",
-   "q": "Which of the following achievements belongs to Amelia Earhart?",
-   "o": [
+   "question": "Which of the following achievements belongs to Amelia Earhart?",
+   "options": [
     "First FIFA World Cup was held in",
     "First Cricket World Cup was held in",
     "First Asian to win a Nobel Prize",
     "First woman to fly solo across the Atlantic"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First woman to fly solo across the Atlantic belongs to Amelia Earhart."
+   "answer": 3,
+   "explanation": "First woman to fly solo across the Atlantic belongs to Amelia Earhart.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0907",
-   "q": "Which state is called the Rice Bowl of India?",
-   "o": [
+   "question": "Which state is called the Rice Bowl of India?",
+   "options": [
     "Mariana Trench",
     "Nagpur",
     "Varanasi",
     "Andhra Pradesh"
    ],
-   "a": 3,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 3,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0908",
-   "q": "Which is the largest country in Asia by population?",
-   "o": [
+   "question": "Which is the largest country in Asia by population?",
+   "options": [
     "Anamudi",
     "India",
     "Lake Superior",
     "Agra"
    ],
-   "a": 1,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 1,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0909",
-   "q": "What is molten rock below the Earth's surface called?",
-   "o": [
+   "question": "What is molten rock below the Earth's surface called?",
+   "options": [
     "Magma",
     "June to September",
     "Jupiter",
     "Hygrometer"
    ],
-   "a": 0,
-   "t": "Climate and Atmosphere",
-   "l": 2,
-   "s": "generated",
-   "e": "What is molten rock below the Earth's surface called — Magma."
+   "answer": 0,
+   "explanation": "What is molten rock below the Earth's surface called — Magma.",
+   "topic": "Climate and Atmosphere",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0910",
-   "q": "Which of the following pairs of mineral and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of mineral and state is correctly matched?",
+   "options": [
     "Bauxite - Maharashtra",
     "Bauxite - Rajasthan",
     "Bauxite - Jharkhand",
     "Bauxite - Odisha"
    ],
-   "a": 3,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bauxite - Odisha is correctly matched."
+   "answer": 3,
+   "explanation": "Only Bauxite - Odisha is correctly matched.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0911",
-   "q": "Which is the most widely traded currency in the world?",
-   "o": [
+   "question": "Which is the most widely traded currency in the world?",
+   "options": [
     "Government of India",
     "US Dollar",
     "Goods and Services Tax",
     "Special Drawing Rights"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0912",
-   "q": "Choose the word most similar in meaning to Docile.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Docile.",
+   "options": [
     "Obedient",
     "Describe",
     "Inactive",
     "Thrifty"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Docile means Obedient."
+   "answer": 0,
+   "explanation": "Docile means Obedient.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0913",
-   "q": "Choose the word most opposite in meaning to Thrifty.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Thrifty.",
+   "options": [
     "Flowing",
     "Reckless",
     "Fine",
     "Wasteful"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Thrifty is Wasteful."
+   "answer": 3,
+   "explanation": "The opposite of Thrifty is Wasteful.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0914",
-   "q": "What is the meaning of the idiom 'Live from hand to mouth'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Live from hand to mouth'?",
+   "options": [
     "A law no longer observed",
     "Barely manage to survive",
     "Daydreams",
     "Thirteen"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Live from hand to mouth' means Barely manage to survive."
+   "answer": 1,
+   "explanation": "'Live from hand to mouth' means Barely manage to survive.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0915",
-   "q": "Choose the one word substitute for: A person who has just started learning something",
-   "o": [
+   "question": "Choose the one word substitute for: A person who has just started learning something",
+   "options": [
     "Beginner",
     "Polygamy",
     "Antiseptic",
     "Vegan"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "A person who has just started learning something — Beginner."
+   "answer": 0,
+   "explanation": "A person who has just started learning something — Beginner.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0916",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Desperate",
     "Marriage",
     "Liaison",
     "Sincerely"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Desperate."
+   "answer": 0,
+   "explanation": "The correct spelling is Desperate.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0917",
-   "q": "What is the plural of Piano?",
-   "o": [
+   "question": "What is the plural of Piano?",
+   "options": [
     "Pianos",
     "Loaves",
     "Courts Martial",
     "Bases"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Piano is Pianos."
+   "answer": 0,
+   "explanation": "The plural of Piano is Pianos.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0918",
-   "q": "What is the feminine form of Priest?",
-   "o": [
+   "question": "What is the feminine form of Priest?",
+   "options": [
     "Priestess",
     "Hostess",
     "Duchess",
     "Poetess"
    ],
-   "a": 0,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Priest is Priestess."
+   "answer": 0,
+   "explanation": "The feminine of Priest is Priestess.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0919",
-   "q": "What is the comparative degree of Difficult?",
-   "o": [
+   "question": "What is the comparative degree of Difficult?",
+   "options": [
     "Faster",
     "Shallower",
     "More beautiful",
     "More difficult"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Difficult — More difficult — Most difficult."
+   "answer": 3,
+   "explanation": "Difficult — More difficult — Most difficult.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0920",
-   "q": "Fill in the blank with the correct preposition: The house is made ____ bricks.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: The house is made ____ bricks.",
+   "options": [
     "into",
     "with",
     "on",
     "of"
    ],
-   "a": 3,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'of'."
+   "answer": 3,
+   "explanation": "The correct preposition is 'of'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0921",
-   "q": "What is the comparative degree of 'good'?",
-   "o": [
+   "question": "What is the comparative degree of 'good'?",
+   "options": [
     "Homophone",
     "Better",
     "A letter is written by him",
     "Homonym"
    ],
-   "a": 1,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 1,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0922",
-   "q": "Which Indian telescope is the largest in the country?",
-   "o": [
+   "question": "Which Indian telescope is the largest in the country?",
+   "options": [
     "Aryabhatta Research Institute of Observational Sciences telescope",
     "Chandrayaan-1",
     "Digital India",
     "Gaganyaan"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0923",
-   "q": "The scheme Blue Revolution was launched with which objective?",
-   "o": [
+   "question": "The scheme Blue Revolution was launched with which objective?",
+   "options": [
     "Development of fisheries and aquaculture",
     "Incentives to boost manufacturing across sectors",
     "Emergency relief during the COVID-19 pandemic",
     "Guaranteed wage employment in rural areas"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Blue Revolution — Development of fisheries and aquaculture."
+   "answer": 0,
+   "explanation": "Blue Revolution — Development of fisheries and aquaculture.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0924",
-   "q": "Project Cheetah is associated with which of the following?",
-   "o": [
+   "question": "Project Cheetah is associated with which of the following?",
+   "options": [
     "Reintroduction of cheetahs in India",
     "Eight national missions on climate",
     "Earth observation satellites for mapping",
     "Delivery of services through digital platforms"
    ],
-   "a": 0,
-   "t": "Missions and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Project Cheetah — Reintroduction of cheetahs in India."
+   "answer": 0,
+   "explanation": "Project Cheetah — Reintroduction of cheetahs in India.",
+   "topic": "Missions and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0925",
-   "q": "CPU is best described as which of the following?",
-   "o": [
+   "question": "CPU is best described as which of the following?",
+   "options": [
     "Input device that captures sound",
     "Two or more connected computers",
     "The processing unit that executes instructions",
     "Power supply unit of a computer"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "CPU — The processing unit that executes instructions."
+   "answer": 2,
+   "explanation": "CPU — The processing unit that executes instructions.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0926",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "F2 - Rename the selected item",
     "F2 - Save the current file",
     "F2 - Open the security options screen",
     "F2 - Close the active program"
    ],
-   "a": 0,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only F2 - Rename the selected item is correctly matched."
+   "answer": 0,
+   "explanation": "Only F2 - Rename the selected item is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0927",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".jpg - Compressed image file",
     ".jpg - Web page file",
     ".jpg - Scalable vector graphics file",
     ".jpg - Animated image file"
    ],
-   "a": 0,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .jpg - Compressed image file is correctly matched."
+   "answer": 0,
+   "explanation": "Only .jpg - Compressed image file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0928",
-   "q": "What is the full form of GDP?",
-   "o": [
+   "question": "What is the full form of GDP?",
+   "options": [
     "Foreign Direct Investment",
     "National Education Policy",
     "One Time Password",
     "Gross Domestic Product"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "GDP stands for Gross Domestic Product."
+   "answer": 3,
+   "explanation": "GDP stands for Gross Domestic Product.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0929",
-   "q": "Which of the following pairs of agreement and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of agreement and purpose is correctly matched?",
+   "options": [
     "Ramsar Convention - Conservation and wise use of wetlands",
     "Ramsar Convention - Restoring degraded ecosystems",
     "Ramsar Convention - Wetlands facing ecological change",
     "Ramsar Convention - Phase down of hydrofluorocarbons"
    ],
-   "a": 0,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ramsar Convention - Conservation and wise use of wetlands is correctly matched."
+   "answer": 0,
+   "explanation": "Only Ramsar Convention - Conservation and wise use of wetlands is correctly matched.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0930",
-   "q": "Which of the following pairs of pollutant and effect is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of pollutant and effect is correctly matched?",
+   "options": [
     "Carbon dioxide - Traps heat and causes global warming",
     "Carbon dioxide - Air pollution with fine particulate matter",
     "Carbon dioxide - Cause algal blooms in water",
     "Carbon dioxide - Damage marine life and coastlines"
    ],
-   "a": 0,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Carbon dioxide - Traps heat and causes global warming is correctly matched."
+   "answer": 0,
+   "explanation": "Only Carbon dioxide - Traps heat and causes global warming is correctly matched.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0931",
-   "q": "Which of the following pairs of site and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of site and state is correctly matched?",
+   "options": [
     "Sundarbans Biosphere Reserve - West Bengal",
     "Sundarbans Biosphere Reserve - Tamil Nadu",
     "Sundarbans Biosphere Reserve - Jammu and Kashmir",
     "Sundarbans Biosphere Reserve - Madhya Pradesh"
    ],
-   "a": 0,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sundarbans Biosphere Reserve - West Bengal is correctly matched."
+   "answer": 0,
+   "explanation": "Only Sundarbans Biosphere Reserve - West Bengal is correctly matched.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0932",
-   "q": "Which of the following pairs of law and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of law and purpose is correctly matched?",
+   "options": [
     "National Clean Air Programme - Reduction of air pollution in cities",
     "National Clean Air Programme - Reintroduction of cheetahs",
     "National Clean Air Programme - Adjudication of environmental disputes",
     "National Clean Air Programme - Funds for afforestation in lieu of diverted forest"
    ],
-   "a": 0,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Clean Air Programme - Reduction of air pollution in cities is correctly matched."
+   "answer": 0,
+   "explanation": "Only National Clean Air Programme - Reduction of air pollution in cities is correctly matched.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0933",
-   "q": "What is the capital of Burundi?",
-   "o": [
+   "question": "What is the capital of Burundi?",
+   "options": [
     "Bandar Seri Begawan",
     "Gitega",
     "Kigali",
     "Jakarta"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Burundi is Gitega."
+   "answer": 1,
+   "explanation": "The capital of Burundi is Gitega.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0934",
-   "q": "Which element has the chemical symbol Ac?",
-   "o": [
+   "question": "Which element has the chemical symbol Ac?",
+   "options": [
     "Actinium",
     "Argon",
     "Einsteinium",
     "Scandium"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Ac is the symbol of Actinium."
+   "answer": 0,
+   "explanation": "Ac is the symbol of Actinium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0935",
-   "q": "Gandhinagar is the capital of which Indian state?",
-   "o": [
+   "question": "Gandhinagar is the capital of which Indian state?",
+   "options": [
     "Punjab",
     "Bihar",
     "West Bengal",
     "Gujarat"
    ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 2,
-   "s": "generated",
-   "e": "Gandhinagar is the capital of Gujarat."
+   "answer": 3,
+   "explanation": "Gandhinagar is the capital of Gujarat.",
+   "topic": "States and Capitals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0936",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "National Tree - Lotus",
     "National Tree - Indian Rupee",
     "National Tree - Banyan",
     "National Tree - Saka Calendar"
    ],
-   "a": 2,
-   "t": "National Symbols",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Tree - Banyan is correctly matched."
+   "answer": 2,
+   "explanation": "Only National Tree - Banyan is correctly matched.",
+   "topic": "National Symbols",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0937",
-   "q": "Which of the following descriptions matches Kiran Bedi?",
-   "o": [
+   "question": "Which of the following descriptions matches Kiran Bedi?",
+   "options": [
     "First Indian woman IPS officer",
     "First Prime Minister of India",
     "First woman Chief Minister in India",
     "First Vice President of India"
    ],
-   "a": 0,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "Kiran Bedi is associated with: First Indian woman IPS officer."
+   "answer": 0,
+   "explanation": "Kiran Bedi is associated with: First Indian woman IPS officer.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0938",
-   "q": "Chang Lo is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Chang Lo is a folk or classical dance form of which state?",
+   "options": [
     "Assam",
     "Nagaland",
     "Punjab",
     "Tamil Nadu"
    ],
-   "a": 1,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Chang Lo belongs to Nagaland."
+   "answer": 1,
+   "explanation": "Chang Lo belongs to Nagaland.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0939",
-   "q": "Which of the following festivals is associated with Ladakh?",
-   "o": [
+   "question": "Which of the following festivals is associated with Ladakh?",
+   "options": [
     "Losar Festival",
     "Sangai Festival",
     "Durga Puja",
     "Ganesh Chaturthi"
    ],
-   "a": 0,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Losar Festival is associated with Ladakh."
+   "answer": 0,
+   "explanation": "Losar Festival is associated with Ladakh.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0940",
-   "q": "Nandi Hills is the origin of which river?",
-   "o": [
+   "question": "Nandi Hills is the origin of which river?",
+   "options": [
     "Penna",
     "Yamuna",
     "Chambal",
     "Brahmaputra"
    ],
-   "a": 0,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Nandi Hills is the origin of the river Penna."
+   "answer": 0,
+   "explanation": "Nandi Hills is the origin of the river Penna.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0941",
-   "q": "Which of the following pairs of dam and river is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of dam and river is correctly matched?",
+   "options": [
     "Nagarjuna Sagar Dam - Chenab",
     "Nagarjuna Sagar Dam - Narmada",
     "Nagarjuna Sagar Dam - Godavari",
     "Nagarjuna Sagar Dam - Krishna"
    ],
-   "a": 3,
-   "t": "Dams of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nagarjuna Sagar Dam - Krishna is correctly matched."
+   "answer": 3,
+   "explanation": "Only Nagarjuna Sagar Dam - Krishna is correctly matched.",
+   "topic": "Dams of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0942",
-   "q": "Ranthambore National Park is located in which state?",
-   "o": [
+   "question": "Ranthambore National Park is located in which state?",
+   "options": [
     "Rajasthan",
     "Chhattisgarh",
     "Uttarakhand",
     "Karnataka"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Ranthambore National Park is located in Rajasthan."
+   "answer": 0,
+   "explanation": "Ranthambore National Park is located in Rajasthan.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0943",
-   "q": "Which of the following passes is located in Arunachal Pradesh?",
-   "o": [
+   "question": "Which of the following passes is located in Arunachal Pradesh?",
+   "options": [
     "Thal Ghat",
     "Se La Pass",
     "Shipki La",
     "Khardung La"
    ],
-   "a": 1,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Se La Pass is a pass in Arunachal Pradesh."
+   "answer": 1,
+   "explanation": "Se La Pass is a pass in Arunachal Pradesh.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0944",
-   "q": "Which physical quantity is measured in Steradian?",
-   "o": [
+   "question": "Which physical quantity is measured in Steradian?",
+   "options": [
     "Solid angle",
     "Mass",
     "Inductance",
     "Time"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Steradian is the SI unit of Solid angle."
+   "answer": 0,
+   "explanation": "Steradian is the SI unit of Solid angle.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0945",
-   "q": "Endoscope is used for which of the following purposes?",
-   "o": [
+   "question": "Endoscope is used for which of the following purposes?",
+   "options": [
     "Distant objects",
     "Multiple physiological responses",
     "Internal body organs",
     "Purity of milk"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Endoscope measures Internal body organs."
+   "answer": 2,
+   "explanation": "Endoscope measures Internal body organs.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0946",
-   "q": "Which body part performs the function of Master gland of the body?",
-   "o": [
+   "question": "Which body part performs the function of Master gland of the body?",
+   "options": [
     "Thyroxine",
     "Pituitary gland",
     "White blood cells",
     "Platelets"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Master gland of the body is performed by the Pituitary gland."
+   "answer": 1,
+   "explanation": "Master gland of the body is performed by the Pituitary gland.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0947",
-   "q": "Which disease is caused by the deficiency of Magnesium?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Magnesium?",
+   "options": [
     "Tetany",
     "Rickets in children",
     "Pernicious anaemia",
     "Growth retardation"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Magnesium causes Tetany."
+   "answer": 0,
+   "explanation": "Deficiency of Magnesium causes Tetany.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0948",
-   "q": "Bacillus anthracis bacteria causes which of the following diseases?",
-   "o": [
+   "question": "Bacillus anthracis bacteria causes which of the following diseases?",
+   "options": [
     "Pneumonia",
     "Anthrax",
     "Ringworm",
     "Amoebic dysentery"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Bacillus anthracis bacteria causes Anthrax."
+   "answer": 1,
+   "explanation": "Bacillus anthracis bacteria causes Anthrax.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0949",
-   "q": "Who is credited with Smallpox vaccine (modern)?",
-   "o": [
+   "question": "Who is credited with Smallpox vaccine (modern)?",
+   "options": [
     "Edward Jenner",
     "Joseph Priestley",
     "Theodore Maiman",
     "William Harvey"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Smallpox vaccine (modern) — Edward Jenner."
+   "answer": 0,
+   "explanation": "Smallpox vaccine (modern) — Edward Jenner.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0950",
-   "q": "Nitric acid (HNO3) is commonly known as which of the following?",
-   "o": [
+   "question": "Nitric acid (HNO3) is commonly known as which of the following?",
+   "options": [
     "Blue vitriol",
     "Talc",
     "Aqua fortis",
     "Caustic soda"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Nitric acid (HNO3) is commonly known as Aqua fortis."
+   "answer": 2,
+   "explanation": "Nitric acid (HNO3) is commonly known as Aqua fortis.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0951",
-   "q": "Which branch of science deals with Electricity and magnetism?",
-   "o": [
+   "question": "Which branch of science deals with Electricity and magnetism?",
+   "options": [
     "Electromagnetism",
     "Numismatics",
     "Cytology",
     "Oceanography"
    ],
-   "a": 0,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Electromagnetism deals with Electricity and magnetism."
+   "answer": 0,
+   "explanation": "Electromagnetism deals with Electricity and magnetism.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0952",
-   "q": "Which of the following statements about Mercury is correct?",
-   "o": [
+   "question": "Which of the following statements about Mercury is correct?",
+   "options": [
     "Mercury",
     "Moon",
     "Uranus",
     "Second"
    ],
-   "a": 0,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Mercury: Mercury."
+   "answer": 0,
+   "explanation": "Mercury: Mercury.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0953",
-   "q": "Vikram Sarabhai is known for which of the following?",
-   "o": [
+   "question": "Vikram Sarabhai is known for which of the following?",
+   "options": [
     "Indian space programme",
     "Plant physiology and radio waves",
     "Electrodynamics",
     "Periodic table of elements"
    ],
-   "a": 0,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Vikram Sarabhai is known for Indian space programme."
+   "answer": 0,
+   "explanation": "Vikram Sarabhai is known for Indian space programme.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0954",
-   "q": "Which of the following events took place in 1961?",
-   "o": [
+   "question": "Which of the following events took place in 1961?",
+   "options": [
     "Liberation of Goa",
     "Founding of the All India Muslim League",
     "First Five Year Plan launched",
     "Quit India Movement launched"
    ],
-   "a": 0,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Liberation of Goa took place in 1961."
+   "answer": 0,
+   "explanation": "Liberation of Goa took place in 1961.",
+   "topic": "Indian History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0955",
-   "q": "In which year did the following event take place: Dissolution of the Soviet Union?",
-   "o": [
+   "question": "In which year did the following event take place: Dissolution of the Soviet Union?",
+   "options": [
     "1991",
     "1588",
     "1961",
     "2008"
    ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 2,
-   "s": "generated",
-   "e": "Dissolution of the Soviet Union — 1991."
+   "answer": 0,
+   "explanation": "Dissolution of the Soviet Union — 1991.",
+   "topic": "World History Events",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0956",
-   "q": "Which of the following pairs of dynasty and founder is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of dynasty and founder is correctly matched?",
+   "options": [
     "Khilji Dynasty - Chandragupta Maurya",
     "Khilji Dynasty - Pushyamitra Sunga",
     "Khilji Dynasty - Sukaphaa",
     "Khilji Dynasty - Jalal-ud-din Khalji"
    ],
-   "a": 3,
-   "t": "Dynasties",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Khilji Dynasty - Jalal-ud-din Khalji is correctly matched."
+   "answer": 3,
+   "explanation": "Only Khilji Dynasty - Jalal-ud-din Khalji is correctly matched.",
+   "topic": "Dynasties",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0957",
-   "q": "Which ruler is associated with the following: Lost and regained the Mughal throne?",
-   "o": [
+   "question": "Which ruler is associated with the following: Lost and regained the Mughal throne?",
+   "options": [
     "Humayun",
     "Ashoka",
     "Sher Shah Suri",
     "Samudragupta"
    ],
-   "a": 0,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "Lost and regained the Mughal throne is associated with Humayun."
+   "answer": 0,
+   "explanation": "Lost and regained the Mughal throne is associated with Humayun.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0958",
-   "q": "Which freedom fighter is described as Leader of the 1974-77 movement?",
-   "o": [
+   "question": "Which freedom fighter is described as Leader of the 1974-77 movement?",
+   "options": [
     "Jayaprakash Narayan",
     "Subhas Chandra Bose",
     "Annie Besant",
     "Bal Gangadhar Tilak"
    ],
-   "a": 0,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "Leader of the 1974-77 movement refers to Jayaprakash Narayan."
+   "answer": 0,
+   "explanation": "Leader of the 1974-77 movement refers to Jayaprakash Narayan.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0959",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Simon Commission boycott - 1928",
     "Simon Commission boycott - 1920",
     "Simon Commission boycott - 1942",
     "Simon Commission boycott - 1940"
    ],
-   "a": 0,
-   "t": "National Movements",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Simon Commission boycott - 1928 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Simon Commission boycott - 1928 is correctly matched.",
+   "topic": "National Movements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0960",
-   "q": "Article 54 of the Constitution deals with which of the following?",
-   "o": [
+   "question": "Article 54 of the Constitution deals with which of the following?",
+   "options": [
     "Election of the President",
     "Right against Exploitation",
     "Union Public Service Commission",
     "Financial emergency"
    ],
-   "a": 0,
-   "t": "Constitution Articles",
-   "l": 3,
-   "s": "generated",
-   "e": "Article 54 deals with Election of the President."
+   "answer": 0,
+   "explanation": "Article 54 deals with Election of the President.",
+   "topic": "Constitution Articles",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0961",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "44th Amendment - 1976",
     "44th Amendment - 2003",
     "44th Amendment - 1978",
     "44th Amendment - 2016"
    ],
-   "a": 2,
-   "t": "Constitutional Amendments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 44th Amendment - 1978 is correctly matched."
+   "answer": 2,
+   "explanation": "Only 44th Amendment - 1978 is correctly matched.",
+   "topic": "Constitutional Amendments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0962",
-   "q": "Article 370 of the Constitution dealt with?",
-   "o": [
+   "question": "Article 370 of the Constitution dealt with?",
+   "options": [
     "Special status of Jammu and Kashmir",
     "B. N. Rau",
     "The President of India",
     "6 months"
    ],
-   "a": 0,
-   "t": "Constitution Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "Article 370 of the Constitution dealt with — Special status of Jammu and Kashmir."
+   "answer": 0,
+   "explanation": "Article 370 of the Constitution dealt with — Special status of Jammu and Kashmir.",
+   "topic": "Constitution Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0963",
-   "q": "Which institution is described as: Deputy to the Prime Minister in the policy think tank?",
-   "o": [
+   "question": "Which institution is described as: Deputy to the Prime Minister in the policy think tank?",
+   "options": [
     "NITI Aayog Vice Chairman",
     "Vice President of India",
     "Panchayat",
     "Prime Minister of India"
    ],
-   "a": 0,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Deputy to the Prime Minister in the policy think tank describes NITI Aayog Vice Chairman."
+   "answer": 0,
+   "explanation": "Deputy to the Prime Minister in the policy think tank describes NITI Aayog Vice Chairman.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0964",
-   "q": "On which date is World Environment Day observed?",
-   "o": [
+   "question": "On which date is World Environment Day observed?",
+   "options": [
     "1 December",
     "23 April",
     "20 October",
     "5 June"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Environment Day is observed on 5 June."
+   "answer": 3,
+   "explanation": "World Environment Day is observed on 5 June.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0965",
-   "q": "Where is the headquarters of New Development Bank?",
-   "o": [
+   "question": "Where is the headquarters of New Development Bank?",
+   "options": [
     "Shanghai",
     "The Hague",
     "Geneva",
     "Paris"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "New Development Bank is headquartered at Shanghai."
+   "answer": 0,
+   "explanation": "New Development Bank is headquartered at Shanghai.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0966",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Rugby sevens - 4",
     "Rugby sevens - 15",
     "Rugby sevens - 2",
     "Rugby sevens - 7"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Rugby sevens - 7 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Rugby sevens - 7 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0967",
-   "q": "Which trophy or cup is associated with Football?",
-   "o": [
+   "question": "Which trophy or cup is associated with Football?",
+   "options": [
     "Champions Trophy (Cricket)",
     "Copa America",
     "Davis Cup",
     "French Open"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Copa America is associated with Football."
+   "answer": 1,
+   "explanation": "Copa America is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0968",
-   "q": "Which award is described as: Award for progress in spiritual matters?",
-   "o": [
+   "question": "Which award is described as: Award for progress in spiritual matters?",
+   "options": [
     "Ramon Magsaysay Award",
     "Templeton Prize",
     "Nobel Prize",
     "Borlaug Award"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Award for progress in spiritual matters describes Templeton Prize."
+   "answer": 1,
+   "explanation": "Award for progress in spiritual matters describes Templeton Prize.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0969",
-   "q": "Who is the author of Hamlet?",
-   "o": [
+   "question": "Who is the author of Hamlet?",
+   "options": [
     "William Shakespeare",
     "Charles Darwin",
     "Plato",
     "Homer"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Hamlet is written by William Shakespeare."
+   "answer": 0,
+   "explanation": "Hamlet is written by William Shakespeare.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0970",
-   "q": "Which of the following achievements belongs to Rabindranath Tagore?",
-   "o": [
+   "question": "Which of the following achievements belongs to Rabindranath Tagore?",
+   "options": [
     "First Cricket World Cup was held in",
     "First country to host the modern Olympic Games",
     "First Asian to win a Nobel Prize",
     "First person to reach the South Pole"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First Asian to win a Nobel Prize belongs to Rabindranath Tagore."
+   "answer": 2,
+   "explanation": "First Asian to win a Nobel Prize belongs to Rabindranath Tagore.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0971",
-   "q": "Which is the most populous state of India?",
-   "o": [
+   "question": "Which is the most populous state of India?",
+   "options": [
     "Majuli",
     "Mount Everest",
     "Uttar Pradesh",
     "Bay of Bengal"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0972",
-   "q": "Which Indian state is called God's Own Country?",
-   "o": [
+   "question": "Which Indian state is called God's Own Country?",
+   "options": [
     "Kerala",
     "Belgium",
     "Sahara Desert",
     "Agra"
    ],
-   "a": 0,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 0,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0973",
-   "q": "What is the hot dry wind of northern India called?",
-   "o": [
+   "question": "What is the hot dry wind of northern India called?",
+   "options": [
     "From the sea to the land",
     "Wind vane",
     "Loo",
     "From the land to the sea"
    ],
-   "a": 2,
-   "t": "Climate and Atmosphere",
-   "l": 2,
-   "s": "generated",
-   "e": "What is the hot dry wind of northern India called — Loo."
+   "answer": 2,
+   "explanation": "What is the hot dry wind of northern India called — Loo.",
+   "topic": "Climate and Atmosphere",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0974",
-   "q": "Which of the following pairs of mineral and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of mineral and state is correctly matched?",
+   "options": [
     "Bauxite - Andhra Pradesh",
     "Bauxite - Rajasthan",
     "Bauxite - Maharashtra",
     "Bauxite - Odisha"
    ],
-   "a": 3,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bauxite - Odisha is correctly matched."
+   "answer": 3,
+   "explanation": "Only Bauxite - Odisha is correctly matched.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0975",
-   "q": "What is the gap between government expenditure and revenue called?",
-   "o": [
+   "question": "What is the gap between government expenditure and revenue called?",
+   "options": [
     "Prime Minister of India",
     "Foreign Direct Investment",
     "1966",
     "Fiscal deficit"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0976",
-   "q": "Choose the word most similar in meaning to Cordial.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Cordial.",
+   "options": [
     "Filthy",
     "Frugal",
     "Wandering",
     "Friendly"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Cordial means Friendly."
+   "answer": 3,
+   "explanation": "Cordial means Friendly.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0977",
-   "q": "Choose the word most opposite in meaning to Profuse.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Profuse.",
+   "options": [
     "Scarce",
     "Petty",
     "Condemn",
     "Insufficient"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Profuse is Scarce."
+   "answer": 0,
+   "explanation": "The opposite of Profuse is Scarce.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0978",
-   "q": "What is the meaning of the idiom 'At daggers drawn'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'At daggers drawn'?",
+   "options": [
     "To suspect foul play",
     "Reveal a secret",
     "In bitter enmity",
     "Be the dominant person"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'At daggers drawn' means In bitter enmity."
+   "answer": 2,
+   "explanation": "'At daggers drawn' means In bitter enmity.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0979",
-   "q": "Choose the one word substitute for: An imaginary place where everything is bad",
-   "o": [
+   "question": "Choose the one word substitute for: An imaginary place where everything is bad",
+   "options": [
     "Antonyms",
     "Dystopia",
     "Post-mortem",
     "Barber"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "An imaginary place where everything is bad — Dystopia."
+   "answer": 1,
+   "explanation": "An imaginary place where everything is bad — Dystopia.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0980",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Category",
     "Conceited",
     "Remembrance",
     "Courtesy"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Courtesy."
+   "answer": 3,
+   "explanation": "The correct spelling is Courtesy.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0981",
-   "q": "What is the plural of Man?",
-   "o": [
+   "question": "What is the plural of Man?",
+   "options": [
     "Proofs",
     "Men",
     "Buses",
     "Boxes"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Man is Men."
+   "answer": 1,
+   "explanation": "The plural of Man is Men.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0982",
-   "q": "What is the feminine form of Peacock?",
-   "o": [
+   "question": "What is the feminine form of Peacock?",
+   "options": [
     "Peahen",
     "Stewardess",
     "Woman",
     "Sister"
    ],
-   "a": 0,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Peacock is Peahen."
+   "answer": 0,
+   "explanation": "The feminine of Peacock is Peahen.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0983",
-   "q": "What is the comparative degree of Thin?",
-   "o": [
+   "question": "What is the comparative degree of Thin?",
+   "options": [
     "Thinner",
     "Finer",
     "Nobler",
     "Older"
    ],
-   "a": 0,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Thin — Thinner — Thinnest."
+   "answer": 0,
+   "explanation": "Thin — Thinner — Thinnest.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0984",
-   "q": "Fill in the blank with the correct preposition: She takes pride ____ her work.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: She takes pride ____ her work.",
+   "options": [
     "in",
     "with",
     "of",
     "from"
    ],
-   "a": 0,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'in'."
+   "answer": 0,
+   "explanation": "The correct preposition is 'in'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0985",
-   "q": "Which tense is used for an action completed before another past action?",
-   "o": [
+   "question": "Which tense is used for an action completed before another past action?",
+   "options": [
     "Past perfect tense",
     "Herd",
     "School",
     "Homonym"
    ],
-   "a": 0,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 0,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0986",
-   "q": "Which programme aims to transform backward districts of India?",
-   "o": [
+   "question": "Which programme aims to transform backward districts of India?",
+   "options": [
     "International Year of Millets",
     "DigiLocker",
     "NITI Aayog",
     "Aspirational Districts Programme"
    ],
-   "a": 3,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 3,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0987",
-   "q": "The scheme National Education Policy 2020 was launched with which objective?",
-   "o": [
+   "question": "The scheme National Education Policy 2020 was launched with which objective?",
+   "options": [
     "Free food grains to the poor",
     "Rapid transformation of backward districts",
     "Guaranteed wage employment in rural areas",
     "Reform of school and higher education in India"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "National Education Policy 2020 — Reform of school and higher education in India."
+   "answer": 3,
+   "explanation": "National Education Policy 2020 — Reform of school and higher education in India.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0988",
-   "q": "Unified Payments Interface is associated with which of the following?",
-   "o": [
+   "question": "Unified Payments Interface is associated with which of the following?",
+   "options": [
     "Instant bank to bank payments system",
     "Green hydrogen production and export hub",
     "Lunar orbiter studying the Moon",
     "India's first Mars orbiter mission"
    ],
-   "a": 0,
-   "t": "Missions and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Unified Payments Interface — Instant bank to bank payments system."
+   "answer": 0,
+   "explanation": "Unified Payments Interface — Instant bank to bank payments system.",
+   "topic": "Missions and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0989",
-   "q": "Webcam is best described as which of the following?",
-   "o": [
+   "question": "Webcam is best described as which of the following?",
+   "options": [
     "Informal description of a program",
     "Input device that captures video",
     "Object oriented programming language",
     "Malicious program disguised as useful software"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Webcam — Input device that captures video."
+   "answer": 1,
+   "explanation": "Webcam — Input device that captures video.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0990",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + S - Save the current file",
     "Ctrl + S - Capture the screen",
     "Ctrl + S - Open the security options screen",
     "Ctrl + S - Open File Explorer"
    ],
-   "a": 0,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + S - Save the current file is correctly matched."
+   "answer": 0,
+   "explanation": "Only Ctrl + S - Save the current file is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0991",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".jpg - Audio file",
     ".jpg - Scalable vector graphics file",
     ".jpg - Python source file",
     ".jpg - Compressed image file"
    ],
-   "a": 3,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .jpg - Compressed image file is correctly matched."
+   "answer": 3,
+   "explanation": "Only .jpg - Compressed image file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0992",
-   "q": "What is the full form of EMF?",
-   "o": [
+   "question": "What is the full form of EMF?",
+   "options": [
     "Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest",
     "Indian Space Research Organisation",
     "Automated Teller Machine",
     "Electromotive Force"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "EMF stands for Electromotive Force."
+   "answer": 3,
+   "explanation": "EMF stands for Electromotive Force.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0993",
-   "q": "Which of the following pairs of agreement and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of agreement and purpose is correctly matched?",
+   "options": [
     "Ramsar Convention - Phasing out ozone depleting substances",
     "Ramsar Convention - Wetlands facing ecological change",
     "Ramsar Convention - Seventeen goals for people and planet by 2030",
     "Ramsar Convention - Conservation and wise use of wetlands"
    ],
-   "a": 3,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ramsar Convention - Conservation and wise use of wetlands is correctly matched."
+   "answer": 3,
+   "explanation": "Only Ramsar Convention - Conservation and wise use of wetlands is correctly matched.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0994",
-   "q": "Which of the following pairs of pollutant and effect is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of pollutant and effect is correctly matched?",
+   "options": [
     "Carbon dioxide - Reduces oxygen carrying capacity of blood",
     "Carbon dioxide - Cause algal blooms in water",
     "Carbon dioxide - Releases heavy metals when dumped improperly",
     "Carbon dioxide - Traps heat and causes global warming"
    ],
-   "a": 3,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Carbon dioxide - Traps heat and causes global warming is correctly matched."
+   "answer": 3,
+   "explanation": "Only Carbon dioxide - Traps heat and causes global warming is correctly matched.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0995",
-   "q": "Which of the following pairs of site and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of site and state is correctly matched?",
+   "options": [
     "Sundarbans Biosphere Reserve - Tamil Nadu, Kerala and Karnataka",
     "Sundarbans Biosphere Reserve - Jammu and Kashmir",
     "Sundarbans Biosphere Reserve - Assam",
     "Sundarbans Biosphere Reserve - West Bengal"
    ],
-   "a": 3,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sundarbans Biosphere Reserve - West Bengal is correctly matched."
+   "answer": 3,
+   "explanation": "Only Sundarbans Biosphere Reserve - West Bengal is correctly matched.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0996",
-   "q": "Which of the following pairs of law and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of law and purpose is correctly matched?",
+   "options": [
     "National Clean Air Programme - Reduction of air pollution in cities",
     "National Clean Air Programme - Prevention of air pollution",
     "National Clean Air Programme - Reintroduction of cheetahs",
     "National Clean Air Programme - Prevention of water pollution"
    ],
-   "a": 0,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Clean Air Programme - Reduction of air pollution in cities is correctly matched."
+   "answer": 0,
+   "explanation": "Only National Clean Air Programme - Reduction of air pollution in cities is correctly matched.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0997",
-   "q": "What is the capital of Vatican City?",
-   "o": [
+   "question": "What is the capital of Vatican City?",
+   "options": [
     "Tehran",
     "Tirana",
     "Vatican City",
     "Luxembourg City"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Vatican City is Vatican City."
+   "answer": 2,
+   "explanation": "The capital of Vatican City is Vatican City.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0998",
-   "q": "Which element has the chemical symbol Ca?",
-   "o": [
+   "question": "Which element has the chemical symbol Ca?",
+   "options": [
     "Radon",
     "Scandium",
     "Terbium",
     "Calcium"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Ca is the symbol of Calcium."
+   "answer": 3,
+   "explanation": "Ca is the symbol of Calcium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-0999",
-   "q": "Bengaluru is the capital of which Indian state?",
-   "o": [
+   "question": "Bengaluru is the capital of which Indian state?",
+   "options": [
     "Manipur",
     "Nagaland",
     "Mizoram",
     "Karnataka"
    ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 2,
-   "s": "generated",
-   "e": "Bengaluru is the capital of Karnataka."
+   "answer": 3,
+   "explanation": "Bengaluru is the capital of Karnataka.",
+   "topic": "States and Capitals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p03-1000",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "National River - Ganges River Dolphin",
     "National River - Vande Mataram",
     "National River - Ganga",
     "National River - Bengal Tiger"
    ],
-   "a": 2,
-   "t": "National Symbols",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National River - Ganga is correctly matched."
+   "answer": 2,
+   "explanation": "Only National River - Ganga is correctly matched.",
+   "topic": "National Symbols",
+   "level": 3,
+   "source": "generated"
   }
  ]
 };

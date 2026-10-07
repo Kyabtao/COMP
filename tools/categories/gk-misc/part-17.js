@@ -20,15003 +20,15003 @@
  "questions": [
   {
    "id": "gk-misc-p17-0001",
-   "q": "To which category of elements does Potassium belong?",
-   "o": [
+   "question": "To which category of elements does Potassium belong?",
+   "options": [
     "Alkaline earth metal",
     "Post-transition metal",
     "Transition metal",
     "Alkali metal"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Potassium is classified as a Alkali metal."
+   "answer": 3,
+   "explanation": "Potassium is classified as a Alkali metal.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0002",
-   "q": "Which of the following pairs of day and date is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is NOT correctly matched?",
+   "options": [
     "World Nature Conservation Day - 28 July",
     "Children's Day (India) - 14 November",
     "World Polio Day - 17 November",
     "World Hypertension Day - 17 May"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair World Polio Day - 17 November is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair World Polio Day - 17 November is not correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0003",
-   "q": "Describe is a synonym of which of the following words?",
-   "o": [
+   "question": "Describe is a synonym of which of the following words?",
+   "options": [
     "Innate",
     "Tenacious",
     "Delineate",
     "Hypocrisy"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Describe is a synonym of Delineate."
+   "answer": 2,
+   "explanation": "Describe is a synonym of Delineate.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0004",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Exonerate - Pessimistic",
     "Exonerate - Blame",
     "Exonerate - Strengthen",
     "Exonerate - Rare"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Exonerate - Blame is correctly matched."
+   "answer": 1,
+   "explanation": "Only Exonerate - Blame is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0005",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Bring to book - Confess fully",
     "Bring to book - Punish",
     "Bring to book - Something easily understood",
     "Bring to book - Be ruined"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bring to book - Punish is correctly matched."
+   "answer": 1,
+   "explanation": "Only Bring to book - Punish is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0006",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "An imaginary place where everything is bad - Inaudible",
     "An imaginary place where everything is bad - Misanthrope",
     "An imaginary place where everything is bad - Cobbler",
     "An imaginary place where everything is bad - Dystopia"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only An imaginary place where everything is bad - Dystopia is correctly matched."
+   "answer": 3,
+   "explanation": "Only An imaginary place where everything is bad - Dystopia is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0007",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Threshold - Labratory",
     "Threshold - Restaurent",
     "Threshold - Arguement",
     "Threshold - Threshhold"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Threshold - Threshhold is correctly matched."
+   "answer": 3,
+   "explanation": "Only Threshold - Threshhold is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0008",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "EMF - Shanghai Cooperation Organisation",
     "EMF - Sports Authority of India",
     "EMF - Electromotive Force",
     "EMF - Polar Satellite Launch Vehicle"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only EMF - Electromotive Force is correctly matched."
+   "answer": 2,
+   "explanation": "Only EMF - Electromotive Force is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0009",
-   "q": "The currency Canadian Dollar is used in which country?",
-   "o": [
+   "question": "The currency Canadian Dollar is used in which country?",
+   "options": [
     "Armenia",
     "Japan",
     "Canada",
     "Ghana"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Canadian Dollar is the currency of Canada."
+   "answer": 2,
+   "explanation": "Canadian Dollar is the currency of Canada.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0010",
-   "q": "To which category of elements does Fluorine belong?",
-   "o": [
+   "question": "To which category of elements does Fluorine belong?",
+   "options": [
     "Halogen",
     "Non-metal",
     "Transition metal",
     "Actinide"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Fluorine is classified as a Halogen."
+   "answer": 0,
+   "explanation": "Fluorine is classified as a Halogen.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0011",
-   "q": "Which of the following pairs of day and date is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is NOT correctly matched?",
+   "options": [
     "World Tourism Day - 27 September",
     "Independence Day (India) - 15 August",
     "World Radiography Day - 8 November",
     "World Students' Day - 14 November"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair World Students' Day - 14 November is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair World Students' Day - 14 November is not correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0012",
-   "q": "Disagreement is a synonym of which of the following words?",
-   "o": [
+   "question": "Disagreement is a synonym of which of the following words?",
+   "options": [
     "Staunch",
     "Dissent",
     "Levity",
     "Deference"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Disagreement is a synonym of Dissent."
+   "answer": 1,
+   "explanation": "Disagreement is a synonym of Dissent.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0013",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Penitent - Independent",
     "Penitent - Unrepentant",
     "Penitent - Original",
     "Penitent - Hopeful"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Penitent - Unrepentant is correctly matched."
+   "answer": 1,
+   "explanation": "Only Penitent - Unrepentant is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0014",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Bring to book - Extremely happy",
     "Bring to book - A narrow escape",
     "Bring to book - Of the required standard",
     "Bring to book - Punish"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bring to book - Punish is correctly matched."
+   "answer": 3,
+   "explanation": "Only Bring to book - Punish is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0015",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who does not believe in God - Somniloquist",
     "One who does not believe in God - Atheist",
     "One who does not believe in God - Centenarian",
     "One who does not believe in God - Mobocracy"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who does not believe in God - Atheist is correctly matched."
+   "answer": 1,
+   "explanation": "Only One who does not believe in God - Atheist is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0016",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Transferring - Irresistable",
     "Transferring - Convinient",
     "Transferring - Suprise",
     "Transferring - Transfering"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Transferring - Transfering is correctly matched."
+   "answer": 3,
+   "explanation": "Only Transferring - Transfering is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0017",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "RNA - Net Asset Value",
     "RNA - Ribonucleic Acid",
     "RNA - World Anti-Doping Agency",
     "RNA - Asian Infrastructure Investment Bank"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only RNA - Ribonucleic Acid is correctly matched."
+   "answer": 1,
+   "explanation": "Only RNA - Ribonucleic Acid is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0018",
-   "q": "The currency Dong is used in which country?",
-   "o": [
+   "question": "The currency Dong is used in which country?",
+   "options": [
     "Liechtenstein",
     "Chad",
     "Venezuela",
     "Vietnam"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Dong is the currency of Vietnam."
+   "answer": 3,
+   "explanation": "Dong is the currency of Vietnam.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0019",
-   "q": "To which category of elements does Rhodium belong?",
-   "o": [
+   "question": "To which category of elements does Rhodium belong?",
+   "options": [
     "Alkaline earth metal",
     "Metalloid",
     "Noble gas",
     "Transition metal"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Rhodium is classified as a Transition metal."
+   "answer": 3,
+   "explanation": "Rhodium is classified as a Transition metal.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0020",
-   "q": "Which of the following pairs of day and date is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is NOT correctly matched?",
+   "options": [
     "World Diabetes Day - 14 November",
     "World Kindness Day - 13 November",
     "International Migrants Day - 14 December",
     "World No Tobacco Day - 31 May"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair International Migrants Day - 14 December is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair International Migrants Day - 14 December is not correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0021",
-   "q": "Sensible is a synonym of which of the following words?",
-   "o": [
+   "question": "Sensible is a synonym of which of the following words?",
+   "options": [
     "Hostile",
     "Augment",
     "Judicious",
     "Abundant"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Sensible is a synonym of Judicious."
+   "answer": 2,
+   "explanation": "Sensible is a synonym of Judicious.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0022",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Penitent - Sorrowful",
     "Penitent - Temporary",
     "Penitent - Alert",
     "Penitent - Unrepentant"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Penitent - Unrepentant is correctly matched."
+   "answer": 3,
+   "explanation": "Only Penitent - Unrepentant is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0023",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "At the eleventh hour - Make every effort",
     "At the eleventh hour - Deceive",
     "At the eleventh hour - At the last moment",
     "At the eleventh hour - Do a pointless thing"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only At the eleventh hour - At the last moment is correctly matched."
+   "answer": 2,
+   "explanation": "Only At the eleventh hour - At the last moment is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0024",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who does not believe in God - Atheist",
     "One who does not believe in God - Extempore",
     "One who does not believe in God - Omnipresent",
     "One who does not believe in God - Drunkard"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who does not believe in God - Atheist is correctly matched."
+   "answer": 0,
+   "explanation": "Only One who does not believe in God - Atheist is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0025",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Transferring - Transfering",
     "Transferring - Parliment",
     "Transferring - Correspondance",
     "Transferring - Personel"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Transferring - Transfering is correctly matched."
+   "answer": 0,
+   "explanation": "Only Transferring - Transfering is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0026",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "RNA - Deoxyribonucleic Acid",
     "RNA - Ribonucleic Acid",
     "RNA - Electrocardiogram",
     "RNA - Gross National Product"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only RNA - Ribonucleic Acid is correctly matched."
+   "answer": 1,
+   "explanation": "Only RNA - Ribonucleic Acid is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0027",
-   "q": "The currency Kuwaiti Dinar is used in which country?",
-   "o": [
+   "question": "The currency Kuwaiti Dinar is used in which country?",
+   "options": [
     "Kuwait",
     "Indonesia",
     "Lithuania",
     "South Korea"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Kuwaiti Dinar is the currency of Kuwait."
+   "answer": 0,
+   "explanation": "Kuwaiti Dinar is the currency of Kuwait.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0028",
-   "q": "To which category of elements does Neon belong?",
-   "o": [
+   "question": "To which category of elements does Neon belong?",
+   "options": [
     "Actinide",
     "Noble gas",
     "Metalloid",
     "Transition metal"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Neon is classified as a Noble gas."
+   "answer": 1,
+   "explanation": "Neon is classified as a Noble gas.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0029",
-   "q": "Which of the following pairs of day and date is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is NOT correctly matched?",
+   "options": [
     "International Mountain Day - 22 December",
     "World Standards Day - 14 October",
     "National Energy Conservation Day (India) - 14 December",
     "World Animal Day - 4 October"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair International Mountain Day - 22 December is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair International Mountain Day - 22 December is not correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0030",
-   "q": "Irritable is a synonym of which of the following words?",
-   "o": [
+   "question": "Irritable is a synonym of which of the following words?",
+   "options": [
     "Itinerant",
     "Thrifty",
     "Irascible",
     "Plight"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Irritable is a synonym of Irascible."
+   "answer": 2,
+   "explanation": "Irritable is a synonym of Irascible.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0031",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Fertile - Overturn",
     "Fertile - Talkative",
     "Fertile - Barren",
     "Fertile - Lazy"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Fertile - Barren is correctly matched."
+   "answer": 2,
+   "explanation": "Only Fertile - Barren is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0032",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "At the eleventh hour - Relatives",
     "At the eleventh hour - A person used by another",
     "At the eleventh hour - At the last moment",
     "At the eleventh hour - Make money selfishly"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only At the eleventh hour - At the last moment is correctly matched."
+   "answer": 2,
+   "explanation": "Only At the eleventh hour - At the last moment is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0033",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Government by the nobility - Chauvinism",
     "Government by the nobility - Matricide",
     "Government by the nobility - Hermit",
     "Government by the nobility - Aristocracy"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Government by the nobility - Aristocracy is correctly matched."
+   "answer": 3,
+   "explanation": "Only Government by the nobility - Aristocracy is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0034",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Aggravate - Concieted",
     "Aggravate - Anonimous",
     "Aggravate - Concious",
     "Aggravate - Aggrevate"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Aggravate - Aggrevate is correctly matched."
+   "answer": 3,
+   "explanation": "Only Aggravate - Aggrevate is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0035",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "ITBP - National Stock Exchange",
     "ITBP - Sports Authority of India",
     "ITBP - Indo-Tibetan Border Police",
     "ITBP - Asian Development Bank"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only ITBP - Indo-Tibetan Border Police is correctly matched."
+   "answer": 2,
+   "explanation": "Only ITBP - Indo-Tibetan Border Police is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0036",
-   "q": "The currency Chilean Peso is used in which country?",
-   "o": [
+   "question": "The currency Chilean Peso is used in which country?",
+   "options": [
     "Chile",
     "Thailand",
     "Belgium",
     "New Zealand"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Chilean Peso is the currency of Chile."
+   "answer": 0,
+   "explanation": "Chilean Peso is the currency of Chile.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0037",
-   "q": "To which category of elements does Californium belong?",
-   "o": [
+   "question": "To which category of elements does Californium belong?",
+   "options": [
     "Actinide",
     "Non-metal",
     "Transition metal",
     "Post-transition metal"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Californium is classified as a Actinide."
+   "answer": 0,
+   "explanation": "Californium is classified as a Actinide.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0038",
-   "q": "Which of the following pairs of day and date is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is NOT correctly matched?",
+   "options": [
     "International Anti-Corruption Day - 12 January",
     "National Education Day (India) - 11 November",
     "World Health Day - 7 April",
     "Independence Day (USA) - 4 July"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair International Anti-Corruption Day - 12 January is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair International Anti-Corruption Day - 12 January is not correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0039",
-   "q": "Shy is a synonym of which of the following words?",
-   "o": [
+   "question": "Shy is a synonym of which of the following words?",
+   "options": [
     "Timid",
     "Negligible",
     "Hazardous",
     "Surreptitious"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Shy is a synonym of Timid."
+   "answer": 0,
+   "explanation": "Shy is a synonym of Timid.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0040",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Fertile - Increase",
     "Fertile - Cowardice",
     "Fertile - Intensify",
     "Fertile - Barren"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Fertile - Barren is correctly matched."
+   "answer": 3,
+   "explanation": "Only Fertile - Barren is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0041",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Beat about the bush - Invalid",
     "Beat about the bush - Talk without coming to the point",
     "Beat about the bush - Be ruined",
     "Beat about the bush - In good and bad times"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Beat about the bush - Talk without coming to the point is correctly matched."
+   "answer": 1,
+   "explanation": "Only Beat about the bush - Talk without coming to the point is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0042",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Government by the nobility - Panacea",
     "Government by the nobility - Polyandry",
     "Government by the nobility - Aristocracy",
     "Government by the nobility - Extempore"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Government by the nobility - Aristocracy is correctly matched."
+   "answer": 2,
+   "explanation": "Only Government by the nobility - Aristocracy is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0043",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Aggravate - Sacrafice",
     "Aggravate - Collegue",
     "Aggravate - Persistant",
     "Aggravate - Aggrevate"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Aggravate - Aggrevate is correctly matched."
+   "answer": 3,
+   "explanation": "Only Aggravate - Aggrevate is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0044",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "ITBP - Indo-Tibetan Border Police",
     "ITBP - Organisation for Economic Co-operation and Development",
     "ITBP - International Securities Identification Number",
     "ITBP - Unique Identification Authority of India"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only ITBP - Indo-Tibetan Border Police is correctly matched."
+   "answer": 0,
+   "explanation": "Only ITBP - Indo-Tibetan Border Police is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0045",
-   "q": "The currency Quetzal is used in which country?",
-   "o": [
+   "question": "The currency Quetzal is used in which country?",
+   "options": [
     "Albania",
     "Guatemala",
     "Zambia",
     "Barbados"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Quetzal is the currency of Guatemala."
+   "answer": 1,
+   "explanation": "Quetzal is the currency of Guatemala.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0046",
-   "q": "To which category of elements does Nitrogen belong?",
-   "o": [
+   "question": "To which category of elements does Nitrogen belong?",
+   "options": [
     "Transition metal",
     "Non-metal",
     "Post-transition metal",
     "Noble gas"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Nitrogen is classified as a Non-metal."
+   "answer": 1,
+   "explanation": "Nitrogen is classified as a Non-metal.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0047",
-   "q": "Diligent is a synonym of which of the following words?",
-   "o": [
+   "question": "Diligent is a synonym of which of the following words?",
+   "options": [
     "Eminent",
     "Assiduous",
     "Garrulous",
     "Extravagant"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Diligent is a synonym of Assiduous."
+   "answer": 1,
+   "explanation": "Diligent is a synonym of Assiduous.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0048",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Pacify - Provoke",
     "Pacify - Alert",
     "Pacify - Energetic",
     "Pacify - Wealthy"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pacify - Provoke is correctly matched."
+   "answer": 0,
+   "explanation": "Only Pacify - Provoke is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0049",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Beat about the bush - A selfish motive",
     "Beat about the bush - A hidden enemy",
     "Beat about the bush - Talk without coming to the point",
     "Beat about the bush - Act in defiance of"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Beat about the bush - Talk without coming to the point is correctly matched."
+   "answer": 2,
+   "explanation": "Only Beat about the bush - Talk without coming to the point is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0050",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Something that is difficult to understand - Abstruse",
     "Something that is difficult to understand - Contagious",
     "Something that is difficult to understand - Bureaucracy",
     "Something that is difficult to understand - Polygamy"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Something that is difficult to understand - Abstruse is correctly matched."
+   "answer": 0,
+   "explanation": "Only Something that is difficult to understand - Abstruse is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0051",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Independence - Changable",
     "Independence - Restaurent",
     "Independence - Independance",
     "Independence - Consience"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Independence - Independance is correctly matched."
+   "answer": 2,
+   "explanation": "Only Independence - Independance is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0052",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "NSE - Sashastra Seema Bal",
     "NSE - Pradhan Mantri Fasal Bima Yojana",
     "NSE - Electrocardiogram",
     "NSE - National Stock Exchange"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only NSE - National Stock Exchange is correctly matched."
+   "answer": 3,
+   "explanation": "Only NSE - National Stock Exchange is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0053",
-   "q": "The currency Kwanza is used in which country?",
-   "o": [
+   "question": "The currency Kwanza is used in which country?",
+   "options": [
     "Hungary",
     "Republic of the Congo",
     "Angola",
     "Mauritania"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Kwanza is the currency of Angola."
+   "answer": 2,
+   "explanation": "Kwanza is the currency of Angola.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0054",
-   "q": "To which category of elements does Beryllium belong?",
-   "o": [
+   "question": "To which category of elements does Beryllium belong?",
+   "options": [
     "Lanthanide",
     "Alkaline earth metal",
     "Post-transition metal",
     "Transition metal"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Beryllium is classified as a Alkaline earth metal."
+   "answer": 1,
+   "explanation": "Beryllium is classified as a Alkaline earth metal.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0055",
-   "q": "Indifference is a synonym of which of the following words?",
-   "o": [
+   "question": "Indifference is a synonym of which of the following words?",
+   "options": [
     "Banal",
     "Innocuous",
     "Vacillate",
     "Apathy"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Indifference is a synonym of Apathy."
+   "answer": 3,
+   "explanation": "Indifference is a synonym of Apathy.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0056",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Pacify - Plentiful",
     "Pacify - Irresolute",
     "Pacify - Provoke",
     "Pacify - Wealthy"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pacify - Provoke is correctly matched."
+   "answer": 2,
+   "explanation": "Only Pacify - Provoke is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0057",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Cut a sorry figure - Be ruined",
     "Cut a sorry figure - To shift responsibility",
     "Cut a sorry figure - Make a poor impression",
     "Cut a sorry figure - Deliberately delaying"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Cut a sorry figure - Make a poor impression is correctly matched."
+   "answer": 2,
+   "explanation": "Only Cut a sorry figure - Make a poor impression is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0058",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Something that is difficult to understand - Genocide",
     "Something that is difficult to understand - Abstruse",
     "Something that is difficult to understand - Aviary",
     "Something that is difficult to understand - Disinfectant"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Something that is difficult to understand - Abstruse is correctly matched."
+   "answer": 1,
+   "explanation": "Only Something that is difficult to understand - Abstruse is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0059",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Independence - Independance",
     "Independence - Aggrevate",
     "Independence - Dissapoint",
     "Independence - Beutiful"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Independence - Independance is correctly matched."
+   "answer": 0,
+   "explanation": "Only Independence - Independance is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0060",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "NSE - Personal Identification Number",
     "NSE - Indian Standards Institution",
     "NSE - National Stock Exchange",
     "NSE - Commission for Agricultural Costs and Prices"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only NSE - National Stock Exchange is correctly matched."
+   "answer": 2,
+   "explanation": "Only NSE - National Stock Exchange is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0061",
-   "q": "The currency Metical is used in which country?",
-   "o": [
+   "question": "The currency Metical is used in which country?",
+   "options": [
     "Mozambique",
     "Republic of the Congo",
     "Greece",
     "Kenya"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Metical is the currency of Mozambique."
+   "answer": 0,
+   "explanation": "Metical is the currency of Mozambique.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0062",
-   "q": "To which category of elements does Manganese belong?",
-   "o": [
+   "question": "To which category of elements does Manganese belong?",
+   "options": [
     "Alkali metal",
     "Actinide",
     "Transition metal",
     "Non-metal"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Manganese is classified as a Transition metal."
+   "answer": 2,
+   "explanation": "Manganese is classified as a Transition metal.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0063",
-   "q": "Fearless is a synonym of which of the following words?",
-   "o": [
+   "question": "Fearless is a synonym of which of the following words?",
+   "options": [
     "Debacle",
     "Redundant",
     "Servile",
     "Intrepid"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Fearless is a synonym of Intrepid."
+   "answer": 3,
+   "explanation": "Fearless is a synonym of Intrepid.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0064",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Preposterous - Concise",
     "Preposterous - Secure",
     "Preposterous - Length",
     "Preposterous - Sensible"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Preposterous - Sensible is correctly matched."
+   "answer": 3,
+   "explanation": "Only Preposterous - Sensible is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0065",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Cut a sorry figure - An achievement to be proud of",
     "Cut a sorry figure - Make a poor impression",
     "Cut a sorry figure - Lose self-control",
     "Cut a sorry figure - In good and bad times"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Cut a sorry figure - Make a poor impression is correctly matched."
+   "answer": 1,
+   "explanation": "Only Cut a sorry figure - Make a poor impression is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0066",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Government by one person with absolute power - Anatomy",
     "Government by one person with absolute power - Obsolete",
     "Government by one person with absolute power - Autocracy",
     "Government by one person with absolute power - Dystopia"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Government by one person with absolute power - Autocracy is correctly matched."
+   "answer": 2,
+   "explanation": "Only Government by one person with absolute power - Autocracy is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0067",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Anonymous - Medival",
     "Anonymous - Anonimous",
     "Anonymous - Idiosyncracy",
     "Anonymous - Fourty"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Anonymous - Anonimous is correctly matched."
+   "answer": 1,
+   "explanation": "Only Anonymous - Anonimous is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0068",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "ESOP - Global Positioning System",
     "ESOP - Magnetic Resonance Imaging",
     "ESOP - National Stock Exchange",
     "ESOP - Employee Stock Option Plan"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only ESOP - Employee Stock Option Plan is correctly matched."
+   "answer": 3,
+   "explanation": "Only ESOP - Employee Stock Option Plan is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0069",
-   "q": "The currency Peso is used in which country?",
-   "o": [
+   "question": "The currency Peso is used in which country?",
+   "options": [
     "Qatar",
     "Philippines",
     "Eritrea",
     "Ghana"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Peso is the currency of Philippines."
+   "answer": 1,
+   "explanation": "Peso is the currency of Philippines.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0070",
-   "q": "To which category of elements does Dubnium belong?",
-   "o": [
+   "question": "To which category of elements does Dubnium belong?",
+   "options": [
     "Alkali metal",
     "Transition metal",
     "Halogen",
     "Alkaline earth metal"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Dubnium is classified as a Transition metal."
+   "answer": 1,
+   "explanation": "Dubnium is classified as a Transition metal.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0071",
-   "q": "Difficult is a synonym of which of the following words?",
-   "o": [
+   "question": "Difficult is a synonym of which of the following words?",
+   "options": [
     "Inundate",
     "Arduous",
     "Trivial",
     "Nefarious"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Difficult is a synonym of Arduous."
+   "answer": 1,
+   "explanation": "Difficult is a synonym of Arduous.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0072",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Preposterous - Permanent",
     "Preposterous - Hopeful",
     "Preposterous - Sensible",
     "Preposterous - Essential"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Preposterous - Sensible is correctly matched."
+   "answer": 2,
+   "explanation": "Only Preposterous - Sensible is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0073",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "To go back on one's word - A weak point",
     "To go back on one's word - To be honest",
     "To go back on one's word - Make a poor impression",
     "To go back on one's word - To break a promise"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only To go back on one's word - To break a promise is correctly matched."
+   "answer": 3,
+   "explanation": "Only To go back on one's word - To break a promise is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0074",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Government by one person with absolute power - Autocracy",
     "Government by one person with absolute power - Gullible",
     "Government by one person with absolute power - Cannibal",
     "Government by one person with absolute power - Plutocracy"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Government by one person with absolute power - Autocracy is correctly matched."
+   "answer": 0,
+   "explanation": "Only Government by one person with absolute power - Autocracy is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0075",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Anonymous - Anonimous",
     "Anonymous - Questionaire",
     "Anonymous - Writting",
     "Anonymous - Adolescant"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Anonymous - Anonimous is correctly matched."
+   "answer": 0,
+   "explanation": "Only Anonymous - Anonimous is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0076",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "ESOP - Employee Stock Option Plan",
     "ESOP - Defence Research and Development Organisation",
     "ESOP - Insurance Regulatory and Development Authority of India",
     "ESOP - International Atomic Energy Agency"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only ESOP - Employee Stock Option Plan is correctly matched."
+   "answer": 0,
+   "explanation": "Only ESOP - Employee Stock Option Plan is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0077",
-   "q": "The currency Shekel is used in which country?",
-   "o": [
+   "question": "The currency Shekel is used in which country?",
+   "options": [
     "Slovakia",
     "Tanzania",
     "Israel",
     "Cuba"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Shekel is the currency of Israel."
+   "answer": 2,
+   "explanation": "Shekel is the currency of Israel.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0078",
-   "q": "To which category of elements does Holmium belong?",
-   "o": [
+   "question": "To which category of elements does Holmium belong?",
+   "options": [
     "Noble gas",
     "Actinide",
     "Halogen",
     "Lanthanide"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Holmium is classified as a Lanthanide."
+   "answer": 3,
+   "explanation": "Holmium is classified as a Lanthanide.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0079",
-   "q": "Remorseful is a synonym of which of the following words?",
-   "o": [
+   "question": "Remorseful is a synonym of which of the following words?",
+   "options": [
     "Lethargic",
     "Eccentric",
     "Penitent",
     "Resilient"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Remorseful is a synonym of Penitent."
+   "answer": 2,
+   "explanation": "Remorseful is a synonym of Penitent.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0080",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Jubilant - Agitated",
     "Jubilant - Yielding",
     "Jubilant - Sorrowful",
     "Jubilant - Safety"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Jubilant - Sorrowful is correctly matched."
+   "answer": 2,
+   "explanation": "Only Jubilant - Sorrowful is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0081",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "To go back on one's word - Occasionally",
     "To go back on one's word - An inexperienced person",
     "To go back on one's word - To break a promise",
     "To go back on one's word - Occupy a less important position"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only To go back on one's word - To break a promise is correctly matched."
+   "answer": 2,
+   "explanation": "Only To go back on one's word - To break a promise is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0082",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A person who sells flowers - Amphibians",
     "A person who sells flowers - Omnipotent",
     "A person who sells flowers - Centenarian",
     "A person who sells flowers - Florist"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A person who sells flowers - Florist is correctly matched."
+   "answer": 3,
+   "explanation": "Only A person who sells flowers - Florist is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0083",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Conscience - Wenesday",
     "Conscience - Ambasador",
     "Conscience - Unforseen",
     "Conscience - Consience"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Conscience - Consience is correctly matched."
+   "answer": 3,
+   "explanation": "Only Conscience - Consience is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0084",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "NSG - Athletics track and field club naming",
     "NSG - National Security Guard",
     "NSG - Small Industries Development Bank of India",
     "NSG - Sashastra Seema Bal"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only NSG - National Security Guard is correctly matched."
+   "answer": 1,
+   "explanation": "Only NSG - National Security Guard is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0085",
-   "q": "The currency Euro is used in which country?",
-   "o": [
+   "question": "The currency Euro is used in which country?",
+   "options": [
     "Austria",
     "Tanzania",
     "Tonga",
     "Japan"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Euro is the currency of Austria."
+   "answer": 0,
+   "explanation": "Euro is the currency of Austria.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0086",
-   "q": "To which category of elements does Uranium belong?",
-   "o": [
+   "question": "To which category of elements does Uranium belong?",
+   "options": [
     "Non-metal",
     "Noble gas",
     "Actinide",
     "Alkali metal"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Uranium is classified as a Actinide."
+   "answer": 2,
+   "explanation": "Uranium is classified as a Actinide.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0087",
-   "q": "Implied is a synonym of which of the following words?",
-   "o": [
+   "question": "Implied is a synonym of which of the following words?",
+   "options": [
     "Fortitude",
     "Empathy",
     "Magnanimous",
     "Implicit"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Implied is a synonym of Implicit."
+   "answer": 3,
+   "explanation": "Implied is a synonym of Implicit.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0088",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Jubilant - Certain",
     "Jubilant - Light",
     "Jubilant - Rare",
     "Jubilant - Sorrowful"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Jubilant - Sorrowful is correctly matched."
+   "answer": 3,
+   "explanation": "Only Jubilant - Sorrowful is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0089",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Drop a line - A decision cannot be changed",
     "Drop a line - Show one's feelings openly",
     "Drop a line - Send a short letter",
     "Drop a line - Generally"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Drop a line - Send a short letter is correctly matched."
+   "answer": 2,
+   "explanation": "Only Drop a line - Send a short letter is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0090",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A person who sells flowers - Anatomy",
     "A person who sells flowers - Ascetic",
     "A person who sells flowers - Florist",
     "A person who sells flowers - Sexagenarian"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A person who sells flowers - Florist is correctly matched."
+   "answer": 2,
+   "explanation": "Only A person who sells flowers - Florist is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0091",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Conscience - Consience",
     "Conscience - Rythm",
     "Conscience - Geniune",
     "Conscience - Appropraite"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Conscience - Consience is correctly matched."
+   "answer": 0,
+   "explanation": "Only Conscience - Consience is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0092",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "NSG - International Committee of the Red Cross",
     "NSG - National Security Guard",
     "NSG - Securities and Exchange Board of India",
     "NSG - Bureau of Indian Standards"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only NSG - National Security Guard is correctly matched."
+   "answer": 1,
+   "explanation": "Only NSG - National Security Guard is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0093",
-   "q": "The currency Fijian Dollar is used in which country?",
-   "o": [
+   "question": "The currency Fijian Dollar is used in which country?",
+   "options": [
     "Lesotho",
     "Mexico",
     "Colombia",
     "Fiji"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Fijian Dollar is the currency of Fiji."
+   "answer": 3,
+   "explanation": "Fijian Dollar is the currency of Fiji.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0094",
-   "q": "To which category of elements does Osmium belong?",
-   "o": [
+   "question": "To which category of elements does Osmium belong?",
+   "options": [
     "Post-transition metal",
     "Lanthanide",
     "Alkali metal",
     "Transition metal"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Osmium is classified as a Transition metal."
+   "answer": 3,
+   "explanation": "Osmium is classified as a Transition metal.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0095",
-   "q": "Shy is a synonym of which of the following words?",
-   "o": [
+   "question": "Shy is a synonym of which of the following words?",
+   "options": [
     "Feasible",
     "Diffident",
     "Negligible",
     "Impede"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Shy is a synonym of Diffident."
+   "answer": 1,
+   "explanation": "Shy is a synonym of Diffident.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0096",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Adversity - Intensify",
     "Adversity - Wasteful",
     "Adversity - Prosperity",
     "Adversity - Rare"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Adversity - Prosperity is correctly matched."
+   "answer": 2,
+   "explanation": "Only Adversity - Prosperity is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0097",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Drop a line - To be involved in everything",
     "Drop a line - Send a short letter",
     "Drop a line - Under suspicion",
     "Drop a line - Absence without permission"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Drop a line - Send a short letter is correctly matched."
+   "answer": 1,
+   "explanation": "Only Drop a line - Send a short letter is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0098",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who talks too much - Zoo",
     "One who talks too much - Gullible",
     "One who talks too much - Goldsmith",
     "One who talks too much - Garrulous"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who talks too much - Garrulous is correctly matched."
+   "answer": 3,
+   "explanation": "Only One who talks too much - Garrulous is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0099",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Tongue - Tounge",
     "Tongue - Amatuer",
     "Tongue - Facinate",
     "Tongue - Hieght"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Tongue - Tounge is correctly matched."
+   "answer": 0,
+   "explanation": "Only Tongue - Tounge is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0100",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "UNICEF - Magnetic Resonance Imaging",
     "UNICEF - Border Security Force",
     "UNICEF - Foreign Direct Investment",
     "UNICEF - United Nations Children's Fund"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only UNICEF - United Nations Children's Fund is correctly matched."
+   "answer": 3,
+   "explanation": "Only UNICEF - United Nations Children's Fund is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0101",
-   "q": "The currency Guarani is used in which country?",
-   "o": [
+   "question": "The currency Guarani is used in which country?",
+   "options": [
     "Vietnam",
     "Poland",
     "Paraguay",
     "Azerbaijan"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Guarani is the currency of Paraguay."
+   "answer": 2,
+   "explanation": "Guarani is the currency of Paraguay.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0102",
-   "q": "To which category of elements does Dysprosium belong?",
-   "o": [
+   "question": "To which category of elements does Dysprosium belong?",
+   "options": [
     "Lanthanide",
     "Transition metal",
     "Actinide",
     "Non-metal"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Dysprosium is classified as a Lanthanide."
+   "answer": 0,
+   "explanation": "Dysprosium is classified as a Lanthanide.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0103",
-   "q": "Odd is a synonym of which of the following words?",
-   "o": [
+   "question": "Odd is a synonym of which of the following words?",
+   "options": [
     "Formidable",
     "Deficient",
     "Haughty",
     "Eccentric"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Odd is a synonym of Eccentric."
+   "answer": 3,
+   "explanation": "Odd is a synonym of Eccentric.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0104",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Adversity - Restless",
     "Adversity - Prosperity",
     "Adversity - Clear",
     "Adversity - Plenty"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Adversity - Prosperity is correctly matched."
+   "answer": 1,
+   "explanation": "Only Adversity - Prosperity is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0105",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "End in smoke - Absence without permission",
     "End in smoke - Act so as to make retreat impossible",
     "End in smoke - In a great hurry",
     "End in smoke - Come to nothing"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only End in smoke - Come to nothing is correctly matched."
+   "answer": 3,
+   "explanation": "Only End in smoke - Come to nothing is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0106",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who talks too much - Septuagenarian",
     "One who talks too much - Zoologist",
     "One who talks too much - Garrulous",
     "One who talks too much - Omnipotent"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who talks too much - Garrulous is correctly matched."
+   "answer": 2,
+   "explanation": "Only One who talks too much - Garrulous is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0107",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Tongue - Accesible",
     "Tongue - Tounge",
     "Tongue - Rememberance",
     "Tongue - Hereditory"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Tongue - Tounge is correctly matched."
+   "answer": 1,
+   "explanation": "Only Tongue - Tounge is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0108",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "UNICEF - Know Your Customer",
     "UNICEF - Krishi Vigyan Kendra",
     "UNICEF - United Nations Children's Fund",
     "UNICEF - National Human Rights Commission"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only UNICEF - United Nations Children's Fund is correctly matched."
+   "answer": 2,
+   "explanation": "Only UNICEF - United Nations Children's Fund is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0109",
-   "q": "The currency Costa Rican Colon is used in which country?",
-   "o": [
+   "question": "The currency Costa Rican Colon is used in which country?",
+   "options": [
     "South Korea",
     "Pakistan",
     "Costa Rica",
     "Slovakia"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Costa Rican Colon is the currency of Costa Rica."
+   "answer": 2,
+   "explanation": "Costa Rican Colon is the currency of Costa Rica.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0110",
-   "q": "To which category of elements does Ruthenium belong?",
-   "o": [
+   "question": "To which category of elements does Ruthenium belong?",
+   "options": [
     "Halogen",
     "Metalloid",
     "Transition metal",
     "Noble gas"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Ruthenium is classified as a Transition metal."
+   "answer": 2,
+   "explanation": "Ruthenium is classified as a Transition metal.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0111",
-   "q": "Unmanageable is a synonym of which of the following words?",
-   "o": [
+   "question": "Unmanageable is a synonym of which of the following words?",
+   "options": [
     "Incorrigible",
     "Elated",
     "Debacle",
     "Candid"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Unmanageable is a synonym of Incorrigible."
+   "answer": 0,
+   "explanation": "Unmanageable is a synonym of Incorrigible.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0112",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Thrifty - Conventional",
     "Thrifty - Genuine",
     "Thrifty - Apathetic",
     "Thrifty - Wasteful"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Thrifty - Wasteful is correctly matched."
+   "answer": 3,
+   "explanation": "Only Thrifty - Wasteful is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0113",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "End in smoke - Make every effort",
     "End in smoke - Come to nothing",
     "End in smoke - A futile search",
     "End in smoke - Remain undecided"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only End in smoke - Come to nothing is correctly matched."
+   "answer": 1,
+   "explanation": "Only End in smoke - Come to nothing is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0114",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who is not sure about God's existence - Epitaph",
     "One who is not sure about God's existence - Author",
     "One who is not sure about God's existence - Omnivores",
     "One who is not sure about God's existence - Agnostic"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who is not sure about God's existence - Agnostic is correctly matched."
+   "answer": 3,
+   "explanation": "Only One who is not sure about God's existence - Agnostic is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0115",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Category - Catagory",
     "Category - Wellcome",
     "Category - Minature",
     "Category - Approxmate"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Category - Catagory is correctly matched."
+   "answer": 0,
+   "explanation": "Only Category - Catagory is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0116",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "POS - International Telecommunication Union",
     "POS - One Time Password",
     "POS - International Monetary Fund",
     "POS - Point of Sale"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only POS - Point of Sale is correctly matched."
+   "answer": 3,
+   "explanation": "Only POS - Point of Sale is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0117",
-   "q": "The currency Rufiyaa is used in which country?",
-   "o": [
+   "question": "The currency Rufiyaa is used in which country?",
+   "options": [
     "Haiti",
     "Maldives",
     "Iran",
     "Uruguay"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Rufiyaa is the currency of Maldives."
+   "answer": 1,
+   "explanation": "Rufiyaa is the currency of Maldives.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0118",
-   "q": "To which category of elements does Tin belong?",
-   "o": [
+   "question": "To which category of elements does Tin belong?",
+   "options": [
     "Lanthanide",
     "Non-metal",
     "Post-transition metal",
     "Actinide"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Tin is classified as a Post-transition metal."
+   "answer": 2,
+   "explanation": "Tin is classified as a Post-transition metal.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0119",
-   "q": "Hasty is a synonym of which of the following words?",
-   "o": [
+   "question": "Hasty is a synonym of which of the following words?",
+   "options": [
     "Precipitate",
     "Tranquil",
     "Plight",
     "Disparage"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Hasty is a synonym of Precipitate."
+   "answer": 0,
+   "explanation": "Hasty is a synonym of Precipitate.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0120",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Thrifty - Fearful",
     "Thrifty - Wasteful",
     "Thrifty - Neglect",
     "Thrifty - Aggravate"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Thrifty - Wasteful is correctly matched."
+   "answer": 1,
+   "explanation": "Only Thrifty - Wasteful is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0121",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Come to light - Become known",
     "Come to light - Take advantage of disturbance",
     "Come to light - Act so as to make retreat impossible",
     "Come to light - A person in an uncomfortable situation"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Come to light - Become known is correctly matched."
+   "answer": 0,
+   "explanation": "Only Come to light - Become known is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0122",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who is not sure about God's existence - Etymologist",
     "One who is not sure about God's existence - Agnostic",
     "One who is not sure about God's existence - Mint",
     "One who is not sure about God's existence - Soliloquy"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who is not sure about God's existence - Agnostic is correctly matched."
+   "answer": 1,
+   "explanation": "Only One who is not sure about God's existence - Agnostic is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0123",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Category - Emperior",
     "Category - Interupt",
     "Category - Catagory",
     "Category - Enrollment"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Category - Catagory is correctly matched."
+   "answer": 2,
+   "explanation": "Only Category - Catagory is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0124",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "POS - National Aeronautics and Space Administration",
     "POS - Employees' State Insurance",
     "POS - Point of Sale",
     "POS - Index of Industrial Production"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only POS - Point of Sale is correctly matched."
+   "answer": 2,
+   "explanation": "Only POS - Point of Sale is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0125",
-   "q": "The currency Surinamese Dollar is used in which country?",
-   "o": [
+   "question": "The currency Surinamese Dollar is used in which country?",
+   "options": [
     "Mali",
     "Suriname",
     "Saudi Arabia",
     "Germany"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Surinamese Dollar is the currency of Suriname."
+   "answer": 1,
+   "explanation": "Surinamese Dollar is the currency of Suriname.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0126",
-   "q": "To which category of elements does Tennessine belong?",
-   "o": [
+   "question": "To which category of elements does Tennessine belong?",
+   "options": [
     "Halogen",
     "Post-transition metal",
     "Transition metal",
     "Lanthanide"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Tennessine is classified as a Halogen."
+   "answer": 0,
+   "explanation": "Tennessine is classified as a Halogen.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0127",
-   "q": "Penniless is a synonym of which of the following words?",
-   "o": [
+   "question": "Penniless is a synonym of which of the following words?",
+   "options": [
     "Novice",
     "Susceptible",
     "Destitute",
     "Incessant"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Penniless is a synonym of Destitute."
+   "answer": 2,
+   "explanation": "Penniless is a synonym of Destitute.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0128",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Superfluous - Independent",
     "Superfluous - Harmful",
     "Superfluous - Necessary",
     "Superfluous - Alert"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Superfluous - Necessary is correctly matched."
+   "answer": 2,
+   "explanation": "Only Superfluous - Necessary is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0129",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Come to light - To act unfairly",
     "Come to light - A feeling of resentment",
     "Come to light - Come to the essential point",
     "Come to light - Become known"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Come to light - Become known is correctly matched."
+   "answer": 3,
+   "explanation": "Only Come to light - Become known is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0130",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A state of lawlessness - Apiary",
     "A state of lawlessness - Botanist",
     "A state of lawlessness - Anarchy",
     "A state of lawlessness - Democracy"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A state of lawlessness - Anarchy is correctly matched."
+   "answer": 2,
+   "explanation": "Only A state of lawlessness - Anarchy is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0131",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Accommodation - Forth",
     "Accommodation - Accomodation",
     "Accommodation - Hunderd",
     "Accommodation - Sincerly"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Accommodation - Accomodation is correctly matched."
+   "answer": 1,
+   "explanation": "Only Accommodation - Accomodation is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0132",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "ASEAN - Digital Infrastructure for Knowledge Sharing",
     "ASEAN - National Eligibility Test",
     "ASEAN - Net National Product",
     "ASEAN - Association of South East Asian Nations"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only ASEAN - Association of South East Asian Nations is correctly matched."
+   "answer": 3,
+   "explanation": "Only ASEAN - Association of South East Asian Nations is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0133",
-   "q": "The currency Belarusian Ruble is used in which country?",
-   "o": [
+   "question": "The currency Belarusian Ruble is used in which country?",
+   "options": [
     "Peru",
     "Belarus",
     "Turkey",
     "Qatar"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Belarusian Ruble is the currency of Belarus."
+   "answer": 1,
+   "explanation": "Belarusian Ruble is the currency of Belarus.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0134",
-   "q": "To which category of elements does Chromium belong?",
-   "o": [
+   "question": "To which category of elements does Chromium belong?",
+   "options": [
     "Halogen",
     "Actinide",
     "Post-transition metal",
     "Transition metal"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Chromium is classified as a Transition metal."
+   "answer": 3,
+   "explanation": "Chromium is classified as a Transition metal.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0135",
-   "q": "Wandering is a synonym of which of the following words?",
-   "o": [
+   "question": "Wandering is a synonym of which of the following words?",
+   "options": [
     "Reprimand",
     "Nomadic",
     "Uphold",
     "Preposterous"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Wandering is a synonym of Nomadic."
+   "answer": 1,
+   "explanation": "Wandering is a synonym of Nomadic.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0136",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Superfluous - Condemn",
     "Superfluous - Necessary",
     "Superfluous - Mild",
     "Superfluous - Biased"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Superfluous - Necessary is correctly matched."
+   "answer": 1,
+   "explanation": "Only Superfluous - Necessary is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0137",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Tall talk - Completely",
     "Tall talk - Die while working",
     "Tall talk - Exaggerated speech",
     "Tall talk - Invalid"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Tall talk - Exaggerated speech is correctly matched."
+   "answer": 2,
+   "explanation": "Only Tall talk - Exaggerated speech is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0138",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A state of lawlessness - Anarchy",
     "A state of lawlessness - Mint",
     "A state of lawlessness - Author",
     "A state of lawlessness - Scapegoat"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A state of lawlessness - Anarchy is correctly matched."
+   "answer": 0,
+   "explanation": "Only A state of lawlessness - Anarchy is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0139",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Accommodation - Independance",
     "Accommodation - Accomodation",
     "Accommodation - Explaination",
     "Accommodation - Minature"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Accommodation - Accomodation is correctly matched."
+   "answer": 1,
+   "explanation": "Only Accommodation - Accomodation is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0140",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "ASEAN - Pradhan Mantri Fasal Bima Yojana",
     "ASEAN - Association of South East Asian Nations",
     "ASEAN - International Maritime Organization",
     "ASEAN - Brahmaputra Moscow missile"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only ASEAN - Association of South East Asian Nations is correctly matched."
+   "answer": 1,
+   "explanation": "Only ASEAN - Association of South East Asian Nations is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0141",
-   "q": "The currency New Zealand Dollar is used in which country?",
-   "o": [
+   "question": "The currency New Zealand Dollar is used in which country?",
+   "options": [
     "Syria",
     "New Zealand",
     "Suriname",
     "Nepal"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "New Zealand Dollar is the currency of New Zealand."
+   "answer": 1,
+   "explanation": "New Zealand Dollar is the currency of New Zealand.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0142",
-   "q": "To which category of elements does Promethium belong?",
-   "o": [
+   "question": "To which category of elements does Promethium belong?",
+   "options": [
     "Non-metal",
     "Transition metal",
     "Noble gas",
     "Lanthanide"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Promethium is classified as a Lanthanide."
+   "answer": 3,
+   "explanation": "Promethium is classified as a Lanthanide.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0143",
-   "q": "Charity is a synonym of which of the following words?",
-   "o": [
+   "question": "Charity is a synonym of which of the following words?",
+   "options": [
     "Dissent",
     "Philanthropy",
     "Staunch",
     "Inclination"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Charity is a synonym of Philanthropy."
+   "answer": 1,
+   "explanation": "Charity is a synonym of Philanthropy.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0144",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Plausible - Fruitful",
     "Plausible - Liking",
     "Plausible - Easy",
     "Plausible - Implausible"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Plausible - Implausible is correctly matched."
+   "answer": 3,
+   "explanation": "Only Plausible - Implausible is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0145",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Tall talk - At the last moment",
     "Tall talk - Act in defiance of",
     "Tall talk - Something that seems bad but turns out to be good",
     "Tall talk - Exaggerated speech"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Tall talk - Exaggerated speech is correctly matched."
+   "answer": 3,
+   "explanation": "Only Tall talk - Exaggerated speech is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0146",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A study of the human body - Ambidextrous",
     "A study of the human body - Herbivores",
     "A study of the human body - Disinfectant",
     "A study of the human body - Anatomy"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A study of the human body - Anatomy is correctly matched."
+   "answer": 3,
+   "explanation": "Only A study of the human body - Anatomy is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0147",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Persistent - Persistant",
     "Persistent - Wierd",
     "Persistent - Definately",
     "Persistent - Freind"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Persistent - Persistant is correctly matched."
+   "answer": 0,
+   "explanation": "Only Persistent - Persistant is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0148",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "SEZ - Oral Rehydration Solution",
     "SEZ - Immediate Payment Service",
     "SEZ - Special Economic Zone",
     "SEZ - Athletics track and field club naming"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only SEZ - Special Economic Zone is correctly matched."
+   "answer": 2,
+   "explanation": "Only SEZ - Special Economic Zone is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0149",
-   "q": "The currency Icelandic Krona is used in which country?",
-   "o": [
+   "question": "The currency Icelandic Krona is used in which country?",
+   "options": [
     "Tunisia",
     "Iceland",
     "Samoa",
     "Eswatini"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Icelandic Krona is the currency of Iceland."
+   "answer": 1,
+   "explanation": "Icelandic Krona is the currency of Iceland.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0150",
-   "q": "To which category of elements does Copernicium belong?",
-   "o": [
+   "question": "To which category of elements does Copernicium belong?",
+   "options": [
     "Transition metal",
     "Actinide",
     "Non-metal",
     "Halogen"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Copernicium is classified as a Transition metal."
+   "answer": 0,
+   "explanation": "Copernicium is classified as a Transition metal.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0151",
-   "q": "Reduce is a synonym of which of the following words?",
-   "o": [
+   "question": "Reduce is a synonym of which of the following words?",
+   "options": [
     "Disdain",
     "Apathy",
     "Curtail",
     "Fickle"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Reduce is a synonym of Curtail."
+   "answer": 2,
+   "explanation": "Reduce is a synonym of Curtail.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0152",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Plausible - Implausible",
     "Plausible - Timid",
     "Plausible - Garrulous",
     "Plausible - Lenient"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Plausible - Implausible is correctly matched."
+   "answer": 0,
+   "explanation": "Only Plausible - Implausible is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0153",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Cut the Gordian knot - To waste time",
     "Cut the Gordian knot - To ask someone to leave",
     "Cut the Gordian knot - Thoroughly",
     "Cut the Gordian knot - Solve a difficult problem"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Cut the Gordian knot - Solve a difficult problem is correctly matched."
+   "answer": 3,
+   "explanation": "Only Cut the Gordian knot - Solve a difficult problem is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0154",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A study of the human body - Anatomy",
     "A study of the human body - Epitaph",
     "A study of the human body - Polygamy",
     "A study of the human body - Omniscient"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A study of the human body - Anatomy is correctly matched."
+   "answer": 0,
+   "explanation": "Only A study of the human body - Anatomy is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0155",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Persistent - Indispensible",
     "Persistent - Persistant",
     "Persistent - Paralell",
     "Persistent - Definately"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Persistent - Persistant is correctly matched."
+   "answer": 1,
+   "explanation": "Only Persistent - Persistant is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0156",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "SEZ - Indian Standards Institution",
     "SEZ - Closed Circuit Television",
     "SEZ - Special Economic Zone",
     "SEZ - Goods and Services Tax"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only SEZ - Special Economic Zone is correctly matched."
+   "answer": 2,
+   "explanation": "Only SEZ - Special Economic Zone is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0157",
-   "q": "The currency Euro is used in which country?",
-   "o": [
+   "question": "The currency Euro is used in which country?",
+   "options": [
     "Argentina",
     "Andorra",
     "Moldova",
     "Guinea"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Euro is the currency of Andorra."
+   "answer": 1,
+   "explanation": "Euro is the currency of Andorra.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0158",
-   "q": "To which category of elements does Platinum belong?",
-   "o": [
+   "question": "To which category of elements does Platinum belong?",
+   "options": [
     "Actinide",
     "Transition metal",
     "Metalloid",
     "Non-metal"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Platinum is classified as a Transition metal."
+   "answer": 1,
+   "explanation": "Platinum is classified as a Transition metal.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0159",
-   "q": "Watchful is a synonym of which of the following words?",
-   "o": [
+   "question": "Watchful is a synonym of which of the following words?",
+   "options": [
     "Contempt",
     "Vigilant",
     "Irascible",
     "Conspicuous"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Watchful is a synonym of Vigilant."
+   "answer": 1,
+   "explanation": "Watchful is a synonym of Vigilant.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0160",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Peril - Virtuous",
     "Peril - Safety",
     "Peril - Lenient",
     "Peril - Poor"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Peril - Safety is correctly matched."
+   "answer": 1,
+   "explanation": "Only Peril - Safety is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0161",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Cut the Gordian knot - Solve a difficult problem",
     "Cut the Gordian knot - Unable to speak plainly",
     "Cut the Gordian knot - Excessive official formality",
     "Cut the Gordian knot - In disorder"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Cut the Gordian knot - Solve a difficult problem is correctly matched."
+   "answer": 0,
+   "explanation": "Only Cut the Gordian knot - Solve a difficult problem is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0162",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who is all powerful - Connoisseur",
     "One who is all powerful - Omnipotent",
     "One who is all powerful - Biographer",
     "One who is all powerful - Anarchy"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who is all powerful - Omnipotent is correctly matched."
+   "answer": 1,
+   "explanation": "Only One who is all powerful - Omnipotent is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0163",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Truly - Truely",
     "Truly - Ambasador",
     "Truly - Phenomenan",
     "Truly - Agressive"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Truly - Truely is correctly matched."
+   "answer": 0,
+   "explanation": "Only Truly - Truely is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0164",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "TDS - National Payments Corporation of India",
     "TDS - World Intellectual Property Organization",
     "TDS - Indian Military Academy",
     "TDS - Tax Deducted at Source"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only TDS - Tax Deducted at Source is correctly matched."
+   "answer": 3,
+   "explanation": "Only TDS - Tax Deducted at Source is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0165",
-   "q": "The currency Euro is used in which country?",
-   "o": [
+   "question": "The currency Euro is used in which country?",
+   "options": [
     "Saudi Arabia",
     "Barbados",
     "Zambia",
     "Greece"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Euro is the currency of Greece."
+   "answer": 3,
+   "explanation": "Euro is the currency of Greece.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0166",
-   "q": "To which category of elements does Tantalum belong?",
-   "o": [
+   "question": "To which category of elements does Tantalum belong?",
+   "options": [
     "Alkaline earth metal",
     "Transition metal",
     "Non-metal",
     "Noble gas"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Tantalum is classified as a Transition metal."
+   "answer": 1,
+   "explanation": "Tantalum is classified as a Transition metal.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0167",
-   "q": "Flexible is a synonym of which of the following words?",
-   "o": [
+   "question": "Flexible is a synonym of which of the following words?",
+   "options": [
     "Inundate",
     "Cognizant",
     "Resilient",
     "Conceal"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Flexible is a synonym of Resilient."
+   "answer": 2,
+   "explanation": "Flexible is a synonym of Resilient.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0168",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Peril - Safety",
     "Peril - Permanent",
     "Peril - Pessimistic",
     "Peril - Reticent"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Peril - Safety is correctly matched."
+   "answer": 0,
+   "explanation": "Only Peril - Safety is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0169",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "As the crow flies - Noble birth",
     "As the crow flies - Human nature",
     "As the crow flies - Die",
     "As the crow flies - In a straight line"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only As the crow flies - In a straight line is correctly matched."
+   "answer": 3,
+   "explanation": "Only As the crow flies - In a straight line is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0170",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who is all powerful - Polyandry",
     "One who is all powerful - Omnipotent",
     "One who is all powerful - Aquarium",
     "One who is all powerful - Somniloquist"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who is all powerful - Omnipotent is correctly matched."
+   "answer": 1,
+   "explanation": "Only One who is all powerful - Omnipotent is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0171",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Truly - Threshhold",
     "Truly - Yeild",
     "Truly - Truely",
     "Truly - Explaination"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Truly - Truely is correctly matched."
+   "answer": 2,
+   "explanation": "Only Truly - Truely is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0172",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "TDS - National Stock Exchange",
     "TDS - Deoxyribonucleic Acid",
     "TDS - World Anti-Doping Agency",
     "TDS - Tax Deducted at Source"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only TDS - Tax Deducted at Source is correctly matched."
+   "answer": 3,
+   "explanation": "Only TDS - Tax Deducted at Source is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0173",
-   "q": "The currency Loti is used in which country?",
-   "o": [
+   "question": "The currency Loti is used in which country?",
+   "options": [
     "India",
     "Algeria",
     "Lesotho",
     "Dominican Republic"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Loti is the currency of Lesotho."
+   "answer": 2,
+   "explanation": "Loti is the currency of Lesotho.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0174",
-   "q": "To which category of elements does Tellurium belong?",
-   "o": [
+   "question": "To which category of elements does Tellurium belong?",
+   "options": [
     "Transition metal",
     "Actinide",
     "Metalloid",
     "Noble gas"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Tellurium is classified as a Metalloid."
+   "answer": 2,
+   "explanation": "Tellurium is classified as a Metalloid.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0175",
-   "q": "Embodiment is a synonym of which of the following words?",
-   "o": [
+   "question": "Embodiment is a synonym of which of the following words?",
+   "options": [
     "Fastidious",
     "Epitome",
     "Insolent",
     "Obsolete"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Embodiment is a synonym of Epitome."
+   "answer": 1,
+   "explanation": "Embodiment is a synonym of Epitome.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0176",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Serene - Turbulent",
     "Serene - Foolish",
     "Serene - Increase",
     "Serene - Divided"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Serene - Turbulent is correctly matched."
+   "answer": 0,
+   "explanation": "Only Serene - Turbulent is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0177",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "As the crow flies - Take advantage of disturbance",
     "As the crow flies - In a straight line",
     "As the crow flies - Make a poor impression",
     "As the crow flies - In bitter enmity"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only As the crow flies - In a straight line is correctly matched."
+   "answer": 1,
+   "explanation": "Only As the crow flies - In a straight line is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0178",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "The practice of having many wives - Omnipotent",
     "The practice of having many wives - Contagious",
     "The practice of having many wives - Drunkard",
     "The practice of having many wives - Polygamy"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The practice of having many wives - Polygamy is correctly matched."
+   "answer": 3,
+   "explanation": "Only The practice of having many wives - Polygamy is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0179",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Millennium - Independant",
     "Millennium - Forth",
     "Millennium - Millenium",
     "Millennium - Febuary"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Millennium - Millenium is correctly matched."
+   "answer": 2,
+   "explanation": "Only Millennium - Millenium is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0180",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "WMO - Consumer Price Index",
     "WMO - Automated Teller Machine",
     "WMO - World Meteorological Organization",
     "WMO - Pradhan Mantri Jan Dhan Yojana"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only WMO - World Meteorological Organization is correctly matched."
+   "answer": 2,
+   "explanation": "Only WMO - World Meteorological Organization is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0181",
-   "q": "The currency Gourde is used in which country?",
-   "o": [
+   "question": "The currency Gourde is used in which country?",
+   "options": [
     "Haiti",
     "Costa Rica",
     "Kazakhstan",
     "Angola"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Gourde is the currency of Haiti."
+   "answer": 0,
+   "explanation": "Gourde is the currency of Haiti.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0182",
-   "q": "To which category of elements does Oxygen belong?",
-   "o": [
+   "question": "To which category of elements does Oxygen belong?",
+   "options": [
     "Lanthanide",
     "Non-metal",
     "Actinide",
     "Post-transition metal"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Oxygen is classified as a Non-metal."
+   "answer": 1,
+   "explanation": "Oxygen is classified as a Non-metal.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0183",
-   "q": "Make poor is a synonym of which of the following words?",
-   "o": [
+   "question": "Make poor is a synonym of which of the following words?",
+   "options": [
     "Volatile",
     "Myriad",
     "Impoverish",
     "Vengeance"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Make poor is a synonym of Impoverish."
+   "answer": 2,
+   "explanation": "Make poor is a synonym of Impoverish.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0184",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Serene - Careless",
     "Serene - Replenish",
     "Serene - Inarticulate",
     "Serene - Turbulent"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Serene - Turbulent is correctly matched."
+   "answer": 3,
+   "explanation": "Only Serene - Turbulent is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0185",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A bolt from the blue - Face the main impact",
     "A bolt from the blue - With all one's belongings",
     "A bolt from the blue - Be the dominant person",
     "A bolt from the blue - An unexpected event"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A bolt from the blue - An unexpected event is correctly matched."
+   "answer": 3,
+   "explanation": "Only A bolt from the blue - An unexpected event is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0186",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "The practice of having many wives - Incorrigible",
     "The practice of having many wives - Polygamy",
     "The practice of having many wives - Patricide",
     "The practice of having many wives - Matricide"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The practice of having many wives - Polygamy is correctly matched."
+   "answer": 1,
+   "explanation": "Only The practice of having many wives - Polygamy is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0187",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Millennium - Sieze",
     "Millennium - Millenium",
     "Millennium - Separetly",
     "Millennium - Supercede"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Millennium - Millenium is correctly matched."
+   "answer": 1,
+   "explanation": "Only Millennium - Millenium is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0188",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "WMO - World Meteorological Organization",
     "WMO - Border Security Force",
     "WMO - Food Safety and Standards Authority of India",
     "WMO - Competition Commission of India"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only WMO - World Meteorological Organization is correctly matched."
+   "answer": 0,
+   "explanation": "Only WMO - World Meteorological Organization is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0189",
-   "q": "The currency Colombian Peso is used in which country?",
-   "o": [
+   "question": "The currency Colombian Peso is used in which country?",
+   "options": [
     "Bosnia and Herzegovina",
     "Colombia",
     "Dominican Republic",
     "Algeria"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Colombian Peso is the currency of Colombia."
+   "answer": 1,
+   "explanation": "Colombian Peso is the currency of Colombia.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0190",
-   "q": "To which category of elements does Praseodymium belong?",
-   "o": [
+   "question": "To which category of elements does Praseodymium belong?",
+   "options": [
     "Lanthanide",
     "Post-transition metal",
     "Actinide",
     "Transition metal"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Praseodymium is classified as a Lanthanide."
+   "answer": 0,
+   "explanation": "Praseodymium is classified as a Lanthanide.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0191",
-   "q": "Compassion is a synonym of which of the following words?",
-   "o": [
+   "question": "Compassion is a synonym of which of the following words?",
+   "options": [
     "Heresy",
     "Empathy",
     "Timid",
     "Formidable"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Compassion is a synonym of Empathy."
+   "answer": 1,
+   "explanation": "Compassion is a synonym of Empathy.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0192",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Sagacious - Original",
     "Sagacious - Foolish",
     "Sagacious - Conventional",
     "Sagacious - Feeble"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sagacious - Foolish is correctly matched."
+   "answer": 1,
+   "explanation": "Only Sagacious - Foolish is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0193",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A bolt from the blue - Be logically sound",
     "A bolt from the blue - Remain undecided",
     "A bolt from the blue - An unexpected event",
     "A bolt from the blue - An ineffective person or government"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A bolt from the blue - An unexpected event is correctly matched."
+   "answer": 2,
+   "explanation": "Only A bolt from the blue - An unexpected event is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0194",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A person who has just started learning something - Carpenter",
     "A person who has just started learning something - Beginner",
     "A person who has just started learning something - Epidemic",
     "A person who has just started learning something - Philanthropist"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A person who has just started learning something - Beginner is correctly matched."
+   "answer": 1,
+   "explanation": "Only A person who has just started learning something - Beginner is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0195",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Repetition - Repitition",
     "Repetition - Dissappear",
     "Repetition - Wierd",
     "Repetition - Ambitous"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Repetition - Repitition is correctly matched."
+   "answer": 0,
+   "explanation": "Only Repetition - Repitition is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0196",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "D-mat - National Payments Corporation of India",
     "D-mat - Punjab National Bank",
     "D-mat - National Eligibility Test",
     "D-mat - Dematerialised account for shares"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only D-mat - Dematerialised account for shares is correctly matched."
+   "answer": 3,
+   "explanation": "Only D-mat - Dematerialised account for shares is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0197",
-   "q": "The currency Euro is used in which country?",
-   "o": [
+   "question": "The currency Euro is used in which country?",
+   "options": [
     "Austria",
     "Moldova",
     "Iran",
     "Cyprus"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Euro is the currency of Cyprus."
+   "answer": 3,
+   "explanation": "Euro is the currency of Cyprus.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0198",
-   "q": "To which category of elements does Cerium belong?",
-   "o": [
+   "question": "To which category of elements does Cerium belong?",
+   "options": [
     "Lanthanide",
     "Transition metal",
     "Alkali metal",
     "Alkaline earth metal"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Cerium is classified as a Lanthanide."
+   "answer": 0,
+   "explanation": "Cerium is classified as a Lanthanide.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0199",
-   "q": "Prominent is a synonym of which of the following words?",
-   "o": [
+   "question": "Prominent is a synonym of which of the following words?",
+   "options": [
     "Nomadic",
     "Salient",
     "Debacle",
     "Forbearance"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Prominent is a synonym of Salient."
+   "answer": 1,
+   "explanation": "Prominent is a synonym of Salient.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0200",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Sagacious - Foolish",
     "Sagacious - Intermittent",
     "Sagacious - Genuine",
     "Sagacious - Disagree"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sagacious - Foolish is correctly matched."
+   "answer": 0,
+   "explanation": "Only Sagacious - Foolish is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0201",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Put the cart before the horse - Without wasting words",
     "Put the cart before the horse - Convey a great deal",
     "Put the cart before the horse - Do things in the wrong order",
     "Put the cart before the horse - To take the risk"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Put the cart before the horse - Do things in the wrong order is correctly matched."
+   "answer": 2,
+   "explanation": "Only Put the cart before the horse - Do things in the wrong order is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0202",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A person who has just started learning something - Cannibal",
     "A person who has just started learning something - Beginner",
     "A person who has just started learning something - Aviary",
     "A person who has just started learning something - Contagious"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A person who has just started learning something - Beginner is correctly matched."
+   "answer": 1,
+   "explanation": "Only A person who has just started learning something - Beginner is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0203",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Repetition - Repitition",
     "Repetition - Accesible",
     "Repetition - Sargeant",
     "Repetition - Harrass"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Repetition - Repitition is correctly matched."
+   "answer": 0,
+   "explanation": "Only Repetition - Repitition is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0204",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "D-mat - Out Patient Department",
     "D-mat - Dematerialised account for shares",
     "D-mat - Comptroller and Auditor General",
     "D-mat - Asian Development Bank"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only D-mat - Dematerialised account for shares is correctly matched."
+   "answer": 1,
+   "explanation": "Only D-mat - Dematerialised account for shares is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0205",
-   "q": "The currency Euro is used in which country?",
-   "o": [
+   "question": "The currency Euro is used in which country?",
+   "options": [
     "Sierra Leone",
     "Benin",
     "Australia",
     "Spain"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Euro is the currency of Spain."
+   "answer": 3,
+   "explanation": "Euro is the currency of Spain.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0206",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "47 - Fe",
     "47 - Ag",
     "47 - Pr",
     "47 - Hf"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 47 - Ag is correctly matched."
+   "answer": 1,
+   "explanation": "Only 47 - Ag is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0207",
-   "q": "Peaceful is a synonym of which of the following words?",
-   "o": [
+   "question": "Peaceful is a synonym of which of the following words?",
+   "options": [
     "Poignant",
     "Tranquil",
     "Heresy",
     "Cryptic"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Peaceful is a synonym of Tranquil."
+   "answer": 1,
+   "explanation": "Peaceful is a synonym of Tranquil.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0208",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Tranquil - Praise",
     "Tranquil - Malevolent",
     "Tranquil - Restless",
     "Tranquil - Polite"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Tranquil - Restless is correctly matched."
+   "answer": 2,
+   "explanation": "Only Tranquil - Restless is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0209",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Put the cart before the horse - Do things in the wrong order",
     "Put the cart before the horse - A person who can do many things but is expert at none",
     "Put the cart before the horse - A person without influence",
     "Put the cart before the horse - A constant source of trouble"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Put the cart before the horse - Do things in the wrong order is correctly matched."
+   "answer": 0,
+   "explanation": "Only Put the cart before the horse - Do things in the wrong order is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0210",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who knows everything - Omniscient",
     "One who knows everything - Potter",
     "One who knows everything - Blacksmith",
     "One who knows everything - Meteorologist"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who knows everything - Omniscient is correctly matched."
+   "answer": 0,
+   "explanation": "Only One who knows everything - Omniscient is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0211",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Appropriate - Rememberance",
     "Appropriate - Achievment",
     "Appropriate - Gaurantee",
     "Appropriate - Appropraite"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Appropriate - Appropraite is correctly matched."
+   "answer": 3,
+   "explanation": "Only Appropriate - Appropraite is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0212",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "RAW - Research and Analysis Wing",
     "RAW - Out Patient Department",
     "RAW - National Council of Educational Research and Training",
     "RAW - Launch Vehicle Mark 3"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only RAW - Research and Analysis Wing is correctly matched."
+   "answer": 0,
+   "explanation": "Only RAW - Research and Analysis Wing is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0213",
-   "q": "The currency Zambian Kwacha is used in which country?",
-   "o": [
+   "question": "The currency Zambian Kwacha is used in which country?",
+   "options": [
     "Luxembourg",
     "Guinea",
     "Zambia",
     "Belgium"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Zambian Kwacha is the currency of Zambia."
+   "answer": 2,
+   "explanation": "Zambian Kwacha is the currency of Zambia.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0214",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "47 - O",
     "47 - Bi",
     "47 - Ag",
     "47 - Be"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 47 - Ag is correctly matched."
+   "answer": 2,
+   "explanation": "Only 47 - Ag is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0215",
-   "q": "Concise is a synonym of which of the following words?",
-   "o": [
+   "question": "Concise is a synonym of which of the following words?",
+   "options": [
     "Debilitate",
     "Nomadic",
     "Capitulate",
     "Terse"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Concise is a synonym of Terse."
+   "answer": 3,
+   "explanation": "Concise is a synonym of Terse.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0216",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Tranquil - Frugal",
     "Tranquil - Idealistic",
     "Tranquil - Permanent",
     "Tranquil - Restless"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Tranquil - Restless is correctly matched."
+   "answer": 3,
+   "explanation": "Only Tranquil - Restless is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0217",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Out and out - Thoroughly",
     "Out and out - Help in a difficult period",
     "Out and out - Insincere grief",
     "Out and out - To seek popular approval"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Out and out - Thoroughly is correctly matched."
+   "answer": 0,
+   "explanation": "Only Out and out - Thoroughly is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0218",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who knows everything - Carnivores",
     "One who knows everything - Illiterate",
     "One who knows everything - Cannibal",
     "One who knows everything - Omniscient"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who knows everything - Omniscient is correctly matched."
+   "answer": 3,
+   "explanation": "Only One who knows everything - Omniscient is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0219",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Appropriate - Carrage",
     "Appropriate - Vaccum",
     "Appropriate - Appropraite",
     "Appropriate - Secratary"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Appropriate - Appropraite is correctly matched."
+   "answer": 2,
+   "explanation": "Only Appropriate - Appropraite is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0220",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "RAW - Ribonucleic Acid",
     "RAW - Telecom Regulatory Authority of India",
     "RAW - United Nations Educational, Scientific and Cultural Organization",
     "RAW - Research and Analysis Wing"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only RAW - Research and Analysis Wing is correctly matched."
+   "answer": 3,
+   "explanation": "Only RAW - Research and Analysis Wing is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0221",
-   "q": "The currency Bahraini Dinar is used in which country?",
-   "o": [
+   "question": "The currency Bahraini Dinar is used in which country?",
+   "options": [
     "Bahrain",
     "Ukraine",
     "Libya",
     "Zambia"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Bahraini Dinar is the currency of Bahrain."
+   "answer": 0,
+   "explanation": "Bahraini Dinar is the currency of Bahrain.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0222",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "98 - Cn",
     "98 - Hs",
     "98 - Zr",
     "98 - Cf"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 98 - Cf is correctly matched."
+   "answer": 3,
+   "explanation": "Only 98 - Cf is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0223",
-   "q": "Countless is a synonym of which of the following words?",
-   "o": [
+   "question": "Countless is a synonym of which of the following words?",
+   "options": [
     "Gregarious",
     "Vehement",
     "Myriad",
     "Fortitude"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Countless is a synonym of Myriad."
+   "answer": 2,
+   "explanation": "Countless is a synonym of Myriad.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0224",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Innate - Extravagant",
     "Innate - Concealed",
     "Innate - Condemn",
     "Innate - Acquired"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Innate - Acquired is correctly matched."
+   "answer": 3,
+   "explanation": "Only Innate - Acquired is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0225",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Out and out - Speak plainly",
     "Out and out - Unable to speak plainly",
     "Out and out - Thoroughly",
     "Out and out - A disreputable member of a family"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Out and out - Thoroughly is correctly matched."
+   "answer": 2,
+   "explanation": "Only Out and out - Thoroughly is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0226",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A medicine that reduces pain - Septuagenarian",
     "A medicine that reduces pain - Somnambulist",
     "A medicine that reduces pain - Guide",
     "A medicine that reduces pain - Analgesic"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A medicine that reduces pain - Analgesic is correctly matched."
+   "answer": 3,
+   "explanation": "Only A medicine that reduces pain - Analgesic is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0227",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Happiness - Emperior",
     "Happiness - Desparate",
     "Happiness - Hapiness",
     "Happiness - Mispell"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Happiness - Hapiness is correctly matched."
+   "answer": 2,
+   "explanation": "Only Happiness - Hapiness is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0228",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "NPA - Border Security Force",
     "NPA - Non Performing Asset",
     "NPA - International Maritime Organization",
     "NPA - Athletics track and field club naming"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only NPA - Non Performing Asset is correctly matched."
+   "answer": 1,
+   "explanation": "Only NPA - Non Performing Asset is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0229",
-   "q": "The currency Lempira is used in which country?",
-   "o": [
+   "question": "The currency Lempira is used in which country?",
+   "options": [
     "Suriname",
     "Honduras",
     "Tanzania",
     "Zimbabwe"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Lempira is the currency of Honduras."
+   "answer": 1,
+   "explanation": "Lempira is the currency of Honduras.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0230",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "98 - U",
     "98 - Cf",
     "98 - Tc",
     "98 - Co"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 98 - Cf is correctly matched."
+   "answer": 1,
+   "explanation": "Only 98 - Cf is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0231",
-   "q": "Wordy is a synonym of which of the following words?",
-   "o": [
+   "question": "Wordy is a synonym of which of the following words?",
+   "options": [
     "Torpid",
     "Castigate",
     "Verbose",
     "Disdain"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Wordy is a synonym of Verbose."
+   "answer": 2,
+   "explanation": "Wordy is a synonym of Verbose.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0232",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Innate - Confirm",
     "Innate - Obscure",
     "Innate - Unruly",
     "Innate - Acquired"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Innate - Acquired is correctly matched."
+   "answer": 3,
+   "explanation": "Only Innate - Acquired is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0233",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Kick the bucket - Make an effort to improve",
     "Kick the bucket - Die",
     "Kick the bucket - Repeat the same point",
     "Kick the bucket - Between two equal dangers"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kick the bucket - Die is correctly matched."
+   "answer": 1,
+   "explanation": "Only Kick the bucket - Die is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0234",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A medicine that reduces pain - Ephemeral",
     "A medicine that reduces pain - Sociologist",
     "A medicine that reduces pain - Beginner",
     "A medicine that reduces pain - Analgesic"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A medicine that reduces pain - Analgesic is correctly matched."
+   "answer": 3,
+   "explanation": "Only A medicine that reduces pain - Analgesic is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0235",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Happiness - Heros",
     "Happiness - Supercede",
     "Happiness - Guage",
     "Happiness - Hapiness"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Happiness - Hapiness is correctly matched."
+   "answer": 3,
+   "explanation": "Only Happiness - Hapiness is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0236",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "NPA - Universal Postal Union",
     "NPA - Non Performing Asset",
     "NPA - Indian Space Research Organisation",
     "NPA - Insurance Regulatory and Development Authority of India"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only NPA - Non Performing Asset is correctly matched."
+   "answer": 1,
+   "explanation": "Only NPA - Non Performing Asset is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0237",
-   "q": "The currency Manat is used in which country?",
-   "o": [
+   "question": "The currency Manat is used in which country?",
+   "options": [
     "Jamaica",
     "Fiji",
     "Georgia",
     "Azerbaijan"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Manat is the currency of Azerbaijan."
+   "answer": 3,
+   "explanation": "Manat is the currency of Azerbaijan.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0238",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "82 - Er",
     "82 - No",
     "82 - Pb",
     "82 - Rg"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 82 - Pb is correctly matched."
+   "answer": 2,
+   "explanation": "Only 82 - Pb is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0239",
-   "q": "Believable is a synonym of which of the following words?",
-   "o": [
+   "question": "Believable is a synonym of which of the following words?",
+   "options": [
     "Reminisce",
     "Antipathy",
     "Plausible",
     "Unanimous"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Believable is a synonym of Plausible."
+   "answer": 2,
+   "explanation": "Believable is a synonym of Plausible.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0240",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Somnolent - Praise",
     "Somnolent - Incompetent",
     "Somnolent - Alert",
     "Somnolent - Extravagant"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Somnolent - Alert is correctly matched."
+   "answer": 2,
+   "explanation": "Only Somnolent - Alert is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0241",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Kick the bucket - Die",
     "Kick the bucket - To shift responsibility",
     "Kick the bucket - To be secretly amused",
     "Kick the bucket - Rain heavily"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kick the bucket - Die is correctly matched."
+   "answer": 0,
+   "explanation": "Only Kick the bucket - Die is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0242",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A place where coins and stamps are made - Mint",
     "A place where coins and stamps are made - Extempore",
     "A place where coins and stamps are made - Optimist",
     "A place where coins and stamps are made - Bibliophile"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A place where coins and stamps are made - Mint is correctly matched."
+   "answer": 0,
+   "explanation": "Only A place where coins and stamps are made - Mint is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0243",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Pronunciation - Heros",
     "Pronunciation - Adolescant",
     "Pronunciation - Jealos",
     "Pronunciation - Pronounciation"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pronunciation - Pronounciation is correctly matched."
+   "answer": 3,
+   "explanation": "Only Pronunciation - Pronounciation is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0244",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "IMF - Indian Institute of Management",
     "IMF - Closed Circuit Television",
     "IMF - International Monetary Fund",
     "IMF - Automated Teller Machine"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only IMF - International Monetary Fund is correctly matched."
+   "answer": 2,
+   "explanation": "Only IMF - International Monetary Fund is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0245",
-   "q": "The currency Lari is used in which country?",
-   "o": [
+   "question": "The currency Lari is used in which country?",
+   "options": [
     "Bahamas",
     "Liechtenstein",
     "Thailand",
     "Georgia"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Lari is the currency of Georgia."
+   "answer": 3,
+   "explanation": "Lari is the currency of Georgia.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0246",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "82 - Na",
     "82 - Cf",
     "82 - Pb",
     "82 - Ds"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 82 - Pb is correctly matched."
+   "answer": 2,
+   "explanation": "Only 82 - Pb is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0247",
-   "q": "Possible is a synonym of which of the following words?",
-   "o": [
+   "question": "Possible is a synonym of which of the following words?",
+   "options": [
     "Feasible",
     "Explicit",
     "Notorious",
     "Castigate"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Possible is a synonym of Feasible."
+   "answer": 0,
+   "explanation": "Possible is a synonym of Feasible.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0248",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Somnolent - Increase",
     "Somnolent - Energetic",
     "Somnolent - Replenish",
     "Somnolent - Alert"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Somnolent - Alert is correctly matched."
+   "answer": 3,
+   "explanation": "Only Somnolent - Alert is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0249",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Black sheep - Without wasting words",
     "Black sheep - Under suspicion",
     "Black sheep - Much excitement over a trivial matter",
     "Black sheep - A disreputable member of a family"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Black sheep - A disreputable member of a family is correctly matched."
+   "answer": 3,
+   "explanation": "Only Black sheep - A disreputable member of a family is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0250",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A place where coins and stamps are made - Mint",
     "A place where coins and stamps are made - Antiseptic",
     "A place where coins and stamps are made - Epidemic",
     "A place where coins and stamps are made - Herbivores"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A place where coins and stamps are made - Mint is correctly matched."
+   "answer": 0,
+   "explanation": "Only A place where coins and stamps are made - Mint is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0251",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Pronunciation - Disatisfied",
     "Pronunciation - Restaurent",
     "Pronunciation - Vaccum",
     "Pronunciation - Pronounciation"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pronunciation - Pronounciation is correctly matched."
+   "answer": 3,
+   "explanation": "Only Pronunciation - Pronounciation is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0252",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "IMF - United Nations Environment Programme",
     "IMF - International Monetary Fund",
     "IMF - Minimum Support Price",
     "IMF - Immediate Payment Service"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only IMF - International Monetary Fund is correctly matched."
+   "answer": 1,
+   "explanation": "Only IMF - International Monetary Fund is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0253",
-   "q": "The currency Iraqi Dinar is used in which country?",
-   "o": [
+   "question": "The currency Iraqi Dinar is used in which country?",
+   "options": [
     "France",
     "Italy",
     "Iraq",
     "China"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Iraqi Dinar is the currency of Iraq."
+   "answer": 2,
+   "explanation": "Iraqi Dinar is the currency of Iraq.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0254",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "107 - Fr",
     "107 - Cd",
     "107 - Bh",
     "107 - Og"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 107 - Bh is correctly matched."
+   "answer": 2,
+   "explanation": "Only 107 - Bh is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0255",
-   "q": "Calmness is a synonym of which of the following words?",
-   "o": [
+   "question": "Calmness is a synonym of which of the following words?",
+   "options": [
     "Profuse",
     "Germane",
     "Lethargic",
     "Equanimity"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Calmness is a synonym of Equanimity."
+   "answer": 3,
+   "explanation": "Calmness is a synonym of Equanimity.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0256",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Staunch - Hostile",
     "Staunch - Disloyal",
     "Staunch - Fine",
     "Staunch - Liking"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Staunch - Disloyal is correctly matched."
+   "answer": 1,
+   "explanation": "Only Staunch - Disloyal is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0257",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Black sheep - A disreputable member of a family",
     "Black sheep - Be logically sound",
     "Black sheep - A friend only in good times",
     "Black sheep - Interfere"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Black sheep - A disreputable member of a family is correctly matched."
+   "answer": 0,
+   "explanation": "Only Black sheep - A disreputable member of a family is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0258",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who cannot be imitated - Inimitable",
     "One who hates mankind - Hermit",
     "The murder of a king - Regicide",
     "One who never makes a mistake - Infallible"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who hates mankind - Hermit is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair One who hates mankind - Hermit is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0259",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Liaison - Publically",
     "Liaison - Yeild",
     "Liaison - Amatuer",
     "Liaison - Liason"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Liaison - Liason is correctly matched."
+   "answer": 3,
+   "explanation": "Only Liaison - Liason is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0260",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "AIIB - Asian Infrastructure Investment Bank",
     "AIIB - Unmanned Aerial Vehicle",
     "AIIB - Non Performing Asset",
     "AIIB - National Testing Agency"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only AIIB - Asian Infrastructure Investment Bank is correctly matched."
+   "answer": 0,
+   "explanation": "Only AIIB - Asian Infrastructure Investment Bank is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0261",
-   "q": "The currency Naira is used in which country?",
-   "o": [
+   "question": "The currency Naira is used in which country?",
+   "options": [
     "Netherlands",
     "Uruguay",
     "Liberia",
     "Nigeria"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Naira is the currency of Nigeria."
+   "answer": 3,
+   "explanation": "Naira is the currency of Nigeria.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0262",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "107 - Se",
     "107 - Nh",
     "107 - C",
     "107 - Bh"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 107 - Bh is correctly matched."
+   "answer": 3,
+   "explanation": "Only 107 - Bh is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0263",
-   "q": "Hide is a synonym of which of the following words?",
-   "o": [
+   "question": "Hide is a synonym of which of the following words?",
+   "options": [
     "Impoverish",
     "Concur",
     "Capricious",
     "Conceal"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Hide is a synonym of Conceal."
+   "answer": 3,
+   "explanation": "Hide is a synonym of Conceal.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0264",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Staunch - Decide",
     "Staunch - Disloyal",
     "Staunch - Luxurious",
     "Staunch - Wealthy"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Staunch - Disloyal is correctly matched."
+   "answer": 1,
+   "explanation": "Only Staunch - Disloyal is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0265",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Herculean task - A very short distance",
     "Herculean task - Pay too much",
     "Herculean task - A very difficult task",
     "Herculean task - Destroy at an early stage"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Herculean task - A very difficult task is correctly matched."
+   "answer": 2,
+   "explanation": "Only Herculean task - A very difficult task is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0266",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "An examination of a dead body - Post-mortem",
     "Animals that eat plants and flesh - Omnivores",
     "One who studies animals - Herbivores",
     "A disease that spreads worldwide - Pandemic"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who studies animals - Herbivores is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair One who studies animals - Herbivores is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0267",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Liaison - Woolen",
     "Liaison - Liason",
     "Liaison - Courgaeous",
     "Liaison - Yeild"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Liaison - Liason is correctly matched."
+   "answer": 1,
+   "explanation": "Only Liaison - Liason is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0268",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "AIIB - National Security Guard",
     "AIIB - Asian Infrastructure Investment Bank",
     "AIIB - Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest",
     "AIIB - Comptroller and Auditor General"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only AIIB - Asian Infrastructure Investment Bank is correctly matched."
+   "answer": 1,
+   "explanation": "Only AIIB - Asian Infrastructure Investment Bank is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0269",
-   "q": "The currency Manat is used in which country?",
-   "o": [
+   "question": "The currency Manat is used in which country?",
+   "options": [
     "Turkmenistan",
     "Guinea",
     "Hungary",
     "Liberia"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Manat is the currency of Turkmenistan."
+   "answer": 0,
+   "explanation": "Manat is the currency of Turkmenistan.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0270",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "105 - Mc",
     "105 - Cn",
     "105 - Kr",
     "105 - Db"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 105 - Db is correctly matched."
+   "answer": 3,
+   "explanation": "Only 105 - Db is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0271",
-   "q": "Disparage is a synonym of which of the following words?",
-   "o": [
+   "question": "Disparage is a synonym of which of the following words?",
+   "options": [
     "Lucid",
     "Belittle",
     "Docile",
     "Pacify"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Disparage is a synonym of Belittle."
+   "answer": 1,
+   "explanation": "Disparage is a synonym of Belittle.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0272",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Fickle - Constant",
     "Fickle - Acquired",
     "Fickle - Extraordinary",
     "Fickle - Fine"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Fickle - Constant is correctly matched."
+   "answer": 0,
+   "explanation": "Only Fickle - Constant is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0273",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Herculean task - Keep away from",
     "Herculean task - A friend only in good times",
     "Herculean task - To take the risk",
     "Herculean task - A very difficult task"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Herculean task - A very difficult task is correctly matched."
+   "answer": 3,
+   "explanation": "Only Herculean task - A very difficult task is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0274",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who is between seventy and eighty years old - Septuagenarian",
     "A cure for all diseases - Panacea",
     "One who loves collecting coins - Somnambulist",
     "The murder of a human being - Homicide"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who loves collecting coins - Somnambulist is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair One who loves collecting coins - Somnambulist is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0275",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Disappear - Innocense",
     "Disappear - Ambitous",
     "Disappear - Bicycal",
     "Disappear - Dissappear"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Disappear - Dissappear is correctly matched."
+   "answer": 3,
+   "explanation": "Only Disappear - Dissappear is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0276",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "NDA - South Asian Association for Regional Cooperation",
     "NDA - National Defence Academy",
     "NDA - Geostationary Earth Orbit",
     "NDA - Central Board of Direct Taxes"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only NDA - National Defence Academy is correctly matched."
+   "answer": 1,
+   "explanation": "Only NDA - National Defence Academy is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0277",
-   "q": "The currency Moroccan Dirham is used in which country?",
-   "o": [
+   "question": "The currency Moroccan Dirham is used in which country?",
+   "options": [
     "Madagascar",
     "Brunei",
     "Morocco",
     "Belgium"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Moroccan Dirham is the currency of Morocco."
+   "answer": 2,
+   "explanation": "Moroccan Dirham is the currency of Morocco.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0278",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "105 - Sg",
     "105 - Pd",
     "105 - Db",
     "105 - Ni"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 105 - Db is correctly matched."
+   "answer": 2,
+   "explanation": "Only 105 - Db is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0279",
-   "q": "Hardworking is a synonym of which of the following words?",
-   "o": [
+   "question": "Hardworking is a synonym of which of the following words?",
+   "options": [
     "Bewilder",
     "Fabricate",
     "Querulous",
     "Diligent"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Hardworking is a synonym of Diligent."
+   "answer": 3,
+   "explanation": "Hardworking is a synonym of Diligent.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0280",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Fickle - Verbose",
     "Fickle - Constant",
     "Fickle - Ignorant",
     "Fickle - Disloyal"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Fickle - Constant is correctly matched."
+   "answer": 1,
+   "explanation": "Only Fickle - Constant is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0281",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Fall flat - Fail to have the intended effect",
     "Fall flat - Daydreams",
     "Fall flat - To be involved in everything",
     "Fall flat - In disorder"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Fall flat - Fail to have the intended effect is correctly matched."
+   "answer": 0,
+   "explanation": "Only Fall flat - Fail to have the intended effect is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0282",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Government by officials - Bureaucracy",
     "One who is all powerful - Omniscient",
     "One who is more than one hundred years old - Centenarian",
     "A place where medicines are prepared - Pharmacy"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who is all powerful - Omniscient is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair One who is all powerful - Omniscient is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0283",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Disappear - Begining",
     "Disappear - Curtesy",
     "Disappear - Dissappear",
     "Disappear - Concious"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Disappear - Dissappear is correctly matched."
+   "answer": 2,
+   "explanation": "Only Disappear - Dissappear is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0284",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "NDA - Defence Research and Development Organisation",
     "NDA - National Defence Academy",
     "NDA - World Intellectual Property Organization",
     "NDA - Oral Rehydration Solution"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only NDA - National Defence Academy is correctly matched."
+   "answer": 1,
+   "explanation": "Only NDA - National Defence Academy is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0285",
-   "q": "The currency Barbadian Dollar is used in which country?",
-   "o": [
+   "question": "The currency Barbadian Dollar is used in which country?",
+   "options": [
     "Somalia",
     "Guatemala",
     "Barbados",
     "Uzbekistan"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Barbadian Dollar is the currency of Barbados."
+   "answer": 2,
+   "explanation": "Barbadian Dollar is the currency of Barbados.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0286",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "33 - In",
     "33 - Li",
     "33 - As",
     "33 - Sr"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 33 - As is correctly matched."
+   "answer": 2,
+   "explanation": "Only 33 - As is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0287",
-   "q": "Draw out is a synonym of which of the following words?",
-   "o": [
+   "question": "Draw out is a synonym of which of the following words?",
+   "options": [
     "Esoteric",
     "Elicit",
     "Bewilder",
     "Predicament"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Draw out is a synonym of Elicit."
+   "answer": 1,
+   "explanation": "Draw out is a synonym of Elicit.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0288",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Condemn - Favourable",
     "Condemn - Fragile",
     "Condemn - Praise",
     "Condemn - Significant"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Condemn - Praise is correctly matched."
+   "answer": 2,
+   "explanation": "Only Condemn - Praise is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0289",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Fall flat - A person without influence",
     "Fall flat - Miscellaneous items",
     "Fall flat - Fail to have the intended effect",
     "Fall flat - Think before acting"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Fall flat - Fail to have the intended effect is correctly matched."
+   "answer": 2,
+   "explanation": "Only Fall flat - Fail to have the intended effect is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0290",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A disease that occurs regularly in a region - Inimitable",
     "A place where birds are kept - Aviary",
     "Government by a king or queen - Monarchy",
     "Something that lasts for a very short time - Ephemeral"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A disease that occurs regularly in a region - Inimitable is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair A disease that occurs regularly in a region - Inimitable is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0291",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Acknowledgment - Aknowledgment",
     "Acknowledgment - Labratory",
     "Acknowledgment - Religous",
     "Acknowledgment - Sacrafice"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Acknowledgment - Aknowledgment is correctly matched."
+   "answer": 0,
+   "explanation": "Only Acknowledgment - Aknowledgment is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0292",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "PSLV - Food and Agriculture Organization",
     "PSLV - Polar Satellite Launch Vehicle",
     "PSLV - Public Distribution System",
     "PSLV - Light Emitting Diode"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only PSLV - Polar Satellite Launch Vehicle is correctly matched."
+   "answer": 1,
+   "explanation": "Only PSLV - Polar Satellite Launch Vehicle is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0293",
-   "q": "The currency Tugrik is used in which country?",
-   "o": [
+   "question": "The currency Tugrik is used in which country?",
+   "options": [
     "Angola",
     "New Zealand",
     "Rwanda",
     "Mongolia"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Tugrik is the currency of Mongolia."
+   "answer": 3,
+   "explanation": "Tugrik is the currency of Mongolia.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0294",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "33 - As",
     "33 - Fl",
     "33 - Ar",
     "33 - Mn"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 33 - As is correctly matched."
+   "answer": 0,
+   "explanation": "Only 33 - As is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0295",
-   "q": "Forgive is a synonym of which of the following words?",
-   "o": [
+   "question": "Forgive is a synonym of which of the following words?",
+   "options": [
     "Condone",
     "Vehement",
     "Anarchy",
     "Tedious"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Forgive is a synonym of Condone."
+   "answer": 0,
+   "explanation": "Forgive is a synonym of Condone.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0296",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Condemn - Praise",
     "Condemn - Cowardly",
     "Condemn - Conventional",
     "Condemn - Rigid"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Condemn - Praise is correctly matched."
+   "answer": 0,
+   "explanation": "Only Condemn - Praise is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0297",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A slap on the wrist - A mild punishment",
     "A slap on the wrist - To take the risk",
     "A slap on the wrist - To make every possible effort",
     "A slap on the wrist - Avoid the main point"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A slap on the wrist - A mild punishment is correctly matched."
+   "answer": 0,
+   "explanation": "Only A slap on the wrist - A mild punishment is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0298",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who cannot read or write - Disinfectant",
     "One who cannot be heard - Inaudible",
     "A place where ships are repaired - Dockyard",
     "A person employed to drive a car - Chauffeur"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who cannot read or write - Disinfectant is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair One who cannot read or write - Disinfectant is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0299",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Acknowledgment - Threshhold",
     "Acknowledgment - Coloumn",
     "Acknowledgment - Aknowledgment",
     "Acknowledgment - Recieve"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Acknowledgment - Aknowledgment is correctly matched."
+   "answer": 2,
+   "explanation": "Only Acknowledgment - Aknowledgment is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0300",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "PSLV - Polar Satellite Launch Vehicle",
     "PSLV - International Court of Justice",
     "PSLV - Immediate Payment Service",
     "PSLV - Electrocardiogram"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only PSLV - Polar Satellite Launch Vehicle is correctly matched."
+   "answer": 0,
+   "explanation": "Only PSLV - Polar Satellite Launch Vehicle is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0301",
-   "q": "The currency Burundian Franc is used in which country?",
-   "o": [
+   "question": "The currency Burundian Franc is used in which country?",
+   "options": [
     "Vanuatu",
     "Brazil",
     "Burundi",
     "Norway"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Burundian Franc is the currency of Burundi."
+   "answer": 2,
+   "explanation": "Burundian Franc is the currency of Burundi.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0302",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "110 - Pu",
     "110 - Br",
     "110 - Ds",
     "110 - Sg"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 110 - Ds is correctly matched."
+   "answer": 2,
+   "explanation": "Only 110 - Ds is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0303",
-   "q": "Elation is a synonym of which of the following words?",
-   "o": [
+   "question": "Elation is a synonym of which of the following words?",
+   "options": [
     "Ingenious",
     "Euphoria",
     "Prominent",
     "Candid"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Elation is a synonym of Euphoria."
+   "answer": 1,
+   "explanation": "Elation is a synonym of Euphoria.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0304",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Enmity - Clean",
     "Enmity - Obedient",
     "Enmity - Friendship",
     "Enmity - Abundance"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Enmity - Friendship is correctly matched."
+   "answer": 2,
+   "explanation": "Only Enmity - Friendship is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0305",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A slap on the wrist - Repeat the same point",
     "A slap on the wrist - Become known",
     "A slap on the wrist - A mild punishment",
     "A slap on the wrist - Criticise"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A slap on the wrist - A mild punishment is correctly matched."
+   "answer": 2,
+   "explanation": "Only A slap on the wrist - A mild punishment is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0306",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who does not believe in God - Numismatist",
     "A person who makes pots - Potter",
     "A person who has just started learning something - Beginner",
     "A place where animals are kept - Zoo"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who does not believe in God - Numismatist is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair One who does not believe in God - Numismatist is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0307",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Excellent - Fulfill",
     "Excellent - Preferance",
     "Excellent - Excelent",
     "Excellent - Threshhold"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Excellent - Excelent is correctly matched."
+   "answer": 2,
+   "explanation": "Only Excellent - Excelent is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0308",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "JAM - Gross National Product",
     "JAM - Minimum Support Price",
     "JAM - Jan Dhan, Aadhaar and Mobile",
     "JAM - Wholesale Price Index"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only JAM - Jan Dhan, Aadhaar and Mobile is correctly matched."
+   "answer": 2,
+   "explanation": "Only JAM - Jan Dhan, Aadhaar and Mobile is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0309",
-   "q": "The currency Euro is used in which country?",
-   "o": [
+   "question": "The currency Euro is used in which country?",
+   "options": [
     "Slovenia",
     "France",
     "Romania",
     "Bahamas"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Euro is the currency of Slovenia."
+   "answer": 0,
+   "explanation": "Euro is the currency of Slovenia.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0310",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "110 - Am",
     "110 - Ds",
     "110 - O",
     "110 - Rb"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 110 - Ds is correctly matched."
+   "answer": 1,
+   "explanation": "Only 110 - Ds is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0311",
-   "q": "Frugal is a synonym of which of the following words?",
-   "o": [
+   "question": "Frugal is a synonym of which of the following words?",
+   "options": [
     "Uncanny",
     "Conspicuous",
     "Thrifty",
     "Infamous"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Frugal is a synonym of Thrifty."
+   "answer": 2,
+   "explanation": "Frugal is a synonym of Thrifty.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0312",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Enmity - Necessary",
     "Enmity - Friendship",
     "Enmity - Foolish",
     "Enmity - Abundance"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Enmity - Friendship is correctly matched."
+   "answer": 1,
+   "explanation": "Only Enmity - Friendship is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0313",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A chip on the shoulder - A feeling of resentment",
     "A chip on the shoulder - To retract one's statement",
     "A chip on the shoulder - A selfish motive",
     "A chip on the shoulder - Have a selfish motive"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A chip on the shoulder - A feeling of resentment is correctly matched."
+   "answer": 0,
+   "explanation": "Only A chip on the shoulder - A feeling of resentment is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0314",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Something that cannot be eaten - Inedible",
     "One who is unable to pay his debts - Insolvent",
     "One who loves books - Bibliophile",
     "A long speech by one person in a group - Amphibians"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A long speech by one person in a group - Amphibians is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair A long speech by one person in a group - Amphibians is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0315",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Excellent - Excelent",
     "Excellent - Exagerate",
     "Excellent - Dilemna",
     "Excellent - Managment"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Excellent - Excelent is correctly matched."
+   "answer": 0,
+   "explanation": "Only Excellent - Excelent is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0316",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "JAM - Jan Dhan, Aadhaar and Mobile",
     "JAM - Geosynchronous Satellite Launch Vehicle",
     "JAM - New Development Bank",
     "JAM - European Organization for Nuclear Research"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only JAM - Jan Dhan, Aadhaar and Mobile is correctly matched."
+   "answer": 0,
+   "explanation": "Only JAM - Jan Dhan, Aadhaar and Mobile is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0317",
-   "q": "The currency Euro is used in which country?",
-   "o": [
+   "question": "The currency Euro is used in which country?",
+   "options": [
     "Jordan",
     "Bangladesh",
     "Monaco",
     "Cambodia"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Euro is the currency of Monaco."
+   "answer": 2,
+   "explanation": "Euro is the currency of Monaco.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0318",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "85 - Fm",
     "85 - Ne",
     "85 - At",
     "85 - H"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 85 - At is correctly matched."
+   "answer": 2,
+   "explanation": "Only 85 - At is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0319",
-   "q": "Unstable is a synonym of which of the following words?",
-   "o": [
+   "question": "Unstable is a synonym of which of the following words?",
+   "options": [
     "Volatile",
     "Proficient",
     "Pertinent",
     "Deteriorate"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Unstable is a synonym of Volatile."
+   "answer": 0,
+   "explanation": "Unstable is a synonym of Volatile.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0320",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Coarse - Unproductive",
     "Coarse - Unrepentant",
     "Coarse - Fine",
     "Coarse - Intensify"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Coarse - Fine is correctly matched."
+   "answer": 2,
+   "explanation": "Only Coarse - Fine is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0321",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A chip on the shoulder - Have a selfish motive",
     "A chip on the shoulder - A feeling of resentment",
     "A chip on the shoulder - A decision cannot be changed",
     "A chip on the shoulder - Bear the consequences"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A chip on the shoulder - A feeling of resentment is correctly matched."
+   "answer": 1,
+   "explanation": "Only A chip on the shoulder - A feeling of resentment is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0322",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A speech made without preparation - Hydrophobic",
     "A place where fishes are kept - Aquarium",
     "A person who mends clothes - Tailor",
     "A person who makes pots - Potter"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A speech made without preparation - Hydrophobic is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair A speech made without preparation - Hydrophobic is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0323",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Friend - Apparant",
     "Friend - Commitee",
     "Friend - Irresistable",
     "Friend - Freind"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Friend - Freind is correctly matched."
+   "answer": 3,
+   "explanation": "Only Friend - Freind is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0324",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "ICMR - International Securities Identification Number",
     "ICMR - Indian Council of Agricultural Research",
     "ICMR - International Maritime Organization",
     "ICMR - Indian Council of Medical Research"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only ICMR - Indian Council of Medical Research is correctly matched."
+   "answer": 3,
+   "explanation": "Only ICMR - Indian Council of Medical Research is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0325",
-   "q": "The currency Birr is used in which country?",
-   "o": [
+   "question": "The currency Birr is used in which country?",
+   "options": [
     "Paraguay",
     "Bolivia",
     "Qatar",
     "Ethiopia"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Birr is the currency of Ethiopia."
+   "answer": 3,
+   "explanation": "Birr is the currency of Ethiopia.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0326",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "85 - Ru",
     "85 - Tc",
     "85 - N",
     "85 - At"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 85 - At is correctly matched."
+   "answer": 3,
+   "explanation": "Only 85 - At is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0327",
-   "q": "Clear is a synonym of which of the following words?",
-   "o": [
+   "question": "Clear is a synonym of which of the following words?",
+   "options": [
     "Lucid",
     "Reverence",
     "Resilient",
     "Intrinsic"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Clear is a synonym of Lucid."
+   "answer": 0,
+   "explanation": "Clear is a synonym of Lucid.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0328",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Coarse - Fearful",
     "Coarse - Malevolent",
     "Coarse - Fine",
     "Coarse - Occasional"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Coarse - Fine is correctly matched."
+   "answer": 2,
+   "explanation": "Only Coarse - Fine is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0329",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Up to the mark - Be logically sound",
     "Up to the mark - To be secretly amused",
     "Up to the mark - Miscellaneous items",
     "Up to the mark - Of the required standard"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Up to the mark - Of the required standard is correctly matched."
+   "answer": 3,
+   "explanation": "Only Up to the mark - Of the required standard is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0330",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Something that can be eaten - Meteorologist",
     "Something that can be easily broken - Fragile",
     "A disease that spreads worldwide - Pandemic",
     "One who is unable to pay his debts - Insolvent"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Something that can be eaten - Meteorologist is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Something that can be eaten - Meteorologist is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0331",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Friend - Seperate",
     "Friend - Hieght",
     "Friend - Labratory",
     "Friend - Freind"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Friend - Freind is correctly matched."
+   "answer": 3,
+   "explanation": "Only Friend - Freind is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0332",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "ICMR - Telecom Regulatory Authority of India",
     "ICMR - Sports Authority of India",
     "ICMR - Indian Council of Medical Research",
     "ICMR - Public Distribution System"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only ICMR - Indian Council of Medical Research is correctly matched."
+   "answer": 2,
+   "explanation": "Only ICMR - Indian Council of Medical Research is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0333",
-   "q": "The currency Tanzanian Shilling is used in which country?",
-   "o": [
+   "question": "The currency Tanzanian Shilling is used in which country?",
+   "options": [
     "Portugal",
     "Tunisia",
     "Panama",
     "Tanzania"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Tanzanian Shilling is the currency of Tanzania."
+   "answer": 3,
+   "explanation": "Tanzanian Shilling is the currency of Tanzania.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0334",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "112 - Nh",
     "112 - Ta",
     "112 - Tl",
     "112 - Cn"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 112 - Cn is correctly matched."
+   "answer": 3,
+   "explanation": "Only 112 - Cn is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0335",
-   "q": "Unfriendly is a synonym of which of the following words?",
-   "o": [
+   "question": "Unfriendly is a synonym of which of the following words?",
+   "options": [
     "Hostile",
     "Condone",
     "Fickle",
     "Indict"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Unfriendly is a synonym of Hostile."
+   "answer": 0,
+   "explanation": "Unfriendly is a synonym of Hostile.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0336",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Formidable - Ignorant",
     "Formidable - Prosperity",
     "Formidable - Weak",
     "Formidable - Assist"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Formidable - Weak is correctly matched."
+   "answer": 2,
+   "explanation": "Only Formidable - Weak is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0337",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Up to the mark - Of the required standard",
     "Up to the mark - Apologise humbly",
     "Up to the mark - In disorder",
     "Up to the mark - Convey a great deal"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Up to the mark - Of the required standard is correctly matched."
+   "answer": 0,
+   "explanation": "Only Up to the mark - Of the required standard is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0338",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "The murder of one's mother - Matricide",
     "One who studies insects - Xenophobic",
     "A medicine that reduces pain - Analgesic",
     "A disease that spreads worldwide - Pandemic"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who studies insects - Xenophobic is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair One who studies insects - Xenophobic is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0339",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Noticeable - Litereture",
     "Noticeable - Harrass",
     "Noticeable - Noticable",
     "Noticeable - Succesful"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Noticeable - Noticable is correctly matched."
+   "answer": 2,
+   "explanation": "Only Noticeable - Noticable is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0340",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "WIPO - World Intellectual Property Organization",
     "WIPO - National Pension System",
     "WIPO - International Hockey Federation",
     "WIPO - National Aeronautics and Space Administration"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only WIPO - World Intellectual Property Organization is correctly matched."
+   "answer": 0,
+   "explanation": "Only WIPO - World Intellectual Property Organization is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0341",
-   "q": "The currency Pound Sterling is used in which country?",
-   "o": [
+   "question": "The currency Pound Sterling is used in which country?",
+   "options": [
     "Sudan",
     "United Kingdom",
     "Colombia",
     "Samoa"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Pound Sterling is the currency of United Kingdom."
+   "answer": 1,
+   "explanation": "Pound Sterling is the currency of United Kingdom.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0342",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "112 - Ir",
     "112 - Cr",
     "112 - Ga",
     "112 - Cn"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 112 - Cn is correctly matched."
+   "answer": 3,
+   "explanation": "Only 112 - Cn is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0343",
-   "q": "Effectiveness is a synonym of which of the following words?",
-   "o": [
+   "question": "Effectiveness is a synonym of which of the following words?",
+   "options": [
     "Antipathy",
     "Malevolent",
     "Vengeance",
     "Efficacy"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Effectiveness is a synonym of Efficacy."
+   "answer": 3,
+   "explanation": "Effectiveness is a synonym of Efficacy.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0344",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Formidable - Extrinsic",
     "Formidable - Weak",
     "Formidable - Retain",
     "Formidable - Energetic"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Formidable - Weak is correctly matched."
+   "answer": 1,
+   "explanation": "Only Formidable - Weak is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0345",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "See eye to eye - Do something remarkable",
     "See eye to eye - Interfere",
     "See eye to eye - Gain an advantage secretly",
     "See eye to eye - Agree completely"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only See eye to eye - Agree completely is correctly matched."
+   "answer": 3,
+   "explanation": "Only See eye to eye - Agree completely is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0346",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A person who mends clothes - Tailor",
     "One who studies the origin of words - Etymologist",
     "The practice of having many wives - Linguist",
     "One who talks too much - Garrulous"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair The practice of having many wives - Linguist is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair The practice of having many wives - Linguist is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0347",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Noticeable - Grammer",
     "Noticeable - Noticable",
     "Noticeable - Jewelery",
     "Noticeable - Tounge"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Noticeable - Noticable is correctly matched."
+   "answer": 1,
+   "explanation": "Only Noticeable - Noticable is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0348",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "WIPO - Airborne Warning and Control System",
     "WIPO - Adenosine Triphosphate",
     "WIPO - World Intellectual Property Organization",
     "WIPO - Oral Rehydration Solution"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only WIPO - World Intellectual Property Organization is correctly matched."
+   "answer": 2,
+   "explanation": "Only WIPO - World Intellectual Property Organization is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0349",
-   "q": "The currency Jordanian Dinar is used in which country?",
-   "o": [
+   "question": "The currency Jordanian Dinar is used in which country?",
+   "options": [
     "Belgium",
     "Switzerland",
     "Jordan",
     "Moldova"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Jordanian Dinar is the currency of Jordan."
+   "answer": 2,
+   "explanation": "Jordanian Dinar is the currency of Jordan.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0350",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "103 - K",
     "103 - B",
     "103 - Zr",
     "103 - Lr"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 103 - Lr is correctly matched."
+   "answer": 3,
+   "explanation": "Only 103 - Lr is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0351",
-   "q": "Hopeless is a synonym of which of the following words?",
-   "o": [
+   "question": "Hopeless is a synonym of which of the following words?",
+   "options": [
     "Ignominy",
     "Erudite",
     "Despondent",
     "Eminent"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Hopeless is a synonym of Despondent."
+   "answer": 2,
+   "explanation": "Hopeless is a synonym of Despondent.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0352",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Tentative - Praise",
     "Tentative - Modern",
     "Tentative - Permanent",
     "Tentative - Definite"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Tentative - Definite is correctly matched."
+   "answer": 3,
+   "explanation": "Only Tentative - Definite is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0353",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "See eye to eye - Without wasting words",
     "See eye to eye - Agree completely",
     "See eye to eye - A miser",
     "See eye to eye - To make a fresh start"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only See eye to eye - Agree completely is correctly matched."
+   "answer": 1,
+   "explanation": "Only See eye to eye - Agree completely is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0354",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A person employed to drive a car - Chauffeur",
     "A speech made to oneself when alone - Hydrophobic",
     "One who is present everywhere - Omnipresent",
     "A study of the human body - Anatomy"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A speech made to oneself when alone - Hydrophobic is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair A speech made to oneself when alone - Hydrophobic is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0355",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Indispensable - Interupt",
     "Indispensable - Accidently",
     "Indispensable - Indispensible",
     "Indispensable - Beleive"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Indispensable - Indispensible is correctly matched."
+   "answer": 2,
+   "explanation": "Only Indispensable - Indispensible is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0356",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "RBI - Reserve Bank of India",
     "RBI - Pradhan Mantri Ujjwala Yojana",
     "RBI - International Monetary Fund",
     "RBI - Institute of Banking Personnel Selection"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only RBI - Reserve Bank of India is correctly matched."
+   "answer": 0,
+   "explanation": "Only RBI - Reserve Bank of India is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0357",
-   "q": "The currency Solomon Islands Dollar is used in which country?",
-   "o": [
+   "question": "The currency Solomon Islands Dollar is used in which country?",
+   "options": [
     "Solomon Islands",
     "Albania",
     "Chad",
     "France"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Solomon Islands Dollar is the currency of Solomon Islands."
+   "answer": 0,
+   "explanation": "Solomon Islands Dollar is the currency of Solomon Islands.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0358",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "103 - Bi",
     "103 - Th",
     "103 - Tl",
     "103 - Lr"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 103 - Lr is correctly matched."
+   "answer": 3,
+   "explanation": "Only 103 - Lr is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0359",
-   "q": "Rude is a synonym of which of the following words?",
-   "o": [
+   "question": "Rude is a synonym of which of the following words?",
+   "options": [
     "Disdain",
     "Hypocrisy",
     "Obstinate",
     "Insolent"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Rude is a synonym of Insolent."
+   "answer": 3,
+   "explanation": "Rude is a synonym of Insolent.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0360",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Tentative - Lax",
     "Tentative - Definite",
     "Tentative - Favourable",
     "Tentative - Extravagant"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Tentative - Definite is correctly matched."
+   "answer": 1,
+   "explanation": "Only Tentative - Definite is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0361",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Play second fiddle - Take a subordinate role",
     "Play second fiddle - Send a short letter",
     "Play second fiddle - Bear the consequences",
     "Play second fiddle - Make money selfishly"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Play second fiddle - Take a subordinate role is correctly matched."
+   "answer": 0,
+   "explanation": "Only Play second fiddle - Take a subordinate role is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0362",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who cannot be heard - Inaudible",
     "Government by the wealthy - Plutocracy",
     "One who is between sixty and seventy years old - Sexagenarian",
     "Government by a king or queen - Blacksmith"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Government by a king or queen - Blacksmith is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Government by a king or queen - Blacksmith is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0363",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Indispensable - Indispensible",
     "Indispensable - Ommision",
     "Indispensable - Dependant",
     "Indispensable - Gaurantee"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Indispensable - Indispensible is correctly matched."
+   "answer": 0,
+   "explanation": "Only Indispensable - Indispensible is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0364",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "RBI - Indo-Tibetan Border Police",
     "RBI - Dematerialised account for shares",
     "RBI - Reserve Bank of India",
     "RBI - Permanent Account Number"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only RBI - Reserve Bank of India is correctly matched."
+   "answer": 2,
+   "explanation": "Only RBI - Reserve Bank of India is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0365",
-   "q": "The currency Dinar is used in which country?",
-   "o": [
+   "question": "The currency Dinar is used in which country?",
+   "options": [
     "Serbia",
     "Austria",
     "Czech Republic",
     "Senegal"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Dinar is the currency of Serbia."
+   "answer": 0,
+   "explanation": "Dinar is the currency of Serbia.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0366",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "92 - Pd",
     "92 - Hs",
     "92 - Sn",
     "92 - U"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 92 - U is correctly matched."
+   "answer": 3,
+   "explanation": "Only 92 - U is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0367",
-   "q": "Lacking is a synonym of which of the following words?",
-   "o": [
+   "question": "Lacking is a synonym of which of the following words?",
+   "options": [
     "Euphoria",
     "Indict",
     "Deficient",
     "Plausible"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Lacking is a synonym of Deficient."
+   "answer": 2,
+   "explanation": "Lacking is a synonym of Deficient.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0368",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Prodigal - Thrifty",
     "Prodigal - Convict",
     "Prodigal - Barren",
     "Prodigal - Talkative"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Prodigal - Thrifty is correctly matched."
+   "answer": 0,
+   "explanation": "Only Prodigal - Thrifty is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0369",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Play second fiddle - Be ruined",
     "Play second fiddle - To ask someone to leave",
     "Play second fiddle - Become known",
     "Play second fiddle - Take a subordinate role"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Play second fiddle - Take a subordinate role is correctly matched."
+   "answer": 3,
+   "explanation": "Only Play second fiddle - Take a subordinate role is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0370",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who studies birds - Ornithologist",
     "A disease that spreads by contact - Contagious",
     "One who has an unreasonable fear of strangers - Xenophobic",
     "Government by one person with absolute power - Insolvent"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Government by one person with absolute power - Insolvent is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Government by one person with absolute power - Insolvent is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0371",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Restaurant - Apparant",
     "Restaurant - Minature",
     "Restaurant - Facinate",
     "Restaurant - Restaurent"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Restaurant - Restaurent is correctly matched."
+   "answer": 3,
+   "explanation": "Only Restaurant - Restaurent is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0372",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "PMJDY - European Organization for Nuclear Research",
     "PMJDY - Dematerialised account for shares",
     "PMJDY - Minimum Support Price",
     "PMJDY - Pradhan Mantri Jan Dhan Yojana"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only PMJDY - Pradhan Mantri Jan Dhan Yojana is correctly matched."
+   "answer": 3,
+   "explanation": "Only PMJDY - Pradhan Mantri Jan Dhan Yojana is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0373",
-   "q": "The currency Euro is used in which country?",
-   "o": [
+   "question": "The currency Euro is used in which country?",
+   "options": [
     "Albania",
     "Mauritania",
     "Malta",
     "Gambia"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Euro is the currency of Malta."
+   "answer": 2,
+   "explanation": "Euro is the currency of Malta.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0374",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "92 - U",
     "92 - Sb",
     "92 - Tm",
     "92 - Tb"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 92 - U is correctly matched."
+   "answer": 0,
+   "explanation": "Only 92 - U is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0375",
-   "q": "Calm is a synonym of which of the following words?",
-   "o": [
+   "question": "Calm is a synonym of which of the following words?",
+   "options": [
     "Tentative",
     "Prominent",
     "Conspicuous",
     "Placid"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Calm is a synonym of Placid."
+   "answer": 3,
+   "explanation": "Calm is a synonym of Placid.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0376",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Prodigal - Cruel",
     "Prodigal - Thrifty",
     "Prodigal - Confirm",
     "Prodigal - Agreement"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Prodigal - Thrifty is correctly matched."
+   "answer": 1,
+   "explanation": "Only Prodigal - Thrifty is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0377",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A thorn in one's flesh - A constant source of trouble",
     "A thorn in one's flesh - Interfere",
     "A thorn in one's flesh - To be kept waiting",
     "A thorn in one's flesh - To be in conflict"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A thorn in one's flesh - A constant source of trouble is correctly matched."
+   "answer": 0,
+   "explanation": "Only A thorn in one's flesh - A constant source of trouble is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0378",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A place where money is coined - Mint",
     "One who does not believe in God - Atheist",
     "One who does not know how to read and write - Illiterate",
     "One who studies plants - Chauffeur"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who studies plants - Chauffeur is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair One who studies plants - Chauffeur is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0379",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Restaurant - Oportunity",
     "Restaurant - Restaurent",
     "Restaurant - Aquiesce",
     "Restaurant - Fulfill"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Restaurant - Restaurent is correctly matched."
+   "answer": 1,
+   "explanation": "Only Restaurant - Restaurent is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0380",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "PMJDY - International Securities Identification Number",
     "PMJDY - Pradhan Mantri Jan Dhan Yojana",
     "PMJDY - Pradhan Mantri Fasal Bima Yojana",
     "PMJDY - International Space Station"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only PMJDY - Pradhan Mantri Jan Dhan Yojana is correctly matched."
+   "answer": 1,
+   "explanation": "Only PMJDY - Pradhan Mantri Jan Dhan Yojana is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0381",
-   "q": "The currency CFA Franc is used in which country?",
-   "o": [
+   "question": "The currency CFA Franc is used in which country?",
+   "options": [
     "Qatar",
     "Mali",
     "United Kingdom",
     "Vanuatu"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "CFA Franc is the currency of Mali."
+   "answer": 1,
+   "explanation": "CFA Franc is the currency of Mali.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0382",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "71 - Sn",
     "71 - Rn",
     "71 - Lu",
     "71 - P"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 71 - Lu is correctly matched."
+   "answer": 2,
+   "explanation": "Only 71 - Lu is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0383",
-   "q": "Impending is a synonym of which of the following words?",
-   "o": [
+   "question": "Impending is a synonym of which of the following words?",
+   "options": [
     "Enigma",
     "Imminent",
     "Penchant",
     "Timid"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Impending is a synonym of Imminent."
+   "answer": 1,
+   "explanation": "Impending is a synonym of Imminent.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0384",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Fallacy - Truth",
     "Fallacy - Counterfeit",
     "Fallacy - Necessary",
     "Fallacy - Meagre"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Fallacy - Truth is correctly matched."
+   "answer": 0,
+   "explanation": "Only Fallacy - Truth is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0385",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A thorn in one's flesh - Be the dominant person",
     "A thorn in one's flesh - To win a victory",
     "A thorn in one's flesh - An absurd and unlikely story",
     "A thorn in one's flesh - A constant source of trouble"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A thorn in one's flesh - A constant source of trouble is correctly matched."
+   "answer": 3,
+   "explanation": "Only A thorn in one's flesh - A constant source of trouble is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0386",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A conversation between two people - Dialogue",
     "A person who cuts hair - Barber",
     "One who is always hopeful - Armoury",
     "A person who is an expert in a field - Connoisseur"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who is always hopeful - Armoury is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair One who is always hopeful - Armoury is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0387",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ridiculous - Independance",
     "Ridiculous - Relevent",
     "Ridiculous - Ridiculos",
     "Ridiculous - Inteligence"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ridiculous - Ridiculos is correctly matched."
+   "answer": 2,
+   "explanation": "Only Ridiculous - Ridiculos is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0388",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "PMGSY - Pradhan Mantri Gram Sadak Yojana",
     "PMGSY - Employees' Provident Fund",
     "PMGSY - Study Webs of Active Learning for Young Aspiring Minds",
     "PMGSY - Launch Vehicle Mark 3"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only PMGSY - Pradhan Mantri Gram Sadak Yojana is correctly matched."
+   "answer": 0,
+   "explanation": "Only PMGSY - Pradhan Mantri Gram Sadak Yojana is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0389",
-   "q": "The currency Convertible Mark is used in which country?",
-   "o": [
+   "question": "The currency Convertible Mark is used in which country?",
+   "options": [
     "Togo",
     "Bosnia and Herzegovina",
     "Switzerland",
     "Lebanon"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Convertible Mark is the currency of Bosnia and Herzegovina."
+   "answer": 1,
+   "explanation": "Convertible Mark is the currency of Bosnia and Herzegovina.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0390",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "71 - No",
     "71 - Lu",
     "71 - Ds",
     "71 - Fm"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 71 - Lu is correctly matched."
+   "answer": 1,
+   "explanation": "Only 71 - Lu is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0391",
-   "q": "Relevant is a synonym of which of the following words?",
-   "o": [
+   "question": "Relevant is a synonym of which of the following words?",
+   "options": [
     "Pugnacious",
     "Spurious",
     "Fluctuate",
     "Germane"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Relevant is a synonym of Germane."
+   "answer": 3,
+   "explanation": "Relevant is a synonym of Germane.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0392",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Fallacy - Malevolent",
     "Fallacy - Convict",
     "Fallacy - Truth",
     "Fallacy - Diminish"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Fallacy - Truth is correctly matched."
+   "answer": 2,
+   "explanation": "Only Fallacy - Truth is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0393",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Left-handed compliment - An ambiguous compliment",
     "Left-handed compliment - Very rarely",
     "Left-handed compliment - Agree completely",
     "Left-handed compliment - To be in conflict"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Left-handed compliment - An ambiguous compliment is correctly matched."
+   "answer": 0,
+   "explanation": "Only Left-handed compliment - An ambiguous compliment is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0394",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Something that is no longer in use - Obsolete",
     "Government by one person with absolute power - Autocracy",
     "A person who eats only plants and no animal products - Hangar",
     "Animals that live in groups - Gregarious"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A person who eats only plants and no animal products - Hangar is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair A person who eats only plants and no animal products - Hangar is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0395",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ridiculous - Advantagous",
     "Ridiculous - Convinient",
     "Ridiculous - Exagerate",
     "Ridiculous - Ridiculos"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ridiculous - Ridiculos is correctly matched."
+   "answer": 3,
+   "explanation": "Only Ridiculous - Ridiculos is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0396",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "PMGSY - Pradhan Mantri Gram Sadak Yojana",
     "PMGSY - United Nations Development Programme",
     "PMGSY - Punjab National Bank",
     "PMGSY - Indian Financial System Code"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only PMGSY - Pradhan Mantri Gram Sadak Yojana is correctly matched."
+   "answer": 0,
+   "explanation": "Only PMGSY - Pradhan Mantri Gram Sadak Yojana is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0397",
-   "q": "The currency Guinean Franc is used in which country?",
-   "o": [
+   "question": "The currency Guinean Franc is used in which country?",
+   "options": [
     "Guinea",
     "Senegal",
     "Thailand",
     "Kenya"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Guinean Franc is the currency of Guinea."
+   "answer": 0,
+   "explanation": "Guinean Franc is the currency of Guinea.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0398",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "29 - Os",
     "29 - Np",
     "29 - Am",
     "29 - Cu"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 29 - Cu is correctly matched."
+   "answer": 3,
+   "explanation": "Only 29 - Cu is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0399",
-   "q": "Greedy is a synonym of which of the following words?",
-   "o": [
+   "question": "Greedy is a synonym of which of the following words?",
+   "options": [
     "Voracious",
     "Reticent",
     "Candid",
     "Peril"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Greedy is a synonym of Voracious."
+   "answer": 0,
+   "explanation": "Greedy is a synonym of Voracious.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0400",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Vivacious - Pessimistic",
     "Vivacious - Dull",
     "Vivacious - Birth",
     "Vivacious - Facilitate"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vivacious - Dull is correctly matched."
+   "answer": 1,
+   "explanation": "Only Vivacious - Dull is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0401",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Left-handed compliment - A decision cannot be changed",
     "Left-handed compliment - To retract one's statement",
     "Left-handed compliment - Convey a great deal",
     "Left-handed compliment - An ambiguous compliment"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Left-handed compliment - An ambiguous compliment is correctly matched."
+   "answer": 3,
+   "explanation": "Only Left-handed compliment - An ambiguous compliment is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0402",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who is more than one hundred years old - Centenarian",
     "One who studies the origin of words - Etymologist",
     "Plants that live for one season - Annuals",
     "A person who writes books - Numismatist"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A person who writes books - Numismatist is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair A person who writes books - Numismatist is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0403",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Omission - Inteligence",
     "Omission - Bureu",
     "Omission - Villian",
     "Omission - Ommision"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Omission - Ommision is correctly matched."
+   "answer": 3,
+   "explanation": "Only Omission - Ommision is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0404",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "NTA - Fiscal Responsibility and Budget Management",
     "NTA - Pradhan Mantri Jan Arogya Yojana",
     "NTA - National Eligibility Test",
     "NTA - National Testing Agency"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only NTA - National Testing Agency is correctly matched."
+   "answer": 3,
+   "explanation": "Only NTA - National Testing Agency is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0405",
-   "q": "The currency Euro is used in which country?",
-   "o": [
+   "question": "The currency Euro is used in which country?",
+   "options": [
     "North Korea",
     "Tanzania",
     "Luxembourg",
     "Qatar"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Euro is the currency of Luxembourg."
+   "answer": 2,
+   "explanation": "Euro is the currency of Luxembourg.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0406",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "29 - Cu",
     "29 - Sb",
     "29 - Md",
     "29 - Al"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 29 - Cu is correctly matched."
+   "answer": 0,
+   "explanation": "Only 29 - Cu is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0407",
-   "q": "Poverty is a synonym of which of the following words?",
-   "o": [
+   "question": "Poverty is a synonym of which of the following words?",
+   "options": [
     "Sporadic",
     "Indolent",
     "Turbulent",
     "Indigence"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Poverty is a synonym of Indigence."
+   "answer": 3,
+   "explanation": "Poverty is a synonym of Indigence.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0408",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Vivacious - Dull",
     "Vivacious - Significant",
     "Vivacious - Praise",
     "Vivacious - Facilitate"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vivacious - Dull is correctly matched."
+   "answer": 0,
+   "explanation": "Only Vivacious - Dull is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0409",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Through thick and thin - Ill feeling",
     "Through thick and thin - Unacceptable",
     "Through thick and thin - To make every possible effort",
     "Through thick and thin - In good and bad times"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Through thick and thin - In good and bad times is correctly matched."
+   "answer": 3,
+   "explanation": "Only Through thick and thin - In good and bad times is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0410",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A person who is made to bear the blame for others - Scapegoat",
     "One who is between sixty and seventy years old - Sexagenarian",
     "Government by the nobility - Aristocracy",
     "Government by officials - Octogenarian"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Government by officials - Octogenarian is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Government by officials - Octogenarian is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0411",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Omission - Achievment",
     "Omission - Litereture",
     "Omission - Concious",
     "Omission - Ommision"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Omission - Ommision is correctly matched."
+   "answer": 3,
+   "explanation": "Only Omission - Ommision is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0412",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "NTA - Jan Dhan, Aadhaar and Mobile",
     "NTA - Regional Rural Bank",
     "NTA - National Testing Agency",
     "NTA - Geosynchronous Satellite Launch Vehicle"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only NTA - National Testing Agency is correctly matched."
+   "answer": 2,
+   "explanation": "Only NTA - National Testing Agency is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0413",
-   "q": "The currency Rupiah is used in which country?",
-   "o": [
+   "question": "The currency Rupiah is used in which country?",
+   "options": [
     "Tonga",
     "Ireland",
     "Indonesia",
     "Iran"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Rupiah is the currency of Indonesia."
+   "answer": 2,
+   "explanation": "Rupiah is the currency of Indonesia.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0414",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "4 - Be",
     "4 - Ir",
     "4 - In",
     "4 - Ge"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 4 - Be is correctly matched."
+   "answer": 0,
+   "explanation": "Only 4 - Be is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0415",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Complacent - Profitable",
     "Complacent - Self-satisfied",
     "Complacent - Agree",
     "Complacent - Secret"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Complacent - Self-satisfied is correctly matched."
+   "answer": 1,
+   "explanation": "Only Complacent - Self-satisfied is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0416",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Negligible - Essential",
     "Negligible - Genuine",
     "Negligible - Taciturn",
     "Negligible - Significant"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Negligible - Significant is correctly matched."
+   "answer": 3,
+   "explanation": "Only Negligible - Significant is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0417",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Through thick and thin - In good and bad times",
     "Through thick and thin - Relatives",
     "Through thick and thin - Apologise humbly",
     "Through thick and thin - To shift responsibility"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Through thick and thin - In good and bad times is correctly matched."
+   "answer": 0,
+   "explanation": "Only Through thick and thin - In good and bad times is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0418",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Words written on a tomb - Epitaph",
     "The murder of one's father - Omniscient",
     "The murder of a human being - Homicide",
     "One who speaks many languages - Polyglot"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair The murder of one's father - Omniscient is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair The murder of one's father - Omniscient is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0419",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Proceed - Procede",
     "Proceed - Personel",
     "Proceed - Recieve",
     "Proceed - Changable"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Proceed - Procede is correctly matched."
+   "answer": 0,
+   "explanation": "Only Proceed - Procede is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0420",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "ED - Launch Vehicle Mark 3",
     "ED - Enforcement Directorate",
     "ED - Medecins Sans Frontieres",
     "ED - Comptroller and Auditor General"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only ED - Enforcement Directorate is correctly matched."
+   "answer": 1,
+   "explanation": "Only ED - Enforcement Directorate is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0421",
-   "q": "The currency US Dollar is used in which country?",
-   "o": [
+   "question": "The currency US Dollar is used in which country?",
+   "options": [
     "Peru",
     "Australia",
     "Slovakia",
     "Ecuador"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "US Dollar is the currency of Ecuador."
+   "answer": 3,
+   "explanation": "US Dollar is the currency of Ecuador.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0422",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "4 - Fr",
     "4 - Ge",
     "4 - Be",
     "4 - Na"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 4 - Be is correctly matched."
+   "answer": 2,
+   "explanation": "Only 4 - Be is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0423",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Complacent - Patience",
     "Complacent - Inactive",
     "Complacent - Deadlock",
     "Complacent - Self-satisfied"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Complacent - Self-satisfied is correctly matched."
+   "answer": 3,
+   "explanation": "Only Complacent - Self-satisfied is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0424",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Negligible - Significant",
     "Negligible - Confidence",
     "Negligible - Apathetic",
     "Negligible - Scarce"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Negligible - Significant is correctly matched."
+   "answer": 0,
+   "explanation": "Only Negligible - Significant is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0425",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "To cry over spilt milk - Facing the same difficulty",
     "To cry over spilt milk - Under suspicion",
     "To cry over spilt milk - A constant source of trouble",
     "To cry over spilt milk - To lament what cannot be undone"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only To cry over spilt milk - To lament what cannot be undone is correctly matched."
+   "answer": 3,
+   "explanation": "Only To cry over spilt milk - To lament what cannot be undone is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0426",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A substance that destroys germs - Disinfectant",
     "Plants that live for many years - Perennials",
     "One who is between sixty and seventy years old - Linguist",
     "One who loves collecting stamps - Philatelist"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who is between sixty and seventy years old - Linguist is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair One who is between sixty and seventy years old - Linguist is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0427",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Proceed - Collegue",
     "Proceed - Beutiful",
     "Proceed - Tounge",
     "Proceed - Procede"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Proceed - Procede is correctly matched."
+   "answer": 3,
+   "explanation": "Only Proceed - Procede is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0428",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "ED - Minimum Support Price",
     "ED - Liquid Crystal Display",
     "ED - Enforcement Directorate",
     "ED - Indian Premier League"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only ED - Enforcement Directorate is correctly matched."
+   "answer": 2,
+   "explanation": "Only ED - Enforcement Directorate is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0429",
-   "q": "The currency Pakistani Rupee is used in which country?",
-   "o": [
+   "question": "The currency Pakistani Rupee is used in which country?",
+   "options": [
     "Estonia",
     "Costa Rica",
     "Pakistan",
     "Czech Republic"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Pakistani Rupee is the currency of Pakistan."
+   "answer": 2,
+   "explanation": "Pakistani Rupee is the currency of Pakistan.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0430",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "37 - Cr",
     "37 - Rb",
     "37 - C",
     "37 - Cu"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 37 - Rb is correctly matched."
+   "answer": 1,
+   "explanation": "Only 37 - Rb is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0431",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Uncanny - Learned",
     "Uncanny - Prominent",
     "Uncanny - Sufficient",
     "Uncanny - Strange"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Uncanny - Strange is correctly matched."
+   "answer": 3,
+   "explanation": "Only Uncanny - Strange is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0432",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Volatile - Agreement",
     "Volatile - Blame",
     "Volatile - Solution",
     "Volatile - Stable"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Volatile - Stable is correctly matched."
+   "answer": 3,
+   "explanation": "Only Volatile - Stable is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0433",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "To cry over spilt milk - To lament what cannot be undone",
     "To cry over spilt milk - In close partnership",
     "To cry over spilt milk - Apologise humbly",
     "To cry over spilt milk - Lose self-control"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only To cry over spilt milk - To lament what cannot be undone is correctly matched."
+   "answer": 0,
+   "explanation": "Only To cry over spilt milk - To lament what cannot be undone is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0434",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A person who works with iron - Agnostic",
     "Government by a king or queen - Monarchy",
     "A person whose life story is written by another - Biographer",
     "A person who walks in his sleep - Somnambulist"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A person who works with iron - Agnostic is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair A person who works with iron - Agnostic is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0435",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Medieval - Medival",
     "Medieval - Dependant",
     "Medieval - Carrage",
     "Medieval - Religous"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Medieval - Medival is correctly matched."
+   "answer": 0,
+   "explanation": "Only Medieval - Medival is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0436",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "PMFBY - Jan Dhan, Aadhaar and Mobile",
     "PMFBY - Brazil, Russia, India, China and South Africa",
     "PMFBY - Pradhan Mantri Fasal Bima Yojana",
     "PMFBY - International Telecommunication Union"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only PMFBY - Pradhan Mantri Fasal Bima Yojana is correctly matched."
+   "answer": 2,
+   "explanation": "Only PMFBY - Pradhan Mantri Fasal Bima Yojana is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0437",
-   "q": "The currency Mexican Peso is used in which country?",
-   "o": [
+   "question": "The currency Mexican Peso is used in which country?",
+   "options": [
     "Vanuatu",
     "Mexico",
     "Ukraine",
     "Mongolia"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Mexican Peso is the currency of Mexico."
+   "answer": 1,
+   "explanation": "Mexican Peso is the currency of Mexico.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0438",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "37 - Rb",
     "37 - Au",
     "37 - H",
     "37 - Fe"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 37 - Rb is correctly matched."
+   "answer": 0,
+   "explanation": "Only 37 - Rb is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0439",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Uncanny - Generous",
     "Uncanny - Everlasting",
     "Uncanny - Strange",
     "Uncanny - Filthy"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Uncanny - Strange is correctly matched."
+   "answer": 2,
+   "explanation": "Only Uncanny - Strange is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0440",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Volatile - Stable",
     "Volatile - Counterfeit",
     "Volatile - Unruly",
     "Volatile - Scanty"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Volatile - Stable is correctly matched."
+   "answer": 0,
+   "explanation": "Only Volatile - Stable is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0441",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "To move heaven and earth - Much excitement over a trivial matter",
     "To move heaven and earth - To make every possible effort",
     "To move heaven and earth - Generally",
     "To move heaven and earth - Extremely happy"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only To move heaven and earth - To make every possible effort is correctly matched."
+   "answer": 1,
+   "explanation": "Only To move heaven and earth - To make every possible effort is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0442",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Something that cannot be eaten - Inedible",
     "One who cannot be heard - Inaudible",
     "Words with the same meaning - Drunkard",
     "A place where ships are repaired - Dockyard"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Words with the same meaning - Drunkard is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Words with the same meaning - Drunkard is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0443",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Medieval - Medival",
     "Medieval - Enviroment",
     "Medieval - Knowlege",
     "Medieval - Managment"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Medieval - Medival is correctly matched."
+   "answer": 0,
+   "explanation": "Only Medieval - Medival is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0444",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "PMFBY - Pradhan Mantri Fasal Bima Yojana",
     "PMFBY - International Committee of the Red Cross",
     "PMFBY - Immediate Payment Service",
     "PMFBY - Digital Infrastructure for Knowledge Sharing"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only PMFBY - Pradhan Mantri Fasal Bima Yojana is correctly matched."
+   "answer": 0,
+   "explanation": "Only PMFBY - Pradhan Mantri Fasal Bima Yojana is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0445",
-   "q": "The currency Rand is used in which country?",
-   "o": [
+   "question": "The currency Rand is used in which country?",
+   "options": [
     "Hungary",
     "Egypt",
     "South Africa",
     "Ghana"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Rand is the currency of South Africa."
+   "answer": 2,
+   "explanation": "Rand is the currency of South Africa.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0446",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "115 - Mc",
     "115 - Lr",
     "115 - Al",
     "115 - Pa"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 115 - Mc is correctly matched."
+   "answer": 0,
+   "explanation": "Only 115 - Mc is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0447",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Lament - Mourn",
     "Lament - Severe",
     "Lament - Thin",
     "Lament - Dreadful"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Lament - Mourn is correctly matched."
+   "answer": 0,
+   "explanation": "Only Lament - Mourn is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0448",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Genuine - Counterfeit",
     "Genuine - Cowardly",
     "Genuine - Secure",
     "Genuine - Diminish"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Genuine - Counterfeit is correctly matched."
+   "answer": 0,
+   "explanation": "Only Genuine - Counterfeit is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0449",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "To move heaven and earth - Much excitement over a trivial matter",
     "To move heaven and earth - To make every possible effort",
     "To move heaven and earth - Refuse to change one's stand",
     "To move heaven and earth - Ill feeling"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only To move heaven and earth - To make every possible effort is correctly matched."
+   "answer": 1,
+   "explanation": "Only To move heaven and earth - To make every possible effort is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0450",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A life story written by oneself - Autobiography",
     "One who speaks very little - Taciturn",
     "One who loves books - Florist",
     "One who never makes a mistake - Infallible"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who loves books - Florist is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair One who loves books - Florist is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0451",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Courtesy - Arguement",
     "Courtesy - Beleive",
     "Courtesy - Curtesy",
     "Courtesy - Agressive"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Courtesy - Curtesy is correctly matched."
+   "answer": 2,
+   "explanation": "Only Courtesy - Curtesy is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0452",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "CTET - International Atomic Energy Agency",
     "CTET - Central Teacher Eligibility Test",
     "CTET - Telecom Regulatory Authority of India",
     "CTET - International Telecommunication Union"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only CTET - Central Teacher Eligibility Test is correctly matched."
+   "answer": 1,
+   "explanation": "Only CTET - Central Teacher Eligibility Test is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0453",
-   "q": "The currency Cuban Peso is used in which country?",
-   "o": [
+   "question": "The currency Cuban Peso is used in which country?",
+   "options": [
     "Chad",
     "Cuba",
     "Burkina Faso",
     "Seychelles"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Cuban Peso is the currency of Cuba."
+   "answer": 1,
+   "explanation": "Cuban Peso is the currency of Cuba.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0454",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "115 - Hf",
     "115 - Ce",
     "115 - Mc",
     "115 - He"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 115 - Mc is correctly matched."
+   "answer": 2,
+   "explanation": "Only 115 - Mc is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0455",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Lament - Mourn",
     "Lament - Praise",
     "Lament - Friendly",
     "Lament - Skilled"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Lament - Mourn is correctly matched."
+   "answer": 0,
+   "explanation": "Only Lament - Mourn is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0456",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Genuine - Counterfeit",
     "Genuine - Secure",
     "Genuine - Clear",
     "Genuine - Blame"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Genuine - Counterfeit is correctly matched."
+   "answer": 0,
+   "explanation": "Only Genuine - Counterfeit is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0457",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Straw in the wind - A hint of future events",
     "Hand in glove - In close partnership",
     "Tall talk - Exaggerated speech",
     "To bell the cat - A constant source of trouble"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair To bell the cat - A constant source of trouble is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair To bell the cat - A constant source of trouble is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0458",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who studies the weather - Omnipotent",
     "One who studies plants - Botanist",
     "A person who writes books - Author",
     "One who does not care about food or comfort - Ascetic"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who studies the weather - Omnipotent is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair One who studies the weather - Omnipotent is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0459",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Courtesy - Dilemna",
     "Courtesy - Indispensible",
     "Courtesy - Curtesy",
     "Courtesy - Amatuer"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Courtesy - Curtesy is correctly matched."
+   "answer": 2,
+   "explanation": "Only Courtesy - Curtesy is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0460",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "CTET - National Stock Exchange",
     "CTET - Reserve Bank of India",
     "CTET - Polar Satellite Launch Vehicle",
     "CTET - Central Teacher Eligibility Test"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only CTET - Central Teacher Eligibility Test is correctly matched."
+   "answer": 3,
+   "explanation": "Only CTET - Central Teacher Eligibility Test is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0461",
-   "q": "The currency Indian Rupee is used in which country?",
-   "o": [
+   "question": "The currency Indian Rupee is used in which country?",
+   "options": [
     "India",
     "Mauritania",
     "Switzerland",
     "Cameroon"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Indian Rupee is the currency of India."
+   "answer": 0,
+   "explanation": "Indian Rupee is the currency of India.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0462",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "99 - Th",
     "99 - Es",
     "99 - Pd",
     "99 - H"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 99 - Es is correctly matched."
+   "answer": 1,
+   "explanation": "Only 99 - Es is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0463",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Impoverish - Optimistic",
     "Impoverish - Make poor",
     "Impoverish - Wealthy",
     "Impoverish - Risky"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Impoverish - Make poor is correctly matched."
+   "answer": 1,
+   "explanation": "Only Impoverish - Make poor is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0464",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Impartial - Foolish",
     "Impartial - Clear",
     "Impartial - Biased",
     "Impartial - Scanty"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Impartial - Biased is correctly matched."
+   "answer": 2,
+   "explanation": "Only Impartial - Biased is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0465",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Head over heels - A miser",
     "To have a finger in every pie - To be involved in everything",
     "French leave - Absence without permission",
     "In cold blood - Deliberately and without emotion"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Head over heels - A miser is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Head over heels - A miser is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0466",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A medicine that kills bacteria - Antibiotic",
     "One who is not sure about God's existence - Agnostic",
     "A person who does not take any alcoholic drink - Teetotaller",
     "One who cannot be heard - Invincible"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who cannot be heard - Invincible is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair One who cannot be heard - Invincible is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0467",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Particularly - Relevent",
     "Particularly - Particulary",
     "Particularly - Existense",
     "Particularly - Sufficent"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Particularly - Particulary is correctly matched."
+   "answer": 1,
+   "explanation": "Only Particularly - Particulary is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0468",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "LVM3 - Central Teacher Eligibility Test",
     "LVM3 - Launch Vehicle Mark 3",
     "LVM3 - United Nations Environment Programme",
     "LVM3 - Human Immunodeficiency Virus"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only LVM3 - Launch Vehicle Mark 3 is correctly matched."
+   "answer": 1,
+   "explanation": "Only LVM3 - Launch Vehicle Mark 3 is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0469",
-   "q": "The currency Brunei Dollar is used in which country?",
-   "o": [
+   "question": "The currency Brunei Dollar is used in which country?",
+   "options": [
     "Luxembourg",
     "Brunei",
     "Peru",
     "Denmark"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Brunei Dollar is the currency of Brunei."
+   "answer": 1,
+   "explanation": "Brunei Dollar is the currency of Brunei.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0470",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "99 - Es",
     "99 - Ho",
     "99 - Sm",
     "99 - H"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 99 - Es is correctly matched."
+   "answer": 0,
+   "explanation": "Only 99 - Es is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0471",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Impoverish - Stop",
     "Impoverish - Make poor",
     "Impoverish - Decrease",
     "Impoverish - Similarity"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Impoverish - Make poor is correctly matched."
+   "answer": 1,
+   "explanation": "Only Impoverish - Make poor is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0472",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Impartial - Confirm",
     "Impartial - Concealed",
     "Impartial - Biased",
     "Impartial - Significant"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Impartial - Biased is correctly matched."
+   "answer": 2,
+   "explanation": "Only Impartial - Biased is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0473",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "To wash one's dirty linen in public - A very short distance",
     "Baker's dozen - Thirteen",
     "To have a finger in every pie - To be involved in everything",
     "Laugh in one's sleeve - Laugh secretly"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair To wash one's dirty linen in public - A very short distance is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair To wash one's dirty linen in public - A very short distance is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0474",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Plants that live for one season - Annuals",
     "A person who is made to bear the blame for others - Scapegoat",
     "A disease that spreads by contact - Demographer",
     "A place where ships are repaired - Dockyard"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A disease that spreads by contact - Demographer is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair A disease that spreads by contact - Demographer is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0475",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Particularly - Sieze",
     "Particularly - Anonimous",
     "Particularly - Particulary",
     "Particularly - Tounge"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Particularly - Particulary is correctly matched."
+   "answer": 2,
+   "explanation": "Only Particularly - Particulary is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0476",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "LVM3 - Launch Vehicle Mark 3",
     "LVM3 - Krishi Vigyan Kendra",
     "LVM3 - Central Bureau of Investigation",
     "LVM3 - World Wide Fund for Nature"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only LVM3 - Launch Vehicle Mark 3 is correctly matched."
+   "answer": 0,
+   "explanation": "Only LVM3 - Launch Vehicle Mark 3 is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0477",
-   "q": "The currency Congolese Franc is used in which country?",
-   "o": [
+   "question": "The currency Congolese Franc is used in which country?",
+   "options": [
     "San Marino",
     "El Salvador",
     "Papua New Guinea",
     "Democratic Republic of the Congo"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Congolese Franc is the currency of Democratic Republic of the Congo."
+   "answer": 3,
+   "explanation": "Congolese Franc is the currency of Democratic Republic of the Congo.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0478",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "41 - Cl",
     "41 - Tc",
     "41 - Nb",
     "41 - Zr"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 41 - Nb is correctly matched."
+   "answer": 2,
+   "explanation": "Only 41 - Nb is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0479",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Disparage - Thin",
     "Disparage - Shy",
     "Disparage - Belittle",
     "Disparage - Peaceful"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Disparage - Belittle is correctly matched."
+   "answer": 2,
+   "explanation": "Only Disparage - Belittle is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0480",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Haughty - Unruly",
     "Haughty - Humble",
     "Haughty - Friendship",
     "Haughty - Secondary"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Haughty - Humble is correctly matched."
+   "answer": 1,
+   "explanation": "Only Haughty - Humble is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0481",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Rule the roost - Be the dominant person",
     "Head over heels - Completely",
     "Close shave - To discuss private matters openly",
     "Flesh and blood - Human nature"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Close shave - To discuss private matters openly is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Close shave - To discuss private matters openly is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0482",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A person who abstains from eating meat - Vegetarian",
     "The murder of one's father - Patricide",
     "A person who sells flowers - Florist",
     "A life story written by another person - Anarchy"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A life story written by another person - Anarchy is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair A life story written by another person - Anarchy is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0483",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Adolescent - Dissapoint",
     "Adolescent - Compitent",
     "Adolescent - Curtesy",
     "Adolescent - Adolescant"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Adolescent - Adolescant is correctly matched."
+   "answer": 3,
+   "explanation": "Only Adolescent - Adolescant is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0484",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "PDS - Public Distribution System",
     "PDS - Food Safety and Standards Authority of India",
     "PDS - International Telecommunication Union",
     "PDS - World Meteorological Organization"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only PDS - Public Distribution System is correctly matched."
+   "answer": 0,
+   "explanation": "Only PDS - Public Distribution System is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0485",
-   "q": "The currency Sri Lankan Rupee is used in which country?",
-   "o": [
+   "question": "The currency Sri Lankan Rupee is used in which country?",
+   "options": [
     "France",
     "Sri Lanka",
     "United Kingdom",
     "Oman"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Sri Lankan Rupee is the currency of Sri Lanka."
+   "answer": 1,
+   "explanation": "Sri Lankan Rupee is the currency of Sri Lanka.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0486",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "41 - Ca",
     "41 - Nb",
     "41 - Mo",
     "41 - Pd"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 41 - Nb is correctly matched."
+   "answer": 1,
+   "explanation": "Only 41 - Nb is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0487",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Disparage - Praise",
     "Disparage - Irritable",
     "Disparage - Belittle",
     "Disparage - Harmless"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Disparage - Belittle is correctly matched."
+   "answer": 2,
+   "explanation": "Only Disparage - Belittle is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0488",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Haughty - Clean",
     "Haughty - Humble",
     "Haughty - Bold",
     "Haughty - Mild"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Haughty - Humble is correctly matched."
+   "answer": 1,
+   "explanation": "Only Haughty - Humble is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0489",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Let the cat out of the bag - Reveal a secret",
     "To be at loggerheads - To be in conflict",
     "Feather one's nest - Make money selfishly",
     "By and large - Unable to speak plainly"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair By and large - Unable to speak plainly is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair By and large - Unable to speak plainly is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0490",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who is always hopeful - Optimist",
     "A place where books are kept - Library",
     "A person who is new to a profession - Edible",
     "One who does not know how to read and write - Illiterate"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A person who is new to a profession - Edible is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair A person who is new to a profession - Edible is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0491",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Adolescent - Perseverence",
     "Adolescent - Bureu",
     "Adolescent - Adolescant",
     "Adolescent - Seperate"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Adolescent - Adolescant is correctly matched."
+   "answer": 2,
+   "explanation": "Only Adolescent - Adolescant is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0492",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "PDS - Insolvency and Bankruptcy Code",
     "PDS - National Payments Corporation of India",
     "PDS - Public Distribution System",
     "PDS - Wholesale Price Index"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only PDS - Public Distribution System is correctly matched."
+   "answer": 2,
+   "explanation": "Only PDS - Public Distribution System is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0493",
-   "q": "The currency Som is used in which country?",
-   "o": [
+   "question": "The currency Som is used in which country?",
+   "options": [
     "Solomon Islands",
     "Oman",
     "Uzbekistan",
     "Monaco"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Som is the currency of Uzbekistan."
+   "answer": 2,
+   "explanation": "Som is the currency of Uzbekistan.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0494",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "83 - Nd",
     "83 - O",
     "83 - Bi",
     "83 - Ra"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 83 - Bi is correctly matched."
+   "answer": 2,
+   "explanation": "Only 83 - Bi is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0495",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Assiduous - Diligent",
     "Assiduous - Infamous",
     "Assiduous - Strict",
     "Assiduous - Courage"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Assiduous - Diligent is correctly matched."
+   "answer": 0,
+   "explanation": "Only Assiduous - Diligent is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0496",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Fluctuate - Respected",
     "Fluctuate - Soothe",
     "Fluctuate - Stabilise",
     "Fluctuate - Industrious"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Fluctuate - Stabilise is correctly matched."
+   "answer": 2,
+   "explanation": "Only Fluctuate - Stabilise is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0497",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Cat's paw - A person used by another",
     "A man of straw - Under suspicion",
     "A wolf in sheep's clothing - A dangerous person pretending to be harmless",
     "Bed of roses - A comfortable situation"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A man of straw - Under suspicion is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair A man of straw - Under suspicion is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0498",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who is between eighty and ninety years old - Bureaucracy",
     "Government by the wealthy - Plutocracy",
     "Something that is very obvious - Manifest",
     "A place where birds are kept - Aviary"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who is between eighty and ninety years old - Bureaucracy is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair One who is between eighty and ninety years old - Bureaucracy is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0499",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Hygiene - Hygeine",
     "Hygiene - Referance",
     "Hygiene - Rememberance",
     "Hygiene - Superintendant"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Hygiene - Hygeine is correctly matched."
+   "answer": 0,
+   "explanation": "Only Hygiene - Hygeine is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0500",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "OPEC - National Pension System",
     "OPEC - Central Vigilance Commission",
     "OPEC - Organization of the Petroleum Exporting Countries",
     "OPEC - Pradhan Mantri Kisan Samman Nidhi"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only OPEC - Organization of the Petroleum Exporting Countries is correctly matched."
+   "answer": 2,
+   "explanation": "Only OPEC - Organization of the Petroleum Exporting Countries is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0501",
-   "q": "The currency South Sudanese Pound is used in which country?",
-   "o": [
+   "question": "The currency South Sudanese Pound is used in which country?",
+   "options": [
     "South Sudan",
     "Monaco",
     "Saudi Arabia",
     "Lithuania"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "South Sudanese Pound is the currency of South Sudan."
+   "answer": 0,
+   "explanation": "South Sudanese Pound is the currency of South Sudan.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0502",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "83 - Br",
     "83 - Pd",
     "83 - Bi",
     "83 - Si"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 83 - Bi is correctly matched."
+   "answer": 2,
+   "explanation": "Only 83 - Bi is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0503",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Assiduous - Diligent",
     "Assiduous - Calm",
     "Assiduous - Widespread",
     "Assiduous - Temporary"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Assiduous - Diligent is correctly matched."
+   "answer": 0,
+   "explanation": "Only Assiduous - Diligent is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0504",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Fluctuate - Unruly",
     "Fluctuate - Lax",
     "Fluctuate - Stabilise",
     "Fluctuate - Begin"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Fluctuate - Stabilise is correctly matched."
+   "answer": 2,
+   "explanation": "Only Fluctuate - Stabilise is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0505",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Go to the dogs - Be ruined",
     "Carry coals to Newcastle - Do a pointless thing",
     "Move heaven and earth - Make every effort",
     "Poke one's nose - Lose self-control"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Poke one's nose - Lose self-control is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Poke one's nose - Lose self-control is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0506",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A medicine that counteracts a poison - Antidote",
     "The practice of having many husbands - Mortuary",
     "A person who takes care of books in a library - Librarian",
     "One who never makes a mistake - Infallible"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair The practice of having many husbands - Mortuary is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair The practice of having many husbands - Mortuary is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0507",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Hygiene - Freind",
     "Hygiene - Hygeine",
     "Hygiene - Unforseen",
     "Hygiene - Sieze"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Hygiene - Hygeine is correctly matched."
+   "answer": 1,
+   "explanation": "Only Hygiene - Hygeine is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0508",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "OPEC - Consumer Price Index",
     "OPEC - Tuberculosis",
     "OPEC - International Space Station",
     "OPEC - Organization of the Petroleum Exporting Countries"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only OPEC - Organization of the Petroleum Exporting Countries is correctly matched."
+   "answer": 3,
+   "explanation": "Only OPEC - Organization of the Petroleum Exporting Countries is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0509",
-   "q": "The currency Bahamian Dollar is used in which country?",
-   "o": [
+   "question": "The currency Bahamian Dollar is used in which country?",
+   "options": [
     "Togo",
     "Bahamas",
     "Rwanda",
     "Tonga"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Bahamian Dollar is the currency of Bahamas."
+   "answer": 1,
+   "explanation": "Bahamian Dollar is the currency of Bahamas.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0510",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "5 - Mo",
     "5 - V",
     "5 - Cd",
     "5 - B"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 5 - B is correctly matched."
+   "answer": 3,
+   "explanation": "Only 5 - B is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0511",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Flagrant - Unharmed",
     "Flagrant - Stop",
     "Flagrant - Glaring",
     "Flagrant - Compassion"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Flagrant - Glaring is correctly matched."
+   "answer": 2,
+   "explanation": "Only Flagrant - Glaring is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0512",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Detrimental - Rare",
     "Detrimental - Even-tempered",
     "Detrimental - Diminish",
     "Detrimental - Beneficial"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Detrimental - Beneficial is correctly matched."
+   "answer": 3,
+   "explanation": "Only Detrimental - Beneficial is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0513",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A dark horse - An unexpected winner",
     "Catch red-handed - Catch in the act of doing wrong",
     "A hard nut to crack - To ask someone to leave",
     "Show the white flag - Surrender"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A hard nut to crack - To ask someone to leave is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair A hard nut to crack - To ask someone to leave is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0514",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A place where fishes are kept - Antibiotic",
     "Animals that eat only plants - Herbivores",
     "A place where bees are kept - Apiary",
     "An imaginary place where everything is bad - Dystopia"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A place where fishes are kept - Antibiotic is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair A place where fishes are kept - Antibiotic is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0515",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Disappoint - Hygeine",
     "Disappoint - Calender",
     "Disappoint - Dissapoint",
     "Disappoint - Consience"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Disappoint - Dissapoint is correctly matched."
+   "answer": 2,
+   "explanation": "Only Disappoint - Dissapoint is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0516",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "IUCN - Central Industrial Security Force",
     "IUCN - Bureau of Indian Standards",
     "IUCN - International Union for Conservation of Nature",
     "IUCN - Indian Council of Medical Research"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only IUCN - International Union for Conservation of Nature is correctly matched."
+   "answer": 2,
+   "explanation": "Only IUCN - International Union for Conservation of Nature is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0517",
-   "q": "The currency Euro is used in which country?",
-   "o": [
+   "question": "The currency Euro is used in which country?",
+   "options": [
     "Benin",
     "Lesotho",
     "Greece",
     "Estonia"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Euro is the currency of Estonia."
+   "answer": 3,
+   "explanation": "Euro is the currency of Estonia.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0518",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "5 - Nh",
     "5 - Tm",
     "5 - Ba",
     "5 - B"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 5 - B is correctly matched."
+   "answer": 3,
+   "explanation": "Only 5 - B is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0519",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Flagrant - Prominent",
     "Flagrant - Glaring",
     "Flagrant - Joy",
     "Flagrant - Infamous"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Flagrant - Glaring is correctly matched."
+   "answer": 1,
+   "explanation": "Only Flagrant - Glaring is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0520",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Detrimental - Significant",
     "Detrimental - Certain",
     "Detrimental - Inarticulate",
     "Detrimental - Beneficial"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Detrimental - Beneficial is correctly matched."
+   "answer": 3,
+   "explanation": "Only Detrimental - Beneficial is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0521",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "To go back on one's word - Destroy at an early stage",
     "Look before you leap - Think before acting",
     "Pull the wool over one's eyes - Deceive",
     "Off and on - Occasionally"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair To go back on one's word - Destroy at an early stage is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair To go back on one's word - Destroy at an early stage is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0522",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A place where weapons are stored - Geologist",
     "One who eats too much - Glutton",
     "A life story written by another person - Biography",
     "A person who is made to bear the blame for others - Scapegoat"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A place where weapons are stored - Geologist is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair A place where weapons are stored - Geologist is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0523",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Disappoint - Occurence",
     "Disappoint - Referance",
     "Disappoint - Dissapoint",
     "Disappoint - Catagory"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Disappoint - Dissapoint is correctly matched."
+   "answer": 2,
+   "explanation": "Only Disappoint - Dissapoint is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0524",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "IUCN - Employees' State Insurance",
     "IUCN - Indian Space Research Organisation",
     "IUCN - Central Board of Indirect Taxes and Customs",
     "IUCN - International Union for Conservation of Nature"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only IUCN - International Union for Conservation of Nature is correctly matched."
+   "answer": 3,
+   "explanation": "Only IUCN - International Union for Conservation of Nature is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0525",
-   "q": "The currency Renminbi is used in which country?",
-   "o": [
+   "question": "The currency Renminbi is used in which country?",
+   "options": [
     "Netherlands",
     "San Marino",
     "Greece",
     "China"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Renminbi is the currency of China."
+   "answer": 3,
+   "explanation": "Renminbi is the currency of China.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0526",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "26 - Fe",
     "26 - Cr",
     "26 - Nd",
     "26 - Ne"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 26 - Fe is correctly matched."
+   "answer": 0,
+   "explanation": "Only 26 - Fe is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0527",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Unscathed - Generous",
     "Unscathed - Unharmed",
     "Unscathed - Unnecessary",
     "Unscathed - Clear"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Unscathed - Unharmed is correctly matched."
+   "answer": 1,
+   "explanation": "Only Unscathed - Unharmed is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0528",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Incessant - Scarce",
     "Incessant - Petty",
     "Incessant - Intermittent",
     "Incessant - Plentiful"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Incessant - Intermittent is correctly matched."
+   "answer": 2,
+   "explanation": "Only Incessant - Intermittent is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0529",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A cock and bull story - An unexpected winner",
     "Green horn - An inexperienced person",
     "A close-fisted person - A miser",
     "Set the Thames on fire - Do something remarkable"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A cock and bull story - An unexpected winner is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair A cock and bull story - An unexpected winner is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0530",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who does not care about food or comfort - Monarchy",
     "One who is between eighty and ninety years old - Octogenarian",
     "A long speech by one person in a group - Monologue",
     "A place where coins and stamps are made - Mint"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who does not care about food or comfort - Monarchy is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair One who does not care about food or comfort - Monarchy is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0531",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Preference - Goverment",
     "Preference - Preferance",
     "Preference - Superintendant",
     "Preference - Foriegn"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Preference - Preferance is correctly matched."
+   "answer": 1,
+   "explanation": "Only Preference - Preferance is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0532",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "NATO - Oral Rehydration Solution",
     "NATO - United Nations Educational, Scientific and Cultural Organization",
     "NATO - North Atlantic Treaty Organization",
     "NATO - Indian Military Academy"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only NATO - North Atlantic Treaty Organization is correctly matched."
+   "answer": 2,
+   "explanation": "Only NATO - North Atlantic Treaty Organization is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0533",
-   "q": "The currency Swiss Franc is used in which country?",
-   "o": [
+   "question": "The currency Swiss Franc is used in which country?",
+   "options": [
     "Costa Rica",
     "Switzerland",
     "Bahamas",
     "Sudan"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Swiss Franc is the currency of Switzerland."
+   "answer": 1,
+   "explanation": "Swiss Franc is the currency of Switzerland.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0534",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "26 - Fe",
     "26 - Y",
     "26 - Ce",
     "26 - Xe"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 26 - Fe is correctly matched."
+   "answer": 0,
+   "explanation": "Only 26 - Fe is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0535",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Unscathed - Strict",
     "Unscathed - Worsen",
     "Unscathed - Unharmed",
     "Unscathed - Travelling"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Unscathed - Unharmed is correctly matched."
+   "answer": 2,
+   "explanation": "Only Unscathed - Unharmed is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0536",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Incessant - Intermittent",
     "Incessant - Timid",
     "Incessant - Rare",
     "Incessant - Ignorant"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Incessant - Intermittent is correctly matched."
+   "answer": 0,
+   "explanation": "Only Incessant - Intermittent is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0537",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Tall talk - Suspect something wrong",
     "Pull the wool over one's eyes - Deceive",
     "Die in harness - Die while working",
     "Catch red-handed - Catch in the act of doing wrong"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Tall talk - Suspect something wrong is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Tall talk - Suspect something wrong is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0538",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Government by a king or queen - Monarchy",
     "The killing of a whole race of people - Zoologist",
     "One who studies birds - Ornithologist",
     "Words with the same meaning - Synonyms"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair The killing of a whole race of people - Zoologist is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair The killing of a whole race of people - Zoologist is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0539",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Preference - Withold",
     "Preference - Preferance",
     "Preference - Gaurantee",
     "Preference - Secratary"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Preference - Preferance is correctly matched."
+   "answer": 1,
+   "explanation": "Only Preference - Preferance is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0540",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "NATO - Deoxyribonucleic Acid",
     "NATO - North Atlantic Treaty Organization",
     "NATO - Micro, Small and Medium Enterprises",
     "NATO - Consumer Price Index"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only NATO - North Atlantic Treaty Organization is correctly matched."
+   "answer": 1,
+   "explanation": "Only NATO - North Atlantic Treaty Organization is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0541",
-   "q": "The currency Lilangeni is used in which country?",
-   "o": [
+   "question": "The currency Lilangeni is used in which country?",
+   "options": [
     "Gambia",
     "Russia",
     "Nepal",
     "Eswatini"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Lilangeni is the currency of Eswatini."
+   "answer": 3,
+   "explanation": "Lilangeni is the currency of Eswatini.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0542",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "109 - Be",
     "109 - Hs",
     "109 - Cu",
     "109 - Mt"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 109 - Mt is correctly matched."
+   "answer": 3,
+   "explanation": "Only 109 - Mt is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0543",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Formidable - Wealthy",
     "Formidable - Provisional",
     "Formidable - Daunting",
     "Formidable - Embodiment"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Formidable - Daunting is correctly matched."
+   "answer": 2,
+   "explanation": "Only Formidable - Daunting is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0544",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Torpid - Easy",
     "Torpid - Reveal",
     "Torpid - Humble",
     "Torpid - Active"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Torpid - Active is correctly matched."
+   "answer": 3,
+   "explanation": "Only Torpid - Active is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0545",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Every inch - Be dismissed from a job",
     "Through thick and thin - In good and bad times",
     "Smell a rat - Suspect something wrong",
     "Red tape - Excessive official formality"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Every inch - Be dismissed from a job is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Every inch - Be dismissed from a job is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0546",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A place where money is coined - Mint",
     "A person who works with iron - Blacksmith",
     "One who studies rocks - Insolvent",
     "One who cannot read or write - Illiterate"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who studies rocks - Insolvent is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair One who studies rocks - Insolvent is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0547",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Villain - Concieted",
     "Villain - Villian",
     "Villain - Expedetion",
     "Villain - Medival"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Villain - Villian is correctly matched."
+   "answer": 1,
+   "explanation": "Only Villain - Villian is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0548",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "UNEP - Micro, Small and Medium Enterprises",
     "UNEP - International Securities Identification Number",
     "UNEP - United Nations Environment Programme",
     "UNEP - Sashastra Seema Bal"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only UNEP - United Nations Environment Programme is correctly matched."
+   "answer": 2,
+   "explanation": "Only UNEP - United Nations Environment Programme is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0549",
-   "q": "The currency Qatari Riyal is used in which country?",
-   "o": [
+   "question": "The currency Qatari Riyal is used in which country?",
+   "options": [
     "Gabon",
     "Qatar",
     "Trinidad and Tobago",
     "Burkina Faso"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Qatari Riyal is the currency of Qatar."
+   "answer": 1,
+   "explanation": "Qatari Riyal is the currency of Qatar.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0550",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "109 - Y",
     "109 - Mt",
     "109 - P",
     "109 - U"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 109 - Mt is correctly matched."
+   "answer": 1,
+   "explanation": "Only 109 - Mt is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0551",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Formidable - Daunting",
     "Formidable - Opinionated",
     "Formidable - Misfortune",
     "Formidable - Dilemma"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Formidable - Daunting is correctly matched."
+   "answer": 0,
+   "explanation": "Only Formidable - Daunting is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0552",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Torpid - Generosity",
     "Torpid - Active",
     "Torpid - Lax",
     "Torpid - Humble"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Torpid - Active is correctly matched."
+   "answer": 1,
+   "explanation": "Only Torpid - Active is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0553",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Move heaven and earth - Fail or be defeated",
     "A leopard cannot change its spots - One's nature cannot be changed",
     "Head over heels - Completely",
     "Pull the wool over one's eyes - Deceive"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Move heaven and earth - Fail or be defeated is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Move heaven and earth - Fail or be defeated is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0554",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who cannot be defeated - Invincible",
     "A study of the human body - Anatomy",
     "Plants that live for many years - Omniscient",
     "A life story written by oneself - Autobiography"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Plants that live for many years - Omniscient is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Plants that live for many years - Omniscient is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0555",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Villain - Withold",
     "Villain - Courgaeous",
     "Villain - Occurence",
     "Villain - Villian"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Villain - Villian is correctly matched."
+   "answer": 3,
+   "explanation": "Only Villain - Villian is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0556",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "UNEP - Food Corporation of India",
     "UNEP - Tuberculosis",
     "UNEP - Intensive Care Unit",
     "UNEP - United Nations Environment Programme"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only UNEP - United Nations Environment Programme is correctly matched."
+   "answer": 3,
+   "explanation": "Only UNEP - United Nations Environment Programme is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0557",
-   "q": "The currency Euro is used in which country?",
-   "o": [
+   "question": "The currency Euro is used in which country?",
+   "options": [
     "Montenegro",
     "Moldova",
     "Vatican City",
     "Syria"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Euro is the currency of Montenegro."
+   "answer": 0,
+   "explanation": "Euro is the currency of Montenegro.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0558",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "73 - Nd",
     "73 - O",
     "73 - Ta",
     "73 - Fr"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 73 - Ta is correctly matched."
+   "answer": 2,
+   "explanation": "Only 73 - Ta is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0559",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Plight - Acquit",
     "Plight - Opponent",
     "Plight - Predicament",
     "Plight - Danger"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Plight - Predicament is correctly matched."
+   "answer": 2,
+   "explanation": "Only Plight - Predicament is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0560",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Predicament - Unruly",
     "Predicament - Solution",
     "Predicament - Malevolent",
     "Predicament - Explicit"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Predicament - Solution is correctly matched."
+   "answer": 1,
+   "explanation": "Only Predicament - Solution is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0561",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Mealy-mouthed - Unable to speak plainly",
     "Come to light - Confess fully",
     "Rule the roost - Be the dominant person",
     "To make a mountain of a molehill - To exaggerate a small matter"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Come to light - Confess fully is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Come to light - Confess fully is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0562",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who believes in the existence of God - Theist",
     "One who eats too much - Agnostic",
     "The murder of a king - Regicide",
     "A disease that spreads worldwide - Pandemic"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who eats too much - Agnostic is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair One who eats too much - Agnostic is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0563",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Definitely - Achievment",
     "Definitely - Begining",
     "Definitely - Definately",
     "Definitely - Hieght"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Definitely - Definately is correctly matched."
+   "answer": 2,
+   "explanation": "Only Definitely - Definately is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0564",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "OTP - Atal Pension Yojana",
     "OTP - One Time Password",
     "OTP - University Grants Commission",
     "OTP - International Maritime Organization"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only OTP - One Time Password is correctly matched."
+   "answer": 1,
+   "explanation": "Only OTP - One Time Password is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0565",
-   "q": "The currency Leone is used in which country?",
-   "o": [
+   "question": "The currency Leone is used in which country?",
+   "options": [
     "Equatorial Guinea",
     "Kyrgyzstan",
     "Sierra Leone",
     "Nigeria"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Leone is the currency of Sierra Leone."
+   "answer": 2,
+   "explanation": "Leone is the currency of Sierra Leone.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0566",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "73 - Rn",
     "73 - Br",
     "73 - Ta",
     "73 - Cr"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 73 - Ta is correctly matched."
+   "answer": 2,
+   "explanation": "Only 73 - Ta is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0567",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Plight - Condemn",
     "Plight - Predicament",
     "Plight - Charge",
     "Plight - Harmful"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Plight - Predicament is correctly matched."
+   "answer": 1,
+   "explanation": "Only Plight - Predicament is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0568",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Predicament - Solution",
     "Predicament - Delay",
     "Predicament - Explicit",
     "Predicament - Reject"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Predicament - Solution is correctly matched."
+   "answer": 0,
+   "explanation": "Only Predicament - Solution is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0569",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "To cool one's heels - In close partnership",
     "Behind the scenes - Secretly",
     "Beat about the bush - Talk without coming to the point",
     "To wash one's dirty linen in public - To discuss private matters openly"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair To cool one's heels - In close partnership is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair To cool one's heels - In close partnership is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0570",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Plants that live for one season - Annuals",
     "One who has an unreasonable fear of water - Hydrophobic",
     "A state of lawlessness - Manifest",
     "One who studies the origin of words - Etymologist"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A state of lawlessness - Manifest is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair A state of lawlessness - Manifest is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0571",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Definitely - Begining",
     "Definitely - Definately",
     "Definitely - Tommorow",
     "Definitely - Accesible"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Definitely - Definately is correctly matched."
+   "answer": 1,
+   "explanation": "Only Definitely - Definately is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0572",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "OTP - One Time Password",
     "OTP - International Hockey Federation",
     "OTP - Gross Domestic Product",
     "OTP - Regional Rural Bank"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only OTP - One Time Password is correctly matched."
+   "answer": 0,
+   "explanation": "Only OTP - One Time Password is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0573",
-   "q": "The currency CFA Franc is used in which country?",
-   "o": [
+   "question": "The currency CFA Franc is used in which country?",
+   "options": [
     "Uruguay",
     "Honduras",
     "Uzbekistan",
     "Senegal"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "CFA Franc is the currency of Senegal."
+   "answer": 3,
+   "explanation": "CFA Franc is the currency of Senegal.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0574",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "97 - Au",
     "97 - Bk",
     "97 - Tm",
     "97 - Ca"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 97 - Bk is correctly matched."
+   "answer": 1,
+   "explanation": "Only 97 - Bk is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0575",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Pertinent - Prominent",
     "Pertinent - Sociable",
     "Pertinent - Agree",
     "Pertinent - Relevant"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pertinent - Relevant is correctly matched."
+   "answer": 3,
+   "explanation": "Only Pertinent - Relevant is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0576",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Wary - Strengthen",
     "Wary - Enthusiasm",
     "Wary - Careless",
     "Wary - Irrelevant"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Wary - Careless is correctly matched."
+   "answer": 2,
+   "explanation": "Only Wary - Careless is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0577",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "To play to the gallery - To seek popular approval",
     "To keep one's fingers crossed - To hope for success",
     "Run amuck - Treat harshly",
     "Beyond the pale - Unacceptable"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Run amuck - Treat harshly is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Run amuck - Treat harshly is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0578",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who can use both hands equally well - Ambidextrous",
     "One who studies plants - Botanist",
     "Something that can be eaten - Edible",
     "A person who abstains from eating meat - Mobocracy"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A person who abstains from eating meat - Mobocracy is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair A person who abstains from eating meat - Mobocracy is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0579",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Column - Coloumn",
     "Column - Mischievious",
     "Column - Sieze",
     "Column - Separetly"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Column - Coloumn is correctly matched."
+   "answer": 0,
+   "explanation": "Only Column - Coloumn is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0580",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "FCI - Food Corporation of India",
     "FCI - Direct Benefit Transfer",
     "FCI - Medecins Sans Frontieres",
     "FCI - National Testing Agency"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only FCI - Food Corporation of India is correctly matched."
+   "answer": 0,
+   "explanation": "Only FCI - Food Corporation of India is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0581",
-   "q": "The currency Zimbabwean Dollar is used in which country?",
-   "o": [
+   "question": "The currency Zimbabwean Dollar is used in which country?",
+   "options": [
     "Suriname",
     "Bahrain",
     "Zimbabwe",
     "Canada"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Zimbabwean Dollar is the currency of Zimbabwe."
+   "answer": 2,
+   "explanation": "Zimbabwean Dollar is the currency of Zimbabwe.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0582",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "97 - Li",
     "97 - Ho",
     "97 - Yb",
     "97 - Bk"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 97 - Bk is correctly matched."
+   "answer": 3,
+   "explanation": "Only 97 - Bk is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0583",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Pertinent - Flatterer",
     "Pertinent - Forceful",
     "Pertinent - Relevant",
     "Pertinent - Omnipresent"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pertinent - Relevant is correctly matched."
+   "answer": 2,
+   "explanation": "Only Pertinent - Relevant is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0584",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Wary - Energetic",
     "Wary - Careless",
     "Wary - Occasional",
     "Wary - Friendship"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Wary - Careless is correctly matched."
+   "answer": 1,
+   "explanation": "Only Wary - Careless is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0585",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Play second fiddle - Take a subordinate role",
     "Odds and ends - Die",
     "Beyond the pale - Unacceptable",
     "At the drop of a hat - Immediately"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Odds and ends - Die is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Odds and ends - Die is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0586",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A conversation between two people - Dialogue",
     "One who is not sure about God's existence - Agnostic",
     "A person who does not take any alcoholic drink - Teetotaller",
     "The murder of a human being - Obsolete"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair The murder of a human being - Obsolete is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair The murder of a human being - Obsolete is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0587",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Column - Coloumn",
     "Column - Hieght",
     "Column - Jewelery",
     "Column - Goverment"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Column - Coloumn is correctly matched."
+   "answer": 0,
+   "explanation": "Only Column - Coloumn is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0588",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "FCI - National Eligibility cum Entrance Test",
     "FCI - Food Corporation of India",
     "FCI - Know Your Customer",
     "FCI - Organization of the Petroleum Exporting Countries"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only FCI - Food Corporation of India is correctly matched."
+   "answer": 1,
+   "explanation": "Only FCI - Food Corporation of India is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0589",
-   "q": "The currency Yemeni Rial is used in which country?",
-   "o": [
+   "question": "The currency Yemeni Rial is used in which country?",
+   "options": [
     "Yemen",
     "Myanmar",
     "Uganda",
     "Ethiopia"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Yemeni Rial is the currency of Yemen."
+   "answer": 0,
+   "explanation": "Yemeni Rial is the currency of Yemen.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0590",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "20 - Rg",
     "20 - Cr",
     "20 - C",
     "20 - Ca"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 20 - Ca is correctly matched."
+   "answer": 3,
+   "explanation": "Only 20 - Ca is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0591",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Brevity - Shortness",
     "Brevity - Provisional",
     "Brevity - Disprove",
     "Brevity - Lacking"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Brevity - Shortness is correctly matched."
+   "answer": 0,
+   "explanation": "Only Brevity - Shortness is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0592",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Flagrant - Concealed",
     "Flagrant - Temporary",
     "Flagrant - Delay",
     "Flagrant - Avoidable"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Flagrant - Concealed is correctly matched."
+   "answer": 0,
+   "explanation": "Only Flagrant - Concealed is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0593",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Few and far between - Die while working",
     "A slap on the wrist - A mild punishment",
     "Call a spade a spade - Speak plainly",
     "To see red - To become very angry"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Few and far between - Die while working is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Few and far between - Die while working is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0594",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A person who is made to bear the blame for others - Scapegoat",
     "A person who makes pots - Potter",
     "One who eats human flesh - Hermit",
     "A place where coins and stamps are made - Mint"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who eats human flesh - Hermit is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair One who eats human flesh - Hermit is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0595",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Battalion - Bureu",
     "Battalion - Battalian",
     "Battalion - Medival",
     "Battalion - Buisness"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Battalion - Battalian is correctly matched."
+   "answer": 1,
+   "explanation": "Only Battalion - Battalian is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0596",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "IBC - One Time Password",
     "IBC - Joint Entrance Examination",
     "IBC - Insolvency and Bankruptcy Code",
     "IBC - Shanghai Cooperation Organisation"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only IBC - Insolvency and Bankruptcy Code is correctly matched."
+   "answer": 2,
+   "explanation": "Only IBC - Insolvency and Bankruptcy Code is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0597",
-   "q": "The currency Saudi Riyal is used in which country?",
-   "o": [
+   "question": "The currency Saudi Riyal is used in which country?",
+   "options": [
     "Croatia",
     "Saudi Arabia",
     "Andorra",
     "Turkey"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Saudi Riyal is the currency of Saudi Arabia."
+   "answer": 1,
+   "explanation": "Saudi Riyal is the currency of Saudi Arabia.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0598",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "20 - Sc",
     "20 - Ta",
     "20 - Ca",
     "20 - Ce"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 20 - Ca is correctly matched."
+   "answer": 2,
+   "explanation": "Only 20 - Ca is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0599",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Brevity - Shortness",
     "Brevity - Surrender",
     "Brevity - Propriety",
     "Brevity - Justify"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Brevity - Shortness is correctly matched."
+   "answer": 0,
+   "explanation": "Only Brevity - Shortness is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0600",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Flagrant - Rare",
     "Flagrant - Truth",
     "Flagrant - Confirm",
     "Flagrant - Concealed"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Flagrant - Concealed is correctly matched."
+   "answer": 3,
+   "explanation": "Only Flagrant - Concealed is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0601",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Keep one's fingers crossed - Hope for a good result",
     "Fair-weather friend - A friend only in good times",
     "At daggers drawn - In bitter enmity",
     "Burn the midnight oil - A difficult problem"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Burn the midnight oil - A difficult problem is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Burn the midnight oil - A difficult problem is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0602",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Excessive love for one's own country - Panacea",
     "A place where birds are kept - Aviary",
     "One who has an unreasonable fear of heights - Acrophobic",
     "Something that is no longer in use - Obsolete"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Excessive love for one's own country - Panacea is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Excessive love for one's own country - Panacea is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0603",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Battalion - Persue",
     "Battalion - Battalian",
     "Battalion - Paralell",
     "Battalion - Withold"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Battalion - Battalian is correctly matched."
+   "answer": 1,
+   "explanation": "Only Battalion - Battalian is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0604",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "IBC - Digital Infrastructure for Knowledge Sharing",
     "IBC - International Hockey Federation",
     "IBC - All India Council for Technical Education",
     "IBC - Insolvency and Bankruptcy Code"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only IBC - Insolvency and Bankruptcy Code is correctly matched."
+   "answer": 3,
+   "explanation": "Only IBC - Insolvency and Bankruptcy Code is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0605",
-   "q": "The currency Omani Rial is used in which country?",
-   "o": [
+   "question": "The currency Omani Rial is used in which country?",
+   "options": [
     "Egypt",
     "Nigeria",
     "Oman",
     "Albania"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Omani Rial is the currency of Oman."
+   "answer": 2,
+   "explanation": "Omani Rial is the currency of Oman.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0606",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "50 - Cf",
     "50 - Ba",
     "50 - Sn",
     "50 - Si"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 50 - Sn is correctly matched."
+   "answer": 2,
+   "explanation": "Only 50 - Sn is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0607",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Candid - Subservient",
     "Candid - Equivalent",
     "Candid - Similarity",
     "Candid - Frank"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Candid - Frank is correctly matched."
+   "answer": 3,
+   "explanation": "Only Candid - Frank is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0608",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Frugal - Inconspicuous",
     "Frugal - Implicit",
     "Frugal - Extravagant",
     "Frugal - Significant"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Frugal - Extravagant is correctly matched."
+   "answer": 2,
+   "explanation": "Only Frugal - Extravagant is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0609",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "To turn over a new leaf - To make a fresh start",
     "Spill the beans - Reveal secret information",
     "Move heaven and earth - Make every effort",
     "Let the cat out of the bag - Uncomfortable"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Let the cat out of the bag - Uncomfortable is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Let the cat out of the bag - Uncomfortable is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0610",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A substance that prevents infection - Antiseptic",
     "The practice of having many husbands - Polyandry",
     "One who speaks many languages - Polyglot",
     "One who drinks too much alcohol - Post-mortem"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who drinks too much alcohol - Post-mortem is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair One who drinks too much alcohol - Post-mortem is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0611",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Attendance - Agressive",
     "Attendance - Publically",
     "Attendance - Attendence",
     "Attendance - Hereditory"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Attendance - Attendence is correctly matched."
+   "answer": 2,
+   "explanation": "Only Attendance - Attendence is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0612",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "NEFT - Mahatma Gandhi National Rural Employment Guarantee Scheme",
     "NEFT - Non Performing Asset",
     "NEFT - Micro, Small and Medium Enterprises",
     "NEFT - National Electronic Funds Transfer"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only NEFT - National Electronic Funds Transfer is correctly matched."
+   "answer": 3,
+   "explanation": "Only NEFT - National Electronic Funds Transfer is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0613",
-   "q": "The currency Tunisian Dinar is used in which country?",
-   "o": [
+   "question": "The currency Tunisian Dinar is used in which country?",
+   "options": [
     "Tunisia",
     "United Arab Emirates",
     "Ethiopia",
     "Slovakia"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Tunisian Dinar is the currency of Tunisia."
+   "answer": 0,
+   "explanation": "Tunisian Dinar is the currency of Tunisia.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0614",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "50 - Og",
     "50 - Db",
     "50 - Np",
     "50 - Sn"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 50 - Sn is correctly matched."
+   "answer": 3,
+   "explanation": "Only 50 - Sn is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0615",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Candid - Calm",
     "Candid - Deadlock",
     "Candid - Frank",
     "Candid - Surrender"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Candid - Frank is correctly matched."
+   "answer": 2,
+   "explanation": "Only Candid - Frank is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0616",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Frugal - Overturn",
     "Frugal - Respected",
     "Frugal - Extravagant",
     "Frugal - Barren"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Frugal - Extravagant is correctly matched."
+   "answer": 2,
+   "explanation": "Only Frugal - Extravagant is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0617",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "To carry the day - Begin a conversation",
     "Ins and outs - Full details",
     "Set the Thames on fire - Do something remarkable",
     "In the nick of time - Just in time"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair To carry the day - Begin a conversation is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair To carry the day - Begin a conversation is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0618",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Government by the people - Hermit",
     "A person who sells flowers - Florist",
     "A place where medicines are prepared - Pharmacy",
     "Animals that eat only plants - Herbivores"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Government by the people - Hermit is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Government by the people - Hermit is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0619",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Attendance - Anonimous",
     "Attendance - Attendence",
     "Attendance - Pronounciation",
     "Attendance - Preferance"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Attendance - Attendence is correctly matched."
+   "answer": 1,
+   "explanation": "Only Attendance - Attendence is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0620",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "NEFT - Athletics track and field club naming",
     "NEFT - National Electronic Funds Transfer",
     "NEFT - Enforcement Directorate",
     "NEFT - Acquired Immune Deficiency Syndrome"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only NEFT - National Electronic Funds Transfer is correctly matched."
+   "answer": 1,
+   "explanation": "Only NEFT - National Electronic Funds Transfer is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0621",
-   "q": "The currency Australian Dollar is used in which country?",
-   "o": [
+   "question": "The currency Australian Dollar is used in which country?",
+   "options": [
     "Laos",
     "Australia",
     "Kazakhstan",
     "Malta"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Australian Dollar is the currency of Australia."
+   "answer": 1,
+   "explanation": "Australian Dollar is the currency of Australia.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0622",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "56 - Ce",
     "56 - Ba",
     "56 - Dy",
     "56 - I"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 56 - Ba is correctly matched."
+   "answer": 1,
+   "explanation": "Only 56 - Ba is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0623",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Reticent - Conscientious",
     "Reticent - Learned",
     "Reticent - Reserved",
     "Reticent - Respect"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Reticent - Reserved is correctly matched."
+   "answer": 2,
+   "explanation": "Only Reticent - Reserved is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0624",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Audacious - Truth",
     "Audacious - Timid",
     "Audacious - Open",
     "Audacious - Careless"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Audacious - Timid is correctly matched."
+   "answer": 1,
+   "explanation": "Only Audacious - Timid is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0625",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "To see red - To become very angry",
     "A man of letters - A scholar",
     "A thorn in one's flesh - Become known",
     "To keep one's fingers crossed - To hope for success"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A thorn in one's flesh - Become known is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair A thorn in one's flesh - Become known is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0626",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A place of perfect happiness - Cobbler",
     "Something that is no longer in use - Obsolete",
     "A speech made without preparation - Extempore",
     "Animals that live both on land and in water - Amphibians"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A place of perfect happiness - Cobbler is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair A place of perfect happiness - Cobbler is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0627",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Professor - Proffesor",
     "Professor - Cemetry",
     "Professor - Wenesday",
     "Professor - Sincerly"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Professor - Proffesor is correctly matched."
+   "answer": 0,
+   "explanation": "Only Professor - Proffesor is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0628",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "BrahMos - Special Economic Zone",
     "BrahMos - Bhabha Atomic Research Centre",
     "BrahMos - Wholesale Price Index",
     "BrahMos - Brahmaputra Moscow missile"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only BrahMos - Brahmaputra Moscow missile is correctly matched."
+   "answer": 3,
+   "explanation": "Only BrahMos - Brahmaputra Moscow missile is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0629",
-   "q": "The currency Euro is used in which country?",
-   "o": [
+   "question": "The currency Euro is used in which country?",
+   "options": [
     "Oman",
     "Guatemala",
     "Andorra",
     "Croatia"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Euro is the currency of Croatia."
+   "answer": 3,
+   "explanation": "Euro is the currency of Croatia.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0630",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "56 - Dy",
     "56 - Tb",
     "56 - Pu",
     "56 - Ba"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 56 - Ba is correctly matched."
+   "answer": 3,
+   "explanation": "Only 56 - Ba is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0631",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Reticent - Courage",
     "Reticent - Reserved",
     "Reticent - Rebuke",
     "Reticent - Charge"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Reticent - Reserved is correctly matched."
+   "answer": 1,
+   "explanation": "Only Reticent - Reserved is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0632",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Audacious - Disagree",
     "Audacious - Foolish",
     "Audacious - Unrepentant",
     "Audacious - Timid"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Audacious - Timid is correctly matched."
+   "answer": 3,
+   "explanation": "Only Audacious - Timid is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0633",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "To turn a deaf ear - To ignore",
     "Find fault with - Criticise",
     "Through thick and thin - Completely",
     "High and dry - Stranded"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Through thick and thin - Completely is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Through thick and thin - Completely is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0634",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A person employed to drive a car - Chauffeur",
     "A substance that destroys germs - Disinfectant",
     "A place where books are kept - Chauffeur",
     "The practice of having many husbands - Polyandry"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A place where books are kept - Chauffeur is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair A place where books are kept - Chauffeur is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0635",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Professor - Proffesor",
     "Professor - Agressive",
     "Professor - Jealos",
     "Professor - Parliment"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Professor - Proffesor is correctly matched."
+   "answer": 0,
+   "explanation": "Only Professor - Proffesor is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0636",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "BrahMos - Central Statistics Office",
     "BrahMos - National Defence Academy",
     "BrahMos - Human Immunodeficiency Virus",
     "BrahMos - Brahmaputra Moscow missile"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only BrahMos - Brahmaputra Moscow missile is correctly matched."
+   "answer": 3,
+   "explanation": "Only BrahMos - Brahmaputra Moscow missile is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0637",
-   "q": "The currency Forint is used in which country?",
-   "o": [
+   "question": "The currency Forint is used in which country?",
+   "options": [
     "Solomon Islands",
     "Hungary",
     "Barbados",
     "Indonesia"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Forint is the currency of Hungary."
+   "answer": 1,
+   "explanation": "Forint is the currency of Hungary.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0638",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "25 - Yb",
     "25 - Zn",
     "25 - Mn",
     "25 - Na"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 25 - Mn is correctly matched."
+   "answer": 2,
+   "explanation": "Only 25 - Mn is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0639",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Refute - Meticulous",
     "Refute - Disprove",
     "Refute - Greed",
     "Refute - Joy"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Refute - Disprove is correctly matched."
+   "answer": 1,
+   "explanation": "Only Refute - Disprove is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0640",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Laconic - Rare",
     "Laconic - Modern",
     "Laconic - Verbose",
     "Laconic - Inconspicuous"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Laconic - Verbose is correctly matched."
+   "answer": 2,
+   "explanation": "Only Laconic - Verbose is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0641",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Gift of the gab - Fluency of speech",
     "Let the cat out of the bag - Reveal a secret",
     "A snake in the grass - Make a poor impression",
     "A slap on the wrist - A mild punishment"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A snake in the grass - Make a poor impression is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair A snake in the grass - Make a poor impression is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0642",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A person who talks in his sleep - Somniloquist",
     "A substance that destroys germs - Disinfectant",
     "One who cannot be corrected - Atheist",
     "One who cannot be imitated - Inimitable"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who cannot be corrected - Atheist is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair One who cannot be corrected - Atheist is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0643",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Publicly - Collegue",
     "Publicly - Tommorow",
     "Publicly - Aggrevate",
     "Publicly - Publically"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Publicly - Publically is correctly matched."
+   "answer": 3,
+   "explanation": "Only Publicly - Publically is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0644",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "CLAT - Regional Rural Bank",
     "CLAT - Common Law Admission Test",
     "CLAT - Public Private Partnership",
     "CLAT - Brazil, Russia, India, China and South Africa"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only CLAT - Common Law Admission Test is correctly matched."
+   "answer": 1,
+   "explanation": "Only CLAT - Common Law Admission Test is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0645",
-   "q": "The currency Dalasi is used in which country?",
-   "o": [
+   "question": "The currency Dalasi is used in which country?",
+   "options": [
     "Gambia",
     "Poland",
     "Yemen",
     "Armenia"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Dalasi is the currency of Gambia."
+   "answer": 0,
+   "explanation": "Dalasi is the currency of Gambia.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0646",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "25 - Fe",
     "25 - Tl",
     "25 - Mn",
     "25 - Ca"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 25 - Mn is correctly matched."
+   "answer": 2,
+   "explanation": "Only 25 - Mn is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0647",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Refute - Hardworking",
     "Refute - Calmness",
     "Refute - Disprove",
     "Refute - Practical"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Refute - Disprove is correctly matched."
+   "answer": 2,
+   "explanation": "Only Refute - Disprove is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0648",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Laconic - Verbose",
     "Laconic - Seriousness",
     "Laconic - Scarce",
     "Laconic - Peaceable"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Laconic - Verbose is correctly matched."
+   "answer": 0,
+   "explanation": "Only Laconic - Verbose is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0649",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Feather one's nest - Make money selfishly",
     "A dark horse - An unexpected winner",
     "Play second fiddle - Take a subordinate role",
     "Bring to book - Full details"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Bring to book - Full details is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Bring to book - Full details is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0650",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A person who takes care of books in a library - Librarian",
     "A person who works with iron - Blacksmith",
     "One who loves mankind - Philanthropist",
     "A medicine that kills bacteria - Dystopia"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A medicine that kills bacteria - Dystopia is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair A medicine that kills bacteria - Dystopia is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0651",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Publicly - Medival",
     "Publicly - Religous",
     "Publicly - Transfering",
     "Publicly - Publically"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Publicly - Publically is correctly matched."
+   "answer": 3,
+   "explanation": "Only Publicly - Publically is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0652",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "CLAT - Minimum Support Price",
     "CLAT - Gross National Product",
     "CLAT - European Organization for Nuclear Research",
     "CLAT - Common Law Admission Test"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only CLAT - Common Law Admission Test is correctly matched."
+   "answer": 3,
+   "explanation": "Only CLAT - Common Law Admission Test is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0653",
-   "q": "The currency Libyan Dinar is used in which country?",
-   "o": [
+   "question": "The currency Libyan Dinar is used in which country?",
+   "options": [
     "Romania",
     "Trinidad and Tobago",
     "Libya",
     "Fiji"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Libyan Dinar is the currency of Libya."
+   "answer": 2,
+   "explanation": "Libyan Dinar is the currency of Libya.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0654",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "64 - Gd",
     "64 - Xe",
     "64 - U",
     "64 - At"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 64 - Gd is correctly matched."
+   "answer": 0,
+   "explanation": "Only 64 - Gd is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0655",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Despondent - Wise",
     "Despondent - Waver",
     "Despondent - Hopeless",
     "Despondent - Poverty"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Despondent - Hopeless is correctly matched."
+   "answer": 2,
+   "explanation": "Only Despondent - Hopeless is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0656",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Dissent - Extraordinary",
     "Dissent - Agreement",
     "Dissent - Easy",
     "Dissent - Thrifty"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Dissent - Agreement is correctly matched."
+   "answer": 1,
+   "explanation": "Only Dissent - Agreement is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0657",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Beyond the pale - Unacceptable",
     "A chip on the shoulder - Show one's feelings openly",
     "To bell the cat - To take the risk",
     "In the teeth of - In direct opposition to"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A chip on the shoulder - Show one's feelings openly is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair A chip on the shoulder - Show one's feelings openly is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0658",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who lives a simple life without possessions - Recluse",
     "Government by a king or queen - Monarchy",
     "A person who is made to bear the blame for others - Theocracy",
     "A person who eats only plants and no animal products - Vegan"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A person who is made to bear the blame for others - Theocracy is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair A person who is made to bear the blame for others - Theocracy is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0659",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Tendency - Repitition",
     "Tendency - Hygeine",
     "Tendency - Seperate",
     "Tendency - Tendancy"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Tendency - Tendancy is correctly matched."
+   "answer": 3,
+   "explanation": "Only Tendency - Tendancy is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0660",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "IIM - National Council of Educational Research and Training",
     "IIM - Indian Institute of Management",
     "IIM - Enforcement Directorate",
     "IIM - Athletics track and field club naming"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only IIM - Indian Institute of Management is correctly matched."
+   "answer": 1,
+   "explanation": "Only IIM - Indian Institute of Management is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0661",
-   "q": "The currency Won is used in which country?",
-   "o": [
+   "question": "The currency Won is used in which country?",
+   "options": [
     "North Korea",
     "Finland",
     "Belize",
     "Italy"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Won is the currency of North Korea."
+   "answer": 0,
+   "explanation": "Won is the currency of North Korea.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0662",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "64 - Rh",
     "64 - Gd",
     "64 - Na",
     "64 - Ag"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 64 - Gd is correctly matched."
+   "answer": 1,
+   "explanation": "Only 64 - Gd is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0663",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Despondent - Hopeless",
     "Despondent - Everlasting",
     "Despondent - Secret",
     "Despondent - Calm"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Despondent - Hopeless is correctly matched."
+   "answer": 0,
+   "explanation": "Only Despondent - Hopeless is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0664",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Dissent - Agreement",
     "Dissent - Industrious",
     "Dissent - Overturn",
     "Dissent - Provoke"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Dissent - Agreement is correctly matched."
+   "answer": 0,
+   "explanation": "Only Dissent - Agreement is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0665",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Hit the nail on the head - Do or say the right thing",
     "Straw in the wind - A weak point",
     "With flying colours - With great success",
     "A dark horse - An unexpected winner"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Straw in the wind - A weak point is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Straw in the wind - A weak point is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0666",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A person who writes about his own life - Homicide",
     "A medicine that kills bacteria - Antibiotic",
     "One who is between sixty and seventy years old - Sexagenarian",
     "One who speaks very little - Taciturn"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A person who writes about his own life - Homicide is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair A person who writes about his own life - Homicide is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0667",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Tendency - Tendancy",
     "Tendency - Concieted",
     "Tendency - Accesible",
     "Tendency - Desparate"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Tendency - Tendancy is correctly matched."
+   "answer": 0,
+   "explanation": "Only Tendency - Tendancy is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0668",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "IIM - Direct Benefit Transfer",
     "IIM - Indian Institute of Management",
     "IIM - Board of Control for Cricket in India",
     "IIM - National Education Policy"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only IIM - Indian Institute of Management is correctly matched."
+   "answer": 1,
+   "explanation": "Only IIM - Indian Institute of Management is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0669",
-   "q": "The currency Lek is used in which country?",
-   "o": [
+   "question": "The currency Lek is used in which country?",
+   "options": [
     "Moldova",
     "Italy",
     "Albania",
     "Latvia"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Lek is the currency of Albania."
+   "answer": 2,
+   "explanation": "Lek is the currency of Albania.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0670",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "35 - Tm",
     "35 - Hf",
     "35 - Te",
     "35 - Br"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 35 - Br is correctly matched."
+   "answer": 3,
+   "explanation": "Only 35 - Br is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0671",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Incipient - Praise",
     "Incipient - Scorn",
     "Incipient - Elation",
     "Incipient - Beginning"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Incipient - Beginning is correctly matched."
+   "answer": 3,
+   "explanation": "Only Incipient - Beginning is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0672",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Precarious - Intensify",
     "Precarious - Liking",
     "Precarious - Secure",
     "Precarious - Reject"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Precarious - Secure is correctly matched."
+   "answer": 2,
+   "explanation": "Only Precarious - Secure is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0673",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Without beating about the bush - An ambiguous compliment",
     "A storm in a teacup - Much excitement over a trivial matter",
     "Black sheep - A disreputable member of a family",
     "Cut a sorry figure - Make a poor impression"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Without beating about the bush - An ambiguous compliment is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Without beating about the bush - An ambiguous compliment is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0674",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A disease that spreads by contact - Contagious",
     "Something that lasts for a very short time - Ephemeral",
     "A place where money is coined - Philatelist",
     "A person who repairs shoes - Cobbler"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A place where money is coined - Philatelist is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair A place where money is coined - Philatelist is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0675",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Knowledge - Eigth",
     "Knowledge - Collegue",
     "Knowledge - Disatisfied",
     "Knowledge - Knowlege"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Knowledge - Knowlege is correctly matched."
+   "answer": 3,
+   "explanation": "Only Knowledge - Knowlege is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0676",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "SSC - South Asian Association for Regional Cooperation",
     "SSC - Geostationary Earth Orbit",
     "SSC - Automated Teller Machine",
     "SSC - Staff Selection Commission"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only SSC - Staff Selection Commission is correctly matched."
+   "answer": 3,
+   "explanation": "Only SSC - Staff Selection Commission is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0677",
-   "q": "The currency Vatu is used in which country?",
-   "o": [
+   "question": "The currency Vatu is used in which country?",
+   "options": [
     "Bahrain",
     "Uruguay",
     "Botswana",
     "Vanuatu"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Vatu is the currency of Vanuatu."
+   "answer": 3,
+   "explanation": "Vatu is the currency of Vanuatu.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0678",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "35 - V",
     "35 - Th",
     "35 - Br",
     "35 - Pr"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 35 - Br is correctly matched."
+   "answer": 2,
+   "explanation": "Only 35 - Br is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0679",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Incipient - Filthy",
     "Incipient - Destroy",
     "Incipient - Beginning",
     "Incipient - Greedy"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Incipient - Beginning is correctly matched."
+   "answer": 2,
+   "explanation": "Only Incipient - Beginning is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0680",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Precarious - Clean",
     "Precarious - Barren",
     "Precarious - Plenty",
     "Precarious - Secure"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Precarious - Secure is correctly matched."
+   "answer": 3,
+   "explanation": "Only Precarious - Secure is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0681",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "An apple of discord - A cause of quarrel",
     "A dark horse - Be ruined",
     "Let the cat out of the bag - Reveal a secret",
     "A man of straw - A person of no substance"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A dark horse - Be ruined is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair A dark horse - Be ruined is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0682",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who lives a simple life without possessions - Recluse",
     "Animals that live both on land and in water - Herbivores",
     "One who has an unreasonable fear of being in closed spaces - Claustrophobic",
     "A place where books are kept - Library"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Animals that live both on land and in water - Herbivores is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Animals that live both on land and in water - Herbivores is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0683",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Knowledge - Knowlege",
     "Knowledge - Hereditory",
     "Knowledge - Questionaire",
     "Knowledge - Hunderd"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Knowledge - Knowlege is correctly matched."
+   "answer": 0,
+   "explanation": "Only Knowledge - Knowlege is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0684",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "SSC - Brahmaputra Moscow missile",
     "SSC - Ribonucleic Acid",
     "SSC - Public Distribution System",
     "SSC - Staff Selection Commission"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only SSC - Staff Selection Commission is correctly matched."
+   "answer": 3,
+   "explanation": "Only SSC - Staff Selection Commission is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0685",
-   "q": "The currency Nepalese Rupee is used in which country?",
-   "o": [
+   "question": "The currency Nepalese Rupee is used in which country?",
+   "options": [
     "Central African Republic",
     "Nepal",
     "Brunei",
     "South Africa"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Nepalese Rupee is the currency of Nepal."
+   "answer": 1,
+   "explanation": "Nepalese Rupee is the currency of Nepal.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0686",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "13 - Te",
     "13 - Al",
     "13 - Ar",
     "13 - Tm"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 13 - Al is correctly matched."
+   "answer": 1,
+   "explanation": "Only 13 - Al is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0687",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Latent - Lavish",
     "Latent - Inactive",
     "Latent - Unavoidable",
     "Latent - Hidden"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Latent - Hidden is correctly matched."
+   "answer": 3,
+   "explanation": "Only Latent - Hidden is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0688",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Infamous - Unproductive",
     "Infamous - Reputable",
     "Infamous - Secondary",
     "Infamous - Modern"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Infamous - Reputable is correctly matched."
+   "answer": 1,
+   "explanation": "Only Infamous - Reputable is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0689",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Feather one's nest - Make money selfishly",
     "At the drop of a hat - Immediately",
     "Take a back seat - To be honest",
     "A chip on the shoulder - A feeling of resentment"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Take a back seat - To be honest is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Take a back seat - To be honest is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0690",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who has an unreasonable fear of heights - Acrophobic",
     "A disease that spreads worldwide - Utopia",
     "One who hates mankind - Misanthrope",
     "A person whose life story is written by another - Biographer"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A disease that spreads worldwide - Utopia is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair A disease that spreads worldwide - Utopia is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0691",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Guidance - Guidence",
     "Guidance - Relevent",
     "Guidance - Dependant",
     "Guidance - Independance"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Guidance - Guidence is correctly matched."
+   "answer": 0,
+   "explanation": "Only Guidance - Guidence is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0692",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "CACP - Unified Payments Interface",
     "CACP - Commission for Agricultural Costs and Prices",
     "CACP - Border Security Force",
     "CACP - Public Distribution System"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only CACP - Commission for Agricultural Costs and Prices is correctly matched."
+   "answer": 1,
+   "explanation": "Only CACP - Commission for Agricultural Costs and Prices is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0693",
-   "q": "The currency Mauritian Rupee is used in which country?",
-   "o": [
+   "question": "The currency Mauritian Rupee is used in which country?",
+   "options": [
     "Bangladesh",
     "Mauritius",
     "Afghanistan",
     "Lithuania"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Mauritian Rupee is the currency of Mauritius."
+   "answer": 1,
+   "explanation": "Mauritian Rupee is the currency of Mauritius.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0694",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "13 - Nd",
     "13 - Lu",
     "13 - Al",
     "13 - Mg"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 13 - Al is correctly matched."
+   "answer": 2,
+   "explanation": "Only 13 - Al is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0695",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Latent - Impending",
     "Latent - Hidden",
     "Latent - Lawlessness",
     "Latent - Secret"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Latent - Hidden is correctly matched."
+   "answer": 1,
+   "explanation": "Only Latent - Hidden is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0696",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Infamous - Increase",
     "Infamous - Explicit",
     "Infamous - Divided",
     "Infamous - Reputable"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Infamous - Reputable is correctly matched."
+   "answer": 3,
+   "explanation": "Only Infamous - Reputable is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0697",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Play second fiddle - Take a subordinate role",
     "An open book - Something easily understood",
     "Harp on the same string - Repeat the same point",
     "Feather one's nest - Uncomfortable"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Feather one's nest - Uncomfortable is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Feather one's nest - Uncomfortable is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0698",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who lives alone and avoids company - Hermit",
     "Something that is difficult to understand - Manifest",
     "Animals that live in groups - Gregarious",
     "A word formed from the initial letters of other words - Acronym"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Something that is difficult to understand - Manifest is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Something that is difficult to understand - Manifest is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0699",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Guidance - Explaination",
     "Guidance - Guidence",
     "Guidance - Phenomenan",
     "Guidance - Grammer"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Guidance - Guidence is correctly matched."
+   "answer": 1,
+   "explanation": "Only Guidance - Guidence is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0700",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "CACP - Commission for Agricultural Costs and Prices",
     "CACP - Border Security Force",
     "CACP - Out Patient Department",
     "CACP - National Education Policy"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only CACP - Commission for Agricultural Costs and Prices is correctly matched."
+   "answer": 0,
+   "explanation": "Only CACP - Commission for Agricultural Costs and Prices is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0701",
-   "q": "The currency Euro is used in which country?",
-   "o": [
+   "question": "The currency Euro is used in which country?",
+   "options": [
     "Malawi",
     "Finland",
     "Croatia",
     "Bulgaria"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Euro is the currency of Finland."
+   "answer": 1,
+   "explanation": "Euro is the currency of Finland.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0702",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "48 - Ac",
     "48 - Cd",
     "48 - Ga",
     "48 - Lv"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 48 - Cd is correctly matched."
+   "answer": 1,
+   "explanation": "Only 48 - Cd is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0703",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Inexorable - Draw out",
     "Inexorable - Punish",
     "Inexorable - Commonplace",
     "Inexorable - Relentless"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Inexorable - Relentless is correctly matched."
+   "answer": 3,
+   "explanation": "Only Inexorable - Relentless is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0704",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Equanimity - Agitation",
     "Equanimity - Permanent",
     "Equanimity - Turbulent",
     "Equanimity - Secondary"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Equanimity - Agitation is correctly matched."
+   "answer": 0,
+   "explanation": "Only Equanimity - Agitation is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0705",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Make both ends meet - Unable to speak plainly",
     "A blessing in disguise - Something that seems bad but turns out to be good",
     "To turn a deaf ear - To ignore",
     "A chip on the shoulder - A feeling of resentment"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Make both ends meet - Unable to speak plainly is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Make both ends meet - Unable to speak plainly is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0706",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A place where books are kept - Library",
     "One who cannot be imitated - Pharmacy",
     "A person employed to drive a car - Chauffeur",
     "A word formed from the initial letters of other words - Acronym"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who cannot be imitated - Pharmacy is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair One who cannot be imitated - Pharmacy is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0707",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Embarrass - Febuary",
     "Embarrass - Sieze",
     "Embarrass - Embarass",
     "Embarrass - Guidence"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Embarrass - Embarass is correctly matched."
+   "answer": 2,
+   "explanation": "Only Embarrass - Embarass is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0708",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "IBPS - Institute of Banking Personnel Selection",
     "IBPS - Deoxyribonucleic Acid",
     "IBPS - United Nations Development Programme",
     "IBPS - Union Public Service Commission"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only IBPS - Institute of Banking Personnel Selection is correctly matched."
+   "answer": 0,
+   "explanation": "Only IBPS - Institute of Banking Personnel Selection is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0709",
-   "q": "The currency Trinidad and Tobago Dollar is used in which country?",
-   "o": [
+   "question": "The currency Trinidad and Tobago Dollar is used in which country?",
+   "options": [
     "Trinidad and Tobago",
     "Kazakhstan",
     "Kyrgyzstan",
     "Somalia"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Trinidad and Tobago Dollar is the currency of Trinidad and Tobago."
+   "answer": 0,
+   "explanation": "Trinidad and Tobago Dollar is the currency of Trinidad and Tobago.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0710",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "48 - Cd",
     "48 - Sn",
     "48 - Sg",
     "48 - Kr"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 48 - Cd is correctly matched."
+   "answer": 0,
+   "explanation": "Only 48 - Cd is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0711",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Inexorable - Mutual",
     "Inexorable - Relentless",
     "Inexorable - Embodiment",
     "Inexorable - Obvious"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Inexorable - Relentless is correctly matched."
+   "answer": 1,
+   "explanation": "Only Inexorable - Relentless is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0712",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Equanimity - Length",
     "Equanimity - Restless",
     "Equanimity - Agitation",
     "Equanimity - Hopeful"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Equanimity - Agitation is correctly matched."
+   "answer": 2,
+   "explanation": "Only Equanimity - Agitation is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0713",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Read between the lines - Understand the hidden meaning",
     "Wear one's heart on one's sleeve - Praise oneself",
     "Pull one's socks up - Make an effort to improve",
     "Green horn - An inexperienced person"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Wear one's heart on one's sleeve - Praise oneself is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Wear one's heart on one's sleeve - Praise oneself is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0714",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Something that is no longer in use - Obsolete",
     "One who is not sure about God's existence - Agnostic",
     "A place where dead bodies are kept - Baker",
     "Animals that eat only flesh - Carnivores"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A place where dead bodies are kept - Baker is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair A place where dead bodies are kept - Baker is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0715",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Embarrass - Procede",
     "Embarrass - Accidently",
     "Embarrass - Recieve",
     "Embarrass - Embarass"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Embarrass - Embarass is correctly matched."
+   "answer": 3,
+   "explanation": "Only Embarrass - Embarass is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0716",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "IBPS - Organisation for Economic Co-operation and Development",
     "IBPS - Regional Rural Bank",
     "IBPS - Institute of Banking Personnel Selection",
     "IBPS - Airborne Warning and Control System"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only IBPS - Institute of Banking Personnel Selection is correctly matched."
+   "answer": 2,
+   "explanation": "Only IBPS - Institute of Banking Personnel Selection is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0717",
-   "q": "The currency Kina is used in which country?",
-   "o": [
+   "question": "The currency Kina is used in which country?",
+   "options": [
     "Vanuatu",
     "Papua New Guinea",
     "Russia",
     "Sri Lanka"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Kina is the currency of Papua New Guinea."
+   "answer": 1,
+   "explanation": "Kina is the currency of Papua New Guinea.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0718",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "21 - Sc",
     "21 - Re",
     "21 - Ag",
     "21 - Sr"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 21 - Sc is correctly matched."
+   "answer": 0,
+   "explanation": "Only 21 - Sc is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0719",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Cease - Enthusiastic",
     "Cease - Gap",
     "Cease - Penniless",
     "Cease - Stop"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Cease - Stop is correctly matched."
+   "answer": 3,
+   "explanation": "Only Cease - Stop is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0720",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Stringent - Genuine",
     "Stringent - Plenty",
     "Stringent - Clean",
     "Stringent - Lax"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Stringent - Lax is correctly matched."
+   "answer": 3,
+   "explanation": "Only Stringent - Lax is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0721",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "To fight a losing battle - To struggle without hope of success",
     "Run amuck - Act wildly",
     "Stand by - A scholar",
     "High and dry - Stranded"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Stand by - A scholar is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Stand by - A scholar is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0722",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who is always hopeful - Optimist",
     "One who cannot be imitated - Inimitable",
     "One who knows everything - Monarchy",
     "A substance that prevents infection - Antiseptic"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who knows everything - Monarchy is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair One who knows everything - Monarchy is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0723",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Occurrence - Hereditory",
     "Occurrence - Enviroment",
     "Occurrence - Occurence",
     "Occurrence - Sacrafice"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Occurrence - Occurence is correctly matched."
+   "answer": 2,
+   "explanation": "Only Occurrence - Occurence is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0724",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "GEO - Geostationary Earth Orbit",
     "GEO - International Organization for Standardization",
     "GEO - Federation Internationale de Football Association",
     "GEO - Point of Sale"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only GEO - Geostationary Earth Orbit is correctly matched."
+   "answer": 0,
+   "explanation": "Only GEO - Geostationary Earth Orbit is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0725",
-   "q": "The currency Rwandan Franc is used in which country?",
-   "o": [
+   "question": "The currency Rwandan Franc is used in which country?",
+   "options": [
     "Mauritania",
     "Libya",
     "Malawi",
     "Rwanda"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Rwandan Franc is the currency of Rwanda."
+   "answer": 3,
+   "explanation": "Rwandan Franc is the currency of Rwanda.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0726",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "21 - Bi",
     "21 - Ds",
     "21 - Ts",
     "21 - Sc"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 21 - Sc is correctly matched."
+   "answer": 3,
+   "explanation": "Only 21 - Sc is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0727",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Cease - Dreadful",
     "Cease - Forsake",
     "Cease - Vague",
     "Cease - Stop"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Cease - Stop is correctly matched."
+   "answer": 3,
+   "explanation": "Only Cease - Stop is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0728",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Stringent - Thrifty",
     "Stringent - Lax",
     "Stringent - Sufficient",
     "Stringent - Descend"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Stringent - Lax is correctly matched."
+   "answer": 1,
+   "explanation": "Only Stringent - Lax is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0729",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Hang fire - Remain undecided",
     "To laugh up one's sleeve - Deceive",
     "In cold blood - Deliberately and without emotion",
     "Against the clock - In a great hurry"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair To laugh up one's sleeve - Deceive is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair To laugh up one's sleeve - Deceive is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0730",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Something that is no longer in use - Inedible",
     "A place where animals are kept - Zoo",
     "A place of perfect happiness - Utopia",
     "One who cannot read or write - Illiterate"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Something that is no longer in use - Inedible is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Something that is no longer in use - Inedible is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0731",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Occurrence - Occurence",
     "Occurrence - Calender",
     "Occurrence - Paralell",
     "Occurrence - Truely"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Occurrence - Occurence is correctly matched."
+   "answer": 0,
+   "explanation": "Only Occurrence - Occurence is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0732",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "GEO - International Union for Conservation of Nature",
     "GEO - Employees' Provident Fund",
     "GEO - Shanghai Cooperation Organisation",
     "GEO - Geostationary Earth Orbit"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only GEO - Geostationary Earth Orbit is correctly matched."
+   "answer": 3,
+   "explanation": "Only GEO - Geostationary Earth Orbit is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0733",
-   "q": "The currency Liberian Dollar is used in which country?",
-   "o": [
+   "question": "The currency Liberian Dollar is used in which country?",
+   "options": [
     "Liberia",
     "Slovakia",
     "Ethiopia",
     "Guyana"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Liberian Dollar is the currency of Liberia."
+   "answer": 0,
+   "explanation": "Liberian Dollar is the currency of Liberia.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0734",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "96 - Al",
     "96 - Cm",
     "96 - Gd",
     "96 - Ho"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 96 - Cm is correctly matched."
+   "answer": 1,
+   "explanation": "Only 96 - Cm is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0735",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Onerous - Meticulous",
     "Onerous - Disgrace",
     "Onerous - Burdensome",
     "Onerous - Supreme"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Onerous - Burdensome is correctly matched."
+   "answer": 2,
+   "explanation": "Only Onerous - Burdensome is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0736",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Vindicate - Condemn",
     "Vindicate - Petty",
     "Vindicate - Satisfied",
     "Vindicate - Sufficient"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vindicate - Condemn is correctly matched."
+   "answer": 0,
+   "explanation": "Only Vindicate - Condemn is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0737",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Hit the nail on the head - Do or say the right thing",
     "Rest on one's laurels - Be satisfied with past achievements",
     "Beyond the pale - To face danger boldly",
     "An open book - Something easily understood"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Beyond the pale - To face danger boldly is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Beyond the pale - To face danger boldly is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0738",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A person who has just started learning something - Beginner",
     "A substance that destroys germs - Glutton",
     "One who knows everything - Omniscient",
     "One who is unable to pay his debts - Insolvent"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A substance that destroys germs - Glutton is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair A substance that destroys germs - Glutton is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0739",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Tomorrow - Definately",
     "Tomorrow - Parliment",
     "Tomorrow - Tommorow",
     "Tomorrow - Labratory"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Tomorrow - Tommorow is correctly matched."
+   "answer": 2,
+   "explanation": "Only Tomorrow - Tommorow is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0740",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "UPU - Dematerialised account for shares",
     "UPU - Comptroller and Auditor General",
     "UPU - Universal Postal Union",
     "UPU - National Security Guard"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only UPU - Universal Postal Union is correctly matched."
+   "answer": 2,
+   "explanation": "Only UPU - Universal Postal Union is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0741",
-   "q": "The currency Argentine Peso is used in which country?",
-   "o": [
+   "question": "The currency Argentine Peso is used in which country?",
+   "options": [
     "Argentina",
     "Burkina Faso",
     "Liberia",
     "Turkmenistan"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Argentine Peso is the currency of Argentina."
+   "answer": 0,
+   "explanation": "Argentine Peso is the currency of Argentina.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0742",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "96 - Lu",
     "96 - Tc",
     "96 - Cm",
     "96 - Ds"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 96 - Cm is correctly matched."
+   "answer": 2,
+   "explanation": "Only 96 - Cm is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0743",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Onerous - Forceful",
     "Onerous - Shy",
     "Onerous - Flood",
     "Onerous - Burdensome"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Onerous - Burdensome is correctly matched."
+   "answer": 3,
+   "explanation": "Only Onerous - Burdensome is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0744",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Vindicate - Foolish",
     "Vindicate - Condemn",
     "Vindicate - Alert",
     "Vindicate - Inarticulate"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vindicate - Condemn is correctly matched."
+   "answer": 1,
+   "explanation": "Only Vindicate - Condemn is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0745",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "To wash one's dirty linen in public - To discuss private matters openly",
     "Harp on the same string - Lose one's temper suddenly",
     "A slap on the wrist - A mild punishment",
     "Have an axe to grind - Have a selfish motive"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Harp on the same string - Lose one's temper suddenly is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Harp on the same string - Lose one's temper suddenly is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0746",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "The murder of one's brother - Hermit",
     "Words with opposite meanings - Antonyms",
     "Something that can be easily broken - Fragile",
     "A study of the human body - Anatomy"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair The murder of one's brother - Hermit is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair The murder of one's brother - Hermit is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0747",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Tomorrow - Preceeding",
     "Tomorrow - Emperior",
     "Tomorrow - Desparate",
     "Tomorrow - Tommorow"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Tomorrow - Tommorow is correctly matched."
+   "answer": 3,
+   "explanation": "Only Tomorrow - Tommorow is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0748",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "UPU - National Testing Agency",
     "UPU - Digital Infrastructure for Knowledge Sharing",
     "UPU - International Cricket Council",
     "UPU - Universal Postal Union"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only UPU - Universal Postal Union is correctly matched."
+   "answer": 3,
+   "explanation": "Only UPU - Universal Postal Union is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0749",
-   "q": "The currency Balboa is used in which country?",
-   "o": [
+   "question": "The currency Balboa is used in which country?",
+   "options": [
     "Argentina",
     "Cuba",
     "Panama",
     "Myanmar"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Balboa is the currency of Panama."
+   "answer": 2,
+   "explanation": "Balboa is the currency of Panama.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0750",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "53 - Pt",
     "53 - Cn",
     "53 - I",
     "53 - Cr"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 53 - I is correctly matched."
+   "answer": 2,
+   "explanation": "Only 53 - I is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0751",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Extravagant - Plentiful",
     "Extravagant - Fluent",
     "Extravagant - Mysterious",
     "Extravagant - Wasteful"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Extravagant - Wasteful is correctly matched."
+   "answer": 3,
+   "explanation": "Only Extravagant - Wasteful is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0752",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Tedious - Acquired",
     "Tedious - Fragile",
     "Tedious - Impossible",
     "Tedious - Interesting"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Tedious - Interesting is correctly matched."
+   "answer": 3,
+   "explanation": "Only Tedious - Interesting is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0753",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Fly in the face of - Act in defiance of",
     "Set the Thames on fire - Facing the same difficulty",
     "To laugh up one's sleeve - To be secretly amused",
     "Leave no stone unturned - Use every possible effort"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Set the Thames on fire - Facing the same difficulty is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Set the Thames on fire - Facing the same difficulty is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0754",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Government by the wealthy - Plutocracy",
     "One who speaks very little - Taciturn",
     "One who is between sixty and seventy years old - Sexagenarian",
     "A cure for all diseases - Barber"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A cure for all diseases - Barber is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair A cure for all diseases - Barber is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0755",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Sincerely - Maintainance",
     "Sincerely - Begining",
     "Sincerely - Embarass",
     "Sincerely - Sincerly"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sincerely - Sincerly is correctly matched."
+   "answer": 3,
+   "explanation": "Only Sincerely - Sincerly is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0756",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "CSO - Central Statistics Office",
     "CSO - Indian Council of Medical Research",
     "CSO - Universal Postal Union",
     "CSO - National Service Scheme"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only CSO - Central Statistics Office is correctly matched."
+   "answer": 0,
+   "explanation": "Only CSO - Central Statistics Office is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0757",
-   "q": "The currency Czech Koruna is used in which country?",
-   "o": [
+   "question": "The currency Czech Koruna is used in which country?",
+   "options": [
     "Malta",
     "Liberia",
     "Egypt",
     "Czech Republic"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Czech Koruna is the currency of Czech Republic."
+   "answer": 3,
+   "explanation": "Czech Koruna is the currency of Czech Republic.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0758",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "53 - Bi",
     "53 - Ag",
     "53 - Ar",
     "53 - I"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 53 - I is correctly matched."
+   "answer": 3,
+   "explanation": "Only 53 - I is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0759",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Extravagant - Approve",
     "Extravagant - Friendly",
     "Extravagant - Wasteful",
     "Extravagant - Patience"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Extravagant - Wasteful is correctly matched."
+   "answer": 2,
+   "explanation": "Only Extravagant - Wasteful is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0760",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Tedious - Careless",
     "Tedious - Alert",
     "Tedious - Interesting",
     "Tedious - Fruitful"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Tedious - Interesting is correctly matched."
+   "answer": 2,
+   "explanation": "Only Tedious - Interesting is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0761",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A cock and bull story - An absurd and unlikely story",
     "To let the grass grow under one's feet - To waste time",
     "On cloud nine - Deeply involved",
     "Make both ends meet - Manage within one's income"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair On cloud nine - Deeply involved is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair On cloud nine - Deeply involved is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0762",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A speech made to oneself when alone - Soliloquy",
     "One who does not know how to read and write - Mint",
     "A place of perfect happiness - Utopia",
     "One who studies birds - Ornithologist"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who does not know how to read and write - Mint is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair One who does not know how to read and write - Mint is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0763",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Sincerely - Sincerly",
     "Sincerely - Greatful",
     "Sincerely - Occurence",
     "Sincerely - Aknowledgment"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sincerely - Sincerly is correctly matched."
+   "answer": 0,
+   "explanation": "Only Sincerely - Sincerly is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0764",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "CSO - Central Statistics Office",
     "CSO - Indian Council of Agricultural Research",
     "CSO - Pradhan Mantri Ujjwala Yojana",
     "CSO - International Cricket Council"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only CSO - Central Statistics Office is correctly matched."
+   "answer": 0,
+   "explanation": "Only CSO - Central Statistics Office is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0765",
-   "q": "The currency Real is used in which country?",
-   "o": [
+   "question": "The currency Real is used in which country?",
+   "options": [
     "Brazil",
     "Andorra",
     "Guatemala",
     "Ivory Coast"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Real is the currency of Brazil."
+   "answer": 0,
+   "explanation": "Real is the currency of Brazil.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0766",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "32 - Sn",
     "32 - H",
     "32 - Ge",
     "32 - V"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 32 - Ge is correctly matched."
+   "answer": 2,
+   "explanation": "Only 32 - Ge is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0767",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Perplex - Remorseful",
     "Perplex - Self-satisfied",
     "Perplex - Confuse",
     "Perplex - Rebuke"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Perplex - Confuse is correctly matched."
+   "answer": 2,
+   "explanation": "Only Perplex - Confuse is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0768",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Succinct - Solitary",
     "Succinct - Talkative",
     "Succinct - Lengthy",
     "Succinct - Irresolute"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Succinct - Lengthy is correctly matched."
+   "answer": 2,
+   "explanation": "Only Succinct - Lengthy is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0769",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Odds and ends - Miscellaneous items",
     "Kick the bucket - Do or say the right thing",
     "Out and out - Thoroughly",
     "Hand in glove - In close partnership"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Kick the bucket - Do or say the right thing is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Kick the bucket - Do or say the right thing is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0770",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A place where medicines are prepared - Inaudible",
     "One who hates mankind - Misanthrope",
     "One who has an unreasonable fear of heights - Acrophobic",
     "A conversation between two people - Dialogue"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A place where medicines are prepared - Inaudible is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair A place where medicines are prepared - Inaudible is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0771",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Colleague - Febuary",
     "Colleague - Collegue",
     "Colleague - Liesure",
     "Colleague - Guage"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Colleague - Collegue is correctly matched."
+   "answer": 1,
+   "explanation": "Only Colleague - Collegue is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0772",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "SIDBI - Small Industries Development Bank of India",
     "SIDBI - Enforcement Directorate",
     "SIDBI - Magnetic Ink Character Recognition",
     "SIDBI - Central Board of Indirect Taxes and Customs"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only SIDBI - Small Industries Development Bank of India is correctly matched."
+   "answer": 0,
+   "explanation": "Only SIDBI - Small Industries Development Bank of India is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0773",
-   "q": "The currency Euro is used in which country?",
-   "o": [
+   "question": "The currency Euro is used in which country?",
+   "options": [
     "Sierra Leone",
     "Israel",
     "Slovakia",
     "Canada"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Euro is the currency of Slovakia."
+   "answer": 2,
+   "explanation": "Euro is the currency of Slovakia.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0774",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "32 - Ge",
     "32 - Te",
     "32 - Md",
     "32 - Ba"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 32 - Ge is correctly matched."
+   "answer": 0,
+   "explanation": "Only 32 - Ge is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0775",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Perplex - Confuse",
     "Perplex - Continuous",
     "Perplex - Calm",
     "Perplex - Unmanageable"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Perplex - Confuse is correctly matched."
+   "answer": 0,
+   "explanation": "Only Perplex - Confuse is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0776",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Succinct - Begin",
     "Succinct - Drought",
     "Succinct - Dull",
     "Succinct - Lengthy"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Succinct - Lengthy is correctly matched."
+   "answer": 3,
+   "explanation": "Only Succinct - Lengthy is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0777",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Spill the beans - Reveal secret information",
     "To turn a deaf ear - To ignore",
     "A feather in one's cap - An achievement to be proud of",
     "The die is cast - Live a miserable life"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair The die is cast - Live a miserable life is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair The die is cast - Live a miserable life is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0778",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "The murder of one's father - Patricide",
     "A person who is new to a profession - Novice",
     "One who eats human flesh - Cannibal",
     "A person who repairs shoes - Autobiography"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A person who repairs shoes - Autobiography is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair A person who repairs shoes - Autobiography is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0779",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Colleague - Hapiness",
     "Colleague - Collegue",
     "Colleague - Knowlege",
     "Colleague - Phenomenan"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Colleague - Collegue is correctly matched."
+   "answer": 1,
+   "explanation": "Only Colleague - Collegue is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0780",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "SIDBI - Small Industries Development Bank of India",
     "SIDBI - Gross Domestic Product",
     "SIDBI - Asian Infrastructure Investment Bank",
     "SIDBI - Central Board of Indirect Taxes and Customs"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only SIDBI - Small Industries Development Bank of India is correctly matched."
+   "answer": 0,
+   "explanation": "Only SIDBI - Small Industries Development Bank of India is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0781",
-   "q": "The currency Danish Krone is used in which country?",
-   "o": [
+   "question": "The currency Danish Krone is used in which country?",
+   "options": [
     "Ecuador",
     "Malawi",
     "Denmark",
     "Netherlands"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Danish Krone is the currency of Denmark."
+   "answer": 2,
+   "explanation": "Danish Krone is the currency of Denmark.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0782",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "114 - Fl",
     "114 - Pm",
     "114 - S",
     "114 - Pa"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 114 - Fl is correctly matched."
+   "answer": 0,
+   "explanation": "Only 114 - Fl is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0783",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Vehement - Decrease",
     "Vehement - Strict",
     "Vehement - Dreadful",
     "Vehement - Forceful"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vehement - Forceful is correctly matched."
+   "answer": 3,
+   "explanation": "Only Vehement - Forceful is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0784",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Pragmatic - Careless",
     "Pragmatic - Delay",
     "Pragmatic - Idealistic",
     "Pragmatic - Sorrowful"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pragmatic - Idealistic is correctly matched."
+   "answer": 2,
+   "explanation": "Only Pragmatic - Idealistic is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0785",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Few and far between - Rare",
     "Pay through the nose - Pay too much",
     "Cold shoulder - A selfish motive",
     "Dead letter - A law no longer observed"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Cold shoulder - A selfish motive is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Cold shoulder - A selfish motive is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0786",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Animals that live in groups - Cobbler",
     "One who has an unreasonable fear of strangers - Xenophobic",
     "A person who does not take any alcoholic drink - Teetotaller",
     "One who is all powerful - Omnipotent"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Animals that live in groups - Cobbler is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Animals that live in groups - Cobbler is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0787",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Believe - Beleive",
     "Believe - Villiage",
     "Believe - Dilemna",
     "Believe - Jealos"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Believe - Beleive is correctly matched."
+   "answer": 0,
+   "explanation": "Only Believe - Beleive is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0788",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "IRDAI - Consumer Price Index",
     "IRDAI - Insurance Regulatory and Development Authority of India",
     "IRDAI - Securities and Exchange Board of India",
     "IRDAI - Gross National Product"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only IRDAI - Insurance Regulatory and Development Authority of India is correctly matched."
+   "answer": 1,
+   "explanation": "Only IRDAI - Insurance Regulatory and Development Authority of India is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0789",
-   "q": "The currency Bolivar is used in which country?",
-   "o": [
+   "question": "The currency Bolivar is used in which country?",
+   "options": [
     "Venezuela",
     "Uruguay",
     "Suriname",
     "Norway"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Bolivar is the currency of Venezuela."
+   "answer": 0,
+   "explanation": "Bolivar is the currency of Venezuela.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0790",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "114 - B",
     "114 - H",
     "114 - Fl",
     "114 - As"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 114 - Fl is correctly matched."
+   "answer": 2,
+   "explanation": "Only 114 - Fl is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0791",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Vehement - Confuse",
     "Vehement - Forceful",
     "Vehement - Compassionate",
     "Vehement - Equivalent"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vehement - Forceful is correctly matched."
+   "answer": 1,
+   "explanation": "Only Vehement - Forceful is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0792",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Pragmatic - Confident",
     "Pragmatic - Stingy",
     "Pragmatic - Idealistic",
     "Pragmatic - Light"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pragmatic - Idealistic is correctly matched."
+   "answer": 2,
+   "explanation": "Only Pragmatic - Idealistic is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0793",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "By hook or by crook - Facing the same difficulty",
     "Laugh in one's sleeve - Laugh secretly",
     "Cut a sorry figure - Make a poor impression",
     "Kick the bucket - Die"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair By hook or by crook - Facing the same difficulty is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair By hook or by crook - Facing the same difficulty is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0794",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who studies birds - Democracy",
     "One who studies society - Sociologist",
     "A person who works with wood - Carpenter",
     "The murder of one's father - Patricide"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who studies birds - Democracy is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair One who studies birds - Democracy is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0795",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Believe - Hygeine",
     "Believe - Freind",
     "Believe - Noticable",
     "Believe - Beleive"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Believe - Beleive is correctly matched."
+   "answer": 3,
+   "explanation": "Only Believe - Beleive is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0796",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "IRDAI - International Monetary Fund",
     "IRDAI - Polar Satellite Launch Vehicle",
     "IRDAI - International Labour Organization",
     "IRDAI - Insurance Regulatory and Development Authority of India"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only IRDAI - Insurance Regulatory and Development Authority of India is correctly matched."
+   "answer": 3,
+   "explanation": "Only IRDAI - Insurance Regulatory and Development Authority of India is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0797",
-   "q": "The currency Lev is used in which country?",
-   "o": [
+   "question": "The currency Lev is used in which country?",
+   "options": [
     "Montenegro",
     "United Kingdom",
     "Bulgaria",
     "Greece"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Lev is the currency of Bulgaria."
+   "answer": 2,
+   "explanation": "Lev is the currency of Bulgaria.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0798",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "69 - Ni",
     "69 - Rb",
     "69 - Tm",
     "69 - Am"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 69 - Tm is correctly matched."
+   "answer": 2,
+   "explanation": "Only 69 - Tm is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0799",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Castigate - Punish",
     "Castigate - Confirm",
     "Castigate - Glaring",
     "Castigate - Sluggish"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Castigate - Punish is correctly matched."
+   "answer": 0,
+   "explanation": "Only Castigate - Punish is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0800",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Hamper - Assist",
     "Hamper - Serious",
     "Hamper - Careless",
     "Hamper - Sensible"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Hamper - Assist is correctly matched."
+   "answer": 0,
+   "explanation": "Only Hamper - Assist is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0801",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A gala day - Keep away from",
     "Burn one's boats - Act so as to make retreat impossible",
     "Cut a sorry figure - Make a poor impression",
     "Pull one's socks up - Make an effort to improve"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A gala day - Keep away from is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair A gala day - Keep away from is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0802",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who is between seventy and eighty years old - Septuagenarian",
     "One who is between sixty and seventy years old - Sexagenarian",
     "Plants that live for one season - Annuals",
     "A place where coins and stamps are made - Xenophobic"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A place where coins and stamps are made - Xenophobic is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair A place where coins and stamps are made - Xenophobic is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0803",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Changeable - Humerous",
     "Changeable - Writting",
     "Changeable - Changable",
     "Changeable - Occured"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Changeable - Changable is correctly matched."
+   "answer": 2,
+   "explanation": "Only Changeable - Changable is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0804",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "NDB - New Development Bank",
     "NDB - Central Board of Indirect Taxes and Customs",
     "NDB - Gross National Product",
     "NDB - Magnetic Resonance Imaging"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only NDB - New Development Bank is correctly matched."
+   "answer": 0,
+   "explanation": "Only NDB - New Development Bank is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0805",
-   "q": "The currency Belize Dollar is used in which country?",
-   "o": [
+   "question": "The currency Belize Dollar is used in which country?",
+   "options": [
     "Andorra",
     "Belize",
     "Jordan",
     "Hungary"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Belize Dollar is the currency of Belize."
+   "answer": 1,
+   "explanation": "Belize Dollar is the currency of Belize.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0806",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "69 - Fm",
     "69 - Tm",
     "69 - Zn",
     "69 - Tb"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 69 - Tm is correctly matched."
+   "answer": 1,
+   "explanation": "Only 69 - Tm is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0807",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Castigate - Ordinary",
     "Castigate - Infamous",
     "Castigate - Weaken",
     "Castigate - Punish"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Castigate - Punish is correctly matched."
+   "answer": 3,
+   "explanation": "Only Castigate - Punish is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0808",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Hamper - Avoidable",
     "Hamper - Assist",
     "Hamper - Praise",
     "Hamper - Feeble"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Hamper - Assist is correctly matched."
+   "answer": 1,
+   "explanation": "Only Hamper - Assist is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0809",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Fly in the face of - To lament what cannot be undone",
     "Hand in glove - In close partnership",
     "To let the grass grow under one's feet - To waste time",
     "Out and out - Thoroughly"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Fly in the face of - To lament what cannot be undone is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Fly in the face of - To lament what cannot be undone is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0810",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who has an unreasonable fear of being in closed spaces - Claustrophobic",
     "A person who takes care of books in a library - Librarian",
     "One who drinks too much alcohol - Drunkard",
     "A person who does not take any alcoholic drink - Dystopia"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A person who does not take any alcoholic drink - Dystopia is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair A person who does not take any alcoholic drink - Dystopia is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0811",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Changeable - Expedetion",
     "Changeable - Persistant",
     "Changeable - Hygeine",
     "Changeable - Changable"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Changeable - Changable is correctly matched."
+   "answer": 3,
+   "explanation": "Only Changeable - Changable is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0812",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "NDB - Small Industries Development Bank of India",
     "NDB - New Development Bank",
     "NDB - Foreign Portfolio Investment",
     "NDB - Comptroller and Auditor General"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only NDB - New Development Bank is correctly matched."
+   "answer": 1,
+   "explanation": "Only NDB - New Development Bank is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0813",
-   "q": "The currency Kip is used in which country?",
-   "o": [
+   "question": "The currency Kip is used in which country?",
+   "options": [
     "Laos",
     "Romania",
     "Bahamas",
     "Angola"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Kip is the currency of Laos."
+   "answer": 0,
+   "explanation": "Kip is the currency of Laos.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0814",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "57 - Eu",
     "57 - Cm",
     "57 - La",
     "57 - U"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 57 - La is correctly matched."
+   "answer": 2,
+   "explanation": "Only 57 - La is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0815",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Bewilder - Obvious",
     "Bewilder - Forgive",
     "Bewilder - Confuse",
     "Bewilder - Concise"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bewilder - Confuse is correctly matched."
+   "answer": 2,
+   "explanation": "Only Bewilder - Confuse is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0816",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Condone - Soothe",
     "Condone - Condemn",
     "Condone - Truth",
     "Condone - Birth"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Condone - Condemn is correctly matched."
+   "answer": 1,
+   "explanation": "Only Condone - Condemn is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0817",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "All in all - Most important",
     "To turn over a new leaf - Unfair",
     "Set the Thames on fire - Do something remarkable",
     "Take a back seat - Occupy a less important position"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair To turn over a new leaf - Unfair is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair To turn over a new leaf - Unfair is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0818",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who loves books - Bibliophile",
     "One who is between sixty and seventy years old - Sexagenarian",
     "Plants that live for two seasons - Biennials",
     "A person who takes care of books in a library - Abstruse"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A person who takes care of books in a library - Abstruse is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair A person who takes care of books in a library - Abstruse is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0819",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Religious - Comparision",
     "Religious - Mischievious",
     "Religious - Sophistocated",
     "Religious - Religous"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Religious - Religous is correctly matched."
+   "answer": 3,
+   "explanation": "Only Religious - Religous is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0820",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "AIDS - Sports Authority of India",
     "AIDS - Know Your Customer",
     "AIDS - Pradhan Mantri Jan Arogya Yojana",
     "AIDS - Acquired Immune Deficiency Syndrome"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only AIDS - Acquired Immune Deficiency Syndrome is correctly matched."
+   "answer": 3,
+   "explanation": "Only AIDS - Acquired Immune Deficiency Syndrome is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0821",
-   "q": "The currency Kenyan Shilling is used in which country?",
-   "o": [
+   "question": "The currency Kenyan Shilling is used in which country?",
+   "options": [
     "Philippines",
     "Estonia",
     "Japan",
     "Kenya"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Kenyan Shilling is the currency of Kenya."
+   "answer": 3,
+   "explanation": "Kenyan Shilling is the currency of Kenya.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0822",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "57 - La",
     "57 - Ta",
     "57 - Cr",
     "57 - O"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 57 - La is correctly matched."
+   "answer": 0,
+   "explanation": "Only 57 - La is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0823",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Bewilder - Mystery",
     "Bewilder - Astonishing",
     "Bewilder - Irritable",
     "Bewilder - Confuse"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bewilder - Confuse is correctly matched."
+   "answer": 3,
+   "explanation": "Only Bewilder - Confuse is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0824",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Condone - Humble",
     "Condone - Permanent",
     "Condone - Condemn",
     "Condone - Liking"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Condone - Condemn is correctly matched."
+   "answer": 2,
+   "explanation": "Only Condone - Condemn is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0825",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Cut a sorry figure - Make a poor impression",
     "Give a wide berth - Die while working",
     "To bell the cat - To take the risk",
     "Find fault with - Criticise"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Give a wide berth - Die while working is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Give a wide berth - Die while working is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0826",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A place where coins and stamps are made - Mint",
     "A person who works with wood - Armoury",
     "One who studies population - Demographer",
     "One who looks at the dark side of things - Pessimist"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A person who works with wood - Armoury is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair A person who works with wood - Armoury is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0827",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Religious - Wellcome",
     "Religious - Dissapoint",
     "Religious - Courgaeous",
     "Religious - Religous"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Religious - Religous is correctly matched."
+   "answer": 3,
+   "explanation": "Only Religious - Religous is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0828",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "AIDS - Acquired Immune Deficiency Syndrome",
     "AIDS - Union Public Service Commission",
     "AIDS - Brahmaputra Moscow missile",
     "AIDS - International Olympic Committee"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only AIDS - Acquired Immune Deficiency Syndrome is correctly matched."
+   "answer": 0,
+   "explanation": "Only AIDS - Acquired Immune Deficiency Syndrome is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0829",
-   "q": "The currency Leu is used in which country?",
-   "o": [
+   "question": "The currency Leu is used in which country?",
+   "options": [
     "Cuba",
     "Romania",
     "Senegal",
     "Israel"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Leu is the currency of Romania."
+   "answer": 1,
+   "explanation": "Leu is the currency of Romania.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0830",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "88 - Ra",
     "88 - Y",
     "88 - No",
     "88 - Pt"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 88 - Ra is correctly matched."
+   "answer": 0,
+   "explanation": "Only 88 - Ra is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0831",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Punctilious - Meticulous",
     "Punctilious - Pliable",
     "Punctilious - Wandering",
     "Punctilious - Inactive"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Punctilious - Meticulous is correctly matched."
+   "answer": 0,
+   "explanation": "Only Punctilious - Meticulous is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0832",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ratify - Talkative",
     "Ratify - Blame",
     "Ratify - Reject",
     "Ratify - Dissatisfied"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ratify - Reject is correctly matched."
+   "answer": 2,
+   "explanation": "Only Ratify - Reject is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0833",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Up to the mark - Of the required standard",
     "Put the cart before the horse - Do things in the wrong order",
     "Dead letter - A law no longer observed",
     "Go to the dogs - Reveal a secret"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Go to the dogs - Reveal a secret is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Go to the dogs - Reveal a secret is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0834",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who has an unreasonable fear of strangers - Xenophobic",
     "A life story written by oneself - Entomologist",
     "A person whose life story is written by another - Biographer",
     "Government by a king or queen - Monarchy"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A life story written by oneself - Entomologist is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair A life story written by oneself - Entomologist is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0835",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Misspell - Vaccum",
     "Misspell - Minature",
     "Misspell - Abundence",
     "Misspell - Mispell"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Misspell - Mispell is correctly matched."
+   "answer": 3,
+   "explanation": "Only Misspell - Mispell is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0836",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "ILO - Organisation for Economic Co-operation and Development",
     "ILO - Mahatma Gandhi National Rural Employment Guarantee Scheme",
     "ILO - Goods and Services Tax",
     "ILO - International Labour Organization"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only ILO - International Labour Organization is correctly matched."
+   "answer": 3,
+   "explanation": "Only ILO - International Labour Organization is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0837",
-   "q": "The currency US Dollar is used in which country?",
-   "o": [
+   "question": "The currency US Dollar is used in which country?",
+   "options": [
     "United Arab Emirates",
     "Latvia",
     "United States of America",
     "Turkey"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "US Dollar is the currency of United States of America."
+   "answer": 2,
+   "explanation": "US Dollar is the currency of United States of America.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0838",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "88 - Pt",
     "88 - Ra",
     "88 - Rf",
     "88 - Ru"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 88 - Ra is correctly matched."
+   "answer": 1,
+   "explanation": "Only 88 - Ra is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0839",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Punctilious - Meticulous",
     "Punctilious - Self-satisfied",
     "Punctilious - Flatterer",
     "Punctilious - Distinguished"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Punctilious - Meticulous is correctly matched."
+   "answer": 0,
+   "explanation": "Only Punctilious - Meticulous is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0840",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ratify - Sorrowful",
     "Ratify - Frugal",
     "Ratify - Reject",
     "Ratify - Satisfied"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ratify - Reject is correctly matched."
+   "answer": 2,
+   "explanation": "Only Ratify - Reject is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0841",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Eat humble pie - Apologise humbly",
     "Dodge the issue - Deliberately and without emotion",
     "Go to the dogs - Be ruined",
     "Odds and ends - Miscellaneous items"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Dodge the issue - Deliberately and without emotion is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Dodge the issue - Deliberately and without emotion is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0842",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who knows everything - Omniscient",
     "Rule by a mob - Acrophobic",
     "A disease that spreads over a large area - Epidemic",
     "One who has an unreasonable fear of water - Hydrophobic"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Rule by a mob - Acrophobic is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Rule by a mob - Acrophobic is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0843",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Misspell - Mispell",
     "Misspell - Concious",
     "Misspell - Apparant",
     "Misspell - Quanity"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Misspell - Mispell is correctly matched."
+   "answer": 0,
+   "explanation": "Only Misspell - Mispell is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0844",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "ILO - International Labour Organization",
     "ILO - Real Time Gross Settlement",
     "ILO - Polar Satellite Launch Vehicle",
     "ILO - Central Statistics Office"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only ILO - International Labour Organization is correctly matched."
+   "answer": 0,
+   "explanation": "Only ILO - International Labour Organization is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0845",
-   "q": "The currency Tenge is used in which country?",
-   "o": [
+   "question": "The currency Tenge is used in which country?",
+   "options": [
     "Brazil",
     "Ecuador",
     "Australia",
     "Kazakhstan"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Tenge is the currency of Kazakhstan."
+   "answer": 3,
+   "explanation": "Tenge is the currency of Kazakhstan.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0846",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "51 - Mo",
     "51 - Sb",
     "51 - Pu",
     "51 - He"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 51 - Sb is correctly matched."
+   "answer": 1,
+   "explanation": "Only 51 - Sb is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0847",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Abundant - Plentiful",
     "Abundant - Flexible",
     "Abundant - Shrewd",
     "Abundant - Travelling"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Abundant - Plentiful is correctly matched."
+   "answer": 0,
+   "explanation": "Only Abundant - Plentiful is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0848",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Scrupulous - Unscrupulous",
     "Scrupulous - Intermittent",
     "Scrupulous - Scanty",
     "Scrupulous - Birth"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Scrupulous - Unscrupulous is correctly matched."
+   "answer": 0,
+   "explanation": "Only Scrupulous - Unscrupulous is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0849",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Let the cat out of the bag - Reveal a secret",
     "Make both ends meet - Manage within one's income",
     "Read between the lines - Deeply involved",
     "Rule the roost - Be the dominant person"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Read between the lines - Deeply involved is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Read between the lines - Deeply involved is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0850",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Government by a king or queen - Monarchy",
     "One who drinks too much alcohol - Drunkard",
     "One who looks at the dark side of things - Atheist",
     "Government by the nobility - Aristocracy"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who looks at the dark side of things - Atheist is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair One who looks at the dark side of things - Atheist is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0851",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Surprise - Suprise",
     "Surprise - Perseverence",
     "Surprise - Superintendant",
     "Surprise - Hereditory"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Surprise - Suprise is correctly matched."
+   "answer": 0,
+   "explanation": "Only Surprise - Suprise is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0852",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "BIS - Asian Infrastructure Investment Bank",
     "BIS - Bureau of Indian Standards",
     "BIS - Consumer Price Index",
     "BIS - United Nations High Commissioner for Refugees"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only BIS - Bureau of Indian Standards is correctly matched."
+   "answer": 1,
+   "explanation": "Only BIS - Bureau of Indian Standards is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0853",
-   "q": "The currency Euro is used in which country?",
-   "o": [
+   "question": "The currency Euro is used in which country?",
+   "options": [
     "United States of America",
     "Barbados",
     "Italy",
     "Kazakhstan"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Euro is the currency of Italy."
+   "answer": 2,
+   "explanation": "Euro is the currency of Italy.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0854",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "51 - Pt",
     "51 - Tb",
     "51 - Au",
     "51 - Sb"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 51 - Sb is correctly matched."
+   "answer": 3,
+   "explanation": "Only 51 - Sb is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0855",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Abundant - Talkative",
     "Abundant - Plentiful",
     "Abundant - Distinguished",
     "Abundant - Uniform"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Abundant - Plentiful is correctly matched."
+   "answer": 1,
+   "explanation": "Only Abundant - Plentiful is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0856",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Scrupulous - Impossible",
     "Scrupulous - Polite",
     "Scrupulous - Unscrupulous",
     "Scrupulous - Thrifty"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Scrupulous - Unscrupulous is correctly matched."
+   "answer": 2,
+   "explanation": "Only Scrupulous - Unscrupulous is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0857",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "To keep one's fingers crossed - To hope for success",
     "Like a fish out of water - Uncomfortable",
     "Cat's paw - Fail to have the intended effect",
     "Get the sack - Be dismissed from a job"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Cat's paw - Fail to have the intended effect is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Cat's paw - Fail to have the intended effect is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0858",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who drinks too much alcohol - Drunkard",
     "The murder of one's father - Patricide",
     "One who cannot be imitated - Inimitable",
     "Something that lasts for a very short time - Autocracy"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Something that lasts for a very short time - Autocracy is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Something that lasts for a very short time - Autocracy is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0859",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Surprise - Suprise",
     "Surprise - Curtesy",
     "Surprise - Accidently",
     "Surprise - Ambitous"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Surprise - Suprise is correctly matched."
+   "answer": 0,
+   "explanation": "Only Surprise - Suprise is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0860",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "BIS - Bureau of Indian Standards",
     "BIS - Federation Internationale de Football Association",
     "BIS - Railway Recruitment Board",
     "BIS - Pradhan Mantri Jan Dhan Yojana"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only BIS - Bureau of Indian Standards is correctly matched."
+   "answer": 0,
+   "explanation": "Only BIS - Bureau of Indian Standards is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0861",
-   "q": "The currency Cedi is used in which country?",
-   "o": [
+   "question": "The currency Cedi is used in which country?",
+   "options": [
     "Serbia",
     "Central African Republic",
     "Malaysia",
     "Ghana"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Cedi is the currency of Ghana."
+   "answer": 3,
+   "explanation": "Cedi is the currency of Ghana.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0862",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "44 - Zr",
     "44 - Ru",
     "44 - In",
     "44 - Pb"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 44 - Ru is correctly matched."
+   "answer": 1,
+   "explanation": "Only 44 - Ru is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0863",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Tenacious - Persistent",
     "Tenacious - Prudent",
     "Tenacious - Disprove",
     "Tenacious - Conspicuous"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Tenacious - Persistent is correctly matched."
+   "answer": 0,
+   "explanation": "Only Tenacious - Persistent is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0864",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Irascible - Even-tempered",
     "Irascible - Diminish",
     "Irascible - Biased",
     "Irascible - Avoidable"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Irascible - Even-tempered is correctly matched."
+   "answer": 0,
+   "explanation": "Only Irascible - Even-tempered is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0865",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Keep one's fingers crossed - Be satisfied with past achievements",
     "Call a spade a spade - Speak plainly",
     "Wear one's heart on one's sleeve - Show one's feelings openly",
     "Speak volumes - Convey a great deal"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Keep one's fingers crossed - Be satisfied with past achievements is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Keep one's fingers crossed - Be satisfied with past achievements is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0866",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who is easily deceived - Gullible",
     "One who is more than one hundred years old - Aquarium",
     "Something that is very obvious - Manifest",
     "A person who mends clothes - Tailor"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who is more than one hundred years old - Aquarium is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair One who is more than one hundred years old - Aquarium is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0867",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Appearance - Idiosyncracy",
     "Appearance - Achievment",
     "Appearance - Yeild",
     "Appearance - Appearence"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Appearance - Appearence is correctly matched."
+   "answer": 3,
+   "explanation": "Only Appearance - Appearence is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0868",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "SAARC - South Asian Association for Regional Cooperation",
     "SAARC - Indian Standards Institution",
     "SAARC - Organization of the Petroleum Exporting Countries",
     "SAARC - Group of Twenty major economies"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only SAARC - South Asian Association for Regional Cooperation is correctly matched."
+   "answer": 0,
+   "explanation": "Only SAARC - South Asian Association for Regional Cooperation is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0869",
-   "q": "The currency Euro is used in which country?",
-   "o": [
+   "question": "The currency Euro is used in which country?",
+   "options": [
     "Paraguay",
     "Cameroon",
     "Germany",
     "Eritrea"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Euro is the currency of Germany."
+   "answer": 2,
+   "explanation": "Euro is the currency of Germany.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0870",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "44 - Zr",
     "44 - Ru",
     "44 - Md",
     "44 - Sc"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 44 - Ru is correctly matched."
+   "answer": 1,
+   "explanation": "Only 44 - Ru is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0871",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Tenacious - Patience",
     "Tenacious - Plentiful",
     "Tenacious - Persistent",
     "Tenacious - Flexible"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Tenacious - Persistent is correctly matched."
+   "answer": 2,
+   "explanation": "Only Tenacious - Persistent is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0872",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Irascible - Provoke",
     "Irascible - Even-tempered",
     "Irascible - Confidence",
     "Irascible - Permanent"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Irascible - Even-tempered is correctly matched."
+   "answer": 1,
+   "explanation": "Only Irascible - Even-tempered is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0873",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Mealy-mouthed - Punish",
     "End in smoke - Come to nothing",
     "Feather one's nest - Make money selfishly",
     "Rain cats and dogs - Rain heavily"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Mealy-mouthed - Punish is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Mealy-mouthed - Punish is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0874",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who cannot be corrected - Incorrigible",
     "Something that can be easily broken - Fragile",
     "A place where aircraft are kept - Abstruse",
     "A person who abstains from eating meat - Vegetarian"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A place where aircraft are kept - Abstruse is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair A place where aircraft are kept - Abstruse is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0875",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Appearance - Sincerly",
     "Appearance - Aquaintance",
     "Appearance - Desparate",
     "Appearance - Appearence"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Appearance - Appearence is correctly matched."
+   "answer": 3,
+   "explanation": "Only Appearance - Appearence is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0876",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "SAARC - All India Council for Technical Education",
     "SAARC - International Committee of the Red Cross",
     "SAARC - Securities and Exchange Board of India",
     "SAARC - South Asian Association for Regional Cooperation"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only SAARC - South Asian Association for Regional Cooperation is correctly matched."
+   "answer": 3,
+   "explanation": "Only SAARC - South Asian Association for Regional Cooperation is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0877",
-   "q": "The currency CFA Franc is used in which country?",
-   "o": [
+   "question": "The currency CFA Franc is used in which country?",
+   "options": [
     "Iceland",
     "Liechtenstein",
     "Ukraine",
     "Gabon"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "CFA Franc is the currency of Gabon."
+   "answer": 3,
+   "explanation": "CFA Franc is the currency of Gabon.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0878",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "59 - Pr",
     "59 - P",
     "59 - Xe",
     "59 - Te"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 59 - Pr is correctly matched."
+   "answer": 0,
+   "explanation": "Only 59 - Pr is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0879",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Laconic - Failure",
     "Laconic - Confuse",
     "Laconic - Severe",
     "Laconic - Brief"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Laconic - Brief is correctly matched."
+   "answer": 3,
+   "explanation": "Only Laconic - Brief is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0880",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Demise - Birth",
     "Demise - Extend",
     "Demise - Hostile",
     "Demise - Permanent"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Demise - Birth is correctly matched."
+   "answer": 0,
+   "explanation": "Only Demise - Birth is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0881",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Make both ends meet - Manage within one's income",
     "Close shave - A narrow escape",
     "At the eleventh hour - To retract one's statement",
     "A dark horse - An unexpected winner"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair At the eleventh hour - To retract one's statement is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair At the eleventh hour - To retract one's statement is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0882",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who is more than one hundred years old - Centenarian",
     "One who studies animals - Zoologist",
     "One who speaks many languages - Polyglot",
     "A medicine that reduces pain - Novice"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A medicine that reduces pain - Novice is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair A medicine that reduces pain - Novice is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0883",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Pursue - Cheif",
     "Pursue - Wellcome",
     "Pursue - Ridiculos",
     "Pursue - Persue"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pursue - Persue is correctly matched."
+   "answer": 3,
+   "explanation": "Only Pursue - Persue is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0884",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "CBSE - Indian Institute of Management",
     "CBSE - Federation Internationale de Football Association",
     "CBSE - Foreign Direct Investment",
     "CBSE - Central Board of Secondary Education"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only CBSE - Central Board of Secondary Education is correctly matched."
+   "answer": 3,
+   "explanation": "Only CBSE - Central Board of Secondary Education is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0885",
-   "q": "The currency Kyat is used in which country?",
-   "o": [
+   "question": "The currency Kyat is used in which country?",
+   "options": [
     "Myanmar",
     "China",
     "United Kingdom",
     "Germany"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Kyat is the currency of Myanmar."
+   "answer": 0,
+   "explanation": "Kyat is the currency of Myanmar.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0886",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "59 - Bi",
     "59 - Pr",
     "59 - He",
     "59 - W"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 59 - Pr is correctly matched."
+   "answer": 1,
+   "explanation": "Only 59 - Pr is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0887",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Laconic - Occasional",
     "Laconic - Brief",
     "Laconic - Vague",
     "Laconic - Propriety"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Laconic - Brief is correctly matched."
+   "answer": 1,
+   "explanation": "Only Laconic - Brief is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0888",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Demise - Evasive",
     "Demise - Neglect",
     "Demise - Birth",
     "Demise - Permanent"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Demise - Birth is correctly matched."
+   "answer": 2,
+   "explanation": "Only Demise - Birth is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0889",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Carry coals to Newcastle - Do a pointless thing",
     "To keep one's fingers crossed - Thoroughly",
     "Pull one's socks up - Make an effort to improve",
     "Run amuck - Act wildly"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair To keep one's fingers crossed - Thoroughly is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair To keep one's fingers crossed - Thoroughly is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0890",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A person who repairs shoes - Cobbler",
     "One who can use both hands equally well - Inevitable",
     "One who loves collecting stamps - Philatelist",
     "A conversation between two people - Dialogue"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who can use both hands equally well - Inevitable is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair One who can use both hands equally well - Inevitable is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0891",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Pursue - Priviledge",
     "Pursue - Referance",
     "Pursue - Persue",
     "Pursue - Personel"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pursue - Persue is correctly matched."
+   "answer": 2,
+   "explanation": "Only Pursue - Persue is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0892",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "CBSE - Central Board of Secondary Education",
     "CBSE - Central Teacher Eligibility Test",
     "CBSE - Foreign Direct Investment",
     "CBSE - Central Board of Direct Taxes"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only CBSE - Central Board of Secondary Education is correctly matched."
+   "answer": 0,
+   "explanation": "Only CBSE - Central Board of Secondary Education is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0893",
-   "q": "The currency Iranian Rial is used in which country?",
-   "o": [
+   "question": "The currency Iranian Rial is used in which country?",
+   "options": [
     "Ukraine",
     "San Marino",
     "Montenegro",
     "Iran"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Iranian Rial is the currency of Iran."
+   "answer": 3,
+   "explanation": "Iranian Rial is the currency of Iran.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0894",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "17 - Ir",
     "17 - Cs",
     "17 - Cl",
     "17 - Br"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 17 - Cl is correctly matched."
+   "answer": 2,
+   "explanation": "Only 17 - Cl is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0895",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Clandestine - Short-lived",
     "Clandestine - Outrageous",
     "Clandestine - Kind",
     "Clandestine - Secret"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Clandestine - Secret is correctly matched."
+   "answer": 3,
+   "explanation": "Only Clandestine - Secret is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0896",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Humane - Malevolent",
     "Humane - Improve",
     "Humane - Certain",
     "Humane - Cruel"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Humane - Cruel is correctly matched."
+   "answer": 3,
+   "explanation": "Only Humane - Cruel is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0897",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "To show the door - Something that seems bad but turns out to be good",
     "Hand in glove - In close partnership",
     "Rest on one's laurels - Be satisfied with past achievements",
     "End in smoke - Come to nothing"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair To show the door - Something that seems bad but turns out to be good is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair To show the door - Something that seems bad but turns out to be good is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0898",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Something that cannot be eaten - Inedible",
     "A place where fishes are kept - Aquarium",
     "A word formed from the initial letters of other words - Acronym",
     "One who studies languages - Omnivores"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who studies languages - Omnivores is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair One who studies languages - Omnivores is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0899",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Jewellery - Jewelery",
     "Jewellery - Woolen",
     "Jewellery - Interupt",
     "Jewellery - Accomodation"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Jewellery - Jewelery is correctly matched."
+   "answer": 0,
+   "explanation": "Only Jewellery - Jewelery is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0900",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "GNP - National Electronic Funds Transfer",
     "GNP - Food and Agriculture Organization",
     "GNP - Bureau of Indian Standards",
     "GNP - Gross National Product"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only GNP - Gross National Product is correctly matched."
+   "answer": 3,
+   "explanation": "Only GNP - Gross National Product is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0901",
-   "q": "The currency Euro is used in which country?",
-   "o": [
+   "question": "The currency Euro is used in which country?",
+   "options": [
     "Turkmenistan",
     "Australia",
     "France",
     "Sweden"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Euro is the currency of France."
+   "answer": 2,
+   "explanation": "Euro is the currency of France.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0902",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "17 - Ho",
     "17 - Sr",
     "17 - Cl",
     "17 - Al"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 17 - Cl is correctly matched."
+   "answer": 2,
+   "explanation": "Only 17 - Cl is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0903",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Clandestine - Meticulous",
     "Clandestine - Risky",
     "Clandestine - Secret",
     "Clandestine - Superfluous"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Clandestine - Secret is correctly matched."
+   "answer": 2,
+   "explanation": "Only Clandestine - Secret is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0904",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Humane - Favourable",
     "Humane - Careless",
     "Humane - Cruel",
     "Humane - Genuine"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Humane - Cruel is correctly matched."
+   "answer": 2,
+   "explanation": "Only Humane - Cruel is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0905",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Green horn - An inexperienced person",
     "Show the white flag - A railway engine",
     "Fly in the face of - Act in defiance of",
     "A fish out of water - A person in an uncomfortable situation"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Show the white flag - A railway engine is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Show the white flag - A railway engine is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0906",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who does not know how to read and write - Illiterate",
     "A person who takes care of books in a library - Librarian",
     "A person who sells flowers - Florist",
     "Government by religious leaders - Antonyms"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Government by religious leaders - Antonyms is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Government by religious leaders - Antonyms is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0907",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Jewellery - Yeild",
     "Jewellery - Posession",
     "Jewellery - Jewelery",
     "Jewellery - Febuary"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Jewellery - Jewelery is correctly matched."
+   "answer": 2,
+   "explanation": "Only Jewellery - Jewelery is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0908",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "GNP - Pradhan Mantri Gram Sadak Yojana",
     "GNP - Gross National Product",
     "GNP - Pradhan Mantri Jan Arogya Yojana",
     "GNP - International Maritime Organization"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only GNP - Gross National Product is correctly matched."
+   "answer": 1,
+   "explanation": "Only GNP - Gross National Product is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0909",
-   "q": "The currency Cordoba is used in which country?",
-   "o": [
+   "question": "The currency Cordoba is used in which country?",
+   "options": [
     "Chad",
     "Hungary",
     "Nicaragua",
     "Nepal"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Cordoba is the currency of Nicaragua."
+   "answer": 2,
+   "explanation": "Cordoba is the currency of Nicaragua.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0910",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "84 - Po",
     "84 - Ag",
     "84 - Bi",
     "84 - La"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 84 - Po is correctly matched."
+   "answer": 0,
+   "explanation": "Only 84 - Po is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0911",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Trivial - Charity",
     "Trivial - Insignificant",
     "Trivial - Annoy",
     "Trivial - Obscure"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Trivial - Insignificant is correctly matched."
+   "answer": 1,
+   "explanation": "Only Trivial - Insignificant is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0912",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Cordial - Suppress",
     "Cordial - Definite",
     "Cordial - Hostile",
     "Cordial - Lenient"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Cordial - Hostile is correctly matched."
+   "answer": 2,
+   "explanation": "Only Cordial - Hostile is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0913",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Few and far between - Rare",
     "To smell a rat - To suspect foul play",
     "Null and void - Invalid",
     "All in all - Much excitement over a trivial matter"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair All in all - Much excitement over a trivial matter is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair All in all - Much excitement over a trivial matter is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0914",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A place where money is coined - Mint",
     "A study of the human body - Anatomy",
     "One who never makes a mistake - Utopia",
     "One who studies society - Sociologist"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who never makes a mistake - Utopia is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair One who never makes a mistake - Utopia is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0915",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Management - Pronounciation",
     "Management - Wenesday",
     "Management - Cemetry",
     "Management - Managment"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Management - Managment is correctly matched."
+   "answer": 3,
+   "explanation": "Only Management - Managment is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0916",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "SSB - Know Your Customer",
     "SSB - Sashastra Seema Bal",
     "SSB - Magnetic Ink Character Recognition",
     "SSB - National Eligibility cum Entrance Test"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only SSB - Sashastra Seema Bal is correctly matched."
+   "answer": 1,
+   "explanation": "Only SSB - Sashastra Seema Bal is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0917",
-   "q": "The currency Hryvnia is used in which country?",
-   "o": [
+   "question": "The currency Hryvnia is used in which country?",
+   "options": [
     "Malta",
     "Luxembourg",
     "Tunisia",
     "Ukraine"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Hryvnia is the currency of Ukraine."
+   "answer": 3,
+   "explanation": "Hryvnia is the currency of Ukraine.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0918",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "84 - Po",
     "84 - Mg",
     "84 - Rn",
     "84 - Cl"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 84 - Po is correctly matched."
+   "answer": 0,
+   "explanation": "Only 84 - Po is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0919",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Trivial - Insignificant",
     "Trivial - Prominent",
     "Trivial - Filthy",
     "Trivial - Pliable"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Trivial - Insignificant is correctly matched."
+   "answer": 0,
+   "explanation": "Only Trivial - Insignificant is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0920",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Cordial - Contradict",
     "Cordial - Careless",
     "Cordial - Hostile",
     "Cordial - Original"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Cordial - Hostile is correctly matched."
+   "answer": 2,
+   "explanation": "Only Cordial - Hostile is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0921",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "An open book - Something easily understood",
     "Fall flat - Fail to have the intended effect",
     "Dragging one's feet - Deliberately delaying",
     "At the drop of a hat - To break a promise"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair At the drop of a hat - To break a promise is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair At the drop of a hat - To break a promise is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0922",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "The murder of a king - Nuisance",
     "A person who guides tourists - Guide",
     "Words with the same meaning - Synonyms",
     "A place where animals are kept - Zoo"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair The murder of a king - Nuisance is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair The murder of a king - Nuisance is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0923",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Management - Transfering",
     "Management - Managment",
     "Management - Concieted",
     "Management - Neccessary"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Management - Managment is correctly matched."
+   "answer": 1,
+   "explanation": "Only Management - Managment is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0924",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "SSB - Central Statistics Office",
     "SSB - Electromotive Force",
     "SSB - Food and Agriculture Organization",
     "SSB - Sashastra Seema Bal"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only SSB - Sashastra Seema Bal is correctly matched."
+   "answer": 3,
+   "explanation": "Only SSB - Sashastra Seema Bal is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0925",
-   "q": "The currency Ariary is used in which country?",
-   "o": [
+   "question": "The currency Ariary is used in which country?",
+   "options": [
     "Montenegro",
     "Madagascar",
     "Estonia",
     "Mauritania"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Ariary is the currency of Madagascar."
+   "answer": 1,
+   "explanation": "Ariary is the currency of Madagascar.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0926",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "113 - Nd",
     "113 - Er",
     "113 - Cn",
     "113 - Nh"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 113 - Nh is correctly matched."
+   "answer": 3,
+   "explanation": "Only 113 - Nh is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0927",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Astute - Learned",
     "Astute - Shrewd",
     "Astute - Describe",
     "Astute - Greed"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Astute - Shrewd is correctly matched."
+   "answer": 1,
+   "explanation": "Only Astute - Shrewd is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0928",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Imminent - Respected",
     "Imminent - Flowing",
     "Imminent - Distant",
     "Imminent - Plenty"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Imminent - Distant is correctly matched."
+   "answer": 2,
+   "explanation": "Only Imminent - Distant is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0929",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Lose one's head - Lose self-control",
     "Rule the roost - Be the dominant person",
     "Come to light - Become known",
     "Up to the mark - Study or work late into the night"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Up to the mark - Study or work late into the night is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Up to the mark - Study or work late into the night is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0930",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Rule by a mob - Mobocracy",
     "The murder of one's father - Patricide",
     "One who lives alone and avoids company - Regicide",
     "A person who works with wood - Carpenter"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who lives alone and avoids company - Regicide is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair One who lives alone and avoids company - Regicide is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0931",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "February - Changable",
     "February - Indispensible",
     "February - Febuary",
     "February - Lightening"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only February - Febuary is correctly matched."
+   "answer": 2,
+   "explanation": "Only February - Febuary is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0932",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "RRB - Regional Rural Bank",
     "RRB - Pradhan Mantri Fasal Bima Yojana",
     "RRB - World Intellectual Property Organization",
     "RRB - Special Economic Zone"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only RRB - Regional Rural Bank is correctly matched."
+   "answer": 0,
+   "explanation": "Only RRB - Regional Rural Bank is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0933",
-   "q": "The currency Seychellois Rupee is used in which country?",
-   "o": [
+   "question": "The currency Seychellois Rupee is used in which country?",
+   "options": [
     "Mongolia",
     "Portugal",
     "Seychelles",
     "Mexico"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Seychellois Rupee is the currency of Seychelles."
+   "answer": 2,
+   "explanation": "Seychellois Rupee is the currency of Seychelles.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0934",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "113 - Bh",
     "113 - Ar",
     "113 - Nh",
     "113 - W"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 113 - Nh is correctly matched."
+   "answer": 2,
+   "explanation": "Only 113 - Nh is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0935",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Astute - Skilled",
     "Astute - Shrewd",
     "Astute - Compel",
     "Astute - Subservient"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Astute - Shrewd is correctly matched."
+   "answer": 1,
+   "explanation": "Only Astute - Shrewd is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0936",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Imminent - Distant",
     "Imminent - Increase",
     "Imminent - Manifest",
     "Imminent - Respect"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Imminent - Distant is correctly matched."
+   "answer": 0,
+   "explanation": "Only Imminent - Distant is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0937",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "To turn a deaf ear - To ignore",
     "To fight a losing battle - To struggle without hope of success",
     "A dark horse - An unexpected winner",
     "Sailing in the same boat - Reprimand"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Sailing in the same boat - Reprimand is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Sailing in the same boat - Reprimand is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0938",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "A place where coins and stamps are made - Mint",
     "One who studies the origin of words - Etymologist",
     "A cure for all diseases - Panacea",
     "Words written on a tomb - Omnipresent"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Words written on a tomb - Omnipresent is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Words written on a tomb - Omnipresent is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0939",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "February - Catagory",
     "February - Febuary",
     "February - Aquaintance",
     "February - Gaurantee"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only February - Febuary is correctly matched."
+   "answer": 1,
+   "explanation": "Only February - Febuary is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0940",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "RRB - Regional Rural Bank",
     "RRB - United Nations High Commissioner for Refugees",
     "RRB - Goods and Services Tax",
     "RRB - National Stock Exchange"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only RRB - Regional Rural Bank is correctly matched."
+   "answer": 0,
+   "explanation": "Only RRB - Regional Rural Bank is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0941",
-   "q": "The currency Namibian Dollar is used in which country?",
-   "o": [
+   "question": "The currency Namibian Dollar is used in which country?",
+   "options": [
     "Brunei",
     "Kazakhstan",
     "Democratic Republic of the Congo",
     "Namibia"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Namibian Dollar is the currency of Namibia."
+   "answer": 3,
+   "explanation": "Namibian Dollar is the currency of Namibia.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0942",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "45 - Pm",
     "45 - Eu",
     "45 - Rh",
     "45 - Kr"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 45 - Rh is correctly matched."
+   "answer": 2,
+   "explanation": "Only 45 - Rh is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0943",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Expedite - Hasten",
     "Expedite - Flood",
     "Expedite - Generous",
     "Expedite - Mystery"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Expedite - Hasten is correctly matched."
+   "answer": 0,
+   "explanation": "Only Expedite - Hasten is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0944",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Erudite - Extraordinary",
     "Erudite - Fearful",
     "Erudite - Fragile",
     "Erudite - Ignorant"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Erudite - Ignorant is correctly matched."
+   "answer": 3,
+   "explanation": "Only Erudite - Ignorant is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0945",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "By hook or by crook - By fair or unfair means",
     "Tide over - Help in a difficult period",
     "Dragging one's feet - Deliberately delaying",
     "Hand in glove - Apologise humbly"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Hand in glove - Apologise humbly is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Hand in glove - Apologise humbly is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0946",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who does not know how to read and write - Illiterate",
     "One who studies plants - Botanist",
     "One who cannot read or write - Illiterate",
     "A substance that prevents infection - Aquarium"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A substance that prevents infection - Aquarium is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair A substance that prevents infection - Aquarium is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0947",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Supersede - Supercede",
     "Supersede - Heros",
     "Supersede - Repitition",
     "Supersede - Fulfill"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Supersede - Supercede is correctly matched."
+   "answer": 0,
+   "explanation": "Only Supersede - Supercede is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0948",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "FRBM - Commission for Agricultural Costs and Prices",
     "FRBM - Punjab National Bank",
     "FRBM - Fiscal Responsibility and Budget Management",
     "FRBM - Deoxyribonucleic Acid"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only FRBM - Fiscal Responsibility and Budget Management is correctly matched."
+   "answer": 2,
+   "explanation": "Only FRBM - Fiscal Responsibility and Budget Management is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0949",
-   "q": "The currency CFA Franc is used in which country?",
-   "o": [
+   "question": "The currency CFA Franc is used in which country?",
+   "options": [
     "Burkina Faso",
     "Mexico",
     "Uzbekistan",
     "Somalia"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "CFA Franc is the currency of Burkina Faso."
+   "answer": 0,
+   "explanation": "CFA Franc is the currency of Burkina Faso.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0950",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "45 - Rh",
     "45 - H",
     "45 - Mc",
     "45 - Fl"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 45 - Rh is correctly matched."
+   "answer": 0,
+   "explanation": "Only 45 - Rh is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0951",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Expedite - Dilemma",
     "Expedite - Hasten",
     "Expedite - Thin",
     "Expedite - Stubborn"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Expedite - Hasten is correctly matched."
+   "answer": 1,
+   "explanation": "Only Expedite - Hasten is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0952",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Erudite - Improve",
     "Erudite - Blame",
     "Erudite - Ignorant",
     "Erudite - Safe"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Erudite - Ignorant is correctly matched."
+   "answer": 2,
+   "explanation": "Only Erudite - Ignorant is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0953",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "At sixes and sevens - In disorder",
     "Cold shoulder - Deliberate indifference",
     "Rest on one's laurels - To shift responsibility",
     "A red letter day - An important day"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Rest on one's laurels - To shift responsibility is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Rest on one's laurels - To shift responsibility is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0954",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Animals that eat plants and flesh - Omnivores",
     "The practice of having many wives - Polygamy",
     "A person who talks in his sleep - Somniloquist",
     "One who loves mankind - Epitaph"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who loves mankind - Epitaph is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair One who loves mankind - Epitaph is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0955",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Supersede - Supercede",
     "Supersede - Referance",
     "Supersede - Sargeant",
     "Supersede - Relevent"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Supersede - Supercede is correctly matched."
+   "answer": 0,
+   "explanation": "Only Supersede - Supercede is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0956",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "FRBM - Association of Mutual Funds in India",
     "FRBM - Bhabha Atomic Research Centre",
     "FRBM - Fiscal Responsibility and Budget Management",
     "FRBM - Geostationary Earth Orbit"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only FRBM - Fiscal Responsibility and Budget Management is correctly matched."
+   "answer": 2,
+   "explanation": "Only FRBM - Fiscal Responsibility and Budget Management is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0957",
-   "q": "The currency Somoni is used in which country?",
-   "o": [
+   "question": "The currency Somoni is used in which country?",
+   "options": [
     "Saudi Arabia",
     "Latvia",
     "Tajikistan",
     "Madagascar"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Somoni is the currency of Tajikistan."
+   "answer": 2,
+   "explanation": "Somoni is the currency of Tajikistan.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0958",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "54 - Xe",
     "54 - Au",
     "54 - Mo",
     "54 - Tb"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 54 - Xe is correctly matched."
+   "answer": 0,
+   "explanation": "Only 54 - Xe is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0959",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Innovative - Greed",
     "Innovative - Original",
     "Innovative - Predicament",
     "Innovative - Excessive"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Innovative - Original is correctly matched."
+   "answer": 1,
+   "explanation": "Only Innovative - Original is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0960",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Spurious - Divided",
     "Spurious - Genuine",
     "Spurious - Beneficial",
     "Spurious - Original"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Spurious - Genuine is correctly matched."
+   "answer": 1,
+   "explanation": "Only Spurious - Genuine is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0961",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "All in all - Most important",
     "To put a spoke in one's wheel - To obstruct a plan",
     "Once in a blue moon - A narrow escape",
     "Dodge the issue - Avoid the main point"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Once in a blue moon - A narrow escape is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Once in a blue moon - A narrow escape is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0962",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "The murder of a human being - Homicide",
     "One who lives a simple life without possessions - Annuals",
     "A life story written by another person - Biography",
     "One who studies population - Demographer"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who lives a simple life without possessions - Annuals is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair One who lives a simple life without possessions - Annuals is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0963",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Lightning - Anonimous",
     "Lightning - Geniune",
     "Lightning - Lightening",
     "Lightning - Phenomenan"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Lightning - Lightening is correctly matched."
+   "answer": 2,
+   "explanation": "Only Lightning - Lightening is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0964",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "IFSC - Indian Financial System Code",
     "IFSC - Asian Development Bank",
     "IFSC - European Organization for Nuclear Research",
     "IFSC - Association of South East Asian Nations"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only IFSC - Indian Financial System Code is correctly matched."
+   "answer": 0,
+   "explanation": "Only IFSC - Indian Financial System Code is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0965",
-   "q": "The currency Euro is used in which country?",
-   "o": [
+   "question": "The currency Euro is used in which country?",
+   "options": [
     "Japan",
     "Austria",
     "Vatican City",
     "Republic of the Congo"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Euro is the currency of Vatican City."
+   "answer": 2,
+   "explanation": "Euro is the currency of Vatican City.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0966",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "54 - Xe",
     "54 - Tc",
     "54 - U",
     "54 - Mg"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 54 - Xe is correctly matched."
+   "answer": 0,
+   "explanation": "Only 54 - Xe is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0967",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Innovative - Changeable",
     "Innovative - Original",
     "Innovative - Trivial",
     "Innovative - Superfluous"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Innovative - Original is correctly matched."
+   "answer": 1,
+   "explanation": "Only Innovative - Original is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0968",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Spurious - Reveal",
     "Spurious - Lengthy",
     "Spurious - Intermittent",
     "Spurious - Genuine"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Spurious - Genuine is correctly matched."
+   "answer": 3,
+   "explanation": "Only Spurious - Genuine is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0969",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Fly off the handle - Lose one's temper suddenly",
     "For good - Permanently",
     "To play to the gallery - Be ruined",
     "Wear one's heart on one's sleeve - Show one's feelings openly"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair To play to the gallery - Be ruined is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair To play to the gallery - Be ruined is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0970",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who believes in the existence of God - Chauvinism",
     "A medicine that reduces pain - Analgesic",
     "A disease that spreads worldwide - Pandemic",
     "A place where bees are kept - Apiary"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who believes in the existence of God - Chauvinism is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair One who believes in the existence of God - Chauvinism is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0971",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Lightning - Accesible",
     "Lightning - Lightening",
     "Lightning - Oportunity",
     "Lightning - Unforseen"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Lightning - Lightening is correctly matched."
+   "answer": 1,
+   "explanation": "Only Lightning - Lightening is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0972",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "IFSC - Intelligence Bureau",
     "IFSC - Indian Financial System Code",
     "IFSC - Pradhan Mantri Ujjwala Yojana",
     "IFSC - Central Teacher Eligibility Test"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only IFSC - Indian Financial System Code is correctly matched."
+   "answer": 1,
+   "explanation": "Only IFSC - Indian Financial System Code is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0973",
-   "q": "The currency Swiss Franc is used in which country?",
-   "o": [
+   "question": "The currency Swiss Franc is used in which country?",
+   "options": [
     "Andorra",
     "Tanzania",
     "Romania",
     "Liechtenstein"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Swiss Franc is the currency of Liechtenstein."
+   "answer": 3,
+   "explanation": "Swiss Franc is the currency of Liechtenstein.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0974",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "15 - Rh",
     "15 - Bi",
     "15 - Au",
     "15 - P"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 15 - P is correctly matched."
+   "answer": 3,
+   "explanation": "Only 15 - P is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0975",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Indolent - Sensible",
     "Indolent - Lazy",
     "Indolent - Anger",
     "Indolent - Disparage"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Indolent - Lazy is correctly matched."
+   "answer": 1,
+   "explanation": "Only Indolent - Lazy is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0976",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ominous - Plentiful",
     "Ominous - Original",
     "Ominous - Favourable",
     "Ominous - Lax"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ominous - Favourable is correctly matched."
+   "answer": 2,
+   "explanation": "Only Ominous - Favourable is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0977",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Above board - Honest and open",
     "An open book - Something easily understood",
     "Pay through the nose - A controversial issue",
     "By and large - Generally"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Pay through the nose - A controversial issue is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Pay through the nose - A controversial issue is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0978",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who is between seventy and eighty years old - Septuagenarian",
     "Plants that live for one season - Theocracy",
     "One who is always hopeful - Optimist",
     "A place where weapons are stored - Armoury"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Plants that live for one season - Theocracy is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Plants that live for one season - Theocracy is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0979",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Beginning - Enrollment",
     "Beginning - Agressive",
     "Beginning - Enviroment",
     "Beginning - Begining"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Beginning - Begining is correctly matched."
+   "answer": 3,
+   "explanation": "Only Beginning - Begining is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0980",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "UNDP - Electromotive Force",
     "UNDP - Universal Postal Union",
     "UNDP - Institute of Banking Personnel Selection",
     "UNDP - United Nations Development Programme"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only UNDP - United Nations Development Programme is correctly matched."
+   "answer": 3,
+   "explanation": "Only UNDP - United Nations Development Programme is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0981",
-   "q": "The currency Euro is used in which country?",
-   "o": [
+   "question": "The currency Euro is used in which country?",
+   "options": [
     "Eswatini",
     "Slovenia",
     "Netherlands",
     "France"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Euro is the currency of Netherlands."
+   "answer": 2,
+   "explanation": "Euro is the currency of Netherlands.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0982",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "15 - P",
     "15 - Rf",
     "15 - Cs",
     "15 - Dy"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 15 - P is correctly matched."
+   "answer": 0,
+   "explanation": "Only 15 - P is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0983",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Indolent - Lazy",
     "Indolent - Starvation",
     "Indolent - Disprove",
     "Indolent - Respected"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Indolent - Lazy is correctly matched."
+   "answer": 0,
+   "explanation": "Only Indolent - Lazy is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0984",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ominous - Unruly",
     "Ominous - Favourable",
     "Ominous - Idealistic",
     "Ominous - Abundance"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ominous - Favourable is correctly matched."
+   "answer": 1,
+   "explanation": "Only Ominous - Favourable is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0985",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Go through fire and water - In a great hurry",
     "Live from hand to mouth - Barely manage to survive",
     "To turn a deaf ear - To ignore",
     "Green horn - An inexperienced person"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Go through fire and water - In a great hurry is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Go through fire and water - In a great hurry is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0986",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "One who loves collecting coins - Numismatist",
     "A person who has just started learning something - Monologue",
     "An imaginary place where everything is bad - Dystopia",
     "A person who walks in his sleep - Somnambulist"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair A person who has just started learning something - Monologue is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair A person who has just started learning something - Monologue is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0987",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Beginning - Appropraite",
     "Beginning - Embarass",
     "Beginning - Interupt",
     "Beginning - Begining"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Beginning - Begining is correctly matched."
+   "answer": 3,
+   "explanation": "Only Beginning - Begining is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0988",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "UNDP - Enforcement Directorate",
     "UNDP - National Defence Academy",
     "UNDP - Telecom Regulatory Authority of India",
     "UNDP - United Nations Development Programme"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only UNDP - United Nations Development Programme is correctly matched."
+   "answer": 3,
+   "explanation": "Only UNDP - United Nations Development Programme is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0989",
-   "q": "The currency CFA Franc is used in which country?",
-   "o": [
+   "question": "The currency CFA Franc is used in which country?",
+   "options": [
     "Cameroon",
     "Nepal",
     "Jamaica",
     "Fiji"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "CFA Franc is the currency of Cameroon."
+   "answer": 0,
+   "explanation": "CFA Franc is the currency of Cameroon.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0990",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "66 - Es",
     "66 - Dy",
     "66 - Tm",
     "66 - Er"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 66 - Dy is correctly matched."
+   "answer": 1,
+   "explanation": "Only 66 - Dy is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0991",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Paucity - Inherent",
     "Paucity - Scarcity",
     "Paucity - Hidden",
     "Paucity - Shy"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Paucity - Scarcity is correctly matched."
+   "answer": 1,
+   "explanation": "Only Paucity - Scarcity is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0992",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Sporadic - Frequent",
     "Sporadic - Sensible",
     "Sporadic - Reveal",
     "Sporadic - Scarce"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sporadic - Frequent is correctly matched."
+   "answer": 0,
+   "explanation": "Only Sporadic - Frequent is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0993",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "To have a finger in every pie - To be involved in everything",
     "Have an axe to grind - Have a selfish motive",
     "Tide over - Help in a difficult period",
     "Fair-weather friend - Speak plainly"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Fair-weather friend - Speak plainly is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Fair-weather friend - Speak plainly is not correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0994",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Plants that live for one season - Annuals",
     "A place where birds are kept - Aviary",
     "One who studies the origin of words - Theist",
     "A disease that spreads by contact - Contagious"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair One who studies the origin of words - Theist is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair One who studies the origin of words - Theist is not correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0995",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Immediate - Immediat",
     "Immediate - Procede",
     "Immediate - Religous",
     "Immediate - Cemetry"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Immediate - Immediat is correctly matched."
+   "answer": 0,
+   "explanation": "Only Immediate - Immediat is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0996",
-   "q": "Which of the following pairs of abbreviation and full form is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of abbreviation and full form is correctly matched?",
+   "options": [
     "ATP - National Human Rights Commission",
     "ATP - National Defence Academy",
     "ATP - Institute of Banking Personnel Selection",
     "ATP - Adenosine Triphosphate"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Only ATP - Adenosine Triphosphate is correctly matched."
+   "answer": 3,
+   "explanation": "Only ATP - Adenosine Triphosphate is correctly matched.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0997",
-   "q": "The currency Nakfa is used in which country?",
-   "o": [
+   "question": "The currency Nakfa is used in which country?",
+   "options": [
     "Ukraine",
     "Jamaica",
     "Eritrea",
     "Barbados"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Nakfa is the currency of Eritrea."
+   "answer": 2,
+   "explanation": "Nakfa is the currency of Eritrea.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0998",
-   "q": "Which of the following pairs of element and symbol is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of element and symbol is correctly matched?",
+   "options": [
     "66 - Dy",
     "66 - Er",
     "66 - Ts",
     "66 - Be"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 3,
-   "s": "generated",
-   "e": "Only 66 - Dy is correctly matched."
+   "answer": 0,
+   "explanation": "Only 66 - Dy is correctly matched.",
+   "topic": "Periodic Table",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-0999",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Paucity - Scarcity",
     "Paucity - Greed",
     "Paucity - Concise",
     "Paucity - Absurd"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Paucity - Scarcity is correctly matched."
+   "answer": 0,
+   "explanation": "Only Paucity - Scarcity is correctly matched.",
+   "topic": "Synonyms",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p17-1000",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Sporadic - Frequent",
     "Sporadic - Explicit",
     "Sporadic - Rare",
     "Sporadic - Decide"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sporadic - Frequent is correctly matched."
+   "answer": 0,
+   "explanation": "Only Sporadic - Frequent is correctly matched.",
+   "topic": "Antonyms",
+   "level": 3,
+   "source": "generated"
   }
  ]
 };

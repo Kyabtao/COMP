@@ -16,4203 +16,4203 @@
  "questions": [
   {
    "id": "general-english-grammar-00001",
-   "q": "Choose the correct sentence.",
-   "o": [
+   "question": "Choose the correct sentence.",
+   "options": [
     "He is one of the best player in the team.",
     "He is one of the best players in the team.",
     "He is one of best players in team.",
     "He is one of the best players of the team."
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "'One of the' is followed by a plural noun."
+   "answer": 1,
+   "explanation": "'One of the' is followed by a plural noun.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "general-english-grammar-00002",
-   "q": "Fill in the blank: She has been waiting for you ____ morning.",
-   "o": [
+   "question": "Fill in the blank: She has been waiting for you ____ morning.",
+   "options": [
     "since",
     "from",
     "for",
     "by"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "'Since' is used with a point of time such as morning here."
+   "answer": 0,
+   "explanation": "'Since' is used with a point of time such as morning here.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "general-english-grammar-00003",
-   "q": "Fill in the blank: He is senior ____ me by two years.",
-   "o": [
+   "question": "Fill in the blank: He is senior ____ me by two years.",
+   "options": [
     "than",
     "to",
     "from",
     "of"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Latin comparatives like senior, junior, superior take 'to'."
+   "answer": 1,
+   "explanation": "Latin comparatives like senior, junior, superior take 'to'.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "general-english-grammar-00004",
-   "q": "Choose the correct passive voice: 'The teacher praised him.'",
-   "o": [
+   "question": "Choose the correct passive voice: 'The teacher praised him.'",
+   "options": [
     "He was praised by the teacher.",
     "He is praised by the teacher.",
     "He had praised by the teacher.",
     "He has praised by the teacher."
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The simple past active becomes 'was/were + past participle' in the passive."
+   "answer": 0,
+   "explanation": "The simple past active becomes 'was/were + past participle' in the passive.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "general-english-grammar-00005",
-   "q": "Choose the correct indirect speech: He said, 'I am reading a book.'",
-   "o": [
+   "question": "Choose the correct indirect speech: He said, 'I am reading a book.'",
+   "options": [
     "He said that he is reading a book.",
     "He said that he was reading a book.",
     "He said that I was reading a book.",
     "He says that he was reading a book."
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The present continuous changes to the past continuous in indirect speech."
+   "answer": 1,
+   "explanation": "The present continuous changes to the past continuous in indirect speech.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "general-english-grammar-00006",
-   "q": "Which sentence is grammatically correct?",
-   "o": [
+   "question": "Which sentence is grammatically correct?",
+   "options": [
     "Each of the boys have a pen.",
     "Each of the boys has a pen.",
     "Each of the boy has a pen.",
     "Each of the boys having a pen."
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "'Each' takes a singular verb."
+   "answer": 1,
+   "explanation": "'Each' takes a singular verb.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "general-english-grammar-00007",
-   "q": "Fill in the blank: If I ____ rich, I would travel the world.",
-   "o": [
+   "question": "Fill in the blank: If I ____ rich, I would travel the world.",
+   "options": [
     "am",
     "was",
     "were",
     "will be"
    ],
-   "a": 2,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "The unreal past condition uses 'were' in the subjunctive."
+   "answer": 2,
+   "explanation": "The unreal past condition uses 'were' in the subjunctive.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "general-english-grammar-00008",
-   "q": "Pick the correctly spelt word.",
-   "o": [
+   "question": "Pick the correctly spelt word.",
+   "options": [
     "Recieve",
     "Receive",
     "Receeve",
     "Receve"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The rule 'i before e except after c' gives 'receive'."
+   "answer": 1,
+   "explanation": "The rule 'i before e except after c' gives 'receive'.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "general-english-grammar-00009",
-   "q": "Choose the correct article: He is ____ honest man.",
-   "o": [
+   "question": "Choose the correct article: He is ____ honest man.",
+   "options": [
     "a",
     "an",
     "the",
     "no article"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "'Honest' begins with a vowel sound, so 'an' is used."
+   "answer": 1,
+   "explanation": "'Honest' begins with a vowel sound, so 'an' is used.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "general-english-grammar-00010",
-   "q": "Fill in the blank: The jury ____ divided in their opinions.",
-   "o": [
+   "question": "Fill in the blank: The jury ____ divided in their opinions.",
+   "options": [
     "was",
     "were",
     "is",
     "has"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "When the members of a collective noun act individually, a plural verb is used."
+   "answer": 1,
+   "explanation": "When the members of a collective noun act individually, a plural verb is used.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "general-english-grammar-00011",
-   "q": "Choose the correct preposition: He is good ____ English.",
-   "o": [
+   "question": "Choose the correct preposition: He is good ____ English.",
+   "options": [
     "in",
     "at",
     "on",
     "with"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "'Good at' is the correct collocation for a skill or subject."
+   "answer": 1,
+   "explanation": "'Good at' is the correct collocation for a skill or subject.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "general-english-grammar-00012",
-   "q": "Identify the part of speech of the underlined word: 'She sings beautifully.'",
-   "o": [
+   "question": "Identify the part of speech of the underlined word: 'She sings beautifully.'",
+   "options": [
     "Adjective",
     "Adverb",
     "Noun",
     "Verb"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The word 'beautifully' modifies the verb 'sings', so it is an adverb."
+   "answer": 1,
+   "explanation": "The word 'beautifully' modifies the verb 'sings', so it is an adverb.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "general-english-grammar-00013",
-   "q": "Choose the correct question tag: She is coming, ____?",
-   "o": [
+   "question": "Choose the correct question tag: She is coming, ____?",
+   "options": [
     "is she",
     "isn't she",
     "does she",
     "doesn't she"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "A positive statement takes a negative tag with the same auxiliary."
+   "answer": 1,
+   "explanation": "A positive statement takes a negative tag with the same auxiliary.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "general-english-grammar-00014",
-   "q": "Fill in the blank: He works ____ than his brother.",
-   "o": [
+   "question": "Fill in the blank: He works ____ than his brother.",
+   "options": [
     "hard",
     "harder",
     "hardest",
     "more hard"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The comparative degree 'harder' is used with 'than'."
+   "answer": 1,
+   "explanation": "The comparative degree 'harder' is used with 'than'.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "general-english-grammar-00015",
-   "q": "Which is the correct plural of 'crisis'?",
-   "o": [
+   "question": "Which is the correct plural of 'crisis'?",
+   "options": [
     "Crisises",
     "Crises",
     "Crisis",
     "Crisi"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Greek nouns ending in -is form the plural in -es."
+   "answer": 1,
+   "explanation": "Greek nouns ending in -is form the plural in -es.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "general-english-grammar-00016",
-   "q": "Choose the sentence with the correct use of 'much' and 'many'.",
-   "o": [
+   "question": "Choose the sentence with the correct use of 'much' and 'many'.",
+   "options": [
     "How much books do you have?",
     "How many books do you have?",
     "How many money do you have?",
     "How much of books do you have?"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "'Many' is used with countable nouns and 'much' with uncountable nouns."
+   "answer": 1,
+   "explanation": "'Many' is used with countable nouns and 'much' with uncountable nouns.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "general-english-grammar-00017",
-   "q": "Fill in the blank: Neither of the two answers ____ correct.",
-   "o": [
+   "question": "Fill in the blank: Neither of the two answers ____ correct.",
+   "options": [
     "are",
     "is",
     "were",
     "have been"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "'Neither of' takes a singular verb."
+   "answer": 1,
+   "explanation": "'Neither of' takes a singular verb.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "general-english-grammar-00018",
-   "q": "Choose the correct word: The effect of the medicine was ____.",
-   "o": [
+   "question": "Choose the correct word: The effect of the medicine was ____.",
+   "options": [
     "immediate",
     "immediately",
     "immediacy",
     "immediateness"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The adjective 'immediate' follows the linking verb 'was'."
+   "answer": 0,
+   "explanation": "The adjective 'immediate' follows the linking verb 'was'.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "general-english-grammar-00019",
-   "q": "Fill in the blank: I would rather ____ at home tonight.",
-   "o": [
+   "question": "Fill in the blank: I would rather ____ at home tonight.",
+   "options": [
     "staying",
     "to stay",
     "stay",
     "stayed"
    ],
-   "a": 2,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "'Would rather' is followed by the bare infinitive."
+   "answer": 2,
+   "explanation": "'Would rather' is followed by the bare infinitive.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "general-english-grammar-00020",
-   "q": "Choose the correct form: The number of students ____ increasing every year.",
-   "o": [
+   "question": "Choose the correct form: The number of students ____ increasing every year.",
+   "options": [
     "are",
     "is",
     "were",
     "have been"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "'The number of' takes a singular verb."
+   "answer": 1,
+   "explanation": "'The number of' takes a singular verb.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "general-english-grammar-00021",
-   "q": "Which sentence uses the apostrophe correctly?",
-   "o": [
+   "question": "Which sentence uses the apostrophe correctly?",
+   "options": [
     "The girls books are new.",
     "The girl's books are new.",
     "The girls' book's are new.",
     "The girl's book's are new."
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The apostrophe before 's' shows singular possession."
+   "answer": 1,
+   "explanation": "The apostrophe before 's' shows singular possession.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "general-english-grammar-00022",
-   "q": "Choose the word most similar in meaning to Futile.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Futile.",
+   "options": [
     "Hopeless",
     "Decrease",
     "Useless",
     "Sluggish"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Futile means Useless."
+   "answer": 2,
+   "explanation": "Futile means Useless.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00023",
-   "q": "Choose the word most opposite in meaning to Tentative.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Tentative.",
+   "options": [
     "Idealistic",
     "Counterfeit",
     "Unscrupulous",
     "Definite"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Tentative is Definite."
+   "answer": 3,
+   "explanation": "The opposite of Tentative is Definite.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00024",
-   "q": "What is the meaning of the idiom 'Ride roughshod'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Ride roughshod'?",
+   "options": [
     "Treat harshly",
     "Unacceptable",
     "Miscellaneous items",
     "Avoid"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Ride roughshod' means Treat harshly."
+   "answer": 0,
+   "explanation": "'Ride roughshod' means Treat harshly.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00025",
-   "q": "Choose the one word substitute for: The murder of one's father",
-   "o": [
+   "question": "Choose the one word substitute for: The murder of one's father",
+   "options": [
     "Patricide",
     "Regicide",
     "Polygamy",
     "Vegan"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "The murder of one's father — Patricide."
+   "answer": 0,
+   "explanation": "The murder of one's father — Patricide.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00026",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Emperor",
     "Battalion",
     "Occurred",
     "Successful"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Emperor."
+   "answer": 0,
+   "explanation": "The correct spelling is Emperor.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00027",
-   "q": "What is the plural of Child?",
-   "o": [
+   "question": "What is the plural of Child?",
+   "options": [
     "Lookers-on",
     "Women",
     "Children",
     "Matrices"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Child is Children."
+   "answer": 2,
+   "explanation": "The plural of Child is Children.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00028",
-   "q": "What is the feminine form of Steward?",
-   "o": [
+   "question": "What is the feminine form of Steward?",
+   "options": [
     "Godmother",
     "Bitch",
     "Leopardess",
     "Stewardess"
    ],
-   "a": 3,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Steward is Stewardess."
+   "answer": 3,
+   "explanation": "The feminine of Steward is Stewardess.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00029",
-   "q": "What is the comparative degree of Kind?",
-   "o": [
+   "question": "What is the comparative degree of Kind?",
+   "options": [
     "Kinder",
     "Finer",
     "Deeper",
     "Smaller"
    ],
-   "a": 0,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Kind — Kinder — Kindest."
+   "answer": 0,
+   "explanation": "Kind — Kinder — Kindest.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00030",
-   "q": "Fill in the blank with the correct preposition: He is jealous ____ his friend.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: He is jealous ____ his friend.",
+   "options": [
     "of",
     "on",
     "to",
     "with"
    ],
-   "a": 0,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'of'."
+   "answer": 0,
+   "explanation": "The correct preposition is 'of'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00031",
-   "q": "What is a word that joins two clauses called?",
-   "o": [
+   "question": "What is a word that joins two clauses called?",
+   "options": [
     "Brought",
     "Conjunction",
     "Past continuous",
     "Adverb"
    ],
-   "a": 1,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 1,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00032",
-   "q": "Choose the word most similar in meaning to Mitigate.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Mitigate.",
+   "options": [
     "Glaring",
     "Relieve",
     "Peculiarity",
     "Hardworking"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Mitigate means Relieve."
+   "answer": 1,
+   "explanation": "Mitigate means Relieve.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00033",
-   "q": "Choose the word most opposite in meaning to Inveterate.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Inveterate.",
+   "options": [
     "Familiar",
     "Occasional",
     "Sincerity",
     "Serious"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Inveterate is Occasional."
+   "answer": 1,
+   "explanation": "The opposite of Inveterate is Occasional.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00034",
-   "q": "What is the meaning of the idiom 'Blow one's own trumpet'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Blow one's own trumpet'?",
+   "options": [
     "Praise oneself",
     "To ask someone to leave",
     "To seek popular approval",
     "Completely"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Blow one's own trumpet' means Praise oneself."
+   "answer": 0,
+   "explanation": "'Blow one's own trumpet' means Praise oneself.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00035",
-   "q": "Choose the one word substitute for: A place where birds are kept",
-   "o": [
+   "question": "Choose the one word substitute for: A place where birds are kept",
+   "options": [
     "Barber",
     "Bureaucracy",
     "Epidemic",
     "Aviary"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "A place where birds are kept — Aviary."
+   "answer": 3,
+   "explanation": "A place where birds are kept — Aviary.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00036",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Courageous",
     "Achievement",
     "Welcome",
     "Proceed"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Achievement."
+   "answer": 1,
+   "explanation": "The correct spelling is Achievement.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00037",
-   "q": "What is the plural of Mouse?",
-   "o": [
+   "question": "What is the plural of Mouse?",
+   "options": [
     "Species",
     "Echoes",
     "Series",
     "Mice"
    ],
-   "a": 3,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Mouse is Mice."
+   "answer": 3,
+   "explanation": "The plural of Mouse is Mice.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00038",
-   "q": "What is the feminine form of Boy?",
-   "o": [
+   "question": "What is the feminine form of Boy?",
+   "options": [
     "Baroness",
     "Girl",
     "Countess",
     "Manageress"
    ],
-   "a": 1,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Boy is Girl."
+   "answer": 1,
+   "explanation": "The feminine of Boy is Girl.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00039",
-   "q": "What is the comparative degree of Cold?",
-   "o": [
+   "question": "What is the comparative degree of Cold?",
+   "options": [
     "Taller",
     "Colder",
     "Worse",
     "Happier"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Cold — Colder — Coldest."
+   "answer": 1,
+   "explanation": "Cold — Colder — Coldest.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00040",
-   "q": "Fill in the blank with the correct preposition: He insisted ____ going alone.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: He insisted ____ going alone.",
+   "options": [
     "in",
     "on",
     "of",
     "since"
    ],
-   "a": 1,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'on'."
+   "answer": 1,
+   "explanation": "The correct preposition is 'on'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00041",
-   "q": "Which tense is used for an action completed before another past action?",
-   "o": [
+   "question": "Which tense is used for an action completed before another past action?",
+   "options": [
     "If",
     "Past perfect tense",
     "Constellation",
     "Caught"
    ],
-   "a": 1,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 1,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00042",
-   "q": "Choose the word most similar in meaning to Myriad.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Myriad.",
+   "options": [
     "Harmless",
     "Predicament",
     "Countless",
     "Nurture"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Myriad means Countless."
+   "answer": 2,
+   "explanation": "Myriad means Countless.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00043",
-   "q": "Choose the word most opposite in meaning to Audacious.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Audacious.",
+   "options": [
     "Timid",
     "Significant",
     "Taciturn",
     "Drought"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Audacious is Timid."
+   "answer": 0,
+   "explanation": "The opposite of Audacious is Timid.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00044",
-   "q": "What is the meaning of the idiom 'A chip on the shoulder'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'A chip on the shoulder'?",
+   "options": [
     "A difficult problem",
     "Face any danger",
     "Fail or be defeated",
     "A feeling of resentment"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'A chip on the shoulder' means A feeling of resentment."
+   "answer": 3,
+   "explanation": "'A chip on the shoulder' means A feeling of resentment.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00045",
-   "q": "Choose the one word substitute for: One who speaks very little",
-   "o": [
+   "question": "Choose the one word substitute for: One who speaks very little",
+   "options": [
     "Biennials",
     "Taciturn",
     "Pessimist",
     "Polyandry"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "One who speaks very little — Taciturn."
+   "answer": 1,
+   "explanation": "One who speaks very little — Taciturn.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00046",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Questionnaire",
     "Conscious",
     "Accidentally",
     "Tongue"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Questionnaire."
+   "answer": 0,
+   "explanation": "The correct spelling is Questionnaire.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00047",
-   "q": "What is the plural of Echo?",
-   "o": [
+   "question": "What is the plural of Echo?",
+   "options": [
     "Buses",
     "Boxes",
     "Echoes",
     "Stories"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Echo is Echoes."
+   "answer": 2,
+   "explanation": "The plural of Echo is Echoes.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00048",
-   "q": "What is the feminine form of Bachelor?",
-   "o": [
+   "question": "What is the feminine form of Bachelor?",
+   "options": [
     "Bride",
     "Spinster",
     "Aunt",
     "Mare"
    ],
-   "a": 1,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Bachelor is Spinster."
+   "answer": 1,
+   "explanation": "The feminine of Bachelor is Spinster.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00049",
-   "q": "What is the comparative degree of Gentle?",
-   "o": [
+   "question": "What is the comparative degree of Gentle?",
+   "options": [
     "Fatter",
     "Better",
     "Taller",
     "Gentler"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Gentle — Gentler — Gentlest."
+   "answer": 3,
+   "explanation": "Gentle — Gentler — Gentlest.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00050",
-   "q": "Fill in the blank with the correct preposition: He is blind ____ one eye.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: He is blind ____ one eye.",
+   "options": [
     "with",
     "on",
     "of",
     "in"
    ],
-   "a": 3,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'in'."
+   "answer": 3,
+   "explanation": "The correct preposition is 'in'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00051",
-   "q": "Which article is used before a unique noun like the sun?",
-   "o": [
+   "question": "Which article is used before a unique noun like the sun?",
+   "options": [
     "The",
     "Bought",
     "Information",
     "Written"
    ],
-   "a": 0,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 0,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00052",
-   "q": "Choose the word most similar in meaning to Coerce.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Coerce.",
+   "options": [
     "Compel",
     "Dangerous",
     "Patience",
     "Greedy"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Coerce means Compel."
+   "answer": 0,
+   "explanation": "Coerce means Compel.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00053",
-   "q": "Choose the word most opposite in meaning to Munificent.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Munificent.",
+   "options": [
     "Reject",
     "Convict",
     "Stingy",
     "Condemn"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Munificent is Stingy."
+   "answer": 2,
+   "explanation": "The opposite of Munificent is Stingy.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00054",
-   "q": "What is the meaning of the idiom 'Castles in the air'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Castles in the air'?",
+   "options": [
     "Avoid",
     "A very difficult task",
     "Daydreams",
     "Be satisfied with past achievements"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Castles in the air' means Daydreams."
+   "answer": 2,
+   "explanation": "'Castles in the air' means Daydreams.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00055",
-   "q": "Choose the one word substitute for: One who studies languages",
-   "o": [
+   "question": "Choose the one word substitute for: One who studies languages",
+   "options": [
     "Tailor",
     "Cobbler",
     "Linguist",
     "Chauvinism"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "One who studies languages — Linguist."
+   "answer": 2,
+   "explanation": "One who studies languages — Linguist.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00056",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Grammar",
     "Woollen",
     "Aggravate",
     "Threshold"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Grammar."
+   "answer": 0,
+   "explanation": "The correct spelling is Grammar.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00057",
-   "q": "What is the plural of Knife?",
-   "o": [
+   "question": "What is the plural of Knife?",
+   "options": [
     "Foci",
     "Buffaloes",
     "Men",
     "Knives"
    ],
-   "a": 3,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Knife is Knives."
+   "answer": 3,
+   "explanation": "The plural of Knife is Knives.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00058",
-   "q": "What is the feminine form of Baron?",
-   "o": [
+   "question": "What is the feminine form of Baron?",
+   "options": [
     "Authoress",
     "Baroness",
     "Heroine",
     "Godmother"
    ],
-   "a": 1,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Baron is Baroness."
+   "answer": 1,
+   "explanation": "The feminine of Baron is Baroness.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00059",
-   "q": "What is the comparative degree of Slow?",
-   "o": [
+   "question": "What is the comparative degree of Slow?",
+   "options": [
     "Slower",
     "More important",
     "Hotter",
     "Colder"
    ],
-   "a": 0,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Slow — Slower — Slowest."
+   "answer": 0,
+   "explanation": "Slow — Slower — Slowest.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00060",
-   "q": "Fill in the blank with the correct preposition: I am looking forward ____ meeting you.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: I am looking forward ____ meeting you.",
+   "options": [
     "to",
     "from",
     "on",
     "of"
    ],
-   "a": 0,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'to'."
+   "answer": 0,
+   "explanation": "The correct preposition is 'to'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00061",
-   "q": "What is a noun that cannot be counted called?",
-   "o": [
+   "question": "What is a noun that cannot be counted called?",
+   "options": [
     "Courageous",
     "Present perfect",
     "Passive voice",
     "Uncountable noun"
    ],
-   "a": 3,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 3,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00062",
-   "q": "Choose the word most similar in meaning to Opulent.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Opulent.",
+   "options": [
     "Wealthy",
     "Penniless",
     "Relieve",
     "Destroy"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Opulent means Wealthy."
+   "answer": 0,
+   "explanation": "Opulent means Wealthy.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00063",
-   "q": "Choose the word most opposite in meaning to Profuse.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Profuse.",
+   "options": [
     "Unrepentant",
     "Foolish",
     "Scarce",
     "Biased"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Profuse is Scarce."
+   "answer": 2,
+   "explanation": "The opposite of Profuse is Scarce.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00064",
-   "q": "What is the meaning of the idiom 'Up to the mark'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Up to the mark'?",
+   "options": [
     "Remain undecided",
     "A mild punishment",
     "Occupy a less important position",
     "Of the required standard"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Up to the mark' means Of the required standard."
+   "answer": 3,
+   "explanation": "'Up to the mark' means Of the required standard.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00065",
-   "q": "Choose the one word substitute for: One who is easily deceived",
-   "o": [
+   "question": "Choose the one word substitute for: One who is easily deceived",
+   "options": [
     "Gullible",
     "Monologue",
     "Soliloquy",
     "Recluse"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "One who is easily deceived — Gullible."
+   "answer": 0,
+   "explanation": "One who is easily deceived — Gullible.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00066",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Advantageous",
     "Appearance",
     "Emperor",
     "Courtesy"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Appearance."
+   "answer": 1,
+   "explanation": "The correct spelling is Appearance.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00067",
-   "q": "What is the plural of Trout?",
-   "o": [
+   "question": "What is the plural of Trout?",
+   "options": [
     "Data",
     "Trout",
     "Dice",
     "Criteria"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Trout is Trout."
+   "answer": 1,
+   "explanation": "The plural of Trout is Trout.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00068",
-   "q": "What is the feminine form of Father?",
-   "o": [
+   "question": "What is the feminine form of Father?",
+   "options": [
     "Countess",
     "Bride",
     "Lady",
     "Mother"
    ],
-   "a": 3,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Father is Mother."
+   "answer": 3,
+   "explanation": "The feminine of Father is Mother.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00069",
-   "q": "What is the comparative degree of Poor?",
-   "o": [
+   "question": "What is the comparative degree of Poor?",
+   "options": [
     "Poorer",
     "Heavier",
     "Shorter",
     "Simpler"
    ],
-   "a": 0,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Poor — Poorer — Poorest."
+   "answer": 0,
+   "explanation": "Poor — Poorer — Poorest.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00070",
-   "q": "Fill in the blank with the correct preposition: She has been waiting ____ two hours.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: She has been waiting ____ two hours.",
+   "options": [
     "for",
     "to",
     "of",
     "over"
    ],
-   "a": 0,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'for'."
+   "answer": 0,
+   "explanation": "The correct preposition is 'for'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00071",
-   "q": "What is the past tense of 'bring'?",
-   "o": [
+   "question": "What is the past tense of 'bring'?",
+   "options": [
     "Better",
     "He asked where I lived",
     "Past perfect tense",
     "Brought"
    ],
-   "a": 3,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 3,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00072",
-   "q": "Choose the word most similar in meaning to Genial.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Genial.",
+   "options": [
     "Uniform",
     "Hidden",
     "Pleasant",
     "Prudent"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Genial means Pleasant."
+   "answer": 2,
+   "explanation": "Genial means Pleasant.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00073",
-   "q": "Choose the word most opposite in meaning to Irascible.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Irascible.",
+   "options": [
     "Independent",
     "Fruitful",
     "Alert",
     "Even-tempered"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Irascible is Even-tempered."
+   "answer": 3,
+   "explanation": "The opposite of Irascible is Even-tempered.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00074",
-   "q": "What is the meaning of the idiom 'Every inch'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Every inch'?",
+   "options": [
     "Uncomfortable",
     "Under suspicion",
     "Completely",
     "A difficult problem"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Every inch' means Completely."
+   "answer": 2,
+   "explanation": "'Every inch' means Completely.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00075",
-   "q": "Choose the one word substitute for: Government by a king or queen",
-   "o": [
+   "question": "Choose the one word substitute for: Government by a king or queen",
+   "options": [
     "Monarchy",
     "Blacksmith",
     "Obsolete",
     "Autobiography"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "Government by a king or queen — Monarchy."
+   "answer": 0,
+   "explanation": "Government by a king or queen — Monarchy.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00076",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Forty",
     "Adolescent",
     "Sophisticated",
     "Explanation"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Forty."
+   "answer": 0,
+   "explanation": "The correct spelling is Forty.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00077",
-   "q": "What is the plural of Cactus?",
-   "o": [
+   "question": "What is the plural of Cactus?",
+   "options": [
     "Oxen",
     "Indices",
     "Formulae",
     "Cacti"
    ],
-   "a": 3,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Cactus is Cacti."
+   "answer": 3,
+   "explanation": "The plural of Cactus is Cacti.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00078",
-   "q": "What is the feminine form of Emperor?",
-   "o": [
+   "question": "What is the feminine form of Emperor?",
+   "options": [
     "Mare",
     "Sow",
     "Princess",
     "Empress"
    ],
-   "a": 3,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Emperor is Empress."
+   "answer": 3,
+   "explanation": "The feminine of Emperor is Empress.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00079",
-   "q": "What is the comparative degree of Easy?",
-   "o": [
+   "question": "What is the comparative degree of Easy?",
+   "options": [
     "Hotter",
     "Easier",
     "Safer",
     "Smaller"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Easy — Easier — Easiest."
+   "answer": 1,
+   "explanation": "Easy — Easier — Easiest.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00080",
-   "q": "Fill in the blank with the correct preposition: The teacher was angry ____ the students.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: The teacher was angry ____ the students.",
+   "options": [
     "into",
     "with",
     "of",
     "from"
    ],
-   "a": 1,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'with'."
+   "answer": 1,
+   "explanation": "The correct preposition is 'with'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00081",
-   "q": "What is the indirect form of 'He said, What a lovely day!'?",
-   "o": [
+   "question": "What is the indirect form of 'He said, What a lovely day!'?",
+   "options": [
     "A car will be bought by him",
     "Conjunction",
     "Information",
     "He exclaimed that it was a lovely day"
    ],
-   "a": 3,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 3,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00082",
-   "q": "Choose the word most similar in meaning to Quiescent.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Quiescent.",
+   "options": [
     "Courage",
     "Diligent",
     "Inactive",
     "Omnipresent"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Quiescent means Inactive."
+   "answer": 2,
+   "explanation": "Quiescent means Inactive.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00083",
-   "q": "Choose the word most opposite in meaning to Levity.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Levity.",
+   "options": [
     "Seriousness",
     "Agitation",
     "Frugal",
     "Unscrupulous"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Levity is Seriousness."
+   "answer": 0,
+   "explanation": "The opposite of Levity is Seriousness.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00084",
-   "q": "What is the meaning of the idiom 'Ins and outs'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Ins and outs'?",
+   "options": [
     "Full details",
     "To seek popular approval",
     "Rare",
     "Fail to have the intended effect"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Ins and outs' means Full details."
+   "answer": 0,
+   "explanation": "'Ins and outs' means Full details.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00085",
-   "q": "Choose the one word substitute for: A person whose life story is written by another",
-   "o": [
+   "question": "Choose the one word substitute for: A person whose life story is written by another",
+   "options": [
     "Drunkard",
     "Biographer",
     "Soliloquy",
     "Zoologist"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "A person whose life story is written by another — Biographer."
+   "answer": 1,
+   "explanation": "A person whose life story is written by another — Biographer.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00086",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Occurrence",
     "Beautiful",
     "Committee",
     "Idiosyncrasy"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Occurrence."
+   "answer": 0,
+   "explanation": "The correct spelling is Occurrence.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00087",
-   "q": "What is the plural of Loaf?",
-   "o": [
+   "question": "What is the plural of Loaf?",
+   "options": [
     "Loaves",
     "Commanders-in-Chief",
     "Buses",
     "Knives"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Loaf is Loaves."
+   "answer": 0,
+   "explanation": "The plural of Loaf is Loaves.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00088",
-   "q": "What is the feminine form of Stallion?",
-   "o": [
+   "question": "What is the feminine form of Stallion?",
+   "options": [
     "Countess",
     "Lady",
     "Lioness",
     "Mare"
    ],
-   "a": 3,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Stallion is Mare."
+   "answer": 3,
+   "explanation": "The feminine of Stallion is Mare.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00089",
-   "q": "What is the comparative degree of Thin?",
-   "o": [
+   "question": "What is the comparative degree of Thin?",
+   "options": [
     "More important",
     "More courageous",
     "Thinner",
     "Colder"
    ],
-   "a": 2,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Thin — Thinner — Thinnest."
+   "answer": 2,
+   "explanation": "Thin — Thinner — Thinnest.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00090",
-   "q": "Fill in the blank with the correct preposition: She takes pride ____ her work.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: She takes pride ____ her work.",
+   "options": [
     "from",
     "to",
     "in",
     "on"
    ],
-   "a": 2,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'in'."
+   "answer": 2,
+   "explanation": "The correct preposition is 'in'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00091",
-   "q": "What is the -ing form of a verb called?",
-   "o": [
+   "question": "What is the -ing form of a verb called?",
+   "options": [
     "Present participle",
     "Interjection",
     "Passive voice",
     "Childhood"
    ],
-   "a": 0,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 0,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00092",
-   "q": "Choose the word most similar in meaning to Stringent.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Stringent.",
+   "options": [
     "Strict",
     "Recall",
     "Insignificant",
     "Wandering"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Stringent means Strict."
+   "answer": 0,
+   "explanation": "Stringent means Strict.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00093",
-   "q": "Choose the word most opposite in meaning to Pertinent.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Pertinent.",
+   "options": [
     "Steady",
     "Contradict",
     "Irrelevant",
     "Divided"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Pertinent is Irrelevant."
+   "answer": 2,
+   "explanation": "The opposite of Pertinent is Irrelevant.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00094",
-   "q": "What is the meaning of the idiom 'A wild goose chase'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'A wild goose chase'?",
+   "options": [
     "Agree completely",
     "Remain undecided",
     "A futile search",
     "Relatives"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'A wild goose chase' means A futile search."
+   "answer": 2,
+   "explanation": "'A wild goose chase' means A futile search.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00095",
-   "q": "Choose the one word substitute for: The practice of having many husbands",
-   "o": [
+   "question": "Choose the one word substitute for: The practice of having many husbands",
+   "options": [
     "Polyandry",
     "Perennials",
     "Psychologist",
     "Edible"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "The practice of having many husbands — Polyandry."
+   "answer": 0,
+   "explanation": "The practice of having many husbands — Polyandry.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00096",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Perseverance",
     "Idiosyncrasy",
     "Intelligence",
     "Environment"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Environment."
+   "answer": 3,
+   "explanation": "The correct spelling is Environment.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00097",
-   "q": "What is the plural of Commander-in-Chief?",
-   "o": [
+   "question": "What is the plural of Commander-in-Chief?",
+   "options": [
     "Criteria",
     "Salmon",
     "Step-daughters",
     "Commanders-in-Chief"
    ],
-   "a": 3,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Commander-in-Chief is Commanders-in-Chief."
+   "answer": 3,
+   "explanation": "The plural of Commander-in-Chief is Commanders-in-Chief.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00098",
-   "q": "What is the feminine form of Bridegroom?",
-   "o": [
+   "question": "What is the feminine form of Bridegroom?",
+   "options": [
     "Bride",
     "Madam",
     "Poetess",
     "Tigress"
    ],
-   "a": 0,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Bridegroom is Bride."
+   "answer": 0,
+   "explanation": "The feminine of Bridegroom is Bride.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00099",
-   "q": "What is the comparative degree of Happy?",
-   "o": [
+   "question": "What is the comparative degree of Happy?",
+   "options": [
     "Wiser",
     "Shallower",
     "Brighter",
     "Happier"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Happy — Happier — Happiest."
+   "answer": 3,
+   "explanation": "Happy — Happier — Happiest.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00100",
-   "q": "Fill in the blank with the correct preposition: He is well versed ____ Sanskrit.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: He is well versed ____ Sanskrit.",
+   "options": [
     "to",
     "with",
     "for",
     "in"
    ],
-   "a": 3,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'in'."
+   "answer": 3,
+   "explanation": "The correct preposition is 'in'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00101",
-   "q": "What is a sentence with one main clause and one subordinate clause called?",
-   "o": [
+   "question": "What is a sentence with one main clause and one subordinate clause called?",
+   "options": [
     "Childhood",
     "Simple present",
     "Present participle",
     "Complex sentence"
    ],
-   "a": 3,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 3,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00102",
-   "q": "Choose the word most similar in meaning to Laconic.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Laconic.",
+   "options": [
     "Overjoyed",
     "Short-lived",
     "Brief",
     "Scanty"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Laconic means Brief."
+   "answer": 2,
+   "explanation": "Laconic means Brief.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00103",
-   "q": "Choose the word most opposite in meaning to Succinct.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Succinct.",
+   "options": [
     "Respect",
     "Lengthy",
     "Assist",
     "Meagre"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Succinct is Lengthy."
+   "answer": 1,
+   "explanation": "The opposite of Succinct is Lengthy.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00104",
-   "q": "What is the meaning of the idiom 'Burn the midnight oil'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Burn the midnight oil'?",
+   "options": [
     "Most important",
     "Cowardly",
     "Study or work late into the night",
     "Reprimand"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Burn the midnight oil' means Study or work late into the night."
+   "answer": 2,
+   "explanation": "'Burn the midnight oil' means Study or work late into the night.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00105",
-   "q": "Choose the one word substitute for: A person who is an expert in a field",
-   "o": [
+   "question": "Choose the one word substitute for: A person who is an expert in a field",
+   "options": [
     "Psychologist",
     "Connoisseur",
     "Pandemic",
     "Herbivores"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "A person who is an expert in a field — Connoisseur."
+   "answer": 1,
+   "explanation": "A person who is an expert in a field — Connoisseur.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00106",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Hereditary",
     "Conceited",
     "Changeable",
     "Superintendent"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Hereditary."
+   "answer": 0,
+   "explanation": "The correct spelling is Hereditary.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00107",
-   "q": "What is the plural of Roof?",
-   "o": [
+   "question": "What is the plural of Roof?",
+   "options": [
     "Series",
     "Men",
     "Roofs",
     "Cities"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Roof is Roofs."
+   "answer": 2,
+   "explanation": "The plural of Roof is Roofs.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00108",
-   "q": "What is the feminine form of Stepfather?",
-   "o": [
+   "question": "What is the feminine form of Stepfather?",
+   "options": [
     "Woman",
     "Lioness",
     "Cow",
     "Stepmother"
    ],
-   "a": 3,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Stepfather is Stepmother."
+   "answer": 3,
+   "explanation": "The feminine of Stepfather is Stepmother.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00109",
-   "q": "What is the comparative degree of High?",
-   "o": [
+   "question": "What is the comparative degree of High?",
+   "options": [
     "More important",
     "Gentler",
     "Later",
     "Higher"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "High — Higher — Highest."
+   "answer": 3,
+   "explanation": "High — Higher — Highest.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00110",
-   "q": "Fill in the blank with the correct preposition: He was charged ____ murder.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: He was charged ____ murder.",
+   "options": [
     "from",
     "in",
     "of",
     "with"
    ],
-   "a": 3,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'with'."
+   "answer": 3,
+   "explanation": "The correct preposition is 'with'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00111",
-   "q": "What is the abstract noun formed from 'child'?",
-   "o": [
+   "question": "What is the abstract noun formed from 'child'?",
+   "options": [
     "Written",
     "Better",
     "Past perfect tense",
     "Childhood"
    ],
-   "a": 3,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 3,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00112",
-   "q": "Choose the word most similar in meaning to Reminisce.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Reminisce.",
+   "options": [
     "Support",
     "Recall",
     "Complaining",
     "Reserved"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Reminisce means Recall."
+   "answer": 1,
+   "explanation": "Reminisce means Recall.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00113",
-   "q": "Choose the word most opposite in meaning to Fortitude.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Fortitude.",
+   "options": [
     "Frequent",
     "Harmful",
     "Cowardice",
     "Significant"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Fortitude is Cowardice."
+   "answer": 2,
+   "explanation": "The opposite of Fortitude is Cowardice.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00114",
-   "q": "What is the meaning of the idiom 'Feather one's nest'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Feather one's nest'?",
+   "options": [
     "Make money selfishly",
     "Much excitement over a trivial matter",
     "Send a short letter",
     "Apologise humbly"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Feather one's nest' means Make money selfishly."
+   "answer": 0,
+   "explanation": "'Feather one's nest' means Make money selfishly.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00115",
-   "q": "Choose the one word substitute for: One who does not care about food or comfort",
-   "o": [
+   "question": "Choose the one word substitute for: One who does not care about food or comfort",
+   "options": [
     "Ascetic",
     "Pharmacy",
     "Hermit",
     "Theocracy"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "One who does not care about food or comfort — Ascetic."
+   "answer": 0,
+   "explanation": "One who does not care about food or comfort — Ascetic.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00116",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Acquiesce",
     "Tendency",
     "February",
     "Convenient"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Acquiesce."
+   "answer": 0,
+   "explanation": "The correct spelling is Acquiesce.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00117",
-   "q": "What is the plural of Hero?",
-   "o": [
+   "question": "What is the plural of Hero?",
+   "options": [
     "Heroes",
     "Appendices",
     "Step-daughters",
     "Women"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Hero is Heroes."
+   "answer": 0,
+   "explanation": "The plural of Hero is Heroes.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00118",
-   "q": "What is the feminine form of Horse?",
-   "o": [
+   "question": "What is the feminine form of Horse?",
+   "options": [
     "Godmother",
     "Mare",
     "Waitress",
     "Countess"
    ],
-   "a": 1,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Horse is Mare."
+   "answer": 1,
+   "explanation": "The feminine of Horse is Mare.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00119",
-   "q": "What is the comparative degree of Deep?",
-   "o": [
+   "question": "What is the comparative degree of Deep?",
+   "options": [
     "Smaller",
     "Wiser",
     "Slower",
     "Deeper"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Deep — Deeper — Deepest."
+   "answer": 3,
+   "explanation": "Deep — Deeper — Deepest.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00120",
-   "q": "Fill in the blank with the correct preposition: He is known ____ everybody here.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: He is known ____ everybody here.",
+   "options": [
     "on",
     "of",
     "for",
     "to"
    ],
-   "a": 3,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'to'."
+   "answer": 3,
+   "explanation": "The correct preposition is 'to'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00121",
-   "q": "What is the voice in which the subject performs the action called?",
-   "o": [
+   "question": "What is the voice in which the subject performs the action called?",
+   "options": [
     "Admission",
     "Freedom",
     "Active voice",
     "A letter is written by him"
    ],
-   "a": 2,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 2,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00122",
-   "q": "Choose the word most similar in meaning to Bizarre.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Bizarre.",
+   "options": [
     "Deceitful",
     "Original",
     "Shy",
     "Strange"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Bizarre means Strange."
+   "answer": 3,
+   "explanation": "Bizarre means Strange.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00123",
-   "q": "Choose the word most opposite in meaning to Timid.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Timid.",
+   "options": [
     "Bold",
     "Wasteful",
     "Reticent",
     "Reputable"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Timid is Bold."
+   "answer": 0,
+   "explanation": "The opposite of Timid is Bold.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00124",
-   "q": "What is the meaning of the idiom 'By hook or by crook'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'By hook or by crook'?",
+   "options": [
     "Lose one's temper suddenly",
     "A constant source of trouble",
     "Act in defiance of",
     "By fair or unfair means"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'By hook or by crook' means By fair or unfair means."
+   "answer": 3,
+   "explanation": "'By hook or by crook' means By fair or unfair means.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00125",
-   "q": "Choose the one word substitute for: Words with opposite meanings",
-   "o": [
+   "question": "Choose the one word substitute for: Words with opposite meanings",
+   "options": [
     "Antonyms",
     "Autocracy",
     "Baker",
     "Sexagenarian"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "Words with opposite meanings — Antonyms."
+   "answer": 0,
+   "explanation": "Words with opposite meanings — Antonyms.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00126",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Abundance",
     "Aggressive",
     "Withhold",
     "Explanation"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Aggressive."
+   "answer": 1,
+   "explanation": "The correct spelling is Aggressive.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00127",
-   "q": "What is the plural of Shelf?",
-   "o": [
+   "question": "What is the plural of Shelf?",
+   "options": [
     "Deer",
     "Children",
     "Shelves",
     "Media"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Shelf is Shelves."
+   "answer": 2,
+   "explanation": "The plural of Shelf is Shelves.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00128",
-   "q": "What is the feminine form of Author?",
-   "o": [
+   "question": "What is the feminine form of Author?",
+   "options": [
     "Authoress",
     "Poetess",
     "Cow",
     "Sister"
    ],
-   "a": 0,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Author is Authoress."
+   "answer": 0,
+   "explanation": "The feminine of Author is Authoress.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00129",
-   "q": "What is the comparative degree of Small?",
-   "o": [
+   "question": "What is the comparative degree of Small?",
+   "options": [
     "Heavier",
     "Smaller",
     "Worse",
     "More"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Small — Smaller — Smallest."
+   "answer": 1,
+   "explanation": "Small — Smaller — Smallest.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00130",
-   "q": "Fill in the blank with the correct preposition: She is afraid ____ dogs.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: She is afraid ____ dogs.",
+   "options": [
     "from",
     "of",
     "to",
     "for"
    ],
-   "a": 1,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'of'."
+   "answer": 1,
+   "explanation": "The correct preposition is 'of'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00131",
-   "q": "What is the collective noun for a group of lions?",
-   "o": [
+   "question": "What is the collective noun for a group of lions?",
+   "options": [
     "The base form (infinitive)",
     "Phrase",
     "Pride",
     "A song is being sung by her"
    ],
-   "a": 2,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 2,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00132",
-   "q": "Choose the word most similar in meaning to Apathy.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Apathy.",
+   "options": [
     "Fluent",
     "Calm",
     "Bold",
     "Indifference"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Apathy means Indifference."
+   "answer": 3,
+   "explanation": "Apathy means Indifference.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00133",
-   "q": "Choose the word most opposite in meaning to Exonerate.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Exonerate.",
+   "options": [
     "Blame",
     "Expert",
     "Certain",
     "Unfriendly"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Exonerate is Blame."
+   "answer": 0,
+   "explanation": "The opposite of Exonerate is Blame.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00134",
-   "q": "What is the meaning of the idiom 'A man of straw'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'A man of straw'?",
+   "options": [
     "A person of no substance",
     "Be ruined",
     "A selfish motive",
     "Study or work late into the night"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'A man of straw' means A person of no substance."
+   "answer": 0,
+   "explanation": "'A man of straw' means A person of no substance.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00135",
-   "q": "Choose the one word substitute for: A conversation between two people",
-   "o": [
+   "question": "Choose the one word substitute for: A conversation between two people",
+   "options": [
     "Plutocracy",
     "Psychologist",
     "Omnivores",
     "Dialogue"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "A conversation between two people — Dialogue."
+   "answer": 3,
+   "explanation": "A conversation between two people — Dialogue.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00136",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Immediate",
     "Idiosyncrasy",
     "Fulfil",
     "Laboratory"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Idiosyncrasy."
+   "answer": 1,
+   "explanation": "The correct spelling is Idiosyncrasy.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00137",
-   "q": "What is the plural of Nucleus?",
-   "o": [
+   "question": "What is the plural of Nucleus?",
+   "options": [
     "Men",
     "Data",
     "Nuclei",
     "Foci"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Nucleus is Nuclei."
+   "answer": 2,
+   "explanation": "The plural of Nucleus is Nuclei.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00138",
-   "q": "What is the feminine form of Uncle?",
-   "o": [
+   "question": "What is the feminine form of Uncle?",
+   "options": [
     "Mare",
     "Aunt",
     "Grandmother",
     "Madam"
    ],
-   "a": 1,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Uncle is Aunt."
+   "answer": 1,
+   "explanation": "The feminine of Uncle is Aunt.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00139",
-   "q": "What is the comparative degree of Short?",
-   "o": [
+   "question": "What is the comparative degree of Short?",
+   "options": [
     "Longer",
     "Busier",
     "Shorter",
     "More important"
    ],
-   "a": 2,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Short — Shorter — Shortest."
+   "answer": 2,
+   "explanation": "Short — Shorter — Shortest.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00140",
-   "q": "Fill in the blank with the correct preposition: He was accused ____ theft.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: He was accused ____ theft.",
+   "options": [
     "with",
     "to",
     "of",
     "from"
    ],
-   "a": 2,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'of'."
+   "answer": 2,
+   "explanation": "The correct preposition is 'of'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00141",
-   "q": "What is the collective noun for a group of cattle?",
-   "o": [
+   "question": "What is the collective noun for a group of cattle?",
+   "options": [
     "Present continuous",
     "Preposition",
     "Herd",
     "Written"
    ],
-   "a": 2,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 2,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00142",
-   "q": "Choose the word most similar in meaning to Stupendous.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Stupendous.",
+   "options": [
     "Boring",
     "Strict",
     "Diligent",
     "Astonishing"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Stupendous means Astonishing."
+   "answer": 3,
+   "explanation": "Stupendous means Astonishing.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00143",
-   "q": "Choose the word most opposite in meaning to Sanguine.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Sanguine.",
+   "options": [
     "Pessimistic",
     "Alert",
     "Scarce",
     "Peaceable"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Sanguine is Pessimistic."
+   "answer": 0,
+   "explanation": "The opposite of Sanguine is Pessimistic.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00144",
-   "q": "What is the meaning of the idiom 'To have a finger in every pie'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'To have a finger in every pie'?",
+   "options": [
     "Live a miserable life",
     "Use every possible effort",
     "Remain undecided",
     "To be involved in everything"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'To have a finger in every pie' means To be involved in everything."
+   "answer": 3,
+   "explanation": "'To have a finger in every pie' means To be involved in everything.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00145",
-   "q": "Choose the one word substitute for: One who has an unreasonable fear of water",
-   "o": [
+   "question": "Choose the one word substitute for: One who has an unreasonable fear of water",
+   "options": [
     "Philanthropist",
     "Linguist",
     "Gullible",
     "Hydrophobic"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "One who has an unreasonable fear of water — Hydrophobic."
+   "answer": 3,
+   "explanation": "One who has an unreasonable fear of water — Hydrophobic.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00146",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Maintenance",
     "Guidance",
     "Parallel",
     "Miniature"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Parallel."
+   "answer": 2,
+   "explanation": "The correct spelling is Parallel.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00147",
-   "q": "What is the plural of Ox?",
-   "o": [
+   "question": "What is the plural of Ox?",
+   "options": [
     "Oxen",
     "Matrices",
     "Alumni",
     "Wives"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Ox is Oxen."
+   "answer": 0,
+   "explanation": "The plural of Ox is Oxen.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00148",
-   "q": "What is the feminine form of Drake?",
-   "o": [
+   "question": "What is the feminine form of Drake?",
+   "options": [
     "Leopardess",
     "Manageress",
     "Queen",
     "Duck"
    ],
-   "a": 3,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Drake is Duck."
+   "answer": 3,
+   "explanation": "The feminine of Drake is Duck.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00149",
-   "q": "What is the comparative degree of Big?",
-   "o": [
+   "question": "What is the comparative degree of Big?",
+   "options": [
     "Bigger",
     "Longer",
     "Brighter",
     "More"
    ],
-   "a": 0,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Big — Bigger — Biggest."
+   "answer": 0,
+   "explanation": "Big — Bigger — Biggest.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00150",
-   "q": "Fill in the blank with the correct preposition: He is good ____ mathematics.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: He is good ____ mathematics.",
+   "options": [
     "at",
     "to",
     "for",
     "on"
    ],
-   "a": 0,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'at'."
+   "answer": 0,
+   "explanation": "The correct preposition is 'at'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00151",
-   "q": "What is a word with the same sound but different spelling called?",
-   "o": [
+   "question": "What is a word with the same sound but different spelling called?",
+   "options": [
     "Preposition",
     "Nor",
     "Present participle",
     "Homophone"
    ],
-   "a": 3,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 3,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00152",
-   "q": "Choose the word most similar in meaning to Castigate.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Castigate.",
+   "options": [
     "Justify",
     "Wicked",
     "Scorn",
     "Punish"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Castigate means Punish."
+   "answer": 3,
+   "explanation": "Castigate means Punish.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00153",
-   "q": "Choose the word most opposite in meaning to Pragmatic.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Pragmatic.",
+   "options": [
     "Frugal",
     "Idealistic",
     "Fine",
     "Genuine"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Pragmatic is Idealistic."
+   "answer": 1,
+   "explanation": "The opposite of Pragmatic is Idealistic.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00154",
-   "q": "What is the meaning of the idiom 'Pull one's socks up'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Pull one's socks up'?",
+   "options": [
     "Treat harshly",
     "Facing the same difficulty",
     "To suspect foul play",
     "Make an effort to improve"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Pull one's socks up' means Make an effort to improve."
+   "answer": 3,
+   "explanation": "'Pull one's socks up' means Make an effort to improve.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00155",
-   "q": "Choose the one word substitute for: One who studies rocks",
-   "o": [
+   "question": "Choose the one word substitute for: One who studies rocks",
+   "options": [
     "Mint",
     "Dystopia",
     "Geologist",
     "Epidemic"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "One who studies rocks — Geologist."
+   "answer": 2,
+   "explanation": "One who studies rocks — Geologist.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00156",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Millennium",
     "Until",
     "Acquaintance",
     "Perseverance"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Acquaintance."
+   "answer": 2,
+   "explanation": "The correct spelling is Acquaintance.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00157",
-   "q": "What is the plural of Bus?",
-   "o": [
+   "question": "What is the plural of Bus?",
+   "options": [
     "Buses",
     "Axes",
     "Swine",
     "Potatoes"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Bus is Buses."
+   "answer": 0,
+   "explanation": "The plural of Bus is Buses.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00158",
-   "q": "What is the feminine form of Foster-father?",
-   "o": [
+   "question": "What is the feminine form of Foster-father?",
+   "options": [
     "Ewe",
     "Aunt",
     "Lady",
     "Foster-mother"
    ],
-   "a": 3,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Foster-father is Foster-mother."
+   "answer": 3,
+   "explanation": "The feminine of Foster-father is Foster-mother.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00159",
-   "q": "What is the comparative degree of Far?",
-   "o": [
+   "question": "What is the comparative degree of Far?",
+   "options": [
     "Colder",
     "Fatter",
     "Longer",
     "Farther"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Far — Farther — Farthest."
+   "answer": 3,
+   "explanation": "Far — Farther — Farthest.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00160",
-   "q": "Fill in the blank with the correct preposition: We shall meet ____ Monday.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: We shall meet ____ Monday.",
+   "options": [
     "of",
     "with",
     "to",
     "on"
    ],
-   "a": 3,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'on'."
+   "answer": 3,
+   "explanation": "The correct preposition is 'on'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00161",
-   "q": "What is the part of a sentence that says something about the subject?",
-   "o": [
+   "question": "What is the part of a sentence that says something about the subject?",
+   "options": [
     "Predicate",
     "Let the door be opened",
     "Quickly",
     "Adjective"
    ],
-   "a": 0,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 0,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00162",
-   "q": "Choose the word most similar in meaning to Paramount.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Paramount.",
+   "options": [
     "Remorseful",
     "Insignificant",
     "Profitable",
     "Supreme"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Paramount means Supreme."
+   "answer": 3,
+   "explanation": "Paramount means Supreme.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00163",
-   "q": "Choose the word most opposite in meaning to Stagnant.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Stagnant.",
+   "options": [
     "Expert",
     "Flowing",
     "Contradict",
     "Manifest"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Stagnant is Flowing."
+   "answer": 1,
+   "explanation": "The opposite of Stagnant is Flowing.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00164",
-   "q": "What is the meaning of the idiom 'Sailing in the same boat'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Sailing in the same boat'?",
+   "options": [
     "Listening attentively",
     "Facing the same difficulty",
     "Unable to speak plainly",
     "Pay too much"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Sailing in the same boat' means Facing the same difficulty."
+   "answer": 1,
+   "explanation": "'Sailing in the same boat' means Facing the same difficulty.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00165",
-   "q": "Choose the one word substitute for: A disease that spreads over a large area",
-   "o": [
+   "question": "Choose the one word substitute for: A disease that spreads over a large area",
+   "options": [
     "Somniloquist",
     "Librarian",
     "Ambidextrous",
     "Epidemic"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "A disease that spreads over a large area — Epidemic."
+   "answer": 3,
+   "explanation": "A disease that spreads over a large area — Epidemic.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00166",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Heroes",
     "Literature",
     "Enrolment",
     "Phenomenon"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Enrolment."
+   "answer": 2,
+   "explanation": "The correct spelling is Enrolment.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00167",
-   "q": "What is the plural of Son-in-law?",
-   "o": [
+   "question": "What is the plural of Son-in-law?",
+   "options": [
     "Photos",
     "Vertices",
     "Sons-in-law",
     "Armies"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Son-in-law is Sons-in-law."
+   "answer": 2,
+   "explanation": "The plural of Son-in-law is Sons-in-law.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00168",
-   "q": "What is the feminine form of Peacock?",
-   "o": [
+   "question": "What is the feminine form of Peacock?",
+   "options": [
     "Bitch",
     "Peahen",
     "Lady",
     "Mare"
    ],
-   "a": 1,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Peacock is Peahen."
+   "answer": 1,
+   "explanation": "The feminine of Peacock is Peahen.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00169",
-   "q": "What is the comparative degree of Long?",
-   "o": [
+   "question": "What is the comparative degree of Long?",
+   "options": [
     "Happier",
     "Longer",
     "More important",
     "Lower"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Long — Longer — Longest."
+   "answer": 1,
+   "explanation": "Long — Longer — Longest.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00170",
-   "q": "Fill in the blank with the correct preposition: I prefer coffee ____ tea.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: I prefer coffee ____ tea.",
+   "options": [
     "in",
     "to",
     "from",
     "since"
    ],
-   "a": 1,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'to'."
+   "answer": 1,
+   "explanation": "The correct preposition is 'to'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00171",
-   "q": "Which conjunction pairs with 'not only'?",
-   "o": [
+   "question": "Which conjunction pairs with 'not only'?",
+   "options": [
     "But also",
     "Freedom",
     "Present perfect",
     "Apostrophe"
    ],
-   "a": 0,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 0,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00172",
-   "q": "Choose the word most similar in meaning to Augment.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Augment.",
+   "options": [
     "Frivolity",
     "Sociable",
     "Increase",
     "Talkative"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Augment means Increase."
+   "answer": 2,
+   "explanation": "Augment means Increase.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00173",
-   "q": "Choose the word most opposite in meaning to Contempt.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Contempt.",
+   "options": [
     "Secure",
     "Stingy",
     "Essential",
     "Respect"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Contempt is Respect."
+   "answer": 3,
+   "explanation": "The opposite of Contempt is Respect.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00174",
-   "q": "What is the meaning of the idiom 'To show the door'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'To show the door'?",
+   "options": [
     "Suspect something wrong",
     "Hope for a good result",
     "To ask someone to leave",
     "With all one's belongings"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'To show the door' means To ask someone to leave."
+   "answer": 2,
+   "explanation": "'To show the door' means To ask someone to leave.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00175",
-   "q": "Choose the one word substitute for: Animals that live in groups",
-   "o": [
+   "question": "Choose the one word substitute for: Animals that live in groups",
+   "options": [
     "Antonyms",
     "Gregarious",
     "Octogenarian",
     "Monarchy"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "Animals that live in groups — Gregarious."
+   "answer": 1,
+   "explanation": "Animals that live in groups — Gregarious.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00176",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Apparent",
     "Pursue",
     "Accessible",
     "Recommend"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Recommend."
+   "answer": 3,
+   "explanation": "The correct spelling is Recommend.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00177",
-   "q": "What is the plural of Life?",
-   "o": [
+   "question": "What is the plural of Life?",
+   "options": [
     "Teeth",
     "Commanders-in-Chief",
     "Lives",
     "Deer"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Life is Lives."
+   "answer": 2,
+   "explanation": "The plural of Life is Lives.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00178",
-   "q": "What is the feminine form of King?",
-   "o": [
+   "question": "What is the feminine form of King?",
+   "options": [
     "Mother",
     "Nun",
     "Priestess",
     "Queen"
    ],
-   "a": 3,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of King is Queen."
+   "answer": 3,
+   "explanation": "The feminine of King is Queen.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00179",
-   "q": "What is the comparative degree of Courageous?",
-   "o": [
+   "question": "What is the comparative degree of Courageous?",
+   "options": [
     "More",
     "Later",
     "More courageous",
     "Happier"
    ],
-   "a": 2,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Courageous — More courageous — Most courageous."
+   "answer": 2,
+   "explanation": "Courageous — More courageous — Most courageous.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00180",
-   "q": "Fill in the blank with the correct preposition: He is accustomed ____ hard work.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: He is accustomed ____ hard work.",
+   "options": [
     "for",
     "of",
     "to",
     "in"
    ],
-   "a": 2,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'to'."
+   "answer": 2,
+   "explanation": "The correct preposition is 'to'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00181",
-   "q": "What is a word that describes a noun called?",
-   "o": [
+   "question": "What is a word that describes a noun called?",
+   "options": [
     "Went",
     "A",
     "Pronoun",
     "Adjective"
    ],
-   "a": 3,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 3,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00182",
-   "q": "Choose the word most similar in meaning to Ecstasy.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Ecstasy.",
+   "options": [
     "Belittle",
     "Pretence",
     "Joy",
     "Deep respect"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Ecstasy means Joy."
+   "answer": 2,
+   "explanation": "Ecstasy means Joy.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00183",
-   "q": "Choose the word most opposite in meaning to Fickle.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Fickle.",
+   "options": [
     "Blameworthy",
     "Concealed",
     "Liking",
     "Constant"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Fickle is Constant."
+   "answer": 3,
+   "explanation": "The opposite of Fickle is Constant.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00184",
-   "q": "What is the meaning of the idiom 'Bear the brunt'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Bear the brunt'?",
+   "options": [
     "Face the main impact",
     "Unacceptable",
     "To hope for success",
     "Act in defiance of"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Bear the brunt' means Face the main impact."
+   "answer": 0,
+   "explanation": "'Bear the brunt' means Face the main impact.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00185",
-   "q": "Choose the one word substitute for: Government by the nobility",
-   "o": [
+   "question": "Choose the one word substitute for: Government by the nobility",
+   "options": [
     "Acronym",
     "Taciturn",
     "Aristocracy",
     "Autobiographer"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "Government by the nobility — Aristocracy."
+   "answer": 2,
+   "explanation": "Government by the nobility — Aristocracy.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00186",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Receive",
     "Mischievous",
     "Calendar",
     "Remembrance"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Receive."
+   "answer": 0,
+   "explanation": "The correct spelling is Receive.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00187",
-   "q": "What is the plural of Church?",
-   "o": [
+   "question": "What is the plural of Church?",
+   "options": [
     "Heroes",
     "Churches",
     "Knives",
     "Mosquitoes"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Church is Churches."
+   "answer": 1,
+   "explanation": "The plural of Church is Churches.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00188",
-   "q": "What is the feminine form of Host?",
-   "o": [
+   "question": "What is the feminine form of Host?",
+   "options": [
     "Wife",
     "Madam",
     "Hostess",
     "Authoress"
    ],
-   "a": 2,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Host is Hostess."
+   "answer": 2,
+   "explanation": "The feminine of Host is Hostess.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00189",
-   "q": "What is the comparative degree of Busy?",
-   "o": [
+   "question": "What is the comparative degree of Busy?",
+   "options": [
     "Kinder",
     "Braver",
     "More difficult",
     "Busier"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Busy — Busier — Busiest."
+   "answer": 3,
+   "explanation": "Busy — Busier — Busiest.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00190",
-   "q": "Fill in the blank with the correct preposition: He is proud ____ his success.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: He is proud ____ his success.",
+   "options": [
     "with",
     "from",
     "for",
     "of"
    ],
-   "a": 3,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'of'."
+   "answer": 3,
+   "explanation": "The correct preposition is 'of'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00191",
-   "q": "What is the indirect form of 'She said to me, Please help me'?",
-   "o": [
+   "question": "What is the indirect form of 'She said to me, Please help me'?",
+   "options": [
     "She requested me to help her",
     "Or",
     "Clause",
     "Bought"
    ],
-   "a": 0,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 0,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00192",
-   "q": "Choose the word most similar in meaning to Dissent.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Dissent.",
+   "options": [
     "Hasten",
     "Beginning",
     "Astonishing",
     "Disagreement"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Dissent means Disagreement."
+   "answer": 3,
+   "explanation": "Dissent means Disagreement.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00193",
-   "q": "Choose the word most opposite in meaning to Servile.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Servile.",
+   "options": [
     "Lengthy",
     "Independent",
     "Dull",
     "Stingy"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Servile is Independent."
+   "answer": 1,
+   "explanation": "The opposite of Servile is Independent.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00194",
-   "q": "What is the meaning of the idiom 'To take the bull by the horns'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'To take the bull by the horns'?",
+   "options": [
     "To make every possible effort",
     "To break a promise",
     "To face danger boldly",
     "Hope for a good result"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'To take the bull by the horns' means To face danger boldly."
+   "answer": 2,
+   "explanation": "'To take the bull by the horns' means To face danger boldly.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00195",
-   "q": "Choose the one word substitute for: A life story written by oneself",
-   "o": [
+   "question": "Choose the one word substitute for: A life story written by oneself",
+   "options": [
     "Antidote",
     "Gregarious",
     "Monarchy",
     "Autobiography"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "A life story written by oneself — Autobiography."
+   "answer": 3,
+   "explanation": "A life story written by oneself — Autobiography.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00196",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Secretary",
     "Expedition",
     "Argument",
     "Restaurant"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Restaurant."
+   "answer": 3,
+   "explanation": "The correct spelling is Restaurant.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00197",
-   "q": "What is the plural of Thief?",
-   "o": [
+   "question": "What is the plural of Thief?",
+   "options": [
     "Thieves",
     "Armies",
     "Buffaloes",
     "Benches"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Thief is Thieves."
+   "answer": 0,
+   "explanation": "The plural of Thief is Thieves.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00198",
-   "q": "What is the feminine form of Manager?",
-   "o": [
+   "question": "What is the feminine form of Manager?",
+   "options": [
     "Lady",
     "Manageress",
     "Leopardess",
     "Stewardess"
    ],
-   "a": 1,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Manager is Manageress."
+   "answer": 1,
+   "explanation": "The feminine of Manager is Manageress.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00199",
-   "q": "What is the comparative degree of Safe?",
-   "o": [
+   "question": "What is the comparative degree of Safe?",
+   "options": [
     "Safer",
     "Later",
     "More courageous",
     "More"
    ],
-   "a": 0,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Safe — Safer — Safest."
+   "answer": 0,
+   "explanation": "Safe — Safer — Safest.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00200",
-   "q": "Fill in the blank with the correct preposition: He complied ____ my request.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: He complied ____ my request.",
+   "options": [
     "with",
     "of",
     "to",
     "on"
    ],
-   "a": 0,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'with'."
+   "answer": 0,
+   "explanation": "The correct preposition is 'with'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00201",
-   "q": "What is the past participle of 'write'?",
-   "o": [
+   "question": "What is the past participle of 'write'?",
+   "options": [
     "Broken",
     "Written",
     "Pronoun",
     "Present continuous"
    ],
-   "a": 1,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 1,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00202",
-   "q": "Choose the word most similar in meaning to Somnolent.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Somnolent.",
+   "options": [
     "Thrifty",
     "Stormy",
     "Sleepy",
     "Support"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Somnolent means Sleepy."
+   "answer": 2,
+   "explanation": "Somnolent means Sleepy.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00203",
-   "q": "Choose the word most opposite in meaning to Fallacy.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Fallacy.",
+   "options": [
     "Truth",
     "Diminish",
     "Secondary",
     "Improve"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Fallacy is Truth."
+   "answer": 0,
+   "explanation": "The opposite of Fallacy is Truth.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00204",
-   "q": "What is the meaning of the idiom 'To move heaven and earth'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'To move heaven and earth'?",
+   "options": [
     "Excessive official formality",
     "Absence without permission",
     "To make every possible effort",
     "Become known"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'To move heaven and earth' means To make every possible effort."
+   "answer": 2,
+   "explanation": "'To move heaven and earth' means To make every possible effort.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00205",
-   "q": "Choose the one word substitute for: A place where fishes are kept",
-   "o": [
+   "question": "Choose the one word substitute for: A place where fishes are kept",
+   "options": [
     "Aquarium",
     "Extempore",
     "Incorrigible",
     "Antibiotic"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "A place where fishes are kept — Aquarium."
+   "answer": 0,
+   "explanation": "A place where fishes are kept — Aquarium.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00206",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Humorous",
     "Tomorrow",
     "Sincerely",
     "Quantity"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Tomorrow."
+   "answer": 1,
+   "explanation": "The correct spelling is Tomorrow.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00207",
-   "q": "What is the plural of Step-daughter?",
-   "o": [
+   "question": "What is the plural of Step-daughter?",
+   "options": [
     "Teeth",
     "Step-daughters",
     "Calves",
     "Crises"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Step-daughter is Step-daughters."
+   "answer": 1,
+   "explanation": "The plural of Step-daughter is Step-daughters.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00208",
-   "q": "What is the feminine form of Lion?",
-   "o": [
+   "question": "What is the feminine form of Lion?",
+   "options": [
     "Queen",
     "Manageress",
     "Stepmother",
     "Lioness"
    ],
-   "a": 3,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Lion is Lioness."
+   "answer": 3,
+   "explanation": "The feminine of Lion is Lioness.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00209",
-   "q": "What is the comparative degree of Noble?",
-   "o": [
+   "question": "What is the comparative degree of Noble?",
+   "options": [
     "Faster",
     "Nobler",
     "Hotter",
     "Bigger"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Noble — Nobler — Noblest."
+   "answer": 1,
+   "explanation": "Noble — Nobler — Noblest.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00210",
-   "q": "Fill in the blank with the correct preposition: She was deprived ____ her rights.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: She was deprived ____ her rights.",
+   "options": [
     "into",
     "of",
     "from",
     "at"
    ],
-   "a": 1,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'of'."
+   "answer": 1,
+   "explanation": "The correct preposition is 'of'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00211",
-   "q": "What is the past tense of 'buy'?",
-   "o": [
+   "question": "What is the past tense of 'buy'?",
+   "options": [
     "Taught",
     "Passive voice",
     "Past continuous",
     "Bought"
    ],
-   "a": 3,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 3,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00212",
-   "q": "Choose the word most similar in meaning to Enigma.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Enigma.",
+   "options": [
     "Irritable",
     "Tendency",
     "Starvation",
     "Mystery"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Enigma means Mystery."
+   "answer": 3,
+   "explanation": "Enigma means Mystery.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00213",
-   "q": "Choose the word most opposite in meaning to Avarice.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Avarice.",
+   "options": [
     "Generosity",
     "Incompetent",
     "Scanty",
     "Reject"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Avarice is Generosity."
+   "answer": 0,
+   "explanation": "The opposite of Avarice is Generosity.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00214",
-   "q": "What is the meaning of the idiom 'Rain cats and dogs'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Rain cats and dogs'?",
+   "options": [
     "A day of festivity",
     "Rain heavily",
     "Deceive",
     "To make every possible effort"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Rain cats and dogs' means Rain heavily."
+   "answer": 1,
+   "explanation": "'Rain cats and dogs' means Rain heavily.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00215",
-   "q": "Choose the one word substitute for: One who hates mankind",
-   "o": [
+   "question": "Choose the one word substitute for: One who hates mankind",
+   "options": [
     "Bibliophile",
     "Antidote",
     "Misanthrope",
     "Etymologist"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "One who hates mankind — Misanthrope."
+   "answer": 2,
+   "explanation": "One who hates mankind — Misanthrope.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00216",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Approximate",
     "Truly",
     "Particularly",
     "Village"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Approximate."
+   "answer": 0,
+   "explanation": "The correct spelling is Approximate.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00217",
-   "q": "What is the plural of Bacterium?",
-   "o": [
+   "question": "What is the plural of Bacterium?",
+   "options": [
     "Radios",
     "Zoos",
     "Bacteria",
     "Lookers-on"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Bacterium is Bacteria."
+   "answer": 2,
+   "explanation": "The plural of Bacterium is Bacteria.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00218",
-   "q": "What is the feminine form of Actor?",
-   "o": [
+   "question": "What is the feminine form of Actor?",
+   "options": [
     "Mare",
     "Duck",
     "Actress",
     "Empress"
    ],
-   "a": 2,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Actor is Actress."
+   "answer": 2,
+   "explanation": "The feminine of Actor is Actress.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00219",
-   "q": "What is the comparative degree of Heavy?",
-   "o": [
+   "question": "What is the comparative degree of Heavy?",
+   "options": [
     "Happier",
     "More",
     "Heavier",
     "Nobler"
    ],
-   "a": 2,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Heavy — Heavier — Heaviest."
+   "answer": 2,
+   "explanation": "Heavy — Heavier — Heaviest.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00220",
-   "q": "Fill in the blank with the correct preposition: She is married ____ a doctor.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: She is married ____ a doctor.",
+   "options": [
     "in",
     "for",
     "to",
     "of"
    ],
-   "a": 2,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'to'."
+   "answer": 2,
+   "explanation": "The correct preposition is 'to'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00221",
-   "q": "Which punctuation mark shows a question?",
-   "o": [
+   "question": "Which punctuation mark shows a question?",
+   "options": [
     "Question mark",
     "Pack",
     "Taught",
     "Went"
    ],
-   "a": 0,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 0,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00222",
-   "q": "Choose the word most similar in meaning to Avarice.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Avarice.",
+   "options": [
     "Strict",
     "Greed",
     "Optimistic",
     "Beginning"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Avarice means Greed."
+   "answer": 1,
+   "explanation": "Avarice means Greed.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00223",
-   "q": "Choose the word most opposite in meaning to Genuine.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Genuine.",
+   "options": [
     "Counterfeit",
     "Humble",
     "Intensify",
     "Diminish"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Genuine is Counterfeit."
+   "answer": 0,
+   "explanation": "The opposite of Genuine is Counterfeit.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00224",
-   "q": "What is the meaning of the idiom 'The die is cast'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'The die is cast'?",
+   "options": [
     "To get into trouble",
     "Deceive",
     "Speak plainly",
     "A decision cannot be changed"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'The die is cast' means A decision cannot be changed."
+   "answer": 3,
+   "explanation": "'The die is cast' means A decision cannot be changed.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00225",
-   "q": "Choose the one word substitute for: Something that cannot be eaten",
-   "o": [
+   "question": "Choose the one word substitute for: Something that cannot be eaten",
+   "options": [
     "Infallible",
     "Mint",
     "Autobiographer",
     "Inedible"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "Something that cannot be eaten — Inedible."
+   "answer": 3,
+   "explanation": "Something that cannot be eaten — Inedible.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00226",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Occurred",
     "February",
     "Transferring",
     "Tomorrow"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Occurred."
+   "answer": 0,
+   "explanation": "The correct spelling is Occurred.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00227",
-   "q": "What is the plural of Court Martial?",
-   "o": [
+   "question": "What is the plural of Court Martial?",
+   "options": [
     "Courts Martial",
     "Children",
     "Media",
     "Lookers-on"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Court Martial is Courts Martial."
+   "answer": 0,
+   "explanation": "The plural of Court Martial is Courts Martial.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00228",
-   "q": "What is the feminine form of Monk?",
-   "o": [
+   "question": "What is the feminine form of Monk?",
+   "options": [
     "Countess",
     "Madam",
     "Vixen",
     "Nun"
    ],
-   "a": 3,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Monk is Nun."
+   "answer": 3,
+   "explanation": "The feminine of Monk is Nun.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00229",
-   "q": "What is the comparative degree of Weak?",
-   "o": [
+   "question": "What is the comparative degree of Weak?",
+   "options": [
     "Weaker",
     "Gentler",
     "Simpler",
     "Busier"
    ],
-   "a": 0,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Weak — Weaker — Weakest."
+   "answer": 0,
+   "explanation": "Weak — Weaker — Weakest.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00230",
-   "q": "Fill in the blank with the correct preposition: She is aware ____ the problem.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: She is aware ____ the problem.",
+   "options": [
     "of",
     "in",
     "over",
     "from"
    ],
-   "a": 0,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'of'."
+   "answer": 0,
+   "explanation": "The correct preposition is 'of'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00231",
-   "q": "What is the tense of 'I had finished the work'?",
-   "o": [
+   "question": "What is the tense of 'I had finished the work'?",
+   "options": [
     "Colon",
     "Admission",
     "Question mark",
     "Past perfect"
    ],
-   "a": 3,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 3,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00232",
-   "q": "Choose the word most similar in meaning to Resilient.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Resilient.",
+   "options": [
     "Disprove",
     "Flexible",
     "Anger",
     "Secret"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Resilient means Flexible."
+   "answer": 1,
+   "explanation": "Resilient means Flexible.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00233",
-   "q": "Choose the word most opposite in meaning to Formidable.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Formidable.",
+   "options": [
     "Weak",
     "Sufficient",
     "Permanent",
     "Rigid"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Formidable is Weak."
+   "answer": 0,
+   "explanation": "The opposite of Formidable is Weak.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00234",
-   "q": "What is the meaning of the idiom 'Put the cart before the horse'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Put the cart before the horse'?",
+   "options": [
     "Lose one's temper suddenly",
     "To hope for success",
     "Do things in the wrong order",
     "Convey a great deal"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Put the cart before the horse' means Do things in the wrong order."
+   "answer": 2,
+   "explanation": "'Put the cart before the horse' means Do things in the wrong order.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00235",
-   "q": "Choose the one word substitute for: A speech made to oneself when alone",
-   "o": [
+   "question": "Choose the one word substitute for: A speech made to oneself when alone",
+   "options": [
     "Edible",
     "Soliloquy",
     "Vegan",
     "Inevitable"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "A speech made to oneself when alone — Soliloquy."
+   "answer": 1,
+   "explanation": "A speech made to oneself when alone — Soliloquy.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00236",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Medieval",
     "Explanation",
     "Personnel",
     "Calendar"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Personnel."
+   "answer": 2,
+   "explanation": "The correct spelling is Personnel.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00237",
-   "q": "What is the plural of Axis?",
-   "o": [
+   "question": "What is the plural of Axis?",
+   "options": [
     "Series",
     "Axes",
     "Teeth",
     "Formulae"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Axis is Axes."
+   "answer": 1,
+   "explanation": "The plural of Axis is Axes.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00238",
-   "q": "What is the feminine form of Ram?",
-   "o": [
+   "question": "What is the feminine form of Ram?",
+   "options": [
     "Ewe",
     "Witch",
     "Duck",
     "Goose"
    ],
-   "a": 0,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Ram is Ewe."
+   "answer": 0,
+   "explanation": "The feminine of Ram is Ewe.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00239",
-   "q": "What is the comparative degree of Late?",
-   "o": [
+   "question": "What is the comparative degree of Late?",
+   "options": [
     "Slower",
     "Darker",
     "Later",
     "Smaller"
    ],
-   "a": 2,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Late — Later — Latest."
+   "answer": 2,
+   "explanation": "Late — Later — Latest.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00240",
-   "q": "Fill in the blank with the correct preposition: I am confident ____ success.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: I am confident ____ success.",
+   "options": [
     "for",
     "to",
     "of",
     "on"
    ],
-   "a": 2,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'of'."
+   "answer": 2,
+   "explanation": "The correct preposition is 'of'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00241",
-   "q": "What is a group of words without a subject and predicate called?",
-   "o": [
+   "question": "What is a group of words without a subject and predicate called?",
+   "options": [
     "Complex sentence",
     "Phrase",
     "She said that she would come the next day",
     "Past perfect tense"
    ],
-   "a": 1,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 1,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00242",
-   "q": "Choose the word most similar in meaning to Deluge.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Deluge.",
+   "options": [
     "Flood",
     "Unintentional",
     "Hesitate",
     "Hasty"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Deluge means Flood."
+   "answer": 0,
+   "explanation": "Deluge means Flood.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00243",
-   "q": "Choose the word most opposite in meaning to Explicit.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Explicit.",
+   "options": [
     "Confirm",
     "Bold",
     "Implicit",
     "Conventional"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Explicit is Implicit."
+   "answer": 2,
+   "explanation": "The opposite of Explicit is Implicit.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00244",
-   "q": "What is the meaning of the idiom 'To laugh up one's sleeve'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'To laugh up one's sleeve'?",
+   "options": [
     "Invalid",
     "A dangerous person pretending to be harmless",
     "Remain undecided",
     "To be secretly amused"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'To laugh up one's sleeve' means To be secretly amused."
+   "answer": 3,
+   "explanation": "'To laugh up one's sleeve' means To be secretly amused.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00245",
-   "q": "Choose the one word substitute for: A place where animals are kept",
-   "o": [
+   "question": "Choose the one word substitute for: A place where animals are kept",
+   "options": [
     "Omnipresent",
     "Zoo",
     "Biography",
     "Meteorologist"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "A place where animals are kept — Zoo."
+   "answer": 1,
+   "explanation": "A place where animals are kept — Zoo.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00246",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Pursue",
     "Proceed",
     "Sophisticated",
     "Immediate"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Proceed."
+   "answer": 1,
+   "explanation": "The correct spelling is Proceed.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00247",
-   "q": "What is the plural of Box?",
-   "o": [
+   "question": "What is the plural of Box?",
+   "options": [
     "Crises",
     "Vertices",
     "Boxes",
     "Courts Martial"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Box is Boxes."
+   "answer": 2,
+   "explanation": "The plural of Box is Boxes.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00248",
-   "q": "What is the feminine form of Fox?",
-   "o": [
+   "question": "What is the feminine form of Fox?",
+   "options": [
     "Woman",
     "Madam",
     "Vixen",
     "Wife"
    ],
-   "a": 2,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Fox is Vixen."
+   "answer": 2,
+   "explanation": "The feminine of Fox is Vixen.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00249",
-   "q": "What is the comparative degree of Wise?",
-   "o": [
+   "question": "What is the comparative degree of Wise?",
+   "options": [
     "Wider",
     "Wiser",
     "Deeper",
     "Smaller"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Wise — Wiser — Wisest."
+   "answer": 1,
+   "explanation": "Wise — Wiser — Wisest.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00250",
-   "q": "Fill in the blank with the correct preposition: He is addicted ____ gambling.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: He is addicted ____ gambling.",
+   "options": [
     "from",
     "to",
     "with",
     "of"
    ],
-   "a": 1,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'to'."
+   "answer": 1,
+   "explanation": "The correct preposition is 'to'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00251",
-   "q": "Which article is used before a consonant sound?",
-   "o": [
+   "question": "Which article is used before a consonant sound?",
+   "options": [
     "A",
     "Constellation",
     "Bouquet",
     "If"
    ],
-   "a": 0,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 0,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00252",
-   "q": "Choose the word most similar in meaning to Complacent.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Complacent.",
+   "options": [
     "Sleepy",
     "Unstable",
     "Self-satisfied",
     "Absurd"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Complacent means Self-satisfied."
+   "answer": 2,
+   "explanation": "Complacent means Self-satisfied.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00253",
-   "q": "Choose the word most opposite in meaning to Exorbitant.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Exorbitant.",
+   "options": [
     "Reasonable",
     "Ignorant",
     "Distant",
     "Improve"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Exorbitant is Reasonable."
+   "answer": 0,
+   "explanation": "The opposite of Exorbitant is Reasonable.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00254",
-   "q": "What is the meaning of the idiom 'Look before you leap'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Look before you leap'?",
+   "options": [
     "Do or say the right thing",
     "Think before acting",
     "A controversial issue",
     "To break a promise"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Look before you leap' means Think before acting."
+   "answer": 1,
+   "explanation": "'Look before you leap' means Think before acting.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00255",
-   "q": "Choose the one word substitute for: One who cannot be defeated",
-   "o": [
+   "question": "Choose the one word substitute for: One who cannot be defeated",
+   "options": [
     "Bibliophile",
     "Synonyms",
     "Regicide",
     "Invincible"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "One who cannot be defeated — Invincible."
+   "answer": 3,
+   "explanation": "One who cannot be defeated — Invincible.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00256",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Marriage",
     "February",
     "Secretary",
     "Approximate"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Marriage."
+   "answer": 0,
+   "explanation": "The correct spelling is Marriage.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00257",
-   "q": "What is the plural of Foot?",
-   "o": [
+   "question": "What is the plural of Foot?",
+   "options": [
     "Fungi",
     "Step-daughters",
     "Lookers-on",
     "Feet"
    ],
-   "a": 3,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Foot is Feet."
+   "answer": 3,
+   "explanation": "The plural of Foot is Feet.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00258",
-   "q": "What is the feminine form of Wizard?",
-   "o": [
+   "question": "What is the feminine form of Wizard?",
+   "options": [
     "Lady",
     "Grandmother",
     "Witch",
     "Priestess"
    ],
-   "a": 2,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Wizard is Witch."
+   "answer": 2,
+   "explanation": "The feminine of Wizard is Witch.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00259",
-   "q": "What is the comparative degree of Bright?",
-   "o": [
+   "question": "What is the comparative degree of Bright?",
+   "options": [
     "Brighter",
     "Later",
     "Longer",
     "Easier"
    ],
-   "a": 0,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Bright — Brighter — Brightest."
+   "answer": 0,
+   "explanation": "Bright — Brighter — Brightest.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00260",
-   "q": "Fill in the blank with the correct preposition: The reason ____ his failure is laziness.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: The reason ____ his failure is laziness.",
+   "options": [
     "for",
     "of",
     "to",
     "with"
    ],
-   "a": 0,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'for'."
+   "answer": 0,
+   "explanation": "The correct preposition is 'for'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00261",
-   "q": "What is the past tense of 'catch'?",
-   "o": [
+   "question": "What is the past tense of 'catch'?",
+   "options": [
     "Let the door be opened",
     "Past perfect tense",
     "The",
     "Caught"
    ],
-   "a": 3,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 3,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00262",
-   "q": "Choose the word most similar in meaning to Empathy.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Empathy.",
+   "options": [
     "Compassion",
     "Thrifty",
     "Everlasting",
     "Daunting"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Empathy means Compassion."
+   "answer": 0,
+   "explanation": "Empathy means Compassion.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00263",
-   "q": "Choose the word most opposite in meaning to Complacent.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Complacent.",
+   "options": [
     "Dissatisfied",
     "Obscure",
     "Alert",
     "Independent"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Complacent is Dissatisfied."
+   "answer": 0,
+   "explanation": "The opposite of Complacent is Dissatisfied.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00264",
-   "q": "What is the meaning of the idiom 'Man of straw'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Man of straw'?",
+   "options": [
     "Suspect something wrong",
     "Barely manage to survive",
     "A person without influence",
     "Be dismissed from a job"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Man of straw' means A person without influence."
+   "answer": 2,
+   "explanation": "'Man of straw' means A person without influence.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00265",
-   "q": "Choose the one word substitute for: One who has an unreasonable fear of heights",
-   "o": [
+   "question": "Choose the one word substitute for: One who has an unreasonable fear of heights",
+   "options": [
     "Connoisseur",
     "Zoologist",
     "Acrophobic",
     "Drunkard"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "One who has an unreasonable fear of heights — Acrophobic."
+   "answer": 2,
+   "explanation": "One who has an unreasonable fear of heights — Acrophobic.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00266",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Correspondence",
     "Village",
     "Mischievous",
     "Professor"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Mischievous."
+   "answer": 2,
+   "explanation": "The correct spelling is Mischievous.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00267",
-   "q": "What is the plural of Matrix?",
-   "o": [
+   "question": "What is the plural of Matrix?",
+   "options": [
     "Alumni",
     "Buffaloes",
     "Mice",
     "Matrices"
    ],
-   "a": 3,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Matrix is Matrices."
+   "answer": 3,
+   "explanation": "The plural of Matrix is Matrices.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00268",
-   "q": "What is the feminine form of Dog?",
-   "o": [
+   "question": "What is the feminine form of Dog?",
+   "options": [
     "Mother",
     "Cow",
     "Bitch",
     "Hen"
    ],
-   "a": 2,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Dog is Bitch."
+   "answer": 2,
+   "explanation": "The feminine of Dog is Bitch.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00269",
-   "q": "What is the comparative degree of Good?",
-   "o": [
+   "question": "What is the comparative degree of Good?",
+   "options": [
     "Weaker",
     "Lower",
     "Nobler",
     "Better"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Good — Better — Best."
+   "answer": 3,
+   "explanation": "Good — Better — Best.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00270",
-   "q": "Fill in the blank with the correct preposition: The train is ____ time today.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: The train is ____ time today.",
+   "options": [
     "with",
     "from",
     "of",
     "on"
    ],
-   "a": 3,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'on'."
+   "answer": 3,
+   "explanation": "The correct preposition is 'on'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00271",
-   "q": "What is the verb form of the noun 'strength'?",
-   "o": [
+   "question": "What is the verb form of the noun 'strength'?",
+   "options": [
     "The base form",
     "He said that he was busy",
     "Written",
     "Strengthen"
    ],
-   "a": 3,
-   "t": "English Grammar",
-   "l": 2,
-   "s": "generated",
-   "e": "English grammar rule."
+   "answer": 3,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00272",
-   "q": "Choose the word most similar in meaning to Relinquish.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Relinquish.",
+   "options": [
     "Skilled",
     "Mysterious",
     "Defiant",
     "Abandon"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Relinquish means Abandon."
+   "answer": 3,
+   "explanation": "Relinquish means Abandon.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00273",
-   "q": "Choose the word most opposite in meaning to Esoteric.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Esoteric.",
+   "options": [
     "Obscure",
     "Petty",
     "Permanent",
     "Familiar"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Esoteric is Familiar."
+   "answer": 3,
+   "explanation": "The opposite of Esoteric is Familiar.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00274",
-   "q": "What is the meaning of the idiom 'Nip in the bud'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Nip in the bud'?",
+   "options": [
     "A person in an uncomfortable situation",
     "Deliberately and without emotion",
     "In a great hurry",
     "Destroy at an early stage"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Nip in the bud' means Destroy at an early stage."
+   "answer": 3,
+   "explanation": "'Nip in the bud' means Destroy at an early stage.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00275",
-   "q": "Choose the one word substitute for: A disease that occurs regularly in a region",
-   "o": [
+   "question": "Choose the one word substitute for: A disease that occurs regularly in a region",
+   "options": [
     "Endemic",
     "Gullible",
     "Soliloquy",
     "Acronym"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "A disease that occurs regularly in a region — Endemic."
+   "answer": 0,
+   "explanation": "A disease that occurs regularly in a region — Endemic.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00276",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Mathematics",
     "Noticeable",
     "Lightning",
     "Government"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Mathematics."
+   "answer": 0,
+   "explanation": "The correct spelling is Mathematics.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00277",
-   "q": "What is the plural of Vertex?",
-   "o": [
+   "question": "What is the plural of Vertex?",
+   "options": [
     "Lives",
     "Vertices",
     "Data",
     "Species"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 1,
-   "s": "generated",
-   "e": "The plural of Vertex is Vertices."
+   "answer": 1,
+   "explanation": "The plural of Vertex is Vertices.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00278",
-   "q": "What is the feminine form of Widower?",
-   "o": [
+   "question": "What is the feminine form of Widower?",
+   "options": [
     "Vixen",
     "Stepmother",
     "Widow",
     "Daughter"
    ],
-   "a": 2,
-   "t": "Genders",
-   "l": 2,
-   "s": "generated",
-   "e": "The feminine of Widower is Widow."
+   "answer": 2,
+   "explanation": "The feminine of Widower is Widow.",
+   "topic": "Genders",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00279",
-   "q": "What is the comparative degree of Brave?",
-   "o": [
+   "question": "What is the comparative degree of Brave?",
+   "options": [
     "Thinner",
     "Finer",
     "More intelligent",
     "Braver"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 1,
-   "s": "generated",
-   "e": "Brave — Braver — Bravest."
+   "answer": 3,
+   "explanation": "Brave — Braver — Bravest.",
+   "topic": "Degrees of Comparison",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-english-grammar-00280",
-   "q": "Fill in the blank with the correct preposition: The old man is hard ____ hearing.",
-   "o": [
+   "question": "Fill in the blank with the correct preposition: The old man is hard ____ hearing.",
+   "options": [
     "in",
     "with",
     "for",
     "of"
    ],
-   "a": 3,
-   "t": "Prepositions",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct preposition is 'of'."
+   "answer": 3,
+   "explanation": "The correct preposition is 'of'.",
+   "topic": "Prepositions",
+   "level": 2,
+   "source": "generated"
   }
  ]
 };

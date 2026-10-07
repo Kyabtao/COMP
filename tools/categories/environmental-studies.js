@@ -15,4203 +15,4203 @@
  "questions": [
   {
    "id": "environmental-studies-00001",
-   "q": "Which day is celebrated as World Environment Day?",
-   "o": [
+   "question": "Which day is celebrated as World Environment Day?",
+   "options": [
     "5 June",
     "5 July",
     "22 April",
     "16 September"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "World Environment Day is observed on 5 June every year."
+   "answer": 0,
+   "explanation": "World Environment Day is observed on 5 June every year.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "environmental-studies-00002",
-   "q": "Which convention deals with the protection of the ozone layer?",
-   "o": [
+   "question": "Which convention deals with the protection of the ozone layer?",
+   "options": [
     "Kyoto Protocol",
     "Montreal Protocol",
     "Ramsar Convention",
     "Basel Convention"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The Montreal Protocol of 1987 phases out ozone-depleting substances."
+   "answer": 1,
+   "explanation": "The Montreal Protocol of 1987 phases out ozone-depleting substances.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "environmental-studies-00003",
-   "q": "Which gas is mainly responsible for the depletion of the ozone layer?",
-   "o": [
+   "question": "Which gas is mainly responsible for the depletion of the ozone layer?",
+   "options": [
     "Carbon dioxide",
     "Chlorofluorocarbon",
     "Methane",
     "Nitrous oxide"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Chlorofluorocarbons release chlorine that destroys ozone molecules."
+   "answer": 1,
+   "explanation": "Chlorofluorocarbons release chlorine that destroys ozone molecules.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "environmental-studies-00004",
-   "q": "The Kyoto Protocol aims to reduce the emission of:",
-   "o": [
+   "question": "The Kyoto Protocol aims to reduce the emission of:",
+   "options": [
     "Greenhouse gases",
     "Ozone",
     "Nitrogen",
     "Water vapour"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The Kyoto Protocol sets targets for reducing greenhouse gas emissions."
+   "answer": 0,
+   "explanation": "The Kyoto Protocol sets targets for reducing greenhouse gas emissions.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "environmental-studies-00005",
-   "q": "Which is the largest source of renewable energy in India?",
-   "o": [
+   "question": "Which is the largest source of renewable energy in India?",
+   "options": [
     "Solar",
     "Wind",
     "Hydropower",
     "Biomass"
    ],
-   "a": 2,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "Hydropower has the largest installed renewable capacity in India."
+   "answer": 2,
+   "explanation": "Hydropower has the largest installed renewable capacity in India.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "environmental-studies-00006",
-   "q": "What is the primary cause of global warming?",
-   "o": [
+   "question": "What is the primary cause of global warming?",
+   "options": [
     "Ozone depletion",
     "Greenhouse gas emissions",
     "Acid rain",
     "Deforestation of deserts"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Greenhouse gases trap heat and cause global warming."
+   "answer": 1,
+   "explanation": "Greenhouse gases trap heat and cause global warming.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "environmental-studies-00007",
-   "q": "Which organisation publishes the Red List of threatened species?",
-   "o": [
+   "question": "Which organisation publishes the Red List of threatened species?",
+   "options": [
     "UNEP",
     "IUCN",
     "WWF",
     "WHO"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "IUCN publishes the Red List of Threatened Species."
+   "answer": 1,
+   "explanation": "IUCN publishes the Red List of Threatened Species.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "environmental-studies-00008",
-   "q": "Project Tiger was launched in which year?",
-   "o": [
+   "question": "Project Tiger was launched in which year?",
+   "options": [
     "1972",
     "1973",
     "1980",
     "1991"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Project Tiger was launched in 1973 to conserve tiger habitats."
+   "answer": 1,
+   "explanation": "Project Tiger was launched in 1973 to conserve tiger habitats.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "environmental-studies-00009",
-   "q": "Which is the largest tiger reserve in India by area?",
-   "o": [
+   "question": "Which is the largest tiger reserve in India by area?",
+   "options": [
     "Nagarjunsagar-Srisailam",
     "Jim Corbett",
     "Kanha",
     "Sundarbans"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "Nagarjunsagar-Srisailam in Andhra Pradesh is the largest tiger reserve."
+   "answer": 0,
+   "explanation": "Nagarjunsagar-Srisailam in Andhra Pradesh is the largest tiger reserve.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "environmental-studies-00010",
-   "q": "The term 'biodiversity' refers to:",
-   "o": [
+   "question": "The term 'biodiversity' refers to:",
+   "options": [
     "Number of forests",
     "Variety of living organisms",
     "Amount of rainfall",
     "Level of pollution"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Biodiversity means the variety of life in a particular habitat or the planet."
+   "answer": 1,
+   "explanation": "Biodiversity means the variety of life in a particular habitat or the planet.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "environmental-studies-00011",
-   "q": "Which is the chief greenhouse gas emitted by vehicles?",
-   "o": [
+   "question": "Which is the chief greenhouse gas emitted by vehicles?",
+   "options": [
     "Carbon dioxide",
     "Oxygen",
     "Nitrogen",
     "Helium"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Burning fuel releases carbon dioxide, the main greenhouse gas."
+   "answer": 0,
+   "explanation": "Burning fuel releases carbon dioxide, the main greenhouse gas.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "environmental-studies-00012",
-   "q": "Which pollution is caused by excessive sound in the environment?",
-   "o": [
+   "question": "Which pollution is caused by excessive sound in the environment?",
+   "options": [
     "Air pollution",
     "Noise pollution",
     "Water pollution",
     "Soil pollution"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Unwanted high-intensity sound causes noise pollution."
+   "answer": 1,
+   "explanation": "Unwanted high-intensity sound causes noise pollution.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "environmental-studies-00013",
-   "q": "Which is the most hazardous air pollutant for humans?",
-   "o": [
+   "question": "Which is the most hazardous air pollutant for humans?",
+   "options": [
     "Carbon monoxide",
     "Nitrogen",
     "Oxygen",
     "Argon"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Carbon monoxide binds with haemoglobin and reduces oxygen transport."
+   "answer": 0,
+   "explanation": "Carbon monoxide binds with haemoglobin and reduces oxygen transport.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "environmental-studies-00014",
-   "q": "The Chipko movement was associated with:",
-   "o": [
+   "question": "The Chipko movement was associated with:",
+   "options": [
     "Water conservation",
     "Forest conservation",
     "Wildlife protection",
     "Soil conservation"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The Chipko movement protected trees from being felled in Uttarakhand."
+   "answer": 1,
+   "explanation": "The Chipko movement protected trees from being felled in Uttarakhand.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "environmental-studies-00015",
-   "q": "Which is India's first national park?",
-   "o": [
+   "question": "Which is India's first national park?",
+   "options": [
     "Kanha",
     "Jim Corbett",
     "Gir",
     "Bandipur"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Jim Corbett National Park, established in 1936, is India's first national park."
+   "answer": 1,
+   "explanation": "Jim Corbett National Park, established in 1936, is India's first national park.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "environmental-studies-00016",
-   "q": "Which is the largest mangrove forest in the world?",
-   "o": [
+   "question": "Which is the largest mangrove forest in the world?",
+   "options": [
     "Sundarbans",
     "Pichavaram",
     "Bhitarkanika",
     "Godavari delta"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The Sundarbans is the world's largest mangrove forest."
+   "answer": 0,
+   "explanation": "The Sundarbans is the world's largest mangrove forest.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "environmental-studies-00017",
-   "q": "World Wildlife Day is observed on:",
-   "o": [
+   "question": "World Wildlife Day is observed on:",
+   "options": [
     "3 March",
     "21 March",
     "22 April",
     "5 June"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "World Wildlife Day is observed on 3 March."
+   "answer": 0,
+   "explanation": "World Wildlife Day is observed on 3 March.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "environmental-studies-00018",
-   "q": "Which international agreement aims to limit global temperature rise?",
-   "o": [
+   "question": "Which international agreement aims to limit global temperature rise?",
+   "options": [
     "Paris Agreement",
     "Kyoto Protocol",
     "Montreal Protocol",
     "Basel Convention"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The Paris Agreement of 2015 aims to keep warming well below 2 degrees Celsius."
+   "answer": 0,
+   "explanation": "The Paris Agreement of 2015 aims to keep warming well below 2 degrees Celsius.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "environmental-studies-00019",
-   "q": "Which of these is a biodegradable waste?",
-   "o": [
+   "question": "Which of these is a biodegradable waste?",
+   "options": [
     "Plastic bag",
     "Vegetable peel",
     "Glass bottle",
     "Aluminium can"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Vegetable peels are organic and decompose naturally."
+   "answer": 1,
+   "explanation": "Vegetable peels are organic and decompose naturally.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "environmental-studies-00020",
-   "q": "The Ganga Action Plan was launched to:",
-   "o": [
+   "question": "The Ganga Action Plan was launched to:",
+   "options": [
     "Increase irrigation",
     "Reduce pollution in the Ganga",
     "Promote fishing",
     "Build dams"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The Ganga Action Plan aimed at reducing pollution in the river."
+   "answer": 1,
+   "explanation": "The Ganga Action Plan aimed at reducing pollution in the river.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "environmental-studies-00021",
-   "q": "Which renewable source uses the heat of the Earth's interior?",
-   "o": [
+   "question": "Which renewable source uses the heat of the Earth's interior?",
+   "options": [
     "Solar energy",
     "Geothermal energy",
     "Tidal energy",
     "Wind energy"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Geothermal energy is derived from heat inside the Earth."
+   "answer": 1,
+   "explanation": "Geothermal energy is derived from heat inside the Earth.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "environmental-studies-00022",
-   "q": "Which greenhouse gas is released in large quantities from paddy fields?",
-   "o": [
+   "question": "Which greenhouse gas is released in large quantities from paddy fields?",
+   "options": [
     "Methane",
     "Oxygen",
     "Helium",
     "Argon"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "Flooded paddy fields produce methane through anaerobic decomposition."
+   "answer": 0,
+   "explanation": "Flooded paddy fields produce methane through anaerobic decomposition.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "environmental-studies-00023",
-   "q": "Bandipur Tiger Reserve is located in which state?",
-   "o": [
+   "question": "Bandipur Tiger Reserve is located in which state?",
+   "options": [
     "West Bengal",
     "Karnataka",
     "Bihar",
     "Chhattisgarh"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Bandipur Tiger Reserve is located in Karnataka."
+   "answer": 1,
+   "explanation": "Bandipur Tiger Reserve is located in Karnataka.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00024",
-   "q": "What is the main purpose of the Basel Convention?",
-   "o": [
+   "question": "What is the main purpose of the Basel Convention?",
+   "options": [
     "Control of transboundary movement of hazardous waste",
     "Seventeen goals for people and planet by 2030",
     "Conservation of wild tigers",
     "Phase down of hydrofluorocarbons"
    ],
-   "a": 0,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Basel Convention — Control of transboundary movement of hazardous waste."
+   "answer": 0,
+   "explanation": "Basel Convention — Control of transboundary movement of hazardous waste.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00025",
-   "q": "Which of the following is an effect or source of Methane?",
-   "o": [
+   "question": "Which of the following is an effect or source of Methane?",
+   "options": [
     "Potent greenhouse gas from livestock and paddy fields",
     "Releases heavy metals when dumped improperly",
     "Raises water temperature and harms aquatic life",
     "Damage marine life and coastlines"
    ],
-   "a": 0,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Methane — Potent greenhouse gas from livestock and paddy fields."
+   "answer": 0,
+   "explanation": "Methane — Potent greenhouse gas from livestock and paddy fields.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00026",
-   "q": "Simlipal Biosphere Reserve is located in which state?",
-   "o": [
+   "question": "Simlipal Biosphere Reserve is located in which state?",
+   "options": [
     "Odisha",
     "Assam",
     "Rajasthan",
     "Madhya Pradesh"
    ],
-   "a": 0,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Simlipal Biosphere Reserve is in Odisha."
+   "answer": 0,
+   "explanation": "Simlipal Biosphere Reserve is in Odisha.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00027",
-   "q": "Forest Conservation Act 1980 is associated with which purpose?",
-   "o": [
+   "question": "Forest Conservation Act 1980 is associated with which purpose?",
+   "options": [
     "Control of diversion of forest land",
     "Cleaning the Ganga",
     "Reintroduction of cheetahs",
     "Conservation of biological diversity"
    ],
-   "a": 0,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Forest Conservation Act 1980 — Control of diversion of forest land."
+   "answer": 0,
+   "explanation": "Forest Conservation Act 1980 — Control of diversion of forest land.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00028",
-   "q": "Indira Gandhi Wildlife Sanctuary is located in which state?",
-   "o": [
+   "question": "Indira Gandhi Wildlife Sanctuary is located in which state?",
+   "options": [
     "Manipur",
     "Tamil Nadu",
     "Gujarat",
     "Maharashtra"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Indira Gandhi Wildlife Sanctuary is located in Tamil Nadu."
+   "answer": 1,
+   "explanation": "Indira Gandhi Wildlife Sanctuary is located in Tamil Nadu.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00029",
-   "q": "What is the main purpose of the Cartagena Protocol?",
-   "o": [
+   "question": "What is the main purpose of the Cartagena Protocol?",
+   "options": [
     "Elimination of persistent organic pollutants",
     "Biosafety of living modified organisms",
     "Control of international trade in endangered species",
     "Control of transboundary movement of hazardous waste"
    ],
-   "a": 1,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Cartagena Protocol — Biosafety of living modified organisms."
+   "answer": 1,
+   "explanation": "Cartagena Protocol — Biosafety of living modified organisms.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00030",
-   "q": "Which of the following is an effect or source of Plastic waste?",
-   "o": [
+   "question": "Which of the following is an effect or source of Plastic waste?",
+   "options": [
     "Destroy the ozone layer",
     "Persists in the environment for centuries",
     "Causes skin lesions and cancer in groundwater",
     "Potent greenhouse gas from livestock and paddy fields"
    ],
-   "a": 1,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Plastic waste — Persists in the environment for centuries."
+   "answer": 1,
+   "explanation": "Plastic waste — Persists in the environment for centuries.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00031",
-   "q": "Seshachalam Biosphere Reserve is located in which state?",
-   "o": [
+   "question": "Seshachalam Biosphere Reserve is located in which state?",
+   "options": [
     "Madhya Pradesh",
     "Andhra Pradesh",
     "Kerala and Tamil Nadu",
     "Odisha"
    ],
-   "a": 1,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Seshachalam Biosphere Reserve is in Andhra Pradesh."
+   "answer": 1,
+   "explanation": "Seshachalam Biosphere Reserve is in Andhra Pradesh.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00032",
-   "q": "Project Elephant is associated with which purpose?",
-   "o": [
+   "question": "Project Elephant is associated with which purpose?",
+   "options": [
     "Conservation of elephants",
     "Adjudication of environmental disputes",
     "Funds for afforestation in lieu of diverted forest",
     "Conservation of biological diversity"
    ],
-   "a": 0,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Project Elephant — Conservation of elephants."
+   "answer": 0,
+   "explanation": "Project Elephant — Conservation of elephants.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00033",
-   "q": "Jim Corbett National Park is located in which state?",
-   "o": [
+   "question": "Jim Corbett National Park is located in which state?",
+   "options": [
     "Maharashtra",
     "Uttarakhand",
     "Sikkim",
     "Meghalaya"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Jim Corbett National Park is located in Uttarakhand."
+   "answer": 1,
+   "explanation": "Jim Corbett National Park is located in Uttarakhand.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00034",
-   "q": "What is the main purpose of the Ramsar Montreux Record?",
-   "o": [
+   "question": "What is the main purpose of the Ramsar Montreux Record?",
+   "options": [
     "Control of international trade in endangered species",
     "Access and benefit sharing of genetic resources",
     "Phasing out ozone depleting substances",
     "Wetlands facing ecological change"
    ],
-   "a": 3,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Ramsar Montreux Record — Wetlands facing ecological change."
+   "answer": 3,
+   "explanation": "Ramsar Montreux Record — Wetlands facing ecological change.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00035",
-   "q": "Which of the following is an effect or source of Phosphate detergents?",
-   "o": [
+   "question": "Which of the following is an effect or source of Phosphate detergents?",
+   "options": [
     "Causes skin lesions and cancer in groundwater",
     "Fine particles that reach deep into the lungs",
     "Reduces oxygen carrying capacity of blood",
     "Cause algal blooms in water"
    ],
-   "a": 3,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Phosphate detergents — Cause algal blooms in water."
+   "answer": 3,
+   "explanation": "Phosphate detergents — Cause algal blooms in water.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00036",
-   "q": "Wular Lake is located in which state?",
-   "o": [
+   "question": "Wular Lake is located in which state?",
+   "options": [
     "Kerala and Tamil Nadu",
     "Himachal Pradesh",
     "Tamil Nadu, Kerala and Karnataka",
     "Jammu and Kashmir"
    ],
-   "a": 3,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Wular Lake is in Jammu and Kashmir."
+   "answer": 3,
+   "explanation": "Wular Lake is in Jammu and Kashmir.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00037",
-   "q": "Air Act 1981 is associated with which purpose?",
-   "o": [
+   "question": "Air Act 1981 is associated with which purpose?",
+   "options": [
     "Reduction of air pollution in cities",
     "Eight missions on climate change",
     "Cleanliness and sanitation",
     "Prevention of air pollution"
    ],
-   "a": 3,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Air Act 1981 — Prevention of air pollution."
+   "answer": 3,
+   "explanation": "Air Act 1981 — Prevention of air pollution.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00038",
-   "q": "Inderkilla National Park is located in which state?",
-   "o": [
+   "question": "Inderkilla National Park is located in which state?",
+   "options": [
     "Arunachal Pradesh",
     "Himachal Pradesh",
     "Assam",
     "Madhya Pradesh"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Inderkilla National Park is located in Himachal Pradesh."
+   "answer": 1,
+   "explanation": "Inderkilla National Park is located in Himachal Pradesh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00039",
-   "q": "What is the main purpose of the Convention on Biological Diversity?",
-   "o": [
+   "question": "What is the main purpose of the Convention on Biological Diversity?",
+   "options": [
     "Biosafety of living modified organisms",
     "Control of transboundary movement of hazardous waste",
     "Conservation of biological diversity",
     "Wetlands facing ecological change"
    ],
-   "a": 2,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Convention on Biological Diversity — Conservation of biological diversity."
+   "answer": 2,
+   "explanation": "Convention on Biological Diversity — Conservation of biological diversity.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00040",
-   "q": "Which of the following is an effect or source of Mercury?",
-   "o": [
+   "question": "Which of the following is an effect or source of Mercury?",
+   "options": [
     "Persists in the environment for centuries",
     "Potent greenhouse gas from livestock and paddy fields",
     "Bioaccumulates and damages the brain",
     "Cause algal blooms in water"
    ],
-   "a": 2,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Mercury — Bioaccumulates and damages the brain."
+   "answer": 2,
+   "explanation": "Mercury — Bioaccumulates and damages the brain.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00041",
-   "q": "Great Nicobar Biosphere Reserve is located in which state?",
-   "o": [
+   "question": "Great Nicobar Biosphere Reserve is located in which state?",
+   "options": [
     "Andhra Pradesh",
     "Odisha",
     "Andaman and Nicobar Islands",
     "Jammu and Kashmir"
    ],
-   "a": 2,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Great Nicobar Biosphere Reserve is in Andaman and Nicobar Islands."
+   "answer": 2,
+   "explanation": "Great Nicobar Biosphere Reserve is in Andaman and Nicobar Islands.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00042",
-   "q": "Biological Diversity Act 2002 is associated with which purpose?",
-   "o": [
+   "question": "Biological Diversity Act 2002 is associated with which purpose?",
+   "options": [
     "Cleaning the Ganga",
     "Cleanliness and sanitation",
     "Conservation of biological diversity",
     "Reduction of air pollution in cities"
    ],
-   "a": 2,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Biological Diversity Act 2002 — Conservation of biological diversity."
+   "answer": 2,
+   "explanation": "Biological Diversity Act 2002 — Conservation of biological diversity.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00043",
-   "q": "Bandhavgarh Tiger Reserve is located in which state?",
-   "o": [
+   "question": "Bandhavgarh Tiger Reserve is located in which state?",
+   "options": [
     "Madhya Pradesh",
     "Assam",
     "Mizoram",
     "Uttarakhand"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Bandhavgarh Tiger Reserve is located in Madhya Pradesh."
+   "answer": 0,
+   "explanation": "Bandhavgarh Tiger Reserve is located in Madhya Pradesh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00044",
-   "q": "What is the main purpose of the Sustainable Development Goals?",
-   "o": [
+   "question": "What is the main purpose of the Sustainable Development Goals?",
+   "options": [
     "Control of international trade in endangered species",
     "Control of mercury emissions",
     "Seventeen goals for people and planet by 2030",
     "Wetlands facing ecological change"
    ],
-   "a": 2,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Sustainable Development Goals — Seventeen goals for people and planet by 2030."
+   "answer": 2,
+   "explanation": "Sustainable Development Goals — Seventeen goals for people and planet by 2030.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00045",
-   "q": "Which of the following is an effect or source of Electronic waste?",
-   "o": [
+   "question": "Which of the following is an effect or source of Electronic waste?",
+   "options": [
     "Causes skin lesions and cancer in groundwater",
     "Damages the nervous system",
     "Releases heavy metals when dumped improperly",
     "Cause algal blooms in water"
    ],
-   "a": 2,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Electronic waste — Releases heavy metals when dumped improperly."
+   "answer": 2,
+   "explanation": "Electronic waste — Releases heavy metals when dumped improperly.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00046",
-   "q": "Deepor Beel is located in which state?",
-   "o": [
+   "question": "Deepor Beel is located in which state?",
+   "options": [
     "Kerala and Tamil Nadu",
     "Madhya Pradesh and Chhattisgarh",
     "Assam",
     "Jammu and Kashmir"
    ],
-   "a": 2,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Deepor Beel is in Assam."
+   "answer": 2,
+   "explanation": "Deepor Beel is in Assam.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00047",
-   "q": "Compensatory Afforestation Fund is associated with which purpose?",
-   "o": [
+   "question": "Compensatory Afforestation Fund is associated with which purpose?",
+   "options": [
     "Protection of wild animals and plants",
     "Umbrella law for environmental protection",
     "Funds for afforestation in lieu of diverted forest",
     "Cleanliness and sanitation"
    ],
-   "a": 2,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Compensatory Afforestation Fund — Funds for afforestation in lieu of diverted forest."
+   "answer": 2,
+   "explanation": "Compensatory Afforestation Fund — Funds for afforestation in lieu of diverted forest.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00048",
-   "q": "Bhadra Tiger Reserve is located in which state?",
-   "o": [
+   "question": "Bhadra Tiger Reserve is located in which state?",
+   "options": [
     "Jammu and Kashmir",
     "Karnataka",
     "Himachal Pradesh",
     "Madhya Pradesh"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Bhadra Tiger Reserve is located in Karnataka."
+   "answer": 1,
+   "explanation": "Bhadra Tiger Reserve is located in Karnataka.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00049",
-   "q": "What is the main purpose of the International Solar Alliance?",
-   "o": [
+   "question": "What is the main purpose of the International Solar Alliance?",
+   "options": [
     "Seventeen goals for people and planet by 2030",
     "Cooperation on solar energy",
     "Control of international trade in endangered species",
     "Control of mercury emissions"
    ],
-   "a": 1,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "International Solar Alliance — Cooperation on solar energy."
+   "answer": 1,
+   "explanation": "International Solar Alliance — Cooperation on solar energy.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00050",
-   "q": "Which of the following is an effect or source of Radioactive waste?",
-   "o": [
+   "question": "Which of the following is an effect or source of Radioactive waste?",
+   "options": [
     "Releases heavy metals when dumped improperly",
     "Causes genetic damage and cancer",
     "Causes skin lesions and cancer in groundwater",
     "Damages the nervous system"
    ],
-   "a": 1,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Radioactive waste — Causes genetic damage and cancer."
+   "answer": 1,
+   "explanation": "Radioactive waste — Causes genetic damage and cancer.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00051",
-   "q": "Loktak Lake is located in which state?",
-   "o": [
+   "question": "Loktak Lake is located in which state?",
+   "options": [
     "Assam",
     "Manipur",
     "Kerala and Tamil Nadu",
     "Madhya Pradesh and Chhattisgarh"
    ],
-   "a": 1,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Loktak Lake is in Manipur."
+   "answer": 1,
+   "explanation": "Loktak Lake is in Manipur.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00052",
-   "q": "Swachh Bharat Mission is associated with which purpose?",
-   "o": [
+   "question": "Swachh Bharat Mission is associated with which purpose?",
+   "options": [
     "Umbrella law for environmental protection",
     "Conservation of tigers",
     "Eight missions on climate change",
     "Cleanliness and sanitation"
    ],
-   "a": 3,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Swachh Bharat Mission — Cleanliness and sanitation."
+   "answer": 3,
+   "explanation": "Swachh Bharat Mission — Cleanliness and sanitation.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00053",
-   "q": "Bandipur National Park is located in which state?",
-   "o": [
+   "question": "Bandipur National Park is located in which state?",
+   "options": [
     "Himachal Pradesh",
     "Gujarat",
     "Karnataka",
     "Chhattisgarh"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Bandipur National Park is located in Karnataka."
+   "answer": 2,
+   "explanation": "Bandipur National Park is located in Karnataka.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00054",
-   "q": "What is the main purpose of the Paris Agreement?",
-   "o": [
+   "question": "What is the main purpose of the Paris Agreement?",
+   "options": [
     "Seventeen goals for people and planet by 2030",
     "Access and benefit sharing of genetic resources",
     "Limiting global temperature rise to well below two degrees Celsius",
     "Conservation of biological diversity"
    ],
-   "a": 2,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Paris Agreement — Limiting global temperature rise to well below two degrees Celsius."
+   "answer": 2,
+   "explanation": "Paris Agreement — Limiting global temperature rise to well below two degrees Celsius.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00055",
-   "q": "Which of the following is an effect or source of Nitrogen oxides?",
-   "o": [
+   "question": "Which of the following is an effect or source of Nitrogen oxides?",
+   "options": [
     "Releases heavy metals when dumped improperly",
     "Fine particles that reach deep into the lungs",
     "Cause acid rain and smog",
     "Bioaccumulates and damages the brain"
    ],
-   "a": 2,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Nitrogen oxides — Cause acid rain and smog."
+   "answer": 2,
+   "explanation": "Nitrogen oxides — Cause acid rain and smog.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00056",
-   "q": "Gulf of Mannar Biosphere Reserve is located in which state?",
-   "o": [
+   "question": "Gulf of Mannar Biosphere Reserve is located in which state?",
+   "options": [
     "Assam",
     "Himachal Pradesh",
     "Tamil Nadu",
     "Andaman and Nicobar Islands"
    ],
-   "a": 2,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Gulf of Mannar Biosphere Reserve is in Tamil Nadu."
+   "answer": 2,
+   "explanation": "Gulf of Mannar Biosphere Reserve is in Tamil Nadu.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00057",
-   "q": "Namami Gange is associated with which purpose?",
-   "o": [
+   "question": "Namami Gange is associated with which purpose?",
+   "options": [
     "Funds for afforestation in lieu of diverted forest",
     "Protection of ecologically fragile areas",
     "Cleaning the Ganga",
     "Adjudication of environmental disputes"
    ],
-   "a": 2,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Namami Gange — Cleaning the Ganga."
+   "answer": 2,
+   "explanation": "Namami Gange — Cleaning the Ganga.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00058",
-   "q": "Van Vihar National Park is located in which state?",
-   "o": [
+   "question": "Van Vihar National Park is located in which state?",
+   "options": [
     "Mizoram",
     "Kerala",
     "Karnataka",
     "Madhya Pradesh"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Van Vihar National Park is located in Madhya Pradesh."
+   "answer": 3,
+   "explanation": "Van Vihar National Park is located in Madhya Pradesh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00059",
-   "q": "What is the main purpose of the Global Tiger Initiative?",
-   "o": [
+   "question": "What is the main purpose of the Global Tiger Initiative?",
+   "options": [
     "Disaster risk reduction",
     "Control of transboundary movement of hazardous waste",
     "Reduction of greenhouse gas emissions by developed countries",
     "Conservation of wild tigers"
    ],
-   "a": 3,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Global Tiger Initiative — Conservation of wild tigers."
+   "answer": 3,
+   "explanation": "Global Tiger Initiative — Conservation of wild tigers.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00060",
-   "q": "Which of the following is an effect or source of Thermal discharge from power plants?",
-   "o": [
+   "question": "Which of the following is an effect or source of Thermal discharge from power plants?",
+   "options": [
     "Causes hearing loss",
     "Potent greenhouse gas from livestock and paddy fields",
     "Causes acid rain",
     "Raises water temperature and harms aquatic life"
    ],
-   "a": 3,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Thermal discharge from power plants — Raises water temperature and harms aquatic life."
+   "answer": 3,
+   "explanation": "Thermal discharge from power plants — Raises water temperature and harms aquatic life.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00061",
-   "q": "Sambhar Lake is located in which state?",
-   "o": [
+   "question": "Sambhar Lake is located in which state?",
+   "options": [
     "Uttarakhand",
     "Odisha",
     "Jammu and Kashmir",
     "Rajasthan"
    ],
-   "a": 3,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Sambhar Lake is in Rajasthan."
+   "answer": 3,
+   "explanation": "Sambhar Lake is in Rajasthan.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00062",
-   "q": "National Action Plan on Climate Change is associated with which purpose?",
-   "o": [
+   "question": "National Action Plan on Climate Change is associated with which purpose?",
+   "options": [
     "Control of diversion of forest land",
     "Conservation of elephants",
     "Reduction of air pollution in cities",
     "Eight missions on climate change"
    ],
-   "a": 3,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "National Action Plan on Climate Change — Eight missions on climate change."
+   "answer": 3,
+   "explanation": "National Action Plan on Climate Change — Eight missions on climate change.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00063",
-   "q": "Anshi National Park is located in which state?",
-   "o": [
+   "question": "Anshi National Park is located in which state?",
+   "options": [
     "Maharashtra",
     "Kerala",
     "Jharkhand",
     "Karnataka"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Anshi National Park is located in Karnataka."
+   "answer": 3,
+   "explanation": "Anshi National Park is located in Karnataka.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00064",
-   "q": "What is the main purpose of the Vienna Convention?",
-   "o": [
+   "question": "What is the main purpose of the Vienna Convention?",
+   "options": [
     "Restoring degraded ecosystems",
     "Conservation of wild tigers",
     "Phasing out ozone depleting substances",
     "Protection of the ozone layer"
    ],
-   "a": 3,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Vienna Convention — Protection of the ozone layer."
+   "answer": 3,
+   "explanation": "Vienna Convention — Protection of the ozone layer.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00065",
-   "q": "Which of the following is an effect or source of Nitrate from fertilisers?",
-   "o": [
+   "question": "Which of the following is an effect or source of Nitrate from fertilisers?",
+   "options": [
     "Air pollution with fine particulate matter",
     "Raises water temperature and harms aquatic life",
     "Reduces oxygen carrying capacity of blood",
     "Causes eutrophication of water bodies"
    ],
-   "a": 3,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Nitrate from fertilisers — Causes eutrophication of water bodies."
+   "answer": 3,
+   "explanation": "Nitrate from fertilisers — Causes eutrophication of water bodies.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00066",
-   "q": "Keoladeo Ghana is located in which state?",
-   "o": [
+   "question": "Keoladeo Ghana is located in which state?",
+   "options": [
     "Tamil Nadu",
     "Tamil Nadu, Kerala and Karnataka",
     "Andhra Pradesh",
     "Rajasthan"
    ],
-   "a": 3,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Keoladeo Ghana is in Rajasthan."
+   "answer": 3,
+   "explanation": "Keoladeo Ghana is in Rajasthan.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00067",
-   "q": "Project Tiger is associated with which purpose?",
-   "o": [
+   "question": "Project Tiger is associated with which purpose?",
+   "options": [
     "Conservation of tigers",
     "Reintroduction of cheetahs",
     "Cleaning the Ganga",
     "Funds for afforestation in lieu of diverted forest"
    ],
-   "a": 0,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Project Tiger — Conservation of tigers."
+   "answer": 0,
+   "explanation": "Project Tiger — Conservation of tigers.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00068",
-   "q": "Khangchendzonga National Park is located in which state?",
-   "o": [
+   "question": "Khangchendzonga National Park is located in which state?",
+   "options": [
     "Madhya Pradesh",
     "Sikkim",
     "Odisha",
     "Uttar Pradesh"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Khangchendzonga National Park is located in Sikkim."
+   "answer": 1,
+   "explanation": "Khangchendzonga National Park is located in Sikkim.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00069",
-   "q": "What is the main purpose of the Minamata Convention?",
-   "o": [
+   "question": "What is the main purpose of the Minamata Convention?",
+   "options": [
     "Control of mercury emissions",
     "Access and benefit sharing of genetic resources",
     "Control of transboundary movement of hazardous waste",
     "Biosafety of living modified organisms"
    ],
-   "a": 0,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Minamata Convention — Control of mercury emissions."
+   "answer": 0,
+   "explanation": "Minamata Convention — Control of mercury emissions.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00070",
-   "q": "Which of the following is an effect or source of Lead?",
-   "o": [
+   "question": "Which of the following is an effect or source of Lead?",
+   "options": [
     "Damages the nervous system",
     "Fine particles that reach deep into the lungs",
     "Potent greenhouse gas from livestock and paddy fields",
     "Persists in the environment for centuries"
    ],
-   "a": 0,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Lead — Damages the nervous system."
+   "answer": 0,
+   "explanation": "Lead — Damages the nervous system.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00071",
-   "q": "Achanakmar Amarkantak Biosphere Reserve is located in which state?",
-   "o": [
+   "question": "Achanakmar Amarkantak Biosphere Reserve is located in which state?",
+   "options": [
     "Madhya Pradesh and Chhattisgarh",
     "Himachal Pradesh",
     "Odisha",
     "Andhra Pradesh"
    ],
-   "a": 0,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Achanakmar Amarkantak Biosphere Reserve is in Madhya Pradesh and Chhattisgarh."
+   "answer": 0,
+   "explanation": "Achanakmar Amarkantak Biosphere Reserve is in Madhya Pradesh and Chhattisgarh.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00072",
-   "q": "Environment Protection Act 1986 is associated with which purpose?",
-   "o": [
+   "question": "Environment Protection Act 1986 is associated with which purpose?",
+   "options": [
     "Reintroduction of cheetahs",
     "Umbrella law for environmental protection",
     "Protection of ecologically fragile areas",
     "Adjudication of environmental disputes"
    ],
-   "a": 1,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Environment Protection Act 1986 — Umbrella law for environmental protection."
+   "answer": 1,
+   "explanation": "Environment Protection Act 1986 — Umbrella law for environmental protection.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00073",
-   "q": "Keibul Lamjao National Park is located in which state?",
-   "o": [
+   "question": "Keibul Lamjao National Park is located in which state?",
+   "options": [
     "Karnataka",
     "Manipur",
     "Bihar",
     "Assam"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Keibul Lamjao National Park is located in Manipur."
+   "answer": 1,
+   "explanation": "Keibul Lamjao National Park is located in Manipur.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00074",
-   "q": "What is the main purpose of the UN Decade on Ecosystem Restoration?",
-   "o": [
+   "question": "What is the main purpose of the UN Decade on Ecosystem Restoration?",
+   "options": [
     "Restoring degraded ecosystems",
     "Protection of the ozone layer",
     "Control of mercury emissions",
     "Access and benefit sharing of genetic resources"
    ],
-   "a": 0,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "UN Decade on Ecosystem Restoration — Restoring degraded ecosystems."
+   "answer": 0,
+   "explanation": "UN Decade on Ecosystem Restoration — Restoring degraded ecosystems.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00075",
-   "q": "Which of the following is an effect or source of Fly ash from thermal plants?",
-   "o": [
+   "question": "Which of the following is an effect or source of Fly ash from thermal plants?",
+   "options": [
     "Air pollution with fine particulate matter",
     "Causes eutrophication of water bodies",
     "Damages the nervous system",
     "Fine particles that reach deep into the lungs"
    ],
-   "a": 0,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Fly ash from thermal plants — Air pollution with fine particulate matter."
+   "answer": 0,
+   "explanation": "Fly ash from thermal plants — Air pollution with fine particulate matter.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00076",
-   "q": "Point Calimere is located in which state?",
-   "o": [
+   "question": "Point Calimere is located in which state?",
+   "options": [
     "Tamil Nadu",
     "Rajasthan",
     "Madhya Pradesh and Chhattisgarh",
     "Himachal Pradesh"
    ],
-   "a": 0,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Point Calimere is in Tamil Nadu."
+   "answer": 0,
+   "explanation": "Point Calimere is in Tamil Nadu.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00077",
-   "q": "Eco Sensitive Zone notification is associated with which purpose?",
-   "o": [
+   "question": "Eco Sensitive Zone notification is associated with which purpose?",
+   "options": [
     "Cleaning the Ganga",
     "Funds for afforestation in lieu of diverted forest",
     "Protection of ecologically fragile areas",
     "Adjudication of environmental disputes"
    ],
-   "a": 2,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Eco Sensitive Zone notification — Protection of ecologically fragile areas."
+   "answer": 2,
+   "explanation": "Eco Sensitive Zone notification — Protection of ecologically fragile areas.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00078",
-   "q": "Kanwar Lake Bird Sanctuary is located in which state?",
-   "o": [
+   "question": "Kanwar Lake Bird Sanctuary is located in which state?",
+   "options": [
     "Jharkhand",
     "Sikkim",
     "Bihar",
     "Karnataka"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Kanwar Lake Bird Sanctuary is located in Bihar."
+   "answer": 2,
+   "explanation": "Kanwar Lake Bird Sanctuary is located in Bihar.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00079",
-   "q": "What is the main purpose of the Kyoto Protocol?",
-   "o": [
+   "question": "What is the main purpose of the Kyoto Protocol?",
+   "options": [
     "Control of mercury emissions",
     "Reduction of greenhouse gas emissions by developed countries",
     "Cooperation on solar energy",
     "Phasing out ozone depleting substances"
    ],
-   "a": 1,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Kyoto Protocol — Reduction of greenhouse gas emissions by developed countries."
+   "answer": 1,
+   "explanation": "Kyoto Protocol — Reduction of greenhouse gas emissions by developed countries.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00080",
-   "q": "Which of the following is an effect or source of Sulphur dioxide?",
-   "o": [
+   "question": "Which of the following is an effect or source of Sulphur dioxide?",
+   "options": [
     "Damages the nervous system",
     "Causes acid rain",
     "Causes genetic damage and cancer",
     "Reduces oxygen carrying capacity of blood"
    ],
-   "a": 1,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Sulphur dioxide — Causes acid rain."
+   "answer": 1,
+   "explanation": "Sulphur dioxide — Causes acid rain.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00081",
-   "q": "Nanda Devi Biosphere Reserve is located in which state?",
-   "o": [
+   "question": "Nanda Devi Biosphere Reserve is located in which state?",
+   "options": [
     "Madhya Pradesh and Chhattisgarh",
     "Uttarakhand",
     "Manipur",
     "Tamil Nadu, Kerala and Karnataka"
    ],
-   "a": 1,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Nanda Devi Biosphere Reserve is in Uttarakhand."
+   "answer": 1,
+   "explanation": "Nanda Devi Biosphere Reserve is in Uttarakhand.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00082",
-   "q": "National Green Tribunal is associated with which purpose?",
-   "o": [
+   "question": "National Green Tribunal is associated with which purpose?",
+   "options": [
     "Reintroduction of cheetahs",
     "Conservation of biological diversity",
     "Funds for afforestation in lieu of diverted forest",
     "Adjudication of environmental disputes"
    ],
-   "a": 3,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "National Green Tribunal — Adjudication of environmental disputes."
+   "answer": 3,
+   "explanation": "National Green Tribunal — Adjudication of environmental disputes.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00083",
-   "q": "Sultanpur National Park is located in which state?",
-   "o": [
+   "question": "Sultanpur National Park is located in which state?",
+   "options": [
     "Karnataka",
     "Haryana",
     "Odisha",
     "Uttar Pradesh"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Sultanpur National Park is located in Haryana."
+   "answer": 1,
+   "explanation": "Sultanpur National Park is located in Haryana.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00084",
-   "q": "What is the main purpose of the Ramsar Convention?",
-   "o": [
+   "question": "What is the main purpose of the Ramsar Convention?",
+   "options": [
     "Elimination of persistent organic pollutants",
     "Conservation and wise use of wetlands",
     "Access and benefit sharing of genetic resources",
     "Wetlands facing ecological change"
    ],
-   "a": 1,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Ramsar Convention — Conservation and wise use of wetlands."
+   "answer": 1,
+   "explanation": "Ramsar Convention — Conservation and wise use of wetlands.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00085",
-   "q": "Which of the following is an effect or source of Carbon dioxide?",
-   "o": [
+   "question": "Which of the following is an effect or source of Carbon dioxide?",
+   "options": [
     "Destroy the ozone layer",
     "Traps heat and causes global warming",
     "Fine particles that reach deep into the lungs",
     "Cause algal blooms in water"
    ],
-   "a": 1,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Carbon dioxide — Traps heat and causes global warming."
+   "answer": 1,
+   "explanation": "Carbon dioxide — Traps heat and causes global warming.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00086",
-   "q": "Sundarbans Biosphere Reserve is located in which state?",
-   "o": [
+   "question": "Sundarbans Biosphere Reserve is located in which state?",
+   "options": [
     "Madhya Pradesh",
     "West Bengal",
     "Himachal Pradesh",
     "Jammu and Kashmir"
    ],
-   "a": 1,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Sundarbans Biosphere Reserve is in West Bengal."
+   "answer": 1,
+   "explanation": "Sundarbans Biosphere Reserve is in West Bengal.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00087",
-   "q": "Project Cheetah is associated with which purpose?",
-   "o": [
+   "question": "Project Cheetah is associated with which purpose?",
+   "options": [
     "Reintroduction of cheetahs",
     "Prevention of water pollution",
     "Funds for afforestation in lieu of diverted forest",
     "Conservation of biological diversity"
    ],
-   "a": 0,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Project Cheetah — Reintroduction of cheetahs."
+   "answer": 0,
+   "explanation": "Project Cheetah — Reintroduction of cheetahs.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00088",
-   "q": "Kamlang Tiger Reserve is located in which state?",
-   "o": [
+   "question": "Kamlang Tiger Reserve is located in which state?",
+   "options": [
     "Bihar",
     "Uttarakhand",
     "Arunachal Pradesh",
     "Kerala"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Kamlang Tiger Reserve is located in Arunachal Pradesh."
+   "answer": 2,
+   "explanation": "Kamlang Tiger Reserve is located in Arunachal Pradesh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00089",
-   "q": "What is the main purpose of the UN Framework Convention on Climate Change?",
-   "o": [
+   "question": "What is the main purpose of the UN Framework Convention on Climate Change?",
+   "options": [
     "Access and benefit sharing of genetic resources",
     "Framework for climate action",
     "Reduction of greenhouse gas emissions by developed countries",
     "Restoring degraded ecosystems"
    ],
-   "a": 1,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "UN Framework Convention on Climate Change — Framework for climate action."
+   "answer": 1,
+   "explanation": "UN Framework Convention on Climate Change — Framework for climate action.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00090",
-   "q": "Which of the following is an effect or source of Fluoride?",
-   "o": [
+   "question": "Which of the following is an effect or source of Fluoride?",
+   "options": [
     "Fine particles that reach deep into the lungs",
     "Causes fluorosis in excess",
     "Causes acid rain",
     "Air pollution with fine particulate matter"
    ],
-   "a": 1,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Fluoride — Causes fluorosis in excess."
+   "answer": 1,
+   "explanation": "Fluoride — Causes fluorosis in excess.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00091",
-   "q": "Kanchenjunga Biosphere Reserve is located in which state?",
-   "o": [
+   "question": "Kanchenjunga Biosphere Reserve is located in which state?",
+   "options": [
     "Himachal Pradesh",
     "Sikkim",
     "Uttarakhand",
     "Tamil Nadu"
    ],
-   "a": 1,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Kanchenjunga Biosphere Reserve is in Sikkim."
+   "answer": 1,
+   "explanation": "Kanchenjunga Biosphere Reserve is in Sikkim.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00092",
-   "q": "Water Act 1974 is associated with which purpose?",
-   "o": [
+   "question": "Water Act 1974 is associated with which purpose?",
+   "options": [
     "Prevention of water pollution",
     "Prevention of air pollution",
     "Cleaning the Ganga",
     "Cleanliness and sanitation"
    ],
-   "a": 0,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Water Act 1974 — Prevention of water pollution."
+   "answer": 0,
+   "explanation": "Water Act 1974 — Prevention of water pollution.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00093",
-   "q": "Kalesar National Park is located in which state?",
-   "o": [
+   "question": "Kalesar National Park is located in which state?",
+   "options": [
     "Nagaland",
     "Karnataka",
     "Bihar",
     "Haryana"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Kalesar National Park is located in Haryana."
+   "answer": 3,
+   "explanation": "Kalesar National Park is located in Haryana.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00094",
-   "q": "What is the main purpose of the Sendai Framework?",
-   "o": [
+   "question": "What is the main purpose of the Sendai Framework?",
+   "options": [
     "Disaster risk reduction",
     "Cooperation on solar energy",
     "Conservation of biological diversity",
     "Phase down of hydrofluorocarbons"
    ],
-   "a": 0,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Sendai Framework — Disaster risk reduction."
+   "answer": 0,
+   "explanation": "Sendai Framework — Disaster risk reduction.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00095",
-   "q": "Which of the following is an effect or source of Noise above 85 decibels?",
-   "o": [
+   "question": "Which of the following is an effect or source of Noise above 85 decibels?",
+   "options": [
     "Causes hearing loss",
     "Causes genetic damage and cancer",
     "Bioaccumulates and damages the brain",
     "Damage marine life and coastlines"
    ],
-   "a": 0,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Noise above 85 decibels — Causes hearing loss."
+   "answer": 0,
+   "explanation": "Noise above 85 decibels — Causes hearing loss.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00096",
-   "q": "Chilika Lake is located in which state?",
-   "o": [
+   "question": "Chilika Lake is located in which state?",
+   "options": [
     "Odisha",
     "Manipur",
     "Andaman and Nicobar Islands",
     "Madhya Pradesh"
    ],
-   "a": 0,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Chilika Lake is in Odisha."
+   "answer": 0,
+   "explanation": "Chilika Lake is in Odisha.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00097",
-   "q": "National Clean Air Programme is associated with which purpose?",
-   "o": [
+   "question": "National Clean Air Programme is associated with which purpose?",
+   "options": [
     "Control of diversion of forest land",
     "Protection of ecologically fragile areas",
     "Reduction of air pollution in cities",
     "Cleanliness and sanitation"
    ],
-   "a": 2,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "National Clean Air Programme — Reduction of air pollution in cities."
+   "answer": 2,
+   "explanation": "National Clean Air Programme — Reduction of air pollution in cities.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00098",
-   "q": "Umred Karhandla Sanctuary is located in which state?",
-   "o": [
+   "question": "Umred Karhandla Sanctuary is located in which state?",
+   "options": [
     "Nagaland",
     "Rajasthan",
     "Maharashtra",
     "Madhya Pradesh"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Umred Karhandla Sanctuary is located in Maharashtra."
+   "answer": 2,
+   "explanation": "Umred Karhandla Sanctuary is located in Maharashtra.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00099",
-   "q": "What is the main purpose of the CITES?",
-   "o": [
+   "question": "What is the main purpose of the CITES?",
+   "options": [
     "Biosafety of living modified organisms",
     "Control of international trade in endangered species",
     "Elimination of persistent organic pollutants",
     "Reduction of greenhouse gas emissions by developed countries"
    ],
-   "a": 1,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "CITES — Control of international trade in endangered species."
+   "answer": 1,
+   "explanation": "CITES — Control of international trade in endangered species.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00100",
-   "q": "Which of the following is an effect or source of Arsenic?",
-   "o": [
+   "question": "Which of the following is an effect or source of Arsenic?",
+   "options": [
     "Persists in the environment for centuries",
     "Causes skin lesions and cancer in groundwater",
     "Destroy the ozone layer",
     "Causes acid rain"
    ],
-   "a": 1,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Arsenic — Causes skin lesions and cancer in groundwater."
+   "answer": 1,
+   "explanation": "Arsenic — Causes skin lesions and cancer in groundwater.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00101",
-   "q": "Agasthyamalai Biosphere Reserve is located in which state?",
-   "o": [
+   "question": "Agasthyamalai Biosphere Reserve is located in which state?",
+   "options": [
     "Andhra Pradesh",
     "Kerala and Tamil Nadu",
     "Madhya Pradesh",
     "Uttarakhand"
    ],
-   "a": 1,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Agasthyamalai Biosphere Reserve is in Kerala and Tamil Nadu."
+   "answer": 1,
+   "explanation": "Agasthyamalai Biosphere Reserve is in Kerala and Tamil Nadu.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00102",
-   "q": "Wildlife Protection Act 1972 is associated with which purpose?",
-   "o": [
+   "question": "Wildlife Protection Act 1972 is associated with which purpose?",
+   "options": [
     "Conservation of biological diversity",
     "Cleanliness and sanitation",
     "Protection of wild animals and plants",
     "Conservation of tigers"
    ],
-   "a": 2,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Wildlife Protection Act 1972 — Protection of wild animals and plants."
+   "answer": 2,
+   "explanation": "Wildlife Protection Act 1972 — Protection of wild animals and plants.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00103",
-   "q": "Bandhavgarh National Park is located in which state?",
-   "o": [
+   "question": "Bandhavgarh National Park is located in which state?",
+   "options": [
     "West Bengal",
     "Chhattisgarh",
     "Ladakh",
     "Madhya Pradesh"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Bandhavgarh National Park is located in Madhya Pradesh."
+   "answer": 3,
+   "explanation": "Bandhavgarh National Park is located in Madhya Pradesh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00104",
-   "q": "What is the main purpose of the Nagoya Protocol?",
-   "o": [
+   "question": "What is the main purpose of the Nagoya Protocol?",
+   "options": [
     "Access and benefit sharing of genetic resources",
     "Disaster risk reduction",
     "Conservation and wise use of wetlands",
     "Framework for climate action"
    ],
-   "a": 0,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Nagoya Protocol — Access and benefit sharing of genetic resources."
+   "answer": 0,
+   "explanation": "Nagoya Protocol — Access and benefit sharing of genetic resources.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00105",
-   "q": "Which of the following is an effect or source of Particulate matter PM 2.5?",
-   "o": [
+   "question": "Which of the following is an effect or source of Particulate matter PM 2.5?",
+   "options": [
     "Fine particles that reach deep into the lungs",
     "Causes hearing loss",
     "Traps heat and causes global warming",
     "Causes fluorosis in excess"
    ],
-   "a": 0,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Particulate matter PM 2.5 — Fine particles that reach deep into the lungs."
+   "answer": 0,
+   "explanation": "Particulate matter PM 2.5 — Fine particles that reach deep into the lungs.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00106",
-   "q": "Cold Desert Biosphere Reserve is located in which state?",
-   "o": [
+   "question": "Cold Desert Biosphere Reserve is located in which state?",
+   "options": [
     "Himachal Pradesh",
     "Odisha",
     "West Bengal",
     "Sikkim"
    ],
-   "a": 0,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Cold Desert Biosphere Reserve is in Himachal Pradesh."
+   "answer": 0,
+   "explanation": "Cold Desert Biosphere Reserve is in Himachal Pradesh.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00107",
-   "q": "Which law or scheme is described as: Control of diversion of forest land?",
-   "o": [
+   "question": "Which law or scheme is described as: Control of diversion of forest land?",
+   "options": [
     "Eco Sensitive Zone notification",
     "Swachh Bharat Mission",
     "Forest Conservation Act 1980",
     "National Green Tribunal"
    ],
-   "a": 2,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Control of diversion of forest land refers to Forest Conservation Act 1980."
+   "answer": 2,
+   "explanation": "Control of diversion of forest land refers to Forest Conservation Act 1980.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00108",
-   "q": "Namdapha National Park is located in which state?",
-   "o": [
+   "question": "Namdapha National Park is located in which state?",
+   "options": [
     "Maharashtra",
     "Rajasthan",
     "Madhya Pradesh",
     "Arunachal Pradesh"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Namdapha National Park is located in Arunachal Pradesh."
+   "answer": 3,
+   "explanation": "Namdapha National Park is located in Arunachal Pradesh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00109",
-   "q": "What is the main purpose of the Stockholm Convention?",
-   "o": [
+   "question": "What is the main purpose of the Stockholm Convention?",
+   "options": [
     "Seventeen goals for people and planet by 2030",
     "Elimination of persistent organic pollutants",
     "Phase down of hydrofluorocarbons",
     "Biosafety of living modified organisms"
    ],
-   "a": 1,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Stockholm Convention — Elimination of persistent organic pollutants."
+   "answer": 1,
+   "explanation": "Stockholm Convention — Elimination of persistent organic pollutants.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00110",
-   "q": "Which of the following is an effect or source of Chlorofluorocarbons?",
-   "o": [
+   "question": "Which of the following is an effect or source of Chlorofluorocarbons?",
+   "options": [
     "Releases heavy metals when dumped improperly",
     "Destroy the ozone layer",
     "Damage marine life and coastlines",
     "Persists in the environment for centuries"
    ],
-   "a": 1,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Chlorofluorocarbons — Destroy the ozone layer."
+   "answer": 1,
+   "explanation": "Chlorofluorocarbons — Destroy the ozone layer.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00111",
-   "q": "Pachmarhi Biosphere Reserve is located in which state?",
-   "o": [
+   "question": "Pachmarhi Biosphere Reserve is located in which state?",
+   "options": [
     "Assam",
     "Madhya Pradesh",
     "Rajasthan",
     "Andhra Pradesh"
    ],
-   "a": 1,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Pachmarhi Biosphere Reserve is in Madhya Pradesh."
+   "answer": 1,
+   "explanation": "Pachmarhi Biosphere Reserve is in Madhya Pradesh.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00112",
-   "q": "Which law or scheme is described as: Prevention of water pollution?",
-   "o": [
+   "question": "Which law or scheme is described as: Prevention of water pollution?",
+   "options": [
     "Water Act 1974",
     "Wildlife Protection Act 1972",
     "National Action Plan on Climate Change",
     "Project Tiger"
    ],
-   "a": 0,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Prevention of water pollution refers to Water Act 1974."
+   "answer": 0,
+   "explanation": "Prevention of water pollution refers to Water Act 1974.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00113",
-   "q": "Guru Ghasidas-Tamor Pingla Tiger Reserve is located in which state?",
-   "o": [
+   "question": "Guru Ghasidas-Tamor Pingla Tiger Reserve is located in which state?",
+   "options": [
     "Uttarakhand",
     "Chhattisgarh",
     "Assam",
     "Odisha"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Guru Ghasidas-Tamor Pingla Tiger Reserve is located in Chhattisgarh."
+   "answer": 1,
+   "explanation": "Guru Ghasidas-Tamor Pingla Tiger Reserve is located in Chhattisgarh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00114",
-   "q": "What is the main purpose of the Montreal Protocol?",
-   "o": [
+   "question": "What is the main purpose of the Montreal Protocol?",
+   "options": [
     "Control of mercury emissions",
     "Phasing out ozone depleting substances",
     "Disaster risk reduction",
     "Framework for climate action"
    ],
-   "a": 1,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Montreal Protocol — Phasing out ozone depleting substances."
+   "answer": 1,
+   "explanation": "Montreal Protocol — Phasing out ozone depleting substances.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00115",
-   "q": "Which of the following is an effect or source of Carbon monoxide?",
-   "o": [
+   "question": "Which of the following is an effect or source of Carbon monoxide?",
+   "options": [
     "Damages the nervous system",
     "Reduces oxygen carrying capacity of blood",
     "Causes hearing loss",
     "Causes fluorosis in excess"
    ],
-   "a": 1,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Carbon monoxide — Reduces oxygen carrying capacity of blood."
+   "answer": 1,
+   "explanation": "Carbon monoxide — Reduces oxygen carrying capacity of blood.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00116",
-   "q": "Nilgiri Biosphere Reserve is located in which state?",
-   "o": [
+   "question": "Nilgiri Biosphere Reserve is located in which state?",
+   "options": [
     "Madhya Pradesh and Chhattisgarh",
     "Tamil Nadu, Kerala and Karnataka",
     "Odisha",
     "Sikkim"
    ],
-   "a": 1,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Nilgiri Biosphere Reserve is in Tamil Nadu, Kerala and Karnataka."
+   "answer": 1,
+   "explanation": "Nilgiri Biosphere Reserve is in Tamil Nadu, Kerala and Karnataka.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00117",
-   "q": "Which law or scheme is described as: Protection of ecologically fragile areas?",
-   "o": [
+   "question": "Which law or scheme is described as: Protection of ecologically fragile areas?",
+   "options": [
     "National Clean Air Programme",
     "Biological Diversity Act 2002",
     "Eco Sensitive Zone notification",
     "National Action Plan on Climate Change"
    ],
-   "a": 2,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Protection of ecologically fragile areas refers to Eco Sensitive Zone notification."
+   "answer": 2,
+   "explanation": "Protection of ecologically fragile areas refers to Eco Sensitive Zone notification.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00118",
-   "q": "Nokrek National Park is located in which state?",
-   "o": [
+   "question": "Nokrek National Park is located in which state?",
+   "options": [
     "Odisha",
     "Arunachal Pradesh",
     "Madhya Pradesh",
     "Meghalaya"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Nokrek National Park is located in Meghalaya."
+   "answer": 3,
+   "explanation": "Nokrek National Park is located in Meghalaya.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00119",
-   "q": "What is the main purpose of the Kigali Amendment?",
-   "o": [
+   "question": "What is the main purpose of the Kigali Amendment?",
+   "options": [
     "Phase down of hydrofluorocarbons",
     "Biosafety of living modified organisms",
     "Control of mercury emissions",
     "Protection of the ozone layer"
    ],
-   "a": 0,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Kigali Amendment — Phase down of hydrofluorocarbons."
+   "answer": 0,
+   "explanation": "Kigali Amendment — Phase down of hydrofluorocarbons.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00120",
-   "q": "Which of the following is an effect or source of Oil spills?",
-   "o": [
+   "question": "Which of the following is an effect or source of Oil spills?",
+   "options": [
     "Damage marine life and coastlines",
     "Persists in the environment for centuries",
     "Damages the nervous system",
     "Causes eutrophication of water bodies"
    ],
-   "a": 0,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Oil spills — Damage marine life and coastlines."
+   "answer": 0,
+   "explanation": "Oil spills — Damage marine life and coastlines.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00121",
-   "q": "Panna Biosphere Reserve is located in which state?",
-   "o": [
+   "question": "Panna Biosphere Reserve is located in which state?",
+   "options": [
     "Madhya Pradesh",
     "Andhra Pradesh",
     "Madhya Pradesh and Chhattisgarh",
     "Rajasthan"
    ],
-   "a": 0,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Panna Biosphere Reserve is in Madhya Pradesh."
+   "answer": 0,
+   "explanation": "Panna Biosphere Reserve is in Madhya Pradesh.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00122",
-   "q": "Which law or scheme is described as: Eight missions on climate change?",
-   "o": [
+   "question": "Which law or scheme is described as: Eight missions on climate change?",
+   "options": [
     "Water Act 1974",
     "Project Elephant",
     "National Action Plan on Climate Change",
     "Project Cheetah"
    ],
-   "a": 2,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Eight missions on climate change refers to National Action Plan on Climate Change."
+   "answer": 2,
+   "explanation": "Eight missions on climate change refers to National Action Plan on Climate Change.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00123",
-   "q": "Murlen National Park is located in which state?",
-   "o": [
+   "question": "Murlen National Park is located in which state?",
+   "options": [
     "Maharashtra",
     "Mizoram",
     "Tamil Nadu",
     "Gujarat"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Murlen National Park is located in Mizoram."
+   "answer": 1,
+   "explanation": "Murlen National Park is located in Mizoram.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00124",
-   "q": "Which agreement or organisation is described as: Elimination of persistent organic pollutants?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Elimination of persistent organic pollutants?",
+   "options": [
     "Basel Convention",
     "Cartagena Protocol",
     "Montreal Protocol",
     "Stockholm Convention"
    ],
-   "a": 3,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Elimination of persistent organic pollutants describes the Stockholm Convention."
+   "answer": 3,
+   "explanation": "Elimination of persistent organic pollutants describes the Stockholm Convention.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00125",
-   "q": "Which pollutant is described as: Destroy the ozone layer?",
-   "o": [
+   "question": "Which pollutant is described as: Destroy the ozone layer?",
+   "options": [
     "Methane",
     "Plastic waste",
     "Carbon monoxide",
     "Chlorofluorocarbons"
    ],
-   "a": 3,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Destroy the ozone layer is linked to Chlorofluorocarbons."
+   "answer": 3,
+   "explanation": "Destroy the ozone layer is linked to Chlorofluorocarbons.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00126",
-   "q": "Which biosphere reserve or wetland is located in Madhya Pradesh?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Madhya Pradesh?",
+   "options": [
     "Simlipal Biosphere Reserve",
     "Seshachalam Biosphere Reserve",
     "Nilgiri Biosphere Reserve",
     "Pachmarhi Biosphere Reserve"
    ],
-   "a": 3,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Pachmarhi Biosphere Reserve is located in Madhya Pradesh."
+   "answer": 3,
+   "explanation": "Pachmarhi Biosphere Reserve is located in Madhya Pradesh.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00127",
-   "q": "Which law or scheme is described as: Cleaning the Ganga?",
-   "o": [
+   "question": "Which law or scheme is described as: Cleaning the Ganga?",
+   "options": [
     "Namami Gange",
     "Project Elephant",
     "Swachh Bharat Mission",
     "Biological Diversity Act 2002"
    ],
-   "a": 0,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Cleaning the Ganga refers to Namami Gange."
+   "answer": 0,
+   "explanation": "Cleaning the Ganga refers to Namami Gange.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00128",
-   "q": "Kaziranga National Park is located in which state?",
-   "o": [
+   "question": "Kaziranga National Park is located in which state?",
+   "options": [
     "Assam",
     "Madhya Pradesh",
     "Kerala",
     "Chhattisgarh"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Kaziranga National Park is located in Assam."
+   "answer": 0,
+   "explanation": "Kaziranga National Park is located in Assam.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00129",
-   "q": "Which agreement or organisation is described as: Conservation of wild tigers?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Conservation of wild tigers?",
+   "options": [
     "Global Tiger Initiative",
     "International Solar Alliance",
     "Kyoto Protocol",
     "Stockholm Convention"
    ],
-   "a": 0,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Conservation of wild tigers describes the Global Tiger Initiative."
+   "answer": 0,
+   "explanation": "Conservation of wild tigers describes the Global Tiger Initiative.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00130",
-   "q": "Which pollutant is described as: Raises water temperature and harms aquatic life?",
-   "o": [
+   "question": "Which pollutant is described as: Raises water temperature and harms aquatic life?",
+   "options": [
     "Thermal discharge from power plants",
     "Radioactive waste",
     "Sulphur dioxide",
     "Chlorofluorocarbons"
    ],
-   "a": 0,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Raises water temperature and harms aquatic life is linked to Thermal discharge from power plants."
+   "answer": 0,
+   "explanation": "Raises water temperature and harms aquatic life is linked to Thermal discharge from power plants.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00131",
-   "q": "Which biosphere reserve or wetland is located in Rajasthan?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Rajasthan?",
+   "options": [
     "Sambhar Lake",
     "Loktak Lake",
     "Nanda Devi Biosphere Reserve",
     "Pachmarhi Biosphere Reserve"
    ],
-   "a": 0,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Sambhar Lake is located in Rajasthan."
+   "answer": 0,
+   "explanation": "Sambhar Lake is located in Rajasthan.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00132",
-   "q": "Which law or scheme is described as: Conservation of elephants?",
-   "o": [
+   "question": "Which law or scheme is described as: Conservation of elephants?",
+   "options": [
     "Water Act 1974",
     "Project Elephant",
     "Air Act 1981",
     "Wildlife Protection Act 1972"
    ],
-   "a": 1,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Conservation of elephants refers to Project Elephant."
+   "answer": 1,
+   "explanation": "Conservation of elephants refers to Project Elephant.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00133",
-   "q": "Tadoba National Park is located in which state?",
-   "o": [
+   "question": "Tadoba National Park is located in which state?",
+   "options": [
     "Arunachal Pradesh",
     "Odisha",
     "Meghalaya",
     "Maharashtra"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Tadoba National Park is located in Maharashtra."
+   "answer": 3,
+   "explanation": "Tadoba National Park is located in Maharashtra.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00134",
-   "q": "Which agreement or organisation is described as: Limiting global temperature rise to well below two degrees Celsius?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Limiting global temperature rise to well below two degrees Celsius?",
+   "options": [
     "Basel Convention",
     "Minamata Convention",
     "Cartagena Protocol",
     "Paris Agreement"
    ],
-   "a": 3,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Limiting global temperature rise to well below two degrees Celsius describes the Paris Agreement."
+   "answer": 3,
+   "explanation": "Limiting global temperature rise to well below two degrees Celsius describes the Paris Agreement.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00135",
-   "q": "Which pollutant is described as: Cause acid rain and smog?",
-   "o": [
+   "question": "Which pollutant is described as: Cause acid rain and smog?",
+   "options": [
     "Methane",
     "Lead",
     "Plastic waste",
     "Nitrogen oxides"
    ],
-   "a": 3,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Cause acid rain and smog is linked to Nitrogen oxides."
+   "answer": 3,
+   "explanation": "Cause acid rain and smog is linked to Nitrogen oxides.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00136",
-   "q": "Which biosphere reserve or wetland is located in Tamil Nadu?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Tamil Nadu?",
+   "options": [
     "Simlipal Biosphere Reserve",
     "Achanakmar Amarkantak Biosphere Reserve",
     "Seshachalam Biosphere Reserve",
     "Gulf of Mannar Biosphere Reserve"
    ],
-   "a": 3,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Gulf of Mannar Biosphere Reserve is located in Tamil Nadu."
+   "answer": 3,
+   "explanation": "Gulf of Mannar Biosphere Reserve is located in Tamil Nadu.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00137",
-   "q": "Which law or scheme is described as: Adjudication of environmental disputes?",
-   "o": [
+   "question": "Which law or scheme is described as: Adjudication of environmental disputes?",
+   "options": [
     "Namami Gange",
     "National Clean Air Programme",
     "National Green Tribunal",
     "Swachh Bharat Mission"
    ],
-   "a": 2,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Adjudication of environmental disputes refers to National Green Tribunal."
+   "answer": 2,
+   "explanation": "Adjudication of environmental disputes refers to National Green Tribunal.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00138",
-   "q": "Dibang Wildlife Sanctuary is located in which state?",
-   "o": [
+   "question": "Dibang Wildlife Sanctuary is located in which state?",
+   "options": [
     "Arunachal Pradesh",
     "Odisha",
     "Assam",
     "Himachal Pradesh"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Dibang Wildlife Sanctuary is located in Arunachal Pradesh."
+   "answer": 0,
+   "explanation": "Dibang Wildlife Sanctuary is located in Arunachal Pradesh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00139",
-   "q": "Which agreement or organisation is described as: Wetlands facing ecological change?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Wetlands facing ecological change?",
+   "options": [
     "Kigali Amendment",
     "Ramsar Montreux Record",
     "Sendai Framework",
     "Nagoya Protocol"
    ],
-   "a": 1,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Wetlands facing ecological change describes the Ramsar Montreux Record."
+   "answer": 1,
+   "explanation": "Wetlands facing ecological change describes the Ramsar Montreux Record.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00140",
-   "q": "Which pollutant is described as: Cause algal blooms in water?",
-   "o": [
+   "question": "Which pollutant is described as: Cause algal blooms in water?",
+   "options": [
     "Oil spills",
     "Phosphate detergents",
     "Noise above 85 decibels",
     "Particulate matter PM 2.5"
    ],
-   "a": 1,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Cause algal blooms in water is linked to Phosphate detergents."
+   "answer": 1,
+   "explanation": "Cause algal blooms in water is linked to Phosphate detergents.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00141",
-   "q": "Which biosphere reserve or wetland is located in Jammu and Kashmir?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Jammu and Kashmir?",
+   "options": [
     "Panna Biosphere Reserve",
     "Wular Lake",
     "Chilika Lake",
     "Cold Desert Biosphere Reserve"
    ],
-   "a": 1,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Wular Lake is located in Jammu and Kashmir."
+   "answer": 1,
+   "explanation": "Wular Lake is located in Jammu and Kashmir.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00142",
-   "q": "Which law or scheme is described as: Conservation of biological diversity?",
-   "o": [
+   "question": "Which law or scheme is described as: Conservation of biological diversity?",
+   "options": [
     "National Action Plan on Climate Change",
     "Biological Diversity Act 2002",
     "Forest Conservation Act 1980",
     "National Clean Air Programme"
    ],
-   "a": 1,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Conservation of biological diversity refers to Biological Diversity Act 2002."
+   "answer": 1,
+   "explanation": "Conservation of biological diversity refers to Biological Diversity Act 2002.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00143",
-   "q": "Sundarbans National Park is located in which state?",
-   "o": [
+   "question": "Sundarbans National Park is located in which state?",
+   "options": [
     "West Bengal",
     "Karnataka",
     "Odisha",
     "Chhattisgarh"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Sundarbans National Park is located in West Bengal."
+   "answer": 0,
+   "explanation": "Sundarbans National Park is located in West Bengal.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00144",
-   "q": "Which agreement or organisation is described as: Phase down of hydrofluorocarbons?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Phase down of hydrofluorocarbons?",
+   "options": [
     "Kigali Amendment",
     "Stockholm Convention",
     "Nagoya Protocol",
     "Sustainable Development Goals"
    ],
-   "a": 0,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Phase down of hydrofluorocarbons describes the Kigali Amendment."
+   "answer": 0,
+   "explanation": "Phase down of hydrofluorocarbons describes the Kigali Amendment.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00145",
-   "q": "Which pollutant is described as: Damage marine life and coastlines?",
-   "o": [
+   "question": "Which pollutant is described as: Damage marine life and coastlines?",
+   "options": [
     "Oil spills",
     "Chlorofluorocarbons",
     "Particulate matter PM 2.5",
     "Electronic waste"
    ],
-   "a": 0,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Damage marine life and coastlines is linked to Oil spills."
+   "answer": 0,
+   "explanation": "Damage marine life and coastlines is linked to Oil spills.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00146",
-   "q": "Which biosphere reserve or wetland is located in Madhya Pradesh?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Madhya Pradesh?",
+   "options": [
     "Panna Biosphere Reserve",
     "Pachmarhi Biosphere Reserve",
     "Cold Desert Biosphere Reserve",
     "Deepor Beel"
    ],
-   "a": 0,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Panna Biosphere Reserve is located in Madhya Pradesh."
+   "answer": 0,
+   "explanation": "Panna Biosphere Reserve is located in Madhya Pradesh.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00147",
-   "q": "Which law or scheme is described as: Protection of wild animals and plants?",
-   "o": [
+   "question": "Which law or scheme is described as: Protection of wild animals and plants?",
+   "options": [
     "Compensatory Afforestation Fund",
     "Namami Gange",
     "National Action Plan on Climate Change",
     "Wildlife Protection Act 1972"
    ],
-   "a": 3,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Protection of wild animals and plants refers to Wildlife Protection Act 1972."
+   "answer": 3,
+   "explanation": "Protection of wild animals and plants refers to Wildlife Protection Act 1972.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00148",
-   "q": "Keoladeo National Park is located in which state?",
-   "o": [
+   "question": "Keoladeo National Park is located in which state?",
+   "options": [
     "Rajasthan",
     "Kerala",
     "Madhya Pradesh",
     "Uttarakhand"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Keoladeo National Park is located in Rajasthan."
+   "answer": 0,
+   "explanation": "Keoladeo National Park is located in Rajasthan.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00149",
-   "q": "Which agreement or organisation is described as: Control of transboundary movement of hazardous waste?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Control of transboundary movement of hazardous waste?",
+   "options": [
     "Cartagena Protocol",
     "Basel Convention",
     "Vienna Convention",
     "Kigali Amendment"
    ],
-   "a": 1,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Control of transboundary movement of hazardous waste describes the Basel Convention."
+   "answer": 1,
+   "explanation": "Control of transboundary movement of hazardous waste describes the Basel Convention.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00150",
-   "q": "Which pollutant is described as: Potent greenhouse gas from livestock and paddy fields?",
-   "o": [
+   "question": "Which pollutant is described as: Potent greenhouse gas from livestock and paddy fields?",
+   "options": [
     "Plastic waste",
     "Methane",
     "Nitrate from fertilisers",
     "Oil spills"
    ],
-   "a": 1,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Potent greenhouse gas from livestock and paddy fields is linked to Methane."
+   "answer": 1,
+   "explanation": "Potent greenhouse gas from livestock and paddy fields is linked to Methane.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00151",
-   "q": "Which biosphere reserve or wetland is located in Odisha?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Odisha?",
+   "options": [
     "Seshachalam Biosphere Reserve",
     "Simlipal Biosphere Reserve",
     "Keoladeo Ghana",
     "Panna Biosphere Reserve"
    ],
-   "a": 1,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Simlipal Biosphere Reserve is located in Odisha."
+   "answer": 1,
+   "explanation": "Simlipal Biosphere Reserve is located in Odisha.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00152",
-   "q": "Which law or scheme is described as: Prevention of air pollution?",
-   "o": [
+   "question": "Which law or scheme is described as: Prevention of air pollution?",
+   "options": [
     "Eco Sensitive Zone notification",
     "National Action Plan on Climate Change",
     "Air Act 1981",
     "Namami Gange"
    ],
-   "a": 2,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Prevention of air pollution refers to Air Act 1981."
+   "answer": 2,
+   "explanation": "Prevention of air pollution refers to Air Act 1981.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00153",
-   "q": "Intanki National Park is located in which state?",
-   "o": [
+   "question": "Intanki National Park is located in which state?",
+   "options": [
     "Arunachal Pradesh",
     "Maharashtra",
     "Nagaland",
     "Gujarat"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Intanki National Park is located in Nagaland."
+   "answer": 2,
+   "explanation": "Intanki National Park is located in Nagaland.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00154",
-   "q": "Which agreement or organisation is described as: Biosafety of living modified organisms?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Biosafety of living modified organisms?",
+   "options": [
     "Nagoya Protocol",
     "Convention on Biological Diversity",
     "Cartagena Protocol",
     "Vienna Convention"
    ],
-   "a": 2,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Biosafety of living modified organisms describes the Cartagena Protocol."
+   "answer": 2,
+   "explanation": "Biosafety of living modified organisms describes the Cartagena Protocol.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00155",
-   "q": "Which pollutant is described as: Persists in the environment for centuries?",
-   "o": [
+   "question": "Which pollutant is described as: Persists in the environment for centuries?",
+   "options": [
     "Particulate matter PM 2.5",
     "Mercury",
     "Plastic waste",
     "Nitrate from fertilisers"
    ],
-   "a": 2,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Persists in the environment for centuries is linked to Plastic waste."
+   "answer": 2,
+   "explanation": "Persists in the environment for centuries is linked to Plastic waste.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00156",
-   "q": "Which biosphere reserve or wetland is located in Andhra Pradesh?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Andhra Pradesh?",
+   "options": [
     "Cold Desert Biosphere Reserve",
     "Great Nicobar Biosphere Reserve",
     "Seshachalam Biosphere Reserve",
     "Keoladeo Ghana"
    ],
-   "a": 2,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Seshachalam Biosphere Reserve is located in Andhra Pradesh."
+   "answer": 2,
+   "explanation": "Seshachalam Biosphere Reserve is located in Andhra Pradesh.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00157",
-   "q": "Which law or scheme is described as: Funds for afforestation in lieu of diverted forest?",
-   "o": [
+   "question": "Which law or scheme is described as: Funds for afforestation in lieu of diverted forest?",
+   "options": [
     "Swachh Bharat Mission",
     "Project Cheetah",
     "Water Act 1974",
     "Compensatory Afforestation Fund"
    ],
-   "a": 3,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Funds for afforestation in lieu of diverted forest refers to Compensatory Afforestation Fund."
+   "answer": 3,
+   "explanation": "Funds for afforestation in lieu of diverted forest refers to Compensatory Afforestation Fund.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00158",
-   "q": "Nameri Tiger Reserve is located in which state?",
-   "o": [
+   "question": "Nameri Tiger Reserve is located in which state?",
+   "options": [
     "Chhattisgarh",
     "Karnataka",
     "Meghalaya",
     "Assam"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Nameri Tiger Reserve is located in Assam."
+   "answer": 3,
+   "explanation": "Nameri Tiger Reserve is located in Assam.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00159",
-   "q": "Which agreement or organisation is described as: Seventeen goals for people and planet by 2030?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Seventeen goals for people and planet by 2030?",
+   "options": [
     "Sustainable Development Goals",
     "Global Tiger Initiative",
     "Vienna Convention",
     "UN Framework Convention on Climate Change"
    ],
-   "a": 0,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Seventeen goals for people and planet by 2030 describes the Sustainable Development Goals."
+   "answer": 0,
+   "explanation": "Seventeen goals for people and planet by 2030 describes the Sustainable Development Goals.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00160",
-   "q": "Which pollutant is described as: Releases heavy metals when dumped improperly?",
-   "o": [
+   "question": "Which pollutant is described as: Releases heavy metals when dumped improperly?",
+   "options": [
     "Electronic waste",
     "Thermal discharge from power plants",
     "Nitrate from fertilisers",
     "Fluoride"
    ],
-   "a": 0,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Releases heavy metals when dumped improperly is linked to Electronic waste."
+   "answer": 0,
+   "explanation": "Releases heavy metals when dumped improperly is linked to Electronic waste.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00161",
-   "q": "Which biosphere reserve or wetland is located in Assam?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Assam?",
+   "options": [
     "Deepor Beel",
     "Sambhar Lake",
     "Keoladeo Ghana",
     "Kanchenjunga Biosphere Reserve"
    ],
-   "a": 0,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Deepor Beel is located in Assam."
+   "answer": 0,
+   "explanation": "Deepor Beel is located in Assam.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00162",
-   "q": "Which law or scheme is described as: Conservation of tigers?",
-   "o": [
+   "question": "Which law or scheme is described as: Conservation of tigers?",
+   "options": [
     "Biological Diversity Act 2002",
     "Water Act 1974",
     "Air Act 1981",
     "Project Tiger"
    ],
-   "a": 3,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Conservation of tigers refers to Project Tiger."
+   "answer": 3,
+   "explanation": "Conservation of tigers refers to Project Tiger.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00163",
-   "q": "Hemis National Park is located in which state?",
-   "o": [
+   "question": "Hemis National Park is located in which state?",
+   "options": [
     "Ladakh",
     "Karnataka",
     "Maharashtra",
     "Bihar"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Hemis National Park is located in Ladakh."
+   "answer": 0,
+   "explanation": "Hemis National Park is located in Ladakh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00164",
-   "q": "Which agreement or organisation is described as: Phasing out ozone depleting substances?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Phasing out ozone depleting substances?",
+   "options": [
     "Kigali Amendment",
     "Montreal Protocol",
     "Basel Convention",
     "CITES"
    ],
-   "a": 1,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Phasing out ozone depleting substances describes the Montreal Protocol."
+   "answer": 1,
+   "explanation": "Phasing out ozone depleting substances describes the Montreal Protocol.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00165",
-   "q": "Which pollutant is described as: Reduces oxygen carrying capacity of blood?",
-   "o": [
+   "question": "Which pollutant is described as: Reduces oxygen carrying capacity of blood?",
+   "options": [
     "Oil spills",
     "Carbon monoxide",
     "Methane",
     "Arsenic"
    ],
-   "a": 1,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Reduces oxygen carrying capacity of blood is linked to Carbon monoxide."
+   "answer": 1,
+   "explanation": "Reduces oxygen carrying capacity of blood is linked to Carbon monoxide.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00166",
-   "q": "Which biosphere reserve or wetland is located in Tamil Nadu, Kerala and Karnataka?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Tamil Nadu, Kerala and Karnataka?",
+   "options": [
     "Panna Biosphere Reserve",
     "Nilgiri Biosphere Reserve",
     "Simlipal Biosphere Reserve",
     "Agasthyamalai Biosphere Reserve"
    ],
-   "a": 1,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Nilgiri Biosphere Reserve is located in Tamil Nadu, Kerala and Karnataka."
+   "answer": 1,
+   "explanation": "Nilgiri Biosphere Reserve is located in Tamil Nadu, Kerala and Karnataka.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00167",
-   "q": "Which law or scheme is described as: Reintroduction of cheetahs?",
-   "o": [
+   "question": "Which law or scheme is described as: Reintroduction of cheetahs?",
+   "options": [
     "Project Cheetah",
     "Forest Conservation Act 1980",
     "Project Tiger",
     "Compensatory Afforestation Fund"
    ],
-   "a": 0,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Reintroduction of cheetahs refers to Project Cheetah."
+   "answer": 0,
+   "explanation": "Reintroduction of cheetahs refers to Project Cheetah.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00168",
-   "q": "Rajaji National Park is located in which state?",
-   "o": [
+   "question": "Rajaji National Park is located in which state?",
+   "options": [
     "Odisha",
     "Haryana",
     "Uttarakhand",
     "Chhattisgarh"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Rajaji National Park is located in Uttarakhand."
+   "answer": 2,
+   "explanation": "Rajaji National Park is located in Uttarakhand.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00169",
-   "q": "Which agreement or organisation is described as: Access and benefit sharing of genetic resources?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Access and benefit sharing of genetic resources?",
+   "options": [
     "Sustainable Development Goals",
     "Nagoya Protocol",
     "UN Framework Convention on Climate Change",
     "Montreal Protocol"
    ],
-   "a": 1,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Access and benefit sharing of genetic resources describes the Nagoya Protocol."
+   "answer": 1,
+   "explanation": "Access and benefit sharing of genetic resources describes the Nagoya Protocol.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00170",
-   "q": "Which pollutant is described as: Fine particles that reach deep into the lungs?",
-   "o": [
+   "question": "Which pollutant is described as: Fine particles that reach deep into the lungs?",
+   "options": [
     "Electronic waste",
     "Particulate matter PM 2.5",
     "Fluoride",
     "Carbon monoxide"
    ],
-   "a": 1,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Fine particles that reach deep into the lungs is linked to Particulate matter PM 2.5."
+   "answer": 1,
+   "explanation": "Fine particles that reach deep into the lungs is linked to Particulate matter PM 2.5.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00171",
-   "q": "Which biosphere reserve or wetland is located in Himachal Pradesh?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Himachal Pradesh?",
+   "options": [
     "Deepor Beel",
     "Cold Desert Biosphere Reserve",
     "Kanchenjunga Biosphere Reserve",
     "Nilgiri Biosphere Reserve"
    ],
-   "a": 1,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Cold Desert Biosphere Reserve is located in Himachal Pradesh."
+   "answer": 1,
+   "explanation": "Cold Desert Biosphere Reserve is located in Himachal Pradesh.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00172",
-   "q": "Which law or scheme is described as: Cleanliness and sanitation?",
-   "o": [
+   "question": "Which law or scheme is described as: Cleanliness and sanitation?",
+   "options": [
     "Project Cheetah",
     "Forest Conservation Act 1980",
     "Water Act 1974",
     "Swachh Bharat Mission"
    ],
-   "a": 3,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Cleanliness and sanitation refers to Swachh Bharat Mission."
+   "answer": 3,
+   "explanation": "Cleanliness and sanitation refers to Swachh Bharat Mission.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00173",
-   "q": "Pench National Park is located in which state?",
-   "o": [
+   "question": "Pench National Park is located in which state?",
+   "options": [
     "Ladakh",
     "Maharashtra",
     "Madhya Pradesh",
     "Arunachal Pradesh"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Pench National Park is located in Madhya Pradesh."
+   "answer": 2,
+   "explanation": "Pench National Park is located in Madhya Pradesh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00174",
-   "q": "Which agreement or organisation is described as: Control of international trade in endangered species?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Control of international trade in endangered species?",
+   "options": [
     "UN Decade on Ecosystem Restoration",
     "Sustainable Development Goals",
     "Vienna Convention",
     "CITES"
    ],
-   "a": 3,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Control of international trade in endangered species describes the CITES."
+   "answer": 3,
+   "explanation": "Control of international trade in endangered species describes the CITES.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00175",
-   "q": "Which pollutant is described as: Causes skin lesions and cancer in groundwater?",
-   "o": [
+   "question": "Which pollutant is described as: Causes skin lesions and cancer in groundwater?",
+   "options": [
     "Fly ash from thermal plants",
     "Electronic waste",
     "Nitrate from fertilisers",
     "Arsenic"
    ],
-   "a": 3,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Causes skin lesions and cancer in groundwater is linked to Arsenic."
+   "answer": 3,
+   "explanation": "Causes skin lesions and cancer in groundwater is linked to Arsenic.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00176",
-   "q": "Which biosphere reserve or wetland is located in Kerala and Tamil Nadu?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Kerala and Tamil Nadu?",
+   "options": [
     "Point Calimere",
     "Deepor Beel",
     "Keoladeo Ghana",
     "Agasthyamalai Biosphere Reserve"
    ],
-   "a": 3,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Agasthyamalai Biosphere Reserve is located in Kerala and Tamil Nadu."
+   "answer": 3,
+   "explanation": "Agasthyamalai Biosphere Reserve is located in Kerala and Tamil Nadu.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00177",
-   "q": "Which law or scheme is described as: Reduction of air pollution in cities?",
-   "o": [
+   "question": "Which law or scheme is described as: Reduction of air pollution in cities?",
+   "options": [
     "National Clean Air Programme",
     "Wildlife Protection Act 1972",
     "Compensatory Afforestation Fund",
     "Environment Protection Act 1986"
    ],
-   "a": 0,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Reduction of air pollution in cities refers to National Clean Air Programme."
+   "answer": 0,
+   "explanation": "Reduction of air pollution in cities refers to National Clean Air Programme.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00178",
-   "q": "Mudumalai National Park is located in which state?",
-   "o": [
+   "question": "Mudumalai National Park is located in which state?",
+   "options": [
     "Maharashtra",
     "Tamil Nadu",
     "Madhya Pradesh",
     "Jammu and Kashmir"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Mudumalai National Park is located in Tamil Nadu."
+   "answer": 1,
+   "explanation": "Mudumalai National Park is located in Tamil Nadu.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00179",
-   "q": "Which agreement or organisation is described as: Cooperation on solar energy?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Cooperation on solar energy?",
+   "options": [
     "Minamata Convention",
     "Cartagena Protocol",
     "Paris Agreement",
     "International Solar Alliance"
    ],
-   "a": 3,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Cooperation on solar energy describes the International Solar Alliance."
+   "answer": 3,
+   "explanation": "Cooperation on solar energy describes the International Solar Alliance.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00180",
-   "q": "Which pollutant is described as: Causes genetic damage and cancer?",
-   "o": [
+   "question": "Which pollutant is described as: Causes genetic damage and cancer?",
+   "options": [
     "Lead",
     "Plastic waste",
     "Nitrogen oxides",
     "Radioactive waste"
    ],
-   "a": 3,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Causes genetic damage and cancer is linked to Radioactive waste."
+   "answer": 3,
+   "explanation": "Causes genetic damage and cancer is linked to Radioactive waste.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00181",
-   "q": "Which biosphere reserve or wetland is located in Manipur?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Manipur?",
+   "options": [
     "Achanakmar Amarkantak Biosphere Reserve",
     "Seshachalam Biosphere Reserve",
     "Gulf of Mannar Biosphere Reserve",
     "Loktak Lake"
    ],
-   "a": 3,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Loktak Lake is located in Manipur."
+   "answer": 3,
+   "explanation": "Loktak Lake is located in Manipur.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00182",
-   "q": "Which law or scheme is described as: Umbrella law for environmental protection?",
-   "o": [
+   "question": "Which law or scheme is described as: Umbrella law for environmental protection?",
+   "options": [
     "Environment Protection Act 1986",
     "Water Act 1974",
     "National Action Plan on Climate Change",
     "National Clean Air Programme"
    ],
-   "a": 0,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Umbrella law for environmental protection refers to Environment Protection Act 1986."
+   "answer": 0,
+   "explanation": "Umbrella law for environmental protection refers to Environment Protection Act 1986.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00183",
-   "q": "Hastinapur Wildlife Sanctuary is located in which state?",
-   "o": [
+   "question": "Hastinapur Wildlife Sanctuary is located in which state?",
+   "options": [
     "Uttar Pradesh",
     "Chhattisgarh",
     "Assam",
     "Madhya Pradesh"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Hastinapur Wildlife Sanctuary is located in Uttar Pradesh."
+   "answer": 0,
+   "explanation": "Hastinapur Wildlife Sanctuary is located in Uttar Pradesh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00184",
-   "q": "Which agreement or organisation is described as: Conservation and wise use of wetlands?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Conservation and wise use of wetlands?",
+   "options": [
     "Cartagena Protocol",
     "Ramsar Convention",
     "Convention on Biological Diversity",
     "Sendai Framework"
    ],
-   "a": 1,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Conservation and wise use of wetlands describes the Ramsar Convention."
+   "answer": 1,
+   "explanation": "Conservation and wise use of wetlands describes the Ramsar Convention.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00185",
-   "q": "Which pollutant is described as: Traps heat and causes global warming?",
-   "o": [
+   "question": "Which pollutant is described as: Traps heat and causes global warming?",
+   "options": [
     "Plastic waste",
     "Carbon dioxide",
     "Mercury",
     "Noise above 85 decibels"
    ],
-   "a": 1,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Traps heat and causes global warming is linked to Carbon dioxide."
+   "answer": 1,
+   "explanation": "Traps heat and causes global warming is linked to Carbon dioxide.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00186",
-   "q": "Which biosphere reserve or wetland is located in West Bengal?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in West Bengal?",
+   "options": [
     "Seshachalam Biosphere Reserve",
     "Sundarbans Biosphere Reserve",
     "Great Nicobar Biosphere Reserve",
     "Chilika Lake"
    ],
-   "a": 1,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Sundarbans Biosphere Reserve is located in West Bengal."
+   "answer": 1,
+   "explanation": "Sundarbans Biosphere Reserve is located in West Bengal.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00187",
-   "q": "Which of the following pairs of law and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of law and purpose is correctly matched?",
+   "options": [
     "Air Act 1981 - Conservation of elephants",
     "Air Act 1981 - Eight missions on climate change",
     "Air Act 1981 - Prevention of air pollution",
     "Air Act 1981 - Conservation of tigers"
    ],
-   "a": 2,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Air Act 1981 - Prevention of air pollution is correctly matched."
+   "answer": 2,
+   "explanation": "Only Air Act 1981 - Prevention of air pollution is correctly matched.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00188",
-   "q": "Nameri National Park is located in which state?",
-   "o": [
+   "question": "Nameri National Park is located in which state?",
+   "options": [
     "Bihar",
     "Chhattisgarh",
     "Assam",
     "Uttarakhand"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Nameri National Park is located in Assam."
+   "answer": 2,
+   "explanation": "Nameri National Park is located in Assam.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00189",
-   "q": "Which agreement or organisation is described as: Restoring degraded ecosystems?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Restoring degraded ecosystems?",
+   "options": [
     "UN Decade on Ecosystem Restoration",
     "Vienna Convention",
     "Kyoto Protocol",
     "Ramsar Montreux Record"
    ],
-   "a": 0,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Restoring degraded ecosystems describes the UN Decade on Ecosystem Restoration."
+   "answer": 0,
+   "explanation": "Restoring degraded ecosystems describes the UN Decade on Ecosystem Restoration.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00190",
-   "q": "Which pollutant is described as: Air pollution with fine particulate matter?",
-   "o": [
+   "question": "Which pollutant is described as: Air pollution with fine particulate matter?",
+   "options": [
     "Fly ash from thermal plants",
     "Nitrate from fertilisers",
     "Sulphur dioxide",
     "Phosphate detergents"
    ],
-   "a": 0,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Air pollution with fine particulate matter is linked to Fly ash from thermal plants."
+   "answer": 0,
+   "explanation": "Air pollution with fine particulate matter is linked to Fly ash from thermal plants.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00191",
-   "q": "Which biosphere reserve or wetland is located in Tamil Nadu?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Tamil Nadu?",
+   "options": [
     "Point Calimere",
     "Keoladeo Ghana",
     "Nanda Devi Biosphere Reserve",
     "Wular Lake"
    ],
-   "a": 0,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Point Calimere is located in Tamil Nadu."
+   "answer": 0,
+   "explanation": "Point Calimere is located in Tamil Nadu.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00192",
-   "q": "Which of the following pairs of law and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of law and purpose is correctly matched?",
+   "options": [
     "Air Act 1981 - Prevention of water pollution",
     "Air Act 1981 - Reduction of air pollution in cities",
     "Air Act 1981 - Adjudication of environmental disputes",
     "Air Act 1981 - Prevention of air pollution"
    ],
-   "a": 3,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Air Act 1981 - Prevention of air pollution is correctly matched."
+   "answer": 3,
+   "explanation": "Only Air Act 1981 - Prevention of air pollution is correctly matched.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00193",
-   "q": "Parambikulam Tiger Reserve is located in which state?",
-   "o": [
+   "question": "Parambikulam Tiger Reserve is located in which state?",
+   "options": [
     "Uttarakhand",
     "Kerala",
     "Bihar",
     "Chhattisgarh"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Parambikulam Tiger Reserve is located in Kerala."
+   "answer": 1,
+   "explanation": "Parambikulam Tiger Reserve is located in Kerala.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00194",
-   "q": "Which agreement or organisation is described as: Framework for climate action?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Framework for climate action?",
+   "options": [
     "Kigali Amendment",
     "Cartagena Protocol",
     "UN Framework Convention on Climate Change",
     "Ramsar Convention"
    ],
-   "a": 2,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Framework for climate action describes the UN Framework Convention on Climate Change."
+   "answer": 2,
+   "explanation": "Framework for climate action describes the UN Framework Convention on Climate Change.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00195",
-   "q": "Which pollutant is described as: Causes fluorosis in excess?",
-   "o": [
+   "question": "Which pollutant is described as: Causes fluorosis in excess?",
+   "options": [
     "Oil spills",
     "Plastic waste",
     "Fluoride",
     "Carbon dioxide"
    ],
-   "a": 2,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Causes fluorosis in excess is linked to Fluoride."
+   "answer": 2,
+   "explanation": "Causes fluorosis in excess is linked to Fluoride.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00196",
-   "q": "Which biosphere reserve or wetland is located in Sikkim?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Sikkim?",
+   "options": [
     "Panna Biosphere Reserve",
     "Seshachalam Biosphere Reserve",
     "Kanchenjunga Biosphere Reserve",
     "Sundarbans Biosphere Reserve"
    ],
-   "a": 2,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Kanchenjunga Biosphere Reserve is located in Sikkim."
+   "answer": 2,
+   "explanation": "Kanchenjunga Biosphere Reserve is located in Sikkim.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00197",
-   "q": "Which of the following pairs of law and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of law and purpose is correctly matched?",
+   "options": [
     "Project Cheetah - Reintroduction of cheetahs",
     "Project Cheetah - Conservation of tigers",
     "Project Cheetah - Prevention of air pollution",
     "Project Cheetah - Adjudication of environmental disputes"
    ],
-   "a": 0,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Project Cheetah - Reintroduction of cheetahs is correctly matched."
+   "answer": 0,
+   "explanation": "Only Project Cheetah - Reintroduction of cheetahs is correctly matched.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00198",
-   "q": "Bhimbandh Wildlife Sanctuary is located in which state?",
-   "o": [
+   "question": "Bhimbandh Wildlife Sanctuary is located in which state?",
+   "options": [
     "Arunachal Pradesh",
     "Rajasthan",
     "Gujarat",
     "Bihar"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Bhimbandh Wildlife Sanctuary is located in Bihar."
+   "answer": 3,
+   "explanation": "Bhimbandh Wildlife Sanctuary is located in Bihar.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00199",
-   "q": "Which agreement or organisation is described as: Reduction of greenhouse gas emissions by developed countries?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Reduction of greenhouse gas emissions by developed countries?",
+   "options": [
     "Kyoto Protocol",
     "International Solar Alliance",
     "Kigali Amendment",
     "Cartagena Protocol"
    ],
-   "a": 0,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Reduction of greenhouse gas emissions by developed countries describes the Kyoto Protocol."
+   "answer": 0,
+   "explanation": "Reduction of greenhouse gas emissions by developed countries describes the Kyoto Protocol.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00200",
-   "q": "Which pollutant is described as: Causes acid rain?",
-   "o": [
+   "question": "Which pollutant is described as: Causes acid rain?",
+   "options": [
     "Sulphur dioxide",
     "Radioactive waste",
     "Oil spills",
     "Plastic waste"
    ],
-   "a": 0,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Causes acid rain is linked to Sulphur dioxide."
+   "answer": 0,
+   "explanation": "Causes acid rain is linked to Sulphur dioxide.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00201",
-   "q": "Which biosphere reserve or wetland is located in Uttarakhand?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Uttarakhand?",
+   "options": [
     "Nanda Devi Biosphere Reserve",
     "Loktak Lake",
     "Panna Biosphere Reserve",
     "Seshachalam Biosphere Reserve"
    ],
-   "a": 0,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Nanda Devi Biosphere Reserve is located in Uttarakhand."
+   "answer": 0,
+   "explanation": "Nanda Devi Biosphere Reserve is located in Uttarakhand.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00202",
-   "q": "Which of the following pairs of law and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of law and purpose is correctly matched?",
+   "options": [
     "Project Cheetah - Reintroduction of cheetahs",
     "Project Cheetah - Umbrella law for environmental protection",
     "Project Cheetah - Conservation of tigers",
     "Project Cheetah - Funds for afforestation in lieu of diverted forest"
    ],
-   "a": 0,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Project Cheetah - Reintroduction of cheetahs is correctly matched."
+   "answer": 0,
+   "explanation": "Only Project Cheetah - Reintroduction of cheetahs is correctly matched.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00203",
-   "q": "Kudremukh National Park is located in which state?",
-   "o": [
+   "question": "Kudremukh National Park is located in which state?",
+   "options": [
     "Gujarat",
     "Rajasthan",
     "Odisha",
     "Karnataka"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Kudremukh National Park is located in Karnataka."
+   "answer": 3,
+   "explanation": "Kudremukh National Park is located in Karnataka.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00204",
-   "q": "Which agreement or organisation is described as: Protection of the ozone layer?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Protection of the ozone layer?",
+   "options": [
     "Convention on Biological Diversity",
     "Nagoya Protocol",
     "Vienna Convention",
     "Minamata Convention"
    ],
-   "a": 2,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Protection of the ozone layer describes the Vienna Convention."
+   "answer": 2,
+   "explanation": "Protection of the ozone layer describes the Vienna Convention.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00205",
-   "q": "Which pollutant is described as: Causes eutrophication of water bodies?",
-   "o": [
+   "question": "Which pollutant is described as: Causes eutrophication of water bodies?",
+   "options": [
     "Mercury",
     "Particulate matter PM 2.5",
     "Nitrate from fertilisers",
     "Lead"
    ],
-   "a": 2,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Causes eutrophication of water bodies is linked to Nitrate from fertilisers."
+   "answer": 2,
+   "explanation": "Causes eutrophication of water bodies is linked to Nitrate from fertilisers.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00206",
-   "q": "Which biosphere reserve or wetland is located in Rajasthan?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Rajasthan?",
+   "options": [
     "Great Nicobar Biosphere Reserve",
     "Cold Desert Biosphere Reserve",
     "Keoladeo Ghana",
     "Achanakmar Amarkantak Biosphere Reserve"
    ],
-   "a": 2,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Keoladeo Ghana is located in Rajasthan."
+   "answer": 2,
+   "explanation": "Keoladeo Ghana is located in Rajasthan.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00207",
-   "q": "Which of the following pairs of law and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of law and purpose is correctly matched?",
+   "options": [
     "Namami Gange - Prevention of air pollution",
     "Namami Gange - Cleaning the Ganga",
     "Namami Gange - Umbrella law for environmental protection",
     "Namami Gange - Cleanliness and sanitation"
    ],
-   "a": 1,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Namami Gange - Cleaning the Ganga is correctly matched."
+   "answer": 1,
+   "explanation": "Only Namami Gange - Cleaning the Ganga is correctly matched.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00208",
-   "q": "Bor Tiger Reserve Buffer is located in which state?",
-   "o": [
+   "question": "Bor Tiger Reserve Buffer is located in which state?",
+   "options": [
     "Maharashtra",
     "Bihar",
     "Rajasthan",
     "Madhya Pradesh"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Bor Tiger Reserve Buffer is located in Maharashtra."
+   "answer": 0,
+   "explanation": "Bor Tiger Reserve Buffer is located in Maharashtra.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00209",
-   "q": "Which agreement or organisation is described as: Conservation of biological diversity?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Conservation of biological diversity?",
+   "options": [
     "Nagoya Protocol",
     "CITES",
     "Convention on Biological Diversity",
     "Ramsar Convention"
    ],
-   "a": 2,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Conservation of biological diversity describes the Convention on Biological Diversity."
+   "answer": 2,
+   "explanation": "Conservation of biological diversity describes the Convention on Biological Diversity.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00210",
-   "q": "Which pollutant is described as: Bioaccumulates and damages the brain?",
-   "o": [
+   "question": "Which pollutant is described as: Bioaccumulates and damages the brain?",
+   "options": [
     "Particulate matter PM 2.5",
     "Arsenic",
     "Mercury",
     "Carbon dioxide"
    ],
-   "a": 2,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Bioaccumulates and damages the brain is linked to Mercury."
+   "answer": 2,
+   "explanation": "Bioaccumulates and damages the brain is linked to Mercury.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00211",
-   "q": "Which biosphere reserve or wetland is located in Andaman and Nicobar Islands?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Andaman and Nicobar Islands?",
+   "options": [
     "Cold Desert Biosphere Reserve",
     "Agasthyamalai Biosphere Reserve",
     "Great Nicobar Biosphere Reserve",
     "Sundarbans Biosphere Reserve"
    ],
-   "a": 2,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Great Nicobar Biosphere Reserve is located in Andaman and Nicobar Islands."
+   "answer": 2,
+   "explanation": "Great Nicobar Biosphere Reserve is located in Andaman and Nicobar Islands.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00212",
-   "q": "Which of the following pairs of law and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of law and purpose is correctly matched?",
+   "options": [
     "Namami Gange - Prevention of water pollution",
     "Namami Gange - Prevention of air pollution",
     "Namami Gange - Funds for afforestation in lieu of diverted forest",
     "Namami Gange - Cleaning the Ganga"
    ],
-   "a": 3,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Namami Gange - Cleaning the Ganga is correctly matched."
+   "answer": 3,
+   "explanation": "Only Namami Gange - Cleaning the Ganga is correctly matched.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00213",
-   "q": "Phawngpui National Park is located in which state?",
-   "o": [
+   "question": "Phawngpui National Park is located in which state?",
+   "options": [
     "Meghalaya",
     "Himachal Pradesh",
     "Maharashtra",
     "Mizoram"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Phawngpui National Park is located in Mizoram."
+   "answer": 3,
+   "explanation": "Phawngpui National Park is located in Mizoram.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00214",
-   "q": "Which agreement or organisation is described as: Control of mercury emissions?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Control of mercury emissions?",
+   "options": [
     "Global Tiger Initiative",
     "International Solar Alliance",
     "Basel Convention",
     "Minamata Convention"
    ],
-   "a": 3,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Control of mercury emissions describes the Minamata Convention."
+   "answer": 3,
+   "explanation": "Control of mercury emissions describes the Minamata Convention.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00215",
-   "q": "Which pollutant is described as: Damages the nervous system?",
-   "o": [
+   "question": "Which pollutant is described as: Damages the nervous system?",
+   "options": [
     "Thermal discharge from power plants",
     "Radioactive waste",
     "Methane",
     "Lead"
    ],
-   "a": 3,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Damages the nervous system is linked to Lead."
+   "answer": 3,
+   "explanation": "Damages the nervous system is linked to Lead.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00216",
-   "q": "Which biosphere reserve or wetland is located in Madhya Pradesh and Chhattisgarh?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Madhya Pradesh and Chhattisgarh?",
+   "options": [
     "Sambhar Lake",
     "Loktak Lake",
     "Simlipal Biosphere Reserve",
     "Achanakmar Amarkantak Biosphere Reserve"
    ],
-   "a": 3,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Achanakmar Amarkantak Biosphere Reserve is located in Madhya Pradesh and Chhattisgarh."
+   "answer": 3,
+   "explanation": "Achanakmar Amarkantak Biosphere Reserve is located in Madhya Pradesh and Chhattisgarh.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00217",
-   "q": "Which of the following pairs of law and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of law and purpose is correctly matched?",
+   "options": [
     "Eco Sensitive Zone notification - Reduction of air pollution in cities",
     "Eco Sensitive Zone notification - Reintroduction of cheetahs",
     "Eco Sensitive Zone notification - Cleaning the Ganga",
     "Eco Sensitive Zone notification - Protection of ecologically fragile areas"
    ],
-   "a": 3,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Eco Sensitive Zone notification - Protection of ecologically fragile areas is correctly matched."
+   "answer": 3,
+   "explanation": "Only Eco Sensitive Zone notification - Protection of ecologically fragile areas is correctly matched.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00218",
-   "q": "Kanha Tiger Reserve is located in which state?",
-   "o": [
+   "question": "Kanha Tiger Reserve is located in which state?",
+   "options": [
     "Madhya Pradesh",
     "Karnataka",
     "Rajasthan",
     "Maharashtra"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Kanha Tiger Reserve is located in Madhya Pradesh."
+   "answer": 0,
+   "explanation": "Kanha Tiger Reserve is located in Madhya Pradesh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00219",
-   "q": "Which agreement or organisation is described as: Disaster risk reduction?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Disaster risk reduction?",
+   "options": [
     "Sendai Framework",
     "Minamata Convention",
     "UN Decade on Ecosystem Restoration",
     "Vienna Convention"
    ],
-   "a": 0,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Disaster risk reduction describes the Sendai Framework."
+   "answer": 0,
+   "explanation": "Disaster risk reduction describes the Sendai Framework.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00220",
-   "q": "Which pollutant is described as: Causes hearing loss?",
-   "o": [
+   "question": "Which pollutant is described as: Causes hearing loss?",
+   "options": [
     "Noise above 85 decibels",
     "Lead",
     "Fly ash from thermal plants",
     "Nitrate from fertilisers"
    ],
-   "a": 0,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Causes hearing loss is linked to Noise above 85 decibels."
+   "answer": 0,
+   "explanation": "Causes hearing loss is linked to Noise above 85 decibels.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00221",
-   "q": "Which biosphere reserve or wetland is located in Odisha?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Odisha?",
+   "options": [
     "Chilika Lake",
     "Achanakmar Amarkantak Biosphere Reserve",
     "Point Calimere",
     "Keoladeo Ghana"
    ],
-   "a": 0,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Chilika Lake is located in Odisha."
+   "answer": 0,
+   "explanation": "Chilika Lake is located in Odisha.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00222",
-   "q": "Which of the following pairs of law and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of law and purpose is correctly matched?",
+   "options": [
     "Eco Sensitive Zone notification - Reduction of air pollution in cities",
     "Eco Sensitive Zone notification - Reintroduction of cheetahs",
     "Eco Sensitive Zone notification - Conservation of elephants",
     "Eco Sensitive Zone notification - Protection of ecologically fragile areas"
    ],
-   "a": 3,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Eco Sensitive Zone notification - Protection of ecologically fragile areas is correctly matched."
+   "answer": 3,
+   "explanation": "Only Eco Sensitive Zone notification - Protection of ecologically fragile areas is correctly matched.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00223",
-   "q": "Gir National Park is located in which state?",
-   "o": [
+   "question": "Gir National Park is located in which state?",
+   "options": [
     "Madhya Pradesh",
     "Gujarat",
     "Bihar",
     "Odisha"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Gir National Park is located in Gujarat."
+   "answer": 1,
+   "explanation": "Gir National Park is located in Gujarat.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00224",
-   "q": "Which of the following pairs of agreement and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of agreement and purpose is correctly matched?",
+   "options": [
     "Kigali Amendment - Phase down of hydrofluorocarbons",
     "Kigali Amendment - Conservation of biological diversity",
     "Kigali Amendment - Restoring degraded ecosystems",
     "Kigali Amendment - Protection of the ozone layer"
    ],
-   "a": 0,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kigali Amendment - Phase down of hydrofluorocarbons is correctly matched."
+   "answer": 0,
+   "explanation": "Only Kigali Amendment - Phase down of hydrofluorocarbons is correctly matched.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00225",
-   "q": "Which of the following pairs of pollutant and effect is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of pollutant and effect is correctly matched?",
+   "options": [
     "Oil spills - Damage marine life and coastlines",
     "Oil spills - Bioaccumulates and damages the brain",
     "Oil spills - Air pollution with fine particulate matter",
     "Oil spills - Causes eutrophication of water bodies"
    ],
-   "a": 0,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Oil spills - Damage marine life and coastlines is correctly matched."
+   "answer": 0,
+   "explanation": "Only Oil spills - Damage marine life and coastlines is correctly matched.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00226",
-   "q": "Which of the following pairs of site and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of site and state is correctly matched?",
+   "options": [
     "Panna Biosphere Reserve - Madhya Pradesh",
     "Panna Biosphere Reserve - Andaman and Nicobar Islands",
     "Panna Biosphere Reserve - Tamil Nadu",
     "Panna Biosphere Reserve - Rajasthan"
    ],
-   "a": 0,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Panna Biosphere Reserve - Madhya Pradesh is correctly matched."
+   "answer": 0,
+   "explanation": "Only Panna Biosphere Reserve - Madhya Pradesh is correctly matched.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00227",
-   "q": "Which of the following pairs of law and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of law and purpose is correctly matched?",
+   "options": [
     "Water Act 1974 - Conservation of biological diversity",
     "Water Act 1974 - Protection of wild animals and plants",
     "Water Act 1974 - Cleaning the Ganga",
     "Water Act 1974 - Prevention of water pollution"
    ],
-   "a": 3,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Water Act 1974 - Prevention of water pollution is correctly matched."
+   "answer": 3,
+   "explanation": "Only Water Act 1974 - Prevention of water pollution is correctly matched.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00228",
-   "q": "Melghat Tiger Reserve is located in which state?",
-   "o": [
+   "question": "Melghat Tiger Reserve is located in which state?",
+   "options": [
     "Chhattisgarh",
     "Maharashtra",
     "Gujarat",
     "Jammu and Kashmir"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Melghat Tiger Reserve is located in Maharashtra."
+   "answer": 1,
+   "explanation": "Melghat Tiger Reserve is located in Maharashtra.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00229",
-   "q": "Which of the following pairs of agreement and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of agreement and purpose is correctly matched?",
+   "options": [
     "Kigali Amendment - Conservation and wise use of wetlands",
     "Kigali Amendment - Phase down of hydrofluorocarbons",
     "Kigali Amendment - Disaster risk reduction",
     "Kigali Amendment - Cooperation on solar energy"
    ],
-   "a": 1,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kigali Amendment - Phase down of hydrofluorocarbons is correctly matched."
+   "answer": 1,
+   "explanation": "Only Kigali Amendment - Phase down of hydrofluorocarbons is correctly matched.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00230",
-   "q": "Which of the following pairs of pollutant and effect is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of pollutant and effect is correctly matched?",
+   "options": [
     "Oil spills - Traps heat and causes global warming",
     "Oil spills - Damage marine life and coastlines",
     "Oil spills - Causes hearing loss",
     "Oil spills - Causes genetic damage and cancer"
    ],
-   "a": 1,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Oil spills - Damage marine life and coastlines is correctly matched."
+   "answer": 1,
+   "explanation": "Only Oil spills - Damage marine life and coastlines is correctly matched.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00231",
-   "q": "Which of the following pairs of site and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of site and state is correctly matched?",
+   "options": [
     "Panna Biosphere Reserve - West Bengal",
     "Panna Biosphere Reserve - Madhya Pradesh",
     "Panna Biosphere Reserve - Odisha",
     "Panna Biosphere Reserve - Manipur"
    ],
-   "a": 1,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Panna Biosphere Reserve - Madhya Pradesh is correctly matched."
+   "answer": 1,
+   "explanation": "Only Panna Biosphere Reserve - Madhya Pradesh is correctly matched.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00232",
-   "q": "Which of the following pairs of law and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of law and purpose is correctly matched?",
+   "options": [
     "Water Act 1974 - Eight missions on climate change",
     "Water Act 1974 - Protection of ecologically fragile areas",
     "Water Act 1974 - Prevention of water pollution",
     "Water Act 1974 - Reduction of air pollution in cities"
    ],
-   "a": 2,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Water Act 1974 - Prevention of water pollution is correctly matched."
+   "answer": 2,
+   "explanation": "Only Water Act 1974 - Prevention of water pollution is correctly matched.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00233",
-   "q": "Valmiki Tiger Reserve is located in which state?",
-   "o": [
+   "question": "Valmiki Tiger Reserve is located in which state?",
+   "options": [
     "Assam",
     "Bihar",
     "Gujarat",
     "Maharashtra"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Valmiki Tiger Reserve is located in Bihar."
+   "answer": 1,
+   "explanation": "Valmiki Tiger Reserve is located in Bihar.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00234",
-   "q": "Which of the following pairs of agreement and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of agreement and purpose is correctly matched?",
+   "options": [
     "Montreal Protocol - Protection of the ozone layer",
     "Montreal Protocol - Phasing out ozone depleting substances",
     "Montreal Protocol - Disaster risk reduction",
     "Montreal Protocol - Phase down of hydrofluorocarbons"
    ],
-   "a": 1,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Montreal Protocol - Phasing out ozone depleting substances is correctly matched."
+   "answer": 1,
+   "explanation": "Only Montreal Protocol - Phasing out ozone depleting substances is correctly matched.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00235",
-   "q": "Which of the following pairs of pollutant and effect is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of pollutant and effect is correctly matched?",
+   "options": [
     "Carbon monoxide - Causes eutrophication of water bodies",
     "Carbon monoxide - Reduces oxygen carrying capacity of blood",
     "Carbon monoxide - Causes hearing loss",
     "Carbon monoxide - Damage marine life and coastlines"
    ],
-   "a": 1,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Carbon monoxide - Reduces oxygen carrying capacity of blood is correctly matched."
+   "answer": 1,
+   "explanation": "Only Carbon monoxide - Reduces oxygen carrying capacity of blood is correctly matched.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00236",
-   "q": "Which of the following pairs of site and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of site and state is correctly matched?",
+   "options": [
     "Nilgiri Biosphere Reserve - Rajasthan",
     "Nilgiri Biosphere Reserve - Tamil Nadu, Kerala and Karnataka",
     "Nilgiri Biosphere Reserve - Odisha",
     "Nilgiri Biosphere Reserve - Madhya Pradesh"
    ],
-   "a": 1,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nilgiri Biosphere Reserve - Tamil Nadu, Kerala and Karnataka is correctly matched."
+   "answer": 1,
+   "explanation": "Only Nilgiri Biosphere Reserve - Tamil Nadu, Kerala and Karnataka is correctly matched.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00237",
-   "q": "Which of the following pairs of law and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of law and purpose is correctly matched?",
+   "options": [
     "Biological Diversity Act 2002 - Adjudication of environmental disputes",
     "Biological Diversity Act 2002 - Conservation of biological diversity",
     "Biological Diversity Act 2002 - Reduction of air pollution in cities",
     "Biological Diversity Act 2002 - Funds for afforestation in lieu of diverted forest"
    ],
-   "a": 1,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Biological Diversity Act 2002 - Conservation of biological diversity is correctly matched."
+   "answer": 1,
+   "explanation": "Only Biological Diversity Act 2002 - Conservation of biological diversity is correctly matched.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00238",
-   "q": "Silent Valley National Park is located in which state?",
-   "o": [
+   "question": "Silent Valley National Park is located in which state?",
+   "options": [
     "Mizoram",
     "Chhattisgarh",
     "Jharkhand",
     "Kerala"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Silent Valley National Park is located in Kerala."
+   "answer": 3,
+   "explanation": "Silent Valley National Park is located in Kerala.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00239",
-   "q": "Which of the following pairs of agreement and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of agreement and purpose is correctly matched?",
+   "options": [
     "Montreal Protocol - Phase down of hydrofluorocarbons",
     "Montreal Protocol - Conservation and wise use of wetlands",
     "Montreal Protocol - Framework for climate action",
     "Montreal Protocol - Phasing out ozone depleting substances"
    ],
-   "a": 3,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Montreal Protocol - Phasing out ozone depleting substances is correctly matched."
+   "answer": 3,
+   "explanation": "Only Montreal Protocol - Phasing out ozone depleting substances is correctly matched.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00240",
-   "q": "Which of the following pairs of pollutant and effect is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of pollutant and effect is correctly matched?",
+   "options": [
     "Carbon monoxide - Damage marine life and coastlines",
     "Carbon monoxide - Traps heat and causes global warming",
     "Carbon monoxide - Causes fluorosis in excess",
     "Carbon monoxide - Reduces oxygen carrying capacity of blood"
    ],
-   "a": 3,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Carbon monoxide - Reduces oxygen carrying capacity of blood is correctly matched."
+   "answer": 3,
+   "explanation": "Only Carbon monoxide - Reduces oxygen carrying capacity of blood is correctly matched.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00241",
-   "q": "Which of the following pairs of site and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of site and state is correctly matched?",
+   "options": [
     "Nilgiri Biosphere Reserve - Madhya Pradesh",
     "Nilgiri Biosphere Reserve - West Bengal",
     "Nilgiri Biosphere Reserve - Sikkim",
     "Nilgiri Biosphere Reserve - Tamil Nadu, Kerala and Karnataka"
    ],
-   "a": 3,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nilgiri Biosphere Reserve - Tamil Nadu, Kerala and Karnataka is correctly matched."
+   "answer": 3,
+   "explanation": "Only Nilgiri Biosphere Reserve - Tamil Nadu, Kerala and Karnataka is correctly matched.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00242",
-   "q": "Which of the following pairs of law and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of law and purpose is correctly matched?",
+   "options": [
     "Biological Diversity Act 2002 - Conservation of biological diversity",
     "Biological Diversity Act 2002 - Protection of ecologically fragile areas",
     "Biological Diversity Act 2002 - Cleaning the Ganga",
     "Biological Diversity Act 2002 - Reduction of air pollution in cities"
    ],
-   "a": 0,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Biological Diversity Act 2002 - Conservation of biological diversity is correctly matched."
+   "answer": 0,
+   "explanation": "Only Biological Diversity Act 2002 - Conservation of biological diversity is correctly matched.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00243",
-   "q": "Kanha National Park is located in which state?",
-   "o": [
+   "question": "Kanha National Park is located in which state?",
+   "options": [
     "Assam",
     "Bihar",
     "West Bengal",
     "Madhya Pradesh"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Kanha National Park is located in Madhya Pradesh."
+   "answer": 3,
+   "explanation": "Kanha National Park is located in Madhya Pradesh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00244",
-   "q": "Which of the following pairs of agreement and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of agreement and purpose is correctly matched?",
+   "options": [
     "Ramsar Montreux Record - Biosafety of living modified organisms",
     "Ramsar Montreux Record - Wetlands facing ecological change",
     "Ramsar Montreux Record - Elimination of persistent organic pollutants",
     "Ramsar Montreux Record - Conservation of wild tigers"
    ],
-   "a": 1,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ramsar Montreux Record - Wetlands facing ecological change is correctly matched."
+   "answer": 1,
+   "explanation": "Only Ramsar Montreux Record - Wetlands facing ecological change is correctly matched.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00245",
-   "q": "Which of the following pairs of pollutant and effect is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of pollutant and effect is correctly matched?",
+   "options": [
     "Phosphate detergents - Persists in the environment for centuries",
     "Phosphate detergents - Cause algal blooms in water",
     "Phosphate detergents - Destroy the ozone layer",
     "Phosphate detergents - Raises water temperature and harms aquatic life"
    ],
-   "a": 1,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Phosphate detergents - Cause algal blooms in water is correctly matched."
+   "answer": 1,
+   "explanation": "Only Phosphate detergents - Cause algal blooms in water is correctly matched.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00246",
-   "q": "Which of the following pairs of site and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of site and state is correctly matched?",
+   "options": [
     "Wular Lake - Andhra Pradesh",
     "Wular Lake - Jammu and Kashmir",
     "Wular Lake - Madhya Pradesh",
     "Wular Lake - Rajasthan"
    ],
-   "a": 1,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Wular Lake - Jammu and Kashmir is correctly matched."
+   "answer": 1,
+   "explanation": "Only Wular Lake - Jammu and Kashmir is correctly matched.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00247",
-   "q": "Which of the following pairs of law and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of law and purpose is correctly matched?",
+   "options": [
     "National Clean Air Programme - Prevention of air pollution",
     "National Clean Air Programme - Protection of ecologically fragile areas",
     "National Clean Air Programme - Reduction of air pollution in cities",
     "National Clean Air Programme - Conservation of elephants"
    ],
-   "a": 2,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Clean Air Programme - Reduction of air pollution in cities is correctly matched."
+   "answer": 2,
+   "explanation": "Only National Clean Air Programme - Reduction of air pollution in cities is correctly matched.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00248",
-   "q": "Panna National Park is located in which state?",
-   "o": [
+   "question": "Panna National Park is located in which state?",
+   "options": [
     "Kerala",
     "Mizoram",
     "Madhya Pradesh",
     "Jharkhand"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Panna National Park is located in Madhya Pradesh."
+   "answer": 2,
+   "explanation": "Panna National Park is located in Madhya Pradesh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00249",
-   "q": "Which of the following pairs of agreement and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of agreement and purpose is correctly matched?",
+   "options": [
     "Ramsar Montreux Record - Wetlands facing ecological change",
     "Ramsar Montreux Record - Framework for climate action",
     "Ramsar Montreux Record - Seventeen goals for people and planet by 2030",
     "Ramsar Montreux Record - Disaster risk reduction"
    ],
-   "a": 0,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ramsar Montreux Record - Wetlands facing ecological change is correctly matched."
+   "answer": 0,
+   "explanation": "Only Ramsar Montreux Record - Wetlands facing ecological change is correctly matched.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00250",
-   "q": "Which of the following pairs of pollutant and effect is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of pollutant and effect is correctly matched?",
+   "options": [
     "Phosphate detergents - Cause algal blooms in water",
     "Phosphate detergents - Causes fluorosis in excess",
     "Phosphate detergents - Releases heavy metals when dumped improperly",
     "Phosphate detergents - Causes hearing loss"
    ],
-   "a": 0,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Phosphate detergents - Cause algal blooms in water is correctly matched."
+   "answer": 0,
+   "explanation": "Only Phosphate detergents - Cause algal blooms in water is correctly matched.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00251",
-   "q": "Which of the following pairs of site and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of site and state is correctly matched?",
+   "options": [
     "Wular Lake - Jammu and Kashmir",
     "Wular Lake - Sikkim",
     "Wular Lake - Assam",
     "Wular Lake - Odisha"
    ],
-   "a": 0,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Wular Lake - Jammu and Kashmir is correctly matched."
+   "answer": 0,
+   "explanation": "Only Wular Lake - Jammu and Kashmir is correctly matched.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00252",
-   "q": "Which of the following pairs of law and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of law and purpose is correctly matched?",
+   "options": [
     "National Clean Air Programme - Protection of wild animals and plants",
     "National Clean Air Programme - Conservation of tigers",
     "National Clean Air Programme - Umbrella law for environmental protection",
     "National Clean Air Programme - Reduction of air pollution in cities"
    ],
-   "a": 3,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Clean Air Programme - Reduction of air pollution in cities is correctly matched."
+   "answer": 3,
+   "explanation": "Only National Clean Air Programme - Reduction of air pollution in cities is correctly matched.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00253",
-   "q": "Satpura National Park is located in which state?",
-   "o": [
+   "question": "Satpura National Park is located in which state?",
+   "options": [
     "Odisha",
     "Assam",
     "Madhya Pradesh",
     "Rajasthan"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Satpura National Park is located in Madhya Pradesh."
+   "answer": 2,
+   "explanation": "Satpura National Park is located in Madhya Pradesh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00254",
-   "q": "Which of the following pairs of agreement and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of agreement and purpose is correctly matched?",
+   "options": [
     "Kyoto Protocol - Cooperation on solar energy",
     "Kyoto Protocol - Reduction of greenhouse gas emissions by developed countries",
     "Kyoto Protocol - Conservation of biological diversity",
     "Kyoto Protocol - Framework for climate action"
    ],
-   "a": 1,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kyoto Protocol - Reduction of greenhouse gas emissions by developed countries is correctly matched."
+   "answer": 1,
+   "explanation": "Only Kyoto Protocol - Reduction of greenhouse gas emissions by developed countries is correctly matched.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00255",
-   "q": "Which of the following pairs of pollutant and effect is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of pollutant and effect is correctly matched?",
+   "options": [
     "Sulphur dioxide - Causes genetic damage and cancer",
     "Sulphur dioxide - Causes acid rain",
     "Sulphur dioxide - Bioaccumulates and damages the brain",
     "Sulphur dioxide - Causes fluorosis in excess"
    ],
-   "a": 1,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sulphur dioxide - Causes acid rain is correctly matched."
+   "answer": 1,
+   "explanation": "Only Sulphur dioxide - Causes acid rain is correctly matched.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00256",
-   "q": "Which of the following pairs of site and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of site and state is correctly matched?",
+   "options": [
     "Nanda Devi Biosphere Reserve - Manipur",
     "Nanda Devi Biosphere Reserve - Uttarakhand",
     "Nanda Devi Biosphere Reserve - Andaman and Nicobar Islands",
     "Nanda Devi Biosphere Reserve - Sikkim"
    ],
-   "a": 1,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nanda Devi Biosphere Reserve - Uttarakhand is correctly matched."
+   "answer": 1,
+   "explanation": "Only Nanda Devi Biosphere Reserve - Uttarakhand is correctly matched.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00257",
-   "q": "Which of the following pairs of law and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of law and purpose is correctly matched?",
+   "options": [
     "Project Elephant - Protection of wild animals and plants",
     "Project Elephant - Conservation of elephants",
     "Project Elephant - Protection of ecologically fragile areas",
     "Project Elephant - Reintroduction of cheetahs"
    ],
-   "a": 1,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Project Elephant - Conservation of elephants is correctly matched."
+   "answer": 1,
+   "explanation": "Only Project Elephant - Conservation of elephants is correctly matched.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00258",
-   "q": "Veerangana Durgavati Tiger Reserve is located in which state?",
-   "o": [
+   "question": "Veerangana Durgavati Tiger Reserve is located in which state?",
+   "options": [
     "Assam",
     "Meghalaya",
     "Madhya Pradesh",
     "Odisha"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Veerangana Durgavati Tiger Reserve is located in Madhya Pradesh."
+   "answer": 2,
+   "explanation": "Veerangana Durgavati Tiger Reserve is located in Madhya Pradesh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00259",
-   "q": "Which of the following pairs of agreement and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of agreement and purpose is correctly matched?",
+   "options": [
     "Kyoto Protocol - Reduction of greenhouse gas emissions by developed countries",
     "Kyoto Protocol - Wetlands facing ecological change",
     "Kyoto Protocol - Seventeen goals for people and planet by 2030",
     "Kyoto Protocol - Conservation of biological diversity"
    ],
-   "a": 0,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kyoto Protocol - Reduction of greenhouse gas emissions by developed countries is correctly matched."
+   "answer": 0,
+   "explanation": "Only Kyoto Protocol - Reduction of greenhouse gas emissions by developed countries is correctly matched.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00260",
-   "q": "Which of the following pairs of pollutant and effect is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of pollutant and effect is correctly matched?",
+   "options": [
     "Sulphur dioxide - Causes acid rain",
     "Sulphur dioxide - Cause algal blooms in water",
     "Sulphur dioxide - Releases heavy metals when dumped improperly",
     "Sulphur dioxide - Bioaccumulates and damages the brain"
    ],
-   "a": 0,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sulphur dioxide - Causes acid rain is correctly matched."
+   "answer": 0,
+   "explanation": "Only Sulphur dioxide - Causes acid rain is correctly matched.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00261",
-   "q": "Which of the following pairs of site and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of site and state is correctly matched?",
+   "options": [
     "Nanda Devi Biosphere Reserve - Uttarakhand",
     "Nanda Devi Biosphere Reserve - Jammu and Kashmir",
     "Nanda Devi Biosphere Reserve - Assam",
     "Nanda Devi Biosphere Reserve - Andaman and Nicobar Islands"
    ],
-   "a": 0,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nanda Devi Biosphere Reserve - Uttarakhand is correctly matched."
+   "answer": 0,
+   "explanation": "Only Nanda Devi Biosphere Reserve - Uttarakhand is correctly matched.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00262",
-   "q": "Which of the following pairs of law and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of law and purpose is correctly matched?",
+   "options": [
     "Project Elephant - Conservation of elephants",
     "Project Elephant - Prevention of air pollution",
     "Project Elephant - Reduction of air pollution in cities",
     "Project Elephant - Conservation of biological diversity"
    ],
-   "a": 0,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Project Elephant - Conservation of elephants is correctly matched."
+   "answer": 0,
+   "explanation": "Only Project Elephant - Conservation of elephants is correctly matched.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00263",
-   "q": "Dholpur-Karauli Tiger Reserve is located in which state?",
-   "o": [
+   "question": "Dholpur-Karauli Tiger Reserve is located in which state?",
+   "options": [
     "Madhya Pradesh",
     "Ladakh",
     "Uttarakhand",
     "Rajasthan"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Dholpur-Karauli Tiger Reserve is located in Rajasthan."
+   "answer": 3,
+   "explanation": "Dholpur-Karauli Tiger Reserve is located in Rajasthan.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00264",
-   "q": "Which of the following pairs of agreement and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of agreement and purpose is correctly matched?",
+   "options": [
     "Basel Convention - Restoring degraded ecosystems",
     "Basel Convention - Control of transboundary movement of hazardous waste",
     "Basel Convention - Phase down of hydrofluorocarbons",
     "Basel Convention - Seventeen goals for people and planet by 2030"
    ],
-   "a": 1,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Basel Convention - Control of transboundary movement of hazardous waste is correctly matched."
+   "answer": 1,
+   "explanation": "Only Basel Convention - Control of transboundary movement of hazardous waste is correctly matched.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00265",
-   "q": "Which of the following pairs of pollutant and effect is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of pollutant and effect is correctly matched?",
+   "options": [
     "Methane - Air pollution with fine particulate matter",
     "Methane - Potent greenhouse gas from livestock and paddy fields",
     "Methane - Damage marine life and coastlines",
     "Methane - Releases heavy metals when dumped improperly"
    ],
-   "a": 1,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Methane - Potent greenhouse gas from livestock and paddy fields is correctly matched."
+   "answer": 1,
+   "explanation": "Only Methane - Potent greenhouse gas from livestock and paddy fields is correctly matched.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00266",
-   "q": "Which of the following pairs of site and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of site and state is correctly matched?",
+   "options": [
     "Simlipal Biosphere Reserve - Tamil Nadu",
     "Simlipal Biosphere Reserve - Odisha",
     "Simlipal Biosphere Reserve - Madhya Pradesh",
     "Simlipal Biosphere Reserve - Assam"
    ],
-   "a": 1,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Simlipal Biosphere Reserve - Odisha is correctly matched."
+   "answer": 1,
+   "explanation": "Only Simlipal Biosphere Reserve - Odisha is correctly matched.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00267",
-   "q": "Which of the following pairs of law and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of law and purpose is correctly matched?",
+   "options": [
     "Project Tiger - Eight missions on climate change",
     "Project Tiger - Conservation of tigers",
     "Project Tiger - Protection of wild animals and plants",
     "Project Tiger - Prevention of air pollution"
    ],
-   "a": 1,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Project Tiger - Conservation of tigers is correctly matched."
+   "answer": 1,
+   "explanation": "Only Project Tiger - Conservation of tigers is correctly matched.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00268",
-   "q": "Great Himalayan National Park is located in which state?",
-   "o": [
+   "question": "Great Himalayan National Park is located in which state?",
+   "options": [
     "Jharkhand",
     "Himachal Pradesh",
     "Maharashtra",
     "Gujarat"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Great Himalayan National Park is located in Himachal Pradesh."
+   "answer": 1,
+   "explanation": "Great Himalayan National Park is located in Himachal Pradesh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00269",
-   "q": "Which of the following pairs of agreement and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of agreement and purpose is correctly matched?",
+   "options": [
     "Basel Convention - Control of transboundary movement of hazardous waste",
     "Basel Convention - Wetlands facing ecological change",
     "Basel Convention - Control of mercury emissions",
     "Basel Convention - Cooperation on solar energy"
    ],
-   "a": 0,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Basel Convention - Control of transboundary movement of hazardous waste is correctly matched."
+   "answer": 0,
+   "explanation": "Only Basel Convention - Control of transboundary movement of hazardous waste is correctly matched.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00270",
-   "q": "Which of the following pairs of pollutant and effect is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of pollutant and effect is correctly matched?",
+   "options": [
     "Methane - Potent greenhouse gas from livestock and paddy fields",
     "Methane - Cause algal blooms in water",
     "Methane - Damages the nervous system",
     "Methane - Causes genetic damage and cancer"
    ],
-   "a": 0,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Methane - Potent greenhouse gas from livestock and paddy fields is correctly matched."
+   "answer": 0,
+   "explanation": "Only Methane - Potent greenhouse gas from livestock and paddy fields is correctly matched.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00271",
-   "q": "Which of the following pairs of site and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of site and state is correctly matched?",
+   "options": [
     "Simlipal Biosphere Reserve - Odisha",
     "Simlipal Biosphere Reserve - Jammu and Kashmir",
     "Simlipal Biosphere Reserve - Madhya Pradesh and Chhattisgarh",
     "Simlipal Biosphere Reserve - Manipur"
    ],
-   "a": 0,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Simlipal Biosphere Reserve - Odisha is correctly matched."
+   "answer": 0,
+   "explanation": "Only Simlipal Biosphere Reserve - Odisha is correctly matched.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00272",
-   "q": "Which of the following pairs of law and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of law and purpose is correctly matched?",
+   "options": [
     "Project Tiger - Conservation of tigers",
     "Project Tiger - Prevention of air pollution",
     "Project Tiger - Funds for afforestation in lieu of diverted forest",
     "Project Tiger - Reintroduction of cheetahs"
    ],
-   "a": 0,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Project Tiger - Conservation of tigers is correctly matched."
+   "answer": 0,
+   "explanation": "Only Project Tiger - Conservation of tigers is correctly matched.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00273",
-   "q": "Gangotri National Park is located in which state?",
-   "o": [
+   "question": "Gangotri National Park is located in which state?",
+   "options": [
     "West Bengal",
     "Ladakh",
     "Uttarakhand",
     "Madhya Pradesh"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Gangotri National Park is located in Uttarakhand."
+   "answer": 2,
+   "explanation": "Gangotri National Park is located in Uttarakhand.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00274",
-   "q": "Which of the following pairs of agreement and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of agreement and purpose is correctly matched?",
+   "options": [
     "Sustainable Development Goals - Seventeen goals for people and planet by 2030",
     "Sustainable Development Goals - Wetlands facing ecological change",
     "Sustainable Development Goals - Control of mercury emissions",
     "Sustainable Development Goals - Biosafety of living modified organisms"
    ],
-   "a": 0,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sustainable Development Goals - Seventeen goals for people and planet by 2030 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Sustainable Development Goals - Seventeen goals for people and planet by 2030 is correctly matched.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00275",
-   "q": "Which of the following pairs of pollutant and effect is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of pollutant and effect is correctly matched?",
+   "options": [
     "Electronic waste - Releases heavy metals when dumped improperly",
     "Electronic waste - Cause algal blooms in water",
     "Electronic waste - Damages the nervous system",
     "Electronic waste - Persists in the environment for centuries"
    ],
-   "a": 0,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Electronic waste - Releases heavy metals when dumped improperly is correctly matched."
+   "answer": 0,
+   "explanation": "Only Electronic waste - Releases heavy metals when dumped improperly is correctly matched.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00276",
-   "q": "Which of the following pairs of site and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of site and state is correctly matched?",
+   "options": [
     "Deepor Beel - Assam",
     "Deepor Beel - Jammu and Kashmir",
     "Deepor Beel - Madhya Pradesh and Chhattisgarh",
     "Deepor Beel - Andhra Pradesh"
    ],
-   "a": 0,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Deepor Beel - Assam is correctly matched."
+   "answer": 0,
+   "explanation": "Only Deepor Beel - Assam is correctly matched.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00277",
-   "q": "Which of the following pairs of law and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of law and purpose is correctly matched?",
+   "options": [
     "Wildlife Protection Act 1972 - Protection of wild animals and plants",
     "Wildlife Protection Act 1972 - Funds for afforestation in lieu of diverted forest",
     "Wildlife Protection Act 1972 - Cleaning the Ganga",
     "Wildlife Protection Act 1972 - Control of diversion of forest land"
    ],
-   "a": 0,
-   "t": "Environmental Laws and Schemes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Wildlife Protection Act 1972 - Protection of wild animals and plants is correctly matched."
+   "answer": 0,
+   "explanation": "Only Wildlife Protection Act 1972 - Protection of wild animals and plants is correctly matched.",
+   "topic": "Environmental Laws and Schemes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00278",
-   "q": "Periyar National Park is located in which state?",
-   "o": [
+   "question": "Periyar National Park is located in which state?",
+   "options": [
     "Himachal Pradesh",
     "Kerala",
     "Karnataka",
     "Rajasthan"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Periyar National Park is located in Kerala."
+   "answer": 1,
+   "explanation": "Periyar National Park is located in Kerala.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00279",
-   "q": "Which of the following pairs of agreement and purpose is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of agreement and purpose is correctly matched?",
+   "options": [
     "Sustainable Development Goals - Protection of the ozone layer",
     "Sustainable Development Goals - Seventeen goals for people and planet by 2030",
     "Sustainable Development Goals - Biosafety of living modified organisms",
     "Sustainable Development Goals - Conservation of wild tigers"
    ],
-   "a": 1,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sustainable Development Goals - Seventeen goals for people and planet by 2030 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Sustainable Development Goals - Seventeen goals for people and planet by 2030 is correctly matched.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "environmental-studies-00280",
-   "q": "Which of the following pairs of pollutant and effect is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of pollutant and effect is correctly matched?",
+   "options": [
     "Electronic waste - Causes eutrophication of water bodies",
     "Electronic waste - Releases heavy metals when dumped improperly",
     "Electronic waste - Persists in the environment for centuries",
     "Electronic waste - Raises water temperature and harms aquatic life"
    ],
-   "a": 1,
-   "t": "Pollutants and Effects",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Electronic waste - Releases heavy metals when dumped improperly is correctly matched."
+   "answer": 1,
+   "explanation": "Only Electronic waste - Releases heavy metals when dumped improperly is correctly matched.",
+   "topic": "Pollutants and Effects",
+   "level": 3,
+   "source": "generated"
   }
  ]
 };

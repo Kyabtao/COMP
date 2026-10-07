@@ -15,3903 +15,3903 @@
  "questions": [
   {
    "id": "books-authors-00001",
-   "q": "Who wrote 'The Discovery of India'?",
-   "o": [
+   "question": "Who wrote 'The Discovery of India'?",
+   "options": [
     "Mahatma Gandhi",
     "Jawaharlal Nehru",
     "S. Radhakrishnan",
     "B. R. Ambedkar"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Jawaharlal Nehru wrote The Discovery of India."
+   "answer": 1,
+   "explanation": "Jawaharlal Nehru wrote The Discovery of India.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "books-authors-00002",
-   "q": "Who wrote 'My Experiments with Truth'?",
-   "o": [
+   "question": "Who wrote 'My Experiments with Truth'?",
+   "options": [
     "Mahatma Gandhi",
     "Jawaharlal Nehru",
     "Rabindranath Tagore",
     "Maulana Azad"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "It is the autobiography of Mahatma Gandhi."
+   "answer": 0,
+   "explanation": "It is the autobiography of Mahatma Gandhi.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "books-authors-00003",
-   "q": "Who is the author of 'Wings of Fire'?",
-   "o": [
+   "question": "Who is the author of 'Wings of Fire'?",
+   "options": [
     "Vikram Sarabhai",
     "A. P. J. Abdul Kalam",
     "Homi Bhabha",
     "C. V. Raman"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Wings of Fire is the autobiography of Dr. A. P. J. Abdul Kalam."
+   "answer": 1,
+   "explanation": "Wings of Fire is the autobiography of Dr. A. P. J. Abdul Kalam.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "books-authors-00004",
-   "q": "Who wrote 'Gitanjali'?",
-   "o": [
+   "question": "Who wrote 'Gitanjali'?",
+   "options": [
     "Rabindranath Tagore",
     "Bankim Chandra Chatterjee",
     "Sarojini Naidu",
     "Munshi Premchand"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Gitanjali is by Rabindranath Tagore."
+   "answer": 0,
+   "explanation": "Gitanjali is by Rabindranath Tagore.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "books-authors-00005",
-   "q": "Who wrote the play 'Abhijnanashakuntalam'?",
-   "o": [
+   "question": "Who wrote the play 'Abhijnanashakuntalam'?",
+   "options": [
     "Kalidasa",
     "Valmiki",
     "Ved Vyasa",
     "Bhasa"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Kalidasa wrote Abhijnanashakuntalam."
+   "answer": 0,
+   "explanation": "Kalidasa wrote Abhijnanashakuntalam.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "books-authors-00006",
-   "q": "Who is the author of 'Arthashastra'?",
-   "o": [
+   "question": "Who is the author of 'Arthashastra'?",
+   "options": [
     "Chanakya",
     "Banabhatta",
     "Kalidasa",
     "Panini"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Kautilya, also called Chanakya, wrote the Arthashastra."
+   "answer": 0,
+   "explanation": "Kautilya, also called Chanakya, wrote the Arthashastra.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "books-authors-00007",
-   "q": "Who wrote 'The Wealth of Nations'?",
-   "o": [
+   "question": "Who wrote 'The Wealth of Nations'?",
+   "options": [
     "Karl Marx",
     "Adam Smith",
     "John Maynard Keynes",
     "David Ricardo"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Adam Smith wrote The Wealth of Nations in 1776."
+   "answer": 1,
+   "explanation": "Adam Smith wrote The Wealth of Nations in 1776.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "books-authors-00008",
-   "q": "Who is the author of 'Das Kapital'?",
-   "o": [
+   "question": "Who is the author of 'Das Kapital'?",
+   "options": [
     "Friedrich Engels",
     "Karl Marx",
     "Adam Smith",
     "Lenin"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Karl Marx wrote Das Kapital."
+   "answer": 1,
+   "explanation": "Karl Marx wrote Das Kapital.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "books-authors-00009",
-   "q": "Who wrote 'On the Origin of Species'?",
-   "o": [
+   "question": "Who wrote 'On the Origin of Species'?",
+   "options": [
     "Gregor Mendel",
     "Charles Darwin",
     "Louis Pasteur",
     "Alfred Wallace"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Charles Darwin published it in 1859."
+   "answer": 1,
+   "explanation": "Charles Darwin published it in 1859.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "books-authors-00010",
-   "q": "Who wrote the play 'Hamlet'?",
-   "o": [
+   "question": "Who wrote the play 'Hamlet'?",
+   "options": [
     "Charles Dickens",
     "William Shakespeare",
     "John Milton",
     "George Bernard Shaw"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Hamlet is a tragedy by William Shakespeare."
+   "answer": 1,
+   "explanation": "Hamlet is a tragedy by William Shakespeare.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "books-authors-00011",
-   "q": "Who is the author of 'Paradise Lost'?",
-   "o": [
+   "question": "Who is the author of 'Paradise Lost'?",
+   "options": [
     "John Milton",
     "John Keats",
     "William Wordsworth",
     "P. B. Shelley"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "John Milton wrote the epic poem Paradise Lost."
+   "answer": 0,
+   "explanation": "John Milton wrote the epic poem Paradise Lost.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "books-authors-00012",
-   "q": "Who wrote 'The Jungle Book'?",
-   "o": [
+   "question": "Who wrote 'The Jungle Book'?",
+   "options": [
     "Rudyard Kipling",
     "Lewis Carroll",
     "Mark Twain",
     "R. L. Stevenson"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Rudyard Kipling wrote The Jungle Book."
+   "answer": 0,
+   "explanation": "Rudyard Kipling wrote The Jungle Book.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "books-authors-00013",
-   "q": "Who wrote 'India Wins Freedom'?",
-   "o": [
+   "question": "Who wrote 'India Wins Freedom'?",
+   "options": [
     "Jawaharlal Nehru",
     "Maulana Abul Kalam Azad",
     "Rajendra Prasad",
     "Sardar Patel"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Maulana Abul Kalam Azad wrote India Wins Freedom."
+   "answer": 1,
+   "explanation": "Maulana Abul Kalam Azad wrote India Wins Freedom.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "books-authors-00014",
-   "q": "Who is the author of 'Godaan'?",
-   "o": [
+   "question": "Who is the author of 'Godaan'?",
+   "options": [
     "Munshi Premchand",
     "Rabindranath Tagore",
     "Phanishwar Nath Renu",
     "Shrilal Shukla"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Godaan is a famous Hindi novel by Munshi Premchand."
+   "answer": 0,
+   "explanation": "Godaan is a famous Hindi novel by Munshi Premchand.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "books-authors-00015",
-   "q": "Who wrote 'The God of Small Things'?",
-   "o": [
+   "question": "Who wrote 'The God of Small Things'?",
+   "options": [
     "Salman Rushdie",
     "Arundhati Roy",
     "Anita Desai",
     "Kiran Desai"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Arundhati Roy won the Booker Prize for this novel."
+   "answer": 1,
+   "explanation": "Arundhati Roy won the Booker Prize for this novel.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "books-authors-00016",
-   "q": "Who is the author of 'Midnight's Children'?",
-   "o": [
+   "question": "Who is the author of 'Midnight's Children'?",
+   "options": [
     "Salman Rushdie",
     "Vikram Seth",
     "Amitav Ghosh",
     "Rohinton Mistry"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Salman Rushdie wrote Midnight's Children."
+   "answer": 0,
+   "explanation": "Salman Rushdie wrote Midnight's Children.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "books-authors-00017",
-   "q": "Who wrote 'The Republic'?",
-   "o": [
+   "question": "Who wrote 'The Republic'?",
+   "options": [
     "Aristotle",
     "Plato",
     "Socrates",
     "Homer"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The Republic is a dialogue by Plato."
+   "answer": 1,
+   "explanation": "The Republic is a dialogue by Plato.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "books-authors-00018",
-   "q": "Who is the author of the epic 'Ramayana'?",
-   "o": [
+   "question": "Who is the author of the epic 'Ramayana'?",
+   "options": [
     "Ved Vyasa",
     "Valmiki",
     "Tulsidas",
     "Kalidasa"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Valmiki composed the Ramayana."
+   "answer": 1,
+   "explanation": "Valmiki composed the Ramayana.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "books-authors-00019",
-   "q": "Who wrote 'Playing It My Way'?",
-   "o": [
+   "question": "Who wrote 'Playing It My Way'?",
+   "options": [
     "Sachin Tendulkar",
     "Sourav Ganguly",
     "Rahul Dravid",
     "Kapil Dev"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "It is the autobiography of Sachin Tendulkar."
+   "answer": 0,
+   "explanation": "It is the autobiography of Sachin Tendulkar.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "books-authors-00020",
-   "q": "Who wrote 'A Brief History of Time'?",
-   "o": [
+   "question": "Who wrote 'A Brief History of Time'?",
+   "options": [
     "Stephen Hawking",
     "Albert Einstein",
     "Carl Sagan",
     "Richard Feynman"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Stephen Hawking wrote this popular science book."
+   "answer": 0,
+   "explanation": "Stephen Hawking wrote this popular science book.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "books-authors-00021",
-   "q": "Who is the author of 'Mein Kampf'?",
-   "o": [
+   "question": "Who is the author of 'Mein Kampf'?",
+   "options": [
     "Adolf Hitler",
     "Karl Marx",
     "Benito Mussolini",
     "Joseph Stalin"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Adolf Hitler wrote Mein Kampf."
+   "answer": 0,
+   "explanation": "Adolf Hitler wrote Mein Kampf.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "books-authors-00022",
-   "q": "Who wrote 'Long Walk to Freedom'?",
-   "o": [
+   "question": "Who wrote 'Long Walk to Freedom'?",
+   "options": [
     "Nelson Mandela",
     "Mahatma Gandhi",
     "Martin Luther King",
     "Desmond Tutu"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "It is the autobiography of Nelson Mandela."
+   "answer": 0,
+   "explanation": "It is the autobiography of Nelson Mandela.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "books-authors-00023",
-   "q": "Who is the author of Autobiography of a Yogi?",
-   "o": [
+   "question": "Who is the author of Autobiography of a Yogi?",
+   "options": [
     "Sigmund Freud",
     "Paramahansa Yogananda",
     "Jawaharlal Nehru",
     "Stephen Hawking"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Autobiography of a Yogi is written by Paramahansa Yogananda."
+   "answer": 1,
+   "explanation": "Autobiography of a Yogi is written by Paramahansa Yogananda.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00024",
-   "q": "Who is the author of David Copperfield?",
-   "o": [
+   "question": "Who is the author of David Copperfield?",
+   "options": [
     "Adam Smith",
     "Arundhati Roy",
     "Shrilal Shukla",
     "Charles Dickens"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "David Copperfield is written by Charles Dickens."
+   "answer": 3,
+   "explanation": "David Copperfield is written by Charles Dickens.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00025",
-   "q": "Who is the author of The Iliad?",
-   "o": [
+   "question": "Who is the author of The Iliad?",
+   "options": [
     "Dante Alighieri",
     "Homer",
     "Jane Austen",
     "Shrilal Shukla"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "The Iliad is written by Homer."
+   "answer": 1,
+   "explanation": "The Iliad is written by Homer.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00026",
-   "q": "Who is the author of An Autobiography (Toward Freedom)?",
-   "o": [
+   "question": "Who is the author of An Autobiography (Toward Freedom)?",
+   "options": [
     "Jawaharlal Nehru",
     "Rabindranath Tagore",
     "Arundhati Roy",
     "Homer"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "An Autobiography (Toward Freedom) is written by Jawaharlal Nehru."
+   "answer": 0,
+   "explanation": "An Autobiography (Toward Freedom) is written by Jawaharlal Nehru.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00027",
-   "q": "Who is the author of Abhijnanashakuntalam?",
-   "o": [
+   "question": "Who is the author of Abhijnanashakuntalam?",
+   "options": [
     "Mahatma Gandhi",
     "Rabindranath Tagore",
     "Dante Alighieri",
     "Kalidasa"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Abhijnanashakuntalam is written by Kalidasa."
+   "answer": 3,
+   "explanation": "Abhijnanashakuntalam is written by Kalidasa.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00028",
-   "q": "Who is the author of Raag Darbari?",
-   "o": [
+   "question": "Who is the author of Raag Darbari?",
+   "options": [
     "Shrilal Shukla",
     "Milkha Singh",
     "Maxim Gorky",
     "Plato"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Raag Darbari is written by Shrilal Shukla."
+   "answer": 0,
+   "explanation": "Raag Darbari is written by Shrilal Shukla.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00029",
-   "q": "Who is the author of The Divine Comedy?",
-   "o": [
+   "question": "Who is the author of The Divine Comedy?",
+   "options": [
     "Dante Alighieri",
     "Charles Dickens",
     "Sachin Tendulkar",
     "Kalidasa"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "The Divine Comedy is written by Dante Alighieri."
+   "answer": 0,
+   "explanation": "The Divine Comedy is written by Dante Alighieri.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00030",
-   "q": "Who is the author of The Story of My Life?",
-   "o": [
+   "question": "Who is the author of The Story of My Life?",
+   "options": [
     "Sigmund Freud",
     "Helen Keller",
     "Rabindranath Tagore",
     "Milkha Singh"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "The Story of My Life is written by Helen Keller."
+   "answer": 1,
+   "explanation": "The Story of My Life is written by Helen Keller.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00031",
-   "q": "Who is the author of India 2020?",
-   "o": [
+   "question": "Who is the author of India 2020?",
+   "options": [
     "Sigmund Freud",
     "Jane Austen",
     "Kalidasa",
     "A. P. J. Abdul Kalam"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "India 2020 is written by A. P. J. Abdul Kalam."
+   "answer": 3,
+   "explanation": "India 2020 is written by A. P. J. Abdul Kalam.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00032",
-   "q": "Who is the author of The Wealth of Nations?",
-   "o": [
+   "question": "Who is the author of The Wealth of Nations?",
+   "options": [
     "Adam Smith",
     "Charles Dickens",
     "Jonathan Swift",
     "Charles Darwin"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "The Wealth of Nations is written by Adam Smith."
+   "answer": 0,
+   "explanation": "The Wealth of Nations is written by Adam Smith.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00033",
-   "q": "Who is the author of Hamlet?",
-   "o": [
+   "question": "Who is the author of Hamlet?",
+   "options": [
     "Sachin Tendulkar",
     "Munshi Premchand",
     "Arundhati Roy",
     "William Shakespeare"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Hamlet is written by William Shakespeare."
+   "answer": 3,
+   "explanation": "Hamlet is written by William Shakespeare.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00034",
-   "q": "Who is the author of Ignited Minds?",
-   "o": [
+   "question": "Who is the author of Ignited Minds?",
+   "options": [
     "Sigmund Freud",
     "A. P. J. Abdul Kalam",
     "Adam Smith",
     "Mary Kom"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Ignited Minds is written by A. P. J. Abdul Kalam."
+   "answer": 1,
+   "explanation": "Ignited Minds is written by A. P. J. Abdul Kalam.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00035",
-   "q": "Who is the author of India Wins Freedom?",
-   "o": [
+   "question": "Who is the author of India Wins Freedom?",
+   "options": [
     "William Shakespeare",
     "Jonathan Swift",
     "Karl Marx",
     "Maulana Abul Kalam Azad"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "India Wins Freedom is written by Maulana Abul Kalam Azad."
+   "answer": 3,
+   "explanation": "India Wins Freedom is written by Maulana Abul Kalam Azad.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00036",
-   "q": "Who is the author of Gitanjali and Other Songs?",
-   "o": [
+   "question": "Who is the author of Gitanjali and Other Songs?",
+   "options": [
     "Jawaharlal Nehru",
     "Rabindranath Tagore",
     "Adolf Hitler",
     "Karl Marx"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Gitanjali and Other Songs is written by Rabindranath Tagore."
+   "answer": 1,
+   "explanation": "Gitanjali and Other Songs is written by Rabindranath Tagore.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00037",
-   "q": "Who is the author of Discovery of India?",
-   "o": [
+   "question": "Who is the author of Discovery of India?",
+   "options": [
     "Jawaharlal Nehru",
     "Maulana Abul Kalam Azad",
     "Rabindranath Tagore",
     "A. P. J. Abdul Kalam"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Discovery of India is written by Jawaharlal Nehru."
+   "answer": 0,
+   "explanation": "Discovery of India is written by Jawaharlal Nehru.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00038",
-   "q": "Who is the author of On the Origin of Species?",
-   "o": [
+   "question": "Who is the author of On the Origin of Species?",
+   "options": [
     "John Milton",
     "Charles Darwin",
     "Adolf Hitler",
     "Plato"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "On the Origin of Species is written by Charles Darwin."
+   "answer": 1,
+   "explanation": "On the Origin of Species is written by Charles Darwin.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00039",
-   "q": "Who is the author of Playing It My Way?",
-   "o": [
+   "question": "Who is the author of Playing It My Way?",
+   "options": [
     "Rabindranath Tagore",
     "Sachin Tendulkar",
     "William Shakespeare",
     "Phanishwar Nath Renu"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Playing It My Way is written by Sachin Tendulkar."
+   "answer": 1,
+   "explanation": "Playing It My Way is written by Sachin Tendulkar.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00040",
-   "q": "Who is the author of A Brief History of Time?",
-   "o": [
+   "question": "Who is the author of A Brief History of Time?",
+   "options": [
     "A. P. J. Abdul Kalam",
     "Stephen Hawking",
     "Salman Rushdie",
     "Charles Dickens"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "A Brief History of Time is written by Stephen Hawking."
+   "answer": 1,
+   "explanation": "A Brief History of Time is written by Stephen Hawking.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00041",
-   "q": "Who is the author of The Origin of Species by Means of Natural Selection?",
-   "o": [
+   "question": "Who is the author of The Origin of Species by Means of Natural Selection?",
+   "options": [
     "Rabindranath Tagore",
     "Charles Darwin",
     "Jonathan Swift",
     "Ved Vyasa"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "The Origin of Species by Means of Natural Selection is written by Charles Darwin."
+   "answer": 1,
+   "explanation": "The Origin of Species by Means of Natural Selection is written by Charles Darwin.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00042",
-   "q": "Who is the author of The God of Small Things?",
-   "o": [
+   "question": "Who is the author of The God of Small Things?",
+   "options": [
     "Homer",
     "Sachin Tendulkar",
     "Vishnu Sharma",
     "Arundhati Roy"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "The God of Small Things is written by Arundhati Roy."
+   "answer": 3,
+   "explanation": "The God of Small Things is written by Arundhati Roy.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00043",
-   "q": "Who is the author of Broken Wings?",
-   "o": [
+   "question": "Who is the author of Broken Wings?",
+   "options": [
     "Ved Vyasa",
     "Helen Keller",
     "Sarojini Naidu",
     "Mahatma Gandhi"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Broken Wings is written by Sarojini Naidu."
+   "answer": 2,
+   "explanation": "Broken Wings is written by Sarojini Naidu.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00044",
-   "q": "Who is the author of The Jungle Book?",
-   "o": [
+   "question": "Who is the author of The Jungle Book?",
+   "options": [
     "Charles Dickens",
     "Rabindranath Tagore",
     "Munshi Premchand",
     "Rudyard Kipling"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "The Jungle Book is written by Rudyard Kipling."
+   "answer": 3,
+   "explanation": "The Jungle Book is written by Rudyard Kipling.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00045",
-   "q": "Who is the author of Maila Anchal?",
-   "o": [
+   "question": "Who is the author of Maila Anchal?",
+   "options": [
     "Phanishwar Nath Renu",
     "Leo Tolstoy",
     "Jonathan Swift",
     "Jawaharlal Nehru"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Maila Anchal is written by Phanishwar Nath Renu."
+   "answer": 0,
+   "explanation": "Maila Anchal is written by Phanishwar Nath Renu.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00046",
-   "q": "Who is the author of Paradise Lost?",
-   "o": [
+   "question": "Who is the author of Paradise Lost?",
+   "options": [
     "Sarojini Naidu",
     "John Milton",
     "Rabindranath Tagore",
     "Rudyard Kipling"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Paradise Lost is written by John Milton."
+   "answer": 1,
+   "explanation": "Paradise Lost is written by John Milton.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00047",
-   "q": "Who is the author of The Interpretation of Dreams?",
-   "o": [
+   "question": "Who is the author of The Interpretation of Dreams?",
+   "options": [
     "Stephen Hawking",
     "Munshi Premchand",
     "Mahatma Gandhi",
     "Sigmund Freud"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "The Interpretation of Dreams is written by Sigmund Freud."
+   "answer": 3,
+   "explanation": "The Interpretation of Dreams is written by Sigmund Freud.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00048",
-   "q": "Who is the author of War and Peace?",
-   "o": [
+   "question": "Who is the author of War and Peace?",
+   "options": [
     "Stephen Hawking",
     "Jonathan Swift",
     "Leo Tolstoy",
     "William Shakespeare"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "War and Peace is written by Leo Tolstoy."
+   "answer": 2,
+   "explanation": "War and Peace is written by Leo Tolstoy.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00049",
-   "q": "Who is the author of Ramayana?",
-   "o": [
+   "question": "Who is the author of Ramayana?",
+   "options": [
     "Jane Austen",
     "Rabindranath Tagore",
     "Valmiki",
     "Milkha Singh"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Ramayana is written by Valmiki."
+   "answer": 2,
+   "explanation": "Ramayana is written by Valmiki.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00050",
-   "q": "Who is the author of Midnight's Children?",
-   "o": [
+   "question": "Who is the author of Midnight's Children?",
+   "options": [
     "Homer",
     "Salman Rushdie",
     "Helen Keller",
     "Nelson Mandela"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Midnight's Children is written by Salman Rushdie."
+   "answer": 1,
+   "explanation": "Midnight's Children is written by Salman Rushdie.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00051",
-   "q": "Who is the author of Gitanjali?",
-   "o": [
+   "question": "Who is the author of Gitanjali?",
+   "options": [
     "Vishnu Sharma",
     "Homer",
     "Rabindranath Tagore",
     "Sigmund Freud"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Gitanjali is written by Rabindranath Tagore."
+   "answer": 2,
+   "explanation": "Gitanjali is written by Rabindranath Tagore.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00052",
-   "q": "Who is the author of The Republic?",
-   "o": [
+   "question": "Who is the author of The Republic?",
+   "options": [
     "Charles Dickens",
     "Plato",
     "Valmiki",
     "A. P. J. Abdul Kalam"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "The Republic is written by Plato."
+   "answer": 1,
+   "explanation": "The Republic is written by Plato.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00053",
-   "q": "Who is the author of Wings of Fire?",
-   "o": [
+   "question": "Who is the author of Wings of Fire?",
+   "options": [
     "Valmiki",
     "A. P. J. Abdul Kalam",
     "Helen Keller",
     "Sachin Tendulkar"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Wings of Fire is written by A. P. J. Abdul Kalam."
+   "answer": 1,
+   "explanation": "Wings of Fire is written by A. P. J. Abdul Kalam.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00054",
-   "q": "Who is the author of Gaban?",
-   "o": [
+   "question": "Who is the author of Gaban?",
+   "options": [
     "Sigmund Freud",
     "Munshi Premchand",
     "Homer",
     "Charles Darwin"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Gaban is written by Munshi Premchand."
+   "answer": 1,
+   "explanation": "Gaban is written by Munshi Premchand.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00055",
-   "q": "Who is the author of The Communist Manifesto?",
-   "o": [
+   "question": "Who is the author of The Communist Manifesto?",
+   "options": [
     "Mahatma Gandhi",
     "Charles Darwin",
     "Karl Marx and Friedrich Engels",
     "Rabindranath Tagore"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "The Communist Manifesto is written by Karl Marx and Friedrich Engels."
+   "answer": 2,
+   "explanation": "The Communist Manifesto is written by Karl Marx and Friedrich Engels.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00056",
-   "q": "Who is the author of Mahabharata?",
-   "o": [
+   "question": "Who is the author of Mahabharata?",
+   "options": [
     "Homer",
     "Maulana Abul Kalam Azad",
     "Ved Vyasa",
     "Karl Marx"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Mahabharata is written by Ved Vyasa."
+   "answer": 2,
+   "explanation": "Mahabharata is written by Ved Vyasa.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00057",
-   "q": "Who is the author of The Odyssey?",
-   "o": [
+   "question": "Who is the author of The Odyssey?",
+   "options": [
     "Charles Darwin",
     "Jawaharlal Nehru",
     "Plato",
     "Homer"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "The Odyssey is written by Homer."
+   "answer": 3,
+   "explanation": "The Odyssey is written by Homer.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00058",
-   "q": "Who is the author of Gitanjali (Song Offerings)?",
-   "o": [
+   "question": "Who is the author of Gitanjali (Song Offerings)?",
+   "options": [
     "Rabindranath Tagore",
     "Leo Tolstoy",
     "Ved Vyasa",
     "Homer"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Gitanjali (Song Offerings) is written by Rabindranath Tagore."
+   "answer": 0,
+   "explanation": "Gitanjali (Song Offerings) is written by Rabindranath Tagore.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00059",
-   "q": "Who is the author of Oliver Twist?",
-   "o": [
+   "question": "Who is the author of Oliver Twist?",
+   "options": [
     "Mary Kom",
     "Homer",
     "Charles Dickens",
     "William Shakespeare"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Oliver Twist is written by Charles Dickens."
+   "answer": 2,
+   "explanation": "Oliver Twist is written by Charles Dickens.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00060",
-   "q": "Who is the author of Pride and Prejudice?",
-   "o": [
+   "question": "Who is the author of Pride and Prejudice?",
+   "options": [
     "Sigmund Freud",
     "Jane Austen",
     "Arundhati Roy",
     "Charles Dickens"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Pride and Prejudice is written by Jane Austen."
+   "answer": 1,
+   "explanation": "Pride and Prejudice is written by Jane Austen.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00061",
-   "q": "Who is the author of Arthashastra?",
-   "o": [
+   "question": "Who is the author of Arthashastra?",
+   "options": [
     "Charles Darwin",
     "Rabindranath Tagore",
     "Kautilya",
     "A. P. J. Abdul Kalam"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Arthashastra is written by Kautilya."
+   "answer": 2,
+   "explanation": "Arthashastra is written by Kautilya.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00062",
-   "q": "Who is the author of Mother?",
-   "o": [
+   "question": "Who is the author of Mother?",
+   "options": [
     "Maxim Gorky",
     "Vishnu Sharma",
     "Plato",
     "Homer"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Mother is written by Maxim Gorky."
+   "answer": 0,
+   "explanation": "Mother is written by Maxim Gorky.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00063",
-   "q": "Who is the author of Gitanjali: Rabindranath Tagore's Nobel work?",
-   "o": [
+   "question": "Who is the author of Gitanjali: Rabindranath Tagore's Nobel work?",
+   "options": [
     "Rabindranath Tagore",
     "A. P. J. Abdul Kalam",
     "Mary Kom",
     "Karl Marx"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Gitanjali: Rabindranath Tagore's Nobel work is written by Rabindranath Tagore."
+   "answer": 0,
+   "explanation": "Gitanjali: Rabindranath Tagore's Nobel work is written by Rabindranath Tagore.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00064",
-   "q": "Who is the author of Romeo and Juliet?",
-   "o": [
+   "question": "Who is the author of Romeo and Juliet?",
+   "options": [
     "Jonathan Swift",
     "Plato",
     "William Shakespeare",
     "Vishnu Sharma"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Romeo and Juliet is written by William Shakespeare."
+   "answer": 2,
+   "explanation": "Romeo and Juliet is written by William Shakespeare.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00065",
-   "q": "Who is the author of Gulliver's Travels?",
-   "o": [
+   "question": "Who is the author of Gulliver's Travels?",
+   "options": [
     "Kalidasa",
     "Jonathan Swift",
     "Paramahansa Yogananda",
     "Ved Vyasa"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Gulliver's Travels is written by Jonathan Swift."
+   "answer": 1,
+   "explanation": "Gulliver's Travels is written by Jonathan Swift.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00066",
-   "q": "Who is the author of Mein Kampf?",
-   "o": [
+   "question": "Who is the author of Mein Kampf?",
+   "options": [
     "Munshi Premchand",
     "William Shakespeare",
     "Charles Dickens",
     "Adolf Hitler"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Mein Kampf is written by Adolf Hitler."
+   "answer": 3,
+   "explanation": "Mein Kampf is written by Adolf Hitler.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00067",
-   "q": "Who is the author of Panchatantra?",
-   "o": [
+   "question": "Who is the author of Panchatantra?",
+   "options": [
     "Stephen Hawking",
     "Vishnu Sharma",
     "Munshi Premchand",
     "Plato"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Panchatantra is written by Vishnu Sharma."
+   "answer": 1,
+   "explanation": "Panchatantra is written by Vishnu Sharma.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00068",
-   "q": "Who is the author of Das Kapital?",
-   "o": [
+   "question": "Who is the author of Das Kapital?",
+   "options": [
     "Jawaharlal Nehru",
     "Karl Marx",
     "Sachin Tendulkar",
     "Munshi Premchand"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Das Kapital is written by Karl Marx."
+   "answer": 1,
+   "explanation": "Das Kapital is written by Karl Marx.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00069",
-   "q": "Who is the author of The Race of My Life?",
-   "o": [
+   "question": "Who is the author of The Race of My Life?",
+   "options": [
     "Arundhati Roy",
     "Milkha Singh",
     "John Milton",
     "Valmiki"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "The Race of My Life is written by Milkha Singh."
+   "answer": 1,
+   "explanation": "The Race of My Life is written by Milkha Singh.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00070",
-   "q": "Who is the author of My Experiments with Truth?",
-   "o": [
+   "question": "Who is the author of My Experiments with Truth?",
+   "options": [
     "Milkha Singh",
     "Sarojini Naidu",
     "Rabindranath Tagore",
     "Mahatma Gandhi"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "My Experiments with Truth is written by Mahatma Gandhi."
+   "answer": 3,
+   "explanation": "My Experiments with Truth is written by Mahatma Gandhi.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00071",
-   "q": "Who is the author of Meghaduta?",
-   "o": [
+   "question": "Who is the author of Meghaduta?",
+   "options": [
     "William Shakespeare",
     "Kautilya",
     "Mary Kom",
     "Kalidasa"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Meghaduta is written by Kalidasa."
+   "answer": 3,
+   "explanation": "Meghaduta is written by Kalidasa.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00072",
-   "q": "Who is the author of Godaan?",
-   "o": [
+   "question": "Who is the author of Godaan?",
+   "options": [
     "Munshi Premchand",
     "Homer",
     "Mary Kom",
     "John Milton"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Godaan is written by Munshi Premchand."
+   "answer": 0,
+   "explanation": "Godaan is written by Munshi Premchand.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00073",
-   "q": "Who is the author of Long Walk to Freedom?",
-   "o": [
+   "question": "Who is the author of Long Walk to Freedom?",
+   "options": [
     "Leo Tolstoy",
     "Phanishwar Nath Renu",
     "Charles Dickens",
     "Nelson Mandela"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Long Walk to Freedom is written by Nelson Mandela."
+   "answer": 3,
+   "explanation": "Long Walk to Freedom is written by Nelson Mandela.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00074",
-   "q": "Who is the author of Unbreakable?",
-   "o": [
+   "question": "Who is the author of Unbreakable?",
+   "options": [
     "Rabindranath Tagore",
     "William Shakespeare",
     "Mary Kom",
     "Dante Alighieri"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Unbreakable is written by Mary Kom."
+   "answer": 2,
+   "explanation": "Unbreakable is written by Mary Kom.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "books-authors-00075",
-   "q": "Which of the following books was written by A. P. J. Abdul Kalam?",
-   "o": [
+   "question": "Which of the following books was written by A. P. J. Abdul Kalam?",
+   "options": [
     "The Odyssey",
     "Wings of Fire",
     "War and Peace",
     "The Communist Manifesto"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Wings of Fire was written by A. P. J. Abdul Kalam."
+   "answer": 1,
+   "explanation": "Wings of Fire was written by A. P. J. Abdul Kalam.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00076",
-   "q": "Which of the following books was written by Sarojini Naidu?",
-   "o": [
+   "question": "Which of the following books was written by Sarojini Naidu?",
+   "options": [
     "Gulliver's Travels",
     "Broken Wings",
     "Gitanjali (Song Offerings)",
     "Midnight's Children"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Broken Wings was written by Sarojini Naidu."
+   "answer": 1,
+   "explanation": "Broken Wings was written by Sarojini Naidu.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00077",
-   "q": "Which of the following books was written by Kautilya?",
-   "o": [
+   "question": "Which of the following books was written by Kautilya?",
+   "options": [
     "Playing It My Way",
     "The Communist Manifesto",
     "Oliver Twist",
     "Arthashastra"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Arthashastra was written by Kautilya."
+   "answer": 3,
+   "explanation": "Arthashastra was written by Kautilya.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00078",
-   "q": "Which of the following books was written by Jonathan Swift?",
-   "o": [
+   "question": "Which of the following books was written by Jonathan Swift?",
+   "options": [
     "Gulliver's Travels",
     "Pride and Prejudice",
     "The Story of My Life",
     "Mein Kampf"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Gulliver's Travels was written by Jonathan Swift."
+   "answer": 0,
+   "explanation": "Gulliver's Travels was written by Jonathan Swift.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00079",
-   "q": "Which of the following books was written by Ved Vyasa?",
-   "o": [
+   "question": "Which of the following books was written by Ved Vyasa?",
+   "options": [
     "Mother",
     "The Divine Comedy",
     "Autobiography of a Yogi",
     "Mahabharata"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Mahabharata was written by Ved Vyasa."
+   "answer": 3,
+   "explanation": "Mahabharata was written by Ved Vyasa.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00080",
-   "q": "Which of the following books was written by Homer?",
-   "o": [
+   "question": "Which of the following books was written by Homer?",
+   "options": [
     "Broken Wings",
     "The Iliad",
     "War and Peace",
     "Gitanjali (Song Offerings)"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The Iliad was written by Homer."
+   "answer": 1,
+   "explanation": "The Iliad was written by Homer.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00081",
-   "q": "Which of the following books was written by Karl Marx and Friedrich Engels?",
-   "o": [
+   "question": "Which of the following books was written by Karl Marx and Friedrich Engels?",
+   "options": [
     "The God of Small Things",
     "The Communist Manifesto",
     "My Experiments with Truth",
     "Unbreakable"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The Communist Manifesto was written by Karl Marx and Friedrich Engels."
+   "answer": 1,
+   "explanation": "The Communist Manifesto was written by Karl Marx and Friedrich Engels.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00082",
-   "q": "Which of the following books was written by Stephen Hawking?",
-   "o": [
+   "question": "Which of the following books was written by Stephen Hawking?",
+   "options": [
     "The Jungle Book",
     "India Wins Freedom",
     "Mein Kampf",
     "A Brief History of Time"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "A Brief History of Time was written by Stephen Hawking."
+   "answer": 3,
+   "explanation": "A Brief History of Time was written by Stephen Hawking.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00083",
-   "q": "Which of the following books was written by William Shakespeare?",
-   "o": [
+   "question": "Which of the following books was written by William Shakespeare?",
+   "options": [
     "The Origin of Species by Means of Natural Selection",
     "Romeo and Juliet",
     "Hamlet",
     "A Brief History of Time"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Hamlet was written by William Shakespeare."
+   "answer": 2,
+   "explanation": "Hamlet was written by William Shakespeare.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00084",
-   "q": "Which of the following books was written by Kalidasa?",
-   "o": [
+   "question": "Which of the following books was written by Kalidasa?",
+   "options": [
     "Abhijnanashakuntalam",
     "The Origin of Species by Means of Natural Selection",
     "Mein Kampf",
     "Das Kapital"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Abhijnanashakuntalam was written by Kalidasa."
+   "answer": 0,
+   "explanation": "Abhijnanashakuntalam was written by Kalidasa.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00085",
-   "q": "Which of the following books was written by Munshi Premchand?",
-   "o": [
+   "question": "Which of the following books was written by Munshi Premchand?",
+   "options": [
     "Wings of Fire",
     "Das Kapital",
     "Pride and Prejudice",
     "Gaban"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Gaban was written by Munshi Premchand."
+   "answer": 3,
+   "explanation": "Gaban was written by Munshi Premchand.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00086",
-   "q": "Which of the following books was written by Maulana Abul Kalam Azad?",
-   "o": [
+   "question": "Which of the following books was written by Maulana Abul Kalam Azad?",
+   "options": [
     "The God of Small Things",
     "The Divine Comedy",
     "India Wins Freedom",
     "Gitanjali: Rabindranath Tagore's Nobel work"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "India Wins Freedom was written by Maulana Abul Kalam Azad."
+   "answer": 2,
+   "explanation": "India Wins Freedom was written by Maulana Abul Kalam Azad.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00087",
-   "q": "Which of the following books was written by A. P. J. Abdul Kalam?",
-   "o": [
+   "question": "Which of the following books was written by A. P. J. Abdul Kalam?",
+   "options": [
     "Long Walk to Freedom",
     "Mother",
     "Arthashastra",
     "Ignited Minds"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Ignited Minds was written by A. P. J. Abdul Kalam."
+   "answer": 3,
+   "explanation": "Ignited Minds was written by A. P. J. Abdul Kalam.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00088",
-   "q": "Which of the following books was written by Valmiki?",
-   "o": [
+   "question": "Which of the following books was written by Valmiki?",
+   "options": [
     "Gitanjali",
     "Mahabharata",
     "Das Kapital",
     "Ramayana"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Ramayana was written by Valmiki."
+   "answer": 3,
+   "explanation": "Ramayana was written by Valmiki.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00089",
-   "q": "Which of the following books was written by Vishnu Sharma?",
-   "o": [
+   "question": "Which of the following books was written by Vishnu Sharma?",
+   "options": [
     "Meghaduta",
     "Mein Kampf",
     "Maila Anchal",
     "Panchatantra"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Panchatantra was written by Vishnu Sharma."
+   "answer": 3,
+   "explanation": "Panchatantra was written by Vishnu Sharma.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00090",
-   "q": "Which of the following books was written by Rabindranath Tagore?",
-   "o": [
+   "question": "Which of the following books was written by Rabindranath Tagore?",
+   "options": [
     "Unbreakable",
     "Romeo and Juliet",
     "Gitanjali",
     "The Story of My Life"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Gitanjali was written by Rabindranath Tagore."
+   "answer": 2,
+   "explanation": "Gitanjali was written by Rabindranath Tagore.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00091",
-   "q": "Which of the following books was written by Adam Smith?",
-   "o": [
+   "question": "Which of the following books was written by Adam Smith?",
+   "options": [
     "The Story of My Life",
     "The Wealth of Nations",
     "Long Walk to Freedom",
     "My Experiments with Truth"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The Wealth of Nations was written by Adam Smith."
+   "answer": 1,
+   "explanation": "The Wealth of Nations was written by Adam Smith.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00092",
-   "q": "Which of the following books was written by Rabindranath Tagore?",
-   "o": [
+   "question": "Which of the following books was written by Rabindranath Tagore?",
+   "options": [
     "Gitanjali and Other Songs",
     "On the Origin of Species",
     "The Communist Manifesto",
     "Mein Kampf"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Gitanjali and Other Songs was written by Rabindranath Tagore."
+   "answer": 0,
+   "explanation": "Gitanjali and Other Songs was written by Rabindranath Tagore.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00093",
-   "q": "Which of the following books was written by Charles Dickens?",
-   "o": [
+   "question": "Which of the following books was written by Charles Dickens?",
+   "options": [
     "David Copperfield",
     "Gulliver's Travels",
     "Ramayana",
     "The Race of My Life"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "David Copperfield was written by Charles Dickens."
+   "answer": 0,
+   "explanation": "David Copperfield was written by Charles Dickens.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00094",
-   "q": "Which of the following books was written by Milkha Singh?",
-   "o": [
+   "question": "Which of the following books was written by Milkha Singh?",
+   "options": [
     "Discovery of India",
     "The Divine Comedy",
     "Hamlet",
     "The Race of My Life"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The Race of My Life was written by Milkha Singh."
+   "answer": 3,
+   "explanation": "The Race of My Life was written by Milkha Singh.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00095",
-   "q": "Which of the following books was written by Maxim Gorky?",
-   "o": [
+   "question": "Which of the following books was written by Maxim Gorky?",
+   "options": [
     "The Communist Manifesto",
     "Godaan",
     "Mother",
     "On the Origin of Species"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Mother was written by Maxim Gorky."
+   "answer": 2,
+   "explanation": "Mother was written by Maxim Gorky.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00096",
-   "q": "Which of the following books was written by Adolf Hitler?",
-   "o": [
+   "question": "Which of the following books was written by Adolf Hitler?",
+   "options": [
     "Mein Kampf",
     "Mother",
     "Ignited Minds",
     "Pride and Prejudice"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Mein Kampf was written by Adolf Hitler."
+   "answer": 0,
+   "explanation": "Mein Kampf was written by Adolf Hitler.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00097",
-   "q": "Which of the following books was written by John Milton?",
-   "o": [
+   "question": "Which of the following books was written by John Milton?",
+   "options": [
     "India Wins Freedom",
     "Paradise Lost",
     "Long Walk to Freedom",
     "Broken Wings"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Paradise Lost was written by John Milton."
+   "answer": 1,
+   "explanation": "Paradise Lost was written by John Milton.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00098",
-   "q": "Which of the following books was written by Dante Alighieri?",
-   "o": [
+   "question": "Which of the following books was written by Dante Alighieri?",
+   "options": [
     "Pride and Prejudice",
     "The Divine Comedy",
     "Gitanjali",
     "Ramayana"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The Divine Comedy was written by Dante Alighieri."
+   "answer": 1,
+   "explanation": "The Divine Comedy was written by Dante Alighieri.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00099",
-   "q": "Which of the following books was written by Munshi Premchand?",
-   "o": [
+   "question": "Which of the following books was written by Munshi Premchand?",
+   "options": [
     "Hamlet",
     "On the Origin of Species",
     "Midnight's Children",
     "Godaan"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Godaan was written by Munshi Premchand."
+   "answer": 3,
+   "explanation": "Godaan was written by Munshi Premchand.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00100",
-   "q": "Which of the following books was written by Karl Marx?",
-   "o": [
+   "question": "Which of the following books was written by Karl Marx?",
+   "options": [
     "India Wins Freedom",
     "The God of Small Things",
     "Oliver Twist",
     "Das Kapital"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Das Kapital was written by Karl Marx."
+   "answer": 3,
+   "explanation": "Das Kapital was written by Karl Marx.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00101",
-   "q": "Which of the following books was written by Mary Kom?",
-   "o": [
+   "question": "Which of the following books was written by Mary Kom?",
+   "options": [
     "The Republic",
     "Unbreakable",
     "Godaan",
     "Romeo and Juliet"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Unbreakable was written by Mary Kom."
+   "answer": 1,
+   "explanation": "Unbreakable was written by Mary Kom.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00102",
-   "q": "Which of the following books was written by Rabindranath Tagore?",
-   "o": [
+   "question": "Which of the following books was written by Rabindranath Tagore?",
+   "options": [
     "Mein Kampf",
     "Gitanjali: Rabindranath Tagore's Nobel work",
     "The Divine Comedy",
     "Meghaduta"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Gitanjali: Rabindranath Tagore's Nobel work was written by Rabindranath Tagore."
+   "answer": 1,
+   "explanation": "Gitanjali: Rabindranath Tagore's Nobel work was written by Rabindranath Tagore.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00103",
-   "q": "Which of the following books was written by Helen Keller?",
-   "o": [
+   "question": "Which of the following books was written by Helen Keller?",
+   "options": [
     "Gitanjali (Song Offerings)",
     "The Story of My Life",
     "The Interpretation of Dreams",
     "The Republic"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The Story of My Life was written by Helen Keller."
+   "answer": 1,
+   "explanation": "The Story of My Life was written by Helen Keller.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00104",
-   "q": "Which of the following books was written by Homer?",
-   "o": [
+   "question": "Which of the following books was written by Homer?",
+   "options": [
     "Maila Anchal",
     "The Odyssey",
     "The Origin of Species by Means of Natural Selection",
     "Das Kapital"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The Odyssey was written by Homer."
+   "answer": 1,
+   "explanation": "The Odyssey was written by Homer.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00105",
-   "q": "Which of the following books was written by Kalidasa?",
-   "o": [
+   "question": "Which of the following books was written by Kalidasa?",
+   "options": [
     "Meghaduta",
     "Gaban",
     "Discovery of India",
     "Gulliver's Travels"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Meghaduta was written by Kalidasa."
+   "answer": 0,
+   "explanation": "Meghaduta was written by Kalidasa.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00106",
-   "q": "Which of the following books was written by Plato?",
-   "o": [
+   "question": "Which of the following books was written by Plato?",
+   "options": [
     "Meghaduta",
     "The Republic",
     "The Wealth of Nations",
     "Ramayana"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The Republic was written by Plato."
+   "answer": 1,
+   "explanation": "The Republic was written by Plato.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00107",
-   "q": "Which of the following books was written by Rudyard Kipling?",
-   "o": [
+   "question": "Which of the following books was written by Rudyard Kipling?",
+   "options": [
     "Das Kapital",
     "Playing It My Way",
     "The Jungle Book",
     "Mother"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The Jungle Book was written by Rudyard Kipling."
+   "answer": 2,
+   "explanation": "The Jungle Book was written by Rudyard Kipling.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00108",
-   "q": "Which of the following books was written by Leo Tolstoy?",
-   "o": [
+   "question": "Which of the following books was written by Leo Tolstoy?",
+   "options": [
     "A Brief History of Time",
     "Das Kapital",
     "War and Peace",
     "Gitanjali"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "War and Peace was written by Leo Tolstoy."
+   "answer": 2,
+   "explanation": "War and Peace was written by Leo Tolstoy.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00109",
-   "q": "Which of the following books was written by Sigmund Freud?",
-   "o": [
+   "question": "Which of the following books was written by Sigmund Freud?",
+   "options": [
     "Hamlet",
     "The Interpretation of Dreams",
     "The Wealth of Nations",
     "Autobiography of a Yogi"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The Interpretation of Dreams was written by Sigmund Freud."
+   "answer": 1,
+   "explanation": "The Interpretation of Dreams was written by Sigmund Freud.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00110",
-   "q": "Which of the following books was written by Mahatma Gandhi?",
-   "o": [
+   "question": "Which of the following books was written by Mahatma Gandhi?",
+   "options": [
     "The Origin of Species by Means of Natural Selection",
     "Hamlet",
     "Gaban",
     "My Experiments with Truth"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "My Experiments with Truth was written by Mahatma Gandhi."
+   "answer": 3,
+   "explanation": "My Experiments with Truth was written by Mahatma Gandhi.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00111",
-   "q": "Which of the following books was written by Charles Dickens?",
-   "o": [
+   "question": "Which of the following books was written by Charles Dickens?",
+   "options": [
     "The Race of My Life",
     "Oliver Twist",
     "Midnight's Children",
     "Gitanjali and Other Songs"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Oliver Twist was written by Charles Dickens."
+   "answer": 1,
+   "explanation": "Oliver Twist was written by Charles Dickens.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00112",
-   "q": "Which of the following books was written by Jane Austen?",
-   "o": [
+   "question": "Which of the following books was written by Jane Austen?",
+   "options": [
     "Ramayana",
     "Pride and Prejudice",
     "The Republic",
     "Long Walk to Freedom"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Pride and Prejudice was written by Jane Austen."
+   "answer": 1,
+   "explanation": "Pride and Prejudice was written by Jane Austen.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00113",
-   "q": "Which of the following books was written by Phanishwar Nath Renu?",
-   "o": [
+   "question": "Which of the following books was written by Phanishwar Nath Renu?",
+   "options": [
     "Maila Anchal",
     "India 2020",
     "Discovery of India",
     "Oliver Twist"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Maila Anchal was written by Phanishwar Nath Renu."
+   "answer": 0,
+   "explanation": "Maila Anchal was written by Phanishwar Nath Renu.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00114",
-   "q": "Which of the following books was written by Charles Darwin?",
-   "o": [
+   "question": "Which of the following books was written by Charles Darwin?",
+   "options": [
     "The Origin of Species by Means of Natural Selection",
     "Discovery of India",
     "Romeo and Juliet",
     "David Copperfield"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The Origin of Species by Means of Natural Selection was written by Charles Darwin."
+   "answer": 0,
+   "explanation": "The Origin of Species by Means of Natural Selection was written by Charles Darwin.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00115",
-   "q": "Which of the following books was written by Rabindranath Tagore?",
-   "o": [
+   "question": "Which of the following books was written by Rabindranath Tagore?",
+   "options": [
     "Gitanjali (Song Offerings)",
     "David Copperfield",
     "Meghaduta",
     "The Wealth of Nations"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Gitanjali (Song Offerings) was written by Rabindranath Tagore."
+   "answer": 0,
+   "explanation": "Gitanjali (Song Offerings) was written by Rabindranath Tagore.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00116",
-   "q": "Which of the following books was written by Sachin Tendulkar?",
-   "o": [
+   "question": "Which of the following books was written by Sachin Tendulkar?",
+   "options": [
     "Raag Darbari",
     "Playing It My Way",
     "David Copperfield",
     "The Odyssey"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Playing It My Way was written by Sachin Tendulkar."
+   "answer": 1,
+   "explanation": "Playing It My Way was written by Sachin Tendulkar.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00117",
-   "q": "Which of the following books was written by Shrilal Shukla?",
-   "o": [
+   "question": "Which of the following books was written by Shrilal Shukla?",
+   "options": [
     "Arthashastra",
     "Raag Darbari",
     "Panchatantra",
     "Playing It My Way"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Raag Darbari was written by Shrilal Shukla."
+   "answer": 1,
+   "explanation": "Raag Darbari was written by Shrilal Shukla.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00118",
-   "q": "Which of the following books was written by Jawaharlal Nehru?",
-   "o": [
+   "question": "Which of the following books was written by Jawaharlal Nehru?",
+   "options": [
     "The God of Small Things",
     "Discovery of India",
     "A Brief History of Time",
     "An Autobiography (Toward Freedom)"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "An Autobiography (Toward Freedom) was written by Jawaharlal Nehru."
+   "answer": 3,
+   "explanation": "An Autobiography (Toward Freedom) was written by Jawaharlal Nehru.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00119",
-   "q": "Which of the following books was written by A. P. J. Abdul Kalam?",
-   "o": [
+   "question": "Which of the following books was written by A. P. J. Abdul Kalam?",
+   "options": [
     "Broken Wings",
     "Discovery of India",
     "The God of Small Things",
     "India 2020"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "India 2020 was written by A. P. J. Abdul Kalam."
+   "answer": 3,
+   "explanation": "India 2020 was written by A. P. J. Abdul Kalam.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00120",
-   "q": "Which of the following books was written by Arundhati Roy?",
-   "o": [
+   "question": "Which of the following books was written by Arundhati Roy?",
+   "options": [
     "The God of Small Things",
     "The Story of My Life",
     "Meghaduta",
     "Romeo and Juliet"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The God of Small Things was written by Arundhati Roy."
+   "answer": 0,
+   "explanation": "The God of Small Things was written by Arundhati Roy.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00121",
-   "q": "Which of the following books was written by Nelson Mandela?",
-   "o": [
+   "question": "Which of the following books was written by Nelson Mandela?",
+   "options": [
     "Romeo and Juliet",
     "David Copperfield",
     "Long Walk to Freedom",
     "Unbreakable"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Long Walk to Freedom was written by Nelson Mandela."
+   "answer": 2,
+   "explanation": "Long Walk to Freedom was written by Nelson Mandela.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00122",
-   "q": "Which of the following books was written by William Shakespeare?",
-   "o": [
+   "question": "Which of the following books was written by William Shakespeare?",
+   "options": [
     "Gitanjali (Song Offerings)",
     "Romeo and Juliet",
     "On the Origin of Species",
     "Autobiography of a Yogi"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Romeo and Juliet was written by William Shakespeare."
+   "answer": 1,
+   "explanation": "Romeo and Juliet was written by William Shakespeare.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00123",
-   "q": "Which of the following books was written by Salman Rushdie?",
-   "o": [
+   "question": "Which of the following books was written by Salman Rushdie?",
+   "options": [
     "On the Origin of Species",
     "Midnight's Children",
     "Autobiography of a Yogi",
     "Playing It My Way"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Midnight's Children was written by Salman Rushdie."
+   "answer": 1,
+   "explanation": "Midnight's Children was written by Salman Rushdie.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00124",
-   "q": "Which of the following books was written by Paramahansa Yogananda?",
-   "o": [
+   "question": "Which of the following books was written by Paramahansa Yogananda?",
+   "options": [
     "Autobiography of a Yogi",
     "Gulliver's Travels",
     "My Experiments with Truth",
     "Mahabharata"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Autobiography of a Yogi was written by Paramahansa Yogananda."
+   "answer": 0,
+   "explanation": "Autobiography of a Yogi was written by Paramahansa Yogananda.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00125",
-   "q": "Which of the following books was written by Charles Darwin?",
-   "o": [
+   "question": "Which of the following books was written by Charles Darwin?",
+   "options": [
     "On the Origin of Species",
     "Raag Darbari",
     "Playing It My Way",
     "The Wealth of Nations"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "On the Origin of Species was written by Charles Darwin."
+   "answer": 0,
+   "explanation": "On the Origin of Species was written by Charles Darwin.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00126",
-   "q": "Which of the following books was written by Jawaharlal Nehru?",
-   "o": [
+   "question": "Which of the following books was written by Jawaharlal Nehru?",
+   "options": [
     "Discovery of India",
     "The Iliad",
     "The Republic",
     "Mein Kampf"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Discovery of India was written by Jawaharlal Nehru."
+   "answer": 0,
+   "explanation": "Discovery of India was written by Jawaharlal Nehru.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00127",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Mein Kampf - Arundhati Roy",
     "Mein Kampf - A. P. J. Abdul Kalam",
     "Mein Kampf - Charles Dickens",
     "Mein Kampf - Adolf Hitler"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mein Kampf - Adolf Hitler is correctly matched."
+   "answer": 3,
+   "explanation": "Only Mein Kampf - Adolf Hitler is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00128",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Mein Kampf - Kalidasa",
     "Mein Kampf - Adolf Hitler",
     "Mein Kampf - Nelson Mandela",
     "Mein Kampf - Rabindranath Tagore"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mein Kampf - Adolf Hitler is correctly matched."
+   "answer": 1,
+   "explanation": "Only Mein Kampf - Adolf Hitler is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00129",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Ignited Minds - A. P. J. Abdul Kalam",
     "Ignited Minds - Munshi Premchand",
     "Ignited Minds - Charles Dickens",
     "Ignited Minds - Homer"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ignited Minds - A. P. J. Abdul Kalam is correctly matched."
+   "answer": 0,
+   "explanation": "Only Ignited Minds - A. P. J. Abdul Kalam is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00130",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Ignited Minds - Plato",
     "Ignited Minds - A. P. J. Abdul Kalam",
     "Ignited Minds - Kalidasa",
     "Ignited Minds - Sarojini Naidu"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ignited Minds - A. P. J. Abdul Kalam is correctly matched."
+   "answer": 1,
+   "explanation": "Only Ignited Minds - A. P. J. Abdul Kalam is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00131",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Pride and Prejudice - Plato",
     "Pride and Prejudice - Ved Vyasa",
     "Pride and Prejudice - Shrilal Shukla",
     "Pride and Prejudice - Jane Austen"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pride and Prejudice - Jane Austen is correctly matched."
+   "answer": 3,
+   "explanation": "Only Pride and Prejudice - Jane Austen is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00132",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Pride and Prejudice - Jane Austen",
     "Pride and Prejudice - Mahatma Gandhi",
     "Pride and Prejudice - Jawaharlal Nehru",
     "Pride and Prejudice - Stephen Hawking"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pride and Prejudice - Jane Austen is correctly matched."
+   "answer": 0,
+   "explanation": "Only Pride and Prejudice - Jane Austen is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00133",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Playing It My Way - Leo Tolstoy",
     "Playing It My Way - Mahatma Gandhi",
     "Playing It My Way - Adolf Hitler",
     "Playing It My Way - Sachin Tendulkar"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Playing It My Way - Sachin Tendulkar is correctly matched."
+   "answer": 3,
+   "explanation": "Only Playing It My Way - Sachin Tendulkar is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00134",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Playing It My Way - Leo Tolstoy",
     "Playing It My Way - Sarojini Naidu",
     "Playing It My Way - William Shakespeare",
     "Playing It My Way - Sachin Tendulkar"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Playing It My Way - Sachin Tendulkar is correctly matched."
+   "answer": 3,
+   "explanation": "Only Playing It My Way - Sachin Tendulkar is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00135",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Gitanjali (Song Offerings) - Maxim Gorky",
     "Gitanjali (Song Offerings) - Rabindranath Tagore",
     "Gitanjali (Song Offerings) - Jane Austen",
     "Gitanjali (Song Offerings) - Nelson Mandela"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Gitanjali (Song Offerings) - Rabindranath Tagore is correctly matched."
+   "answer": 1,
+   "explanation": "Only Gitanjali (Song Offerings) - Rabindranath Tagore is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00136",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Gitanjali (Song Offerings) - Maxim Gorky",
     "Gitanjali (Song Offerings) - Munshi Premchand",
     "Gitanjali (Song Offerings) - Rabindranath Tagore",
     "Gitanjali (Song Offerings) - John Milton"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Gitanjali (Song Offerings) - Rabindranath Tagore is correctly matched."
+   "answer": 2,
+   "explanation": "Only Gitanjali (Song Offerings) - Rabindranath Tagore is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00137",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "The Origin of Species by Means of Natural Selection - Rabindranath Tagore",
     "The Origin of Species by Means of Natural Selection - Charles Darwin",
     "The Origin of Species by Means of Natural Selection - Jawaharlal Nehru",
     "The Origin of Species by Means of Natural Selection - Jonathan Swift"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The Origin of Species by Means of Natural Selection - Charles Darwin is correctly matched."
+   "answer": 1,
+   "explanation": "Only The Origin of Species by Means of Natural Selection - Charles Darwin is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00138",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "The Origin of Species by Means of Natural Selection - Sigmund Freud",
     "The Origin of Species by Means of Natural Selection - Charles Darwin",
     "The Origin of Species by Means of Natural Selection - Plato",
     "The Origin of Species by Means of Natural Selection - John Milton"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The Origin of Species by Means of Natural Selection - Charles Darwin is correctly matched."
+   "answer": 1,
+   "explanation": "Only The Origin of Species by Means of Natural Selection - Charles Darwin is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00139",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "The Interpretation of Dreams - Jane Austen",
     "The Interpretation of Dreams - Kautilya",
     "The Interpretation of Dreams - Sigmund Freud",
     "The Interpretation of Dreams - William Shakespeare"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The Interpretation of Dreams - Sigmund Freud is correctly matched."
+   "answer": 2,
+   "explanation": "Only The Interpretation of Dreams - Sigmund Freud is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00140",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "The Interpretation of Dreams - Kautilya",
     "The Interpretation of Dreams - Jawaharlal Nehru",
     "The Interpretation of Dreams - Sigmund Freud",
     "The Interpretation of Dreams - Valmiki"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The Interpretation of Dreams - Sigmund Freud is correctly matched."
+   "answer": 2,
+   "explanation": "Only The Interpretation of Dreams - Sigmund Freud is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00141",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Hamlet - William Shakespeare",
     "Hamlet - Sigmund Freud",
     "Hamlet - Salman Rushdie",
     "Hamlet - Helen Keller"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Hamlet - William Shakespeare is correctly matched."
+   "answer": 0,
+   "explanation": "Only Hamlet - William Shakespeare is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00142",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Hamlet - Helen Keller",
     "Hamlet - Vishnu Sharma",
     "Hamlet - William Shakespeare",
     "Hamlet - Stephen Hawking"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Hamlet - William Shakespeare is correctly matched."
+   "answer": 2,
+   "explanation": "Only Hamlet - William Shakespeare is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00143",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "The Communist Manifesto - Leo Tolstoy",
     "The Communist Manifesto - Kalidasa",
     "The Communist Manifesto - Rudyard Kipling",
     "The Communist Manifesto - Karl Marx and Friedrich Engels"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The Communist Manifesto - Karl Marx and Friedrich Engels is correctly matched."
+   "answer": 3,
+   "explanation": "Only The Communist Manifesto - Karl Marx and Friedrich Engels is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00144",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "The Communist Manifesto - Rudyard Kipling",
     "The Communist Manifesto - Kautilya",
     "The Communist Manifesto - Karl Marx and Friedrich Engels",
     "The Communist Manifesto - John Milton"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The Communist Manifesto - Karl Marx and Friedrich Engels is correctly matched."
+   "answer": 2,
+   "explanation": "Only The Communist Manifesto - Karl Marx and Friedrich Engels is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00145",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Panchatantra - Vishnu Sharma",
     "Panchatantra - Sigmund Freud",
     "Panchatantra - Maxim Gorky",
     "Panchatantra - Leo Tolstoy"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Panchatantra - Vishnu Sharma is correctly matched."
+   "answer": 0,
+   "explanation": "Only Panchatantra - Vishnu Sharma is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00146",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Panchatantra - William Shakespeare",
     "Panchatantra - Charles Dickens",
     "Panchatantra - Milkha Singh",
     "Panchatantra - Vishnu Sharma"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Panchatantra - Vishnu Sharma is correctly matched."
+   "answer": 3,
+   "explanation": "Only Panchatantra - Vishnu Sharma is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00147",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Mahabharata - Jawaharlal Nehru",
     "Mahabharata - Ved Vyasa",
     "Mahabharata - John Milton",
     "Mahabharata - Charles Darwin"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mahabharata - Ved Vyasa is correctly matched."
+   "answer": 1,
+   "explanation": "Only Mahabharata - Ved Vyasa is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00148",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Mahabharata - Salman Rushdie",
     "Mahabharata - Karl Marx",
     "Mahabharata - Ved Vyasa",
     "Mahabharata - Helen Keller"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mahabharata - Ved Vyasa is correctly matched."
+   "answer": 2,
+   "explanation": "Only Mahabharata - Ved Vyasa is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00149",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Meghaduta - Maulana Abul Kalam Azad",
     "Meghaduta - Sarojini Naidu",
     "Meghaduta - Rabindranath Tagore",
     "Meghaduta - Kalidasa"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Meghaduta - Kalidasa is correctly matched."
+   "answer": 3,
+   "explanation": "Only Meghaduta - Kalidasa is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00150",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Meghaduta - Rabindranath Tagore",
     "Meghaduta - Maulana Abul Kalam Azad",
     "Meghaduta - Jawaharlal Nehru",
     "Meghaduta - Kalidasa"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Meghaduta - Kalidasa is correctly matched."
+   "answer": 3,
+   "explanation": "Only Meghaduta - Kalidasa is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00151",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Gaban - Munshi Premchand",
     "Gaban - John Milton",
     "Gaban - Homer",
     "Gaban - Maxim Gorky"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Gaban - Munshi Premchand is correctly matched."
+   "answer": 0,
+   "explanation": "Only Gaban - Munshi Premchand is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00152",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Gaban - Adolf Hitler",
     "Gaban - Jawaharlal Nehru",
     "Gaban - Munshi Premchand",
     "Gaban - Vishnu Sharma"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Gaban - Munshi Premchand is correctly matched."
+   "answer": 2,
+   "explanation": "Only Gaban - Munshi Premchand is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00153",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "The Jungle Book - Rabindranath Tagore",
     "The Jungle Book - Charles Dickens",
     "The Jungle Book - Paramahansa Yogananda",
     "The Jungle Book - Rudyard Kipling"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The Jungle Book - Rudyard Kipling is correctly matched."
+   "answer": 3,
+   "explanation": "Only The Jungle Book - Rudyard Kipling is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00154",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "The Jungle Book - Rudyard Kipling",
     "The Jungle Book - Jawaharlal Nehru",
     "The Jungle Book - Charles Dickens",
     "The Jungle Book - Munshi Premchand"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The Jungle Book - Rudyard Kipling is correctly matched."
+   "answer": 0,
+   "explanation": "Only The Jungle Book - Rudyard Kipling is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00155",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Arthashastra - Karl Marx and Friedrich Engels",
     "Arthashastra - Dante Alighieri",
     "Arthashastra - Adolf Hitler",
     "Arthashastra - Kautilya"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Arthashastra - Kautilya is correctly matched."
+   "answer": 3,
+   "explanation": "Only Arthashastra - Kautilya is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00156",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Arthashastra - Karl Marx",
     "Arthashastra - Kautilya",
     "Arthashastra - Milkha Singh",
     "Arthashastra - Jawaharlal Nehru"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Arthashastra - Kautilya is correctly matched."
+   "answer": 1,
+   "explanation": "Only Arthashastra - Kautilya is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00157",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "The Story of My Life - Helen Keller",
     "The Story of My Life - Sachin Tendulkar",
     "The Story of My Life - Adam Smith",
     "The Story of My Life - Nelson Mandela"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The Story of My Life - Helen Keller is correctly matched."
+   "answer": 0,
+   "explanation": "Only The Story of My Life - Helen Keller is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00158",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "The Story of My Life - Helen Keller",
     "The Story of My Life - Jawaharlal Nehru",
     "The Story of My Life - A. P. J. Abdul Kalam",
     "The Story of My Life - Rabindranath Tagore"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The Story of My Life - Helen Keller is correctly matched."
+   "answer": 0,
+   "explanation": "Only The Story of My Life - Helen Keller is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00159",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Long Walk to Freedom - William Shakespeare",
     "Long Walk to Freedom - Plato",
     "Long Walk to Freedom - Karl Marx and Friedrich Engels",
     "Long Walk to Freedom - Nelson Mandela"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Long Walk to Freedom - Nelson Mandela is correctly matched."
+   "answer": 3,
+   "explanation": "Only Long Walk to Freedom - Nelson Mandela is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00160",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Long Walk to Freedom - Karl Marx and Friedrich Engels",
     "Long Walk to Freedom - Salman Rushdie",
     "Long Walk to Freedom - Nelson Mandela",
     "Long Walk to Freedom - Charles Darwin"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Long Walk to Freedom - Nelson Mandela is correctly matched."
+   "answer": 2,
+   "explanation": "Only Long Walk to Freedom - Nelson Mandela is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00161",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "On the Origin of Species - William Shakespeare",
     "On the Origin of Species - Adam Smith",
     "On the Origin of Species - Kautilya",
     "On the Origin of Species - Charles Darwin"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only On the Origin of Species - Charles Darwin is correctly matched."
+   "answer": 3,
+   "explanation": "Only On the Origin of Species - Charles Darwin is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00162",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "On the Origin of Species - Maxim Gorky",
     "On the Origin of Species - Charles Darwin",
     "On the Origin of Species - Jawaharlal Nehru",
     "On the Origin of Species - Rabindranath Tagore"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only On the Origin of Species - Charles Darwin is correctly matched."
+   "answer": 1,
+   "explanation": "Only On the Origin of Species - Charles Darwin is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00163",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "The Race of My Life - Milkha Singh",
     "The Race of My Life - Charles Darwin",
     "The Race of My Life - Karl Marx and Friedrich Engels",
     "The Race of My Life - Homer"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The Race of My Life - Milkha Singh is correctly matched."
+   "answer": 0,
+   "explanation": "Only The Race of My Life - Milkha Singh is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00164",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "The Race of My Life - Jane Austen",
     "The Race of My Life - Homer",
     "The Race of My Life - A. P. J. Abdul Kalam",
     "The Race of My Life - Milkha Singh"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The Race of My Life - Milkha Singh is correctly matched."
+   "answer": 3,
+   "explanation": "Only The Race of My Life - Milkha Singh is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00165",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Gitanjali - Rabindranath Tagore",
     "Gitanjali - Sachin Tendulkar",
     "Gitanjali - Salman Rushdie",
     "Gitanjali - Phanishwar Nath Renu"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Gitanjali - Rabindranath Tagore is correctly matched."
+   "answer": 0,
+   "explanation": "Only Gitanjali - Rabindranath Tagore is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00166",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Gitanjali - Leo Tolstoy",
     "Gitanjali - A. P. J. Abdul Kalam",
     "Gitanjali - Charles Dickens",
     "Gitanjali - Rabindranath Tagore"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Gitanjali - Rabindranath Tagore is correctly matched."
+   "answer": 3,
+   "explanation": "Only Gitanjali - Rabindranath Tagore is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00167",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "The Wealth of Nations - Charles Darwin",
     "The Wealth of Nations - Ved Vyasa",
     "The Wealth of Nations - Adam Smith",
     "The Wealth of Nations - Mary Kom"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The Wealth of Nations - Adam Smith is correctly matched."
+   "answer": 2,
+   "explanation": "Only The Wealth of Nations - Adam Smith is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00168",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "The Wealth of Nations - Adam Smith",
     "The Wealth of Nations - Maulana Abul Kalam Azad",
     "The Wealth of Nations - William Shakespeare",
     "The Wealth of Nations - Jonathan Swift"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The Wealth of Nations - Adam Smith is correctly matched."
+   "answer": 0,
+   "explanation": "Only The Wealth of Nations - Adam Smith is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00169",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Broken Wings - Rabindranath Tagore",
     "Broken Wings - Sarojini Naidu",
     "Broken Wings - A. P. J. Abdul Kalam",
     "Broken Wings - Kautilya"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Broken Wings - Sarojini Naidu is correctly matched."
+   "answer": 1,
+   "explanation": "Only Broken Wings - Sarojini Naidu is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00170",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Broken Wings - Homer",
     "Broken Wings - Nelson Mandela",
     "Broken Wings - Sarojini Naidu",
     "Broken Wings - Rabindranath Tagore"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Broken Wings - Sarojini Naidu is correctly matched."
+   "answer": 2,
+   "explanation": "Only Broken Wings - Sarojini Naidu is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00171",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "The God of Small Things - Jonathan Swift",
     "The God of Small Things - Rudyard Kipling",
     "The God of Small Things - Rabindranath Tagore",
     "The God of Small Things - Arundhati Roy"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The God of Small Things - Arundhati Roy is correctly matched."
+   "answer": 3,
+   "explanation": "Only The God of Small Things - Arundhati Roy is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00172",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "The God of Small Things - Rabindranath Tagore",
     "The God of Small Things - Arundhati Roy",
     "The God of Small Things - Homer",
     "The God of Small Things - Phanishwar Nath Renu"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The God of Small Things - Arundhati Roy is correctly matched."
+   "answer": 1,
+   "explanation": "Only The God of Small Things - Arundhati Roy is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00173",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Mother - Karl Marx and Friedrich Engels",
     "Mother - Ved Vyasa",
     "Mother - Mahatma Gandhi",
     "Mother - Maxim Gorky"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mother - Maxim Gorky is correctly matched."
+   "answer": 3,
+   "explanation": "Only Mother - Maxim Gorky is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00174",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Mother - Vishnu Sharma",
     "Mother - Maxim Gorky",
     "Mother - A. P. J. Abdul Kalam",
     "Mother - Valmiki"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mother - Maxim Gorky is correctly matched."
+   "answer": 1,
+   "explanation": "Only Mother - Maxim Gorky is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00175",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Unbreakable - Rabindranath Tagore",
     "Unbreakable - Jane Austen",
     "Unbreakable - Mary Kom",
     "Unbreakable - A. P. J. Abdul Kalam"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Unbreakable - Mary Kom is correctly matched."
+   "answer": 2,
+   "explanation": "Only Unbreakable - Mary Kom is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00176",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Unbreakable - Charles Darwin",
     "Unbreakable - Munshi Premchand",
     "Unbreakable - Mary Kom",
     "Unbreakable - A. P. J. Abdul Kalam"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Unbreakable - Mary Kom is correctly matched."
+   "answer": 2,
+   "explanation": "Only Unbreakable - Mary Kom is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00177",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "The Republic - Ved Vyasa",
     "The Republic - A. P. J. Abdul Kalam",
     "The Republic - Plato",
     "The Republic - Phanishwar Nath Renu"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The Republic - Plato is correctly matched."
+   "answer": 2,
+   "explanation": "Only The Republic - Plato is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00178",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "The Republic - Ved Vyasa",
     "The Republic - Plato",
     "The Republic - Kautilya",
     "The Republic - Jawaharlal Nehru"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The Republic - Plato is correctly matched."
+   "answer": 1,
+   "explanation": "Only The Republic - Plato is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00179",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "The Divine Comedy - Ved Vyasa",
     "The Divine Comedy - Dante Alighieri",
     "The Divine Comedy - Adolf Hitler",
     "The Divine Comedy - Jane Austen"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The Divine Comedy - Dante Alighieri is correctly matched."
+   "answer": 1,
+   "explanation": "Only The Divine Comedy - Dante Alighieri is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00180",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "The Divine Comedy - Charles Darwin",
     "The Divine Comedy - Mahatma Gandhi",
     "The Divine Comedy - Shrilal Shukla",
     "The Divine Comedy - Dante Alighieri"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The Divine Comedy - Dante Alighieri is correctly matched."
+   "answer": 3,
+   "explanation": "Only The Divine Comedy - Dante Alighieri is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00181",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "The Iliad - Homer",
     "The Iliad - Shrilal Shukla",
     "The Iliad - Valmiki",
     "The Iliad - Mary Kom"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The Iliad - Homer is correctly matched."
+   "answer": 0,
+   "explanation": "Only The Iliad - Homer is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00182",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "The Iliad - Jane Austen",
     "The Iliad - A. P. J. Abdul Kalam",
     "The Iliad - Kalidasa",
     "The Iliad - Homer"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The Iliad - Homer is correctly matched."
+   "answer": 3,
+   "explanation": "Only The Iliad - Homer is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00183",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Abhijnanashakuntalam - Sigmund Freud",
     "Abhijnanashakuntalam - Mahatma Gandhi",
     "Abhijnanashakuntalam - Kalidasa",
     "Abhijnanashakuntalam - William Shakespeare"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Abhijnanashakuntalam - Kalidasa is correctly matched."
+   "answer": 2,
+   "explanation": "Only Abhijnanashakuntalam - Kalidasa is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00184",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Abhijnanashakuntalam - Phanishwar Nath Renu",
     "Abhijnanashakuntalam - Karl Marx",
     "Abhijnanashakuntalam - Kalidasa",
     "Abhijnanashakuntalam - A. P. J. Abdul Kalam"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Abhijnanashakuntalam - Kalidasa is correctly matched."
+   "answer": 2,
+   "explanation": "Only Abhijnanashakuntalam - Kalidasa is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00185",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Gitanjali: Rabindranath Tagore's Nobel work - Kalidasa",
     "Gitanjali: Rabindranath Tagore's Nobel work - Sachin Tendulkar",
     "Gitanjali: Rabindranath Tagore's Nobel work - Munshi Premchand",
     "Gitanjali: Rabindranath Tagore's Nobel work - Rabindranath Tagore"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Gitanjali: Rabindranath Tagore's Nobel work - Rabindranath Tagore is correctly matched."
+   "answer": 3,
+   "explanation": "Only Gitanjali: Rabindranath Tagore's Nobel work - Rabindranath Tagore is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00186",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Gitanjali: Rabindranath Tagore's Nobel work - Mary Kom",
     "Gitanjali: Rabindranath Tagore's Nobel work - A. P. J. Abdul Kalam",
     "Gitanjali: Rabindranath Tagore's Nobel work - Rabindranath Tagore",
     "Gitanjali: Rabindranath Tagore's Nobel work - Jawaharlal Nehru"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Gitanjali: Rabindranath Tagore's Nobel work - Rabindranath Tagore is correctly matched."
+   "answer": 2,
+   "explanation": "Only Gitanjali: Rabindranath Tagore's Nobel work - Rabindranath Tagore is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00187",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Gulliver's Travels - Jonathan Swift",
     "Gulliver's Travels - Arundhati Roy",
     "Gulliver's Travels - Sigmund Freud",
     "Gulliver's Travels - Paramahansa Yogananda"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Gulliver's Travels - Jonathan Swift is correctly matched."
+   "answer": 0,
+   "explanation": "Only Gulliver's Travels - Jonathan Swift is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00188",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Gulliver's Travels - Maxim Gorky",
     "Gulliver's Travels - Jonathan Swift",
     "Gulliver's Travels - Valmiki",
     "Gulliver's Travels - Vishnu Sharma"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Gulliver's Travels - Jonathan Swift is correctly matched."
+   "answer": 1,
+   "explanation": "Only Gulliver's Travels - Jonathan Swift is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00189",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Midnight's Children - A. P. J. Abdul Kalam",
     "Midnight's Children - Jawaharlal Nehru",
     "Midnight's Children - Adolf Hitler",
     "Midnight's Children - Salman Rushdie"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Midnight's Children - Salman Rushdie is correctly matched."
+   "answer": 3,
+   "explanation": "Only Midnight's Children - Salman Rushdie is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00190",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Midnight's Children - Dante Alighieri",
     "Midnight's Children - Salman Rushdie",
     "Midnight's Children - Sigmund Freud",
     "Midnight's Children - Rabindranath Tagore"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Midnight's Children - Salman Rushdie is correctly matched."
+   "answer": 1,
+   "explanation": "Only Midnight's Children - Salman Rushdie is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00191",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "David Copperfield - Charles Dickens",
     "David Copperfield - Adam Smith",
     "David Copperfield - Shrilal Shukla",
     "David Copperfield - Mahatma Gandhi"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only David Copperfield - Charles Dickens is correctly matched."
+   "answer": 0,
+   "explanation": "Only David Copperfield - Charles Dickens is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00192",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "David Copperfield - Charles Dickens",
     "David Copperfield - Maxim Gorky",
     "David Copperfield - Rabindranath Tagore",
     "David Copperfield - Homer"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only David Copperfield - Charles Dickens is correctly matched."
+   "answer": 0,
+   "explanation": "Only David Copperfield - Charles Dickens is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00193",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "The Odyssey - John Milton",
     "The Odyssey - Homer",
     "The Odyssey - Jawaharlal Nehru",
     "The Odyssey - Charles Darwin"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The Odyssey - Homer is correctly matched."
+   "answer": 1,
+   "explanation": "Only The Odyssey - Homer is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00194",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "The Odyssey - Shrilal Shukla",
     "The Odyssey - Rudyard Kipling",
     "The Odyssey - Rabindranath Tagore",
     "The Odyssey - Homer"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The Odyssey - Homer is correctly matched."
+   "answer": 3,
+   "explanation": "Only The Odyssey - Homer is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00195",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Maila Anchal - Charles Dickens",
     "Maila Anchal - A. P. J. Abdul Kalam",
     "Maila Anchal - Phanishwar Nath Renu",
     "Maila Anchal - Rabindranath Tagore"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Maila Anchal - Phanishwar Nath Renu is correctly matched."
+   "answer": 2,
+   "explanation": "Only Maila Anchal - Phanishwar Nath Renu is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00196",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Maila Anchal - Helen Keller",
     "Maila Anchal - Phanishwar Nath Renu",
     "Maila Anchal - Leo Tolstoy",
     "Maila Anchal - John Milton"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Maila Anchal - Phanishwar Nath Renu is correctly matched."
+   "answer": 1,
+   "explanation": "Only Maila Anchal - Phanishwar Nath Renu is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00197",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Discovery of India - Munshi Premchand",
     "Discovery of India - William Shakespeare",
     "Discovery of India - Jawaharlal Nehru",
     "Discovery of India - Ved Vyasa"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Discovery of India - Jawaharlal Nehru is correctly matched."
+   "answer": 2,
+   "explanation": "Only Discovery of India - Jawaharlal Nehru is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00198",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Discovery of India - Stephen Hawking",
     "Discovery of India - Munshi Premchand",
     "Discovery of India - Jawaharlal Nehru",
     "Discovery of India - Karl Marx and Friedrich Engels"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Discovery of India - Jawaharlal Nehru is correctly matched."
+   "answer": 2,
+   "explanation": "Only Discovery of India - Jawaharlal Nehru is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00199",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Romeo and Juliet - William Shakespeare",
     "Romeo and Juliet - A. P. J. Abdul Kalam",
     "Romeo and Juliet - Maulana Abul Kalam Azad",
     "Romeo and Juliet - Paramahansa Yogananda"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Romeo and Juliet - William Shakespeare is correctly matched."
+   "answer": 0,
+   "explanation": "Only Romeo and Juliet - William Shakespeare is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00200",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Romeo and Juliet - Paramahansa Yogananda",
     "Romeo and Juliet - Karl Marx and Friedrich Engels",
     "Romeo and Juliet - Nelson Mandela",
     "Romeo and Juliet - William Shakespeare"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Romeo and Juliet - William Shakespeare is correctly matched."
+   "answer": 3,
+   "explanation": "Only Romeo and Juliet - William Shakespeare is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00201",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "An Autobiography (Toward Freedom) - Homer",
     "An Autobiography (Toward Freedom) - Karl Marx",
     "An Autobiography (Toward Freedom) - Jawaharlal Nehru",
     "An Autobiography (Toward Freedom) - Charles Darwin"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only An Autobiography (Toward Freedom) - Jawaharlal Nehru is correctly matched."
+   "answer": 2,
+   "explanation": "Only An Autobiography (Toward Freedom) - Jawaharlal Nehru is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00202",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "An Autobiography (Toward Freedom) - Rudyard Kipling",
     "An Autobiography (Toward Freedom) - Kalidasa",
     "An Autobiography (Toward Freedom) - Jane Austen",
     "An Autobiography (Toward Freedom) - Jawaharlal Nehru"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only An Autobiography (Toward Freedom) - Jawaharlal Nehru is correctly matched."
+   "answer": 3,
+   "explanation": "Only An Autobiography (Toward Freedom) - Jawaharlal Nehru is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00203",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Oliver Twist - John Milton",
     "Oliver Twist - Charles Dickens",
     "Oliver Twist - Leo Tolstoy",
     "Oliver Twist - Kalidasa"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Oliver Twist - Charles Dickens is correctly matched."
+   "answer": 1,
+   "explanation": "Only Oliver Twist - Charles Dickens is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00204",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Oliver Twist - Rabindranath Tagore",
     "Oliver Twist - Charles Darwin",
     "Oliver Twist - Shrilal Shukla",
     "Oliver Twist - Charles Dickens"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Oliver Twist - Charles Dickens is correctly matched."
+   "answer": 3,
+   "explanation": "Only Oliver Twist - Charles Dickens is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00205",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "War and Peace - Leo Tolstoy",
     "War and Peace - Rabindranath Tagore",
     "War and Peace - Mahatma Gandhi",
     "War and Peace - John Milton"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only War and Peace - Leo Tolstoy is correctly matched."
+   "answer": 0,
+   "explanation": "Only War and Peace - Leo Tolstoy is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00206",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "War and Peace - Leo Tolstoy",
     "War and Peace - Vishnu Sharma",
     "War and Peace - William Shakespeare",
     "War and Peace - Rabindranath Tagore"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only War and Peace - Leo Tolstoy is correctly matched."
+   "answer": 0,
+   "explanation": "Only War and Peace - Leo Tolstoy is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00207",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "My Experiments with Truth - Valmiki",
     "My Experiments with Truth - Jawaharlal Nehru",
     "My Experiments with Truth - Mahatma Gandhi",
     "My Experiments with Truth - Munshi Premchand"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only My Experiments with Truth - Mahatma Gandhi is correctly matched."
+   "answer": 2,
+   "explanation": "Only My Experiments with Truth - Mahatma Gandhi is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00208",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "My Experiments with Truth - Rabindranath Tagore",
     "My Experiments with Truth - Mahatma Gandhi",
     "My Experiments with Truth - Kalidasa",
     "My Experiments with Truth - John Milton"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only My Experiments with Truth - Mahatma Gandhi is correctly matched."
+   "answer": 1,
+   "explanation": "Only My Experiments with Truth - Mahatma Gandhi is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00209",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "India 2020 - Arundhati Roy",
     "India 2020 - Sarojini Naidu",
     "India 2020 - A. P. J. Abdul Kalam",
     "India 2020 - Rabindranath Tagore"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only India 2020 - A. P. J. Abdul Kalam is correctly matched."
+   "answer": 2,
+   "explanation": "Only India 2020 - A. P. J. Abdul Kalam is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00210",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "India 2020 - Kautilya",
     "India 2020 - Jonathan Swift",
     "India 2020 - A. P. J. Abdul Kalam",
     "India 2020 - Adolf Hitler"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only India 2020 - A. P. J. Abdul Kalam is correctly matched."
+   "answer": 2,
+   "explanation": "Only India 2020 - A. P. J. Abdul Kalam is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00211",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Raag Darbari - Kalidasa",
     "Raag Darbari - Shrilal Shukla",
     "Raag Darbari - Valmiki",
     "Raag Darbari - Jonathan Swift"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Raag Darbari - Shrilal Shukla is correctly matched."
+   "answer": 1,
+   "explanation": "Only Raag Darbari - Shrilal Shukla is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00212",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Raag Darbari - Shrilal Shukla",
     "Raag Darbari - Karl Marx and Friedrich Engels",
     "Raag Darbari - Rabindranath Tagore",
     "Raag Darbari - John Milton"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Raag Darbari - Shrilal Shukla is correctly matched."
+   "answer": 0,
+   "explanation": "Only Raag Darbari - Shrilal Shukla is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00213",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Autobiography of a Yogi - Paramahansa Yogananda",
     "Autobiography of a Yogi - Homer",
     "Autobiography of a Yogi - Milkha Singh",
     "Autobiography of a Yogi - Charles Darwin"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Autobiography of a Yogi - Paramahansa Yogananda is correctly matched."
+   "answer": 0,
+   "explanation": "Only Autobiography of a Yogi - Paramahansa Yogananda is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00214",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Autobiography of a Yogi - Charles Darwin",
     "Autobiography of a Yogi - Jawaharlal Nehru",
     "Autobiography of a Yogi - Paramahansa Yogananda",
     "Autobiography of a Yogi - Valmiki"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Autobiography of a Yogi - Paramahansa Yogananda is correctly matched."
+   "answer": 2,
+   "explanation": "Only Autobiography of a Yogi - Paramahansa Yogananda is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00215",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Ramayana - Stephen Hawking",
     "Ramayana - Charles Darwin",
     "Ramayana - Kalidasa",
     "Ramayana - Valmiki"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ramayana - Valmiki is correctly matched."
+   "answer": 3,
+   "explanation": "Only Ramayana - Valmiki is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00216",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Ramayana - Munshi Premchand",
     "Ramayana - Ved Vyasa",
     "Ramayana - Valmiki",
     "Ramayana - Rabindranath Tagore"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ramayana - Valmiki is correctly matched."
+   "answer": 2,
+   "explanation": "Only Ramayana - Valmiki is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00217",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Paradise Lost - John Milton",
     "Paradise Lost - Rabindranath Tagore",
     "Paradise Lost - Nelson Mandela",
     "Paradise Lost - Homer"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Paradise Lost - John Milton is correctly matched."
+   "answer": 0,
+   "explanation": "Only Paradise Lost - John Milton is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00218",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Paradise Lost - Mahatma Gandhi",
     "Paradise Lost - Plato",
     "Paradise Lost - John Milton",
     "Paradise Lost - Ved Vyasa"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Paradise Lost - John Milton is correctly matched."
+   "answer": 2,
+   "explanation": "Only Paradise Lost - John Milton is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00219",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "A Brief History of Time - Mary Kom",
     "A Brief History of Time - Stephen Hawking",
     "A Brief History of Time - Homer",
     "A Brief History of Time - John Milton"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A Brief History of Time - Stephen Hawking is correctly matched."
+   "answer": 1,
+   "explanation": "Only A Brief History of Time - Stephen Hawking is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00220",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "A Brief History of Time - Stephen Hawking",
     "A Brief History of Time - Adam Smith",
     "A Brief History of Time - Rabindranath Tagore",
     "A Brief History of Time - Nelson Mandela"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A Brief History of Time - Stephen Hawking is correctly matched."
+   "answer": 0,
+   "explanation": "Only A Brief History of Time - Stephen Hawking is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00221",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Godaan - Dante Alighieri",
     "Godaan - Charles Dickens",
     "Godaan - A. P. J. Abdul Kalam",
     "Godaan - Munshi Premchand"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Godaan - Munshi Premchand is correctly matched."
+   "answer": 3,
+   "explanation": "Only Godaan - Munshi Premchand is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00222",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Godaan - Paramahansa Yogananda",
     "Godaan - Helen Keller",
     "Godaan - Munshi Premchand",
     "Godaan - Sarojini Naidu"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Godaan - Munshi Premchand is correctly matched."
+   "answer": 2,
+   "explanation": "Only Godaan - Munshi Premchand is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00223",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "India Wins Freedom - Maulana Abul Kalam Azad",
     "India Wins Freedom - Rudyard Kipling",
     "India Wins Freedom - Mahatma Gandhi",
     "India Wins Freedom - Rabindranath Tagore"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only India Wins Freedom - Maulana Abul Kalam Azad is correctly matched."
+   "answer": 0,
+   "explanation": "Only India Wins Freedom - Maulana Abul Kalam Azad is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00224",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "India Wins Freedom - Maulana Abul Kalam Azad",
     "India Wins Freedom - Homer",
     "India Wins Freedom - Rabindranath Tagore",
     "India Wins Freedom - Sarojini Naidu"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only India Wins Freedom - Maulana Abul Kalam Azad is correctly matched."
+   "answer": 0,
+   "explanation": "Only India Wins Freedom - Maulana Abul Kalam Azad is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00225",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Wings of Fire - Leo Tolstoy",
     "Wings of Fire - A. P. J. Abdul Kalam",
     "Wings of Fire - Charles Dickens",
     "Wings of Fire - Munshi Premchand"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Wings of Fire - A. P. J. Abdul Kalam is correctly matched."
+   "answer": 1,
+   "explanation": "Only Wings of Fire - A. P. J. Abdul Kalam is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00226",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Wings of Fire - John Milton",
     "Wings of Fire - A. P. J. Abdul Kalam",
     "Wings of Fire - Sarojini Naidu",
     "Wings of Fire - Vishnu Sharma"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Wings of Fire - A. P. J. Abdul Kalam is correctly matched."
+   "answer": 1,
+   "explanation": "Only Wings of Fire - A. P. J. Abdul Kalam is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00227",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Gitanjali and Other Songs - Karl Marx",
     "Gitanjali and Other Songs - Rabindranath Tagore",
     "Gitanjali and Other Songs - Jane Austen",
     "Gitanjali and Other Songs - Sarojini Naidu"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Gitanjali and Other Songs - Rabindranath Tagore is correctly matched."
+   "answer": 1,
+   "explanation": "Only Gitanjali and Other Songs - Rabindranath Tagore is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00228",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Gitanjali and Other Songs - Helen Keller",
     "Gitanjali and Other Songs - A. P. J. Abdul Kalam",
     "Gitanjali and Other Songs - Sachin Tendulkar",
     "Gitanjali and Other Songs - Rabindranath Tagore"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Gitanjali and Other Songs - Rabindranath Tagore is correctly matched."
+   "answer": 3,
+   "explanation": "Only Gitanjali and Other Songs - Rabindranath Tagore is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00229",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Das Kapital - Karl Marx",
     "Das Kapital - Homer",
     "Das Kapital - A. P. J. Abdul Kalam",
     "Das Kapital - Stephen Hawking"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Das Kapital - Karl Marx is correctly matched."
+   "answer": 0,
+   "explanation": "Only Das Kapital - Karl Marx is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00230",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Das Kapital - Munshi Premchand",
     "Das Kapital - Karl Marx",
     "Das Kapital - Leo Tolstoy",
     "Das Kapital - Kalidasa"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Das Kapital - Karl Marx is correctly matched."
+   "answer": 1,
+   "explanation": "Only Das Kapital - Karl Marx is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00231",
-   "q": "Which of the following pairs of book and author is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is NOT correctly matched?",
+   "options": [
     "The Iliad - Kautilya",
     "Wings of Fire - A. P. J. Abdul Kalam",
     "The Story of My Life - Helen Keller",
     "Abhijnanashakuntalam - Kalidasa"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair The Iliad - Kautilya is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair The Iliad - Kautilya is not correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00232",
-   "q": "Which of the following pairs of book and author is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is NOT correctly matched?",
+   "options": [
     "Panchatantra - Vishnu Sharma",
     "Pride and Prejudice - Jane Austen",
     "Oliver Twist - Charles Dickens",
     "Abhijnanashakuntalam - Karl Marx and Friedrich Engels"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Abhijnanashakuntalam - Karl Marx and Friedrich Engels is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Abhijnanashakuntalam - Karl Marx and Friedrich Engels is not correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00233",
-   "q": "Which of the following pairs of book and author is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is NOT correctly matched?",
+   "options": [
     "The Odyssey - Salman Rushdie",
     "Oliver Twist - Charles Dickens",
     "Romeo and Juliet - William Shakespeare",
     "Playing It My Way - Sachin Tendulkar"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair The Odyssey - Salman Rushdie is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair The Odyssey - Salman Rushdie is not correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00234",
-   "q": "Which of the following pairs of book and author is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is NOT correctly matched?",
+   "options": [
     "Discovery of India - Jawaharlal Nehru",
     "Gitanjali: Rabindranath Tagore's Nobel work - A. P. J. Abdul Kalam",
     "The Interpretation of Dreams - Sigmund Freud",
     "My Experiments with Truth - Mahatma Gandhi"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Gitanjali: Rabindranath Tagore's Nobel work - A. P. J. Abdul Kalam is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Gitanjali: Rabindranath Tagore's Nobel work - A. P. J. Abdul Kalam is not correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00235",
-   "q": "Which of the following pairs of book and author is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is NOT correctly matched?",
+   "options": [
     "Ignited Minds - Karl Marx and Friedrich Engels",
     "Gitanjali (Song Offerings) - Rabindranath Tagore",
     "Das Kapital - Karl Marx",
     "Long Walk to Freedom - Nelson Mandela"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Ignited Minds - Karl Marx and Friedrich Engels is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Ignited Minds - Karl Marx and Friedrich Engels is not correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00236",
-   "q": "Which of the following pairs of book and author is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is NOT correctly matched?",
+   "options": [
     "Discovery of India - Leo Tolstoy",
     "Gitanjali and Other Songs - Rabindranath Tagore",
     "India Wins Freedom - Maulana Abul Kalam Azad",
     "The Republic - Plato"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Discovery of India - Leo Tolstoy is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Discovery of India - Leo Tolstoy is not correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00237",
-   "q": "Which of the following pairs of book and author is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is NOT correctly matched?",
+   "options": [
     "Gitanjali (Song Offerings) - Rabindranath Tagore",
     "Gitanjali - Jane Austen",
     "Mein Kampf - Adolf Hitler",
     "The Race of My Life - Milkha Singh"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Gitanjali - Jane Austen is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Gitanjali - Jane Austen is not correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00238",
-   "q": "Which of the following pairs of book and author is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is NOT correctly matched?",
+   "options": [
     "An Autobiography (Toward Freedom) - Jawaharlal Nehru",
     "India 2020 - Rabindranath Tagore",
     "The Republic - Plato",
     "The Interpretation of Dreams - Sigmund Freud"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair India 2020 - Rabindranath Tagore is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair India 2020 - Rabindranath Tagore is not correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00239",
-   "q": "Which of the following pairs of book and author is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is NOT correctly matched?",
+   "options": [
     "The Interpretation of Dreams - Vishnu Sharma",
     "India Wins Freedom - Maulana Abul Kalam Azad",
     "Playing It My Way - Sachin Tendulkar",
     "Das Kapital - Karl Marx"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair The Interpretation of Dreams - Vishnu Sharma is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair The Interpretation of Dreams - Vishnu Sharma is not correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00240",
-   "q": "Which of the following pairs of book and author is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is NOT correctly matched?",
+   "options": [
     "The Republic - Plato",
     "The Wealth of Nations - Jawaharlal Nehru",
     "The Divine Comedy - Dante Alighieri",
     "The Odyssey - Homer"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair The Wealth of Nations - Jawaharlal Nehru is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair The Wealth of Nations - Jawaharlal Nehru is not correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00241",
-   "q": "Which of the following pairs of book and author is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is NOT correctly matched?",
+   "options": [
     "The Origin of Species by Means of Natural Selection - Salman Rushdie",
     "Mahabharata - Ved Vyasa",
     "Das Kapital - Karl Marx",
     "Ramayana - Valmiki"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair The Origin of Species by Means of Natural Selection - Salman Rushdie is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair The Origin of Species by Means of Natural Selection - Salman Rushdie is not correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00242",
-   "q": "Which of the following pairs of book and author is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is NOT correctly matched?",
+   "options": [
     "Arthashastra - Homer",
     "Gitanjali and Other Songs - Rabindranath Tagore",
     "The Wealth of Nations - Adam Smith",
     "The Odyssey - Homer"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Arthashastra - Homer is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Arthashastra - Homer is not correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00243",
-   "q": "Which of the following pairs of book and author is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is NOT correctly matched?",
+   "options": [
     "Mein Kampf - Adolf Hitler",
     "Panchatantra - Kalidasa",
     "The Republic - Plato",
     "Mahabharata - Ved Vyasa"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Panchatantra - Kalidasa is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Panchatantra - Kalidasa is not correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00244",
-   "q": "Which of the following pairs of book and author is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is NOT correctly matched?",
+   "options": [
     "The Odyssey - Homer",
     "My Experiments with Truth - Charles Darwin",
     "A Brief History of Time - Stephen Hawking",
     "Paradise Lost - John Milton"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair My Experiments with Truth - Charles Darwin is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair My Experiments with Truth - Charles Darwin is not correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00245",
-   "q": "Which of the following pairs of book and author is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is NOT correctly matched?",
+   "options": [
     "A Brief History of Time - Stephen Hawking",
     "Raag Darbari - Shrilal Shukla",
     "Ramayana - Rabindranath Tagore",
     "Gitanjali - Rabindranath Tagore"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Ramayana - Rabindranath Tagore is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Ramayana - Rabindranath Tagore is not correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00246",
-   "q": "Which of the following pairs of book and author is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is NOT correctly matched?",
+   "options": [
     "Godaan - William Shakespeare",
     "The Republic - Plato",
     "Das Kapital - Karl Marx",
     "Panchatantra - Vishnu Sharma"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Godaan - William Shakespeare is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Godaan - William Shakespeare is not correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00247",
-   "q": "Which of the following pairs of book and author is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is NOT correctly matched?",
+   "options": [
     "Meghaduta - Kalidasa",
     "Broken Wings - Sarojini Naidu",
     "The Republic - Maulana Abul Kalam Azad",
     "The God of Small Things - Arundhati Roy"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair The Republic - Maulana Abul Kalam Azad is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair The Republic - Maulana Abul Kalam Azad is not correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00248",
-   "q": "Which of the following pairs of book and author is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is NOT correctly matched?",
+   "options": [
     "Discovery of India - Jawaharlal Nehru",
     "Abhijnanashakuntalam - Kalidasa",
     "Arthashastra - Kautilya",
     "The Jungle Book - Jawaharlal Nehru"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair The Jungle Book - Jawaharlal Nehru is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair The Jungle Book - Jawaharlal Nehru is not correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00249",
-   "q": "Which of the following pairs of book and author is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is NOT correctly matched?",
+   "options": [
     "Paradise Lost - William Shakespeare",
     "An Autobiography (Toward Freedom) - Jawaharlal Nehru",
     "Raag Darbari - Shrilal Shukla",
     "The Iliad - Homer"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Paradise Lost - William Shakespeare is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Paradise Lost - William Shakespeare is not correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00250",
-   "q": "Which of the following pairs of book and author is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is NOT correctly matched?",
+   "options": [
     "Broken Wings - Kalidasa",
     "Gitanjali (Song Offerings) - Rabindranath Tagore",
     "Pride and Prejudice - Jane Austen",
     "Mein Kampf - Adolf Hitler"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Broken Wings - Kalidasa is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Broken Wings - Kalidasa is not correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00251",
-   "q": "Which of the following pairs of book and author is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is NOT correctly matched?",
+   "options": [
     "Romeo and Juliet - William Shakespeare",
     "Gitanjali (Song Offerings) - Jawaharlal Nehru",
     "Gitanjali: Rabindranath Tagore's Nobel work - Rabindranath Tagore",
     "Discovery of India - Jawaharlal Nehru"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Gitanjali (Song Offerings) - Jawaharlal Nehru is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Gitanjali (Song Offerings) - Jawaharlal Nehru is not correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00252",
-   "q": "Which of the following pairs of book and author is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is NOT correctly matched?",
+   "options": [
     "Mein Kampf - Adolf Hitler",
     "The Story of My Life - Helen Keller",
     "Mahabharata - Sigmund Freud",
     "Gaban - Munshi Premchand"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Mahabharata - Sigmund Freud is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Mahabharata - Sigmund Freud is not correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00253",
-   "q": "Which of the following pairs of book and author is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is NOT correctly matched?",
+   "options": [
     "Meghaduta - Leo Tolstoy",
     "India 2020 - A. P. J. Abdul Kalam",
     "Autobiography of a Yogi - Paramahansa Yogananda",
     "Pride and Prejudice - Jane Austen"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Meghaduta - Leo Tolstoy is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Meghaduta - Leo Tolstoy is not correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00254",
-   "q": "Which of the following pairs of book and author is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is NOT correctly matched?",
+   "options": [
     "The Origin of Species by Means of Natural Selection - Charles Darwin",
     "The Story of My Life - Helen Keller",
     "My Experiments with Truth - Mahatma Gandhi",
     "Autobiography of a Yogi - Shrilal Shukla"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Autobiography of a Yogi - Shrilal Shukla is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Autobiography of a Yogi - Shrilal Shukla is not correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00255",
-   "q": "Which of the following pairs of book and author is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is NOT correctly matched?",
+   "options": [
     "The God of Small Things - Arundhati Roy",
     "India Wins Freedom - Homer",
     "Maila Anchal - Phanishwar Nath Renu",
     "War and Peace - Leo Tolstoy"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair India Wins Freedom - Homer is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair India Wins Freedom - Homer is not correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00256",
-   "q": "Which of the following pairs of book and author is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is NOT correctly matched?",
+   "options": [
     "Gitanjali - Rabindranath Tagore",
     "Discovery of India - Jawaharlal Nehru",
     "The Divine Comedy - William Shakespeare",
     "Oliver Twist - Charles Dickens"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair The Divine Comedy - William Shakespeare is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair The Divine Comedy - William Shakespeare is not correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00257",
-   "q": "Which of the following pairs of book and author is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is NOT correctly matched?",
+   "options": [
     "War and Peace - Karl Marx and Friedrich Engels",
     "Gitanjali - Rabindranath Tagore",
     "Mein Kampf - Adolf Hitler",
     "The God of Small Things - Arundhati Roy"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair War and Peace - Karl Marx and Friedrich Engels is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair War and Peace - Karl Marx and Friedrich Engels is not correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00258",
-   "q": "Which of the following pairs of book and author is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is NOT correctly matched?",
+   "options": [
     "The Communist Manifesto - Homer",
     "India Wins Freedom - Maulana Abul Kalam Azad",
     "On the Origin of Species - Charles Darwin",
     "Romeo and Juliet - William Shakespeare"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair The Communist Manifesto - Homer is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair The Communist Manifesto - Homer is not correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00259",
-   "q": "Which of the following pairs of book and author is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is NOT correctly matched?",
+   "options": [
     "Unbreakable - Mary Kom",
     "The God of Small Things - William Shakespeare",
     "The Jungle Book - Rudyard Kipling",
     "Pride and Prejudice - Jane Austen"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair The God of Small Things - William Shakespeare is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair The God of Small Things - William Shakespeare is not correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "books-authors-00260",
-   "q": "Which of the following pairs of book and author is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is NOT correctly matched?",
+   "options": [
     "The Interpretation of Dreams - Sigmund Freud",
     "Raag Darbari - Shrilal Shukla",
     "Oliver Twist - Charles Dickens",
     "Long Walk to Freedom - Karl Marx and Friedrich Engels"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Long Walk to Freedom - Karl Marx and Friedrich Engels is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Long Walk to Freedom - Karl Marx and Friedrich Engels is not correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   }
  ]
 };

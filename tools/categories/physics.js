@@ -15,3903 +15,3903 @@
  "questions": [
   {
    "id": "physics-00001",
-   "q": "What is the SI unit of force?",
-   "o": [
+   "question": "What is the SI unit of force?",
+   "options": [
     "Joule",
     "Newton",
     "Watt",
     "Pascal"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Force is measured in newtons."
+   "answer": 1,
+   "explanation": "Force is measured in newtons.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "physics-00002",
-   "q": "The speed of light in vacuum is approximately:",
-   "o": [
+   "question": "The speed of light in vacuum is approximately:",
+   "options": [
     "3 x 10^6 m/s",
     "3 x 10^8 m/s",
     "3 x 10^10 m/s",
     "3 x 10^5 m/s"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Light travels at about 3 x 10^8 metres per second in vacuum."
+   "answer": 1,
+   "explanation": "Light travels at about 3 x 10^8 metres per second in vacuum.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "physics-00003",
-   "q": "Which law states that every action has an equal and opposite reaction?",
-   "o": [
+   "question": "Which law states that every action has an equal and opposite reaction?",
+   "options": [
     "Newton's first law",
     "Newton's second law",
     "Newton's third law",
     "Law of gravitation"
    ],
-   "a": 2,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Newton's third law of motion states this principle."
+   "answer": 2,
+   "explanation": "Newton's third law of motion states this principle.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "physics-00004",
-   "q": "The SI unit of power is:",
-   "o": [
+   "question": "The SI unit of power is:",
+   "options": [
     "Newton",
     "Watt",
     "Joule",
     "Ampere"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Power is measured in watts."
+   "answer": 1,
+   "explanation": "Power is measured in watts.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "physics-00005",
-   "q": "Which instrument is used to measure electric current?",
-   "o": [
+   "question": "Which instrument is used to measure electric current?",
+   "options": [
     "Voltmeter",
     "Ammeter",
     "Barometer",
     "Thermometer"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "An ammeter measures current in amperes."
+   "answer": 1,
+   "explanation": "An ammeter measures current in amperes.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "physics-00006",
-   "q": "What is the unit of electrical resistance?",
-   "o": [
+   "question": "What is the unit of electrical resistance?",
+   "options": [
     "Ohm",
     "Volt",
     "Ampere",
     "Coulomb"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Resistance is measured in ohms."
+   "answer": 0,
+   "explanation": "Resistance is measured in ohms.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "physics-00007",
-   "q": "Which mirror is used as a rear-view mirror in vehicles?",
-   "o": [
+   "question": "Which mirror is used as a rear-view mirror in vehicles?",
+   "options": [
     "Concave mirror",
     "Convex mirror",
     "Plane mirror",
     "Cylindrical mirror"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Convex mirrors give a wider field of view."
+   "answer": 1,
+   "explanation": "Convex mirrors give a wider field of view.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "physics-00008",
-   "q": "The phenomenon of splitting white light into its components is called:",
-   "o": [
+   "question": "The phenomenon of splitting white light into its components is called:",
+   "options": [
     "Reflection",
     "Refraction",
     "Dispersion",
     "Diffraction"
    ],
-   "a": 2,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Dispersion separates white light into its constituent colours."
+   "answer": 2,
+   "explanation": "Dispersion separates white light into its constituent colours.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "physics-00009",
-   "q": "Which lens is used to correct short-sightedness?",
-   "o": [
+   "question": "Which lens is used to correct short-sightedness?",
+   "options": [
     "Convex lens",
     "Concave lens",
     "Cylindrical lens",
     "Bifocal lens"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Myopia is corrected using a concave lens."
+   "answer": 1,
+   "explanation": "Myopia is corrected using a concave lens.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "physics-00010",
-   "q": "What is the value of acceleration due to gravity on Earth?",
-   "o": [
+   "question": "What is the value of acceleration due to gravity on Earth?",
+   "options": [
     "8.9 m/s^2",
     "9.8 m/s^2",
     "10.8 m/s^2",
     "7.8 m/s^2"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The standard value is about 9.8 metres per second squared."
+   "answer": 1,
+   "explanation": "The standard value is about 9.8 metres per second squared.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "physics-00011",
-   "q": "Which is a good conductor of electricity?",
-   "o": [
+   "question": "Which is a good conductor of electricity?",
+   "options": [
     "Rubber",
     "Copper",
     "Wood",
     "Plastic"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Copper is a metal with free electrons and conducts well."
+   "answer": 1,
+   "explanation": "Copper is a metal with free electrons and conducts well.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "physics-00012",
-   "q": "The energy possessed by a body by virtue of its motion is called:",
-   "o": [
+   "question": "The energy possessed by a body by virtue of its motion is called:",
+   "options": [
     "Potential energy",
     "Kinetic energy",
     "Thermal energy",
     "Chemical energy"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Energy of motion is kinetic energy."
+   "answer": 1,
+   "explanation": "Energy of motion is kinetic energy.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "physics-00013",
-   "q": "Which device converts mechanical energy into electrical energy?",
-   "o": [
+   "question": "Which device converts mechanical energy into electrical energy?",
+   "options": [
     "Motor",
     "Generator",
     "Transformer",
     "Battery"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "A generator converts mechanical energy into electrical energy."
+   "answer": 1,
+   "explanation": "A generator converts mechanical energy into electrical energy.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "physics-00014",
-   "q": "Which principle explains the working of a rocket?",
-   "o": [
+   "question": "Which principle explains the working of a rocket?",
+   "options": [
     "Conservation of energy",
     "Conservation of momentum",
     "Conservation of mass",
     "Pascal's law"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "Rockets work on the conservation of linear momentum."
+   "answer": 1,
+   "explanation": "Rockets work on the conservation of linear momentum.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "physics-00015",
-   "q": "Sound cannot travel through:",
-   "o": [
+   "question": "Sound cannot travel through:",
+   "options": [
     "Air",
     "Water",
     "Steel",
     "Vacuum"
    ],
-   "a": 3,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Sound needs a medium and cannot travel through a vacuum."
+   "answer": 3,
+   "explanation": "Sound needs a medium and cannot travel through a vacuum.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "physics-00016",
-   "q": "Which is the unit of frequency?",
-   "o": [
+   "question": "Which is the unit of frequency?",
+   "options": [
     "Hertz",
     "Decibel",
     "Newton",
     "Joule"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Frequency is measured in hertz."
+   "answer": 0,
+   "explanation": "Frequency is measured in hertz.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "physics-00017",
-   "q": "What is the boiling point of water at normal atmospheric pressure?",
-   "o": [
+   "question": "What is the boiling point of water at normal atmospheric pressure?",
+   "options": [
     "90 degrees Celsius",
     "100 degrees Celsius",
     "110 degrees Celsius",
     "80 degrees Celsius"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Water boils at 100 degrees Celsius at sea level."
+   "answer": 1,
+   "explanation": "Water boils at 100 degrees Celsius at sea level.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "physics-00018",
-   "q": "Which law relates the pressure and volume of a gas at constant temperature?",
-   "o": [
+   "question": "Which law relates the pressure and volume of a gas at constant temperature?",
+   "options": [
     "Charles's law",
     "Boyle's law",
     "Dalton's law",
     "Avogadro's law"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Boyle's law states that pressure varies inversely with volume at constant temperature."
+   "answer": 1,
+   "explanation": "Boyle's law states that pressure varies inversely with volume at constant temperature.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "physics-00019",
-   "q": "The unit of magnetic flux density is:",
-   "o": [
+   "question": "The unit of magnetic flux density is:",
+   "options": [
     "Weber",
     "Tesla",
     "Henry",
     "Farad"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "Magnetic flux density is measured in tesla."
+   "answer": 1,
+   "explanation": "Magnetic flux density is measured in tesla.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "physics-00020",
-   "q": "Which radiation has the shortest wavelength?",
-   "o": [
+   "question": "Which radiation has the shortest wavelength?",
+   "options": [
     "Infrared",
     "Visible light",
     "Ultraviolet",
     "Gamma rays"
    ],
-   "a": 3,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Gamma rays have the shortest wavelength in the electromagnetic spectrum."
+   "answer": 3,
+   "explanation": "Gamma rays have the shortest wavelength in the electromagnetic spectrum.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "physics-00021",
-   "q": "A body weighs least at the:",
-   "o": [
+   "question": "A body weighs least at the:",
+   "options": [
     "Poles",
     "Equator",
     "Mountains",
     "Sea level"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "Gravity and apparent weight are lowest at the equator due to the Earth's shape and rotation."
+   "answer": 1,
+   "explanation": "Gravity and apparent weight are lowest at the equator due to the Earth's shape and rotation.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "physics-00022",
-   "q": "Which instrument measures atmospheric pressure?",
-   "o": [
+   "question": "Which instrument measures atmospheric pressure?",
+   "options": [
     "Hygrometer",
     "Barometer",
     "Anemometer",
     "Altimeter"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "A barometer measures atmospheric pressure."
+   "answer": 1,
+   "explanation": "A barometer measures atmospheric pressure.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "physics-00023",
-   "q": "What is the SI unit of Capacitance?",
-   "o": [
+   "question": "What is the SI unit of Capacitance?",
+   "options": [
     "Coulomb",
     "Newton",
     "Mole",
     "Farad"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Capacitance is the Farad."
+   "answer": 3,
+   "explanation": "The SI unit of Capacitance is the Farad.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "physics-00024",
-   "q": "Which instrument is used to measure Time accurately?",
-   "o": [
+   "question": "Which instrument is used to measure Time accurately?",
+   "options": [
     "Chronometer",
     "Electrocardiogram machine",
     "Speedometer",
     "Anemometer"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Chronometer is used to measure Time accurately."
+   "answer": 0,
+   "explanation": "Chronometer is used to measure Time accurately.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00025",
-   "q": "What is the SI unit of Power?",
-   "o": [
+   "question": "What is the SI unit of Power?",
+   "options": [
     "Lumen",
     "Watt",
     "Metre",
     "Ohm"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Power is the Watt."
+   "answer": 1,
+   "explanation": "The SI unit of Power is the Watt.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "physics-00026",
-   "q": "Which instrument is used to measure Earthquakes?",
-   "o": [
+   "question": "Which instrument is used to measure Earthquakes?",
+   "options": [
     "Anemometer",
     "Odometer",
     "Spectrometer",
     "Seismograph"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Seismograph is used to measure Earthquakes."
+   "answer": 3,
+   "explanation": "Seismograph is used to measure Earthquakes.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00027",
-   "q": "What is the SI unit of Luminous flux?",
-   "o": [
+   "question": "What is the SI unit of Luminous flux?",
+   "options": [
     "Coulomb",
     "Lumen",
     "Volt",
     "Joule"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Luminous flux is the Lumen."
+   "answer": 1,
+   "explanation": "The SI unit of Luminous flux is the Lumen.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "physics-00028",
-   "q": "Which instrument is used to measure Internal body organs?",
-   "o": [
+   "question": "Which instrument is used to measure Internal body organs?",
+   "options": [
     "Fathometer",
     "Spherometer",
     "Periscope",
     "Endoscope"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Endoscope is used to measure Internal body organs."
+   "answer": 3,
+   "explanation": "Endoscope is used to measure Internal body organs.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00029",
-   "q": "What is the SI unit of Electrical resistance?",
-   "o": [
+   "question": "What is the SI unit of Electrical resistance?",
+   "options": [
     "Ohm",
     "Kilogram",
     "Lumen",
     "Pascal"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Electrical resistance is the Ohm."
+   "answer": 0,
+   "explanation": "The SI unit of Electrical resistance is the Ohm.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "physics-00030",
-   "q": "Which instrument is used to measure Turbidity of liquid?",
-   "o": [
+   "question": "Which instrument is used to measure Turbidity of liquid?",
+   "options": [
     "Pyrometer",
     "Periscope",
     "Sphygmomanometer",
     "Nephelometer"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Nephelometer is used to measure Turbidity of liquid."
+   "answer": 3,
+   "explanation": "Nephelometer is used to measure Turbidity of liquid.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00031",
-   "q": "What is the SI unit of Inductance?",
-   "o": [
+   "question": "What is the SI unit of Inductance?",
+   "options": [
     "Farad",
     "Henry",
     "Joule",
     "Joule per Kelvin"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Inductance is the Henry."
+   "answer": 1,
+   "explanation": "The SI unit of Inductance is the Henry.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "physics-00032",
-   "q": "Which instrument is used to measure Magnified view of tiny objects?",
-   "o": [
+   "question": "Which instrument is used to measure Magnified view of tiny objects?",
+   "options": [
     "Lactometer",
     "Galvanometer",
     "Nephelometer",
     "Microscope"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Microscope is used to measure Magnified view of tiny objects."
+   "answer": 3,
+   "explanation": "Microscope is used to measure Magnified view of tiny objects.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00033",
-   "q": "What is the SI unit of Temperature?",
-   "o": [
+   "question": "What is the SI unit of Temperature?",
+   "options": [
     "Watt",
     "Kelvin",
     "Joule per Kelvin",
     "Ampere"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Temperature is the Kelvin."
+   "answer": 1,
+   "explanation": "The SI unit of Temperature is the Kelvin.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "physics-00034",
-   "q": "Which instrument is used to measure Radiant energy?",
-   "o": [
+   "question": "Which instrument is used to measure Radiant energy?",
+   "options": [
     "Microscope",
     "Manometer",
     "Hygroscope",
     "Radiometer"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Radiometer is used to measure Radiant energy."
+   "answer": 3,
+   "explanation": "Radiometer is used to measure Radiant energy.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00035",
-   "q": "What is the SI unit of Pressure?",
-   "o": [
+   "question": "What is the SI unit of Pressure?",
+   "options": [
     "Becquerel",
     "Pascal",
     "Henry",
     "Ampere"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Pressure is the Pascal."
+   "answer": 1,
+   "explanation": "The SI unit of Pressure is the Pascal.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "physics-00036",
-   "q": "Which instrument is used to measure Atmospheric pressure?",
-   "o": [
+   "question": "Which instrument is used to measure Atmospheric pressure?",
+   "options": [
     "Stethoscope",
     "Audiometer",
     "Transducer",
     "Barometer"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Barometer is used to measure Atmospheric pressure."
+   "answer": 3,
+   "explanation": "Barometer is used to measure Atmospheric pressure.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00037",
-   "q": "What is the SI unit of Catalytic activity?",
-   "o": [
+   "question": "What is the SI unit of Catalytic activity?",
+   "options": [
     "Becquerel",
     "Newton",
     "Candela",
     "Katal"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Catalytic activity is the Katal."
+   "answer": 3,
+   "explanation": "The SI unit of Catalytic activity is the Katal.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "physics-00038",
-   "q": "Which instrument is used to measure High temperature?",
-   "o": [
+   "question": "Which instrument is used to measure High temperature?",
+   "options": [
     "Geiger counter",
     "Pyrometer",
     "Endoscope",
     "Fathometer"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Pyrometer is used to measure High temperature."
+   "answer": 1,
+   "explanation": "Pyrometer is used to measure High temperature.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00039",
-   "q": "What is the SI unit of Energy?",
-   "o": [
+   "question": "What is the SI unit of Energy?",
+   "options": [
     "Joule",
     "Becquerel",
     "Steradian",
     "Ohm"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Energy is the Joule."
+   "answer": 0,
+   "explanation": "The SI unit of Energy is the Joule.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "physics-00040",
-   "q": "Which instrument is used to measure Multiple physiological responses?",
-   "o": [
+   "question": "Which instrument is used to measure Multiple physiological responses?",
+   "options": [
     "Polygraph",
     "Stethoscope",
     "Lactometer",
     "Voltmeter"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Polygraph is used to measure Multiple physiological responses."
+   "answer": 0,
+   "explanation": "Polygraph is used to measure Multiple physiological responses.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00041",
-   "q": "What is the SI unit of Length?",
-   "o": [
+   "question": "What is the SI unit of Length?",
+   "options": [
     "Metre",
     "Watt",
     "Kilogram",
     "Becquerel"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Length is the Metre."
+   "answer": 0,
+   "explanation": "The SI unit of Length is the Metre.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "physics-00042",
-   "q": "Which instrument is used to measure Wind speed?",
-   "o": [
+   "question": "Which instrument is used to measure Wind speed?",
+   "options": [
     "Endoscope",
     "Anemometer",
     "Audiometer",
     "Telescope"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Anemometer is used to measure Wind speed."
+   "answer": 1,
+   "explanation": "Anemometer is used to measure Wind speed.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00043",
-   "q": "What is the SI unit of Radioactivity?",
-   "o": [
+   "question": "What is the SI unit of Radioactivity?",
+   "options": [
     "Newton",
     "Henry",
     "Becquerel",
     "Volt"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Radioactivity is the Becquerel."
+   "answer": 2,
+   "explanation": "The SI unit of Radioactivity is the Becquerel.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "physics-00044",
-   "q": "Which instrument is used to measure Small electric currents?",
-   "o": [
+   "question": "Which instrument is used to measure Small electric currents?",
+   "options": [
     "Seismograph",
     "Calorimeter",
     "Telescope",
     "Galvanometer"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Galvanometer is used to measure Small electric currents."
+   "answer": 3,
+   "explanation": "Galvanometer is used to measure Small electric currents.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00045",
-   "q": "What is the SI unit of Time?",
-   "o": [
+   "question": "What is the SI unit of Time?",
+   "options": [
     "Joule per Kelvin",
     "Ampere",
     "Tesla",
     "Second"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Time is the Second."
+   "answer": 3,
+   "explanation": "The SI unit of Time is the Second.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "physics-00046",
-   "q": "Which instrument is used to measure Purity of milk?",
-   "o": [
+   "question": "Which instrument is used to measure Purity of milk?",
+   "options": [
     "Spherometer",
     "Ammeter",
     "Polygraph",
     "Lactometer"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Lactometer is used to measure Purity of milk."
+   "answer": 3,
+   "explanation": "Lactometer is used to measure Purity of milk.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00047",
-   "q": "What is the SI unit of Electric charge?",
-   "o": [
+   "question": "What is the SI unit of Electric charge?",
+   "options": [
     "Coulomb",
     "Katal",
     "Mole",
     "Ampere"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Electric charge is the Coulomb."
+   "answer": 0,
+   "explanation": "The SI unit of Electric charge is the Coulomb.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "physics-00048",
-   "q": "Which instrument is used to measure Objects above obstacles?",
-   "o": [
+   "question": "Which instrument is used to measure Objects above obstacles?",
+   "options": [
     "Cardiograph",
     "Hygrometer",
     "Periscope",
     "Radiometer"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Periscope is used to measure Objects above obstacles."
+   "answer": 2,
+   "explanation": "Periscope is used to measure Objects above obstacles.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00049",
-   "q": "What is the SI unit of Amount of substance?",
-   "o": [
+   "question": "What is the SI unit of Amount of substance?",
+   "options": [
     "Newton",
     "Mole",
     "Kilogram",
     "Steradian"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Amount of substance is the Mole."
+   "answer": 1,
+   "explanation": "The SI unit of Amount of substance is the Mole.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "physics-00050",
-   "q": "Which instrument is used to measure Heart activity?",
-   "o": [
+   "question": "Which instrument is used to measure Heart activity?",
+   "options": [
     "Hygroscope",
     "Viscometer",
     "Cardiograph",
     "Periscope"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Cardiograph is used to measure Heart activity."
+   "answer": 2,
+   "explanation": "Cardiograph is used to measure Heart activity.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00051",
-   "q": "What is the SI unit of Plane angle?",
-   "o": [
+   "question": "What is the SI unit of Plane angle?",
+   "options": [
     "Henry",
     "Joule",
     "Hertz",
     "Radian"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Plane angle is the Radian."
+   "answer": 3,
+   "explanation": "The SI unit of Plane angle is the Radian.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "physics-00052",
-   "q": "Which instrument is used to measure Distant objects?",
-   "o": [
+   "question": "Which instrument is used to measure Distant objects?",
+   "options": [
     "Telescope",
     "Radiometer",
     "Microscope",
     "Periscope"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Telescope is used to measure Distant objects."
+   "answer": 0,
+   "explanation": "Telescope is used to measure Distant objects.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00053",
-   "q": "What is the SI unit of Electric current?",
-   "o": [
+   "question": "What is the SI unit of Electric current?",
+   "options": [
     "Ampere",
     "Lux",
     "Joule per Kelvin",
     "Lumen"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Electric current is the Ampere."
+   "answer": 0,
+   "explanation": "The SI unit of Electric current is the Ampere.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "physics-00054",
-   "q": "Which instrument is used to measure Blood pressure?",
-   "o": [
+   "question": "Which instrument is used to measure Blood pressure?",
+   "options": [
     "Sphygmomanometer",
     "Barometer",
     "Potometer",
     "Spectrometer"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Sphygmomanometer is used to measure Blood pressure."
+   "answer": 0,
+   "explanation": "Sphygmomanometer is used to measure Blood pressure.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00055",
-   "q": "What is the SI unit of Luminous intensity?",
-   "o": [
+   "question": "What is the SI unit of Luminous intensity?",
+   "options": [
     "Radian",
     "Kelvin",
     "Candela",
     "Gray"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Luminous intensity is the Candela."
+   "answer": 2,
+   "explanation": "The SI unit of Luminous intensity is the Candela.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "physics-00056",
-   "q": "Which instrument is used to measure Speed of a vehicle?",
-   "o": [
+   "question": "Which instrument is used to measure Speed of a vehicle?",
+   "options": [
     "Calorimeter",
     "Kymograph",
     "Speedometer",
     "Tachometer"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Speedometer is used to measure Speed of a vehicle."
+   "answer": 2,
+   "explanation": "Speedometer is used to measure Speed of a vehicle.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00057",
-   "q": "What is the SI unit of Wave number?",
-   "o": [
+   "question": "What is the SI unit of Wave number?",
+   "options": [
     "Ampere",
     "Pascal second",
     "Reciprocal metre",
     "Metre"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Wave number is the Reciprocal metre."
+   "answer": 2,
+   "explanation": "The SI unit of Wave number is the Reciprocal metre.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "physics-00058",
-   "q": "Which instrument is used to measure Electric current?",
-   "o": [
+   "question": "Which instrument is used to measure Electric current?",
+   "options": [
     "Hygrometer",
     "Ammeter",
     "Kymograph",
     "Barometer"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Ammeter is used to measure Electric current."
+   "answer": 1,
+   "explanation": "Ammeter is used to measure Electric current.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00059",
-   "q": "What is the SI unit of Absorbed dose?",
-   "o": [
+   "question": "What is the SI unit of Absorbed dose?",
+   "options": [
     "Kilogram",
     "Gray",
     "Ampere",
     "Lumen"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Absorbed dose is the Gray."
+   "answer": 1,
+   "explanation": "The SI unit of Absorbed dose is the Gray.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "physics-00060",
-   "q": "Which instrument is used to measure Depth of the sea?",
-   "o": [
+   "question": "Which instrument is used to measure Depth of the sea?",
+   "options": [
     "Galvanometer",
     "Radiometer",
     "Speedometer",
     "Fathometer"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Fathometer is used to measure Depth of the sea."
+   "answer": 3,
+   "explanation": "Fathometer is used to measure Depth of the sea.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00061",
-   "q": "What is the SI unit of Mass?",
-   "o": [
+   "question": "What is the SI unit of Mass?",
+   "options": [
     "Mole",
     "Kilogram",
     "Metre",
     "Coulomb"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Mass is the Kilogram."
+   "answer": 1,
+   "explanation": "The SI unit of Mass is the Kilogram.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "physics-00062",
-   "q": "Which instrument is used to measure Ionising radiation?",
-   "o": [
+   "question": "Which instrument is used to measure Ionising radiation?",
+   "options": [
     "Spherometer",
     "Altimeter",
     "Transducer",
     "Geiger counter"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Geiger counter is used to measure Ionising radiation."
+   "answer": 3,
+   "explanation": "Geiger counter is used to measure Ionising radiation.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00063",
-   "q": "What is the SI unit of Solid angle?",
-   "o": [
+   "question": "What is the SI unit of Solid angle?",
+   "options": [
     "Reciprocal metre",
     "Hertz",
     "Steradian",
     "Joule"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Solid angle is the Steradian."
+   "answer": 2,
+   "explanation": "The SI unit of Solid angle is the Steradian.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "physics-00064",
-   "q": "Which instrument is used to measure Distance travelled?",
-   "o": [
+   "question": "Which instrument is used to measure Distance travelled?",
+   "options": [
     "Odometer",
     "Fathometer",
     "Calorimeter",
     "Spectrometer"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Odometer is used to measure Distance travelled."
+   "answer": 0,
+   "explanation": "Odometer is used to measure Distance travelled.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00065",
-   "q": "What is the SI unit of Entropy?",
-   "o": [
+   "question": "What is the SI unit of Entropy?",
+   "options": [
     "Lumen",
     "Mole",
     "Pascal second",
     "Joule per Kelvin"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Entropy is the Joule per Kelvin."
+   "answer": 3,
+   "explanation": "The SI unit of Entropy is the Joule per Kelvin.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "physics-00066",
-   "q": "Which instrument is used to measure Humidity?",
-   "o": [
+   "question": "Which instrument is used to measure Humidity?",
+   "options": [
     "Potometer",
     "Voltmeter",
     "Hygroscope",
     "Viscometer"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Hygroscope is used to measure Humidity."
+   "answer": 2,
+   "explanation": "Hygroscope is used to measure Humidity.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00067",
-   "q": "What is the SI unit of Magnetic flux?",
-   "o": [
+   "question": "What is the SI unit of Magnetic flux?",
+   "options": [
     "Farad",
     "Kelvin",
     "Lux",
     "Weber"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Magnetic flux is the Weber."
+   "answer": 3,
+   "explanation": "The SI unit of Magnetic flux is the Weber.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "physics-00068",
-   "q": "Which instrument is used to measure Altitude?",
-   "o": [
+   "question": "Which instrument is used to measure Altitude?",
+   "options": [
     "Manometer",
     "Altimeter",
     "Hygroscope",
     "Sphygmomanometer"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Altimeter is used to measure Altitude."
+   "answer": 1,
+   "explanation": "Altimeter is used to measure Altitude.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00069",
-   "q": "What is the SI unit of Illuminance?",
-   "o": [
+   "question": "What is the SI unit of Illuminance?",
+   "options": [
     "Joule",
     "Lux",
     "Lumen",
     "Radian"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Illuminance is the Lux."
+   "answer": 1,
+   "explanation": "The SI unit of Illuminance is the Lux.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "physics-00070",
-   "q": "Which instrument is used to measure Blood pressure variations?",
-   "o": [
+   "question": "Which instrument is used to measure Blood pressure variations?",
+   "options": [
     "Kymograph",
     "Ammeter",
     "Audiometer",
     "Radiometer"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Kymograph is used to measure Blood pressure variations."
+   "answer": 0,
+   "explanation": "Kymograph is used to measure Blood pressure variations.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00071",
-   "q": "What is the SI unit of Electric potential?",
-   "o": [
+   "question": "What is the SI unit of Electric potential?",
+   "options": [
     "Watt",
     "Siemens",
     "Gray",
     "Volt"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Electric potential is the Volt."
+   "answer": 3,
+   "explanation": "The SI unit of Electric potential is the Volt.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "physics-00072",
-   "q": "Which instrument is used to measure Viscosity of liquids?",
-   "o": [
+   "question": "Which instrument is used to measure Viscosity of liquids?",
+   "options": [
     "Potometer",
     "Manometer",
     "Viscometer",
     "Altimeter"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Viscometer is used to measure Viscosity of liquids."
+   "answer": 2,
+   "explanation": "Viscometer is used to measure Viscosity of liquids.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00073",
-   "q": "What is the SI unit of Magnetic flux density?",
-   "o": [
+   "question": "What is the SI unit of Magnetic flux density?",
+   "options": [
     "Hertz",
     "Ohm",
     "Watt",
     "Tesla"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Magnetic flux density is the Tesla."
+   "answer": 3,
+   "explanation": "The SI unit of Magnetic flux density is the Tesla.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "physics-00074",
-   "q": "Which instrument is used to measure Heartbeats?",
-   "o": [
+   "question": "Which instrument is used to measure Heartbeats?",
+   "options": [
     "Spherometer",
     "Stethoscope",
     "Pyrometer",
     "Anemometer"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Stethoscope is used to measure Heartbeats."
+   "answer": 1,
+   "explanation": "Stethoscope is used to measure Heartbeats.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00075",
-   "q": "What is the SI unit of Frequency?",
-   "o": [
+   "question": "What is the SI unit of Frequency?",
+   "options": [
     "Hertz",
     "Metre",
     "Joule per Kelvin",
     "Mole"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Frequency is the Hertz."
+   "answer": 0,
+   "explanation": "The SI unit of Frequency is the Hertz.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "physics-00076",
-   "q": "Which instrument is used to measure Heat change in reactions?",
-   "o": [
+   "question": "Which instrument is used to measure Heat change in reactions?",
+   "options": [
     "Lactometer",
     "Calorimeter",
     "Manometer",
     "Nephelometer"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Calorimeter is used to measure Heat change in reactions."
+   "answer": 1,
+   "explanation": "Calorimeter is used to measure Heat change in reactions.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00077",
-   "q": "What is the SI unit of Force?",
-   "o": [
+   "question": "What is the SI unit of Force?",
+   "options": [
     "Weber",
     "Hertz",
     "Joule",
     "Newton"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Force is the Newton."
+   "answer": 3,
+   "explanation": "The SI unit of Force is the Newton.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "physics-00078",
-   "q": "Which instrument is used to measure Heart electrical activity?",
-   "o": [
+   "question": "Which instrument is used to measure Heart electrical activity?",
+   "options": [
     "Kymograph",
     "Electrocardiogram machine",
     "Crescograph",
     "Barometer"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Electrocardiogram machine is used to measure Heart electrical activity."
+   "answer": 1,
+   "explanation": "Electrocardiogram machine is used to measure Heart electrical activity.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00079",
-   "q": "What is the SI unit of Viscosity (dynamic)?",
-   "o": [
+   "question": "What is the SI unit of Viscosity (dynamic)?",
+   "options": [
     "Watt",
     "Pascal second",
     "Radian",
     "Gray"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Viscosity (dynamic) is the Pascal second."
+   "answer": 1,
+   "explanation": "The SI unit of Viscosity (dynamic) is the Pascal second.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "physics-00080",
-   "q": "Which instrument is used to measure One form of energy into another?",
-   "o": [
+   "question": "Which instrument is used to measure One form of energy into another?",
+   "options": [
     "Transducer",
     "Cardiograph",
     "Tachometer",
     "Periscope"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Transducer is used to measure One form of energy into another."
+   "answer": 0,
+   "explanation": "Transducer is used to measure One form of energy into another.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00081",
-   "q": "What is the SI unit of Electrical conductance?",
-   "o": [
+   "question": "What is the SI unit of Electrical conductance?",
+   "options": [
     "Siemens",
     "Hertz",
     "Kelvin",
     "Joule per Kelvin"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Electrical conductance is the Siemens."
+   "answer": 0,
+   "explanation": "The SI unit of Electrical conductance is the Siemens.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "physics-00082",
-   "q": "Which instrument is used to measure Temperature?",
-   "o": [
+   "question": "Which instrument is used to measure Temperature?",
+   "options": [
     "Thermometer",
     "Voltmeter",
     "Periscope",
     "Chronometer"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Thermometer is used to measure Temperature."
+   "answer": 0,
+   "explanation": "Thermometer is used to measure Temperature.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00083",
-   "q": "Which physical quantity is measured in Metre?",
-   "o": [
+   "question": "Which physical quantity is measured in Metre?",
+   "options": [
     "Viscosity (dynamic)",
     "Length",
     "Solid angle",
     "Electrical conductance"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Metre is the SI unit of Length."
+   "answer": 1,
+   "explanation": "Metre is the SI unit of Length.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00084",
-   "q": "Which instrument is used to measure Curvature of surfaces?",
-   "o": [
+   "question": "Which instrument is used to measure Curvature of surfaces?",
+   "options": [
     "Cardiograph",
     "Geiger counter",
     "Speedometer",
     "Spherometer"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Spherometer is used to measure Curvature of surfaces."
+   "answer": 3,
+   "explanation": "Spherometer is used to measure Curvature of surfaces.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00085",
-   "q": "Which physical quantity is measured in Henry?",
-   "o": [
+   "question": "Which physical quantity is measured in Henry?",
+   "options": [
     "Time",
     "Radioactivity",
     "Inductance",
     "Length"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Henry is the SI unit of Inductance."
+   "answer": 2,
+   "explanation": "Henry is the SI unit of Inductance.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00086",
-   "q": "Which instrument is used to measure Gas pressure?",
-   "o": [
+   "question": "Which instrument is used to measure Gas pressure?",
+   "options": [
     "Pyrometer",
     "Manometer",
     "Viscometer",
     "Odometer"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Manometer is used to measure Gas pressure."
+   "answer": 1,
+   "explanation": "Manometer is used to measure Gas pressure.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00087",
-   "q": "Which physical quantity is measured in Joule?",
-   "o": [
+   "question": "Which physical quantity is measured in Joule?",
+   "options": [
     "Electric charge",
     "Time",
     "Illuminance",
     "Energy"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Joule is the SI unit of Energy."
+   "answer": 3,
+   "explanation": "Joule is the SI unit of Energy.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00088",
-   "q": "Which instrument is used to measure Water absorption by plants?",
-   "o": [
+   "question": "Which instrument is used to measure Water absorption by plants?",
+   "options": [
     "Potometer",
     "Anemometer",
     "Radiometer",
     "Geiger counter"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Potometer is used to measure Water absorption by plants."
+   "answer": 0,
+   "explanation": "Potometer is used to measure Water absorption by plants.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00089",
-   "q": "Which physical quantity is measured in Farad?",
-   "o": [
+   "question": "Which physical quantity is measured in Farad?",
+   "options": [
     "Capacitance",
     "Amount of substance",
     "Absorbed dose",
     "Radioactivity"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Farad is the SI unit of Capacitance."
+   "answer": 0,
+   "explanation": "Farad is the SI unit of Capacitance.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00090",
-   "q": "Which instrument is used to measure Plant growth?",
-   "o": [
+   "question": "Which instrument is used to measure Plant growth?",
+   "options": [
     "Radiometer",
     "Crescograph",
     "Ammeter",
     "Endoscope"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Crescograph is used to measure Plant growth."
+   "answer": 1,
+   "explanation": "Crescograph is used to measure Plant growth.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00091",
-   "q": "Which physical quantity is measured in Second?",
-   "o": [
+   "question": "Which physical quantity is measured in Second?",
+   "options": [
     "Power",
     "Energy",
     "Luminous flux",
     "Time"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Second is the SI unit of Time."
+   "answer": 3,
+   "explanation": "Second is the SI unit of Time.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00092",
-   "q": "Which instrument is used to measure Rotational speed?",
-   "o": [
+   "question": "Which instrument is used to measure Rotational speed?",
+   "options": [
     "Geiger counter",
     "Potometer",
     "Tachometer",
     "Audiometer"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Tachometer is used to measure Rotational speed."
+   "answer": 2,
+   "explanation": "Tachometer is used to measure Rotational speed.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00093",
-   "q": "Which physical quantity is measured in Siemens?",
-   "o": [
+   "question": "Which physical quantity is measured in Siemens?",
+   "options": [
     "Mass",
     "Electrical conductance",
     "Electrical resistance",
     "Length"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Siemens is the SI unit of Electrical conductance."
+   "answer": 1,
+   "explanation": "Siemens is the SI unit of Electrical conductance.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00094",
-   "q": "Which instrument is used to measure Hearing sensitivity?",
-   "o": [
+   "question": "Which instrument is used to measure Hearing sensitivity?",
+   "options": [
     "Hygroscope",
     "Audiometer",
     "Altimeter",
     "Spherometer"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Audiometer is used to measure Hearing sensitivity."
+   "answer": 1,
+   "explanation": "Audiometer is used to measure Hearing sensitivity.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00095",
-   "q": "Which physical quantity is measured in Gray?",
-   "o": [
+   "question": "Which physical quantity is measured in Gray?",
+   "options": [
     "Power",
     "Magnetic flux density",
     "Absorbed dose",
     "Plane angle"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Gray is the SI unit of Absorbed dose."
+   "answer": 2,
+   "explanation": "Gray is the SI unit of Absorbed dose.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00096",
-   "q": "Which instrument is used to measure Speed and distance?",
-   "o": [
+   "question": "Which instrument is used to measure Speed and distance?",
+   "options": [
     "Sphygmomanometer",
     "Odometer and Speedometer",
     "Polygraph",
     "Pyrometer"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Odometer and Speedometer is used to measure Speed and distance."
+   "answer": 1,
+   "explanation": "Odometer and Speedometer is used to measure Speed and distance.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00097",
-   "q": "Which physical quantity is measured in Kilogram?",
-   "o": [
+   "question": "Which physical quantity is measured in Kilogram?",
+   "options": [
     "Mass",
     "Radioactivity",
     "Absorbed dose",
     "Force"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Kilogram is the SI unit of Mass."
+   "answer": 0,
+   "explanation": "Kilogram is the SI unit of Mass.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00098",
-   "q": "Which instrument is used to measure Electric potential difference?",
-   "o": [
+   "question": "Which instrument is used to measure Electric potential difference?",
+   "options": [
     "Voltmeter",
     "Cardiograph",
     "Viscometer",
     "Hygroscope"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Voltmeter is used to measure Electric potential difference."
+   "answer": 0,
+   "explanation": "Voltmeter is used to measure Electric potential difference.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00099",
-   "q": "Which physical quantity is measured in Steradian?",
-   "o": [
+   "question": "Which physical quantity is measured in Steradian?",
+   "options": [
     "Electric current",
     "Frequency",
     "Illuminance",
     "Solid angle"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Steradian is the SI unit of Solid angle."
+   "answer": 3,
+   "explanation": "Steradian is the SI unit of Solid angle.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00100",
-   "q": "Which instrument is used to measure Properties of light?",
-   "o": [
+   "question": "Which instrument is used to measure Properties of light?",
+   "options": [
     "Telescope",
     "Audiometer",
     "Fathometer",
     "Spectrometer"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Spectrometer is used to measure Properties of light."
+   "answer": 3,
+   "explanation": "Spectrometer is used to measure Properties of light.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00101",
-   "q": "Which physical quantity is measured in Lux?",
-   "o": [
+   "question": "Which physical quantity is measured in Lux?",
+   "options": [
     "Force",
     "Illuminance",
     "Mass",
     "Radioactivity"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Lux is the SI unit of Illuminance."
+   "answer": 1,
+   "explanation": "Lux is the SI unit of Illuminance.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00102",
-   "q": "Which instrument is used to measure Humidity?",
-   "o": [
+   "question": "Which instrument is used to measure Humidity?",
+   "options": [
     "Altimeter",
     "Telescope",
     "Hygrometer",
     "Barometer"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Hygrometer is used to measure Humidity."
+   "answer": 2,
+   "explanation": "Hygrometer is used to measure Humidity.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00103",
-   "q": "Which physical quantity is measured in Joule per Kelvin?",
-   "o": [
+   "question": "Which physical quantity is measured in Joule per Kelvin?",
+   "options": [
     "Magnetic flux",
     "Entropy",
     "Radioactivity",
     "Catalytic activity"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Joule per Kelvin is the SI unit of Entropy."
+   "answer": 1,
+   "explanation": "Joule per Kelvin is the SI unit of Entropy.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00104",
-   "q": "Spectrometer is used for which of the following purposes?",
-   "o": [
+   "question": "Spectrometer is used for which of the following purposes?",
+   "options": [
     "Electric potential difference",
     "Distance travelled",
     "Properties of light",
     "Viscosity of liquids"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Spectrometer measures Properties of light."
+   "answer": 2,
+   "explanation": "Spectrometer measures Properties of light.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00105",
-   "q": "Which physical quantity is measured in Becquerel?",
-   "o": [
+   "question": "Which physical quantity is measured in Becquerel?",
+   "options": [
     "Electric current",
     "Radioactivity",
     "Plane angle",
     "Pressure"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Becquerel is the SI unit of Radioactivity."
+   "answer": 1,
+   "explanation": "Becquerel is the SI unit of Radioactivity.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00106",
-   "q": "Microscope is used for which of the following purposes?",
-   "o": [
+   "question": "Microscope is used for which of the following purposes?",
+   "options": [
     "Blood pressure variations",
     "Magnified view of tiny objects",
     "Multiple physiological responses",
     "Wind speed"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Microscope measures Magnified view of tiny objects."
+   "answer": 1,
+   "explanation": "Microscope measures Magnified view of tiny objects.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00107",
-   "q": "Which physical quantity is measured in Katal?",
-   "o": [
+   "question": "Which physical quantity is measured in Katal?",
+   "options": [
     "Catalytic activity",
     "Frequency",
     "Viscosity (dynamic)",
     "Electric charge"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Katal is the SI unit of Catalytic activity."
+   "answer": 0,
+   "explanation": "Katal is the SI unit of Catalytic activity.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00108",
-   "q": "Odometer and Speedometer is used for which of the following purposes?",
-   "o": [
+   "question": "Odometer and Speedometer is used for which of the following purposes?",
+   "options": [
     "Electric current",
     "Altitude",
     "Heart activity",
     "Speed and distance"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Odometer and Speedometer measures Speed and distance."
+   "answer": 3,
+   "explanation": "Odometer and Speedometer measures Speed and distance.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00109",
-   "q": "Which physical quantity is measured in Candela?",
-   "o": [
+   "question": "Which physical quantity is measured in Candela?",
+   "options": [
     "Electrical resistance",
     "Luminous intensity",
     "Wave number",
     "Mass"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Candela is the SI unit of Luminous intensity."
+   "answer": 1,
+   "explanation": "Candela is the SI unit of Luminous intensity.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00110",
-   "q": "Fathometer is used for which of the following purposes?",
-   "o": [
+   "question": "Fathometer is used for which of the following purposes?",
+   "options": [
     "Speed of a vehicle",
     "Multiple physiological responses",
     "Water absorption by plants",
     "Depth of the sea"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Fathometer measures Depth of the sea."
+   "answer": 3,
+   "explanation": "Fathometer measures Depth of the sea.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00111",
-   "q": "Which physical quantity is measured in Ohm?",
-   "o": [
+   "question": "Which physical quantity is measured in Ohm?",
+   "options": [
     "Pressure",
     "Catalytic activity",
     "Magnetic flux",
     "Electrical resistance"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Ohm is the SI unit of Electrical resistance."
+   "answer": 3,
+   "explanation": "Ohm is the SI unit of Electrical resistance.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00112",
-   "q": "Endoscope is used for which of the following purposes?",
-   "o": [
+   "question": "Endoscope is used for which of the following purposes?",
+   "options": [
     "Internal body organs",
     "Atmospheric pressure",
     "High temperature",
     "Earthquakes"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Endoscope measures Internal body organs."
+   "answer": 0,
+   "explanation": "Endoscope measures Internal body organs.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00113",
-   "q": "Which physical quantity is measured in Ampere?",
-   "o": [
+   "question": "Which physical quantity is measured in Ampere?",
+   "options": [
     "Viscosity (dynamic)",
     "Inductance",
     "Electric current",
     "Pressure"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Ampere is the SI unit of Electric current."
+   "answer": 2,
+   "explanation": "Ampere is the SI unit of Electric current.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00114",
-   "q": "Hygrometer is used for which of the following purposes?",
-   "o": [
+   "question": "Hygrometer is used for which of the following purposes?",
+   "options": [
     "Speed of a vehicle",
     "Electric potential difference",
     "Humidity",
     "Heart electrical activity"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Hygrometer measures Humidity."
+   "answer": 2,
+   "explanation": "Hygrometer measures Humidity.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00115",
-   "q": "Which physical quantity is measured in Radian?",
-   "o": [
+   "question": "Which physical quantity is measured in Radian?",
+   "options": [
     "Energy",
     "Electric current",
     "Plane angle",
     "Entropy"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Radian is the SI unit of Plane angle."
+   "answer": 2,
+   "explanation": "Radian is the SI unit of Plane angle.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00116",
-   "q": "Lactometer is used for which of the following purposes?",
-   "o": [
+   "question": "Lactometer is used for which of the following purposes?",
+   "options": [
     "Objects above obstacles",
     "Hearing sensitivity",
     "Atmospheric pressure",
     "Purity of milk"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Lactometer measures Purity of milk."
+   "answer": 3,
+   "explanation": "Lactometer measures Purity of milk.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00117",
-   "q": "Which physical quantity is measured in Volt?",
-   "o": [
+   "question": "Which physical quantity is measured in Volt?",
+   "options": [
     "Electric potential",
     "Viscosity (dynamic)",
     "Catalytic activity",
     "Time"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Volt is the SI unit of Electric potential."
+   "answer": 0,
+   "explanation": "Volt is the SI unit of Electric potential.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00118",
-   "q": "Anemometer is used for which of the following purposes?",
-   "o": [
+   "question": "Anemometer is used for which of the following purposes?",
+   "options": [
     "Electric current",
     "Distance travelled",
     "Humidity",
     "Wind speed"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Anemometer measures Wind speed."
+   "answer": 3,
+   "explanation": "Anemometer measures Wind speed.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00119",
-   "q": "Which physical quantity is measured in Watt?",
-   "o": [
+   "question": "Which physical quantity is measured in Watt?",
+   "options": [
     "Electrical resistance",
     "Power",
     "Luminous flux",
     "Energy"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Watt is the SI unit of Power."
+   "answer": 1,
+   "explanation": "Watt is the SI unit of Power.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00120",
-   "q": "Spherometer is used for which of the following purposes?",
-   "o": [
+   "question": "Spherometer is used for which of the following purposes?",
+   "options": [
     "Curvature of surfaces",
     "Distance travelled",
     "Blood pressure",
     "Electric potential difference"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Spherometer measures Curvature of surfaces."
+   "answer": 0,
+   "explanation": "Spherometer measures Curvature of surfaces.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00121",
-   "q": "Which physical quantity is measured in Lumen?",
-   "o": [
+   "question": "Which physical quantity is measured in Lumen?",
+   "options": [
     "Mass",
     "Radioactivity",
     "Force",
     "Luminous flux"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Lumen is the SI unit of Luminous flux."
+   "answer": 3,
+   "explanation": "Lumen is the SI unit of Luminous flux.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00122",
-   "q": "Kymograph is used for which of the following purposes?",
-   "o": [
+   "question": "Kymograph is used for which of the following purposes?",
+   "options": [
     "Depth of the sea",
     "Atmospheric pressure",
     "Blood pressure variations",
     "Earthquakes"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Kymograph measures Blood pressure variations."
+   "answer": 2,
+   "explanation": "Kymograph measures Blood pressure variations.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00123",
-   "q": "Which physical quantity is measured in Reciprocal metre?",
-   "o": [
+   "question": "Which physical quantity is measured in Reciprocal metre?",
+   "options": [
     "Pressure",
     "Temperature",
     "Wave number",
     "Length"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Reciprocal metre is the SI unit of Wave number."
+   "answer": 2,
+   "explanation": "Reciprocal metre is the SI unit of Wave number.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00124",
-   "q": "Speedometer is used for which of the following purposes?",
-   "o": [
+   "question": "Speedometer is used for which of the following purposes?",
+   "options": [
     "Humidity",
     "Speed of a vehicle",
     "Heat change in reactions",
     "Wind speed"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Speedometer measures Speed of a vehicle."
+   "answer": 1,
+   "explanation": "Speedometer measures Speed of a vehicle.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00125",
-   "q": "Which physical quantity is measured in Pascal?",
-   "o": [
+   "question": "Which physical quantity is measured in Pascal?",
+   "options": [
     "Luminous intensity",
     "Length",
     "Pressure",
     "Mass"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Pascal is the SI unit of Pressure."
+   "answer": 2,
+   "explanation": "Pascal is the SI unit of Pressure.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00126",
-   "q": "Audiometer is used for which of the following purposes?",
-   "o": [
+   "question": "Audiometer is used for which of the following purposes?",
+   "options": [
     "Hearing sensitivity",
     "Heart electrical activity",
     "Electric current",
     "Magnified view of tiny objects"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Audiometer measures Hearing sensitivity."
+   "answer": 0,
+   "explanation": "Audiometer measures Hearing sensitivity.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00127",
-   "q": "Which physical quantity is measured in Pascal second?",
-   "o": [
+   "question": "Which physical quantity is measured in Pascal second?",
+   "options": [
     "Inductance",
     "Energy",
     "Viscosity (dynamic)",
     "Electric charge"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Pascal second is the SI unit of Viscosity (dynamic)."
+   "answer": 2,
+   "explanation": "Pascal second is the SI unit of Viscosity (dynamic).",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00128",
-   "q": "Barometer is used for which of the following purposes?",
-   "o": [
+   "question": "Barometer is used for which of the following purposes?",
+   "options": [
     "Turbidity of liquid",
     "Electric current",
     "Atmospheric pressure",
     "Humidity"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Barometer measures Atmospheric pressure."
+   "answer": 2,
+   "explanation": "Barometer measures Atmospheric pressure.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00129",
-   "q": "Which physical quantity is measured in Hertz?",
-   "o": [
+   "question": "Which physical quantity is measured in Hertz?",
+   "options": [
     "Electric charge",
     "Frequency",
     "Radioactivity",
     "Viscosity (dynamic)"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Hertz is the SI unit of Frequency."
+   "answer": 1,
+   "explanation": "Hertz is the SI unit of Frequency.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00130",
-   "q": "Radiometer is used for which of the following purposes?",
-   "o": [
+   "question": "Radiometer is used for which of the following purposes?",
+   "options": [
     "Depth of the sea",
     "Rotational speed",
     "Electric potential difference",
     "Radiant energy"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Radiometer measures Radiant energy."
+   "answer": 3,
+   "explanation": "Radiometer measures Radiant energy.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00131",
-   "q": "Which physical quantity is measured in Kelvin?",
-   "o": [
+   "question": "Which physical quantity is measured in Kelvin?",
+   "options": [
     "Luminous intensity",
     "Energy",
     "Luminous flux",
     "Temperature"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Kelvin is the SI unit of Temperature."
+   "answer": 3,
+   "explanation": "Kelvin is the SI unit of Temperature.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00132",
-   "q": "Viscometer is used for which of the following purposes?",
-   "o": [
+   "question": "Viscometer is used for which of the following purposes?",
+   "options": [
     "Radiant energy",
     "Distant objects",
     "Atmospheric pressure",
     "Viscosity of liquids"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Viscometer measures Viscosity of liquids."
+   "answer": 3,
+   "explanation": "Viscometer measures Viscosity of liquids.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00133",
-   "q": "Which physical quantity is measured in Tesla?",
-   "o": [
+   "question": "Which physical quantity is measured in Tesla?",
+   "options": [
     "Magnetic flux density",
     "Illuminance",
     "Temperature",
     "Length"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Tesla is the SI unit of Magnetic flux density."
+   "answer": 0,
+   "explanation": "Tesla is the SI unit of Magnetic flux density.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00134",
-   "q": "Ammeter is used for which of the following purposes?",
-   "o": [
+   "question": "Ammeter is used for which of the following purposes?",
+   "options": [
     "Wind speed",
     "Speed and distance",
     "Radiant energy",
     "Electric current"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Ammeter measures Electric current."
+   "answer": 3,
+   "explanation": "Ammeter measures Electric current.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00135",
-   "q": "Which physical quantity is measured in Weber?",
-   "o": [
+   "question": "Which physical quantity is measured in Weber?",
+   "options": [
     "Mass",
     "Inductance",
     "Electric charge",
     "Magnetic flux"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Weber is the SI unit of Magnetic flux."
+   "answer": 3,
+   "explanation": "Weber is the SI unit of Magnetic flux.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00136",
-   "q": "Galvanometer is used for which of the following purposes?",
-   "o": [
+   "question": "Galvanometer is used for which of the following purposes?",
+   "options": [
     "One form of energy into another",
     "Ionising radiation",
     "Hearing sensitivity",
     "Small electric currents"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Galvanometer measures Small electric currents."
+   "answer": 3,
+   "explanation": "Galvanometer measures Small electric currents.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00137",
-   "q": "Which physical quantity is measured in Coulomb?",
-   "o": [
+   "question": "Which physical quantity is measured in Coulomb?",
+   "options": [
     "Electric charge",
     "Mass",
     "Illuminance",
     "Energy"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Coulomb is the SI unit of Electric charge."
+   "answer": 0,
+   "explanation": "Coulomb is the SI unit of Electric charge.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00138",
-   "q": "Voltmeter is used for which of the following purposes?",
-   "o": [
+   "question": "Voltmeter is used for which of the following purposes?",
+   "options": [
     "Internal body organs",
     "Heat change in reactions",
     "Electric potential difference",
     "Magnified view of tiny objects"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Voltmeter measures Electric potential difference."
+   "answer": 2,
+   "explanation": "Voltmeter measures Electric potential difference.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00139",
-   "q": "Which physical quantity is measured in Newton?",
-   "o": [
+   "question": "Which physical quantity is measured in Newton?",
+   "options": [
     "Wave number",
     "Time",
     "Force",
     "Solid angle"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Newton is the SI unit of Force."
+   "answer": 2,
+   "explanation": "Newton is the SI unit of Force.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00140",
-   "q": "Electrocardiogram machine is used for which of the following purposes?",
-   "o": [
+   "question": "Electrocardiogram machine is used for which of the following purposes?",
+   "options": [
     "Multiple physiological responses",
     "Heart electrical activity",
     "Humidity",
     "Distance travelled"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Electrocardiogram machine measures Heart electrical activity."
+   "answer": 1,
+   "explanation": "Electrocardiogram machine measures Heart electrical activity.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00141",
-   "q": "Which physical quantity is measured in Mole?",
-   "o": [
+   "question": "Which physical quantity is measured in Mole?",
+   "options": [
     "Entropy",
     "Amount of substance",
     "Solid angle",
     "Electric potential"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Mole is the SI unit of Amount of substance."
+   "answer": 1,
+   "explanation": "Mole is the SI unit of Amount of substance.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00142",
-   "q": "Cardiograph is used for which of the following purposes?",
-   "o": [
+   "question": "Cardiograph is used for which of the following purposes?",
+   "options": [
     "Properties of light",
     "Distant objects",
     "Heart activity",
     "Blood pressure"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Cardiograph measures Heart activity."
+   "answer": 2,
+   "explanation": "Cardiograph measures Heart activity.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00143",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Electrical resistance - Lumen",
     "Electrical resistance - Coulomb",
     "Electrical resistance - Farad",
     "Electrical resistance - Ohm"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Electrical resistance - Ohm is correctly matched."
+   "answer": 3,
+   "explanation": "Only Electrical resistance - Ohm is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00144",
-   "q": "Thermometer is used for which of the following purposes?",
-   "o": [
+   "question": "Thermometer is used for which of the following purposes?",
+   "options": [
     "Earthquakes",
     "Heartbeats",
     "Temperature",
     "Humidity"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Thermometer measures Temperature."
+   "answer": 2,
+   "explanation": "Thermometer measures Temperature.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00145",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Electrical resistance - Coulomb",
     "Electrical resistance - Lux",
     "Electrical resistance - Ohm",
     "Electrical resistance - Second"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Electrical resistance - Ohm is correctly matched."
+   "answer": 2,
+   "explanation": "Only Electrical resistance - Ohm is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00146",
-   "q": "Calorimeter is used for which of the following purposes?",
-   "o": [
+   "question": "Calorimeter is used for which of the following purposes?",
+   "options": [
     "Heart electrical activity",
     "Heat change in reactions",
     "Time accurately",
     "Blood pressure"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Calorimeter measures Heat change in reactions."
+   "answer": 1,
+   "explanation": "Calorimeter measures Heat change in reactions.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00147",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Luminous intensity - Newton",
     "Luminous intensity - Candela",
     "Luminous intensity - Katal",
     "Luminous intensity - Lux"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Luminous intensity - Candela is correctly matched."
+   "answer": 1,
+   "explanation": "Only Luminous intensity - Candela is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00148",
-   "q": "Odometer is used for which of the following purposes?",
-   "o": [
+   "question": "Odometer is used for which of the following purposes?",
+   "options": [
     "Distance travelled",
     "Curvature of surfaces",
     "Internal body organs",
     "Multiple physiological responses"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Odometer measures Distance travelled."
+   "answer": 0,
+   "explanation": "Odometer measures Distance travelled.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00149",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Luminous intensity - Tesla",
     "Luminous intensity - Candela",
     "Luminous intensity - Ohm",
     "Luminous intensity - Gray"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Luminous intensity - Candela is correctly matched."
+   "answer": 1,
+   "explanation": "Only Luminous intensity - Candela is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00150",
-   "q": "Hygroscope is used for which of the following purposes?",
-   "o": [
+   "question": "Hygroscope is used for which of the following purposes?",
+   "options": [
     "Speed of a vehicle",
     "Time accurately",
     "Gas pressure",
     "Humidity"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Hygroscope measures Humidity."
+   "answer": 3,
+   "explanation": "Hygroscope measures Humidity.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00151",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Electric charge - Candela",
     "Electric charge - Hertz",
     "Electric charge - Coulomb",
     "Electric charge - Kelvin"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Electric charge - Coulomb is correctly matched."
+   "answer": 2,
+   "explanation": "Only Electric charge - Coulomb is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00152",
-   "q": "Crescograph is used for which of the following purposes?",
-   "o": [
+   "question": "Crescograph is used for which of the following purposes?",
+   "options": [
     "Blood pressure variations",
     "Multiple physiological responses",
     "Electric potential difference",
     "Plant growth"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Crescograph measures Plant growth."
+   "answer": 3,
+   "explanation": "Crescograph measures Plant growth.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00153",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Electric charge - Coulomb",
     "Electric charge - Kilogram",
     "Electric charge - Pascal second",
     "Electric charge - Metre"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Electric charge - Coulomb is correctly matched."
+   "answer": 0,
+   "explanation": "Only Electric charge - Coulomb is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00154",
-   "q": "Transducer is used for which of the following purposes?",
-   "o": [
+   "question": "Transducer is used for which of the following purposes?",
+   "options": [
     "One form of energy into another",
     "Small electric currents",
     "Electric potential difference",
     "Heart electrical activity"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Transducer measures One form of energy into another."
+   "answer": 0,
+   "explanation": "Transducer measures One form of energy into another.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00155",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Illuminance - Ampere",
     "Illuminance - Lux",
     "Illuminance - Farad",
     "Illuminance - Henry"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Illuminance - Lux is correctly matched."
+   "answer": 1,
+   "explanation": "Only Illuminance - Lux is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00156",
-   "q": "Tachometer is used for which of the following purposes?",
-   "o": [
+   "question": "Tachometer is used for which of the following purposes?",
+   "options": [
     "Rotational speed",
     "Purity of milk",
     "Blood pressure",
     "Humidity"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Tachometer measures Rotational speed."
+   "answer": 0,
+   "explanation": "Tachometer measures Rotational speed.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00157",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Illuminance - Katal",
     "Illuminance - Joule",
     "Illuminance - Reciprocal metre",
     "Illuminance - Lux"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Illuminance - Lux is correctly matched."
+   "answer": 3,
+   "explanation": "Only Illuminance - Lux is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00158",
-   "q": "Stethoscope is used for which of the following purposes?",
-   "o": [
+   "question": "Stethoscope is used for which of the following purposes?",
+   "options": [
     "Heartbeats",
     "Gas pressure",
     "Humidity",
     "Heart activity"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Stethoscope measures Heartbeats."
+   "answer": 0,
+   "explanation": "Stethoscope measures Heartbeats.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00159",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Amount of substance - Hertz",
     "Amount of substance - Mole",
     "Amount of substance - Ampere",
     "Amount of substance - Kelvin"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Amount of substance - Mole is correctly matched."
+   "answer": 1,
+   "explanation": "Only Amount of substance - Mole is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00160",
-   "q": "Seismograph is used for which of the following purposes?",
-   "o": [
+   "question": "Seismograph is used for which of the following purposes?",
+   "options": [
     "Radiant energy",
     "Electric potential difference",
     "Viscosity of liquids",
     "Earthquakes"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Seismograph measures Earthquakes."
+   "answer": 3,
+   "explanation": "Seismograph measures Earthquakes.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00161",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Amount of substance - Mole",
     "Amount of substance - Metre",
     "Amount of substance - Farad",
     "Amount of substance - Candela"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Amount of substance - Mole is correctly matched."
+   "answer": 0,
+   "explanation": "Only Amount of substance - Mole is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00162",
-   "q": "Telescope is used for which of the following purposes?",
-   "o": [
+   "question": "Telescope is used for which of the following purposes?",
+   "options": [
     "Blood pressure variations",
     "Distant objects",
     "Purity of milk",
     "Multiple physiological responses"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Telescope measures Distant objects."
+   "answer": 1,
+   "explanation": "Telescope measures Distant objects.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00163",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Plane angle - Radian",
     "Plane angle - Second",
     "Plane angle - Farad",
     "Plane angle - Gray"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Plane angle - Radian is correctly matched."
+   "answer": 0,
+   "explanation": "Only Plane angle - Radian is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00164",
-   "q": "Geiger counter is used for which of the following purposes?",
-   "o": [
+   "question": "Geiger counter is used for which of the following purposes?",
+   "options": [
     "Ionising radiation",
     "Earthquakes",
     "Heart electrical activity",
     "Time accurately"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Geiger counter measures Ionising radiation."
+   "answer": 0,
+   "explanation": "Geiger counter measures Ionising radiation.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00165",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Plane angle - Steradian",
     "Plane angle - Hertz",
     "Plane angle - Ampere",
     "Plane angle - Radian"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Plane angle - Radian is correctly matched."
+   "answer": 3,
+   "explanation": "Only Plane angle - Radian is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00166",
-   "q": "Nephelometer is used for which of the following purposes?",
-   "o": [
+   "question": "Nephelometer is used for which of the following purposes?",
+   "options": [
     "Earthquakes",
     "Small electric currents",
     "Turbidity of liquid",
     "Humidity"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Nephelometer measures Turbidity of liquid."
+   "answer": 2,
+   "explanation": "Nephelometer measures Turbidity of liquid.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00167",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Inductance - Kilogram",
     "Inductance - Hertz",
     "Inductance - Henry",
     "Inductance - Watt"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Inductance - Henry is correctly matched."
+   "answer": 2,
+   "explanation": "Only Inductance - Henry is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00168",
-   "q": "Chronometer is used for which of the following purposes?",
-   "o": [
+   "question": "Chronometer is used for which of the following purposes?",
+   "options": [
     "Heartbeats",
     "Hearing sensitivity",
     "Blood pressure variations",
     "Time accurately"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Chronometer measures Time accurately."
+   "answer": 3,
+   "explanation": "Chronometer measures Time accurately.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00169",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Inductance - Coulomb",
     "Inductance - Lumen",
     "Inductance - Hertz",
     "Inductance - Henry"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Inductance - Henry is correctly matched."
+   "answer": 3,
+   "explanation": "Only Inductance - Henry is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00170",
-   "q": "Pyrometer is used for which of the following purposes?",
-   "o": [
+   "question": "Pyrometer is used for which of the following purposes?",
+   "options": [
     "Heartbeats",
     "Humidity",
     "Objects above obstacles",
     "High temperature"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Pyrometer measures High temperature."
+   "answer": 3,
+   "explanation": "Pyrometer measures High temperature.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00171",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Frequency - Hertz",
     "Frequency - Becquerel",
     "Frequency - Lux",
     "Frequency - Kelvin"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Frequency - Hertz is correctly matched."
+   "answer": 0,
+   "explanation": "Only Frequency - Hertz is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00172",
-   "q": "Sphygmomanometer is used for which of the following purposes?",
-   "o": [
+   "question": "Sphygmomanometer is used for which of the following purposes?",
+   "options": [
     "Blood pressure",
     "Plant growth",
     "Humidity",
     "Distant objects"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Sphygmomanometer measures Blood pressure."
+   "answer": 0,
+   "explanation": "Sphygmomanometer measures Blood pressure.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00173",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Frequency - Metre",
     "Frequency - Ampere",
     "Frequency - Hertz",
     "Frequency - Kelvin"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Frequency - Hertz is correctly matched."
+   "answer": 2,
+   "explanation": "Only Frequency - Hertz is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00174",
-   "q": "Periscope is used for which of the following purposes?",
-   "o": [
+   "question": "Periscope is used for which of the following purposes?",
+   "options": [
     "Objects above obstacles",
     "Speed and distance",
     "Depth of the sea",
     "Temperature"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Periscope measures Objects above obstacles."
+   "answer": 0,
+   "explanation": "Periscope measures Objects above obstacles.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00175",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Mass - Pascal second",
     "Mass - Siemens",
     "Mass - Second",
     "Mass - Kilogram"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mass - Kilogram is correctly matched."
+   "answer": 3,
+   "explanation": "Only Mass - Kilogram is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00176",
-   "q": "Altimeter is used for which of the following purposes?",
-   "o": [
+   "question": "Altimeter is used for which of the following purposes?",
+   "options": [
     "Plant growth",
     "Objects above obstacles",
     "Altitude",
     "Viscosity of liquids"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Altimeter measures Altitude."
+   "answer": 2,
+   "explanation": "Altimeter measures Altitude.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00177",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Mass - Kilogram",
     "Mass - Katal",
     "Mass - Metre",
     "Mass - Steradian"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mass - Kilogram is correctly matched."
+   "answer": 0,
+   "explanation": "Only Mass - Kilogram is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00178",
-   "q": "Potometer is used for which of the following purposes?",
-   "o": [
+   "question": "Potometer is used for which of the following purposes?",
+   "options": [
     "Rotational speed",
     "Properties of light",
     "Water absorption by plants",
     "Hearing sensitivity"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Potometer measures Water absorption by plants."
+   "answer": 2,
+   "explanation": "Potometer measures Water absorption by plants.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00179",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Capacitance - Coulomb",
     "Capacitance - Farad",
     "Capacitance - Joule per Kelvin",
     "Capacitance - Mole"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Capacitance - Farad is correctly matched."
+   "answer": 1,
+   "explanation": "Only Capacitance - Farad is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00180",
-   "q": "Manometer is used for which of the following purposes?",
-   "o": [
+   "question": "Manometer is used for which of the following purposes?",
+   "options": [
     "Magnified view of tiny objects",
     "Gas pressure",
     "Atmospheric pressure",
     "Properties of light"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Manometer measures Gas pressure."
+   "answer": 1,
+   "explanation": "Manometer measures Gas pressure.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00181",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Capacitance - Coulomb",
     "Capacitance - Second",
     "Capacitance - Pascal second",
     "Capacitance - Farad"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Capacitance - Farad is correctly matched."
+   "answer": 3,
+   "explanation": "Only Capacitance - Farad is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00182",
-   "q": "Polygraph is used for which of the following purposes?",
-   "o": [
+   "question": "Polygraph is used for which of the following purposes?",
+   "options": [
     "Small electric currents",
     "Humidity",
     "Multiple physiological responses",
     "Atmospheric pressure"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Polygraph measures Multiple physiological responses."
+   "answer": 2,
+   "explanation": "Polygraph measures Multiple physiological responses.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "physics-00183",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Force - Second",
     "Force - Weber",
     "Force - Newton",
     "Force - Ohm"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Force - Newton is correctly matched."
+   "answer": 2,
+   "explanation": "Only Force - Newton is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00184",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Viscometer - Radiant energy",
     "Viscometer - Distant objects",
     "Viscometer - Gas pressure",
     "Viscometer - Viscosity of liquids"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Viscometer - Viscosity of liquids is correctly matched."
+   "answer": 3,
+   "explanation": "Only Viscometer - Viscosity of liquids is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00185",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Force - Newton",
     "Force - Kelvin",
     "Force - Ohm",
     "Force - Candela"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Force - Newton is correctly matched."
+   "answer": 0,
+   "explanation": "Only Force - Newton is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00186",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Viscometer - Viscosity of liquids",
     "Viscometer - Curvature of surfaces",
     "Viscometer - Radiant energy",
     "Viscometer - Time accurately"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Viscometer - Viscosity of liquids is correctly matched."
+   "answer": 0,
+   "explanation": "Only Viscometer - Viscosity of liquids is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00187",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Electric current - Weber",
     "Electric current - Ohm",
     "Electric current - Ampere",
     "Electric current - Newton"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Electric current - Ampere is correctly matched."
+   "answer": 2,
+   "explanation": "Only Electric current - Ampere is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00188",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Manometer - Gas pressure",
     "Manometer - Radiant energy",
     "Manometer - Rotational speed",
     "Manometer - Humidity"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Manometer - Gas pressure is correctly matched."
+   "answer": 0,
+   "explanation": "Only Manometer - Gas pressure is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00189",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Electric current - Second",
     "Electric current - Pascal",
     "Electric current - Ampere",
     "Electric current - Candela"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Electric current - Ampere is correctly matched."
+   "answer": 2,
+   "explanation": "Only Electric current - Ampere is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00190",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Manometer - Objects above obstacles",
     "Manometer - Curvature of surfaces",
     "Manometer - Gas pressure",
     "Manometer - Water absorption by plants"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Manometer - Gas pressure is correctly matched."
+   "answer": 2,
+   "explanation": "Only Manometer - Gas pressure is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00191",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Luminous flux - Farad",
     "Luminous flux - Ampere",
     "Luminous flux - Lumen",
     "Luminous flux - Candela"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Luminous flux - Lumen is correctly matched."
+   "answer": 2,
+   "explanation": "Only Luminous flux - Lumen is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00192",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Nephelometer - Heart activity",
     "Nephelometer - Objects above obstacles",
     "Nephelometer - Turbidity of liquid",
     "Nephelometer - Water absorption by plants"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nephelometer - Turbidity of liquid is correctly matched."
+   "answer": 2,
+   "explanation": "Only Nephelometer - Turbidity of liquid is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00193",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Luminous flux - Lumen",
     "Luminous flux - Ampere",
     "Luminous flux - Candela",
     "Luminous flux - Siemens"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Luminous flux - Lumen is correctly matched."
+   "answer": 0,
+   "explanation": "Only Luminous flux - Lumen is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00194",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Nephelometer - Plant growth",
     "Nephelometer - Humidity",
     "Nephelometer - Turbidity of liquid",
     "Nephelometer - One form of energy into another"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nephelometer - Turbidity of liquid is correctly matched."
+   "answer": 2,
+   "explanation": "Only Nephelometer - Turbidity of liquid is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00195",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Length - Katal",
     "Length - Henry",
     "Length - Joule",
     "Length - Metre"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Length - Metre is correctly matched."
+   "answer": 3,
+   "explanation": "Only Length - Metre is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00196",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Sphygmomanometer - Blood pressure",
     "Sphygmomanometer - Blood pressure variations",
     "Sphygmomanometer - Water absorption by plants",
     "Sphygmomanometer - Heart electrical activity"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sphygmomanometer - Blood pressure is correctly matched."
+   "answer": 0,
+   "explanation": "Only Sphygmomanometer - Blood pressure is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00197",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Length - Becquerel",
     "Length - Hertz",
     "Length - Metre",
     "Length - Lux"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Length - Metre is correctly matched."
+   "answer": 2,
+   "explanation": "Only Length - Metre is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00198",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Sphygmomanometer - Wind speed",
     "Sphygmomanometer - Blood pressure",
     "Sphygmomanometer - Plant growth",
     "Sphygmomanometer - Objects above obstacles"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sphygmomanometer - Blood pressure is correctly matched."
+   "answer": 1,
+   "explanation": "Only Sphygmomanometer - Blood pressure is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00199",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Energy - Steradian",
     "Energy - Joule",
     "Energy - Weber",
     "Energy - Kelvin"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Energy - Joule is correctly matched."
+   "answer": 1,
+   "explanation": "Only Energy - Joule is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00200",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Hygroscope - Internal body organs",
     "Hygroscope - Earthquakes",
     "Hygroscope - Humidity",
     "Hygroscope - Heart electrical activity"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Hygroscope - Humidity is correctly matched."
+   "answer": 2,
+   "explanation": "Only Hygroscope - Humidity is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00201",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Energy - Tesla",
     "Energy - Candela",
     "Energy - Joule",
     "Energy - Weber"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Energy - Joule is correctly matched."
+   "answer": 2,
+   "explanation": "Only Energy - Joule is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00202",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Hygroscope - Earthquakes",
     "Hygroscope - Humidity",
     "Hygroscope - High temperature",
     "Hygroscope - Temperature"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Hygroscope - Humidity is correctly matched."
+   "answer": 1,
+   "explanation": "Only Hygroscope - Humidity is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00203",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Catalytic activity - Mole",
     "Catalytic activity - Lux",
     "Catalytic activity - Katal",
     "Catalytic activity - Ampere"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Catalytic activity - Katal is correctly matched."
+   "answer": 2,
+   "explanation": "Only Catalytic activity - Katal is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00204",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Galvanometer - Small electric currents",
     "Galvanometer - Wind speed",
     "Galvanometer - Speed and distance",
     "Galvanometer - Speed of a vehicle"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Galvanometer - Small electric currents is correctly matched."
+   "answer": 0,
+   "explanation": "Only Galvanometer - Small electric currents is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00205",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Catalytic activity - Steradian",
     "Catalytic activity - Pascal second",
     "Catalytic activity - Katal",
     "Catalytic activity - Watt"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Catalytic activity - Katal is correctly matched."
+   "answer": 2,
+   "explanation": "Only Catalytic activity - Katal is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00206",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Galvanometer - Small electric currents",
     "Galvanometer - Radiant energy",
     "Galvanometer - Humidity",
     "Galvanometer - Water absorption by plants"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Galvanometer - Small electric currents is correctly matched."
+   "answer": 0,
+   "explanation": "Only Galvanometer - Small electric currents is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00207",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Entropy - Volt",
     "Entropy - Mole",
     "Entropy - Newton",
     "Entropy - Joule per Kelvin"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Entropy - Joule per Kelvin is correctly matched."
+   "answer": 3,
+   "explanation": "Only Entropy - Joule per Kelvin is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00208",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Telescope - Rotational speed",
     "Telescope - Depth of the sea",
     "Telescope - Blood pressure variations",
     "Telescope - Distant objects"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Telescope - Distant objects is correctly matched."
+   "answer": 3,
+   "explanation": "Only Telescope - Distant objects is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00209",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Entropy - Lux",
     "Entropy - Joule per Kelvin",
     "Entropy - Second",
     "Entropy - Joule"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Entropy - Joule per Kelvin is correctly matched."
+   "answer": 1,
+   "explanation": "Only Entropy - Joule per Kelvin is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00210",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Telescope - Distant objects",
     "Telescope - Humidity",
     "Telescope - Objects above obstacles",
     "Telescope - Plant growth"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Telescope - Distant objects is correctly matched."
+   "answer": 0,
+   "explanation": "Only Telescope - Distant objects is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00211",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Absorbed dose - Gray",
     "Absorbed dose - Candela",
     "Absorbed dose - Becquerel",
     "Absorbed dose - Henry"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Absorbed dose - Gray is correctly matched."
+   "answer": 0,
+   "explanation": "Only Absorbed dose - Gray is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00212",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Radiometer - Electric current",
     "Radiometer - Earthquakes",
     "Radiometer - Temperature",
     "Radiometer - Radiant energy"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Radiometer - Radiant energy is correctly matched."
+   "answer": 3,
+   "explanation": "Only Radiometer - Radiant energy is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00213",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Absorbed dose - Weber",
     "Absorbed dose - Tesla",
     "Absorbed dose - Gray",
     "Absorbed dose - Candela"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Absorbed dose - Gray is correctly matched."
+   "answer": 2,
+   "explanation": "Only Absorbed dose - Gray is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00214",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Radiometer - Temperature",
     "Radiometer - Radiant energy",
     "Radiometer - Wind speed",
     "Radiometer - Heart electrical activity"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Radiometer - Radiant energy is correctly matched."
+   "answer": 1,
+   "explanation": "Only Radiometer - Radiant energy is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00215",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Time - Joule",
     "Time - Second",
     "Time - Ohm",
     "Time - Farad"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Time - Second is correctly matched."
+   "answer": 1,
+   "explanation": "Only Time - Second is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00216",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Spectrometer - Blood pressure",
     "Spectrometer - Properties of light",
     "Spectrometer - Viscosity of liquids",
     "Spectrometer - Water absorption by plants"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Spectrometer - Properties of light is correctly matched."
+   "answer": 1,
+   "explanation": "Only Spectrometer - Properties of light is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00217",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Time - Becquerel",
     "Time - Ohm",
     "Time - Mole",
     "Time - Second"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Time - Second is correctly matched."
+   "answer": 3,
+   "explanation": "Only Time - Second is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00218",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Spectrometer - Properties of light",
     "Spectrometer - Ionising radiation",
     "Spectrometer - Altitude",
     "Spectrometer - Turbidity of liquid"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Spectrometer - Properties of light is correctly matched."
+   "answer": 0,
+   "explanation": "Only Spectrometer - Properties of light is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00219",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Radioactivity - Kelvin",
     "Radioactivity - Kilogram",
     "Radioactivity - Metre",
     "Radioactivity - Becquerel"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Radioactivity - Becquerel is correctly matched."
+   "answer": 3,
+   "explanation": "Only Radioactivity - Becquerel is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00220",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Lactometer - One form of energy into another",
     "Lactometer - Gas pressure",
     "Lactometer - Heart activity",
     "Lactometer - Purity of milk"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Lactometer - Purity of milk is correctly matched."
+   "answer": 3,
+   "explanation": "Only Lactometer - Purity of milk is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00221",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Radioactivity - Becquerel",
     "Radioactivity - Mole",
     "Radioactivity - Volt",
     "Radioactivity - Katal"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Radioactivity - Becquerel is correctly matched."
+   "answer": 0,
+   "explanation": "Only Radioactivity - Becquerel is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00222",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Lactometer - Heartbeats",
     "Lactometer - Purity of milk",
     "Lactometer - Electric potential difference",
     "Lactometer - Properties of light"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Lactometer - Purity of milk is correctly matched."
+   "answer": 1,
+   "explanation": "Only Lactometer - Purity of milk is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00223",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Solid angle - Joule",
     "Solid angle - Steradian",
     "Solid angle - Second",
     "Solid angle - Reciprocal metre"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Solid angle - Steradian is correctly matched."
+   "answer": 1,
+   "explanation": "Only Solid angle - Steradian is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00224",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Pyrometer - Purity of milk",
     "Pyrometer - Blood pressure variations",
     "Pyrometer - High temperature",
     "Pyrometer - Heartbeats"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pyrometer - High temperature is correctly matched."
+   "answer": 2,
+   "explanation": "Only Pyrometer - High temperature is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00225",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Solid angle - Gray",
     "Solid angle - Radian",
     "Solid angle - Steradian",
     "Solid angle - Metre"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Solid angle - Steradian is correctly matched."
+   "answer": 2,
+   "explanation": "Only Solid angle - Steradian is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00226",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Pyrometer - Rotational speed",
     "Pyrometer - Humidity",
     "Pyrometer - High temperature",
     "Pyrometer - Plant growth"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pyrometer - High temperature is correctly matched."
+   "answer": 2,
+   "explanation": "Only Pyrometer - High temperature is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00227",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Electrical conductance - Siemens",
     "Electrical conductance - Metre",
     "Electrical conductance - Watt",
     "Electrical conductance - Becquerel"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Electrical conductance - Siemens is correctly matched."
+   "answer": 0,
+   "explanation": "Only Electrical conductance - Siemens is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00228",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Geiger counter - Temperature",
     "Geiger counter - Ionising radiation",
     "Geiger counter - Earthquakes",
     "Geiger counter - Gas pressure"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Geiger counter - Ionising radiation is correctly matched."
+   "answer": 1,
+   "explanation": "Only Geiger counter - Ionising radiation is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00229",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Electrical conductance - Siemens",
     "Electrical conductance - Kelvin",
     "Electrical conductance - Katal",
     "Electrical conductance - Becquerel"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Electrical conductance - Siemens is correctly matched."
+   "answer": 0,
+   "explanation": "Only Electrical conductance - Siemens is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00230",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Geiger counter - Viscosity of liquids",
     "Geiger counter - Humidity",
     "Geiger counter - Distance travelled",
     "Geiger counter - Ionising radiation"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Geiger counter - Ionising radiation is correctly matched."
+   "answer": 3,
+   "explanation": "Only Geiger counter - Ionising radiation is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00231",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Pressure - Pascal second",
     "Pressure - Hertz",
     "Pressure - Kelvin",
     "Pressure - Pascal"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pressure - Pascal is correctly matched."
+   "answer": 3,
+   "explanation": "Only Pressure - Pascal is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00232",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Potometer - Water absorption by plants",
     "Potometer - Plant growth",
     "Potometer - Internal body organs",
     "Potometer - Electric current"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Potometer - Water absorption by plants is correctly matched."
+   "answer": 0,
+   "explanation": "Only Potometer - Water absorption by plants is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00233",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Pressure - Lumen",
     "Pressure - Katal",
     "Pressure - Pascal",
     "Pressure - Kelvin"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pressure - Pascal is correctly matched."
+   "answer": 2,
+   "explanation": "Only Pressure - Pascal is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00234",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Potometer - Water absorption by plants",
     "Potometer - Electric potential difference",
     "Potometer - Heartbeats",
     "Potometer - Distance travelled"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Potometer - Water absorption by plants is correctly matched."
+   "answer": 0,
+   "explanation": "Only Potometer - Water absorption by plants is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00235",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Viscosity (dynamic) - Pascal second",
     "Viscosity (dynamic) - Ampere",
     "Viscosity (dynamic) - Joule per Kelvin",
     "Viscosity (dynamic) - Tesla"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Viscosity (dynamic) - Pascal second is correctly matched."
+   "answer": 0,
+   "explanation": "Only Viscosity (dynamic) - Pascal second is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00236",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Calorimeter - Temperature",
     "Calorimeter - Heat change in reactions",
     "Calorimeter - Humidity",
     "Calorimeter - Distant objects"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Calorimeter - Heat change in reactions is correctly matched."
+   "answer": 1,
+   "explanation": "Only Calorimeter - Heat change in reactions is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00237",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Viscosity (dynamic) - Pascal second",
     "Viscosity (dynamic) - Watt",
     "Viscosity (dynamic) - Ohm",
     "Viscosity (dynamic) - Kilogram"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Viscosity (dynamic) - Pascal second is correctly matched."
+   "answer": 0,
+   "explanation": "Only Viscosity (dynamic) - Pascal second is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00238",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Calorimeter - One form of energy into another",
     "Calorimeter - Time accurately",
     "Calorimeter - Heat change in reactions",
     "Calorimeter - Wind speed"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Calorimeter - Heat change in reactions is correctly matched."
+   "answer": 2,
+   "explanation": "Only Calorimeter - Heat change in reactions is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00239",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Wave number - Radian",
     "Wave number - Kelvin",
     "Wave number - Mole",
     "Wave number - Reciprocal metre"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Wave number - Reciprocal metre is correctly matched."
+   "answer": 3,
+   "explanation": "Only Wave number - Reciprocal metre is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00240",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Barometer - Atmospheric pressure",
     "Barometer - Altitude",
     "Barometer - Ionising radiation",
     "Barometer - Curvature of surfaces"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Barometer - Atmospheric pressure is correctly matched."
+   "answer": 0,
+   "explanation": "Only Barometer - Atmospheric pressure is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00241",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Wave number - Coulomb",
     "Wave number - Becquerel",
     "Wave number - Reciprocal metre",
     "Wave number - Mole"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Wave number - Reciprocal metre is correctly matched."
+   "answer": 2,
+   "explanation": "Only Wave number - Reciprocal metre is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00242",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Barometer - Hearing sensitivity",
     "Barometer - One form of energy into another",
     "Barometer - Rotational speed",
     "Barometer - Atmospheric pressure"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Barometer - Atmospheric pressure is correctly matched."
+   "answer": 3,
+   "explanation": "Only Barometer - Atmospheric pressure is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00243",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Magnetic flux - Siemens",
     "Magnetic flux - Farad",
     "Magnetic flux - Weber",
     "Magnetic flux - Volt"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Magnetic flux - Weber is correctly matched."
+   "answer": 2,
+   "explanation": "Only Magnetic flux - Weber is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00244",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Chronometer - Speed of a vehicle",
     "Chronometer - Time accurately",
     "Chronometer - Depth of the sea",
     "Chronometer - Hearing sensitivity"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Chronometer - Time accurately is correctly matched."
+   "answer": 1,
+   "explanation": "Only Chronometer - Time accurately is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00245",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Magnetic flux - Weber",
     "Magnetic flux - Candela",
     "Magnetic flux - Mole",
     "Magnetic flux - Reciprocal metre"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Magnetic flux - Weber is correctly matched."
+   "answer": 0,
+   "explanation": "Only Magnetic flux - Weber is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00246",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Chronometer - Time accurately",
     "Chronometer - Speed of a vehicle",
     "Chronometer - High temperature",
     "Chronometer - Plant growth"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Chronometer - Time accurately is correctly matched."
+   "answer": 0,
+   "explanation": "Only Chronometer - Time accurately is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00247",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Power - Kelvin",
     "Power - Radian",
     "Power - Newton",
     "Power - Watt"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Power - Watt is correctly matched."
+   "answer": 3,
+   "explanation": "Only Power - Watt is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00248",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Hygrometer - Humidity",
     "Hygrometer - Earthquakes",
     "Hygrometer - Time accurately",
     "Hygrometer - Multiple physiological responses"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Hygrometer - Humidity is correctly matched."
+   "answer": 0,
+   "explanation": "Only Hygrometer - Humidity is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00249",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Power - Weber",
     "Power - Watt",
     "Power - Lux",
     "Power - Second"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Power - Watt is correctly matched."
+   "answer": 1,
+   "explanation": "Only Power - Watt is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00250",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Hygrometer - High temperature",
     "Hygrometer - Purity of milk",
     "Hygrometer - Humidity",
     "Hygrometer - Curvature of surfaces"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Hygrometer - Humidity is correctly matched."
+   "answer": 2,
+   "explanation": "Only Hygrometer - Humidity is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00251",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Electric potential - Lumen",
     "Electric potential - Kilogram",
     "Electric potential - Volt",
     "Electric potential - Lux"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Electric potential - Volt is correctly matched."
+   "answer": 2,
+   "explanation": "Only Electric potential - Volt is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00252",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Kymograph - Wind speed",
     "Kymograph - Plant growth",
     "Kymograph - Blood pressure variations",
     "Kymograph - Objects above obstacles"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kymograph - Blood pressure variations is correctly matched."
+   "answer": 2,
+   "explanation": "Only Kymograph - Blood pressure variations is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00253",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Electric potential - Radian",
     "Electric potential - Volt",
     "Electric potential - Metre",
     "Electric potential - Reciprocal metre"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Electric potential - Volt is correctly matched."
+   "answer": 1,
+   "explanation": "Only Electric potential - Volt is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00254",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Kymograph - Altitude",
     "Kymograph - Electric current",
     "Kymograph - Blood pressure variations",
     "Kymograph - Plant growth"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kymograph - Blood pressure variations is correctly matched."
+   "answer": 2,
+   "explanation": "Only Kymograph - Blood pressure variations is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00255",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Temperature - Lux",
     "Temperature - Kilogram",
     "Temperature - Kelvin",
     "Temperature - Reciprocal metre"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Temperature - Kelvin is correctly matched."
+   "answer": 2,
+   "explanation": "Only Temperature - Kelvin is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00256",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Electrocardiogram machine - Properties of light",
     "Electrocardiogram machine - Wind speed",
     "Electrocardiogram machine - Heart electrical activity",
     "Electrocardiogram machine - Humidity"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Electrocardiogram machine - Heart electrical activity is correctly matched."
+   "answer": 2,
+   "explanation": "Only Electrocardiogram machine - Heart electrical activity is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00257",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Temperature - Ampere",
     "Temperature - Metre",
     "Temperature - Kelvin",
     "Temperature - Candela"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Temperature - Kelvin is correctly matched."
+   "answer": 2,
+   "explanation": "Only Temperature - Kelvin is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00258",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Electrocardiogram machine - Wind speed",
     "Electrocardiogram machine - Temperature",
     "Electrocardiogram machine - Blood pressure",
     "Electrocardiogram machine - Heart electrical activity"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Electrocardiogram machine - Heart electrical activity is correctly matched."
+   "answer": 3,
+   "explanation": "Only Electrocardiogram machine - Heart electrical activity is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00259",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Magnetic flux density - Lumen",
     "Magnetic flux density - Siemens",
     "Magnetic flux density - Tesla",
     "Magnetic flux density - Henry"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Magnetic flux density - Tesla is correctly matched."
+   "answer": 2,
+   "explanation": "Only Magnetic flux density - Tesla is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "physics-00260",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Audiometer - Hearing sensitivity",
     "Audiometer - One form of energy into another",
     "Audiometer - Speed of a vehicle",
     "Audiometer - Wind speed"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Audiometer - Hearing sensitivity is correctly matched."
+   "answer": 0,
+   "explanation": "Only Audiometer - Hearing sensitivity is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   }
  ]
 };

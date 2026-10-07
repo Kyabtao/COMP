@@ -1,0 +1,12 @@
+{
+  "name": "comp-competition-prep",
+  "private": true,
+  "scripts": {
+    "build:qbank": "node tools/build-qbank.js",
+    "validate": "node tools/validate.js",
+    "test": "node --test tools/tests/*.test.js"
+  },
+  "devDependencies": {
+    "jsdom": "26.1.0"
+  }
+}

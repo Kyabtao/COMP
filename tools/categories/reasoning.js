@@ -17,22503 +17,22503 @@
  "questions": [
   {
    "id": "reasoning-00001",
-   "q": "Find the next number in the series: 2, 6, 12, 20, 30, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 6, 12, 20, 30, ?",
+   "options": [
     "36",
     "40",
     "42",
     "44"
    ],
-   "a": 2,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Differences are 4, 6, 8, 10, so the next difference is 12 and 30 + 12 = 42."
+   "answer": 2,
+   "explanation": "Differences are 4, 6, 8, 10, so the next difference is 12 and 30 + 12 = 42.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "reasoning-00002",
-   "q": "Find the next term: 1, 4, 9, 16, 25, ?",
-   "o": [
+   "question": "Find the next term: 1, 4, 9, 16, 25, ?",
+   "options": [
     "30",
     "36",
     "42",
     "49"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "These are perfect squares: 1^2, 2^2, 3^2, 4^2, 5^2, so the next is 6^2 = 36."
+   "answer": 1,
+   "explanation": "These are perfect squares: 1^2, 2^2, 3^2, 4^2, 5^2, so the next is 6^2 = 36.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "reasoning-00003",
-   "q": "Find the missing term: 3, 7, 15, 31, ?",
-   "o": [
+   "question": "Find the missing term: 3, 7, 15, 31, ?",
+   "options": [
     "63",
     "62",
     "48",
     "55"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Each term is double the previous term plus one: 31 x 2 + 1 = 63."
+   "answer": 0,
+   "explanation": "Each term is double the previous term plus one: 31 x 2 + 1 = 63.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "reasoning-00004",
-   "q": "Complete the series: A, C, F, J, ?",
-   "o": [
+   "question": "Complete the series: A, C, F, J, ?",
+   "options": [
     "N",
     "O",
     "P",
     "M"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Gaps increase by one letter: +2, +3, +4, so the next jump is +5, giving O."
+   "answer": 1,
+   "explanation": "Gaps increase by one letter: +2, +3, +4, so the next jump is +5, giving O.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "reasoning-00005",
-   "q": "If CAT is coded as 3-1-20, how is DOG coded?",
-   "o": [
+   "question": "If CAT is coded as 3-1-20, how is DOG coded?",
+   "options": [
     "4-15-7",
     "4-14-7",
     "3-15-7",
     "4-15-6"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Letters are replaced by their positions in the alphabet: D=4, O=15, G=7."
+   "answer": 0,
+   "explanation": "Letters are replaced by their positions in the alphabet: D=4, O=15, G=7.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "reasoning-00006",
-   "q": "If in a code language MONKEY is written as XDJMNL, how is TIGER written?",
-   "o": [
+   "question": "If in a code language MONKEY is written as XDJMNL, how is TIGER written?",
+   "options": [
     "SFDHU",
     "QDFHS",
     "SFDHT",
     "RFDFH"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "Each letter is replaced by the letter two places before it in the alphabet after reversing the word."
+   "answer": 1,
+   "explanation": "Each letter is replaced by the letter two places before it in the alphabet after reversing the word.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "reasoning-00007",
-   "q": "Pointing to a photograph, a man said, 'She is the daughter of my grandfather's only son.' How is she related to him?",
-   "o": [
+   "question": "Pointing to a photograph, a man said, 'She is the daughter of my grandfather's only son.' How is she related to him?",
+   "options": [
     "Cousin",
     "Sister",
     "Aunt",
     "Niece"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The grandfather's only son is the man's father, so the girl is his sister."
+   "answer": 1,
+   "explanation": "The grandfather's only son is the man's father, so the girl is his sister.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "reasoning-00008",
-   "q": "A is the brother of B. B is the sister of C. C is the father of D. How is A related to D?",
-   "o": [
+   "question": "A is the brother of B. B is the sister of C. C is the father of D. How is A related to D?",
+   "options": [
     "Father",
     "Uncle",
     "Brother",
     "Grandfather"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "A is the brother of D's father C, so A is D's uncle."
+   "answer": 1,
+   "explanation": "A is the brother of D's father C, so A is D's uncle.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "reasoning-00009",
-   "q": "Ravi walks 5 km north, then turns right and walks 3 km, then turns right and walks 5 km. How far is he from the starting point?",
-   "o": [
+   "question": "Ravi walks 5 km north, then turns right and walks 3 km, then turns right and walks 5 km. How far is he from the starting point?",
+   "options": [
     "3 km",
     "5 km",
     "8 km",
     "13 km"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The two north-south legs cancel out, leaving a displacement of 3 km east."
+   "answer": 0,
+   "explanation": "The two north-south legs cancel out, leaving a displacement of 3 km east.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "reasoning-00010",
-   "q": "A man facing north turns 90 degrees clockwise, then 180 degrees anticlockwise. Which direction is he facing now?",
-   "o": [
+   "question": "A man facing north turns 90 degrees clockwise, then 180 degrees anticlockwise. Which direction is he facing now?",
+   "options": [
     "North",
     "South",
     "East",
     "West"
    ],
-   "a": 3,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "North plus 90 degrees clockwise is East; 180 degrees anticlockwise from East is West."
+   "answer": 3,
+   "explanation": "North plus 90 degrees clockwise is East; 180 degrees anticlockwise from East is West.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "reasoning-00011",
-   "q": "Which one is the odd one out: 3, 5, 11, 14, 17?",
-   "o": [
+   "question": "Which one is the odd one out: 3, 5, 11, 14, 17?",
+   "options": [
     "11",
     "14",
     "17",
     "5"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "All the numbers are prime except 14."
+   "answer": 1,
+   "explanation": "All the numbers are prime except 14.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "reasoning-00012",
-   "q": "Which one does not belong: Circle, Square, Triangle, Cube?",
-   "o": [
+   "question": "Which one does not belong: Circle, Square, Triangle, Cube?",
+   "options": [
     "Circle",
     "Square",
     "Triangle",
     "Cube"
    ],
-   "a": 3,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Cube is a three-dimensional solid while the others are plane figures."
+   "answer": 3,
+   "explanation": "Cube is a three-dimensional solid while the others are plane figures.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "reasoning-00013",
-   "q": "Statements: All roses are flowers. Some flowers fade quickly. Conclusion: Some roses fade quickly.",
-   "o": [
+   "question": "Statements: All roses are flowers. Some flowers fade quickly. Conclusion: Some roses fade quickly.",
+   "options": [
     "Definitely true",
     "Definitely false",
     "Cannot be determined",
     "Partly true"
    ],
-   "a": 2,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "The quick-fading flowers need not be roses, so the conclusion does not follow."
+   "answer": 2,
+   "explanation": "The quick-fading flowers need not be roses, so the conclusion does not follow.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "reasoning-00014",
-   "q": "Statements: All men are mortal. Socrates is a man. Conclusion: Socrates is mortal.",
-   "o": [
+   "question": "Statements: All men are mortal. Socrates is a man. Conclusion: Socrates is mortal.",
+   "options": [
     "Follows logically",
     "Does not follow",
     "Cannot be determined",
     "Contradicts the premise"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "This is a valid syllogism, so the conclusion follows from the premises."
+   "answer": 0,
+   "explanation": "This is a valid syllogism, so the conclusion follows from the premises.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "reasoning-00015",
-   "q": "Find the next number: 5, 11, 23, 47, ?",
-   "o": [
+   "question": "Find the next number: 5, 11, 23, 47, ?",
+   "options": [
     "95",
     "94",
     "96",
     "90"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Each term is double the previous term plus one: 47 x 2 + 1 = 95."
+   "answer": 0,
+   "explanation": "Each term is double the previous term plus one: 47 x 2 + 1 = 95.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "reasoning-00016",
-   "q": "Which letter comes next: Z, X, V, T, ?",
-   "o": [
+   "question": "Which letter comes next: Z, X, V, T, ?",
+   "options": [
     "S",
     "R",
     "Q",
     "P"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The series skips one letter backwards each time, so after T comes R."
+   "answer": 1,
+   "explanation": "The series skips one letter backwards each time, so after T comes R.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "reasoning-00017",
-   "q": "If SOUTH is written as TPVUI, how is EAST written?",
-   "o": [
+   "question": "If SOUTH is written as TPVUI, how is EAST written?",
+   "options": [
     "FBTU",
     "FBUT",
     "FATU",
     "EBTU"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Each letter is replaced by the next letter of the alphabet: E-A-S-T becomes F-B-T-U."
+   "answer": 0,
+   "explanation": "Each letter is replaced by the next letter of the alphabet: E-A-S-T becomes F-B-T-U.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "reasoning-00018",
-   "q": "In a row of 40 students, Ravi is 12th from the left. What is his position from the right?",
-   "o": [
+   "question": "In a row of 40 students, Ravi is 12th from the left. What is his position from the right?",
+   "options": [
     "28th",
     "29th",
     "27th",
     "30th"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Position from the right = 40 - 12 + 1 = 29."
+   "answer": 1,
+   "explanation": "Position from the right = 40 - 12 + 1 = 29.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "reasoning-00019",
-   "q": "Five friends sit in a row. A is to the left of B but to the right of C. Who is in the middle if B is at the extreme right and C at the extreme left of the group of three?",
-   "o": [
+   "question": "Five friends sit in a row. A is to the left of B but to the right of C. Who is in the middle if B is at the extreme right and C at the extreme left of the group of three?",
+   "options": [
     "A",
     "B",
     "C",
     "Cannot be determined"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "With C at the left and B at the right, A sits between them."
+   "answer": 0,
+   "explanation": "With C at the left and B at the right, A sits between them.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "reasoning-00020",
-   "q": "Which number replaces the question mark: 8, 27, 64, 125, ?",
-   "o": [
+   "question": "Which number replaces the question mark: 8, 27, 64, 125, ?",
+   "options": [
     "216",
     "200",
     "196",
     "225"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "These are cubes: 2^3, 3^3, 4^3, 5^3, so the next is 6^3 = 216."
+   "answer": 0,
+   "explanation": "These are cubes: 2^3, 3^3, 4^3, 5^3, so the next is 6^3 = 216.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "reasoning-00021",
-   "q": "A clock shows 3 o'clock. What is the angle between the hour and minute hands?",
-   "o": [
+   "question": "A clock shows 3 o'clock. What is the angle between the hour and minute hands?",
+   "options": [
     "45 degrees",
     "60 degrees",
     "90 degrees",
     "120 degrees"
    ],
-   "a": 2,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Each hour mark is 30 degrees apart, so 3 marks give 90 degrees."
+   "answer": 2,
+   "explanation": "Each hour mark is 30 degrees apart, so 3 marks give 90 degrees.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "reasoning-00022",
-   "q": "If 'blue' means 'green', 'green' means 'yellow' and 'yellow' means 'red', what is the colour of fresh grass?",
-   "o": [
+   "question": "If 'blue' means 'green', 'green' means 'yellow' and 'yellow' means 'red', what is the colour of fresh grass?",
+   "options": [
     "Green",
     "Yellow",
     "Blue",
     "Red"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "Grass is green, and in the code 'green' is called 'yellow'."
+   "answer": 1,
+   "explanation": "Grass is green, and in the code 'green' is called 'yellow'.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "reasoning-00023",
-   "q": "Find the next number in the series: 9, 11, 13, 15, 17, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 11, 13, 15, 17, ?",
+   "options": [
     "38",
     "18",
     "19",
     "20"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 19."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 19.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00024",
-   "q": "Find the next number in the series: 5, 10, 20, 40, 80, 160, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 10, 20, 40, 80, 160, ?",
+   "options": [
     "319",
     "317",
     "320",
     "321"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 320."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 320.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00025",
-   "q": "Find the next number in the series: 49, 64, 81, 100, 121, ?",
-   "o": [
+   "question": "Find the next number in the series: 49, 64, 81, 100, 121, ?",
+   "options": [
     "288",
     "143",
     "144",
     "136"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 144."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 144.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00026",
-   "q": "Find the next number in the series: 125, 216, 343, 512, 729, 1000, ?",
-   "o": [
+   "question": "Find the next number in the series: 125, 216, 343, 512, 729, 1000, ?",
+   "options": [
     "1332",
     "1323",
     "1331",
     "1339"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1331."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 1331.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00027",
-   "q": "Find the next number in the series: 8, 26, 53, 89, 134, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 26, 53, 89, 134, ?",
+   "options": [
     "206",
     "197",
     "394",
     "188"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 197."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 197.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00028",
-   "q": "In a code language each letter is shifted 1 place(s) forward. How is TOP written?",
-   "o": [
+   "question": "In a code language each letter is shifted 1 place(s) forward. How is TOP written?",
+   "options": [
     "WRS",
     "UPQ",
     "VQR",
     "XST"
    ],
-   "a": 1,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of TOP by 1 gives UPQ."
+   "answer": 1,
+   "explanation": "Shifting each letter of TOP by 1 gives UPQ.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00029",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "17",
     "121",
     "64",
     "36"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "64 is a perfect square."
+   "answer": 2,
+   "explanation": "64 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00030",
-   "q": "In a row of 6 children, Chetan is standing at position 3 from the left. What is the position from the right?",
-   "o": [
+   "question": "In a row of 6 children, Chetan is standing at position 3 from the left. What is the position from the right?",
+   "options": [
     "3",
     "4",
     "5",
     "2"
    ],
-   "a": 1,
-   "t": "Ranking",
-   "l": 2,
-   "s": "generated",
-   "e": "Position from right = total - position from left + 1 = 4."
+   "answer": 1,
+   "explanation": "Position from right = total - position from left + 1 = 4.",
+   "topic": "Ranking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00031",
-   "q": "If today is Monday, what day will it be after 33 days?",
-   "o": [
+   "question": "If today is Monday, what day will it be after 33 days?",
+   "options": [
     "Tuesday",
     "Saturday",
     "Thursday",
     "Wednesday"
    ],
-   "a": 1,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "33 days later gives Saturday (33 mod 7 = 5)."
+   "answer": 1,
+   "explanation": "33 days later gives Saturday (33 mod 7 = 5).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00032",
-   "q": "A person walks 3 km north and then 6 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 3 km north and then 6 km east. What is the straight line distance from the starting point?",
+   "options": [
     "9 km",
     "13.42 km",
     "6.71 km",
     "7.71 km"
    ],
-   "a": 2,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(3^2 + 6^2) = 6.71 km."
+   "answer": 2,
+   "explanation": "Distance = sqrt(3^2 + 6^2) = 6.71 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00033",
-   "q": "What is the angle between the hour and minute hands at 6:30?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 6:30?",
+   "options": [
     "15 degrees",
     "30 degrees",
     "7.5 degrees",
     "45 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 15 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 15 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00034",
-   "q": "Find the next term of the series: 1, 1, 2, 3, 5, 8, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, 5, 8, ?",
+   "options": [
     "16",
     "13",
     "14",
     "26"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 13."
+   "answer": 1,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 13.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00035",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "46",
     "47",
     "50",
     "45"
    ],
-   "a": 3,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 3,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00036",
-   "q": "Two books and three pens cost 26 rupees. If a book costs 7 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 26 rupees. If a book costs 7 rupees, what is the cost of one pen?",
+   "options": [
     "3 rupees",
     "5.2 rupees",
     "4 rupees",
     "5 rupees"
    ],
-   "a": 2,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 7 = 14, so 3 pens cost 12 and one pen costs 4 rupees."
+   "answer": 2,
+   "explanation": "2 x 7 = 14, so 3 pens cost 12 and one pen costs 4 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00037",
-   "q": "Find the next number in the series: 6, 12, 18, 24, 30, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 12, 18, 24, 30, ?",
+   "options": [
     "36",
     "30",
     "72",
     "42"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 36."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 36.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00038",
-   "q": "Find the next number in the series: 7, 14, 28, 56, 112, 224, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 14, 28, 56, 112, 224, ?",
+   "options": [
     "448",
     "449",
     "450",
     "896"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 448."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 448.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00039",
-   "q": "Find the next number in the series: 49, 64, 81, 100, 121, 144, ?",
-   "o": [
+   "question": "Find the next number in the series: 49, 64, 81, 100, 121, 144, ?",
+   "options": [
     "338",
     "160",
     "168",
     "169"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 169."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 169.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00040",
-   "q": "Find the next number in the series: 343, 512, 729, 1000, 1331, ?",
-   "o": [
+   "question": "Find the next number in the series: 343, 512, 729, 1000, 1331, ?",
+   "options": [
     "1728",
     "1732",
     "1727",
     "1724"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1728."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 1728.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00041",
-   "q": "Find the next number in the series: 9, 15, 24, 36, 51, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 15, 24, 36, 51, ?",
+   "options": [
     "72",
     "75",
     "73",
     "71"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 72."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 72.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00042",
-   "q": "In a code language each letter is shifted 4 place(s) forward. How is SUN written?",
-   "o": [
+   "question": "In a code language each letter is shifted 4 place(s) forward. How is SUN written?",
+   "options": [
     "TVO",
     "UWP",
     "VXQ",
     "WYR"
    ],
-   "a": 3,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of SUN by 4 gives WYR."
+   "answer": 3,
+   "explanation": "Shifting each letter of SUN by 4 gives WYR.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00043",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "36",
     "121",
     "122",
     "49"
    ],
-   "a": 3,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "49 is a perfect square."
+   "answer": 3,
+   "explanation": "49 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00044",
-   "q": "In a row of 6 children, Esha is standing at position 5 from the left. What is the position from the right?",
-   "o": [
+   "question": "In a row of 6 children, Esha is standing at position 5 from the left. What is the position from the right?",
+   "options": [
     "2",
     "4",
     "1",
     "7"
    ],
-   "a": 0,
-   "t": "Ranking",
-   "l": 2,
-   "s": "generated",
-   "e": "Position from right = total - position from left + 1 = 2."
+   "answer": 0,
+   "explanation": "Position from right = total - position from left + 1 = 2.",
+   "topic": "Ranking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00045",
-   "q": "If today is Sunday, what day will it be after 10 days?",
-   "o": [
+   "question": "If today is Sunday, what day will it be after 10 days?",
+   "options": [
     "Wednesday",
     "Tuesday",
     "Friday",
     "Thursday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "10 days later gives Wednesday (10 mod 7 = 3)."
+   "answer": 0,
+   "explanation": "10 days later gives Wednesday (10 mod 7 = 3).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00046",
-   "q": "A person walks 8 km north and then 4 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 8 km north and then 4 km east. What is the straight line distance from the starting point?",
+   "options": [
     "17.89 km",
     "8.94 km",
     "9.94 km",
     "12 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(8^2 + 4^2) = 8.94 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(8^2 + 4^2) = 8.94 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00047",
-   "q": "What is the angle between the hour and minute hands at 1:30?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 1:30?",
+   "options": [
     "165 degrees",
     "105 degrees",
     "225 degrees",
     "135 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 135 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 135 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00048",
-   "q": "Find the next term of the series: 1, 1, 2, 3, 5, 8, 13, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, 5, 8, 13, ?",
+   "options": [
     "26",
     "21",
     "22",
     "42"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 21."
+   "answer": 1,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 21.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00049",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "74",
     "72",
     "76",
     "77"
    ],
-   "a": 1,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 1,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00050",
-   "q": "Two books and three pens cost 23 rupees. If a book costs 7 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 23 rupees. If a book costs 7 rupees, what is the cost of one pen?",
+   "options": [
     "6 rupees",
     "4.6 rupees",
     "4 rupees",
     "3 rupees"
    ],
-   "a": 3,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 7 = 14, so 3 pens cost 9 and one pen costs 3 rupees."
+   "answer": 3,
+   "explanation": "2 x 7 = 14, so 3 pens cost 9 and one pen costs 3 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00051",
-   "q": "Find the next number in the series: 8, 17, 26, 35, 44, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 17, 26, 35, 44, ?",
+   "options": [
     "44",
     "54",
     "53",
     "106"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 53."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 53.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00052",
-   "q": "Find the next number in the series: 8, 16, 32, 64, 128, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 16, 32, 64, 128, ?",
+   "options": [
     "512",
     "256",
     "255",
     "252"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 256."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 256.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00053",
-   "q": "Find the next number in the series: 49, 64, 81, 100, 121, ?",
-   "o": [
+   "question": "Find the next number in the series: 49, 64, 81, 100, 121, ?",
+   "options": [
     "143",
     "145",
     "151",
     "144"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 144."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 144.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00054",
-   "q": "Find the next number in the series: 343, 512, 729, 1000, 1331, 1728, ?",
-   "o": [
+   "question": "Find the next number in the series: 343, 512, 729, 1000, 1331, 1728, ?",
+   "options": [
     "2206",
     "2196",
     "4394",
     "2197"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2197."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 2197.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00055",
-   "q": "Find the next number in the series: 9, 19, 34, 54, 79, 109, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 19, 34, 54, 79, 109, ?",
+   "options": [
     "149",
     "150",
     "144",
     "154"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 149."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 149.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00056",
-   "q": "In a code language each letter is shifted 3 place(s) forward. How is MAN written?",
-   "o": [
+   "question": "In a code language each letter is shifted 3 place(s) forward. How is MAN written?",
+   "options": [
     "OCP",
     "NBO",
     "QER",
     "PDQ"
    ],
-   "a": 3,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of MAN by 3 gives PDQ."
+   "answer": 3,
+   "explanation": "Shifting each letter of MAN by 3 gives PDQ.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00057",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "4",
     "5",
     "65",
     "100"
    ],
-   "a": 3,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "100 is a perfect square."
+   "answer": 3,
+   "explanation": "100 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00058",
-   "q": "In a row of 6 children, Bina is standing at position 2 from the left. What is the position from the right?",
-   "o": [
+   "question": "In a row of 6 children, Bina is standing at position 2 from the left. What is the position from the right?",
+   "options": [
     "2",
     "6",
     "5",
     "4"
    ],
-   "a": 2,
-   "t": "Ranking",
-   "l": 2,
-   "s": "generated",
-   "e": "Position from right = total - position from left + 1 = 5."
+   "answer": 2,
+   "explanation": "Position from right = total - position from left + 1 = 5.",
+   "topic": "Ranking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00059",
-   "q": "If today is Wednesday, what day will it be after 25 days?",
-   "o": [
+   "question": "If today is Wednesday, what day will it be after 25 days?",
+   "options": [
     "Thursday",
     "Monday",
     "Wednesday",
     "Sunday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "25 days later gives Sunday (25 mod 7 = 4)."
+   "answer": 3,
+   "explanation": "25 days later gives Sunday (25 mod 7 = 4).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00060",
-   "q": "A person walks 12 km north and then 2 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 12 km north and then 2 km east. What is the straight line distance from the starting point?",
+   "options": [
     "24.33 km",
     "10 km",
     "14 km",
     "12.17 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(12^2 + 2^2) = 12.17 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(12^2 + 2^2) = 12.17 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00061",
-   "q": "What is the angle between the hour and minute hands at 9:35?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 9:35?",
+   "options": [
     "77.5 degrees",
     "92.5 degrees",
     "38.75 degrees",
     "282.5 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 77.5 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 77.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00062",
-   "q": "Find the next term of the series: 1, 1, 2, 3, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, ?",
+   "options": [
     "6",
     "8",
     "4",
     "5"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 5."
+   "answer": 3,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 5.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00063",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "68",
     "63",
     "67",
     "65"
    ],
-   "a": 1,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 1,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00064",
-   "q": "Two books and three pens cost 25 rupees. If a book costs 5 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 25 rupees. If a book costs 5 rupees, what is the cost of one pen?",
+   "options": [
     "4 rupees",
     "6 rupees",
     "10 rupees",
     "5 rupees"
    ],
-   "a": 3,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 5 = 10, so 3 pens cost 15 and one pen costs 5 rupees."
+   "answer": 3,
+   "explanation": "2 x 5 = 10, so 3 pens cost 15 and one pen costs 5 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00065",
-   "q": "Find the next number in the series: 4, 10, 16, 22, 28, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 10, 16, 22, 28, ?",
+   "options": [
     "33",
     "34",
     "35",
     "40"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 34."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 34.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00066",
-   "q": "Find the next number in the series: 4, 8, 16, 32, 64, 128, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 8, 16, 32, 64, 128, ?",
+   "options": [
     "255",
     "256",
     "257",
     "252"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 256."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 256.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00067",
-   "q": "Find the next number in the series: 81, 100, 121, 144, 169, ?",
-   "o": [
+   "question": "Find the next number in the series: 81, 100, 121, 144, 169, ?",
+   "options": [
     "197",
     "196",
     "392",
     "188"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 196."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 196.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00068",
-   "q": "Find the next number in the series: 512, 729, 1000, 1331, 1728, ?",
-   "o": [
+   "question": "Find the next number in the series: 512, 729, 1000, 1331, 1728, ?",
+   "options": [
     "2205",
     "2197",
     "2189",
     "4394"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2197."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 2197.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00069",
-   "q": "Find the next number in the series: 5, 9, 15, 23, 33, 45, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 9, 15, 23, 33, 45, ?",
+   "options": [
     "62",
     "59",
     "122",
     "61"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 61."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 61.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00070",
-   "q": "In a code language each letter is shifted 3 place(s) forward. How is RAT written?",
-   "o": [
+   "question": "In a code language each letter is shifted 3 place(s) forward. How is RAT written?",
+   "options": [
     "SBU",
     "VEX",
     "TCV",
     "UDW"
    ],
-   "a": 3,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of RAT by 3 gives UDW."
+   "answer": 3,
+   "explanation": "Shifting each letter of RAT by 3 gives UDW.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00071",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "16",
     "5",
     "65",
     "144"
    ],
-   "a": 3,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "144 is a perfect square."
+   "answer": 3,
+   "explanation": "144 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00072",
-   "q": "In a row of 6 children, Bina is standing at position 2 from the left. What is the position from the right?",
-   "o": [
+   "question": "In a row of 6 children, Bina is standing at position 2 from the left. What is the position from the right?",
+   "options": [
     "6",
     "2",
     "5",
     "1"
    ],
-   "a": 2,
-   "t": "Ranking",
-   "l": 2,
-   "s": "generated",
-   "e": "Position from right = total - position from left + 1 = 5."
+   "answer": 2,
+   "explanation": "Position from right = total - position from left + 1 = 5.",
+   "topic": "Ranking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00073",
-   "q": "If today is Monday, what day will it be after 28 days?",
-   "o": [
+   "question": "If today is Monday, what day will it be after 28 days?",
+   "options": [
     "Tuesday",
     "Monday",
     "Friday",
     "Wednesday"
    ],
-   "a": 1,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "28 days later gives Monday (28 mod 7 = 0)."
+   "answer": 1,
+   "explanation": "28 days later gives Monday (28 mod 7 = 0).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00074",
-   "q": "A person walks 12 km north and then 4 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 12 km north and then 4 km east. What is the straight line distance from the starting point?",
+   "options": [
     "16 km",
     "24 km",
     "8 km",
     "12.65 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(12^2 + 4^2) = 12.65 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(12^2 + 4^2) = 12.65 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00075",
-   "q": "What is the angle between the hour and minute hands at 12:40?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 12:40?",
+   "options": [
     "155 degrees",
     "110 degrees",
     "140 degrees",
     "70 degrees"
    ],
-   "a": 2,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 140 degrees."
+   "answer": 2,
+   "explanation": "Angle = |30H - 5.5M| = 140 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00076",
-   "q": "Find the next term of the series: 1, 1, 2, 3, 5, 8, 13, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, 5, 8, 13, ?",
+   "options": [
     "22",
     "26",
     "21",
     "20"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 21."
+   "answer": 2,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 21.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00077",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "44",
     "47",
     "43",
     "42"
    ],
-   "a": 3,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 3,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00078",
-   "q": "Two books and three pens cost 23 rupees. If a book costs 4 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 23 rupees. If a book costs 4 rupees, what is the cost of one pen?",
+   "options": [
     "10 rupees",
     "4 rupees",
     "5 rupees",
     "6 rupees"
    ],
-   "a": 2,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 4 = 8, so 3 pens cost 15 and one pen costs 5 rupees."
+   "answer": 2,
+   "explanation": "2 x 4 = 8, so 3 pens cost 15 and one pen costs 5 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00079",
-   "q": "Find the next number in the series: 5, 14, 23, 32, 41, 50, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 14, 23, 32, 41, 50, ?",
+   "options": [
     "50",
     "68",
     "118",
     "59"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 59."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 59.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00080",
-   "q": "Find the next number in the series: 5, 10, 20, 40, 80, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 10, 20, 40, 80, ?",
+   "options": [
     "161",
     "159",
     "168",
     "160"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 160."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 160.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00081",
-   "q": "Find the next number in the series: 36, 49, 64, 81, 100, ?",
-   "o": [
+   "question": "Find the next number in the series: 36, 49, 64, 81, 100, ?",
+   "options": [
     "122",
     "114",
     "121",
     "242"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 121."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 121.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00082",
-   "q": "Find the next number in the series: 512, 729, 1000, 1331, 1728, 2197, ?",
-   "o": [
+   "question": "Find the next number in the series: 512, 729, 1000, 1331, 1728, 2197, ?",
+   "options": [
     "2745",
     "2751",
     "2744",
     "2743"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2744."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 2744.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00083",
-   "q": "Find the next number in the series: 2, 20, 47, 83, 128, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 20, 47, 83, 128, ?",
+   "options": [
     "200",
     "182",
     "191",
     "192"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 191."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 191.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00084",
-   "q": "In a code language each letter is shifted 4 place(s) forward. How is TOP written?",
-   "o": [
+   "question": "In a code language each letter is shifted 4 place(s) forward. How is TOP written?",
+   "options": [
     "XST",
     "VQR",
     "UPQ",
     "WRS"
    ],
-   "a": 0,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of TOP by 4 gives XST."
+   "answer": 0,
+   "explanation": "Shifting each letter of TOP by 4 gives XST.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00085",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "25",
     "17",
     "4",
     "5"
    ],
-   "a": 0,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "25 is a perfect square."
+   "answer": 0,
+   "explanation": "25 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00086",
-   "q": "In a row of 6 children, Divya is standing at position 4 from the left. What is the position from the right?",
-   "o": [
+   "question": "In a row of 6 children, Divya is standing at position 4 from the left. What is the position from the right?",
+   "options": [
     "3",
     "2",
     "6",
     "4"
    ],
-   "a": 0,
-   "t": "Ranking",
-   "l": 2,
-   "s": "generated",
-   "e": "Position from right = total - position from left + 1 = 3."
+   "answer": 0,
+   "explanation": "Position from right = total - position from left + 1 = 3.",
+   "topic": "Ranking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00087",
-   "q": "If today is Tuesday, what day will it be after 44 days?",
-   "o": [
+   "question": "If today is Tuesday, what day will it be after 44 days?",
+   "options": [
     "Tuesday",
     "Friday",
     "Thursday",
     "Wednesday"
    ],
-   "a": 2,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "44 days later gives Thursday (44 mod 7 = 2)."
+   "answer": 2,
+   "explanation": "44 days later gives Thursday (44 mod 7 = 2).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00088",
-   "q": "A person walks 3 km north and then 4 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 3 km north and then 4 km east. What is the straight line distance from the starting point?",
+   "options": [
     "7 km",
     "5 km",
     "1 km",
     "6 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(3^2 + 4^2) = 5 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(3^2 + 4^2) = 5 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00089",
-   "q": "What is the angle between the hour and minute hands at 11:25?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 11:25?",
+   "options": [
     "167.5 degrees",
     "137.5 degrees",
     "197.5 degrees",
     "182.5 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 167.5 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 167.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00090",
-   "q": "Find the next term of the series: 1, 1, 2, 3, 5, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, 5, ?",
+   "options": [
     "9",
     "8",
     "16",
     "13"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 8."
+   "answer": 1,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 8.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00091",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "49",
     "46",
     "47",
     "45"
    ],
-   "a": 3,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 3,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00092",
-   "q": "Two books and three pens cost 21 rupees. If a book costs 6 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 21 rupees. If a book costs 6 rupees, what is the cost of one pen?",
+   "options": [
     "3 rupees",
     "2 rupees",
     "4 rupees",
     "6 rupees"
    ],
-   "a": 0,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 6 = 12, so 3 pens cost 9 and one pen costs 3 rupees."
+   "answer": 0,
+   "explanation": "2 x 6 = 12, so 3 pens cost 9 and one pen costs 3 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00093",
-   "q": "Find the next number in the series: 8, 15, 22, 29, 36, 43, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 15, 22, 29, 36, 43, ?",
+   "options": [
     "50",
     "49",
     "43",
     "100"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 50."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 50.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00094",
-   "q": "Find the next number in the series: 3, 6, 12, 24, 48, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 6, 12, 24, 48, ?",
+   "options": [
     "97",
     "96",
     "192",
     "94"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 96."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 96.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00095",
-   "q": "Find the next number in the series: 9, 16, 25, 36, 49, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 16, 25, 36, 49, ?",
+   "options": [
     "64",
     "66",
     "62",
     "128"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 64."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 64.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00096",
-   "q": "Find the next number in the series: 216, 343, 512, 729, 1000, 1331, ?",
-   "o": [
+   "question": "Find the next number in the series: 216, 343, 512, 729, 1000, 1331, ?",
+   "options": [
     "1736",
     "1728",
     "1729",
     "1727"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1728."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 1728.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00097",
-   "q": "Find the next number in the series: 3, 13, 28, 48, 73, 103, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 13, 28, 48, 73, 103, ?",
+   "options": [
     "138",
     "286",
     "143",
     "142"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 143."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 143.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00098",
-   "q": "In a code language each letter is shifted 2 place(s) forward. How is JAR written?",
-   "o": [
+   "question": "In a code language each letter is shifted 2 place(s) forward. How is JAR written?",
+   "options": [
     "MDU",
     "KBS",
     "NEV",
     "LCT"
    ],
-   "a": 3,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of JAR by 2 gives LCT."
+   "answer": 3,
+   "explanation": "Shifting each letter of JAR by 2 gives LCT.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00099",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "64",
     "36",
     "65",
     "100"
    ],
-   "a": 3,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "100 is a perfect square."
+   "answer": 3,
+   "explanation": "100 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00100",
-   "q": "If today is Wednesday, what day will it be after 45 days?",
-   "o": [
+   "question": "If today is Wednesday, what day will it be after 45 days?",
+   "options": [
     "Monday",
     "Thursday",
     "Saturday",
     "Tuesday"
    ],
-   "a": 2,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "45 days later gives Saturday (45 mod 7 = 3)."
+   "answer": 2,
+   "explanation": "45 days later gives Saturday (45 mod 7 = 3).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00101",
-   "q": "A person walks 11 km north and then 6 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 11 km north and then 6 km east. What is the straight line distance from the starting point?",
+   "options": [
     "12.53 km",
     "5 km",
     "13.53 km",
     "17 km"
    ],
-   "a": 0,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(11^2 + 6^2) = 12.53 km."
+   "answer": 0,
+   "explanation": "Distance = sqrt(11^2 + 6^2) = 12.53 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00102",
-   "q": "What is the angle between the hour and minute hands at 12:20?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 12:20?",
+   "options": [
     "110 degrees",
     "250 degrees",
     "55 degrees",
     "140 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 110 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 110 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00103",
-   "q": "Find the next term of the series: 1, 1, 2, 3, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, ?",
+   "options": [
     "10",
     "5",
     "8",
     "6"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 5."
+   "answer": 1,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 5.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00104",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "24",
     "28",
     "29",
     "25"
    ],
-   "a": 0,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 0,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00105",
-   "q": "Two books and three pens cost 35 rupees. If a book costs 7 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 35 rupees. If a book costs 7 rupees, what is the cost of one pen?",
+   "options": [
     "14 rupees",
     "7 rupees",
     "8 rupees",
     "6 rupees"
    ],
-   "a": 1,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 7 = 14, so 3 pens cost 21 and one pen costs 7 rupees."
+   "answer": 1,
+   "explanation": "2 x 7 = 14, so 3 pens cost 21 and one pen costs 7 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00106",
-   "q": "Find the next number in the series: 4, 9, 14, 19, 24, 29, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 9, 14, 19, 24, 29, ?",
+   "options": [
     "29",
     "33",
     "39",
     "34"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 34."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 34.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00107",
-   "q": "Find the next number in the series: 4, 8, 16, 32, 64, 128, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 8, 16, 32, 64, 128, ?",
+   "options": [
     "256",
     "257",
     "512",
     "255"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 256."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 256.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00108",
-   "q": "Find the next number in the series: 4, 9, 16, 25, 36, 49, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 9, 16, 25, 36, 49, ?",
+   "options": [
     "64",
     "63",
     "56",
     "65"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 64."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 64.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00109",
-   "q": "Find the next number in the series: 125, 216, 343, 512, 729, 1000, ?",
-   "o": [
+   "question": "Find the next number in the series: 125, 216, 343, 512, 729, 1000, ?",
+   "options": [
     "2662",
     "1331",
     "1328",
     "1332"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1331."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 1331.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00110",
-   "q": "Find the next number in the series: 5, 17, 35, 59, 89, 125, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 17, 35, 59, 89, 125, ?",
+   "options": [
     "167",
     "179",
     "172",
     "173"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 173."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 173.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00111",
-   "q": "In a code language each letter is shifted 3 place(s) forward. How is SUN written?",
-   "o": [
+   "question": "In a code language each letter is shifted 3 place(s) forward. How is SUN written?",
+   "options": [
     "TVO",
     "UWP",
     "VXQ",
     "WYR"
    ],
-   "a": 2,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of SUN by 3 gives VXQ."
+   "answer": 2,
+   "explanation": "Shifting each letter of SUN by 3 gives VXQ.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00112",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "25",
     "50",
     "122",
     "16"
    ],
-   "a": 3,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "16 is a perfect square."
+   "answer": 3,
+   "explanation": "16 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00113",
-   "q": "In a row of 6 children, Esha is standing at position 5 from the left. What is the position from the right?",
-   "o": [
+   "question": "In a row of 6 children, Esha is standing at position 5 from the left. What is the position from the right?",
+   "options": [
     "7",
     "4",
     "2",
     "5"
    ],
-   "a": 2,
-   "t": "Ranking",
-   "l": 2,
-   "s": "generated",
-   "e": "Position from right = total - position from left + 1 = 2."
+   "answer": 2,
+   "explanation": "Position from right = total - position from left + 1 = 2.",
+   "topic": "Ranking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00114",
-   "q": "If today is Wednesday, what day will it be after 25 days?",
-   "o": [
+   "question": "If today is Wednesday, what day will it be after 25 days?",
+   "options": [
     "Tuesday",
     "Monday",
     "Sunday",
     "Wednesday"
    ],
-   "a": 2,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "25 days later gives Sunday (25 mod 7 = 4)."
+   "answer": 2,
+   "explanation": "25 days later gives Sunday (25 mod 7 = 4).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00115",
-   "q": "A person walks 4 km north and then 7 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 4 km north and then 7 km east. What is the straight line distance from the starting point?",
+   "options": [
     "11 km",
     "8 km",
     "16.12 km",
     "8.06 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(4^2 + 7^2) = 8.06 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(4^2 + 7^2) = 8.06 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00116",
-   "q": "What is the angle between the hour and minute hands at 7:35?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 7:35?",
+   "options": [
     "32.5 degrees",
     "17.5 degrees",
     "8.75 degrees",
     "47.5 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 17.5 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 17.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00117",
-   "q": "Find the next term of the series: 1, 1, 2, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, ?",
+   "options": [
     "3",
     "8",
     "2",
     "6"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 3."
+   "answer": 0,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 3.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00118",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "41",
     "38",
     "40",
     "36"
    ],
-   "a": 3,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 3,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00119",
-   "q": "Two books and three pens cost 21 rupees. If a book costs 3 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 21 rupees. If a book costs 3 rupees, what is the cost of one pen?",
+   "options": [
     "4 rupees",
     "10 rupees",
     "4.2 rupees",
     "5 rupees"
    ],
-   "a": 3,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 3 = 6, so 3 pens cost 15 and one pen costs 5 rupees."
+   "answer": 3,
+   "explanation": "2 x 3 = 6, so 3 pens cost 15 and one pen costs 5 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00120",
-   "q": "Find the next number in the series: 3, 5, 7, 9, 11, 13, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 5, 7, 9, 11, 13, ?",
+   "options": [
     "30",
     "15",
     "13",
     "16"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 15."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 15.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00121",
-   "q": "Find the next number in the series: 3, 6, 12, 24, 48, 96, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 6, 12, 24, 48, 96, ?",
+   "options": [
     "197",
     "187",
     "192",
     "191"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 192."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 192.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00122",
-   "q": "Find the next number in the series: 9, 16, 25, 36, 49, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 16, 25, 36, 49, ?",
+   "options": [
     "128",
     "65",
     "63",
     "64"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 64."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 64.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00123",
-   "q": "Find the next number in the series: 729, 1000, 1331, 1728, 2197, 2744, ?",
-   "o": [
+   "question": "Find the next number in the series: 729, 1000, 1331, 1728, 2197, 2744, ?",
+   "options": [
     "3375",
     "3370",
     "3374",
     "3380"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 3375."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 3375.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00124",
-   "q": "Find the next number in the series: 9, 13, 19, 27, 37, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 13, 19, 27, 37, ?",
+   "options": [
     "49",
     "51",
     "102",
     "52"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 51."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 51.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00125",
-   "q": "In a code language each letter is shifted 4 place(s) forward. How is VAN written?",
-   "o": [
+   "question": "In a code language each letter is shifted 4 place(s) forward. How is VAN written?",
+   "options": [
     "WBO",
     "ZER",
     "YDQ",
     "XCP"
    ],
-   "a": 1,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of VAN by 4 gives ZER."
+   "answer": 1,
+   "explanation": "Shifting each letter of VAN by 4 gives ZER.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00126",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "121",
     "16",
     "64",
     "5"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "64 is a perfect square."
+   "answer": 2,
+   "explanation": "64 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00127",
-   "q": "If today is Saturday, what day will it be after 31 days?",
-   "o": [
+   "question": "If today is Saturday, what day will it be after 31 days?",
+   "options": [
     "Monday",
     "Friday",
     "Wednesday",
     "Tuesday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "31 days later gives Tuesday (31 mod 7 = 3)."
+   "answer": 3,
+   "explanation": "31 days later gives Tuesday (31 mod 7 = 3).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00128",
-   "q": "A person walks 10 km north and then 8 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 10 km north and then 8 km east. What is the straight line distance from the starting point?",
+   "options": [
     "25.61 km",
     "20 km",
     "13.81 km",
     "12.81 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(10^2 + 8^2) = 12.81 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(10^2 + 8^2) = 12.81 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00129",
-   "q": "What is the angle between the hour and minute hands at 3:25?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 3:25?",
+   "options": [
     "62.5 degrees",
     "47.5 degrees",
     "17.5 degrees",
     "23.75 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 47.5 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 47.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00130",
-   "q": "Find the next term of the series: 1, 1, 2, 3, 5, 8, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, 5, 8, ?",
+   "options": [
     "18",
     "12",
     "13",
     "14"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 13."
+   "answer": 2,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 13.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00131",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "76",
     "75",
     "80",
     "79"
    ],
-   "a": 1,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 1,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00132",
-   "q": "Two books and three pens cost 22 rupees. If a book costs 5 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 22 rupees. If a book costs 5 rupees, what is the cost of one pen?",
+   "options": [
     "4.4 rupees",
     "4 rupees",
     "5 rupees",
     "3 rupees"
    ],
-   "a": 1,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 5 = 10, so 3 pens cost 12 and one pen costs 4 rupees."
+   "answer": 1,
+   "explanation": "2 x 5 = 10, so 3 pens cost 12 and one pen costs 4 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00133",
-   "q": "Find the next number in the series: 2, 8, 14, 20, 26, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 8, 14, 20, 26, ?",
+   "options": [
     "31",
     "32",
     "26",
     "64"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 32."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 32.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00134",
-   "q": "Find the next number in the series: 7, 14, 28, 56, 112, 224, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 14, 28, 56, 112, 224, ?",
+   "options": [
     "896",
     "447",
     "449",
     "448"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 448."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 448.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00135",
-   "q": "Find the next number in the series: 81, 100, 121, 144, 169, ?",
-   "o": [
+   "question": "Find the next number in the series: 81, 100, 121, 144, 169, ?",
+   "options": [
     "205",
     "195",
     "196",
     "187"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 196."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 196.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00136",
-   "q": "Find the next number in the series: 216, 343, 512, 729, 1000, ?",
-   "o": [
+   "question": "Find the next number in the series: 216, 343, 512, 729, 1000, ?",
+   "options": [
     "1331",
     "1330",
     "1336",
     "1332"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1331."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 1331.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00137",
-   "q": "Find the next number in the series: 7, 13, 22, 34, 49, 67, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 13, 22, 34, 49, 67, ?",
+   "options": [
     "182",
     "91",
     "92",
     "94"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 91."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 91.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00138",
-   "q": "In a code language each letter is shifted 1 place(s) forward. How is SUN written?",
-   "o": [
+   "question": "In a code language each letter is shifted 1 place(s) forward. How is SUN written?",
+   "options": [
     "WYR",
     "UWP",
     "VXQ",
     "TVO"
    ],
-   "a": 3,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of SUN by 1 gives TVO."
+   "answer": 3,
+   "explanation": "Shifting each letter of SUN by 1 gives TVO.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00139",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "10",
     "4",
     "81",
     "121"
    ],
-   "a": 1,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "4 is a perfect square."
+   "answer": 1,
+   "explanation": "4 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00140",
-   "q": "In a row of 6 children, Bina is standing at position 2 from the left. What is the position from the right?",
-   "o": [
+   "question": "In a row of 6 children, Bina is standing at position 2 from the left. What is the position from the right?",
+   "options": [
     "1",
     "2",
     "5",
     "4"
    ],
-   "a": 2,
-   "t": "Ranking",
-   "l": 2,
-   "s": "generated",
-   "e": "Position from right = total - position from left + 1 = 5."
+   "answer": 2,
+   "explanation": "Position from right = total - position from left + 1 = 5.",
+   "topic": "Ranking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00141",
-   "q": "If today is Friday, what day will it be after 27 days?",
-   "o": [
+   "question": "If today is Friday, what day will it be after 27 days?",
+   "options": [
     "Thursday",
     "Tuesday",
     "Friday",
     "Wednesday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "27 days later gives Thursday (27 mod 7 = 6)."
+   "answer": 0,
+   "explanation": "27 days later gives Thursday (27 mod 7 = 6).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00142",
-   "q": "A person walks 12 km north and then 5 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 12 km north and then 5 km east. What is the straight line distance from the starting point?",
+   "options": [
     "13 km",
     "24 km",
     "17 km",
     "26 km"
    ],
-   "a": 0,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(12^2 + 5^2) = 13 km."
+   "answer": 0,
+   "explanation": "Distance = sqrt(12^2 + 5^2) = 13 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00143",
-   "q": "What is the angle between the hour and minute hands at 7:25?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 7:25?",
+   "options": [
     "87.5 degrees",
     "102.5 degrees",
     "72.5 degrees",
     "36.25 degrees"
    ],
-   "a": 2,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 72.5 degrees."
+   "answer": 2,
+   "explanation": "Angle = |30H - 5.5M| = 72.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00144",
-   "q": "Find the next term of the series: 1, 1, 2, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, ?",
+   "options": [
     "8",
     "4",
     "2",
     "3"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 3."
+   "answer": 3,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 3.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00145",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "24",
     "29",
     "25",
     "26"
    ],
-   "a": 0,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 0,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00146",
-   "q": "Two books and three pens cost 23 rupees. If a book costs 7 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 23 rupees. If a book costs 7 rupees, what is the cost of one pen?",
+   "options": [
     "7 rupees",
     "3 rupees",
     "4.6 rupees",
     "6 rupees"
    ],
-   "a": 1,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 7 = 14, so 3 pens cost 9 and one pen costs 3 rupees."
+   "answer": 1,
+   "explanation": "2 x 7 = 14, so 3 pens cost 9 and one pen costs 3 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00147",
-   "q": "Find the next number in the series: 3, 11, 19, 27, 35, 43, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 11, 19, 27, 35, 43, ?",
+   "options": [
     "59",
     "51",
     "102",
     "50"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 51."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 51.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00148",
-   "q": "Find the next number in the series: 2, 4, 8, 16, 32, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 4, 8, 16, 32, ?",
+   "options": [
     "128",
     "58",
     "65",
     "64"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 64."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 64.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00149",
-   "q": "Find the next number in the series: 16, 25, 36, 49, 64, 81, ?",
-   "o": [
+   "question": "Find the next number in the series: 16, 25, 36, 49, 64, 81, ?",
+   "options": [
     "100",
     "98",
     "99",
     "102"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 100."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 100.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00150",
-   "q": "Find the next number in the series: 216, 343, 512, 729, 1000, ?",
-   "o": [
+   "question": "Find the next number in the series: 216, 343, 512, 729, 1000, ?",
+   "options": [
     "1332",
     "1331",
     "1326",
     "1336"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1331."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 1331.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00151",
-   "q": "Find the next number in the series: 5, 17, 35, 59, 89, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 17, 35, 59, 89, ?",
+   "options": [
     "130",
     "131",
     "125",
     "137"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 131."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 131.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00152",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "16",
     "26",
     "82",
     "25"
    ],
-   "a": 0,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "16 is a perfect square."
+   "answer": 0,
+   "explanation": "16 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00153",
-   "q": "If today is Monday, what day will it be after 29 days?",
-   "o": [
+   "question": "If today is Monday, what day will it be after 29 days?",
+   "options": [
     "Monday",
     "Tuesday",
     "Friday",
     "Thursday"
    ],
-   "a": 1,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "29 days later gives Tuesday (29 mod 7 = 1)."
+   "answer": 1,
+   "explanation": "29 days later gives Tuesday (29 mod 7 = 1).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00154",
-   "q": "A person walks 5 km north and then 8 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 5 km north and then 8 km east. What is the straight line distance from the starting point?",
+   "options": [
     "9.43 km",
     "18.87 km",
     "10.43 km",
     "3 km"
    ],
-   "a": 0,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(5^2 + 8^2) = 9.43 km."
+   "answer": 0,
+   "explanation": "Distance = sqrt(5^2 + 8^2) = 9.43 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00155",
-   "q": "What is the angle between the hour and minute hands at 2:50?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 2:50?",
+   "options": [
     "145 degrees",
     "215 degrees",
     "115 degrees",
     "175 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 145 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 145 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00156",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "59",
     "56",
     "54",
     "55"
    ],
-   "a": 2,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 2,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00157",
-   "q": "Two books and three pens cost 24 rupees. If a book costs 6 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 24 rupees. If a book costs 6 rupees, what is the cost of one pen?",
+   "options": [
     "4 rupees",
     "4.8 rupees",
     "6 rupees",
     "3 rupees"
    ],
-   "a": 0,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 6 = 12, so 3 pens cost 12 and one pen costs 4 rupees."
+   "answer": 0,
+   "explanation": "2 x 6 = 12, so 3 pens cost 12 and one pen costs 4 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00158",
-   "q": "Find the next number in the series: 9, 11, 13, 15, 17, 19, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 11, 13, 15, 17, 19, ?",
+   "options": [
     "19",
     "42",
     "22",
     "21"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 21."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 21.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00159",
-   "q": "Find the next number in the series: 3, 6, 12, 24, 48, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 6, 12, 24, 48, ?",
+   "options": [
     "96",
     "94",
     "97",
     "95"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 96."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 96.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00160",
-   "q": "Find the next number in the series: 9, 16, 25, 36, 49, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 16, 25, 36, 49, 64, ?",
+   "options": [
     "78",
     "82",
     "84",
     "81"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 81."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 81.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00161",
-   "q": "Find the next number in the series: 512, 729, 1000, 1331, 1728, 2197, ?",
-   "o": [
+   "question": "Find the next number in the series: 512, 729, 1000, 1331, 1728, 2197, ?",
+   "options": [
     "2744",
     "2743",
     "5488",
     "2741"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2744."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 2744.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00162",
-   "q": "Find the next number in the series: 7, 23, 47, 79, 119, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 23, 47, 79, 119, ?",
+   "options": [
     "183",
     "167",
     "350",
     "175"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 175."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 175.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00163",
-   "q": "In a code language each letter is shifted 4 place(s) forward. How is JAR written?",
-   "o": [
+   "question": "In a code language each letter is shifted 4 place(s) forward. How is JAR written?",
+   "options": [
     "KBS",
     "NEV",
     "MDU",
     "LCT"
    ],
-   "a": 1,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of JAR by 4 gives NEV."
+   "answer": 1,
+   "explanation": "Shifting each letter of JAR by 4 gives NEV.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00164",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "121",
     "49",
     "81",
     "36"
    ],
-   "a": 1,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "49 is a perfect square."
+   "answer": 1,
+   "explanation": "49 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00165",
-   "q": "If today is Sunday, what day will it be after 69 days?",
-   "o": [
+   "question": "If today is Sunday, what day will it be after 69 days?",
+   "options": [
     "Thursday",
     "Tuesday",
     "Saturday",
     "Monday"
    ],
-   "a": 2,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "69 days later gives Saturday (69 mod 7 = 6)."
+   "answer": 2,
+   "explanation": "69 days later gives Saturday (69 mod 7 = 6).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00166",
-   "q": "A person walks 6 km north and then 6 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 6 km north and then 6 km east. What is the straight line distance from the starting point?",
+   "options": [
     "0 km",
     "12 km",
     "9.49 km",
     "8.49 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(6^2 + 6^2) = 8.49 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(6^2 + 6^2) = 8.49 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00167",
-   "q": "What is the angle between the hour and minute hands at 12:55?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 12:55?",
+   "options": [
     "302.5 degrees",
     "57.5 degrees",
     "87.5 degrees",
     "72.5 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 57.5 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 57.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00168",
-   "q": "Find the next term of the series: 1, 1, 2, 3, 5, 8, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, 5, 8, ?",
+   "options": [
     "18",
     "26",
     "12",
     "13"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 13."
+   "answer": 3,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 13.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00169",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "62",
     "65",
     "61",
     "60"
    ],
-   "a": 3,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 3,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00170",
-   "q": "Two books and three pens cost 29 rupees. If a book costs 4 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 29 rupees. If a book costs 4 rupees, what is the cost of one pen?",
+   "options": [
     "4 rupees",
     "8 rupees",
     "14 rupees",
     "7 rupees"
    ],
-   "a": 3,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 4 = 8, so 3 pens cost 21 and one pen costs 7 rupees."
+   "answer": 3,
+   "explanation": "2 x 4 = 8, so 3 pens cost 21 and one pen costs 7 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00171",
-   "q": "Find the next number in the series: 3, 7, 11, 15, 19, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 7, 11, 15, 19, ?",
+   "options": [
     "46",
     "23",
     "24",
     "22"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 23."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 23.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00172",
-   "q": "Find the next number in the series: 5, 10, 20, 40, 80, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 10, 20, 40, 80, ?",
+   "options": [
     "160",
     "156",
     "161",
     "164"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 160."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 160.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00173",
-   "q": "Find the next number in the series: 49, 64, 81, 100, 121, ?",
-   "o": [
+   "question": "Find the next number in the series: 49, 64, 81, 100, 121, ?",
+   "options": [
     "150",
     "288",
     "143",
     "144"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 144."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 144.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00174",
-   "q": "Find the next number in the series: 343, 512, 729, 1000, 1331, 1728, ?",
-   "o": [
+   "question": "Find the next number in the series: 343, 512, 729, 1000, 1331, 1728, ?",
+   "options": [
     "2198",
     "2197",
     "2200",
     "2194"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2197."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 2197.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00175",
-   "q": "Find the next number in the series: 2, 12, 27, 47, 72, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 12, 27, 47, 72, ?",
+   "options": [
     "108",
     "106",
     "102",
     "107"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 107."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 107.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00176",
-   "q": "In a code language each letter is shifted 1 place(s) forward. How is RAT written?",
-   "o": [
+   "question": "In a code language each letter is shifted 1 place(s) forward. How is RAT written?",
+   "options": [
     "UDW",
     "VEX",
     "SBU",
     "TCV"
    ],
-   "a": 2,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of RAT by 1 gives SBU."
+   "answer": 2,
+   "explanation": "Shifting each letter of RAT by 1 gives SBU.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00177",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "36",
     "81",
     "37",
     "4"
    ],
-   "a": 1,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "81 is a perfect square."
+   "answer": 1,
+   "explanation": "81 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00178",
-   "q": "If today is Monday, what day will it be after 30 days?",
-   "o": [
+   "question": "If today is Monday, what day will it be after 30 days?",
+   "options": [
     "Friday",
     "Thursday",
     "Tuesday",
     "Wednesday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "30 days later gives Wednesday (30 mod 7 = 2)."
+   "answer": 3,
+   "explanation": "30 days later gives Wednesday (30 mod 7 = 2).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00179",
-   "q": "A person walks 7 km north and then 6 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 7 km north and then 6 km east. What is the straight line distance from the starting point?",
+   "options": [
     "9.22 km",
     "18.44 km",
     "14 km",
     "13 km"
    ],
-   "a": 0,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(7^2 + 6^2) = 9.22 km."
+   "answer": 0,
+   "explanation": "Distance = sqrt(7^2 + 6^2) = 9.22 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00180",
-   "q": "What is the angle between the hour and minute hands at 8:35?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 8:35?",
+   "options": [
     "23.75 degrees",
     "17.5 degrees",
     "312.5 degrees",
     "47.5 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 47.5 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 47.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00181",
-   "q": "Find the next term of the series: 1, 1, 2, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, ?",
+   "options": [
     "8",
     "6",
     "3",
     "4"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 3."
+   "answer": 2,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 3.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00182",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "55",
     "59",
     "58",
     "54"
    ],
-   "a": 3,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 3,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00183",
-   "q": "Two books and three pens cost 28 rupees. If a book costs 5 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 28 rupees. If a book costs 5 rupees, what is the cost of one pen?",
+   "options": [
     "5 rupees",
     "7 rupees",
     "5.6 rupees",
     "6 rupees"
    ],
-   "a": 3,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 5 = 10, so 3 pens cost 18 and one pen costs 6 rupees."
+   "answer": 3,
+   "explanation": "2 x 5 = 10, so 3 pens cost 18 and one pen costs 6 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00184",
-   "q": "Find the next number in the series: 7, 9, 11, 13, 15, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 9, 11, 13, 15, ?",
+   "options": [
     "34",
     "16",
     "17",
     "19"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 17."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 17.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00185",
-   "q": "Find the next number in the series: 5, 10, 20, 40, 80, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 10, 20, 40, 80, ?",
+   "options": [
     "169",
     "160",
     "159",
     "151"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 160."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 160.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00186",
-   "q": "Find the next number in the series: 64, 81, 100, 121, 144, 169, ?",
-   "o": [
+   "question": "Find the next number in the series: 64, 81, 100, 121, 144, 169, ?",
+   "options": [
     "196",
     "392",
     "195",
     "205"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 196."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 196.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00187",
-   "q": "Find the next number in the series: 729, 1000, 1331, 1728, 2197, ?",
-   "o": [
+   "question": "Find the next number in the series: 729, 1000, 1331, 1728, 2197, ?",
+   "options": [
     "2752",
     "5488",
     "2744",
     "2743"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2744."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 2744.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00188",
-   "q": "Find the next number in the series: 3, 21, 48, 84, 129, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 21, 48, 84, 129, ?",
+   "options": [
     "191",
     "193",
     "201",
     "192"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 192."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 192.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00189",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "9",
     "5",
     "81",
     "25"
    ],
-   "a": 0,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "9 is a perfect square."
+   "answer": 0,
+   "explanation": "9 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00190",
-   "q": "If today is Tuesday, what day will it be after 34 days?",
-   "o": [
+   "question": "If today is Tuesday, what day will it be after 34 days?",
+   "options": [
     "Wednesday",
     "Monday",
     "Thursday",
     "Tuesday"
    ],
-   "a": 1,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "34 days later gives Monday (34 mod 7 = 6)."
+   "answer": 1,
+   "explanation": "34 days later gives Monday (34 mod 7 = 6).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00191",
-   "q": "A person walks 5 km north and then 3 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 5 km north and then 3 km east. What is the straight line distance from the starting point?",
+   "options": [
     "6.83 km",
     "2 km",
     "5.83 km",
     "8 km"
    ],
-   "a": 2,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(5^2 + 3^2) = 5.83 km."
+   "answer": 2,
+   "explanation": "Distance = sqrt(5^2 + 3^2) = 5.83 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00192",
-   "q": "What is the angle between the hour and minute hands at 10:15?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 10:15?",
+   "options": [
     "112.5 degrees",
     "217.5 degrees",
     "172.5 degrees",
     "142.5 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 142.5 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 142.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00193",
-   "q": "Find the next term of the series: 1, 1, 2, 3, 5, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, 5, ?",
+   "options": [
     "9",
     "8",
     "11",
     "16"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 8."
+   "answer": 1,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 8.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00194",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "58",
     "57",
     "61",
     "59"
    ],
-   "a": 1,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 1,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00195",
-   "q": "Two books and three pens cost 20 rupees. If a book costs 4 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 20 rupees. If a book costs 4 rupees, what is the cost of one pen?",
+   "options": [
     "4 rupees",
     "5 rupees",
     "3 rupees",
     "8 rupees"
    ],
-   "a": 0,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 4 = 8, so 3 pens cost 12 and one pen costs 4 rupees."
+   "answer": 0,
+   "explanation": "2 x 4 = 8, so 3 pens cost 12 and one pen costs 4 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00196",
-   "q": "Find the next number in the series: 4, 11, 18, 25, 32, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 11, 18, 25, 32, ?",
+   "options": [
     "46",
     "38",
     "39",
     "78"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 39."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 39.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00197",
-   "q": "Find the next number in the series: 4, 8, 16, 32, 64, 128, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 8, 16, 32, 64, 128, ?",
+   "options": [
     "512",
     "264",
     "255",
     "256"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 256."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 256.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00198",
-   "q": "Find the next number in the series: 16, 25, 36, 49, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 16, 25, 36, 49, 64, ?",
+   "options": [
     "162",
     "82",
     "81",
     "83"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 81."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 81.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00199",
-   "q": "Find the next number in the series: 343, 512, 729, 1000, 1331, 1728, ?",
-   "o": [
+   "question": "Find the next number in the series: 343, 512, 729, 1000, 1331, 1728, ?",
+   "options": [
     "4394",
     "2197",
     "2196",
     "2198"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2197."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 2197.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00200",
-   "q": "Find the next number in the series: 4, 8, 14, 22, 32, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 8, 14, 22, 32, ?",
+   "options": [
     "44",
     "92",
     "46",
     "47"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 46."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 46.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00201",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "144",
     "16",
     "65",
     "100"
    ],
-   "a": 0,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "144 is a perfect square."
+   "answer": 0,
+   "explanation": "144 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00202",
-   "q": "If today is Thursday, what day will it be after 61 days?",
-   "o": [
+   "question": "If today is Thursday, what day will it be after 61 days?",
+   "options": [
     "Wednesday",
     "Friday",
     "Monday",
     "Tuesday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "61 days later gives Tuesday (61 mod 7 = 5)."
+   "answer": 3,
+   "explanation": "61 days later gives Tuesday (61 mod 7 = 5).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00203",
-   "q": "A person walks 9 km north and then 7 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 9 km north and then 7 km east. What is the straight line distance from the starting point?",
+   "options": [
     "2 km",
     "11.4 km",
     "12.4 km",
     "22.8 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(9^2 + 7^2) = 11.4 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(9^2 + 7^2) = 11.4 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00204",
-   "q": "What is the angle between the hour and minute hands at 3:35?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 3:35?",
+   "options": [
     "132.5 degrees",
     "102.5 degrees",
     "117.5 degrees",
     "51.25 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 102.5 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 102.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00205",
-   "q": "Two books and three pens cost 27 rupees. If a book costs 3 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 27 rupees. If a book costs 3 rupees, what is the cost of one pen?",
+   "options": [
     "5.4 rupees",
     "6 rupees",
     "3 rupees",
     "7 rupees"
    ],
-   "a": 3,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 3 = 6, so 3 pens cost 21 and one pen costs 7 rupees."
+   "answer": 3,
+   "explanation": "2 x 3 = 6, so 3 pens cost 21 and one pen costs 7 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00206",
-   "q": "Find the next number in the series: 2, 5, 8, 11, 14, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 5, 8, 11, 14, ?",
+   "options": [
     "17",
     "16",
     "18",
     "14"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 17."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 17.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00207",
-   "q": "Find the next number in the series: 2, 4, 8, 16, 32, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 4, 8, 16, 32, ?",
+   "options": [
     "73",
     "64",
     "128",
     "55"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 64."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 64.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00208",
-   "q": "Find the next number in the series: 9, 16, 25, 36, 49, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 16, 25, 36, 49, ?",
+   "options": [
     "65",
     "63",
     "64",
     "57"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 64."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 64.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00209",
-   "q": "Find the next number in the series: 4, 20, 44, 76, 116, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 20, 44, 76, 116, ?",
+   "options": [
     "172",
     "171",
     "344",
     "173"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 172."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 172.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00210",
-   "q": "In a code language each letter is shifted 5 place(s) forward. How is PEN written?",
-   "o": [
+   "question": "In a code language each letter is shifted 5 place(s) forward. How is PEN written?",
+   "options": [
     "RGP",
     "UJS",
     "SHQ",
     "TIR"
    ],
-   "a": 1,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of PEN by 5 gives UJS."
+   "answer": 1,
+   "explanation": "Shifting each letter of PEN by 5 gives UJS.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00211",
-   "q": "If today is Monday, what day will it be after 21 days?",
-   "o": [
+   "question": "If today is Monday, what day will it be after 21 days?",
+   "options": [
     "Wednesday",
     "Friday",
     "Tuesday",
     "Monday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "21 days later gives Monday (21 mod 7 = 0)."
+   "answer": 3,
+   "explanation": "21 days later gives Monday (21 mod 7 = 0).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00212",
-   "q": "A person walks 3 km north and then 7 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 3 km north and then 7 km east. What is the straight line distance from the starting point?",
+   "options": [
     "7.62 km",
     "15.23 km",
     "6 km",
     "4 km"
    ],
-   "a": 0,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(3^2 + 7^2) = 7.62 km."
+   "answer": 0,
+   "explanation": "Distance = sqrt(3^2 + 7^2) = 7.62 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00213",
-   "q": "What is the angle between the hour and minute hands at 10:05?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 10:05?",
+   "options": [
     "102.5 degrees",
     "57.5 degrees",
     "43.75 degrees",
     "87.5 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 87.5 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 87.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00214",
-   "q": "Find the next term of the series: 1, 1, 2, 3, 5, 8, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, 5, 8, ?",
+   "options": [
     "26",
     "18",
     "16",
     "13"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 13."
+   "answer": 3,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 13.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00215",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "83",
     "82",
     "79",
     "78"
    ],
-   "a": 3,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 3,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00216",
-   "q": "Two books and three pens cost 30 rupees. If a book costs 6 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 30 rupees. If a book costs 6 rupees, what is the cost of one pen?",
+   "options": [
     "12 rupees",
     "5 rupees",
     "6 rupees",
     "7 rupees"
    ],
-   "a": 2,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 6 = 12, so 3 pens cost 18 and one pen costs 6 rupees."
+   "answer": 2,
+   "explanation": "2 x 6 = 12, so 3 pens cost 18 and one pen costs 6 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00217",
-   "q": "Find the next number in the series: 7, 9, 11, 13, 15, 17, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 9, 11, 13, 15, 17, ?",
+   "options": [
     "18",
     "21",
     "19",
     "20"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 19."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 19.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00218",
-   "q": "Find the next number in the series: 9, 18, 36, 72, 144, 288, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 18, 36, 72, 144, 288, ?",
+   "options": [
     "576",
     "568",
     "575",
     "584"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 576."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 576.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00219",
-   "q": "Find the next number in the series: 9, 16, 25, 36, 49, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 16, 25, 36, 49, 64, ?",
+   "options": [
     "81",
     "76",
     "80",
     "162"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 81."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 81.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00220",
-   "q": "Find the next number in the series: 729, 1000, 1331, 1728, 2197, ?",
-   "o": [
+   "question": "Find the next number in the series: 729, 1000, 1331, 1728, 2197, ?",
+   "options": [
     "2745",
     "2743",
     "2744",
     "2740"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2744."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 2744.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00221",
-   "q": "Find the next number in the series: 4, 18, 39, 67, 102, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 18, 39, 67, 102, ?",
+   "options": [
     "151",
     "144",
     "152",
     "302"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 151."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 151.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00222",
-   "q": "In a code language each letter is shifted 1 place(s) forward. How is PEN written?",
-   "o": [
+   "question": "In a code language each letter is shifted 1 place(s) forward. How is PEN written?",
+   "options": [
     "QFO",
     "RGP",
     "SHQ",
     "TIR"
    ],
-   "a": 0,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of PEN by 1 gives QFO."
+   "answer": 0,
+   "explanation": "Shifting each letter of PEN by 1 gives QFO.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00223",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "4",
     "65",
     "144",
     "37"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "144 is a perfect square."
+   "answer": 2,
+   "explanation": "144 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00224",
-   "q": "If today is Saturday, what day will it be after 14 days?",
-   "o": [
+   "question": "If today is Saturday, what day will it be after 14 days?",
+   "options": [
     "Tuesday",
     "Wednesday",
     "Thursday",
     "Saturday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "14 days later gives Saturday (14 mod 7 = 0)."
+   "answer": 3,
+   "explanation": "14 days later gives Saturday (14 mod 7 = 0).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00225",
-   "q": "A person walks 11 km north and then 3 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 11 km north and then 3 km east. What is the straight line distance from the starting point?",
+   "options": [
     "14 km",
     "12.4 km",
     "11.4 km",
     "8 km"
    ],
-   "a": 2,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(11^2 + 3^2) = 11.4 km."
+   "answer": 2,
+   "explanation": "Distance = sqrt(11^2 + 3^2) = 11.4 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00226",
-   "q": "What is the angle between the hour and minute hands at 5:20?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 5:20?",
+   "options": [
     "20 degrees",
     "320 degrees",
     "10 degrees",
     "40 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 40 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 40 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00227",
-   "q": "Find the next term of the series: 1, 1, 2, 3, 5, 8, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, 5, 8, ?",
+   "options": [
     "12",
     "13",
     "16",
     "14"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 13."
+   "answer": 1,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 13.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00228",
-   "q": "Find the next number in the series: 2, 6, 10, 14, 18, 22, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 6, 10, 14, 18, 22, ?",
+   "options": [
     "26",
     "22",
     "25",
     "27"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 26."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 26.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00229",
-   "q": "Find the next number in the series: 8, 16, 32, 64, 128, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 16, 32, 64, 128, ?",
+   "options": [
     "512",
     "248",
     "256",
     "255"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 256."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 256.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00230",
-   "q": "Find the next number in the series: 25, 36, 49, 64, 81, 100, ?",
-   "o": [
+   "question": "Find the next number in the series: 25, 36, 49, 64, 81, 100, ?",
+   "options": [
     "121",
     "120",
     "127",
     "122"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 121."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 121.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00231",
-   "q": "Find the next number in the series: 1000, 1331, 1728, 2197, 2744, ?",
-   "o": [
+   "question": "Find the next number in the series: 1000, 1331, 1728, 2197, 2744, ?",
+   "options": [
     "6750",
     "3374",
     "3375",
     "3376"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 3375."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 3375.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00232",
-   "q": "Find the next number in the series: 3, 15, 33, 57, 87, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 15, 33, 57, 87, ?",
+   "options": [
     "135",
     "128",
     "129",
     "123"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 129."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 129.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00233",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "121",
     "36",
     "122",
     "5"
    ],
-   "a": 1,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "36 is a perfect square."
+   "answer": 1,
+   "explanation": "36 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00234",
-   "q": "If today is Wednesday, what day will it be after 24 days?",
-   "o": [
+   "question": "If today is Wednesday, what day will it be after 24 days?",
+   "options": [
     "Saturday",
     "Wednesday",
     "Monday",
     "Thursday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "24 days later gives Saturday (24 mod 7 = 3)."
+   "answer": 0,
+   "explanation": "24 days later gives Saturday (24 mod 7 = 3).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00235",
-   "q": "A person walks 6 km north and then 2 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 6 km north and then 2 km east. What is the straight line distance from the starting point?",
+   "options": [
     "6.32 km",
     "12.65 km",
     "7.32 km",
     "8 km"
    ],
-   "a": 0,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(6^2 + 2^2) = 6.32 km."
+   "answer": 0,
+   "explanation": "Distance = sqrt(6^2 + 2^2) = 6.32 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00236",
-   "q": "What is the angle between the hour and minute hands at 12:35?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 12:35?",
+   "options": [
     "182.5 degrees",
     "192.5 degrees",
     "197.5 degrees",
     "167.5 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 167.5 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 167.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00237",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "32",
     "35",
     "31",
     "30"
    ],
-   "a": 3,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 3,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00238",
-   "q": "Find the next number in the series: 6, 14, 22, 30, 38, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 14, 22, 30, 38, ?",
+   "options": [
     "54",
     "47",
     "46",
     "45"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 46."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 46.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00239",
-   "q": "Find the next number in the series: 3, 6, 12, 24, 48, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 6, 12, 24, 48, ?",
+   "options": [
     "95",
     "103",
     "89",
     "96"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 96."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 96.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00240",
-   "q": "Find the next number in the series: 64, 81, 100, 121, 144, ?",
-   "o": [
+   "question": "Find the next number in the series: 64, 81, 100, 121, 144, ?",
+   "options": [
     "169",
     "162",
     "168",
     "338"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 169."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 169.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00241",
-   "q": "Find the next number in the series: 216, 343, 512, 729, 1000, 1331, ?",
-   "o": [
+   "question": "Find the next number in the series: 216, 343, 512, 729, 1000, 1331, ?",
+   "options": [
     "1727",
     "3456",
     "1736",
     "1728"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1728."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 1728.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00242",
-   "q": "Find the next number in the series: 6, 10, 16, 24, 34, 46, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 10, 16, 24, 34, 46, ?",
+   "options": [
     "62",
     "63",
     "61",
     "124"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 62."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 62.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00243",
-   "q": "In a code language each letter is shifted 5 place(s) forward. How is DOG written?",
-   "o": [
+   "question": "In a code language each letter is shifted 5 place(s) forward. How is DOG written?",
+   "options": [
     "ITL",
     "HSK",
     "FQI",
     "EPH"
    ],
-   "a": 0,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of DOG by 5 gives ITL."
+   "answer": 0,
+   "explanation": "Shifting each letter of DOG by 5 gives ITL.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00244",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "5",
     "16",
     "4",
     "100"
    ],
-   "a": 3,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "100 is a perfect square."
+   "answer": 3,
+   "explanation": "100 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00245",
-   "q": "If today is Sunday, what day will it be after 67 days?",
-   "o": [
+   "question": "If today is Sunday, what day will it be after 67 days?",
+   "options": [
     "Thursday",
     "Friday",
     "Tuesday",
     "Wednesday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "67 days later gives Thursday (67 mod 7 = 4)."
+   "answer": 0,
+   "explanation": "67 days later gives Thursday (67 mod 7 = 4).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00246",
-   "q": "A person walks 5 km north and then 5 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 5 km north and then 5 km east. What is the straight line distance from the starting point?",
+   "options": [
     "14.14 km",
     "10 km",
     "7.07 km",
     "0 km"
    ],
-   "a": 2,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(5^2 + 5^2) = 7.07 km."
+   "answer": 2,
+   "explanation": "Distance = sqrt(5^2 + 5^2) = 7.07 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00247",
-   "q": "What is the angle between the hour and minute hands at 9:00?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 9:00?",
+   "options": [
     "120 degrees",
     "45 degrees",
     "90 degrees",
     "60 degrees"
    ],
-   "a": 2,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 90 degrees."
+   "answer": 2,
+   "explanation": "Angle = |30H - 5.5M| = 90 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00248",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "36",
     "37",
     "38",
     "40"
    ],
-   "a": 0,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 0,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00249",
-   "q": "Two books and three pens cost 32 rupees. If a book costs 7 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 32 rupees. If a book costs 7 rupees, what is the cost of one pen?",
+   "options": [
     "6 rupees",
     "5 rupees",
     "6.4 rupees",
     "12 rupees"
    ],
-   "a": 0,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 7 = 14, so 3 pens cost 18 and one pen costs 6 rupees."
+   "answer": 0,
+   "explanation": "2 x 7 = 14, so 3 pens cost 18 and one pen costs 6 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00250",
-   "q": "Find the next number in the series: 3, 11, 19, 27, 35, 43, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 11, 19, 27, 35, 43, ?",
+   "options": [
     "52",
     "51",
     "59",
     "102"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 51."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 51.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00251",
-   "q": "Find the next number in the series: 7, 14, 28, 56, 112, 224, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 14, 28, 56, 112, 224, ?",
+   "options": [
     "896",
     "447",
     "448",
     "439"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 448."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 448.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00252",
-   "q": "Find the next number in the series: 4, 9, 16, 25, 36, 49, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 9, 16, 25, 36, 49, ?",
+   "options": [
     "63",
     "128",
     "64",
     "58"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 64."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 64.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00253",
-   "q": "Find the next number in the series: 729, 1000, 1331, 1728, 2197, ?",
-   "o": [
+   "question": "Find the next number in the series: 729, 1000, 1331, 1728, 2197, ?",
+   "options": [
     "2750",
     "2744",
     "2738",
     "5488"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2744."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 2744.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00254",
-   "q": "Find the next number in the series: 2, 12, 27, 47, 72, 102, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 12, 27, 47, 72, 102, ?",
+   "options": [
     "147",
     "141",
     "143",
     "142"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 142."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 142.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00255",
-   "q": "In a code language each letter is shifted 4 place(s) forward. How is MAN written?",
-   "o": [
+   "question": "In a code language each letter is shifted 4 place(s) forward. How is MAN written?",
+   "options": [
     "PDQ",
     "OCP",
     "NBO",
     "QER"
    ],
-   "a": 3,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of MAN by 4 gives QER."
+   "answer": 3,
+   "explanation": "Shifting each letter of MAN by 4 gives QER.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00256",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "25",
     "122",
     "26",
     "4"
    ],
-   "a": 3,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "4 is a perfect square."
+   "answer": 3,
+   "explanation": "4 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00257",
-   "q": "If today is Sunday, what day will it be after 27 days?",
-   "o": [
+   "question": "If today is Sunday, what day will it be after 27 days?",
+   "options": [
     "Saturday",
     "Tuesday",
     "Monday",
     "Wednesday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "27 days later gives Saturday (27 mod 7 = 6)."
+   "answer": 0,
+   "explanation": "27 days later gives Saturday (27 mod 7 = 6).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00258",
-   "q": "A person walks 3 km north and then 6 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 3 km north and then 6 km east. What is the straight line distance from the starting point?",
+   "options": [
     "9 km",
     "6.71 km",
     "6 km",
     "13.42 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(3^2 + 6^2) = 6.71 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(3^2 + 6^2) = 6.71 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00259",
-   "q": "What is the angle between the hour and minute hands at 7:00?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 7:00?",
+   "options": [
     "120 degrees",
     "180 degrees",
     "150 degrees",
     "75 degrees"
    ],
-   "a": 2,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 150 degrees."
+   "answer": 2,
+   "explanation": "Angle = |30H - 5.5M| = 150 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00260",
-   "q": "Find the next term of the series: 1, 1, 2, 3, 5, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, 5, ?",
+   "options": [
     "8",
     "16",
     "9",
     "7"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 8."
+   "answer": 0,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 8.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00261",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "25",
     "26",
     "21",
     "22"
    ],
-   "a": 2,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 2,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00262",
-   "q": "Two books and three pens cost 26 rupees. If a book costs 4 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 26 rupees. If a book costs 4 rupees, what is the cost of one pen?",
+   "options": [
     "5.2 rupees",
     "7 rupees",
     "6 rupees",
     "12 rupees"
    ],
-   "a": 2,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 4 = 8, so 3 pens cost 18 and one pen costs 6 rupees."
+   "answer": 2,
+   "explanation": "2 x 4 = 8, so 3 pens cost 18 and one pen costs 6 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00263",
-   "q": "Find the next number in the series: 2, 7, 12, 17, 22, 27, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 7, 12, 17, 22, 27, ?",
+   "options": [
     "64",
     "32",
     "33",
     "31"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 32."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 32.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00264",
-   "q": "Find the next number in the series: 6, 12, 24, 48, 96, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 12, 24, 48, 96, ?",
+   "options": [
     "384",
     "191",
     "193",
     "192"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 192."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 192.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00265",
-   "q": "Find the next number in the series: 4, 9, 16, 25, 36, 49, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 9, 16, 25, 36, 49, ?",
+   "options": [
     "60",
     "65",
     "128",
     "64"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 64."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 64.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00266",
-   "q": "Find the next number in the series: 343, 512, 729, 1000, 1331, ?",
-   "o": [
+   "question": "Find the next number in the series: 343, 512, 729, 1000, 1331, ?",
+   "options": [
     "1729",
     "1727",
     "1728",
     "3456"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1728."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 1728.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00267",
-   "q": "Find the next number in the series: 3, 15, 33, 57, 87, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 15, 33, 57, 87, ?",
+   "options": [
     "128",
     "129",
     "123",
     "130"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 129."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 129.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00268",
-   "q": "In a code language each letter is shifted 2 place(s) forward. How is PEN written?",
-   "o": [
+   "question": "In a code language each letter is shifted 2 place(s) forward. How is PEN written?",
+   "options": [
     "RGP",
     "TIR",
     "QFO",
     "SHQ"
    ],
-   "a": 0,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of PEN by 2 gives RGP."
+   "answer": 0,
+   "explanation": "Shifting each letter of PEN by 2 gives RGP.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00269",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "82",
     "81",
     "16",
     "36"
    ],
-   "a": 3,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "36 is a perfect square."
+   "answer": 3,
+   "explanation": "36 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00270",
-   "q": "If today is Thursday, what day will it be after 34 days?",
-   "o": [
+   "question": "If today is Thursday, what day will it be after 34 days?",
+   "options": [
     "Thursday",
     "Tuesday",
     "Wednesday",
     "Friday"
    ],
-   "a": 2,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "34 days later gives Wednesday (34 mod 7 = 6)."
+   "answer": 2,
+   "explanation": "34 days later gives Wednesday (34 mod 7 = 6).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00271",
-   "q": "A person walks 5 km north and then 2 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 5 km north and then 2 km east. What is the straight line distance from the starting point?",
+   "options": [
     "7 km",
     "6.39 km",
     "10.77 km",
     "5.39 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(5^2 + 2^2) = 5.39 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(5^2 + 2^2) = 5.39 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00272",
-   "q": "What is the angle between the hour and minute hands at 8:10?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 8:10?",
+   "options": [
     "185 degrees",
     "175 degrees",
     "87.5 degrees",
     "190 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 175 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 175 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00273",
-   "q": "Find the next term of the series: 1, 1, 2, 3, 5, 8, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, 5, 8, ?",
+   "options": [
     "12",
     "16",
     "26",
     "13"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 13."
+   "answer": 3,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 13.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00274",
-   "q": "Two books and three pens cost 15 rupees. If a book costs 3 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 15 rupees. If a book costs 3 rupees, what is the cost of one pen?",
+   "options": [
     "4 rupees",
     "2 rupees",
     "3 rupees",
     "6 rupees"
    ],
-   "a": 2,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 3 = 6, so 3 pens cost 9 and one pen costs 3 rupees."
+   "answer": 2,
+   "explanation": "2 x 3 = 6, so 3 pens cost 9 and one pen costs 3 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00275",
-   "q": "Find the next number in the series: 9, 14, 19, 24, 29, 34, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 14, 19, 24, 29, 34, ?",
+   "options": [
     "78",
     "44",
     "40",
     "39"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 39."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 39.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00276",
-   "q": "Find the next number in the series: 5, 10, 20, 40, 80, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 10, 20, 40, 80, ?",
+   "options": [
     "154",
     "161",
     "160",
     "320"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 160."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 160.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00277",
-   "q": "Find the next number in the series: 4, 9, 16, 25, 36, 49, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 9, 16, 25, 36, 49, ?",
+   "options": [
     "65",
     "64",
     "63",
     "128"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 64."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 64.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00278",
-   "q": "Find the next number in the series: 216, 343, 512, 729, 1000, 1331, ?",
-   "o": [
+   "question": "Find the next number in the series: 216, 343, 512, 729, 1000, 1331, ?",
+   "options": [
     "1727",
     "3456",
     "1735",
     "1728"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1728."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 1728.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00279",
-   "q": "Find the next number in the series: 4, 14, 29, 49, 74, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 14, 29, 49, 74, ?",
+   "options": [
     "218",
     "109",
     "114",
     "104"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 109."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 109.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00280",
-   "q": "In a code language each letter is shifted 2 place(s) forward. How is TOP written?",
-   "o": [
+   "question": "In a code language each letter is shifted 2 place(s) forward. How is TOP written?",
+   "options": [
     "XST",
     "VQR",
     "WRS",
     "UPQ"
    ],
-   "a": 1,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of TOP by 2 gives VQR."
+   "answer": 1,
+   "explanation": "Shifting each letter of TOP by 2 gives VQR.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00281",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "4",
     "81",
     "121",
     "5"
    ],
-   "a": 1,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "81 is a perfect square."
+   "answer": 1,
+   "explanation": "81 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00282",
-   "q": "If today is Saturday, what day will it be after 20 days?",
-   "o": [
+   "question": "If today is Saturday, what day will it be after 20 days?",
+   "options": [
     "Tuesday",
     "Friday",
     "Monday",
     "Thursday"
    ],
-   "a": 1,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "20 days later gives Friday (20 mod 7 = 6)."
+   "answer": 1,
+   "explanation": "20 days later gives Friday (20 mod 7 = 6).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00283",
-   "q": "A person walks 6 km north and then 10 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 6 km north and then 10 km east. What is the straight line distance from the starting point?",
+   "options": [
     "12 km",
     "16 km",
     "23.32 km",
     "11.66 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(6^2 + 10^2) = 11.66 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(6^2 + 10^2) = 11.66 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00284",
-   "q": "What is the angle between the hour and minute hands at 7:05?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 7:05?",
+   "options": [
     "207.5 degrees",
     "147.5 degrees",
     "192.5 degrees",
     "177.5 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 177.5 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 177.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00285",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "46",
     "44",
     "43",
     "42"
    ],
-   "a": 3,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 3,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00286",
-   "q": "Find the next number in the series: 8, 12, 16, 20, 24, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 12, 16, 20, 24, ?",
+   "options": [
     "56",
     "27",
     "32",
     "28"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 28."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 28.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00287",
-   "q": "Find the next number in the series: 8, 16, 32, 64, 128, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 16, 32, 64, 128, ?",
+   "options": [
     "251",
     "512",
     "255",
     "256"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 256."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 256.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00288",
-   "q": "Find the next number in the series: 49, 64, 81, 100, 121, ?",
-   "o": [
+   "question": "Find the next number in the series: 49, 64, 81, 100, 121, ?",
+   "options": [
     "144",
     "137",
     "143",
     "288"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 144."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 144.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00289",
-   "q": "Find the next number in the series: 27, 64, 125, 216, 343, 512, ?",
-   "o": [
+   "question": "Find the next number in the series: 27, 64, 125, 216, 343, 512, ?",
+   "options": [
     "723",
     "728",
     "729",
     "1458"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 729."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 729.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00290",
-   "q": "Find the next number in the series: 7, 11, 17, 25, 35, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 11, 17, 25, 35, ?",
+   "options": [
     "49",
     "48",
     "47",
     "51"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 49."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 49.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00291",
-   "q": "In a code language each letter is shifted 5 place(s) forward. How is JAR written?",
-   "o": [
+   "question": "In a code language each letter is shifted 5 place(s) forward. How is JAR written?",
+   "options": [
     "KBS",
     "MDU",
     "LCT",
     "OFW"
    ],
-   "a": 3,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of JAR by 5 gives OFW."
+   "answer": 3,
+   "explanation": "Shifting each letter of JAR by 5 gives OFW.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00292",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "121",
     "25",
     "50",
     "82"
    ],
-   "a": 1,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "25 is a perfect square."
+   "answer": 1,
+   "explanation": "25 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00293",
-   "q": "If today is Sunday, what day will it be after 68 days?",
-   "o": [
+   "question": "If today is Sunday, what day will it be after 68 days?",
+   "options": [
     "Thursday",
     "Friday",
     "Monday",
     "Tuesday"
    ],
-   "a": 1,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "68 days later gives Friday (68 mod 7 = 5)."
+   "answer": 1,
+   "explanation": "68 days later gives Friday (68 mod 7 = 5).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00294",
-   "q": "A person walks 7 km north and then 5 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 7 km north and then 5 km east. What is the straight line distance from the starting point?",
+   "options": [
     "8.6 km",
     "12 km",
     "17.2 km",
     "2 km"
    ],
-   "a": 0,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(7^2 + 5^2) = 8.6 km."
+   "answer": 0,
+   "explanation": "Distance = sqrt(7^2 + 5^2) = 8.6 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00295",
-   "q": "What is the angle between the hour and minute hands at 1:55?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 1:55?",
+   "options": [
     "87.5 degrees",
     "43.75 degrees",
     "117.5 degrees",
     "57.5 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 87.5 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 87.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00296",
-   "q": "Two books and three pens cost 33 rupees. If a book costs 6 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 33 rupees. If a book costs 6 rupees, what is the cost of one pen?",
+   "options": [
     "6.6 rupees",
     "7 rupees",
     "6 rupees",
     "8 rupees"
    ],
-   "a": 1,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 6 = 12, so 3 pens cost 21 and one pen costs 7 rupees."
+   "answer": 1,
+   "explanation": "2 x 6 = 12, so 3 pens cost 21 and one pen costs 7 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00297",
-   "q": "Find the next number in the series: 7, 14, 21, 28, 35, 42, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 14, 21, 28, 35, 42, ?",
+   "options": [
     "42",
     "50",
     "98",
     "49"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 49."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 49.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00298",
-   "q": "Find the next number in the series: 3, 6, 12, 24, 48, 96, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 6, 12, 24, 48, 96, ?",
+   "options": [
     "199",
     "192",
     "384",
     "193"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 192."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 192.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00299",
-   "q": "Find the next number in the series: 25, 36, 49, 64, 81, 100, ?",
-   "o": [
+   "question": "Find the next number in the series: 25, 36, 49, 64, 81, 100, ?",
+   "options": [
     "121",
     "122",
     "124",
     "120"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 121."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 121.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00300",
-   "q": "Find the next number in the series: 729, 1000, 1331, 1728, 2197, ?",
-   "o": [
+   "question": "Find the next number in the series: 729, 1000, 1331, 1728, 2197, ?",
+   "options": [
     "2744",
     "5488",
     "2745",
     "2736"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2744."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 2744.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00301",
-   "q": "Find the next number in the series: 9, 13, 19, 27, 37, 49, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 13, 19, 27, 37, 49, ?",
+   "options": [
     "65",
     "66",
     "64",
     "130"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 65."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 65.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00302",
-   "q": "In a code language each letter is shifted 4 place(s) forward. How is DOG written?",
-   "o": [
+   "question": "In a code language each letter is shifted 4 place(s) forward. How is DOG written?",
+   "options": [
     "FQI",
     "GRJ",
     "EPH",
     "HSK"
    ],
-   "a": 3,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of DOG by 4 gives HSK."
+   "answer": 3,
+   "explanation": "Shifting each letter of DOG by 4 gives HSK.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00303",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "50",
     "81",
     "49",
     "25"
    ],
-   "a": 3,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "25 is a perfect square."
+   "answer": 3,
+   "explanation": "25 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00304",
-   "q": "If today is Thursday, what day will it be after 18 days?",
-   "o": [
+   "question": "If today is Thursday, what day will it be after 18 days?",
+   "options": [
     "Monday",
     "Wednesday",
     "Friday",
     "Tuesday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "18 days later gives Monday (18 mod 7 = 4)."
+   "answer": 0,
+   "explanation": "18 days later gives Monday (18 mod 7 = 4).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00305",
-   "q": "A person walks 5 km north and then 8 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 5 km north and then 8 km east. What is the straight line distance from the starting point?",
+   "options": [
     "3 km",
     "9.43 km",
     "18.87 km",
     "10 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(5^2 + 8^2) = 9.43 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(5^2 + 8^2) = 9.43 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00306",
-   "q": "What is the angle between the hour and minute hands at 3:15?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 3:15?",
+   "options": [
     "-22.5 degrees",
     "3.75 degrees",
     "352.5 degrees",
     "7.5 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 7.5 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 7.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00307",
-   "q": "Find the next term of the series: 1, 1, 2, 3, 5, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, 5, ?",
+   "options": [
     "13",
     "8",
     "7",
     "16"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 8."
+   "answer": 1,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 8.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00308",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "46",
     "43",
     "47",
     "42"
    ],
-   "a": 3,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 3,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00309",
-   "q": "Two books and three pens cost 33 rupees. If a book costs 6 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 33 rupees. If a book costs 6 rupees, what is the cost of one pen?",
+   "options": [
     "7 rupees",
     "6.6 rupees",
     "14 rupees",
     "6 rupees"
    ],
-   "a": 0,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 6 = 12, so 3 pens cost 21 and one pen costs 7 rupees."
+   "answer": 0,
+   "explanation": "2 x 6 = 12, so 3 pens cost 21 and one pen costs 7 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00310",
-   "q": "Find the next number in the series: 9, 17, 25, 33, 41, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 17, 25, 33, 41, ?",
+   "options": [
     "98",
     "50",
     "49",
     "41"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 49."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 49.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00311",
-   "q": "Find the next number in the series: 2, 4, 8, 16, 32, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 4, 8, 16, 32, 64, ?",
+   "options": [
     "129",
     "126",
     "128",
     "130"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 128."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 128.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00312",
-   "q": "Find the next number in the series: 16, 25, 36, 49, 64, 81, ?",
-   "o": [
+   "question": "Find the next number in the series: 16, 25, 36, 49, 64, 81, ?",
+   "options": [
     "108",
     "200",
     "100",
     "101"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 100."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 100.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00313",
-   "q": "Find the next number in the series: 729, 1000, 1331, 1728, 2197, ?",
-   "o": [
+   "question": "Find the next number in the series: 729, 1000, 1331, 1728, 2197, ?",
+   "options": [
     "2745",
     "2744",
     "5488",
     "2743"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2744."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 2744.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00314",
-   "q": "Find the next number in the series: 4, 16, 34, 58, 88, 124, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 16, 34, 58, 88, 124, ?",
+   "options": [
     "172",
     "178",
     "166",
     "171"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 172."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 172.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00315",
-   "q": "In a code language each letter is shifted 4 place(s) forward. How is PEN written?",
-   "o": [
+   "question": "In a code language each letter is shifted 4 place(s) forward. How is PEN written?",
+   "options": [
     "QFO",
     "TIR",
     "RGP",
     "SHQ"
    ],
-   "a": 1,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of PEN by 4 gives TIR."
+   "answer": 1,
+   "explanation": "Shifting each letter of PEN by 4 gives TIR.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00316",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "64",
     "121",
     "5",
     "81"
    ],
-   "a": 3,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "81 is a perfect square."
+   "answer": 3,
+   "explanation": "81 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00317",
-   "q": "If today is Friday, what day will it be after 14 days?",
-   "o": [
+   "question": "If today is Friday, what day will it be after 14 days?",
+   "options": [
     "Wednesday",
     "Thursday",
     "Monday",
     "Friday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "14 days later gives Friday (14 mod 7 = 0)."
+   "answer": 3,
+   "explanation": "14 days later gives Friday (14 mod 7 = 0).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00318",
-   "q": "A person walks 6 km north and then 5 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 6 km north and then 5 km east. What is the straight line distance from the starting point?",
+   "options": [
     "8.81 km",
     "7.81 km",
     "11 km",
     "12 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(6^2 + 5^2) = 7.81 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(6^2 + 5^2) = 7.81 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00319",
-   "q": "What is the angle between the hour and minute hands at 11:35?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 11:35?",
+   "options": [
     "137.5 degrees",
     "222.5 degrees",
     "167.5 degrees",
     "68.75 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 137.5 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 137.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00320",
-   "q": "Find the next term of the series: 1, 1, 2, 3, 5, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, 5, ?",
+   "options": [
     "8",
     "7",
     "13",
     "9"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 8."
+   "answer": 0,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 8.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00321",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "47",
     "45",
     "50",
     "49"
    ],
-   "a": 1,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 1,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00322",
-   "q": "Find the next number in the series: 3, 10, 17, 24, 31, 38, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 10, 17, 24, 31, 38, ?",
+   "options": [
     "45",
     "52",
     "44",
     "90"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 45."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 45.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00323",
-   "q": "Find the next number in the series: 4, 8, 16, 32, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 8, 16, 32, 64, ?",
+   "options": [
     "121",
     "128",
     "256",
     "127"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 128."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 128.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00324",
-   "q": "Find the next number in the series: 25, 36, 49, 64, 81, 100, ?",
-   "o": [
+   "question": "Find the next number in the series: 25, 36, 49, 64, 81, 100, ?",
+   "options": [
     "120",
     "121",
     "122",
     "242"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 121."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 121.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00325",
-   "q": "Find the next number in the series: 343, 512, 729, 1000, 1331, ?",
-   "o": [
+   "question": "Find the next number in the series: 343, 512, 729, 1000, 1331, ?",
+   "options": [
     "1728",
     "3456",
     "1721",
     "1729"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1728."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 1728.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00326",
-   "q": "Find the next number in the series: 5, 19, 40, 68, 103, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 19, 40, 68, 103, ?",
+   "options": [
     "152",
     "145",
     "159",
     "304"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 152."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 152.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00327",
-   "q": "In a code language each letter is shifted 2 place(s) forward. How is RAT written?",
-   "o": [
+   "question": "In a code language each letter is shifted 2 place(s) forward. How is RAT written?",
+   "options": [
     "UDW",
     "SBU",
     "TCV",
     "VEX"
    ],
-   "a": 2,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of RAT by 2 gives TCV."
+   "answer": 2,
+   "explanation": "Shifting each letter of RAT by 2 gives TCV.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00328",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "121",
     "64",
     "36",
     "5"
    ],
-   "a": 0,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "121 is a perfect square."
+   "answer": 0,
+   "explanation": "121 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00329",
-   "q": "If today is Friday, what day will it be after 39 days?",
-   "o": [
+   "question": "If today is Friday, what day will it be after 39 days?",
+   "options": [
     "Tuesday",
     "Friday",
     "Thursday",
     "Monday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "39 days later gives Tuesday (39 mod 7 = 4)."
+   "answer": 0,
+   "explanation": "39 days later gives Tuesday (39 mod 7 = 4).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00330",
-   "q": "A person walks 4 km north and then 9 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 4 km north and then 9 km east. What is the straight line distance from the starting point?",
+   "options": [
     "13 km",
     "9.85 km",
     "5 km",
     "10.85 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(4^2 + 9^2) = 9.85 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(4^2 + 9^2) = 9.85 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00331",
-   "q": "What is the angle between the hour and minute hands at 3:45?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 3:45?",
+   "options": [
     "127.5 degrees",
     "78.75 degrees",
     "202.5 degrees",
     "157.5 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 157.5 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 157.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00332",
-   "q": "Find the next term of the series: 1, 1, 2, 3, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, ?",
+   "options": [
     "8",
     "5",
     "10",
     "4"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 5."
+   "answer": 1,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 5.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00333",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "54",
     "55",
     "58",
     "56"
    ],
-   "a": 0,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 0,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00334",
-   "q": "Two books and three pens cost 29 rupees. If a book costs 4 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 29 rupees. If a book costs 4 rupees, what is the cost of one pen?",
+   "options": [
     "5.8 rupees",
     "14 rupees",
     "4 rupees",
     "7 rupees"
    ],
-   "a": 3,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 4 = 8, so 3 pens cost 21 and one pen costs 7 rupees."
+   "answer": 3,
+   "explanation": "2 x 4 = 8, so 3 pens cost 21 and one pen costs 7 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00335",
-   "q": "Find the next number in the series: 3, 6, 9, 12, 15, 18, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 6, 9, 12, 15, 18, ?",
+   "options": [
     "21",
     "42",
     "22",
     "20"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 21."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 21.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00336",
-   "q": "Find the next number in the series: 6, 12, 24, 48, 96, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 12, 24, 48, 96, ?",
+   "options": [
     "192",
     "183",
     "191",
     "193"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 192."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 192.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00337",
-   "q": "Find the next number in the series: 36, 49, 64, 81, 100, 121, ?",
-   "o": [
+   "question": "Find the next number in the series: 36, 49, 64, 81, 100, 121, ?",
+   "options": [
     "145",
     "144",
     "288",
     "146"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 144."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 144.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00338",
-   "q": "Find the next number in the series: 512, 729, 1000, 1331, 1728, 2197, ?",
-   "o": [
+   "question": "Find the next number in the series: 512, 729, 1000, 1331, 1728, 2197, ?",
+   "options": [
     "2741",
     "2743",
     "2744",
     "2745"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2744."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 2744.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00339",
-   "q": "Find the next number in the series: 6, 16, 31, 51, 76, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 16, 31, 51, 76, ?",
+   "options": [
     "111",
     "112",
     "110",
     "106"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 111."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 111.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00340",
-   "q": "In a code language each letter is shifted 5 place(s) forward. How is SUN written?",
-   "o": [
+   "question": "In a code language each letter is shifted 5 place(s) forward. How is SUN written?",
+   "options": [
     "VXQ",
     "XZS",
     "WYR",
     "TVO"
    ],
-   "a": 1,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of SUN by 5 gives XZS."
+   "answer": 1,
+   "explanation": "Shifting each letter of SUN by 5 gives XZS.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00341",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "26",
     "49",
     "50",
     "4"
    ],
-   "a": 3,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "4 is a perfect square."
+   "answer": 3,
+   "explanation": "4 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00342",
-   "q": "If today is Friday, what day will it be after 25 days?",
-   "o": [
+   "question": "If today is Friday, what day will it be after 25 days?",
+   "options": [
     "Tuesday",
     "Thursday",
     "Friday",
     "Wednesday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "25 days later gives Tuesday (25 mod 7 = 4)."
+   "answer": 0,
+   "explanation": "25 days later gives Tuesday (25 mod 7 = 4).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00343",
-   "q": "A person walks 3 km north and then 9 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 3 km north and then 9 km east. What is the straight line distance from the starting point?",
+   "options": [
     "9.49 km",
     "10.49 km",
     "18.97 km",
     "12 km"
    ],
-   "a": 0,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(3^2 + 9^2) = 9.49 km."
+   "answer": 0,
+   "explanation": "Distance = sqrt(3^2 + 9^2) = 9.49 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00344",
-   "q": "What is the angle between the hour and minute hands at 10:30?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 10:30?",
+   "options": [
     "225 degrees",
     "150 degrees",
     "67.5 degrees",
     "135 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 135 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 135 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00345",
-   "q": "Two books and three pens cost 24 rupees. If a book costs 6 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 24 rupees. If a book costs 6 rupees, what is the cost of one pen?",
+   "options": [
     "6 rupees",
     "5 rupees",
     "4 rupees",
     "4.8 rupees"
    ],
-   "a": 2,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 6 = 12, so 3 pens cost 12 and one pen costs 4 rupees."
+   "answer": 2,
+   "explanation": "2 x 6 = 12, so 3 pens cost 12 and one pen costs 4 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00346",
-   "q": "Find the next number in the series: 6, 8, 10, 12, 14, 16, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 8, 10, 12, 14, 16, ?",
+   "options": [
     "16",
     "20",
     "18",
     "36"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 18."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 18.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00347",
-   "q": "Find the next number in the series: 9, 18, 36, 72, 144, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 18, 36, 72, 144, ?",
+   "options": [
     "287",
     "288",
     "285",
     "291"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 288."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 288.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00348",
-   "q": "Find the next number in the series: 81, 100, 121, 144, 169, 196, ?",
-   "o": [
+   "question": "Find the next number in the series: 81, 100, 121, 144, 169, 196, ?",
+   "options": [
     "225",
     "226",
     "450",
     "218"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 225."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 225.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00349",
-   "q": "Find the next number in the series: 64, 125, 216, 343, 512, 729, ?",
-   "o": [
+   "question": "Find the next number in the series: 64, 125, 216, 343, 512, 729, ?",
+   "options": [
     "1006",
     "2000",
     "1000",
     "999"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1000."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 1000.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00350",
-   "q": "Find the next number in the series: 3, 11, 23, 39, 59, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 11, 23, 39, 59, ?",
+   "options": [
     "88",
     "87",
     "86",
     "83"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 87."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 87.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00351",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "17",
     "16",
     "64",
     "121"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "64 is a perfect square."
+   "answer": 2,
+   "explanation": "64 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00352",
-   "q": "In a row of 6 children, Esha is standing at position 5 from the left. What is the position from the right?",
-   "o": [
+   "question": "In a row of 6 children, Esha is standing at position 5 from the left. What is the position from the right?",
+   "options": [
     "2",
     "3",
     "4",
     "1"
    ],
-   "a": 0,
-   "t": "Ranking",
-   "l": 2,
-   "s": "generated",
-   "e": "Position from right = total - position from left + 1 = 2."
+   "answer": 0,
+   "explanation": "Position from right = total - position from left + 1 = 2.",
+   "topic": "Ranking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00353",
-   "q": "If today is Sunday, what day will it be after 34 days?",
-   "o": [
+   "question": "If today is Sunday, what day will it be after 34 days?",
+   "options": [
     "Tuesday",
     "Monday",
     "Thursday",
     "Saturday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "34 days later gives Saturday (34 mod 7 = 6)."
+   "answer": 3,
+   "explanation": "34 days later gives Saturday (34 mod 7 = 6).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00354",
-   "q": "A person walks 7 km north and then 4 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 7 km north and then 4 km east. What is the straight line distance from the starting point?",
+   "options": [
     "3 km",
     "8.06 km",
     "14 km",
     "16.12 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(7^2 + 4^2) = 8.06 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(7^2 + 4^2) = 8.06 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00355",
-   "q": "What is the angle between the hour and minute hands at 3:10?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 3:10?",
+   "options": [
     "325 degrees",
     "50 degrees",
     "35 degrees",
     "17.5 degrees"
    ],
-   "a": 2,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 35 degrees."
+   "answer": 2,
+   "explanation": "Angle = |30H - 5.5M| = 35 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00356",
-   "q": "Two books and three pens cost 18 rupees. If a book costs 3 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 18 rupees. If a book costs 3 rupees, what is the cost of one pen?",
+   "options": [
     "3 rupees",
     "3.6 rupees",
     "5 rupees",
     "4 rupees"
    ],
-   "a": 3,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 3 = 6, so 3 pens cost 12 and one pen costs 4 rupees."
+   "answer": 3,
+   "explanation": "2 x 3 = 6, so 3 pens cost 12 and one pen costs 4 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00357",
-   "q": "Find the next number in the series: 8, 16, 24, 32, 40, 48, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 16, 24, 32, 40, 48, ?",
+   "options": [
     "56",
     "64",
     "57",
     "112"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 56."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 56.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00358",
-   "q": "Find the next number in the series: 3, 6, 12, 24, 48, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 6, 12, 24, 48, ?",
+   "options": [
     "96",
     "192",
     "95",
     "92"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 96."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 96.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00359",
-   "q": "Find the next number in the series: 49, 64, 81, 100, 121, 144, ?",
-   "o": [
+   "question": "Find the next number in the series: 49, 64, 81, 100, 121, 144, ?",
+   "options": [
     "170",
     "169",
     "178",
     "168"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 169."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 169.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00360",
-   "q": "Find the next number in the series: 27, 64, 125, 216, 343, 512, ?",
-   "o": [
+   "question": "Find the next number in the series: 27, 64, 125, 216, 343, 512, ?",
+   "options": [
     "735",
     "1458",
     "729",
     "723"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 729."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 729.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00361",
-   "q": "Find the next number in the series: 6, 18, 36, 60, 90, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 18, 36, 60, 90, ?",
+   "options": [
     "133",
     "132",
     "126",
     "138"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 132."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 132.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00362",
-   "q": "In a code language each letter is shifted 2 place(s) forward. How is CAT written?",
-   "o": [
+   "question": "In a code language each letter is shifted 2 place(s) forward. How is CAT written?",
+   "options": [
     "ECV",
     "DBU",
     "FDW",
     "GEX"
    ],
-   "a": 0,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of CAT by 2 gives ECV."
+   "answer": 0,
+   "explanation": "Shifting each letter of CAT by 2 gives ECV.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00363",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "37",
     "122",
     "49",
     "82"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "49 is a perfect square."
+   "answer": 2,
+   "explanation": "49 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00364",
-   "q": "In a row of 6 children, Esha is standing at position 5 from the left. What is the position from the right?",
-   "o": [
+   "question": "In a row of 6 children, Esha is standing at position 5 from the left. What is the position from the right?",
+   "options": [
     "7",
     "3",
     "2",
     "5"
    ],
-   "a": 2,
-   "t": "Ranking",
-   "l": 2,
-   "s": "generated",
-   "e": "Position from right = total - position from left + 1 = 2."
+   "answer": 2,
+   "explanation": "Position from right = total - position from left + 1 = 2.",
+   "topic": "Ranking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00365",
-   "q": "If today is Thursday, what day will it be after 48 days?",
-   "o": [
+   "question": "If today is Thursday, what day will it be after 48 days?",
+   "options": [
     "Wednesday",
     "Friday",
     "Thursday",
     "Tuesday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "48 days later gives Wednesday (48 mod 7 = 6)."
+   "answer": 0,
+   "explanation": "48 days later gives Wednesday (48 mod 7 = 6).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00366",
-   "q": "What is the angle between the hour and minute hands at 2:15?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 2:15?",
+   "options": [
     "37.5 degrees",
     "52.5 degrees",
     "11.25 degrees",
     "22.5 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 22.5 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 22.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00367",
-   "q": "Find the next term of the series: 1, 1, 2, 3, 5, 8, 13, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, 5, 8, 13, ?",
+   "options": [
     "20",
     "21",
     "24",
     "26"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 21."
+   "answer": 1,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 21.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00368",
-   "q": "Two books and three pens cost 27 rupees. If a book costs 3 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 27 rupees. If a book costs 3 rupees, what is the cost of one pen?",
+   "options": [
     "6 rupees",
     "14 rupees",
     "8 rupees",
     "7 rupees"
    ],
-   "a": 3,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 3 = 6, so 3 pens cost 21 and one pen costs 7 rupees."
+   "answer": 3,
+   "explanation": "2 x 3 = 6, so 3 pens cost 21 and one pen costs 7 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00369",
-   "q": "Find the next number in the series: 5, 10, 15, 20, 25, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 10, 15, 20, 25, ?",
+   "options": [
     "25",
     "31",
     "35",
     "30"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 30."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 30.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00370",
-   "q": "Find the next number in the series: 8, 16, 32, 64, 128, 256, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 16, 32, 64, 128, 256, ?",
+   "options": [
     "512",
     "513",
     "511",
     "506"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 512."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 512.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00371",
-   "q": "Find the next number in the series: 81, 100, 121, 144, 169, ?",
-   "o": [
+   "question": "Find the next number in the series: 81, 100, 121, 144, 169, ?",
+   "options": [
     "196",
     "392",
     "189",
     "203"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 196."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 196.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00372",
-   "q": "Find the next number in the series: 343, 512, 729, 1000, 1331, ?",
-   "o": [
+   "question": "Find the next number in the series: 343, 512, 729, 1000, 1331, ?",
+   "options": [
     "1728",
     "1719",
     "1727",
     "1729"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1728."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 1728.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00373",
-   "q": "Find the next number in the series: 5, 23, 50, 86, 131, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 23, 50, 86, 131, ?",
+   "options": [
     "388",
     "195",
     "185",
     "194"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 194."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 194.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00374",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "25",
     "4",
     "26",
     "50"
    ],
-   "a": 1,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "4 is a perfect square."
+   "answer": 1,
+   "explanation": "4 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00375",
-   "q": "In a row of 6 children, Esha is standing at position 5 from the left. What is the position from the right?",
-   "o": [
+   "question": "In a row of 6 children, Esha is standing at position 5 from the left. What is the position from the right?",
+   "options": [
     "3",
     "2",
     "5",
     "4"
    ],
-   "a": 1,
-   "t": "Ranking",
-   "l": 2,
-   "s": "generated",
-   "e": "Position from right = total - position from left + 1 = 2."
+   "answer": 1,
+   "explanation": "Position from right = total - position from left + 1 = 2.",
+   "topic": "Ranking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00376",
-   "q": "If today is Saturday, what day will it be after 54 days?",
-   "o": [
+   "question": "If today is Saturday, what day will it be after 54 days?",
+   "options": [
     "Monday",
     "Wednesday",
     "Thursday",
     "Tuesday"
    ],
-   "a": 2,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "54 days later gives Thursday (54 mod 7 = 5)."
+   "answer": 2,
+   "explanation": "54 days later gives Thursday (54 mod 7 = 5).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00377",
-   "q": "A person walks 7 km north and then 6 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 7 km north and then 6 km east. What is the straight line distance from the starting point?",
+   "options": [
     "1 km",
     "10.22 km",
     "18.44 km",
     "9.22 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(7^2 + 6^2) = 9.22 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(7^2 + 6^2) = 9.22 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00378",
-   "q": "What is the angle between the hour and minute hands at 4:20?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 4:20?",
+   "options": [
     "5 degrees",
     "10 degrees",
     "25 degrees",
     "350 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 10 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 10 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00379",
-   "q": "Find the next term of the series: 1, 1, 2, 3, 5, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, 5, ?",
+   "options": [
     "7",
     "8",
     "16",
     "11"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 8."
+   "answer": 1,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 8.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00380",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "22",
     "21",
     "25",
     "23"
    ],
-   "a": 1,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 1,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00381",
-   "q": "Two books and three pens cost 21 rupees. If a book costs 6 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 21 rupees. If a book costs 6 rupees, what is the cost of one pen?",
+   "options": [
     "3 rupees",
     "2 rupees",
     "4 rupees",
     "4.2 rupees"
    ],
-   "a": 0,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 6 = 12, so 3 pens cost 9 and one pen costs 3 rupees."
+   "answer": 0,
+   "explanation": "2 x 6 = 12, so 3 pens cost 9 and one pen costs 3 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00382",
-   "q": "Find the next number in the series: 8, 17, 26, 35, 44, 53, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 17, 26, 35, 44, 53, ?",
+   "options": [
     "53",
     "63",
     "71",
     "62"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 62."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 62.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00383",
-   "q": "Find the next number in the series: 4, 8, 16, 32, 64, 128, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 8, 16, 32, 64, 128, ?",
+   "options": [
     "256",
     "261",
     "251",
     "255"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 256."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 256.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00384",
-   "q": "Find the next number in the series: 9, 16, 25, 36, 49, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 16, 25, 36, 49, 64, ?",
+   "options": [
     "80",
     "82",
     "76",
     "81"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 81."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 81.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00385",
-   "q": "Find the next number in the series: 27, 64, 125, 216, 343, ?",
-   "o": [
+   "question": "Find the next number in the series: 27, 64, 125, 216, 343, ?",
+   "options": [
     "516",
     "513",
     "511",
     "512"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 512."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 512.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00386",
-   "q": "Find the next number in the series: 3, 11, 23, 39, 59, 83, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 11, 23, 39, 59, 83, ?",
+   "options": [
     "119",
     "114",
     "111",
     "115"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 115."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 115.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00387",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "17",
     "16",
     "49",
     "25"
    ],
-   "a": 3,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "25 is a perfect square."
+   "answer": 3,
+   "explanation": "25 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00388",
-   "q": "If today is Thursday, what day will it be after 52 days?",
-   "o": [
+   "question": "If today is Thursday, what day will it be after 52 days?",
+   "options": [
     "Thursday",
     "Wednesday",
     "Monday",
     "Sunday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "52 days later gives Sunday (52 mod 7 = 3)."
+   "answer": 3,
+   "explanation": "52 days later gives Sunday (52 mod 7 = 3).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00389",
-   "q": "A person walks 3 km north and then 7 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 3 km north and then 7 km east. What is the straight line distance from the starting point?",
+   "options": [
     "4 km",
     "7.62 km",
     "8.62 km",
     "10 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(3^2 + 7^2) = 7.62 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(3^2 + 7^2) = 7.62 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00390",
-   "q": "What is the angle between the hour and minute hands at 1:15?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 1:15?",
+   "options": [
     "22.5 degrees",
     "307.5 degrees",
     "52.5 degrees",
     "26.25 degrees"
    ],
-   "a": 2,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 52.5 degrees."
+   "answer": 2,
+   "explanation": "Angle = |30H - 5.5M| = 52.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00391",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "35",
     "30",
     "31",
     "34"
    ],
-   "a": 1,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 1,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00392",
-   "q": "Two books and three pens cost 23 rupees. If a book costs 4 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 23 rupees. If a book costs 4 rupees, what is the cost of one pen?",
+   "options": [
     "5 rupees",
     "4 rupees",
     "6 rupees",
     "4.6 rupees"
    ],
-   "a": 0,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 4 = 8, so 3 pens cost 15 and one pen costs 5 rupees."
+   "answer": 0,
+   "explanation": "2 x 4 = 8, so 3 pens cost 15 and one pen costs 5 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00393",
-   "q": "Find the next number in the series: 5, 13, 21, 29, 37, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 13, 21, 29, 37, ?",
+   "options": [
     "45",
     "44",
     "53",
     "46"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 45."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 45.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00394",
-   "q": "Find the next number in the series: 3, 6, 12, 24, 48, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 6, 12, 24, 48, ?",
+   "options": [
     "96",
     "192",
     "97",
     "89"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 96."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 96.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00395",
-   "q": "Find the next number in the series: 16, 25, 36, 49, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 16, 25, 36, 49, 64, ?",
+   "options": [
     "81",
     "162",
     "87",
     "80"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 81."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 81.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00396",
-   "q": "Find the next number in the series: 216, 343, 512, 729, 1000, 1331, ?",
-   "o": [
+   "question": "Find the next number in the series: 216, 343, 512, 729, 1000, 1331, ?",
+   "options": [
     "1733",
     "3456",
     "1728",
     "1727"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1728."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 1728.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00397",
-   "q": "Find the next number in the series: 4, 12, 24, 40, 60, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 12, 24, 40, 60, ?",
+   "options": [
     "88",
     "89",
     "176",
     "92"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 88."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 88.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00398",
-   "q": "In a code language each letter is shifted 4 place(s) forward. How is RAT written?",
-   "o": [
+   "question": "In a code language each letter is shifted 4 place(s) forward. How is RAT written?",
+   "options": [
     "TCV",
     "VEX",
     "UDW",
     "SBU"
    ],
-   "a": 1,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of RAT by 4 gives VEX."
+   "answer": 1,
+   "explanation": "Shifting each letter of RAT by 4 gives VEX.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00399",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "64",
     "65",
     "81",
     "4"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "81 is a perfect square."
+   "answer": 2,
+   "explanation": "81 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00400",
-   "q": "If today is Saturday, what day will it be after 69 days?",
-   "o": [
+   "question": "If today is Saturday, what day will it be after 69 days?",
+   "options": [
     "Tuesday",
     "Wednesday",
     "Friday",
     "Thursday"
    ],
-   "a": 2,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "69 days later gives Friday (69 mod 7 = 6)."
+   "answer": 2,
+   "explanation": "69 days later gives Friday (69 mod 7 = 6).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00401",
-   "q": "A person walks 12 km north and then 3 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 12 km north and then 3 km east. What is the straight line distance from the starting point?",
+   "options": [
     "12.37 km",
     "15 km",
     "9 km",
     "24 km"
    ],
-   "a": 0,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(12^2 + 3^2) = 12.37 km."
+   "answer": 0,
+   "explanation": "Distance = sqrt(12^2 + 3^2) = 12.37 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00402",
-   "q": "What is the angle between the hour and minute hands at 9:15?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 9:15?",
+   "options": [
     "172.5 degrees",
     "187.5 degrees",
     "142.5 degrees",
     "86.25 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 172.5 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 172.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00403",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "69",
     "70",
     "73",
     "71"
    ],
-   "a": 0,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 0,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00404",
-   "q": "Two books and three pens cost 26 rupees. If a book costs 4 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 26 rupees. If a book costs 4 rupees, what is the cost of one pen?",
+   "options": [
     "6 rupees",
     "7 rupees",
     "5.2 rupees",
     "4 rupees"
    ],
-   "a": 0,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 4 = 8, so 3 pens cost 18 and one pen costs 6 rupees."
+   "answer": 0,
+   "explanation": "2 x 4 = 8, so 3 pens cost 18 and one pen costs 6 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00405",
-   "q": "Find the next number in the series: 5, 9, 13, 17, 21, 25, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 9, 13, 17, 21, 25, ?",
+   "options": [
     "29",
     "33",
     "30",
     "58"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 29."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 29.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00406",
-   "q": "Find the next number in the series: 7, 14, 28, 56, 112, 224, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 14, 28, 56, 112, 224, ?",
+   "options": [
     "456",
     "440",
     "447",
     "448"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 448."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 448.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00407",
-   "q": "Find the next number in the series: 36, 49, 64, 81, 100, 121, ?",
-   "o": [
+   "question": "Find the next number in the series: 36, 49, 64, 81, 100, 121, ?",
+   "options": [
     "144",
     "145",
     "142",
     "143"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 144."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 144.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00408",
-   "q": "Find the next number in the series: 125, 216, 343, 512, 729, 1000, ?",
-   "o": [
+   "question": "Find the next number in the series: 125, 216, 343, 512, 729, 1000, ?",
+   "options": [
     "2662",
     "1331",
     "1325",
     "1337"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1331."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 1331.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00409",
-   "q": "Find the next number in the series: 2, 12, 27, 47, 72, 102, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 12, 27, 47, 72, 102, ?",
+   "options": [
     "143",
     "137",
     "141",
     "142"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 142."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 142.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00410",
-   "q": "In a code language each letter is shifted 3 place(s) forward. How is JAR written?",
-   "o": [
+   "question": "In a code language each letter is shifted 3 place(s) forward. How is JAR written?",
+   "options": [
     "LCT",
     "MDU",
     "NEV",
     "KBS"
    ],
-   "a": 1,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of JAR by 3 gives MDU."
+   "answer": 1,
+   "explanation": "Shifting each letter of JAR by 3 gives MDU.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00411",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "81",
     "17",
     "25",
     "4"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "25 is a perfect square."
+   "answer": 2,
+   "explanation": "25 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00412",
-   "q": "If today is Tuesday, what day will it be after 39 days?",
-   "o": [
+   "question": "If today is Tuesday, what day will it be after 39 days?",
+   "options": [
     "Thursday",
     "Saturday",
     "Wednesday",
     "Tuesday"
    ],
-   "a": 1,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "39 days later gives Saturday (39 mod 7 = 4)."
+   "answer": 1,
+   "explanation": "39 days later gives Saturday (39 mod 7 = 4).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00413",
-   "q": "A person walks 11 km north and then 8 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 11 km north and then 8 km east. What is the straight line distance from the starting point?",
+   "options": [
     "22 km",
     "3 km",
     "27.2 km",
     "13.6 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(11^2 + 8^2) = 13.6 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(11^2 + 8^2) = 13.6 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00414",
-   "q": "What is the angle between the hour and minute hands at 7:10?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 7:10?",
+   "options": [
     "77.5 degrees",
     "205 degrees",
     "155 degrees",
     "125 degrees"
    ],
-   "a": 2,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 155 degrees."
+   "answer": 2,
+   "explanation": "Angle = |30H - 5.5M| = 155 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00415",
-   "q": "Find the next term of the series: 1, 1, 2, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, ?",
+   "options": [
     "6",
     "2",
     "4",
     "3"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 3."
+   "answer": 3,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 3.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00416",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "49",
     "48",
     "52",
     "53"
    ],
-   "a": 1,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 1,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00417",
-   "q": "Two books and three pens cost 21 rupees. If a book costs 3 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 21 rupees. If a book costs 3 rupees, what is the cost of one pen?",
+   "options": [
     "5 rupees",
     "6 rupees",
     "3 rupees",
     "4.2 rupees"
    ],
-   "a": 0,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 3 = 6, so 3 pens cost 15 and one pen costs 5 rupees."
+   "answer": 0,
+   "explanation": "2 x 3 = 6, so 3 pens cost 15 and one pen costs 5 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00418",
-   "q": "Find the next number in the series: 3, 5, 7, 9, 11, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 5, 7, 9, 11, ?",
+   "options": [
     "13",
     "15",
     "12",
     "26"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 13."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 13.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00419",
-   "q": "Find the next number in the series: 3, 6, 12, 24, 48, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 6, 12, 24, 48, ?",
+   "options": [
     "100",
     "96",
     "192",
     "92"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 96."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 96.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00420",
-   "q": "Find the next number in the series: 81, 100, 121, 144, 169, ?",
-   "o": [
+   "question": "Find the next number in the series: 81, 100, 121, 144, 169, ?",
+   "options": [
     "196",
     "392",
     "195",
     "198"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 196."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 196.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00421",
-   "q": "Find the next number in the series: 64, 125, 216, 343, 512, ?",
-   "o": [
+   "question": "Find the next number in the series: 64, 125, 216, 343, 512, ?",
+   "options": [
     "729",
     "1458",
     "728",
     "733"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 729."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 729.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00422",
-   "q": "Find the next number in the series: 4, 12, 24, 40, 60, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 12, 24, 40, 60, ?",
+   "options": [
     "176",
     "88",
     "84",
     "87"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 88."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 88.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00423",
-   "q": "In a code language each letter is shifted 1 place(s) forward. How is CAT written?",
-   "o": [
+   "question": "In a code language each letter is shifted 1 place(s) forward. How is CAT written?",
+   "options": [
     "ECV",
     "DBU",
     "GEX",
     "FDW"
    ],
-   "a": 1,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of CAT by 1 gives DBU."
+   "answer": 1,
+   "explanation": "Shifting each letter of CAT by 1 gives DBU.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00424",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "36",
     "50",
     "4",
     "82"
    ],
-   "a": 0,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "36 is a perfect square."
+   "answer": 0,
+   "explanation": "36 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00425",
-   "q": "If today is Saturday, what day will it be after 51 days?",
-   "o": [
+   "question": "If today is Saturday, what day will it be after 51 days?",
+   "options": [
     "Thursday",
     "Friday",
     "Wednesday",
     "Monday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "51 days later gives Monday (51 mod 7 = 2)."
+   "answer": 3,
+   "explanation": "51 days later gives Monday (51 mod 7 = 2).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00426",
-   "q": "A person walks 10 km north and then 8 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 10 km north and then 8 km east. What is the straight line distance from the starting point?",
+   "options": [
     "18 km",
     "12.81 km",
     "13.81 km",
     "25.61 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(10^2 + 8^2) = 12.81 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(10^2 + 8^2) = 12.81 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00427",
-   "q": "What is the angle between the hour and minute hands at 5:45?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 5:45?",
+   "options": [
     "262.5 degrees",
     "112.5 degrees",
     "127.5 degrees",
     "97.5 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 97.5 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 97.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00428",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "37",
     "36",
     "41",
     "38"
    ],
-   "a": 1,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 1,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00429",
-   "q": "Find the next number in the series: 6, 10, 14, 18, 22, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 10, 14, 18, 22, ?",
+   "options": [
     "52",
     "30",
     "25",
     "26"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 26."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 26.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00430",
-   "q": "Find the next number in the series: 9, 18, 36, 72, 144, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 18, 36, 72, 144, ?",
+   "options": [
     "289",
     "284",
     "288",
     "576"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 288."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 288.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00431",
-   "q": "Find the next number in the series: 25, 36, 49, 64, 81, 100, ?",
-   "o": [
+   "question": "Find the next number in the series: 25, 36, 49, 64, 81, 100, ?",
+   "options": [
     "121",
     "122",
     "123",
     "119"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 121."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 121.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00432",
-   "q": "Find the next number in the series: 1000, 1331, 1728, 2197, 2744, ?",
-   "o": [
+   "question": "Find the next number in the series: 1000, 1331, 1728, 2197, 2744, ?",
+   "options": [
     "3367",
     "3383",
     "3376",
     "3375"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 3375."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 3375.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00433",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "121",
     "4",
     "5",
     "25"
    ],
-   "a": 3,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "25 is a perfect square."
+   "answer": 3,
+   "explanation": "25 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00434",
-   "q": "If today is Wednesday, what day will it be after 60 days?",
-   "o": [
+   "question": "If today is Wednesday, what day will it be after 60 days?",
+   "options": [
     "Wednesday",
     "Monday",
     "Sunday",
     "Tuesday"
    ],
-   "a": 2,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "60 days later gives Sunday (60 mod 7 = 4)."
+   "answer": 2,
+   "explanation": "60 days later gives Sunday (60 mod 7 = 4).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00435",
-   "q": "A person walks 4 km north and then 7 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 4 km north and then 7 km east. What is the straight line distance from the starting point?",
+   "options": [
     "9.06 km",
     "3 km",
     "16.12 km",
     "8.06 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(4^2 + 7^2) = 8.06 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(4^2 + 7^2) = 8.06 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00436",
-   "q": "What is the angle between the hour and minute hands at 2:40?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 2:40?",
+   "options": [
     "160 degrees",
     "80 degrees",
     "190 degrees",
     "130 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 160 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 160 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00437",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "28",
     "24",
     "29",
     "26"
    ],
-   "a": 1,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 1,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00438",
-   "q": "Two books and three pens cost 23 rupees. If a book costs 4 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 23 rupees. If a book costs 4 rupees, what is the cost of one pen?",
+   "options": [
     "10 rupees",
     "5 rupees",
     "4 rupees",
     "4.6 rupees"
    ],
-   "a": 1,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 4 = 8, so 3 pens cost 15 and one pen costs 5 rupees."
+   "answer": 1,
+   "explanation": "2 x 4 = 8, so 3 pens cost 15 and one pen costs 5 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00439",
-   "q": "Find the next number in the series: 5, 12, 19, 26, 33, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 12, 19, 26, 33, ?",
+   "options": [
     "40",
     "33",
     "47",
     "80"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 40."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 40.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00440",
-   "q": "Find the next number in the series: 36, 49, 64, 81, 100, 121, ?",
-   "o": [
+   "question": "Find the next number in the series: 36, 49, 64, 81, 100, 121, ?",
+   "options": [
     "141",
     "143",
     "144",
     "288"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 144."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 144.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00441",
-   "q": "Find the next number in the series: 3, 15, 33, 57, 87, 123, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 15, 33, 57, 87, 123, ?",
+   "options": [
     "165",
     "177",
     "171",
     "342"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 171."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 171.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00442",
-   "q": "If today is Tuesday, what day will it be after 30 days?",
-   "o": [
+   "question": "If today is Tuesday, what day will it be after 30 days?",
+   "options": [
     "Monday",
     "Thursday",
     "Tuesday",
     "Friday"
    ],
-   "a": 1,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "30 days later gives Thursday (30 mod 7 = 2)."
+   "answer": 1,
+   "explanation": "30 days later gives Thursday (30 mod 7 = 2).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00443",
-   "q": "A person walks 4 km north and then 8 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 4 km north and then 8 km east. What is the straight line distance from the starting point?",
+   "options": [
     "8 km",
     "9.94 km",
     "8.94 km",
     "17.89 km"
    ],
-   "a": 2,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(4^2 + 8^2) = 8.94 km."
+   "answer": 2,
+   "explanation": "Distance = sqrt(4^2 + 8^2) = 8.94 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00444",
-   "q": "What is the angle between the hour and minute hands at 6:10?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 6:10?",
+   "options": [
     "62.5 degrees",
     "155 degrees",
     "125 degrees",
     "140 degrees"
    ],
-   "a": 2,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 125 degrees."
+   "answer": 2,
+   "explanation": "Angle = |30H - 5.5M| = 125 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00445",
-   "q": "Two books and three pens cost 19 rupees. If a book costs 5 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 19 rupees. If a book costs 5 rupees, what is the cost of one pen?",
+   "options": [
     "3 rupees",
     "6 rupees",
     "4 rupees",
     "3.8 rupees"
    ],
-   "a": 0,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 5 = 10, so 3 pens cost 9 and one pen costs 3 rupees."
+   "answer": 0,
+   "explanation": "2 x 5 = 10, so 3 pens cost 9 and one pen costs 3 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00446",
-   "q": "Find the next number in the series: 2, 4, 6, 8, 10, 12, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 4, 6, 8, 10, 12, ?",
+   "options": [
     "16",
     "14",
     "15",
     "12"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 14."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 14.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00447",
-   "q": "Find the next number in the series: 9, 18, 36, 72, 144, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 18, 36, 72, 144, ?",
+   "options": [
     "280",
     "288",
     "576",
     "289"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 288."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 288.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00448",
-   "q": "Find the next number in the series: 49, 64, 81, 100, 121, 144, ?",
-   "o": [
+   "question": "Find the next number in the series: 49, 64, 81, 100, 121, 144, ?",
+   "options": [
     "338",
     "176",
     "169",
     "168"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 169."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 169.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00449",
-   "q": "Find the next number in the series: 1000, 1331, 1728, 2197, 2744, 3375, ?",
-   "o": [
+   "question": "Find the next number in the series: 1000, 1331, 1728, 2197, 2744, 3375, ?",
+   "options": [
     "4096",
     "8192",
     "4095",
     "4097"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 4096."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 4096.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00450",
-   "q": "Find the next number in the series: 5, 15, 30, 50, 75, 105, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 15, 30, 50, 75, 105, ?",
+   "options": [
     "145",
     "144",
     "146",
     "290"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 145."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 145.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00451",
-   "q": "In a code language each letter is shifted 5 place(s) forward. How is FAN written?",
-   "o": [
+   "question": "In a code language each letter is shifted 5 place(s) forward. How is FAN written?",
+   "options": [
     "HCP",
     "JER",
     "KFS",
     "IDQ"
    ],
-   "a": 2,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of FAN by 5 gives KFS."
+   "answer": 2,
+   "explanation": "Shifting each letter of FAN by 5 gives KFS.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00452",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "49",
     "82",
     "122",
     "81"
    ],
-   "a": 0,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "49 is a perfect square."
+   "answer": 0,
+   "explanation": "49 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00453",
-   "q": "If today is Tuesday, what day will it be after 26 days?",
-   "o": [
+   "question": "If today is Tuesday, what day will it be after 26 days?",
+   "options": [
     "Wednesday",
     "Thursday",
     "Monday",
     "Sunday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "26 days later gives Sunday (26 mod 7 = 5)."
+   "answer": 3,
+   "explanation": "26 days later gives Sunday (26 mod 7 = 5).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00454",
-   "q": "A person walks 6 km north and then 9 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 6 km north and then 9 km east. What is the straight line distance from the starting point?",
+   "options": [
     "3 km",
     "10.82 km",
     "15 km",
     "11.82 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(6^2 + 9^2) = 10.82 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(6^2 + 9^2) = 10.82 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00455",
-   "q": "What is the angle between the hour and minute hands at 10:20?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 10:20?",
+   "options": [
     "140 degrees",
     "200 degrees",
     "185 degrees",
     "170 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 170 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 170 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00456",
-   "q": "Find the next term of the series: 1, 1, 2, 3, 5, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, 5, ?",
+   "options": [
     "11",
     "7",
     "8",
     "9"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 8."
+   "answer": 2,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 8.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00457",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "30",
     "32",
     "34",
     "35"
    ],
-   "a": 0,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 0,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00458",
-   "q": "Two books and three pens cost 28 rupees. If a book costs 5 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 28 rupees. If a book costs 5 rupees, what is the cost of one pen?",
+   "options": [
     "5.6 rupees",
     "6 rupees",
     "12 rupees",
     "7 rupees"
    ],
-   "a": 1,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 5 = 10, so 3 pens cost 18 and one pen costs 6 rupees."
+   "answer": 1,
+   "explanation": "2 x 5 = 10, so 3 pens cost 18 and one pen costs 6 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00459",
-   "q": "Find the next number in the series: 6, 11, 16, 21, 26, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 11, 16, 21, 26, ?",
+   "options": [
     "26",
     "36",
     "31",
     "32"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 31."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 31.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00460",
-   "q": "Find the next number in the series: 2, 4, 8, 16, 32, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 4, 8, 16, 32, 64, ?",
+   "options": [
     "128",
     "129",
     "131",
     "127"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 128."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 128.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00461",
-   "q": "Find the next number in the series: 36, 49, 64, 81, 100, 121, ?",
-   "o": [
+   "question": "Find the next number in the series: 36, 49, 64, 81, 100, 121, ?",
+   "options": [
     "149",
     "144",
     "288",
     "143"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 144."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 144.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00462",
-   "q": "Find the next number in the series: 27, 64, 125, 216, 343, ?",
-   "o": [
+   "question": "Find the next number in the series: 27, 64, 125, 216, 343, ?",
+   "options": [
     "512",
     "513",
     "1024",
     "511"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 512."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 512.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00463",
-   "q": "Find the next number in the series: 8, 16, 28, 44, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 16, 28, 44, 64, ?",
+   "options": [
     "91",
     "96",
     "92",
     "184"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 92."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 92.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00464",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "82",
     "36",
     "17",
     "122"
    ],
-   "a": 1,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "36 is a perfect square."
+   "answer": 1,
+   "explanation": "36 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00465",
-   "q": "If today is Monday, what day will it be after 39 days?",
-   "o": [
+   "question": "If today is Monday, what day will it be after 39 days?",
+   "options": [
     "Thursday",
     "Wednesday",
     "Monday",
     "Friday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "39 days later gives Friday (39 mod 7 = 4)."
+   "answer": 3,
+   "explanation": "39 days later gives Friday (39 mod 7 = 4).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00466",
-   "q": "A person walks 4 km north and then 6 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 4 km north and then 6 km east. What is the straight line distance from the starting point?",
+   "options": [
     "14.42 km",
     "8.21 km",
     "10 km",
     "7.21 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(4^2 + 6^2) = 7.21 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(4^2 + 6^2) = 7.21 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00467",
-   "q": "What is the angle between the hour and minute hands at 1:30?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 1:30?",
+   "options": [
     "150 degrees",
     "135 degrees",
     "105 degrees",
     "225 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 135 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 135 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00468",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "33",
     "35",
     "37",
     "38"
    ],
-   "a": 0,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 0,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00469",
-   "q": "Two books and three pens cost 27 rupees. If a book costs 3 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 27 rupees. If a book costs 3 rupees, what is the cost of one pen?",
+   "options": [
     "7 rupees",
     "14 rupees",
     "5.4 rupees",
     "6 rupees"
    ],
-   "a": 0,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 3 = 6, so 3 pens cost 21 and one pen costs 7 rupees."
+   "answer": 0,
+   "explanation": "2 x 3 = 6, so 3 pens cost 21 and one pen costs 7 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00470",
-   "q": "Find the next number in the series: 9, 12, 15, 18, 21, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 12, 15, 18, 21, ?",
+   "options": [
     "21",
     "48",
     "27",
     "24"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 24."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 24.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00471",
-   "q": "Find the next number in the series: 7, 14, 28, 56, 112, 224, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 14, 28, 56, 112, 224, ?",
+   "options": [
     "896",
     "448",
     "447",
     "440"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 448."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 448.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00472",
-   "q": "Find the next number in the series: 16, 25, 36, 49, 64, 81, ?",
-   "o": [
+   "question": "Find the next number in the series: 16, 25, 36, 49, 64, 81, ?",
+   "options": [
     "102",
     "200",
     "100",
     "99"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 100."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 100.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00473",
-   "q": "Find the next number in the series: 343, 512, 729, 1000, 1331, 1728, ?",
-   "o": [
+   "question": "Find the next number in the series: 343, 512, 729, 1000, 1331, 1728, ?",
+   "options": [
     "2197",
     "2195",
     "2198",
     "2199"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2197."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 2197.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00474",
-   "q": "Find the next number in the series: 4, 12, 24, 40, 60, 84, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 12, 24, 40, 60, 84, ?",
+   "options": [
     "115",
     "117",
     "116",
     "232"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 116."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 116.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00475",
-   "q": "In a code language each letter is shifted 3 place(s) forward. How is TOP written?",
-   "o": [
+   "question": "In a code language each letter is shifted 3 place(s) forward. How is TOP written?",
+   "options": [
     "XST",
     "UPQ",
     "WRS",
     "VQR"
    ],
-   "a": 2,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of TOP by 3 gives WRS."
+   "answer": 2,
+   "explanation": "Shifting each letter of TOP by 3 gives WRS.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00476",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "25",
     "49",
     "16",
     "82"
    ],
-   "a": 0,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "25 is a perfect square."
+   "answer": 0,
+   "explanation": "25 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00477",
-   "q": "If today is Friday, what day will it be after 25 days?",
-   "o": [
+   "question": "If today is Friday, what day will it be after 25 days?",
+   "options": [
     "Friday",
     "Monday",
     "Tuesday",
     "Thursday"
    ],
-   "a": 2,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "25 days later gives Tuesday (25 mod 7 = 4)."
+   "answer": 2,
+   "explanation": "25 days later gives Tuesday (25 mod 7 = 4).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00478",
-   "q": "A person walks 9 km north and then 2 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 9 km north and then 2 km east. What is the straight line distance from the starting point?",
+   "options": [
     "7 km",
     "11 km",
     "18 km",
     "9.22 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(9^2 + 2^2) = 9.22 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(9^2 + 2^2) = 9.22 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00479",
-   "q": "What is the angle between the hour and minute hands at 4:35?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 4:35?",
+   "options": [
     "287.5 degrees",
     "42.5 degrees",
     "72.5 degrees",
     "36.25 degrees"
    ],
-   "a": 2,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 72.5 degrees."
+   "answer": 2,
+   "explanation": "Angle = |30H - 5.5M| = 72.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00480",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "50",
     "48",
     "52",
     "49"
    ],
-   "a": 1,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 1,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00481",
-   "q": "Two books and three pens cost 27 rupees. If a book costs 3 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 27 rupees. If a book costs 3 rupees, what is the cost of one pen?",
+   "options": [
     "5.4 rupees",
     "14 rupees",
     "7 rupees",
     "8 rupees"
    ],
-   "a": 2,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 3 = 6, so 3 pens cost 21 and one pen costs 7 rupees."
+   "answer": 2,
+   "explanation": "2 x 3 = 6, so 3 pens cost 21 and one pen costs 7 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00482",
-   "q": "Find the next number in the series: 5, 9, 13, 17, 21, 25, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 9, 13, 17, 21, 25, ?",
+   "options": [
     "25",
     "29",
     "58",
     "33"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 29."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 29.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00483",
-   "q": "Find the next number in the series: 3, 6, 12, 24, 48, 96, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 6, 12, 24, 48, 96, ?",
+   "options": [
     "192",
     "193",
     "188",
     "191"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 192."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 192.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00484",
-   "q": "Find the next number in the series: 9, 16, 25, 36, 49, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 16, 25, 36, 49, 64, ?",
+   "options": [
     "162",
     "81",
     "80",
     "82"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 81."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 81.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00485",
-   "q": "Find the next number in the series: 27, 64, 125, 216, 343, ?",
-   "o": [
+   "question": "Find the next number in the series: 27, 64, 125, 216, 343, ?",
+   "options": [
     "513",
     "521",
     "512",
     "1024"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 512."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 512.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00486",
-   "q": "Find the next number in the series: 7, 19, 37, 61, 91, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 19, 37, 61, 91, ?",
+   "options": [
     "133",
     "132",
     "139",
     "134"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 133."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 133.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00487",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "82",
     "16",
     "121",
     "50"
    ],
-   "a": 1,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "16 is a perfect square."
+   "answer": 1,
+   "explanation": "16 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00488",
-   "q": "If today is Tuesday, what day will it be after 47 days?",
-   "o": [
+   "question": "If today is Tuesday, what day will it be after 47 days?",
+   "options": [
     "Monday",
     "Thursday",
     "Sunday",
     "Wednesday"
    ],
-   "a": 2,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "47 days later gives Sunday (47 mod 7 = 5)."
+   "answer": 2,
+   "explanation": "47 days later gives Sunday (47 mod 7 = 5).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00489",
-   "q": "A person walks 4 km north and then 7 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 4 km north and then 7 km east. What is the straight line distance from the starting point?",
+   "options": [
     "3 km",
     "8 km",
     "11 km",
     "8.06 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(4^2 + 7^2) = 8.06 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(4^2 + 7^2) = 8.06 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00490",
-   "q": "What is the angle between the hour and minute hands at 5:05?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 5:05?",
+   "options": [
     "61.25 degrees",
     "122.5 degrees",
     "92.5 degrees",
     "152.5 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 122.5 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 122.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00491",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "28",
     "27",
     "31",
     "29"
    ],
-   "a": 1,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 1,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00492",
-   "q": "Find the next number in the series: 6, 11, 16, 21, 26, 31, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 11, 16, 21, 26, 31, ?",
+   "options": [
     "72",
     "31",
     "36",
     "41"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 36."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 36.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00493",
-   "q": "Find the next number in the series: 5, 10, 20, 40, 80, 160, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 10, 20, 40, 80, 160, ?",
+   "options": [
     "320",
     "321",
     "640",
     "319"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 320."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 320.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00494",
-   "q": "Find the next number in the series: 4, 9, 16, 25, 36, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 9, 16, 25, 36, ?",
+   "options": [
     "50",
     "55",
     "49",
     "48"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 49."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 49.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00495",
-   "q": "Find the next number in the series: 64, 125, 216, 343, 512, 729, ?",
-   "o": [
+   "question": "Find the next number in the series: 64, 125, 216, 343, 512, 729, ?",
+   "options": [
     "1001",
     "998",
     "999",
     "1000"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1000."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 1000.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00496",
-   "q": "Find the next number in the series: 9, 21, 39, 63, 93, 129, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 21, 39, 63, 93, 129, ?",
+   "options": [
     "178",
     "177",
     "171",
     "354"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 177."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 177.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00497",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "37",
     "100",
     "4",
     "36"
    ],
-   "a": 1,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "100 is a perfect square."
+   "answer": 1,
+   "explanation": "100 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00498",
-   "q": "If today is Thursday, what day will it be after 59 days?",
-   "o": [
+   "question": "If today is Thursday, what day will it be after 59 days?",
+   "options": [
     "Wednesday",
     "Sunday",
     "Tuesday",
     "Monday"
    ],
-   "a": 1,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "59 days later gives Sunday (59 mod 7 = 3)."
+   "answer": 1,
+   "explanation": "59 days later gives Sunday (59 mod 7 = 3).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00499",
-   "q": "What is the angle between the hour and minute hands at 8:45?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 8:45?",
+   "options": [
     "352.5 degrees",
     "7.5 degrees",
     "22.5 degrees",
     "3.75 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 7.5 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 7.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00500",
-   "q": "Find the next term of the series: 1, 1, 2, 3, 5, 8, 13, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, 5, 8, 13, ?",
+   "options": [
     "26",
     "24",
     "22",
     "21"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 21."
+   "answer": 3,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 21.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00501",
-   "q": "Two books and three pens cost 31 rupees. If a book costs 5 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 31 rupees. If a book costs 5 rupees, what is the cost of one pen?",
+   "options": [
     "6 rupees",
     "6.2 rupees",
     "7 rupees",
     "8 rupees"
    ],
-   "a": 2,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 5 = 10, so 3 pens cost 21 and one pen costs 7 rupees."
+   "answer": 2,
+   "explanation": "2 x 5 = 10, so 3 pens cost 21 and one pen costs 7 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00502",
-   "q": "Find the next number in the series: 3, 12, 21, 30, 39, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 12, 21, 30, 39, ?",
+   "options": [
     "57",
     "49",
     "96",
     "48"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 48."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 48.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00503",
-   "q": "Find the next number in the series: 7, 14, 28, 56, 112, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 14, 28, 56, 112, ?",
+   "options": [
     "231",
     "224",
     "223",
     "448"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 224."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 224.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00504",
-   "q": "Find the next number in the series: 9, 16, 25, 36, 49, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 16, 25, 36, 49, 64, ?",
+   "options": [
     "162",
     "82",
     "81",
     "76"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 81."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 81.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00505",
-   "q": "Find the next number in the series: 512, 729, 1000, 1331, 1728, 2197, ?",
-   "o": [
+   "question": "Find the next number in the series: 512, 729, 1000, 1331, 1728, 2197, ?",
+   "options": [
     "2743",
     "2744",
     "2735",
     "2753"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2744."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 2744.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00506",
-   "q": "Find the next number in the series: 9, 25, 49, 81, 121, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 25, 49, 81, 121, ?",
+   "options": [
     "169",
     "178",
     "185",
     "177"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 177."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 177.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00507",
-   "q": "In a code language each letter is shifted 3 place(s) forward. How is CAT written?",
-   "o": [
+   "question": "In a code language each letter is shifted 3 place(s) forward. How is CAT written?",
+   "options": [
     "ECV",
     "DBU",
     "GEX",
     "FDW"
    ],
-   "a": 3,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of CAT by 3 gives FDW."
+   "answer": 3,
+   "explanation": "Shifting each letter of CAT by 3 gives FDW.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00508",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "144",
     "37",
     "16",
     "100"
    ],
-   "a": 0,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "144 is a perfect square."
+   "answer": 0,
+   "explanation": "144 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00509",
-   "q": "If today is Sunday, what day will it be after 59 days?",
-   "o": [
+   "question": "If today is Sunday, what day will it be after 59 days?",
+   "options": [
     "Tuesday",
     "Monday",
     "Wednesday",
     "Thursday"
    ],
-   "a": 2,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "59 days later gives Wednesday (59 mod 7 = 3)."
+   "answer": 2,
+   "explanation": "59 days later gives Wednesday (59 mod 7 = 3).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00510",
-   "q": "What is the angle between the hour and minute hands at 10:00?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 10:00?",
+   "options": [
     "75 degrees",
     "60 degrees",
     "300 degrees",
     "30 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 60 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 60 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00511",
-   "q": "Find the next term of the series: 1, 1, 2, 3, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, ?",
+   "options": [
     "4",
     "5",
     "10",
     "6"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 5."
+   "answer": 1,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 5.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00512",
-   "q": "Find the next number in the series: 4, 10, 16, 22, 28, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 10, 16, 22, 28, ?",
+   "options": [
     "34",
     "35",
     "40",
     "28"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 34."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 34.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00513",
-   "q": "Find the next number in the series: 4, 8, 16, 32, 64, 128, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 8, 16, 32, 64, 128, ?",
+   "options": [
     "247",
     "512",
     "255",
     "256"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 256."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 256.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00514",
-   "q": "Find the next number in the series: 49, 64, 81, 100, 121, ?",
-   "o": [
+   "question": "Find the next number in the series: 49, 64, 81, 100, 121, ?",
+   "options": [
     "145",
     "144",
     "288",
     "141"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 144."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 144.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00515",
-   "q": "Find the next number in the series: 5, 9, 15, 23, 33, 45, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 9, 15, 23, 33, 45, ?",
+   "options": [
     "61",
     "122",
     "62",
     "60"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 61."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 61.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00516",
-   "q": "In a code language each letter is shifted 2 place(s) forward. How is DOG written?",
-   "o": [
+   "question": "In a code language each letter is shifted 2 place(s) forward. How is DOG written?",
+   "options": [
     "HSK",
     "FQI",
     "GRJ",
     "EPH"
    ],
-   "a": 1,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of DOG by 2 gives FQI."
+   "answer": 1,
+   "explanation": "Shifting each letter of DOG by 2 gives FQI.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00517",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "65",
     "122",
     "100",
     "4"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "100 is a perfect square."
+   "answer": 2,
+   "explanation": "100 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00518",
-   "q": "If today is Sunday, what day will it be after 54 days?",
-   "o": [
+   "question": "If today is Sunday, what day will it be after 54 days?",
+   "options": [
     "Tuesday",
     "Friday",
     "Monday",
     "Wednesday"
    ],
-   "a": 1,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "54 days later gives Friday (54 mod 7 = 5)."
+   "answer": 1,
+   "explanation": "54 days later gives Friday (54 mod 7 = 5).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00519",
-   "q": "A person walks 8 km north and then 3 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 8 km north and then 3 km east. What is the straight line distance from the starting point?",
+   "options": [
     "11 km",
     "9.54 km",
     "8.54 km",
     "16 km"
    ],
-   "a": 2,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(8^2 + 3^2) = 8.54 km."
+   "answer": 2,
+   "explanation": "Distance = sqrt(8^2 + 3^2) = 8.54 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00520",
-   "q": "What is the angle between the hour and minute hands at 9:55?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 9:55?",
+   "options": [
     "62.5 degrees",
     "32.5 degrees",
     "327.5 degrees",
     "2.5 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 32.5 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 32.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00521",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "39",
     "40",
     "44",
     "41"
    ],
-   "a": 0,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 0,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00522",
-   "q": "Two books and three pens cost 29 rupees. If a book costs 4 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 29 rupees. If a book costs 4 rupees, what is the cost of one pen?",
+   "options": [
     "4 rupees",
     "5.8 rupees",
     "8 rupees",
     "7 rupees"
    ],
-   "a": 3,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 4 = 8, so 3 pens cost 21 and one pen costs 7 rupees."
+   "answer": 3,
+   "explanation": "2 x 4 = 8, so 3 pens cost 21 and one pen costs 7 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00523",
-   "q": "Find the next number in the series: 8, 15, 22, 29, 36, 43, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 15, 22, 29, 36, 43, ?",
+   "options": [
     "51",
     "50",
     "43",
     "100"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 50."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 50.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00524",
-   "q": "Find the next number in the series: 8, 16, 32, 64, 128, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 16, 32, 64, 128, ?",
+   "options": [
     "255",
     "512",
     "256",
     "257"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 256."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 256.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00525",
-   "q": "Find the next number in the series: 16, 25, 36, 49, 64, 81, ?",
-   "o": [
+   "question": "Find the next number in the series: 16, 25, 36, 49, 64, 81, ?",
+   "options": [
     "100",
     "101",
     "200",
     "107"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 100."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 100.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00526",
-   "q": "Find the next number in the series: 64, 125, 216, 343, 512, 729, ?",
-   "o": [
+   "question": "Find the next number in the series: 64, 125, 216, 343, 512, 729, ?",
+   "options": [
     "2000",
     "999",
     "1003",
     "1000"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1000."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 1000.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00527",
-   "q": "Find the next number in the series: 6, 12, 21, 33, 48, 66, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 12, 21, 33, 48, 66, ?",
+   "options": [
     "93",
     "90",
     "180",
     "89"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 90."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 90.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00528",
-   "q": "In a code language each letter is shifted 5 place(s) forward. How is SUN written?",
-   "o": [
+   "question": "In a code language each letter is shifted 5 place(s) forward. How is SUN written?",
+   "options": [
     "WYR",
     "UWP",
     "XZS",
     "VXQ"
    ],
-   "a": 2,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of SUN by 5 gives XZS."
+   "answer": 2,
+   "explanation": "Shifting each letter of SUN by 5 gives XZS.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00529",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "36",
     "101",
     "37",
     "144"
    ],
-   "a": 3,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "144 is a perfect square."
+   "answer": 3,
+   "explanation": "144 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00530",
-   "q": "If today is Wednesday, what day will it be after 10 days?",
-   "o": [
+   "question": "If today is Wednesday, what day will it be after 10 days?",
+   "options": [
     "Saturday",
     "Thursday",
     "Tuesday",
     "Wednesday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "10 days later gives Saturday (10 mod 7 = 3)."
+   "answer": 0,
+   "explanation": "10 days later gives Saturday (10 mod 7 = 3).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00531",
-   "q": "A person walks 9 km north and then 9 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 9 km north and then 9 km east. What is the straight line distance from the starting point?",
+   "options": [
     "18 km",
     "0 km",
     "12.73 km",
     "13.73 km"
    ],
-   "a": 2,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(9^2 + 9^2) = 12.73 km."
+   "answer": 2,
+   "explanation": "Distance = sqrt(9^2 + 9^2) = 12.73 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00532",
-   "q": "What is the angle between the hour and minute hands at 8:45?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 8:45?",
+   "options": [
     "352.5 degrees",
     "7.5 degrees",
     "37.5 degrees",
     "3.75 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 7.5 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 7.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00533",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "59",
     "57",
     "62",
     "61"
    ],
-   "a": 1,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 1,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00534",
-   "q": "Two books and three pens cost 26 rupees. If a book costs 4 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 26 rupees. If a book costs 4 rupees, what is the cost of one pen?",
+   "options": [
     "6 rupees",
     "7 rupees",
     "4 rupees",
     "5 rupees"
    ],
-   "a": 0,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 4 = 8, so 3 pens cost 18 and one pen costs 6 rupees."
+   "answer": 0,
+   "explanation": "2 x 4 = 8, so 3 pens cost 18 and one pen costs 6 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00535",
-   "q": "Find the next number in the series: 8, 13, 18, 23, 28, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 13, 18, 23, 28, ?",
+   "options": [
     "34",
     "33",
     "66",
     "32"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 33."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 33.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00536",
-   "q": "Find the next number in the series: 8, 16, 32, 64, 128, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 16, 32, 64, 128, ?",
+   "options": [
     "259",
     "253",
     "256",
     "255"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 256."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 256.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00537",
-   "q": "Find the next number in the series: 16, 25, 36, 49, 64, 81, ?",
-   "o": [
+   "question": "Find the next number in the series: 16, 25, 36, 49, 64, 81, ?",
+   "options": [
     "102",
     "101",
     "100",
     "200"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 100."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 100.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00538",
-   "q": "Find the next number in the series: 343, 512, 729, 1000, 1331, ?",
-   "o": [
+   "question": "Find the next number in the series: 343, 512, 729, 1000, 1331, ?",
+   "options": [
     "1727",
     "1729",
     "1728",
     "1726"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1728."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 1728.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00539",
-   "q": "Find the next number in the series: 5, 11, 20, 32, 47, 65, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 11, 20, 32, 47, 65, ?",
+   "options": [
     "88",
     "90",
     "89",
     "178"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 89."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 89.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00540",
-   "q": "In a code language each letter is shifted 2 place(s) forward. How is MAN written?",
-   "o": [
+   "question": "In a code language each letter is shifted 2 place(s) forward. How is MAN written?",
+   "options": [
     "OCP",
     "QER",
     "PDQ",
     "NBO"
    ],
-   "a": 0,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of MAN by 2 gives OCP."
+   "answer": 0,
+   "explanation": "Shifting each letter of MAN by 2 gives OCP.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00541",
-   "q": "If today is Tuesday, what day will it be after 11 days?",
-   "o": [
+   "question": "If today is Tuesday, what day will it be after 11 days?",
+   "options": [
     "Wednesday",
     "Tuesday",
     "Monday",
     "Saturday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "11 days later gives Saturday (11 mod 7 = 4)."
+   "answer": 3,
+   "explanation": "11 days later gives Saturday (11 mod 7 = 4).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00542",
-   "q": "A person walks 11 km north and then 4 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 11 km north and then 4 km east. What is the straight line distance from the starting point?",
+   "options": [
     "12.7 km",
     "11.7 km",
     "23.41 km",
     "22 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(11^2 + 4^2) = 11.7 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(11^2 + 4^2) = 11.7 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00543",
-   "q": "What is the angle between the hour and minute hands at 6:20?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 6:20?",
+   "options": [
     "40 degrees",
     "35 degrees",
     "290 degrees",
     "70 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 70 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 70 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00544",
-   "q": "Find the next number in the series: 4, 9, 14, 19, 24, 29, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 9, 14, 19, 24, 29, ?",
+   "options": [
     "34",
     "29",
     "68",
     "33"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 34."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 34.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00545",
-   "q": "Find the next number in the series: 4, 8, 16, 32, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 8, 16, 32, 64, ?",
+   "options": [
     "133",
     "256",
     "128",
     "127"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 128."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 128.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00546",
-   "q": "Find the next number in the series: 9, 16, 25, 36, 49, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 16, 25, 36, 49, ?",
+   "options": [
     "65",
     "69",
     "64",
     "63"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 64."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 64.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00547",
-   "q": "Find the next number in the series: 64, 125, 216, 343, 512, ?",
-   "o": [
+   "question": "Find the next number in the series: 64, 125, 216, 343, 512, ?",
+   "options": [
     "732",
     "729",
     "728",
     "726"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 729."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 729.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00548",
-   "q": "Find the next number in the series: 4, 10, 19, 31, 46, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 10, 19, 31, 46, ?",
+   "options": [
     "66",
     "68",
     "67",
     "70"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 67."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 67.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00549",
-   "q": "In a code language each letter is shifted 5 place(s) forward. How is VAN written?",
-   "o": [
+   "question": "In a code language each letter is shifted 5 place(s) forward. How is VAN written?",
+   "options": [
     "AFS",
     "WBO",
     "ZER",
     "YDQ"
    ],
-   "a": 0,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of VAN by 5 gives AFS."
+   "answer": 0,
+   "explanation": "Shifting each letter of VAN by 5 gives AFS.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00550",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "36",
     "100",
     "17",
     "5"
    ],
-   "a": 1,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "100 is a perfect square."
+   "answer": 1,
+   "explanation": "100 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00551",
-   "q": "If today is Friday, what day will it be after 37 days?",
-   "o": [
+   "question": "If today is Friday, what day will it be after 37 days?",
+   "options": [
     "Wednesday",
     "Sunday",
     "Monday",
     "Tuesday"
    ],
-   "a": 1,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "37 days later gives Sunday (37 mod 7 = 2)."
+   "answer": 1,
+   "explanation": "37 days later gives Sunday (37 mod 7 = 2).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00552",
-   "q": "A person walks 12 km north and then 7 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 12 km north and then 7 km east. What is the straight line distance from the starting point?",
+   "options": [
     "13.89 km",
     "14.89 km",
     "24 km",
     "27.78 km"
    ],
-   "a": 0,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(12^2 + 7^2) = 13.89 km."
+   "answer": 0,
+   "explanation": "Distance = sqrt(12^2 + 7^2) = 13.89 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00553",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "48",
     "49",
     "53",
     "50"
    ],
-   "a": 0,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 0,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00554",
-   "q": "Two books and three pens cost 31 rupees. If a book costs 5 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 31 rupees. If a book costs 5 rupees, what is the cost of one pen?",
+   "options": [
     "8 rupees",
     "6 rupees",
     "7 rupees",
     "5 rupees"
    ],
-   "a": 2,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 5 = 10, so 3 pens cost 21 and one pen costs 7 rupees."
+   "answer": 2,
+   "explanation": "2 x 5 = 10, so 3 pens cost 21 and one pen costs 7 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00555",
-   "q": "Find the next number in the series: 4, 11, 18, 25, 32, 39, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 11, 18, 25, 32, 39, ?",
+   "options": [
     "46",
     "53",
     "92",
     "39"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 46."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 46.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00556",
-   "q": "Find the next number in the series: 5, 10, 20, 40, 80, 160, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 10, 20, 40, 80, 160, ?",
+   "options": [
     "640",
     "311",
     "320",
     "321"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 320."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 320.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00557",
-   "q": "Find the next number in the series: 64, 81, 100, 121, 144, 169, ?",
-   "o": [
+   "question": "Find the next number in the series: 64, 81, 100, 121, 144, 169, ?",
+   "options": [
     "197",
     "191",
     "196",
     "392"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 196."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 196.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00558",
-   "q": "Find the next number in the series: 729, 1000, 1331, 1728, 2197, 2744, ?",
-   "o": [
+   "question": "Find the next number in the series: 729, 1000, 1331, 1728, 2197, 2744, ?",
+   "options": [
     "3375",
     "3373",
     "6750",
     "3377"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 3375."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 3375.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00559",
-   "q": "Find the next number in the series: 4, 12, 24, 40, 60, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 12, 24, 40, 60, ?",
+   "options": [
     "89",
     "88",
     "176",
     "84"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 88."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 88.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00560",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "65",
     "122",
     "81",
     "4"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "81 is a perfect square."
+   "answer": 2,
+   "explanation": "81 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00561",
-   "q": "If today is Saturday, what day will it be after 57 days?",
-   "o": [
+   "question": "If today is Saturday, what day will it be after 57 days?",
+   "options": [
     "Sunday",
     "Wednesday",
     "Tuesday",
     "Thursday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "57 days later gives Sunday (57 mod 7 = 1)."
+   "answer": 0,
+   "explanation": "57 days later gives Sunday (57 mod 7 = 1).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00562",
-   "q": "A person walks 9 km north and then 3 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 9 km north and then 3 km east. What is the straight line distance from the starting point?",
+   "options": [
     "18 km",
     "9.49 km",
     "10.49 km",
     "6 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(9^2 + 3^2) = 9.49 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(9^2 + 3^2) = 9.49 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00563",
-   "q": "What is the angle between the hour and minute hands at 6:25?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 6:25?",
+   "options": [
     "72.5 degrees",
     "12.5 degrees",
     "57.5 degrees",
     "42.5 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 42.5 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 42.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00564",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "66",
     "71",
     "70",
     "68"
    ],
-   "a": 0,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 0,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00565",
-   "q": "Find the next number in the series: 2, 11, 20, 29, 38, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 11, 20, 29, 38, ?",
+   "options": [
     "56",
     "94",
     "47",
     "38"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 47."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 47.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00566",
-   "q": "Find the next number in the series: 5, 10, 20, 40, 80, 160, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 10, 20, 40, 80, 160, ?",
+   "options": [
     "320",
     "319",
     "318",
     "322"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 320."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 320.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00567",
-   "q": "Find the next number in the series: 81, 100, 121, 144, 169, 196, ?",
-   "o": [
+   "question": "Find the next number in the series: 81, 100, 121, 144, 169, 196, ?",
+   "options": [
     "225",
     "450",
     "229",
     "221"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 225."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 225.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00568",
-   "q": "Find the next number in the series: 216, 343, 512, 729, 1000, 1331, ?",
-   "o": [
+   "question": "Find the next number in the series: 216, 343, 512, 729, 1000, 1331, ?",
+   "options": [
     "3456",
     "1732",
     "1729",
     "1728"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1728."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 1728.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00569",
-   "q": "Find the next number in the series: 2, 10, 22, 38, 58, 82, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 10, 22, 38, 58, 82, ?",
+   "options": [
     "115",
     "118",
     "114",
     "113"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 114."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 114.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00570",
-   "q": "In a code language each letter is shifted 1 place(s) forward. How is FAN written?",
-   "o": [
+   "question": "In a code language each letter is shifted 1 place(s) forward. How is FAN written?",
+   "options": [
     "HCP",
     "JER",
     "GBO",
     "IDQ"
    ],
-   "a": 2,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of FAN by 1 gives GBO."
+   "answer": 2,
+   "explanation": "Shifting each letter of FAN by 1 gives GBO.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00571",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "17",
     "16",
     "49",
     "81"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "49 is a perfect square."
+   "answer": 2,
+   "explanation": "49 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00572",
-   "q": "If today is Thursday, what day will it be after 41 days?",
-   "o": [
+   "question": "If today is Thursday, what day will it be after 41 days?",
+   "options": [
     "Monday",
     "Friday",
     "Thursday",
     "Wednesday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "41 days later gives Wednesday (41 mod 7 = 6)."
+   "answer": 3,
+   "explanation": "41 days later gives Wednesday (41 mod 7 = 6).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00573",
-   "q": "A person walks 6 km north and then 10 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 6 km north and then 10 km east. What is the straight line distance from the starting point?",
+   "options": [
     "23.32 km",
     "12.66 km",
     "4 km",
     "11.66 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(6^2 + 10^2) = 11.66 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(6^2 + 10^2) = 11.66 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00574",
-   "q": "What is the angle between the hour and minute hands at 12:40?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 12:40?",
+   "options": [
     "110 degrees",
     "220 degrees",
     "70 degrees",
     "140 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 140 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 140 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00575",
-   "q": "Two books and three pens cost 17 rupees. If a book costs 4 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 17 rupees. If a book costs 4 rupees, what is the cost of one pen?",
+   "options": [
     "6 rupees",
     "2 rupees",
     "3.4 rupees",
     "3 rupees"
    ],
-   "a": 3,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 4 = 8, so 3 pens cost 9 and one pen costs 3 rupees."
+   "answer": 3,
+   "explanation": "2 x 4 = 8, so 3 pens cost 9 and one pen costs 3 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00576",
-   "q": "Find the next number in the series: 6, 12, 18, 24, 30, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 12, 18, 24, 30, ?",
+   "options": [
     "35",
     "36",
     "72",
     "42"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 36."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 36.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00577",
-   "q": "Find the next number in the series: 2, 4, 8, 16, 32, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 4, 8, 16, 32, 64, ?",
+   "options": [
     "128",
     "256",
     "129",
     "119"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 128."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 128.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00578",
-   "q": "Find the next number in the series: 36, 49, 64, 81, 100, ?",
-   "o": [
+   "question": "Find the next number in the series: 36, 49, 64, 81, 100, ?",
+   "options": [
     "242",
     "120",
     "121",
     "122"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 121."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 121.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00579",
-   "q": "Find the next number in the series: 64, 125, 216, 343, 512, 729, ?",
-   "o": [
+   "question": "Find the next number in the series: 64, 125, 216, 343, 512, 729, ?",
+   "options": [
     "1009",
     "1000",
     "991",
     "999"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1000."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 1000.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00580",
-   "q": "Find the next number in the series: 7, 21, 42, 70, 105, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 21, 42, 70, 105, ?",
+   "options": [
     "154",
     "308",
     "161",
     "147"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 154."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 154.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00581",
-   "q": "In a code language each letter is shifted 1 place(s) forward. How is MAN written?",
-   "o": [
+   "question": "In a code language each letter is shifted 1 place(s) forward. How is MAN written?",
+   "options": [
     "QER",
     "OCP",
     "PDQ",
     "NBO"
    ],
-   "a": 3,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of MAN by 1 gives NBO."
+   "answer": 3,
+   "explanation": "Shifting each letter of MAN by 1 gives NBO.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00582",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "4",
     "121",
     "37",
     "81"
    ],
-   "a": 3,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "81 is a perfect square."
+   "answer": 3,
+   "explanation": "81 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00583",
-   "q": "If today is Tuesday, what day will it be after 50 days?",
-   "o": [
+   "question": "If today is Tuesday, what day will it be after 50 days?",
+   "options": [
     "Wednesday",
     "Friday",
     "Thursday",
     "Monday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "50 days later gives Wednesday (50 mod 7 = 1)."
+   "answer": 0,
+   "explanation": "50 days later gives Wednesday (50 mod 7 = 1).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00584",
-   "q": "A person walks 4 km north and then 9 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 4 km north and then 9 km east. What is the straight line distance from the starting point?",
+   "options": [
     "8 km",
     "9.85 km",
     "19.7 km",
     "13 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(4^2 + 9^2) = 9.85 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(4^2 + 9^2) = 9.85 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00585",
-   "q": "What is the angle between the hour and minute hands at 3:45?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 3:45?",
+   "options": [
     "157.5 degrees",
     "172.5 degrees",
     "127.5 degrees",
     "202.5 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 157.5 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 157.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00586",
-   "q": "Find the next number in the series: 8, 13, 18, 23, 28, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 13, 18, 23, 28, ?",
+   "options": [
     "66",
     "33",
     "28",
     "38"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 33."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 33.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00587",
-   "q": "Find the next number in the series: 3, 6, 12, 24, 48, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 6, 12, 24, 48, ?",
+   "options": [
     "97",
     "96",
     "95",
     "192"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 96."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 96.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00588",
-   "q": "Find the next number in the series: 4, 9, 16, 25, 36, 49, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 9, 16, 25, 36, 49, ?",
+   "options": [
     "64",
     "65",
     "72",
     "56"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 64."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 64.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00589",
-   "q": "Find the next number in the series: 7, 15, 27, 43, 63, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 15, 27, 43, 63, ?",
+   "options": [
     "92",
     "87",
     "95",
     "91"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 91."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 91.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00590",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "26",
     "16",
     "25",
     "49"
    ],
-   "a": 1,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "16 is a perfect square."
+   "answer": 1,
+   "explanation": "16 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00591",
-   "q": "If today is Sunday, what day will it be after 56 days?",
-   "o": [
+   "question": "If today is Sunday, what day will it be after 56 days?",
+   "options": [
     "Tuesday",
     "Monday",
     "Thursday",
     "Sunday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "56 days later gives Sunday (56 mod 7 = 0)."
+   "answer": 3,
+   "explanation": "56 days later gives Sunday (56 mod 7 = 0).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00592",
-   "q": "A person walks 8 km north and then 10 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 8 km north and then 10 km east. What is the straight line distance from the starting point?",
+   "options": [
     "18 km",
     "12.81 km",
     "13.81 km",
     "2 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(8^2 + 10^2) = 12.81 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(8^2 + 10^2) = 12.81 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00593",
-   "q": "What is the angle between the hour and minute hands at 3:40?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 3:40?",
+   "options": [
     "65 degrees",
     "130 degrees",
     "145 degrees",
     "100 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 130 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 130 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00594",
-   "q": "Find the next term of the series: 1, 1, 2, 3, 5, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, 5, ?",
+   "options": [
     "11",
     "13",
     "7",
     "8"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 8."
+   "answer": 3,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 8.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00595",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "34",
     "30",
     "32",
     "31"
    ],
-   "a": 1,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 1,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00596",
-   "q": "Two books and three pens cost 24 rupees. If a book costs 6 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 24 rupees. If a book costs 6 rupees, what is the cost of one pen?",
+   "options": [
     "4 rupees",
     "5 rupees",
     "3 rupees",
     "8 rupees"
    ],
-   "a": 0,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 6 = 12, so 3 pens cost 12 and one pen costs 4 rupees."
+   "answer": 0,
+   "explanation": "2 x 6 = 12, so 3 pens cost 12 and one pen costs 4 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00597",
-   "q": "Find the next number in the series: 2, 4, 6, 8, 10, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 4, 6, 8, 10, ?",
+   "options": [
     "12",
     "11",
     "10",
     "14"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 12."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 12.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00598",
-   "q": "Find the next number in the series: 4, 8, 16, 32, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 8, 16, 32, 64, ?",
+   "options": [
     "128",
     "123",
     "127",
     "133"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 128."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 128.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00599",
-   "q": "Find the next number in the series: 36, 49, 64, 81, 100, ?",
-   "o": [
+   "question": "Find the next number in the series: 36, 49, 64, 81, 100, ?",
+   "options": [
     "125",
     "120",
     "122",
     "121"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 121."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 121.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00600",
-   "q": "Find the next number in the series: 343, 512, 729, 1000, 1331, 1728, ?",
-   "o": [
+   "question": "Find the next number in the series: 343, 512, 729, 1000, 1331, 1728, ?",
+   "options": [
     "2197",
     "2188",
     "2196",
     "2198"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2197."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 2197.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00601",
-   "q": "Find the next number in the series: 9, 15, 24, 36, 51, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 15, 24, 36, 51, ?",
+   "options": [
     "144",
     "71",
     "72",
     "73"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 72."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 72.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00602",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "82",
     "50",
     "9",
     "4"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "9 is a perfect square."
+   "answer": 2,
+   "explanation": "9 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00603",
-   "q": "If today is Wednesday, what day will it be after 11 days?",
-   "o": [
+   "question": "If today is Wednesday, what day will it be after 11 days?",
+   "options": [
     "Thursday",
     "Monday",
     "Sunday",
     "Wednesday"
    ],
-   "a": 2,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "11 days later gives Sunday (11 mod 7 = 4)."
+   "answer": 2,
+   "explanation": "11 days later gives Sunday (11 mod 7 = 4).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00604",
-   "q": "A person walks 9 km north and then 10 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 9 km north and then 10 km east. What is the straight line distance from the starting point?",
+   "options": [
     "14.45 km",
     "18 km",
     "13.45 km",
     "19 km"
    ],
-   "a": 2,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(9^2 + 10^2) = 13.45 km."
+   "answer": 2,
+   "explanation": "Distance = sqrt(9^2 + 10^2) = 13.45 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00605",
-   "q": "What is the angle between the hour and minute hands at 11:15?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 11:15?",
+   "options": [
     "112.5 degrees",
     "142.5 degrees",
     "247.5 degrees",
     "82.5 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 112.5 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 112.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00606",
-   "q": "Find the next term of the series: 1, 1, 2, 3, 5, 8, 13, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, 5, 8, 13, ?",
+   "options": [
     "21",
     "20",
     "24",
     "42"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 21."
+   "answer": 0,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 21.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00607",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "66",
     "68",
     "70",
     "67"
    ],
-   "a": 0,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 0,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00608",
-   "q": "Two books and three pens cost 22 rupees. If a book costs 5 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 22 rupees. If a book costs 5 rupees, what is the cost of one pen?",
+   "options": [
     "8 rupees",
     "3 rupees",
     "4 rupees",
     "5 rupees"
    ],
-   "a": 2,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 5 = 10, so 3 pens cost 12 and one pen costs 4 rupees."
+   "answer": 2,
+   "explanation": "2 x 5 = 10, so 3 pens cost 12 and one pen costs 4 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00609",
-   "q": "Find the next number in the series: 2, 9, 16, 23, 30, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 9, 16, 23, 30, ?",
+   "options": [
     "36",
     "37",
     "30",
     "44"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 37."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 37.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00610",
-   "q": "Find the next number in the series: 9, 18, 36, 72, 144, 288, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 18, 36, 72, 144, 288, ?",
+   "options": [
     "578",
     "575",
     "574",
     "576"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 576."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 576.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00611",
-   "q": "Find the next number in the series: 64, 81, 100, 121, 144, ?",
-   "o": [
+   "question": "Find the next number in the series: 64, 81, 100, 121, 144, ?",
+   "options": [
     "166",
     "169",
     "338",
     "170"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 169."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 169.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00612",
-   "q": "Find the next number in the series: 27, 64, 125, 216, 343, 512, ?",
-   "o": [
+   "question": "Find the next number in the series: 27, 64, 125, 216, 343, 512, ?",
+   "options": [
     "1458",
     "729",
     "728",
     "730"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 729."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 729.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00613",
-   "q": "Find the next number in the series: 8, 20, 38, 62, 92, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 20, 38, 62, 92, ?",
+   "options": [
     "140",
     "134",
     "128",
     "133"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 134."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 134.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00614",
-   "q": "In a code language each letter is shifted 5 place(s) forward. How is VAN written?",
-   "o": [
+   "question": "In a code language each letter is shifted 5 place(s) forward. How is VAN written?",
+   "options": [
     "ZER",
     "YDQ",
     "AFS",
     "XCP"
    ],
-   "a": 2,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of VAN by 5 gives AFS."
+   "answer": 2,
+   "explanation": "Shifting each letter of VAN by 5 gives AFS.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00615",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "9",
     "121",
     "49",
     "25"
    ],
-   "a": 0,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "9 is a perfect square."
+   "answer": 0,
+   "explanation": "9 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00616",
-   "q": "In a row of 6 children, Esha is standing at position 5 from the left. What is the position from the right?",
-   "o": [
+   "question": "In a row of 6 children, Esha is standing at position 5 from the left. What is the position from the right?",
+   "options": [
     "5",
     "7",
     "2",
     "1"
    ],
-   "a": 2,
-   "t": "Ranking",
-   "l": 2,
-   "s": "generated",
-   "e": "Position from right = total - position from left + 1 = 2."
+   "answer": 2,
+   "explanation": "Position from right = total - position from left + 1 = 2.",
+   "topic": "Ranking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00617",
-   "q": "If today is Tuesday, what day will it be after 28 days?",
-   "o": [
+   "question": "If today is Tuesday, what day will it be after 28 days?",
+   "options": [
     "Friday",
     "Thursday",
     "Monday",
     "Tuesday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "28 days later gives Tuesday (28 mod 7 = 0)."
+   "answer": 3,
+   "explanation": "28 days later gives Tuesday (28 mod 7 = 0).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00618",
-   "q": "A person walks 7 km north and then 9 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 7 km north and then 9 km east. What is the straight line distance from the starting point?",
+   "options": [
     "11.4 km",
     "14 km",
     "22.8 km",
     "2 km"
    ],
-   "a": 0,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(7^2 + 9^2) = 11.4 km."
+   "answer": 0,
+   "explanation": "Distance = sqrt(7^2 + 9^2) = 11.4 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00619",
-   "q": "What is the angle between the hour and minute hands at 5:30?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 5:30?",
+   "options": [
     "-15 degrees",
     "15 degrees",
     "345 degrees",
     "7.5 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 15 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 15 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00620",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "53",
     "51",
     "52",
     "56"
    ],
-   "a": 1,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 1,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00621",
-   "q": "Find the next number in the series: 2, 11, 20, 29, 38, 47, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 11, 20, 29, 38, 47, ?",
+   "options": [
     "56",
     "57",
     "112",
     "65"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 56."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 56.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00622",
-   "q": "Find the next number in the series: 3, 6, 12, 24, 48, 96, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 6, 12, 24, 48, 96, ?",
+   "options": [
     "200",
     "384",
     "192",
     "193"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 192."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 192.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00623",
-   "q": "Find the next number in the series: 64, 81, 100, 121, 144, 169, ?",
-   "o": [
+   "question": "Find the next number in the series: 64, 81, 100, 121, 144, 169, ?",
+   "options": [
     "196",
     "195",
     "392",
     "190"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 196."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 196.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00624",
-   "q": "Find the next number in the series: 27, 64, 125, 216, 343, ?",
-   "o": [
+   "question": "Find the next number in the series: 27, 64, 125, 216, 343, ?",
+   "options": [
     "514",
     "1024",
     "510",
     "512"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 512."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 512.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00625",
-   "q": "Find the next number in the series: 6, 14, 26, 42, 62, 86, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 14, 26, 42, 62, 86, ?",
+   "options": [
     "122",
     "117",
     "236",
     "118"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 118."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 118.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00626",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "81",
     "17",
     "64",
     "36"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "64 is a perfect square."
+   "answer": 2,
+   "explanation": "64 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00627",
-   "q": "If today is Saturday, what day will it be after 14 days?",
-   "o": [
+   "question": "If today is Saturday, what day will it be after 14 days?",
+   "options": [
     "Thursday",
     "Monday",
     "Saturday",
     "Tuesday"
    ],
-   "a": 2,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "14 days later gives Saturday (14 mod 7 = 0)."
+   "answer": 2,
+   "explanation": "14 days later gives Saturday (14 mod 7 = 0).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00628",
-   "q": "A person walks 9 km north and then 9 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 9 km north and then 9 km east. What is the straight line distance from the starting point?",
+   "options": [
     "13.73 km",
     "18 km",
     "25.46 km",
     "12.73 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(9^2 + 9^2) = 12.73 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(9^2 + 9^2) = 12.73 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00629",
-   "q": "What is the angle between the hour and minute hands at 4:00?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 4:00?",
+   "options": [
     "90 degrees",
     "150 degrees",
     "60 degrees",
     "120 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 120 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 120 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00630",
-   "q": "Find the next number in the series: 3, 11, 19, 27, 35, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 11, 19, 27, 35, ?",
+   "options": [
     "42",
     "86",
     "44",
     "43"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 43."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 43.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00631",
-   "q": "Find the next number in the series: 7, 14, 28, 56, 112, 224, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 14, 28, 56, 112, 224, ?",
+   "options": [
     "896",
     "451",
     "445",
     "448"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 448."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 448.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00632",
-   "q": "Find the next number in the series: 81, 100, 121, 144, 169, ?",
-   "o": [
+   "question": "Find the next number in the series: 81, 100, 121, 144, 169, ?",
+   "options": [
     "201",
     "196",
     "191",
     "197"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 196."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 196.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00633",
-   "q": "Find the next number in the series: 729, 1000, 1331, 1728, 2197, ?",
-   "o": [
+   "question": "Find the next number in the series: 729, 1000, 1331, 1728, 2197, ?",
+   "options": [
     "2744",
     "2750",
     "2745",
     "5488"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2744."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 2744.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00634",
-   "q": "Find the next number in the series: 7, 15, 27, 43, 63, 87, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 15, 27, 43, 63, 87, ?",
+   "options": [
     "120",
     "119",
     "238",
     "118"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 119."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 119.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00635",
-   "q": "If today is Saturday, what day will it be after 40 days?",
-   "o": [
+   "question": "If today is Saturday, what day will it be after 40 days?",
+   "options": [
     "Friday",
     "Tuesday",
     "Wednesday",
     "Thursday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "40 days later gives Thursday (40 mod 7 = 5)."
+   "answer": 3,
+   "explanation": "40 days later gives Thursday (40 mod 7 = 5).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00636",
-   "q": "What is the angle between the hour and minute hands at 2:00?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 2:00?",
+   "options": [
     "300 degrees",
     "30 degrees",
     "90 degrees",
     "60 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 60 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 60 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00637",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "23",
     "22",
     "19",
     "18"
    ],
-   "a": 3,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 3,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00638",
-   "q": "Find the next number in the series: 7, 10, 13, 16, 19, 22, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 10, 13, 16, 19, 22, ?",
+   "options": [
     "25",
     "28",
     "50",
     "24"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 25."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 25.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00639",
-   "q": "Find the next number in the series: 5, 10, 20, 40, 80, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 10, 20, 40, 80, ?",
+   "options": [
     "167",
     "161",
     "159",
     "160"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 160."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 160.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00640",
-   "q": "Find the next number in the series: 49, 64, 81, 100, 121, 144, ?",
-   "o": [
+   "question": "Find the next number in the series: 49, 64, 81, 100, 121, 144, ?",
+   "options": [
     "169",
     "168",
     "170",
     "172"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 169."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 169.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00641",
-   "q": "Find the next number in the series: 512, 729, 1000, 1331, 1728, 2197, ?",
-   "o": [
+   "question": "Find the next number in the series: 512, 729, 1000, 1331, 1728, 2197, ?",
+   "options": [
     "2743",
     "2753",
     "5488",
     "2744"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2744."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 2744.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00642",
-   "q": "Find the next number in the series: 4, 10, 19, 31, 46, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 10, 19, 31, 46, 64, ?",
+   "options": [
     "176",
     "88",
     "87",
     "89"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 88."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 88.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00643",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "101",
     "121",
     "36",
     "17"
    ],
-   "a": 1,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "121 is a perfect square."
+   "answer": 1,
+   "explanation": "121 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00644",
-   "q": "If today is Wednesday, what day will it be after 57 days?",
-   "o": [
+   "question": "If today is Wednesday, what day will it be after 57 days?",
+   "options": [
     "Friday",
     "Wednesday",
     "Tuesday",
     "Thursday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "57 days later gives Thursday (57 mod 7 = 1)."
+   "answer": 3,
+   "explanation": "57 days later gives Thursday (57 mod 7 = 1).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00645",
-   "q": "A person walks 10 km north and then 7 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 10 km north and then 7 km east. What is the straight line distance from the starting point?",
+   "options": [
     "24.41 km",
     "12.21 km",
     "17 km",
     "20 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(10^2 + 7^2) = 12.21 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(10^2 + 7^2) = 12.21 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00646",
-   "q": "What is the angle between the hour and minute hands at 8:30?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 8:30?",
+   "options": [
     "45 degrees",
     "75 degrees",
     "285 degrees",
     "105 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 75 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 75 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00647",
-   "q": "Find the next number in the series: 2, 5, 8, 11, 14, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 5, 8, 11, 14, ?",
+   "options": [
     "17",
     "20",
     "34",
     "16"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 17."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 17.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00648",
-   "q": "Find the next number in the series: 2, 4, 8, 16, 32, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 4, 8, 16, 32, 64, ?",
+   "options": [
     "127",
     "128",
     "129",
     "125"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 128."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 128.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00649",
-   "q": "Find the next number in the series: 81, 100, 121, 144, 169, ?",
-   "o": [
+   "question": "Find the next number in the series: 81, 100, 121, 144, 169, ?",
+   "options": [
     "191",
     "201",
     "195",
     "196"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 196."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 196.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00650",
-   "q": "Find the next number in the series: 27, 64, 125, 216, 343, 512, ?",
-   "o": [
+   "question": "Find the next number in the series: 27, 64, 125, 216, 343, 512, ?",
+   "options": [
     "1458",
     "729",
     "723",
     "730"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 729."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 729.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00651",
-   "q": "Find the next number in the series: 9, 25, 49, 81, 121, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 25, 49, 81, 121, ?",
+   "options": [
     "176",
     "185",
     "177",
     "178"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 177."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 177.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00652",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "100",
     "16",
     "65",
     "37"
    ],
-   "a": 0,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "100 is a perfect square."
+   "answer": 0,
+   "explanation": "100 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00653",
-   "q": "If today is Friday, what day will it be after 49 days?",
-   "o": [
+   "question": "If today is Friday, what day will it be after 49 days?",
+   "options": [
     "Friday",
     "Thursday",
     "Tuesday",
     "Wednesday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "49 days later gives Friday (49 mod 7 = 0)."
+   "answer": 0,
+   "explanation": "49 days later gives Friday (49 mod 7 = 0).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00654",
-   "q": "A person walks 12 km north and then 4 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 12 km north and then 4 km east. What is the straight line distance from the starting point?",
+   "options": [
     "8 km",
     "12.65 km",
     "16 km",
     "25.3 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(12^2 + 4^2) = 12.65 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(12^2 + 4^2) = 12.65 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00655",
-   "q": "What is the angle between the hour and minute hands at 10:25?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 10:25?",
+   "options": [
     "132.5 degrees",
     "162.5 degrees",
     "192.5 degrees",
     "197.5 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 162.5 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 162.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00656",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "70",
     "67",
     "71",
     "66"
    ],
-   "a": 3,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 3,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00657",
-   "q": "Two books and three pens cost 33 rupees. If a book costs 6 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 33 rupees. If a book costs 6 rupees, what is the cost of one pen?",
+   "options": [
     "6 rupees",
     "8 rupees",
     "14 rupees",
     "7 rupees"
    ],
-   "a": 3,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 6 = 12, so 3 pens cost 21 and one pen costs 7 rupees."
+   "answer": 3,
+   "explanation": "2 x 6 = 12, so 3 pens cost 21 and one pen costs 7 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00658",
-   "q": "Find the next number in the series: 3, 7, 11, 15, 19, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 7, 11, 15, 19, ?",
+   "options": [
     "23",
     "24",
     "22",
     "27"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 23."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 23.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00659",
-   "q": "Find the next number in the series: 2, 4, 8, 16, 32, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 4, 8, 16, 32, ?",
+   "options": [
     "63",
     "64",
     "62",
     "128"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 64."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 64.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00660",
-   "q": "Find the next number in the series: 49, 64, 81, 100, 121, 144, ?",
-   "o": [
+   "question": "Find the next number in the series: 49, 64, 81, 100, 121, 144, ?",
+   "options": [
     "168",
     "169",
     "338",
     "175"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 169."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 169.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00661",
-   "q": "Find the next number in the series: 512, 729, 1000, 1331, 1728, 2197, ?",
-   "o": [
+   "question": "Find the next number in the series: 512, 729, 1000, 1331, 1728, 2197, ?",
+   "options": [
     "2738",
     "2744",
     "2750",
     "2745"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2744."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 2744.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00662",
-   "q": "Find the next number in the series: 9, 21, 39, 63, 93, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 21, 39, 63, 93, ?",
+   "options": [
     "134",
     "270",
     "141",
     "135"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 135."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 135.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00663",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "37",
     "5",
     "81",
     "16"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "81 is a perfect square."
+   "answer": 2,
+   "explanation": "81 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00664",
-   "q": "A person walks 7 km north and then 5 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 7 km north and then 5 km east. What is the straight line distance from the starting point?",
+   "options": [
     "9.6 km",
     "2 km",
     "17.2 km",
     "8.6 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(7^2 + 5^2) = 8.6 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(7^2 + 5^2) = 8.6 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00665",
-   "q": "What is the angle between the hour and minute hands at 5:50?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 5:50?",
+   "options": [
     "125 degrees",
     "140 degrees",
     "155 degrees",
     "95 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 125 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 125 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00666",
-   "q": "Two books and three pens cost 33 rupees. If a book costs 6 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 33 rupees. If a book costs 6 rupees, what is the cost of one pen?",
+   "options": [
     "14 rupees",
     "7 rupees",
     "6.6 rupees",
     "8 rupees"
    ],
-   "a": 1,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 6 = 12, so 3 pens cost 21 and one pen costs 7 rupees."
+   "answer": 1,
+   "explanation": "2 x 6 = 12, so 3 pens cost 21 and one pen costs 7 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00667",
-   "q": "Find the next number in the series: 9, 11, 13, 15, 17, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 11, 13, 15, 17, ?",
+   "options": [
     "21",
     "38",
     "19",
     "20"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 19."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 19.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00668",
-   "q": "Find the next number in the series: 6, 12, 24, 48, 96, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 12, 24, 48, 96, ?",
+   "options": [
     "196",
     "384",
     "192",
     "188"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 192."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 192.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00669",
-   "q": "Find the next number in the series: 36, 49, 64, 81, 100, ?",
-   "o": [
+   "question": "Find the next number in the series: 36, 49, 64, 81, 100, ?",
+   "options": [
     "122",
     "121",
     "112",
     "120"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 121."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 121.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00670",
-   "q": "Find the next number in the series: 216, 343, 512, 729, 1000, 1331, ?",
-   "o": [
+   "question": "Find the next number in the series: 216, 343, 512, 729, 1000, 1331, ?",
+   "options": [
     "1729",
     "1727",
     "1728",
     "3456"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1728."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 1728.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00671",
-   "q": "Find the next number in the series: 6, 14, 26, 42, 62, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 14, 26, 42, 62, ?",
+   "options": [
     "86",
     "90",
     "91",
     "94"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 90."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 90.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00672",
-   "q": "In a code language each letter is shifted 3 place(s) forward. How is PEN written?",
-   "o": [
+   "question": "In a code language each letter is shifted 3 place(s) forward. How is PEN written?",
+   "options": [
     "SHQ",
     "RGP",
     "QFO",
     "TIR"
    ],
-   "a": 0,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of PEN by 3 gives SHQ."
+   "answer": 0,
+   "explanation": "Shifting each letter of PEN by 3 gives SHQ.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00673",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "81",
     "37",
     "49",
     "121"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "49 is a perfect square."
+   "answer": 2,
+   "explanation": "49 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00674",
-   "q": "If today is Sunday, what day will it be after 51 days?",
-   "o": [
+   "question": "If today is Sunday, what day will it be after 51 days?",
+   "options": [
     "Tuesday",
     "Friday",
     "Monday",
     "Thursday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "51 days later gives Tuesday (51 mod 7 = 2)."
+   "answer": 0,
+   "explanation": "51 days later gives Tuesday (51 mod 7 = 2).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00675",
-   "q": "A person walks 4 km north and then 5 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 4 km north and then 5 km east. What is the straight line distance from the starting point?",
+   "options": [
     "8 km",
     "7.4 km",
     "1 km",
     "6.4 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(4^2 + 5^2) = 6.4 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(4^2 + 5^2) = 6.4 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00676",
-   "q": "What is the angle between the hour and minute hands at 5:15?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 5:15?",
+   "options": [
     "33.75 degrees",
     "37.5 degrees",
     "82.5 degrees",
     "67.5 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 67.5 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 67.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00677",
-   "q": "Find the next term of the series: 1, 1, 2, 3, 5, 8, 13, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, 5, 8, 13, ?",
+   "options": [
     "20",
     "21",
     "22",
     "42"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 21."
+   "answer": 1,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 21.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00678",
-   "q": "Find the next number in the series: 5, 9, 13, 17, 21, 25, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 9, 13, 17, 21, 25, ?",
+   "options": [
     "29",
     "25",
     "30",
     "33"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 29."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 29.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00679",
-   "q": "Find the next number in the series: 16, 25, 36, 49, 64, 81, ?",
-   "o": [
+   "question": "Find the next number in the series: 16, 25, 36, 49, 64, 81, ?",
+   "options": [
     "200",
     "99",
     "100",
     "109"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 100."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 100.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00680",
-   "q": "Find the next number in the series: 64, 125, 216, 343, 512, 729, ?",
-   "o": [
+   "question": "Find the next number in the series: 64, 125, 216, 343, 512, 729, ?",
+   "options": [
     "1001",
     "1000",
     "999",
     "1008"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1000."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 1000.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00681",
-   "q": "Find the next number in the series: 2, 20, 47, 83, 128, 182, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 20, 47, 83, 128, 182, ?",
+   "options": [
     "245",
     "254",
     "263",
     "508"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 254."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 254.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00682",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "10",
     "4",
     "122",
     "26"
    ],
-   "a": 1,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "4 is a perfect square."
+   "answer": 1,
+   "explanation": "4 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00683",
-   "q": "If today is Tuesday, what day will it be after 58 days?",
-   "o": [
+   "question": "If today is Tuesday, what day will it be after 58 days?",
+   "options": [
     "Thursday",
     "Monday",
     "Wednesday",
     "Tuesday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "58 days later gives Thursday (58 mod 7 = 2)."
+   "answer": 0,
+   "explanation": "58 days later gives Thursday (58 mod 7 = 2).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00684",
-   "q": "A person walks 7 km north and then 5 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 7 km north and then 5 km east. What is the straight line distance from the starting point?",
+   "options": [
     "2 km",
     "8.6 km",
     "17.2 km",
     "14 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(7^2 + 5^2) = 8.6 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(7^2 + 5^2) = 8.6 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00685",
-   "q": "What is the angle between the hour and minute hands at 2:00?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 2:00?",
+   "options": [
     "75 degrees",
     "30 degrees",
     "90 degrees",
     "60 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 60 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 60 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00686",
-   "q": "Find the next term of the series: 1, 1, 2, 3, 5, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, 5, ?",
+   "options": [
     "13",
     "16",
     "8",
     "11"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 8."
+   "answer": 2,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 8.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00687",
-   "q": "Find the next number in the series: 4, 11, 18, 25, 32, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 11, 18, 25, 32, ?",
+   "options": [
     "38",
     "39",
     "46",
     "40"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 39."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 39.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00688",
-   "q": "Find the next number in the series: 64, 81, 100, 121, 144, ?",
-   "o": [
+   "question": "Find the next number in the series: 64, 81, 100, 121, 144, ?",
+   "options": [
     "172",
     "169",
     "166",
     "170"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 169."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 169.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00689",
-   "q": "Find the next number in the series: 343, 512, 729, 1000, 1331, ?",
-   "o": [
+   "question": "Find the next number in the series: 343, 512, 729, 1000, 1331, ?",
+   "options": [
     "1728",
     "1736",
     "1727",
     "3456"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1728."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 1728.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00690",
-   "q": "Find the next number in the series: 3, 11, 23, 39, 59, 83, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 11, 23, 39, 59, 83, ?",
+   "options": [
     "230",
     "114",
     "111",
     "115"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 115."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 115.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00691",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "17",
     "64",
     "82",
     "37"
    ],
-   "a": 1,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "64 is a perfect square."
+   "answer": 1,
+   "explanation": "64 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00692",
-   "q": "If today is Sunday, what day will it be after 11 days?",
-   "o": [
+   "question": "If today is Sunday, what day will it be after 11 days?",
+   "options": [
     "Tuesday",
     "Friday",
     "Monday",
     "Thursday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "11 days later gives Thursday (11 mod 7 = 4)."
+   "answer": 3,
+   "explanation": "11 days later gives Thursday (11 mod 7 = 4).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00693",
-   "q": "A person walks 3 km north and then 10 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 3 km north and then 10 km east. What is the straight line distance from the starting point?",
+   "options": [
     "10.44 km",
     "20.88 km",
     "11.44 km",
     "7 km"
    ],
-   "a": 0,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(3^2 + 10^2) = 10.44 km."
+   "answer": 0,
+   "explanation": "Distance = sqrt(3^2 + 10^2) = 10.44 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00694",
-   "q": "What is the angle between the hour and minute hands at 2:55?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 2:55?",
+   "options": [
     "132.5 degrees",
     "58.75 degrees",
     "117.5 degrees",
     "87.5 degrees"
    ],
-   "a": 2,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 117.5 degrees."
+   "answer": 2,
+   "explanation": "Angle = |30H - 5.5M| = 117.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00695",
-   "q": "Two books and three pens cost 19 rupees. If a book costs 5 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 19 rupees. If a book costs 5 rupees, what is the cost of one pen?",
+   "options": [
     "5 rupees",
     "3 rupees",
     "2 rupees",
     "3.8 rupees"
    ],
-   "a": 1,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 5 = 10, so 3 pens cost 9 and one pen costs 3 rupees."
+   "answer": 1,
+   "explanation": "2 x 5 = 10, so 3 pens cost 9 and one pen costs 3 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00696",
-   "q": "Find the next number in the series: 8, 13, 18, 23, 28, 33, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 13, 18, 23, 28, 33, ?",
+   "options": [
     "39",
     "38",
     "76",
     "43"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 38."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 38.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00697",
-   "q": "Find the next number in the series: 6, 12, 24, 48, 96, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 12, 24, 48, 96, ?",
+   "options": [
     "193",
     "384",
     "192",
     "194"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 192."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 192.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00698",
-   "q": "Find the next number in the series: 16, 25, 36, 49, 64, 81, ?",
-   "o": [
+   "question": "Find the next number in the series: 16, 25, 36, 49, 64, 81, ?",
+   "options": [
     "101",
     "100",
     "200",
     "99"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 100."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 100.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00699",
-   "q": "Find the next number in the series: 216, 343, 512, 729, 1000, 1331, ?",
-   "o": [
+   "question": "Find the next number in the series: 216, 343, 512, 729, 1000, 1331, ?",
+   "options": [
     "1728",
     "1735",
     "3456",
     "1721"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1728."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 1728.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00700",
-   "q": "Find the next number in the series: 4, 18, 39, 67, 102, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 18, 39, 67, 102, ?",
+   "options": [
     "150",
     "151",
     "144",
     "302"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 151."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 151.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00701",
-   "q": "In a code language each letter is shifted 4 place(s) forward. How is FAN written?",
-   "o": [
+   "question": "In a code language each letter is shifted 4 place(s) forward. How is FAN written?",
+   "options": [
     "JER",
     "GBO",
     "HCP",
     "IDQ"
    ],
-   "a": 0,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of FAN by 4 gives JER."
+   "answer": 0,
+   "explanation": "Shifting each letter of FAN by 4 gives JER.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00702",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "64",
     "36",
     "144",
     "17"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "144 is a perfect square."
+   "answer": 2,
+   "explanation": "144 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00703",
-   "q": "If today is Monday, what day will it be after 55 days?",
-   "o": [
+   "question": "If today is Monday, what day will it be after 55 days?",
+   "options": [
     "Monday",
     "Sunday",
     "Wednesday",
     "Thursday"
    ],
-   "a": 1,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "55 days later gives Sunday (55 mod 7 = 6)."
+   "answer": 1,
+   "explanation": "55 days later gives Sunday (55 mod 7 = 6).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00704",
-   "q": "A person walks 8 km north and then 7 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 8 km north and then 7 km east. What is the straight line distance from the starting point?",
+   "options": [
     "1 km",
     "16 km",
     "21.26 km",
     "10.63 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(8^2 + 7^2) = 10.63 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(8^2 + 7^2) = 10.63 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00705",
-   "q": "What is the angle between the hour and minute hands at 9:20?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 9:20?",
+   "options": [
     "200 degrees",
     "175 degrees",
     "160 degrees",
     "190 degrees"
    ],
-   "a": 2,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 160 degrees."
+   "answer": 2,
+   "explanation": "Angle = |30H - 5.5M| = 160 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00706",
-   "q": "Find the next term of the series: 1, 1, 2, 3, 5, 8, 13, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, 5, 8, 13, ?",
+   "options": [
     "42",
     "24",
     "26",
     "21"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 21."
+   "answer": 3,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 21.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00707",
-   "q": "Two books and three pens cost 29 rupees. If a book costs 7 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 29 rupees. If a book costs 7 rupees, what is the cost of one pen?",
+   "options": [
     "5.8 rupees",
     "5 rupees",
     "7 rupees",
     "4 rupees"
    ],
-   "a": 1,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 7 = 14, so 3 pens cost 15 and one pen costs 5 rupees."
+   "answer": 1,
+   "explanation": "2 x 7 = 14, so 3 pens cost 15 and one pen costs 5 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00708",
-   "q": "Find the next number in the series: 6, 11, 16, 21, 26, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 11, 16, 21, 26, ?",
+   "options": [
     "26",
     "31",
     "32",
     "30"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 31."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 31.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00709",
-   "q": "Find the next number in the series: 7, 14, 28, 56, 112, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 14, 28, 56, 112, ?",
+   "options": [
     "227",
     "225",
     "224",
     "221"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 224."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 224.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00710",
-   "q": "Find the next number in the series: 16, 25, 36, 49, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 16, 25, 36, 49, 64, ?",
+   "options": [
     "162",
     "82",
     "89",
     "81"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 81."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 81.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00711",
-   "q": "Find the next number in the series: 125, 216, 343, 512, 729, ?",
-   "o": [
+   "question": "Find the next number in the series: 125, 216, 343, 512, 729, ?",
+   "options": [
     "999",
     "2000",
     "998",
     "1000"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1000."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 1000.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00712",
-   "q": "Find the next number in the series: 9, 15, 24, 36, 51, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 15, 24, 36, 51, ?",
+   "options": [
     "69",
     "72",
     "71",
     "73"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 72."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 72.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00713",
-   "q": "In a code language each letter is shifted 4 place(s) forward. How is CAT written?",
-   "o": [
+   "question": "In a code language each letter is shifted 4 place(s) forward. How is CAT written?",
+   "options": [
     "DBU",
     "FDW",
     "GEX",
     "ECV"
    ],
-   "a": 2,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of CAT by 4 gives GEX."
+   "answer": 2,
+   "explanation": "Shifting each letter of CAT by 4 gives GEX.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00714",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "4",
     "50",
     "16",
     "36"
    ],
-   "a": 3,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "36 is a perfect square."
+   "answer": 3,
+   "explanation": "36 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00715",
-   "q": "If today is Saturday, what day will it be after 19 days?",
-   "o": [
+   "question": "If today is Saturday, what day will it be after 19 days?",
+   "options": [
     "Tuesday",
     "Wednesday",
     "Thursday",
     "Friday"
    ],
-   "a": 2,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "19 days later gives Thursday (19 mod 7 = 5)."
+   "answer": 2,
+   "explanation": "19 days later gives Thursday (19 mod 7 = 5).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00716",
-   "q": "A person walks 8 km north and then 10 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 8 km north and then 10 km east. What is the straight line distance from the starting point?",
+   "options": [
     "2 km",
     "12.81 km",
     "18 km",
     "16 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(8^2 + 10^2) = 12.81 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(8^2 + 10^2) = 12.81 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00717",
-   "q": "What is the angle between the hour and minute hands at 1:45?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 1:45?",
+   "options": [
     "217.5 degrees",
     "142.5 degrees",
     "112.5 degrees",
     "71.25 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 142.5 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 142.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00718",
-   "q": "Two books and three pens cost 29 rupees. If a book costs 4 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 29 rupees. If a book costs 4 rupees, what is the cost of one pen?",
+   "options": [
     "7 rupees",
     "6 rupees",
     "8 rupees",
     "5.8 rupees"
    ],
-   "a": 0,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 4 = 8, so 3 pens cost 21 and one pen costs 7 rupees."
+   "answer": 0,
+   "explanation": "2 x 4 = 8, so 3 pens cost 21 and one pen costs 7 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00719",
-   "q": "Find the next number in the series: 3, 6, 9, 12, 15, 18, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 6, 9, 12, 15, 18, ?",
+   "options": [
     "24",
     "21",
     "22",
     "42"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 21."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 21.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00720",
-   "q": "Find the next number in the series: 7, 14, 28, 56, 112, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 14, 28, 56, 112, ?",
+   "options": [
     "217",
     "225",
     "231",
     "224"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 224."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 224.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00721",
-   "q": "Find the next number in the series: 25, 36, 49, 64, 81, ?",
-   "o": [
+   "question": "Find the next number in the series: 25, 36, 49, 64, 81, ?",
+   "options": [
     "200",
     "99",
     "100",
     "101"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 100."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 100.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00722",
-   "q": "Find the next number in the series: 27, 64, 125, 216, 343, 512, ?",
-   "o": [
+   "question": "Find the next number in the series: 27, 64, 125, 216, 343, 512, ?",
+   "options": [
     "1458",
     "724",
     "729",
     "728"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 729."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 729.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00723",
-   "q": "Find the next number in the series: 5, 13, 25, 41, 61, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 13, 25, 41, 61, ?",
+   "options": [
     "90",
     "93",
     "85",
     "89"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 89."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 89.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00724",
-   "q": "In a code language each letter is shifted 2 place(s) forward. How is FAN written?",
-   "o": [
+   "question": "In a code language each letter is shifted 2 place(s) forward. How is FAN written?",
+   "options": [
     "HCP",
     "GBO",
     "IDQ",
     "JER"
    ],
-   "a": 0,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of FAN by 2 gives HCP."
+   "answer": 0,
+   "explanation": "Shifting each letter of FAN by 2 gives HCP.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00725",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "16",
     "121",
     "4",
     "37"
    ],
-   "a": 1,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "121 is a perfect square."
+   "answer": 1,
+   "explanation": "121 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00726",
-   "q": "If today is Thursday, what day will it be after 69 days?",
-   "o": [
+   "question": "If today is Thursday, what day will it be after 69 days?",
+   "options": [
     "Friday",
     "Wednesday",
     "Monday",
     "Tuesday"
    ],
-   "a": 1,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "69 days later gives Wednesday (69 mod 7 = 6)."
+   "answer": 1,
+   "explanation": "69 days later gives Wednesday (69 mod 7 = 6).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00727",
-   "q": "A person walks 11 km north and then 3 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 11 km north and then 3 km east. What is the straight line distance from the starting point?",
+   "options": [
     "11.4 km",
     "14 km",
     "22 km",
     "22.8 km"
    ],
-   "a": 0,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(11^2 + 3^2) = 11.4 km."
+   "answer": 0,
+   "explanation": "Distance = sqrt(11^2 + 3^2) = 11.4 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00728",
-   "q": "What is the angle between the hour and minute hands at 2:30?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 2:30?",
+   "options": [
     "52.5 degrees",
     "105 degrees",
     "135 degrees",
     "75 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 105 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 105 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00729",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "71",
     "69",
     "74",
     "70"
    ],
-   "a": 1,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 1,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00730",
-   "q": "Find the next number in the series: 5, 10, 15, 20, 25, 30, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 10, 15, 20, 25, 30, ?",
+   "options": [
     "40",
     "70",
     "35",
     "30"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 35."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 35.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00731",
-   "q": "Find the next number in the series: 9, 16, 25, 36, 49, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 16, 25, 36, 49, 64, ?",
+   "options": [
     "74",
     "82",
     "88",
     "81"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 81."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 81.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00732",
-   "q": "Find the next number in the series: 729, 1000, 1331, 1728, 2197, 2744, ?",
-   "o": [
+   "question": "Find the next number in the series: 729, 1000, 1331, 1728, 2197, 2744, ?",
+   "options": [
     "6750",
     "3375",
     "3372",
     "3374"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 3375."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 3375.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00733",
-   "q": "Find the next number in the series: 3, 17, 38, 66, 101, 143, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 17, 38, 66, 101, 143, ?",
+   "options": [
     "206",
     "199",
     "200",
     "398"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 199."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 199.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00734",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "4",
     "10",
     "25",
     "122"
    ],
-   "a": 0,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "4 is a perfect square."
+   "answer": 0,
+   "explanation": "4 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00735",
-   "q": "If today is Thursday, what day will it be after 20 days?",
-   "o": [
+   "question": "If today is Thursday, what day will it be after 20 days?",
+   "options": [
     "Friday",
     "Thursday",
     "Monday",
     "Wednesday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "20 days later gives Wednesday (20 mod 7 = 6)."
+   "answer": 3,
+   "explanation": "20 days later gives Wednesday (20 mod 7 = 6).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00736",
-   "q": "A person walks 7 km north and then 8 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 7 km north and then 8 km east. What is the straight line distance from the starting point?",
+   "options": [
     "11.63 km",
     "15 km",
     "14 km",
     "10.63 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(7^2 + 8^2) = 10.63 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(7^2 + 8^2) = 10.63 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00737",
-   "q": "What is the angle between the hour and minute hands at 12:05?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 12:05?",
+   "options": [
     "27.5 degrees",
     "42.5 degrees",
     "57.5 degrees",
     "332.5 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 27.5 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 27.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00738",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "38",
     "33",
     "34",
     "37"
    ],
-   "a": 1,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 1,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00739",
-   "q": "Find the next number in the series: 8, 13, 18, 23, 28, 33, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 13, 18, 23, 28, 33, ?",
+   "options": [
     "43",
     "38",
     "76",
     "37"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 38."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 38.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00740",
-   "q": "Find the next number in the series: 6, 12, 24, 48, 96, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 12, 24, 48, 96, ?",
+   "options": [
     "193",
     "184",
     "192",
     "384"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 192."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 192.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00741",
-   "q": "Find the next number in the series: 81, 100, 121, 144, 169, ?",
-   "o": [
+   "question": "Find the next number in the series: 81, 100, 121, 144, 169, ?",
+   "options": [
     "196",
     "197",
     "187",
     "205"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 196."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 196.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00742",
-   "q": "Find the next number in the series: 1000, 1331, 1728, 2197, 2744, 3375, ?",
-   "o": [
+   "question": "Find the next number in the series: 1000, 1331, 1728, 2197, 2744, 3375, ?",
+   "options": [
     "4095",
     "4097",
     "4096",
     "4090"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 4096."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 4096.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00743",
-   "q": "Find the next number in the series: 6, 24, 51, 87, 132, 186, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 24, 51, 87, 132, 186, ?",
+   "options": [
     "259",
     "249",
     "258",
     "516"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 258."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 258.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00744",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "16",
     "81",
     "122",
     "25"
    ],
-   "a": 0,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "16 is a perfect square."
+   "answer": 0,
+   "explanation": "16 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00745",
-   "q": "If today is Thursday, what day will it be after 29 days?",
-   "o": [
+   "question": "If today is Thursday, what day will it be after 29 days?",
+   "options": [
     "Wednesday",
     "Friday",
     "Tuesday",
     "Monday"
    ],
-   "a": 1,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "29 days later gives Friday (29 mod 7 = 1)."
+   "answer": 1,
+   "explanation": "29 days later gives Friday (29 mod 7 = 1).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00746",
-   "q": "A person walks 10 km north and then 9 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 10 km north and then 9 km east. What is the straight line distance from the starting point?",
+   "options": [
     "13.45 km",
     "19 km",
     "14.45 km",
     "26.91 km"
    ],
-   "a": 0,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(10^2 + 9^2) = 13.45 km."
+   "answer": 0,
+   "explanation": "Distance = sqrt(10^2 + 9^2) = 13.45 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00747",
-   "q": "What is the angle between the hour and minute hands at 10:50?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 10:50?",
+   "options": [
     "25 degrees",
     "12.5 degrees",
     "55 degrees",
     "40 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 25 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 25 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00748",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "51",
     "55",
     "52",
     "53"
    ],
-   "a": 0,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 0,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00749",
-   "q": "Find the next number in the series: 7, 10, 13, 16, 19, 22, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 10, 13, 16, 19, 22, ?",
+   "options": [
     "25",
     "28",
     "50",
     "26"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 25."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 25.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00750",
-   "q": "Find the next number in the series: 7, 14, 28, 56, 112, 224, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 14, 28, 56, 112, 224, ?",
+   "options": [
     "454",
     "448",
     "442",
     "447"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 448."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 448.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00751",
-   "q": "Find the next number in the series: 16, 25, 36, 49, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 16, 25, 36, 49, 64, ?",
+   "options": [
     "81",
     "162",
     "85",
     "80"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 81."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 81.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00752",
-   "q": "Find the next number in the series: 512, 729, 1000, 1331, 1728, ?",
-   "o": [
+   "question": "Find the next number in the series: 512, 729, 1000, 1331, 1728, ?",
+   "options": [
     "2195",
     "4394",
     "2197",
     "2199"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2197."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 2197.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00753",
-   "q": "Find the next number in the series: 3, 7, 13, 21, 31, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 7, 13, 21, 31, ?",
+   "options": [
     "46",
     "44",
     "90",
     "45"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 45."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 45.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00754",
-   "q": "In a code language each letter is shifted 5 place(s) forward. How is TOP written?",
-   "o": [
+   "question": "In a code language each letter is shifted 5 place(s) forward. How is TOP written?",
+   "options": [
     "UPQ",
     "VQR",
     "YTU",
     "WRS"
    ],
-   "a": 2,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of TOP by 5 gives YTU."
+   "answer": 2,
+   "explanation": "Shifting each letter of TOP by 5 gives YTU.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00755",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "36",
     "121",
     "5",
     "101"
    ],
-   "a": 1,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "121 is a perfect square."
+   "answer": 1,
+   "explanation": "121 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00756",
-   "q": "If today is Sunday, what day will it be after 36 days?",
-   "o": [
+   "question": "If today is Sunday, what day will it be after 36 days?",
+   "options": [
     "Tuesday",
     "Thursday",
     "Monday",
     "Friday"
    ],
-   "a": 2,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "36 days later gives Monday (36 mod 7 = 1)."
+   "answer": 2,
+   "explanation": "36 days later gives Monday (36 mod 7 = 1).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00757",
-   "q": "A person walks 3 km north and then 4 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 3 km north and then 4 km east. What is the straight line distance from the starting point?",
+   "options": [
     "10 km",
     "1 km",
     "7 km",
     "5 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(3^2 + 4^2) = 5 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(3^2 + 4^2) = 5 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00758",
-   "q": "What is the angle between the hour and minute hands at 8:25?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 8:25?",
+   "options": [
     "102.5 degrees",
     "257.5 degrees",
     "72.5 degrees",
     "132.5 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 102.5 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 102.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00759",
-   "q": "Find the next number in the series: 2, 10, 18, 26, 34, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 10, 18, 26, 34, ?",
+   "options": [
     "43",
     "84",
     "42",
     "34"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 42."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 42.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00760",
-   "q": "Find the next number in the series: 9, 18, 36, 72, 144, 288, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 18, 36, 72, 144, 288, ?",
+   "options": [
     "581",
     "576",
     "571",
     "1152"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 576."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 576.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00761",
-   "q": "Find the next number in the series: 9, 16, 25, 36, 49, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 16, 25, 36, 49, ?",
+   "options": [
     "64",
     "55",
     "73",
     "63"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 64."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 64.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00762",
-   "q": "Find the next number in the series: 27, 64, 125, 216, 343, ?",
-   "o": [
+   "question": "Find the next number in the series: 27, 64, 125, 216, 343, ?",
+   "options": [
     "511",
     "512",
     "518",
     "513"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 512."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 512.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00763",
-   "q": "Find the next number in the series: 5, 17, 35, 59, 89, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 17, 35, 59, 89, ?",
+   "options": [
     "262",
     "132",
     "131",
     "137"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 131."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 131.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00764",
-   "q": "In a code language each letter is shifted 5 place(s) forward. How is VAN written?",
-   "o": [
+   "question": "In a code language each letter is shifted 5 place(s) forward. How is VAN written?",
+   "options": [
     "AFS",
     "WBO",
     "XCP",
     "ZER"
    ],
-   "a": 0,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of VAN by 5 gives AFS."
+   "answer": 0,
+   "explanation": "Shifting each letter of VAN by 5 gives AFS.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00765",
-   "q": "If today is Thursday, what day will it be after 36 days?",
-   "o": [
+   "question": "If today is Thursday, what day will it be after 36 days?",
+   "options": [
     "Monday",
     "Friday",
     "Wednesday",
     "Thursday"
    ],
-   "a": 1,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "36 days later gives Friday (36 mod 7 = 1)."
+   "answer": 1,
+   "explanation": "36 days later gives Friday (36 mod 7 = 1).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00766",
-   "q": "A person walks 6 km north and then 9 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 6 km north and then 9 km east. What is the straight line distance from the starting point?",
+   "options": [
     "3 km",
     "11.82 km",
     "10.82 km",
     "21.63 km"
    ],
-   "a": 2,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(6^2 + 9^2) = 10.82 km."
+   "answer": 2,
+   "explanation": "Distance = sqrt(6^2 + 9^2) = 10.82 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00767",
-   "q": "What is the angle between the hour and minute hands at 6:55?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 6:55?",
+   "options": [
     "122.5 degrees",
     "61.25 degrees",
     "237.5 degrees",
     "152.5 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 122.5 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 122.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00768",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "64",
     "65",
     "63",
     "68"
    ],
-   "a": 2,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 2,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00769",
-   "q": "Two books and three pens cost 23 rupees. If a book costs 4 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 23 rupees. If a book costs 4 rupees, what is the cost of one pen?",
+   "options": [
     "4.6 rupees",
     "10 rupees",
     "6 rupees",
     "5 rupees"
    ],
-   "a": 3,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 4 = 8, so 3 pens cost 15 and one pen costs 5 rupees."
+   "answer": 3,
+   "explanation": "2 x 4 = 8, so 3 pens cost 15 and one pen costs 5 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00770",
-   "q": "Find the next number in the series: 4, 13, 22, 31, 40, 49, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 13, 22, 31, 40, 49, ?",
+   "options": [
     "57",
     "49",
     "59",
     "58"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 58."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 58.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00771",
-   "q": "Find the next number in the series: 2, 4, 8, 16, 32, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 4, 8, 16, 32, 64, ?",
+   "options": [
     "128",
     "134",
     "127",
     "122"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 128."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 128.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00772",
-   "q": "Find the next number in the series: 9, 16, 25, 36, 49, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 16, 25, 36, 49, 64, ?",
+   "options": [
     "84",
     "80",
     "81",
     "82"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 81."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 81.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00773",
-   "q": "Find the next number in the series: 64, 125, 216, 343, 512, 729, ?",
-   "o": [
+   "question": "Find the next number in the series: 64, 125, 216, 343, 512, 729, ?",
+   "options": [
     "992",
     "1008",
     "1000",
     "1001"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1000."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 1000.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00774",
-   "q": "Find the next number in the series: 6, 22, 46, 78, 118, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 22, 46, 78, 118, ?",
+   "options": [
     "166",
     "175",
     "174",
     "173"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 174."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 174.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00775",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "121",
     "36",
     "81",
     "50"
    ],
-   "a": 1,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "36 is a perfect square."
+   "answer": 1,
+   "explanation": "36 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00776",
-   "q": "A person walks 11 km north and then 5 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 11 km north and then 5 km east. What is the straight line distance from the starting point?",
+   "options": [
     "6 km",
     "12.08 km",
     "24.17 km",
     "13.08 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(11^2 + 5^2) = 12.08 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(11^2 + 5^2) = 12.08 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00777",
-   "q": "What is the angle between the hour and minute hands at 1:05?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 1:05?",
+   "options": [
     "357.5 degrees",
     "32.5 degrees",
     "1.25 degrees",
     "2.5 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 2.5 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 2.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00778",
-   "q": "Find the next number in the series: 4, 13, 22, 31, 40, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 13, 22, 31, 40, ?",
+   "options": [
     "98",
     "49",
     "40",
     "58"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 49."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 49.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00779",
-   "q": "Find the next number in the series: 6, 12, 24, 48, 96, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 12, 24, 48, 96, ?",
+   "options": [
     "192",
     "200",
     "191",
     "184"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 192."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 192.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00780",
-   "q": "Find the next number in the series: 16, 25, 36, 49, 64, 81, ?",
-   "o": [
+   "question": "Find the next number in the series: 16, 25, 36, 49, 64, 81, ?",
+   "options": [
     "100",
     "99",
     "95",
     "101"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 100."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 100.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00781",
-   "q": "Find the next number in the series: 216, 343, 512, 729, 1000, ?",
-   "o": [
+   "question": "Find the next number in the series: 216, 343, 512, 729, 1000, ?",
+   "options": [
     "1332",
     "1331",
     "1325",
     "1330"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1331."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 1331.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00782",
-   "q": "Find the next number in the series: 9, 17, 29, 45, 65, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 17, 29, 45, 65, ?",
+   "options": [
     "93",
     "94",
     "97",
     "89"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 93."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 93.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00783",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "36",
     "121",
     "17",
     "4"
    ],
-   "a": 1,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "121 is a perfect square."
+   "answer": 1,
+   "explanation": "121 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00784",
-   "q": "If today is Saturday, what day will it be after 26 days?",
-   "o": [
+   "question": "If today is Saturday, what day will it be after 26 days?",
+   "options": [
     "Thursday",
     "Tuesday",
     "Monday",
     "Friday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "26 days later gives Thursday (26 mod 7 = 5)."
+   "answer": 0,
+   "explanation": "26 days later gives Thursday (26 mod 7 = 5).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00785",
-   "q": "A person walks 7 km north and then 8 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 7 km north and then 8 km east. What is the straight line distance from the starting point?",
+   "options": [
     "10.63 km",
     "1 km",
     "14 km",
     "15 km"
    ],
-   "a": 0,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(7^2 + 8^2) = 10.63 km."
+   "answer": 0,
+   "explanation": "Distance = sqrt(7^2 + 8^2) = 10.63 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00786",
-   "q": "What is the angle between the hour and minute hands at 7:25?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 7:25?",
+   "options": [
     "102.5 degrees",
     "36.25 degrees",
     "72.5 degrees",
     "42.5 degrees"
    ],
-   "a": 2,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 72.5 degrees."
+   "answer": 2,
+   "explanation": "Angle = |30H - 5.5M| = 72.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00787",
-   "q": "Find the next number in the series: 7, 12, 17, 22, 27, 32, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 12, 17, 22, 27, 32, ?",
+   "options": [
     "36",
     "32",
     "74",
     "37"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 37."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 37.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00788",
-   "q": "Find the next number in the series: 7, 14, 28, 56, 112, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 14, 28, 56, 112, ?",
+   "options": [
     "225",
     "216",
     "224",
     "448"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 224."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 224.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00789",
-   "q": "Find the next number in the series: 36, 49, 64, 81, 100, 121, ?",
-   "o": [
+   "question": "Find the next number in the series: 36, 49, 64, 81, 100, 121, ?",
+   "options": [
     "145",
     "141",
     "144",
     "147"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 144."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 144.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00790",
-   "q": "Find the next number in the series: 343, 512, 729, 1000, 1331, ?",
-   "o": [
+   "question": "Find the next number in the series: 343, 512, 729, 1000, 1331, ?",
+   "options": [
     "1729",
     "1734",
     "1722",
     "1728"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1728."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 1728.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00791",
-   "q": "Find the next number in the series: 3, 7, 13, 21, 31, 43, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 7, 13, 21, 31, 43, ?",
+   "options": [
     "57",
     "61",
     "58",
     "59"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 59."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 59.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00792",
-   "q": "In a code language each letter is shifted 5 place(s) forward. How is CAT written?",
-   "o": [
+   "question": "In a code language each letter is shifted 5 place(s) forward. How is CAT written?",
+   "options": [
     "DBU",
     "HFY",
     "ECV",
     "FDW"
    ],
-   "a": 1,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of CAT by 5 gives HFY."
+   "answer": 1,
+   "explanation": "Shifting each letter of CAT by 5 gives HFY.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00793",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "64",
     "121",
     "37",
     "36"
    ],
-   "a": 1,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "121 is a perfect square."
+   "answer": 1,
+   "explanation": "121 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00794",
-   "q": "If today is Wednesday, what day will it be after 50 days?",
-   "o": [
+   "question": "If today is Wednesday, what day will it be after 50 days?",
+   "options": [
     "Monday",
     "Friday",
     "Thursday",
     "Tuesday"
    ],
-   "a": 2,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "50 days later gives Thursday (50 mod 7 = 1)."
+   "answer": 2,
+   "explanation": "50 days later gives Thursday (50 mod 7 = 1).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00795",
-   "q": "A person walks 7 km north and then 10 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 7 km north and then 10 km east. What is the straight line distance from the starting point?",
+   "options": [
     "24.41 km",
     "17 km",
     "12.21 km",
     "3 km"
    ],
-   "a": 2,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(7^2 + 10^2) = 12.21 km."
+   "answer": 2,
+   "explanation": "Distance = sqrt(7^2 + 10^2) = 12.21 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00796",
-   "q": "What is the angle between the hour and minute hands at 12:35?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 12:35?",
+   "options": [
     "83.75 degrees",
     "137.5 degrees",
     "167.5 degrees",
     "192.5 degrees"
    ],
-   "a": 2,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 167.5 degrees."
+   "answer": 2,
+   "explanation": "Angle = |30H - 5.5M| = 167.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00797",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "18",
     "23",
     "20",
     "22"
    ],
-   "a": 0,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 0,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00798",
-   "q": "Find the next number in the series: 3, 6, 9, 12, 15, 18, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 6, 9, 12, 15, 18, ?",
+   "options": [
     "18",
     "20",
     "42",
     "21"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 21."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 21.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00799",
-   "q": "Find the next number in the series: 4, 8, 16, 32, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 8, 16, 32, 64, ?",
+   "options": [
     "128",
     "129",
     "125",
     "256"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 128."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 128.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00800",
-   "q": "Find the next number in the series: 81, 100, 121, 144, 169, ?",
-   "o": [
+   "question": "Find the next number in the series: 81, 100, 121, 144, 169, ?",
+   "options": [
     "192",
     "197",
     "196",
     "392"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 196."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 196.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00801",
-   "q": "Find the next number in the series: 125, 216, 343, 512, 729, ?",
-   "o": [
+   "question": "Find the next number in the series: 125, 216, 343, 512, 729, ?",
+   "options": [
     "1000",
     "1003",
     "999",
     "2000"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1000."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 1000.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00802",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "5",
     "4",
     "50",
     "16"
    ],
-   "a": 3,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "16 is a perfect square."
+   "answer": 3,
+   "explanation": "16 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00803",
-   "q": "If today is Saturday, what day will it be after 49 days?",
-   "o": [
+   "question": "If today is Saturday, what day will it be after 49 days?",
+   "options": [
     "Thursday",
     "Saturday",
     "Tuesday",
     "Monday"
    ],
-   "a": 1,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "49 days later gives Saturday (49 mod 7 = 0)."
+   "answer": 1,
+   "explanation": "49 days later gives Saturday (49 mod 7 = 0).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00804",
-   "q": "A person walks 9 km north and then 7 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 9 km north and then 7 km east. What is the straight line distance from the starting point?",
+   "options": [
     "11.4 km",
     "18 km",
     "12.4 km",
     "22.8 km"
    ],
-   "a": 0,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(9^2 + 7^2) = 11.4 km."
+   "answer": 0,
+   "explanation": "Distance = sqrt(9^2 + 7^2) = 11.4 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00805",
-   "q": "What is the angle between the hour and minute hands at 9:40?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 9:40?",
+   "options": [
     "50 degrees",
     "25 degrees",
     "80 degrees",
     "65 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 50 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 50 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00806",
-   "q": "Find the next number in the series: 5, 7, 9, 11, 13, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 7, 9, 11, 13, ?",
+   "options": [
     "15",
     "16",
     "30",
     "17"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 15."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 15.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00807",
-   "q": "Find the next number in the series: 4, 8, 16, 32, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 8, 16, 32, 64, ?",
+   "options": [
     "127",
     "120",
     "128",
     "256"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 128."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 128.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00808",
-   "q": "Find the next number in the series: 16, 25, 36, 49, 64, 81, ?",
-   "o": [
+   "question": "Find the next number in the series: 16, 25, 36, 49, 64, 81, ?",
+   "options": [
     "98",
     "200",
     "100",
     "99"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 100."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 100.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00809",
-   "q": "Find the next number in the series: 1000, 1331, 1728, 2197, 2744, 3375, ?",
-   "o": [
+   "question": "Find the next number in the series: 1000, 1331, 1728, 2197, 2744, 3375, ?",
+   "options": [
     "4094",
     "4096",
     "8192",
     "4097"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 4096."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 4096.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00810",
-   "q": "Find the next number in the series: 9, 21, 39, 63, 93, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 21, 39, 63, 93, ?",
+   "options": [
     "129",
     "135",
     "270",
     "141"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 135."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 135.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00811",
-   "q": "In a code language each letter is shifted 2 place(s) forward. How is VAN written?",
-   "o": [
+   "question": "In a code language each letter is shifted 2 place(s) forward. How is VAN written?",
+   "options": [
     "ZER",
     "YDQ",
     "WBO",
     "XCP"
    ],
-   "a": 3,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of VAN by 2 gives XCP."
+   "answer": 3,
+   "explanation": "Shifting each letter of VAN by 2 gives XCP.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00812",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "4",
     "121",
     "9",
     "82"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "9 is a perfect square."
+   "answer": 2,
+   "explanation": "9 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00813",
-   "q": "If today is Wednesday, what day will it be after 43 days?",
-   "o": [
+   "question": "If today is Wednesday, what day will it be after 43 days?",
+   "options": [
     "Thursday",
     "Tuesday",
     "Wednesday",
     "Monday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "43 days later gives Thursday (43 mod 7 = 1)."
+   "answer": 0,
+   "explanation": "43 days later gives Thursday (43 mod 7 = 1).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00814",
-   "q": "A person walks 10 km north and then 10 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 10 km north and then 10 km east. What is the straight line distance from the starting point?",
+   "options": [
     "20 km",
     "14.14 km",
     "0 km",
     "28.28 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(10^2 + 10^2) = 14.14 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(10^2 + 10^2) = 14.14 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00815",
-   "q": "What is the angle between the hour and minute hands at 7:50?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 7:50?",
+   "options": [
     "35 degrees",
     "65 degrees",
     "80 degrees",
     "32.5 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 65 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 65 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00816",
-   "q": "Two books and three pens cost 29 rupees. If a book costs 4 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 29 rupees. If a book costs 4 rupees, what is the cost of one pen?",
+   "options": [
     "14 rupees",
     "4 rupees",
     "6 rupees",
     "7 rupees"
    ],
-   "a": 3,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 4 = 8, so 3 pens cost 21 and one pen costs 7 rupees."
+   "answer": 3,
+   "explanation": "2 x 4 = 8, so 3 pens cost 21 and one pen costs 7 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00817",
-   "q": "Find the next number in the series: 6, 12, 24, 48, 96, 192, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 12, 24, 48, 96, 192, ?",
+   "options": [
     "380",
     "385",
     "384",
     "768"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 384."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 384.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00818",
-   "q": "Find the next number in the series: 4, 9, 16, 25, 36, 49, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 9, 16, 25, 36, 49, ?",
+   "options": [
     "65",
     "64",
     "72",
     "63"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 64."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 64.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00819",
-   "q": "Find the next number in the series: 27, 64, 125, 216, 343, 512, ?",
-   "o": [
+   "question": "Find the next number in the series: 27, 64, 125, 216, 343, 512, ?",
+   "options": [
     "723",
     "730",
     "728",
     "729"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 729."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 729.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00820",
-   "q": "Find the next number in the series: 8, 18, 33, 53, 78, 108, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 18, 33, 53, 78, 108, ?",
+   "options": [
     "153",
     "149",
     "147",
     "148"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 148."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 148.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00821",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "16",
     "36",
     "64",
     "81"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "64 is a perfect square."
+   "answer": 2,
+   "explanation": "64 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00822",
-   "q": "If today is Friday, what day will it be after 40 days?",
-   "o": [
+   "question": "If today is Friday, what day will it be after 40 days?",
+   "options": [
     "Tuesday",
     "Monday",
     "Friday",
     "Wednesday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "40 days later gives Wednesday (40 mod 7 = 5)."
+   "answer": 3,
+   "explanation": "40 days later gives Wednesday (40 mod 7 = 5).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00823",
-   "q": "A person walks 3 km north and then 8 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 3 km north and then 8 km east. What is the straight line distance from the starting point?",
+   "options": [
     "8.54 km",
     "17.09 km",
     "5 km",
     "6 km"
    ],
-   "a": 0,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(3^2 + 8^2) = 8.54 km."
+   "answer": 0,
+   "explanation": "Distance = sqrt(3^2 + 8^2) = 8.54 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00824",
-   "q": "What is the angle between the hour and minute hands at 6:55?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 6:55?",
+   "options": [
     "152.5 degrees",
     "122.5 degrees",
     "92.5 degrees",
     "237.5 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 122.5 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 122.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00825",
-   "q": "Find the next term of the series: 1, 1, 2, 3, 5, 8, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, 5, 8, ?",
+   "options": [
     "12",
     "16",
     "13",
     "18"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 13."
+   "answer": 2,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 13.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00826",
-   "q": "Find the next number in the series: 9, 13, 17, 21, 25, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 13, 17, 21, 25, ?",
+   "options": [
     "25",
     "33",
     "29",
     "30"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 29."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 29.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00827",
-   "q": "Find the next number in the series: 9, 18, 36, 72, 144, 288, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 18, 36, 72, 144, 288, ?",
+   "options": [
     "572",
     "580",
     "576",
     "1152"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 576."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 576.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00828",
-   "q": "Find the next number in the series: 125, 216, 343, 512, 729, ?",
-   "o": [
+   "question": "Find the next number in the series: 125, 216, 343, 512, 729, ?",
+   "options": [
     "1005",
     "999",
     "1000",
     "1001"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1000."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 1000.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00829",
-   "q": "Find the next number in the series: 2, 12, 27, 47, 72, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 12, 27, 47, 72, ?",
+   "options": [
     "102",
     "112",
     "107",
     "108"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 107."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 107.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00830",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "64",
     "37",
     "144",
     "65"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "144 is a perfect square."
+   "answer": 2,
+   "explanation": "144 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00831",
-   "q": "If today is Thursday, what day will it be after 18 days?",
-   "o": [
+   "question": "If today is Thursday, what day will it be after 18 days?",
+   "options": [
     "Tuesday",
     "Monday",
     "Friday",
     "Thursday"
    ],
-   "a": 1,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "18 days later gives Monday (18 mod 7 = 4)."
+   "answer": 1,
+   "explanation": "18 days later gives Monday (18 mod 7 = 4).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00832",
-   "q": "A person walks 10 km north and then 9 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 10 km north and then 9 km east. What is the straight line distance from the starting point?",
+   "options": [
     "19 km",
     "14.45 km",
     "13.45 km",
     "1 km"
    ],
-   "a": 2,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(10^2 + 9^2) = 13.45 km."
+   "answer": 2,
+   "explanation": "Distance = sqrt(10^2 + 9^2) = 13.45 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00833",
-   "q": "What is the angle between the hour and minute hands at 2:05?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 2:05?",
+   "options": [
     "32.5 degrees",
     "16.25 degrees",
     "327.5 degrees",
     "2.5 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 32.5 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 32.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00834",
-   "q": "Find the next term of the series: 1, 1, 2, 3, 5, 8, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, 5, 8, ?",
+   "options": [
     "14",
     "26",
     "12",
     "13"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 13."
+   "answer": 3,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 13.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00835",
-   "q": "Two books and three pens cost 29 rupees. If a book costs 7 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 29 rupees. If a book costs 7 rupees, what is the cost of one pen?",
+   "options": [
     "6 rupees",
     "5.8 rupees",
     "5 rupees",
     "4 rupees"
    ],
-   "a": 2,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 7 = 14, so 3 pens cost 15 and one pen costs 5 rupees."
+   "answer": 2,
+   "explanation": "2 x 7 = 14, so 3 pens cost 15 and one pen costs 5 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00836",
-   "q": "Find the next number in the series: 6, 13, 20, 27, 34, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 13, 20, 27, 34, ?",
+   "options": [
     "34",
     "48",
     "42",
     "41"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 41."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 41.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00837",
-   "q": "Find the next number in the series: 8, 16, 32, 64, 128, 256, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 16, 32, 64, 128, 256, ?",
+   "options": [
     "512",
     "505",
     "511",
     "519"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 512."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 512.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00838",
-   "q": "Find the next number in the series: 81, 100, 121, 144, 169, ?",
-   "o": [
+   "question": "Find the next number in the series: 81, 100, 121, 144, 169, ?",
+   "options": [
     "205",
     "196",
     "197",
     "195"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 196."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 196.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00839",
-   "q": "Find the next number in the series: 5, 17, 35, 59, 89, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 17, 35, 59, 89, ?",
+   "options": [
     "130",
     "131",
     "132",
     "125"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 131."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 131.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00840",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "64",
     "37",
     "81",
     "65"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "81 is a perfect square."
+   "answer": 2,
+   "explanation": "81 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00841",
-   "q": "If today is Saturday, what day will it be after 23 days?",
-   "o": [
+   "question": "If today is Saturday, what day will it be after 23 days?",
+   "options": [
     "Tuesday",
     "Wednesday",
     "Thursday",
     "Monday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "23 days later gives Monday (23 mod 7 = 2)."
+   "answer": 3,
+   "explanation": "23 days later gives Monday (23 mod 7 = 2).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00842",
-   "q": "A person walks 12 km north and then 5 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 12 km north and then 5 km east. What is the straight line distance from the starting point?",
+   "options": [
     "13 km",
     "17 km",
     "26 km",
     "7 km"
    ],
-   "a": 0,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(12^2 + 5^2) = 13 km."
+   "answer": 0,
+   "explanation": "Distance = sqrt(12^2 + 5^2) = 13 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00843",
-   "q": "What is the angle between the hour and minute hands at 10:45?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 10:45?",
+   "options": [
     "26.25 degrees",
     "67.5 degrees",
     "52.5 degrees",
     "307.5 degrees"
    ],
-   "a": 2,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 52.5 degrees."
+   "answer": 2,
+   "explanation": "Angle = |30H - 5.5M| = 52.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00844",
-   "q": "Two books and three pens cost 24 rupees. If a book costs 3 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 24 rupees. If a book costs 3 rupees, what is the cost of one pen?",
+   "options": [
     "6 rupees",
     "4.8 rupees",
     "7 rupees",
     "5 rupees"
    ],
-   "a": 0,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 3 = 6, so 3 pens cost 18 and one pen costs 6 rupees."
+   "answer": 0,
+   "explanation": "2 x 3 = 6, so 3 pens cost 18 and one pen costs 6 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00845",
-   "q": "Find the next number in the series: 9, 18, 27, 36, 45, 54, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 18, 27, 36, 45, 54, ?",
+   "options": [
     "126",
     "63",
     "62",
     "54"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 63."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 63.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00846",
-   "q": "Find the next number in the series: 2, 4, 8, 16, 32, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 4, 8, 16, 32, ?",
+   "options": [
     "72",
     "56",
     "64",
     "63"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 64."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 64.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00847",
-   "q": "Find the next number in the series: 4, 9, 16, 25, 36, 49, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 9, 16, 25, 36, 49, ?",
+   "options": [
     "64",
     "128",
     "63",
     "56"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 64."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 64.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00848",
-   "q": "Find the next number in the series: 512, 729, 1000, 1331, 1728, ?",
-   "o": [
+   "question": "Find the next number in the series: 512, 729, 1000, 1331, 1728, ?",
+   "options": [
     "2196",
     "2190",
     "2197",
     "2198"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2197."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 2197.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00849",
-   "q": "Find the next number in the series: 3, 7, 13, 21, 31, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 7, 13, 21, 31, ?",
+   "options": [
     "47",
     "90",
     "44",
     "45"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 45."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 45.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00850",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "4",
     "25",
     "9",
     "26"
    ],
-   "a": 0,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "4 is a perfect square."
+   "answer": 0,
+   "explanation": "4 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00851",
-   "q": "In a row of 6 children, Bina is standing at position 2 from the left. What is the position from the right?",
-   "o": [
+   "question": "In a row of 6 children, Bina is standing at position 2 from the left. What is the position from the right?",
+   "options": [
     "1",
     "6",
     "5",
     "4"
    ],
-   "a": 2,
-   "t": "Ranking",
-   "l": 2,
-   "s": "generated",
-   "e": "Position from right = total - position from left + 1 = 5."
+   "answer": 2,
+   "explanation": "Position from right = total - position from left + 1 = 5.",
+   "topic": "Ranking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00852",
-   "q": "If today is Friday, what day will it be after 69 days?",
-   "o": [
+   "question": "If today is Friday, what day will it be after 69 days?",
+   "options": [
     "Tuesday",
     "Friday",
     "Thursday",
     "Wednesday"
    ],
-   "a": 2,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "69 days later gives Thursday (69 mod 7 = 6)."
+   "answer": 2,
+   "explanation": "69 days later gives Thursday (69 mod 7 = 6).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00853",
-   "q": "A person walks 8 km north and then 2 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 8 km north and then 2 km east. What is the straight line distance from the starting point?",
+   "options": [
     "16.49 km",
     "10 km",
     "9.25 km",
     "8.25 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(8^2 + 2^2) = 8.25 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(8^2 + 2^2) = 8.25 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00854",
-   "q": "What is the angle between the hour and minute hands at 9:25?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 9:25?",
+   "options": [
     "227.5 degrees",
     "66.25 degrees",
     "147.5 degrees",
     "132.5 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 132.5 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 132.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00855",
-   "q": "Find the next term of the series: 1, 1, 2, 3, 5, 8, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, 5, 8, ?",
+   "options": [
     "16",
     "14",
     "18",
     "13"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 13."
+   "answer": 3,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 13.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00856",
-   "q": "Find the next number in the series: 4, 9, 14, 19, 24, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 9, 14, 19, 24, ?",
+   "options": [
     "30",
     "28",
     "29",
     "24"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 29."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 29.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00857",
-   "q": "Find the next number in the series: 36, 49, 64, 81, 100, 121, ?",
-   "o": [
+   "question": "Find the next number in the series: 36, 49, 64, 81, 100, 121, ?",
+   "options": [
     "288",
     "145",
     "143",
     "144"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 144."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 144.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00858",
-   "q": "Find the next number in the series: 125, 216, 343, 512, 729, ?",
-   "o": [
+   "question": "Find the next number in the series: 125, 216, 343, 512, 729, ?",
+   "options": [
     "994",
     "2000",
     "1001",
     "1000"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1000."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 1000.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00859",
-   "q": "Find the next number in the series: 6, 12, 21, 33, 48, 66, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 12, 21, 33, 48, 66, ?",
+   "options": [
     "180",
     "89",
     "90",
     "91"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 90."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 90.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00860",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "122",
     "26",
     "16",
     "82"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "16 is a perfect square."
+   "answer": 2,
+   "explanation": "16 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00861",
-   "q": "If today is Monday, what day will it be after 57 days?",
-   "o": [
+   "question": "If today is Monday, what day will it be after 57 days?",
+   "options": [
     "Wednesday",
     "Tuesday",
     "Friday",
     "Thursday"
    ],
-   "a": 1,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "57 days later gives Tuesday (57 mod 7 = 1)."
+   "answer": 1,
+   "explanation": "57 days later gives Tuesday (57 mod 7 = 1).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00862",
-   "q": "A person walks 6 km north and then 6 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 6 km north and then 6 km east. What is the straight line distance from the starting point?",
+   "options": [
     "8.49 km",
     "12 km",
     "16.97 km",
     "9.49 km"
    ],
-   "a": 0,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(6^2 + 6^2) = 8.49 km."
+   "answer": 0,
+   "explanation": "Distance = sqrt(6^2 + 6^2) = 8.49 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00863",
-   "q": "What is the angle between the hour and minute hands at 5:25?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 5:25?",
+   "options": [
     "-17.5 degrees",
     "12.5 degrees",
     "6.25 degrees",
     "42.5 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 12.5 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 12.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00864",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "62",
     "64",
     "60",
     "65"
    ],
-   "a": 2,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 2,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00865",
-   "q": "Two books and three pens cost 21 rupees. If a book costs 3 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 21 rupees. If a book costs 3 rupees, what is the cost of one pen?",
+   "options": [
     "6 rupees",
     "3 rupees",
     "10 rupees",
     "5 rupees"
    ],
-   "a": 3,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 3 = 6, so 3 pens cost 15 and one pen costs 5 rupees."
+   "answer": 3,
+   "explanation": "2 x 3 = 6, so 3 pens cost 15 and one pen costs 5 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00866",
-   "q": "Find the next number in the series: 3, 5, 7, 9, 11, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 5, 7, 9, 11, ?",
+   "options": [
     "15",
     "13",
     "12",
     "14"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 13."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 13.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00867",
-   "q": "Find the next number in the series: 2, 4, 8, 16, 32, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 4, 8, 16, 32, ?",
+   "options": [
     "64",
     "60",
     "65",
     "68"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 64."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 64.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00868",
-   "q": "Find the next number in the series: 49, 64, 81, 100, 121, ?",
-   "o": [
+   "question": "Find the next number in the series: 49, 64, 81, 100, 121, ?",
+   "options": [
     "144",
     "145",
     "151",
     "137"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 144."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 144.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00869",
-   "q": "Find the next number in the series: 512, 729, 1000, 1331, 1728, ?",
-   "o": [
+   "question": "Find the next number in the series: 512, 729, 1000, 1331, 1728, ?",
+   "options": [
     "2202",
     "2196",
     "2192",
     "2197"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2197."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 2197.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00870",
-   "q": "Find the next number in the series: 6, 24, 51, 87, 132, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 24, 51, 87, 132, ?",
+   "options": [
     "194",
     "196",
     "195",
     "186"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 195."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 195.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00871",
-   "q": "If today is Tuesday, what day will it be after 33 days?",
-   "o": [
+   "question": "If today is Tuesday, what day will it be after 33 days?",
+   "options": [
     "Monday",
     "Wednesday",
     "Sunday",
     "Thursday"
    ],
-   "a": 2,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "33 days later gives Sunday (33 mod 7 = 5)."
+   "answer": 2,
+   "explanation": "33 days later gives Sunday (33 mod 7 = 5).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00872",
-   "q": "A person walks 9 km north and then 5 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 9 km north and then 5 km east. What is the straight line distance from the starting point?",
+   "options": [
     "20.59 km",
     "4 km",
     "14 km",
     "10.3 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(9^2 + 5^2) = 10.3 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(9^2 + 5^2) = 10.3 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00873",
-   "q": "What is the angle between the hour and minute hands at 3:35?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 3:35?",
+   "options": [
     "132.5 degrees",
     "102.5 degrees",
     "257.5 degrees",
     "51.25 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 102.5 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 102.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00874",
-   "q": "Two books and three pens cost 21 rupees. If a book costs 6 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 21 rupees. If a book costs 6 rupees, what is the cost of one pen?",
+   "options": [
     "4.2 rupees",
     "6 rupees",
     "4 rupees",
     "3 rupees"
    ],
-   "a": 3,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 6 = 12, so 3 pens cost 9 and one pen costs 3 rupees."
+   "answer": 3,
+   "explanation": "2 x 6 = 12, so 3 pens cost 9 and one pen costs 3 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00875",
-   "q": "Find the next number in the series: 5, 11, 17, 23, 29, 35, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 11, 17, 23, 29, 35, ?",
+   "options": [
     "42",
     "41",
     "82",
     "35"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 41."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 41.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00876",
-   "q": "Find the next number in the series: 3, 6, 12, 24, 48, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 6, 12, 24, 48, ?",
+   "options": [
     "96",
     "99",
     "192",
     "93"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 96."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 96.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00877",
-   "q": "Find the next number in the series: 25, 36, 49, 64, 81, 100, ?",
-   "o": [
+   "question": "Find the next number in the series: 25, 36, 49, 64, 81, 100, ?",
+   "options": [
     "121",
     "129",
     "113",
     "242"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 121."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 121.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00878",
-   "q": "Find the next number in the series: 27, 64, 125, 216, 343, 512, ?",
-   "o": [
+   "question": "Find the next number in the series: 27, 64, 125, 216, 343, 512, ?",
+   "options": [
     "730",
     "728",
     "738",
     "729"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 729."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 729.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00879",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "82",
     "10",
     "4",
     "81"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "4 is a perfect square."
+   "answer": 2,
+   "explanation": "4 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00880",
-   "q": "If today is Friday, what day will it be after 53 days?",
-   "o": [
+   "question": "If today is Friday, what day will it be after 53 days?",
+   "options": [
     "Wednesday",
     "Friday",
     "Tuesday",
     "Thursday"
    ],
-   "a": 2,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "53 days later gives Tuesday (53 mod 7 = 4)."
+   "answer": 2,
+   "explanation": "53 days later gives Tuesday (53 mod 7 = 4).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00881",
-   "q": "A person walks 12 km north and then 10 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 12 km north and then 10 km east. What is the straight line distance from the starting point?",
+   "options": [
     "22 km",
     "31.24 km",
     "15.62 km",
     "16.62 km"
    ],
-   "a": 2,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(12^2 + 10^2) = 15.62 km."
+   "answer": 2,
+   "explanation": "Distance = sqrt(12^2 + 10^2) = 15.62 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00882",
-   "q": "What is the angle between the hour and minute hands at 6:30?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 6:30?",
+   "options": [
     "45 degrees",
     "345 degrees",
     "15 degrees",
     "7.5 degrees"
    ],
-   "a": 2,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 15 degrees."
+   "answer": 2,
+   "explanation": "Angle = |30H - 5.5M| = 15 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00883",
-   "q": "Two books and three pens cost 27 rupees. If a book costs 3 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 27 rupees. If a book costs 3 rupees, what is the cost of one pen?",
+   "options": [
     "3 rupees",
     "8 rupees",
     "7 rupees",
     "6 rupees"
    ],
-   "a": 2,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 3 = 6, so 3 pens cost 21 and one pen costs 7 rupees."
+   "answer": 2,
+   "explanation": "2 x 3 = 6, so 3 pens cost 21 and one pen costs 7 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00884",
-   "q": "Find the next number in the series: 4, 9, 14, 19, 24, 29, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 9, 14, 19, 24, 29, ?",
+   "options": [
     "29",
     "68",
     "35",
     "34"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 34."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 34.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00885",
-   "q": "Find the next number in the series: 5, 10, 20, 40, 80, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 10, 20, 40, 80, ?",
+   "options": [
     "161",
     "158",
     "160",
     "320"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 160."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 160.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00886",
-   "q": "Find the next number in the series: 36, 49, 64, 81, 100, ?",
-   "o": [
+   "question": "Find the next number in the series: 36, 49, 64, 81, 100, ?",
+   "options": [
     "120",
     "125",
     "117",
     "121"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 121."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 121.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00887",
-   "q": "Find the next number in the series: 1000, 1331, 1728, 2197, 2744, ?",
-   "o": [
+   "question": "Find the next number in the series: 1000, 1331, 1728, 2197, 2744, ?",
+   "options": [
     "3383",
     "3375",
     "6750",
     "3374"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 3375."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 3375.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00888",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "50",
     "25",
     "81",
     "16"
    ],
-   "a": 1,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "25 is a perfect square."
+   "answer": 1,
+   "explanation": "25 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00889",
-   "q": "If today is Friday, what day will it be after 13 days?",
-   "o": [
+   "question": "If today is Friday, what day will it be after 13 days?",
+   "options": [
     "Monday",
     "Friday",
     "Tuesday",
     "Thursday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "13 days later gives Thursday (13 mod 7 = 6)."
+   "answer": 3,
+   "explanation": "13 days later gives Thursday (13 mod 7 = 6).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00890",
-   "q": "A person walks 8 km north and then 6 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 8 km north and then 6 km east. What is the straight line distance from the starting point?",
+   "options": [
     "2 km",
     "10 km",
     "20 km",
     "16 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(8^2 + 6^2) = 10 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(8^2 + 6^2) = 10 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00891",
-   "q": "What is the angle between the hour and minute hands at 10:20?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 10:20?",
+   "options": [
     "200 degrees",
     "85 degrees",
     "185 degrees",
     "170 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 170 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 170 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00892",
-   "q": "Find the next term of the series: 1, 1, 2, 3, 5, 8, 13, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, 5, 8, 13, ?",
+   "options": [
     "21",
     "22",
     "24",
     "42"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 21."
+   "answer": 0,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 21.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00893",
-   "q": "Two books and three pens cost 18 rupees. If a book costs 3 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 18 rupees. If a book costs 3 rupees, what is the cost of one pen?",
+   "options": [
     "8 rupees",
     "4 rupees",
     "3.6 rupees",
     "5 rupees"
    ],
-   "a": 1,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 3 = 6, so 3 pens cost 12 and one pen costs 4 rupees."
+   "answer": 1,
+   "explanation": "2 x 3 = 6, so 3 pens cost 12 and one pen costs 4 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00894",
-   "q": "Find the next number in the series: 6, 10, 14, 18, 22, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 10, 14, 18, 22, ?",
+   "options": [
     "27",
     "26",
     "22",
     "25"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 26."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 26.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00895",
-   "q": "Find the next number in the series: 4, 8, 16, 32, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 8, 16, 32, 64, ?",
+   "options": [
     "256",
     "130",
     "126",
     "128"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 128."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 128.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00896",
-   "q": "Find the next number in the series: 81, 100, 121, 144, 169, ?",
-   "o": [
+   "question": "Find the next number in the series: 81, 100, 121, 144, 169, ?",
+   "options": [
     "196",
     "195",
     "197",
     "203"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 196."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 196.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00897",
-   "q": "Find the next number in the series: 343, 512, 729, 1000, 1331, ?",
-   "o": [
+   "question": "Find the next number in the series: 343, 512, 729, 1000, 1331, ?",
+   "options": [
     "1726",
     "1729",
     "1728",
     "3456"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1728."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 1728.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00898",
-   "q": "Find the next number in the series: 5, 9, 15, 23, 33, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 9, 15, 23, 33, ?",
+   "options": [
     "46",
     "49",
     "94",
     "47"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 47."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 47.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00899",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "37",
     "81",
     "4",
     "65"
    ],
-   "a": 1,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "81 is a perfect square."
+   "answer": 1,
+   "explanation": "81 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00900",
-   "q": "If today is Thursday, what day will it be after 68 days?",
-   "o": [
+   "question": "If today is Thursday, what day will it be after 68 days?",
+   "options": [
     "Thursday",
     "Friday",
     "Wednesday",
     "Tuesday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "68 days later gives Tuesday (68 mod 7 = 5)."
+   "answer": 3,
+   "explanation": "68 days later gives Tuesday (68 mod 7 = 5).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00901",
-   "q": "A person walks 9 km north and then 2 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 9 km north and then 2 km east. What is the straight line distance from the starting point?",
+   "options": [
     "10.22 km",
     "9.22 km",
     "7 km",
     "18.44 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(9^2 + 2^2) = 9.22 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(9^2 + 2^2) = 9.22 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00902",
-   "q": "What is the angle between the hour and minute hands at 11:25?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 11:25?",
+   "options": [
     "167.5 degrees",
     "83.75 degrees",
     "197.5 degrees",
     "192.5 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 167.5 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 167.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00903",
-   "q": "Find the next number in the series: 6, 11, 16, 21, 26, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 11, 16, 21, 26, ?",
+   "options": [
     "62",
     "26",
     "31",
     "36"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 31."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 31.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00904",
-   "q": "Find the next number in the series: 8, 16, 32, 64, 128, 256, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 16, 32, 64, 128, 256, ?",
+   "options": [
     "513",
     "508",
     "512",
     "511"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 512."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 512.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00905",
-   "q": "Find the next number in the series: 36, 49, 64, 81, 100, ?",
-   "o": [
+   "question": "Find the next number in the series: 36, 49, 64, 81, 100, ?",
+   "options": [
     "122",
     "127",
     "121",
     "115"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 121."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 121.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00906",
-   "q": "Find the next number in the series: 512, 729, 1000, 1331, 1728, 2197, ?",
-   "o": [
+   "question": "Find the next number in the series: 512, 729, 1000, 1331, 1728, 2197, ?",
+   "options": [
     "2745",
     "2744",
     "2743",
     "5488"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2744."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 2744.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00907",
-   "q": "Find the next number in the series: 8, 22, 43, 71, 106, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 22, 43, 71, 106, ?",
+   "options": [
     "154",
     "156",
     "155",
     "162"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 155."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 155.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00908",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "26",
     "49",
     "25",
     "4"
    ],
-   "a": 3,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "4 is a perfect square."
+   "answer": 3,
+   "explanation": "4 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00909",
-   "q": "If today is Saturday, what day will it be after 20 days?",
-   "o": [
+   "question": "If today is Saturday, what day will it be after 20 days?",
+   "options": [
     "Friday",
     "Wednesday",
     "Tuesday",
     "Monday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "20 days later gives Friday (20 mod 7 = 6)."
+   "answer": 0,
+   "explanation": "20 days later gives Friday (20 mod 7 = 6).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00910",
-   "q": "A person walks 7 km north and then 6 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 7 km north and then 6 km east. What is the straight line distance from the starting point?",
+   "options": [
     "9.22 km",
     "1 km",
     "13 km",
     "18.44 km"
    ],
-   "a": 0,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(7^2 + 6^2) = 9.22 km."
+   "answer": 0,
+   "explanation": "Distance = sqrt(7^2 + 6^2) = 9.22 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00911",
-   "q": "What is the angle between the hour and minute hands at 10:50?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 10:50?",
+   "options": [
     "55 degrees",
     "-5 degrees",
     "335 degrees",
     "25 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 25 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 25 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00912",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "34",
     "35",
     "38",
     "33"
    ],
-   "a": 3,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 3,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00913",
-   "q": "Find the next number in the series: 6, 13, 20, 27, 34, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 13, 20, 27, 34, ?",
+   "options": [
     "40",
     "41",
     "42",
     "82"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 41."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 41.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00914",
-   "q": "Find the next number in the series: 5, 10, 20, 40, 80, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 10, 20, 40, 80, ?",
+   "options": [
     "160",
     "320",
     "159",
     "166"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 160."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 160.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00915",
-   "q": "Find the next number in the series: 216, 343, 512, 729, 1000, 1331, ?",
-   "o": [
+   "question": "Find the next number in the series: 216, 343, 512, 729, 1000, 1331, ?",
+   "options": [
     "3456",
     "1729",
     "1728",
     "1733"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1728."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 1728.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00916",
-   "q": "Find the next number in the series: 9, 21, 39, 63, 93, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 21, 39, 63, 93, ?",
+   "options": [
     "134",
     "135",
     "141",
     "136"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 135."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 135.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00917",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "121",
     "5",
     "16",
     "50"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "16 is a perfect square."
+   "answer": 2,
+   "explanation": "16 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00918",
-   "q": "If today is Thursday, what day will it be after 22 days?",
-   "o": [
+   "question": "If today is Thursday, what day will it be after 22 days?",
+   "options": [
     "Friday",
     "Thursday",
     "Monday",
     "Tuesday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "22 days later gives Friday (22 mod 7 = 1)."
+   "answer": 0,
+   "explanation": "22 days later gives Friday (22 mod 7 = 1).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00919",
-   "q": "A person walks 7 km north and then 6 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 7 km north and then 6 km east. What is the straight line distance from the starting point?",
+   "options": [
     "10.22 km",
     "9.22 km",
     "13 km",
     "18.44 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(7^2 + 6^2) = 9.22 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(7^2 + 6^2) = 9.22 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00920",
-   "q": "What is the angle between the hour and minute hands at 1:05?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 1:05?",
+   "options": [
     "357.5 degrees",
     "1.25 degrees",
     "2.5 degrees",
     "17.5 degrees"
    ],
-   "a": 2,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 2.5 degrees."
+   "answer": 2,
+   "explanation": "Angle = |30H - 5.5M| = 2.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00921",
-   "q": "Find the next number in the series: 7, 10, 13, 16, 19, 22, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 10, 13, 16, 19, 22, ?",
+   "options": [
     "24",
     "50",
     "25",
     "22"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 25."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 25.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00922",
-   "q": "Find the next number in the series: 4, 8, 16, 32, 64, 128, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 8, 16, 32, 64, 128, ?",
+   "options": [
     "258",
     "257",
     "255",
     "256"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 256."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 256.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00923",
-   "q": "Find the next number in the series: 36, 49, 64, 81, 100, 121, ?",
-   "o": [
+   "question": "Find the next number in the series: 36, 49, 64, 81, 100, 121, ?",
+   "options": [
     "138",
     "144",
     "143",
     "150"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 144."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 144.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00924",
-   "q": "Find the next number in the series: 125, 216, 343, 512, 729, 1000, ?",
-   "o": [
+   "question": "Find the next number in the series: 125, 216, 343, 512, 729, 1000, ?",
+   "options": [
     "2662",
     "1323",
     "1331",
     "1332"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1331."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 1331.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00925",
-   "q": "Find the next number in the series: 3, 17, 38, 66, 101, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 17, 38, 66, 101, ?",
+   "options": [
     "151",
     "149",
     "150",
     "157"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 150."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 150.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00926",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "4",
     "36",
     "81",
     "50"
    ],
-   "a": 1,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "36 is a perfect square."
+   "answer": 1,
+   "explanation": "36 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00927",
-   "q": "If today is Wednesday, what day will it be after 58 days?",
-   "o": [
+   "question": "If today is Wednesday, what day will it be after 58 days?",
+   "options": [
     "Friday",
     "Tuesday",
     "Thursday",
     "Wednesday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "58 days later gives Friday (58 mod 7 = 2)."
+   "answer": 0,
+   "explanation": "58 days later gives Friday (58 mod 7 = 2).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00928",
-   "q": "A person walks 7 km north and then 4 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 7 km north and then 4 km east. What is the straight line distance from the starting point?",
+   "options": [
     "9.06 km",
     "16.12 km",
     "8.06 km",
     "3 km"
    ],
-   "a": 2,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(7^2 + 4^2) = 8.06 km."
+   "answer": 2,
+   "explanation": "Distance = sqrt(7^2 + 4^2) = 8.06 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00929",
-   "q": "What is the angle between the hour and minute hands at 5:50?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 5:50?",
+   "options": [
     "155 degrees",
     "62.5 degrees",
     "125 degrees",
     "140 degrees"
    ],
-   "a": 2,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 125 degrees."
+   "answer": 2,
+   "explanation": "Angle = |30H - 5.5M| = 125 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00930",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "37",
     "34",
     "33",
     "35"
    ],
-   "a": 2,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 2,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00931",
-   "q": "Find the next number in the series: 6, 14, 22, 30, 38, 46, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 14, 22, 30, 38, 46, ?",
+   "options": [
     "62",
     "55",
     "53",
     "54"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 54."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 54.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00932",
-   "q": "Find the next number in the series: 4, 8, 16, 32, 64, 128, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 8, 16, 32, 64, 128, ?",
+   "options": [
     "254",
     "256",
     "257",
     "258"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 256."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 256.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00933",
-   "q": "Find the next number in the series: 36, 49, 64, 81, 100, ?",
-   "o": [
+   "question": "Find the next number in the series: 36, 49, 64, 81, 100, ?",
+   "options": [
     "122",
     "242",
     "121",
     "112"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 121."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 121.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00934",
-   "q": "Find the next number in the series: 7, 23, 47, 79, 119, 167, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 23, 47, 79, 119, 167, ?",
+   "options": [
     "231",
     "462",
     "232",
     "223"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 231."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 231.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00935",
-   "q": "In a code language each letter is shifted 5 place(s) forward. How is DOG written?",
-   "o": [
+   "question": "In a code language each letter is shifted 5 place(s) forward. How is DOG written?",
+   "options": [
     "EPH",
     "ITL",
     "FQI",
     "GRJ"
    ],
-   "a": 1,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of DOG by 5 gives ITL."
+   "answer": 1,
+   "explanation": "Shifting each letter of DOG by 5 gives ITL.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00936",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "4",
     "17",
     "100",
     "121"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "100 is a perfect square."
+   "answer": 2,
+   "explanation": "100 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00937",
-   "q": "If today is Thursday, what day will it be after 17 days?",
-   "o": [
+   "question": "If today is Thursday, what day will it be after 17 days?",
+   "options": [
     "Sunday",
     "Tuesday",
     "Monday",
     "Wednesday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "17 days later gives Sunday (17 mod 7 = 3)."
+   "answer": 0,
+   "explanation": "17 days later gives Sunday (17 mod 7 = 3).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00938",
-   "q": "A person walks 5 km north and then 10 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 5 km north and then 10 km east. What is the straight line distance from the starting point?",
+   "options": [
     "22.36 km",
     "11.18 km",
     "15 km",
     "10 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(5^2 + 10^2) = 11.18 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(5^2 + 10^2) = 11.18 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00939",
-   "q": "What is the angle between the hour and minute hands at 4:15?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 4:15?",
+   "options": [
     "37.5 degrees",
     "18.75 degrees",
     "67.5 degrees",
     "7.5 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 37.5 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 37.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00940",
-   "q": "Find the next term of the series: 1, 1, 2, 3, 5, 8, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, 5, 8, ?",
+   "options": [
     "14",
     "18",
     "13",
     "26"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 13."
+   "answer": 2,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 13.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00941",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "61",
     "57",
     "58",
     "62"
    ],
-   "a": 1,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 1,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00942",
-   "q": "Find the next number in the series: 2, 11, 20, 29, 38, 47, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 11, 20, 29, 38, 47, ?",
+   "options": [
     "65",
     "57",
     "56",
     "55"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 56."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 56.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00943",
-   "q": "Find the next number in the series: 7, 14, 28, 56, 112, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 14, 28, 56, 112, ?",
+   "options": [
     "224",
     "217",
     "223",
     "225"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 224."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 224.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00944",
-   "q": "Find the next number in the series: 49, 64, 81, 100, 121, ?",
-   "o": [
+   "question": "Find the next number in the series: 49, 64, 81, 100, 121, ?",
+   "options": [
     "151",
     "144",
     "288",
     "143"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 144."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 144.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00945",
-   "q": "Find the next number in the series: 729, 1000, 1331, 1728, 2197, 2744, ?",
-   "o": [
+   "question": "Find the next number in the series: 729, 1000, 1331, 1728, 2197, 2744, ?",
+   "options": [
     "3375",
     "3380",
     "3376",
     "3370"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 3375."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 3375.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00946",
-   "q": "Find the next number in the series: 5, 19, 40, 68, 103, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 19, 40, 68, 103, ?",
+   "options": [
     "304",
     "152",
     "153",
     "145"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 152."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 152.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00947",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "16",
     "4",
     "64",
     "82"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "64 is a perfect square."
+   "answer": 2,
+   "explanation": "64 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00948",
-   "q": "If today is Wednesday, what day will it be after 48 days?",
-   "o": [
+   "question": "If today is Wednesday, what day will it be after 48 days?",
+   "options": [
     "Monday",
     "Tuesday",
     "Wednesday",
     "Friday"
    ],
-   "a": 1,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "48 days later gives Tuesday (48 mod 7 = 6)."
+   "answer": 1,
+   "explanation": "48 days later gives Tuesday (48 mod 7 = 6).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00949",
-   "q": "A person walks 10 km north and then 10 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 10 km north and then 10 km east. What is the straight line distance from the starting point?",
+   "options": [
     "20 km",
     "28.28 km",
     "14.14 km",
     "15.14 km"
    ],
-   "a": 2,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(10^2 + 10^2) = 14.14 km."
+   "answer": 2,
+   "explanation": "Distance = sqrt(10^2 + 10^2) = 14.14 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00950",
-   "q": "Find the next number in the series: 5, 7, 9, 11, 13, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 7, 9, 11, 13, ?",
+   "options": [
     "15",
     "17",
     "13",
     "16"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 15."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 15.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00951",
-   "q": "Find the next number in the series: 6, 12, 24, 48, 96, 192, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 12, 24, 48, 96, 192, ?",
+   "options": [
     "381",
     "384",
     "383",
     "387"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 384."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 384.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00952",
-   "q": "Find the next number in the series: 81, 100, 121, 144, 169, ?",
-   "o": [
+   "question": "Find the next number in the series: 81, 100, 121, 144, 169, ?",
+   "options": [
     "197",
     "196",
     "195",
     "200"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 196."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 196.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00953",
-   "q": "Find the next number in the series: 343, 512, 729, 1000, 1331, 1728, ?",
-   "o": [
+   "question": "Find the next number in the series: 343, 512, 729, 1000, 1331, 1728, ?",
+   "options": [
     "4394",
     "2197",
     "2196",
     "2205"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2197."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 2197.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00954",
-   "q": "Find the next number in the series: 7, 23, 47, 79, 119, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 23, 47, 79, 119, ?",
+   "options": [
     "174",
     "175",
     "167",
     "176"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 175."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 175.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00955",
-   "q": "If today is Monday, what day will it be after 33 days?",
-   "o": [
+   "question": "If today is Monday, what day will it be after 33 days?",
+   "options": [
     "Saturday",
     "Monday",
     "Thursday",
     "Wednesday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "33 days later gives Saturday (33 mod 7 = 5)."
+   "answer": 0,
+   "explanation": "33 days later gives Saturday (33 mod 7 = 5).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00956",
-   "q": "A person walks 11 km north and then 10 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 11 km north and then 10 km east. What is the straight line distance from the starting point?",
+   "options": [
     "21 km",
     "1 km",
     "29.73 km",
     "14.87 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(11^2 + 10^2) = 14.87 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(11^2 + 10^2) = 14.87 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00957",
-   "q": "What is the angle between the hour and minute hands at 9:10?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 9:10?",
+   "options": [
     "145 degrees",
     "115 degrees",
     "175 degrees",
     "215 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 145 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 145 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00958",
-   "q": "Find the next number in the series: 6, 14, 22, 30, 38, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 14, 22, 30, 38, ?",
+   "options": [
     "46",
     "54",
     "92",
     "45"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 46."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 46.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00959",
-   "q": "Find the next number in the series: 2, 4, 8, 16, 32, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 4, 8, 16, 32, 64, ?",
+   "options": [
     "126",
     "129",
     "127",
     "128"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 128."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 128.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00960",
-   "q": "Find the next number in the series: 64, 125, 216, 343, 512, 729, ?",
-   "o": [
+   "question": "Find the next number in the series: 64, 125, 216, 343, 512, 729, ?",
+   "options": [
     "994",
     "999",
     "1001",
     "1000"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1000."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 1000.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00961",
-   "q": "Find the next number in the series: 8, 20, 38, 62, 92, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 20, 38, 62, 92, ?",
+   "options": [
     "133",
     "140",
     "135",
     "134"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 134."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 134.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00962",
-   "q": "In a code language each letter is shifted 1 place(s) forward. How is DOG written?",
-   "o": [
+   "question": "In a code language each letter is shifted 1 place(s) forward. How is DOG written?",
+   "options": [
     "EPH",
     "HSK",
     "FQI",
     "GRJ"
    ],
-   "a": 0,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of DOG by 1 gives EPH."
+   "answer": 0,
+   "explanation": "Shifting each letter of DOG by 1 gives EPH.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00963",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "4",
     "9",
     "10",
     "121"
    ],
-   "a": 0,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "4 is a perfect square."
+   "answer": 0,
+   "explanation": "4 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00964",
-   "q": "In a row of 6 children, Esha is standing at position 5 from the left. What is the position from the right?",
-   "o": [
+   "question": "In a row of 6 children, Esha is standing at position 5 from the left. What is the position from the right?",
+   "options": [
     "2",
     "5",
     "3",
     "1"
    ],
-   "a": 0,
-   "t": "Ranking",
-   "l": 2,
-   "s": "generated",
-   "e": "Position from right = total - position from left + 1 = 2."
+   "answer": 0,
+   "explanation": "Position from right = total - position from left + 1 = 2.",
+   "topic": "Ranking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00965",
-   "q": "If today is Saturday, what day will it be after 27 days?",
-   "o": [
+   "question": "If today is Saturday, what day will it be after 27 days?",
+   "options": [
     "Thursday",
     "Monday",
     "Wednesday",
     "Friday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "27 days later gives Friday (27 mod 7 = 6)."
+   "answer": 3,
+   "explanation": "27 days later gives Friday (27 mod 7 = 6).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00966",
-   "q": "A person walks 6 km north and then 7 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 6 km north and then 7 km east. What is the straight line distance from the starting point?",
+   "options": [
     "13 km",
     "12 km",
     "9.22 km",
     "1 km"
    ],
-   "a": 2,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(6^2 + 7^2) = 9.22 km."
+   "answer": 2,
+   "explanation": "Distance = sqrt(6^2 + 7^2) = 9.22 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00967",
-   "q": "What is the angle between the hour and minute hands at 4:10?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 4:10?",
+   "options": [
     "35 degrees",
     "95 degrees",
     "65 degrees",
     "32.5 degrees"
    ],
-   "a": 2,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 65 degrees."
+   "answer": 2,
+   "explanation": "Angle = |30H - 5.5M| = 65 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00968",
-   "q": "Two books and three pens cost 32 rupees. If a book costs 7 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 32 rupees. If a book costs 7 rupees, what is the cost of one pen?",
+   "options": [
     "12 rupees",
     "6 rupees",
     "7 rupees",
     "6.4 rupees"
    ],
-   "a": 1,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 7 = 14, so 3 pens cost 18 and one pen costs 6 rupees."
+   "answer": 1,
+   "explanation": "2 x 7 = 14, so 3 pens cost 18 and one pen costs 6 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00969",
-   "q": "Find the next number in the series: 6, 13, 20, 27, 34, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 13, 20, 27, 34, ?",
+   "options": [
     "42",
     "41",
     "82",
     "48"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 41."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 41.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00970",
-   "q": "Find the next number in the series: 8, 16, 32, 64, 128, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 16, 32, 64, 128, ?",
+   "options": [
     "512",
     "256",
     "257",
     "263"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 256."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 256.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00971",
-   "q": "Find the next number in the series: 25, 36, 49, 64, 81, ?",
-   "o": [
+   "question": "Find the next number in the series: 25, 36, 49, 64, 81, ?",
+   "options": [
     "101",
     "99",
     "96",
     "100"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 100."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 100.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00972",
-   "q": "Find the next number in the series: 343, 512, 729, 1000, 1331, 1728, ?",
-   "o": [
+   "question": "Find the next number in the series: 343, 512, 729, 1000, 1331, 1728, ?",
+   "options": [
     "2198",
     "2201",
     "2197",
     "4394"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2197."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 2197.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00973",
-   "q": "Find the next number in the series: 4, 20, 44, 76, 116, 164, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 20, 44, 76, 116, 164, ?",
+   "options": [
     "228",
     "220",
     "236",
     "229"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 228."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 228.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00974",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "36",
     "17",
     "121",
     "16"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "121 is a perfect square."
+   "answer": 2,
+   "explanation": "121 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00975",
-   "q": "If today is Monday, what day will it be after 37 days?",
-   "o": [
+   "question": "If today is Monday, what day will it be after 37 days?",
+   "options": [
     "Tuesday",
     "Wednesday",
     "Friday",
     "Thursday"
    ],
-   "a": 1,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "37 days later gives Wednesday (37 mod 7 = 2)."
+   "answer": 1,
+   "explanation": "37 days later gives Wednesday (37 mod 7 = 2).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00976",
-   "q": "A person walks 4 km north and then 9 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 4 km north and then 9 km east. What is the straight line distance from the starting point?",
+   "options": [
     "13 km",
     "9.85 km",
     "8 km",
     "5 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(4^2 + 9^2) = 9.85 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(4^2 + 9^2) = 9.85 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00977",
-   "q": "What is the angle between the hour and minute hands at 6:05?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 6:05?",
+   "options": [
     "122.5 degrees",
     "182.5 degrees",
     "152.5 degrees",
     "76.25 degrees"
    ],
-   "a": 2,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 152.5 degrees."
+   "answer": 2,
+   "explanation": "Angle = |30H - 5.5M| = 152.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00978",
-   "q": "Find the next number in the series: 2, 5, 8, 11, 14, 17, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 5, 8, 11, 14, 17, ?",
+   "options": [
     "21",
     "20",
     "23",
     "40"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 20."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 20.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00979",
-   "q": "Find the next number in the series: 125, 216, 343, 512, 729, ?",
-   "o": [
+   "question": "Find the next number in the series: 125, 216, 343, 512, 729, ?",
+   "options": [
     "1003",
     "999",
     "1000",
     "1001"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1000."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 1000.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00980",
-   "q": "Find the next number in the series: 9, 25, 49, 81, 121, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 25, 49, 81, 121, ?",
+   "options": [
     "177",
     "176",
     "169",
     "354"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 177."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 177.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00981",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "50",
     "82",
     "16",
     "49"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "16 is a perfect square."
+   "answer": 2,
+   "explanation": "16 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00982",
-   "q": "If today is Monday, what day will it be after 12 days?",
-   "o": [
+   "question": "If today is Monday, what day will it be after 12 days?",
+   "options": [
     "Monday",
     "Wednesday",
     "Tuesday",
     "Saturday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "12 days later gives Saturday (12 mod 7 = 5)."
+   "answer": 3,
+   "explanation": "12 days later gives Saturday (12 mod 7 = 5).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00983",
-   "q": "A person walks 3 km north and then 3 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 3 km north and then 3 km east. What is the straight line distance from the starting point?",
+   "options": [
     "8.49 km",
     "4.24 km",
     "0 km",
     "6 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(3^2 + 3^2) = 4.24 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(3^2 + 3^2) = 4.24 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00984",
-   "q": "Find the next number in the series: 4, 10, 16, 22, 28, 34, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 10, 16, 22, 28, 34, ?",
+   "options": [
     "80",
     "40",
     "34",
     "41"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 40."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 40.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00985",
-   "q": "Find the next number in the series: 49, 64, 81, 100, 121, 144, ?",
-   "o": [
+   "question": "Find the next number in the series: 49, 64, 81, 100, 121, 144, ?",
+   "options": [
     "175",
     "338",
     "163",
     "169"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 169."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 169.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00986",
-   "q": "Find the next number in the series: 512, 729, 1000, 1331, 1728, ?",
-   "o": [
+   "question": "Find the next number in the series: 512, 729, 1000, 1331, 1728, ?",
+   "options": [
     "2189",
     "2205",
     "2196",
     "2197"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2197."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 2197.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00987",
-   "q": "Find the next number in the series: 7, 23, 47, 79, 119, 167, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 23, 47, 79, 119, 167, ?",
+   "options": [
     "232",
     "231",
     "223",
     "230"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 231."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 231.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00988",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "122",
     "9",
     "50",
     "4"
    ],
-   "a": 3,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "4 is a perfect square."
+   "answer": 3,
+   "explanation": "4 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00989",
-   "q": "If today is Monday, what day will it be after 56 days?",
-   "o": [
+   "question": "If today is Monday, what day will it be after 56 days?",
+   "options": [
     "Friday",
     "Monday",
     "Wednesday",
     "Thursday"
    ],
-   "a": 1,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "56 days later gives Monday (56 mod 7 = 0)."
+   "answer": 1,
+   "explanation": "56 days later gives Monday (56 mod 7 = 0).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00990",
-   "q": "A person walks 4 km north and then 6 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 4 km north and then 6 km east. What is the straight line distance from the starting point?",
+   "options": [
     "8 km",
     "7.21 km",
     "8.21 km",
     "2 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(4^2 + 6^2) = 7.21 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(4^2 + 6^2) = 7.21 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00991",
-   "q": "What is the angle between the hour and minute hands at 9:15?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 9:15?",
+   "options": [
     "202.5 degrees",
     "187.5 degrees",
     "172.5 degrees",
     "86.25 degrees"
    ],
-   "a": 2,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 172.5 degrees."
+   "answer": 2,
+   "explanation": "Angle = |30H - 5.5M| = 172.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-00992",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "72",
     "76",
     "73",
     "74"
    ],
-   "a": 0,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 0,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00993",
-   "q": "Find the next number in the series: 4, 7, 10, 13, 16, 19, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 7, 10, 13, 16, 19, ?",
+   "options": [
     "19",
     "21",
     "22",
     "25"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 22."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 22.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00994",
-   "q": "Find the next number in the series: 4, 8, 16, 32, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 8, 16, 32, 64, ?",
+   "options": [
     "127",
     "128",
     "130",
     "126"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 128."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 128.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00995",
-   "q": "Find the next number in the series: 49, 64, 81, 100, 121, ?",
-   "o": [
+   "question": "Find the next number in the series: 49, 64, 81, 100, 121, ?",
+   "options": [
     "144",
     "143",
     "149",
     "288"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 144."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 144.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00996",
-   "q": "Find the next number in the series: 343, 512, 729, 1000, 1331, 1728, ?",
-   "o": [
+   "question": "Find the next number in the series: 343, 512, 729, 1000, 1331, 1728, ?",
+   "options": [
     "2196",
     "2197",
     "2189",
     "2205"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2197."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 2197.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00997",
-   "q": "Find the next number in the series: 5, 9, 15, 23, 33, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 9, 15, 23, 33, ?",
+   "options": [
     "46",
     "45",
     "49",
     "47"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 47."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 47.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00998",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "16",
     "26",
     "122",
     "81"
    ],
-   "a": 0,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "16 is a perfect square."
+   "answer": 0,
+   "explanation": "16 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-00999",
-   "q": "If today is Monday, what day will it be after 41 days?",
-   "o": [
+   "question": "If today is Monday, what day will it be after 41 days?",
+   "options": [
     "Sunday",
     "Monday",
     "Thursday",
     "Tuesday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "41 days later gives Sunday (41 mod 7 = 6)."
+   "answer": 0,
+   "explanation": "41 days later gives Sunday (41 mod 7 = 6).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01000",
-   "q": "A person walks 12 km north and then 4 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 12 km north and then 4 km east. What is the straight line distance from the starting point?",
+   "options": [
     "12.65 km",
     "8 km",
     "13.65 km",
     "16 km"
    ],
-   "a": 0,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(12^2 + 4^2) = 12.65 km."
+   "answer": 0,
+   "explanation": "Distance = sqrt(12^2 + 4^2) = 12.65 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01001",
-   "q": "What is the angle between the hour and minute hands at 12:05?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 12:05?",
+   "options": [
     "42.5 degrees",
     "13.75 degrees",
     "332.5 degrees",
     "27.5 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 27.5 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 27.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01002",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "43",
     "39",
     "44",
     "40"
    ],
-   "a": 1,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 1,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01003",
-   "q": "Two books and three pens cost 21 rupees. If a book costs 3 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 21 rupees. If a book costs 3 rupees, what is the cost of one pen?",
+   "options": [
     "3 rupees",
     "5 rupees",
     "4 rupees",
     "4.2 rupees"
    ],
-   "a": 1,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 3 = 6, so 3 pens cost 15 and one pen costs 5 rupees."
+   "answer": 1,
+   "explanation": "2 x 3 = 6, so 3 pens cost 15 and one pen costs 5 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01004",
-   "q": "Find the next number in the series: 7, 13, 19, 25, 31, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 13, 19, 25, 31, ?",
+   "options": [
     "37",
     "38",
     "36",
     "43"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 37."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 37.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01005",
-   "q": "Find the next number in the series: 6, 12, 24, 48, 96, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 12, 24, 48, 96, ?",
+   "options": [
     "193",
     "192",
     "191",
     "200"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 192."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 192.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01006",
-   "q": "Find the next number in the series: 9, 16, 25, 36, 49, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 16, 25, 36, 49, ?",
+   "options": [
     "128",
     "65",
     "62",
     "64"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 64."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 64.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01007",
-   "q": "Find the next number in the series: 27, 64, 125, 216, 343, 512, ?",
-   "o": [
+   "question": "Find the next number in the series: 27, 64, 125, 216, 343, 512, ?",
+   "options": [
     "720",
     "730",
     "729",
     "728"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 729."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 729.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01008",
-   "q": "Find the next number in the series: 8, 14, 23, 35, 50, 68, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 14, 23, 35, 50, 68, ?",
+   "options": [
     "92",
     "93",
     "184",
     "89"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 92."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 92.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01009",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "81",
     "64",
     "5",
     "65"
    ],
-   "a": 0,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "81 is a perfect square."
+   "answer": 0,
+   "explanation": "81 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01010",
-   "q": "If today is Saturday, what day will it be after 49 days?",
-   "o": [
+   "question": "If today is Saturday, what day will it be after 49 days?",
+   "options": [
     "Thursday",
     "Tuesday",
     "Saturday",
     "Wednesday"
    ],
-   "a": 2,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "49 days later gives Saturday (49 mod 7 = 0)."
+   "answer": 2,
+   "explanation": "49 days later gives Saturday (49 mod 7 = 0).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01011",
-   "q": "A person walks 4 km north and then 10 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 4 km north and then 10 km east. What is the straight line distance from the starting point?",
+   "options": [
     "21.54 km",
     "10.77 km",
     "8 km",
     "11.77 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(4^2 + 10^2) = 10.77 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(4^2 + 10^2) = 10.77 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01012",
-   "q": "What is the angle between the hour and minute hands at 11:05?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 11:05?",
+   "options": [
     "57.5 degrees",
     "87.5 degrees",
     "72.5 degrees",
     "28.75 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 57.5 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 57.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01013",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "73",
     "77",
     "76",
     "72"
    ],
-   "a": 3,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 3,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01014",
-   "q": "Find the next number in the series: 5, 9, 13, 17, 21, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 9, 13, 17, 21, ?",
+   "options": [
     "50",
     "25",
     "24",
     "21"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 25."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 25.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01015",
-   "q": "Find the next number in the series: 7, 14, 28, 56, 112, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 14, 28, 56, 112, ?",
+   "options": [
     "225",
     "224",
     "448",
     "226"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 224."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 224.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01016",
-   "q": "Find the next number in the series: 25, 36, 49, 64, 81, ?",
-   "o": [
+   "question": "Find the next number in the series: 25, 36, 49, 64, 81, ?",
+   "options": [
     "100",
     "108",
     "101",
     "99"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 100."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 100.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01017",
-   "q": "Find the next number in the series: 6, 10, 16, 24, 34, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 10, 16, 24, 34, ?",
+   "options": [
     "49",
     "47",
     "50",
     "48"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 48."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 48.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01018",
-   "q": "If today is Sunday, what day will it be after 34 days?",
-   "o": [
+   "question": "If today is Sunday, what day will it be after 34 days?",
+   "options": [
     "Thursday",
     "Tuesday",
     "Saturday",
     "Wednesday"
    ],
-   "a": 2,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "34 days later gives Saturday (34 mod 7 = 6)."
+   "answer": 2,
+   "explanation": "34 days later gives Saturday (34 mod 7 = 6).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01019",
-   "q": "A person walks 4 km north and then 7 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 4 km north and then 7 km east. What is the straight line distance from the starting point?",
+   "options": [
     "3 km",
     "8 km",
     "16.12 km",
     "8.06 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(4^2 + 7^2) = 8.06 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(4^2 + 7^2) = 8.06 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01020",
-   "q": "What is the angle between the hour and minute hands at 3:45?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 3:45?",
+   "options": [
     "127.5 degrees",
     "187.5 degrees",
     "78.75 degrees",
     "157.5 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 157.5 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 157.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01021",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "27",
     "28",
     "31",
     "32"
    ],
-   "a": 0,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 0,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01022",
-   "q": "Two books and three pens cost 19 rupees. If a book costs 5 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 19 rupees. If a book costs 5 rupees, what is the cost of one pen?",
+   "options": [
     "3.8 rupees",
     "3 rupees",
     "2 rupees",
     "4 rupees"
    ],
-   "a": 1,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 5 = 10, so 3 pens cost 9 and one pen costs 3 rupees."
+   "answer": 1,
+   "explanation": "2 x 5 = 10, so 3 pens cost 9 and one pen costs 3 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01023",
-   "q": "Find the next number in the series: 3, 8, 13, 18, 23, 28, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 8, 13, 18, 23, 28, ?",
+   "options": [
     "33",
     "34",
     "66",
     "28"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 33."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 33.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01024",
-   "q": "Find the next number in the series: 8, 16, 32, 64, 128, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 16, 32, 64, 128, ?",
+   "options": [
     "252",
     "255",
     "257",
     "256"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 256."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 256.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01025",
-   "q": "Find the next number in the series: 64, 81, 100, 121, 144, ?",
-   "o": [
+   "question": "Find the next number in the series: 64, 81, 100, 121, 144, ?",
+   "options": [
     "338",
     "176",
     "162",
     "169"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 169."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 169.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01026",
-   "q": "Find the next number in the series: 27, 64, 125, 216, 343, ?",
-   "o": [
+   "question": "Find the next number in the series: 27, 64, 125, 216, 343, ?",
+   "options": [
     "513",
     "511",
     "512",
     "506"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 512."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 512.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01027",
-   "q": "Find the next number in the series: 4, 12, 24, 40, 60, 84, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 12, 24, 40, 60, 84, ?",
+   "options": [
     "116",
     "115",
     "117",
     "112"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 116."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 116.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01028",
-   "q": "If today is Tuesday, what day will it be after 28 days?",
-   "o": [
+   "question": "If today is Tuesday, what day will it be after 28 days?",
+   "options": [
     "Friday",
     "Tuesday",
     "Wednesday",
     "Monday"
    ],
-   "a": 1,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "28 days later gives Tuesday (28 mod 7 = 0)."
+   "answer": 1,
+   "explanation": "28 days later gives Tuesday (28 mod 7 = 0).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01029",
-   "q": "A person walks 4 km north and then 5 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 4 km north and then 5 km east. What is the straight line distance from the starting point?",
+   "options": [
     "6.4 km",
     "7.4 km",
     "8 km",
     "12.81 km"
    ],
-   "a": 0,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(4^2 + 5^2) = 6.4 km."
+   "answer": 0,
+   "explanation": "Distance = sqrt(4^2 + 5^2) = 6.4 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01030",
-   "q": "What is the angle between the hour and minute hands at 9:10?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 9:10?",
+   "options": [
     "215 degrees",
     "72.5 degrees",
     "175 degrees",
     "145 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 145 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 145 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01031",
-   "q": "Find the next number in the series: 8, 16, 24, 32, 40, 48, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 16, 24, 32, 40, 48, ?",
+   "options": [
     "112",
     "48",
     "56",
     "57"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 56."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 56.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01032",
-   "q": "Find the next number in the series: 2, 4, 8, 16, 32, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 4, 8, 16, 32, ?",
+   "options": [
     "67",
     "128",
     "64",
     "61"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 64."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 64.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01033",
-   "q": "Find the next number in the series: 125, 216, 343, 512, 729, ?",
-   "o": [
+   "question": "Find the next number in the series: 125, 216, 343, 512, 729, ?",
+   "options": [
     "999",
     "2000",
     "1000",
     "1001"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1000."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 1000.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01034",
-   "q": "Find the next number in the series: 8, 16, 28, 44, 64, 88, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 16, 28, 44, 64, 88, ?",
+   "options": [
     "120",
     "116",
     "240",
     "119"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 120."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 120.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01035",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "16",
     "101",
     "17",
     "121"
    ],
-   "a": 3,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "121 is a perfect square."
+   "answer": 3,
+   "explanation": "121 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01036",
-   "q": "If today is Thursday, what day will it be after 55 days?",
-   "o": [
+   "question": "If today is Thursday, what day will it be after 55 days?",
+   "options": [
     "Friday",
     "Monday",
     "Tuesday",
     "Wednesday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "55 days later gives Wednesday (55 mod 7 = 6)."
+   "answer": 3,
+   "explanation": "55 days later gives Wednesday (55 mod 7 = 6).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01037",
-   "q": "A person walks 4 km north and then 7 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 4 km north and then 7 km east. What is the straight line distance from the starting point?",
+   "options": [
     "3 km",
     "11 km",
     "9.06 km",
     "8.06 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(4^2 + 7^2) = 8.06 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(4^2 + 7^2) = 8.06 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01038",
-   "q": "What is the angle between the hour and minute hands at 7:10?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 7:10?",
+   "options": [
     "185 degrees",
     "170 degrees",
     "155 degrees",
     "125 degrees"
    ],
-   "a": 2,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 155 degrees."
+   "answer": 2,
+   "explanation": "Angle = |30H - 5.5M| = 155 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01039",
-   "q": "Find the next term of the series: 1, 1, 2, 3, 5, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, 5, ?",
+   "options": [
     "11",
     "9",
     "13",
     "8"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 8."
+   "answer": 3,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 8.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01040",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "60",
     "61",
     "65",
     "64"
    ],
-   "a": 0,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 0,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01041",
-   "q": "Find the next number in the series: 2, 9, 16, 23, 30, 37, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 9, 16, 23, 30, 37, ?",
+   "options": [
     "43",
     "88",
     "45",
     "44"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 44."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 44.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01042",
-   "q": "Find the next number in the series: 2, 4, 8, 16, 32, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 4, 8, 16, 32, 64, ?",
+   "options": [
     "128",
     "129",
     "130",
     "256"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 128."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 128.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01043",
-   "q": "Find the next number in the series: 81, 100, 121, 144, 169, 196, ?",
-   "o": [
+   "question": "Find the next number in the series: 81, 100, 121, 144, 169, 196, ?",
+   "options": [
     "222",
     "228",
     "450",
     "225"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 225."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 225.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01044",
-   "q": "Find the next number in the series: 1000, 1331, 1728, 2197, 2744, ?",
-   "o": [
+   "question": "Find the next number in the series: 1000, 1331, 1728, 2197, 2744, ?",
+   "options": [
     "3366",
     "3374",
     "3376",
     "3375"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 3375."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 3375.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01045",
-   "q": "Find the next number in the series: 2, 12, 27, 47, 72, 102, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 12, 27, 47, 72, 102, ?",
+   "options": [
     "147",
     "284",
     "143",
     "142"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 142."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 142.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01046",
-   "q": "In a code language each letter is shifted 1 place(s) forward. How is VAN written?",
-   "o": [
+   "question": "In a code language each letter is shifted 1 place(s) forward. How is VAN written?",
+   "options": [
     "XCP",
     "ZER",
     "WBO",
     "YDQ"
    ],
-   "a": 2,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of VAN by 1 gives WBO."
+   "answer": 2,
+   "explanation": "Shifting each letter of VAN by 1 gives WBO.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01047",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "16",
     "122",
     "4",
     "100"
    ],
-   "a": 3,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "100 is a perfect square."
+   "answer": 3,
+   "explanation": "100 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01048",
-   "q": "If today is Friday, what day will it be after 35 days?",
-   "o": [
+   "question": "If today is Friday, what day will it be after 35 days?",
+   "options": [
     "Tuesday",
     "Friday",
     "Thursday",
     "Monday"
    ],
-   "a": 1,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "35 days later gives Friday (35 mod 7 = 0)."
+   "answer": 1,
+   "explanation": "35 days later gives Friday (35 mod 7 = 0).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01049",
-   "q": "What is the angle between the hour and minute hands at 7:45?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 7:45?",
+   "options": [
     "37.5 degrees",
     "322.5 degrees",
     "52.5 degrees",
     "18.75 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 37.5 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 37.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01050",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "67",
     "68",
     "63",
     "64"
    ],
-   "a": 2,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 2,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01051",
-   "q": "Find the next number in the series: 7, 15, 23, 31, 39, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 15, 23, 31, 39, ?",
+   "options": [
     "47",
     "46",
     "39",
     "55"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 47."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 47.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01052",
-   "q": "Find the next number in the series: 9, 18, 36, 72, 144, 288, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 18, 36, 72, 144, 288, ?",
+   "options": [
     "1152",
     "582",
     "577",
     "576"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 576."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 576.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01053",
-   "q": "Find the next number in the series: 64, 81, 100, 121, 144, 169, ?",
-   "o": [
+   "question": "Find the next number in the series: 64, 81, 100, 121, 144, 169, ?",
+   "options": [
     "196",
     "199",
     "195",
     "392"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 196."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 196.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01054",
-   "q": "Find the next number in the series: 343, 512, 729, 1000, 1331, ?",
-   "o": [
+   "question": "Find the next number in the series: 343, 512, 729, 1000, 1331, ?",
+   "options": [
     "3456",
     "1727",
     "1724",
     "1728"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1728."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 1728.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01055",
-   "q": "Find the next number in the series: 9, 17, 29, 45, 65, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 17, 29, 45, 65, ?",
+   "options": [
     "89",
     "93",
     "97",
     "92"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 93."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 93.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01056",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "121",
     "16",
     "36",
     "49"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "36 is a perfect square."
+   "answer": 2,
+   "explanation": "36 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01057",
-   "q": "If today is Thursday, what day will it be after 32 days?",
-   "o": [
+   "question": "If today is Thursday, what day will it be after 32 days?",
+   "options": [
     "Tuesday",
     "Monday",
     "Wednesday",
     "Friday"
    ],
-   "a": 1,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "32 days later gives Monday (32 mod 7 = 4)."
+   "answer": 1,
+   "explanation": "32 days later gives Monday (32 mod 7 = 4).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01058",
-   "q": "A person walks 10 km north and then 5 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 10 km north and then 5 km east. What is the straight line distance from the starting point?",
+   "options": [
     "11.18 km",
     "5 km",
     "15 km",
     "12.18 km"
    ],
-   "a": 0,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(10^2 + 5^2) = 11.18 km."
+   "answer": 0,
+   "explanation": "Distance = sqrt(10^2 + 5^2) = 11.18 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01059",
-   "q": "What is the angle between the hour and minute hands at 11:25?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 11:25?",
+   "options": [
     "192.5 degrees",
     "182.5 degrees",
     "83.75 degrees",
     "167.5 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 167.5 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 167.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01060",
-   "q": "Find the next number in the series: 9, 16, 23, 30, 37, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 16, 23, 30, 37, ?",
+   "options": [
     "45",
     "44",
     "37",
     "51"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 44."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 44.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01061",
-   "q": "Find the next number in the series: 4, 8, 16, 32, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 8, 16, 32, 64, ?",
+   "options": [
     "134",
     "127",
     "128",
     "129"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 128."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 128.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01062",
-   "q": "Find the next number in the series: 16, 25, 36, 49, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 16, 25, 36, 49, 64, ?",
+   "options": [
     "80",
     "81",
     "82",
     "162"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 81."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 81.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01063",
-   "q": "Find the next number in the series: 216, 343, 512, 729, 1000, ?",
-   "o": [
+   "question": "Find the next number in the series: 216, 343, 512, 729, 1000, ?",
+   "options": [
     "1326",
     "1330",
     "1331",
     "1332"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1331."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 1331.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01064",
-   "q": "Find the next number in the series: 9, 27, 54, 90, 135, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 27, 54, 90, 135, ?",
+   "options": [
     "198",
     "189",
     "197",
     "207"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 198."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 198.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01065",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "37",
     "144",
     "36",
     "17"
    ],
-   "a": 1,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "144 is a perfect square."
+   "answer": 1,
+   "explanation": "144 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01066",
-   "q": "If today is Tuesday, what day will it be after 62 days?",
-   "o": [
+   "question": "If today is Tuesday, what day will it be after 62 days?",
+   "options": [
     "Monday",
     "Tuesday",
     "Friday",
     "Thursday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "62 days later gives Monday (62 mod 7 = 6)."
+   "answer": 0,
+   "explanation": "62 days later gives Monday (62 mod 7 = 6).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01067",
-   "q": "A person walks 12 km north and then 2 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 12 km north and then 2 km east. What is the straight line distance from the starting point?",
+   "options": [
     "10 km",
     "24 km",
     "12.17 km",
     "14 km"
    ],
-   "a": 2,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(12^2 + 2^2) = 12.17 km."
+   "answer": 2,
+   "explanation": "Distance = sqrt(12^2 + 2^2) = 12.17 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01068",
-   "q": "What is the angle between the hour and minute hands at 9:25?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 9:25?",
+   "options": [
     "66.25 degrees",
     "132.5 degrees",
     "147.5 degrees",
     "102.5 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 132.5 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 132.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01069",
-   "q": "Find the next number in the series: 9, 17, 25, 33, 41, 49, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 17, 25, 33, 41, 49, ?",
+   "options": [
     "49",
     "56",
     "58",
     "57"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 57."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 57.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01070",
-   "q": "Find the next number in the series: 8, 16, 32, 64, 128, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 16, 32, 64, 128, ?",
+   "options": [
     "253",
     "259",
     "256",
     "257"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 256."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 256.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01071",
-   "q": "Find the next number in the series: 64, 81, 100, 121, 144, ?",
-   "o": [
+   "question": "Find the next number in the series: 64, 81, 100, 121, 144, ?",
+   "options": [
     "170",
     "178",
     "169",
     "160"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 169."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 169.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01072",
-   "q": "Find the next number in the series: 4, 16, 34, 58, 88, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 16, 34, 58, 88, ?",
+   "options": [
     "130",
     "129",
     "136",
     "260"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 130."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 130.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01073",
-   "q": "If today is Thursday, what day will it be after 64 days?",
-   "o": [
+   "question": "If today is Thursday, what day will it be after 64 days?",
+   "options": [
     "Friday",
     "Wednesday",
     "Tuesday",
     "Monday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "64 days later gives Friday (64 mod 7 = 1)."
+   "answer": 0,
+   "explanation": "64 days later gives Friday (64 mod 7 = 1).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01074",
-   "q": "A person walks 4 km north and then 9 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 4 km north and then 9 km east. What is the straight line distance from the starting point?",
+   "options": [
     "9.85 km",
     "19.7 km",
     "5 km",
     "13 km"
    ],
-   "a": 0,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(4^2 + 9^2) = 9.85 km."
+   "answer": 0,
+   "explanation": "Distance = sqrt(4^2 + 9^2) = 9.85 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01075",
-   "q": "What is the angle between the hour and minute hands at 2:35?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 2:35?",
+   "options": [
     "162.5 degrees",
     "66.25 degrees",
     "147.5 degrees",
     "132.5 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 132.5 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 132.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01076",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "76",
     "75",
     "79",
     "77"
    ],
-   "a": 1,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 1,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01077",
-   "q": "Find the next number in the series: 5, 10, 20, 40, 80, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 10, 20, 40, 80, ?",
+   "options": [
     "153",
     "167",
     "160",
     "161"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 160."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 160.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01078",
-   "q": "Find the next number in the series: 25, 36, 49, 64, 81, ?",
-   "o": [
+   "question": "Find the next number in the series: 25, 36, 49, 64, 81, ?",
+   "options": [
     "100",
     "108",
     "200",
     "101"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 100."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 100.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01079",
-   "q": "Find the next number in the series: 1000, 1331, 1728, 2197, 2744, 3375, ?",
-   "o": [
+   "question": "Find the next number in the series: 1000, 1331, 1728, 2197, 2744, 3375, ?",
+   "options": [
     "4096",
     "8192",
     "4090",
     "4095"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 4096."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 4096.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01080",
-   "q": "Find the next number in the series: 2, 16, 37, 65, 100, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 16, 37, 65, 100, ?",
+   "options": [
     "150",
     "149",
     "148",
     "156"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 149."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 149.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01081",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "26",
     "50",
     "25",
     "9"
    ],
-   "a": 3,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "9 is a perfect square."
+   "answer": 3,
+   "explanation": "9 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01082",
-   "q": "In a row of 6 children, Esha is standing at position 5 from the left. What is the position from the right?",
-   "o": [
+   "question": "In a row of 6 children, Esha is standing at position 5 from the left. What is the position from the right?",
+   "options": [
     "3",
     "7",
     "2",
     "1"
    ],
-   "a": 2,
-   "t": "Ranking",
-   "l": 2,
-   "s": "generated",
-   "e": "Position from right = total - position from left + 1 = 2."
+   "answer": 2,
+   "explanation": "Position from right = total - position from left + 1 = 2.",
+   "topic": "Ranking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01083",
-   "q": "If today is Thursday, what day will it be after 48 days?",
-   "o": [
+   "question": "If today is Thursday, what day will it be after 48 days?",
+   "options": [
     "Monday",
     "Friday",
     "Wednesday",
     "Thursday"
    ],
-   "a": 2,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "48 days later gives Wednesday (48 mod 7 = 6)."
+   "answer": 2,
+   "explanation": "48 days later gives Wednesday (48 mod 7 = 6).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01084",
-   "q": "A person walks 10 km north and then 5 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 10 km north and then 5 km east. What is the straight line distance from the starting point?",
+   "options": [
     "20 km",
     "11.18 km",
     "5 km",
     "12.18 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(10^2 + 5^2) = 11.18 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(10^2 + 5^2) = 11.18 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01085",
-   "q": "What is the angle between the hour and minute hands at 8:00?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 8:00?",
+   "options": [
     "120 degrees",
     "90 degrees",
     "150 degrees",
     "60 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 120 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 120 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01086",
-   "q": "Find the next term of the series: 1, 1, 2, 3, 5, 8, 13, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, 5, 8, 13, ?",
+   "options": [
     "22",
     "21",
     "24",
     "20"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 21."
+   "answer": 1,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 21.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01087",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "21",
     "26",
     "22",
     "23"
    ],
-   "a": 0,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 0,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01088",
-   "q": "Find the next number in the series: 8, 11, 14, 17, 20, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 11, 14, 17, 20, ?",
+   "options": [
     "23",
     "24",
     "26",
     "46"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 23."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 23.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01089",
-   "q": "Find the next number in the series: 4, 8, 16, 32, 64, 128, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 8, 16, 32, 64, 128, ?",
+   "options": [
     "512",
     "247",
     "256",
     "265"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 256."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 256.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01090",
-   "q": "Find the next number in the series: 36, 49, 64, 81, 100, ?",
-   "o": [
+   "question": "Find the next number in the series: 36, 49, 64, 81, 100, ?",
+   "options": [
     "122",
     "121",
     "130",
     "120"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 121."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 121.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01091",
-   "q": "Find the next number in the series: 512, 729, 1000, 1331, 1728, 2197, ?",
-   "o": [
+   "question": "Find the next number in the series: 512, 729, 1000, 1331, 1728, 2197, ?",
+   "options": [
     "2753",
     "2744",
     "2745",
     "5488"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2744."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 2744.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01092",
-   "q": "Find the next number in the series: 7, 25, 52, 88, 133, 187, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 25, 52, 88, 133, 187, ?",
+   "options": [
     "268",
     "259",
     "260",
     "518"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 259."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 259.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01093",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "36",
     "5",
     "17",
     "4"
    ],
-   "a": 0,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "36 is a perfect square."
+   "answer": 0,
+   "explanation": "36 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01094",
-   "q": "If today is Tuesday, what day will it be after 55 days?",
-   "o": [
+   "question": "If today is Tuesday, what day will it be after 55 days?",
+   "options": [
     "Tuesday",
     "Thursday",
     "Wednesday",
     "Monday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "55 days later gives Monday (55 mod 7 = 6)."
+   "answer": 3,
+   "explanation": "55 days later gives Monday (55 mod 7 = 6).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01095",
-   "q": "What is the angle between the hour and minute hands at 4:25?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 4:25?",
+   "options": [
     "342.5 degrees",
     "17.5 degrees",
     "32.5 degrees",
     "47.5 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 17.5 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 17.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01096",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "83",
     "79",
     "80",
     "78"
    ],
-   "a": 3,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 3,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01097",
-   "q": "Find the next number in the series: 5, 14, 23, 32, 41, 50, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 14, 23, 32, 41, 50, ?",
+   "options": [
     "60",
     "58",
     "59",
     "68"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 59."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 59.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01098",
-   "q": "Find the next number in the series: 4, 8, 16, 32, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 8, 16, 32, 64, ?",
+   "options": [
     "128",
     "256",
     "121",
     "135"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 128."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 128.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01099",
-   "q": "Find the next number in the series: 64, 81, 100, 121, 144, ?",
-   "o": [
+   "question": "Find the next number in the series: 64, 81, 100, 121, 144, ?",
+   "options": [
     "338",
     "176",
     "169",
     "168"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 169."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 169.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01100",
-   "q": "Find the next number in the series: 3, 17, 38, 66, 101, 143, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 17, 38, 66, 101, 143, ?",
+   "options": [
     "199",
     "398",
     "200",
     "192"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 199."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 199.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01101",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "122",
     "16",
     "17",
     "100"
    ],
-   "a": 3,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "100 is a perfect square."
+   "answer": 3,
+   "explanation": "100 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01102",
-   "q": "If today is Thursday, what day will it be after 68 days?",
-   "o": [
+   "question": "If today is Thursday, what day will it be after 68 days?",
+   "options": [
     "Monday",
     "Tuesday",
     "Wednesday",
     "Thursday"
    ],
-   "a": 1,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "68 days later gives Tuesday (68 mod 7 = 5)."
+   "answer": 1,
+   "explanation": "68 days later gives Tuesday (68 mod 7 = 5).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01103",
-   "q": "A person walks 12 km north and then 6 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 12 km north and then 6 km east. What is the straight line distance from the starting point?",
+   "options": [
     "6 km",
     "24 km",
     "14.42 km",
     "13.42 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(12^2 + 6^2) = 13.42 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(12^2 + 6^2) = 13.42 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01104",
-   "q": "What is the angle between the hour and minute hands at 6:00?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 6:00?",
+   "options": [
     "210 degrees",
     "90 degrees",
     "195 degrees",
     "180 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 180 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 180 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01105",
-   "q": "Find the next number in the series: 6, 10, 14, 18, 22, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 10, 14, 18, 22, ?",
+   "options": [
     "26",
     "30",
     "22",
     "52"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 26."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 26.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01106",
-   "q": "Find the next number in the series: 8, 16, 32, 64, 128, 256, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 16, 32, 64, 128, 256, ?",
+   "options": [
     "512",
     "519",
     "505",
     "1024"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 512."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 512.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01107",
-   "q": "Find the next number in the series: 81, 100, 121, 144, 169, ?",
-   "o": [
+   "question": "Find the next number in the series: 81, 100, 121, 144, 169, ?",
+   "options": [
     "195",
     "196",
     "197",
     "392"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 196."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 196.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01108",
-   "q": "Find the next number in the series: 27, 64, 125, 216, 343, 512, ?",
-   "o": [
+   "question": "Find the next number in the series: 27, 64, 125, 216, 343, 512, ?",
+   "options": [
     "736",
     "729",
     "730",
     "728"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 729."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 729.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01109",
-   "q": "Find the next number in the series: 3, 15, 33, 57, 87, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 15, 33, 57, 87, ?",
+   "options": [
     "123",
     "135",
     "258",
     "129"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 129."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 129.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01110",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "5",
     "16",
     "36",
     "4"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "36 is a perfect square."
+   "answer": 2,
+   "explanation": "36 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01111",
-   "q": "If today is Saturday, what day will it be after 52 days?",
-   "o": [
+   "question": "If today is Saturday, what day will it be after 52 days?",
+   "options": [
     "Thursday",
     "Friday",
     "Wednesday",
     "Tuesday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "52 days later gives Tuesday (52 mod 7 = 3)."
+   "answer": 3,
+   "explanation": "52 days later gives Tuesday (52 mod 7 = 3).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01112",
-   "q": "What is the angle between the hour and minute hands at 5:40?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 5:40?",
+   "options": [
     "100 degrees",
     "35 degrees",
     "70 degrees",
     "40 degrees"
    ],
-   "a": 2,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 70 degrees."
+   "answer": 2,
+   "explanation": "Angle = |30H - 5.5M| = 70 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01113",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "57",
     "59",
     "62",
     "58"
    ],
-   "a": 0,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 0,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01114",
-   "q": "Two books and three pens cost 26 rupees. If a book costs 7 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 26 rupees. If a book costs 7 rupees, what is the cost of one pen?",
+   "options": [
     "8 rupees",
     "4 rupees",
     "5 rupees",
     "3 rupees"
    ],
-   "a": 1,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 7 = 14, so 3 pens cost 12 and one pen costs 4 rupees."
+   "answer": 1,
+   "explanation": "2 x 7 = 14, so 3 pens cost 12 and one pen costs 4 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01115",
-   "q": "Find the next number in the series: 5, 13, 21, 29, 37, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 13, 21, 29, 37, ?",
+   "options": [
     "45",
     "44",
     "90",
     "46"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 45."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 45.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01116",
-   "q": "Find the next number in the series: 3, 6, 12, 24, 48, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 6, 12, 24, 48, ?",
+   "options": [
     "192",
     "97",
     "96",
     "102"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 96."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 96.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01117",
-   "q": "Find the next number in the series: 4, 9, 16, 25, 36, 49, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 9, 16, 25, 36, 49, ?",
+   "options": [
     "59",
     "69",
     "64",
     "128"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 64."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 64.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01118",
-   "q": "Find the next number in the series: 343, 512, 729, 1000, 1331, 1728, ?",
-   "o": [
+   "question": "Find the next number in the series: 343, 512, 729, 1000, 1331, 1728, ?",
+   "options": [
     "2197",
     "2195",
     "2198",
     "4394"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2197."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 2197.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01119",
-   "q": "Find the next number in the series: 8, 14, 23, 35, 50, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 14, 23, 35, 50, ?",
+   "options": [
     "72",
     "71",
     "70",
     "68"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 71."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 71.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01120",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "81",
     "16",
     "82",
     "49"
    ],
-   "a": 3,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "49 is a perfect square."
+   "answer": 3,
+   "explanation": "49 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01121",
-   "q": "If today is Monday, what day will it be after 41 days?",
-   "o": [
+   "question": "If today is Monday, what day will it be after 41 days?",
+   "options": [
     "Tuesday",
     "Wednesday",
     "Sunday",
     "Thursday"
    ],
-   "a": 2,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "41 days later gives Sunday (41 mod 7 = 6)."
+   "answer": 2,
+   "explanation": "41 days later gives Sunday (41 mod 7 = 6).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01122",
-   "q": "A person walks 10 km north and then 9 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 10 km north and then 9 km east. What is the straight line distance from the starting point?",
+   "options": [
     "19 km",
     "13.45 km",
     "20 km",
     "1 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(10^2 + 9^2) = 13.45 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(10^2 + 9^2) = 13.45 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01123",
-   "q": "What is the angle between the hour and minute hands at 11:10?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 11:10?",
+   "options": [
     "275 degrees",
     "85 degrees",
     "55 degrees",
     "115 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 85 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 85 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01124",
-   "q": "Find the next number in the series: 7, 13, 19, 25, 31, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 13, 19, 25, 31, ?",
+   "options": [
     "37",
     "43",
     "36",
     "31"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 37."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 37.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01125",
-   "q": "Find the next number in the series: 9, 18, 36, 72, 144, 288, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 18, 36, 72, 144, 288, ?",
+   "options": [
     "575",
     "1152",
     "576",
     "574"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 576."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 576.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01126",
-   "q": "Find the next number in the series: 64, 81, 100, 121, 144, 169, ?",
-   "o": [
+   "question": "Find the next number in the series: 64, 81, 100, 121, 144, 169, ?",
+   "options": [
     "196",
     "200",
     "392",
     "195"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 196."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 196.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01127",
-   "q": "Find the next number in the series: 729, 1000, 1331, 1728, 2197, 2744, ?",
-   "o": [
+   "question": "Find the next number in the series: 729, 1000, 1331, 1728, 2197, 2744, ?",
+   "options": [
     "6750",
     "3376",
     "3375",
     "3374"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 3375."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 3375.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01128",
-   "q": "Find the next number in the series: 2, 6, 12, 20, 30, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 6, 12, 20, 30, ?",
+   "options": [
     "44",
     "43",
     "88",
     "45"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 44."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 44.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01129",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "36",
     "122",
     "81",
     "64"
    ],
-   "a": 3,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "64 is a perfect square."
+   "answer": 3,
+   "explanation": "64 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01130",
-   "q": "In a row of 6 children, Esha is standing at position 5 from the left. What is the position from the right?",
-   "o": [
+   "question": "In a row of 6 children, Esha is standing at position 5 from the left. What is the position from the right?",
+   "options": [
     "5",
     "4",
     "2",
     "1"
    ],
-   "a": 2,
-   "t": "Ranking",
-   "l": 2,
-   "s": "generated",
-   "e": "Position from right = total - position from left + 1 = 2."
+   "answer": 2,
+   "explanation": "Position from right = total - position from left + 1 = 2.",
+   "topic": "Ranking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01131",
-   "q": "If today is Monday, what day will it be after 24 days?",
-   "o": [
+   "question": "If today is Monday, what day will it be after 24 days?",
+   "options": [
     "Thursday",
     "Friday",
     "Wednesday",
     "Tuesday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "24 days later gives Thursday (24 mod 7 = 3)."
+   "answer": 0,
+   "explanation": "24 days later gives Thursday (24 mod 7 = 3).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01132",
-   "q": "A person walks 8 km north and then 7 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 8 km north and then 7 km east. What is the straight line distance from the starting point?",
+   "options": [
     "21.26 km",
     "1 km",
     "15 km",
     "10.63 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(8^2 + 7^2) = 10.63 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(8^2 + 7^2) = 10.63 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01133",
-   "q": "What is the angle between the hour and minute hands at 8:05?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 8:05?",
+   "options": [
     "147.5 degrees",
     "117.5 degrees",
     "73.75 degrees",
     "212.5 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 147.5 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 147.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01134",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "74",
     "69",
     "71",
     "73"
    ],
-   "a": 1,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 1,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01135",
-   "q": "Find the next number in the series: 9, 16, 23, 30, 37, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 16, 23, 30, 37, ?",
+   "options": [
     "45",
     "43",
     "88",
     "44"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 44."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 44.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01136",
-   "q": "Find the next number in the series: 3, 6, 12, 24, 48, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 6, 12, 24, 48, ?",
+   "options": [
     "88",
     "97",
     "192",
     "96"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 96."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 96.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01137",
-   "q": "Find the next number in the series: 49, 64, 81, 100, 121, 144, ?",
-   "o": [
+   "question": "Find the next number in the series: 49, 64, 81, 100, 121, 144, ?",
+   "options": [
     "169",
     "168",
     "167",
     "170"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 169."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 169.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01138",
-   "q": "Find the next number in the series: 512, 729, 1000, 1331, 1728, 2197, ?",
-   "o": [
+   "question": "Find the next number in the series: 512, 729, 1000, 1331, 1728, 2197, ?",
+   "options": [
     "2744",
     "5488",
     "2747",
     "2741"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2744."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 2744.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01139",
-   "q": "Find the next number in the series: 3, 13, 28, 48, 73, 103, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 13, 28, 48, 73, 103, ?",
+   "options": [
     "286",
     "144",
     "138",
     "143"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 143."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 143.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01140",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "17",
     "50",
     "25",
     "16"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "25 is a perfect square."
+   "answer": 2,
+   "explanation": "25 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01141",
-   "q": "If today is Sunday, what day will it be after 65 days?",
-   "o": [
+   "question": "If today is Sunday, what day will it be after 65 days?",
+   "options": [
     "Friday",
     "Thursday",
     "Tuesday",
     "Wednesday"
    ],
-   "a": 2,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "65 days later gives Tuesday (65 mod 7 = 2)."
+   "answer": 2,
+   "explanation": "65 days later gives Tuesday (65 mod 7 = 2).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01142",
-   "q": "A person walks 10 km north and then 6 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 10 km north and then 6 km east. What is the straight line distance from the starting point?",
+   "options": [
     "11.66 km",
     "4 km",
     "16 km",
     "20 km"
    ],
-   "a": 0,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(10^2 + 6^2) = 11.66 km."
+   "answer": 0,
+   "explanation": "Distance = sqrt(10^2 + 6^2) = 11.66 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01143",
-   "q": "What is the angle between the hour and minute hands at 4:05?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 4:05?",
+   "options": [
     "92.5 degrees",
     "46.25 degrees",
     "62.5 degrees",
     "267.5 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 92.5 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 92.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01144",
-   "q": "Two books and three pens cost 18 rupees. If a book costs 3 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 18 rupees. If a book costs 3 rupees, what is the cost of one pen?",
+   "options": [
     "3.6 rupees",
     "3 rupees",
     "4 rupees",
     "8 rupees"
    ],
-   "a": 2,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 3 = 6, so 3 pens cost 12 and one pen costs 4 rupees."
+   "answer": 2,
+   "explanation": "2 x 3 = 6, so 3 pens cost 12 and one pen costs 4 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01145",
-   "q": "Find the next number in the series: 4, 11, 18, 25, 32, 39, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 11, 18, 25, 32, 39, ?",
+   "options": [
     "47",
     "46",
     "39",
     "92"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 46."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 46.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01146",
-   "q": "Find the next number in the series: 2, 4, 8, 16, 32, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 4, 8, 16, 32, 64, ?",
+   "options": [
     "129",
     "119",
     "128",
     "137"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 128."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 128.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01147",
-   "q": "Find the next number in the series: 36, 49, 64, 81, 100, ?",
-   "o": [
+   "question": "Find the next number in the series: 36, 49, 64, 81, 100, ?",
+   "options": [
     "117",
     "125",
     "121",
     "122"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 121."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 121.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01148",
-   "q": "Find the next number in the series: 64, 125, 216, 343, 512, ?",
-   "o": [
+   "question": "Find the next number in the series: 64, 125, 216, 343, 512, ?",
+   "options": [
     "1458",
     "728",
     "729",
     "721"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 729."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 729.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01149",
-   "q": "Find the next number in the series: 4, 18, 39, 67, 102, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 18, 39, 67, 102, ?",
+   "options": [
     "151",
     "152",
     "158",
     "150"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 151."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 151.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01150",
-   "q": "In a code language each letter is shifted 5 place(s) forward. How is CAT written?",
-   "o": [
+   "question": "In a code language each letter is shifted 5 place(s) forward. How is CAT written?",
+   "options": [
     "HFY",
     "FDW",
     "ECV",
     "GEX"
    ],
-   "a": 0,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of CAT by 5 gives HFY."
+   "answer": 0,
+   "explanation": "Shifting each letter of CAT by 5 gives HFY.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01151",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "4",
     "17",
     "144",
     "101"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "144 is a perfect square."
+   "answer": 2,
+   "explanation": "144 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01152",
-   "q": "If today is Tuesday, what day will it be after 64 days?",
-   "o": [
+   "question": "If today is Tuesday, what day will it be after 64 days?",
+   "options": [
     "Friday",
     "Thursday",
     "Tuesday",
     "Wednesday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "64 days later gives Wednesday (64 mod 7 = 1)."
+   "answer": 3,
+   "explanation": "64 days later gives Wednesday (64 mod 7 = 1).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01153",
-   "q": "A person walks 6 km north and then 3 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 6 km north and then 3 km east. What is the straight line distance from the starting point?",
+   "options": [
     "6.71 km",
     "9 km",
     "3 km",
     "7.71 km"
    ],
-   "a": 0,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(6^2 + 3^2) = 6.71 km."
+   "answer": 0,
+   "explanation": "Distance = sqrt(6^2 + 3^2) = 6.71 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01154",
-   "q": "What is the angle between the hour and minute hands at 4:50?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 4:50?",
+   "options": [
     "185 degrees",
     "77.5 degrees",
     "155 degrees",
     "125 degrees"
    ],
-   "a": 2,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 155 degrees."
+   "answer": 2,
+   "explanation": "Angle = |30H - 5.5M| = 155 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01155",
-   "q": "Two books and three pens cost 28 rupees. If a book costs 5 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 28 rupees. If a book costs 5 rupees, what is the cost of one pen?",
+   "options": [
     "12 rupees",
     "5.6 rupees",
     "6 rupees",
     "5 rupees"
    ],
-   "a": 2,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 5 = 10, so 3 pens cost 18 and one pen costs 6 rupees."
+   "answer": 2,
+   "explanation": "2 x 5 = 10, so 3 pens cost 18 and one pen costs 6 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01156",
-   "q": "Find the next number in the series: 9, 11, 13, 15, 17, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 11, 13, 15, 17, ?",
+   "options": [
     "21",
     "38",
     "18",
     "19"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 19."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 19.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01157",
-   "q": "Find the next number in the series: 9, 18, 36, 72, 144, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 18, 36, 72, 144, ?",
+   "options": [
     "288",
     "287",
     "576",
     "289"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 288."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 288.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01158",
-   "q": "Find the next number in the series: 9, 16, 25, 36, 49, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 16, 25, 36, 49, 64, ?",
+   "options": [
     "85",
     "77",
     "81",
     "162"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 81."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 81.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01159",
-   "q": "Find the next number in the series: 64, 125, 216, 343, 512, ?",
-   "o": [
+   "question": "Find the next number in the series: 64, 125, 216, 343, 512, ?",
+   "options": [
     "1458",
     "729",
     "734",
     "728"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 729."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 729.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01160",
-   "q": "Find the next number in the series: 6, 22, 46, 78, 118, 166, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 22, 46, 78, 118, 166, ?",
+   "options": [
     "230",
     "222",
     "238",
     "231"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 230."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 230.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01161",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "16",
     "82",
     "26",
     "4"
    ],
-   "a": 0,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "16 is a perfect square."
+   "answer": 0,
+   "explanation": "16 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01162",
-   "q": "In a row of 6 children, Esha is standing at position 5 from the left. What is the position from the right?",
-   "o": [
+   "question": "In a row of 6 children, Esha is standing at position 5 from the left. What is the position from the right?",
+   "options": [
     "3",
     "4",
     "7",
     "2"
    ],
-   "a": 3,
-   "t": "Ranking",
-   "l": 2,
-   "s": "generated",
-   "e": "Position from right = total - position from left + 1 = 2."
+   "answer": 3,
+   "explanation": "Position from right = total - position from left + 1 = 2.",
+   "topic": "Ranking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01163",
-   "q": "If today is Thursday, what day will it be after 16 days?",
-   "o": [
+   "question": "If today is Thursday, what day will it be after 16 days?",
+   "options": [
     "Saturday",
     "Thursday",
     "Monday",
     "Wednesday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "16 days later gives Saturday (16 mod 7 = 2)."
+   "answer": 0,
+   "explanation": "16 days later gives Saturday (16 mod 7 = 2).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01164",
-   "q": "A person walks 4 km north and then 2 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 4 km north and then 2 km east. What is the straight line distance from the starting point?",
+   "options": [
     "4.47 km",
     "8 km",
     "8.94 km",
     "5.47 km"
    ],
-   "a": 0,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(4^2 + 2^2) = 4.47 km."
+   "answer": 0,
+   "explanation": "Distance = sqrt(4^2 + 2^2) = 4.47 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01165",
-   "q": "What is the angle between the hour and minute hands at 6:45?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 6:45?",
+   "options": [
     "292.5 degrees",
     "37.5 degrees",
     "67.5 degrees",
     "82.5 degrees"
    ],
-   "a": 2,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 67.5 degrees."
+   "answer": 2,
+   "explanation": "Angle = |30H - 5.5M| = 67.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01166",
-   "q": "Two books and three pens cost 18 rupees. If a book costs 3 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 18 rupees. If a book costs 3 rupees, what is the cost of one pen?",
+   "options": [
     "8 rupees",
     "4 rupees",
     "5 rupees",
     "3 rupees"
    ],
-   "a": 1,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 3 = 6, so 3 pens cost 12 and one pen costs 4 rupees."
+   "answer": 1,
+   "explanation": "2 x 3 = 6, so 3 pens cost 12 and one pen costs 4 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01167",
-   "q": "Find the next number in the series: 2, 11, 20, 29, 38, 47, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 11, 20, 29, 38, 47, ?",
+   "options": [
     "57",
     "56",
     "112",
     "55"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 56."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 56.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01168",
-   "q": "Find the next number in the series: 9, 18, 36, 72, 144, 288, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 18, 36, 72, 144, 288, ?",
+   "options": [
     "575",
     "576",
     "573",
     "1152"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 576."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 576.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01169",
-   "q": "Find the next number in the series: 343, 512, 729, 1000, 1331, ?",
-   "o": [
+   "question": "Find the next number in the series: 343, 512, 729, 1000, 1331, ?",
+   "options": [
     "1728",
     "1730",
     "1727",
     "1729"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1728."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 1728.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01170",
-   "q": "Find the next number in the series: 4, 16, 34, 58, 88, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 16, 34, 58, 88, ?",
+   "options": [
     "260",
     "124",
     "130",
     "131"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 130."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 130.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01171",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "10",
     "4",
     "122",
     "82"
    ],
-   "a": 1,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "4 is a perfect square."
+   "answer": 1,
+   "explanation": "4 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01172",
-   "q": "If today is Tuesday, what day will it be after 13 days?",
-   "o": [
+   "question": "If today is Tuesday, what day will it be after 13 days?",
+   "options": [
     "Monday",
     "Friday",
     "Tuesday",
     "Thursday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "13 days later gives Monday (13 mod 7 = 6)."
+   "answer": 0,
+   "explanation": "13 days later gives Monday (13 mod 7 = 6).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01173",
-   "q": "A person walks 4 km north and then 9 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 4 km north and then 9 km east. What is the straight line distance from the starting point?",
+   "options": [
     "10.85 km",
     "9.85 km",
     "8 km",
     "5 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(4^2 + 9^2) = 9.85 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(4^2 + 9^2) = 9.85 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01174",
-   "q": "What is the angle between the hour and minute hands at 12:55?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 12:55?",
+   "options": [
     "57.5 degrees",
     "27.5 degrees",
     "28.75 degrees",
     "302.5 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 57.5 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 57.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01175",
-   "q": "Find the next number in the series: 9, 17, 25, 33, 41, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 17, 25, 33, 41, ?",
+   "options": [
     "98",
     "57",
     "41",
     "49"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 49."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 49.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01176",
-   "q": "Find the next number in the series: 3, 6, 12, 24, 48, 96, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 6, 12, 24, 48, 96, ?",
+   "options": [
     "192",
     "193",
     "186",
     "191"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 192."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 192.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01177",
-   "q": "Find the next number in the series: 16, 25, 36, 49, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 16, 25, 36, 49, 64, ?",
+   "options": [
     "80",
     "84",
     "162",
     "81"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 81."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 81.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01178",
-   "q": "Find the next number in the series: 343, 512, 729, 1000, 1331, ?",
-   "o": [
+   "question": "Find the next number in the series: 343, 512, 729, 1000, 1331, ?",
+   "options": [
     "1728",
     "1725",
     "1729",
     "1727"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1728."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 1728.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01179",
-   "q": "Find the next number in the series: 2, 18, 42, 74, 114, 162, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 18, 42, 74, 114, 162, ?",
+   "options": [
     "218",
     "227",
     "226",
     "234"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 226."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 226.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01180",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "5",
     "65",
     "144",
     "101"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "144 is a perfect square."
+   "answer": 2,
+   "explanation": "144 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01181",
-   "q": "What is the angle between the hour and minute hands at 1:55?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 1:55?",
+   "options": [
     "87.5 degrees",
     "57.5 degrees",
     "43.75 degrees",
     "102.5 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 87.5 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 87.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01182",
-   "q": "Find the next number in the series: 5, 9, 13, 17, 21, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 9, 13, 17, 21, ?",
+   "options": [
     "29",
     "26",
     "21",
     "25"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 25."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 25.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01183",
-   "q": "Find the next number in the series: 4, 9, 16, 25, 36, 49, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 9, 16, 25, 36, 49, ?",
+   "options": [
     "63",
     "70",
     "64",
     "128"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 64."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 64.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01184",
-   "q": "Find the next number in the series: 729, 1000, 1331, 1728, 2197, 2744, ?",
-   "o": [
+   "question": "Find the next number in the series: 729, 1000, 1331, 1728, 2197, 2744, ?",
+   "options": [
     "3374",
     "3376",
     "3375",
     "3373"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 3375."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 3375.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01185",
-   "q": "Find the next number in the series: 9, 19, 34, 54, 79, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 19, 34, 54, 79, ?",
+   "options": [
     "114",
     "228",
     "115",
     "113"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 114."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 114.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01186",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "26",
     "82",
     "81",
     "16"
    ],
-   "a": 3,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "16 is a perfect square."
+   "answer": 3,
+   "explanation": "16 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01187",
-   "q": "If today is Monday, what day will it be after 23 days?",
-   "o": [
+   "question": "If today is Monday, what day will it be after 23 days?",
+   "options": [
     "Tuesday",
     "Wednesday",
     "Thursday",
     "Friday"
    ],
-   "a": 1,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "23 days later gives Wednesday (23 mod 7 = 2)."
+   "answer": 1,
+   "explanation": "23 days later gives Wednesday (23 mod 7 = 2).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01188",
-   "q": "A person walks 8 km north and then 10 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 8 km north and then 10 km east. What is the straight line distance from the starting point?",
+   "options": [
     "16 km",
     "18 km",
     "12.81 km",
     "13.81 km"
    ],
-   "a": 2,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(8^2 + 10^2) = 12.81 km."
+   "answer": 2,
+   "explanation": "Distance = sqrt(8^2 + 10^2) = 12.81 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01189",
-   "q": "What is the angle between the hour and minute hands at 6:15?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 6:15?",
+   "options": [
     "262.5 degrees",
     "67.5 degrees",
     "112.5 degrees",
     "97.5 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 97.5 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 97.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01190",
-   "q": "Two books and three pens cost 21 rupees. If a book costs 6 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 21 rupees. If a book costs 6 rupees, what is the cost of one pen?",
+   "options": [
     "2 rupees",
     "4.2 rupees",
     "3 rupees",
     "6 rupees"
    ],
-   "a": 2,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 6 = 12, so 3 pens cost 9 and one pen costs 3 rupees."
+   "answer": 2,
+   "explanation": "2 x 6 = 12, so 3 pens cost 9 and one pen costs 3 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01191",
-   "q": "Find the next number in the series: 9, 17, 25, 33, 41, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 17, 25, 33, 41, ?",
+   "options": [
     "57",
     "48",
     "98",
     "49"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 49."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 49.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01192",
-   "q": "Find the next number in the series: 7, 14, 28, 56, 112, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 14, 28, 56, 112, ?",
+   "options": [
     "225",
     "227",
     "223",
     "224"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 224."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 224.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01193",
-   "q": "Find the next number in the series: 36, 49, 64, 81, 100, 121, ?",
-   "o": [
+   "question": "Find the next number in the series: 36, 49, 64, 81, 100, 121, ?",
+   "options": [
     "149",
     "143",
     "145",
     "144"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 144."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 144.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01194",
-   "q": "Find the next number in the series: 64, 125, 216, 343, 512, ?",
-   "o": [
+   "question": "Find the next number in the series: 64, 125, 216, 343, 512, ?",
+   "options": [
     "737",
     "1458",
     "729",
     "721"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 729."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 729.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01195",
-   "q": "Find the next number in the series: 4, 14, 29, 49, 74, 104, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 14, 29, 49, 74, 104, ?",
+   "options": [
     "144",
     "149",
     "139",
     "143"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 144."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 144.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01196",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "25",
     "122",
     "9",
     "82"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "9 is a perfect square."
+   "answer": 2,
+   "explanation": "9 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01197",
-   "q": "If today is Sunday, what day will it be after 52 days?",
-   "o": [
+   "question": "If today is Sunday, what day will it be after 52 days?",
+   "options": [
     "Thursday",
     "Wednesday",
     "Friday",
     "Monday"
    ],
-   "a": 1,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "52 days later gives Wednesday (52 mod 7 = 3)."
+   "answer": 1,
+   "explanation": "52 days later gives Wednesday (52 mod 7 = 3).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01198",
-   "q": "What is the angle between the hour and minute hands at 9:00?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 9:00?",
+   "options": [
     "60 degrees",
     "270 degrees",
     "45 degrees",
     "90 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 90 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 90 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01199",
-   "q": "Find the next number in the series: 4, 12, 20, 28, 36, 44, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 12, 20, 28, 36, 44, ?",
+   "options": [
     "53",
     "52",
     "104",
     "51"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 52."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 52.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01200",
-   "q": "Find the next number in the series: 5, 10, 20, 40, 80, 160, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 10, 20, 40, 80, 160, ?",
+   "options": [
     "320",
     "640",
     "321",
     "326"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 320."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 320.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01201",
-   "q": "Find the next number in the series: 512, 729, 1000, 1331, 1728, ?",
-   "o": [
+   "question": "Find the next number in the series: 512, 729, 1000, 1331, 1728, ?",
+   "options": [
     "2196",
     "2197",
     "2200",
     "4394"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2197."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 2197.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01202",
-   "q": "Find the next number in the series: 8, 26, 53, 89, 134, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 26, 53, 89, 134, ?",
+   "options": [
     "188",
     "196",
     "197",
     "206"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 197."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 197.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01203",
-   "q": "In a code language each letter is shifted 5 place(s) forward. How is VAN written?",
-   "o": [
+   "question": "In a code language each letter is shifted 5 place(s) forward. How is VAN written?",
+   "options": [
     "AFS",
     "YDQ",
     "WBO",
     "XCP"
    ],
-   "a": 0,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of VAN by 5 gives AFS."
+   "answer": 0,
+   "explanation": "Shifting each letter of VAN by 5 gives AFS.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01204",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "122",
     "49",
     "36",
     "17"
    ],
-   "a": 1,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "49 is a perfect square."
+   "answer": 1,
+   "explanation": "49 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01205",
-   "q": "If today is Thursday, what day will it be after 28 days?",
-   "o": [
+   "question": "If today is Thursday, what day will it be after 28 days?",
+   "options": [
     "Friday",
     "Wednesday",
     "Thursday",
     "Tuesday"
    ],
-   "a": 2,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "28 days later gives Thursday (28 mod 7 = 0)."
+   "answer": 2,
+   "explanation": "28 days later gives Thursday (28 mod 7 = 0).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01206",
-   "q": "A person walks 9 km north and then 8 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 9 km north and then 8 km east. What is the straight line distance from the starting point?",
+   "options": [
     "18 km",
     "12.04 km",
     "24.08 km",
     "1 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(9^2 + 8^2) = 12.04 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(9^2 + 8^2) = 12.04 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01207",
-   "q": "What is the angle between the hour and minute hands at 7:05?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 7:05?",
+   "options": [
     "207.5 degrees",
     "88.75 degrees",
     "177.5 degrees",
     "182.5 degrees"
    ],
-   "a": 2,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 177.5 degrees."
+   "answer": 2,
+   "explanation": "Angle = |30H - 5.5M| = 177.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01208",
-   "q": "Find the next number in the series: 5, 14, 23, 32, 41, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 14, 23, 32, 41, ?",
+   "options": [
     "100",
     "50",
     "49",
     "59"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 50."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 50.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01209",
-   "q": "Find the next number in the series: 2, 4, 8, 16, 32, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 4, 8, 16, 32, ?",
+   "options": [
     "63",
     "65",
     "64",
     "58"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 64."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 64.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01210",
-   "q": "Find the next number in the series: 25, 36, 49, 64, 81, 100, ?",
-   "o": [
+   "question": "Find the next number in the series: 25, 36, 49, 64, 81, 100, ?",
+   "options": [
     "242",
     "121",
     "114",
     "128"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 121."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 121.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01211",
-   "q": "Find the next number in the series: 27, 64, 125, 216, 343, ?",
-   "o": [
+   "question": "Find the next number in the series: 27, 64, 125, 216, 343, ?",
+   "options": [
     "512",
     "514",
     "513",
     "1024"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 512."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 512.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01212",
-   "q": "Find the next number in the series: 2, 20, 47, 83, 128, 182, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 20, 47, 83, 128, 182, ?",
+   "options": [
     "255",
     "508",
     "254",
     "245"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 254."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 254.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01213",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "81",
     "122",
     "4",
     "121"
    ],
-   "a": 0,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "81 is a perfect square."
+   "answer": 0,
+   "explanation": "81 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01214",
-   "q": "If today is Wednesday, what day will it be after 15 days?",
-   "o": [
+   "question": "If today is Wednesday, what day will it be after 15 days?",
+   "options": [
     "Friday",
     "Monday",
     "Wednesday",
     "Thursday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "15 days later gives Thursday (15 mod 7 = 1)."
+   "answer": 3,
+   "explanation": "15 days later gives Thursday (15 mod 7 = 1).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01215",
-   "q": "A person walks 4 km north and then 9 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 4 km north and then 9 km east. What is the straight line distance from the starting point?",
+   "options": [
     "19.7 km",
     "10.85 km",
     "9.85 km",
     "8 km"
    ],
-   "a": 2,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(4^2 + 9^2) = 9.85 km."
+   "answer": 2,
+   "explanation": "Distance = sqrt(4^2 + 9^2) = 9.85 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01216",
-   "q": "What is the angle between the hour and minute hands at 12:55?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 12:55?",
+   "options": [
     "27.5 degrees",
     "57.5 degrees",
     "28.75 degrees",
     "72.5 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 57.5 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 57.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01217",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "83",
     "82",
     "78",
     "80"
    ],
-   "a": 2,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 2,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01218",
-   "q": "Find the next number in the series: 5, 10, 20, 40, 80, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 10, 20, 40, 80, ?",
+   "options": [
     "156",
     "164",
     "160",
     "159"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 160."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 160.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01219",
-   "q": "Find the next number in the series: 27, 64, 125, 216, 343, 512, ?",
-   "o": [
+   "question": "Find the next number in the series: 27, 64, 125, 216, 343, 512, ?",
+   "options": [
     "730",
     "729",
     "727",
     "728"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 729."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 729.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01220",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "101",
     "65",
     "144",
     "36"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "144 is a perfect square."
+   "answer": 2,
+   "explanation": "144 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01221",
-   "q": "If today is Sunday, what day will it be after 39 days?",
-   "o": [
+   "question": "If today is Sunday, what day will it be after 39 days?",
+   "options": [
     "Thursday",
     "Wednesday",
     "Friday",
     "Monday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "39 days later gives Thursday (39 mod 7 = 4)."
+   "answer": 0,
+   "explanation": "39 days later gives Thursday (39 mod 7 = 4).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01222",
-   "q": "A person walks 8 km north and then 5 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 8 km north and then 5 km east. What is the straight line distance from the starting point?",
+   "options": [
     "3 km",
     "18.87 km",
     "9.43 km",
     "16 km"
    ],
-   "a": 2,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(8^2 + 5^2) = 9.43 km."
+   "answer": 2,
+   "explanation": "Distance = sqrt(8^2 + 5^2) = 9.43 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01223",
-   "q": "What is the angle between the hour and minute hands at 7:15?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 7:15?",
+   "options": [
     "142.5 degrees",
     "127.5 degrees",
     "97.5 degrees",
     "232.5 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 127.5 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 127.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01224",
-   "q": "Find the next number in the series: 9, 13, 17, 21, 25, 29, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 13, 17, 21, 25, 29, ?",
+   "options": [
     "29",
     "32",
     "34",
     "33"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 33."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 33.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01225",
-   "q": "Find the next number in the series: 49, 64, 81, 100, 121, 144, ?",
-   "o": [
+   "question": "Find the next number in the series: 49, 64, 81, 100, 121, 144, ?",
+   "options": [
     "338",
     "177",
     "161",
     "169"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 169."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 169.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01226",
-   "q": "Find the next number in the series: 512, 729, 1000, 1331, 1728, 2197, ?",
-   "o": [
+   "question": "Find the next number in the series: 512, 729, 1000, 1331, 1728, 2197, ?",
+   "options": [
     "2752",
     "5488",
     "2744",
     "2745"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2744."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 2744.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01227",
-   "q": "Find the next number in the series: 4, 18, 39, 67, 102, 144, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 18, 39, 67, 102, 144, ?",
+   "options": [
     "207",
     "199",
     "193",
     "200"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 200."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 200.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01228",
-   "q": "If today is Saturday, what day will it be after 23 days?",
-   "o": [
+   "question": "If today is Saturday, what day will it be after 23 days?",
+   "options": [
     "Monday",
     "Tuesday",
     "Thursday",
     "Friday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "23 days later gives Monday (23 mod 7 = 2)."
+   "answer": 0,
+   "explanation": "23 days later gives Monday (23 mod 7 = 2).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01229",
-   "q": "A person walks 4 km north and then 4 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 4 km north and then 4 km east. What is the straight line distance from the starting point?",
+   "options": [
     "11.31 km",
     "5.66 km",
     "8 km",
     "0 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(4^2 + 4^2) = 5.66 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(4^2 + 4^2) = 5.66 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01230",
-   "q": "What is the angle between the hour and minute hands at 7:15?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 7:15?",
+   "options": [
     "127.5 degrees",
     "157.5 degrees",
     "97.5 degrees",
     "142.5 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 127.5 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 127.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01231",
-   "q": "Find the next number in the series: 4, 12, 20, 28, 36, 44, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 12, 20, 28, 36, 44, ?",
+   "options": [
     "51",
     "53",
     "60",
     "52"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 52."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 52.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01232",
-   "q": "Find the next number in the series: 2, 4, 8, 16, 32, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 4, 8, 16, 32, ?",
+   "options": [
     "65",
     "64",
     "57",
     "63"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 64."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 64.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01233",
-   "q": "Find the next number in the series: 49, 64, 81, 100, 121, ?",
-   "o": [
+   "question": "Find the next number in the series: 49, 64, 81, 100, 121, ?",
+   "options": [
     "144",
     "152",
     "143",
     "136"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 144."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 144.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01234",
-   "q": "Find the next number in the series: 3, 7, 13, 21, 31, 43, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 7, 13, 21, 31, 43, ?",
+   "options": [
     "61",
     "118",
     "59",
     "60"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 59."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 59.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01235",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "9",
     "82",
     "121",
     "26"
    ],
-   "a": 0,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "9 is a perfect square."
+   "answer": 0,
+   "explanation": "9 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01236",
-   "q": "If today is Tuesday, what day will it be after 52 days?",
-   "o": [
+   "question": "If today is Tuesday, what day will it be after 52 days?",
+   "options": [
     "Friday",
     "Monday",
     "Thursday",
     "Wednesday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "52 days later gives Friday (52 mod 7 = 3)."
+   "answer": 0,
+   "explanation": "52 days later gives Friday (52 mod 7 = 3).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01237",
-   "q": "A person walks 12 km north and then 3 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 12 km north and then 3 km east. What is the straight line distance from the starting point?",
+   "options": [
     "24.74 km",
     "12.37 km",
     "24 km",
     "9 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(12^2 + 3^2) = 12.37 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(12^2 + 3^2) = 12.37 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01238",
-   "q": "What is the angle between the hour and minute hands at 1:35?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 1:35?",
+   "options": [
     "162.5 degrees",
     "177.5 degrees",
     "81.25 degrees",
     "197.5 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 162.5 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 162.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01239",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "62",
     "64",
     "61",
     "60"
    ],
-   "a": 3,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 3,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01240",
-   "q": "Find the next number in the series: 7, 11, 15, 19, 23, 27, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 11, 15, 19, 23, 27, ?",
+   "options": [
     "31",
     "30",
     "27",
     "35"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 31."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 31.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01241",
-   "q": "Find the next number in the series: 27, 64, 125, 216, 343, 512, ?",
-   "o": [
+   "question": "Find the next number in the series: 27, 64, 125, 216, 343, 512, ?",
+   "options": [
     "721",
     "730",
     "1458",
     "729"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 729."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 729.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01242",
-   "q": "Find the next number in the series: 9, 19, 34, 54, 79, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 19, 34, 54, 79, ?",
+   "options": [
     "113",
     "114",
     "109",
     "115"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 114."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 114.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01243",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "17",
     "81",
     "49",
     "122"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "49 is a perfect square."
+   "answer": 2,
+   "explanation": "49 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01244",
-   "q": "If today is Friday, what day will it be after 48 days?",
-   "o": [
+   "question": "If today is Friday, what day will it be after 48 days?",
+   "options": [
     "Monday",
     "Thursday",
     "Tuesday",
     "Friday"
    ],
-   "a": 1,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "48 days later gives Thursday (48 mod 7 = 6)."
+   "answer": 1,
+   "explanation": "48 days later gives Thursday (48 mod 7 = 6).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01245",
-   "q": "A person walks 3 km north and then 2 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 3 km north and then 2 km east. What is the straight line distance from the starting point?",
+   "options": [
     "4.61 km",
     "1 km",
     "6 km",
     "3.61 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(3^2 + 2^2) = 3.61 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(3^2 + 2^2) = 3.61 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01246",
-   "q": "Two books and three pens cost 27 rupees. If a book costs 6 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 27 rupees. If a book costs 6 rupees, what is the cost of one pen?",
+   "options": [
     "4 rupees",
     "6 rupees",
     "5 rupees",
     "10 rupees"
    ],
-   "a": 2,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 6 = 12, so 3 pens cost 15 and one pen costs 5 rupees."
+   "answer": 2,
+   "explanation": "2 x 6 = 12, so 3 pens cost 15 and one pen costs 5 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01247",
-   "q": "Find the next number in the series: 8, 10, 12, 14, 16, 18, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 10, 12, 14, 16, 18, ?",
+   "options": [
     "22",
     "40",
     "20",
     "19"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 20."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 20.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01248",
-   "q": "Find the next number in the series: 3, 6, 12, 24, 48, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 6, 12, 24, 48, ?",
+   "options": [
     "100",
     "96",
     "95",
     "97"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 96."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 96.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01249",
-   "q": "Find the next number in the series: 36, 49, 64, 81, 100, 121, ?",
-   "o": [
+   "question": "Find the next number in the series: 36, 49, 64, 81, 100, 121, ?",
+   "options": [
     "143",
     "145",
     "144",
     "152"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 144."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 144.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01250",
-   "q": "Find the next number in the series: 512, 729, 1000, 1331, 1728, ?",
-   "o": [
+   "question": "Find the next number in the series: 512, 729, 1000, 1331, 1728, ?",
+   "options": [
     "2204",
     "2197",
     "2198",
     "4394"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2197."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 2197.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01251",
-   "q": "Find the next number in the series: 6, 18, 36, 60, 90, 126, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 18, 36, 60, 90, 126, ?",
+   "options": [
     "168",
     "180",
     "174",
     "348"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 174."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 174.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01252",
-   "q": "In a code language each letter is shifted 3 place(s) forward. How is VAN written?",
-   "o": [
+   "question": "In a code language each letter is shifted 3 place(s) forward. How is VAN written?",
+   "options": [
     "ZER",
     "YDQ",
     "WBO",
     "XCP"
    ],
-   "a": 1,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of VAN by 3 gives YDQ."
+   "answer": 1,
+   "explanation": "Shifting each letter of VAN by 3 gives YDQ.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01253",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "81",
     "82",
     "64",
     "17"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "64 is a perfect square."
+   "answer": 2,
+   "explanation": "64 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01254",
-   "q": "If today is Monday, what day will it be after 48 days?",
-   "o": [
+   "question": "If today is Monday, what day will it be after 48 days?",
+   "options": [
     "Sunday",
     "Monday",
     "Wednesday",
     "Tuesday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "48 days later gives Sunday (48 mod 7 = 6)."
+   "answer": 0,
+   "explanation": "48 days later gives Sunday (48 mod 7 = 6).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01255",
-   "q": "A person walks 3 km north and then 3 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 3 km north and then 3 km east. What is the straight line distance from the starting point?",
+   "options": [
     "5.24 km",
     "0 km",
     "4.24 km",
     "6 km"
    ],
-   "a": 2,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(3^2 + 3^2) = 4.24 km."
+   "answer": 2,
+   "explanation": "Distance = sqrt(3^2 + 3^2) = 4.24 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01256",
-   "q": "What is the angle between the hour and minute hands at 5:50?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 5:50?",
+   "options": [
     "125 degrees",
     "62.5 degrees",
     "140 degrees",
     "95 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 125 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 125 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01257",
-   "q": "Two books and three pens cost 28 rupees. If a book costs 5 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 28 rupees. If a book costs 5 rupees, what is the cost of one pen?",
+   "options": [
     "6 rupees",
     "7 rupees",
     "5 rupees",
     "12 rupees"
    ],
-   "a": 0,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 5 = 10, so 3 pens cost 18 and one pen costs 6 rupees."
+   "answer": 0,
+   "explanation": "2 x 5 = 10, so 3 pens cost 18 and one pen costs 6 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01258",
-   "q": "Find the next number in the series: 8, 17, 26, 35, 44, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 17, 26, 35, 44, ?",
+   "options": [
     "106",
     "53",
     "62",
     "54"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 53."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 53.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01259",
-   "q": "Find the next number in the series: 5, 10, 20, 40, 80, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 10, 20, 40, 80, ?",
+   "options": [
     "161",
     "320",
     "165",
     "160"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 160."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 160.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01260",
-   "q": "Find the next number in the series: 49, 64, 81, 100, 121, ?",
-   "o": [
+   "question": "Find the next number in the series: 49, 64, 81, 100, 121, ?",
+   "options": [
     "144",
     "143",
     "140",
     "148"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 144."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 144.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01261",
-   "q": "Find the next number in the series: 343, 512, 729, 1000, 1331, ?",
-   "o": [
+   "question": "Find the next number in the series: 343, 512, 729, 1000, 1331, ?",
+   "options": [
     "1729",
     "1728",
     "1720",
     "3456"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1728."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 1728.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01262",
-   "q": "Find the next number in the series: 8, 12, 18, 26, 36, 48, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 12, 18, 26, 36, 48, ?",
+   "options": [
     "64",
     "128",
     "66",
     "63"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 64."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 64.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01263",
-   "q": "If today is Saturday, what day will it be after 22 days?",
-   "o": [
+   "question": "If today is Saturday, what day will it be after 22 days?",
+   "options": [
     "Sunday",
     "Monday",
     "Thursday",
     "Wednesday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "22 days later gives Sunday (22 mod 7 = 1)."
+   "answer": 0,
+   "explanation": "22 days later gives Sunday (22 mod 7 = 1).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01264",
-   "q": "A person walks 3 km north and then 5 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 3 km north and then 5 km east. What is the straight line distance from the starting point?",
+   "options": [
     "6.83 km",
     "2 km",
     "11.66 km",
     "5.83 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(3^2 + 5^2) = 5.83 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(3^2 + 5^2) = 5.83 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01265",
-   "q": "What is the angle between the hour and minute hands at 11:55?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 11:55?",
+   "options": [
     "27.5 degrees",
     "42.5 degrees",
     "-2.5 degrees",
     "13.75 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 27.5 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 27.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01266",
-   "q": "Two books and three pens cost 27 rupees. If a book costs 6 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 27 rupees. If a book costs 6 rupees, what is the cost of one pen?",
+   "options": [
     "10 rupees",
     "4 rupees",
     "5.4 rupees",
     "5 rupees"
    ],
-   "a": 3,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 6 = 12, so 3 pens cost 15 and one pen costs 5 rupees."
+   "answer": 3,
+   "explanation": "2 x 6 = 12, so 3 pens cost 15 and one pen costs 5 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01267",
-   "q": "Find the next number in the series: 8, 17, 26, 35, 44, 53, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 17, 26, 35, 44, 53, ?",
+   "options": [
     "124",
     "62",
     "61",
     "63"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 62."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 62.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01268",
-   "q": "Find the next number in the series: 3, 6, 12, 24, 48, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 6, 12, 24, 48, ?",
+   "options": [
     "87",
     "97",
     "96",
     "105"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 96."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 96.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01269",
-   "q": "Find the next number in the series: 343, 512, 729, 1000, 1331, ?",
-   "o": [
+   "question": "Find the next number in the series: 343, 512, 729, 1000, 1331, ?",
+   "options": [
     "1719",
     "1737",
     "1728",
     "3456"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1728."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 1728.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01270",
-   "q": "Find the next number in the series: 8, 22, 43, 71, 106, 148, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 22, 43, 71, 106, 148, ?",
+   "options": [
     "197",
     "204",
     "203",
     "211"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 204."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 204.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01271",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "36",
     "5",
     "81",
     "17"
    ],
-   "a": 0,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "36 is a perfect square."
+   "answer": 0,
+   "explanation": "36 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01272",
-   "q": "If today is Friday, what day will it be after 41 days?",
-   "o": [
+   "question": "If today is Friday, what day will it be after 41 days?",
+   "options": [
     "Friday",
     "Monday",
     "Thursday",
     "Tuesday"
    ],
-   "a": 2,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "41 days later gives Thursday (41 mod 7 = 6)."
+   "answer": 2,
+   "explanation": "41 days later gives Thursday (41 mod 7 = 6).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01273",
-   "q": "A person walks 9 km north and then 10 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 9 km north and then 10 km east. What is the straight line distance from the starting point?",
+   "options": [
     "1 km",
     "14.45 km",
     "18 km",
     "13.45 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(9^2 + 10^2) = 13.45 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(9^2 + 10^2) = 13.45 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01274",
-   "q": "What is the angle between the hour and minute hands at 4:30?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 4:30?",
+   "options": [
     "315 degrees",
     "45 degrees",
     "60 degrees",
     "15 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 45 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 45 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01275",
-   "q": "Find the next number in the series: 4, 7, 10, 13, 16, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 7, 10, 13, 16, ?",
+   "options": [
     "22",
     "19",
     "16",
     "20"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 19."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 19.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01276",
-   "q": "Find the next number in the series: 4, 8, 16, 32, 64, 128, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 8, 16, 32, 64, 128, ?",
+   "options": [
     "255",
     "256",
     "248",
     "512"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 256."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 256.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01277",
-   "q": "Find the next number in the series: 64, 81, 100, 121, 144, 169, ?",
-   "o": [
+   "question": "Find the next number in the series: 64, 81, 100, 121, 144, 169, ?",
+   "options": [
     "196",
     "195",
     "392",
     "204"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 196."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 196.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01278",
-   "q": "Find the next number in the series: 9, 19, 34, 54, 79, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 19, 34, 54, 79, ?",
+   "options": [
     "109",
     "114",
     "119",
     "115"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 114."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 114.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01279",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "49",
     "4",
     "9",
     "122"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "9 is a perfect square."
+   "answer": 2,
+   "explanation": "9 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01280",
-   "q": "If today is Sunday, what day will it be after 38 days?",
-   "o": [
+   "question": "If today is Sunday, what day will it be after 38 days?",
+   "options": [
     "Wednesday",
     "Tuesday",
     "Monday",
     "Friday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "38 days later gives Wednesday (38 mod 7 = 3)."
+   "answer": 0,
+   "explanation": "38 days later gives Wednesday (38 mod 7 = 3).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01281",
-   "q": "A person walks 3 km north and then 2 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 3 km north and then 2 km east. What is the straight line distance from the starting point?",
+   "options": [
     "7.21 km",
     "4.61 km",
     "3.61 km",
     "1 km"
    ],
-   "a": 2,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(3^2 + 2^2) = 3.61 km."
+   "answer": 2,
+   "explanation": "Distance = sqrt(3^2 + 2^2) = 3.61 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01282",
-   "q": "What is the angle between the hour and minute hands at 9:50?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 9:50?",
+   "options": [
     "-25 degrees",
     "355 degrees",
     "35 degrees",
     "5 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 5 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01283",
-   "q": "Two books and three pens cost 24 rupees. If a book costs 6 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 24 rupees. If a book costs 6 rupees, what is the cost of one pen?",
+   "options": [
     "4 rupees",
     "8 rupees",
     "4.8 rupees",
     "3 rupees"
    ],
-   "a": 0,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 6 = 12, so 3 pens cost 12 and one pen costs 4 rupees."
+   "answer": 0,
+   "explanation": "2 x 6 = 12, so 3 pens cost 12 and one pen costs 4 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01284",
-   "q": "Find the next number in the series: 3, 5, 7, 9, 11, 13, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 5, 7, 9, 11, 13, ?",
+   "options": [
     "30",
     "15",
     "13",
     "14"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 15."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 15.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01285",
-   "q": "Find the next number in the series: 4, 8, 16, 32, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 8, 16, 32, 64, ?",
+   "options": [
     "128",
     "127",
     "129",
     "256"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 128."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 128.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01286",
-   "q": "Find the next number in the series: 49, 64, 81, 100, 121, ?",
-   "o": [
+   "question": "Find the next number in the series: 49, 64, 81, 100, 121, ?",
+   "options": [
     "143",
     "146",
     "145",
     "144"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 144."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 144.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01287",
-   "q": "Find the next number in the series: 8, 18, 33, 53, 78, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 18, 33, 53, 78, ?",
+   "options": [
     "108",
     "226",
     "113",
     "112"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 113."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 113.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01288",
-   "q": "In a code language each letter is shifted 5 place(s) forward. How is DOG written?",
-   "o": [
+   "question": "In a code language each letter is shifted 5 place(s) forward. How is DOG written?",
+   "options": [
     "FQI",
     "ITL",
     "HSK",
     "GRJ"
    ],
-   "a": 1,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of DOG by 5 gives ITL."
+   "answer": 1,
+   "explanation": "Shifting each letter of DOG by 5 gives ITL.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01289",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "64",
     "4",
     "17",
     "81"
    ],
-   "a": 3,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "81 is a perfect square."
+   "answer": 3,
+   "explanation": "81 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01290",
-   "q": "If today is Monday, what day will it be after 26 days?",
-   "o": [
+   "question": "If today is Monday, what day will it be after 26 days?",
+   "options": [
     "Wednesday",
     "Thursday",
     "Saturday",
     "Monday"
    ],
-   "a": 2,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "26 days later gives Saturday (26 mod 7 = 5)."
+   "answer": 2,
+   "explanation": "26 days later gives Saturday (26 mod 7 = 5).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01291",
-   "q": "A person walks 4 km north and then 8 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 4 km north and then 8 km east. What is the straight line distance from the starting point?",
+   "options": [
     "8.94 km",
     "8 km",
     "9.94 km",
     "4 km"
    ],
-   "a": 0,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(4^2 + 8^2) = 8.94 km."
+   "answer": 0,
+   "explanation": "Distance = sqrt(4^2 + 8^2) = 8.94 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01292",
-   "q": "What is the angle between the hour and minute hands at 10:55?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 10:55?",
+   "options": [
     "2.5 degrees",
     "1.25 degrees",
     "32.5 degrees",
     "357.5 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 2.5 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 2.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01293",
-   "q": "Two books and three pens cost 23 rupees. If a book costs 7 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 23 rupees. If a book costs 7 rupees, what is the cost of one pen?",
+   "options": [
     "6 rupees",
     "2 rupees",
     "3 rupees",
     "4.6 rupees"
    ],
-   "a": 2,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 7 = 14, so 3 pens cost 9 and one pen costs 3 rupees."
+   "answer": 2,
+   "explanation": "2 x 7 = 14, so 3 pens cost 9 and one pen costs 3 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01294",
-   "q": "Find the next number in the series: 3, 9, 15, 21, 27, 33, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 9, 15, 21, 27, 33, ?",
+   "options": [
     "45",
     "78",
     "39",
     "38"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 39."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 39.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01295",
-   "q": "Find the next number in the series: 81, 100, 121, 144, 169, ?",
-   "o": [
+   "question": "Find the next number in the series: 81, 100, 121, 144, 169, ?",
+   "options": [
     "190",
     "202",
     "196",
     "197"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 196."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 196.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01296",
-   "q": "Find the next number in the series: 64, 125, 216, 343, 512, ?",
-   "o": [
+   "question": "Find the next number in the series: 64, 125, 216, 343, 512, ?",
+   "options": [
     "728",
     "730",
     "1458",
     "729"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 729."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 729.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01297",
-   "q": "Find the next number in the series: 3, 17, 38, 66, 101, 143, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 17, 38, 66, 101, 143, ?",
+   "options": [
     "198",
     "200",
     "206",
     "199"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 199."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 199.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01298",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "100",
     "16",
     "144",
     "36"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "144 is a perfect square."
+   "answer": 2,
+   "explanation": "144 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01299",
-   "q": "A person walks 12 km north and then 4 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 12 km north and then 4 km east. What is the straight line distance from the starting point?",
+   "options": [
     "12.65 km",
     "24 km",
     "13.65 km",
     "25.3 km"
    ],
-   "a": 0,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(12^2 + 4^2) = 12.65 km."
+   "answer": 0,
+   "explanation": "Distance = sqrt(12^2 + 4^2) = 12.65 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01300",
-   "q": "What is the angle between the hour and minute hands at 5:20?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 5:20?",
+   "options": [
     "10 degrees",
     "40 degrees",
     "55 degrees",
     "70 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 40 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 40 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01301",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "70",
     "69",
     "74",
     "73"
    ],
-   "a": 1,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 1,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01302",
-   "q": "Find the next number in the series: 3, 12, 21, 30, 39, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 12, 21, 30, 39, ?",
+   "options": [
     "96",
     "39",
     "57",
     "48"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 48."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 48.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01303",
-   "q": "Find the next number in the series: 9, 18, 36, 72, 144, 288, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 18, 36, 72, 144, 288, ?",
+   "options": [
     "577",
     "575",
     "576",
     "1152"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 576."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 576.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01304",
-   "q": "Find the next number in the series: 49, 64, 81, 100, 121, 144, ?",
-   "o": [
+   "question": "Find the next number in the series: 49, 64, 81, 100, 121, 144, ?",
+   "options": [
     "338",
     "168",
     "169",
     "171"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 169."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 169.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01305",
-   "q": "Find the next number in the series: 27, 64, 125, 216, 343, ?",
-   "o": [
+   "question": "Find the next number in the series: 27, 64, 125, 216, 343, ?",
+   "options": [
     "515",
     "511",
     "513",
     "512"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 512."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 512.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01306",
-   "q": "Find the next number in the series: 6, 22, 46, 78, 118, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 22, 46, 78, 118, ?",
+   "options": [
     "166",
     "175",
     "348",
     "174"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 174."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 174.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01307",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "4",
     "82",
     "25",
     "49"
    ],
-   "a": 0,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "4 is a perfect square."
+   "answer": 0,
+   "explanation": "4 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01308",
-   "q": "A person walks 6 km north and then 6 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 6 km north and then 6 km east. What is the straight line distance from the starting point?",
+   "options": [
     "0 km",
     "8.49 km",
     "9.49 km",
     "16.97 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(6^2 + 6^2) = 8.49 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(6^2 + 6^2) = 8.49 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01309",
-   "q": "Find the next number in the series: 6, 10, 14, 18, 22, 26, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 10, 14, 18, 22, 26, ?",
+   "options": [
     "29",
     "34",
     "60",
     "30"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 30."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 30.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01310",
-   "q": "Find the next number in the series: 4, 8, 16, 32, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 8, 16, 32, 64, ?",
+   "options": [
     "123",
     "129",
     "128",
     "127"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 128."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 128.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01311",
-   "q": "Find the next number in the series: 343, 512, 729, 1000, 1331, 1728, ?",
-   "o": [
+   "question": "Find the next number in the series: 343, 512, 729, 1000, 1331, 1728, ?",
+   "options": [
     "2190",
     "4394",
     "2197",
     "2196"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2197."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 2197.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01312",
-   "q": "Find the next number in the series: 5, 15, 30, 50, 75, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 15, 30, 50, 75, ?",
+   "options": [
     "109",
     "115",
     "105",
     "110"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 110."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 110.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01313",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "82",
     "4",
     "25",
     "122"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "25 is a perfect square."
+   "answer": 2,
+   "explanation": "25 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01314",
-   "q": "If today is Monday, what day will it be after 67 days?",
-   "o": [
+   "question": "If today is Monday, what day will it be after 67 days?",
+   "options": [
     "Tuesday",
     "Wednesday",
     "Monday",
     "Friday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "67 days later gives Friday (67 mod 7 = 4)."
+   "answer": 3,
+   "explanation": "67 days later gives Friday (67 mod 7 = 4).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01315",
-   "q": "A person walks 6 km north and then 7 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 6 km north and then 7 km east. What is the straight line distance from the starting point?",
+   "options": [
     "18.44 km",
     "10.22 km",
     "12 km",
     "9.22 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(6^2 + 7^2) = 9.22 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(6^2 + 7^2) = 9.22 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01316",
-   "q": "What is the angle between the hour and minute hands at 6:55?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 6:55?",
+   "options": [
     "152.5 degrees",
     "61.25 degrees",
     "122.5 degrees",
     "92.5 degrees"
    ],
-   "a": 2,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 122.5 degrees."
+   "answer": 2,
+   "explanation": "Angle = |30H - 5.5M| = 122.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01317",
-   "q": "Two books and three pens cost 26 rupees. If a book costs 4 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 26 rupees. If a book costs 4 rupees, what is the cost of one pen?",
+   "options": [
     "7 rupees",
     "5 rupees",
     "5.2 rupees",
     "6 rupees"
    ],
-   "a": 3,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 4 = 8, so 3 pens cost 18 and one pen costs 6 rupees."
+   "answer": 3,
+   "explanation": "2 x 4 = 8, so 3 pens cost 18 and one pen costs 6 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01318",
-   "q": "Find the next number in the series: 3, 7, 11, 15, 19, 23, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 7, 11, 15, 19, 23, ?",
+   "options": [
     "27",
     "28",
     "54",
     "23"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 27."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 27.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01319",
-   "q": "Find the next number in the series: 49, 64, 81, 100, 121, 144, ?",
-   "o": [
+   "question": "Find the next number in the series: 49, 64, 81, 100, 121, 144, ?",
+   "options": [
     "170",
     "338",
     "178",
     "169"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 169."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 169.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01320",
-   "q": "Find the next number in the series: 64, 125, 216, 343, 512, 729, ?",
-   "o": [
+   "question": "Find the next number in the series: 64, 125, 216, 343, 512, 729, ?",
+   "options": [
     "992",
     "1008",
     "2000",
     "1000"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1000."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 1000.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01321",
-   "q": "Find the next number in the series: 6, 10, 16, 24, 34, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 10, 16, 24, 34, ?",
+   "options": [
     "48",
     "96",
     "50",
     "47"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 48."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 48.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01322",
-   "q": "In a code language each letter is shifted 1 place(s) forward. How is JAR written?",
-   "o": [
+   "question": "In a code language each letter is shifted 1 place(s) forward. How is JAR written?",
+   "options": [
     "LCT",
     "NEV",
     "MDU",
     "KBS"
    ],
-   "a": 3,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of JAR by 1 gives KBS."
+   "answer": 3,
+   "explanation": "Shifting each letter of JAR by 1 gives KBS.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01323",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "82",
     "26",
     "49",
     "16"
    ],
-   "a": 3,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "16 is a perfect square."
+   "answer": 3,
+   "explanation": "16 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01324",
-   "q": "If today is Monday, what day will it be after 29 days?",
-   "o": [
+   "question": "If today is Monday, what day will it be after 29 days?",
+   "options": [
     "Monday",
     "Wednesday",
     "Friday",
     "Tuesday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "29 days later gives Tuesday (29 mod 7 = 1)."
+   "answer": 3,
+   "explanation": "29 days later gives Tuesday (29 mod 7 = 1).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01325",
-   "q": "A person walks 7 km north and then 9 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 7 km north and then 9 km east. What is the straight line distance from the starting point?",
+   "options": [
     "2 km",
     "16 km",
     "12.4 km",
     "11.4 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(7^2 + 9^2) = 11.4 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(7^2 + 9^2) = 11.4 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01326",
-   "q": "What is the angle between the hour and minute hands at 6:45?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 6:45?",
+   "options": [
     "97.5 degrees",
     "37.5 degrees",
     "292.5 degrees",
     "67.5 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 67.5 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 67.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01327",
-   "q": "Find the next number in the series: 7, 16, 25, 34, 43, 52, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 16, 25, 34, 43, 52, ?",
+   "options": [
     "122",
     "60",
     "61",
     "62"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 61."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 61.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01328",
-   "q": "Find the next number in the series: 7, 14, 28, 56, 112, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 14, 28, 56, 112, ?",
+   "options": [
     "448",
     "224",
     "231",
     "217"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 224."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 224.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01329",
-   "q": "Find the next number in the series: 25, 36, 49, 64, 81, ?",
-   "o": [
+   "question": "Find the next number in the series: 25, 36, 49, 64, 81, ?",
+   "options": [
     "100",
     "93",
     "99",
     "101"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 100."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 100.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01330",
-   "q": "Find the next number in the series: 5, 11, 20, 32, 47, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 11, 20, 32, 47, ?",
+   "options": [
     "65",
     "136",
     "68",
     "67"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 68."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 68.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01331",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "82",
     "16",
     "50",
     "26"
    ],
-   "a": 1,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "16 is a perfect square."
+   "answer": 1,
+   "explanation": "16 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01332",
-   "q": "If today is Wednesday, what day will it be after 32 days?",
-   "o": [
+   "question": "If today is Wednesday, what day will it be after 32 days?",
+   "options": [
     "Sunday",
     "Monday",
     "Wednesday",
     "Tuesday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "32 days later gives Sunday (32 mod 7 = 4)."
+   "answer": 0,
+   "explanation": "32 days later gives Sunday (32 mod 7 = 4).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01333",
-   "q": "A person walks 8 km north and then 7 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 8 km north and then 7 km east. What is the straight line distance from the starting point?",
+   "options": [
     "11.63 km",
     "16 km",
     "1 km",
     "10.63 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(8^2 + 7^2) = 10.63 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(8^2 + 7^2) = 10.63 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01334",
-   "q": "What is the angle between the hour and minute hands at 4:30?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 4:30?",
+   "options": [
     "15 degrees",
     "45 degrees",
     "22.5 degrees",
     "315 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 45 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 45 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01335",
-   "q": "Find the next number in the series: 5, 8, 11, 14, 17, 20, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 8, 11, 14, 17, 20, ?",
+   "options": [
     "22",
     "24",
     "23",
     "26"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 23."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 23.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01336",
-   "q": "Find the next number in the series: 25, 36, 49, 64, 81, 100, ?",
-   "o": [
+   "question": "Find the next number in the series: 25, 36, 49, 64, 81, 100, ?",
+   "options": [
     "119",
     "122",
     "242",
     "121"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 121."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 121.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01337",
-   "q": "Find the next number in the series: 125, 216, 343, 512, 729, 1000, ?",
-   "o": [
+   "question": "Find the next number in the series: 125, 216, 343, 512, 729, 1000, ?",
+   "options": [
     "1330",
     "1331",
     "1337",
     "2662"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1331."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 1331.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01338",
-   "q": "Find the next number in the series: 2, 12, 27, 47, 72, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 12, 27, 47, 72, ?",
+   "options": [
     "112",
     "107",
     "102",
     "214"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 107."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 107.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01339",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "9",
     "25",
     "26",
     "5"
    ],
-   "a": 0,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "9 is a perfect square."
+   "answer": 0,
+   "explanation": "9 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01340",
-   "q": "If today is Thursday, what day will it be after 19 days?",
-   "o": [
+   "question": "If today is Thursday, what day will it be after 19 days?",
+   "options": [
     "Tuesday",
     "Friday",
     "Wednesday",
     "Thursday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "19 days later gives Tuesday (19 mod 7 = 5)."
+   "answer": 0,
+   "explanation": "19 days later gives Tuesday (19 mod 7 = 5).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01341",
-   "q": "A person walks 12 km north and then 9 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 12 km north and then 9 km east. What is the straight line distance from the starting point?",
+   "options": [
     "21 km",
     "30 km",
     "24 km",
     "15 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(12^2 + 9^2) = 15 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(12^2 + 9^2) = 15 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01342",
-   "q": "What is the angle between the hour and minute hands at 4:30?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 4:30?",
+   "options": [
     "60 degrees",
     "45 degrees",
     "315 degrees",
     "75 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 45 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 45 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01343",
-   "q": "Find the next number in the series: 5, 11, 17, 23, 29, 35, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 11, 17, 23, 29, 35, ?",
+   "options": [
     "82",
     "41",
     "35",
     "40"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 41."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 41.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01344",
-   "q": "Find the next number in the series: 8, 16, 32, 64, 128, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 16, 32, 64, 128, ?",
+   "options": [
     "512",
     "263",
     "249",
     "256"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 256."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 256.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01345",
-   "q": "Find the next number in the series: 81, 100, 121, 144, 169, 196, ?",
-   "o": [
+   "question": "Find the next number in the series: 81, 100, 121, 144, 169, 196, ?",
+   "options": [
     "233",
     "225",
     "217",
     "450"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 225."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 225.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01346",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "4",
     "82",
     "9",
     "81"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "9 is a perfect square."
+   "answer": 2,
+   "explanation": "9 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01347",
-   "q": "If today is Saturday, what day will it be after 57 days?",
-   "o": [
+   "question": "If today is Saturday, what day will it be after 57 days?",
+   "options": [
     "Monday",
     "Thursday",
     "Tuesday",
     "Sunday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "57 days later gives Sunday (57 mod 7 = 1)."
+   "answer": 3,
+   "explanation": "57 days later gives Sunday (57 mod 7 = 1).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01348",
-   "q": "A person walks 3 km north and then 8 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 3 km north and then 8 km east. What is the straight line distance from the starting point?",
+   "options": [
     "11 km",
     "5 km",
     "6 km",
     "8.54 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(3^2 + 8^2) = 8.54 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(3^2 + 8^2) = 8.54 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01349",
-   "q": "What is the angle between the hour and minute hands at 12:30?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 12:30?",
+   "options": [
     "195 degrees",
     "180 degrees",
     "165 degrees",
     "135 degrees"
    ],
-   "a": 2,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 165 degrees."
+   "answer": 2,
+   "explanation": "Angle = |30H - 5.5M| = 165 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01350",
-   "q": "Find the next number in the series: 9, 17, 25, 33, 41, 49, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 17, 25, 33, 41, 49, ?",
+   "options": [
     "49",
     "65",
     "57",
     "56"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 57."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 57.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01351",
-   "q": "Find the next number in the series: 9, 18, 36, 72, 144, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 18, 36, 72, 144, ?",
+   "options": [
     "282",
     "576",
     "289",
     "288"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 288."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 288.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01352",
-   "q": "Find the next number in the series: 25, 36, 49, 64, 81, 100, ?",
-   "o": [
+   "question": "Find the next number in the series: 25, 36, 49, 64, 81, 100, ?",
+   "options": [
     "120",
     "242",
     "121",
     "129"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 121."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 121.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01353",
-   "q": "Find the next number in the series: 125, 216, 343, 512, 729, 1000, ?",
-   "o": [
+   "question": "Find the next number in the series: 125, 216, 343, 512, 729, 1000, ?",
+   "options": [
     "1331",
     "2662",
     "1330",
     "1332"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1331."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 1331.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01354",
-   "q": "Find the next number in the series: 8, 12, 18, 26, 36, 48, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 12, 18, 26, 36, 48, ?",
+   "options": [
     "62",
     "64",
     "65",
     "128"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 64."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 64.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01355",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "5",
     "144",
     "100",
     "16"
    ],
-   "a": 1,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "144 is a perfect square."
+   "answer": 1,
+   "explanation": "144 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01356",
-   "q": "If today is Monday, what day will it be after 66 days?",
-   "o": [
+   "question": "If today is Monday, what day will it be after 66 days?",
+   "options": [
     "Tuesday",
     "Wednesday",
     "Thursday",
     "Monday"
    ],
-   "a": 2,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "66 days later gives Thursday (66 mod 7 = 3)."
+   "answer": 2,
+   "explanation": "66 days later gives Thursday (66 mod 7 = 3).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01357",
-   "q": "A person walks 4 km north and then 6 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 4 km north and then 6 km east. What is the straight line distance from the starting point?",
+   "options": [
     "2 km",
     "10 km",
     "8.21 km",
     "7.21 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(4^2 + 6^2) = 7.21 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(4^2 + 6^2) = 7.21 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01358",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "52",
     "55",
     "56",
     "51"
    ],
-   "a": 3,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 3,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01359",
-   "q": "Find the next number in the series: 3, 10, 17, 24, 31, 38, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 10, 17, 24, 31, 38, ?",
+   "options": [
     "46",
     "44",
     "90",
     "45"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 45."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 45.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01360",
-   "q": "Find the next number in the series: 3, 6, 12, 24, 48, 96, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 6, 12, 24, 48, 96, ?",
+   "options": [
     "196",
     "193",
     "192",
     "191"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 192."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 192.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01361",
-   "q": "Find the next number in the series: 9, 16, 25, 36, 49, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 16, 25, 36, 49, ?",
+   "options": [
     "128",
     "64",
     "57",
     "71"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 64."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 64.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01362",
-   "q": "Find the next number in the series: 64, 125, 216, 343, 512, 729, ?",
-   "o": [
+   "question": "Find the next number in the series: 64, 125, 216, 343, 512, 729, ?",
+   "options": [
     "1000",
     "2000",
     "999",
     "1001"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1000."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 1000.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01363",
-   "q": "Find the next number in the series: 8, 18, 33, 53, 78, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 18, 33, 53, 78, ?",
+   "options": [
     "113",
     "112",
     "226",
     "114"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 113."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 113.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01364",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "16",
     "25",
     "50",
     "49"
    ],
-   "a": 0,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "16 is a perfect square."
+   "answer": 0,
+   "explanation": "16 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01365",
-   "q": "If today is Friday, what day will it be after 66 days?",
-   "o": [
+   "question": "If today is Friday, what day will it be after 66 days?",
+   "options": [
     "Wednesday",
     "Thursday",
     "Monday",
     "Tuesday"
    ],
-   "a": 2,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "66 days later gives Monday (66 mod 7 = 3)."
+   "answer": 2,
+   "explanation": "66 days later gives Monday (66 mod 7 = 3).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01366",
-   "q": "What is the angle between the hour and minute hands at 9:45?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 9:45?",
+   "options": [
     "-7.5 degrees",
     "37.5 degrees",
     "22.5 degrees",
     "337.5 degrees"
    ],
-   "a": 2,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 22.5 degrees."
+   "answer": 2,
+   "explanation": "Angle = |30H - 5.5M| = 22.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01367",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "44",
     "42",
     "46",
     "47"
    ],
-   "a": 1,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 1,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01368",
-   "q": "Two books and three pens cost 24 rupees. If a book costs 3 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 24 rupees. If a book costs 3 rupees, what is the cost of one pen?",
+   "options": [
     "12 rupees",
     "4.8 rupees",
     "6 rupees",
     "5 rupees"
    ],
-   "a": 2,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 3 = 6, so 3 pens cost 18 and one pen costs 6 rupees."
+   "answer": 2,
+   "explanation": "2 x 3 = 6, so 3 pens cost 18 and one pen costs 6 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01369",
-   "q": "Find the next number in the series: 4, 6, 8, 10, 12, 14, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 6, 8, 10, 12, 14, ?",
+   "options": [
     "18",
     "15",
     "14",
     "16"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 16."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 16.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01370",
-   "q": "Find the next number in the series: 8, 16, 32, 64, 128, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 16, 32, 64, 128, ?",
+   "options": [
     "256",
     "255",
     "260",
     "512"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 256."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 256.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01371",
-   "q": "Find the next number in the series: 36, 49, 64, 81, 100, 121, ?",
-   "o": [
+   "question": "Find the next number in the series: 36, 49, 64, 81, 100, 121, ?",
+   "options": [
     "148",
     "288",
     "140",
     "144"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 144."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 144.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01372",
-   "q": "Find the next number in the series: 64, 125, 216, 343, 512, ?",
-   "o": [
+   "question": "Find the next number in the series: 64, 125, 216, 343, 512, ?",
+   "options": [
     "729",
     "730",
     "728",
     "725"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 729."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 729.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01373",
-   "q": "Find the next number in the series: 9, 27, 54, 90, 135, 189, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 27, 54, 90, 135, 189, ?",
+   "options": [
     "270",
     "261",
     "252",
     "260"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 261."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 261.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01374",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "36",
     "16",
     "5",
     "17"
    ],
-   "a": 0,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "36 is a perfect square."
+   "answer": 0,
+   "explanation": "36 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01375",
-   "q": "If today is Thursday, what day will it be after 51 days?",
-   "o": [
+   "question": "If today is Thursday, what day will it be after 51 days?",
+   "options": [
     "Thursday",
     "Tuesday",
     "Monday",
     "Saturday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "51 days later gives Saturday (51 mod 7 = 2)."
+   "answer": 3,
+   "explanation": "51 days later gives Saturday (51 mod 7 = 2).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01376",
-   "q": "A person walks 9 km north and then 6 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 9 km north and then 6 km east. What is the straight line distance from the starting point?",
+   "options": [
     "21.63 km",
     "10.82 km",
     "3 km",
     "18 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(9^2 + 6^2) = 10.82 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(9^2 + 6^2) = 10.82 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01377",
-   "q": "What is the angle between the hour and minute hands at 7:10?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 7:10?",
+   "options": [
     "155 degrees",
     "185 degrees",
     "77.5 degrees",
     "205 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 155 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 155 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01378",
-   "q": "Find the next number in the series: 2, 9, 16, 23, 30, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 9, 16, 23, 30, ?",
+   "options": [
     "30",
     "74",
     "37",
     "44"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 37."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 37.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01379",
-   "q": "Find the next number in the series: 2, 4, 8, 16, 32, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 4, 8, 16, 32, ?",
+   "options": [
     "64",
     "60",
     "63",
     "68"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 64."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 64.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01380",
-   "q": "Find the next number in the series: 25, 36, 49, 64, 81, ?",
-   "o": [
+   "question": "Find the next number in the series: 25, 36, 49, 64, 81, ?",
+   "options": [
     "100",
     "104",
     "200",
     "99"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 100."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 100.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01381",
-   "q": "Find the next number in the series: 2, 6, 12, 20, 30, 42, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 6, 12, 20, 30, 42, ?",
+   "options": [
     "116",
     "59",
     "56",
     "58"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 58."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 58.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01382",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "100",
     "65",
     "36",
     "144"
    ],
-   "a": 3,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "144 is a perfect square."
+   "answer": 3,
+   "explanation": "144 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01383",
-   "q": "If today is Friday, what day will it be after 12 days?",
-   "o": [
+   "question": "If today is Friday, what day will it be after 12 days?",
+   "options": [
     "Monday",
     "Friday",
     "Tuesday",
     "Wednesday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "12 days later gives Wednesday (12 mod 7 = 5)."
+   "answer": 3,
+   "explanation": "12 days later gives Wednesday (12 mod 7 = 5).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01384",
-   "q": "A person walks 6 km north and then 9 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 6 km north and then 9 km east. What is the straight line distance from the starting point?",
+   "options": [
     "21.63 km",
     "12 km",
     "11.82 km",
     "10.82 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(6^2 + 9^2) = 10.82 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(6^2 + 9^2) = 10.82 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01385",
-   "q": "What is the angle between the hour and minute hands at 2:20?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 2:20?",
+   "options": [
     "20 degrees",
     "25 degrees",
     "50 degrees",
     "65 degrees"
    ],
-   "a": 2,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 50 degrees."
+   "answer": 2,
+   "explanation": "Angle = |30H - 5.5M| = 50 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01386",
-   "q": "Find the next number in the series: 9, 18, 36, 72, 144, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 18, 36, 72, 144, ?",
+   "options": [
     "285",
     "576",
     "288",
     "291"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 288."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 288.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01387",
-   "q": "Find the next number in the series: 81, 100, 121, 144, 169, ?",
-   "o": [
+   "question": "Find the next number in the series: 81, 100, 121, 144, 169, ?",
+   "options": [
     "189",
     "195",
     "196",
     "392"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 196."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 196.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01388",
-   "q": "Find the next number in the series: 343, 512, 729, 1000, 1331, 1728, ?",
-   "o": [
+   "question": "Find the next number in the series: 343, 512, 729, 1000, 1331, 1728, ?",
+   "options": [
     "2189",
     "2196",
     "2197",
     "2198"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2197."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 2197.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01389",
-   "q": "Find the next number in the series: 2, 14, 32, 56, 86, 122, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 14, 32, 56, 86, 122, ?",
+   "options": [
     "169",
     "176",
     "170",
     "164"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 170."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 170.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01390",
-   "q": "In a code language each letter is shifted 2 place(s) forward. How is SUN written?",
-   "o": [
+   "question": "In a code language each letter is shifted 2 place(s) forward. How is SUN written?",
+   "options": [
     "UWP",
     "WYR",
     "TVO",
     "VXQ"
    ],
-   "a": 0,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of SUN by 2 gives UWP."
+   "answer": 0,
+   "explanation": "Shifting each letter of SUN by 2 gives UWP.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01391",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "4",
     "121",
     "10",
     "50"
    ],
-   "a": 0,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "4 is a perfect square."
+   "answer": 0,
+   "explanation": "4 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01392",
-   "q": "If today is Saturday, what day will it be after 23 days?",
-   "o": [
+   "question": "If today is Saturday, what day will it be after 23 days?",
+   "options": [
     "Tuesday",
     "Monday",
     "Friday",
     "Wednesday"
    ],
-   "a": 1,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "23 days later gives Monday (23 mod 7 = 2)."
+   "answer": 1,
+   "explanation": "23 days later gives Monday (23 mod 7 = 2).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01393",
-   "q": "A person walks 4 km north and then 2 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 4 km north and then 2 km east. What is the straight line distance from the starting point?",
+   "options": [
     "6 km",
     "8.94 km",
     "5.47 km",
     "4.47 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(4^2 + 2^2) = 4.47 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(4^2 + 2^2) = 4.47 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01394",
-   "q": "What is the angle between the hour and minute hands at 10:00?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 10:00?",
+   "options": [
     "30 degrees",
     "60 degrees",
     "90 degrees",
     "300 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 60 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 60 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01395",
-   "q": "Find the next number in the series: 4, 13, 22, 31, 40, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 13, 22, 31, 40, ?",
+   "options": [
     "50",
     "98",
     "49",
     "48"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 49."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 49.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01396",
-   "q": "Find the next number in the series: 7, 14, 28, 56, 112, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 14, 28, 56, 112, ?",
+   "options": [
     "448",
     "223",
     "215",
     "224"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 224."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 224.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01397",
-   "q": "Find the next number in the series: 49, 64, 81, 100, 121, 144, ?",
-   "o": [
+   "question": "Find the next number in the series: 49, 64, 81, 100, 121, 144, ?",
+   "options": [
     "168",
     "169",
     "170",
     "338"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 169."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 169.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01398",
-   "q": "Find the next number in the series: 64, 125, 216, 343, 512, 729, ?",
-   "o": [
+   "question": "Find the next number in the series: 64, 125, 216, 343, 512, 729, ?",
+   "options": [
     "1006",
     "994",
     "999",
     "1000"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1000."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 1000.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01399",
-   "q": "Find the next number in the series: 9, 25, 49, 81, 121, 169, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 25, 49, 81, 121, 169, ?",
+   "options": [
     "466",
     "232",
     "234",
     "233"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 233."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 233.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01400",
-   "q": "If today is Saturday, what day will it be after 16 days?",
-   "o": [
+   "question": "If today is Saturday, what day will it be after 16 days?",
+   "options": [
     "Thursday",
     "Monday",
     "Tuesday",
     "Wednesday"
    ],
-   "a": 1,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "16 days later gives Monday (16 mod 7 = 2)."
+   "answer": 1,
+   "explanation": "16 days later gives Monday (16 mod 7 = 2).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01401",
-   "q": "A person walks 9 km north and then 3 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 9 km north and then 3 km east. What is the straight line distance from the starting point?",
+   "options": [
     "9.49 km",
     "18 km",
     "10.49 km",
     "12 km"
    ],
-   "a": 0,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(9^2 + 3^2) = 9.49 km."
+   "answer": 0,
+   "explanation": "Distance = sqrt(9^2 + 3^2) = 9.49 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01402",
-   "q": "What is the angle between the hour and minute hands at 2:10?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 2:10?",
+   "options": [
     "5 degrees",
     "2.5 degrees",
     "35 degrees",
     "-25 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 5 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01403",
-   "q": "Two books and three pens cost 26 rupees. If a book costs 4 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 26 rupees. If a book costs 4 rupees, what is the cost of one pen?",
+   "options": [
     "6 rupees",
     "12 rupees",
     "5 rupees",
     "7 rupees"
    ],
-   "a": 0,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 4 = 8, so 3 pens cost 18 and one pen costs 6 rupees."
+   "answer": 0,
+   "explanation": "2 x 4 = 8, so 3 pens cost 18 and one pen costs 6 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01404",
-   "q": "Find the next number in the series: 6, 11, 16, 21, 26, 31, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 11, 16, 21, 26, 31, ?",
+   "options": [
     "36",
     "35",
     "31",
     "37"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 36."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 36.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01405",
-   "q": "Find the next number in the series: 3, 6, 12, 24, 48, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 6, 12, 24, 48, ?",
+   "options": [
     "104",
     "192",
     "96",
     "97"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 96."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 96.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01406",
-   "q": "Find the next number in the series: 16, 25, 36, 49, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 16, 25, 36, 49, 64, ?",
+   "options": [
     "81",
     "162",
     "72",
     "90"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 81."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 81.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01407",
-   "q": "Find the next number in the series: 64, 125, 216, 343, 512, 729, ?",
-   "o": [
+   "question": "Find the next number in the series: 64, 125, 216, 343, 512, 729, ?",
+   "options": [
     "1000",
     "1002",
     "999",
     "998"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1000."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 1000.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01408",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "16",
     "82",
     "50",
     "81"
    ],
-   "a": 0,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "16 is a perfect square."
+   "answer": 0,
+   "explanation": "16 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01409",
-   "q": "If today is Sunday, what day will it be after 34 days?",
-   "o": [
+   "question": "If today is Sunday, what day will it be after 34 days?",
+   "options": [
     "Thursday",
     "Wednesday",
     "Saturday",
     "Monday"
    ],
-   "a": 2,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "34 days later gives Saturday (34 mod 7 = 6)."
+   "answer": 2,
+   "explanation": "34 days later gives Saturday (34 mod 7 = 6).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01410",
-   "q": "A person walks 3 km north and then 9 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 3 km north and then 9 km east. What is the straight line distance from the starting point?",
+   "options": [
     "10.49 km",
     "6 km",
     "12 km",
     "9.49 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(3^2 + 9^2) = 9.49 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(3^2 + 9^2) = 9.49 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01411",
-   "q": "What is the angle between the hour and minute hands at 12:25?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 12:25?",
+   "options": [
     "152.5 degrees",
     "137.5 degrees",
     "222.5 degrees",
     "68.75 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 137.5 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 137.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01412",
-   "q": "Find the next number in the series: 7, 10, 13, 16, 19, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 10, 13, 16, 19, ?",
+   "options": [
     "19",
     "22",
     "21",
     "25"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 22."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 22.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01413",
-   "q": "Find the next number in the series: 6, 12, 24, 48, 96, 192, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 12, 24, 48, 96, 192, ?",
+   "options": [
     "385",
     "384",
     "390",
     "378"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 384."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 384.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01414",
-   "q": "Find the next number in the series: 36, 49, 64, 81, 100, ?",
-   "o": [
+   "question": "Find the next number in the series: 36, 49, 64, 81, 100, ?",
+   "options": [
     "120",
     "121",
     "242",
     "117"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 121."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 121.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01415",
-   "q": "Find the next number in the series: 64, 125, 216, 343, 512, 729, ?",
-   "o": [
+   "question": "Find the next number in the series: 64, 125, 216, 343, 512, 729, ?",
+   "options": [
     "1001",
     "993",
     "999",
     "1000"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1000."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 1000.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01416",
-   "q": "Find the next number in the series: 2, 12, 27, 47, 72, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 12, 27, 47, 72, ?",
+   "options": [
     "108",
     "107",
     "112",
     "214"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 107."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 107.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01417",
-   "q": "If today is Sunday, what day will it be after 11 days?",
-   "o": [
+   "question": "If today is Sunday, what day will it be after 11 days?",
+   "options": [
     "Tuesday",
     "Wednesday",
     "Friday",
     "Thursday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "11 days later gives Thursday (11 mod 7 = 4)."
+   "answer": 3,
+   "explanation": "11 days later gives Thursday (11 mod 7 = 4).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01418",
-   "q": "A person walks 6 km north and then 4 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 6 km north and then 4 km east. What is the straight line distance from the starting point?",
+   "options": [
     "8.21 km",
     "10 km",
     "2 km",
     "7.21 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(6^2 + 4^2) = 7.21 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(6^2 + 4^2) = 7.21 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01419",
-   "q": "What is the angle between the hour and minute hands at 7:15?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 7:15?",
+   "options": [
     "127.5 degrees",
     "142.5 degrees",
     "63.75 degrees",
     "97.5 degrees"
    ],
-   "a": 0,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 127.5 degrees."
+   "answer": 0,
+   "explanation": "Angle = |30H - 5.5M| = 127.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01420",
-   "q": "Find the next term of the series: 1, 1, 2, 3, 5, 8, 13, ?",
-   "o": [
+   "question": "Find the next term of the series: 1, 1, 2, 3, 5, 8, 13, ?",
+   "options": [
     "21",
     "20",
     "42",
     "26"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 3,
-   "s": "generated",
-   "e": "Each term is the sum of the previous two terms, so the next term is 21."
+   "answer": 0,
+   "explanation": "Each term is the sum of the previous two terms, so the next term is 21.",
+   "topic": "Number Series",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01421",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "41",
     "43",
     "40",
     "39"
    ],
-   "a": 3,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 3,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01422",
-   "q": "Two books and three pens cost 17 rupees. If a book costs 4 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 17 rupees. If a book costs 4 rupees, what is the cost of one pen?",
+   "options": [
     "3 rupees",
     "4 rupees",
     "6 rupees",
     "3.4 rupees"
    ],
-   "a": 0,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 4 = 8, so 3 pens cost 9 and one pen costs 3 rupees."
+   "answer": 0,
+   "explanation": "2 x 4 = 8, so 3 pens cost 9 and one pen costs 3 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01423",
-   "q": "Find the next number in the series: 9, 16, 25, 36, 49, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 16, 25, 36, 49, 64, ?",
+   "options": [
     "162",
     "82",
     "81",
     "77"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 81."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 81.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01424",
-   "q": "Find the next number in the series: 343, 512, 729, 1000, 1331, ?",
-   "o": [
+   "question": "Find the next number in the series: 343, 512, 729, 1000, 1331, ?",
+   "options": [
     "1728",
     "1732",
     "3456",
     "1724"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1728."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 1728.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01425",
-   "q": "Find the next number in the series: 8, 18, 33, 53, 78, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 18, 33, 53, 78, ?",
+   "options": [
     "113",
     "226",
     "112",
     "118"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 113."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 113.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01426",
-   "q": "In a code language each letter is shifted 5 place(s) forward. How is FAN written?",
-   "o": [
+   "question": "In a code language each letter is shifted 5 place(s) forward. How is FAN written?",
+   "options": [
     "KFS",
     "JER",
     "GBO",
     "IDQ"
    ],
-   "a": 0,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of FAN by 5 gives KFS."
+   "answer": 0,
+   "explanation": "Shifting each letter of FAN by 5 gives KFS.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01427",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "100",
     "64",
     "144",
     "101"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "144 is a perfect square."
+   "answer": 2,
+   "explanation": "144 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01428",
-   "q": "If today is Wednesday, what day will it be after 54 days?",
-   "o": [
+   "question": "If today is Wednesday, what day will it be after 54 days?",
+   "options": [
     "Monday",
     "Wednesday",
     "Thursday",
     "Tuesday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "54 days later gives Monday (54 mod 7 = 5)."
+   "answer": 0,
+   "explanation": "54 days later gives Monday (54 mod 7 = 5).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01429",
-   "q": "A person walks 11 km north and then 2 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 11 km north and then 2 km east. What is the straight line distance from the starting point?",
+   "options": [
     "11.18 km",
     "13 km",
     "22 km",
     "12.18 km"
    ],
-   "a": 0,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(11^2 + 2^2) = 11.18 km."
+   "answer": 0,
+   "explanation": "Distance = sqrt(11^2 + 2^2) = 11.18 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01430",
-   "q": "What is the angle between the hour and minute hands at 4:25?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 4:25?",
+   "options": [
     "32.5 degrees",
     "8.75 degrees",
     "17.5 degrees",
     "47.5 degrees"
    ],
-   "a": 2,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 17.5 degrees."
+   "answer": 2,
+   "explanation": "Angle = |30H - 5.5M| = 17.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01431",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "75",
     "77",
     "79",
     "80"
    ],
-   "a": 0,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 0,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01432",
-   "q": "Find the next number in the series: 3, 7, 11, 15, 19, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 7, 11, 15, 19, ?",
+   "options": [
     "19",
     "24",
     "23",
     "27"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 23."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 23.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01433",
-   "q": "Find the next number in the series: 7, 14, 28, 56, 112, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 14, 28, 56, 112, ?",
+   "options": [
     "223",
     "224",
     "448",
     "228"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 224."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 224.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01434",
-   "q": "Find the next number in the series: 16, 25, 36, 49, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 16, 25, 36, 49, 64, ?",
+   "options": [
     "81",
     "79",
     "80",
     "162"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 81."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 81.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01435",
-   "q": "Find the next number in the series: 1000, 1331, 1728, 2197, 2744, 3375, ?",
-   "o": [
+   "question": "Find the next number in the series: 1000, 1331, 1728, 2197, 2744, 3375, ?",
+   "options": [
     "4095",
     "4101",
     "4091",
     "4096"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 4096."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 4096.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01436",
-   "q": "Find the next number in the series: 8, 18, 33, 53, 78, ?",
-   "o": [
+   "question": "Find the next number in the series: 8, 18, 33, 53, 78, ?",
+   "options": [
     "108",
     "113",
     "114",
     "118"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 113."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 113.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01437",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "100",
     "122",
     "37",
     "5"
    ],
-   "a": 0,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "100 is a perfect square."
+   "answer": 0,
+   "explanation": "100 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01438",
-   "q": "A person walks 11 km north and then 9 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 11 km north and then 9 km east. What is the straight line distance from the starting point?",
+   "options": [
     "22 km",
     "28.43 km",
     "2 km",
     "14.21 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(11^2 + 9^2) = 14.21 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(11^2 + 9^2) = 14.21 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01439",
-   "q": "What is the angle between the hour and minute hands at 5:05?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 5:05?",
+   "options": [
     "237.5 degrees",
     "61.25 degrees",
     "122.5 degrees",
     "92.5 degrees"
    ],
-   "a": 2,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 122.5 degrees."
+   "answer": 2,
+   "explanation": "Angle = |30H - 5.5M| = 122.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01440",
-   "q": "Two books and three pens cost 21 rupees. If a book costs 3 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 21 rupees. If a book costs 3 rupees, what is the cost of one pen?",
+   "options": [
     "6 rupees",
     "5 rupees",
     "10 rupees",
     "4 rupees"
    ],
-   "a": 1,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 3 = 6, so 3 pens cost 15 and one pen costs 5 rupees."
+   "answer": 1,
+   "explanation": "2 x 3 = 6, so 3 pens cost 15 and one pen costs 5 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01441",
-   "q": "Find the next number in the series: 2, 5, 8, 11, 14, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 5, 8, 11, 14, ?",
+   "options": [
     "17",
     "14",
     "16",
     "34"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 17."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 17.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01442",
-   "q": "Find the next number in the series: 9, 16, 25, 36, 49, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 16, 25, 36, 49, 64, ?",
+   "options": [
     "162",
     "81",
     "79",
     "83"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 81."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 81.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01443",
-   "q": "Find the next number in the series: 1000, 1331, 1728, 2197, 2744, 3375, ?",
-   "o": [
+   "question": "Find the next number in the series: 1000, 1331, 1728, 2197, 2744, 3375, ?",
+   "options": [
     "4090",
     "8192",
     "4097",
     "4096"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 4096."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 4096.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01444",
-   "q": "Find the next number in the series: 6, 22, 46, 78, 118, 166, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 22, 46, 78, 118, 166, ?",
+   "options": [
     "230",
     "460",
     "229",
     "238"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 230."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 230.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01445",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "122",
     "64",
     "36",
     "5"
    ],
-   "a": 1,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "64 is a perfect square."
+   "answer": 1,
+   "explanation": "64 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01446",
-   "q": "A person walks 8 km north and then 6 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 8 km north and then 6 km east. What is the straight line distance from the starting point?",
+   "options": [
     "10 km",
     "16 km",
     "20 km",
     "14 km"
    ],
-   "a": 0,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(8^2 + 6^2) = 10 km."
+   "answer": 0,
+   "explanation": "Distance = sqrt(8^2 + 6^2) = 10 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01447",
-   "q": "What is the angle between the hour and minute hands at 8:40?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 8:40?",
+   "options": [
     "35 degrees",
     "-10 degrees",
     "20 degrees",
     "10 degrees"
    ],
-   "a": 2,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 20 degrees."
+   "answer": 2,
+   "explanation": "Angle = |30H - 5.5M| = 20 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01448",
-   "q": "Two books and three pens cost 27 rupees. If a book costs 6 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 27 rupees. If a book costs 6 rupees, what is the cost of one pen?",
+   "options": [
     "4 rupees",
     "5.4 rupees",
     "5 rupees",
     "6 rupees"
    ],
-   "a": 2,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 6 = 12, so 3 pens cost 15 and one pen costs 5 rupees."
+   "answer": 2,
+   "explanation": "2 x 6 = 12, so 3 pens cost 15 and one pen costs 5 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01449",
-   "q": "Find the next number in the series: 2, 9, 16, 23, 30, 37, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 9, 16, 23, 30, 37, ?",
+   "options": [
     "45",
     "44",
     "88",
     "51"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 44."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 44.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01450",
-   "q": "Find the next number in the series: 6, 12, 24, 48, 96, 192, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 12, 24, 48, 96, 192, ?",
+   "options": [
     "384",
     "385",
     "377",
     "383"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 384."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 384.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01451",
-   "q": "Find the next number in the series: 64, 81, 100, 121, 144, ?",
-   "o": [
+   "question": "Find the next number in the series: 64, 81, 100, 121, 144, ?",
+   "options": [
     "168",
     "178",
     "170",
     "169"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 169."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 169.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01452",
-   "q": "Find the next number in the series: 216, 343, 512, 729, 1000, 1331, ?",
-   "o": [
+   "question": "Find the next number in the series: 216, 343, 512, 729, 1000, 1331, ?",
+   "options": [
     "1727",
     "1728",
     "3456",
     "1737"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 1728."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 1728.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01453",
-   "q": "Find the next number in the series: 6, 24, 51, 87, 132, 186, ?",
-   "o": [
+   "question": "Find the next number in the series: 6, 24, 51, 87, 132, 186, ?",
+   "options": [
     "516",
     "259",
     "258",
     "267"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 258."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 258.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01454",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "5",
     "4",
     "64",
     "37"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "64 is a perfect square."
+   "answer": 2,
+   "explanation": "64 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01455",
-   "q": "If today is Tuesday, what day will it be after 50 days?",
-   "o": [
+   "question": "If today is Tuesday, what day will it be after 50 days?",
+   "options": [
     "Wednesday",
     "Tuesday",
     "Thursday",
     "Friday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "50 days later gives Wednesday (50 mod 7 = 1)."
+   "answer": 0,
+   "explanation": "50 days later gives Wednesday (50 mod 7 = 1).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01456",
-   "q": "A person walks 5 km north and then 8 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 5 km north and then 8 km east. What is the straight line distance from the starting point?",
+   "options": [
     "10 km",
     "9.43 km",
     "13 km",
     "3 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(5^2 + 8^2) = 9.43 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(5^2 + 8^2) = 9.43 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01457",
-   "q": "What is the angle between the hour and minute hands at 10:20?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 10:20?",
+   "options": [
     "85 degrees",
     "190 degrees",
     "170 degrees",
     "185 degrees"
    ],
-   "a": 2,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 170 degrees."
+   "answer": 2,
+   "explanation": "Angle = |30H - 5.5M| = 170 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01458",
-   "q": "Find the next number in the series: 5, 8, 11, 14, 17, 20, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 8, 11, 14, 17, 20, ?",
+   "options": [
     "46",
     "23",
     "24",
     "22"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 23."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 23.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01459",
-   "q": "Find the next number in the series: 4, 9, 16, 25, 36, 49, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 9, 16, 25, 36, 49, ?",
+   "options": [
     "72",
     "63",
     "128",
     "64"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 64."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 64.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01460",
-   "q": "Find the next number in the series: 4, 10, 19, 31, 46, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 10, 19, 31, 46, 64, ?",
+   "options": [
     "88",
     "91",
     "89",
     "87"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 88."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 88.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01461",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "82",
     "36",
     "4",
     "16"
    ],
-   "a": 1,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "36 is a perfect square."
+   "answer": 1,
+   "explanation": "36 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01462",
-   "q": "If today is Monday, what day will it be after 48 days?",
-   "o": [
+   "question": "If today is Monday, what day will it be after 48 days?",
+   "options": [
     "Tuesday",
     "Wednesday",
     "Thursday",
     "Sunday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "48 days later gives Sunday (48 mod 7 = 6)."
+   "answer": 3,
+   "explanation": "48 days later gives Sunday (48 mod 7 = 6).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01463",
-   "q": "A person walks 6 km north and then 8 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 6 km north and then 8 km east. What is the straight line distance from the starting point?",
+   "options": [
     "2 km",
     "14 km",
     "10 km",
     "11 km"
    ],
-   "a": 2,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(6^2 + 8^2) = 10 km."
+   "answer": 2,
+   "explanation": "Distance = sqrt(6^2 + 8^2) = 10 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01464",
-   "q": "What is the angle between the hour and minute hands at 1:45?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 1:45?",
+   "options": [
     "157.5 degrees",
     "217.5 degrees",
     "71.25 degrees",
     "142.5 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 142.5 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 142.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01465",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "29",
     "28",
     "27",
     "32"
    ],
-   "a": 2,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 2,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01466",
-   "q": "Find the next number in the series: 7, 12, 17, 22, 27, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 12, 17, 22, 27, ?",
+   "options": [
     "27",
     "64",
     "32",
     "37"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 32."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 32.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01467",
-   "q": "Find the next number in the series: 2, 4, 8, 16, 32, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 4, 8, 16, 32, 64, ?",
+   "options": [
     "129",
     "128",
     "120",
     "127"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 128."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 128.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01468",
-   "q": "Find the next number in the series: 64, 81, 100, 121, 144, ?",
-   "o": [
+   "question": "Find the next number in the series: 64, 81, 100, 121, 144, ?",
+   "options": [
     "178",
     "160",
     "169",
     "168"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 169."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 169.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01469",
-   "q": "Find the next number in the series: 27, 64, 125, 216, 343, 512, ?",
-   "o": [
+   "question": "Find the next number in the series: 27, 64, 125, 216, 343, 512, ?",
+   "options": [
     "730",
     "729",
     "733",
     "728"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 729."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 729.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01470",
-   "q": "Find the next number in the series: 5, 15, 30, 50, 75, 105, ?",
-   "o": [
+   "question": "Find the next number in the series: 5, 15, 30, 50, 75, 105, ?",
+   "options": [
     "145",
     "150",
     "146",
     "140"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 145."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 145.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01471",
-   "q": "In a code language each letter is shifted 5 place(s) forward. How is TOP written?",
-   "o": [
+   "question": "In a code language each letter is shifted 5 place(s) forward. How is TOP written?",
+   "options": [
     "YTU",
     "UPQ",
     "XST",
     "WRS"
    ],
-   "a": 0,
-   "t": "Coding Decoding",
-   "l": 2,
-   "s": "generated",
-   "e": "Shifting each letter of TOP by 5 gives YTU."
+   "answer": 0,
+   "explanation": "Shifting each letter of TOP by 5 gives YTU.",
+   "topic": "Coding Decoding",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01472",
-   "q": "If today is Tuesday, what day will it be after 68 days?",
-   "o": [
+   "question": "If today is Tuesday, what day will it be after 68 days?",
+   "options": [
     "Monday",
     "Sunday",
     "Thursday",
     "Tuesday"
    ],
-   "a": 1,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "68 days later gives Sunday (68 mod 7 = 5)."
+   "answer": 1,
+   "explanation": "68 days later gives Sunday (68 mod 7 = 5).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01473",
-   "q": "A person walks 8 km north and then 10 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 8 km north and then 10 km east. What is the straight line distance from the starting point?",
+   "options": [
     "25.61 km",
     "12.81 km",
     "2 km",
     "18 km"
    ],
-   "a": 1,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(8^2 + 10^2) = 12.81 km."
+   "answer": 1,
+   "explanation": "Distance = sqrt(8^2 + 10^2) = 12.81 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01474",
-   "q": "What is the angle between the hour and minute hands at 4:15?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 4:15?",
+   "options": [
     "322.5 degrees",
     "52.5 degrees",
     "67.5 degrees",
     "37.5 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 37.5 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 37.5 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01475",
-   "q": "Two books and three pens cost 31 rupees. If a book costs 5 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 31 rupees. If a book costs 5 rupees, what is the cost of one pen?",
+   "options": [
     "7 rupees",
     "6 rupees",
     "6.2 rupees",
     "14 rupees"
    ],
-   "a": 0,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 5 = 10, so 3 pens cost 21 and one pen costs 7 rupees."
+   "answer": 0,
+   "explanation": "2 x 5 = 10, so 3 pens cost 21 and one pen costs 7 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01476",
-   "q": "Find the next number in the series: 3, 12, 21, 30, 39, 48, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 12, 21, 30, 39, 48, ?",
+   "options": [
     "57",
     "66",
     "56",
     "114"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 57."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 57.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01477",
-   "q": "Find the next number in the series: 3, 6, 12, 24, 48, ?",
-   "o": [
+   "question": "Find the next number in the series: 3, 6, 12, 24, 48, ?",
+   "options": [
     "96",
     "95",
     "91",
     "192"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 96."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 96.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01478",
-   "q": "Find the next number in the series: 4, 9, 16, 25, 36, 49, ?",
-   "o": [
+   "question": "Find the next number in the series: 4, 9, 16, 25, 36, 49, ?",
+   "options": [
     "55",
     "64",
     "128",
     "63"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 64."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 64.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01479",
-   "q": "Find the next number in the series: 729, 1000, 1331, 1728, 2197, ?",
-   "o": [
+   "question": "Find the next number in the series: 729, 1000, 1331, 1728, 2197, ?",
+   "options": [
     "2744",
     "5488",
     "2741",
     "2743"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 2744."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 2744.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01480",
-   "q": "Find the next number in the series: 2, 20, 47, 83, 128, 182, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 20, 47, 83, 128, 182, ?",
+   "options": [
     "263",
     "254",
     "253",
     "255"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 254."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 254.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01481",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "9",
     "122",
     "10",
     "4"
    ],
-   "a": 3,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "4 is a perfect square."
+   "answer": 3,
+   "explanation": "4 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01482",
-   "q": "If today is Sunday, what day will it be after 46 days?",
-   "o": [
+   "question": "If today is Sunday, what day will it be after 46 days?",
+   "options": [
     "Friday",
     "Wednesday",
     "Tuesday",
     "Thursday"
    ],
-   "a": 3,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "46 days later gives Thursday (46 mod 7 = 4)."
+   "answer": 3,
+   "explanation": "46 days later gives Thursday (46 mod 7 = 4).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01483",
-   "q": "A person walks 11 km north and then 9 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 11 km north and then 9 km east. What is the straight line distance from the starting point?",
+   "options": [
     "2 km",
     "15.21 km",
     "28.43 km",
     "14.21 km"
    ],
-   "a": 3,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(11^2 + 9^2) = 14.21 km."
+   "answer": 3,
+   "explanation": "Distance = sqrt(11^2 + 9^2) = 14.21 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01484",
-   "q": "What is the angle between the hour and minute hands at 5:00?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 5:00?",
+   "options": [
     "75 degrees",
     "150 degrees",
     "165 degrees",
     "210 degrees"
    ],
-   "a": 1,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 150 degrees."
+   "answer": 1,
+   "explanation": "Angle = |30H - 5.5M| = 150 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01485",
-   "q": "Which of the following is divisible by 3?",
-   "o": [
+   "question": "Which of the following is divisible by 3?",
+   "options": [
     "20",
     "22",
     "18",
     "19"
    ],
-   "a": 2,
-   "t": "Divisibility",
-   "l": 2,
-   "s": "generated",
-   "e": "A number is divisible by 3 when the sum of its digits is a multiple of 3."
+   "answer": 2,
+   "explanation": "A number is divisible by 3 when the sum of its digits is a multiple of 3.",
+   "topic": "Divisibility",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01486",
-   "q": "Find the next number in the series: 9, 18, 36, 72, 144, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 18, 36, 72, 144, ?",
+   "options": [
     "295",
     "288",
     "287",
     "289"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 288."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 288.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01487",
-   "q": "Find the next number in the series: 49, 64, 81, 100, 121, 144, ?",
-   "o": [
+   "question": "Find the next number in the series: 49, 64, 81, 100, 121, 144, ?",
+   "options": [
     "168",
     "170",
     "176",
     "169"
    ],
-   "a": 3,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 169."
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 169.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01488",
-   "q": "Find the next number in the series: 1000, 1331, 1728, 2197, 2744, 3375, ?",
-   "o": [
+   "question": "Find the next number in the series: 1000, 1331, 1728, 2197, 2744, 3375, ?",
+   "options": [
     "4096",
     "4097",
     "4101",
     "4091"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 4096."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 4096.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01489",
-   "q": "Find the next number in the series: 7, 11, 17, 25, 35, 47, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 11, 17, 25, 35, 47, ?",
+   "options": [
     "63",
     "61",
     "64",
     "126"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 63."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 63.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01490",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "121",
     "49",
     "82",
     "9"
    ],
-   "a": 3,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "9 is a perfect square."
+   "answer": 3,
+   "explanation": "9 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01491",
-   "q": "A person walks 11 km north and then 6 km east. What is the straight line distance from the starting point?",
-   "o": [
+   "question": "A person walks 11 km north and then 6 km east. What is the straight line distance from the starting point?",
+   "options": [
     "13.53 km",
     "17 km",
     "12.53 km",
     "25.06 km"
    ],
-   "a": 2,
-   "t": "Direction Sense",
-   "l": 3,
-   "s": "generated",
-   "e": "Distance = sqrt(11^2 + 6^2) = 12.53 km."
+   "answer": 2,
+   "explanation": "Distance = sqrt(11^2 + 6^2) = 12.53 km.",
+   "topic": "Direction Sense",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01492",
-   "q": "What is the angle between the hour and minute hands at 5:20?",
-   "o": [
+   "question": "What is the angle between the hour and minute hands at 5:20?",
+   "options": [
     "320 degrees",
     "20 degrees",
     "70 degrees",
     "40 degrees"
    ],
-   "a": 3,
-   "t": "Clocks",
-   "l": 3,
-   "s": "generated",
-   "e": "Angle = |30H - 5.5M| = 40 degrees."
+   "answer": 3,
+   "explanation": "Angle = |30H - 5.5M| = 40 degrees.",
+   "topic": "Clocks",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01493",
-   "q": "Two books and three pens cost 27 rupees. If a book costs 6 rupees, what is the cost of one pen?",
-   "o": [
+   "question": "Two books and three pens cost 27 rupees. If a book costs 6 rupees, what is the cost of one pen?",
+   "options": [
     "5 rupees",
     "5.4 rupees",
     "10 rupees",
     "6 rupees"
    ],
-   "a": 0,
-   "t": "Arithmetic Reasoning",
-   "l": 3,
-   "s": "generated",
-   "e": "2 x 6 = 12, so 3 pens cost 15 and one pen costs 5 rupees."
+   "answer": 0,
+   "explanation": "2 x 6 = 12, so 3 pens cost 15 and one pen costs 5 rupees.",
+   "topic": "Arithmetic Reasoning",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "reasoning-01494",
-   "q": "Find the next number in the series: 2, 4, 6, 8, 10, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 4, 6, 8, 10, ?",
+   "options": [
     "12",
     "13",
     "24",
     "11"
    ],
-   "a": 0,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 12."
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 12.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01495",
-   "q": "Find the next number in the series: 2, 4, 8, 16, 32, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 2, 4, 8, 16, 32, 64, ?",
+   "options": [
     "129",
     "135",
     "128",
     "256"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 128."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 128.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01496",
-   "q": "Find the next number in the series: 9, 16, 25, 36, 49, 64, ?",
-   "o": [
+   "question": "Find the next number in the series: 9, 16, 25, 36, 49, 64, ?",
+   "options": [
     "86",
     "81",
     "80",
     "162"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 81."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 81.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01497",
-   "q": "Find the next number in the series: 1000, 1331, 1728, 2197, 2744, 3375, ?",
-   "o": [
+   "question": "Find the next number in the series: 1000, 1331, 1728, 2197, 2744, 3375, ?",
+   "options": [
     "8192",
     "4096",
     "4095",
     "4101"
    ],
-   "a": 1,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 4096."
+   "answer": 1,
+   "explanation": "The pattern continues in the same way, so the next term is 4096.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01498",
-   "q": "Find the next number in the series: 7, 13, 22, 34, 49, ?",
-   "o": [
+   "question": "Find the next number in the series: 7, 13, 22, 34, 49, ?",
+   "options": [
     "71",
     "69",
     "70",
     "140"
    ],
-   "a": 2,
-   "t": "Number Series",
-   "l": 2,
-   "s": "generated",
-   "e": "The pattern continues in the same way, so the next term is 70."
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 70.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01499",
-   "q": "Which of the following is a perfect square?",
-   "o": [
+   "question": "Which of the following is a perfect square?",
+   "options": [
     "25",
     "121",
     "4",
     "10"
    ],
-   "a": 2,
-   "t": "Odd One Out",
-   "l": 2,
-   "s": "generated",
-   "e": "4 is a perfect square."
+   "answer": 2,
+   "explanation": "4 is a perfect square.",
+   "topic": "Odd One Out",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "reasoning-01500",
-   "q": "If today is Monday, what day will it be after 17 days?",
-   "o": [
+   "question": "If today is Monday, what day will it be after 17 days?",
+   "options": [
     "Thursday",
     "Friday",
     "Monday",
     "Wednesday"
    ],
-   "a": 0,
-   "t": "Calendar",
-   "l": 3,
-   "s": "generated",
-   "e": "17 days later gives Thursday (17 mod 7 = 3)."
+   "answer": 0,
+   "explanation": "17 days later gives Thursday (17 mod 7 = 3).",
+   "topic": "Calendar",
+   "level": 3,
+   "source": "generated"
   }
  ]
 };

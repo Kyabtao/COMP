@@ -15,3903 +15,3903 @@
  "questions": [
   {
    "id": "inventions-discoveries-00001",
-   "q": "Who invented the aeroplane?",
-   "o": [
+   "question": "Who invented the aeroplane?",
+   "options": [
     "Wright Brothers",
     "Henry Ford",
     "Karl Benz",
     "Thomas Edison"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The Wright brothers made the first powered flight in 1903."
+   "answer": 0,
+   "explanation": "The Wright brothers made the first powered flight in 1903.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "inventions-discoveries-00002",
-   "q": "Who invented the telephone?",
-   "o": [
+   "question": "Who invented the telephone?",
+   "options": [
     "Alexander Graham Bell",
     "Guglielmo Marconi",
     "Thomas Edison",
     "Nikola Tesla"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Alexander Graham Bell patented the telephone in 1876."
+   "answer": 0,
+   "explanation": "Alexander Graham Bell patented the telephone in 1876.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "inventions-discoveries-00003",
-   "q": "Who invented the electric bulb?",
-   "o": [
+   "question": "Who invented the electric bulb?",
+   "options": [
     "Thomas Alva Edison",
     "Michael Faraday",
     "James Watt",
     "Alessandro Volta"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Edison developed a commercially practical incandescent bulb."
+   "answer": 0,
+   "explanation": "Edison developed a commercially practical incandescent bulb.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "inventions-discoveries-00004",
-   "q": "Who discovered penicillin?",
-   "o": [
+   "question": "Who discovered penicillin?",
+   "options": [
     "Alexander Fleming",
     "Louis Pasteur",
     "Robert Koch",
     "Edward Jenner"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Alexander Fleming discovered penicillin in 1928."
+   "answer": 0,
+   "explanation": "Alexander Fleming discovered penicillin in 1928.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "inventions-discoveries-00005",
-   "q": "Who developed the smallpox vaccine?",
-   "o": [
+   "question": "Who developed the smallpox vaccine?",
+   "options": [
     "Edward Jenner",
     "Louis Pasteur",
     "Jonas Salk",
     "Robert Koch"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Edward Jenner pioneered vaccination against smallpox in 1796."
+   "answer": 0,
+   "explanation": "Edward Jenner pioneered vaccination against smallpox in 1796.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "inventions-discoveries-00006",
-   "q": "Who invented the steam engine (improved version)?",
-   "o": [
+   "question": "Who invented the steam engine (improved version)?",
+   "options": [
     "James Watt",
     "George Stephenson",
     "Thomas Newcomen",
     "Michael Faraday"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "James Watt greatly improved the steam engine."
+   "answer": 0,
+   "explanation": "James Watt greatly improved the steam engine.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "inventions-discoveries-00007",
-   "q": "Who discovered X-rays?",
-   "o": [
+   "question": "Who discovered X-rays?",
+   "options": [
     "Wilhelm Roentgen",
     "Marie Curie",
     "Henri Becquerel",
     "Niels Bohr"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Wilhelm Roentgen discovered X-rays in 1895."
+   "answer": 0,
+   "explanation": "Wilhelm Roentgen discovered X-rays in 1895.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "inventions-discoveries-00008",
-   "q": "Who discovered radium?",
-   "o": [
+   "question": "Who discovered radium?",
+   "options": [
     "Marie Curie",
     "Wilhelm Roentgen",
     "Ernest Rutherford",
     "Max Planck"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Marie and Pierre Curie discovered radium and polonium."
+   "answer": 0,
+   "explanation": "Marie and Pierre Curie discovered radium and polonium.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "inventions-discoveries-00009",
-   "q": "Who formulated the laws of motion?",
-   "o": [
+   "question": "Who formulated the laws of motion?",
+   "options": [
     "Isaac Newton",
     "Galileo Galilei",
     "Albert Einstein",
     "Johannes Kepler"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Isaac Newton formulated the three laws of motion."
+   "answer": 0,
+   "explanation": "Isaac Newton formulated the three laws of motion.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "inventions-discoveries-00010",
-   "q": "Who proposed the theory of relativity?",
-   "o": [
+   "question": "Who proposed the theory of relativity?",
+   "options": [
     "Albert Einstein",
     "Niels Bohr",
     "Max Planck",
     "Isaac Newton"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Albert Einstein developed the special and general theories of relativity."
+   "answer": 0,
+   "explanation": "Albert Einstein developed the special and general theories of relativity.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "inventions-discoveries-00011",
-   "q": "Who discovered electromagnetic induction?",
-   "o": [
+   "question": "Who discovered electromagnetic induction?",
+   "options": [
     "Michael Faraday",
     "Hans Christian Oersted",
     "Andre Ampere",
     "James Clerk Maxwell"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Faraday discovered electromagnetic induction in 1831."
+   "answer": 0,
+   "explanation": "Faraday discovered electromagnetic induction in 1831.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "inventions-discoveries-00012",
-   "q": "Who wrote the theory of evolution by natural selection?",
-   "o": [
+   "question": "Who wrote the theory of evolution by natural selection?",
+   "options": [
     "Charles Darwin",
     "Gregor Mendel",
     "Lamarck",
     "Alfred Russel Wallace"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Charles Darwin explained evolution in On the Origin of Species."
+   "answer": 0,
+   "explanation": "Charles Darwin explained evolution in On the Origin of Species.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "inventions-discoveries-00013",
-   "q": "Who discovered the circulation of blood?",
-   "o": [
+   "question": "Who discovered the circulation of blood?",
+   "options": [
     "William Harvey",
     "Rene Laennec",
     "Andreas Vesalius",
     "Edward Jenner"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "William Harvey described the circulation of blood in 1628."
+   "answer": 0,
+   "explanation": "William Harvey described the circulation of blood in 1628.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "inventions-discoveries-00014",
-   "q": "Who invented the printing press?",
-   "o": [
+   "question": "Who invented the printing press?",
+   "options": [
     "Johannes Gutenberg",
     "James Watt",
     "Benjamin Franklin",
     "Alexander Graham Bell"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Gutenberg's printing press revolutionised the spread of knowledge."
+   "answer": 0,
+   "explanation": "Gutenberg's printing press revolutionised the spread of knowledge.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "inventions-discoveries-00015",
-   "q": "Who invented the World Wide Web?",
-   "o": [
+   "question": "Who invented the World Wide Web?",
+   "options": [
     "Tim Berners-Lee",
     "Vint Cerf",
     "Bill Gates",
     "Steve Jobs"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Tim Berners-Lee invented the World Wide Web in 1989."
+   "answer": 0,
+   "explanation": "Tim Berners-Lee invented the World Wide Web in 1989.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "inventions-discoveries-00016",
-   "q": "Who is regarded as the father of the computer?",
-   "o": [
+   "question": "Who is regarded as the father of the computer?",
+   "options": [
     "Charles Babbage",
     "Alan Turing",
     "John von Neumann",
     "Blaise Pascal"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Charles Babbage designed the Analytical Engine."
+   "answer": 0,
+   "explanation": "Charles Babbage designed the Analytical Engine.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "inventions-discoveries-00017",
-   "q": "Who invented the dynamite?",
-   "o": [
+   "question": "Who invented the dynamite?",
+   "options": [
     "Alfred Nobel",
     "Robert Boyle",
     "Michael Faraday",
     "Joseph Priestley"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Alfred Nobel invented dynamite in 1867."
+   "answer": 0,
+   "explanation": "Alfred Nobel invented dynamite in 1867.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "inventions-discoveries-00018",
-   "q": "Who discovered oxygen (independently with others)?",
-   "o": [
+   "question": "Who discovered oxygen (independently with others)?",
+   "options": [
     "Joseph Priestley",
     "Henry Cavendish",
     "Daniel Rutherford",
     "Antoine Lavoisier"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "Joseph Priestley is credited with the discovery of oxygen in 1774."
+   "answer": 0,
+   "explanation": "Joseph Priestley is credited with the discovery of oxygen in 1774.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "inventions-discoveries-00019",
-   "q": "Who invented the television?",
-   "o": [
+   "question": "Who invented the television?",
+   "options": [
     "John Logie Baird",
     "Guglielmo Marconi",
     "Thomas Edison",
     "Philo Farnsworth"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "John Logie Baird demonstrated the first working television."
+   "answer": 0,
+   "explanation": "John Logie Baird demonstrated the first working television.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "inventions-discoveries-00020",
-   "q": "Who invented the radio (wireless telegraphy)?",
-   "o": [
+   "question": "Who invented the radio (wireless telegraphy)?",
+   "options": [
     "Guglielmo Marconi",
     "Alexander Graham Bell",
     "Nikola Tesla",
     "Michael Faraday"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Marconi is credited with developing wireless telegraphy."
+   "answer": 0,
+   "explanation": "Marconi is credited with developing wireless telegraphy.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "inventions-discoveries-00021",
-   "q": "Who proposed the periodic table of elements?",
-   "o": [
+   "question": "Who proposed the periodic table of elements?",
+   "options": [
     "Dmitri Mendeleev",
     "John Dalton",
     "Antoine Lavoisier",
     "Robert Boyle"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Mendeleev arranged elements in order of atomic mass."
+   "answer": 0,
+   "explanation": "Mendeleev arranged elements in order of atomic mass.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "inventions-discoveries-00022",
-   "q": "Who discovered the neutron?",
-   "o": [
+   "question": "Who discovered the neutron?",
+   "options": [
     "James Chadwick",
     "J. J. Thomson",
     "Ernest Rutherford",
     "Niels Bohr"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "James Chadwick discovered the neutron in 1932."
+   "answer": 0,
+   "explanation": "James Chadwick discovered the neutron in 1932.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "inventions-discoveries-00023",
-   "q": "Who is credited with Electric generator?",
-   "o": [
+   "question": "Who is credited with Electric generator?",
+   "options": [
     "Gregor Mendel",
     "Michael Faraday",
     "Marie Curie",
     "Rudolf Diesel"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Electric generator — Michael Faraday."
+   "answer": 1,
+   "explanation": "Electric generator — Michael Faraday.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00024",
-   "q": "Who is credited with Stethoscope?",
-   "o": [
+   "question": "Who is credited with Stethoscope?",
+   "options": [
     "Rene Laennec",
     "John Bardeen and colleagues",
     "Johannes Kepler",
     "Alexander Graham Bell"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Stethoscope — Rene Laennec."
+   "answer": 0,
+   "explanation": "Stethoscope — Rene Laennec.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00025",
-   "q": "Who is credited with Antiseptic surgery?",
-   "o": [
+   "question": "Who is credited with Antiseptic surgery?",
+   "options": [
     "Tim Berners-Lee",
     "Joseph Lister",
     "George Cayley",
     "James Watt"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Antiseptic surgery — Joseph Lister."
+   "answer": 1,
+   "explanation": "Antiseptic surgery — Joseph Lister.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00026",
-   "q": "Who is credited with X-ray?",
-   "o": [
+   "question": "Who is credited with X-ray?",
+   "options": [
     "Rene Laennec",
     "Daniel Gabriel Fahrenheit",
     "Wilhelm Roentgen",
     "Michael Faraday"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "X-ray — Wilhelm Roentgen."
+   "answer": 2,
+   "explanation": "X-ray — Wilhelm Roentgen.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00027",
-   "q": "Who is credited with Smallpox vaccine (modern)?",
-   "o": [
+   "question": "Who is credited with Smallpox vaccine (modern)?",
+   "options": [
     "Willis Carrier",
     "Edward Jenner",
     "Charles Darwin",
     "Rene Laennec"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Smallpox vaccine (modern) — Edward Jenner."
+   "answer": 1,
+   "explanation": "Smallpox vaccine (modern) — Edward Jenner.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00028",
-   "q": "Who is credited with Theory of relativity?",
-   "o": [
+   "question": "Who is credited with Theory of relativity?",
+   "options": [
     "Theodore Maiman",
     "Daniel Rutherford",
     "Henry Cavendish",
     "Albert Einstein"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Theory of relativity — Albert Einstein."
+   "answer": 3,
+   "explanation": "Theory of relativity — Albert Einstein.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00029",
-   "q": "Who is credited with Oxygen?",
-   "o": [
+   "question": "Who is credited with Oxygen?",
+   "options": [
     "John Logie Baird",
     "Dmitri Mendeleev",
     "John Bardeen and colleagues",
     "Joseph Priestley"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Oxygen — Joseph Priestley."
+   "answer": 3,
+   "explanation": "Oxygen — Joseph Priestley.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00030",
-   "q": "Who is credited with Telescope (astronomical use)?",
-   "o": [
+   "question": "Who is credited with Telescope (astronomical use)?",
+   "options": [
     "Gregor Mendel",
     "Ernest Rutherford",
     "Galileo Galilei",
     "Charles Darwin"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Telescope (astronomical use) — Galileo Galilei."
+   "answer": 2,
+   "explanation": "Telescope (astronomical use) — Galileo Galilei.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00031",
-   "q": "Who is credited with Law of planetary motion?",
-   "o": [
+   "question": "Who is credited with Law of planetary motion?",
+   "options": [
     "Henry Cavendish",
     "John Logie Baird",
     "Johannes Kepler",
     "Theodore Maiman"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Law of planetary motion — Johannes Kepler."
+   "answer": 2,
+   "explanation": "Law of planetary motion — Johannes Kepler.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00032",
-   "q": "Who is credited with Radium?",
-   "o": [
+   "question": "Who is credited with Radium?",
+   "options": [
     "Marie Curie",
     "Johannes Gutenberg",
     "Karl Benz",
     "John Logie Baird"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Radium — Marie Curie."
+   "answer": 0,
+   "explanation": "Radium — Marie Curie.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00033",
-   "q": "Who is credited with Radio?",
-   "o": [
+   "question": "Who is credited with Radio?",
+   "options": [
     "Guglielmo Marconi",
     "Henry Cavendish",
     "Galileo Galilei",
     "Jonas Salk"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Radio — Guglielmo Marconi."
+   "answer": 0,
+   "explanation": "Radio — Guglielmo Marconi.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00034",
-   "q": "Who is credited with Thermometer (mercury)?",
-   "o": [
+   "question": "Who is credited with Thermometer (mercury)?",
+   "options": [
     "Edward Jenner",
     "Willis Carrier",
     "Daniel Gabriel Fahrenheit",
     "Antonie van Leeuwenhoek"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Thermometer (mercury) — Daniel Gabriel Fahrenheit."
+   "answer": 2,
+   "explanation": "Thermometer (mercury) — Daniel Gabriel Fahrenheit.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00035",
-   "q": "Who is credited with World Wide Web?",
-   "o": [
+   "question": "Who is credited with World Wide Web?",
+   "options": [
     "Tim Berners-Lee",
     "James Watt",
     "Alexander Fleming",
     "Charles Darwin"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "World Wide Web — Tim Berners-Lee."
+   "answer": 0,
+   "explanation": "World Wide Web — Tim Berners-Lee.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00036",
-   "q": "Who is credited with Aeroplane?",
-   "o": [
+   "question": "Who is credited with Aeroplane?",
+   "options": [
     "Marie Curie",
     "Alexander Fleming",
     "Wright Brothers",
     "Max Planck"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Aeroplane — Wright Brothers."
+   "answer": 2,
+   "explanation": "Aeroplane — Wright Brothers.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00037",
-   "q": "Who is credited with Periodic table?",
-   "o": [
+   "question": "Who is credited with Periodic table?",
+   "options": [
     "Dmitri Mendeleev",
     "Niels Bohr",
     "Rene Laennec",
     "Antonie van Leeuwenhoek"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Periodic table — Dmitri Mendeleev."
+   "answer": 0,
+   "explanation": "Periodic table — Dmitri Mendeleev.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00038",
-   "q": "Who is credited with Gravity?",
-   "o": [
+   "question": "Who is credited with Gravity?",
+   "options": [
     "Wilhelm Roentgen",
     "Isaac Newton",
     "James Chadwick",
     "Tim Berners-Lee"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Gravity — Isaac Newton."
+   "answer": 1,
+   "explanation": "Gravity — Isaac Newton.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00039",
-   "q": "Who is credited with Vaccination against smallpox?",
-   "o": [
+   "question": "Who is credited with Vaccination against smallpox?",
+   "options": [
     "Thomas Alva Edison",
     "Watson and Crick",
     "William Harvey",
     "Edward Jenner"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Vaccination against smallpox — Edward Jenner."
+   "answer": 3,
+   "explanation": "Vaccination against smallpox — Edward Jenner.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00040",
-   "q": "Who is credited with Air conditioner?",
-   "o": [
+   "question": "Who is credited with Air conditioner?",
+   "options": [
     "Willis Carrier",
     "Joseph Priestley",
     "James Watt",
     "J. J. Thomson"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Air conditioner — Willis Carrier."
+   "answer": 0,
+   "explanation": "Air conditioner — Willis Carrier.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00041",
-   "q": "Who is credited with Hydrogen?",
-   "o": [
+   "question": "Who is credited with Hydrogen?",
+   "options": [
     "Henry Cavendish",
     "Gregor Mendel",
     "Theodore Maiman",
     "Alfred Nobel"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Hydrogen — Henry Cavendish."
+   "answer": 0,
+   "explanation": "Hydrogen — Henry Cavendish.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00042",
-   "q": "Who is credited with Circulation of blood?",
-   "o": [
+   "question": "Who is credited with Circulation of blood?",
+   "options": [
     "Edward Jenner",
     "Watson and Crick",
     "William Harvey",
     "Frank Whittle"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Circulation of blood — William Harvey."
+   "answer": 2,
+   "explanation": "Circulation of blood — William Harvey.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00043",
-   "q": "Who is credited with Evolution by natural selection?",
-   "o": [
+   "question": "Who is credited with Evolution by natural selection?",
+   "options": [
     "Charles Darwin",
     "Thomas Alva Edison",
     "Edward Jenner",
     "Niels Bohr"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Evolution by natural selection — Charles Darwin."
+   "answer": 0,
+   "explanation": "Evolution by natural selection — Charles Darwin.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00044",
-   "q": "Who is credited with Polio vaccine?",
-   "o": [
+   "question": "Who is credited with Polio vaccine?",
+   "options": [
     "Michael Faraday",
     "Jonas Salk",
     "Dmitri Mendeleev",
     "Wilhelm Roentgen"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Polio vaccine — Jonas Salk."
+   "answer": 1,
+   "explanation": "Polio vaccine — Jonas Salk.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00045",
-   "q": "Who is credited with Dynamite?",
-   "o": [
+   "question": "Who is credited with Dynamite?",
+   "options": [
     "Alfred Nobel",
     "George Cayley",
     "Galileo Galilei",
     "Marie Curie"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Dynamite — Alfred Nobel."
+   "answer": 0,
+   "explanation": "Dynamite — Alfred Nobel.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00046",
-   "q": "Who is credited with Telephone?",
-   "o": [
+   "question": "Who is credited with Telephone?",
+   "options": [
     "Alfred Nobel",
     "Max Planck",
     "Ernest Rutherford",
     "Alexander Graham Bell"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Telephone — Alexander Graham Bell."
+   "answer": 3,
+   "explanation": "Telephone — Alexander Graham Bell.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00047",
-   "q": "Who is credited with Nitrogen?",
-   "o": [
+   "question": "Who is credited with Nitrogen?",
+   "options": [
     "Daniel Rutherford",
     "Dmitri Mendeleev",
     "Guglielmo Marconi",
     "Thomas Alva Edison"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Nitrogen — Daniel Rutherford."
+   "answer": 0,
+   "explanation": "Nitrogen — Daniel Rutherford.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00048",
-   "q": "Who is credited with Refrigerator?",
-   "o": [
+   "question": "Who is credited with Refrigerator?",
+   "options": [
     "Max Planck",
     "Jacob Perkins",
     "Antonie van Leeuwenhoek",
     "James Chadwick"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Refrigerator — Jacob Perkins."
+   "answer": 1,
+   "explanation": "Refrigerator — Jacob Perkins.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00049",
-   "q": "Who is credited with Atom (nuclear model)?",
-   "o": [
+   "question": "Who is credited with Atom (nuclear model)?",
+   "options": [
     "Tim Berners-Lee",
     "Niels Bohr",
     "George Cayley",
     "Thomas Alva Edison"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Atom (nuclear model) — Niels Bohr."
+   "answer": 1,
+   "explanation": "Atom (nuclear model) — Niels Bohr.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00050",
-   "q": "Who is credited with Diesel engine?",
-   "o": [
+   "question": "Who is credited with Diesel engine?",
+   "options": [
     "Edward Jenner",
     "Thomas Alva Edison",
     "Johannes Gutenberg",
     "Rudolf Diesel"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Diesel engine — Rudolf Diesel."
+   "answer": 3,
+   "explanation": "Diesel engine — Rudolf Diesel.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00051",
-   "q": "Who is credited with Motor car?",
-   "o": [
+   "question": "Who is credited with Motor car?",
+   "options": [
     "George Cayley",
     "Isaac Newton",
     "Karl Benz",
     "Willis Carrier"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Motor car — Karl Benz."
+   "answer": 2,
+   "explanation": "Motor car — Karl Benz.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00052",
-   "q": "Who is credited with Bicycle?",
-   "o": [
+   "question": "Who is credited with Bicycle?",
+   "options": [
     "Alexander Fleming",
     "Joseph Lister",
     "Alfred Nobel",
     "Karl von Drais"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Bicycle — Karl von Drais."
+   "answer": 3,
+   "explanation": "Bicycle — Karl von Drais.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00053",
-   "q": "Who is credited with Quantum theory?",
-   "o": [
+   "question": "Who is credited with Quantum theory?",
+   "options": [
     "John Logie Baird",
     "Theodore Maiman",
     "J. J. Thomson",
     "Max Planck"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Quantum theory — Max Planck."
+   "answer": 3,
+   "explanation": "Quantum theory — Max Planck.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00054",
-   "q": "Who is credited with Computer (analytical engine)?",
-   "o": [
+   "question": "Who is credited with Computer (analytical engine)?",
+   "options": [
     "Isaac Newton",
     "Alexander Graham Bell",
     "Charles Babbage",
     "Joseph Lister"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Computer (analytical engine) — Charles Babbage."
+   "answer": 2,
+   "explanation": "Computer (analytical engine) — Charles Babbage.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00055",
-   "q": "Who is credited with Electric bulb?",
-   "o": [
+   "question": "Who is credited with Electric bulb?",
+   "options": [
     "Isaac Newton",
     "Alexander Graham Bell",
     "Thomas Alva Edison",
     "Alexander Fleming"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Electric bulb — Thomas Alva Edison."
+   "answer": 2,
+   "explanation": "Electric bulb — Thomas Alva Edison.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00056",
-   "q": "Who is credited with Law of heredity?",
-   "o": [
+   "question": "Who is credited with Law of heredity?",
+   "options": [
     "Wilhelm Roentgen",
     "Gregor Mendel",
     "John Bardeen and colleagues",
     "J. J. Thomson"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Law of heredity — Gregor Mendel."
+   "answer": 1,
+   "explanation": "Law of heredity — Gregor Mendel.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00057",
-   "q": "Who is credited with Jet engine?",
-   "o": [
+   "question": "Who is credited with Jet engine?",
+   "options": [
     "Isaac Newton",
     "Charles Darwin",
     "Ernest Rutherford",
     "Frank Whittle"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Jet engine — Frank Whittle."
+   "answer": 3,
+   "explanation": "Jet engine — Frank Whittle.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00058",
-   "q": "Who is credited with Neutron?",
-   "o": [
+   "question": "Who is credited with Neutron?",
+   "options": [
     "Max Planck",
     "James Chadwick",
     "Michael Faraday",
     "Gregor Mendel"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Neutron — James Chadwick."
+   "answer": 1,
+   "explanation": "Neutron — James Chadwick.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00059",
-   "q": "Who is credited with Proton?",
-   "o": [
+   "question": "Who is credited with Proton?",
+   "options": [
     "Albert Einstein",
     "Ernest Rutherford",
     "Daniel Rutherford",
     "J. J. Thomson"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Proton — Ernest Rutherford."
+   "answer": 1,
+   "explanation": "Proton — Ernest Rutherford.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00060",
-   "q": "Who is credited with Transistor?",
-   "o": [
+   "question": "Who is credited with Transistor?",
+   "options": [
     "Guglielmo Marconi",
     "Watson and Crick",
     "John Bardeen and colleagues",
     "Theodore Maiman"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Transistor — John Bardeen and colleagues."
+   "answer": 2,
+   "explanation": "Transistor — John Bardeen and colleagues.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00061",
-   "q": "Who is credited with Aerodynamics and flight principles?",
-   "o": [
+   "question": "Who is credited with Aerodynamics and flight principles?",
+   "options": [
     "J. J. Thomson",
     "George Cayley",
     "Wright Brothers",
     "Willis Carrier"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Aerodynamics and flight principles — George Cayley."
+   "answer": 1,
+   "explanation": "Aerodynamics and flight principles — George Cayley.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00062",
-   "q": "Who is credited with Penicillin?",
-   "o": [
+   "question": "Who is credited with Penicillin?",
+   "options": [
     "Albert Einstein",
     "Alexander Fleming",
     "Henry Cavendish",
     "Johannes Kepler"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Penicillin — Alexander Fleming."
+   "answer": 1,
+   "explanation": "Penicillin — Alexander Fleming.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00063",
-   "q": "Who is credited with Television?",
-   "o": [
+   "question": "Who is credited with Television?",
+   "options": [
     "Theodore Maiman",
     "John Logie Baird",
     "Jacob Perkins",
     "Watson and Crick"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Television — John Logie Baird."
+   "answer": 1,
+   "explanation": "Television — John Logie Baird.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00064",
-   "q": "Who is credited with Chloroform as anaesthetic?",
-   "o": [
+   "question": "Who is credited with Chloroform as anaesthetic?",
+   "options": [
     "Edward Jenner",
     "James Young Simpson",
     "Willis Carrier",
     "Rudolf Diesel"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Chloroform as anaesthetic — James Young Simpson."
+   "answer": 1,
+   "explanation": "Chloroform as anaesthetic — James Young Simpson.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00065",
-   "q": "Who is credited with Electron?",
-   "o": [
+   "question": "Who is credited with Electron?",
+   "options": [
     "John Logie Baird",
     "J. J. Thomson",
     "Isaac Newton",
     "Edward Jenner"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Electron — J. J. Thomson."
+   "answer": 1,
+   "explanation": "Electron — J. J. Thomson.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00066",
-   "q": "Who is credited with Microscope?",
-   "o": [
+   "question": "Who is credited with Microscope?",
+   "options": [
     "Willis Carrier",
     "Watson and Crick",
     "Antonie van Leeuwenhoek",
     "Alfred Nobel"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Microscope — Antonie van Leeuwenhoek."
+   "answer": 2,
+   "explanation": "Microscope — Antonie van Leeuwenhoek.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00067",
-   "q": "Who is credited with Electromagnetic induction?",
-   "o": [
+   "question": "Who is credited with Electromagnetic induction?",
+   "options": [
     "Niels Bohr",
     "Charles Darwin",
     "Michael Faraday",
     "J. J. Thomson"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Electromagnetic induction — Michael Faraday."
+   "answer": 2,
+   "explanation": "Electromagnetic induction — Michael Faraday.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00068",
-   "q": "Who is credited with DNA double helix structure?",
-   "o": [
+   "question": "Who is credited with DNA double helix structure?",
+   "options": [
     "Watson and Crick",
     "Charles Babbage",
     "Rudolf Diesel",
     "Rene Laennec"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "DNA double helix structure — Watson and Crick."
+   "answer": 0,
+   "explanation": "DNA double helix structure — Watson and Crick.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00069",
-   "q": "Who is credited with Blood groups?",
-   "o": [
+   "question": "Who is credited with Blood groups?",
+   "options": [
     "Karl Landsteiner",
     "Watson and Crick",
     "J. J. Thomson",
     "Ernest Rutherford"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Blood groups — Karl Landsteiner."
+   "answer": 0,
+   "explanation": "Blood groups — Karl Landsteiner.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00070",
-   "q": "Who is credited with Steam engine?",
-   "o": [
+   "question": "Who is credited with Steam engine?",
+   "options": [
     "Frank Whittle",
     "James Watt",
     "Charles Darwin",
     "Karl von Drais"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Steam engine — James Watt."
+   "answer": 1,
+   "explanation": "Steam engine — James Watt.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00071",
-   "q": "Who is credited with Laser?",
-   "o": [
+   "question": "Who is credited with Laser?",
+   "options": [
     "Theodore Maiman",
     "Tim Berners-Lee",
     "Guglielmo Marconi",
     "Willis Carrier"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Laser — Theodore Maiman."
+   "answer": 0,
+   "explanation": "Laser — Theodore Maiman.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00072",
-   "q": "Who is credited with Printing press?",
-   "o": [
+   "question": "Who is credited with Printing press?",
+   "options": [
     "George Cayley",
     "Frank Whittle",
     "Johannes Gutenberg",
     "Rene Laennec"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Printing press — Johannes Gutenberg."
+   "answer": 2,
+   "explanation": "Printing press — Johannes Gutenberg.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00073",
-   "q": "Joseph Priestley is associated with which of the following?",
-   "o": [
+   "question": "Joseph Priestley is associated with which of the following?",
+   "options": [
     "Quantum theory",
     "Oxygen",
     "Telephone",
     "Aeroplane"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Joseph Priestley is associated with Oxygen."
+   "answer": 1,
+   "explanation": "Joseph Priestley is associated with Oxygen.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00074",
-   "q": "Max Planck is associated with which of the following?",
-   "o": [
+   "question": "Max Planck is associated with which of the following?",
+   "options": [
     "Microscope",
     "Theory of relativity",
     "Computer (analytical engine)",
     "Quantum theory"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Max Planck is associated with Quantum theory."
+   "answer": 3,
+   "explanation": "Max Planck is associated with Quantum theory.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00075",
-   "q": "Daniel Rutherford is associated with which of the following?",
-   "o": [
+   "question": "Daniel Rutherford is associated with which of the following?",
+   "options": [
     "Circulation of blood",
     "Electron",
     "Gravity",
     "Nitrogen"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Daniel Rutherford is associated with Nitrogen."
+   "answer": 3,
+   "explanation": "Daniel Rutherford is associated with Nitrogen.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00076",
-   "q": "Edward Jenner is associated with which of the following?",
-   "o": [
+   "question": "Edward Jenner is associated with which of the following?",
+   "options": [
     "Air conditioner",
     "Transistor",
     "Smallpox vaccine (modern)",
     "Stethoscope"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Edward Jenner is associated with Smallpox vaccine (modern)."
+   "answer": 2,
+   "explanation": "Edward Jenner is associated with Smallpox vaccine (modern).",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00077",
-   "q": "Guglielmo Marconi is associated with which of the following?",
-   "o": [
+   "question": "Guglielmo Marconi is associated with which of the following?",
+   "options": [
     "Diesel engine",
     "Penicillin",
     "Electric bulb",
     "Radio"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Guglielmo Marconi is associated with Radio."
+   "answer": 3,
+   "explanation": "Guglielmo Marconi is associated with Radio.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00078",
-   "q": "Niels Bohr is associated with which of the following?",
-   "o": [
+   "question": "Niels Bohr is associated with which of the following?",
+   "options": [
     "Atom (nuclear model)",
     "Theory of relativity",
     "Diesel engine",
     "Bicycle"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Niels Bohr is associated with Atom (nuclear model)."
+   "answer": 0,
+   "explanation": "Niels Bohr is associated with Atom (nuclear model).",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00079",
-   "q": "J. J. Thomson is associated with which of the following?",
-   "o": [
+   "question": "J. J. Thomson is associated with which of the following?",
+   "options": [
     "Vaccination against smallpox",
     "Computer (analytical engine)",
     "Electron",
     "Motor car"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "J. J. Thomson is associated with Electron."
+   "answer": 2,
+   "explanation": "J. J. Thomson is associated with Electron.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00080",
-   "q": "Henry Cavendish is associated with which of the following?",
-   "o": [
+   "question": "Henry Cavendish is associated with which of the following?",
+   "options": [
     "Hydrogen",
     "Stethoscope",
     "Laser",
     "Circulation of blood"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Henry Cavendish is associated with Hydrogen."
+   "answer": 0,
+   "explanation": "Henry Cavendish is associated with Hydrogen.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00081",
-   "q": "Alexander Fleming is associated with which of the following?",
-   "o": [
+   "question": "Alexander Fleming is associated with which of the following?",
+   "options": [
     "Antiseptic surgery",
     "Chloroform as anaesthetic",
     "Computer (analytical engine)",
     "Penicillin"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Alexander Fleming is associated with Penicillin."
+   "answer": 3,
+   "explanation": "Alexander Fleming is associated with Penicillin.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00082",
-   "q": "Michael Faraday is associated with which of the following?",
-   "o": [
+   "question": "Michael Faraday is associated with which of the following?",
+   "options": [
     "Electromagnetic induction",
     "Evolution by natural selection",
     "Dynamite",
     "Stethoscope"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Michael Faraday is associated with Electromagnetic induction."
+   "answer": 0,
+   "explanation": "Michael Faraday is associated with Electromagnetic induction.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00083",
-   "q": "Dmitri Mendeleev is associated with which of the following?",
-   "o": [
+   "question": "Dmitri Mendeleev is associated with which of the following?",
+   "options": [
     "Radio",
     "Periodic table",
     "Atom (nuclear model)",
     "Aerodynamics and flight principles"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Dmitri Mendeleev is associated with Periodic table."
+   "answer": 1,
+   "explanation": "Dmitri Mendeleev is associated with Periodic table.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00084",
-   "q": "Theodore Maiman is associated with which of the following?",
-   "o": [
+   "question": "Theodore Maiman is associated with which of the following?",
+   "options": [
     "Dynamite",
     "Laser",
     "Electric bulb",
     "Telephone"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Theodore Maiman is associated with Laser."
+   "answer": 1,
+   "explanation": "Theodore Maiman is associated with Laser.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00085",
-   "q": "Karl Landsteiner is associated with which of the following?",
-   "o": [
+   "question": "Karl Landsteiner is associated with which of the following?",
+   "options": [
     "Proton",
     "Law of heredity",
     "Motor car",
     "Blood groups"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Karl Landsteiner is associated with Blood groups."
+   "answer": 3,
+   "explanation": "Karl Landsteiner is associated with Blood groups.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00086",
-   "q": "Isaac Newton is associated with which of the following?",
-   "o": [
+   "question": "Isaac Newton is associated with which of the following?",
+   "options": [
     "Thermometer (mercury)",
     "Aeroplane",
     "Gravity",
     "Proton"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Isaac Newton is associated with Gravity."
+   "answer": 2,
+   "explanation": "Isaac Newton is associated with Gravity.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00087",
-   "q": "Charles Babbage is associated with which of the following?",
-   "o": [
+   "question": "Charles Babbage is associated with which of the following?",
+   "options": [
     "Electric generator",
     "Polio vaccine",
     "X-ray",
     "Computer (analytical engine)"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Charles Babbage is associated with Computer (analytical engine)."
+   "answer": 3,
+   "explanation": "Charles Babbage is associated with Computer (analytical engine).",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00088",
-   "q": "Jacob Perkins is associated with which of the following?",
-   "o": [
+   "question": "Jacob Perkins is associated with which of the following?",
+   "options": [
     "Refrigerator",
     "Bicycle",
     "World Wide Web",
     "Dynamite"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Jacob Perkins is associated with Refrigerator."
+   "answer": 0,
+   "explanation": "Jacob Perkins is associated with Refrigerator.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00089",
-   "q": "Frank Whittle is associated with which of the following?",
-   "o": [
+   "question": "Frank Whittle is associated with which of the following?",
+   "options": [
     "Jet engine",
     "Telephone",
     "Radio",
     "Television"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Frank Whittle is associated with Jet engine."
+   "answer": 0,
+   "explanation": "Frank Whittle is associated with Jet engine.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00090",
-   "q": "Albert Einstein is associated with which of the following?",
-   "o": [
+   "question": "Albert Einstein is associated with which of the following?",
+   "options": [
     "Gravity",
     "Theory of relativity",
     "X-ray",
     "Law of heredity"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Albert Einstein is associated with Theory of relativity."
+   "answer": 1,
+   "explanation": "Albert Einstein is associated with Theory of relativity.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00091",
-   "q": "Ernest Rutherford is associated with which of the following?",
-   "o": [
+   "question": "Ernest Rutherford is associated with which of the following?",
+   "options": [
     "Proton",
     "Vaccination against smallpox",
     "Telephone",
     "Jet engine"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Ernest Rutherford is associated with Proton."
+   "answer": 0,
+   "explanation": "Ernest Rutherford is associated with Proton.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00092",
-   "q": "John Logie Baird is associated with which of the following?",
-   "o": [
+   "question": "John Logie Baird is associated with which of the following?",
+   "options": [
     "Television",
     "Refrigerator",
     "Radio",
     "Electric generator"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "John Logie Baird is associated with Television."
+   "answer": 0,
+   "explanation": "John Logie Baird is associated with Television.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00093",
-   "q": "Johannes Kepler is associated with which of the following?",
-   "o": [
+   "question": "Johannes Kepler is associated with which of the following?",
+   "options": [
     "Bicycle",
     "Oxygen",
     "World Wide Web",
     "Law of planetary motion"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Johannes Kepler is associated with Law of planetary motion."
+   "answer": 3,
+   "explanation": "Johannes Kepler is associated with Law of planetary motion.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00094",
-   "q": "Willis Carrier is associated with which of the following?",
-   "o": [
+   "question": "Willis Carrier is associated with which of the following?",
+   "options": [
     "Theory of relativity",
     "Atom (nuclear model)",
     "Air conditioner",
     "Dynamite"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Willis Carrier is associated with Air conditioner."
+   "answer": 2,
+   "explanation": "Willis Carrier is associated with Air conditioner.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00095",
-   "q": "Wilhelm Roentgen is associated with which of the following?",
-   "o": [
+   "question": "Wilhelm Roentgen is associated with which of the following?",
+   "options": [
     "Air conditioner",
     "X-ray",
     "Neutron",
     "Law of heredity"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Wilhelm Roentgen is associated with X-ray."
+   "answer": 1,
+   "explanation": "Wilhelm Roentgen is associated with X-ray.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00096",
-   "q": "Charles Darwin is associated with which of the following?",
-   "o": [
+   "question": "Charles Darwin is associated with which of the following?",
+   "options": [
     "Blood groups",
     "Evolution by natural selection",
     "Electromagnetic induction",
     "Air conditioner"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Charles Darwin is associated with Evolution by natural selection."
+   "answer": 1,
+   "explanation": "Charles Darwin is associated with Evolution by natural selection.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00097",
-   "q": "Marie Curie is associated with which of the following?",
-   "o": [
+   "question": "Marie Curie is associated with which of the following?",
+   "options": [
     "Laser",
     "Radium",
     "Antiseptic surgery",
     "Oxygen"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Marie Curie is associated with Radium."
+   "answer": 1,
+   "explanation": "Marie Curie is associated with Radium.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00098",
-   "q": "Rene Laennec is associated with which of the following?",
-   "o": [
+   "question": "Rene Laennec is associated with which of the following?",
+   "options": [
     "Stethoscope",
     "Oxygen",
     "Electric generator",
     "Smallpox vaccine (modern)"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Rene Laennec is associated with Stethoscope."
+   "answer": 0,
+   "explanation": "Rene Laennec is associated with Stethoscope.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00099",
-   "q": "Alexander Graham Bell is associated with which of the following?",
-   "o": [
+   "question": "Alexander Graham Bell is associated with which of the following?",
+   "options": [
     "Telescope (astronomical use)",
     "Circulation of blood",
     "Telephone",
     "Jet engine"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Alexander Graham Bell is associated with Telephone."
+   "answer": 2,
+   "explanation": "Alexander Graham Bell is associated with Telephone.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00100",
-   "q": "Thomas Alva Edison is associated with which of the following?",
-   "o": [
+   "question": "Thomas Alva Edison is associated with which of the following?",
+   "options": [
     "Telescope (astronomical use)",
     "Electric bulb",
     "Hydrogen",
     "Steam engine"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Thomas Alva Edison is associated with Electric bulb."
+   "answer": 1,
+   "explanation": "Thomas Alva Edison is associated with Electric bulb.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00101",
-   "q": "Jonas Salk is associated with which of the following?",
-   "o": [
+   "question": "Jonas Salk is associated with which of the following?",
+   "options": [
     "Polio vaccine",
     "Nitrogen",
     "DNA double helix structure",
     "Electron"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Jonas Salk is associated with Polio vaccine."
+   "answer": 0,
+   "explanation": "Jonas Salk is associated with Polio vaccine.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00102",
-   "q": "William Harvey is associated with which of the following?",
-   "o": [
+   "question": "William Harvey is associated with which of the following?",
+   "options": [
     "Computer (analytical engine)",
     "Circulation of blood",
     "Penicillin",
     "Radio"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "William Harvey is associated with Circulation of blood."
+   "answer": 1,
+   "explanation": "William Harvey is associated with Circulation of blood.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00103",
-   "q": "Daniel Gabriel Fahrenheit is associated with which of the following?",
-   "o": [
+   "question": "Daniel Gabriel Fahrenheit is associated with which of the following?",
+   "options": [
     "Thermometer (mercury)",
     "Steam engine",
     "DNA double helix structure",
     "Printing press"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Daniel Gabriel Fahrenheit is associated with Thermometer (mercury)."
+   "answer": 0,
+   "explanation": "Daniel Gabriel Fahrenheit is associated with Thermometer (mercury).",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00104",
-   "q": "Johannes Gutenberg is associated with which of the following?",
-   "o": [
+   "question": "Johannes Gutenberg is associated with which of the following?",
+   "options": [
     "Microscope",
     "Polio vaccine",
     "Laser",
     "Printing press"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Johannes Gutenberg is associated with Printing press."
+   "answer": 3,
+   "explanation": "Johannes Gutenberg is associated with Printing press.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00105",
-   "q": "Watson and Crick is associated with which of the following?",
-   "o": [
+   "question": "Watson and Crick is associated with which of the following?",
+   "options": [
     "DNA double helix structure",
     "Transistor",
     "Law of heredity",
     "Bicycle"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Watson and Crick is associated with DNA double helix structure."
+   "answer": 0,
+   "explanation": "Watson and Crick is associated with DNA double helix structure.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00106",
-   "q": "Karl Benz is associated with which of the following?",
-   "o": [
+   "question": "Karl Benz is associated with which of the following?",
+   "options": [
     "Transistor",
     "Bicycle",
     "Chloroform as anaesthetic",
     "Motor car"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Karl Benz is associated with Motor car."
+   "answer": 3,
+   "explanation": "Karl Benz is associated with Motor car.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00107",
-   "q": "James Young Simpson is associated with which of the following?",
-   "o": [
+   "question": "James Young Simpson is associated with which of the following?",
+   "options": [
     "Smallpox vaccine (modern)",
     "Nitrogen",
     "DNA double helix structure",
     "Chloroform as anaesthetic"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "James Young Simpson is associated with Chloroform as anaesthetic."
+   "answer": 3,
+   "explanation": "James Young Simpson is associated with Chloroform as anaesthetic.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00108",
-   "q": "Gregor Mendel is associated with which of the following?",
-   "o": [
+   "question": "Gregor Mendel is associated with which of the following?",
+   "options": [
     "Microscope",
     "Stethoscope",
     "Law of heredity",
     "X-ray"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Gregor Mendel is associated with Law of heredity."
+   "answer": 2,
+   "explanation": "Gregor Mendel is associated with Law of heredity.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00109",
-   "q": "Alfred Nobel is associated with which of the following?",
-   "o": [
+   "question": "Alfred Nobel is associated with which of the following?",
+   "options": [
     "Dynamite",
     "Computer (analytical engine)",
     "Blood groups",
     "Penicillin"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Alfred Nobel is associated with Dynamite."
+   "answer": 0,
+   "explanation": "Alfred Nobel is associated with Dynamite.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00110",
-   "q": "Wright Brothers is associated with which of the following?",
-   "o": [
+   "question": "Wright Brothers is associated with which of the following?",
+   "options": [
     "Vaccination against smallpox",
     "Aeroplane",
     "Chloroform as anaesthetic",
     "Jet engine"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Wright Brothers is associated with Aeroplane."
+   "answer": 1,
+   "explanation": "Wright Brothers is associated with Aeroplane.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00111",
-   "q": "Tim Berners-Lee is associated with which of the following?",
-   "o": [
+   "question": "Tim Berners-Lee is associated with which of the following?",
+   "options": [
     "Neutron",
     "Steam engine",
     "Law of heredity",
     "World Wide Web"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Tim Berners-Lee is associated with World Wide Web."
+   "answer": 3,
+   "explanation": "Tim Berners-Lee is associated with World Wide Web.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00112",
-   "q": "Karl von Drais is associated with which of the following?",
-   "o": [
+   "question": "Karl von Drais is associated with which of the following?",
+   "options": [
     "Electric bulb",
     "Law of heredity",
     "Telephone",
     "Bicycle"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Karl von Drais is associated with Bicycle."
+   "answer": 3,
+   "explanation": "Karl von Drais is associated with Bicycle.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00113",
-   "q": "Edward Jenner is associated with which of the following?",
-   "o": [
+   "question": "Edward Jenner is associated with which of the following?",
+   "options": [
     "Evolution by natural selection",
     "Electric generator",
     "Vaccination against smallpox",
     "X-ray"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Edward Jenner is associated with Vaccination against smallpox."
+   "answer": 2,
+   "explanation": "Edward Jenner is associated with Vaccination against smallpox.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00114",
-   "q": "Antonie van Leeuwenhoek is associated with which of the following?",
-   "o": [
+   "question": "Antonie van Leeuwenhoek is associated with which of the following?",
+   "options": [
     "Electron",
     "Microscope",
     "Neutron",
     "Electromagnetic induction"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Antonie van Leeuwenhoek is associated with Microscope."
+   "answer": 1,
+   "explanation": "Antonie van Leeuwenhoek is associated with Microscope.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00115",
-   "q": "Michael Faraday is associated with which of the following?",
-   "o": [
+   "question": "Michael Faraday is associated with which of the following?",
+   "options": [
     "Oxygen",
     "Penicillin",
     "Electric generator",
     "Atom (nuclear model)"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Michael Faraday is associated with Electric generator."
+   "answer": 2,
+   "explanation": "Michael Faraday is associated with Electric generator.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00116",
-   "q": "Joseph Lister is associated with which of the following?",
-   "o": [
+   "question": "Joseph Lister is associated with which of the following?",
+   "options": [
     "Electric bulb",
     "Antiseptic surgery",
     "Evolution by natural selection",
     "Smallpox vaccine (modern)"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Joseph Lister is associated with Antiseptic surgery."
+   "answer": 1,
+   "explanation": "Joseph Lister is associated with Antiseptic surgery.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00117",
-   "q": "Galileo Galilei is associated with which of the following?",
-   "o": [
+   "question": "Galileo Galilei is associated with which of the following?",
+   "options": [
     "Neutron",
     "Dynamite",
     "Atom (nuclear model)",
     "Telescope (astronomical use)"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Galileo Galilei is associated with Telescope (astronomical use)."
+   "answer": 3,
+   "explanation": "Galileo Galilei is associated with Telescope (astronomical use).",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00118",
-   "q": "James Watt is associated with which of the following?",
-   "o": [
+   "question": "James Watt is associated with which of the following?",
+   "options": [
     "Telephone",
     "Antiseptic surgery",
     "Telescope (astronomical use)",
     "Steam engine"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "James Watt is associated with Steam engine."
+   "answer": 3,
+   "explanation": "James Watt is associated with Steam engine.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00119",
-   "q": "James Chadwick is associated with which of the following?",
-   "o": [
+   "question": "James Chadwick is associated with which of the following?",
+   "options": [
     "Transistor",
     "Television",
     "Neutron",
     "Law of heredity"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "James Chadwick is associated with Neutron."
+   "answer": 2,
+   "explanation": "James Chadwick is associated with Neutron.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00120",
-   "q": "George Cayley is associated with which of the following?",
-   "o": [
+   "question": "George Cayley is associated with which of the following?",
+   "options": [
     "Proton",
     "Electron",
     "Diesel engine",
     "Aerodynamics and flight principles"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "George Cayley is associated with Aerodynamics and flight principles."
+   "answer": 3,
+   "explanation": "George Cayley is associated with Aerodynamics and flight principles.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00121",
-   "q": "John Bardeen and colleagues is associated with which of the following?",
-   "o": [
+   "question": "John Bardeen and colleagues is associated with which of the following?",
+   "options": [
     "Air conditioner",
     "Evolution by natural selection",
     "Transistor",
     "Chloroform as anaesthetic"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "John Bardeen and colleagues is associated with Transistor."
+   "answer": 2,
+   "explanation": "John Bardeen and colleagues is associated with Transistor.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00122",
-   "q": "Rudolf Diesel is associated with which of the following?",
-   "o": [
+   "question": "Rudolf Diesel is associated with which of the following?",
+   "options": [
     "Air conditioner",
     "Diesel engine",
     "Periodic table",
     "Hydrogen"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Rudolf Diesel is associated with Diesel engine."
+   "answer": 1,
+   "explanation": "Rudolf Diesel is associated with Diesel engine.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00123",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Radium - Wilhelm Roentgen",
     "Radium - John Bardeen and colleagues",
     "Radium - Marie Curie",
     "Radium - Albert Einstein"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Radium - Marie Curie is correctly matched."
+   "answer": 2,
+   "explanation": "Only Radium - Marie Curie is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00124",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Radium - John Logie Baird",
     "Radium - Henry Cavendish",
     "Radium - Marie Curie",
     "Radium - Wright Brothers"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Radium - Marie Curie is correctly matched."
+   "answer": 2,
+   "explanation": "Only Radium - Marie Curie is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00125",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Polio vaccine - Jonas Salk",
     "Polio vaccine - Karl von Drais",
     "Polio vaccine - Theodore Maiman",
     "Polio vaccine - Willis Carrier"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Polio vaccine - Jonas Salk is correctly matched."
+   "answer": 0,
+   "explanation": "Only Polio vaccine - Jonas Salk is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00126",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Polio vaccine - Jonas Salk",
     "Polio vaccine - Rene Laennec",
     "Polio vaccine - James Chadwick",
     "Polio vaccine - Jacob Perkins"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Polio vaccine - Jonas Salk is correctly matched."
+   "answer": 0,
+   "explanation": "Only Polio vaccine - Jonas Salk is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00127",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Vaccination against smallpox - Johannes Kepler",
     "Vaccination against smallpox - Antonie van Leeuwenhoek",
     "Vaccination against smallpox - Edward Jenner",
     "Vaccination against smallpox - Henry Cavendish"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vaccination against smallpox - Edward Jenner is correctly matched."
+   "answer": 2,
+   "explanation": "Only Vaccination against smallpox - Edward Jenner is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00128",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Vaccination against smallpox - John Bardeen and colleagues",
     "Vaccination against smallpox - Edward Jenner",
     "Vaccination against smallpox - George Cayley",
     "Vaccination against smallpox - Joseph Priestley"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vaccination against smallpox - Edward Jenner is correctly matched."
+   "answer": 1,
+   "explanation": "Only Vaccination against smallpox - Edward Jenner is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00129",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Atom (nuclear model) - Niels Bohr",
     "Atom (nuclear model) - Karl Benz",
     "Atom (nuclear model) - Daniel Gabriel Fahrenheit",
     "Atom (nuclear model) - Edward Jenner"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Atom (nuclear model) - Niels Bohr is correctly matched."
+   "answer": 0,
+   "explanation": "Only Atom (nuclear model) - Niels Bohr is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00130",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Atom (nuclear model) - Alexander Graham Bell",
     "Atom (nuclear model) - Frank Whittle",
     "Atom (nuclear model) - Karl Landsteiner",
     "Atom (nuclear model) - Niels Bohr"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Atom (nuclear model) - Niels Bohr is correctly matched."
+   "answer": 3,
+   "explanation": "Only Atom (nuclear model) - Niels Bohr is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00131",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Proton - Ernest Rutherford",
     "Proton - James Young Simpson",
     "Proton - Thomas Alva Edison",
     "Proton - Max Planck"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Proton - Ernest Rutherford is correctly matched."
+   "answer": 0,
+   "explanation": "Only Proton - Ernest Rutherford is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00132",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Proton - Rene Laennec",
     "Proton - Charles Darwin",
     "Proton - Dmitri Mendeleev",
     "Proton - Ernest Rutherford"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Proton - Ernest Rutherford is correctly matched."
+   "answer": 3,
+   "explanation": "Only Proton - Ernest Rutherford is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00133",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Periodic table - Ernest Rutherford",
     "Periodic table - Joseph Priestley",
     "Periodic table - Dmitri Mendeleev",
     "Periodic table - Albert Einstein"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Periodic table - Dmitri Mendeleev is correctly matched."
+   "answer": 2,
+   "explanation": "Only Periodic table - Dmitri Mendeleev is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00134",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Periodic table - Galileo Galilei",
     "Periodic table - Dmitri Mendeleev",
     "Periodic table - William Harvey",
     "Periodic table - James Young Simpson"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Periodic table - Dmitri Mendeleev is correctly matched."
+   "answer": 1,
+   "explanation": "Only Periodic table - Dmitri Mendeleev is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00135",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Air conditioner - Tim Berners-Lee",
     "Air conditioner - Willis Carrier",
     "Air conditioner - Jacob Perkins",
     "Air conditioner - Henry Cavendish"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Air conditioner - Willis Carrier is correctly matched."
+   "answer": 1,
+   "explanation": "Only Air conditioner - Willis Carrier is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00136",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Air conditioner - Willis Carrier",
     "Air conditioner - Rene Laennec",
     "Air conditioner - Daniel Rutherford",
     "Air conditioner - Niels Bohr"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Air conditioner - Willis Carrier is correctly matched."
+   "answer": 0,
+   "explanation": "Only Air conditioner - Willis Carrier is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00137",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Refrigerator - Karl von Drais",
     "Refrigerator - Niels Bohr",
     "Refrigerator - Albert Einstein",
     "Refrigerator - Jacob Perkins"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Refrigerator - Jacob Perkins is correctly matched."
+   "answer": 3,
+   "explanation": "Only Refrigerator - Jacob Perkins is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00138",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Refrigerator - Charles Babbage",
     "Refrigerator - Isaac Newton",
     "Refrigerator - Jacob Perkins",
     "Refrigerator - Niels Bohr"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Refrigerator - Jacob Perkins is correctly matched."
+   "answer": 2,
+   "explanation": "Only Refrigerator - Jacob Perkins is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00139",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Bicycle - Isaac Newton",
     "Bicycle - James Watt",
     "Bicycle - Jacob Perkins",
     "Bicycle - Karl von Drais"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bicycle - Karl von Drais is correctly matched."
+   "answer": 3,
+   "explanation": "Only Bicycle - Karl von Drais is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00140",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Bicycle - Antonie van Leeuwenhoek",
     "Bicycle - Karl von Drais",
     "Bicycle - Joseph Priestley",
     "Bicycle - Jacob Perkins"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bicycle - Karl von Drais is correctly matched."
+   "answer": 1,
+   "explanation": "Only Bicycle - Karl von Drais is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00141",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Antiseptic surgery - Michael Faraday",
     "Antiseptic surgery - Joseph Lister",
     "Antiseptic surgery - George Cayley",
     "Antiseptic surgery - Jonas Salk"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Antiseptic surgery - Joseph Lister is correctly matched."
+   "answer": 1,
+   "explanation": "Only Antiseptic surgery - Joseph Lister is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00142",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Antiseptic surgery - Henry Cavendish",
     "Antiseptic surgery - Joseph Lister",
     "Antiseptic surgery - Michael Faraday",
     "Antiseptic surgery - Thomas Alva Edison"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Antiseptic surgery - Joseph Lister is correctly matched."
+   "answer": 1,
+   "explanation": "Only Antiseptic surgery - Joseph Lister is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00143",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Smallpox vaccine (modern) - Edward Jenner",
     "Smallpox vaccine (modern) - Daniel Rutherford",
     "Smallpox vaccine (modern) - Dmitri Mendeleev",
     "Smallpox vaccine (modern) - Karl Landsteiner"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Smallpox vaccine (modern) - Edward Jenner is correctly matched."
+   "answer": 0,
+   "explanation": "Only Smallpox vaccine (modern) - Edward Jenner is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00144",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Smallpox vaccine (modern) - J. J. Thomson",
     "Smallpox vaccine (modern) - Wright Brothers",
     "Smallpox vaccine (modern) - Edward Jenner",
     "Smallpox vaccine (modern) - Johannes Gutenberg"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Smallpox vaccine (modern) - Edward Jenner is correctly matched."
+   "answer": 2,
+   "explanation": "Only Smallpox vaccine (modern) - Edward Jenner is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00145",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Transistor - Charles Babbage",
     "Transistor - John Bardeen and colleagues",
     "Transistor - Rene Laennec",
     "Transistor - John Logie Baird"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Transistor - John Bardeen and colleagues is correctly matched."
+   "answer": 1,
+   "explanation": "Only Transistor - John Bardeen and colleagues is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00146",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Transistor - John Bardeen and colleagues",
     "Transistor - Ernest Rutherford",
     "Transistor - Michael Faraday",
     "Transistor - Charles Darwin"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Transistor - John Bardeen and colleagues is correctly matched."
+   "answer": 0,
+   "explanation": "Only Transistor - John Bardeen and colleagues is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00147",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Television - Wright Brothers",
     "Television - John Logie Baird",
     "Television - Karl Landsteiner",
     "Television - Theodore Maiman"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Television - John Logie Baird is correctly matched."
+   "answer": 1,
+   "explanation": "Only Television - John Logie Baird is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00148",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Television - Karl von Drais",
     "Television - John Logie Baird",
     "Television - Wright Brothers",
     "Television - Frank Whittle"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Television - John Logie Baird is correctly matched."
+   "answer": 1,
+   "explanation": "Only Television - John Logie Baird is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00149",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Stethoscope - Willis Carrier",
     "Stethoscope - Charles Babbage",
     "Stethoscope - Antonie van Leeuwenhoek",
     "Stethoscope - Rene Laennec"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Stethoscope - Rene Laennec is correctly matched."
+   "answer": 3,
+   "explanation": "Only Stethoscope - Rene Laennec is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00150",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Stethoscope - William Harvey",
     "Stethoscope - Guglielmo Marconi",
     "Stethoscope - Rene Laennec",
     "Stethoscope - Michael Faraday"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Stethoscope - Rene Laennec is correctly matched."
+   "answer": 2,
+   "explanation": "Only Stethoscope - Rene Laennec is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00151",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Microscope - Niels Bohr",
     "Microscope - Wilhelm Roentgen",
     "Microscope - Antonie van Leeuwenhoek",
     "Microscope - Charles Darwin"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Microscope - Antonie van Leeuwenhoek is correctly matched."
+   "answer": 2,
+   "explanation": "Only Microscope - Antonie van Leeuwenhoek is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00152",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Microscope - Jonas Salk",
     "Microscope - Alexander Graham Bell",
     "Microscope - Daniel Rutherford",
     "Microscope - Antonie van Leeuwenhoek"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Microscope - Antonie van Leeuwenhoek is correctly matched."
+   "answer": 3,
+   "explanation": "Only Microscope - Antonie van Leeuwenhoek is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00153",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Electric bulb - Thomas Alva Edison",
     "Electric bulb - Henry Cavendish",
     "Electric bulb - James Watt",
     "Electric bulb - Alfred Nobel"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Electric bulb - Thomas Alva Edison is correctly matched."
+   "answer": 0,
+   "explanation": "Only Electric bulb - Thomas Alva Edison is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00154",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Electric bulb - Karl von Drais",
     "Electric bulb - Antonie van Leeuwenhoek",
     "Electric bulb - John Bardeen and colleagues",
     "Electric bulb - Thomas Alva Edison"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Electric bulb - Thomas Alva Edison is correctly matched."
+   "answer": 3,
+   "explanation": "Only Electric bulb - Thomas Alva Edison is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00155",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Diesel engine - Wright Brothers",
     "Diesel engine - Rudolf Diesel",
     "Diesel engine - Thomas Alva Edison",
     "Diesel engine - Henry Cavendish"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Diesel engine - Rudolf Diesel is correctly matched."
+   "answer": 1,
+   "explanation": "Only Diesel engine - Rudolf Diesel is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00156",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Diesel engine - Albert Einstein",
     "Diesel engine - Rudolf Diesel",
     "Diesel engine - Tim Berners-Lee",
     "Diesel engine - Alexander Graham Bell"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Diesel engine - Rudolf Diesel is correctly matched."
+   "answer": 1,
+   "explanation": "Only Diesel engine - Rudolf Diesel is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00157",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Penicillin - John Logie Baird",
     "Penicillin - Karl Landsteiner",
     "Penicillin - Alexander Fleming",
     "Penicillin - Alfred Nobel"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Penicillin - Alexander Fleming is correctly matched."
+   "answer": 2,
+   "explanation": "Only Penicillin - Alexander Fleming is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00158",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Penicillin - Alexander Fleming",
     "Penicillin - Charles Darwin",
     "Penicillin - Alexander Graham Bell",
     "Penicillin - Galileo Galilei"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Penicillin - Alexander Fleming is correctly matched."
+   "answer": 0,
+   "explanation": "Only Penicillin - Alexander Fleming is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00159",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Chloroform as anaesthetic - Max Planck",
     "Chloroform as anaesthetic - Dmitri Mendeleev",
     "Chloroform as anaesthetic - Karl Landsteiner",
     "Chloroform as anaesthetic - James Young Simpson"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Chloroform as anaesthetic - James Young Simpson is correctly matched."
+   "answer": 3,
+   "explanation": "Only Chloroform as anaesthetic - James Young Simpson is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00160",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Chloroform as anaesthetic - Daniel Rutherford",
     "Chloroform as anaesthetic - Theodore Maiman",
     "Chloroform as anaesthetic - James Young Simpson",
     "Chloroform as anaesthetic - John Bardeen and colleagues"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Chloroform as anaesthetic - James Young Simpson is correctly matched."
+   "answer": 2,
+   "explanation": "Only Chloroform as anaesthetic - James Young Simpson is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00161",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Evolution by natural selection - Willis Carrier",
     "Evolution by natural selection - Guglielmo Marconi",
     "Evolution by natural selection - Galileo Galilei",
     "Evolution by natural selection - Charles Darwin"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Evolution by natural selection - Charles Darwin is correctly matched."
+   "answer": 3,
+   "explanation": "Only Evolution by natural selection - Charles Darwin is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00162",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Evolution by natural selection - Charles Darwin",
     "Evolution by natural selection - Thomas Alva Edison",
     "Evolution by natural selection - Guglielmo Marconi",
     "Evolution by natural selection - Karl Landsteiner"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Evolution by natural selection - Charles Darwin is correctly matched."
+   "answer": 0,
+   "explanation": "Only Evolution by natural selection - Charles Darwin is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00163",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Computer (analytical engine) - Frank Whittle",
     "Computer (analytical engine) - Charles Babbage",
     "Computer (analytical engine) - William Harvey",
     "Computer (analytical engine) - Joseph Priestley"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Computer (analytical engine) - Charles Babbage is correctly matched."
+   "answer": 1,
+   "explanation": "Only Computer (analytical engine) - Charles Babbage is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00164",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Computer (analytical engine) - John Bardeen and colleagues",
     "Computer (analytical engine) - Karl Landsteiner",
     "Computer (analytical engine) - Albert Einstein",
     "Computer (analytical engine) - Charles Babbage"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Computer (analytical engine) - Charles Babbage is correctly matched."
+   "answer": 3,
+   "explanation": "Only Computer (analytical engine) - Charles Babbage is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00165",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Electric generator - Watson and Crick",
     "Electric generator - Guglielmo Marconi",
     "Electric generator - Karl Landsteiner",
     "Electric generator - Michael Faraday"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Electric generator - Michael Faraday is correctly matched."
+   "answer": 3,
+   "explanation": "Only Electric generator - Michael Faraday is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00166",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Electric generator - Johannes Gutenberg",
     "Electric generator - George Cayley",
     "Electric generator - Gregor Mendel",
     "Electric generator - Michael Faraday"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Electric generator - Michael Faraday is correctly matched."
+   "answer": 3,
+   "explanation": "Only Electric generator - Michael Faraday is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00167",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Quantum theory - Henry Cavendish",
     "Quantum theory - Jacob Perkins",
     "Quantum theory - Guglielmo Marconi",
     "Quantum theory - Max Planck"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Quantum theory - Max Planck is correctly matched."
+   "answer": 3,
+   "explanation": "Only Quantum theory - Max Planck is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00168",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Quantum theory - Joseph Lister",
     "Quantum theory - Karl von Drais",
     "Quantum theory - Max Planck",
     "Quantum theory - James Chadwick"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Quantum theory - Max Planck is correctly matched."
+   "answer": 2,
+   "explanation": "Only Quantum theory - Max Planck is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00169",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Aerodynamics and flight principles - John Bardeen and colleagues",
     "Aerodynamics and flight principles - Dmitri Mendeleev",
     "Aerodynamics and flight principles - Edward Jenner",
     "Aerodynamics and flight principles - George Cayley"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Aerodynamics and flight principles - George Cayley is correctly matched."
+   "answer": 3,
+   "explanation": "Only Aerodynamics and flight principles - George Cayley is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00170",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Aerodynamics and flight principles - Dmitri Mendeleev",
     "Aerodynamics and flight principles - George Cayley",
     "Aerodynamics and flight principles - James Chadwick",
     "Aerodynamics and flight principles - Johannes Gutenberg"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Aerodynamics and flight principles - George Cayley is correctly matched."
+   "answer": 1,
+   "explanation": "Only Aerodynamics and flight principles - George Cayley is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00171",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Law of planetary motion - Michael Faraday",
     "Law of planetary motion - Daniel Gabriel Fahrenheit",
     "Law of planetary motion - Johannes Kepler",
     "Law of planetary motion - Thomas Alva Edison"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Law of planetary motion - Johannes Kepler is correctly matched."
+   "answer": 2,
+   "explanation": "Only Law of planetary motion - Johannes Kepler is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00172",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Law of planetary motion - Daniel Rutherford",
     "Law of planetary motion - Gregor Mendel",
     "Law of planetary motion - Alfred Nobel",
     "Law of planetary motion - Johannes Kepler"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Law of planetary motion - Johannes Kepler is correctly matched."
+   "answer": 3,
+   "explanation": "Only Law of planetary motion - Johannes Kepler is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00173",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Circulation of blood - Edward Jenner",
     "Circulation of blood - Watson and Crick",
     "Circulation of blood - William Harvey",
     "Circulation of blood - Antonie van Leeuwenhoek"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Circulation of blood - William Harvey is correctly matched."
+   "answer": 2,
+   "explanation": "Only Circulation of blood - William Harvey is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00174",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Circulation of blood - John Bardeen and colleagues",
     "Circulation of blood - Max Planck",
     "Circulation of blood - William Harvey",
     "Circulation of blood - Jonas Salk"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Circulation of blood - William Harvey is correctly matched."
+   "answer": 2,
+   "explanation": "Only Circulation of blood - William Harvey is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00175",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Laser - Alexander Graham Bell",
     "Laser - Theodore Maiman",
     "Laser - George Cayley",
     "Laser - Rudolf Diesel"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Laser - Theodore Maiman is correctly matched."
+   "answer": 1,
+   "explanation": "Only Laser - Theodore Maiman is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00176",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Laser - Frank Whittle",
     "Laser - Michael Faraday",
     "Laser - Alexander Graham Bell",
     "Laser - Theodore Maiman"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Laser - Theodore Maiman is correctly matched."
+   "answer": 3,
+   "explanation": "Only Laser - Theodore Maiman is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00177",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Steam engine - Rudolf Diesel",
     "Steam engine - Michael Faraday",
     "Steam engine - James Watt",
     "Steam engine - Jacob Perkins"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Steam engine - James Watt is correctly matched."
+   "answer": 2,
+   "explanation": "Only Steam engine - James Watt is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00178",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Steam engine - James Chadwick",
     "Steam engine - James Watt",
     "Steam engine - Max Planck",
     "Steam engine - Wright Brothers"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Steam engine - James Watt is correctly matched."
+   "answer": 1,
+   "explanation": "Only Steam engine - James Watt is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00179",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Theory of relativity - Tim Berners-Lee",
     "Theory of relativity - Albert Einstein",
     "Theory of relativity - J. J. Thomson",
     "Theory of relativity - Joseph Lister"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Theory of relativity - Albert Einstein is correctly matched."
+   "answer": 1,
+   "explanation": "Only Theory of relativity - Albert Einstein is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00180",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Theory of relativity - Dmitri Mendeleev",
     "Theory of relativity - Jonas Salk",
     "Theory of relativity - Galileo Galilei",
     "Theory of relativity - Albert Einstein"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Theory of relativity - Albert Einstein is correctly matched."
+   "answer": 3,
+   "explanation": "Only Theory of relativity - Albert Einstein is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00181",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "DNA double helix structure - Michael Faraday",
     "DNA double helix structure - Max Planck",
     "DNA double helix structure - Watson and Crick",
     "DNA double helix structure - James Young Simpson"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only DNA double helix structure - Watson and Crick is correctly matched."
+   "answer": 2,
+   "explanation": "Only DNA double helix structure - Watson and Crick is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00182",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "DNA double helix structure - Wright Brothers",
     "DNA double helix structure - James Watt",
     "DNA double helix structure - Watson and Crick",
     "DNA double helix structure - Frank Whittle"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only DNA double helix structure - Watson and Crick is correctly matched."
+   "answer": 2,
+   "explanation": "Only DNA double helix structure - Watson and Crick is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00183",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Radio - Thomas Alva Edison",
     "Radio - Guglielmo Marconi",
     "Radio - Theodore Maiman",
     "Radio - John Logie Baird"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Radio - Guglielmo Marconi is correctly matched."
+   "answer": 1,
+   "explanation": "Only Radio - Guglielmo Marconi is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00184",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Radio - Charles Babbage",
     "Radio - Niels Bohr",
     "Radio - Guglielmo Marconi",
     "Radio - J. J. Thomson"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Radio - Guglielmo Marconi is correctly matched."
+   "answer": 2,
+   "explanation": "Only Radio - Guglielmo Marconi is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00185",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Oxygen - Gregor Mendel",
     "Oxygen - Joseph Priestley",
     "Oxygen - Marie Curie",
     "Oxygen - Guglielmo Marconi"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Oxygen - Joseph Priestley is correctly matched."
+   "answer": 1,
+   "explanation": "Only Oxygen - Joseph Priestley is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00186",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Oxygen - Joseph Priestley",
     "Oxygen - Johannes Kepler",
     "Oxygen - Niels Bohr",
     "Oxygen - George Cayley"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Oxygen - Joseph Priestley is correctly matched."
+   "answer": 0,
+   "explanation": "Only Oxygen - Joseph Priestley is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00187",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Electron - George Cayley",
     "Electron - J. J. Thomson",
     "Electron - Max Planck",
     "Electron - Joseph Priestley"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Electron - J. J. Thomson is correctly matched."
+   "answer": 1,
+   "explanation": "Only Electron - J. J. Thomson is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00188",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Electron - Antonie van Leeuwenhoek",
     "Electron - J. J. Thomson",
     "Electron - Charles Babbage",
     "Electron - John Bardeen and colleagues"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Electron - J. J. Thomson is correctly matched."
+   "answer": 1,
+   "explanation": "Only Electron - J. J. Thomson is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00189",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Blood groups - William Harvey",
     "Blood groups - Isaac Newton",
     "Blood groups - Johannes Gutenberg",
     "Blood groups - Karl Landsteiner"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Blood groups - Karl Landsteiner is correctly matched."
+   "answer": 3,
+   "explanation": "Only Blood groups - Karl Landsteiner is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00190",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Blood groups - Karl Landsteiner",
     "Blood groups - Charles Darwin",
     "Blood groups - Daniel Rutherford",
     "Blood groups - Rudolf Diesel"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Blood groups - Karl Landsteiner is correctly matched."
+   "answer": 0,
+   "explanation": "Only Blood groups - Karl Landsteiner is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00191",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Telescope (astronomical use) - Johannes Kepler",
     "Telescope (astronomical use) - Galileo Galilei",
     "Telescope (astronomical use) - John Logie Baird",
     "Telescope (astronomical use) - Daniel Rutherford"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Telescope (astronomical use) - Galileo Galilei is correctly matched."
+   "answer": 1,
+   "explanation": "Only Telescope (astronomical use) - Galileo Galilei is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00192",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Telescope (astronomical use) - Galileo Galilei",
     "Telescope (astronomical use) - Daniel Rutherford",
     "Telescope (astronomical use) - George Cayley",
     "Telescope (astronomical use) - Jacob Perkins"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Telescope (astronomical use) - Galileo Galilei is correctly matched."
+   "answer": 0,
+   "explanation": "Only Telescope (astronomical use) - Galileo Galilei is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00193",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Hydrogen - Tim Berners-Lee",
     "Hydrogen - Henry Cavendish",
     "Hydrogen - Daniel Gabriel Fahrenheit",
     "Hydrogen - Michael Faraday"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Hydrogen - Henry Cavendish is correctly matched."
+   "answer": 1,
+   "explanation": "Only Hydrogen - Henry Cavendish is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00194",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Hydrogen - Frank Whittle",
     "Hydrogen - Ernest Rutherford",
     "Hydrogen - Henry Cavendish",
     "Hydrogen - Theodore Maiman"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Hydrogen - Henry Cavendish is correctly matched."
+   "answer": 2,
+   "explanation": "Only Hydrogen - Henry Cavendish is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00195",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Dynamite - James Chadwick",
     "Dynamite - Alfred Nobel",
     "Dynamite - William Harvey",
     "Dynamite - Karl von Drais"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Dynamite - Alfred Nobel is correctly matched."
+   "answer": 1,
+   "explanation": "Only Dynamite - Alfred Nobel is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00196",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Dynamite - James Watt",
     "Dynamite - Willis Carrier",
     "Dynamite - Edward Jenner",
     "Dynamite - Alfred Nobel"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Dynamite - Alfred Nobel is correctly matched."
+   "answer": 3,
+   "explanation": "Only Dynamite - Alfred Nobel is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00197",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "X-ray - Wilhelm Roentgen",
     "X-ray - Joseph Priestley",
     "X-ray - Antonie van Leeuwenhoek",
     "X-ray - Joseph Lister"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only X-ray - Wilhelm Roentgen is correctly matched."
+   "answer": 0,
+   "explanation": "Only X-ray - Wilhelm Roentgen is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00198",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "X-ray - Wilhelm Roentgen",
     "X-ray - Willis Carrier",
     "X-ray - Max Planck",
     "X-ray - Jonas Salk"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only X-ray - Wilhelm Roentgen is correctly matched."
+   "answer": 0,
+   "explanation": "Only X-ray - Wilhelm Roentgen is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00199",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Neutron - Karl von Drais",
     "Neutron - Edward Jenner",
     "Neutron - James Chadwick",
     "Neutron - Karl Landsteiner"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Neutron - James Chadwick is correctly matched."
+   "answer": 2,
+   "explanation": "Only Neutron - James Chadwick is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00200",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Neutron - James Chadwick",
     "Neutron - Dmitri Mendeleev",
     "Neutron - Gregor Mendel",
     "Neutron - Albert Einstein"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Neutron - James Chadwick is correctly matched."
+   "answer": 0,
+   "explanation": "Only Neutron - James Chadwick is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00201",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Telephone - Alexander Graham Bell",
     "Telephone - Ernest Rutherford",
     "Telephone - George Cayley",
     "Telephone - Watson and Crick"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Telephone - Alexander Graham Bell is correctly matched."
+   "answer": 0,
+   "explanation": "Only Telephone - Alexander Graham Bell is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00202",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Telephone - Edward Jenner",
     "Telephone - Alexander Graham Bell",
     "Telephone - John Logie Baird",
     "Telephone - Joseph Lister"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Telephone - Alexander Graham Bell is correctly matched."
+   "answer": 1,
+   "explanation": "Only Telephone - Alexander Graham Bell is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00203",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Motor car - Tim Berners-Lee",
     "Motor car - Jonas Salk",
     "Motor car - Isaac Newton",
     "Motor car - Karl Benz"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Motor car - Karl Benz is correctly matched."
+   "answer": 3,
+   "explanation": "Only Motor car - Karl Benz is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00204",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Motor car - James Watt",
     "Motor car - Charles Babbage",
     "Motor car - Karl Benz",
     "Motor car - Alexander Fleming"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Motor car - Karl Benz is correctly matched."
+   "answer": 2,
+   "explanation": "Only Motor car - Karl Benz is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00205",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Aeroplane - James Young Simpson",
     "Aeroplane - Wright Brothers",
     "Aeroplane - Willis Carrier",
     "Aeroplane - Daniel Gabriel Fahrenheit"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Aeroplane - Wright Brothers is correctly matched."
+   "answer": 1,
+   "explanation": "Only Aeroplane - Wright Brothers is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00206",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Aeroplane - William Harvey",
     "Aeroplane - Watson and Crick",
     "Aeroplane - Wright Brothers",
     "Aeroplane - Michael Faraday"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Aeroplane - Wright Brothers is correctly matched."
+   "answer": 2,
+   "explanation": "Only Aeroplane - Wright Brothers is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00207",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Thermometer (mercury) - Joseph Priestley",
     "Thermometer (mercury) - George Cayley",
     "Thermometer (mercury) - Wright Brothers",
     "Thermometer (mercury) - Daniel Gabriel Fahrenheit"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Thermometer (mercury) - Daniel Gabriel Fahrenheit is correctly matched."
+   "answer": 3,
+   "explanation": "Only Thermometer (mercury) - Daniel Gabriel Fahrenheit is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00208",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Thermometer (mercury) - Daniel Gabriel Fahrenheit",
     "Thermometer (mercury) - Michael Faraday",
     "Thermometer (mercury) - Marie Curie",
     "Thermometer (mercury) - Niels Bohr"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Thermometer (mercury) - Daniel Gabriel Fahrenheit is correctly matched."
+   "answer": 0,
+   "explanation": "Only Thermometer (mercury) - Daniel Gabriel Fahrenheit is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00209",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Nitrogen - Jonas Salk",
     "Nitrogen - Galileo Galilei",
     "Nitrogen - Rene Laennec",
     "Nitrogen - Daniel Rutherford"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nitrogen - Daniel Rutherford is correctly matched."
+   "answer": 3,
+   "explanation": "Only Nitrogen - Daniel Rutherford is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00210",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Nitrogen - Charles Babbage",
     "Nitrogen - Isaac Newton",
     "Nitrogen - Daniel Rutherford",
     "Nitrogen - Wilhelm Roentgen"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nitrogen - Daniel Rutherford is correctly matched."
+   "answer": 2,
+   "explanation": "Only Nitrogen - Daniel Rutherford is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00211",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Electromagnetic induction - Guglielmo Marconi",
     "Electromagnetic induction - Karl Benz",
     "Electromagnetic induction - Michael Faraday",
     "Electromagnetic induction - Alfred Nobel"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Electromagnetic induction - Michael Faraday is correctly matched."
+   "answer": 2,
+   "explanation": "Only Electromagnetic induction - Michael Faraday is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00212",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Electromagnetic induction - Theodore Maiman",
     "Electromagnetic induction - Thomas Alva Edison",
     "Electromagnetic induction - Frank Whittle",
     "Electromagnetic induction - Michael Faraday"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Electromagnetic induction - Michael Faraday is correctly matched."
+   "answer": 3,
+   "explanation": "Only Electromagnetic induction - Michael Faraday is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00213",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "World Wide Web - William Harvey",
     "World Wide Web - Joseph Lister",
     "World Wide Web - Tim Berners-Lee",
     "World Wide Web - Galileo Galilei"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Wide Web - Tim Berners-Lee is correctly matched."
+   "answer": 2,
+   "explanation": "Only World Wide Web - Tim Berners-Lee is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00214",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "World Wide Web - Ernest Rutherford",
     "World Wide Web - Albert Einstein",
     "World Wide Web - Tim Berners-Lee",
     "World Wide Web - Rudolf Diesel"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Wide Web - Tim Berners-Lee is correctly matched."
+   "answer": 2,
+   "explanation": "Only World Wide Web - Tim Berners-Lee is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00215",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Law of heredity - Wilhelm Roentgen",
     "Law of heredity - Gregor Mendel",
     "Law of heredity - Henry Cavendish",
     "Law of heredity - Willis Carrier"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Law of heredity - Gregor Mendel is correctly matched."
+   "answer": 1,
+   "explanation": "Only Law of heredity - Gregor Mendel is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00216",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Law of heredity - Gregor Mendel",
     "Law of heredity - Johannes Kepler",
     "Law of heredity - John Logie Baird",
     "Law of heredity - Marie Curie"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Law of heredity - Gregor Mendel is correctly matched."
+   "answer": 0,
+   "explanation": "Only Law of heredity - Gregor Mendel is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00217",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Printing press - James Watt",
     "Printing press - Alexander Graham Bell",
     "Printing press - Frank Whittle",
     "Printing press - Johannes Gutenberg"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Printing press - Johannes Gutenberg is correctly matched."
+   "answer": 3,
+   "explanation": "Only Printing press - Johannes Gutenberg is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00218",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Printing press - Johannes Gutenberg",
     "Printing press - Michael Faraday",
     "Printing press - Antonie van Leeuwenhoek",
     "Printing press - Rene Laennec"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Printing press - Johannes Gutenberg is correctly matched."
+   "answer": 0,
+   "explanation": "Only Printing press - Johannes Gutenberg is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00219",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Gravity - J. J. Thomson",
     "Gravity - James Young Simpson",
     "Gravity - Isaac Newton",
     "Gravity - Wright Brothers"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Gravity - Isaac Newton is correctly matched."
+   "answer": 2,
+   "explanation": "Only Gravity - Isaac Newton is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00220",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Gravity - J. J. Thomson",
     "Gravity - Isaac Newton",
     "Gravity - Dmitri Mendeleev",
     "Gravity - James Young Simpson"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Gravity - Isaac Newton is correctly matched."
+   "answer": 1,
+   "explanation": "Only Gravity - Isaac Newton is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00221",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Jet engine - James Chadwick",
     "Jet engine - Frank Whittle",
     "Jet engine - Alexander Fleming",
     "Jet engine - Gregor Mendel"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Jet engine - Frank Whittle is correctly matched."
+   "answer": 1,
+   "explanation": "Only Jet engine - Frank Whittle is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00222",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Jet engine - John Logie Baird",
     "Jet engine - Charles Babbage",
     "Jet engine - Ernest Rutherford",
     "Jet engine - Frank Whittle"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Jet engine - Frank Whittle is correctly matched."
+   "answer": 3,
+   "explanation": "Only Jet engine - Frank Whittle is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00223",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Electric generator - Rene Laennec",
     "Air conditioner - Willis Carrier",
     "Law of planetary motion - Johannes Kepler",
     "Periodic table - Dmitri Mendeleev"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Electric generator - Rene Laennec is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Electric generator - Rene Laennec is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00224",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "DNA double helix structure - Watson and Crick",
     "Aerodynamics and flight principles - Karl Landsteiner",
     "Electric bulb - Thomas Alva Edison",
     "Oxygen - Joseph Priestley"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Aerodynamics and flight principles - Karl Landsteiner is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Aerodynamics and flight principles - Karl Landsteiner is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00225",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Circulation of blood - William Harvey",
     "Telephone - Alexander Graham Bell",
     "Air conditioner - Henry Cavendish",
     "Thermometer (mercury) - Daniel Gabriel Fahrenheit"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Air conditioner - Henry Cavendish is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Air conditioner - Henry Cavendish is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00226",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Computer (analytical engine) - Joseph Priestley",
     "Air conditioner - Willis Carrier",
     "Bicycle - Karl von Drais",
     "Quantum theory - Max Planck"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Computer (analytical engine) - Joseph Priestley is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Computer (analytical engine) - Joseph Priestley is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00227",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Telephone - Dmitri Mendeleev",
     "Laser - Theodore Maiman",
     "Quantum theory - Max Planck",
     "Periodic table - Dmitri Mendeleev"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Telephone - Dmitri Mendeleev is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Telephone - Dmitri Mendeleev is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00228",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "DNA double helix structure - Watson and Crick",
     "Telescope (astronomical use) - Galileo Galilei",
     "Computer (analytical engine) - Charles Babbage",
     "Microscope - Dmitri Mendeleev"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Microscope - Dmitri Mendeleev is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Microscope - Dmitri Mendeleev is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00229",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Nitrogen - Daniel Rutherford",
     "Gravity - Charles Babbage",
     "Thermometer (mercury) - Daniel Gabriel Fahrenheit",
     "Smallpox vaccine (modern) - Edward Jenner"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Gravity - Charles Babbage is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Gravity - Charles Babbage is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00230",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Hydrogen - Henry Cavendish",
     "Circulation of blood - William Harvey",
     "Law of heredity - Johannes Gutenberg",
     "Radio - Guglielmo Marconi"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Law of heredity - Johannes Gutenberg is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Law of heredity - Johannes Gutenberg is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00231",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Telephone - Alexander Graham Bell",
     "Smallpox vaccine (modern) - Edward Jenner",
     "Microscope - Antonie van Leeuwenhoek",
     "Telescope (astronomical use) - Ernest Rutherford"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Telescope (astronomical use) - Ernest Rutherford is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Telescope (astronomical use) - Ernest Rutherford is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00232",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Bicycle - Antonie van Leeuwenhoek",
     "Atom (nuclear model) - Niels Bohr",
     "Oxygen - Joseph Priestley",
     "Transistor - John Bardeen and colleagues"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Bicycle - Antonie van Leeuwenhoek is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Bicycle - Antonie van Leeuwenhoek is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00233",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Proton - Ernest Rutherford",
     "World Wide Web - Tim Berners-Lee",
     "Motor car - Isaac Newton",
     "Computer (analytical engine) - Charles Babbage"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Motor car - Isaac Newton is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Motor car - Isaac Newton is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00234",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Electric bulb - Thomas Alva Edison",
     "Oxygen - Joseph Priestley",
     "Television - John Logie Baird",
     "Penicillin - Karl Benz"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Penicillin - Karl Benz is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Penicillin - Karl Benz is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00235",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Diesel engine - Rudolf Diesel",
     "Radium - Michael Faraday",
     "Telescope (astronomical use) - Galileo Galilei",
     "Aerodynamics and flight principles - George Cayley"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Radium - Michael Faraday is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Radium - Michael Faraday is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00236",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Electric generator - Michael Faraday",
     "Nitrogen - Rudolf Diesel",
     "Gravity - Isaac Newton",
     "Aeroplane - Wright Brothers"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Nitrogen - Rudolf Diesel is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Nitrogen - Rudolf Diesel is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00237",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Jet engine - Frank Whittle",
     "Oxygen - Joseph Priestley",
     "Electromagnetic induction - Wright Brothers",
     "Theory of relativity - Albert Einstein"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Electromagnetic induction - Wright Brothers is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Electromagnetic induction - Wright Brothers is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00238",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Motor car - Karl Benz",
     "Electric bulb - Jonas Salk",
     "X-ray - Wilhelm Roentgen",
     "Gravity - Isaac Newton"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Electric bulb - Jonas Salk is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Electric bulb - Jonas Salk is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00239",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Electric generator - Michael Faraday",
     "Electron - Frank Whittle",
     "Chloroform as anaesthetic - James Young Simpson",
     "Atom (nuclear model) - Niels Bohr"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Electron - Frank Whittle is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Electron - Frank Whittle is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00240",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Radio - Guglielmo Marconi",
     "Smallpox vaccine (modern) - Edward Jenner",
     "Circulation of blood - William Harvey",
     "Diesel engine - Joseph Lister"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Diesel engine - Joseph Lister is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Diesel engine - Joseph Lister is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00241",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Telephone - Alexander Graham Bell",
     "Periodic table - Alfred Nobel",
     "Quantum theory - Max Planck",
     "Electric bulb - Thomas Alva Edison"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Periodic table - Alfred Nobel is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Periodic table - Alfred Nobel is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00242",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Printing press - Max Planck",
     "Evolution by natural selection - Charles Darwin",
     "Dynamite - Alfred Nobel",
     "Electric bulb - Thomas Alva Edison"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Printing press - Max Planck is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Printing press - Max Planck is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00243",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Television - James Young Simpson",
     "Radium - Marie Curie",
     "Vaccination against smallpox - Edward Jenner",
     "Radio - Guglielmo Marconi"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Television - James Young Simpson is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Television - James Young Simpson is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00244",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Electron - J. J. Thomson",
     "Vaccination against smallpox - James Watt",
     "Atom (nuclear model) - Niels Bohr",
     "Hydrogen - Henry Cavendish"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Vaccination against smallpox - James Watt is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Vaccination against smallpox - James Watt is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00245",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Computer (analytical engine) - Charles Babbage",
     "Stethoscope - Rene Laennec",
     "Polio vaccine - J. J. Thomson",
     "Electric bulb - Thomas Alva Edison"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Polio vaccine - J. J. Thomson is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Polio vaccine - J. J. Thomson is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00246",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Jet engine - Frank Whittle",
     "Printing press - Johannes Gutenberg",
     "Aeroplane - John Logie Baird",
     "DNA double helix structure - Watson and Crick"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Aeroplane - John Logie Baird is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Aeroplane - John Logie Baird is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00247",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "DNA double helix structure - Watson and Crick",
     "Hydrogen - Henry Cavendish",
     "Smallpox vaccine (modern) - Edward Jenner",
     "Proton - Galileo Galilei"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Proton - Galileo Galilei is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Proton - Galileo Galilei is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00248",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Telescope (astronomical use) - Galileo Galilei",
     "Air conditioner - Willis Carrier",
     "Radio - Karl Landsteiner",
     "Television - John Logie Baird"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Radio - Karl Landsteiner is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Radio - Karl Landsteiner is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00249",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Telephone - Alexander Graham Bell",
     "Aerodynamics and flight principles - George Cayley",
     "Transistor - Alexander Graham Bell",
     "Radium - Marie Curie"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Transistor - Alexander Graham Bell is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Transistor - Alexander Graham Bell is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00250",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Vaccination against smallpox - Edward Jenner",
     "Evolution by natural selection - Charles Darwin",
     "Laser - Theodore Maiman",
     "Blood groups - Guglielmo Marconi"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Blood groups - Guglielmo Marconi is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Blood groups - Guglielmo Marconi is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00251",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Polio vaccine - Jonas Salk",
     "Circulation of blood - Galileo Galilei",
     "Law of planetary motion - Johannes Kepler",
     "Penicillin - Alexander Fleming"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Circulation of blood - Galileo Galilei is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Circulation of blood - Galileo Galilei is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00252",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Steam engine - Alexander Fleming",
     "Nitrogen - Daniel Rutherford",
     "Computer (analytical engine) - Charles Babbage",
     "Blood groups - Karl Landsteiner"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Steam engine - Alexander Fleming is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Steam engine - Alexander Fleming is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00253",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Oxygen - J. J. Thomson",
     "Microscope - Antonie van Leeuwenhoek",
     "Blood groups - Karl Landsteiner",
     "Circulation of blood - William Harvey"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Oxygen - J. J. Thomson is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Oxygen - J. J. Thomson is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00254",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Neutron - James Chadwick",
     "Stethoscope - Daniel Rutherford",
     "Radium - Marie Curie",
     "Hydrogen - Henry Cavendish"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Stethoscope - Daniel Rutherford is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Stethoscope - Daniel Rutherford is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00255",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Refrigerator - Jacob Perkins",
     "Microscope - Antonie van Leeuwenhoek",
     "Quantum theory - Gregor Mendel",
     "Motor car - Karl Benz"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Quantum theory - Gregor Mendel is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Quantum theory - Gregor Mendel is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00256",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Atom (nuclear model) - Niels Bohr",
     "Law of planetary motion - Henry Cavendish",
     "Radio - Guglielmo Marconi",
     "Nitrogen - Daniel Rutherford"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Law of planetary motion - Henry Cavendish is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Law of planetary motion - Henry Cavendish is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00257",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Atom (nuclear model) - Niels Bohr",
     "Microscope - Antonie van Leeuwenhoek",
     "DNA double helix structure - Watson and Crick",
     "Chloroform as anaesthetic - Michael Faraday"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Chloroform as anaesthetic - Michael Faraday is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Chloroform as anaesthetic - Michael Faraday is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00258",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Quantum theory - Max Planck",
     "Laser - Theodore Maiman",
     "Atom (nuclear model) - George Cayley",
     "Periodic table - Dmitri Mendeleev"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Atom (nuclear model) - George Cayley is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Atom (nuclear model) - George Cayley is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00259",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Laser - Michael Faraday",
     "Hydrogen - Henry Cavendish",
     "Law of planetary motion - Johannes Kepler",
     "Air conditioner - Willis Carrier"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Laser - Michael Faraday is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Laser - Michael Faraday is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "inventions-discoveries-00260",
-   "q": "Which of the following pairs of invention and inventor is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is NOT correctly matched?",
+   "options": [
     "Air conditioner - Willis Carrier",
     "Dynamite - Alfred Nobel",
     "Thermometer (mercury) - Antonie van Leeuwenhoek",
     "Neutron - James Chadwick"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Thermometer (mercury) - Antonie van Leeuwenhoek is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Thermometer (mercury) - Antonie van Leeuwenhoek is not correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   }
  ]
 };

@@ -16,15003 +16,15003 @@
  "questions": [
   {
    "id": "general-knowledge-00001",
-   "q": "How many colours are there in a rainbow?",
-   "o": [
+   "question": "How many colours are there in a rainbow?",
+   "options": [
     "Five",
     "Six",
     "Seven",
     "Eight"
    ],
-   "a": 2,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "A rainbow shows seven colours: violet to red."
+   "answer": 2,
+   "explanation": "A rainbow shows seven colours: violet to red.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "general-knowledge-00002",
-   "q": "Which is the largest bird in the world?",
-   "o": [
+   "question": "Which is the largest bird in the world?",
+   "options": [
     "Eagle",
     "Ostrich",
     "Emu",
     "Albatross"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The ostrich is the largest living bird."
+   "answer": 1,
+   "explanation": "The ostrich is the largest living bird.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "general-knowledge-00003",
-   "q": "Which is the national animal of India?",
-   "o": [
+   "question": "Which is the national animal of India?",
+   "options": [
     "Lion",
     "Bengal Tiger",
     "Elephant",
     "Leopard"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The Bengal Tiger is the national animal of India."
+   "answer": 1,
+   "explanation": "The Bengal Tiger is the national animal of India.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "general-knowledge-00004",
-   "q": "How many players are there in a football team on the field?",
-   "o": [
+   "question": "How many players are there in a football team on the field?",
+   "options": [
     "9",
     "10",
     "11",
     "12"
    ],
-   "a": 2,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Each football team fields eleven players."
+   "answer": 2,
+   "explanation": "Each football team fields eleven players.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "general-knowledge-00005",
-   "q": "Which festival is known as the 'festival of colours'?",
-   "o": [
+   "question": "Which festival is known as the 'festival of colours'?",
+   "options": [
     "Diwali",
     "Holi",
     "Onam",
     "Pongal"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Holi is celebrated with coloured powder and water."
+   "answer": 1,
+   "explanation": "Holi is celebrated with coloured powder and water.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "general-knowledge-00006",
-   "q": "Which is the fastest land animal?",
-   "o": [
+   "question": "Which is the fastest land animal?",
+   "options": [
     "Lion",
     "Cheetah",
     "Horse",
     "Leopard"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The cheetah can reach about 100 km per hour in short bursts."
+   "answer": 1,
+   "explanation": "The cheetah can reach about 100 km per hour in short bursts.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "general-knowledge-00007",
-   "q": "What is the currency of the United Kingdom?",
-   "o": [
+   "question": "What is the currency of the United Kingdom?",
+   "options": [
     "Euro",
     "Pound sterling",
     "Dollar",
     "Franc"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The UK uses the pound sterling."
+   "answer": 1,
+   "explanation": "The UK uses the pound sterling.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "general-knowledge-00008",
-   "q": "Which is the largest mammal in the world?",
-   "o": [
+   "question": "Which is the largest mammal in the world?",
+   "options": [
     "Elephant",
     "Blue whale",
     "Giraffe",
     "Hippopotamus"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The blue whale is the largest animal on Earth."
+   "answer": 1,
+   "explanation": "The blue whale is the largest animal on Earth.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "general-knowledge-00009",
-   "q": "How many days are there in a leap year?",
-   "o": [
+   "question": "How many days are there in a leap year?",
+   "options": [
     "364",
     "365",
     "366",
     "367"
    ],
-   "a": 2,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "A leap year has 366 days, with 29 days in February."
+   "answer": 2,
+   "explanation": "A leap year has 366 days, with 29 days in February.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "general-knowledge-00010",
-   "q": "Which is the tallest building in the world?",
-   "o": [
+   "question": "Which is the tallest building in the world?",
+   "options": [
     "Shanghai Tower",
     "Burj Khalifa",
     "Merdeka 118",
     "One World Trade Center"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Burj Khalifa in Dubai is the tallest building."
+   "answer": 1,
+   "explanation": "Burj Khalifa in Dubai is the tallest building.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "general-knowledge-00011",
-   "q": "What is the national sport of Japan?",
-   "o": [
+   "question": "What is the national sport of Japan?",
+   "options": [
     "Judo",
     "Sumo wrestling",
     "Karate",
     "Baseball"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Sumo wrestling is regarded as Japan's national sport."
+   "answer": 1,
+   "explanation": "Sumo wrestling is regarded as Japan's national sport.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "general-knowledge-00012",
-   "q": "Which is the largest flower in the world?",
-   "o": [
+   "question": "Which is the largest flower in the world?",
+   "options": [
     "Lotus",
     "Rafflesia",
     "Sunflower",
     "Tulip"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Rafflesia arnoldii produces the world's largest individual flower."
+   "answer": 1,
+   "explanation": "Rafflesia arnoldii produces the world's largest individual flower.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "general-knowledge-00013",
-   "q": "Which gas do humans breathe in to survive?",
-   "o": [
+   "question": "Which gas do humans breathe in to survive?",
+   "options": [
     "Carbon dioxide",
     "Oxygen",
     "Nitrogen",
     "Helium"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Humans need oxygen for respiration."
+   "answer": 1,
+   "explanation": "Humans need oxygen for respiration.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "general-knowledge-00014",
-   "q": "How many minutes are there in a full day?",
-   "o": [
+   "question": "How many minutes are there in a full day?",
+   "options": [
     "1200",
     "1440",
     "1540",
     "1680"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "24 hours times 60 minutes equals 1,440 minutes."
+   "answer": 1,
+   "explanation": "24 hours times 60 minutes equals 1,440 minutes.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "general-knowledge-00015",
-   "q": "Which is the largest island in the world?",
-   "o": [
+   "question": "Which is the largest island in the world?",
+   "options": [
     "Borneo",
     "Greenland",
     "New Guinea",
     "Madagascar"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Greenland is the largest island; Australia counts as a continent."
+   "answer": 1,
+   "explanation": "Greenland is the largest island; Australia counts as a continent.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "general-knowledge-00016",
-   "q": "Who invented the telephone?",
-   "o": [
+   "question": "Who invented the telephone?",
+   "options": [
     "Thomas Edison",
     "Alexander Graham Bell",
     "Nikola Tesla",
     "Guglielmo Marconi"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Alexander Graham Bell is credited with inventing the telephone."
+   "answer": 1,
+   "explanation": "Alexander Graham Bell is credited with inventing the telephone.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "general-knowledge-00017",
-   "q": "Which is the national flower of India?",
-   "o": [
+   "question": "Which is the national flower of India?",
+   "options": [
     "Rose",
     "Lotus",
     "Sunflower",
     "Marigold"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Lotus is the national flower of India."
+   "answer": 1,
+   "explanation": "Lotus is the national flower of India.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "general-knowledge-00018",
-   "q": "In which sport is the term 'hat-trick' used for three wickets in three balls?",
-   "o": [
+   "question": "In which sport is the term 'hat-trick' used for three wickets in three balls?",
+   "options": [
     "Hockey",
     "Cricket",
     "Tennis",
     "Badminton"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "In cricket, three wickets in three consecutive balls is a hat-trick."
+   "answer": 1,
+   "explanation": "In cricket, three wickets in three consecutive balls is a hat-trick.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "general-knowledge-00019",
-   "q": "Which is the coldest place on Earth?",
-   "o": [
+   "question": "Which is the coldest place on Earth?",
+   "options": [
     "Siberia",
     "Antarctica",
     "Greenland",
     "Alaska"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Antarctica records the lowest temperatures on Earth."
+   "answer": 1,
+   "explanation": "Antarctica records the lowest temperatures on Earth.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "general-knowledge-00020",
-   "q": "How many bones does a newborn baby have approximately?",
-   "o": [
+   "question": "How many bones does a newborn baby have approximately?",
+   "options": [
     "206",
     "250",
     "300",
     "180"
    ],
-   "a": 2,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "A newborn has about 300 bones, which fuse to 206 in adulthood."
+   "answer": 2,
+   "explanation": "A newborn has about 300 bones, which fuse to 206 in adulthood.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "general-knowledge-00021",
-   "q": "What is the capital of Ethiopia?",
-   "o": [
+   "question": "What is the capital of Ethiopia?",
+   "options": [
     "Damascus",
     "Muscat",
     "Addis Ababa",
     "Abu Dhabi"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Ethiopia is Addis Ababa."
+   "answer": 2,
+   "explanation": "The capital of Ethiopia is Addis Ababa.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00022",
-   "q": "On which date is World First Aid Day observed?",
-   "o": [
+   "question": "On which date is World First Aid Day observed?",
+   "options": [
     "23 March",
     "second Saturday of September",
     "10 February",
     "17 May"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World First Aid Day is observed on second Saturday of September."
+   "answer": 1,
+   "explanation": "World First Aid Day is observed on second Saturday of September.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00023",
-   "q": "Where is the headquarters of World Intellectual Property Organization?",
-   "o": [
+   "question": "Where is the headquarters of World Intellectual Property Organization?",
+   "options": [
     "Brussels",
     "Kathmandu",
     "Geneva",
     "Washington, D.C."
    ],
-   "a": 2,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "World Intellectual Property Organization is headquartered at Geneva."
+   "answer": 2,
+   "explanation": "World Intellectual Property Organization is headquartered at Geneva.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00024",
-   "q": "How many players are there in a Basketball team?",
-   "o": [
+   "question": "How many players are there in a Basketball team?",
+   "options": [
     "7",
     "1",
     "5",
     "9"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Basketball team has 5 players."
+   "answer": 2,
+   "explanation": "A Basketball team has 5 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00025",
-   "q": "Academy Award (Oscar) is associated with which of the following?",
-   "o": [
+   "question": "Academy Award (Oscar) is associated with which of the following?",
+   "options": [
     "Second highest military decoration of India",
     "Highest military decoration of India",
     "American award for films",
     "British award for fiction"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Academy Award (Oscar) — American award for films."
+   "answer": 2,
+   "explanation": "Academy Award (Oscar) — American award for films.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00026",
-   "q": "Who is the author of On the Origin of Species?",
-   "o": [
+   "question": "Who is the author of On the Origin of Species?",
+   "options": [
     "Jawaharlal Nehru",
     "Charles Darwin",
     "Vishnu Sharma",
     "Plato"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "On the Origin of Species is written by Charles Darwin."
+   "answer": 1,
+   "explanation": "On the Origin of Species is written by Charles Darwin.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00027",
-   "q": "First woman to climb Mount Everest is associated with which of the following?",
-   "o": [
+   "question": "First woman to climb Mount Everest is associated with which of the following?",
+   "options": [
     "Junko Tabei",
     "Karnam Malleswari",
     "Joshua Slocum",
     "Chamonix"
    ],
-   "a": 0,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First woman to climb Mount Everest — Junko Tabei."
+   "answer": 0,
+   "explanation": "First woman to climb Mount Everest — Junko Tabei.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00028",
-   "q": "Which is the largest lake in the world?",
-   "o": [
+   "question": "Which is the largest lake in the world?",
+   "options": [
     "Jamshedpur",
     "Lake Titicaca",
     "Caspian Sea",
     "Wular Lake"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00029",
-   "q": "Which is the lowest capital city in the world?",
-   "o": [
+   "question": "Which is the lowest capital city in the world?",
+   "options": [
     "Guru Shikhar",
     "United States of America",
     "Kibithu",
     "Baku"
    ],
-   "a": 3,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 3,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00030",
-   "q": "In which year was the Bombay Stock Exchange established?",
-   "o": [
+   "question": "In which year was the Bombay Stock Exchange established?",
+   "options": [
     "Manila",
     "Mumbai",
     "1875",
     "An area with special economic regulations to promote exports"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00031",
-   "q": "Which Indian became the youngest world chess champion?",
-   "o": [
+   "question": "Which Indian became the youngest world chess champion?",
+   "options": [
     "Sachin Tendulkar",
     "Mahatma Gandhi National Rural Employment Guarantee Scheme",
     "D. Gukesh",
     "Chandrayaan-3"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00032",
-   "q": "What is the capital of Romania?",
-   "o": [
+   "question": "What is the capital of Romania?",
+   "options": [
     "Addis Ababa",
     "Damascus",
     "Bucharest",
     "Bamako"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Romania is Bucharest."
+   "answer": 2,
+   "explanation": "The capital of Romania is Bucharest.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00033",
-   "q": "On which date is World Refugee Day observed?",
-   "o": [
+   "question": "On which date is World Refugee Day observed?",
+   "options": [
     "4 October",
     "20 June",
     "7 April",
     "15 October"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Refugee Day is observed on 20 June."
+   "answer": 1,
+   "explanation": "World Refugee Day is observed on 20 June.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00034",
-   "q": "Where is the headquarters of International Labour Organization?",
-   "o": [
+   "question": "Where is the headquarters of International Labour Organization?",
+   "options": [
     "Geneva",
     "New York",
     "Mumbai",
     "Shanghai"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "International Labour Organization is headquartered at Geneva."
+   "answer": 0,
+   "explanation": "International Labour Organization is headquartered at Geneva.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00035",
-   "q": "How many players are there in a Handball team?",
-   "o": [
+   "question": "How many players are there in a Handball team?",
+   "options": [
     "9",
     "7",
     "6",
     "4"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Handball team has 7 players."
+   "answer": 1,
+   "explanation": "A Handball team has 7 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00036",
-   "q": "Indian Premier League is associated with which sport?",
-   "o": [
+   "question": "Indian Premier League is associated with which sport?",
+   "options": [
     "Cricket",
     "Hockey",
     "Multi-sport",
     "Football"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Indian Premier League is associated with Cricket."
+   "answer": 0,
+   "explanation": "Indian Premier League is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00037",
-   "q": "Ashoka Chakra is associated with which of the following?",
-   "o": [
+   "question": "Ashoka Chakra is associated with which of the following?",
+   "options": [
     "Indian award in science and technology",
     "Outstanding performance in Indian sports",
     "International award for Physics, Chemistry, Medicine, Literature, Peace and Economics",
     "Highest peacetime gallantry award of India"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Ashoka Chakra — Highest peacetime gallantry award of India."
+   "answer": 3,
+   "explanation": "Ashoka Chakra — Highest peacetime gallantry award of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00038",
-   "q": "Who is the author of The Interpretation of Dreams?",
-   "o": [
+   "question": "Who is the author of The Interpretation of Dreams?",
+   "options": [
     "Sigmund Freud",
     "Arundhati Roy",
     "Rabindranath Tagore",
     "Maulana Abul Kalam Azad"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "The Interpretation of Dreams is written by Sigmund Freud."
+   "answer": 0,
+   "explanation": "The Interpretation of Dreams is written by Sigmund Freud.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00039",
-   "q": "First country to send a human into space is associated with which of the following?",
-   "o": [
+   "question": "First country to send a human into space is associated with which of the following?",
+   "options": [
     "Neil Armstrong",
     "Chamonix",
     "Soviet Union",
     "New Zealand"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First country to send a human into space — Soviet Union."
+   "answer": 2,
+   "explanation": "First country to send a human into space — Soviet Union.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00040",
-   "q": "Which Indian city is called the Steel City?",
-   "o": [
+   "question": "Which Indian city is called the Steel City?",
+   "options": [
     "Jamshedpur",
     "Majuli",
     "Tibet",
     "Kunchikal Falls"
    ],
-   "a": 0,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 0,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00041",
-   "q": "Which river originates from the Gangotri Glacier?",
-   "o": [
+   "question": "Which river originates from the Gangotri Glacier?",
+   "options": [
     "Brazil",
     "United States of America",
     "Kolkata",
     "Ganga"
    ],
-   "a": 3,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 3,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00042",
-   "q": "How many major banks were nationalised in India in 1969?",
-   "o": [
+   "question": "How many major banks were nationalised in India in 1969?",
+   "options": [
     "Narasimham Committee",
     "1995",
     "Customs duty",
     "Fourteen"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00043",
-   "q": "In which year was the Swachh Bharat Mission launched?",
-   "o": [
+   "question": "In which year was the Swachh Bharat Mission launched?",
+   "options": [
     "2014",
     "Gaganyaan",
     "D. Gukesh",
     "National Dairy Development Programme"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00044",
-   "q": "What is the capital of Lesotho?",
-   "o": [
+   "question": "What is the capital of Lesotho?",
+   "options": [
     "Maseru",
     "Jakarta",
     "Bucharest",
     "Georgetown"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Lesotho is Maseru."
+   "answer": 0,
+   "explanation": "The capital of Lesotho is Maseru.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00045",
-   "q": "On which date is Doctors' Day (India) observed?",
-   "o": [
+   "question": "On which date is Doctors' Day (India) observed?",
+   "options": [
     "1 July",
     "31 October",
     "8 May",
     "21 May"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "Doctors' Day (India) is observed on 1 July."
+   "answer": 0,
+   "explanation": "Doctors' Day (India) is observed on 1 July.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00046",
-   "q": "Where is the headquarters of International Hockey Federation?",
-   "o": [
+   "question": "Where is the headquarters of International Hockey Federation?",
+   "options": [
     "Cologny",
     "Lausanne",
     "Beijing",
     "Manila"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "International Hockey Federation is headquartered at Lausanne."
+   "answer": 1,
+   "explanation": "International Hockey Federation is headquartered at Lausanne.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00047",
-   "q": "How many players are there in a Hockey team?",
-   "o": [
+   "question": "How many players are there in a Hockey team?",
+   "options": [
     "7",
     "11",
     "9",
     "6"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Hockey team has 11 players."
+   "answer": 1,
+   "explanation": "A Hockey team has 11 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00048",
-   "q": "Merdeka Cup is associated with which sport?",
-   "o": [
+   "question": "Merdeka Cup is associated with which sport?",
+   "options": [
     "Cricket",
     "Football",
     "Badminton",
     "Tennis"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Merdeka Cup is associated with Football."
+   "answer": 1,
+   "explanation": "Merdeka Cup is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00049",
-   "q": "Gandhi Peace Prize is associated with which of the following?",
-   "o": [
+   "question": "Gandhi Peace Prize is associated with which of the following?",
+   "options": [
     "Lifetime achievement in Indian sports",
     "Coaching excellence in Indian sports",
     "Indian award for social work and peace",
     "Second highest military decoration of India"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Gandhi Peace Prize — Indian award for social work and peace."
+   "answer": 2,
+   "explanation": "Gandhi Peace Prize — Indian award for social work and peace.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00050",
-   "q": "Who is the author of Maila Anchal?",
-   "o": [
+   "question": "Who is the author of Maila Anchal?",
+   "options": [
     "Phanishwar Nath Renu",
     "Charles Dickens",
     "Mahatma Gandhi",
     "Adolf Hitler"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Maila Anchal is written by Phanishwar Nath Renu."
+   "answer": 0,
+   "explanation": "Maila Anchal is written by Phanishwar Nath Renu.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00051",
-   "q": "First person to walk on the Moon is associated with which of the following?",
-   "o": [
+   "question": "First person to walk on the Moon is associated with which of the following?",
+   "options": [
     "England",
     "Abhinav Bindra",
     "Trygve Lie",
     "Neil Armstrong"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First person to walk on the Moon — Neil Armstrong."
+   "answer": 3,
+   "explanation": "First person to walk on the Moon — Neil Armstrong.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00052",
-   "q": "Which is the longest mountain range in the world?",
-   "o": [
+   "question": "Which is the longest mountain range in the world?",
+   "options": [
     "Andes",
     "Amazon",
     "Punjab",
     "Volga"
    ],
-   "a": 0,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 0,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00053",
-   "q": "Which is the least populous state of India?",
-   "o": [
+   "question": "Which is the least populous state of India?",
+   "options": [
     "Udaipur",
     "Asia",
     "Sikkim",
     "Bhutan"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00054",
-   "q": "What is the minimum percentage of deposits banks must keep in liquid assets?",
-   "o": [
+   "question": "What is the minimum percentage of deposits banks must keep in liquid assets?",
+   "options": [
     "Lorenz curve",
     "UNDP",
     "Gross National Product",
     "Statutory Liquidity Ratio"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00055",
-   "q": "What is the Indian Regional Navigation Satellite System called?",
-   "o": [
+   "question": "What is the Indian Regional Navigation Satellite System called?",
+   "options": [
     "Pradhan Mantri Garib Kalyan Anna Yojana",
     "Kerala",
     "NavIC",
     "Jal Jeevan Mission"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00056",
-   "q": "What is the capital of Uruguay?",
-   "o": [
+   "question": "What is the capital of Uruguay?",
+   "options": [
     "Pyongyang",
     "Djibouti",
     "Montevideo",
     "Maseru"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Uruguay is Montevideo."
+   "answer": 2,
+   "explanation": "The capital of Uruguay is Montevideo.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00057",
-   "q": "On which date is International Asteroid Day observed?",
-   "o": [
+   "question": "On which date is International Asteroid Day observed?",
+   "options": [
     "24 January",
     "30 June",
     "8 March",
     "25 January"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Asteroid Day is observed on 30 June."
+   "answer": 1,
+   "explanation": "International Asteroid Day is observed on 30 June.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00058",
-   "q": "Where is the headquarters of European Space Agency?",
-   "o": [
+   "question": "Where is the headquarters of European Space Agency?",
+   "options": [
     "Paris",
     "Lausanne",
     "Berlin",
     "Vienna"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "European Space Agency is headquartered at Paris."
+   "answer": 0,
+   "explanation": "European Space Agency is headquartered at Paris.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00059",
-   "q": "How many players are there in a Ice hockey team?",
-   "o": [
+   "question": "How many players are there in a Ice hockey team?",
+   "options": [
     "6",
     "11",
     "8",
     "7"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Ice hockey team has 6 players."
+   "answer": 0,
+   "explanation": "A Ice hockey team has 6 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00060",
-   "q": "Aga Khan Cup is associated with which sport?",
-   "o": [
+   "question": "Aga Khan Cup is associated with which sport?",
+   "options": [
     "Cricket",
     "Hockey",
     "Football",
     "Badminton"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Aga Khan Cup is associated with Hockey."
+   "answer": 1,
+   "explanation": "Aga Khan Cup is associated with Hockey.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00061",
-   "q": "Indira Gandhi Prize is associated with which of the following?",
-   "o": [
+   "question": "Indira Gandhi Prize is associated with which of the following?",
+   "options": [
     "Alternative Nobel Prize",
     "International award for Physics, Chemistry, Medicine, Literature, Peace and Economics",
     "Indian literary award",
     "Indian award for peace, disarmament and development"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Indira Gandhi Prize — Indian award for peace, disarmament and development."
+   "answer": 3,
+   "explanation": "Indira Gandhi Prize — Indian award for peace, disarmament and development.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00062",
-   "q": "Who is the author of Oliver Twist?",
-   "o": [
+   "question": "Who is the author of Oliver Twist?",
+   "options": [
     "Adam Smith",
     "Charles Dickens",
     "Homer",
     "Rabindranath Tagore"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Oliver Twist is written by Charles Dickens."
+   "answer": 1,
+   "explanation": "Oliver Twist is written by Charles Dickens.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00063",
-   "q": "First woman Prime Minister in the world is associated with which of the following?",
-   "o": [
+   "question": "First woman Prime Minister in the world is associated with which of the following?",
+   "options": [
     "Soviet Union",
     "Sirimavo Bandaranaike",
     "Trygve Lie",
     "United States of America"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First woman Prime Minister in the world — Sirimavo Bandaranaike."
+   "answer": 1,
+   "explanation": "First woman Prime Minister in the world — Sirimavo Bandaranaike.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00064",
-   "q": "Which is the longest river in the world?",
-   "o": [
+   "question": "Which is the longest river in the world?",
+   "options": [
     "Nile",
     "South China Sea",
     "Majuli",
     "Arunachal Pradesh"
    ],
-   "a": 0,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 0,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00065",
-   "q": "Which line divides the Earth into the Northern and Southern Hemispheres?",
-   "o": [
+   "question": "Which line divides the Earth into the Northern and Southern Hemispheres?",
+   "options": [
     "Uttar Pradesh",
     "Equator",
     "Strait of Malacca",
     "Vatican City"
    ],
-   "a": 1,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 1,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00066",
-   "q": "Which is the central bank of the United States?",
-   "o": [
+   "question": "Which is the central bank of the United States?",
+   "options": [
     "Federal Reserve",
     "28 per cent",
     "Manmohan Singh",
     "Ten"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00067",
-   "q": "Which mission will carry Indian astronauts to space?",
-   "o": [
+   "question": "Which mission will carry Indian astronauts to space?",
+   "options": [
     "Manushi Chhillar",
     "Aditya-L1",
     "Gaganyaan",
     "World Happiness Report"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00068",
-   "q": "What is the capital of Malta?",
-   "o": [
+   "question": "What is the capital of Malta?",
+   "options": [
     "Valletta",
     "Sucre",
     "Yaounde",
     "Copenhagen"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Malta is Valletta."
+   "answer": 0,
+   "explanation": "The capital of Malta is Valletta.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00069",
-   "q": "On which date is World Computer Security Day observed?",
-   "o": [
+   "question": "On which date is World Computer Security Day observed?",
+   "options": [
     "30 November",
     "24 October",
     "2 October",
     "8 September"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Computer Security Day is observed on 30 November."
+   "answer": 0,
+   "explanation": "World Computer Security Day is observed on 30 November.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00070",
-   "q": "Where is the headquarters of Comprehensive Nuclear-Test-Ban Treaty Organization?",
-   "o": [
+   "question": "Where is the headquarters of Comprehensive Nuclear-Test-Ban Treaty Organization?",
+   "options": [
     "Vienna",
     "Gland",
     "Geneva",
     "Beijing"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "Comprehensive Nuclear-Test-Ban Treaty Organization is headquartered at Vienna."
+   "answer": 0,
+   "explanation": "Comprehensive Nuclear-Test-Ban Treaty Organization is headquartered at Vienna.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00071",
-   "q": "How many players are there in a Kabaddi team?",
-   "o": [
+   "question": "How many players are there in a Kabaddi team?",
+   "options": [
     "7",
     "6",
     "8",
     "1"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Kabaddi team has 7 players."
+   "answer": 0,
+   "explanation": "A Kabaddi team has 7 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00072",
-   "q": "Beighton Cup is associated with which sport?",
-   "o": [
+   "question": "Beighton Cup is associated with which sport?",
+   "options": [
     "Football",
     "Table Tennis",
     "Hockey",
     "Tennis"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Beighton Cup is associated with Hockey."
+   "answer": 2,
+   "explanation": "Beighton Cup is associated with Hockey.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00073",
-   "q": "Borlaug Award is associated with which of the following?",
-   "o": [
+   "question": "Borlaug Award is associated with which of the following?",
+   "options": [
     "Outstanding performance in Indian sports",
     "Indian award in agricultural science",
     "Second highest military decoration of India",
     "Alternative Nobel Prize"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Borlaug Award — Indian award in agricultural science."
+   "answer": 1,
+   "explanation": "Borlaug Award — Indian award in agricultural science.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00074",
-   "q": "Who is the author of The Communist Manifesto?",
-   "o": [
+   "question": "Who is the author of The Communist Manifesto?",
+   "options": [
     "Mary Kom",
     "Nelson Mandela",
     "Phanishwar Nath Renu",
     "Karl Marx and Friedrich Engels"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "The Communist Manifesto is written by Karl Marx and Friedrich Engels."
+   "answer": 3,
+   "explanation": "The Communist Manifesto is written by Karl Marx and Friedrich Engels.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00075",
-   "q": "First person to run a mile in under four minutes is associated with which of the following?",
-   "o": [
+   "question": "First person to run a mile in under four minutes is associated with which of the following?",
+   "options": [
     "Neil Armstrong",
     "Sirimavo Bandaranaike",
     "Roger Bannister",
     "Rabindranath Tagore"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First person to run a mile in under four minutes — Roger Bannister."
+   "answer": 2,
+   "explanation": "First person to run a mile in under four minutes — Roger Bannister.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00076",
-   "q": "Which is the highest mountain peak in Africa?",
-   "o": [
+   "question": "Which is the highest mountain peak in Africa?",
+   "options": [
     "Mount Kilimanjaro",
     "Bhutan",
     "Russia",
     "Indonesia"
    ],
-   "a": 0,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 0,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00077",
-   "q": "Which Indian state shares borders with the maximum number of states?",
-   "o": [
+   "question": "Which Indian state shares borders with the maximum number of states?",
+   "options": [
     "Asia",
     "Uttar Pradesh",
     "Kalahari Desert",
     "Mississippi"
    ],
-   "a": 1,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 1,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00078",
-   "q": "What is a tax that takes a larger share of income from the poor called?",
-   "o": [
+   "question": "What is a tax that takes a larger share of income from the poor called?",
+   "options": [
     "Pradhan Mantri Jan Dhan Yojana",
     "Fourteen",
     "Deflation",
     "Regressive tax"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00079",
-   "q": "Which campaign was launched to make India self-reliant during COVID-19?",
-   "o": [
+   "question": "Which campaign was launched to make India self-reliant during COVID-19?",
+   "options": [
     "Unified Lending Interface",
     "Vande Bharat Express",
     "Atmanirbhar Bharat Abhiyan",
     "2021"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00080",
-   "q": "What is the capital of Germany?",
-   "o": [
+   "question": "What is the capital of Germany?",
+   "options": [
     "Monaco",
     "Berlin",
     "Antananarivo",
     "Kuala Lumpur"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Germany is Berlin."
+   "answer": 1,
+   "explanation": "The capital of Germany is Berlin.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00081",
-   "q": "On which date is International Migrants Day observed?",
-   "o": [
+   "question": "On which date is International Migrants Day observed?",
+   "options": [
     "20 October",
     "10 February",
     "18 December",
     "21 June"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Migrants Day is observed on 18 December."
+   "answer": 2,
+   "explanation": "International Migrants Day is observed on 18 December.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00082",
-   "q": "Where is the headquarters of Transparency International?",
-   "o": [
+   "question": "Where is the headquarters of Transparency International?",
+   "options": [
     "New York",
     "Berlin",
     "Rome",
     "Washington, D.C."
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "Transparency International is headquartered at Berlin."
+   "answer": 1,
+   "explanation": "Transparency International is headquartered at Berlin.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00083",
-   "q": "How many players are there in a Rugby union team?",
-   "o": [
+   "question": "How many players are there in a Rugby union team?",
+   "options": [
     "15",
     "6",
     "4",
     "7"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Rugby union team has 15 players."
+   "answer": 0,
+   "explanation": "A Rugby union team has 15 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00084",
-   "q": "Davis Cup is associated with which sport?",
-   "o": [
+   "question": "Davis Cup is associated with which sport?",
+   "options": [
     "Badminton",
     "Golf",
     "Tennis",
     "Cricket"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Davis Cup is associated with Tennis."
+   "answer": 2,
+   "explanation": "Davis Cup is associated with Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00085",
-   "q": "National Bravery Award is associated with which of the following?",
-   "o": [
+   "question": "National Bravery Award is associated with which of the following?",
+   "options": [
     "Indian award in agricultural science",
     "Award for brave children in India",
     "Highest peacetime gallantry award of India",
     "British award for fiction"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "National Bravery Award — Award for brave children in India."
+   "answer": 1,
+   "explanation": "National Bravery Award — Award for brave children in India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00086",
-   "q": "Who is the author of Gitanjali: Rabindranath Tagore's Nobel work?",
-   "o": [
+   "question": "Who is the author of Gitanjali: Rabindranath Tagore's Nobel work?",
+   "options": [
     "Plato",
     "Shrilal Shukla",
     "Paramahansa Yogananda",
     "Rabindranath Tagore"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Gitanjali: Rabindranath Tagore's Nobel work is written by Rabindranath Tagore."
+   "answer": 3,
+   "explanation": "Gitanjali: Rabindranath Tagore's Nobel work is written by Rabindranath Tagore.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00087",
-   "q": "First woman to fly solo across the Atlantic is associated with which of the following?",
-   "o": [
+   "question": "First woman to fly solo across the Atlantic is associated with which of the following?",
+   "options": [
     "Abhinav Bindra",
     "Marie Curie",
     "Karnam Malleswari",
     "Amelia Earhart"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First woman to fly solo across the Atlantic — Amelia Earhart."
+   "answer": 3,
+   "explanation": "First woman to fly solo across the Atlantic — Amelia Earhart.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00088",
-   "q": "Which is the highest mountain peak in the world?",
-   "o": [
+   "question": "Which is the highest mountain peak in the world?",
+   "options": [
     "Pacific Ocean",
     "Kerala",
     "Mount Everest",
     "Sundarbans Delta"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00089",
-   "q": "Which lake is the largest freshwater lake in India?",
-   "o": [
+   "question": "Which lake is the largest freshwater lake in India?",
+   "options": [
     "Seven",
     "Wular Lake",
     "Kalahari Desert",
     "Nagpur"
    ],
-   "a": 1,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 1,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00090",
-   "q": "What is the fiscal deficit minus interest payments called?",
-   "o": [
+   "question": "What is the fiscal deficit minus interest payments called?",
+   "options": [
     "Per capita income",
     "1776",
     "Primary deficit",
     "International Finance Corporation"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00091",
-   "q": "Which is the fastest train in India?",
-   "o": [
+   "question": "Which is the fastest train in India?",
+   "options": [
     "Ayushman Bharat",
     "Manu Bhaker",
     "Major economies of the world",
     "Vande Bharat Express"
    ],
-   "a": 3,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 3,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00092",
-   "q": "What is the capital of Benin?",
-   "o": [
+   "question": "What is the capital of Benin?",
+   "options": [
     "Ulaanbaatar",
     "Male",
     "Ljubljana",
     "Porto-Novo"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Benin is Porto-Novo."
+   "answer": 3,
+   "explanation": "The capital of Benin is Porto-Novo.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00093",
-   "q": "On which date is International Day of Peace observed?",
-   "o": [
+   "question": "On which date is International Day of Peace observed?",
+   "options": [
     "11 December",
     "21 September",
     "5 September",
     "1 May"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Day of Peace is observed on 21 September."
+   "answer": 1,
+   "explanation": "International Day of Peace is observed on 21 September.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00094",
-   "q": "Where is the headquarters of International Maritime Organization?",
-   "o": [
+   "question": "Where is the headquarters of International Maritime Organization?",
+   "options": [
     "Geneva",
     "London",
     "Montreal",
     "Manila"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "International Maritime Organization is headquartered at London."
+   "answer": 1,
+   "explanation": "International Maritime Organization is headquartered at London.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00095",
-   "q": "How many players are there in a Baseball team?",
-   "o": [
+   "question": "How many players are there in a Baseball team?",
+   "options": [
     "15",
     "7",
     "9",
     "1"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Baseball team has 9 players."
+   "answer": 2,
+   "explanation": "A Baseball team has 9 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00096",
-   "q": "Ryder Cup is associated with which sport?",
-   "o": [
+   "question": "Ryder Cup is associated with which sport?",
+   "options": [
     "Golf",
     "Table Tennis",
     "Football",
     "Hockey"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Ryder Cup is associated with Golf."
+   "answer": 0,
+   "explanation": "Ryder Cup is associated with Golf.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00097",
-   "q": "Dada Saheb Phalke Award is associated with which of the following?",
-   "o": [
+   "question": "Dada Saheb Phalke Award is associated with which of the following?",
+   "options": [
     "Highest award in Indian cinema",
     "International award for Physics, Chemistry, Medicine, Literature, Peace and Economics",
     "American award for music",
     "Indian literary award"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Dada Saheb Phalke Award — Highest award in Indian cinema."
+   "answer": 0,
+   "explanation": "Dada Saheb Phalke Award — Highest award in Indian cinema.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00098",
-   "q": "Who is the author of Mein Kampf?",
-   "o": [
+   "question": "Who is the author of Mein Kampf?",
+   "options": [
     "Jawaharlal Nehru",
     "Sachin Tendulkar",
     "Homer",
     "Adolf Hitler"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Mein Kampf is written by Adolf Hitler."
+   "answer": 3,
+   "explanation": "Mein Kampf is written by Adolf Hitler.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00099",
-   "q": "First woman to win an Olympic gold in wrestling for India is associated with which of the following?",
-   "o": [
+   "question": "First woman to win an Olympic gold in wrestling for India is associated with which of the following?",
+   "options": [
     "United States of America",
     "Joshua Slocum",
     "Junko Tabei",
     "Karnam Malleswari"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First woman to win an Olympic gold in wrestling for India — Karnam Malleswari."
+   "answer": 3,
+   "explanation": "First woman to win an Olympic gold in wrestling for India — Karnam Malleswari.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00100",
-   "q": "Which is the longest river in Africa?",
-   "o": [
+   "question": "Which is the longest river in Africa?",
+   "options": [
     "Vatican City",
     "Mauna Loa",
     "Tibet",
     "Nile"
    ],
-   "a": 3,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 3,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00101",
-   "q": "Which is the deepest port in India?",
-   "o": [
+   "question": "Which is the deepest port in India?",
+   "options": [
     "Sambhar Lake",
     "China",
     "Visakhapatnam Port",
     "Nepal"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00102",
-   "q": "Which index represents the Bombay Stock Exchange?",
-   "o": [
+   "question": "Which index represents the Bombay Stock Exchange?",
+   "options": [
     "An area with special economic regulations to promote exports",
     "Repo rate",
     "Sensex",
     "1965"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00103",
-   "q": "Which scheme is a small savings scheme for the girl child?",
-   "o": [
+   "question": "Which scheme is a small savings scheme for the girl child?",
+   "options": [
     "Indra Exercise",
     "Sukanya Samriddhi Yojana",
     "Bharat Ratna",
     "India Meteorological Department"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00104",
-   "q": "What is the capital of Mali?",
-   "o": [
+   "question": "What is the capital of Mali?",
+   "options": [
     "Kuwait City",
     "Bamako",
     "Yamoussoukro",
     "Tehran"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Mali is Bamako."
+   "answer": 1,
+   "explanation": "The capital of Mali is Bamako.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00105",
-   "q": "On which date is World Population Day observed?",
-   "o": [
+   "question": "On which date is World Population Day observed?",
+   "options": [
     "14 December",
     "5 September",
     "third Thursday of November",
     "11 July"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Population Day is observed on 11 July."
+   "answer": 3,
+   "explanation": "World Population Day is observed on 11 July.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00106",
-   "q": "Where is the headquarters of Asian Development Bank?",
-   "o": [
+   "question": "Where is the headquarters of Asian Development Bank?",
+   "options": [
     "Geneva",
     "Paris",
     "Nairobi",
     "Manila"
    ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "Asian Development Bank is headquartered at Manila."
+   "answer": 3,
+   "explanation": "Asian Development Bank is headquartered at Manila.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00107",
-   "q": "How many players are there in a Rugby sevens team?",
-   "o": [
+   "question": "How many players are there in a Rugby sevens team?",
+   "options": [
     "1",
     "15",
     "8",
     "7"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Rugby sevens team has 7 players."
+   "answer": 3,
+   "explanation": "A Rugby sevens team has 7 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00108",
-   "q": "UEFA Champions League is associated with which sport?",
-   "o": [
+   "question": "UEFA Champions League is associated with which sport?",
+   "options": [
     "Badminton",
     "Cricket",
     "Hockey",
     "Football"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "UEFA Champions League is associated with Football."
+   "answer": 3,
+   "explanation": "UEFA Champions League is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00109",
-   "q": "Templeton Prize is associated with which of the following?",
-   "o": [
+   "question": "Templeton Prize is associated with which of the following?",
+   "options": [
     "Award for progress in spiritual matters",
     "Second highest peacetime gallantry award of India",
     "Indian award for research",
     "Highest peacetime gallantry award of India"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Templeton Prize — Award for progress in spiritual matters."
+   "answer": 0,
+   "explanation": "Templeton Prize — Award for progress in spiritual matters.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00110",
-   "q": "Who is the author of Long Walk to Freedom?",
-   "o": [
+   "question": "Who is the author of Long Walk to Freedom?",
+   "options": [
     "Sigmund Freud",
     "Adolf Hitler",
     "Rabindranath Tagore",
     "Nelson Mandela"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Long Walk to Freedom is written by Nelson Mandela."
+   "answer": 3,
+   "explanation": "Long Walk to Freedom is written by Nelson Mandela.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00111",
-   "q": "First country to launch a satellite is associated with which of the following?",
-   "o": [
+   "question": "First country to launch a satellite is associated with which of the following?",
+   "options": [
     "New Zealand",
     "Roger Bannister",
     "Soviet Union",
     "Trygve Lie"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First country to launch a satellite — Soviet Union."
+   "answer": 2,
+   "explanation": "First country to launch a satellite — Soviet Union.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00112",
-   "q": "Which is the largest sea in the world?",
-   "o": [
+   "question": "Which is the largest sea in the world?",
+   "options": [
     "Maharashtra",
     "South China Sea",
     "Ethiopia",
     "Equator"
    ],
-   "a": 1,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 1,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00113",
-   "q": "Which waterfall is on the Sharavati river?",
-   "o": [
+   "question": "Which waterfall is on the Sharavati river?",
+   "options": [
     "Canada",
     "Jog Falls",
     "Madurai",
     "Tropic of Capricorn"
    ],
-   "a": 1,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 1,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00114",
-   "q": "Which tax is levied on the import of goods?",
-   "o": [
+   "question": "Which tax is levied on the import of goods?",
+   "options": [
     "28 per cent",
     "Customs duty",
     "SARFAESI Act, 2002",
     "Contingency Fund"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00115",
-   "q": "Which Indian state has the largest number of tiger reserves?",
-   "o": [
+   "question": "Which Indian state has the largest number of tiger reserves?",
+   "options": [
     "D. Gukesh",
     "2000",
     "Madhya Pradesh",
     "National Dairy Development Programme"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00116",
-   "q": "What is the capital of Iran?",
-   "o": [
+   "question": "What is the capital of Iran?",
+   "options": [
     "Tehran",
     "Moscow",
     "Nicosia",
     "Amman"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Iran is Tehran."
+   "answer": 0,
+   "explanation": "The capital of Iran is Tehran.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00117",
-   "q": "On which date is National Energy Conservation Day (India) observed?",
-   "o": [
+   "question": "On which date is National Energy Conservation Day (India) observed?",
+   "options": [
     "30 June",
     "11 November",
     "4 October",
     "14 December"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "National Energy Conservation Day (India) is observed on 14 December."
+   "answer": 3,
+   "explanation": "National Energy Conservation Day (India) is observed on 14 December.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00118",
-   "q": "Where is the headquarters of World Meteorological Organization?",
-   "o": [
+   "question": "Where is the headquarters of World Meteorological Organization?",
+   "options": [
     "The Hague",
     "Shanghai",
     "Geneva",
     "Berlin"
    ],
-   "a": 2,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "World Meteorological Organization is headquartered at Geneva."
+   "answer": 2,
+   "explanation": "World Meteorological Organization is headquartered at Geneva.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00119",
-   "q": "How many players are there in a Volleyball team?",
-   "o": [
+   "question": "How many players are there in a Volleyball team?",
+   "options": [
     "4",
     "6",
     "7",
     "8"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Volleyball team has 6 players."
+   "answer": 1,
+   "explanation": "A Volleyball team has 6 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00120",
-   "q": "Durand Cup is associated with which sport?",
-   "o": [
+   "question": "Durand Cup is associated with which sport?",
+   "options": [
     "Cricket",
     "Tennis",
     "Badminton",
     "Football"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Durand Cup is associated with Football."
+   "answer": 3,
+   "explanation": "Durand Cup is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00121",
-   "q": "Sahitya Akademi Award is associated with which of the following?",
-   "o": [
+   "question": "Sahitya Akademi Award is associated with which of the following?",
+   "options": [
     "Literary award for Indian languages",
     "Award for brave children in India",
     "Alternative Nobel Prize",
     "UNESCO award for popularisation of science"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Sahitya Akademi Award — Literary award for Indian languages."
+   "answer": 0,
+   "explanation": "Sahitya Akademi Award — Literary award for Indian languages.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00122",
-   "q": "Who is the author of Gitanjali (Song Offerings)?",
-   "o": [
+   "question": "Who is the author of Gitanjali (Song Offerings)?",
+   "options": [
     "Rabindranath Tagore",
     "Salman Rushdie",
     "John Milton",
     "A. P. J. Abdul Kalam"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Gitanjali (Song Offerings) is written by Rabindranath Tagore."
+   "answer": 0,
+   "explanation": "Gitanjali (Song Offerings) is written by Rabindranath Tagore.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00123",
-   "q": "First Indian woman to win an Olympic medal is associated with which of the following?",
-   "o": [
+   "question": "First Indian woman to win an Olympic medal is associated with which of the following?",
+   "options": [
     "Karnam Malleswari",
     "England",
     "Yuri Gagarin",
     "Roger Bannister"
    ],
-   "a": 0,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian woman to win an Olympic medal — Karnam Malleswari."
+   "answer": 0,
+   "explanation": "First Indian woman to win an Olympic medal — Karnam Malleswari.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00124",
-   "q": "Which is the longest river in India?",
-   "o": [
+   "question": "Which is the longest river in India?",
+   "options": [
     "Sundarbans",
     "Indonesia",
     "Netherlands",
     "Ganga"
    ],
-   "a": 3,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 3,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00125",
-   "q": "Which country is made up of more than 17,000 islands?",
-   "o": [
+   "question": "Which country is made up of more than 17,000 islands?",
+   "options": [
     "Indonesia",
     "Brazil",
     "Russia",
     "Ganga"
    ],
-   "a": 0,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 0,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00126",
-   "q": "Which sector contributes the largest share to India's GDP?",
-   "o": [
+   "question": "Which sector contributes the largest share to India's GDP?",
+   "options": [
     "Prime lending rate",
     "Services sector",
     "Privatisation",
     "Yellow Revolution"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00127",
-   "q": "Which country hosted the FIFA World Cup 2022?",
-   "o": [
+   "question": "Which country hosted the FIFA World Cup 2022?",
+   "options": [
     "2021",
     "Corruption Perceptions Index",
     "International Solar Alliance",
     "Qatar"
    ],
-   "a": 3,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 3,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00128",
-   "q": "What is the capital of Somalia?",
-   "o": [
+   "question": "What is the capital of Somalia?",
+   "options": [
     "Mogadishu",
     "Kampala",
     "Skopje",
     "Bucharest"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Somalia is Mogadishu."
+   "answer": 0,
+   "explanation": "The capital of Somalia is Mogadishu.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00129",
-   "q": "On which date is World Diabetes Day observed?",
-   "o": [
+   "question": "On which date is World Diabetes Day observed?",
+   "options": [
     "11 December",
     "14 December",
     "9 October",
     "14 November"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Diabetes Day is observed on 14 November."
+   "answer": 3,
+   "explanation": "World Diabetes Day is observed on 14 November.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00130",
-   "q": "Where is the headquarters of International Court of Justice?",
-   "o": [
+   "question": "Where is the headquarters of International Court of Justice?",
+   "options": [
     "The Hague",
     "Washington, D.C.",
     "London",
     "Geneva"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "International Court of Justice is headquartered at The Hague."
+   "answer": 0,
+   "explanation": "International Court of Justice is headquartered at The Hague.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00131",
-   "q": "How many players are there in a Cricket team?",
-   "o": [
+   "question": "How many players are there in a Cricket team?",
+   "options": [
     "11",
     "6",
     "5",
     "9"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Cricket team has 11 players."
+   "answer": 0,
+   "explanation": "A Cricket team has 11 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00132",
-   "q": "Duleep Trophy is associated with which sport?",
-   "o": [
+   "question": "Duleep Trophy is associated with which sport?",
+   "options": [
     "Tennis",
     "Football",
     "Hockey",
     "Cricket"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Duleep Trophy is associated with Cricket."
+   "answer": 3,
+   "explanation": "Duleep Trophy is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00133",
-   "q": "Shaurya Chakra is associated with which of the following?",
-   "o": [
+   "question": "Shaurya Chakra is associated with which of the following?",
+   "options": [
     "Indian award for peace, disarmament and development",
     "Third highest peacetime gallantry award of India",
     "Award for brave children in India",
     "Outstanding performance in Indian sports"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Shaurya Chakra — Third highest peacetime gallantry award of India."
+   "answer": 1,
+   "explanation": "Shaurya Chakra — Third highest peacetime gallantry award of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00134",
-   "q": "Who is the author of War and Peace?",
-   "o": [
+   "question": "Who is the author of War and Peace?",
+   "options": [
     "Helen Keller",
     "Ved Vyasa",
     "Leo Tolstoy",
     "Homer"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "War and Peace is written by Leo Tolstoy."
+   "answer": 2,
+   "explanation": "War and Peace is written by Leo Tolstoy.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00135",
-   "q": "First woman to win a Nobel Prize is associated with which of the following?",
-   "o": [
+   "question": "First woman to win a Nobel Prize is associated with which of the following?",
+   "options": [
     "Roald Amundsen",
     "Marie Curie",
     "Amelia Earhart",
     "Junko Tabei"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First woman to win a Nobel Prize — Marie Curie."
+   "answer": 1,
+   "explanation": "First woman to win a Nobel Prize — Marie Curie.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00136",
-   "q": "Which country is called the Roof of the World?",
-   "o": [
+   "question": "Which country is called the Roof of the World?",
+   "options": [
     "Majuli",
     "Tibetan Plateau",
     "Tibet",
     "Jaipur"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00137",
-   "q": "Which is the largest lake in Africa?",
-   "o": [
+   "question": "Which is the largest lake in Africa?",
+   "options": [
     "Marina Beach",
     "Kanyakumari",
     "Brazil",
     "Lake Victoria"
    ],
-   "a": 3,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 3,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00138",
-   "q": "In which year was the Asian Development Bank established?",
-   "o": [
+   "question": "In which year was the Asian Development Bank established?",
+   "options": [
     "Microeconomics",
     "1966",
     "Fiscal deficit",
     "One lakh rupees"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00139",
-   "q": "Which Indian state has the largest number of Ramsar wetlands?",
-   "o": [
+   "question": "Which Indian state has the largest number of Ramsar wetlands?",
+   "options": [
     "2016",
     "Tamil Nadu",
     "Pradhan Mantri Awas Yojana",
     "The Elephant Whisperers"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00140",
-   "q": "What is the capital of Cuba?",
-   "o": [
+   "question": "What is the capital of Cuba?",
+   "options": [
     "Kyiv",
     "Havana",
     "Ouagadougou",
     "Kinshasa"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Cuba is Havana."
+   "answer": 1,
+   "explanation": "The capital of Cuba is Havana.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00141",
-   "q": "On which date is World Nature Conservation Day observed?",
-   "o": [
+   "question": "On which date is World Nature Conservation Day observed?",
+   "options": [
     "8 June",
     "28 July",
     "17 November",
     "3 March"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Nature Conservation Day is observed on 28 July."
+   "answer": 1,
+   "explanation": "World Nature Conservation Day is observed on 28 July.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00142",
-   "q": "Where is the headquarters of UNICEF?",
-   "o": [
+   "question": "Where is the headquarters of UNICEF?",
+   "options": [
     "Zurich",
     "Bern",
     "New York",
     "London"
    ],
-   "a": 2,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "UNICEF is headquartered at New York."
+   "answer": 2,
+   "explanation": "UNICEF is headquartered at New York.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00143",
-   "q": "How many players are there in a Polo team?",
-   "o": [
+   "question": "How many players are there in a Polo team?",
+   "options": [
     "4",
     "5",
     "9",
     "11"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Polo team has 4 players."
+   "answer": 0,
+   "explanation": "A Polo team has 4 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00144",
-   "q": "Australian Open is associated with which sport?",
-   "o": [
+   "question": "Australian Open is associated with which sport?",
+   "options": [
     "Football",
     "Tennis",
     "Badminton",
     "Cricket"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Australian Open is associated with Tennis."
+   "answer": 1,
+   "explanation": "Australian Open is associated with Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00145",
-   "q": "Sangeet Natak Akademi Award is associated with which of the following?",
-   "o": [
+   "question": "Sangeet Natak Akademi Award is associated with which of the following?",
+   "options": [
     "Indian award for research",
     "Performing arts award of India",
     "Alternative Nobel Prize",
     "Indian literary award"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Sangeet Natak Akademi Award — Performing arts award of India."
+   "answer": 1,
+   "explanation": "Sangeet Natak Akademi Award — Performing arts award of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00146",
-   "q": "Who is the author of Raag Darbari?",
-   "o": [
+   "question": "Who is the author of Raag Darbari?",
+   "options": [
     "Shrilal Shukla",
     "Maulana Abul Kalam Azad",
     "William Shakespeare",
     "Dante Alighieri"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Raag Darbari is written by Shrilal Shukla."
+   "answer": 0,
+   "explanation": "Raag Darbari is written by Shrilal Shukla.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00147",
-   "q": "First Cricket World Cup was held in is associated with which of the following?",
-   "o": [
+   "question": "First Cricket World Cup was held in is associated with which of the following?",
+   "options": [
     "England",
     "Neil Armstrong",
     "Roald Amundsen",
     "Trygve Lie"
    ],
-   "a": 0,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First Cricket World Cup was held in — England."
+   "answer": 0,
+   "explanation": "First Cricket World Cup was held in — England.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00148",
-   "q": "Which is the busiest ocean strait in the world?",
-   "o": [
+   "question": "Which is the busiest ocean strait in the world?",
+   "options": [
     "Asia",
     "Strait of Malacca",
     "Varanasi",
     "Rajasthan"
    ],
-   "a": 1,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 1,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00149",
-   "q": "Which is the largest freshwater lake in the world by area?",
-   "o": [
+   "question": "Which is the largest freshwater lake in the world by area?",
+   "options": [
     "Russia",
     "Jamshedpur",
     "Belgium",
     "Lake Superior"
    ],
-   "a": 3,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 3,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00150",
-   "q": "What is the minimum number of persons required to start a cooperative bank?",
-   "o": [
+   "question": "What is the minimum number of persons required to start a cooperative bank?",
+   "options": [
     "Ten",
     "Yellow Revolution",
     "Reverse repo",
     "One lakh rupees"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00151",
-   "q": "Which is the largest airport in India by area?",
-   "o": [
+   "question": "Which is the largest airport in India by area?",
+   "options": [
     "Namami Gange",
     "Quad Leaders' Summit",
     "Digital India",
     "Indira Gandhi International Airport"
    ],
-   "a": 3,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 3,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00152",
-   "q": "What is the capital of Ghana?",
-   "o": [
+   "question": "What is the capital of Ghana?",
+   "options": [
     "Brazzaville",
     "Dhaka",
     "Accra",
     "Kampala"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Ghana is Accra."
+   "answer": 2,
+   "explanation": "The capital of Ghana is Accra.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00153",
-   "q": "On which date is National Technology Day (India) observed?",
-   "o": [
+   "question": "On which date is National Technology Day (India) observed?",
+   "options": [
     "7 April",
     "11 May",
     "31 October",
     "21 June"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "National Technology Day (India) is observed on 11 May."
+   "answer": 1,
+   "explanation": "National Technology Day (India) is observed on 11 May.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00154",
-   "q": "Where is the headquarters of International Committee of the Red Cross?",
-   "o": [
+   "question": "Where is the headquarters of International Committee of the Red Cross?",
+   "options": [
     "Geneva",
     "Gland",
     "Lausanne",
     "Beijing"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "International Committee of the Red Cross is headquartered at Geneva."
+   "answer": 0,
+   "explanation": "International Committee of the Red Cross is headquartered at Geneva.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00155",
-   "q": "How many players are there in a Throwball team?",
-   "o": [
+   "question": "How many players are there in a Throwball team?",
+   "options": [
     "7",
     "2",
     "8",
     "15"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Throwball team has 7 players."
+   "answer": 0,
+   "explanation": "A Throwball team has 7 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00156",
-   "q": "Champions Trophy (Cricket) is associated with which sport?",
-   "o": [
+   "question": "Champions Trophy (Cricket) is associated with which sport?",
+   "options": [
     "Cricket",
     "Football",
     "Table Tennis",
     "Tennis"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Champions Trophy (Cricket) is associated with Cricket."
+   "answer": 0,
+   "explanation": "Champions Trophy (Cricket) is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00157",
-   "q": "Bharat Ratna is associated with which of the following?",
-   "o": [
+   "question": "Bharat Ratna is associated with which of the following?",
+   "options": [
     "Highest civilian award of India",
     "Indian award in agricultural science",
     "Coaching excellence in Indian sports",
     "Highest sporting honour of India"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Bharat Ratna — Highest civilian award of India."
+   "answer": 0,
+   "explanation": "Bharat Ratna — Highest civilian award of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00158",
-   "q": "Who is the author of The Wealth of Nations?",
-   "o": [
+   "question": "Who is the author of The Wealth of Nations?",
+   "options": [
     "Kalidasa",
     "Adam Smith",
     "Milkha Singh",
     "Rudyard Kipling"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "The Wealth of Nations is written by Adam Smith."
+   "answer": 1,
+   "explanation": "The Wealth of Nations is written by Adam Smith.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00159",
-   "q": "First woman in space is associated with which of the following?",
-   "o": [
+   "question": "First woman in space is associated with which of the following?",
+   "options": [
     "Greece",
     "Abhinav Bindra",
     "Valentina Tereshkova",
     "Joshua Slocum"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First woman in space — Valentina Tereshkova."
+   "answer": 2,
+   "explanation": "First woman in space — Valentina Tereshkova.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00160",
-   "q": "Which Indian city is called the Electronic City of India?",
-   "o": [
+   "question": "Which Indian city is called the Electronic City of India?",
+   "options": [
     "Finland",
     "Angel Falls",
     "Bengaluru",
     "Jamshedpur"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00161",
-   "q": "Which lake is the largest saltwater lake in India?",
-   "o": [
+   "question": "Which lake is the largest saltwater lake in India?",
+   "options": [
     "Prime Meridian",
     "Chilika Lake",
     "Arctic Ocean",
     "Rajasthan"
    ],
-   "a": 1,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 1,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00162",
-   "q": "What is the lowest GST slab rate in India?",
-   "o": [
+   "question": "What is the lowest GST slab rate in India?",
+   "options": [
     "5 per cent",
     "Silver Fibre Revolution",
     "Pradhan Mantri Mudra Yojana",
     "Unified Payments Interface"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00163",
-   "q": "Which scheme provides free food grains to migrants?",
-   "o": [
+   "question": "Which scheme provides free food grains to migrants?",
+   "options": [
     "Project Tiger",
     "Pradhan Mantri Garib Kalyan Anna Yojana",
     "Cyclone Amphan",
     "Pradhan Mantri Fasal Bima Yojana"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00164",
-   "q": "What is the capital of Malaysia?",
-   "o": [
+   "question": "What is the capital of Malaysia?",
+   "options": [
     "Port Louis",
     "Kuala Lumpur",
     "Male",
     "Port-au-Prince"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Malaysia is Kuala Lumpur."
+   "answer": 1,
+   "explanation": "The capital of Malaysia is Kuala Lumpur.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00165",
-   "q": "On which date is World Television Day observed?",
-   "o": [
+   "question": "On which date is World Television Day observed?",
+   "options": [
     "5 June",
     "25 January",
     "4 February",
     "21 November"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Television Day is observed on 21 November."
+   "answer": 3,
+   "explanation": "World Television Day is observed on 21 November.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00166",
-   "q": "Where is the headquarters of International Olympic Committee?",
-   "o": [
+   "question": "Where is the headquarters of International Olympic Committee?",
+   "options": [
     "Lausanne",
     "New York",
     "Lyon",
     "Zurich"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "International Olympic Committee is headquartered at Lausanne."
+   "answer": 0,
+   "explanation": "International Olympic Committee is headquartered at Lausanne.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00167",
-   "q": "How many players are there in a Korfball team?",
-   "o": [
+   "question": "How many players are there in a Korfball team?",
+   "options": [
     "1",
     "7",
     "9",
     "8"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Korfball team has 8 players."
+   "answer": 3,
+   "explanation": "A Korfball team has 8 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00168",
-   "q": "World Cup (Cricket) is associated with which sport?",
-   "o": [
+   "question": "World Cup (Cricket) is associated with which sport?",
+   "options": [
     "Badminton",
     "Cricket",
     "Table Tennis",
     "Hockey"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "World Cup (Cricket) is associated with Cricket."
+   "answer": 1,
+   "explanation": "World Cup (Cricket) is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00169",
-   "q": "Vir Chakra is associated with which of the following?",
-   "o": [
+   "question": "Vir Chakra is associated with which of the following?",
+   "options": [
     "Asian award for public service",
     "Indian award in agricultural science",
     "Awards for Indian cinema",
     "Third highest military decoration of India"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Vir Chakra — Third highest military decoration of India."
+   "answer": 3,
+   "explanation": "Vir Chakra — Third highest military decoration of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00170",
-   "q": "Who is the author of Gitanjali?",
-   "o": [
+   "question": "Who is the author of Gitanjali?",
+   "options": [
     "Homer",
     "Rabindranath Tagore",
     "Charles Dickens",
     "Arundhati Roy"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Gitanjali is written by Rabindranath Tagore."
+   "answer": 1,
+   "explanation": "Gitanjali is written by Rabindranath Tagore.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00171",
-   "q": "First person to reach the North Pole by surface is associated with which of the following?",
-   "o": [
+   "question": "First person to reach the North Pole by surface is associated with which of the following?",
+   "options": [
     "Soviet Union",
     "Wally Herbert",
     "Edmund Hillary",
     "England"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First person to reach the North Pole by surface — Wally Herbert."
+   "answer": 1,
+   "explanation": "First person to reach the North Pole by surface — Wally Herbert.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00172",
-   "q": "Which is the largest saltwater lake in India?",
-   "o": [
+   "question": "Which is the largest saltwater lake in India?",
+   "options": [
     "Cuba",
     "Ireland",
     "Antarctic Desert",
     "Chilika Lake"
    ],
-   "a": 3,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 3,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00173",
-   "q": "Which lake is the highest lake in India?",
-   "o": [
+   "question": "Which lake is the highest lake in India?",
+   "options": [
     "Atacama Desert",
     "China",
     "Cholamu Lake",
     "Bihar"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00174",
-   "q": "What is the currency symbol of India?",
-   "o": [
+   "question": "What is the currency symbol of India?",
+   "options": [
     "Per capita income",
     "Rupee symbol",
     "Microeconomics",
     "28 per cent"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00175",
-   "q": "Which military exercise is conducted by India and France?",
-   "o": [
+   "question": "Which military exercise is conducted by India and France?",
+   "options": [
     "Panchamrit Commitments",
     "Varuna Exercise",
     "Mumbai",
     "Gujarat"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00176",
-   "q": "What is the capital of Serbia?",
-   "o": [
+   "question": "What is the capital of Serbia?",
+   "options": [
     "Belgrade",
     "Jerusalem",
     "Beijing",
     "Baghdad"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Serbia is Belgrade."
+   "answer": 0,
+   "explanation": "The capital of Serbia is Belgrade.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00177",
-   "q": "On which date is National Voters' Day (India) observed?",
-   "o": [
+   "question": "On which date is National Voters' Day (India) observed?",
+   "options": [
     "19 August",
     "25 January",
     "1 July",
     "18 April"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "National Voters' Day (India) is observed on 25 January."
+   "answer": 1,
+   "explanation": "National Voters' Day (India) is observed on 25 January.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00178",
-   "q": "Where is the headquarters of Amnesty International?",
-   "o": [
+   "question": "Where is the headquarters of Amnesty International?",
+   "options": [
     "Washington, D.C.",
     "London",
     "Montreal",
     "Berlin"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "Amnesty International is headquartered at London."
+   "answer": 1,
+   "explanation": "Amnesty International is headquartered at London.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00179",
-   "q": "How many players are there in a Netball team?",
-   "o": [
+   "question": "How many players are there in a Netball team?",
+   "options": [
     "5",
     "15",
     "7",
     "11"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Netball team has 7 players."
+   "answer": 2,
+   "explanation": "A Netball team has 7 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00180",
-   "q": "Major Dhyan Chand Khel Ratna Award is associated with which of the following?",
-   "o": [
+   "question": "Major Dhyan Chand Khel Ratna Award is associated with which of the following?",
+   "options": [
     "Second highest peacetime gallantry award of India",
     "Indian award for social work and peace",
     "Third highest peacetime gallantry award of India",
     "Highest sporting honour of India"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Major Dhyan Chand Khel Ratna Award — Highest sporting honour of India."
+   "answer": 3,
+   "explanation": "Major Dhyan Chand Khel Ratna Award — Highest sporting honour of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00181",
-   "q": "Who is the author of A Brief History of Time?",
-   "o": [
+   "question": "Who is the author of A Brief History of Time?",
+   "options": [
     "Charles Darwin",
     "Stephen Hawking",
     "Kalidasa",
     "Shrilal Shukla"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "A Brief History of Time is written by Stephen Hawking."
+   "answer": 1,
+   "explanation": "A Brief History of Time is written by Stephen Hawking.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00182",
-   "q": "First Indian to win a Nobel Prize is associated with which of the following?",
-   "o": [
+   "question": "First Indian to win a Nobel Prize is associated with which of the following?",
+   "options": [
     "Rabindranath Tagore",
     "Uruguay",
     "Wally Herbert",
     "Soviet Union"
    ],
-   "a": 0,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian to win a Nobel Prize — Rabindranath Tagore."
+   "answer": 0,
+   "explanation": "First Indian to win a Nobel Prize — Rabindranath Tagore.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00183",
-   "q": "Which is the largest river by volume of water?",
-   "o": [
+   "question": "Which is the largest river by volume of water?",
+   "options": [
     "Tamil Nadu",
     "Andes",
     "Tibetan Plateau",
     "Amazon"
    ],
-   "a": 3,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 3,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00184",
-   "q": "Which river flows through the city of Ahmedabad?",
-   "o": [
+   "question": "Which river flows through the city of Ahmedabad?",
+   "options": [
     "West Bengal",
     "Sabarmati",
     "Nepal",
     "Jaipur"
    ],
-   "a": 1,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 1,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00185",
-   "q": "What is a tax whose rate rises with income called?",
-   "o": [
+   "question": "What is a tax whose rate rises with income called?",
+   "options": [
     "Income inequality",
     "Progressive tax",
     "Deflation",
     "Services"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00186",
-   "q": "Which Indian site was declared a Ramsar site recently?",
-   "o": [
+   "question": "Which Indian site was declared a Ramsar site recently?",
+   "options": [
     "Namami Gange",
     "Indra Exercise",
     "Chilika Lake",
     "P. V. Sindhu"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00187",
-   "q": "What is the capital of Singapore?",
-   "o": [
+   "question": "What is the capital of Singapore?",
+   "options": [
     "Santiago",
     "Kigali",
     "Singapore",
     "Ulaanbaatar"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Singapore is Singapore."
+   "answer": 2,
+   "explanation": "The capital of Singapore is Singapore.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00188",
-   "q": "On which date is International Literacy Day observed?",
-   "o": [
+   "question": "On which date is International Literacy Day observed?",
+   "options": [
     "13 February",
     "8 September",
     "14 November",
     "4 October"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Literacy Day is observed on 8 September."
+   "answer": 1,
+   "explanation": "International Literacy Day is observed on 8 September.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00189",
-   "q": "Where is the headquarters of International Monetary Fund?",
-   "o": [
+   "question": "Where is the headquarters of International Monetary Fund?",
+   "options": [
     "Washington, D.C.",
     "Montreal",
     "London",
     "Lausanne"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "International Monetary Fund is headquartered at Washington, D.C.."
+   "answer": 0,
+   "explanation": "International Monetary Fund is headquartered at Washington, D.C..",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00190",
-   "q": "How many players are there in a Badminton (doubles) team?",
-   "o": [
+   "question": "How many players are there in a Badminton (doubles) team?",
+   "options": [
     "4",
     "6",
     "7",
     "2"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Badminton (doubles) team has 2 players."
+   "answer": 3,
+   "explanation": "A Badminton (doubles) team has 2 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00191",
-   "q": "Rovers Cup is associated with which sport?",
-   "o": [
+   "question": "Rovers Cup is associated with which sport?",
+   "options": [
     "Football",
     "Cricket",
     "Tennis",
     "Golf"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Rovers Cup is associated with Football."
+   "answer": 0,
+   "explanation": "Rovers Cup is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00192",
-   "q": "Grammy Award is associated with which of the following?",
-   "o": [
+   "question": "Grammy Award is associated with which of the following?",
+   "options": [
     "Award for progress in spiritual matters",
     "Third highest military decoration of India",
     "Second highest military decoration of India",
     "American award for music"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Grammy Award — American award for music."
+   "answer": 3,
+   "explanation": "Grammy Award — American award for music.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00193",
-   "q": "Who is the author of Broken Wings?",
-   "o": [
+   "question": "Who is the author of Broken Wings?",
+   "options": [
     "Charles Dickens",
     "William Shakespeare",
     "Sarojini Naidu",
     "Milkha Singh"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Broken Wings is written by Sarojini Naidu."
+   "answer": 2,
+   "explanation": "Broken Wings is written by Sarojini Naidu.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00194",
-   "q": "First Secretary-General of the United Nations is associated with which of the following?",
-   "o": [
+   "question": "First Secretary-General of the United Nations is associated with which of the following?",
+   "options": [
     "Karnam Malleswari",
     "George Washington",
     "Trygve Lie",
     "Abhinav Bindra"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First Secretary-General of the United Nations — Trygve Lie."
+   "answer": 2,
+   "explanation": "First Secretary-General of the United Nations — Trygve Lie.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00195",
-   "q": "Which country is called the Land of the Rising Sun?",
-   "o": [
+   "question": "Which country is called the Land of the Rising Sun?",
+   "options": [
     "Surat",
     "Paris",
     "Wular Lake",
     "Japan"
    ],
-   "a": 3,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 3,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00196",
-   "q": "Which city is known as the City of Seven Hills?",
-   "o": [
+   "question": "Which city is known as the City of Seven Hills?",
+   "options": [
     "Rome",
     "Andes",
     "Japan",
     "China"
    ],
-   "a": 0,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 0,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00197",
-   "q": "Which of these is a quantitative tool of monetary policy?",
-   "o": [
+   "question": "Which of these is a quantitative tool of monetary policy?",
+   "options": [
     "Open market operations",
     "SEBI",
     "Wholesale Price Index",
     "Kandla"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00198",
-   "q": "Which is India's first indigenous space shuttle programme?",
-   "o": [
+   "question": "Which is India's first indigenous space shuttle programme?",
+   "options": [
     "Reusable Launch Vehicle",
     "BrahMos",
     "Namami Gange",
     "Udhampur-Srinagar-Baramulla Rail Link"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00199",
-   "q": "What is the capital of Kyrgyzstan?",
-   "o": [
+   "question": "What is the capital of Kyrgyzstan?",
+   "options": [
     "Doha",
     "Luanda",
     "Buenos Aires",
     "Bishkek"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Kyrgyzstan is Bishkek."
+   "answer": 3,
+   "explanation": "The capital of Kyrgyzstan is Bishkek.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00200",
-   "q": "On which date is World Animal Day observed?",
-   "o": [
+   "question": "On which date is World Animal Day observed?",
+   "options": [
     "second Saturday of September",
     "4 October",
     "26 January",
     "16 October"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Animal Day is observed on 4 October."
+   "answer": 1,
+   "explanation": "World Animal Day is observed on 4 October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00201",
-   "q": "Where is the headquarters of International Civil Aviation Organization?",
-   "o": [
+   "question": "Where is the headquarters of International Civil Aviation Organization?",
+   "options": [
     "Beijing",
     "Brussels",
     "Geneva",
     "Montreal"
    ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "International Civil Aviation Organization is headquartered at Montreal."
+   "answer": 3,
+   "explanation": "International Civil Aviation Organization is headquartered at Montreal.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00202",
-   "q": "How many players are there in a Table tennis (singles) team?",
-   "o": [
+   "question": "How many players are there in a Table tennis (singles) team?",
+   "options": [
     "7",
     "1",
     "15",
     "11"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Table tennis (singles) team has 1 players."
+   "answer": 1,
+   "explanation": "A Table tennis (singles) team has 1 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00203",
-   "q": "FIH Hockey World Cup is associated with which sport?",
-   "o": [
+   "question": "FIH Hockey World Cup is associated with which sport?",
+   "options": [
     "Football",
     "Hockey",
     "Cricket",
     "Table Tennis"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "FIH Hockey World Cup is associated with Hockey."
+   "answer": 1,
+   "explanation": "FIH Hockey World Cup is associated with Hockey.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00204",
-   "q": "Ramon Magsaysay Award is associated with which of the following?",
-   "o": [
+   "question": "Ramon Magsaysay Award is associated with which of the following?",
+   "options": [
     "Performing arts award of India",
     "Outstanding performance in Indian sports",
     "Indian award for social work and peace",
     "Asian award for public service"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Ramon Magsaysay Award — Asian award for public service."
+   "answer": 3,
+   "explanation": "Ramon Magsaysay Award — Asian award for public service.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00205",
-   "q": "Who is the author of Meghaduta?",
-   "o": [
+   "question": "Who is the author of Meghaduta?",
+   "options": [
     "Shrilal Shukla",
     "Kalidasa",
     "Stephen Hawking",
     "Homer"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Meghaduta is written by Kalidasa."
+   "answer": 1,
+   "explanation": "Meghaduta is written by Kalidasa.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00206",
-   "q": "First Asian to win a Nobel Prize is associated with which of the following?",
-   "o": [
+   "question": "First Asian to win a Nobel Prize is associated with which of the following?",
+   "options": [
     "Uruguay",
     "Abhinav Bindra",
     "Sirimavo Bandaranaike",
     "Rabindranath Tagore"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First Asian to win a Nobel Prize — Rabindranath Tagore."
+   "answer": 3,
+   "explanation": "First Asian to win a Nobel Prize — Rabindranath Tagore.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00207",
-   "q": "Which Indian city is called the Blue City?",
-   "o": [
+   "question": "Which Indian city is called the Blue City?",
+   "options": [
     "Jodhpur",
     "Uttar Pradesh",
     "Kanpur",
     "West Bengal"
    ],
-   "a": 0,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 0,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00208",
-   "q": "Where is the Charminar located?",
-   "o": [
+   "question": "Where is the Charminar located?",
+   "options": [
     "Ganga",
     "Venezuela",
     "Hyderabad",
     "Amazon"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00209",
-   "q": "In which year was The Wealth of Nations published?",
-   "o": [
+   "question": "In which year was The Wealth of Nations published?",
+   "options": [
     "Reverse repo",
     "GST",
     "Verghese Kurien",
     "1776"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00210",
-   "q": "Which Indian city was the first to become a smart city in India?",
-   "o": [
+   "question": "Which Indian city was the first to become a smart city in India?",
+   "options": [
     "National Tobacco Control Programme",
     "Bhubaneswar",
     "Ravi Dahiya",
     "Pradhan Mantri Ujjwala Yojana"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00211",
-   "q": "What is the capital of Spain?",
-   "o": [
+   "question": "What is the capital of Spain?",
+   "options": [
     "Madrid",
     "Tirana",
     "Managua",
     "Bangkok"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Spain is Madrid."
+   "answer": 0,
+   "explanation": "The capital of Spain is Madrid.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00212",
-   "q": "On which date is World Radiography Day observed?",
-   "o": [
+   "question": "On which date is World Radiography Day observed?",
+   "options": [
     "11 July",
     "16 October",
     "8 November",
     "third Thursday of November"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Radiography Day is observed on 8 November."
+   "answer": 2,
+   "explanation": "World Radiography Day is observed on 8 November.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00213",
-   "q": "Where is the headquarters of National Aeronautics and Space Administration?",
-   "o": [
+   "question": "Where is the headquarters of National Aeronautics and Space Administration?",
+   "options": [
     "Washington, D.C.",
     "Lausanne",
     "Vienna",
     "Brussels"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "National Aeronautics and Space Administration is headquartered at Washington, D.C.."
+   "answer": 0,
+   "explanation": "National Aeronautics and Space Administration is headquartered at Washington, D.C..",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00214",
-   "q": "How many players are there in a Water polo team?",
-   "o": [
+   "question": "How many players are there in a Water polo team?",
+   "options": [
     "4",
     "8",
     "7",
     "1"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Water polo team has 7 players."
+   "answer": 2,
+   "explanation": "A Water polo team has 7 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00215",
-   "q": "Bordoloi Trophy is associated with which sport?",
-   "o": [
+   "question": "Bordoloi Trophy is associated with which sport?",
+   "options": [
     "Cricket",
     "Table Tennis",
     "Hockey",
     "Football"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Bordoloi Trophy is associated with Football."
+   "answer": 3,
+   "explanation": "Bordoloi Trophy is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00216",
-   "q": "Param Vir Chakra is associated with which of the following?",
-   "o": [
+   "question": "Param Vir Chakra is associated with which of the following?",
+   "options": [
     "Outstanding performance in Indian sports",
     "Highest military decoration of India",
     "Highest peacetime gallantry award of India",
     "American award for music"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Param Vir Chakra — Highest military decoration of India."
+   "answer": 1,
+   "explanation": "Param Vir Chakra — Highest military decoration of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00217",
-   "q": "Who is the author of Playing It My Way?",
-   "o": [
+   "question": "Who is the author of Playing It My Way?",
+   "options": [
     "Sachin Tendulkar",
     "Homer",
     "Ved Vyasa",
     "Kautilya"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Playing It My Way is written by Sachin Tendulkar."
+   "answer": 0,
+   "explanation": "Playing It My Way is written by Sachin Tendulkar.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00218",
-   "q": "First Indian to win an individual Olympic gold is associated with which of the following?",
-   "o": [
+   "question": "First Indian to win an individual Olympic gold is associated with which of the following?",
+   "options": [
     "Abhinav Bindra",
     "United States of America",
     "Rabindranath Tagore",
     "Wally Herbert"
    ],
-   "a": 0,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian to win an individual Olympic gold — Abhinav Bindra."
+   "answer": 0,
+   "explanation": "First Indian to win an individual Olympic gold — Abhinav Bindra.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00219",
-   "q": "Which city is known as the Big Apple?",
-   "o": [
+   "question": "Which city is known as the Big Apple?",
+   "options": [
     "Majuli",
     "New York",
     "Gulf of Mexico",
     "Bengaluru"
    ],
-   "a": 1,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 1,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00220",
-   "q": "Which country is the largest producer of rubber?",
-   "o": [
+   "question": "Which country is the largest producer of rubber?",
+   "options": [
     "Thanjavur",
     "Thailand",
     "Chilika Lake",
     "Brazil"
    ],
-   "a": 1,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 1,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00221",
-   "q": "In which year was the State Bank of India established?",
-   "o": [
+   "question": "In which year was the State Bank of India established?",
+   "options": [
     "1955",
     "Liberalisation, Privatisation and Globalisation",
     "Income tax",
     "C. D. Deshmukh"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00222",
-   "q": "Which missile is India's intercontinental ballistic missile?",
-   "o": [
+   "question": "Which missile is India's intercontinental ballistic missile?",
+   "options": [
     "Agni-V",
     "Mahatma Gandhi National Rural Employment Guarantee Scheme",
     "Ayushman Bharat",
     "International Year of Millets 2023"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00223",
-   "q": "What is the capital of Lithuania?",
-   "o": [
+   "question": "What is the capital of Lithuania?",
+   "options": [
     "Vilnius",
     "Asmara",
     "Apia",
     "Yerevan"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Lithuania is Vilnius."
+   "answer": 0,
+   "explanation": "The capital of Lithuania is Vilnius.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00224",
-   "q": "On which date is World Ozone Day observed?",
-   "o": [
+   "question": "On which date is World Ozone Day observed?",
+   "options": [
     "12 January",
     "16 September",
     "30 June",
     "10 October"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Ozone Day is observed on 16 September."
+   "answer": 1,
+   "explanation": "World Ozone Day is observed on 16 September.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00225",
-   "q": "Where is the headquarters of South Asian University?",
-   "o": [
+   "question": "Where is the headquarters of South Asian University?",
+   "options": [
     "Geneva",
     "Montreal",
     "New Delhi",
     "Basel"
    ],
-   "a": 2,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "South Asian University is headquartered at New Delhi."
+   "answer": 2,
+   "explanation": "South Asian University is headquartered at New Delhi.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00226",
-   "q": "How many players are there in a Football team?",
-   "o": [
+   "question": "How many players are there in a Football team?",
+   "options": [
     "7",
     "8",
     "15",
     "11"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Football team has 11 players."
+   "answer": 3,
+   "explanation": "A Football team has 11 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00227",
-   "q": "All England Open is associated with which sport?",
-   "o": [
+   "question": "All England Open is associated with which sport?",
+   "options": [
     "Badminton",
     "Cricket",
     "Football",
     "Tennis"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "All England Open is associated with Badminton."
+   "answer": 0,
+   "explanation": "All England Open is associated with Badminton.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00228",
-   "q": "Infosys Prize is associated with which of the following?",
-   "o": [
+   "question": "Infosys Prize is associated with which of the following?",
+   "options": [
     "Fourth highest civilian award of India",
     "International award for Physics, Chemistry, Medicine, Literature, Peace and Economics",
     "Highest civilian award of India",
     "Indian award for research"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Infosys Prize — Indian award for research."
+   "answer": 3,
+   "explanation": "Infosys Prize — Indian award for research.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00229",
-   "q": "Who is the author of India 2020?",
-   "o": [
+   "question": "Who is the author of India 2020?",
+   "options": [
     "Rabindranath Tagore",
     "A. P. J. Abdul Kalam",
     "Charles Darwin",
     "Nelson Mandela"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "India 2020 is written by A. P. J. Abdul Kalam."
+   "answer": 1,
+   "explanation": "India 2020 is written by A. P. J. Abdul Kalam.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00230",
-   "q": "First country to land a man on the Moon is associated with which of the following?",
-   "o": [
+   "question": "First country to land a man on the Moon is associated with which of the following?",
+   "options": [
     "Karnam Malleswari",
     "New Zealand",
     "United States of America",
     "Wally Herbert"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First country to land a man on the Moon — United States of America."
+   "answer": 2,
+   "explanation": "First country to land a man on the Moon — United States of America.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00231",
-   "q": "Which is the largest rainforest in the world?",
-   "o": [
+   "question": "Which is the largest rainforest in the world?",
+   "options": [
     "Amazon Rainforest",
     "Belgium",
     "Vatican City",
     "Sikkim"
    ],
-   "a": 0,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 0,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00232",
-   "q": "In which country is the Atacama Desert located?",
-   "o": [
+   "question": "In which country is the Atacama Desert located?",
+   "options": [
     "Delhi",
     "Chile",
     "Chilika Lake",
     "Beijing"
    ],
-   "a": 1,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 1,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00233",
-   "q": "Who wrote Das Kapital?",
-   "o": [
+   "question": "Who wrote Das Kapital?",
+   "options": [
     "Bank of Hindustan",
     "Insolvency and Bankruptcy Code, 2016",
     "2000 rupees",
     "Karl Marx"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00234",
-   "q": "Which Indian initiative promotes clean energy partnerships globally?",
-   "o": [
+   "question": "Which Indian initiative promotes clean energy partnerships globally?",
+   "options": [
     "Concern Worldwide and Welthungerhilfe",
     "Rajasthan",
     "Dhruv",
     "International Solar Alliance"
    ],
-   "a": 3,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 3,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00235",
-   "q": "What is the capital of Greece?",
-   "o": [
+   "question": "What is the capital of Greece?",
+   "options": [
     "Athens",
     "Djibouti",
     "Kathmandu",
     "Naypyidaw"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Greece is Athens."
+   "answer": 0,
+   "explanation": "The capital of Greece is Athens.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00236",
-   "q": "On which date is National Youth Day (India) observed?",
-   "o": [
+   "question": "On which date is National Youth Day (India) observed?",
+   "options": [
     "11 May",
     "20 March",
     "2 February",
     "12 January"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "National Youth Day (India) is observed on 12 January."
+   "answer": 3,
+   "explanation": "National Youth Day (India) is observed on 12 January.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00237",
-   "q": "Where is the headquarters of NATO?",
-   "o": [
+   "question": "Where is the headquarters of NATO?",
+   "options": [
     "Nairobi",
     "London",
     "Vienna",
     "Brussels"
    ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "NATO is headquartered at Brussels."
+   "answer": 3,
+   "explanation": "NATO is headquartered at Brussels.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00238",
-   "q": "How many players are there in a Kho Kho team?",
-   "o": [
+   "question": "How many players are there in a Kho Kho team?",
+   "options": [
     "1",
     "9",
     "5",
     "6"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Kho Kho team has 9 players."
+   "answer": 1,
+   "explanation": "A Kho Kho team has 9 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00239",
-   "q": "Copa America is associated with which sport?",
-   "o": [
+   "question": "Copa America is associated with which sport?",
+   "options": [
     "Football",
     "Cricket",
     "Table Tennis",
     "Tennis"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Copa America is associated with Football."
+   "answer": 0,
+   "explanation": "Copa America is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00240",
-   "q": "Dhyan Chand Award is associated with which of the following?",
-   "o": [
+   "question": "Dhyan Chand Award is associated with which of the following?",
+   "options": [
     "Lifetime achievement in Indian sports",
     "Highest civilian award of India",
     "American award for journalism and letters",
     "UNESCO award for popularisation of science"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Dhyan Chand Award — Lifetime achievement in Indian sports."
+   "answer": 0,
+   "explanation": "Dhyan Chand Award — Lifetime achievement in Indian sports.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00241",
-   "q": "Who is the author of Arthashastra?",
-   "o": [
+   "question": "Who is the author of Arthashastra?",
+   "options": [
     "Kautilya",
     "Rabindranath Tagore",
     "Maxim Gorky",
     "Phanishwar Nath Renu"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Arthashastra is written by Kautilya."
+   "answer": 0,
+   "explanation": "Arthashastra is written by Kautilya.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00242",
-   "q": "First President of the United States is associated with which of the following?",
-   "o": [
+   "question": "First President of the United States is associated with which of the following?",
+   "options": [
     "Amelia Earhart",
     "Soviet Union",
     "Junko Tabei",
     "George Washington"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First President of the United States — George Washington."
+   "answer": 3,
+   "explanation": "First President of the United States — George Washington.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00243",
-   "q": "Which is the southernmost state of India",
-   "o": [
+   "question": "Which is the southernmost state of India",
+   "options": [
     "Prime Meridian",
     "Bengaluru",
     "Tamil Nadu",
     "Varanasi"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00244",
-   "q": "Which is the deepest point in the ocean?",
-   "o": [
+   "question": "Which is the deepest point in the ocean?",
+   "options": [
     "Gulf of Mannar",
     "Guhar Moti",
     "Challenger Deep",
     "Gobi Desert"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00245",
-   "q": "Which organ of the World Bank lends to the private sector?",
-   "o": [
+   "question": "Which organ of the World Bank lends to the private sector?",
+   "options": [
     "2000 rupees",
     "2017",
     "Agriculture sector",
     "International Finance Corporation"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00246",
-   "q": "Which scheme provides collateral-free loans to small businesses?",
-   "o": [
+   "question": "Which scheme provides collateral-free loans to small businesses?",
+   "options": [
     "Transparency International",
     "Bhavishya",
     "D. Gukesh",
     "Mudra Yojana"
    ],
-   "a": 3,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 3,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00247",
-   "q": "What is the capital of Netherlands?",
-   "o": [
+   "question": "What is the capital of Netherlands?",
+   "options": [
     "Nuku'alofa",
     "Amsterdam",
     "Moscow",
     "Gitega"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Netherlands is Amsterdam."
+   "answer": 1,
+   "explanation": "The capital of Netherlands is Amsterdam.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00248",
-   "q": "On which date is World Osteoporosis Day observed?",
-   "o": [
+   "question": "On which date is World Osteoporosis Day observed?",
+   "options": [
     "14 December",
     "14 October",
     "11 December",
     "20 October"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Osteoporosis Day is observed on 20 October."
+   "answer": 3,
+   "explanation": "World Osteoporosis Day is observed on 20 October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00249",
-   "q": "Where is the headquarters of New Development Bank?",
-   "o": [
+   "question": "Where is the headquarters of New Development Bank?",
+   "options": [
     "Rome",
     "Paris",
     "Vienna",
     "Shanghai"
    ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "New Development Bank is headquartered at Shanghai."
+   "answer": 3,
+   "explanation": "New Development Bank is headquartered at Shanghai.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00250",
-   "q": "Which sport uses teams of 11 players?",
-   "o": [
+   "question": "Which sport uses teams of 11 players?",
+   "options": [
     "Korfball",
     "Kho Kho",
     "Netball",
     "Hockey"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 11 players play Hockey."
+   "answer": 3,
+   "explanation": "Teams of 11 players play Hockey.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00251",
-   "q": "Sudirman Cup is associated with which sport?",
-   "o": [
+   "question": "Sudirman Cup is associated with which sport?",
+   "options": [
     "Football",
     "Cricket",
     "Badminton",
     "Hockey"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Sudirman Cup is associated with Badminton."
+   "answer": 2,
+   "explanation": "Sudirman Cup is associated with Badminton.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00252",
-   "q": "Maha Vir Chakra is associated with which of the following?",
-   "o": [
+   "question": "Maha Vir Chakra is associated with which of the following?",
+   "options": [
     "Third highest peacetime gallantry award of India",
     "Indian award for research",
     "Third highest military decoration of India",
     "Second highest military decoration of India"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Maha Vir Chakra — Second highest military decoration of India."
+   "answer": 3,
+   "explanation": "Maha Vir Chakra — Second highest military decoration of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00253",
-   "q": "Who is the author of The Republic?",
-   "o": [
+   "question": "Who is the author of The Republic?",
+   "options": [
     "Kautilya",
     "Plato",
     "Rabindranath Tagore",
     "Kalidasa"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "The Republic is written by Plato."
+   "answer": 1,
+   "explanation": "The Republic is written by Plato.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00254",
-   "q": "First human in space is associated with which of the following?",
-   "o": [
+   "question": "First human in space is associated with which of the following?",
+   "options": [
     "Joshua Slocum",
     "Marie Curie",
     "Yuri Gagarin",
     "Roald Amundsen"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First human in space — Yuri Gagarin."
+   "answer": 2,
+   "explanation": "First human in space — Yuri Gagarin.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00255",
-   "q": "Which city is called the City of Canals?",
-   "o": [
+   "question": "Which city is called the City of Canals?",
+   "options": [
     "Ganga",
     "Greenland",
     "Kanchenjunga",
     "Venice"
    ],
-   "a": 3,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 3,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00256",
-   "q": "What is the imaginary line at 23.5 degrees south called?",
-   "o": [
+   "question": "What is the imaginary line at 23.5 degrees south called?",
+   "options": [
     "Tropic of Capricorn",
     "Antarctic Desert",
     "China",
     "Suez Canal"
    ],
-   "a": 0,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 0,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00257",
-   "q": "Where is the headquarters of the World Trade Organization?",
-   "o": [
+   "question": "Where is the headquarters of the World Trade Organization?",
+   "options": [
     "Article 112",
     "2015",
     "Geneva",
     "Minimum reserve system"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00258",
-   "q": "Which metro rail network is the largest in India?",
-   "o": [
+   "question": "Which metro rail network is the largest in India?",
+   "options": [
     "The Elephant Whisperers",
     "Shanghai Cooperation Organisation",
     "Delhi Metro",
     "Atmanirbhar Bharat Abhiyan"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00259",
-   "q": "What is the capital of Iraq?",
-   "o": [
+   "question": "What is the capital of Iraq?",
+   "options": [
     "Nouakchott",
     "Andorra la Vella",
     "Baghdad",
     "Mexico City"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Iraq is Baghdad."
+   "answer": 2,
+   "explanation": "The capital of Iraq is Baghdad.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00260",
-   "q": "On which date is International Mountain Day observed?",
-   "o": [
+   "question": "On which date is International Mountain Day observed?",
+   "options": [
     "20 June",
     "11 December",
     "25 January",
     "5 June"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Mountain Day is observed on 11 December."
+   "answer": 1,
+   "explanation": "International Mountain Day is observed on 11 December.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00261",
-   "q": "Where is the headquarters of Greenpeace?",
-   "o": [
+   "question": "Where is the headquarters of Greenpeace?",
+   "options": [
     "Cologny",
     "Geneva",
     "London",
     "Amsterdam"
    ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "Greenpeace is headquartered at Amsterdam."
+   "answer": 3,
+   "explanation": "Greenpeace is headquartered at Amsterdam.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00262",
-   "q": "Which sport uses teams of 11 players?",
-   "o": [
+   "question": "Which sport uses teams of 11 players?",
+   "options": [
     "Football",
     "Throwball",
     "Rugby sevens",
     "Ice hockey"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 11 players play Football."
+   "answer": 0,
+   "explanation": "Teams of 11 players play Football.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00263",
-   "q": "Padma Vibhushan is associated with which of the following?",
-   "o": [
+   "question": "Padma Vibhushan is associated with which of the following?",
+   "options": [
     "Second highest civilian award of India",
     "Award for progress in spiritual matters",
     "Coaching excellence in Indian sports",
     "Second highest peacetime gallantry award of India"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Padma Vibhushan — Second highest civilian award of India."
+   "answer": 0,
+   "explanation": "Padma Vibhushan — Second highest civilian award of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00264",
-   "q": "Who is the author of Gulliver's Travels?",
-   "o": [
+   "question": "Who is the author of Gulliver's Travels?",
+   "options": [
     "Adolf Hitler",
     "Dante Alighieri",
     "Jonathan Swift",
     "Leo Tolstoy"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Gulliver's Travels is written by Jonathan Swift."
+   "answer": 2,
+   "explanation": "Gulliver's Travels is written by Jonathan Swift.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00265",
-   "q": "First FIFA World Cup was held in is associated with which of the following?",
-   "o": [
+   "question": "First FIFA World Cup was held in is associated with which of the following?",
+   "options": [
     "George Washington",
     "Marie Curie",
     "Wally Herbert",
     "Uruguay"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First FIFA World Cup was held in — Uruguay."
+   "answer": 3,
+   "explanation": "First FIFA World Cup was held in — Uruguay.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00266",
-   "q": "Which is the largest continent by area?",
-   "o": [
+   "question": "Which is the largest continent by area?",
+   "options": [
     "Asia",
     "Panama Canal",
     "Indonesia",
     "Majuli"
    ],
-   "a": 0,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 0,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00267",
-   "q": "Which is the northernmost point of India?",
-   "o": [
+   "question": "Which is the northernmost point of India?",
+   "options": [
     "Thanjavur",
     "Indira Col",
     "Caspian Sea",
     "China"
    ],
-   "a": 1,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 1,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00268",
-   "q": "What is a sustained fall in the general price level called?",
-   "o": [
+   "question": "What is a sustained fall in the general price level called?",
+   "options": [
     "NITI Aayog",
     "Prime Minister of India",
     "Deflation",
     "Consumer Price Index"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00269",
-   "q": "What was the theme of India's G20 presidency?",
-   "o": [
+   "question": "What was the theme of India's G20 presidency?",
+   "options": [
     "Chenab Bridge",
     "2015",
     "One Earth, One Family, One Future",
     "Chandrayaan-3"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00270",
-   "q": "What is the capital of El Salvador?",
-   "o": [
+   "question": "What is the capital of El Salvador?",
+   "options": [
     "Mogadishu",
     "Chisinau",
     "San Salvador",
     "Algiers"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of El Salvador is San Salvador."
+   "answer": 2,
+   "explanation": "The capital of El Salvador is San Salvador.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00271",
-   "q": "On which date is World Radio Day observed?",
-   "o": [
+   "question": "On which date is World Radio Day observed?",
+   "options": [
     "22 April",
     "16 October",
     "13 February",
     "12 May"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Radio Day is observed on 13 February."
+   "answer": 2,
+   "explanation": "World Radio Day is observed on 13 February.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00272",
-   "q": "Where is the headquarters of Asian Infrastructure Investment Bank?",
-   "o": [
+   "question": "Where is the headquarters of Asian Infrastructure Investment Bank?",
+   "options": [
     "Beijing",
     "London",
     "Geneva",
     "Paris"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "Asian Infrastructure Investment Bank is headquartered at Beijing."
+   "answer": 0,
+   "explanation": "Asian Infrastructure Investment Bank is headquartered at Beijing.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00273",
-   "q": "Which sport uses teams of 1 players?",
-   "o": [
+   "question": "Which sport uses teams of 1 players?",
+   "options": [
     "Table tennis (singles)",
     "Ice hockey",
     "Kabaddi",
     "Kho Kho"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 1 players play Table tennis (singles)."
+   "answer": 0,
+   "explanation": "Teams of 1 players play Table tennis (singles).",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00274",
-   "q": "Vijay Hazare Trophy is associated with which sport?",
-   "o": [
+   "question": "Vijay Hazare Trophy is associated with which sport?",
+   "options": [
     "Football",
     "Cricket",
     "Hockey",
     "Tennis"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Vijay Hazare Trophy is associated with Cricket."
+   "answer": 1,
+   "explanation": "Vijay Hazare Trophy is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00275",
-   "q": "Padma Bhushan is associated with which of the following?",
-   "o": [
+   "question": "Padma Bhushan is associated with which of the following?",
+   "options": [
     "Performing arts award of India",
     "Third highest civilian award of India",
     "Outstanding performance in Indian sports",
     "American award for films"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Padma Bhushan — Third highest civilian award of India."
+   "answer": 1,
+   "explanation": "Padma Bhushan — Third highest civilian award of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00276",
-   "q": "Who is the author of Panchatantra?",
-   "o": [
+   "question": "Who is the author of Panchatantra?",
+   "options": [
     "Homer",
     "Kalidasa",
     "Vishnu Sharma",
     "Sachin Tendulkar"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Panchatantra is written by Vishnu Sharma."
+   "answer": 2,
+   "explanation": "Panchatantra is written by Vishnu Sharma.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00277",
-   "q": "First modern Olympic Games were held in is associated with which of the following?",
-   "o": [
+   "question": "First modern Olympic Games were held in is associated with which of the following?",
+   "options": [
     "Marie Curie",
     "Soviet Union",
     "Roger Bannister",
     "Athens"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First modern Olympic Games were held in — Athens."
+   "answer": 3,
+   "explanation": "First modern Olympic Games were held in — Athens.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00278",
-   "q": "Which is the smallest ocean?",
-   "o": [
+   "question": "Which is the smallest ocean?",
+   "options": [
     "Russia",
     "Greenland",
     "Belgium",
     "Arctic Ocean"
    ],
-   "a": 3,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 3,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00279",
-   "q": "Which is the longest river in the world?",
-   "o": [
+   "question": "Which is the longest river in the world?",
+   "options": [
     "Nile",
     "Godavari",
     "Brazil",
     "Rome"
    ],
-   "a": 0,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 0,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00280",
-   "q": "Which index represents the National Stock Exchange?",
-   "o": [
+   "question": "Which index represents the National Stock Exchange?",
+   "options": [
     "Euro",
     "Washington, D.C.",
     "Nifty",
     "Insolvency and Bankruptcy Code, 2016"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00281",
-   "q": "Which Indian language was declared a classical language in 2024?",
-   "o": [
+   "question": "Which Indian language was declared a classical language in 2024?",
+   "options": [
     "Digital India",
     "Aditya-L1",
     "Marathi",
     "Jal Jeevan Mission"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00282",
-   "q": "What is the capital of Liberia?",
-   "o": [
+   "question": "What is the capital of Liberia?",
+   "options": [
     "Asmara",
     "Monrovia",
     "Hanoi",
     "Rome"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Liberia is Monrovia."
+   "answer": 1,
+   "explanation": "The capital of Liberia is Monrovia.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00283",
-   "q": "On which date is United Nations Day for South-South Cooperation observed?",
-   "o": [
+   "question": "On which date is United Nations Day for South-South Cooperation observed?",
+   "options": [
     "12 September",
     "7 April",
     "8 June",
     "1 December"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "United Nations Day for South-South Cooperation is observed on 12 September."
+   "answer": 0,
+   "explanation": "United Nations Day for South-South Cooperation is observed on 12 September.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00284",
-   "q": "Where is the headquarters of International Telecommunication Union?",
-   "o": [
+   "question": "Where is the headquarters of International Telecommunication Union?",
+   "options": [
     "Geneva",
     "Vienna",
     "The Hague",
     "Jakarta"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "International Telecommunication Union is headquartered at Geneva."
+   "answer": 0,
+   "explanation": "International Telecommunication Union is headquartered at Geneva.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00285",
-   "q": "Which sport uses teams of 8 players?",
-   "o": [
+   "question": "Which sport uses teams of 8 players?",
+   "options": [
     "Korfball",
     "Rugby sevens",
     "Cricket",
     "Throwball"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 8 players play Korfball."
+   "answer": 0,
+   "explanation": "Teams of 8 players play Korfball.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00286",
-   "q": "US Open is associated with which sport?",
-   "o": [
+   "question": "US Open is associated with which sport?",
+   "options": [
     "Football",
     "Tennis",
     "Cricket",
     "Hockey"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "US Open is associated with Tennis."
+   "answer": 1,
+   "explanation": "US Open is associated with Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00287",
-   "q": "Kalinga Prize is associated with which of the following?",
-   "o": [
+   "question": "Kalinga Prize is associated with which of the following?",
+   "options": [
     "Outstanding performance in Indian sports",
     "UNESCO award for popularisation of science",
     "Third highest peacetime gallantry award of India",
     "Highest award in Indian cinema"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Kalinga Prize — UNESCO award for popularisation of science."
+   "answer": 1,
+   "explanation": "Kalinga Prize — UNESCO award for popularisation of science.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00288",
-   "q": "Who is the author of David Copperfield?",
-   "o": [
+   "question": "Who is the author of David Copperfield?",
+   "options": [
     "Milkha Singh",
     "Sarojini Naidu",
     "Charles Dickens",
     "Munshi Premchand"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "David Copperfield is written by Charles Dickens."
+   "answer": 2,
+   "explanation": "David Copperfield is written by Charles Dickens.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00289",
-   "q": "First person to win two Nobel Prizes is associated with which of the following?",
-   "o": [
+   "question": "First person to win two Nobel Prizes is associated with which of the following?",
+   "options": [
     "Amelia Earhart",
     "Marie Curie",
     "Edmund Hillary",
     "Karnam Malleswari"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First person to win two Nobel Prizes — Marie Curie."
+   "answer": 1,
+   "explanation": "First person to win two Nobel Prizes — Marie Curie.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00290",
-   "q": "Which is the largest archipelago in the world?",
-   "o": [
+   "question": "Which is the largest archipelago in the world?",
+   "options": [
     "Gujarat",
     "Indonesia",
     "Lake Titicaca",
     "Bhutan"
    ],
-   "a": 1,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 1,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00291",
-   "q": "Which Indian state is called the Heart of India?",
-   "o": [
+   "question": "Which Indian state is called the Heart of India?",
+   "options": [
     "Arabian Sea",
     "Volga",
     "Madhya Pradesh",
     "Bangladesh"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00292",
-   "q": "What is the study of individual economic units called?",
-   "o": [
+   "question": "What is the study of individual economic units called?",
+   "options": [
     "Microeconomics",
     "Bretton Woods Conference",
     "SEBI",
     "Sensex"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00293",
-   "q": "Which Indian mission focuses on artificial intelligence for all?",
-   "o": [
+   "question": "Which Indian mission focuses on artificial intelligence for all?",
+   "options": [
     "United Nations Sustainable Development Solutions Network",
     "D. Gukesh",
     "IndiaAI Mission",
     "National Food Security Mission"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00294",
-   "q": "What is the capital of Cyprus?",
-   "o": [
+   "question": "What is the capital of Cyprus?",
+   "options": [
     "Nicosia",
     "Buenos Aires",
     "Banjul",
     "Muscat"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Cyprus is Nicosia."
+   "answer": 0,
+   "explanation": "The capital of Cyprus is Nicosia.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00295",
-   "q": "On which date is Republic Day (India) observed?",
-   "o": [
+   "question": "On which date is Republic Day (India) observed?",
+   "options": [
     "13 February",
     "23 April",
     "15 September",
     "26 January"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "Republic Day (India) is observed on 26 January."
+   "answer": 3,
+   "explanation": "Republic Day (India) is observed on 26 January.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00296",
-   "q": "Where is the headquarters of World Health Organization?",
-   "o": [
+   "question": "Where is the headquarters of World Health Organization?",
+   "options": [
     "Montreal",
     "Amsterdam",
     "Geneva",
     "Brussels"
    ],
-   "a": 2,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "World Health Organization is headquartered at Geneva."
+   "answer": 2,
+   "explanation": "World Health Organization is headquartered at Geneva.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00297",
-   "q": "Which sport uses teams of 2 players?",
-   "o": [
+   "question": "Which sport uses teams of 2 players?",
+   "options": [
     "Badminton (doubles)",
     "Kabaddi",
     "Polo",
     "Ice hockey"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 2 players play Badminton (doubles)."
+   "answer": 0,
+   "explanation": "Teams of 2 players play Badminton (doubles).",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00298",
-   "q": "Swaythling Cup is associated with which sport?",
-   "o": [
+   "question": "Swaythling Cup is associated with which sport?",
+   "options": [
     "Football",
     "Table Tennis",
     "Hockey",
     "Cricket"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Swaythling Cup is associated with Table Tennis."
+   "answer": 1,
+   "explanation": "Swaythling Cup is associated with Table Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00299",
-   "q": "Jnanpith Award is associated with which of the following?",
-   "o": [
+   "question": "Jnanpith Award is associated with which of the following?",
+   "options": [
     "Highest literary award of India",
     "Alternative Nobel Prize",
     "Performing arts award of India",
     "Second highest military decoration of India"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Jnanpith Award — Highest literary award of India."
+   "answer": 0,
+   "explanation": "Jnanpith Award — Highest literary award of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00300",
-   "q": "Who is the author of Mother?",
-   "o": [
+   "question": "Who is the author of Mother?",
+   "options": [
     "Maxim Gorky",
     "Rabindranath Tagore",
     "A. P. J. Abdul Kalam",
     "Charles Darwin"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Mother is written by Maxim Gorky."
+   "answer": 0,
+   "explanation": "Mother is written by Maxim Gorky.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00301",
-   "q": "First person to climb Mount Everest is associated with which of the following?",
-   "o": [
+   "question": "First person to climb Mount Everest is associated with which of the following?",
+   "options": [
     "Edmund Hillary",
     "Rabindranath Tagore",
     "Roger Bannister",
     "George Washington"
    ],
-   "a": 0,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First person to climb Mount Everest — Edmund Hillary."
+   "answer": 0,
+   "explanation": "First person to climb Mount Everest — Edmund Hillary.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00302",
-   "q": "Which country is called the Land of the Midnight Sun?",
-   "o": [
+   "question": "Which country is called the Land of the Midnight Sun?",
+   "options": [
     "Asia",
     "Majuli",
     "Antarctic Desert",
     "Norway"
    ],
-   "a": 3,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 3,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00303",
-   "q": "Which ocean lies to the south of India?",
-   "o": [
+   "question": "Which ocean lies to the south of India?",
+   "options": [
     "Indian Ocean",
     "Tropic of Capricorn",
     "Netherlands",
     "Karnataka"
    ],
-   "a": 0,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 0,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00304",
-   "q": "Which body decides monetary policy in India?",
-   "o": [
+   "question": "Which body decides monetary policy in India?",
+   "options": [
     "Excise duty",
     "1992",
     "Monetary Policy Committee",
     "Payment bank"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00305",
-   "q": "Which is the longest train route in India?",
-   "o": [
+   "question": "Which is the longest train route in India?",
+   "options": [
     "Vivek Express",
     "Malabar Exercise",
     "Production Linked Incentive Scheme",
     "2023"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00306",
-   "q": "What is the capital of China?",
-   "o": [
+   "question": "What is the capital of China?",
+   "options": [
     "Apia",
     "Beijing",
     "Brussels",
     "Madrid"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of China is Beijing."
+   "answer": 1,
+   "explanation": "The capital of China is Beijing.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00307",
-   "q": "On which date is World Milk Day observed?",
-   "o": [
+   "question": "On which date is World Milk Day observed?",
+   "options": [
     "1 May",
     "23 April",
     "1 June",
     "16 September"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Milk Day is observed on 1 June."
+   "answer": 2,
+   "explanation": "World Milk Day is observed on 1 June.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00308",
-   "q": "Where is the headquarters of Interpol?",
-   "o": [
+   "question": "Where is the headquarters of Interpol?",
+   "options": [
     "Geneva",
     "Shanghai",
     "Washington, D.C.",
     "Lyon"
    ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "Interpol is headquartered at Lyon."
+   "answer": 3,
+   "explanation": "Interpol is headquartered at Lyon.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00309",
-   "q": "Which sport uses teams of 9 players?",
-   "o": [
+   "question": "Which sport uses teams of 9 players?",
+   "options": [
     "Throwball",
     "Kho Kho",
     "Ice hockey",
     "Kabaddi"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 9 players play Kho Kho."
+   "answer": 1,
+   "explanation": "Teams of 9 players play Kho Kho.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00310",
-   "q": "Khelo India Games is associated with which sport?",
-   "o": [
+   "question": "Khelo India Games is associated with which sport?",
+   "options": [
     "Hockey",
     "Multi-sport",
     "Tennis",
     "Cricket"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Khelo India Games is associated with Multi-sport."
+   "answer": 1,
+   "explanation": "Khelo India Games is associated with Multi-sport.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00311",
-   "q": "Shanti Swarup Bhatnagar Prize is associated with which of the following?",
-   "o": [
+   "question": "Shanti Swarup Bhatnagar Prize is associated with which of the following?",
+   "options": [
     "Third highest civilian award of India",
     "Asian award for public service",
     "Fourth highest civilian award of India",
     "Indian award in science and technology"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Shanti Swarup Bhatnagar Prize — Indian award in science and technology."
+   "answer": 3,
+   "explanation": "Shanti Swarup Bhatnagar Prize — Indian award in science and technology.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00312",
-   "q": "Who is the author of The Divine Comedy?",
-   "o": [
+   "question": "Who is the author of The Divine Comedy?",
+   "options": [
     "Jonathan Swift",
     "Charles Dickens",
     "Dante Alighieri",
     "Stephen Hawking"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "The Divine Comedy is written by Dante Alighieri."
+   "answer": 2,
+   "explanation": "The Divine Comedy is written by Dante Alighieri.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00313",
-   "q": "First person to sail solo around the world is associated with which of the following?",
-   "o": [
+   "question": "First person to sail solo around the world is associated with which of the following?",
+   "options": [
     "Rabindranath Tagore",
     "Junko Tabei",
     "George Washington",
     "Joshua Slocum"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First person to sail solo around the world — Joshua Slocum."
+   "answer": 3,
+   "explanation": "First person to sail solo around the world — Joshua Slocum.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00314",
-   "q": "Which is the largest gulf in the world?",
-   "o": [
+   "question": "Which is the largest gulf in the world?",
+   "options": [
     "Rajasthan",
     "Caspian Sea",
     "Gulf of Mexico",
     "Chilika Lake"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00315",
-   "q": "Which Indian city is called the Deccan Queen?",
-   "o": [
+   "question": "Which Indian city is called the Deccan Queen?",
+   "options": [
     "Sahara Desert",
     "Pune",
     "Cholamu Lake",
     "Canada"
    ],
-   "a": 1,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 1,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00316",
-   "q": "Which agreement preceded the World Trade Organization?",
-   "o": [
+   "question": "Which agreement preceded the World Trade Organization?",
+   "options": [
     "1995",
     "Pradhan Mantri Mudra Yojana",
     "Agriculture sector",
     "General Agreement on Tariffs and Trade"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00317",
-   "q": "Which scheme provides free gas connections along with the Ujjwala scheme?",
-   "o": [
+   "question": "Which scheme provides free gas connections along with the Ujjwala scheme?",
+   "options": [
     "Ujjwala Plus",
     "M. S. Swaminathan",
     "M. S. Dhoni",
     "Major economies of the world"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00318",
-   "q": "What is the capital of Brunei?",
-   "o": [
+   "question": "What is the capital of Brunei?",
+   "options": [
     "Reykjavik",
     "Bandar Seri Begawan",
     "Apia",
     "Stockholm"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Brunei is Bandar Seri Begawan."
+   "answer": 1,
+   "explanation": "The capital of Brunei is Bandar Seri Begawan.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00319",
-   "q": "On which date is World Energy Conservation Day observed?",
-   "o": [
+   "question": "On which date is World Energy Conservation Day observed?",
+   "options": [
     "13 November",
     "1 June",
     "18 December",
     "14 December"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Energy Conservation Day is observed on 14 December."
+   "answer": 3,
+   "explanation": "World Energy Conservation Day is observed on 14 December.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00320",
-   "q": "Where is the headquarters of SAARC?",
-   "o": [
+   "question": "Where is the headquarters of SAARC?",
+   "options": [
     "Kathmandu",
     "Manila",
     "Vienna",
     "Basel"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "SAARC is headquartered at Kathmandu."
+   "answer": 0,
+   "explanation": "SAARC is headquartered at Kathmandu.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00321",
-   "q": "Which sport uses teams of 7 players?",
-   "o": [
+   "question": "Which sport uses teams of 7 players?",
+   "options": [
     "Badminton (doubles)",
     "Throwball",
     "Kabaddi",
     "Water polo"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 7 players play Throwball."
+   "answer": 1,
+   "explanation": "Teams of 7 players play Throwball.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00322",
-   "q": "Ranji Trophy is associated with which sport?",
-   "o": [
+   "question": "Ranji Trophy is associated with which sport?",
+   "options": [
     "Tennis",
     "Golf",
     "Cricket",
     "Football"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Ranji Trophy is associated with Cricket."
+   "answer": 2,
+   "explanation": "Ranji Trophy is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00323",
-   "q": "Booker Prize is associated with which of the following?",
-   "o": [
+   "question": "Booker Prize is associated with which of the following?",
+   "options": [
     "Second highest military decoration of India",
     "British award for fiction",
     "Coaching excellence in Indian sports",
     "Third highest military decoration of India"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Booker Prize — British award for fiction."
+   "answer": 1,
+   "explanation": "Booker Prize — British award for fiction.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00324",
-   "q": "Who is the author of Hamlet?",
-   "o": [
+   "question": "Who is the author of Hamlet?",
+   "options": [
     "Arundhati Roy",
     "Maxim Gorky",
     "William Shakespeare",
     "Sachin Tendulkar"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Hamlet is written by William Shakespeare."
+   "answer": 2,
+   "explanation": "Hamlet is written by William Shakespeare.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00325",
-   "q": "First country to host the modern Olympic Games is associated with which of the following?",
-   "o": [
+   "question": "First country to host the modern Olympic Games is associated with which of the following?",
+   "options": [
     "Chamonix",
     "Greece",
     "Joshua Slocum",
     "Rabindranath Tagore"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First country to host the modern Olympic Games — Greece."
+   "answer": 1,
+   "explanation": "First country to host the modern Olympic Games — Greece.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00326",
-   "q": "Which is the largest desert in the world?",
-   "o": [
+   "question": "Which is the largest desert in the world?",
+   "options": [
     "Andes",
     "Australia",
     "Antarctic Desert",
     "Norway"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00327",
-   "q": "Where is the Petra monument located?",
-   "o": [
+   "question": "Where is the Petra monument located?",
+   "options": [
     "Jordan",
     "Mumbai",
     "Nile",
     "Netherlands and Belgium"
    ],
-   "a": 0,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 0,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00328",
-   "q": "What is GNP minus depreciation called?",
-   "o": [
+   "question": "What is GNP minus depreciation called?",
+   "options": [
     "General Agreement on Tariffs and Trade",
     "Net National Product",
     "Savings bank rate",
     "Payment bank"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00329",
-   "q": "Which Indian city was the first to get a metro rail?",
-   "o": [
+   "question": "Which Indian city was the first to get a metro rail?",
+   "options": [
     "2022",
     "Kolkata",
     "Mahatma Gandhi National Rural Employment Guarantee Scheme",
     "Udhampur-Srinagar-Baramulla Rail Link"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00330",
-   "q": "What is the capital of Colombia?",
-   "o": [
+   "question": "What is the capital of Colombia?",
+   "options": [
     "Bucharest",
     "Bogota",
     "Ljubljana",
     "Djibouti"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Colombia is Bogota."
+   "answer": 1,
+   "explanation": "The capital of Colombia is Bogota.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00331",
-   "q": "On which date is Earth Day observed?",
-   "o": [
+   "question": "On which date is Earth Day observed?",
+   "options": [
     "22 April",
     "19 November",
     "20 October",
     "20 March"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "Earth Day is observed on 22 April."
+   "answer": 0,
+   "explanation": "Earth Day is observed on 22 April.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00332",
-   "q": "Where is the headquarters of World Bank?",
-   "o": [
+   "question": "Where is the headquarters of World Bank?",
+   "options": [
     "Washington, D.C.",
     "Vienna",
     "Manila",
     "Lausanne"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "World Bank is headquartered at Washington, D.C.."
+   "answer": 0,
+   "explanation": "World Bank is headquartered at Washington, D.C..",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00333",
-   "q": "Which sport uses teams of 15 players?",
-   "o": [
+   "question": "Which sport uses teams of 15 players?",
+   "options": [
     "Rugby sevens",
     "Ice hockey",
     "Korfball",
     "Rugby union"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 15 players play Rugby union."
+   "answer": 3,
+   "explanation": "Teams of 15 players play Rugby union.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00334",
-   "q": "Subroto Cup is associated with which sport?",
-   "o": [
+   "question": "Subroto Cup is associated with which sport?",
+   "options": [
     "Hockey",
     "Cricket",
     "Multi-sport",
     "Football"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Subroto Cup is associated with Football."
+   "answer": 3,
+   "explanation": "Subroto Cup is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00335",
-   "q": "Nobel Prize is associated with which of the following?",
-   "o": [
+   "question": "Nobel Prize is associated with which of the following?",
+   "options": [
     "Third highest peacetime gallantry award of India",
     "British award for fiction",
     "American award for music",
     "International award for Physics, Chemistry, Medicine, Literature, Peace and Economics"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Nobel Prize — International award for Physics, Chemistry, Medicine, Literature, Peace and Economics."
+   "answer": 3,
+   "explanation": "Nobel Prize — International award for Physics, Chemistry, Medicine, Literature, Peace and Economics.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00336",
-   "q": "Who is the author of The Jungle Book?",
-   "o": [
+   "question": "Who is the author of The Jungle Book?",
+   "options": [
     "Adolf Hitler",
     "Rudyard Kipling",
     "Maulana Abul Kalam Azad",
     "Charles Dickens"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "The Jungle Book is written by Rudyard Kipling."
+   "answer": 1,
+   "explanation": "The Jungle Book is written by Rudyard Kipling.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00337",
-   "q": "First Winter Olympic Games were held in is associated with which of the following?",
-   "o": [
+   "question": "First Winter Olympic Games were held in is associated with which of the following?",
+   "options": [
     "Neil Armstrong",
     "Roald Amundsen",
     "Rabindranath Tagore",
     "Chamonix"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First Winter Olympic Games were held in — Chamonix."
+   "answer": 3,
+   "explanation": "First Winter Olympic Games were held in — Chamonix.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00338",
-   "q": "Which is the most populous country in the world?",
-   "o": [
+   "question": "Which is the most populous country in the world?",
+   "options": [
     "Indonesia",
     "Andes",
     "Angel Falls",
     "India"
    ],
-   "a": 3,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 3,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00339",
-   "q": "Which is the highest mountain peak in the world?",
-   "o": [
+   "question": "Which is the highest mountain peak in the world?",
+   "options": [
     "Mount Everest",
     "Belgium",
     "Cholamu Lake",
     "Kazakhstan"
    ],
-   "a": 0,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 0,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00340",
-   "q": "Which is a direct tax in India?",
-   "o": [
+   "question": "Which is a direct tax in India?",
+   "options": [
     "People's Bank of China",
     "Insolvency and Bankruptcy Code, 2016",
     "Bretton Woods Conference",
     "Income tax"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00341",
-   "q": "Which Indian institution is the nodal agency for the Aspirational Districts Programme?",
-   "o": [
+   "question": "Which Indian institution is the nodal agency for the Aspirational Districts Programme?",
+   "options": [
     "India Semiconductor Mission",
     "NITI Aayog",
     "Kerala",
     "Chilika Lake"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00342",
-   "q": "What is the capital of Tunisia?",
-   "o": [
+   "question": "What is the capital of Tunisia?",
+   "options": [
     "Tunis",
     "Bratislava",
     "Bangkok",
     "Ljubljana"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Tunisia is Tunis."
+   "answer": 0,
+   "explanation": "The capital of Tunisia is Tunis.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00343",
-   "q": "On which date is World No Tobacco Day observed?",
-   "o": [
+   "question": "On which date is World No Tobacco Day observed?",
+   "options": [
     "first Monday of October",
     "31 May",
     "12 January",
     "30 June"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World No Tobacco Day is observed on 31 May."
+   "answer": 1,
+   "explanation": "World No Tobacco Day is observed on 31 May.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00344",
-   "q": "Where is the headquarters of World Economic Forum?",
-   "o": [
+   "question": "Where is the headquarters of World Economic Forum?",
+   "options": [
     "London",
     "Montreal",
     "Berlin",
     "Cologny"
    ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "World Economic Forum is headquartered at Cologny."
+   "answer": 3,
+   "explanation": "World Economic Forum is headquartered at Cologny.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00345",
-   "q": "Which sport uses teams of 11 players?",
-   "o": [
+   "question": "Which sport uses teams of 11 players?",
+   "options": [
     "Cricket",
     "Kho Kho",
     "Kabaddi",
     "Basketball"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 11 players play Cricket."
+   "answer": 0,
+   "explanation": "Teams of 11 players play Cricket.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00346",
-   "q": "Syed Mushtaq Ali Trophy is associated with which sport?",
-   "o": [
+   "question": "Syed Mushtaq Ali Trophy is associated with which sport?",
+   "options": [
     "Badminton",
     "Cricket",
     "Football",
     "Tennis"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Syed Mushtaq Ali Trophy is associated with Cricket."
+   "answer": 1,
+   "explanation": "Syed Mushtaq Ali Trophy is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00347",
-   "q": "Padma Shri is associated with which of the following?",
-   "o": [
+   "question": "Padma Shri is associated with which of the following?",
+   "options": [
     "Fourth highest civilian award of India",
     "Lifetime achievement in Indian sports",
     "American award for films",
     "International award for Physics, Chemistry, Medicine, Literature, Peace and Economics"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Padma Shri — Fourth highest civilian award of India."
+   "answer": 0,
+   "explanation": "Padma Shri — Fourth highest civilian award of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00348",
-   "q": "Who is the author of The Iliad?",
-   "o": [
+   "question": "Who is the author of The Iliad?",
+   "options": [
     "Karl Marx and Friedrich Engels",
     "Jawaharlal Nehru",
     "Homer",
     "Helen Keller"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "The Iliad is written by Homer."
+   "answer": 2,
+   "explanation": "The Iliad is written by Homer.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00349",
-   "q": "First country to give women the vote is associated with which of the following?",
-   "o": [
+   "question": "First country to give women the vote is associated with which of the following?",
+   "options": [
     "United States of America",
     "Valentina Tereshkova",
     "New Zealand",
     "Soviet Union"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First country to give women the vote — New Zealand."
+   "answer": 2,
+   "explanation": "First country to give women the vote — New Zealand.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00350",
-   "q": "Which state of India is called the Granary of India?",
-   "o": [
+   "question": "Which state of India is called the Granary of India?",
+   "options": [
     "Surat",
     "Ganga",
     "Punjab",
     "Japan"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00351",
-   "q": "Which country is the largest producer of bananas?",
-   "o": [
+   "question": "Which country is the largest producer of bananas?",
+   "options": [
     "India",
     "Ganga",
     "New York",
     "Guhar Moti"
    ],
-   "a": 0,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 0,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00352",
-   "q": "Which currency is used by most countries of the European Union?",
-   "o": [
+   "question": "Which currency is used by most countries of the European Union?",
+   "options": [
     "Euro",
     "Urjit Patel Committee",
     "Contingency Fund",
     "Shanghai"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00353",
-   "q": "Which international conference did India attend to announce climate targets?",
-   "o": [
+   "question": "Which international conference did India attend to announce climate targets?",
+   "options": [
     "Maharashtra",
     "Atmanirbhar Bharat",
     "COP26",
     "North East Special Infrastructure Development Scheme"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00354",
-   "q": "What is the capital of Paraguay?",
-   "o": [
+   "question": "What is the capital of Paraguay?",
+   "options": [
     "Asmara",
     "Vatican City",
     "Asuncion",
     "N'Djamena"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Paraguay is Asuncion."
+   "answer": 2,
+   "explanation": "The capital of Paraguay is Asuncion.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00355",
-   "q": "On which date is World Habitat Day observed?",
-   "o": [
+   "question": "On which date is World Habitat Day observed?",
+   "options": [
     "12 May",
     "5 June",
     "26 November",
     "first Monday of October"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Habitat Day is observed on first Monday of October."
+   "answer": 3,
+   "explanation": "World Habitat Day is observed on first Monday of October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00356",
-   "q": "Where is the headquarters of Commonwealth of Nations?",
-   "o": [
+   "question": "Where is the headquarters of Commonwealth of Nations?",
+   "options": [
     "Vienna",
     "London",
     "Geneva",
     "Washington, D.C."
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "Commonwealth of Nations is headquartered at London."
+   "answer": 1,
+   "explanation": "Commonwealth of Nations is headquartered at London.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00357",
-   "q": "Which sport uses teams of 7 players?",
-   "o": [
+   "question": "Which sport uses teams of 7 players?",
+   "options": [
     "Water polo",
     "Polo",
     "Basketball",
     "Football"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 7 players play Water polo."
+   "answer": 0,
+   "explanation": "Teams of 7 players play Water polo.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00358",
-   "q": "Grand Slam (Tennis) is associated with which sport?",
-   "o": [
+   "question": "Grand Slam (Tennis) is associated with which sport?",
+   "options": [
     "Football",
     "Tennis",
     "Badminton",
     "Hockey"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Grand Slam (Tennis) is associated with Tennis."
+   "answer": 1,
+   "explanation": "Grand Slam (Tennis) is associated with Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00359",
-   "q": "Right Livelihood Award is associated with which of the following?",
-   "o": [
+   "question": "Right Livelihood Award is associated with which of the following?",
+   "options": [
     "Third highest military decoration of India",
     "Alternative Nobel Prize",
     "UNESCO award for popularisation of science",
     "Coaching excellence in Indian sports"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Right Livelihood Award — Alternative Nobel Prize."
+   "answer": 1,
+   "explanation": "Right Livelihood Award — Alternative Nobel Prize.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00360",
-   "q": "Who is the author of The God of Small Things?",
-   "o": [
+   "question": "Who is the author of The God of Small Things?",
+   "options": [
     "A. P. J. Abdul Kalam",
     "Arundhati Roy",
     "Jawaharlal Nehru",
     "Plato"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "The God of Small Things is written by Arundhati Roy."
+   "answer": 1,
+   "explanation": "The God of Small Things is written by Arundhati Roy.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00361",
-   "q": "First person to reach the South Pole is associated with which of the following?",
-   "o": [
+   "question": "First person to reach the South Pole is associated with which of the following?",
+   "options": [
     "Sirimavo Bandaranaike",
     "Roald Amundsen",
     "England",
     "Roger Bannister"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First person to reach the South Pole — Roald Amundsen."
+   "answer": 1,
+   "explanation": "First person to reach the South Pole — Roald Amundsen.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00362",
-   "q": "Which is the highest navigable lake in the world?",
-   "o": [
+   "question": "Which is the highest navigable lake in the world?",
+   "options": [
     "Ganga",
     "Sundarbans Delta",
     "Lake Titicaca",
     "Vatican City"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00363",
-   "q": "In which ocean is the Mariana Trench located?",
-   "o": [
+   "question": "In which ocean is the Mariana Trench located?",
+   "options": [
     "Kochi",
     "Kerala",
     "Pacific Ocean",
     "Ellora"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00364",
-   "q": "What does the Gini coefficient measure?",
-   "o": [
+   "question": "What does the Gini coefficient measure?",
+   "options": [
     "Non-performing asset",
     "Regressive tax",
     "ICAR",
     "Income inequality"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00365",
-   "q": "Which Indian is the fastest to score 50 ODI centuries?",
-   "o": [
+   "question": "Which Indian is the fastest to score 50 ODI centuries?",
+   "options": [
     "Pradhan Mantri Gram Sadak Yojana",
     "Virat Kohli",
     "England",
     "Atmanirbhar Bharat"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00366",
-   "q": "What is the capital of Liechtenstein?",
-   "o": [
+   "question": "What is the capital of Liechtenstein?",
+   "options": [
     "Mbabane",
     "Porto-Novo",
     "Bangkok",
     "Vaduz"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Liechtenstein is Vaduz."
+   "answer": 3,
+   "explanation": "The capital of Liechtenstein is Vaduz.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00367",
-   "q": "On which date is Children's Day (India) observed?",
-   "o": [
+   "question": "On which date is Children's Day (India) observed?",
+   "options": [
     "15 October",
     "30 April",
     "14 November",
     "7 April"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "Children's Day (India) is observed on 14 November."
+   "answer": 2,
+   "explanation": "Children's Day (India) is observed on 14 November.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00368",
-   "q": "Where is the headquarters of Shanghai Cooperation Organisation?",
-   "o": [
+   "question": "Where is the headquarters of Shanghai Cooperation Organisation?",
+   "options": [
     "Beijing",
     "Gland",
     "London",
     "Vienna"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "Shanghai Cooperation Organisation is headquartered at Beijing."
+   "answer": 0,
+   "explanation": "Shanghai Cooperation Organisation is headquartered at Beijing.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00369",
-   "q": "Which sport uses teams of 7 players?",
-   "o": [
+   "question": "Which sport uses teams of 7 players?",
+   "options": [
     "Volleyball",
     "Rugby sevens",
     "Rugby union",
     "Football"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 7 players play Rugby sevens."
+   "answer": 1,
+   "explanation": "Teams of 7 players play Rugby sevens.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00370",
-   "q": "Asia Cup is associated with which sport?",
-   "o": [
+   "question": "Asia Cup is associated with which sport?",
+   "options": [
     "Football",
     "Cricket",
     "Hockey",
     "Tennis"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Asia Cup is associated with Cricket."
+   "answer": 1,
+   "explanation": "Asia Cup is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00371",
-   "q": "Vyas Samman is associated with which of the following?",
-   "o": [
+   "question": "Vyas Samman is associated with which of the following?",
+   "options": [
     "UNESCO award for popularisation of science",
     "Indian literary award",
     "Highest civilian award of India",
     "Indian award in science and technology"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Vyas Samman — Indian literary award."
+   "answer": 1,
+   "explanation": "Vyas Samman — Indian literary award.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00372",
-   "q": "Who is the author of Mahabharata?",
-   "o": [
+   "question": "Who is the author of Mahabharata?",
+   "options": [
     "Karl Marx and Friedrich Engels",
     "Adolf Hitler",
     "Ved Vyasa",
     "Vishnu Sharma"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Mahabharata is written by Ved Vyasa."
+   "answer": 2,
+   "explanation": "Mahabharata is written by Ved Vyasa.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00373",
-   "q": "Which of the following achievements belongs to Marie Curie?",
-   "o": [
+   "question": "Which of the following achievements belongs to Marie Curie?",
+   "options": [
     "First Asian to win a Nobel Prize",
     "First person to reach the North Pole by surface",
     "First person to win two Nobel Prizes",
     "First woman to win a Nobel Prize"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First person to win two Nobel Prizes belongs to Marie Curie."
+   "answer": 2,
+   "explanation": "First person to win two Nobel Prizes belongs to Marie Curie.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00374",
-   "q": "Which country has the largest population of any landlocked country?",
-   "o": [
+   "question": "Which country has the largest population of any landlocked country?",
+   "options": [
     "Seven",
     "Asia",
     "Vatican City",
     "Ethiopia"
    ],
-   "a": 3,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 3,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00375",
-   "q": "Where is the Victoria Memorial located?",
-   "o": [
+   "question": "Where is the Victoria Memorial located?",
+   "options": [
     "United States of America",
     "Kolkata",
     "Angel Falls",
     "Madhya Pradesh"
    ],
-   "a": 1,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 1,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00376",
-   "q": "Which is the currency of Japan?",
-   "o": [
+   "question": "Which is the currency of Japan?",
+   "options": [
     "Yen",
     "Bank of Hindustan",
     "NPCI",
     "1982"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00377",
-   "q": "Which scheme promotes solar power in India?",
-   "o": [
+   "question": "Which scheme promotes solar power in India?",
+   "options": [
     "Beti Bachao Beti Padhao",
     "2014",
     "PM Surya Ghar Muft Bijli Yojana",
     "Lakshadweep"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00378",
-   "q": "What is the capital of Armenia?",
-   "o": [
+   "question": "What is the capital of Armenia?",
+   "options": [
     "Budapest",
     "Ottawa",
     "Yerevan",
     "Sofia"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Armenia is Yerevan."
+   "answer": 2,
+   "explanation": "The capital of Armenia is Yerevan.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00379",
-   "q": "On which date is International Mother Language Day observed?",
-   "o": [
+   "question": "On which date is International Mother Language Day observed?",
+   "options": [
     "22 December",
     "21 February",
     "15 August",
     "5 June"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Mother Language Day is observed on 21 February."
+   "answer": 1,
+   "explanation": "International Mother Language Day is observed on 21 February.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00380",
-   "q": "Where is the headquarters of United Nations?",
-   "o": [
+   "question": "Where is the headquarters of United Nations?",
+   "options": [
     "New York",
     "Geneva",
     "Mumbai",
     "Cologny"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "United Nations is headquartered at New York."
+   "answer": 0,
+   "explanation": "United Nations is headquartered at New York.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00381",
-   "q": "Which sport uses teams of 7 players?",
-   "o": [
+   "question": "Which sport uses teams of 7 players?",
+   "options": [
     "Rugby sevens",
     "Handball",
     "Netball",
     "Kho Kho"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 7 players play Netball."
+   "answer": 2,
+   "explanation": "Teams of 7 players play Netball.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00382",
-   "q": "Santosh Trophy is associated with which sport?",
-   "o": [
+   "question": "Santosh Trophy is associated with which sport?",
+   "options": [
     "Cricket",
     "Tennis",
     "Hockey",
     "Football"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Santosh Trophy is associated with Football."
+   "answer": 3,
+   "explanation": "Santosh Trophy is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00383",
-   "q": "Dronacharya Award is associated with which of the following?",
-   "o": [
+   "question": "Dronacharya Award is associated with which of the following?",
+   "options": [
     "Literary award for Indian languages",
     "Indian literary award",
     "Fourth highest civilian award of India",
     "Coaching excellence in Indian sports"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Dronacharya Award — Coaching excellence in Indian sports."
+   "answer": 3,
+   "explanation": "Dronacharya Award — Coaching excellence in Indian sports.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00384",
-   "q": "Who is the author of Gitanjali and Other Songs?",
-   "o": [
+   "question": "Who is the author of Gitanjali and Other Songs?",
+   "options": [
     "Rabindranath Tagore",
     "Adam Smith",
     "Homer",
     "Stephen Hawking"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Gitanjali and Other Songs is written by Rabindranath Tagore."
+   "answer": 0,
+   "explanation": "Gitanjali and Other Songs is written by Rabindranath Tagore.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00385",
-   "q": "Which of the following achievements belongs to Joshua Slocum?",
-   "o": [
+   "question": "Which of the following achievements belongs to Joshua Slocum?",
+   "options": [
     "First person to sail solo around the world",
     "First country to launch a satellite",
     "First country to host the modern Olympic Games",
     "First modern Olympic Games were held in"
    ],
-   "a": 0,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First person to sail solo around the world belongs to Joshua Slocum."
+   "answer": 0,
+   "explanation": "First person to sail solo around the world belongs to Joshua Slocum.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00386",
-   "q": "Which city is called the City of Lights?",
-   "o": [
+   "question": "Which city is called the City of Lights?",
+   "options": [
     "Bangladesh",
     "Arabian Peninsula",
     "Paris",
     "Amazon Rainforest"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00387",
-   "q": "Which is the longest beach in India?",
-   "o": [
+   "question": "Which is the longest beach in India?",
+   "options": [
     "Ooty",
     "Marina Beach",
     "Yangtze",
     "Five"
    ],
-   "a": 1,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 1,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00388",
-   "q": "What is the investment in the equity of a company abroad called?",
-   "o": [
+   "question": "What is the investment in the equity of a company abroad called?",
+   "options": [
     "Pradhan Mantri Jan Dhan Yojana",
     "Twelfth Five Year Plan",
     "Foreign Direct Investment",
     "Washington, D.C."
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00389",
-   "q": "Which Indian city was declared a UNESCO World Heritage City in 2017?",
-   "o": [
+   "question": "Which Indian city was declared a UNESCO World Heritage City in 2017?",
+   "options": [
     "Manushi Chhillar",
     "AstroSat",
     "Marathi",
     "Ahmedabad"
    ],
-   "a": 3,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 3,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00390",
-   "q": "What is the capital of Vietnam?",
-   "o": [
+   "question": "What is the capital of Vietnam?",
+   "options": [
     "Vatican City",
     "Hanoi",
     "Montevideo",
     "Niamey"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Vietnam is Hanoi."
+   "answer": 1,
+   "explanation": "The capital of Vietnam is Hanoi.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00391",
-   "q": "On which date is World Meteorological Day observed?",
-   "o": [
+   "question": "On which date is World Meteorological Day observed?",
+   "options": [
     "8 September",
     "23 March",
     "15 September",
     "8 June"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Meteorological Day is observed on 23 March."
+   "answer": 1,
+   "explanation": "World Meteorological Day is observed on 23 March.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00392",
-   "q": "Where is the headquarters of CERN?",
-   "o": [
+   "question": "Where is the headquarters of CERN?",
+   "options": [
     "Washington, D.C.",
     "Paris",
     "Gland",
     "Geneva"
    ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "CERN is headquartered at Geneva."
+   "answer": 3,
+   "explanation": "CERN is headquartered at Geneva.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00393",
-   "q": "Which sport uses teams of 5 players?",
-   "o": [
+   "question": "Which sport uses teams of 5 players?",
+   "options": [
     "Basketball",
     "Football",
     "Handball",
     "Polo"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 5 players play Basketball."
+   "answer": 0,
+   "explanation": "Teams of 5 players play Basketball.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00394",
-   "q": "National Film Award is associated with which of the following?",
-   "o": [
+   "question": "National Film Award is associated with which of the following?",
+   "options": [
     "Indian literary award",
     "Awards for Indian cinema",
     "Asian award for public service",
     "Highest peacetime gallantry award of India"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "National Film Award — Awards for Indian cinema."
+   "answer": 1,
+   "explanation": "National Film Award — Awards for Indian cinema.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00395",
-   "q": "Who is the author of The Story of My Life?",
-   "o": [
+   "question": "Who is the author of The Story of My Life?",
+   "options": [
     "Adam Smith",
     "Helen Keller",
     "Milkha Singh",
     "William Shakespeare"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "The Story of My Life is written by Helen Keller."
+   "answer": 1,
+   "explanation": "The Story of My Life is written by Helen Keller.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00396",
-   "q": "Which of the following achievements belongs to Chamonix?",
-   "o": [
+   "question": "Which of the following achievements belongs to Chamonix?",
+   "options": [
     "First President of the United States",
     "First Winter Olympic Games were held in",
     "First Cricket World Cup was held in",
     "First Secretary-General of the United Nations"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First Winter Olympic Games were held in belongs to Chamonix."
+   "answer": 1,
+   "explanation": "First Winter Olympic Games were held in belongs to Chamonix.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00397",
-   "q": "Which Indian city is called the Silicon Valley of India?",
-   "o": [
+   "question": "Which Indian city is called the Silicon Valley of India?",
+   "options": [
     "Surat",
     "Amazon Rainforest",
     "Sundarbans",
     "Bengaluru"
    ],
-   "a": 3,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 3,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00398",
-   "q": "Which country has the largest natural gas reserves?",
-   "o": [
+   "question": "Which country has the largest natural gas reserves?",
+   "options": [
     "Tropic of Cancer",
     "Russia",
     "Mount Everest",
     "Angel Falls"
    ],
-   "a": 1,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 1,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00399",
-   "q": "Which bank was created from the Imperial Bank of India?",
-   "o": [
+   "question": "Which bank was created from the Imperial Bank of India?",
+   "options": [
     "Cash Reserve Ratio",
     "State Bank of India",
     "Yellow Revolution",
     "IRDAI"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00400",
-   "q": "Which Indian river cleaning mission was extended to other rivers?",
-   "o": [
+   "question": "Which Indian river cleaning mission was extended to other rivers?",
+   "options": [
     "Kerala",
     "Namami Gange",
     "Maharashtra",
     "Satish Dhawan Space Centre"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00401",
-   "q": "What is the capital of Hungary?",
-   "o": [
+   "question": "What is the capital of Hungary?",
+   "options": [
     "Kigali",
     "Addis Ababa",
     "Budapest",
     "Lima"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Hungary is Budapest."
+   "answer": 2,
+   "explanation": "The capital of Hungary is Budapest.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00402",
-   "q": "On which date is Independence Day (India) observed?",
-   "o": [
+   "question": "On which date is Independence Day (India) observed?",
+   "options": [
     "28 February",
     "4 February",
     "15 August",
     "21 November"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "Independence Day (India) is observed on 15 August."
+   "answer": 2,
+   "explanation": "Independence Day (India) is observed on 15 August.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00403",
-   "q": "Where is the headquarters of International Fund for Agricultural Development?",
-   "o": [
+   "question": "Where is the headquarters of International Fund for Agricultural Development?",
+   "options": [
     "Shanghai",
     "Vienna",
     "Paris",
     "Rome"
    ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "International Fund for Agricultural Development is headquartered at Rome."
+   "answer": 3,
+   "explanation": "International Fund for Agricultural Development is headquartered at Rome.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00404",
-   "q": "Which sport uses teams of 7 players?",
-   "o": [
+   "question": "Which sport uses teams of 7 players?",
+   "options": [
     "Korfball",
     "Table tennis (singles)",
     "Badminton (doubles)",
     "Handball"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 7 players play Handball."
+   "answer": 3,
+   "explanation": "Teams of 7 players play Handball.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00405",
-   "q": "Nehru Cup is associated with which sport?",
-   "o": [
+   "question": "Nehru Cup is associated with which sport?",
+   "options": [
     "Hockey",
     "Badminton",
     "Cricket",
     "Football"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Nehru Cup is associated with Football."
+   "answer": 3,
+   "explanation": "Nehru Cup is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00406",
-   "q": "Kirti Chakra is associated with which of the following?",
-   "o": [
+   "question": "Kirti Chakra is associated with which of the following?",
+   "options": [
     "American award for music",
     "Second highest peacetime gallantry award of India",
     "Indian literary award",
     "British award for fiction"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Kirti Chakra — Second highest peacetime gallantry award of India."
+   "answer": 1,
+   "explanation": "Kirti Chakra — Second highest peacetime gallantry award of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00407",
-   "q": "Who is the author of Abhijnanashakuntalam?",
-   "o": [
+   "question": "Who is the author of Abhijnanashakuntalam?",
+   "options": [
     "Stephen Hawking",
     "Charles Dickens",
     "Kalidasa",
     "Maulana Abul Kalam Azad"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Abhijnanashakuntalam is written by Kalidasa."
+   "answer": 2,
+   "explanation": "Abhijnanashakuntalam is written by Kalidasa.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00408",
-   "q": "Which of the following achievements belongs to Roger Bannister?",
-   "o": [
+   "question": "Which of the following achievements belongs to Roger Bannister?",
+   "options": [
     "First country to send a human into space",
     "First person to run a mile in under four minutes",
     "First Indian woman to win an Olympic medal",
     "First modern Olympic Games were held in"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First person to run a mile in under four minutes belongs to Roger Bannister."
+   "answer": 1,
+   "explanation": "First person to run a mile in under four minutes belongs to Roger Bannister.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00409",
-   "q": "Which is the smallest state of India by area?",
-   "o": [
+   "question": "Which is the smallest state of India by area?",
+   "options": [
     "West Bengal",
     "Goa",
     "Tibet",
     "Lake Titicaca"
    ],
-   "a": 1,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 1,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00410",
-   "q": "Which is the largest continent by population density?",
-   "o": [
+   "question": "Which is the largest continent by population density?",
+   "options": [
     "New York",
     "Kerala",
     "Indonesia",
     "Asia"
    ],
-   "a": 3,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 3,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00411",
-   "q": "What is the cost of the next best alternative forgone called?",
-   "o": [
+   "question": "What is the cost of the next best alternative forgone called?",
+   "options": [
     "Dumping",
     "Opportunity cost",
     "Reverse repo",
     "Karl Marx"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00412",
-   "q": "Which Indian space mission studied the lunar south pole region?",
-   "o": [
+   "question": "Which Indian space mission studied the lunar south pole region?",
+   "options": [
     "H. S. Prannoy",
     "Pradhan Mantri Jan Dhan Yojana",
     "Ayushman Bharat",
     "Chandrayaan-3"
    ],
-   "a": 3,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 3,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00413",
-   "q": "What is the capital of Barbados?",
-   "o": [
+   "question": "What is the capital of Barbados?",
+   "options": [
     "Port of Spain",
     "Mogadishu",
     "Lome",
     "Bridgetown"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Barbados is Bridgetown."
+   "answer": 3,
+   "explanation": "The capital of Barbados is Bridgetown.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00414",
-   "q": "On which date is World Press Freedom Day observed?",
-   "o": [
+   "question": "On which date is World Press Freedom Day observed?",
+   "options": [
     "30 June",
     "1 May",
     "3 May",
     "third Thursday of November"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Press Freedom Day is observed on 3 May."
+   "answer": 2,
+   "explanation": "World Press Freedom Day is observed on 3 May.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00415",
-   "q": "Where is the headquarters of Bank for International Settlements?",
-   "o": [
+   "question": "Where is the headquarters of Bank for International Settlements?",
+   "options": [
     "Kathmandu",
     "Amsterdam",
     "Basel",
     "Gland"
    ],
-   "a": 2,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "Bank for International Settlements is headquartered at Basel."
+   "answer": 2,
+   "explanation": "Bank for International Settlements is headquartered at Basel.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00416",
-   "q": "Which sport uses teams of 9 players?",
-   "o": [
+   "question": "Which sport uses teams of 9 players?",
+   "options": [
     "Water polo",
     "Baseball",
     "Basketball",
     "Rugby union"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 9 players play Baseball."
+   "answer": 1,
+   "explanation": "Teams of 9 players play Baseball.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00417",
-   "q": "The Ashes is associated with which sport?",
-   "o": [
+   "question": "The Ashes is associated with which sport?",
+   "options": [
     "Cricket",
     "Tennis",
     "Football",
     "Multi-sport"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "The Ashes is associated with Cricket."
+   "answer": 0,
+   "explanation": "The Ashes is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00418",
-   "q": "Saraswati Samman is associated with which of the following?",
-   "o": [
+   "question": "Saraswati Samman is associated with which of the following?",
+   "options": [
     "Indian award for peace, disarmament and development",
     "Indian literary award",
     "Highest sporting honour of India",
     "Highest peacetime gallantry award of India"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Saraswati Samman — Indian literary award."
+   "answer": 1,
+   "explanation": "Saraswati Samman — Indian literary award.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00419",
-   "q": "Who is the author of Ramayana?",
-   "o": [
+   "question": "Who is the author of Ramayana?",
+   "options": [
     "Valmiki",
     "Jonathan Swift",
     "Ved Vyasa",
     "Mahatma Gandhi"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Ramayana is written by Valmiki."
+   "answer": 0,
+   "explanation": "Ramayana is written by Valmiki.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00420",
-   "q": "Which of the following achievements belongs to England?",
-   "o": [
+   "question": "Which of the following achievements belongs to England?",
+   "options": [
     "First country to host the modern Olympic Games",
     "First Cricket World Cup was held in",
     "First Secretary-General of the United Nations",
     "First person to reach the South Pole"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First Cricket World Cup was held in belongs to England."
+   "answer": 1,
+   "explanation": "First Cricket World Cup was held in belongs to England.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00421",
-   "q": "Which is the easternmost state of India?",
-   "o": [
+   "question": "Which is the easternmost state of India?",
+   "options": [
     "Strait of Gibraltar",
     "Arunachal Pradesh",
     "Mount Everest",
     "India"
    ],
-   "a": 1,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 1,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00422",
-   "q": "Which plateau is known as the Roof of the World?",
-   "o": [
+   "question": "Which plateau is known as the Roof of the World?",
+   "options": [
     "Kerala",
     "Indira Col",
     "Gobind Ballabh Pant Sagar",
     "Pamir Plateau"
    ],
-   "a": 3,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 3,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00423",
-   "q": "Which scheme provides subsidised food grains to the poor?",
-   "o": [
+   "question": "Which scheme provides subsidised food grains to the poor?",
+   "options": [
     "Yellow Revolution",
     "Gross National Product",
     "Public Distribution System",
     "Dumping"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00424",
-   "q": "Which index measures corruption perception across countries?",
-   "o": [
+   "question": "Which index measures corruption perception across countries?",
+   "options": [
     "2024",
     "Corruption Perceptions Index",
     "Unified Lending Interface",
     "Chennai"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00425",
-   "q": "What is the capital of Angola?",
-   "o": [
+   "question": "What is the capital of Angola?",
+   "options": [
     "Luanda",
     "Ljubljana",
     "Rome",
     "Quito"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Angola is Luanda."
+   "answer": 0,
+   "explanation": "The capital of Angola is Luanda.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00426",
-   "q": "On which date is World Cancer Day observed?",
-   "o": [
+   "question": "On which date is World Cancer Day observed?",
+   "options": [
     "4 February",
     "21 September",
     "10 October",
     "31 May"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Cancer Day is observed on 4 February."
+   "answer": 0,
+   "explanation": "World Cancer Day is observed on 4 February.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00427",
-   "q": "Where is the headquarters of United Nations Industrial Development Organization?",
-   "o": [
+   "question": "Where is the headquarters of United Nations Industrial Development Organization?",
+   "options": [
     "Geneva",
     "Vienna",
     "Beijing",
     "New York"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "United Nations Industrial Development Organization is headquartered at Vienna."
+   "answer": 1,
+   "explanation": "United Nations Industrial Development Organization is headquartered at Vienna.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00428",
-   "q": "Which sport uses teams of 7 players?",
-   "o": [
+   "question": "Which sport uses teams of 7 players?",
+   "options": [
     "Netball",
     "Badminton (doubles)",
     "Kabaddi",
     "Handball"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 7 players play Kabaddi."
+   "answer": 2,
+   "explanation": "Teams of 7 players play Kabaddi.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00429",
-   "q": "World Test Championship is associated with which sport?",
-   "o": [
+   "question": "World Test Championship is associated with which sport?",
+   "options": [
     "Cricket",
     "Tennis",
     "Table Tennis",
     "Hockey"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "World Test Championship is associated with Cricket."
+   "answer": 0,
+   "explanation": "World Test Championship is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00430",
-   "q": "Pulitzer Prize is associated with which of the following?",
-   "o": [
+   "question": "Pulitzer Prize is associated with which of the following?",
+   "options": [
     "Highest peacetime gallantry award of India",
     "Indian award for research",
     "American award for journalism and letters",
     "Coaching excellence in Indian sports"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Pulitzer Prize — American award for journalism and letters."
+   "answer": 2,
+   "explanation": "Pulitzer Prize — American award for journalism and letters.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00431",
-   "q": "Who is the author of Das Kapital?",
-   "o": [
+   "question": "Who is the author of Das Kapital?",
+   "options": [
     "William Shakespeare",
     "Nelson Mandela",
     "Adolf Hitler",
     "Karl Marx"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Das Kapital is written by Karl Marx."
+   "answer": 3,
+   "explanation": "Das Kapital is written by Karl Marx.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00432",
-   "q": "Which of the following achievements belongs to Rabindranath Tagore?",
-   "o": [
+   "question": "Which of the following achievements belongs to Rabindranath Tagore?",
+   "options": [
     "First woman in space",
     "First person to reach the South Pole",
     "First Indian to win a Nobel Prize",
     "First President of the United States"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First Indian to win a Nobel Prize belongs to Rabindranath Tagore."
+   "answer": 2,
+   "explanation": "First Indian to win a Nobel Prize belongs to Rabindranath Tagore.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00433",
-   "q": "Which is the northernmost state of India?",
-   "o": [
+   "question": "Which is the northernmost state of India?",
+   "options": [
     "Arma Konda",
     "Arctic Ocean",
     "Ganga",
     "Jammu and Kashmir"
    ],
-   "a": 3,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 3,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00434",
-   "q": "Which is the highest peak of the Nilgiri hills?",
-   "o": [
+   "question": "Which is the highest peak of the Nilgiri hills?",
+   "options": [
     "Doddabetta",
     "Jordan",
     "Latitude",
     "Baku"
    ],
-   "a": 0,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 0,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00435",
-   "q": "Which article provides for the Finance Commission?",
-   "o": [
+   "question": "Which article provides for the Finance Commission?",
+   "options": [
     "DICGC",
     "Central Board of Direct Taxes",
     "Article 280",
     "1991"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00436",
-   "q": "Which report measures the state of the environment in India?",
-   "o": [
+   "question": "Which report measures the state of the environment in India?",
+   "options": [
     "Uttar Pradesh",
     "State of the Environment Report",
     "International Year of Millets",
     "DigiLocker"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00437",
-   "q": "What is the capital of Mozambique?",
-   "o": [
+   "question": "What is the capital of Mozambique?",
+   "options": [
     "Freetown",
     "Maputo",
     "Valletta",
     "Djibouti"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Mozambique is Maputo."
+   "answer": 1,
+   "explanation": "The capital of Mozambique is Maputo.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00438",
-   "q": "On which date is International Day of the World's Indigenous Peoples observed?",
-   "o": [
+   "question": "On which date is International Day of the World's Indigenous Peoples observed?",
+   "options": [
     "24 January",
     "1 December",
     "1 June",
     "9 August"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Day of the World's Indigenous Peoples is observed on 9 August."
+   "answer": 3,
+   "explanation": "International Day of the World's Indigenous Peoples is observed on 9 August.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00439",
-   "q": "Where is the headquarters of UN High Commissioner for Refugees?",
-   "o": [
+   "question": "Where is the headquarters of UN High Commissioner for Refugees?",
+   "options": [
     "Jakarta",
     "London",
     "Washington, D.C.",
     "Geneva"
    ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "UN High Commissioner for Refugees is headquartered at Geneva."
+   "answer": 3,
+   "explanation": "UN High Commissioner for Refugees is headquartered at Geneva.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00440",
-   "q": "Which sport uses teams of 6 players?",
-   "o": [
+   "question": "Which sport uses teams of 6 players?",
+   "options": [
     "Rugby sevens",
     "Ice hockey",
     "Polo",
     "Korfball"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 6 players play Ice hockey."
+   "answer": 1,
+   "explanation": "Teams of 6 players play Ice hockey.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00441",
-   "q": "Irani Cup is associated with which sport?",
-   "o": [
+   "question": "Irani Cup is associated with which sport?",
+   "options": [
     "Football",
     "Hockey",
     "Cricket",
     "Tennis"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Irani Cup is associated with Cricket."
+   "answer": 2,
+   "explanation": "Irani Cup is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00442",
-   "q": "Arjuna Award is associated with which of the following?",
-   "o": [
+   "question": "Arjuna Award is associated with which of the following?",
+   "options": [
     "Performing arts award of India",
     "Coaching excellence in Indian sports",
     "Second highest peacetime gallantry award of India",
     "Outstanding performance in Indian sports"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Arjuna Award — Outstanding performance in Indian sports."
+   "answer": 3,
+   "explanation": "Arjuna Award — Outstanding performance in Indian sports.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00443",
-   "q": "Who is the author of India Wins Freedom?",
-   "o": [
+   "question": "Who is the author of India Wins Freedom?",
+   "options": [
     "Jonathan Swift",
     "Maulana Abul Kalam Azad",
     "Helen Keller",
     "William Shakespeare"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "India Wins Freedom is written by Maulana Abul Kalam Azad."
+   "answer": 1,
+   "explanation": "India Wins Freedom is written by Maulana Abul Kalam Azad.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00444",
-   "q": "Which of the following achievements belongs to Junko Tabei?",
-   "o": [
+   "question": "Which of the following achievements belongs to Junko Tabei?",
+   "options": [
     "First person to reach the South Pole",
     "First woman to climb Mount Everest",
     "First FIFA World Cup was held in",
     "First person to win two Nobel Prizes"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First woman to climb Mount Everest belongs to Junko Tabei."
+   "answer": 1,
+   "explanation": "First woman to climb Mount Everest belongs to Junko Tabei.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00445",
-   "q": "Which is the largest state of India by area?",
-   "o": [
+   "question": "Which is the largest state of India by area?",
+   "options": [
     "Mumbai",
     "Canada",
     "Amazon",
     "Rajasthan"
    ],
-   "a": 3,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 3,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00446",
-   "q": "Which city is called the Windy City?",
-   "o": [
+   "question": "Which city is called the Windy City?",
+   "options": [
     "Hyderabad",
     "Chicago",
     "Lake Victoria",
     "Jawaharlal Nehru Port"
    ],
-   "a": 1,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 1,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00447",
-   "q": "Which institution prints currency notes in India?",
-   "o": [
+   "question": "Which institution prints currency notes in India?",
+   "options": [
     "Reserve Bank of India",
     "Reverse repo",
     "Beijing",
     "Bank of India"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00448",
-   "q": "Which country hosted the 2023 Asian Games?",
-   "o": [
+   "question": "Which country hosted the 2023 Asian Games?",
+   "options": [
     "China",
     "Vivek Express",
     "Mary Kom",
     "Sikkim"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00449",
-   "q": "What is the capital of Bolivia?",
-   "o": [
+   "question": "What is the capital of Bolivia?",
+   "options": [
     "Ankara",
     "Zagreb",
     "Sucre",
     "Conakry"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Bolivia is Sucre."
+   "answer": 2,
+   "explanation": "The capital of Bolivia is Sucre.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00450",
-   "q": "On which date is World Vegan Day observed?",
-   "o": [
+   "question": "On which date is World Vegan Day observed?",
+   "options": [
     "26 January",
     "27 September",
     "22 April",
     "1 November"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Vegan Day is observed on 1 November."
+   "answer": 3,
+   "explanation": "World Vegan Day is observed on 1 November.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00451",
-   "q": "Where is the headquarters of World Wide Fund for Nature?",
-   "o": [
+   "question": "Where is the headquarters of World Wide Fund for Nature?",
+   "options": [
     "Vienna",
     "London",
     "Gland",
     "Montreal"
    ],
-   "a": 2,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "World Wide Fund for Nature is headquartered at Gland."
+   "answer": 2,
+   "explanation": "World Wide Fund for Nature is headquartered at Gland.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00452",
-   "q": "Which sport uses teams of 4 players?",
-   "o": [
+   "question": "Which sport uses teams of 4 players?",
+   "options": [
     "Volleyball",
     "Cricket",
     "Korfball",
     "Polo"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 4 players play Polo."
+   "answer": 3,
+   "explanation": "Teams of 4 players play Polo.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00453",
-   "q": "Which award is described as: Indian literary award?",
-   "o": [
+   "question": "Which award is described as: Indian literary award?",
+   "options": [
     "Dhyan Chand Award",
     "Sangeet Natak Akademi Award",
     "Saraswati Samman",
     "Param Vir Chakra"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Indian literary award describes Saraswati Samman."
+   "answer": 2,
+   "explanation": "Indian literary award describes Saraswati Samman.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00454",
-   "q": "Who is the author of Midnight's Children?",
-   "o": [
+   "question": "Who is the author of Midnight's Children?",
+   "options": [
     "Sigmund Freud",
     "Munshi Premchand",
     "Salman Rushdie",
     "Charles Darwin"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Midnight's Children is written by Salman Rushdie."
+   "answer": 2,
+   "explanation": "Midnight's Children is written by Salman Rushdie.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00455",
-   "q": "Which of the following achievements belongs to United States of America?",
-   "o": [
+   "question": "Which of the following achievements belongs to United States of America?",
+   "options": [
     "First person to run a mile in under four minutes",
     "First woman Prime Minister in the world",
     "First person to sail solo around the world",
     "First country to land a man on the Moon"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First country to land a man on the Moon belongs to United States of America."
+   "answer": 3,
+   "explanation": "First country to land a man on the Moon belongs to United States of America.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00456",
-   "q": "Which is the most populous state of India?",
-   "o": [
+   "question": "Which is the most populous state of India?",
+   "options": [
     "Dead Sea",
     "Asia",
     "Chilika Lake",
     "Uttar Pradesh"
    ],
-   "a": 3,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 3,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00457",
-   "q": "Where are the Ellora Caves located?",
-   "o": [
+   "question": "Where are the Ellora Caves located?",
+   "options": [
     "OPEC",
     "Godavari",
     "Maharashtra",
     "Asia"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00458",
-   "q": "Which sector is known as the tertiary sector of the economy?",
-   "o": [
+   "question": "Which sector is known as the tertiary sector of the economy?",
+   "options": [
     "Income tax",
     "SARFAESI Act, 2002",
     "Payment bank",
     "Services"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00459",
-   "q": "Which Indian Air Force officer is set to fly on the Gaganyaan mission?",
-   "o": [
+   "question": "Which Indian Air Force officer is set to fly on the Gaganyaan mission?",
+   "options": [
     "BRICS Summit",
     "Group Captain Prasanth Balakrishnan Nair",
     "Satwiksairaj Rankireddy and Chirag Shetty",
     "2000"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00460",
-   "q": "What is the capital of Gambia?",
-   "o": [
+   "question": "What is the capital of Gambia?",
+   "options": [
     "Monrovia",
     "Banjul",
     "Buenos Aires",
     "Guatemala City"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Gambia is Banjul."
+   "answer": 1,
+   "explanation": "The capital of Gambia is Banjul.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00461",
-   "q": "On which date is Human Rights Day observed?",
-   "o": [
+   "question": "On which date is Human Rights Day observed?",
+   "options": [
     "10 December",
     "23 March",
     "26 January",
     "21 September"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "Human Rights Day is observed on 10 December."
+   "answer": 0,
+   "explanation": "Human Rights Day is observed on 10 December.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00462",
-   "q": "Where is the headquarters of FIFA?",
-   "o": [
+   "question": "Where is the headquarters of FIFA?",
+   "options": [
     "Rome",
     "Geneva",
     "Zurich",
     "Gland"
    ],
-   "a": 2,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "FIFA is headquartered at Zurich."
+   "answer": 2,
+   "explanation": "FIFA is headquartered at Zurich.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00463",
-   "q": "Which sport uses teams of 6 players?",
-   "o": [
+   "question": "Which sport uses teams of 6 players?",
+   "options": [
     "Volleyball",
     "Handball",
     "Hockey",
     "Table tennis (singles)"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 6 players play Volleyball."
+   "answer": 0,
+   "explanation": "Teams of 6 players play Volleyball.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00464",
-   "q": "Deodhar Trophy is associated with which sport?",
-   "o": [
+   "question": "Deodhar Trophy is associated with which sport?",
+   "options": [
     "Tennis",
     "Cricket",
     "Badminton",
     "Football"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Deodhar Trophy is associated with Cricket."
+   "answer": 1,
+   "explanation": "Deodhar Trophy is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00465",
-   "q": "Which award is described as: Coaching excellence in Indian sports?",
-   "o": [
+   "question": "Which award is described as: Coaching excellence in Indian sports?",
+   "options": [
     "Sahitya Akademi Award",
     "Dronacharya Award",
     "Shanti Swarup Bhatnagar Prize",
     "Saraswati Samman"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Coaching excellence in Indian sports describes Dronacharya Award."
+   "answer": 1,
+   "explanation": "Coaching excellence in Indian sports describes Dronacharya Award.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00466",
-   "q": "Who is the author of The Origin of Species by Means of Natural Selection?",
-   "o": [
+   "question": "Who is the author of The Origin of Species by Means of Natural Selection?",
+   "options": [
     "Munshi Premchand",
     "Jane Austen",
     "Charles Darwin",
     "Kalidasa"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "The Origin of Species by Means of Natural Selection is written by Charles Darwin."
+   "answer": 2,
+   "explanation": "The Origin of Species by Means of Natural Selection is written by Charles Darwin.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00467",
-   "q": "Which of the following achievements belongs to Athens?",
-   "o": [
+   "question": "Which of the following achievements belongs to Athens?",
+   "options": [
     "First Secretary-General of the United Nations",
     "First modern Olympic Games were held in",
     "First country to host the modern Olympic Games",
     "First woman Prime Minister in the world"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First modern Olympic Games were held in belongs to Athens."
+   "answer": 1,
+   "explanation": "First modern Olympic Games were held in belongs to Athens.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00468",
-   "q": "Which is the southernmost point of India?",
-   "o": [
+   "question": "Which is the southernmost point of India?",
+   "options": [
     "South China Sea",
     "Bengaluru",
     "Indira Point",
     "India"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00469",
-   "q": "Where is the Kailasa Temple located?",
-   "o": [
+   "question": "Where is the Kailasa Temple located?",
+   "options": [
     "India",
     "Apennines",
     "Ellora",
     "Madhya Pradesh"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00470",
-   "q": "Which organ of the World Bank provides loans to the poorest countries?",
-   "o": [
+   "question": "Which organ of the World Bank provides loans to the poorest countries?",
+   "options": [
     "Progressive tax",
     "US Dollar",
     "International Development Association",
     "Four"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00471",
-   "q": "Which high-speed rail project is being built in India with Japanese assistance?",
-   "o": [
+   "question": "Which high-speed rail project is being built in India with Japanese assistance?",
+   "options": [
     "Mangalyaan",
     "India Semiconductor Mission",
     "Cyclone Phailin",
     "Mumbai-Ahmedabad High Speed Rail"
    ],
-   "a": 3,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 3,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00472",
-   "q": "What is the capital of Suriname?",
-   "o": [
+   "question": "What is the capital of Suriname?",
+   "options": [
     "Paramaribo",
     "Tripoli",
     "Reykjavik",
     "Sofia"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Suriname is Paramaribo."
+   "answer": 0,
+   "explanation": "The capital of Suriname is Paramaribo.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00473",
-   "q": "On which date is World Braille Day observed?",
-   "o": [
+   "question": "On which date is World Braille Day observed?",
+   "options": [
     "15 October",
     "3 May",
     "16 October",
     "4 January"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Braille Day is observed on 4 January."
+   "answer": 3,
+   "explanation": "World Braille Day is observed on 4 January.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00474",
-   "q": "Where is the headquarters of OPEC?",
-   "o": [
+   "question": "Where is the headquarters of OPEC?",
+   "options": [
     "Vienna",
     "The Hague",
     "Brussels",
     "New Delhi"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "OPEC is headquartered at Vienna."
+   "answer": 0,
+   "explanation": "OPEC is headquartered at Vienna.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00475",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Badminton (doubles) - 7",
     "Badminton (doubles) - 2",
     "Badminton (doubles) - 5",
     "Badminton (doubles) - 11"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Badminton (doubles) - 2 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Badminton (doubles) - 2 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00476",
-   "q": "Wimbledon is associated with which sport?",
-   "o": [
+   "question": "Wimbledon is associated with which sport?",
+   "options": [
     "Football",
     "Tennis",
     "Badminton",
     "Multi-sport"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Wimbledon is associated with Tennis."
+   "answer": 1,
+   "explanation": "Wimbledon is associated with Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00477",
-   "q": "Which award is described as: Highest military decoration of India?",
-   "o": [
+   "question": "Which award is described as: Highest military decoration of India?",
+   "options": [
     "Param Vir Chakra",
     "Infosys Prize",
     "Sangeet Natak Akademi Award",
     "Ashoka Chakra"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Highest military decoration of India describes Param Vir Chakra."
+   "answer": 0,
+   "explanation": "Highest military decoration of India describes Param Vir Chakra.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00478",
-   "q": "Who is the author of Discovery of India?",
-   "o": [
+   "question": "Who is the author of Discovery of India?",
+   "options": [
     "A. P. J. Abdul Kalam",
     "Jawaharlal Nehru",
     "Arundhati Roy",
     "Paramahansa Yogananda"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Discovery of India is written by Jawaharlal Nehru."
+   "answer": 1,
+   "explanation": "Discovery of India is written by Jawaharlal Nehru.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00479",
-   "q": "Which of the following achievements belongs to Karnam Malleswari?",
-   "o": [
+   "question": "Which of the following achievements belongs to Karnam Malleswari?",
+   "options": [
     "First Indian woman to win an Olympic medal",
     "First person to reach the North Pole by surface",
     "First country to send a human into space",
     "First President of the United States"
    ],
-   "a": 0,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First Indian woman to win an Olympic medal belongs to Karnam Malleswari."
+   "answer": 0,
+   "explanation": "First Indian woman to win an Olympic medal belongs to Karnam Malleswari.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00480",
-   "q": "Which is the largest peninsula in the world?",
-   "o": [
+   "question": "Which is the largest peninsula in the world?",
+   "options": [
     "Australia",
     "Seven",
     "Arabian Peninsula",
     "Strait of Malacca"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00481",
-   "q": "Where is the Somnath Temple located?",
-   "o": [
+   "question": "Where is the Somnath Temple located?",
+   "options": [
     "Mumbai",
     "Madurai",
     "Gujarat",
     "Lake Victoria"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00482",
-   "q": "Who is known as the father of the Green Revolution in India?",
-   "o": [
+   "question": "Who is known as the father of the Green Revolution in India?",
+   "options": [
     "Insolvency and Bankruptcy Code, 2016",
     "M. S. Swaminathan",
     "C. D. Deshmukh",
     "1951"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00483",
-   "q": "Which country has the largest tiger population?",
-   "o": [
+   "question": "Which country has the largest tiger population?",
+   "options": [
     "India",
     "Gaganyaan",
     "2014",
     "China"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00484",
-   "q": "What is the capital of Tanzania?",
-   "o": [
+   "question": "What is the capital of Tanzania?",
+   "options": [
     "Dodoma",
     "Freetown",
     "Sarajevo",
     "Pretoria"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Tanzania is Dodoma."
+   "answer": 0,
+   "explanation": "The capital of Tanzania is Dodoma.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00485",
-   "q": "On which date is World Philosophy Day observed?",
-   "o": [
+   "question": "On which date is World Philosophy Day observed?",
+   "options": [
     "10 October",
     "third Thursday of November",
     "11 October",
     "15 October"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Philosophy Day is observed on third Thursday of November."
+   "answer": 1,
+   "explanation": "World Philosophy Day is observed on third Thursday of November.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00486",
-   "q": "Where is the headquarters of International Cricket Council?",
-   "o": [
+   "question": "Where is the headquarters of International Cricket Council?",
+   "options": [
     "London",
     "Dubai",
     "Rome",
     "Geneva"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "International Cricket Council is headquartered at Dubai."
+   "answer": 1,
+   "explanation": "International Cricket Council is headquartered at Dubai.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00487",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Badminton (doubles) - 9",
     "Badminton (doubles) - 2",
     "Badminton (doubles) - 11",
     "Badminton (doubles) - 7"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Badminton (doubles) - 2 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Badminton (doubles) - 2 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00488",
-   "q": "Uber Cup is associated with which sport?",
-   "o": [
+   "question": "Uber Cup is associated with which sport?",
+   "options": [
     "Cricket",
     "Football",
     "Badminton",
     "Hockey"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Uber Cup is associated with Badminton."
+   "answer": 2,
+   "explanation": "Uber Cup is associated with Badminton.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00489",
-   "q": "Which award is described as: Second highest civilian award of India?",
-   "o": [
+   "question": "Which award is described as: Second highest civilian award of India?",
+   "options": [
     "Maha Vir Chakra",
     "Kalinga Prize",
     "Padma Vibhushan",
     "Vir Chakra"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Second highest civilian award of India describes Padma Vibhushan."
+   "answer": 2,
+   "explanation": "Second highest civilian award of India describes Padma Vibhushan.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00490",
-   "q": "Who is the author of Ignited Minds?",
-   "o": [
+   "question": "Who is the author of Ignited Minds?",
+   "options": [
     "Shrilal Shukla",
     "Plato",
     "Nelson Mandela",
     "A. P. J. Abdul Kalam"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Ignited Minds is written by A. P. J. Abdul Kalam."
+   "answer": 3,
+   "explanation": "Ignited Minds is written by A. P. J. Abdul Kalam.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00491",
-   "q": "Which of the following achievements belongs to Karnam Malleswari?",
-   "o": [
+   "question": "Which of the following achievements belongs to Karnam Malleswari?",
+   "options": [
     "First woman to win an Olympic gold in wrestling for India",
     "First woman to fly solo across the Atlantic",
     "First country to launch a satellite",
     "First country to host the modern Olympic Games"
    ],
-   "a": 0,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First woman to win an Olympic gold in wrestling for India belongs to Karnam Malleswari."
+   "answer": 0,
+   "explanation": "First woman to win an Olympic gold in wrestling for India belongs to Karnam Malleswari.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00492",
-   "q": "Which is the largest country by area?",
-   "o": [
+   "question": "Which is the largest country by area?",
+   "options": [
     "Kanchenjunga",
     "Russia",
     "Strait of Gibraltar",
     "Sikkim"
    ],
-   "a": 1,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 1,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00493",
-   "q": "Which canal connects the Mediterranean Sea with the Red Sea?",
-   "o": [
+   "question": "Which canal connects the Mediterranean Sea with the Red Sea?",
+   "options": [
     "Strait of Gibraltar",
     "Suez Canal",
     "Rome",
     "Madurai"
    ],
-   "a": 1,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 1,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00494",
-   "q": "Which body recommends the distribution of taxes between the Centre and States?",
-   "o": [
+   "question": "Which body recommends the distribution of taxes between the Centre and States?",
+   "options": [
     "1975",
     "Finance Commission",
     "Kandla",
     "DICGC"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00495",
-   "q": "Which Indian state is the largest producer of millets?",
-   "o": [
+   "question": "Which Indian state is the largest producer of millets?",
+   "options": [
     "Kerala",
     "Rajasthan",
     "National Wetlands Conservation Programme",
     "Paris"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00496",
-   "q": "What is the capital of Italy?",
-   "o": [
+   "question": "What is the capital of Italy?",
+   "options": [
     "Vatican City",
     "Rome",
     "Dakar",
     "Stockholm"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Italy is Rome."
+   "answer": 1,
+   "explanation": "The capital of Italy is Rome.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00497",
-   "q": "On which date is International Yoga Day observed?",
-   "o": [
+   "question": "On which date is International Yoga Day observed?",
+   "options": [
     "21 June",
     "16 October",
     "11 May",
     "4 July"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Yoga Day is observed on 21 June."
+   "answer": 0,
+   "explanation": "International Yoga Day is observed on 21 June.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00498",
-   "q": "Where is the headquarters of ASEAN?",
-   "o": [
+   "question": "Where is the headquarters of ASEAN?",
+   "options": [
     "Geneva",
     "Jakarta",
     "Washington, D.C.",
     "Mumbai"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "ASEAN is headquartered at Jakarta."
+   "answer": 1,
+   "explanation": "ASEAN is headquartered at Jakarta.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00499",
-   "q": "Sultan Azlan Shah Cup is associated with which sport?",
-   "o": [
+   "question": "Sultan Azlan Shah Cup is associated with which sport?",
+   "options": [
     "Cricket",
     "Badminton",
     "Hockey",
     "Football"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Sultan Azlan Shah Cup is associated with Hockey."
+   "answer": 2,
+   "explanation": "Sultan Azlan Shah Cup is associated with Hockey.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00500",
-   "q": "Which award is described as: Highest award in Indian cinema?",
-   "o": [
+   "question": "Which award is described as: Highest award in Indian cinema?",
+   "options": [
     "Bharat Ratna",
     "Dronacharya Award",
     "Dada Saheb Phalke Award",
     "Booker Prize"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Highest award in Indian cinema describes Dada Saheb Phalke Award."
+   "answer": 2,
+   "explanation": "Highest award in Indian cinema describes Dada Saheb Phalke Award.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00501",
-   "q": "Who is the author of Autobiography of a Yogi?",
-   "o": [
+   "question": "Who is the author of Autobiography of a Yogi?",
+   "options": [
     "William Shakespeare",
     "Paramahansa Yogananda",
     "A. P. J. Abdul Kalam",
     "Homer"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Autobiography of a Yogi is written by Paramahansa Yogananda."
+   "answer": 1,
+   "explanation": "Autobiography of a Yogi is written by Paramahansa Yogananda.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00502",
-   "q": "Which of the following achievements belongs to Soviet Union?",
-   "o": [
+   "question": "Which of the following achievements belongs to Soviet Union?",
+   "options": [
     "First person to run a mile in under four minutes",
     "First woman Prime Minister in the world",
     "First country to send a human into space",
     "First Indian to win a Nobel Prize"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First country to send a human into space belongs to Soviet Union."
+   "answer": 2,
+   "explanation": "First country to send a human into space belongs to Soviet Union.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00503",
-   "q": "Which country is called the Land of Thousand Lakes?",
-   "o": [
+   "question": "Which country is called the Land of Thousand Lakes?",
+   "options": [
     "Finland",
     "Surat",
     "Amazon",
     "Arunachal Pradesh"
    ],
-   "a": 0,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 0,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00504",
-   "q": "Which continent is called the Dark Continent?",
-   "o": [
+   "question": "Which continent is called the Dark Continent?",
+   "options": [
     "Kerala",
     "Punjab",
     "Africa",
     "Andes"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00505",
-   "q": "Which is the apex bank of India?",
-   "o": [
+   "question": "Which is the apex bank of India?",
+   "options": [
     "Agriculture sector",
     "Reserve Bank of India",
     "Insolvency and Bankruptcy Code, 2016",
     "An area with special economic regulations to promote exports"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00506",
-   "q": "Which cyclone hit Odisha in 1999 with severe impact?",
-   "o": [
+   "question": "Which cyclone hit Odisha in 1999 with severe impact?",
+   "options": [
     "Mahatma Gandhi National Rural Employment Guarantee Scheme",
     "Kerala",
     "Odisha Super Cyclone",
     "India, United States, Japan and Australia"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00507",
-   "q": "What is the capital of Argentina?",
-   "o": [
+   "question": "What is the capital of Argentina?",
+   "options": [
     "Vienna",
     "Copenhagen",
     "Buenos Aires",
     "Sanaa"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Argentina is Buenos Aires."
+   "answer": 2,
+   "explanation": "The capital of Argentina is Buenos Aires.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00508",
-   "q": "On which date is Teachers' Day (India) observed?",
-   "o": [
+   "question": "On which date is Teachers' Day (India) observed?",
+   "options": [
     "7 April",
     "26 January",
     "5 September",
     "21 November"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "Teachers' Day (India) is observed on 5 September."
+   "answer": 2,
+   "explanation": "Teachers' Day (India) is observed on 5 September.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00509",
-   "q": "Where is the headquarters of Indian Space Research Organisation?",
-   "o": [
+   "question": "Where is the headquarters of Indian Space Research Organisation?",
+   "options": [
     "Paris",
     "Bengaluru",
     "Geneva",
     "Lausanne"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "Indian Space Research Organisation is headquartered at Bengaluru."
+   "answer": 1,
+   "explanation": "Indian Space Research Organisation is headquartered at Bengaluru.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00510",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Korfball - 6",
     "Korfball - 11",
     "Korfball - 15",
     "Korfball - 8"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Korfball - 8 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Korfball - 8 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00511",
-   "q": "Which trophy or cup is associated with Badminton?",
-   "o": [
+   "question": "Which trophy or cup is associated with Badminton?",
+   "options": [
     "All England Open",
     "Asia Cup",
     "Rovers Cup",
     "Beighton Cup"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "All England Open is associated with Badminton."
+   "answer": 0,
+   "explanation": "All England Open is associated with Badminton.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00512",
-   "q": "Which award is described as: Award for progress in spiritual matters?",
-   "o": [
+   "question": "Which award is described as: Award for progress in spiritual matters?",
+   "options": [
     "Templeton Prize",
     "Gandhi Peace Prize",
     "Padma Vibhushan",
     "Borlaug Award"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Award for progress in spiritual matters describes Templeton Prize."
+   "answer": 0,
+   "explanation": "Award for progress in spiritual matters describes Templeton Prize.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00513",
-   "q": "Who is the author of The Race of My Life?",
-   "o": [
+   "question": "Who is the author of The Race of My Life?",
+   "options": [
     "Charles Darwin",
     "Leo Tolstoy",
     "Milkha Singh",
     "Sigmund Freud"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "The Race of My Life is written by Milkha Singh."
+   "answer": 2,
+   "explanation": "The Race of My Life is written by Milkha Singh.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00514",
-   "q": "Which of the following achievements belongs to Wally Herbert?",
-   "o": [
+   "question": "Which of the following achievements belongs to Wally Herbert?",
+   "options": [
     "First country to host the modern Olympic Games",
     "First Indian to win an individual Olympic gold",
     "First Winter Olympic Games were held in",
     "First person to reach the North Pole by surface"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First person to reach the North Pole by surface belongs to Wally Herbert."
+   "answer": 3,
+   "explanation": "First person to reach the North Pole by surface belongs to Wally Herbert.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00515",
-   "q": "Which strait separates Asia from North America?",
-   "o": [
+   "question": "Which strait separates Asia from North America?",
+   "options": [
     "Caspian Sea",
     "Jaipur",
     "Bering Strait",
     "Bangladesh"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00516",
-   "q": "Which continent has the largest population?",
-   "o": [
+   "question": "Which continent has the largest population?",
+   "options": [
     "Madhya Pradesh",
     "Rome",
     "Asia",
     "Norway"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00517",
-   "q": "Which code deals with insolvency resolution in India?",
-   "o": [
+   "question": "Which code deals with insolvency resolution in India?",
+   "options": [
     "Liberalisation, Privatisation and Globalisation",
     "Insolvency and Bankruptcy Code, 2016",
     "Kelkar Committee",
     "Abolition of intermediaries"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00518",
-   "q": "Which Indian state has the highest number of UNESCO World Heritage Sites?",
-   "o": [
+   "question": "Which Indian state has the highest number of UNESCO World Heritage Sites?",
+   "options": [
     "Vande Bharat Express",
     "Gaganyaan",
     "XPoSat",
     "Maharashtra"
    ],
-   "a": 3,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 3,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00519",
-   "q": "What is the capital of Morocco?",
-   "o": [
+   "question": "What is the capital of Morocco?",
+   "options": [
     "Luxembourg City",
     "Rabat",
     "Kampala",
     "Guatemala City"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Morocco is Rabat."
+   "answer": 1,
+   "explanation": "The capital of Morocco is Rabat.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00520",
-   "q": "On which date is Kargil Vijay Diwas observed?",
-   "o": [
+   "question": "On which date is Kargil Vijay Diwas observed?",
+   "options": [
     "14 November",
     "9 August",
     "26 July",
     "13 February"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "Kargil Vijay Diwas is observed on 26 July."
+   "answer": 2,
+   "explanation": "Kargil Vijay Diwas is observed on 26 July.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00521",
-   "q": "Where is the headquarters of World Food Programme?",
-   "o": [
+   "question": "Where is the headquarters of World Food Programme?",
+   "options": [
     "Paris",
     "London",
     "Beijing",
     "Rome"
    ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "World Food Programme is headquartered at Rome."
+   "answer": 3,
+   "explanation": "World Food Programme is headquartered at Rome.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00522",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Ice hockey - 6",
     "Ice hockey - 11",
     "Ice hockey - 7",
     "Ice hockey - 9"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ice hockey - 6 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Ice hockey - 6 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00523",
-   "q": "Which trophy or cup is associated with Cricket?",
-   "o": [
+   "question": "Which trophy or cup is associated with Cricket?",
+   "options": [
     "Uber Cup",
     "Deodhar Trophy",
     "Durand Cup",
     "Grand Slam (Tennis)"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Deodhar Trophy is associated with Cricket."
+   "answer": 1,
+   "explanation": "Deodhar Trophy is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00524",
-   "q": "Which award is described as: Indian award for research?",
-   "o": [
+   "question": "Which award is described as: Indian award for research?",
+   "options": [
     "Padma Shri",
     "National Bravery Award",
     "Infosys Prize",
     "Dhyan Chand Award"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Indian award for research describes Infosys Prize."
+   "answer": 2,
+   "explanation": "Indian award for research describes Infosys Prize.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00525",
-   "q": "Who is the author of Godaan?",
-   "o": [
+   "question": "Who is the author of Godaan?",
+   "options": [
     "Munshi Premchand",
     "Mahatma Gandhi",
     "Kautilya",
     "Charles Darwin"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Godaan is written by Munshi Premchand."
+   "answer": 0,
+   "explanation": "Godaan is written by Munshi Premchand.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00526",
-   "q": "Which of the following achievements belongs to Marie Curie?",
-   "o": [
+   "question": "Which of the following achievements belongs to Marie Curie?",
+   "options": [
     "First President of the United States",
     "First Indian to win a Nobel Prize",
     "First country to land a man on the Moon",
     "First woman to win a Nobel Prize"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First woman to win a Nobel Prize belongs to Marie Curie."
+   "answer": 3,
+   "explanation": "First woman to win a Nobel Prize belongs to Marie Curie.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00527",
-   "q": "Which is the highest mountain peak in India?",
-   "o": [
+   "question": "Which is the highest mountain peak in India?",
+   "options": [
     "Kanchenjunga",
     "Sikkim",
     "Kanpur",
     "Andhra Pradesh"
    ],
-   "a": 0,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 0,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00528",
-   "q": "Which is the highest plateau in the world?",
-   "o": [
+   "question": "Which is the highest plateau in the world?",
+   "options": [
     "Egypt",
     "Madhya Pradesh",
     "Mumbai",
     "Tibetan Plateau"
    ],
-   "a": 3,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 3,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00529",
-   "q": "What is the reserve asset of the International Monetary Fund called?",
-   "o": [
+   "question": "What is the reserve asset of the International Monetary Fund called?",
+   "options": [
     "Nifty",
     "Special Drawing Rights",
     "Services sector",
     "Make in India"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00530",
-   "q": "Which Indian submarine launched a ballistic missile test in 2024?",
-   "o": [
+   "question": "Which Indian submarine launched a ballistic missile test in 2024?",
+   "options": [
     "Sachin Tendulkar",
     "INS Arighaat",
     "Tamil Nadu",
     "Indira Gandhi International Airport"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00531",
-   "q": "What is the capital of Indonesia?",
-   "o": [
+   "question": "What is the capital of Indonesia?",
+   "options": [
     "Jakarta",
     "Manama",
     "Sanaa",
     "Andorra la Vella"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Indonesia is Jakarta."
+   "answer": 0,
+   "explanation": "The capital of Indonesia is Jakarta.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00532",
-   "q": "On which date is World Cities Day observed?",
-   "o": [
+   "question": "On which date is World Cities Day observed?",
+   "options": [
     "30 April",
     "31 October",
     "11 December",
     "20 March"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Cities Day is observed on 31 October."
+   "answer": 1,
+   "explanation": "World Cities Day is observed on 31 October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00533",
-   "q": "Where is the headquarters of Board of Control for Cricket in India?",
-   "o": [
+   "question": "Where is the headquarters of Board of Control for Cricket in India?",
+   "options": [
     "Mumbai",
     "Geneva",
     "Kathmandu",
     "Cologny"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "Board of Control for Cricket in India is headquartered at Mumbai."
+   "answer": 0,
+   "explanation": "Board of Control for Cricket in India is headquartered at Mumbai.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00534",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Ice hockey - 15",
     "Ice hockey - 6",
     "Ice hockey - 5",
     "Ice hockey - 7"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ice hockey - 6 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Ice hockey - 6 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00535",
-   "q": "Which trophy or cup is associated with Golf?",
-   "o": [
+   "question": "Which trophy or cup is associated with Golf?",
+   "options": [
     "Durand Cup",
     "Ryder Cup",
     "Ranji Trophy",
     "Uber Cup"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Ryder Cup is associated with Golf."
+   "answer": 1,
+   "explanation": "Ryder Cup is associated with Golf.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00536",
-   "q": "Which award is described as: Indian award in science and technology?",
-   "o": [
+   "question": "Which award is described as: Indian award in science and technology?",
+   "options": [
     "Ashoka Chakra",
     "Shanti Swarup Bhatnagar Prize",
     "Academy Award (Oscar)",
     "Right Livelihood Award"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Indian award in science and technology describes Shanti Swarup Bhatnagar Prize."
+   "answer": 1,
+   "explanation": "Indian award in science and technology describes Shanti Swarup Bhatnagar Prize.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00537",
-   "q": "Who is the author of Gaban?",
-   "o": [
+   "question": "Who is the author of Gaban?",
+   "options": [
     "Munshi Premchand",
     "Maxim Gorky",
     "Adam Smith",
     "A. P. J. Abdul Kalam"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Gaban is written by Munshi Premchand."
+   "answer": 0,
+   "explanation": "Gaban is written by Munshi Premchand.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00538",
-   "q": "Which of the following achievements belongs to Soviet Union?",
-   "o": [
+   "question": "Which of the following achievements belongs to Soviet Union?",
+   "options": [
     "First President of the United States",
     "First person to sail solo around the world",
     "First country to launch a satellite",
     "First Indian to win an individual Olympic gold"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First country to launch a satellite belongs to Soviet Union."
+   "answer": 2,
+   "explanation": "First country to launch a satellite belongs to Soviet Union.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00539",
-   "q": "Which city is known as the Forbidden City?",
-   "o": [
+   "question": "Which city is known as the Forbidden City?",
+   "options": [
     "Beijing",
     "Finland",
     "Bengaluru",
     "Bay of Bengal"
    ],
-   "a": 0,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 0,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00540",
-   "q": "What is the time difference between Indian Standard Time and Greenwich Mean Time?",
-   "o": [
+   "question": "What is the time difference between Indian Standard Time and Greenwich Mean Time?",
+   "options": [
     "Five and a half hours",
     "Pacific Ocean",
     "Latitude",
     "Andes"
    ],
-   "a": 0,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 0,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00541",
-   "q": "Which scheme provides loans to micro-enterprises in India?",
-   "o": [
+   "question": "Which scheme provides loans to micro-enterprises in India?",
+   "options": [
     "Pradhan Mantri Mudra Yojana",
     "Twelfth Five Year Plan",
     "2016",
     "Microeconomics"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00542",
-   "q": "Which rocket is ISRO's heaviest launch vehicle?",
-   "o": [
+   "question": "Which rocket is ISRO's heaviest launch vehicle?",
+   "options": [
     "Swachh Bharat Abhiyan",
     "The Elephant Whisperers",
     "LVM3",
     "H. S. Prannoy"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00543",
-   "q": "What is the capital of Japan?",
-   "o": [
+   "question": "What is the capital of Japan?",
+   "options": [
     "Tallinn",
     "Tokyo",
     "Mexico City",
     "Cairo"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Japan is Tokyo."
+   "answer": 1,
+   "explanation": "The capital of Japan is Tokyo.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00544",
-   "q": "On which date is World Wildlife Day observed?",
-   "o": [
+   "question": "On which date is World Wildlife Day observed?",
+   "options": [
     "3 March",
     "4 July",
     "29 September",
     "20 March"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Wildlife Day is observed on 3 March."
+   "answer": 0,
+   "explanation": "World Wildlife Day is observed on 3 March.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00545",
-   "q": "Where is the headquarters of Food and Agriculture Organization?",
-   "o": [
+   "question": "Where is the headquarters of Food and Agriculture Organization?",
+   "options": [
     "Geneva",
     "London",
     "Rome",
     "Zurich"
    ],
-   "a": 2,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "Food and Agriculture Organization is headquartered at Rome."
+   "answer": 2,
+   "explanation": "Food and Agriculture Organization is headquartered at Rome.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00546",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Kabaddi - 6",
     "Kabaddi - 15",
     "Kabaddi - 7",
     "Kabaddi - 1"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kabaddi - 7 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Kabaddi - 7 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00547",
-   "q": "Which trophy or cup is associated with Football?",
-   "o": [
+   "question": "Which trophy or cup is associated with Football?",
+   "options": [
     "Beighton Cup",
     "The Ashes",
     "Merdeka Cup",
     "FIH Hockey World Cup"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Merdeka Cup is associated with Football."
+   "answer": 2,
+   "explanation": "Merdeka Cup is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00548",
-   "q": "Which award is described as: Highest civilian award of India?",
-   "o": [
+   "question": "Which award is described as: Highest civilian award of India?",
+   "options": [
     "Bharat Ratna",
     "Ashoka Chakra",
     "Vir Chakra",
     "Sahitya Akademi Award"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Highest civilian award of India describes Bharat Ratna."
+   "answer": 0,
+   "explanation": "Highest civilian award of India describes Bharat Ratna.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00549",
-   "q": "Who is the author of The Odyssey?",
-   "o": [
+   "question": "Who is the author of The Odyssey?",
+   "options": [
     "Mary Kom",
     "Homer",
     "Karl Marx and Friedrich Engels",
     "Mahatma Gandhi"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "The Odyssey is written by Homer."
+   "answer": 1,
+   "explanation": "The Odyssey is written by Homer.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00550",
-   "q": "Which of the following achievements belongs to Edmund Hillary?",
-   "o": [
+   "question": "Which of the following achievements belongs to Edmund Hillary?",
+   "options": [
     "First person to sail solo around the world",
     "First woman to fly solo across the Atlantic",
     "First person to climb Mount Everest",
     "First country to send a human into space"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First person to climb Mount Everest belongs to Edmund Hillary."
+   "answer": 2,
+   "explanation": "First person to climb Mount Everest belongs to Edmund Hillary.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00551",
-   "q": "Which is the largest bay in the world?",
-   "o": [
+   "question": "Which is the largest bay in the world?",
+   "options": [
     "Bay of Bengal",
     "Jodhpur",
     "Yangtze",
     "Norway"
    ],
-   "a": 0,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 0,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00552",
-   "q": "Which sea lies to the east of India?",
-   "o": [
+   "question": "Which sea lies to the east of India?",
+   "options": [
     "Torres Strait",
     "China",
     "Surat",
     "Bay of Bengal"
    ],
-   "a": 3,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 3,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00553",
-   "q": "In which year was NABARD established?",
-   "o": [
+   "question": "In which year was NABARD established?",
+   "options": [
     "SIDBI",
     "1982",
     "Euro",
     "Regressive tax"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00554",
-   "q": "Which Indian chess player challenged for the world title in 2023?",
-   "o": [
+   "question": "Which Indian chess player challenged for the world title in 2023?",
+   "options": [
     "Ayushman Bharat",
     "D. Gukesh",
     "West Indies",
     "Hangzhou"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00555",
-   "q": "What is the capital of Poland?",
-   "o": [
+   "question": "What is the capital of Poland?",
+   "options": [
     "Warsaw",
     "Canberra",
     "Tokyo",
     "Gitega"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Poland is Warsaw."
+   "answer": 0,
+   "explanation": "The capital of Poland is Warsaw.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00556",
-   "q": "On which date is International Anti-Corruption Day observed?",
-   "o": [
+   "question": "On which date is International Anti-Corruption Day observed?",
+   "options": [
     "9 December",
     "9 August",
     "25 January",
     "30 June"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Anti-Corruption Day is observed on 9 December."
+   "answer": 0,
+   "explanation": "International Anti-Corruption Day is observed on 9 December.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00557",
-   "q": "Where is the headquarters of International Labour Organization headquarters city?",
-   "o": [
+   "question": "Where is the headquarters of International Labour Organization headquarters city?",
+   "options": [
     "Gland",
     "Geneva",
     "Manila",
     "Vienna"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "International Labour Organization headquarters city is headquartered at Geneva."
+   "answer": 1,
+   "explanation": "International Labour Organization headquarters city is headquartered at Geneva.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00558",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Kabaddi - 7",
     "Kabaddi - 1",
     "Kabaddi - 8",
     "Kabaddi - 9"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kabaddi - 7 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Kabaddi - 7 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00559",
-   "q": "Which trophy or cup is associated with Cricket?",
-   "o": [
+   "question": "Which trophy or cup is associated with Cricket?",
+   "options": [
     "Irani Cup",
     "Rovers Cup",
     "Syed Mushtaq Ali Trophy",
     "Subroto Cup"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Irani Cup is associated with Cricket."
+   "answer": 0,
+   "explanation": "Irani Cup is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00560",
-   "q": "Which award is described as: Awards for Indian cinema?",
-   "o": [
+   "question": "Which award is described as: Awards for Indian cinema?",
+   "options": [
     "Param Vir Chakra",
     "Padma Shri",
     "Vyas Samman",
     "National Film Award"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Awards for Indian cinema describes National Film Award."
+   "answer": 3,
+   "explanation": "Awards for Indian cinema describes National Film Award.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00561",
-   "q": "Who is the author of Wings of Fire?",
-   "o": [
+   "question": "Who is the author of Wings of Fire?",
+   "options": [
     "Munshi Premchand",
     "A. P. J. Abdul Kalam",
     "Maxim Gorky",
     "Mahatma Gandhi"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Wings of Fire is written by A. P. J. Abdul Kalam."
+   "answer": 1,
+   "explanation": "Wings of Fire is written by A. P. J. Abdul Kalam.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00562",
-   "q": "Which of the following achievements belongs to Neil Armstrong?",
-   "o": [
+   "question": "Which of the following achievements belongs to Neil Armstrong?",
+   "options": [
     "First FIFA World Cup was held in",
     "First person to reach the South Pole",
     "First woman to fly solo across the Atlantic",
     "First person to walk on the Moon"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First person to walk on the Moon belongs to Neil Armstrong."
+   "answer": 3,
+   "explanation": "First person to walk on the Moon belongs to Neil Armstrong.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00563",
-   "q": "Which is the largest freshwater lake in India?",
-   "o": [
+   "question": "Which is the largest freshwater lake in India?",
+   "options": [
     "Mauna Loa",
     "Wular Lake",
     "Belgium",
     "Kanchenjunga"
    ],
-   "a": 1,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 1,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00564",
-   "q": "Which is the most populous state of India?",
-   "o": [
+   "question": "Which is the most populous state of India?",
+   "options": [
     "China",
     "Rome",
     "South China Sea",
     "Uttar Pradesh"
    ],
-   "a": 3,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 3,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00565",
-   "q": "Which Constitutional amendment introduced GST in India?",
-   "o": [
+   "question": "Which Constitutional amendment introduced GST in India?",
+   "options": [
     "Bank of England",
     "Liberalisation, Privatisation and Globalisation",
     "1965",
     "101st Amendment"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00566",
-   "q": "Which mission of ISRO reached Mars orbit in 2014?",
-   "o": [
+   "question": "Which mission of ISRO reached Mars orbit in 2014?",
+   "options": [
     "BharatNet",
     "Production Linked Incentive Scheme",
     "Mars Orbiter Mission",
     "Mudra Yojana"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00567",
-   "q": "What is the capital of Togo?",
-   "o": [
+   "question": "What is the capital of Togo?",
+   "options": [
     "Berlin",
     "Manila",
     "Lome",
     "San Marino"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Togo is Lome."
+   "answer": 2,
+   "explanation": "The capital of Togo is Lome.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00568",
-   "q": "On which date is International Students' Day observed?",
-   "o": [
+   "question": "On which date is International Students' Day observed?",
+   "options": [
     "17 November",
     "17 May",
     "8 September",
     "24 January"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Students' Day is observed on 17 November."
+   "answer": 0,
+   "explanation": "International Students' Day is observed on 17 November.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00569",
-   "q": "Where is the headquarters of International Criminal Court?",
-   "o": [
+   "question": "Where is the headquarters of International Criminal Court?",
+   "options": [
     "Paris",
     "The Hague",
     "Bern",
     "Brussels"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "International Criminal Court is headquartered at The Hague."
+   "answer": 1,
+   "explanation": "International Criminal Court is headquartered at The Hague.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00570",
-   "q": "Which trophy or cup is associated with Cricket?",
-   "o": [
+   "question": "Which trophy or cup is associated with Cricket?",
+   "options": [
     "World Cup (Cricket)",
     "Azlan Shah Trophy",
     "Grand Slam (Tennis)",
     "UEFA Champions League"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "World Cup (Cricket) is associated with Cricket."
+   "answer": 0,
+   "explanation": "World Cup (Cricket) is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00571",
-   "q": "Which award is described as: Third highest civilian award of India?",
-   "o": [
+   "question": "Which award is described as: Third highest civilian award of India?",
+   "options": [
     "Kirti Chakra",
     "Padma Bhushan",
     "Pulitzer Prize",
     "Shanti Swarup Bhatnagar Prize"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Third highest civilian award of India describes Padma Bhushan."
+   "answer": 1,
+   "explanation": "Third highest civilian award of India describes Padma Bhushan.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00572",
-   "q": "Who is the author of Pride and Prejudice?",
-   "o": [
+   "question": "Who is the author of Pride and Prejudice?",
+   "options": [
     "Charles Darwin",
     "Jane Austen",
     "Paramahansa Yogananda",
     "Karl Marx"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Pride and Prejudice is written by Jane Austen."
+   "answer": 1,
+   "explanation": "Pride and Prejudice is written by Jane Austen.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00573",
-   "q": "Which of the following achievements belongs to New Zealand?",
-   "o": [
+   "question": "Which of the following achievements belongs to New Zealand?",
+   "options": [
     "First Winter Olympic Games were held in",
     "First country to give women the vote",
     "First country to host the modern Olympic Games",
     "First person to climb Mount Everest"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First country to give women the vote belongs to New Zealand."
+   "answer": 1,
+   "explanation": "First country to give women the vote belongs to New Zealand.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00574",
-   "q": "Which imaginary line passes through India?",
-   "o": [
+   "question": "Which imaginary line passes through India?",
+   "options": [
     "Belgium",
     "Mariana Trench",
     "Tropic of Cancer",
     "Lake Superior"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00575",
-   "q": "Which country is called the Land of a Thousand Dances?",
-   "o": [
+   "question": "Which country is called the Land of a Thousand Dances?",
+   "options": [
     "Canada",
     "China",
     "Brazil",
     "Philippines"
    ],
-   "a": 3,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 3,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00576",
-   "q": "Who is known as the father of modern economics?",
-   "o": [
+   "question": "Who is known as the father of modern economics?",
+   "options": [
     "Green Revolution",
     "Monetary Policy Committee",
     "Net National Product",
     "Adam Smith"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00577",
-   "q": "Which scheme supports the establishment of new MSMEs?",
-   "o": [
+   "question": "Which scheme supports the establishment of new MSMEs?",
+   "options": [
     "Pradhan Mantri Mudra Yojana",
     "Indira Gandhi International Airport",
     "Manushi Chhillar",
     "Ayushman Bharat Vay Vandana Card"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00578",
-   "q": "What is the capital of Latvia?",
-   "o": [
+   "question": "What is the capital of Latvia?",
+   "options": [
     "Riga",
     "Bishkek",
     "Ottawa",
     "Nouakchott"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Latvia is Riga."
+   "answer": 0,
+   "explanation": "The capital of Latvia is Riga.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00579",
-   "q": "On which date is World Food Day observed?",
-   "o": [
+   "question": "On which date is World Food Day observed?",
+   "options": [
     "20 May",
     "16 October",
     "14 November",
     "3 May"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Food Day is observed on 16 October."
+   "answer": 1,
+   "explanation": "World Food Day is observed on 16 October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00580",
-   "q": "Where is the headquarters of UNESCO?",
-   "o": [
+   "question": "Where is the headquarters of UNESCO?",
+   "options": [
     "Lyon",
     "Manila",
     "Brussels",
     "Paris"
    ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "UNESCO is headquartered at Paris."
+   "answer": 3,
+   "explanation": "UNESCO is headquartered at Paris.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00581",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Water polo - 9",
     "Water polo - 1",
     "Water polo - 7",
     "Water polo - 6"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Water polo - 7 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Water polo - 7 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00582",
-   "q": "Which trophy or cup is associated with Football?",
-   "o": [
+   "question": "Which trophy or cup is associated with Football?",
+   "options": [
     "US Open",
     "Champions Trophy (Cricket)",
     "Durand Cup",
     "Sultan Azlan Shah Cup"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Durand Cup is associated with Football."
+   "answer": 2,
+   "explanation": "Durand Cup is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00583",
-   "q": "Which award is described as: American award for films?",
-   "o": [
+   "question": "Which award is described as: American award for films?",
+   "options": [
     "Major Dhyan Chand Khel Ratna Award",
     "Academy Award (Oscar)",
     "Dronacharya Award",
     "Templeton Prize"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "American award for films describes Academy Award (Oscar)."
+   "answer": 1,
+   "explanation": "American award for films describes Academy Award (Oscar).",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00584",
-   "q": "Who is the author of Romeo and Juliet?",
-   "o": [
+   "question": "Who is the author of Romeo and Juliet?",
+   "options": [
     "John Milton",
     "Milkha Singh",
     "Phanishwar Nath Renu",
     "William Shakespeare"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Romeo and Juliet is written by William Shakespeare."
+   "answer": 3,
+   "explanation": "Romeo and Juliet is written by William Shakespeare.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00585",
-   "q": "Which of the following achievements belongs to Sirimavo Bandaranaike?",
-   "o": [
+   "question": "Which of the following achievements belongs to Sirimavo Bandaranaike?",
+   "options": [
     "First woman Prime Minister in the world",
     "First Indian to win an individual Olympic gold",
     "First country to give women the vote",
     "First country to land a man on the Moon"
    ],
-   "a": 0,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First woman Prime Minister in the world belongs to Sirimavo Bandaranaike."
+   "answer": 0,
+   "explanation": "First woman Prime Minister in the world belongs to Sirimavo Bandaranaike.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00586",
-   "q": "Which is the largest volcano in the world?",
-   "o": [
+   "question": "Which is the largest volcano in the world?",
+   "options": [
     "Rome",
     "Lake Titicaca",
     "Udaipur",
     "Mauna Loa"
    ],
-   "a": 3,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 3,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00587",
-   "q": "Which is the largest port in India?",
-   "o": [
+   "question": "Which is the largest port in India?",
+   "options": [
     "Jawaharlal Nehru Port",
     "Netherlands",
     "Angel Falls",
     "Latitude"
    ],
-   "a": 0,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 0,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00588",
-   "q": "Which body regulates the insurance sector in India?",
-   "o": [
+   "question": "Which body regulates the insurance sector in India?",
+   "options": [
     "IRDAI",
     "Lending rate",
     "Liberalisation, Privatisation and Globalisation",
     "1875"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00589",
-   "q": "Which index measures press freedom worldwide?",
-   "o": [
+   "question": "Which index measures press freedom worldwide?",
+   "options": [
     "AstroSat",
     "Digital Bharat Nidhi",
     "United Arab Emirates",
     "World Press Freedom Index"
    ],
-   "a": 3,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 3,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00590",
-   "q": "What is the capital of Finland?",
-   "o": [
+   "question": "What is the capital of Finland?",
+   "options": [
     "Washington, D.C.",
     "Kinshasa",
     "Panama City",
     "Helsinki"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Finland is Helsinki."
+   "answer": 3,
+   "explanation": "The capital of Finland is Helsinki.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00591",
-   "q": "On which date is World Kindness Day observed?",
-   "o": [
+   "question": "On which date is World Kindness Day observed?",
+   "options": [
     "22 December",
     "14 October",
     "13 November",
     "8 June"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Kindness Day is observed on 13 November."
+   "answer": 2,
+   "explanation": "World Kindness Day is observed on 13 November.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00592",
-   "q": "Where is the headquarters of World Trade Organization?",
-   "o": [
+   "question": "Where is the headquarters of World Trade Organization?",
+   "options": [
     "Montreal",
     "Dubai",
     "Geneva",
     "The Hague"
    ],
-   "a": 2,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "World Trade Organization is headquartered at Geneva."
+   "answer": 2,
+   "explanation": "World Trade Organization is headquartered at Geneva.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00593",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Cricket - 6",
     "Cricket - 4",
     "Cricket - 11",
     "Cricket - 7"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Cricket - 11 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Cricket - 11 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00594",
-   "q": "Which trophy or cup is associated with Badminton?",
-   "o": [
+   "question": "Which trophy or cup is associated with Badminton?",
+   "options": [
     "Sudirman Cup",
     "FIH Hockey World Cup",
     "Thomas Cup",
     "Ranji Trophy"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Sudirman Cup is associated with Badminton."
+   "answer": 0,
+   "explanation": "Sudirman Cup is associated with Badminton.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00595",
-   "q": "Which award is described as: Highest sporting honour of India?",
-   "o": [
+   "question": "Which award is described as: Highest sporting honour of India?",
+   "options": [
     "Nobel Prize",
     "Kalinga Prize",
     "Sangeet Natak Akademi Award",
     "Major Dhyan Chand Khel Ratna Award"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Highest sporting honour of India describes Major Dhyan Chand Khel Ratna Award."
+   "answer": 3,
+   "explanation": "Highest sporting honour of India describes Major Dhyan Chand Khel Ratna Award.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00596",
-   "q": "Who is the author of My Experiments with Truth?",
-   "o": [
+   "question": "Who is the author of My Experiments with Truth?",
+   "options": [
     "William Shakespeare",
     "Charles Darwin",
     "Mahatma Gandhi",
     "Adam Smith"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "My Experiments with Truth is written by Mahatma Gandhi."
+   "answer": 2,
+   "explanation": "My Experiments with Truth is written by Mahatma Gandhi.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00597",
-   "q": "Which of the following achievements belongs to George Washington?",
-   "o": [
+   "question": "Which of the following achievements belongs to George Washington?",
+   "options": [
     "First Secretary-General of the United Nations",
     "First modern Olympic Games were held in",
     "First Cricket World Cup was held in",
     "First President of the United States"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First President of the United States belongs to George Washington."
+   "answer": 3,
+   "explanation": "First President of the United States belongs to George Washington.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00598",
-   "q": "Which Indian city is called the City of Lakes?",
-   "o": [
+   "question": "Which Indian city is called the City of Lakes?",
+   "options": [
     "Tamil Nadu",
     "Udaipur",
     "Kanpur",
     "Antarctica"
    ],
-   "a": 1,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 1,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00599",
-   "q": "Which mountain range separates Europe from Asia?",
-   "o": [
+   "question": "Which mountain range separates Europe from Asia?",
+   "options": [
     "Challenger Deep",
     "West Bengal",
     "Ural Mountains",
     "Bay of Bengal"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00600",
-   "q": "In which year was NITI Aayog constituted?",
-   "o": [
+   "question": "In which year was NITI Aayog constituted?",
+   "options": [
     "2017",
     "Insolvency and Bankruptcy Code, 2016",
     "2015",
     "Bretton Woods Conference"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00601",
-   "q": "Which scheme aims to double the income of farmers?",
-   "o": [
+   "question": "Which scheme aims to double the income of farmers?",
+   "options": [
     "Mars Orbiter Mission",
     "Lakshadweep",
     "Doubling Farmers' Income",
     "M. S. Dhoni"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00602",
-   "q": "What is the capital of Brazil?",
-   "o": [
+   "question": "What is the capital of Brazil?",
+   "options": [
     "Port-au-Prince",
     "Quito",
     "Brasilia",
     "Pretoria"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Brazil is Brasilia."
+   "answer": 2,
+   "explanation": "The capital of Brazil is Brasilia.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00603",
-   "q": "On which date is Engineers' Day (India) observed?",
-   "o": [
+   "question": "On which date is Engineers' Day (India) observed?",
+   "options": [
     "4 February",
     "31 May",
     "fourth Sunday of September",
     "15 September"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "Engineers' Day (India) is observed on 15 September."
+   "answer": 3,
+   "explanation": "Engineers' Day (India) is observed on 15 September.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00604",
-   "q": "Where is the headquarters of European Union?",
-   "o": [
+   "question": "Where is the headquarters of European Union?",
+   "options": [
     "Bengaluru",
     "Lyon",
     "Brussels",
     "Vienna"
    ],
-   "a": 2,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "European Union is headquartered at Brussels."
+   "answer": 2,
+   "explanation": "European Union is headquartered at Brussels.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00605",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Cricket - 15",
     "Cricket - 11",
     "Cricket - 4",
     "Cricket - 6"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Cricket - 11 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Cricket - 11 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00606",
-   "q": "Which trophy or cup is associated with Tennis?",
-   "o": [
+   "question": "Which trophy or cup is associated with Tennis?",
+   "options": [
     "Sultan Azlan Shah Cup",
     "Wimbledon",
     "Beighton Cup",
     "Santosh Trophy"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Wimbledon is associated with Tennis."
+   "answer": 1,
+   "explanation": "Wimbledon is associated with Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00607",
-   "q": "Which award is described as: American award for music?",
-   "o": [
+   "question": "Which award is described as: American award for music?",
+   "options": [
     "Borlaug Award",
     "Grammy Award",
     "National Bravery Award",
     "Vyas Samman"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "American award for music describes Grammy Award."
+   "answer": 1,
+   "explanation": "American award for music describes Grammy Award.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00608",
-   "q": "Who is the author of Unbreakable?",
-   "o": [
+   "question": "Who is the author of Unbreakable?",
+   "options": [
     "John Milton",
     "Mary Kom",
     "Munshi Premchand",
     "A. P. J. Abdul Kalam"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Unbreakable is written by Mary Kom."
+   "answer": 1,
+   "explanation": "Unbreakable is written by Mary Kom.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00609",
-   "q": "Which of the following achievements belongs to Greece?",
-   "o": [
+   "question": "Which of the following achievements belongs to Greece?",
+   "options": [
     "First woman to climb Mount Everest",
     "First country to host the modern Olympic Games",
     "First Secretary-General of the United Nations",
     "First President of the United States"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First country to host the modern Olympic Games belongs to Greece."
+   "answer": 1,
+   "explanation": "First country to host the modern Olympic Games belongs to Greece.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00610",
-   "q": "Which is the driest place on Earth?",
-   "o": [
+   "question": "Which is the driest place on Earth?",
+   "options": [
     "Tibetan Plateau",
     "Anamudi",
     "New York",
     "Atacama Desert"
    ],
-   "a": 3,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 3,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00611",
-   "q": "Which lake is the highest navigable lake in the world?",
-   "o": [
+   "question": "Which lake is the highest navigable lake in the world?",
+   "options": [
     "Lake Titicaca",
     "Tropic of Cancer",
     "Majuli",
     "Bhopal"
    ],
-   "a": 0,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 0,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00612",
-   "q": "Which body regulates the securities market in India?",
-   "o": [
+   "question": "Which body regulates the securities market in India?",
+   "options": [
     "SEBI",
     "Reserve Bank of India",
     "Savings bank rate",
     "Contingency Fund"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00613",
-   "q": "Which Indian documentary won an Oscar in 2023?",
-   "o": [
+   "question": "Which Indian documentary won an Oscar in 2023?",
+   "options": [
     "Gujarat",
     "The Elephant Whisperers",
     "Cyclone Amphan",
     "World Happiness Report"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00614",
-   "q": "What is the capital of Cambodia?",
-   "o": [
+   "question": "What is the capital of Cambodia?",
+   "options": [
     "Bangui",
     "Belgrade",
     "Phnom Penh",
     "Tehran"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Cambodia is Phnom Penh."
+   "answer": 2,
+   "explanation": "The capital of Cambodia is Phnom Penh.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00615",
-   "q": "On which date is World Polio Day observed?",
-   "o": [
+   "question": "On which date is World Polio Day observed?",
+   "options": [
     "7 April",
     "24 October",
     "28 July",
     "24 January"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Polio Day is observed on 24 October."
+   "answer": 1,
+   "explanation": "World Polio Day is observed on 24 October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00616",
-   "q": "Where is the headquarters of World Anti-Doping Agency?",
-   "o": [
+   "question": "Where is the headquarters of World Anti-Doping Agency?",
+   "options": [
     "Kathmandu",
     "Montreal",
     "Berlin",
     "Vienna"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "World Anti-Doping Agency is headquartered at Montreal."
+   "answer": 1,
+   "explanation": "World Anti-Doping Agency is headquartered at Montreal.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00617",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Baseball - 15",
     "Baseball - 2",
     "Baseball - 7",
     "Baseball - 9"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Baseball - 9 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Baseball - 9 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00618",
-   "q": "Which trophy or cup is associated with Hockey?",
-   "o": [
+   "question": "Which trophy or cup is associated with Hockey?",
+   "options": [
     "UEFA Champions League",
     "Sudirman Cup",
     "Australian Open",
     "Aga Khan Cup"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Aga Khan Cup is associated with Hockey."
+   "answer": 3,
+   "explanation": "Aga Khan Cup is associated with Hockey.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00619",
-   "q": "Which award is described as: UNESCO award for popularisation of science?",
-   "o": [
+   "question": "Which award is described as: UNESCO award for popularisation of science?",
+   "options": [
     "Kalinga Prize",
     "Param Vir Chakra",
     "Indira Gandhi Prize",
     "Sangeet Natak Akademi Award"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "UNESCO award for popularisation of science describes Kalinga Prize."
+   "answer": 0,
+   "explanation": "UNESCO award for popularisation of science describes Kalinga Prize.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00620",
-   "q": "Who is the author of An Autobiography (Toward Freedom)?",
-   "o": [
+   "question": "Who is the author of An Autobiography (Toward Freedom)?",
+   "options": [
     "Jawaharlal Nehru",
     "Adolf Hitler",
     "Mary Kom",
     "A. P. J. Abdul Kalam"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "An Autobiography (Toward Freedom) is written by Jawaharlal Nehru."
+   "answer": 0,
+   "explanation": "An Autobiography (Toward Freedom) is written by Jawaharlal Nehru.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00621",
-   "q": "Which of the following achievements belongs to Rabindranath Tagore?",
-   "o": [
+   "question": "Which of the following achievements belongs to Rabindranath Tagore?",
+   "options": [
     "First person to climb Mount Everest",
     "First Asian to win a Nobel Prize",
     "First woman to fly solo across the Atlantic",
     "First Indian to win an individual Olympic gold"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First Asian to win a Nobel Prize belongs to Rabindranath Tagore."
+   "answer": 1,
+   "explanation": "First Asian to win a Nobel Prize belongs to Rabindranath Tagore.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00622",
-   "q": "Which Indian city is called the Orange City?",
-   "o": [
+   "question": "Which Indian city is called the Orange City?",
+   "options": [
     "Norway",
     "Bengaluru",
     "Kerala",
     "Nagpur"
    ],
-   "a": 3,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 3,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00623",
-   "q": "Which is the largest gulf in the world?",
-   "o": [
+   "question": "Which is the largest gulf in the world?",
+   "options": [
     "Gulf of Mexico",
     "Kerala",
     "Asia",
     "China"
    ],
-   "a": 0,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 0,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00624",
-   "q": "Which revolution is associated with fish production?",
-   "o": [
+   "question": "Which revolution is associated with fish production?",
+   "options": [
     "State Bank of India",
     "Progressive tax",
     "Privatisation",
     "Blue Revolution"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00625",
-   "q": "In which year was the Jal Jeevan Mission launched?",
-   "o": [
+   "question": "In which year was the Jal Jeevan Mission launched?",
+   "options": [
     "2019",
     "United States of America",
     "Act East Policy",
     "Pradhan Mantri Garib Kalyan Anna Yojana"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00626",
-   "q": "What is the capital of Kenya?",
-   "o": [
+   "question": "What is the capital of Kenya?",
+   "options": [
     "Athens",
     "Mexico City",
     "Warsaw",
     "Nairobi"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Kenya is Nairobi."
+   "answer": 3,
+   "explanation": "The capital of Kenya is Nairobi.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00627",
-   "q": "On which date is World Wetlands Day observed?",
-   "o": [
+   "question": "On which date is World Wetlands Day observed?",
+   "options": [
     "3 March",
     "11 May",
     "2 February",
     "30 June"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Wetlands Day is observed on 2 February."
+   "answer": 2,
+   "explanation": "World Wetlands Day is observed on 2 February.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00628",
-   "q": "Where is the headquarters of Universal Postal Union?",
-   "o": [
+   "question": "Where is the headquarters of Universal Postal Union?",
+   "options": [
     "Bern",
     "Rome",
     "Kathmandu",
     "Amsterdam"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "Universal Postal Union is headquartered at Bern."
+   "answer": 0,
+   "explanation": "Universal Postal Union is headquartered at Bern.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00629",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Baseball - 11",
     "Baseball - 7",
     "Baseball - 9",
     "Baseball - 8"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Baseball - 9 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Baseball - 9 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00630",
-   "q": "Which trophy or cup is associated with Tennis?",
-   "o": [
+   "question": "Which trophy or cup is associated with Tennis?",
+   "options": [
     "Aga Khan Cup",
     "Santosh Trophy",
     "Davis Cup",
     "UEFA Champions League"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Davis Cup is associated with Tennis."
+   "answer": 2,
+   "explanation": "Davis Cup is associated with Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00631",
-   "q": "Which award is described as: Highest peacetime gallantry award of India?",
-   "o": [
+   "question": "Which award is described as: Highest peacetime gallantry award of India?",
+   "options": [
     "Ashoka Chakra",
     "Templeton Prize",
     "Kalinga Prize",
     "Maha Vir Chakra"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Highest peacetime gallantry award of India describes Ashoka Chakra."
+   "answer": 0,
+   "explanation": "Highest peacetime gallantry award of India describes Ashoka Chakra.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00632",
-   "q": "Who is the author of Paradise Lost?",
-   "o": [
+   "question": "Who is the author of Paradise Lost?",
+   "options": [
     "Rudyard Kipling",
     "John Milton",
     "Jonathan Swift",
     "Charles Dickens"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 2,
-   "s": "generated",
-   "e": "Paradise Lost is written by John Milton."
+   "answer": 1,
+   "explanation": "Paradise Lost is written by John Milton.",
+   "topic": "Books and Authors",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00633",
-   "q": "Which of the following achievements belongs to Roald Amundsen?",
-   "o": [
+   "question": "Which of the following achievements belongs to Roald Amundsen?",
+   "options": [
     "First Asian to win a Nobel Prize",
     "First country to launch a satellite",
     "First person to climb Mount Everest",
     "First person to reach the South Pole"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First person to reach the South Pole belongs to Roald Amundsen."
+   "answer": 3,
+   "explanation": "First person to reach the South Pole belongs to Roald Amundsen.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00634",
-   "q": "Which is the highest waterfall in the world?",
-   "o": [
+   "question": "Which is the highest waterfall in the world?",
+   "options": [
     "Angel Falls",
     "Amazon Rainforest",
     "Kerala",
     "Venice"
    ],
-   "a": 0,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 0,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00635",
-   "q": "Which country is known as the Land of White Elephants?",
-   "o": [
+   "question": "Which country is known as the Land of White Elephants?",
+   "options": [
     "Thailand",
     "Ganga",
     "Marina Beach",
     "Sundarbans"
    ],
-   "a": 0,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 0,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00636",
-   "q": "Who was the first Governor of the Reserve Bank of India?",
-   "o": [
+   "question": "Who was the first Governor of the Reserve Bank of India?",
+   "options": [
     "1975",
     "US Dollar",
     "Karl Marx",
     "Osborne Smith"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00637",
-   "q": "Which Indian won a silver medal in wrestling at the 2021 Olympics?",
-   "o": [
+   "question": "Which Indian won a silver medal in wrestling at the 2021 Olympics?",
+   "options": [
     "Ravi Dahiya",
     "United Nations Sustainable Development Solutions Network",
     "Karpoori Thakur",
     "Act East Policy"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00638",
-   "q": "What is the capital of North Korea?",
-   "o": [
+   "question": "What is the capital of North Korea?",
+   "options": [
     "Pyongyang",
     "Sofia",
     "Ottawa",
     "Tbilisi"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of North Korea is Pyongyang."
+   "answer": 0,
+   "explanation": "The capital of North Korea is Pyongyang.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00639",
-   "q": "On which date is World Oceans Day observed?",
-   "o": [
+   "question": "On which date is World Oceans Day observed?",
+   "options": [
     "8 June",
     "14 October",
     "24 October",
     "26 November"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Oceans Day is observed on 8 June."
+   "answer": 0,
+   "explanation": "World Oceans Day is observed on 8 June.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00640",
-   "q": "Where is the headquarters of OECD?",
-   "o": [
+   "question": "Where is the headquarters of OECD?",
+   "options": [
     "Bengaluru",
     "Washington, D.C.",
     "Nairobi",
     "Paris"
    ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "OECD is headquartered at Paris."
+   "answer": 3,
+   "explanation": "OECD is headquartered at Paris.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00641",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Hockey - 11",
     "Hockey - 7",
     "Hockey - 4",
     "Hockey - 6"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Hockey - 11 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Hockey - 11 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00642",
-   "q": "Which trophy or cup is associated with Tennis?",
-   "o": [
+   "question": "Which trophy or cup is associated with Tennis?",
+   "options": [
     "Ranji Trophy",
     "French Open",
     "Durand Cup",
     "Khelo India Games"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "French Open is associated with Tennis."
+   "answer": 1,
+   "explanation": "French Open is associated with Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00643",
-   "q": "Which award is described as: Award for brave children in India?",
-   "o": [
+   "question": "Which award is described as: Award for brave children in India?",
+   "options": [
     "Templeton Prize",
     "Sahitya Akademi Award",
     "National Bravery Award",
     "Bharat Ratna"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Award for brave children in India describes National Bravery Award."
+   "answer": 2,
+   "explanation": "Award for brave children in India describes National Bravery Award.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00644",
-   "q": "Which of the following books was written by Vishnu Sharma?",
-   "o": [
+   "question": "Which of the following books was written by Vishnu Sharma?",
+   "options": [
     "My Experiments with Truth",
     "Panchatantra",
     "The God of Small Things",
     "Mein Kampf"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Panchatantra was written by Vishnu Sharma."
+   "answer": 1,
+   "explanation": "Panchatantra was written by Vishnu Sharma.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00645",
-   "q": "Which of the following achievements belongs to Trygve Lie?",
-   "o": [
+   "question": "Which of the following achievements belongs to Trygve Lie?",
+   "options": [
     "First Cricket World Cup was held in",
     "First President of the United States",
     "First Secretary-General of the United Nations",
     "First modern Olympic Games were held in"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First Secretary-General of the United Nations belongs to Trygve Lie."
+   "answer": 2,
+   "explanation": "First Secretary-General of the United Nations belongs to Trygve Lie.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00646",
-   "q": "Which is the longest river in Europe?",
-   "o": [
+   "question": "Which is the longest river in Europe?",
+   "options": [
     "Volga",
     "Ethiopia",
     "Goa",
     "Yangtze"
    ],
-   "a": 0,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 0,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00647",
-   "q": "Which country shares the longest border with India?",
-   "o": [
+   "question": "Which country shares the longest border with India?",
+   "options": [
     "Rwanda",
     "Vatican City",
     "Bangladesh",
     "Madhya Pradesh"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00648",
-   "q": "Which is the highest denomination banknote currently in circulation in India?",
-   "o": [
+   "question": "Which is the highest denomination banknote currently in circulation in India?",
+   "options": [
     "Manila",
     "NPCI",
     "2000 rupees",
     "1776"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00649",
-   "q": "Which scheme was launched for street vendors during the pandemic?",
-   "o": [
+   "question": "Which scheme was launched for street vendors during the pandemic?",
+   "options": [
     "Vulture Conservation Action Plan",
     "Lakshadweep",
     "PM SVANidhi",
     "Bhavishya"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00650",
-   "q": "What is the capital of Nicaragua?",
-   "o": [
+   "question": "What is the capital of Nicaragua?",
+   "options": [
     "Minsk",
     "Managua",
     "Nairobi",
     "N'Djamena"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Nicaragua is Managua."
+   "answer": 1,
+   "explanation": "The capital of Nicaragua is Managua.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00651",
-   "q": "On which date is International Jazz Day observed?",
-   "o": [
+   "question": "On which date is International Jazz Day observed?",
+   "options": [
     "18 December",
     "30 April",
     "14 December",
     "20 March"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Jazz Day is observed on 30 April."
+   "answer": 1,
+   "explanation": "International Jazz Day is observed on 30 April.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00652",
-   "q": "Where is the headquarters of International Atomic Energy Agency?",
-   "o": [
+   "question": "Where is the headquarters of International Atomic Energy Agency?",
+   "options": [
     "Geneva",
     "Vienna",
     "Rome",
     "Mumbai"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "International Atomic Energy Agency is headquartered at Vienna."
+   "answer": 1,
+   "explanation": "International Atomic Energy Agency is headquartered at Vienna.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00653",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Hockey - 11",
     "Hockey - 2",
     "Hockey - 4",
     "Hockey - 7"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Hockey - 11 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Hockey - 11 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00654",
-   "q": "Which trophy or cup is associated with Tennis?",
-   "o": [
+   "question": "Which trophy or cup is associated with Tennis?",
+   "options": [
     "Khelo India Games",
     "Santosh Trophy",
     "Australian Open",
     "Irani Cup"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Australian Open is associated with Tennis."
+   "answer": 2,
+   "explanation": "Australian Open is associated with Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00655",
-   "q": "Which award is described as: Literary award for Indian languages?",
-   "o": [
+   "question": "Which award is described as: Literary award for Indian languages?",
+   "options": [
     "Sahitya Akademi Award",
     "Vir Chakra",
     "Kirti Chakra",
     "Booker Prize"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Literary award for Indian languages describes Sahitya Akademi Award."
+   "answer": 0,
+   "explanation": "Literary award for Indian languages describes Sahitya Akademi Award.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00656",
-   "q": "Which of the following books was written by Sarojini Naidu?",
-   "o": [
+   "question": "Which of the following books was written by Sarojini Naidu?",
+   "options": [
     "The Divine Comedy",
     "Arthashastra",
     "My Experiments with Truth",
     "Broken Wings"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Broken Wings was written by Sarojini Naidu."
+   "answer": 3,
+   "explanation": "Broken Wings was written by Sarojini Naidu.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00657",
-   "q": "Which of the following achievements belongs to Abhinav Bindra?",
-   "o": [
+   "question": "Which of the following achievements belongs to Abhinav Bindra?",
+   "options": [
     "First Indian to win an individual Olympic gold",
     "First modern Olympic Games were held in",
     "First Winter Olympic Games were held in",
     "First Indian to win a Nobel Prize"
    ],
-   "a": 0,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First Indian to win an individual Olympic gold belongs to Abhinav Bindra."
+   "answer": 0,
+   "explanation": "First Indian to win an individual Olympic gold belongs to Abhinav Bindra.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00658",
-   "q": "Which is the highest waterfall in India?",
-   "o": [
+   "question": "Which is the highest waterfall in India?",
+   "options": [
     "South China Sea",
     "Jammu and Kashmir",
     "Kunchikal Falls",
     "Lucknow"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00659",
-   "q": "Where is the Sanchi Stupa located?",
-   "o": [
+   "question": "Where is the Sanchi Stupa located?",
+   "options": [
     "Madhya Pradesh",
     "Africa",
     "Brazil",
     "Uttar Pradesh"
    ],
-   "a": 0,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 0,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00660",
-   "q": "What is the gap between government expenditure and revenue called?",
-   "o": [
+   "question": "What is the gap between government expenditure and revenue called?",
+   "options": [
     "101st Amendment",
     "Fiscal deficit",
     "Union Budget",
     "ICAR"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00661",
-   "q": "Which scheme provides a subsidy on cooking gas cylinders?",
-   "o": [
+   "question": "Which scheme provides a subsidy on cooking gas cylinders?",
+   "options": [
     "North East Special Infrastructure Development Scheme",
     "National Food Security Mission",
     "International Solar Alliance",
     "Pradhan Mantri Ujjwala Yojana"
    ],
-   "a": 3,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 3,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00662",
-   "q": "What is the capital of Moldova?",
-   "o": [
+   "question": "What is the capital of Moldova?",
+   "options": [
     "Astana",
     "Chisinau",
     "Mexico City",
     "Bamako"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Moldova is Chisinau."
+   "answer": 1,
+   "explanation": "The capital of Moldova is Chisinau.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00663",
-   "q": "On which date is National Sports Day (India) observed?",
-   "o": [
+   "question": "On which date is National Sports Day (India) observed?",
+   "options": [
     "24 January",
     "20 October",
     "18 December",
     "29 August"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "National Sports Day (India) is observed on 29 August."
+   "answer": 3,
+   "explanation": "National Sports Day (India) is observed on 29 August.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00664",
-   "q": "Where is the headquarters of United Nations Environment Programme?",
-   "o": [
+   "question": "Where is the headquarters of United Nations Environment Programme?",
+   "options": [
     "Bern",
     "Bengaluru",
     "Nairobi",
     "Kathmandu"
    ],
-   "a": 2,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "United Nations Environment Programme is headquartered at Nairobi."
+   "answer": 2,
+   "explanation": "United Nations Environment Programme is headquartered at Nairobi.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00665",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Netball - 1",
     "Netball - 6",
     "Netball - 2",
     "Netball - 7"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Netball - 7 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Netball - 7 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00666",
-   "q": "Which trophy or cup is associated with Hockey?",
-   "o": [
+   "question": "Which trophy or cup is associated with Hockey?",
+   "options": [
     "Merdeka Cup",
     "Khelo India Games",
     "French Open",
     "Azlan Shah Trophy"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Azlan Shah Trophy is associated with Hockey."
+   "answer": 3,
+   "explanation": "Azlan Shah Trophy is associated with Hockey.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00667",
-   "q": "Which award is described as: American award for journalism and letters?",
-   "o": [
+   "question": "Which award is described as: American award for journalism and letters?",
+   "options": [
     "Pulitzer Prize",
     "Dronacharya Award",
     "Kalinga Prize",
     "Templeton Prize"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "American award for journalism and letters describes Pulitzer Prize."
+   "answer": 0,
+   "explanation": "American award for journalism and letters describes Pulitzer Prize.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00668",
-   "q": "Which of the following books was written by Paramahansa Yogananda?",
-   "o": [
+   "question": "Which of the following books was written by Paramahansa Yogananda?",
+   "options": [
     "Gitanjali and Other Songs",
     "Autobiography of a Yogi",
     "Paradise Lost",
     "Gitanjali"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Autobiography of a Yogi was written by Paramahansa Yogananda."
+   "answer": 1,
+   "explanation": "Autobiography of a Yogi was written by Paramahansa Yogananda.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00669",
-   "q": "Which of the following achievements belongs to Valentina Tereshkova?",
-   "o": [
+   "question": "Which of the following achievements belongs to Valentina Tereshkova?",
+   "options": [
     "First woman to win a Nobel Prize",
     "First woman in space",
     "First country to host the modern Olympic Games",
     "First Cricket World Cup was held in"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First woman in space belongs to Valentina Tereshkova."
+   "answer": 1,
+   "explanation": "First woman in space belongs to Valentina Tereshkova.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00670",
-   "q": "Which Indian state shares the longest border with China?",
-   "o": [
+   "question": "Which Indian state shares the longest border with China?",
+   "options": [
     "Majuli",
     "Jamshedpur",
     "Yangtze",
     "Arunachal Pradesh"
    ],
-   "a": 3,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 3,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00671",
-   "q": "Which is the deepest lake in the world?",
-   "o": [
+   "question": "Which is the deepest lake in the world?",
+   "options": [
     "Switzerland",
     "Indonesia",
     "Lake Baikal",
     "Brazil"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00672",
-   "q": "Which body administers indirect taxes in India?",
-   "o": [
+   "question": "Which body administers indirect taxes in India?",
+   "options": [
     "Central Board of Indirect Taxes and Customs",
     "Stagflation",
     "Bank of Japan",
     "1875"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00673",
-   "q": "In which year did D. Gukesh become world chess champion?",
-   "o": [
+   "question": "In which year did D. Gukesh become world chess champion?",
+   "options": [
     "Udhampur-Srinagar-Baramulla Rail Link",
     "Indira Gandhi International Airport",
     "National Dairy Development Programme",
     "2024"
    ],
-   "a": 3,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 3,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00674",
-   "q": "What is the capital of Georgia?",
-   "o": [
+   "question": "What is the capital of Georgia?",
+   "options": [
     "Washington, D.C.",
     "Bangkok",
     "Sucre",
     "Tbilisi"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Georgia is Tbilisi."
+   "answer": 3,
+   "explanation": "The capital of Georgia is Tbilisi.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00675",
-   "q": "On which date is World Statistics Day observed?",
-   "o": [
+   "question": "On which date is World Statistics Day observed?",
+   "options": [
     "28 July",
     "18 December",
     "12 September",
     "20 October"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Statistics Day is observed on 20 October."
+   "answer": 3,
+   "explanation": "World Statistics Day is observed on 20 October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00676",
-   "q": "Which of the following organisations has its headquarters at Bengaluru?",
-   "o": [
+   "question": "Which of the following organisations has its headquarters at Bengaluru?",
+   "options": [
     "SAARC",
     "New Development Bank",
     "European Space Agency",
     "Indian Space Research Organisation"
    ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "Indian Space Research Organisation is headquartered at Bengaluru."
+   "answer": 3,
+   "explanation": "Indian Space Research Organisation is headquartered at Bengaluru.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00677",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Netball - 7",
     "Netball - 5",
     "Netball - 11",
     "Netball - 15"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Netball - 7 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Netball - 7 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00678",
-   "q": "Which trophy or cup is associated with Tennis?",
-   "o": [
+   "question": "Which trophy or cup is associated with Tennis?",
+   "options": [
     "Syed Mushtaq Ali Trophy",
     "Thomas Cup",
     "Grand Slam (Tennis)",
     "Corbillon Cup"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Grand Slam (Tennis) is associated with Tennis."
+   "answer": 2,
+   "explanation": "Grand Slam (Tennis) is associated with Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00679",
-   "q": "Which award is described as: Indian award for peace, disarmament and development?",
-   "o": [
+   "question": "Which award is described as: Indian award for peace, disarmament and development?",
+   "options": [
     "Infosys Prize",
     "Saraswati Samman",
     "Vir Chakra",
     "Indira Gandhi Prize"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Indian award for peace, disarmament and development describes Indira Gandhi Prize."
+   "answer": 3,
+   "explanation": "Indian award for peace, disarmament and development describes Indira Gandhi Prize.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00680",
-   "q": "Which of the following books was written by Karl Marx and Friedrich Engels?",
-   "o": [
+   "question": "Which of the following books was written by Karl Marx and Friedrich Engels?",
+   "options": [
     "The Communist Manifesto",
     "Pride and Prejudice",
     "War and Peace",
     "Gulliver's Travels"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The Communist Manifesto was written by Karl Marx and Friedrich Engels."
+   "answer": 0,
+   "explanation": "The Communist Manifesto was written by Karl Marx and Friedrich Engels.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00681",
-   "q": "Which of the following achievements belongs to Yuri Gagarin?",
-   "o": [
+   "question": "Which of the following achievements belongs to Yuri Gagarin?",
+   "options": [
     "First Winter Olympic Games were held in",
     "First person to run a mile in under four minutes",
     "First President of the United States",
     "First human in space"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First human in space belongs to Yuri Gagarin."
+   "answer": 3,
+   "explanation": "First human in space belongs to Yuri Gagarin.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00682",
-   "q": "Which is the largest delta in the world?",
-   "o": [
+   "question": "Which is the largest delta in the world?",
+   "options": [
     "Australia",
     "Sundarbans Delta",
     "Volga",
     "Strait of Malacca"
    ],
-   "a": 1,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 1,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00683",
-   "q": "Which is the largest sea in the world?",
-   "o": [
+   "question": "Which is the largest sea in the world?",
+   "options": [
     "Dead Sea",
     "Kolkata",
     "Kerala",
     "South China Sea"
    ],
-   "a": 3,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 3,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00684",
-   "q": "Which curve depicts income distribution?",
-   "o": [
+   "question": "Which curve depicts income distribution?",
+   "options": [
     "Disinvestment",
     "Abolition of intermediaries",
     "Lorenz curve",
     "Cash Reserve Ratio"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00685",
-   "q": "Which Indian state performs best on the Multidimensional Poverty Index?",
-   "o": [
+   "question": "Which Indian state performs best on the Multidimensional Poverty Index?",
+   "options": [
     "Kerala",
     "NavIC",
     "Namami Gange",
     "International Solar Alliance"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00686",
-   "q": "What is the capital of Qatar?",
-   "o": [
+   "question": "What is the capital of Qatar?",
+   "options": [
     "Djibouti",
     "Doha",
     "San Jose",
     "Dushanbe"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Qatar is Doha."
+   "answer": 1,
+   "explanation": "The capital of Qatar is Doha.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00687",
-   "q": "On which date is International Day of the Girl Child observed?",
-   "o": [
+   "question": "On which date is International Day of the Girl Child observed?",
+   "options": [
     "2 February",
     "15 September",
     "11 October",
     "23 April"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Day of the Girl Child is observed on 11 October."
+   "answer": 2,
+   "explanation": "International Day of the Girl Child is observed on 11 October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00688",
-   "q": "Which of the following organisations has its headquarters at Geneva?",
-   "o": [
+   "question": "Which of the following organisations has its headquarters at Geneva?",
+   "options": [
     "Universal Postal Union",
     "International Labour Organization headquarters city",
     "World Economic Forum",
     "Board of Control for Cricket in India"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "International Labour Organization headquarters city is headquartered at Geneva."
+   "answer": 1,
+   "explanation": "International Labour Organization headquarters city is headquartered at Geneva.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00689",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Throwball - 6",
     "Throwball - 1",
     "Throwball - 7",
     "Throwball - 8"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Throwball - 7 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Throwball - 7 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00690",
-   "q": "Which trophy or cup is associated with Football?",
-   "o": [
+   "question": "Which trophy or cup is associated with Football?",
+   "options": [
     "Subroto Cup",
     "US Open",
     "Rovers Cup",
     "Azlan Shah Trophy"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Rovers Cup is associated with Football."
+   "answer": 2,
+   "explanation": "Rovers Cup is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00691",
-   "q": "Which award is described as: Asian award for public service?",
-   "o": [
+   "question": "Which award is described as: Asian award for public service?",
+   "options": [
     "Dronacharya Award",
     "Ramon Magsaysay Award",
     "Maha Vir Chakra",
     "National Film Award"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Asian award for public service describes Ramon Magsaysay Award."
+   "answer": 1,
+   "explanation": "Asian award for public service describes Ramon Magsaysay Award.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00692",
-   "q": "Which of the following books was written by Jonathan Swift?",
-   "o": [
+   "question": "Which of the following books was written by Jonathan Swift?",
+   "options": [
     "Gitanjali (Song Offerings)",
     "Romeo and Juliet",
     "India Wins Freedom",
     "Gulliver's Travels"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Gulliver's Travels was written by Jonathan Swift."
+   "answer": 3,
+   "explanation": "Gulliver's Travels was written by Jonathan Swift.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00693",
-   "q": "Which of the following achievements belongs to Uruguay?",
-   "o": [
+   "question": "Which of the following achievements belongs to Uruguay?",
+   "options": [
     "First country to land a man on the Moon",
     "First FIFA World Cup was held in",
     "First country to send a human into space",
     "First woman Prime Minister in the world"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First FIFA World Cup was held in belongs to Uruguay."
+   "answer": 1,
+   "explanation": "First FIFA World Cup was held in belongs to Uruguay.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00694",
-   "q": "Which country is called the Playground of Europe?",
-   "o": [
+   "question": "Which country is called the Playground of Europe?",
+   "options": [
     "Arunachal Pradesh",
     "Paris",
     "Switzerland",
     "Sundarbans"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00695",
-   "q": "What is the imaginary line at 23.5 degrees north called?",
-   "o": [
+   "question": "What is the imaginary line at 23.5 degrees north called?",
+   "options": [
     "Dead Sea",
     "Ooty",
     "Tropic of Cancer",
     "Paris"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00696",
-   "q": "Where is the headquarters of the World Bank?",
-   "o": [
+   "question": "Where is the headquarters of the World Bank?",
+   "options": [
     "Fiscal federalism",
     "Karl Marx",
     "Euro",
     "Washington, D.C."
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00697",
-   "q": "Which Indian observatory detected the first X-ray polarisation from a black hole?",
-   "o": [
+   "question": "Which Indian observatory detected the first X-ray polarisation from a black hole?",
+   "options": [
     "2014",
     "XPoSat",
     "Sikkim",
     "INS Vikrant"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00698",
-   "q": "What is the capital of Turkey?",
-   "o": [
+   "question": "What is the capital of Turkey?",
+   "options": [
     "Kingston",
     "Havana",
     "Ankara",
     "Vientiane"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Turkey is Ankara."
+   "answer": 2,
+   "explanation": "The capital of Turkey is Ankara.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00699",
-   "q": "On which date is World Hindi Day observed?",
-   "o": [
+   "question": "On which date is World Hindi Day observed?",
+   "options": [
     "10 January",
     "23 March",
     "30 November",
     "17 November"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Hindi Day is observed on 10 January."
+   "answer": 0,
+   "explanation": "World Hindi Day is observed on 10 January.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00700",
-   "q": "Which of the following organisations has its headquarters at Basel?",
-   "o": [
+   "question": "Which of the following organisations has its headquarters at Basel?",
+   "options": [
     "Shanghai Cooperation Organisation",
     "Bank for International Settlements",
     "SAARC",
     "UN High Commissioner for Refugees"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "Bank for International Settlements is headquartered at Basel."
+   "answer": 1,
+   "explanation": "Bank for International Settlements is headquartered at Basel.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00701",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Throwball - 11",
     "Throwball - 5",
     "Throwball - 4",
     "Throwball - 7"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Throwball - 7 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Throwball - 7 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00702",
-   "q": "Which trophy or cup is associated with Hockey?",
-   "o": [
+   "question": "Which trophy or cup is associated with Hockey?",
+   "options": [
     "World Test Championship",
     "FIH Hockey World Cup",
     "Indian Premier League",
     "Vijay Hazare Trophy"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "FIH Hockey World Cup is associated with Hockey."
+   "answer": 1,
+   "explanation": "FIH Hockey World Cup is associated with Hockey.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00703",
-   "q": "Which award is described as: Alternative Nobel Prize?",
-   "o": [
+   "question": "Which award is described as: Alternative Nobel Prize?",
+   "options": [
     "Shanti Swarup Bhatnagar Prize",
     "Vir Chakra",
     "Right Livelihood Award",
     "Jnanpith Award"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Alternative Nobel Prize describes Right Livelihood Award."
+   "answer": 2,
+   "explanation": "Alternative Nobel Prize describes Right Livelihood Award.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00704",
-   "q": "Which of the following books was written by William Shakespeare?",
-   "o": [
+   "question": "Which of the following books was written by William Shakespeare?",
+   "options": [
     "Romeo and Juliet",
     "The Odyssey",
     "The Origin of Species by Means of Natural Selection",
     "A Brief History of Time"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Romeo and Juliet was written by William Shakespeare."
+   "answer": 0,
+   "explanation": "Romeo and Juliet was written by William Shakespeare.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00705",
-   "q": "Which of the following achievements belongs to Amelia Earhart?",
-   "o": [
+   "question": "Which of the following achievements belongs to Amelia Earhart?",
+   "options": [
     "First woman to win an Olympic gold in wrestling for India",
     "First country to give women the vote",
     "First woman to fly solo across the Atlantic",
     "First woman Prime Minister in the world"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First woman to fly solo across the Atlantic belongs to Amelia Earhart."
+   "answer": 2,
+   "explanation": "First woman to fly solo across the Atlantic belongs to Amelia Earhart.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00706",
-   "q": "Which is the smallest continent by area?",
-   "o": [
+   "question": "Which is the smallest continent by area?",
+   "options": [
     "Surat",
     "Kanchenjunga",
     "Bengaluru",
     "Australia"
    ],
-   "a": 3,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 3,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00707",
-   "q": "Which country has the largest number of volcanoes?",
-   "o": [
+   "question": "Which country has the largest number of volcanoes?",
+   "options": [
     "Mussoorie",
     "Indonesia",
     "India",
     "Bhopal"
    ],
-   "a": 1,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 1,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00708",
-   "q": "What is money taken from the Consolidated Fund of India for unforeseen expenditure called?",
-   "o": [
+   "question": "What is money taken from the Consolidated Fund of India for unforeseen expenditure called?",
+   "options": [
     "Fiscal deficit",
     "RBI Act, 1934",
     "Reverse repo",
     "Contingency Fund"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00709",
-   "q": "Which scheme provides cash transfer support to pregnant women?",
-   "o": [
+   "question": "Which scheme provides cash transfer support to pregnant women?",
+   "options": [
     "United Nations Sustainable Development Solutions Network",
     "2016",
     "Pradhan Mantri Matru Vandana Yojana",
     "Kerala"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00710",
-   "q": "What is the capital of South Africa?",
-   "o": [
+   "question": "What is the capital of South Africa?",
+   "options": [
     "Vientiane",
     "Apia",
     "Pretoria",
     "Malabo"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of South Africa is Pretoria."
+   "answer": 2,
+   "explanation": "The capital of South Africa is Pretoria.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00711",
-   "q": "On which date is World Water Day observed?",
-   "o": [
+   "question": "On which date is World Water Day observed?",
+   "options": [
     "11 October",
     "26 November",
     "22 March",
     "17 May"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Water Day is observed on 22 March."
+   "answer": 2,
+   "explanation": "World Water Day is observed on 22 March.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00712",
-   "q": "Which of the following organisations has its headquarters at Amsterdam?",
-   "o": [
+   "question": "Which of the following organisations has its headquarters at Amsterdam?",
+   "options": [
     "International Labour Organization",
     "European Union",
     "FIFA",
     "Greenpeace"
    ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "Greenpeace is headquartered at Amsterdam."
+   "answer": 3,
+   "explanation": "Greenpeace is headquartered at Amsterdam.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00713",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Kho Kho - 7",
     "Kho Kho - 9",
     "Kho Kho - 6",
     "Kho Kho - 11"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kho Kho - 9 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Kho Kho - 9 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00714",
-   "q": "Which trophy or cup is associated with Cricket?",
-   "o": [
+   "question": "Which trophy or cup is associated with Cricket?",
+   "options": [
     "Aga Khan Cup",
     "Subroto Cup",
     "Davis Cup",
     "Champions Trophy (Cricket)"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Champions Trophy (Cricket) is associated with Cricket."
+   "answer": 3,
+   "explanation": "Champions Trophy (Cricket) is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00715",
-   "q": "Which award is described as: Outstanding performance in Indian sports?",
-   "o": [
+   "question": "Which award is described as: Outstanding performance in Indian sports?",
+   "options": [
     "Booker Prize",
     "Arjuna Award",
     "Sangeet Natak Akademi Award",
     "Nobel Prize"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Outstanding performance in Indian sports describes Arjuna Award."
+   "answer": 1,
+   "explanation": "Outstanding performance in Indian sports describes Arjuna Award.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00716",
-   "q": "Which of the following books was written by Plato?",
-   "o": [
+   "question": "Which of the following books was written by Plato?",
+   "options": [
     "The Origin of Species by Means of Natural Selection",
     "The Republic",
     "The Jungle Book",
     "Abhijnanashakuntalam"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The Republic was written by Plato."
+   "answer": 1,
+   "explanation": "The Republic was written by Plato.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00717",
-   "q": "Which of the following pairs of achievement and person is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is correctly matched?",
+   "options": [
     "First woman to climb Mount Everest - Roger Bannister",
     "First woman to climb Mount Everest - Junko Tabei",
     "First woman to climb Mount Everest - Soviet Union",
     "First woman to climb Mount Everest - Neil Armstrong"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First woman to climb Mount Everest - Junko Tabei is correctly matched."
+   "answer": 1,
+   "explanation": "Only First woman to climb Mount Everest - Junko Tabei is correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00718",
-   "q": "Which is the largest island in the world?",
-   "o": [
+   "question": "Which is the largest island in the world?",
+   "options": [
     "Greenland",
     "Yangtze",
     "Udaipur",
     "Gulf of Mexico"
    ],
-   "a": 0,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 0,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00719",
-   "q": "Which country is known as the country of a thousand hills?",
-   "o": [
+   "question": "Which country is known as the country of a thousand hills?",
+   "options": [
     "Saudi Arabia",
     "United States of America",
     "Rwanda",
     "Kanpur"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00720",
-   "q": "Who was the first Indian Governor of the Reserve Bank of India?",
-   "o": [
+   "question": "Who was the first Indian Governor of the Reserve Bank of India?",
+   "options": [
     "Goods and Services Tax",
     "Green Revolution",
     "International Finance Corporation",
     "C. D. Deshmukh"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00721",
-   "q": "Which scheme aims to provide credit to street vendors?",
-   "o": [
+   "question": "Which scheme aims to provide credit to street vendors?",
+   "options": [
     "Mirabai Chanu",
     "PM SVANidhi",
     "Chenab Bridge",
     "Paramparagat Krishi Vikas Yojana"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00722",
-   "q": "What is the capital of Mexico?",
-   "o": [
+   "question": "What is the capital of Mexico?",
+   "options": [
     "Ottawa",
     "Dushanbe",
     "Reykjavik",
     "Mexico City"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Mexico is Mexico City."
+   "answer": 3,
+   "explanation": "The capital of Mexico is Mexico City.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00723",
-   "q": "On which date is World Health Day observed?",
-   "o": [
+   "question": "On which date is World Health Day observed?",
+   "options": [
     "11 May",
     "16 September",
     "7 April",
     "10 February"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Health Day is observed on 7 April."
+   "answer": 2,
+   "explanation": "World Health Day is observed on 7 April.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00724",
-   "q": "Which of the following organisations has its headquarters at Rome?",
-   "o": [
+   "question": "Which of the following organisations has its headquarters at Rome?",
+   "options": [
     "World Food Programme",
     "International Fund for Agricultural Development",
     "UNESCO",
     "International Criminal Court"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "International Fund for Agricultural Development is headquartered at Rome."
+   "answer": 1,
+   "explanation": "International Fund for Agricultural Development is headquartered at Rome.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00725",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Kho Kho - 9",
     "Kho Kho - 7",
     "Kho Kho - 5",
     "Kho Kho - 6"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kho Kho - 9 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Kho Kho - 9 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00726",
-   "q": "Which trophy or cup is associated with Cricket?",
-   "o": [
+   "question": "Which trophy or cup is associated with Cricket?",
+   "options": [
     "Asia Cup",
     "Merdeka Cup",
     "FIH Hockey World Cup",
     "Sultan Azlan Shah Cup"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Asia Cup is associated with Cricket."
+   "answer": 0,
+   "explanation": "Asia Cup is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00727",
-   "q": "Which award is described as: British award for fiction?",
-   "o": [
+   "question": "Which award is described as: British award for fiction?",
+   "options": [
     "Booker Prize",
     "Academy Award (Oscar)",
     "Padma Vibhushan",
     "Saraswati Samman"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "British award for fiction describes Booker Prize."
+   "answer": 0,
+   "explanation": "British award for fiction describes Booker Prize.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00728",
-   "q": "Which of the following books was written by Munshi Premchand?",
-   "o": [
+   "question": "Which of the following books was written by Munshi Premchand?",
+   "options": [
     "Gaban",
     "Playing It My Way",
     "Unbreakable",
     "Discovery of India"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Gaban was written by Munshi Premchand."
+   "answer": 0,
+   "explanation": "Gaban was written by Munshi Premchand.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00729",
-   "q": "Which of the following pairs of achievement and person is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is correctly matched?",
+   "options": [
     "First woman to climb Mount Everest - Soviet Union",
     "First woman to climb Mount Everest - Joshua Slocum",
     "First woman to climb Mount Everest - Junko Tabei",
     "First woman to climb Mount Everest - Chamonix"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First woman to climb Mount Everest - Junko Tabei is correctly matched."
+   "answer": 2,
+   "explanation": "Only First woman to climb Mount Everest - Junko Tabei is correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00730",
-   "q": "Which Indian city is called the Manchester of India?",
-   "o": [
+   "question": "Which Indian city is called the Manchester of India?",
+   "options": [
     "Ahmedabad",
     "Antarctica",
     "Uttar Pradesh",
     "Andhra Pradesh"
    ],
-   "a": 0,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 0,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00731",
-   "q": "Which Indian city is called the Pink City?",
-   "o": [
+   "question": "Which Indian city is called the Pink City?",
+   "options": [
     "Mongolia",
     "Kibithu",
     "Beijing",
     "Jaipur"
    ],
-   "a": 3,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 3,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00732",
-   "q": "What is the minimum percentage of deposits banks must keep with the RBI?",
-   "o": [
+   "question": "What is the minimum percentage of deposits banks must keep with the RBI?",
+   "options": [
     "Bank of England",
     "Kandla",
     "Deposit insurance",
     "Cash Reserve Ratio"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00733",
-   "q": "In which year was the Pradhan Mantri Ujjwala Yojana launched?",
-   "o": [
+   "question": "In which year was the Pradhan Mantri Ujjwala Yojana launched?",
+   "options": [
     "COP26",
     "2016",
     "Atmanirbhar Bharat Package",
     "Chilika Lake"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00734",
-   "q": "What is the capital of Russia?",
-   "o": [
+   "question": "What is the capital of Russia?",
+   "options": [
     "Minsk",
     "Kabul",
     "Moscow",
     "Port Louis"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Russia is Moscow."
+   "answer": 2,
+   "explanation": "The capital of Russia is Moscow.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00735",
-   "q": "On which date is International Women's Day observed?",
-   "o": [
+   "question": "On which date is International Women's Day observed?",
+   "options": [
     "second Saturday of September",
     "1 June",
     "8 March",
     "3 May"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Women's Day is observed on 8 March."
+   "answer": 2,
+   "explanation": "International Women's Day is observed on 8 March.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00736",
-   "q": "Which of the following organisations has its headquarters at Montreal?",
-   "o": [
+   "question": "Which of the following organisations has its headquarters at Montreal?",
+   "options": [
     "Greenpeace",
     "International Criminal Court",
     "International Civil Aviation Organization",
     "International Hockey Federation"
    ],
-   "a": 2,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "International Civil Aviation Organization is headquartered at Montreal."
+   "answer": 2,
+   "explanation": "International Civil Aviation Organization is headquartered at Montreal.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00737",
-   "q": "Which trophy or cup is associated with Football?",
-   "o": [
+   "question": "Which trophy or cup is associated with Football?",
+   "options": [
     "UEFA Champions League",
     "The Ashes",
     "Irani Cup",
     "Nehru Cup"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "UEFA Champions League is associated with Football."
+   "answer": 0,
+   "explanation": "UEFA Champions League is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00738",
-   "q": "Which award is described as: International award for Physics, Chemistry, Medicine, Literature, Peace and Economics?",
-   "o": [
+   "question": "Which award is described as: International award for Physics, Chemistry, Medicine, Literature, Peace and Economics?",
+   "options": [
     "Pulitzer Prize",
     "Jnanpith Award",
     "Nobel Prize",
     "Academy Award (Oscar)"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "International award for Physics, Chemistry, Medicine, Literature, Peace and Economics describes Nobel Prize."
+   "answer": 2,
+   "explanation": "International award for Physics, Chemistry, Medicine, Literature, Peace and Economics describes Nobel Prize.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00739",
-   "q": "Which of the following books was written by Jawaharlal Nehru?",
-   "o": [
+   "question": "Which of the following books was written by Jawaharlal Nehru?",
+   "options": [
     "Godaan",
     "Maila Anchal",
     "An Autobiography (Toward Freedom)",
     "The Wealth of Nations"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "An Autobiography (Toward Freedom) was written by Jawaharlal Nehru."
+   "answer": 2,
+   "explanation": "An Autobiography (Toward Freedom) was written by Jawaharlal Nehru.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00740",
-   "q": "Which of the following pairs of achievement and person is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is correctly matched?",
+   "options": [
     "First country to launch a satellite - Soviet Union",
     "First country to launch a satellite - Athens",
     "First country to launch a satellite - George Washington",
     "First country to launch a satellite - Rabindranath Tagore"
    ],
-   "a": 0,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First country to launch a satellite - Soviet Union is correctly matched."
+   "answer": 0,
+   "explanation": "Only First country to launch a satellite - Soviet Union is correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00741",
-   "q": "Which strait separates India from Sri Lanka?",
-   "o": [
+   "question": "Which strait separates India from Sri Lanka?",
+   "options": [
     "Lucknow",
     "Japan",
     "Palk Strait",
     "Andhra Pradesh"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00742",
-   "q": "Which lake in India is famous for its floating islands?",
-   "o": [
+   "question": "Which lake in India is famous for its floating islands?",
+   "options": [
     "Loktak Lake",
     "Madhya Pradesh",
     "Caspian Sea",
     "Bhutan"
    ],
-   "a": 0,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 0,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00743",
-   "q": "Which is the currency of the United States of America?",
-   "o": [
+   "question": "Which is the currency of the United States of America?",
+   "options": [
     "US Dollar",
     "Monopoly",
     "Cash Reserve Ratio",
     "Small finance bank"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00744",
-   "q": "Which programme aims to link rivers in India?",
-   "o": [
+   "question": "Which programme aims to link rivers in India?",
+   "options": [
     "National River Linking Project",
     "Odisha Super Cyclone",
     "Doubling Farmers' Income",
     "LVM3"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00745",
-   "q": "What is the capital of Namibia?",
-   "o": [
+   "question": "What is the capital of Namibia?",
+   "options": [
     "Windhoek",
     "Sucre",
     "Tirana",
     "Brasilia"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Namibia is Windhoek."
+   "answer": 0,
+   "explanation": "The capital of Namibia is Windhoek.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00746",
-   "q": "On which date is International Nurses Day observed?",
-   "o": [
+   "question": "On which date is International Nurses Day observed?",
+   "options": [
     "14 November",
     "11 July",
     "12 May",
     "20 June"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Nurses Day is observed on 12 May."
+   "answer": 2,
+   "explanation": "International Nurses Day is observed on 12 May.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00747",
-   "q": "Which of the following organisations has its headquarters at Dubai?",
-   "o": [
+   "question": "Which of the following organisations has its headquarters at Dubai?",
+   "options": [
     "Commonwealth of Nations",
     "International Criminal Court",
     "World Trade Organization",
     "International Cricket Council"
    ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "International Cricket Council is headquartered at Dubai."
+   "answer": 3,
+   "explanation": "International Cricket Council is headquartered at Dubai.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00748",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Basketball - 5",
     "Basketball - 1",
     "Basketball - 6",
     "Basketball - 7"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Basketball - 5 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Basketball - 5 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00749",
-   "q": "Which trophy or cup is associated with Cricket?",
-   "o": [
+   "question": "Which trophy or cup is associated with Cricket?",
+   "options": [
     "Durand Cup",
     "Wimbledon",
     "The Ashes",
     "All England Open"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "The Ashes is associated with Cricket."
+   "answer": 2,
+   "explanation": "The Ashes is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00750",
-   "q": "Which award is described as: Fourth highest civilian award of India?",
-   "o": [
+   "question": "Which award is described as: Fourth highest civilian award of India?",
+   "options": [
     "Kirti Chakra",
     "Padma Shri",
     "Ramon Magsaysay Award",
     "Borlaug Award"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Fourth highest civilian award of India describes Padma Shri."
+   "answer": 1,
+   "explanation": "Fourth highest civilian award of India describes Padma Shri.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00751",
-   "q": "Which of the following books was written by Charles Dickens?",
-   "o": [
+   "question": "Which of the following books was written by Charles Dickens?",
+   "options": [
     "David Copperfield",
     "The Odyssey",
     "Mahabharata",
     "A Brief History of Time"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "David Copperfield was written by Charles Dickens."
+   "answer": 0,
+   "explanation": "David Copperfield was written by Charles Dickens.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00752",
-   "q": "Which of the following pairs of achievement and person is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is correctly matched?",
+   "options": [
     "First country to launch a satellite - Chamonix",
     "First country to launch a satellite - Roald Amundsen",
     "First country to launch a satellite - Greece",
     "First country to launch a satellite - Soviet Union"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First country to launch a satellite - Soviet Union is correctly matched."
+   "answer": 3,
+   "explanation": "Only First country to launch a satellite - Soviet Union is correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00753",
-   "q": "Which is the longest river in Asia?",
-   "o": [
+   "question": "Which is the longest river in Asia?",
+   "options": [
     "La Paz",
     "West Bengal",
     "India",
     "Yangtze"
    ],
-   "a": 3,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 3,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00754",
-   "q": "Which country is the largest producer of coffee?",
-   "o": [
+   "question": "Which country is the largest producer of coffee?",
+   "options": [
     "Brazil",
     "Jordan",
     "Arabian Sea",
     "Amazon"
    ],
-   "a": 0,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 0,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00755",
-   "q": "Which revolution is associated with egg and poultry production?",
-   "o": [
+   "question": "Which revolution is associated with egg and poultry production?",
+   "options": [
     "Mumbai",
     "1949",
     "Silver Revolution",
     "EXIM Bank"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00756",
-   "q": "Which portal was used for COVID-19 vaccination registration in India?",
-   "o": [
+   "question": "Which portal was used for COVID-19 vaccination registration in India?",
+   "options": [
     "Beti Bachao Beti Padhao",
     "Los Angeles",
     "CoWIN",
     "Digital India"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00757",
-   "q": "What is the capital of Djibouti?",
-   "o": [
+   "question": "What is the capital of Djibouti?",
+   "options": [
     "Sarajevo",
     "Djibouti",
     "Canberra",
     "Phnom Penh"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Djibouti is Djibouti."
+   "answer": 1,
+   "explanation": "The capital of Djibouti is Djibouti.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00758",
-   "q": "On which date is International Labour Day observed?",
-   "o": [
+   "question": "On which date is International Labour Day observed?",
+   "options": [
     "1 May",
     "22 December",
     "12 May",
     "11 October"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Labour Day is observed on 1 May."
+   "answer": 0,
+   "explanation": "International Labour Day is observed on 1 May.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00759",
-   "q": "Which of the following organisations has its headquarters at Manila?",
-   "o": [
+   "question": "Which of the following organisations has its headquarters at Manila?",
+   "options": [
     "UN High Commissioner for Refugees",
     "World Anti-Doping Agency",
     "International Fund for Agricultural Development",
     "Asian Development Bank"
    ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "Asian Development Bank is headquartered at Manila."
+   "answer": 3,
+   "explanation": "Asian Development Bank is headquartered at Manila.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00760",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Handball - 6",
     "Handball - 7",
     "Handball - 5",
     "Handball - 2"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Handball - 7 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Handball - 7 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00761",
-   "q": "Which trophy or cup is associated with Table Tennis?",
-   "o": [
+   "question": "Which trophy or cup is associated with Table Tennis?",
+   "options": [
     "FIH Hockey World Cup",
     "All England Open",
     "Swaythling Cup",
     "Duleep Trophy"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Swaythling Cup is associated with Table Tennis."
+   "answer": 2,
+   "explanation": "Swaythling Cup is associated with Table Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00762",
-   "q": "Which award is described as: Second highest peacetime gallantry award of India?",
-   "o": [
+   "question": "Which award is described as: Second highest peacetime gallantry award of India?",
+   "options": [
     "National Film Award",
     "Ashoka Chakra",
     "Sahitya Akademi Award",
     "Kirti Chakra"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Second highest peacetime gallantry award of India describes Kirti Chakra."
+   "answer": 3,
+   "explanation": "Second highest peacetime gallantry award of India describes Kirti Chakra.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00763",
-   "q": "Which of the following books was written by Rabindranath Tagore?",
-   "o": [
+   "question": "Which of the following books was written by Rabindranath Tagore?",
+   "options": [
     "Mother",
     "The Divine Comedy",
     "Ramayana",
     "Gitanjali: Rabindranath Tagore's Nobel work"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Gitanjali: Rabindranath Tagore's Nobel work was written by Rabindranath Tagore."
+   "answer": 3,
+   "explanation": "Gitanjali: Rabindranath Tagore's Nobel work was written by Rabindranath Tagore.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00764",
-   "q": "Which of the following pairs of achievement and person is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is correctly matched?",
+   "options": [
     "First FIFA World Cup was held in - Karnam Malleswari",
     "First FIFA World Cup was held in - Valentina Tereshkova",
     "First FIFA World Cup was held in - Soviet Union",
     "First FIFA World Cup was held in - Uruguay"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First FIFA World Cup was held in - Uruguay is correctly matched."
+   "answer": 3,
+   "explanation": "Only First FIFA World Cup was held in - Uruguay is correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00765",
-   "q": "Which is the largest ocean?",
-   "o": [
+   "question": "Which is the largest ocean?",
+   "options": [
     "Australia",
     "Pacific Ocean",
     "Rajasthan",
     "Sikkim"
    ],
-   "a": 1,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 1,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00766",
-   "q": "Which canal is in Egypt?",
-   "o": [
+   "question": "Which canal is in Egypt?",
+   "options": [
     "Five",
     "Challenger Deep",
     "Jaipur",
     "Suez Canal"
    ],
-   "a": 3,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 3,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00767",
-   "q": "Which sector is known as the secondary sector of the economy?",
-   "o": [
+   "question": "Which sector is known as the secondary sector of the economy?",
+   "options": [
     "Consumer Price Index",
     "Osborne Smith",
     "Mumbai",
     "Manufacturing"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00768",
-   "q": "Which group of nations does the G20 represent?",
-   "o": [
+   "question": "Which group of nations does the G20 represent?",
+   "options": [
     "Major economies of the world",
     "Namami Gange",
     "M. S. Dhoni",
     "International Year of Millets 2023"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00769",
-   "q": "What is the capital of Iceland?",
-   "o": [
+   "question": "What is the capital of Iceland?",
+   "options": [
     "Reykjavik",
     "Brasilia",
     "Luanda",
     "Lisbon"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Iceland is Reykjavik."
+   "answer": 0,
+   "explanation": "The capital of Iceland is Reykjavik.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00770",
-   "q": "On which date is World Tourism Day observed?",
-   "o": [
+   "question": "On which date is World Tourism Day observed?",
+   "options": [
     "3 March",
     "30 June",
     "27 September",
     "23 April"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Tourism Day is observed on 27 September."
+   "answer": 2,
+   "explanation": "World Tourism Day is observed on 27 September.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00771",
-   "q": "Which of the following organisations has its headquarters at Cologny?",
-   "o": [
+   "question": "Which of the following organisations has its headquarters at Cologny?",
+   "options": [
     "FIFA",
     "World Economic Forum",
     "Indian Space Research Organisation",
     "Comprehensive Nuclear-Test-Ban Treaty Organization"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "World Economic Forum is headquartered at Cologny."
+   "answer": 1,
+   "explanation": "World Economic Forum is headquartered at Cologny.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00772",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Handball - 15",
     "Handball - 7",
     "Handball - 9",
     "Handball - 5"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Handball - 7 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Handball - 7 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00773",
-   "q": "Which trophy or cup is associated with Table Tennis?",
-   "o": [
+   "question": "Which trophy or cup is associated with Table Tennis?",
+   "options": [
     "Santosh Trophy",
     "Grand Slam (Tennis)",
     "Corbillon Cup",
     "UEFA Champions League"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Corbillon Cup is associated with Table Tennis."
+   "answer": 2,
+   "explanation": "Corbillon Cup is associated with Table Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00774",
-   "q": "Which award is described as: Second highest military decoration of India?",
-   "o": [
+   "question": "Which award is described as: Second highest military decoration of India?",
+   "options": [
     "Indira Gandhi Prize",
     "Saraswati Samman",
     "Maha Vir Chakra",
     "Shanti Swarup Bhatnagar Prize"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Second highest military decoration of India describes Maha Vir Chakra."
+   "answer": 2,
+   "explanation": "Second highest military decoration of India describes Maha Vir Chakra.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00775",
-   "q": "Which of the following books was written by Dante Alighieri?",
-   "o": [
+   "question": "Which of the following books was written by Dante Alighieri?",
+   "options": [
     "My Experiments with Truth",
     "The Divine Comedy",
     "The Jungle Book",
     "Arthashastra"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The Divine Comedy was written by Dante Alighieri."
+   "answer": 1,
+   "explanation": "The Divine Comedy was written by Dante Alighieri.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00776",
-   "q": "Which of the following pairs of achievement and person is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is correctly matched?",
+   "options": [
     "First FIFA World Cup was held in - England",
     "First FIFA World Cup was held in - Sirimavo Bandaranaike",
     "First FIFA World Cup was held in - United States of America",
     "First FIFA World Cup was held in - Uruguay"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First FIFA World Cup was held in - Uruguay is correctly matched."
+   "answer": 3,
+   "explanation": "Only First FIFA World Cup was held in - Uruguay is correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00777",
-   "q": "Which is the highest plateau in the world?",
-   "o": [
+   "question": "Which is the highest plateau in the world?",
+   "options": [
     "Mount Kilimanjaro",
     "Tibetan Plateau",
     "Wular Lake",
     "Anamudi"
    ],
-   "a": 1,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 1,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00778",
-   "q": "Which is the highest peak of the Western Ghats?",
-   "o": [
+   "question": "Which is the highest peak of the Western Ghats?",
+   "options": [
     "Uttar Pradesh",
     "India",
     "Colorado",
     "Anamudi"
    ],
-   "a": 3,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 3,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00779",
-   "q": "Which scheme provides a pension to unorganised sector workers in India?",
-   "o": [
+   "question": "Which scheme provides a pension to unorganised sector workers in India?",
+   "options": [
     "Oligopoly",
     "Bank of India",
     "Atal Pension Yojana",
     "Bretton Woods Conference"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00780",
-   "q": "Who was awarded the Bharat Ratna posthumously in 2024 along with others?",
-   "o": [
+   "question": "Who was awarded the Bharat Ratna posthumously in 2024 along with others?",
+   "options": [
     "Karpoori Thakur",
     "Swachh Bharat Abhiyan",
     "ISRO",
     "China"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00781",
-   "q": "What is the capital of Bhutan?",
-   "o": [
+   "question": "What is the capital of Bhutan?",
+   "options": [
     "Thimphu",
     "Abu Dhabi",
     "Suva",
     "Bern"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Bhutan is Thimphu."
+   "answer": 0,
+   "explanation": "The capital of Bhutan is Thimphu.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00782",
-   "q": "On which date is International Day of Democracy observed?",
-   "o": [
+   "question": "On which date is International Day of Democracy observed?",
+   "options": [
     "28 July",
     "15 September",
     "28 February",
     "21 February"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Day of Democracy is observed on 15 September."
+   "answer": 1,
+   "explanation": "International Day of Democracy is observed on 15 September.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00783",
-   "q": "Which of the following organisations has its headquarters at London?",
-   "o": [
+   "question": "Which of the following organisations has its headquarters at London?",
+   "options": [
     "Commonwealth of Nations",
     "World Wide Fund for Nature",
     "International Maritime Organization",
     "International Labour Organization headquarters city"
    ],
-   "a": 2,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "International Maritime Organization is headquartered at London."
+   "answer": 2,
+   "explanation": "International Maritime Organization is headquartered at London.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00784",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Polo - 9",
     "Polo - 7",
     "Polo - 4",
     "Polo - 11"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Polo - 4 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Polo - 4 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00785",
-   "q": "Which trophy or cup is associated with Cricket?",
-   "o": [
+   "question": "Which trophy or cup is associated with Cricket?",
+   "options": [
     "Australian Open",
     "FIFA World Cup",
     "Ranji Trophy",
     "Azlan Shah Trophy"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Ranji Trophy is associated with Cricket."
+   "answer": 2,
+   "explanation": "Ranji Trophy is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00786",
-   "q": "Which award is described as: Lifetime achievement in Indian sports?",
-   "o": [
+   "question": "Which award is described as: Lifetime achievement in Indian sports?",
+   "options": [
     "Dhyan Chand Award",
     "Ramon Magsaysay Award",
     "Padma Vibhushan",
     "Dronacharya Award"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Lifetime achievement in Indian sports describes Dhyan Chand Award."
+   "answer": 0,
+   "explanation": "Lifetime achievement in Indian sports describes Dhyan Chand Award.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00787",
-   "q": "Which of the following books was written by Phanishwar Nath Renu?",
-   "o": [
+   "question": "Which of the following books was written by Phanishwar Nath Renu?",
+   "options": [
     "An Autobiography (Toward Freedom)",
     "Maila Anchal",
     "The Jungle Book",
     "The Iliad"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Maila Anchal was written by Phanishwar Nath Renu."
+   "answer": 1,
+   "explanation": "Maila Anchal was written by Phanishwar Nath Renu.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00788",
-   "q": "Which of the following pairs of achievement and person is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is correctly matched?",
+   "options": [
     "First person to reach the South Pole - Karnam Malleswari",
     "First person to reach the South Pole - Roald Amundsen",
     "First person to reach the South Pole - Greece",
     "First person to reach the South Pole - Sirimavo Bandaranaike"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First person to reach the South Pole - Roald Amundsen is correctly matched."
+   "answer": 1,
+   "explanation": "Only First person to reach the South Pole - Roald Amundsen is correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00789",
-   "q": "Which country is called the Sugar Bowl of the World?",
-   "o": [
+   "question": "Which country is called the Sugar Bowl of the World?",
+   "options": [
     "Cuba",
     "Tibet",
     "South China Sea",
     "Kanchenjunga"
    ],
-   "a": 0,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 0,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00790",
-   "q": "Where is the Qutub Minar located?",
-   "o": [
+   "question": "Where is the Qutub Minar located?",
+   "options": [
     "Amazon",
     "Sri Lanka",
     "Delhi",
     "Kochi"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00791",
-   "q": "How many main tax slabs are there in the Indian GST structure?",
-   "o": [
+   "question": "How many main tax slabs are there in the Indian GST structure?",
+   "options": [
     "Mumbai",
     "1944",
     "Insolvency and Bankruptcy Code, 2016",
     "Four"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00792",
-   "q": "Which Indian city hosted the 2023 G20 finance track meetings?",
-   "o": [
+   "question": "Which Indian city hosted the 2023 G20 finance track meetings?",
+   "options": [
     "Sukanya Samriddhi Yojana",
     "INS Vikrant",
     "New Delhi",
     "Gaganyaan"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00793",
-   "q": "What is the capital of Rwanda?",
-   "o": [
+   "question": "What is the capital of Rwanda?",
+   "options": [
     "Wellington",
     "Kigali",
     "Doha",
     "Athens"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Rwanda is Kigali."
+   "answer": 1,
+   "explanation": "The capital of Rwanda is Kigali.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00794",
-   "q": "On which date is World Computer Literacy Day observed?",
-   "o": [
+   "question": "On which date is World Computer Literacy Day observed?",
+   "options": [
     "9 October",
     "27 September",
     "29 August",
     "2 December"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Computer Literacy Day is observed on 2 December."
+   "answer": 3,
+   "explanation": "World Computer Literacy Day is observed on 2 December.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00795",
-   "q": "Which of the following organisations has its headquarters at Rome?",
-   "o": [
+   "question": "Which of the following organisations has its headquarters at Rome?",
+   "options": [
     "Indian Space Research Organisation",
     "World Anti-Doping Agency",
     "UN High Commissioner for Refugees",
     "World Food Programme"
    ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "World Food Programme is headquartered at Rome."
+   "answer": 3,
+   "explanation": "World Food Programme is headquartered at Rome.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00796",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Polo - 4",
     "Polo - 7",
     "Polo - 1",
     "Polo - 2"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Polo - 4 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Polo - 4 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00797",
-   "q": "Which trophy or cup is associated with Cricket?",
-   "o": [
+   "question": "Which trophy or cup is associated with Cricket?",
+   "options": [
     "Duleep Trophy",
     "Beighton Cup",
     "World Test Championship",
     "Sultan Azlan Shah Cup"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "World Test Championship is associated with Cricket."
+   "answer": 2,
+   "explanation": "World Test Championship is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00798",
-   "q": "Which award is described as: Third highest peacetime gallantry award of India?",
-   "o": [
+   "question": "Which award is described as: Third highest peacetime gallantry award of India?",
+   "options": [
     "Shaurya Chakra",
     "Sangeet Natak Akademi Award",
     "Arjuna Award",
     "Templeton Prize"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Third highest peacetime gallantry award of India describes Shaurya Chakra."
+   "answer": 0,
+   "explanation": "Third highest peacetime gallantry award of India describes Shaurya Chakra.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00799",
-   "q": "Which of the following books was written by Sachin Tendulkar?",
-   "o": [
+   "question": "Which of the following books was written by Sachin Tendulkar?",
+   "options": [
     "Mein Kampf",
     "Gitanjali (Song Offerings)",
     "Playing It My Way",
     "The Story of My Life"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Playing It My Way was written by Sachin Tendulkar."
+   "answer": 2,
+   "explanation": "Playing It My Way was written by Sachin Tendulkar.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00800",
-   "q": "Which of the following pairs of achievement and person is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is correctly matched?",
+   "options": [
     "First person to reach the South Pole - Roald Amundsen",
     "First person to reach the South Pole - Amelia Earhart",
     "First person to reach the South Pole - Soviet Union",
     "First person to reach the South Pole - Uruguay"
    ],
-   "a": 0,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First person to reach the South Pole - Roald Amundsen is correctly matched."
+   "answer": 0,
+   "explanation": "Only First person to reach the South Pole - Roald Amundsen is correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00801",
-   "q": "Which is the westernmost state of India?",
-   "o": [
+   "question": "Which is the westernmost state of India?",
+   "options": [
     "Kanpur",
     "Amazon",
     "Gujarat",
     "Sundarbans"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00802",
-   "q": "Which port is known as the Queen of the Arabian Sea?",
-   "o": [
+   "question": "Which port is known as the Queen of the Arabian Sea?",
+   "options": [
     "Tibetan Plateau",
     "Guru Shikhar",
     "Kochi",
     "Madhya Pradesh"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00803",
-   "q": "Which is the currency of the United Kingdom?",
-   "o": [
+   "question": "Which is the currency of the United Kingdom?",
+   "options": [
     "RBI Act, 1934",
     "Atal Pension Yojana",
     "Pound Sterling",
     "Call money rate"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00804",
-   "q": "Which is the highest civilian award given recently to sports personalities?",
-   "o": [
+   "question": "Which is the highest civilian award given recently to sports personalities?",
+   "options": [
     "Mumbai",
     "Bharat Ratna",
     "England",
     "National Green Hydrogen Mission"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00805",
-   "q": "What is the capital of Chad?",
-   "o": [
+   "question": "What is the capital of Chad?",
+   "options": [
     "Rabat",
     "Jerusalem",
     "Copenhagen",
     "N'Djamena"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Chad is N'Djamena."
+   "answer": 3,
+   "explanation": "The capital of Chad is N'Djamena.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00806",
-   "q": "On which date is World AIDS Day observed?",
-   "o": [
+   "question": "On which date is World AIDS Day observed?",
+   "options": [
     "1 December",
     "22 December",
     "8 November",
     "second Saturday of September"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World AIDS Day is observed on 1 December."
+   "answer": 0,
+   "explanation": "World AIDS Day is observed on 1 December.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00807",
-   "q": "Which of the following organisations has its headquarters at Washington, D.C.?",
-   "o": [
+   "question": "Which of the following organisations has its headquarters at Washington, D.C.?",
+   "options": [
     "World Intellectual Property Organization",
     "SAARC",
     "Transparency International",
     "World Bank"
    ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "World Bank is headquartered at Washington, D.C.."
+   "answer": 3,
+   "explanation": "World Bank is headquartered at Washington, D.C..",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00808",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Volleyball - 11",
     "Volleyball - 2",
     "Volleyball - 6",
     "Volleyball - 7"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Volleyball - 6 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Volleyball - 6 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00809",
-   "q": "Which trophy or cup is associated with Tennis?",
-   "o": [
+   "question": "Which trophy or cup is associated with Tennis?",
+   "options": [
     "Nehru Cup",
     "Khelo India Games",
     "Uber Cup",
     "US Open"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "US Open is associated with Tennis."
+   "answer": 3,
+   "explanation": "US Open is associated with Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00810",
-   "q": "Which award is described as: Indian literary award?",
-   "o": [
+   "question": "Which award is described as: Indian literary award?",
+   "options": [
     "Jnanpith Award",
     "Vyas Samman",
     "Academy Award (Oscar)",
     "Gandhi Peace Prize"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Indian literary award describes Vyas Samman."
+   "answer": 1,
+   "explanation": "Indian literary award describes Vyas Samman.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00811",
-   "q": "Which of the following books was written by Ved Vyasa?",
-   "o": [
+   "question": "Which of the following books was written by Ved Vyasa?",
+   "options": [
     "Unbreakable",
     "Playing It My Way",
     "Mahabharata",
     "The Communist Manifesto"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Mahabharata was written by Ved Vyasa."
+   "answer": 2,
+   "explanation": "Mahabharata was written by Ved Vyasa.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00812",
-   "q": "Which of the following pairs of achievement and person is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is correctly matched?",
+   "options": [
     "First Indian to win a Nobel Prize - Rabindranath Tagore",
     "First Indian to win a Nobel Prize - Joshua Slocum",
     "First Indian to win a Nobel Prize - George Washington",
     "First Indian to win a Nobel Prize - Trygve Lie"
    ],
-   "a": 0,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First Indian to win a Nobel Prize - Rabindranath Tagore is correctly matched."
+   "answer": 0,
+   "explanation": "Only First Indian to win a Nobel Prize - Rabindranath Tagore is correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00813",
-   "q": "Which pass connects India with Tibet near Sikkim?",
-   "o": [
+   "question": "Which pass connects India with Tibet near Sikkim?",
+   "options": [
     "Andes",
     "Belgium",
     "Nathu La",
     "Asia"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00814",
-   "q": "Which country is the largest producer of pulses?",
-   "o": [
+   "question": "Which country is the largest producer of pulses?",
+   "options": [
     "India",
     "Russia",
     "Kosi",
     "Cholamu Lake"
    ],
-   "a": 0,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 0,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00815",
-   "q": "Which committee recommended the monetary policy framework in India?",
-   "o": [
+   "question": "Which committee recommended the monetary policy framework in India?",
+   "options": [
     "Green Revolution",
     "PFRDA",
     "Minimum reserve system",
     "Urjit Patel Committee"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00816",
-   "q": "Which launch vehicle was used for Chandrayaan-3?",
-   "o": [
+   "question": "Which launch vehicle was used for Chandrayaan-3?",
+   "options": [
     "LVM3",
     "Yudh Abhyas",
     "Sachin Tendulkar",
     "INS Arighaat"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00817",
-   "q": "What is the capital of Luxembourg?",
-   "o": [
+   "question": "What is the capital of Luxembourg?",
+   "options": [
     "Dublin",
     "Naypyidaw",
     "Luxembourg City",
     "Riga"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Luxembourg is Luxembourg City."
+   "answer": 2,
+   "explanation": "The capital of Luxembourg is Luxembourg City.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00818",
-   "q": "On which date is International Day of Education observed?",
-   "o": [
+   "question": "On which date is International Day of Education observed?",
+   "options": [
     "24 January",
     "20 March",
     "31 October",
     "12 September"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Day of Education is observed on 24 January."
+   "answer": 0,
+   "explanation": "International Day of Education is observed on 24 January.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00819",
-   "q": "Which of the following organisations has its headquarters at Montreal?",
-   "o": [
+   "question": "Which of the following organisations has its headquarters at Montreal?",
+   "options": [
     "International Civil Aviation Organization",
     "United Nations Industrial Development Organization",
     "International Court of Justice",
     "World Anti-Doping Agency"
    ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "World Anti-Doping Agency is headquartered at Montreal."
+   "answer": 3,
+   "explanation": "World Anti-Doping Agency is headquartered at Montreal.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00820",
-   "q": "Which trophy or cup is associated with Football?",
-   "o": [
+   "question": "Which trophy or cup is associated with Football?",
+   "options": [
     "Santosh Trophy",
     "FIH Hockey World Cup",
     "Merdeka Cup",
     "Indian Premier League"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Santosh Trophy is associated with Football."
+   "answer": 0,
+   "explanation": "Santosh Trophy is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00821",
-   "q": "Which award is described as: Indian award in agricultural science?",
-   "o": [
+   "question": "Which award is described as: Indian award in agricultural science?",
+   "options": [
     "Borlaug Award",
     "Dronacharya Award",
     "Ashoka Chakra",
     "Dhyan Chand Award"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Indian award in agricultural science describes Borlaug Award."
+   "answer": 0,
+   "explanation": "Indian award in agricultural science describes Borlaug Award.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00822",
-   "q": "Which of the following books was written by Homer?",
-   "o": [
+   "question": "Which of the following books was written by Homer?",
+   "options": [
     "Paradise Lost",
     "The Odyssey",
     "Panchatantra",
     "Hamlet"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The Odyssey was written by Homer."
+   "answer": 1,
+   "explanation": "The Odyssey was written by Homer.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00823",
-   "q": "Which of the following pairs of achievement and person is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is correctly matched?",
+   "options": [
     "First Indian to win a Nobel Prize - Uruguay",
     "First Indian to win a Nobel Prize - Amelia Earhart",
     "First Indian to win a Nobel Prize - Chamonix",
     "First Indian to win a Nobel Prize - Rabindranath Tagore"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First Indian to win a Nobel Prize - Rabindranath Tagore is correctly matched."
+   "answer": 3,
+   "explanation": "Only First Indian to win a Nobel Prize - Rabindranath Tagore is correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00824",
-   "q": "Which Indian city is called the City of Temples?",
-   "o": [
+   "question": "Which Indian city is called the City of Temples?",
+   "options": [
     "Sundarbans",
     "Panama Canal",
     "Varanasi",
     "Sahara Desert"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00825",
-   "q": "Which is the longest river in Europe?",
-   "o": [
+   "question": "Which is the longest river in Europe?",
+   "options": [
     "Italy",
     "Ganga",
     "Volga",
     "Sundarbans"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00826",
-   "q": "Which revolution is associated with oilseeds production?",
-   "o": [
+   "question": "Which revolution is associated with oilseeds production?",
+   "options": [
     "Yellow Revolution",
     "Gross Domestic Product",
     "2017",
     "Manmohan Singh"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00827",
-   "q": "Which Indian city was included in the UNESCO Creative Cities Network?",
-   "o": [
+   "question": "Which Indian city was included in the UNESCO Creative Cities Network?",
+   "options": [
     "INS Arihant",
     "Chennai",
     "2024",
     "Mumbai"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00828",
-   "q": "What is the capital of Central African Republic?",
-   "o": [
+   "question": "What is the capital of Central African Republic?",
+   "options": [
     "Tbilisi",
     "Abu Dhabi",
     "Bangui",
     "Mexico City"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Central African Republic is Bangui."
+   "answer": 2,
+   "explanation": "The capital of Central African Republic is Bangui.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00829",
-   "q": "On which date is World Post Day observed?",
-   "o": [
+   "question": "On which date is World Post Day observed?",
+   "options": [
     "15 September",
     "9 October",
     "21 February",
     "22 April"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Post Day is observed on 9 October."
+   "answer": 1,
+   "explanation": "World Post Day is observed on 9 October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00830",
-   "q": "Which of the following organisations has its headquarters at Kathmandu?",
-   "o": [
+   "question": "Which of the following organisations has its headquarters at Kathmandu?",
+   "options": [
     "International Labour Organization",
     "SAARC",
     "OPEC",
     "European Union"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "SAARC is headquartered at Kathmandu."
+   "answer": 1,
+   "explanation": "SAARC is headquartered at Kathmandu.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00831",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Football - 8",
     "Football - 1",
     "Football - 7",
     "Football - 11"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Football - 11 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Football - 11 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00832",
-   "q": "Which trophy or cup is associated with Cricket?",
-   "o": [
+   "question": "Which trophy or cup is associated with Cricket?",
+   "options": [
     "The Ashes",
     "Duleep Trophy",
     "Grand Slam (Tennis)",
     "Bordoloi Trophy"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Duleep Trophy is associated with Cricket."
+   "answer": 1,
+   "explanation": "Duleep Trophy is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00833",
-   "q": "Which award is described as: Highest literary award of India?",
-   "o": [
+   "question": "Which award is described as: Highest literary award of India?",
+   "options": [
     "National Bravery Award",
     "Jnanpith Award",
     "Padma Shri",
     "Kirti Chakra"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Highest literary award of India describes Jnanpith Award."
+   "answer": 1,
+   "explanation": "Highest literary award of India describes Jnanpith Award.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00834",
-   "q": "Which of the following books was written by Maulana Abul Kalam Azad?",
-   "o": [
+   "question": "Which of the following books was written by Maulana Abul Kalam Azad?",
+   "options": [
     "The Story of My Life",
     "India Wins Freedom",
     "Romeo and Juliet",
     "On the Origin of Species"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "India Wins Freedom was written by Maulana Abul Kalam Azad."
+   "answer": 1,
+   "explanation": "India Wins Freedom was written by Maulana Abul Kalam Azad.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00835",
-   "q": "Which of the following pairs of achievement and person is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is correctly matched?",
+   "options": [
     "First human in space - Yuri Gagarin",
     "First human in space - Rabindranath Tagore",
     "First human in space - George Washington",
     "First human in space - Roger Bannister"
    ],
-   "a": 0,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First human in space - Yuri Gagarin is correctly matched."
+   "answer": 0,
+   "explanation": "Only First human in space - Yuri Gagarin is correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00836",
-   "q": "Which strait separates Africa from Europe?",
-   "o": [
+   "question": "Which strait separates Africa from Europe?",
+   "options": [
     "Strait of Gibraltar",
     "Sahara Desert",
     "Greenland",
     "Seven"
    ],
-   "a": 0,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 0,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00837",
-   "q": "Which strait separates Asia from North America?",
-   "o": [
+   "question": "Which strait separates Asia from North America?",
+   "options": [
     "Bering Strait",
     "Arabian Sea",
     "Haryana",
     "Sambhar Lake"
    ],
-   "a": 0,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 0,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00838",
-   "q": "Which act governs fiscal discipline in India?",
-   "o": [
+   "question": "Which act governs fiscal discipline in India?",
+   "options": [
     "2011-12",
     "1992",
     "FRBM Act, 2003",
     "Adam Smith"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00839",
-   "q": "Which G20 theme song was released by India?",
-   "o": [
+   "question": "Which G20 theme song was released by India?",
+   "options": [
     "Vasudhaiva Kutumbakam",
     "XPoSat",
     "2023",
     "West Indies"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00840",
-   "q": "What is the capital of Cameroon?",
-   "o": [
+   "question": "What is the capital of Cameroon?",
+   "options": [
     "Chisinau",
     "Vilnius",
     "Yaounde",
     "Bucharest"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Cameroon is Yaounde."
+   "answer": 2,
+   "explanation": "The capital of Cameroon is Yaounde.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00841",
-   "q": "On which date is International Mother Earth Day observed?",
-   "o": [
+   "question": "On which date is International Mother Earth Day observed?",
+   "options": [
     "20 May",
     "9 October",
     "28 July",
     "22 April"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Mother Earth Day is observed on 22 April."
+   "answer": 3,
+   "explanation": "International Mother Earth Day is observed on 22 April.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00842",
-   "q": "Which of the following organisations has its headquarters at Paris?",
-   "o": [
+   "question": "Which of the following organisations has its headquarters at Paris?",
+   "options": [
     "National Aeronautics and Space Administration",
     "European Space Agency",
     "Shanghai Cooperation Organisation",
     "Indian Space Research Organisation"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "European Space Agency is headquartered at Paris."
+   "answer": 1,
+   "explanation": "European Space Agency is headquartered at Paris.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00843",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Football - 9",
     "Football - 2",
     "Football - 11",
     "Football - 7"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Football - 11 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Football - 11 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00844",
-   "q": "Which trophy or cup is associated with Badminton?",
-   "o": [
+   "question": "Which trophy or cup is associated with Badminton?",
+   "options": [
     "Durand Cup",
     "The Ashes",
     "Aga Khan Cup",
     "Thomas Cup"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Thomas Cup is associated with Badminton."
+   "answer": 3,
+   "explanation": "Thomas Cup is associated with Badminton.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00845",
-   "q": "Which award is described as: Indian award for social work and peace?",
-   "o": [
+   "question": "Which award is described as: Indian award for social work and peace?",
+   "options": [
     "Dhyan Chand Award",
     "Jnanpith Award",
     "Gandhi Peace Prize",
     "Indira Gandhi Prize"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Indian award for social work and peace describes Gandhi Peace Prize."
+   "answer": 2,
+   "explanation": "Indian award for social work and peace describes Gandhi Peace Prize.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00846",
-   "q": "Which of the following books was written by Adam Smith?",
-   "o": [
+   "question": "Which of the following books was written by Adam Smith?",
+   "options": [
     "Maila Anchal",
     "Autobiography of a Yogi",
     "My Experiments with Truth",
     "The Wealth of Nations"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The Wealth of Nations was written by Adam Smith."
+   "answer": 3,
+   "explanation": "The Wealth of Nations was written by Adam Smith.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00847",
-   "q": "Which of the following pairs of achievement and person is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is correctly matched?",
+   "options": [
     "First human in space - Rabindranath Tagore",
     "First human in space - Soviet Union",
     "First human in space - Yuri Gagarin",
     "First human in space - Roald Amundsen"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First human in space - Yuri Gagarin is correctly matched."
+   "answer": 2,
+   "explanation": "Only First human in space - Yuri Gagarin is correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00848",
-   "q": "Which country is known as the Land of Thunder Dragon?",
-   "o": [
+   "question": "Which country is known as the Land of Thunder Dragon?",
+   "options": [
     "Wular Lake",
     "Nagpur",
     "Venice",
     "Bhutan"
    ],
-   "a": 3,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 3,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00849",
-   "q": "Where is the Eiffel Tower located?",
-   "o": [
+   "question": "Where is the Eiffel Tower located?",
+   "options": [
     "Maharashtra",
     "Paris",
     "Mumbai",
     "Sadbhawna Shikhar"
    ],
-   "a": 1,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 1,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00850",
-   "q": "In which year was the rupee symbol adopted?",
-   "o": [
+   "question": "In which year was the rupee symbol adopted?",
+   "options": [
     "Bank of England",
     "2010",
     "Narasimham Committee",
     "Disinvestment"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00851",
-   "q": "Which tiger census is conducted every four years in India?",
-   "o": [
+   "question": "Which tiger census is conducted every four years in India?",
+   "options": [
     "IndiaAI Mission",
     "Kerala",
     "Pradhan Mantri Ujjwala Yojana",
     "All India Tiger Estimation"
    ],
-   "a": 3,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 3,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00852",
-   "q": "What is the capital of Austria?",
-   "o": [
+   "question": "What is the capital of Austria?",
+   "options": [
     "Canberra",
     "Yamoussoukro",
     "Vienna",
     "Honiara"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Austria is Vienna."
+   "answer": 2,
+   "explanation": "The capital of Austria is Vienna.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00853",
-   "q": "On which date is United Nations Day observed?",
-   "o": [
+   "question": "On which date is United Nations Day observed?",
+   "options": [
     "9 December",
     "2 October",
     "26 January",
     "24 October"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "United Nations Day is observed on 24 October."
+   "answer": 3,
+   "explanation": "United Nations Day is observed on 24 October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00854",
-   "q": "Which of the following organisations has its headquarters at Zurich?",
-   "o": [
+   "question": "Which of the following organisations has its headquarters at Zurich?",
+   "options": [
     "ASEAN",
     "Board of Control for Cricket in India",
     "Interpol",
     "FIFA"
    ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "FIFA is headquartered at Zurich."
+   "answer": 3,
+   "explanation": "FIFA is headquartered at Zurich.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00855",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Rugby union - 11",
     "Rugby union - 7",
     "Rugby union - 5",
     "Rugby union - 15"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Rugby union - 15 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Rugby union - 15 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00856",
-   "q": "Which trophy or cup is associated with Multi-sport?",
-   "o": [
+   "question": "Which trophy or cup is associated with Multi-sport?",
+   "options": [
     "Aga Khan Cup",
     "Davis Cup",
     "Deodhar Trophy",
     "Khelo India Games"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Khelo India Games is associated with Multi-sport."
+   "answer": 3,
+   "explanation": "Khelo India Games is associated with Multi-sport.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00857",
-   "q": "Which award is described as: Performing arts award of India?",
-   "o": [
+   "question": "Which award is described as: Performing arts award of India?",
+   "options": [
     "Ashoka Chakra",
     "Kirti Chakra",
     "Gandhi Peace Prize",
     "Sangeet Natak Akademi Award"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Performing arts award of India describes Sangeet Natak Akademi Award."
+   "answer": 3,
+   "explanation": "Performing arts award of India describes Sangeet Natak Akademi Award.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00858",
-   "q": "Which of the following books was written by Leo Tolstoy?",
-   "o": [
+   "question": "Which of the following books was written by Leo Tolstoy?",
+   "options": [
     "Unbreakable",
     "The Story of My Life",
     "An Autobiography (Toward Freedom)",
     "War and Peace"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "War and Peace was written by Leo Tolstoy."
+   "answer": 3,
+   "explanation": "War and Peace was written by Leo Tolstoy.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00859",
-   "q": "Which of the following pairs of achievement and person is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is correctly matched?",
+   "options": [
     "First woman in space - Edmund Hillary",
     "First woman in space - Sirimavo Bandaranaike",
     "First woman in space - Amelia Earhart",
     "First woman in space - Valentina Tereshkova"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First woman in space - Valentina Tereshkova is correctly matched."
+   "answer": 3,
+   "explanation": "Only First woman in space - Valentina Tereshkova is correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00860",
-   "q": "Which is the deepest ocean trench?",
-   "o": [
+   "question": "Which is the deepest ocean trench?",
+   "options": [
     "Maharashtra",
     "South China Sea",
     "Mariana Trench",
     "Majuli"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00861",
-   "q": "Which is the largest island in the world?",
-   "o": [
+   "question": "Which is the largest island in the world?",
+   "options": [
     "Sambhar Lake",
     "Vatican City",
     "Ahmedabad",
     "Greenland"
    ],
-   "a": 3,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 3,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00862",
-   "q": "What is Net National Product divided by population called?",
-   "o": [
+   "question": "What is Net National Product divided by population called?",
+   "options": [
     "Fiscal federalism",
     "Atal Pension Yojana",
     "Life Insurance Corporation of India",
     "Per capita income"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00863",
-   "q": "Which country won the Cricket World Cup 2019?",
-   "o": [
+   "question": "Which country won the Cricket World Cup 2019?",
+   "options": [
     "Madhya Pradesh",
     "England",
     "Kerala",
     "All India Tiger Estimation"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00864",
-   "q": "What is the capital of Belize?",
-   "o": [
+   "question": "What is the capital of Belize?",
+   "options": [
     "Budapest",
     "Dublin",
     "Guatemala City",
     "Belmopan"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Belize is Belmopan."
+   "answer": 3,
+   "explanation": "The capital of Belize is Belmopan.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00865",
-   "q": "On which date is International Tea Day observed?",
-   "o": [
+   "question": "On which date is International Tea Day observed?",
+   "options": [
     "21 May",
     "14 December",
     "4 January",
     "11 November"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Tea Day is observed on 21 May."
+   "answer": 0,
+   "explanation": "International Tea Day is observed on 21 May.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00866",
-   "q": "Which of the following organisations has its headquarters at Geneva?",
-   "o": [
+   "question": "Which of the following organisations has its headquarters at Geneva?",
+   "options": [
     "Asian Infrastructure Investment Bank",
     "CERN",
     "Transparency International",
     "International Labour Organization"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "CERN is headquartered at Geneva."
+   "answer": 1,
+   "explanation": "CERN is headquartered at Geneva.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00867",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Rugby union - 6",
     "Rugby union - 7",
     "Rugby union - 11",
     "Rugby union - 15"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Rugby union - 15 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Rugby union - 15 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00868",
-   "q": "Which trophy or cup is associated with Football?",
-   "o": [
+   "question": "Which trophy or cup is associated with Football?",
+   "options": [
     "World Cup (Cricket)",
     "Nehru Cup",
     "Wimbledon",
     "Vijay Hazare Trophy"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Nehru Cup is associated with Football."
+   "answer": 1,
+   "explanation": "Nehru Cup is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00869",
-   "q": "Which award is described as: Third highest military decoration of India?",
-   "o": [
+   "question": "Which award is described as: Third highest military decoration of India?",
+   "options": [
     "Saraswati Samman",
     "Vir Chakra",
     "Sangeet Natak Akademi Award",
     "Dronacharya Award"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Third highest military decoration of India describes Vir Chakra."
+   "answer": 1,
+   "explanation": "Third highest military decoration of India describes Vir Chakra.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00870",
-   "q": "Which of the following books was written by Helen Keller?",
-   "o": [
+   "question": "Which of the following books was written by Helen Keller?",
+   "options": [
     "Unbreakable",
     "Mein Kampf",
     "Maila Anchal",
     "The Story of My Life"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The Story of My Life was written by Helen Keller."
+   "answer": 3,
+   "explanation": "The Story of My Life was written by Helen Keller.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00871",
-   "q": "Which of the following pairs of achievement and person is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is correctly matched?",
+   "options": [
     "First woman in space - Junko Tabei",
     "First woman in space - England",
     "First woman in space - Valentina Tereshkova",
     "First woman in space - Roald Amundsen"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First woman in space - Valentina Tereshkova is correctly matched."
+   "answer": 2,
+   "explanation": "Only First woman in space - Valentina Tereshkova is correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00872",
-   "q": "Which Indian city is called the Gateway of India?",
-   "o": [
+   "question": "Which Indian city is called the Gateway of India?",
+   "options": [
     "Varanasi",
     "Mumbai",
     "Canada",
     "Anamudi"
    ],
-   "a": 1,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 1,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00873",
-   "q": "Which Indian state has the lowest sex ratio?",
-   "o": [
+   "question": "Which Indian state has the lowest sex ratio?",
+   "options": [
     "Amazon",
     "Asia",
     "Brazil",
     "Haryana"
    ],
-   "a": 3,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 3,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00874",
-   "q": "Which act deals with the recovery of debts by banks in India?",
-   "o": [
+   "question": "Which act deals with the recovery of debts by banks in India?",
+   "options": [
     "Shanghai",
     "SARFAESI Act, 2002",
     "Manufacturing",
     "Manila"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00875",
-   "q": "Which programme aims to build 100 smart cities in India?",
-   "o": [
+   "question": "Which programme aims to build 100 smart cities in India?",
+   "options": [
     "Smart Cities Mission",
     "Agni-V",
     "Make in India",
     "Cyclone Biparjoy"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00876",
-   "q": "What is the capital of Malawi?",
-   "o": [
+   "question": "What is the capital of Malawi?",
+   "options": [
     "Valletta",
     "Beijing",
     "Paris",
     "Lilongwe"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Malawi is Lilongwe."
+   "answer": 3,
+   "explanation": "The capital of Malawi is Lilongwe.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00877",
-   "q": "On which date is World Standards Day observed?",
-   "o": [
+   "question": "On which date is World Standards Day observed?",
+   "options": [
     "14 October",
     "4 February",
     "20 October",
     "24 October"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Standards Day is observed on 14 October."
+   "answer": 0,
+   "explanation": "World Standards Day is observed on 14 October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00878",
-   "q": "Which of the following organisations has its headquarters at Mumbai?",
-   "o": [
+   "question": "Which of the following organisations has its headquarters at Mumbai?",
+   "options": [
     "International Telecommunication Union",
     "Asian Infrastructure Investment Bank",
     "Board of Control for Cricket in India",
     "World Bank"
    ],
-   "a": 2,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "Board of Control for Cricket in India is headquartered at Mumbai."
+   "answer": 2,
+   "explanation": "Board of Control for Cricket in India is headquartered at Mumbai.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00879",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Table tennis (singles) - 1",
     "Table tennis (singles) - 6",
     "Table tennis (singles) - 11",
     "Table tennis (singles) - 7"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Table tennis (singles) - 1 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Table tennis (singles) - 1 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00880",
-   "q": "Which trophy or cup is associated with Hockey?",
-   "o": [
+   "question": "Which trophy or cup is associated with Hockey?",
+   "options": [
     "French Open",
     "Champions Trophy (Cricket)",
     "Beighton Cup",
     "Azlan Shah Trophy"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Beighton Cup is associated with Hockey."
+   "answer": 2,
+   "explanation": "Beighton Cup is associated with Hockey.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00881",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Padma Vibhushan - Second highest civilian award of India",
     "Padma Vibhushan - Second highest peacetime gallantry award of India",
     "Padma Vibhushan - Alternative Nobel Prize",
     "Padma Vibhushan - American award for journalism and letters"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Padma Vibhushan - Second highest civilian award of India is correctly matched."
+   "answer": 0,
+   "explanation": "Only Padma Vibhushan - Second highest civilian award of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00882",
-   "q": "Which of the following books was written by Rudyard Kipling?",
-   "o": [
+   "question": "Which of the following books was written by Rudyard Kipling?",
+   "options": [
     "The Jungle Book",
     "The Origin of Species by Means of Natural Selection",
     "Abhijnanashakuntalam",
     "Oliver Twist"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "The Jungle Book was written by Rudyard Kipling."
+   "answer": 0,
+   "explanation": "The Jungle Book was written by Rudyard Kipling.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00883",
-   "q": "Which of the following pairs of achievement and person is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is correctly matched?",
+   "options": [
     "First woman to win a Nobel Prize - Joshua Slocum",
     "First woman to win a Nobel Prize - Soviet Union",
     "First woman to win a Nobel Prize - Marie Curie",
     "First woman to win a Nobel Prize - New Zealand"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First woman to win a Nobel Prize - Marie Curie is correctly matched."
+   "answer": 2,
+   "explanation": "Only First woman to win a Nobel Prize - Marie Curie is correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00884",
-   "q": "Which is the largest river island in the world?",
-   "o": [
+   "question": "Which is the largest river island in the world?",
+   "options": [
     "Amazon",
     "Caspian Sea",
     "Tamil Nadu",
     "Majuli"
    ],
-   "a": 3,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 3,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00885",
-   "q": "Which lake is known as the Skeleton Lake?",
-   "o": [
+   "question": "Which lake is known as the Skeleton Lake?",
+   "options": [
     "Egypt",
     "Tapti",
     "Australia",
     "Roopkund Lake"
    ],
-   "a": 3,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 3,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00886",
-   "q": "Which institution issues coins in India?",
-   "o": [
+   "question": "Which institution issues coins in India?",
+   "options": [
     "Deposit insurance",
     "Services sector",
     "Government of India",
     "Statutory Liquidity Ratio"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00887",
-   "q": "Which city will host the 2028 Summer Olympics?",
-   "o": [
+   "question": "Which city will host the 2028 Summer Olympics?",
+   "options": [
     "Los Angeles",
     "Agni-V",
     "Chenab Bridge",
     "India"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00888",
-   "q": "What is the capital of Trinidad and Tobago?",
-   "o": [
+   "question": "What is the capital of Trinidad and Tobago?",
+   "options": [
     "Dhaka",
     "Amsterdam",
     "Tbilisi",
     "Port of Spain"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Trinidad and Tobago is Port of Spain."
+   "answer": 3,
+   "explanation": "The capital of Trinidad and Tobago is Port of Spain.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00889",
-   "q": "On which date is World Rivers Day observed?",
-   "o": [
+   "question": "On which date is World Rivers Day observed?",
+   "options": [
     "fourth Sunday of September",
     "31 October",
     "28 July",
     "3 May"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Rivers Day is observed on fourth Sunday of September."
+   "answer": 0,
+   "explanation": "World Rivers Day is observed on fourth Sunday of September.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00890",
-   "q": "Which of the following organisations has its headquarters at Vienna?",
-   "o": [
+   "question": "Which of the following organisations has its headquarters at Vienna?",
+   "options": [
     "International Labour Organization",
     "International Telecommunication Union",
     "United Nations Industrial Development Organization",
     "Board of Control for Cricket in India"
    ],
-   "a": 2,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "United Nations Industrial Development Organization is headquartered at Vienna."
+   "answer": 2,
+   "explanation": "United Nations Industrial Development Organization is headquartered at Vienna.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00891",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Table tennis (singles) - 7",
     "Table tennis (singles) - 6",
     "Table tennis (singles) - 9",
     "Table tennis (singles) - 1"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Table tennis (singles) - 1 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Table tennis (singles) - 1 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00892",
-   "q": "Which trophy or cup is associated with Football?",
-   "o": [
+   "question": "Which trophy or cup is associated with Football?",
+   "options": [
     "Subroto Cup",
     "French Open",
     "Bordoloi Trophy",
     "Ranji Trophy"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Subroto Cup is associated with Football."
+   "answer": 0,
+   "explanation": "Subroto Cup is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00893",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Padma Vibhushan - Second highest civilian award of India",
     "Padma Vibhushan - Award for brave children in India",
     "Padma Vibhushan - Indian literary award",
     "Padma Vibhushan - Award for progress in spiritual matters"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Padma Vibhushan - Second highest civilian award of India is correctly matched."
+   "answer": 0,
+   "explanation": "Only Padma Vibhushan - Second highest civilian award of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00894",
-   "q": "Which of the following books was written by Maxim Gorky?",
-   "o": [
+   "question": "Which of the following books was written by Maxim Gorky?",
+   "options": [
     "Mother",
     "India Wins Freedom",
     "Godaan",
     "Abhijnanashakuntalam"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Mother was written by Maxim Gorky."
+   "answer": 0,
+   "explanation": "Mother was written by Maxim Gorky.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00895",
-   "q": "Which of the following pairs of achievement and person is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is correctly matched?",
+   "options": [
     "First woman to win a Nobel Prize - Trygve Lie",
     "First woman to win a Nobel Prize - Marie Curie",
     "First woman to win a Nobel Prize - Roger Bannister",
     "First woman to win a Nobel Prize - New Zealand"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First woman to win a Nobel Prize - Marie Curie is correctly matched."
+   "answer": 1,
+   "explanation": "Only First woman to win a Nobel Prize - Marie Curie is correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00896",
-   "q": "Which state of India is called the Spice Garden of India?",
-   "o": [
+   "question": "Which state of India is called the Spice Garden of India?",
+   "options": [
     "Sahara Desert",
     "Arunachal Pradesh",
     "Kerala",
     "Mauna Loa"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00897",
-   "q": "Which is the largest archipelago in the world?",
-   "o": [
+   "question": "Which is the largest archipelago in the world?",
+   "options": [
     "Marina Beach",
     "Ganga",
     "Sahara Desert",
     "Indonesia"
    ],
-   "a": 3,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 3,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00898",
-   "q": "What is the rate that banks charge each other for short-term funds called?",
-   "o": [
+   "question": "What is the rate that banks charge each other for short-term funds called?",
+   "options": [
     "Silver Revolution",
     "Call money rate",
     "Foreign Direct Investment",
     "Fiscal federalism"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00899",
-   "q": "Which scheme is associated with the Ministry of Rural Development for rural roads?",
-   "o": [
+   "question": "Which scheme is associated with the Ministry of Rural Development for rural roads?",
+   "options": [
     "Uttar Pradesh",
     "Pradhan Mantri Gram Sadak Yojana",
     "Ravi Dahiya",
     "United Nations Sustainable Development Solutions Network"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00900",
-   "q": "What is the capital of Panama?",
-   "o": [
+   "question": "What is the capital of Panama?",
+   "options": [
     "Panama City",
     "Riyadh",
     "Doha",
     "Tashkent"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Panama is Panama City."
+   "answer": 0,
+   "explanation": "The capital of Panama is Panama City.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00901",
-   "q": "On which date is World Photography Day observed?",
-   "o": [
+   "question": "On which date is World Photography Day observed?",
+   "options": [
     "19 August",
     "24 October",
     "23 March",
     "9 December"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Photography Day is observed on 19 August."
+   "answer": 0,
+   "explanation": "World Photography Day is observed on 19 August.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00902",
-   "q": "Which of the following organisations has its headquarters at Vienna?",
-   "o": [
+   "question": "Which of the following organisations has its headquarters at Vienna?",
+   "options": [
     "OPEC",
     "World Trade Organization",
     "International Labour Organization headquarters city",
     "European Union"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "OPEC is headquartered at Vienna."
+   "answer": 0,
+   "explanation": "OPEC is headquartered at Vienna.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00903",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Rugby sevens - 7",
     "Rugby sevens - 2",
     "Rugby sevens - 6",
     "Rugby sevens - 4"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Rugby sevens - 7 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Rugby sevens - 7 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00904",
-   "q": "Which trophy or cup is associated with Football?",
-   "o": [
+   "question": "Which trophy or cup is associated with Football?",
+   "options": [
     "Ranji Trophy",
     "FIFA World Cup",
     "Irani Cup",
     "Copa America"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "FIFA World Cup is associated with Football."
+   "answer": 1,
+   "explanation": "FIFA World Cup is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00905",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Sahitya Akademi Award - American award for music",
     "Sahitya Akademi Award - Third highest peacetime gallantry award of India",
     "Sahitya Akademi Award - Literary award for Indian languages",
     "Sahitya Akademi Award - Highest award in Indian cinema"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sahitya Akademi Award - Literary award for Indian languages is correctly matched."
+   "answer": 2,
+   "explanation": "Only Sahitya Akademi Award - Literary award for Indian languages is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00906",
-   "q": "Which of the following books was written by Mahatma Gandhi?",
-   "o": [
+   "question": "Which of the following books was written by Mahatma Gandhi?",
+   "options": [
     "Wings of Fire",
     "Pride and Prejudice",
     "Hamlet",
     "My Experiments with Truth"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "My Experiments with Truth was written by Mahatma Gandhi."
+   "answer": 3,
+   "explanation": "My Experiments with Truth was written by Mahatma Gandhi.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00907",
-   "q": "Which of the following pairs of achievement and person is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is correctly matched?",
+   "options": [
     "First country to give women the vote - Sirimavo Bandaranaike",
     "First country to give women the vote - Marie Curie",
     "First country to give women the vote - Amelia Earhart",
     "First country to give women the vote - New Zealand"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First country to give women the vote - New Zealand is correctly matched."
+   "answer": 3,
+   "explanation": "Only First country to give women the vote - New Zealand is correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00908",
-   "q": "Which is the highest peak in the Eastern Ghats?",
-   "o": [
+   "question": "Which is the highest peak in the Eastern Ghats?",
+   "options": [
     "Tamil Nadu",
     "Lucknow",
     "Belgium",
     "Arma Konda"
    ],
-   "a": 3,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 3,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00909",
-   "q": "Which country is the largest producer of milk?",
-   "o": [
+   "question": "Which country is the largest producer of milk?",
+   "options": [
     "Ireland",
     "India",
     "Asia",
     "Challenger Deep"
    ],
-   "a": 1,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 1,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00910",
-   "q": "Where is the headquarters of the Life Insurance Corporation of India?",
-   "o": [
+   "question": "Where is the headquarters of the Life Insurance Corporation of India?",
+   "options": [
     "Pradhan Mantri Mudra Yojana",
     "Mumbai",
     "Repo rate",
     "Article 112"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00911",
-   "q": "Which Indian state has the largest number of dams?",
-   "o": [
+   "question": "Which Indian state has the largest number of dams?",
+   "options": [
     "Jawaharlal Nehru Port",
     "Pradhan Mantri Gram Sadak Yojana",
     "Reserve Bank of India",
     "Maharashtra"
    ],
-   "a": 3,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 3,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00912",
-   "q": "What is the capital of Afghanistan?",
-   "o": [
+   "question": "What is the capital of Afghanistan?",
+   "options": [
     "Kabul",
     "Tripoli",
     "Ottawa",
     "Pyongyang"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Afghanistan is Kabul."
+   "answer": 0,
+   "explanation": "The capital of Afghanistan is Kabul.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00913",
-   "q": "On which date is World Toilet Day observed?",
-   "o": [
+   "question": "On which date is World Toilet Day observed?",
+   "options": [
     "25 January",
     "19 November",
     "20 March",
     "24 October"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Toilet Day is observed on 19 November."
+   "answer": 1,
+   "explanation": "World Toilet Day is observed on 19 November.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00914",
-   "q": "Which of the following organisations has its headquarters at Bern?",
-   "o": [
+   "question": "Which of the following organisations has its headquarters at Bern?",
+   "options": [
     "Universal Postal Union",
     "South Asian University",
     "International Court of Justice",
     "UNICEF"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "Universal Postal Union is headquartered at Bern."
+   "answer": 0,
+   "explanation": "Universal Postal Union is headquartered at Bern.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00915",
-   "q": "Which trophy or cup is associated with Cricket?",
-   "o": [
+   "question": "Which trophy or cup is associated with Cricket?",
+   "options": [
     "US Open",
     "Irani Cup",
     "FIH Hockey World Cup",
     "Indian Premier League"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Indian Premier League is associated with Cricket."
+   "answer": 3,
+   "explanation": "Indian Premier League is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00916",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Sahitya Akademi Award - Lifetime achievement in Indian sports",
     "Sahitya Akademi Award - Literary award for Indian languages",
     "Sahitya Akademi Award - Outstanding performance in Indian sports",
     "Sahitya Akademi Award - Third highest peacetime gallantry award of India"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sahitya Akademi Award - Literary award for Indian languages is correctly matched."
+   "answer": 1,
+   "explanation": "Only Sahitya Akademi Award - Literary award for Indian languages is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00917",
-   "q": "Which of the following books was written by Charles Darwin?",
-   "o": [
+   "question": "Which of the following books was written by Charles Darwin?",
+   "options": [
     "An Autobiography (Toward Freedom)",
     "Gaban",
     "On the Origin of Species",
     "Autobiography of a Yogi"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "On the Origin of Species was written by Charles Darwin."
+   "answer": 2,
+   "explanation": "On the Origin of Species was written by Charles Darwin.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00918",
-   "q": "Which of the following pairs of achievement and person is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is correctly matched?",
+   "options": [
     "First country to give women the vote - Chamonix",
     "First country to give women the vote - Wally Herbert",
     "First country to give women the vote - Edmund Hillary",
     "First country to give women the vote - New Zealand"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First country to give women the vote - New Zealand is correctly matched."
+   "answer": 3,
+   "explanation": "Only First country to give women the vote - New Zealand is correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00919",
-   "q": "Which is the longest river in South America?",
-   "o": [
+   "question": "Which is the longest river in South America?",
+   "options": [
     "Amazon",
     "Mount Everest",
     "Bengaluru",
     "Bangladesh"
    ],
-   "a": 0,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 0,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00920",
-   "q": "Which river is called the Ganga of the South?",
-   "o": [
+   "question": "Which river is called the Ganga of the South?",
+   "options": [
     "Antarctic Desert",
     "Prime Meridian",
     "Godavari",
     "Bengaluru"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00921",
-   "q": "What is the record of all economic transactions of a country called?",
-   "o": [
+   "question": "What is the record of all economic transactions of a country called?",
+   "options": [
     "Balance of payments",
     "1949",
     "US Dollar",
     "NITI Aayog"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00922",
-   "q": "Which Indian institution publishes the Economic Survey?",
-   "o": [
+   "question": "Which Indian institution publishes the Economic Survey?",
+   "options": [
     "Jal Jeevan Mission",
     "Hangzhou",
     "Ministry of Finance",
     "Tamil Nadu"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00923",
-   "q": "What is the capital of Belarus?",
-   "o": [
+   "question": "What is the capital of Belarus?",
+   "options": [
     "Bucharest",
     "Minsk",
     "Bandar Seri Begawan",
     "Havana"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Belarus is Minsk."
+   "answer": 1,
+   "explanation": "The capital of Belarus is Minsk.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00924",
-   "q": "On which date is World Students' Day observed?",
-   "o": [
+   "question": "On which date is World Students' Day observed?",
+   "options": [
     "9 August",
     "23 March",
     "15 October",
     "1 December"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Students' Day is observed on 15 October."
+   "answer": 2,
+   "explanation": "World Students' Day is observed on 15 October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00925",
-   "q": "Which of the following organisations has its headquarters at Beijing?",
-   "o": [
+   "question": "Which of the following organisations has its headquarters at Beijing?",
+   "options": [
     "NATO",
     "Asian Infrastructure Investment Bank",
     "Indian Space Research Organisation",
     "CERN"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "Asian Infrastructure Investment Bank is headquartered at Beijing."
+   "answer": 1,
+   "explanation": "Asian Infrastructure Investment Bank is headquartered at Beijing.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00926",
-   "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is NOT correctly matched?",
+   "options": [
     "Ice hockey - 5",
     "Cricket - 11",
     "Kabaddi - 7",
     "Table tennis (singles) - 1"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Ice hockey - 5 is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Ice hockey - 5 is not correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00927",
-   "q": "Which trophy or cup is associated with Badminton?",
-   "o": [
+   "question": "Which trophy or cup is associated with Badminton?",
+   "options": [
     "Rovers Cup",
     "Sudirman Cup",
     "Champions Trophy (Cricket)",
     "Uber Cup"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Uber Cup is associated with Badminton."
+   "answer": 3,
+   "explanation": "Uber Cup is associated with Badminton.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00928",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Grammy Award - American award for journalism and letters",
     "Grammy Award - American award for music",
     "Grammy Award - Performing arts award of India",
     "Grammy Award - Third highest peacetime gallantry award of India"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Grammy Award - American award for music is correctly matched."
+   "answer": 1,
+   "explanation": "Only Grammy Award - American award for music is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00929",
-   "q": "Which of the following books was written by William Shakespeare?",
-   "o": [
+   "question": "Which of the following books was written by William Shakespeare?",
+   "options": [
     "Hamlet",
     "The Odyssey",
     "Mahabharata",
     "David Copperfield"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Hamlet was written by William Shakespeare."
+   "answer": 0,
+   "explanation": "Hamlet was written by William Shakespeare.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00930",
-   "q": "Which of the following pairs of achievement and person is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is correctly matched?",
+   "options": [
     "First Winter Olympic Games were held in - Greece",
     "First Winter Olympic Games were held in - Athens",
     "First Winter Olympic Games were held in - Amelia Earhart",
     "First Winter Olympic Games were held in - Chamonix"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First Winter Olympic Games were held in - Chamonix is correctly matched."
+   "answer": 3,
+   "explanation": "Only First Winter Olympic Games were held in - Chamonix is correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00931",
-   "q": "Which country shares the longest border with India?",
-   "o": [
+   "question": "Which country shares the longest border with India?",
+   "options": [
     "Beijing",
     "Mumbai",
     "Greenland",
     "Bangladesh"
    ],
-   "a": 3,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 3,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00932",
-   "q": "Which city is known as the City of Lights?",
-   "o": [
+   "question": "Which city is known as the City of Lights?",
+   "options": [
     "Loktak Lake",
     "Russia",
     "Strait of Hormuz",
     "Paris"
    ],
-   "a": 3,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 3,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00933",
-   "q": "Which type of bank was introduced in India to serve small businesses?",
-   "o": [
+   "question": "Which type of bank was introduced in India to serve small businesses?",
+   "options": [
     "Green Revolution",
     "Small finance bank",
     "Reverse repo rate",
     "Fourteen"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00934",
-   "q": "Which Indian city is home to the National Stock Exchange?",
-   "o": [
+   "question": "Which Indian city is home to the National Stock Exchange?",
+   "options": [
     "Atmanirbhar Bharat Abhiyan",
     "Arunachal Pradesh",
     "Mumbai",
     "Shiv Shakti Point"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00935",
-   "q": "What is the capital of Ivory Coast?",
-   "o": [
+   "question": "What is the capital of Ivory Coast?",
+   "options": [
     "Baku",
     "Berlin",
     "Yamoussoukro",
     "Sanaa"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Ivory Coast is Yamoussoukro."
+   "answer": 2,
+   "explanation": "The capital of Ivory Coast is Yamoussoukro.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00936",
-   "q": "On which date is National Science Day (India) observed?",
-   "o": [
+   "question": "On which date is National Science Day (India) observed?",
+   "options": [
     "1 June",
     "28 February",
     "2 February",
     "29 September"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "National Science Day (India) is observed on 28 February."
+   "answer": 1,
+   "explanation": "National Science Day (India) is observed on 28 February.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00937",
-   "q": "Which of the following organisations has its headquarters at New York?",
-   "o": [
+   "question": "Which of the following organisations has its headquarters at New York?",
+   "options": [
     "United Nations",
     "World Food Programme",
     "European Union",
     "Universal Postal Union"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "United Nations is headquartered at New York."
+   "answer": 0,
+   "explanation": "United Nations is headquartered at New York.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00938",
-   "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is NOT correctly matched?",
+   "options": [
     "Badminton (doubles) - 1",
     "Baseball - 9",
     "Korfball - 8",
     "Throwball - 7"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Badminton (doubles) - 1 is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Badminton (doubles) - 1 is not correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00939",
-   "q": "Which trophy or cup is associated with Football?",
-   "o": [
+   "question": "Which trophy or cup is associated with Football?",
+   "options": [
     "Copa America",
     "Champions Trophy (Cricket)",
     "Santosh Trophy",
     "All England Open"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Copa America is associated with Football."
+   "answer": 0,
+   "explanation": "Copa America is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00940",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Grammy Award - Award for brave children in India",
     "Grammy Award - American award for music",
     "Grammy Award - Indian award for social work and peace",
     "Grammy Award - Second highest military decoration of India"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Grammy Award - American award for music is correctly matched."
+   "answer": 1,
+   "explanation": "Only Grammy Award - American award for music is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00941",
-   "q": "Which of the following books was written by Kautilya?",
-   "o": [
+   "question": "Which of the following books was written by Kautilya?",
+   "options": [
     "The Jungle Book",
     "Long Walk to Freedom",
     "Arthashastra",
     "Ramayana"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Arthashastra was written by Kautilya."
+   "answer": 2,
+   "explanation": "Arthashastra was written by Kautilya.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00942",
-   "q": "Which of the following pairs of achievement and person is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is correctly matched?",
+   "options": [
     "First Winter Olympic Games were held in - Roald Amundsen",
     "First Winter Olympic Games were held in - Marie Curie",
     "First Winter Olympic Games were held in - Chamonix",
     "First Winter Olympic Games were held in - Roger Bannister"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First Winter Olympic Games were held in - Chamonix is correctly matched."
+   "answer": 2,
+   "explanation": "Only First Winter Olympic Games were held in - Chamonix is correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00943",
-   "q": "Which line divides the Earth into Northern and Southern hemispheres?",
-   "o": [
+   "question": "Which line divides the Earth into Northern and Southern hemispheres?",
+   "options": [
     "Kolkata",
     "Paris",
     "Equator",
     "Mauna Loa"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00944",
-   "q": "Which latitude passes through the middle of India?",
-   "o": [
+   "question": "Which latitude passes through the middle of India?",
+   "options": [
     "Pacific Ocean",
     "New York",
     "Tropic of Cancer",
     "Kanpur"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00945",
-   "q": "Which tax is levied on the manufacture of goods in India?",
-   "o": [
+   "question": "Which tax is levied on the manufacture of goods in India?",
+   "options": [
     "Excise duty",
     "Washington, D.C.",
     "Prime lending rate",
     "NITI Aayog"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00946",
-   "q": "Which organisation publishes the Corruption Perceptions Index?",
-   "o": [
+   "question": "Which organisation publishes the Corruption Perceptions Index?",
+   "options": [
     "Cyclone Amphan",
     "Namami Gange",
     "Transparency International",
     "Ministry of Health and Family Welfare"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00947",
-   "q": "What is the capital of Ireland?",
-   "o": [
+   "question": "What is the capital of Ireland?",
+   "options": [
     "Reykjavik",
     "Windhoek",
     "Dublin",
     "Valletta"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Ireland is Dublin."
+   "answer": 2,
+   "explanation": "The capital of Ireland is Dublin.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00948",
-   "q": "On which date is World Book Day observed?",
-   "o": [
+   "question": "On which date is World Book Day observed?",
+   "options": [
     "23 April",
     "23 March",
     "11 July",
     "14 October"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Book Day is observed on 23 April."
+   "answer": 0,
+   "explanation": "World Book Day is observed on 23 April.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00949",
-   "q": "Which of the following organisations has its headquarters at Geneva?",
-   "o": [
+   "question": "Which of the following organisations has its headquarters at Geneva?",
+   "options": [
     "International Labour Organization",
     "UN High Commissioner for Refugees",
     "SAARC",
     "UNESCO"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "UN High Commissioner for Refugees is headquartered at Geneva."
+   "answer": 1,
+   "explanation": "UN High Commissioner for Refugees is headquartered at Geneva.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00950",
-   "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is NOT correctly matched?",
+   "options": [
     "Netball - 7",
     "Korfball - 8",
     "Baseball - 15",
     "Throwball - 7"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Baseball - 15 is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Baseball - 15 is not correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00951",
-   "q": "Which trophy or cup is associated with Cricket?",
-   "o": [
+   "question": "Which trophy or cup is associated with Cricket?",
+   "options": [
     "The Ashes",
     "Aga Khan Cup",
     "Syed Mushtaq Ali Trophy",
     "Nehru Cup"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Syed Mushtaq Ali Trophy is associated with Cricket."
+   "answer": 2,
+   "explanation": "Syed Mushtaq Ali Trophy is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00952",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Academy Award (Oscar) - Award for brave children in India",
     "Academy Award (Oscar) - American award for films",
     "Academy Award (Oscar) - Alternative Nobel Prize",
     "Academy Award (Oscar) - UNESCO award for popularisation of science"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Academy Award (Oscar) - American award for films is correctly matched."
+   "answer": 1,
+   "explanation": "Only Academy Award (Oscar) - American award for films is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00953",
-   "q": "Which of the following books was written by A. P. J. Abdul Kalam?",
-   "o": [
+   "question": "Which of the following books was written by A. P. J. Abdul Kalam?",
+   "options": [
     "Wings of Fire",
     "Arthashastra",
     "The Interpretation of Dreams",
     "Panchatantra"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Wings of Fire was written by A. P. J. Abdul Kalam."
+   "answer": 0,
+   "explanation": "Wings of Fire was written by A. P. J. Abdul Kalam.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00954",
-   "q": "Which of the following pairs of achievement and person is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is correctly matched?",
+   "options": [
     "First Indian woman to win an Olympic medal - Neil Armstrong",
     "First Indian woman to win an Olympic medal - Roald Amundsen",
     "First Indian woman to win an Olympic medal - Karnam Malleswari",
     "First Indian woman to win an Olympic medal - Abhinav Bindra"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First Indian woman to win an Olympic medal - Karnam Malleswari is correctly matched."
+   "answer": 2,
+   "explanation": "Only First Indian woman to win an Olympic medal - Karnam Malleswari is correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00955",
-   "q": "Which line of longitude is at zero degrees?",
-   "o": [
+   "question": "Which line of longitude is at zero degrees?",
+   "options": [
     "Prime Meridian",
     "Volga",
     "Ahmedabad",
     "Strait of Gibraltar"
    ],
-   "a": 0,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 0,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00956",
-   "q": "Which Indian state is called the Land of Kings?",
-   "o": [
+   "question": "Which Indian state is called the Land of Kings?",
+   "options": [
     "Rajasthan",
     "Sadbhawna Shikhar",
     "Bangladesh",
     "Kanchenjunga"
    ],
-   "a": 0,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 0,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00957",
-   "q": "What is a sustained rise in the general price level called?",
-   "o": [
+   "question": "What is a sustained rise in the general price level called?",
+   "options": [
     "TRAI",
     "Inflation",
     "1991",
     "Yellow Revolution"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00958",
-   "q": "Which Indian state topped the NITI Aayog SDG India Index in recent years?",
-   "o": [
+   "question": "Which Indian state topped the NITI Aayog SDG India Index in recent years?",
+   "options": [
     "Ayushman Bharat",
     "Panchamrit Commitments",
     "Marathi",
     "Kerala"
    ],
-   "a": 3,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 3,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00959",
-   "q": "What is the capital of United Kingdom?",
-   "o": [
+   "question": "What is the capital of United Kingdom?",
+   "options": [
     "Nicosia",
     "London",
     "Riyadh",
     "Lima"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of United Kingdom is London."
+   "answer": 1,
+   "explanation": "The capital of United Kingdom is London.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00960",
-   "q": "On which date is World Environment Day observed?",
-   "o": [
+   "question": "On which date is World Environment Day observed?",
+   "options": [
     "10 February",
     "5 June",
     "15 August",
     "3 March"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Environment Day is observed on 5 June."
+   "answer": 1,
+   "explanation": "World Environment Day is observed on 5 June.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00961",
-   "q": "Which of the following organisations has its headquarters at Paris?",
-   "o": [
+   "question": "Which of the following organisations has its headquarters at Paris?",
+   "options": [
     "UNESCO",
     "National Aeronautics and Space Administration",
     "United Nations Industrial Development Organization",
     "European Space Agency"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "UNESCO is headquartered at Paris."
+   "answer": 0,
+   "explanation": "UNESCO is headquartered at Paris.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00962",
-   "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is NOT correctly matched?",
+   "options": [
     "Basketball - 5",
     "Handball - 7",
     "Table tennis (singles) - 1",
     "Polo - 2"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Polo - 2 is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Polo - 2 is not correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00963",
-   "q": "Which trophy or cup is associated with Football?",
-   "o": [
+   "question": "Which trophy or cup is associated with Football?",
+   "options": [
     "Bordoloi Trophy",
     "Swaythling Cup",
     "Ryder Cup",
     "Indian Premier League"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Bordoloi Trophy is associated with Football."
+   "answer": 0,
+   "explanation": "Bordoloi Trophy is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00964",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Academy Award (Oscar) - International award for Physics, Chemistry, Medicine, Literature, Peace and Economics",
     "Academy Award (Oscar) - Performing arts award of India",
     "Academy Award (Oscar) - Third highest military decoration of India",
     "Academy Award (Oscar) - American award for films"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Academy Award (Oscar) - American award for films is correctly matched."
+   "answer": 3,
+   "explanation": "Only Academy Award (Oscar) - American award for films is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00965",
-   "q": "Which of the following books was written by Jane Austen?",
-   "o": [
+   "question": "Which of the following books was written by Jane Austen?",
+   "options": [
     "Ramayana",
     "India Wins Freedom",
     "Pride and Prejudice",
     "Panchatantra"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Pride and Prejudice was written by Jane Austen."
+   "answer": 2,
+   "explanation": "Pride and Prejudice was written by Jane Austen.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00966",
-   "q": "Which of the following pairs of achievement and person is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is correctly matched?",
+   "options": [
     "First Indian woman to win an Olympic medal - Karnam Malleswari",
     "First Indian woman to win an Olympic medal - United States of America",
     "First Indian woman to win an Olympic medal - Abhinav Bindra",
     "First Indian woman to win an Olympic medal - Rabindranath Tagore"
    ],
-   "a": 0,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First Indian woman to win an Olympic medal - Karnam Malleswari is correctly matched."
+   "answer": 0,
+   "explanation": "Only First Indian woman to win an Olympic medal - Karnam Malleswari is correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00967",
-   "q": "Which Indian city is called the Diamond City?",
-   "o": [
+   "question": "Which Indian city is called the Diamond City?",
+   "options": [
     "Finland",
     "Surat",
     "Punjab",
     "Jammu and Kashmir"
    ],
-   "a": 1,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 1,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00968",
-   "q": "Which country is called the Land of Thunderbolts?",
-   "o": [
+   "question": "Which country is called the Land of Thunderbolts?",
+   "options": [
     "Bhutan",
     "Madhya Pradesh",
     "Mount Everest",
     "Maharashtra"
    ],
-   "a": 0,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 0,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00969",
-   "q": "Which sector employs the largest share of India's workforce?",
-   "o": [
+   "question": "Which sector employs the largest share of India's workforce?",
+   "options": [
     "1966",
     "Agriculture sector",
     "1875",
     "Yen"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00970",
-   "q": "Which joint exercise is held between India and China?",
-   "o": [
+   "question": "Which joint exercise is held between India and China?",
+   "options": [
     "Hand-in-Hand Exercise",
     "Howrah Junction",
     "Vande Bharat Express",
     "Pradhan Mantri Gram Sadak Yojana"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00971",
-   "q": "What is the capital of Estonia?",
-   "o": [
+   "question": "What is the capital of Estonia?",
+   "options": [
     "Astana",
     "Ankara",
     "Zagreb",
     "Tallinn"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Estonia is Tallinn."
+   "answer": 3,
+   "explanation": "The capital of Estonia is Tallinn.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00972",
-   "q": "On which date is Constitution Day (India) observed?",
-   "o": [
+   "question": "On which date is Constitution Day (India) observed?",
+   "options": [
     "22 December",
     "26 November",
     "14 October",
     "26 January"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "Constitution Day (India) is observed on 26 November."
+   "answer": 1,
+   "explanation": "Constitution Day (India) is observed on 26 November.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00973",
-   "q": "Which of the following organisations has its headquarters at New Delhi?",
-   "o": [
+   "question": "Which of the following organisations has its headquarters at New Delhi?",
+   "options": [
     "NATO",
     "South Asian University",
     "OECD",
     "National Aeronautics and Space Administration"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "South Asian University is headquartered at New Delhi."
+   "answer": 1,
+   "explanation": "South Asian University is headquartered at New Delhi.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00974",
-   "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is NOT correctly matched?",
+   "options": [
     "Rugby sevens - 7",
     "Rugby union - 15",
     "Hockey - 7",
     "Polo - 4"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Hockey - 7 is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Hockey - 7 is not correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00975",
-   "q": "Which trophy or cup is associated with Hockey?",
-   "o": [
+   "question": "Which trophy or cup is associated with Hockey?",
+   "options": [
     "Swaythling Cup",
     "Nehru Cup",
     "Beighton Cup",
     "Sultan Azlan Shah Cup"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Sultan Azlan Shah Cup is associated with Hockey."
+   "answer": 3,
+   "explanation": "Sultan Azlan Shah Cup is associated with Hockey.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00976",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Kalinga Prize - UNESCO award for popularisation of science",
     "Kalinga Prize - American award for journalism and letters",
     "Kalinga Prize - Coaching excellence in Indian sports",
     "Kalinga Prize - Indian literary award"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kalinga Prize - UNESCO award for popularisation of science is correctly matched."
+   "answer": 0,
+   "explanation": "Only Kalinga Prize - UNESCO award for popularisation of science is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00977",
-   "q": "Which of the following books was written by Rabindranath Tagore?",
-   "o": [
+   "question": "Which of the following books was written by Rabindranath Tagore?",
+   "options": [
     "Oliver Twist",
     "The Iliad",
     "Long Walk to Freedom",
     "Gitanjali"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Gitanjali was written by Rabindranath Tagore."
+   "answer": 3,
+   "explanation": "Gitanjali was written by Rabindranath Tagore.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00978",
-   "q": "Which of the following pairs of achievement and person is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is correctly matched?",
+   "options": [
     "First person to win two Nobel Prizes - Soviet Union",
     "First person to win two Nobel Prizes - Marie Curie",
     "First person to win two Nobel Prizes - Greece",
     "First person to win two Nobel Prizes - England"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First person to win two Nobel Prizes - Marie Curie is correctly matched."
+   "answer": 1,
+   "explanation": "Only First person to win two Nobel Prizes - Marie Curie is correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00979",
-   "q": "Which Indian state has the longest land border with another country?",
-   "o": [
+   "question": "Which Indian state has the longest land border with another country?",
+   "options": [
     "Jamshedpur",
     "Andhra Pradesh",
     "Rajasthan",
     "West Bengal"
    ],
-   "a": 3,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 3,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00980",
-   "q": "Where is the Leaning Tower of Pisa located?",
-   "o": [
+   "question": "Where is the Leaning Tower of Pisa located?",
+   "options": [
     "Italy",
     "China",
     "Punjab",
     "Brazil"
    ],
-   "a": 0,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 0,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00981",
-   "q": "What is the rate at which the RBI lends to commercial banks called?",
-   "o": [
+   "question": "What is the rate at which the RBI lends to commercial banks called?",
+   "options": [
     "Pradhan Mantri Mudra Yojana",
     "Silver Revolution",
     "Repo rate",
     "People's Bank of China"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00982",
-   "q": "Which mission aims to provide piped drinking water to every rural household?",
-   "o": [
+   "question": "Which mission aims to provide piped drinking water to every rural household?",
+   "options": [
     "Uttar Pradesh",
     "Tiger",
     "Jal Jeevan Mission",
     "2000"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00983",
-   "q": "What is the capital of Norway?",
-   "o": [
+   "question": "What is the capital of Norway?",
+   "options": [
     "Harare",
     "Madrid",
     "Hanoi",
     "Oslo"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Norway is Oslo."
+   "answer": 3,
+   "explanation": "The capital of Norway is Oslo.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00984",
-   "q": "On which date is Independence Day (USA) observed?",
-   "o": [
+   "question": "On which date is Independence Day (USA) observed?",
+   "options": [
     "30 November",
     "26 November",
     "4 July",
     "18 April"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "Independence Day (USA) is observed on 4 July."
+   "answer": 2,
+   "explanation": "Independence Day (USA) is observed on 4 July.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00985",
-   "q": "Which of the following organisations has its headquarters at Lausanne?",
-   "o": [
+   "question": "Which of the following organisations has its headquarters at Lausanne?",
+   "options": [
     "Amnesty International",
     "International Olympic Committee",
     "Food and Agriculture Organization",
     "Universal Postal Union"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "International Olympic Committee is headquartered at Lausanne."
+   "answer": 1,
+   "explanation": "International Olympic Committee is headquartered at Lausanne.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00986",
-   "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is NOT correctly matched?",
+   "options": [
     "Korfball - 11",
     "Throwball - 7",
     "Badminton (doubles) - 2",
     "Rugby union - 15"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Korfball - 11 is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Korfball - 11 is not correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00987",
-   "q": "Which trophy or cup is associated with Cricket?",
-   "o": [
+   "question": "Which trophy or cup is associated with Cricket?",
+   "options": [
     "World Test Championship",
     "World Cup (Cricket)",
     "Vijay Hazare Trophy",
     "FIFA World Cup"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Vijay Hazare Trophy is associated with Cricket."
+   "answer": 2,
+   "explanation": "Vijay Hazare Trophy is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00988",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Kalinga Prize - Literary award for Indian languages",
     "Kalinga Prize - Highest military decoration of India",
     "Kalinga Prize - UNESCO award for popularisation of science",
     "Kalinga Prize - Awards for Indian cinema"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kalinga Prize - UNESCO award for popularisation of science is correctly matched."
+   "answer": 2,
+   "explanation": "Only Kalinga Prize - UNESCO award for popularisation of science is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00989",
-   "q": "Which of the following books was written by Valmiki?",
-   "o": [
+   "question": "Which of the following books was written by Valmiki?",
+   "options": [
     "Ramayana",
     "The Race of My Life",
     "Paradise Lost",
     "India 2020"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Ramayana was written by Valmiki."
+   "answer": 0,
+   "explanation": "Ramayana was written by Valmiki.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00990",
-   "q": "Which of the following pairs of achievement and person is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is correctly matched?",
+   "options": [
     "First person to win two Nobel Prizes - Marie Curie",
     "First person to win two Nobel Prizes - Karnam Malleswari",
     "First person to win two Nobel Prizes - United States of America",
     "First person to win two Nobel Prizes - Soviet Union"
    ],
-   "a": 0,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First person to win two Nobel Prizes - Marie Curie is correctly matched."
+   "answer": 0,
+   "explanation": "Only First person to win two Nobel Prizes - Marie Curie is correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00991",
-   "q": "Which Indian city is called the Garden City?",
-   "o": [
+   "question": "Which Indian city is called the Garden City?",
+   "options": [
     "Bengaluru",
     "Varanasi",
     "Beijing",
     "Japan"
    ],
-   "a": 0,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 0,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00992",
-   "q": "Which Indian city is called the Diamond City?",
-   "o": [
+   "question": "Which Indian city is called the Diamond City?",
+   "options": [
     "Surat",
     "Jordan",
     "Nepal",
     "Sahara Desert"
    ],
-   "a": 0,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 0,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00993",
-   "q": "Which Five Year Plan focused on the Green Revolution?",
-   "o": [
+   "question": "Which Five Year Plan focused on the Green Revolution?",
+   "options": [
     "Fourth Five Year Plan",
     "Statutory Liquidity Ratio",
     "Reverse repo rate",
     "ICAR"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00994",
-   "q": "Which is India's first nuclear-powered ballistic missile submarine?",
-   "o": [
+   "question": "Which is India's first nuclear-powered ballistic missile submarine?",
+   "options": [
     "Swachh Bharat Abhiyan",
     "England",
     "INS Arihant",
     "Rajasthan"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00995",
-   "q": "What is the capital of Senegal?",
-   "o": [
+   "question": "What is the capital of Senegal?",
+   "options": [
     "Tirana",
     "Dakar",
     "Jakarta",
     "Seoul"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Senegal is Dakar."
+   "answer": 1,
+   "explanation": "The capital of Senegal is Dakar.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00996",
-   "q": "On which date is National Girl Child Day (India) observed?",
-   "o": [
+   "question": "On which date is National Girl Child Day (India) observed?",
+   "options": [
     "fourth Sunday of September",
     "24 January",
     "15 August",
     "third Thursday of November"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "National Girl Child Day (India) is observed on 24 January."
+   "answer": 1,
+   "explanation": "National Girl Child Day (India) is observed on 24 January.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00997",
-   "q": "Which of the following organisations has its headquarters at Geneva?",
-   "o": [
+   "question": "Which of the following organisations has its headquarters at Geneva?",
+   "options": [
     "South Asian University",
     "International Committee of the Red Cross",
     "European Space Agency",
     "World Bank"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "International Committee of the Red Cross is headquartered at Geneva."
+   "answer": 1,
+   "explanation": "International Committee of the Red Cross is headquartered at Geneva.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00998",
-   "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is NOT correctly matched?",
+   "options": [
     "Ice hockey - 6",
     "Throwball - 6",
     "Polo - 4",
     "Volleyball - 6"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Throwball - 6 is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Throwball - 6 is not correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-00999",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Nehru Cup - Cricket",
     "Nehru Cup - Hockey",
     "Nehru Cup - Football",
     "Nehru Cup - Tennis"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nehru Cup - Football is correctly matched."
+   "answer": 2,
+   "explanation": "Only Nehru Cup - Football is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-knowledge-01000",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Borlaug Award - Indian award for social work and peace",
     "Borlaug Award - Second highest civilian award of India",
     "Borlaug Award - Alternative Nobel Prize",
     "Borlaug Award - Indian award in agricultural science"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Borlaug Award - Indian award in agricultural science is correctly matched."
+   "answer": 3,
+   "explanation": "Only Borlaug Award - Indian award in agricultural science is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   }
  ]
 };

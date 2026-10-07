@@ -16,4203 +16,4203 @@
  "questions": [
   {
    "id": "general-awareness-00001",
-   "q": "Who is the Supreme Commander of the Indian Armed Forces?",
-   "o": [
+   "question": "Who is the Supreme Commander of the Indian Armed Forces?",
+   "options": [
     "Prime Minister",
     "President",
     "Defence Minister",
     "Chief of Army Staff"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The President of India is the Supreme Commander of the armed forces."
+   "answer": 1,
+   "explanation": "The President of India is the Supreme Commander of the armed forces.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "general-awareness-00002",
-   "q": "Which is the highest civilian award of India?",
-   "o": [
+   "question": "Which is the highest civilian award of India?",
+   "options": [
     "Padma Shri",
     "Bharat Ratna",
     "Padma Bhushan",
     "Param Vir Chakra"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Bharat Ratna is the highest civilian award of India."
+   "answer": 1,
+   "explanation": "Bharat Ratna is the highest civilian award of India.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "general-awareness-00003",
-   "q": "The headquarters of the Indian Army is located at:",
-   "o": [
+   "question": "The headquarters of the Indian Army is located at:",
+   "options": [
     "Mumbai",
     "New Delhi",
     "Pune",
     "Kolkata"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The Indian Army headquarters is in New Delhi."
+   "answer": 1,
+   "explanation": "The Indian Army headquarters is in New Delhi.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "general-awareness-00004",
-   "q": "Which is the highest military decoration of India?",
-   "o": [
+   "question": "Which is the highest military decoration of India?",
+   "options": [
     "Ashoka Chakra",
     "Param Vir Chakra",
     "Vir Chakra",
     "Kirti Chakra"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The Param Vir Chakra is India's highest wartime gallantry award."
+   "answer": 1,
+   "explanation": "The Param Vir Chakra is India's highest wartime gallantry award.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "general-awareness-00005",
-   "q": "The Reserve Bank of India was established in:",
-   "o": [
+   "question": "The Reserve Bank of India was established in:",
+   "options": [
     "1925",
     "1935",
     "1947",
     "1949"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The RBI was established in 1935 and nationalised in 1949."
+   "answer": 1,
+   "explanation": "The RBI was established in 1935 and nationalised in 1949.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "general-awareness-00006",
-   "q": "Which institution is the apex bank of India?",
-   "o": [
+   "question": "Which institution is the apex bank of India?",
+   "options": [
     "State Bank of India",
     "Reserve Bank of India",
     "NABARD",
     "SIDBI"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The Reserve Bank of India is the central bank of the country."
+   "answer": 1,
+   "explanation": "The Reserve Bank of India is the central bank of the country.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "general-awareness-00007",
-   "q": "The National Anthem of India was written by:",
-   "o": [
+   "question": "The National Anthem of India was written by:",
+   "options": [
     "Bankim Chandra Chatterjee",
     "Rabindranath Tagore",
     "Sarojini Naidu",
     "Subramania Bharati"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Jana Gana Mana was composed by Rabindranath Tagore."
+   "answer": 1,
+   "explanation": "Jana Gana Mana was composed by Rabindranath Tagore.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "general-awareness-00008",
-   "q": "Vande Mataram was composed by:",
-   "o": [
+   "question": "Vande Mataram was composed by:",
+   "options": [
     "Rabindranath Tagore",
     "Bankim Chandra Chatterjee",
     "Muhammad Iqbal",
     "Sarojini Naidu"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Vande Mataram was written by Bankim Chandra Chatterjee."
+   "answer": 1,
+   "explanation": "Vande Mataram was written by Bankim Chandra Chatterjee.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "general-awareness-00009",
-   "q": "Which is the national animal of India?",
-   "o": [
+   "question": "Which is the national animal of India?",
+   "options": [
     "Lion",
     "Elephant",
     "Bengal Tiger",
     "Peacock"
    ],
-   "a": 2,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The Bengal Tiger is the national animal of India."
+   "answer": 2,
+   "explanation": "The Bengal Tiger is the national animal of India.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "general-awareness-00010",
-   "q": "Which is the national bird of India?",
-   "o": [
+   "question": "Which is the national bird of India?",
+   "options": [
     "Parrot",
     "Peacock",
     "Eagle",
     "Swan"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The Indian Peacock is the national bird."
+   "answer": 1,
+   "explanation": "The Indian Peacock is the national bird.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "general-awareness-00011",
-   "q": "Which is the national flower of India?",
-   "o": [
+   "question": "Which is the national flower of India?",
+   "options": [
     "Rose",
     "Lotus",
     "Sunflower",
     "Marigold"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The Lotus is the national flower of India."
+   "answer": 1,
+   "explanation": "The Lotus is the national flower of India.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "general-awareness-00012",
-   "q": "Who is known as the Missile Man of India?",
-   "o": [
+   "question": "Who is known as the Missile Man of India?",
+   "options": [
     "Homi Bhabha",
     "Vikram Sarabhai",
     "A. P. J. Abdul Kalam",
     "C. V. Raman"
    ],
-   "a": 2,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Dr. A. P. J. Abdul Kalam led India's missile programmes."
+   "answer": 2,
+   "explanation": "Dr. A. P. J. Abdul Kalam led India's missile programmes.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "general-awareness-00013",
-   "q": "Who is known as the father of the Indian space programme?",
-   "o": [
+   "question": "Who is known as the father of the Indian space programme?",
+   "options": [
     "Vikram Sarabhai",
     "Homi Bhabha",
     "Satish Dhawan",
     "A. P. J. Abdul Kalam"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Vikram Sarabhai is regarded as the father of the Indian space programme."
+   "answer": 0,
+   "explanation": "Vikram Sarabhai is regarded as the father of the Indian space programme.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "general-awareness-00014",
-   "q": "The Indian Space Research Organisation is headquartered at:",
-   "o": [
+   "question": "The Indian Space Research Organisation is headquartered at:",
+   "options": [
     "Hyderabad",
     "Bengaluru",
     "Thiruvananthapuram",
     "Ahmedabad"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "ISRO is headquartered in Bengaluru."
+   "answer": 1,
+   "explanation": "ISRO is headquartered in Bengaluru.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "general-awareness-00015",
-   "q": "India's first satellite was named:",
-   "o": [
+   "question": "India's first satellite was named:",
+   "options": [
     "Bhaskara",
     "Rohini",
     "Aryabhata",
     "INSAT-1A"
    ],
-   "a": 2,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Aryabhata, launched in 1975, was India's first satellite."
+   "answer": 2,
+   "explanation": "Aryabhata, launched in 1975, was India's first satellite.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "general-awareness-00016",
-   "q": "Which is the highest peacetime gallantry award of India?",
-   "o": [
+   "question": "Which is the highest peacetime gallantry award of India?",
+   "options": [
     "Param Vir Chakra",
     "Ashoka Chakra",
     "Shaurya Chakra",
     "Maha Vir Chakra"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The Ashoka Chakra is the highest peacetime gallantry award."
+   "answer": 1,
+   "explanation": "The Ashoka Chakra is the highest peacetime gallantry award.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "general-awareness-00017",
-   "q": "The National Defence Academy is located at:",
-   "o": [
+   "question": "The National Defence Academy is located at:",
+   "options": [
     "Dehradun",
     "Khadakwasla",
     "Wellington",
     "Chennai"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The NDA is at Khadakwasla near Pune."
+   "answer": 1,
+   "explanation": "The NDA is at Khadakwasla near Pune.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "general-awareness-00018",
-   "q": "Which force is known as the 'Fourth Arm' of the Indian military?",
-   "o": [
+   "question": "Which force is known as the 'Fourth Arm' of the Indian military?",
+   "options": [
     "Coast Guard",
     "CRPF",
     "Border Security Force",
     "Assam Rifles"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "The Indian Coast Guard is often described as the fourth armed force."
+   "answer": 0,
+   "explanation": "The Indian Coast Guard is often described as the fourth armed force.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "general-awareness-00019",
-   "q": "Which day is celebrated as Kargil Vijay Diwas?",
-   "o": [
+   "question": "Which day is celebrated as Kargil Vijay Diwas?",
+   "options": [
     "26 July",
     "15 August",
     "26 January",
     "16 December"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Kargil Vijay Diwas is observed on 26 July every year."
+   "answer": 0,
+   "explanation": "Kargil Vijay Diwas is observed on 26 July every year.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "general-awareness-00020",
-   "q": "Which is the largest paramilitary force in the world?",
-   "o": [
+   "question": "Which is the largest paramilitary force in the world?",
+   "options": [
     "Indian Army",
     "Central Reserve Police Force",
     "Border Security Force",
     "ITBP"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "The CRPF is the largest paramilitary force in the world."
+   "answer": 1,
+   "explanation": "The CRPF is the largest paramilitary force in the world.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "general-awareness-00021",
-   "q": "Who was the first woman to become the President of India?",
-   "o": [
+   "question": "Who was the first woman to become the President of India?",
+   "options": [
     "Indira Gandhi",
     "Pratibha Patil",
     "Sarojini Naidu",
     "Droupadi Murmu"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Pratibha Patil served as President from 2007 to 2012."
+   "answer": 1,
+   "explanation": "Pratibha Patil served as President from 2007 to 2012.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "general-awareness-00022",
-   "q": "Which Indian state has the largest number of Lok Sabha seats?",
-   "o": [
+   "question": "Which Indian state has the largest number of Lok Sabha seats?",
+   "options": [
     "Maharashtra",
     "Uttar Pradesh",
     "Bihar",
     "West Bengal"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Uttar Pradesh has the largest number of Lok Sabha seats."
+   "answer": 1,
+   "explanation": "Uttar Pradesh has the largest number of Lok Sabha seats.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "general-awareness-00023",
-   "q": "What is the capital of Gujarat?",
-   "o": [
+   "question": "What is the capital of Gujarat?",
+   "options": [
     "Bhopal",
     "Gandhinagar",
     "Itanagar",
     "Agartala"
    ],
-   "a": 1,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Gujarat is Gandhinagar."
+   "answer": 1,
+   "explanation": "The capital of Gujarat is Gandhinagar.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00024",
-   "q": "Which of the following is the National Calendar of India?",
-   "o": [
+   "question": "Which of the following is the National Calendar of India?",
+   "options": [
     "Saka Calendar",
     "Ganga",
     "Banyan",
     "Indian Rupee"
    ],
-   "a": 0,
-   "t": "National Symbols",
-   "l": 1,
-   "s": "generated",
-   "e": "The National Calendar of India is Saka Calendar."
+   "answer": 0,
+   "explanation": "The National Calendar of India is Saka Calendar.",
+   "topic": "National Symbols",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00025",
-   "q": "First Indian woman IPS officer is associated with which of the following?",
-   "o": [
+   "question": "First Indian woman IPS officer is associated with which of the following?",
+   "options": [
     "Aryabhata",
     "Lord Mountbatten",
     "Kiran Bedi",
     "Dr. Rajendra Prasad"
    ],
-   "a": 2,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian woman IPS officer — Kiran Bedi."
+   "answer": 2,
+   "explanation": "First Indian woman IPS officer — Kiran Bedi.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00026",
-   "q": "Jayaprakash Narayan is known by which of the following titles or descriptions?",
-   "o": [
+   "question": "Jayaprakash Narayan is known by which of the following titles or descriptions?",
+   "options": [
     "First Education Minister of India",
     "Revolutionary executed with Bhagat Singh",
     "Leader of the 1974-77 movement",
     "Father of the Nation"
    ],
-   "a": 2,
-   "t": "Freedom Fighters",
-   "l": 2,
-   "s": "generated",
-   "e": "Jayaprakash Narayan — Leader of the 1974-77 movement."
+   "answer": 2,
+   "explanation": "Jayaprakash Narayan — Leader of the 1974-77 movement.",
+   "topic": "Freedom Fighters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00027",
-   "q": "NITI Aayog Vice Chairman is best described as which of the following?",
-   "o": [
+   "question": "NITI Aayog Vice Chairman is best described as which of the following?",
+   "options": [
     "Administered by the President through administrators",
     "Protects human rights in India",
     "Deputy to the Prime Minister in the policy think tank",
     "Constitutional head of the Republic"
    ],
-   "a": 2,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "NITI Aayog Vice Chairman — Deputy to the Prime Minister in the policy think tank."
+   "answer": 2,
+   "explanation": "NITI Aayog Vice Chairman — Deputy to the Prime Minister in the policy think tank.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00028",
-   "q": "What is GDP plus net factor income from abroad called?",
-   "o": [
+   "question": "What is GDP plus net factor income from abroad called?",
+   "options": [
     "State Bank of India",
     "ICAR",
     "Gross National Product",
     "1995"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00029",
-   "q": "Which Indian captain led the team to the 2011 Cricket World Cup win?",
-   "o": [
+   "question": "Which Indian captain led the team to the 2011 Cricket World Cup win?",
+   "options": [
     "M. S. Dhoni",
     "2023",
     "Make in India textile sector",
     "Sriharikota"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00030",
-   "q": "The scheme Pradhan Mantri Ujjwala Yojana was launched with which objective?",
-   "o": [
+   "question": "The scheme Pradhan Mantri Ujjwala Yojana was launched with which objective?",
+   "options": [
     "Free LPG connections to women from poor households",
     "Day care facilities for working mothers",
     "Self-reliant India initiative",
     "Improving nutrition among children and women"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Pradhan Mantri Ujjwala Yojana — Free LPG connections to women from poor households."
+   "answer": 0,
+   "explanation": "Pradhan Mantri Ujjwala Yojana — Free LPG connections to women from poor households.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00031",
-   "q": "What is the full form of SAI?",
-   "o": [
+   "question": "What is the full form of SAI?",
+   "options": [
     "Launch Vehicle Mark 3",
     "Indian Military Academy",
     "Closed Circuit Television",
     "Sports Authority of India"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "SAI stands for Sports Authority of India."
+   "answer": 3,
+   "explanation": "SAI stands for Sports Authority of India.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00032",
-   "q": "What is the main purpose of the Kigali Amendment?",
-   "o": [
+   "question": "What is the main purpose of the Kigali Amendment?",
+   "options": [
     "Conservation and wise use of wetlands",
     "Control of international trade in endangered species",
     "Elimination of persistent organic pollutants",
     "Phase down of hydrofluorocarbons"
    ],
-   "a": 3,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Kigali Amendment — Phase down of hydrofluorocarbons."
+   "answer": 3,
+   "explanation": "Kigali Amendment — Phase down of hydrofluorocarbons.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00033",
-   "q": "What is the capital of Himachal Pradesh?",
-   "o": [
+   "question": "What is the capital of Himachal Pradesh?",
+   "options": [
     "Shimla",
     "Jaipur",
     "Agartala",
     "Chandigarh"
    ],
-   "a": 0,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Himachal Pradesh is Shimla."
+   "answer": 0,
+   "explanation": "The capital of Himachal Pradesh is Shimla.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00034",
-   "q": "Which of the following is the National Emblem of India?",
-   "o": [
+   "question": "Which of the following is the National Emblem of India?",
+   "options": [
     "Banyan",
     "Bengal Tiger",
     "Vande Mataram",
     "Lion Capital of Ashoka"
    ],
-   "a": 3,
-   "t": "National Symbols",
-   "l": 1,
-   "s": "generated",
-   "e": "The National Emblem of India is Lion Capital of Ashoka."
+   "answer": 3,
+   "explanation": "The National Emblem of India is Lion Capital of Ashoka.",
+   "topic": "National Symbols",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00035",
-   "q": "First Indian satellite launched is associated with which of the following?",
-   "o": [
+   "question": "First Indian satellite launched is associated with which of the following?",
+   "options": [
     "Kalpana Chawla",
     "Aryabhata",
     "Indira Gandhi",
     "Abhinav Bindra"
    ],
-   "a": 1,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian satellite launched — Aryabhata."
+   "answer": 1,
+   "explanation": "First Indian satellite launched — Aryabhata.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00036",
-   "q": "Maulana Abul Kalam Azad is known by which of the following titles or descriptions?",
-   "o": [
+   "question": "Maulana Abul Kalam Azad is known by which of the following titles or descriptions?",
+   "options": [
     "Chief architect of the Indian Constitution",
     "First Education Minister of India",
     "Punjab Kesari",
     "General of the Revolt of 1857"
    ],
-   "a": 1,
-   "t": "Freedom Fighters",
-   "l": 2,
-   "s": "generated",
-   "e": "Maulana Abul Kalam Azad — First Education Minister of India."
+   "answer": 1,
+   "explanation": "Maulana Abul Kalam Azad — First Education Minister of India.",
+   "topic": "Freedom Fighters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00037",
-   "q": "Union Territories is best described as which of the following?",
-   "o": [
+   "question": "Union Territories is best described as which of the following?",
+   "options": [
     "Recruits civil servants for the Union",
     "Administered by the President through administrators",
     "Aids and advises the President",
     "Head of the Indian judiciary"
    ],
-   "a": 1,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Union Territories — Administered by the President through administrators."
+   "answer": 1,
+   "explanation": "Union Territories — Administered by the President through administrators.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00038",
-   "q": "Which tax is levied on the import of goods?",
-   "o": [
+   "question": "Which tax is levied on the import of goods?",
+   "options": [
     "IRDAI",
     "Customs duty",
     "Goods and Services Tax",
     "Insolvency and Bankruptcy Code, 2016"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00039",
-   "q": "Which scheme provides digital documents to citizens?",
-   "o": [
+   "question": "Which scheme provides digital documents to citizens?",
+   "options": [
     "DigiLocker",
     "Mudra Yojana",
     "Varuna Exercise",
     "India"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00040",
-   "q": "The scheme Pradhan Mantri Awas Yojana was launched with which objective?",
-   "o": [
+   "question": "The scheme Pradhan Mantri Awas Yojana was launched with which objective?",
+   "options": [
     "Cleaning and conservation of the Ganga",
     "Support to traditional artisans and craftspeople",
     "Housing for all",
     "Building a semiconductor ecosystem in India"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Pradhan Mantri Awas Yojana — Housing for all."
+   "answer": 2,
+   "explanation": "Pradhan Mantri Awas Yojana — Housing for all.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00041",
-   "q": "What is the full form of PIN?",
-   "o": [
+   "question": "What is the full form of PIN?",
+   "options": [
     "Corporate Social Responsibility",
     "Staff Selection Commission",
     "Personal Identification Number",
     "Regional Rural Bank"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "PIN stands for Personal Identification Number."
+   "answer": 2,
+   "explanation": "PIN stands for Personal Identification Number.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00042",
-   "q": "What is the main purpose of the International Solar Alliance?",
-   "o": [
+   "question": "What is the main purpose of the International Solar Alliance?",
+   "options": [
     "Control of mercury emissions",
     "Cooperation on solar energy",
     "Phase down of hydrofluorocarbons",
     "Limiting global temperature rise to well below two degrees Celsius"
    ],
-   "a": 1,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "International Solar Alliance — Cooperation on solar energy."
+   "answer": 1,
+   "explanation": "International Solar Alliance — Cooperation on solar energy.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00043",
-   "q": "What is the capital of Bihar?",
-   "o": [
+   "question": "What is the capital of Bihar?",
+   "options": [
     "Chandigarh",
     "Patna",
     "Imphal",
     "Panaji"
    ],
-   "a": 1,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Bihar is Patna."
+   "answer": 1,
+   "explanation": "The capital of Bihar is Patna.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00044",
-   "q": "Which of the following is the National Bird of India?",
-   "o": [
+   "question": "Which of the following is the National Bird of India?",
+   "options": [
     "Banyan",
     "Saka Calendar",
     "Lion Capital of Ashoka",
     "Indian Peacock"
    ],
-   "a": 3,
-   "t": "National Symbols",
-   "l": 1,
-   "s": "generated",
-   "e": "The National Bird of India is Indian Peacock."
+   "answer": 3,
+   "explanation": "The National Bird of India is Indian Peacock.",
+   "topic": "National Symbols",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00045",
-   "q": "First woman to win a Nobel Prize in India is associated with which of the following?",
-   "o": [
+   "question": "First woman to win a Nobel Prize in India is associated with which of the following?",
+   "options": [
     "Pratibha Patil",
     "Mother Teresa",
     "Dr. Rajendra Prasad",
     "Pokhran"
    ],
-   "a": 1,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First woman to win a Nobel Prize in India — Mother Teresa."
+   "answer": 1,
+   "explanation": "First woman to win a Nobel Prize in India — Mother Teresa.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00046",
-   "q": "Jawaharlal Nehru is known by which of the following titles or descriptions?",
-   "o": [
+   "question": "Jawaharlal Nehru is known by which of the following titles or descriptions?",
+   "options": [
     "Nightingale of India",
     "First Prime Minister of India",
     "Father of the Nation",
     "Last Governor-General of India"
    ],
-   "a": 1,
-   "t": "Freedom Fighters",
-   "l": 2,
-   "s": "generated",
-   "e": "Jawaharlal Nehru — First Prime Minister of India."
+   "answer": 1,
+   "explanation": "Jawaharlal Nehru — First Prime Minister of India.",
+   "topic": "Freedom Fighters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00047",
-   "q": "Election Commission of India is best described as which of the following?",
-   "o": [
+   "question": "Election Commission of India is best described as which of the following?",
+   "options": [
     "Union legislature consisting of the President and two Houses",
     "Supervises elections to Parliament and State legislatures",
     "Constitutional head of the Republic",
     "House of the People"
    ],
-   "a": 1,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Election Commission of India — Supervises elections to Parliament and State legislatures."
+   "answer": 1,
+   "explanation": "Election Commission of India — Supervises elections to Parliament and State legislatures.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00048",
-   "q": "What is the currency symbol of India?",
-   "o": [
+   "question": "What is the currency symbol of India?",
+   "options": [
     "GST",
     "Article 280",
     "Washington, D.C.",
     "Rupee symbol"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00049",
-   "q": "Which international initiative on millets was led by India at the UN?",
-   "o": [
+   "question": "Which international initiative on millets was led by India at the UN?",
+   "options": [
     "International Year of Millets 2023",
     "Australia",
     "Major economies of the world",
     "New Delhi"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00050",
-   "q": "The scheme Beti Bachao Beti Padhao was launched with which objective?",
-   "o": [
+   "question": "The scheme Beti Bachao Beti Padhao was launched with which objective?",
+   "options": [
     "Welfare and education of the girl child",
     "Upgraded health and wellness centres",
     "Rooftop solar power for households",
     "Development of tribal villages"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Beti Bachao Beti Padhao — Welfare and education of the girl child."
+   "answer": 0,
+   "explanation": "Beti Bachao Beti Padhao — Welfare and education of the girl child.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00051",
-   "q": "What is the full form of DC?",
-   "o": [
+   "question": "What is the full form of DC?",
+   "options": [
     "Gross Domestic Product",
     "Direct Current",
     "Indian Space Research Organisation",
     "Border Security Force"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "DC stands for Direct Current."
+   "answer": 1,
+   "explanation": "DC stands for Direct Current.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00052",
-   "q": "What is the main purpose of the Global Tiger Initiative?",
-   "o": [
+   "question": "What is the main purpose of the Global Tiger Initiative?",
+   "options": [
     "Control of mercury emissions",
     "Conservation of wild tigers",
     "Conservation and wise use of wetlands",
     "Elimination of persistent organic pollutants"
    ],
-   "a": 1,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Global Tiger Initiative — Conservation of wild tigers."
+   "answer": 1,
+   "explanation": "Global Tiger Initiative — Conservation of wild tigers.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00053",
-   "q": "What is the capital of Tripura?",
-   "o": [
+   "question": "What is the capital of Tripura?",
+   "options": [
     "Agartala",
     "Panaji",
     "Jaipur",
     "Dispur"
    ],
-   "a": 0,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Tripura is Agartala."
+   "answer": 0,
+   "explanation": "The capital of Tripura is Agartala.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00054",
-   "q": "Which of the following is the National Reptile of India?",
-   "o": [
+   "question": "Which of the following is the National Reptile of India?",
+   "options": [
     "Ganga",
     "Indian Peacock",
     "Vande Mataram",
     "King Cobra"
    ],
-   "a": 3,
-   "t": "National Symbols",
-   "l": 1,
-   "s": "generated",
-   "e": "The National Reptile of India is King Cobra."
+   "answer": 3,
+   "explanation": "The National Reptile of India is King Cobra.",
+   "topic": "National Symbols",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00055",
-   "q": "First Indian to climb Mount Everest is associated with which of the following?",
-   "o": [
+   "question": "First Indian to climb Mount Everest is associated with which of the following?",
+   "options": [
     "Sushmita Sen",
     "Tenzing Norgay",
     "Rakesh Sharma",
     "Mihir Sen"
    ],
-   "a": 1,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian to climb Mount Everest — Tenzing Norgay."
+   "answer": 1,
+   "explanation": "First Indian to climb Mount Everest — Tenzing Norgay.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00056",
-   "q": "Bhagat Singh is known by which of the following titles or descriptions?",
-   "o": [
+   "question": "Bhagat Singh is known by which of the following titles or descriptions?",
+   "options": [
     "Founder of the Indian Independence League in Japan",
     "Revolutionary executed in 1931",
     "Iron Man of India",
     "Author of Vande Mataram"
    ],
-   "a": 1,
-   "t": "Freedom Fighters",
-   "l": 2,
-   "s": "generated",
-   "e": "Bhagat Singh — Revolutionary executed in 1931."
+   "answer": 1,
+   "explanation": "Bhagat Singh — Revolutionary executed in 1931.",
+   "topic": "Freedom Fighters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00057",
-   "q": "Finance Commission is best described as which of the following?",
-   "o": [
+   "question": "Finance Commission is best described as which of the following?",
+   "options": [
     "Regulator of telecommunications",
     "Recommends distribution of taxes between the Centre and States",
     "Audits government accounts",
     "Regulator of the securities market"
    ],
-   "a": 1,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Finance Commission — Recommends distribution of taxes between the Centre and States."
+   "answer": 1,
+   "explanation": "Finance Commission — Recommends distribution of taxes between the Centre and States.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00058",
-   "q": "What is the rate at which the RBI lends money to banks for the long term called?",
-   "o": [
+   "question": "What is the rate at which the RBI lends money to banks for the long term called?",
+   "options": [
     "Income inequality",
     "EXIM Bank",
     "Bank rate",
     "Oligopoly"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00059",
-   "q": "Which scheme aims to provide credit to street vendors?",
-   "o": [
+   "question": "Which scheme aims to provide credit to street vendors?",
+   "options": [
     "PM SVANidhi",
     "World Bank",
     "Maharashtra",
     "Malabar Exercise"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00060",
-   "q": "The scheme Pradhan Mantri Garib Kalyan Anna Yojana was launched with which objective?",
-   "o": [
+   "question": "The scheme Pradhan Mantri Garib Kalyan Anna Yojana was launched with which objective?",
+   "options": [
     "Financial inclusion through zero balance bank accounts",
     "Free food grains to the poor",
     "Portable food entitlements across states",
     "Incentives to boost manufacturing across sectors"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Pradhan Mantri Garib Kalyan Anna Yojana — Free food grains to the poor."
+   "answer": 1,
+   "explanation": "Pradhan Mantri Garib Kalyan Anna Yojana — Free food grains to the poor.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00061",
-   "q": "What is the full form of SEZ?",
-   "o": [
+   "question": "What is the full form of SEZ?",
+   "options": [
     "Special Economic Zone",
     "Digital Infrastructure for Knowledge Sharing",
     "Geostationary Earth Orbit",
     "Subscriber Identity Module"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "SEZ stands for Special Economic Zone."
+   "answer": 0,
+   "explanation": "SEZ stands for Special Economic Zone.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00062",
-   "q": "What is the main purpose of the Ramsar Convention?",
-   "o": [
+   "question": "What is the main purpose of the Ramsar Convention?",
+   "options": [
     "Reduction of greenhouse gas emissions by developed countries",
     "Protection of the ozone layer",
     "Conservation and wise use of wetlands",
     "Restoring degraded ecosystems"
    ],
-   "a": 2,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Ramsar Convention — Conservation and wise use of wetlands."
+   "answer": 2,
+   "explanation": "Ramsar Convention — Conservation and wise use of wetlands.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00063",
-   "q": "What is the capital of Andhra Pradesh?",
-   "o": [
+   "question": "What is the capital of Andhra Pradesh?",
+   "options": [
     "Chennai",
     "Jaipur",
     "Patna",
     "Amaravati"
    ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Andhra Pradesh is Amaravati."
+   "answer": 3,
+   "explanation": "The capital of Andhra Pradesh is Amaravati.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00064",
-   "q": "Which of the following is the National Fruit of India?",
-   "o": [
+   "question": "Which of the following is the National Fruit of India?",
+   "options": [
     "Vande Mataram",
     "Mango",
     "Saka Calendar",
     "Jana Gana Mana"
    ],
-   "a": 1,
-   "t": "National Symbols",
-   "l": 1,
-   "s": "generated",
-   "e": "The National Fruit of India is Mango."
+   "answer": 1,
+   "explanation": "The National Fruit of India is Mango.",
+   "topic": "National Symbols",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00065",
-   "q": "First Indian to win the Miss World title is associated with which of the following?",
-   "o": [
+   "question": "First Indian to win the Miss World title is associated with which of the following?",
+   "options": [
     "Reita Faria",
     "Jawaharlal Nehru",
     "Tenzing Norgay",
     "Mahesh Bhupathi"
    ],
-   "a": 0,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian to win the Miss World title — Reita Faria."
+   "answer": 0,
+   "explanation": "First Indian to win the Miss World title — Reita Faria.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00066",
-   "q": "Bhagat Singh is known by which of the following titles or descriptions?",
-   "o": [
+   "question": "Bhagat Singh is known by which of the following titles or descriptions?",
+   "options": [
     "Founder-member of the HSRA",
     "Netaji, leader of the INA",
     "Revolutionary executed in 1931",
     "Leader of the Revolt at Kanpur"
    ],
-   "a": 0,
-   "t": "Freedom Fighters",
-   "l": 2,
-   "s": "generated",
-   "e": "Bhagat Singh — Founder-member of the HSRA."
+   "answer": 0,
+   "explanation": "Bhagat Singh — Founder-member of the HSRA.",
+   "topic": "Freedom Fighters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00067",
-   "q": "IRDAI is best described as which of the following?",
-   "o": [
+   "question": "IRDAI is best described as which of the following?",
+   "options": [
     "Regulator of the insurance sector",
     "Ex-officio Chairman of the Rajya Sabha",
     "Recommends distribution of taxes between the Centre and States",
     "Constitutional head of a State"
    ],
-   "a": 0,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "IRDAI — Regulator of the insurance sector."
+   "answer": 0,
+   "explanation": "IRDAI — Regulator of the insurance sector.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00068",
-   "q": "What does LPG stand for in the context of economic reforms?",
-   "o": [
+   "question": "What does LPG stand for in the context of economic reforms?",
+   "options": [
     "Bank of Hindustan",
     "Adam Smith",
     "Liberalisation, Privatisation and Globalisation",
     "Green Revolution"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00069",
-   "q": "Which country hosted the ICC Cricket World Cup 2023?",
-   "o": [
+   "question": "Which country hosted the ICC Cricket World Cup 2023?",
+   "options": [
     "Madhya Pradesh",
     "Indra Exercise",
     "Agni-V",
     "India"
    ],
-   "a": 3,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 3,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00070",
-   "q": "The scheme Poshan Abhiyaan was launched with which objective?",
-   "o": [
+   "question": "The scheme Poshan Abhiyaan was launched with which objective?",
+   "options": [
     "Improving nutrition among children and women",
     "Portable food entitlements across states",
     "Extension of free LPG connections to migrant families",
     "Self-reliance in oilseed production"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Poshan Abhiyaan — Improving nutrition among children and women."
+   "answer": 0,
+   "explanation": "Poshan Abhiyaan — Improving nutrition among children and women.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00071",
-   "q": "What is the full form of PDS?",
-   "o": [
+   "question": "What is the full form of PDS?",
+   "options": [
     "Human Immunodeficiency Virus",
     "Public Distribution System",
     "International Telecommunication Union",
     "Goods and Services Tax"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "PDS stands for Public Distribution System."
+   "answer": 1,
+   "explanation": "PDS stands for Public Distribution System.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00072",
-   "q": "What is the main purpose of the UN Decade on Ecosystem Restoration?",
-   "o": [
+   "question": "What is the main purpose of the UN Decade on Ecosystem Restoration?",
+   "options": [
     "Elimination of persistent organic pollutants",
     "Restoring degraded ecosystems",
     "Conservation and wise use of wetlands",
     "Control of international trade in endangered species"
    ],
-   "a": 1,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "UN Decade on Ecosystem Restoration — Restoring degraded ecosystems."
+   "answer": 1,
+   "explanation": "UN Decade on Ecosystem Restoration — Restoring degraded ecosystems.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00073",
-   "q": "What is the capital of Jharkhand?",
-   "o": [
+   "question": "What is the capital of Jharkhand?",
+   "options": [
     "Chennai",
     "Ranchi",
     "Patna",
     "Kohima"
    ],
-   "a": 1,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Jharkhand is Ranchi."
+   "answer": 1,
+   "explanation": "The capital of Jharkhand is Ranchi.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00074",
-   "q": "Which of the following is the National Tree of India?",
-   "o": [
+   "question": "Which of the following is the National Tree of India?",
+   "options": [
     "King Cobra",
     "Mango",
     "Lotus",
     "Banyan"
    ],
-   "a": 3,
-   "t": "National Symbols",
-   "l": 1,
-   "s": "generated",
-   "e": "The National Tree of India is Banyan."
+   "answer": 3,
+   "explanation": "The National Tree of India is Banyan.",
+   "topic": "National Symbols",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00075",
-   "q": "First President of India is associated with which of the following?",
-   "o": [
+   "question": "First President of India is associated with which of the following?",
+   "options": [
     "Sushmita Sen",
     "Dr. Rajendra Prasad",
     "Karnam Malleswari",
     "Tenzing Norgay"
    ],
-   "a": 1,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First President of India — Dr. Rajendra Prasad."
+   "answer": 1,
+   "explanation": "First President of India — Dr. Rajendra Prasad.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00076",
-   "q": "Mahatma Gandhi is known by which of the following titles or descriptions?",
-   "o": [
+   "question": "Mahatma Gandhi is known by which of the following titles or descriptions?",
+   "options": [
     "Founder of the Indian Independence League in Japan",
     "Father of the Nation",
     "Leader of the Revolt in Awadh",
     "Revolutionary executed in 1931"
    ],
-   "a": 1,
-   "t": "Freedom Fighters",
-   "l": 2,
-   "s": "generated",
-   "e": "Mahatma Gandhi — Father of the Nation."
+   "answer": 1,
+   "explanation": "Mahatma Gandhi — Father of the Nation.",
+   "topic": "Freedom Fighters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00077",
-   "q": "President of India is best described as which of the following?",
-   "o": [
+   "question": "President of India is best described as which of the following?",
+   "options": [
     "Regulator of telecommunications",
     "Constitutional head of the Republic",
     "Head of the State Government",
     "Recommends distribution of taxes between the Centre and States"
    ],
-   "a": 1,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "President of India — Constitutional head of the Republic."
+   "answer": 1,
+   "explanation": "President of India — Constitutional head of the Republic.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00078",
-   "q": "What is the transfer of ownership from government to private hands called?",
-   "o": [
+   "question": "What is the transfer of ownership from government to private hands called?",
+   "options": [
     "Privatisation",
     "Atal Pension Yojana",
     "Kelkar Committee",
     "Reverse repo rate"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00079",
-   "q": "Which high-speed rail project is being built in India with Japanese assistance?",
-   "o": [
+   "question": "Which high-speed rail project is being built in India with Japanese assistance?",
+   "options": [
     "2019",
     "Mumbai-Ahmedabad High Speed Rail",
     "Major economies of the world",
     "France"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00080",
-   "q": "The scheme Skill India Mission was launched with which objective?",
-   "o": [
+   "question": "The scheme Skill India Mission was launched with which objective?",
+   "options": [
     "Skill development and employability of youth",
     "Emergency relief during the COVID-19 pandemic",
     "Pension for workers in the unorganised sector",
     "Universal immunisation of children"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Skill India Mission — Skill development and employability of youth."
+   "answer": 0,
+   "explanation": "Skill India Mission — Skill development and employability of youth.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00081",
-   "q": "What is the full form of AWACS?",
-   "o": [
+   "question": "What is the full form of AWACS?",
+   "options": [
     "Airborne Warning and Control System",
     "Mahatma Gandhi National Rural Employment Guarantee Scheme",
     "United Nations Educational, Scientific and Cultural Organization",
     "Study Webs of Active Learning for Young Aspiring Minds"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "AWACS stands for Airborne Warning and Control System."
+   "answer": 0,
+   "explanation": "AWACS stands for Airborne Warning and Control System.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00082",
-   "q": "What is the main purpose of the Convention on Biological Diversity?",
-   "o": [
+   "question": "What is the main purpose of the Convention on Biological Diversity?",
+   "options": [
     "Control of transboundary movement of hazardous waste",
     "Cooperation on solar energy",
     "Conservation and wise use of wetlands",
     "Conservation of biological diversity"
    ],
-   "a": 3,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Convention on Biological Diversity — Conservation of biological diversity."
+   "answer": 3,
+   "explanation": "Convention on Biological Diversity — Conservation of biological diversity.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00083",
-   "q": "What is the capital of Meghalaya?",
-   "o": [
+   "question": "What is the capital of Meghalaya?",
+   "options": [
     "Itanagar",
     "Shillong",
     "Ranchi",
     "Lucknow"
    ],
-   "a": 1,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Meghalaya is Shillong."
+   "answer": 1,
+   "explanation": "The capital of Meghalaya is Shillong.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00084",
-   "q": "Which of the following is the National Aquatic Animal of India?",
-   "o": [
+   "question": "Which of the following is the National Aquatic Animal of India?",
+   "options": [
     "Indian Rupee",
     "Ganges River Dolphin",
     "Jana Gana Mana",
     "Ganga"
    ],
-   "a": 1,
-   "t": "National Symbols",
-   "l": 1,
-   "s": "generated",
-   "e": "The National Aquatic Animal of India is Ganges River Dolphin."
+   "answer": 1,
+   "explanation": "The National Aquatic Animal of India is Ganges River Dolphin.",
+   "topic": "National Symbols",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00085",
-   "q": "First Indian to win a Grand Slam in tennis is associated with which of the following?",
-   "o": [
+   "question": "First Indian to win a Grand Slam in tennis is associated with which of the following?",
+   "options": [
     "Sushmita Sen",
     "Mahesh Bhupathi",
     "Rabindranath Tagore",
     "Sucheta Kripalani"
    ],
-   "a": 1,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian to win a Grand Slam in tennis — Mahesh Bhupathi."
+   "answer": 1,
+   "explanation": "First Indian to win a Grand Slam in tennis — Mahesh Bhupathi.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00086",
-   "q": "Nana Saheb is known by which of the following titles or descriptions?",
-   "o": [
+   "question": "Nana Saheb is known by which of the following titles or descriptions?",
+   "options": [
     "Founder of the Indian Independence League in Japan",
     "Leader of the Revolt at Kanpur",
     "Grand Old Man of India",
     "Founder of the Home Rule League with Tilak"
    ],
-   "a": 1,
-   "t": "Freedom Fighters",
-   "l": 2,
-   "s": "generated",
-   "e": "Nana Saheb — Leader of the Revolt at Kanpur."
+   "answer": 1,
+   "explanation": "Nana Saheb — Leader of the Revolt at Kanpur.",
+   "topic": "Freedom Fighters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00087",
-   "q": "Governor is best described as which of the following?",
-   "o": [
+   "question": "Governor is best described as which of the following?",
+   "options": [
     "Regulator of telecommunications",
     "Constitutional head of a State",
     "Apex judicial body of India",
     "Local self-government at the village level"
    ],
-   "a": 1,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Governor — Constitutional head of a State."
+   "answer": 1,
+   "explanation": "Governor — Constitutional head of a State.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00088",
-   "q": "Which is the currency of Japan?",
-   "o": [
+   "question": "Which is the currency of Japan?",
+   "options": [
     "1944",
     "Bank rate",
     "Yen",
     "Deflation"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00089",
-   "q": "Which Indian Air Force fighter jet is indigenous?",
-   "o": [
+   "question": "Which Indian Air Force fighter jet is indigenous?",
+   "options": [
     "Sachin Tendulkar",
     "CoWIN",
     "Aspirational Districts Programme",
     "Tejas"
    ],
-   "a": 3,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 3,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00090",
-   "q": "The scheme Pradhan Mantri Matru Vandana Yojana was launched with which objective?",
-   "o": [
+   "question": "The scheme Pradhan Mantri Matru Vandana Yojana was launched with which objective?",
+   "options": [
     "Reform of school and higher education in India",
     "Cash incentive for pregnant and lactating mothers",
     "Income support of six thousand rupees to small farmers",
     "Skill development and employability of youth"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Pradhan Mantri Matru Vandana Yojana — Cash incentive for pregnant and lactating mothers."
+   "answer": 1,
+   "explanation": "Pradhan Mantri Matru Vandana Yojana — Cash incentive for pregnant and lactating mothers.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00091",
-   "q": "What is the full form of MSME?",
-   "o": [
+   "question": "What is the full form of MSME?",
+   "options": [
     "National Council of Educational Research and Training",
     "Computed Tomography",
     "Food Corporation of India",
     "Micro, Small and Medium Enterprises"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "MSME stands for Micro, Small and Medium Enterprises."
+   "answer": 3,
+   "explanation": "MSME stands for Micro, Small and Medium Enterprises.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00092",
-   "q": "What is the main purpose of the Sendai Framework?",
-   "o": [
+   "question": "What is the main purpose of the Sendai Framework?",
+   "options": [
     "Seventeen goals for people and planet by 2030",
     "Disaster risk reduction",
     "Limiting global temperature rise to well below two degrees Celsius",
     "Biosafety of living modified organisms"
    ],
-   "a": 1,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Sendai Framework — Disaster risk reduction."
+   "answer": 1,
+   "explanation": "Sendai Framework — Disaster risk reduction.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00093",
-   "q": "What is the capital of Madhya Pradesh?",
-   "o": [
+   "question": "What is the capital of Madhya Pradesh?",
+   "options": [
     "Bhopal",
     "Chandigarh",
     "Lucknow",
     "Imphal"
    ],
-   "a": 0,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Madhya Pradesh is Bhopal."
+   "answer": 0,
+   "explanation": "The capital of Madhya Pradesh is Bhopal.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00094",
-   "q": "Which of the following is the National Anthem of India?",
-   "o": [
+   "question": "Which of the following is the National Anthem of India?",
+   "options": [
     "Ganga",
     "Saka Calendar",
     "Jana Gana Mana",
     "Lotus"
    ],
-   "a": 2,
-   "t": "National Symbols",
-   "l": 1,
-   "s": "generated",
-   "e": "The National Anthem of India is Jana Gana Mana."
+   "answer": 2,
+   "explanation": "The National Anthem of India is Jana Gana Mana.",
+   "topic": "National Symbols",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00095",
-   "q": "First Indian to win a Nobel Prize is associated with which of the following?",
-   "o": [
+   "question": "First Indian to win a Nobel Prize is associated with which of the following?",
+   "options": [
     "Indira Gandhi",
     "Mother Teresa",
     "Bachendri Pal",
     "Rabindranath Tagore"
    ],
-   "a": 3,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian to win a Nobel Prize — Rabindranath Tagore."
+   "answer": 3,
+   "explanation": "First Indian to win a Nobel Prize — Rabindranath Tagore.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00096",
-   "q": "Dadabhai Naoroji is known by which of the following titles or descriptions?",
-   "o": [
+   "question": "Dadabhai Naoroji is known by which of the following titles or descriptions?",
+   "options": [
     "Punjab Kesari",
     "First Prime Minister of India",
     "Revolutionary who died at Alfred Park",
     "Grand Old Man of India"
    ],
-   "a": 3,
-   "t": "Freedom Fighters",
-   "l": 2,
-   "s": "generated",
-   "e": "Dadabhai Naoroji — Grand Old Man of India."
+   "answer": 3,
+   "explanation": "Dadabhai Naoroji — Grand Old Man of India.",
+   "topic": "Freedom Fighters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00097",
-   "q": "Supreme Court of India is best described as which of the following?",
-   "o": [
+   "question": "Supreme Court of India is best described as which of the following?",
+   "options": [
     "Aids and advises the President",
     "Supervises elections to Parliament and State legislatures",
     "Policy think tank of the Government of India",
     "Apex judicial body of India"
    ],
-   "a": 3,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Supreme Court of India — Apex judicial body of India."
+   "answer": 3,
+   "explanation": "Supreme Court of India — Apex judicial body of India.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00098",
-   "q": "Which organ of the World Bank provides loans to the poorest countries?",
-   "o": [
+   "question": "Which organ of the World Bank provides loans to the poorest countries?",
+   "options": [
     "International Development Association",
     "Balance of trade",
     "SEBI",
     "Special Drawing Rights"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00099",
-   "q": "Which country jointly developed the BrahMos missile with India?",
-   "o": [
+   "question": "Which country jointly developed the BrahMos missile with India?",
+   "options": [
     "Swachh Bharat Abhiyan",
     "Russia",
     "NITI Aayog",
     "National Dairy Development Programme"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00100",
-   "q": "The scheme Pradhan Mantri Krishi Sinchayee Yojana was launched with which objective?",
-   "o": [
+   "question": "The scheme Pradhan Mantri Krishi Sinchayee Yojana was launched with which objective?",
+   "options": [
     "Crop insurance for farmers",
     "Rapid transformation of backward districts",
     "Working capital loans for street vendors",
     "Irrigation coverage and water use efficiency"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Pradhan Mantri Krishi Sinchayee Yojana — Irrigation coverage and water use efficiency."
+   "answer": 3,
+   "explanation": "Pradhan Mantri Krishi Sinchayee Yojana — Irrigation coverage and water use efficiency.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00101",
-   "q": "What is the full form of IIT?",
-   "o": [
+   "question": "What is the full form of IIT?",
+   "options": [
     "Personal Identification Number",
     "Geosynchronous Satellite Launch Vehicle",
     "Indian Institute of Technology",
     "National Institution for Transforming India"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "IIT stands for Indian Institute of Technology."
+   "answer": 2,
+   "explanation": "IIT stands for Indian Institute of Technology.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00102",
-   "q": "What is the main purpose of the Vienna Convention?",
-   "o": [
+   "question": "What is the main purpose of the Vienna Convention?",
+   "options": [
     "Control of mercury emissions",
     "Protection of the ozone layer",
     "Control of transboundary movement of hazardous waste",
     "Seventeen goals for people and planet by 2030"
    ],
-   "a": 1,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Vienna Convention — Protection of the ozone layer."
+   "answer": 1,
+   "explanation": "Vienna Convention — Protection of the ozone layer.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00103",
-   "q": "What is the capital of Chhattisgarh?",
-   "o": [
+   "question": "What is the capital of Chhattisgarh?",
+   "options": [
     "Bengaluru",
     "Panaji",
     "Patna",
     "Raipur"
    ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Chhattisgarh is Raipur."
+   "answer": 3,
+   "explanation": "The capital of Chhattisgarh is Raipur.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00104",
-   "q": "Which of the following is the National Song of India?",
-   "o": [
+   "question": "Which of the following is the National Song of India?",
+   "options": [
     "Vande Mataram",
     "Bengal Tiger",
     "Saka Calendar",
     "Indian Elephant"
    ],
-   "a": 0,
-   "t": "National Symbols",
-   "l": 1,
-   "s": "generated",
-   "e": "The National Song of India is Vande Mataram."
+   "answer": 0,
+   "explanation": "The National Song of India is Vande Mataram.",
+   "topic": "National Symbols",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00105",
-   "q": "First Indian to receive the Bharat Ratna is associated with which of the following?",
-   "o": [
+   "question": "First Indian to receive the Bharat Ratna is associated with which of the following?",
+   "options": [
     "C. Rajagopalachari",
     "Tenzing Norgay",
     "G. V. Mavalankar",
     "Justice Fathima Beevi"
    ],
-   "a": 0,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian to receive the Bharat Ratna — C. Rajagopalachari."
+   "answer": 0,
+   "explanation": "First Indian to receive the Bharat Ratna — C. Rajagopalachari.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00106",
-   "q": "Kunwar Singh is known by which of the following titles or descriptions?",
-   "o": [
+   "question": "Kunwar Singh is known by which of the following titles or descriptions?",
+   "options": [
     "Leader of the Revolt in Bihar",
     "Revolutionary executed in 1931",
     "Queen who fought at Jhansi in 1857",
     "Author of the national anthem of India"
    ],
-   "a": 0,
-   "t": "Freedom Fighters",
-   "l": 2,
-   "s": "generated",
-   "e": "Kunwar Singh — Leader of the Revolt in Bihar."
+   "answer": 0,
+   "explanation": "Kunwar Singh — Leader of the Revolt in Bihar.",
+   "topic": "Freedom Fighters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00107",
-   "q": "State Legislature is best described as which of the following?",
-   "o": [
+   "question": "State Legislature is best described as which of the following?",
+   "options": [
     "Law-making body of a State",
     "Recommends distribution of taxes between the Centre and States",
     "Second highest law officer of the Union",
     "Central bank and monetary authority"
    ],
-   "a": 0,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "State Legislature — Law-making body of a State."
+   "answer": 0,
+   "explanation": "State Legislature — Law-making body of a State.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00108",
-   "q": "Which conference established the IMF and the World Bank?",
-   "o": [
+   "question": "Which conference established the IMF and the World Bank?",
+   "options": [
     "Urjit Patel Committee",
     "Bretton Woods Conference",
     "Article 280",
     "Amartya Sen"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00109",
-   "q": "Which year was declared the International Year of Millets?",
-   "o": [
+   "question": "Which year was declared the International Year of Millets?",
+   "options": [
     "Sikkim",
     "India",
     "2023",
     "Rajasthan"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00110",
-   "q": "The scheme e-NAM was launched with which objective?",
-   "o": [
+   "question": "The scheme e-NAM was launched with which objective?",
+   "options": [
     "Free food grains to the poor",
     "Subsidised food grains to two-thirds of the population",
     "Online national agriculture market for farmers",
     "Development of fisheries and aquaculture"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "e-NAM — Online national agriculture market for farmers."
+   "answer": 2,
+   "explanation": "e-NAM — Online national agriculture market for farmers.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00111",
-   "q": "What is the full form of ILO?",
-   "o": [
+   "question": "What is the full form of ILO?",
+   "options": [
     "Special Economic Zone",
     "International Labour Organization",
     "Closed Circuit Television",
     "International Cricket Council"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "ILO stands for International Labour Organization."
+   "answer": 1,
+   "explanation": "ILO stands for International Labour Organization.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00112",
-   "q": "What is the main purpose of the Ramsar Montreux Record?",
-   "o": [
+   "question": "What is the main purpose of the Ramsar Montreux Record?",
+   "options": [
     "Restoring degraded ecosystems",
     "Conservation of wild tigers",
     "Disaster risk reduction",
     "Wetlands facing ecological change"
    ],
-   "a": 3,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Ramsar Montreux Record — Wetlands facing ecological change."
+   "answer": 3,
+   "explanation": "Ramsar Montreux Record — Wetlands facing ecological change.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00113",
-   "q": "What is the capital of Arunachal Pradesh?",
-   "o": [
+   "question": "What is the capital of Arunachal Pradesh?",
+   "options": [
     "Aizawl",
     "Amaravati",
     "Itanagar",
     "Bengaluru"
    ],
-   "a": 2,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Arunachal Pradesh is Itanagar."
+   "answer": 2,
+   "explanation": "The capital of Arunachal Pradesh is Itanagar.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00114",
-   "q": "Which of the following is the National Heritage Animal of India?",
-   "o": [
+   "question": "Which of the following is the National Heritage Animal of India?",
+   "options": [
     "Ganges River Dolphin",
     "Vande Mataram",
     "Banyan",
     "Indian Elephant"
    ],
-   "a": 3,
-   "t": "National Symbols",
-   "l": 1,
-   "s": "generated",
-   "e": "The National Heritage Animal of India is Indian Elephant."
+   "answer": 3,
+   "explanation": "The National Heritage Animal of India is Indian Elephant.",
+   "topic": "National Symbols",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00115",
-   "q": "First Indian Governor-General of India is associated with which of the following?",
-   "o": [
+   "question": "First Indian Governor-General of India is associated with which of the following?",
+   "options": [
     "Rakesh Sharma",
     "C. Rajagopalachari",
     "Mahesh Bhupathi",
     "Sushmita Sen"
    ],
-   "a": 1,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian Governor-General of India — C. Rajagopalachari."
+   "answer": 1,
+   "explanation": "First Indian Governor-General of India — C. Rajagopalachari.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00116",
-   "q": "Sukhdev is known by which of the following titles or descriptions?",
-   "o": [
+   "question": "Sukhdev is known by which of the following titles or descriptions?",
+   "options": [
     "Iron Man of India",
     "Revolutionary executed with Bhagat Singh",
     "Leader of the Revolt at Kanpur",
     "Founder of the Indian Independence League in Japan"
    ],
-   "a": 1,
-   "t": "Freedom Fighters",
-   "l": 2,
-   "s": "generated",
-   "e": "Sukhdev — Revolutionary executed with Bhagat Singh."
+   "answer": 1,
+   "explanation": "Sukhdev — Revolutionary executed with Bhagat Singh.",
+   "topic": "Freedom Fighters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00117",
-   "q": "Central Vigilance Commission is best described as which of the following?",
-   "o": [
+   "question": "Central Vigilance Commission is best described as which of the following?",
+   "options": [
     "Audits government accounts",
     "Watches over vigilance in government",
     "Constitutional head of a State",
     "Regulator of telecommunications"
    ],
-   "a": 1,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Central Vigilance Commission — Watches over vigilance in government."
+   "answer": 1,
+   "explanation": "Central Vigilance Commission — Watches over vigilance in government.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00118",
-   "q": "Which Five Year Plan is known as the Gadgil Yojana?",
-   "o": [
+   "question": "Which Five Year Plan is known as the Gadgil Yojana?",
+   "options": [
     "Special Drawing Rights",
     "Narasimham Committee",
     "Contingency Fund",
     "Third Five Year Plan"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00119",
-   "q": "Which mission of ISRO reached Mars orbit in 2014?",
-   "o": [
+   "question": "Which mission of ISRO reached Mars orbit in 2014?",
+   "options": [
     "Production Linked Incentive Scheme",
     "Sriharikota",
     "Rajasthan",
     "Mars Orbiter Mission"
    ],
-   "a": 3,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 3,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00120",
-   "q": "The scheme Ayushman Bharat Digital Mission was launched with which objective?",
-   "o": [
+   "question": "The scheme Ayushman Bharat Digital Mission was launched with which objective?",
+   "options": [
     "Self-reliance in edible oil production",
     "Building a semiconductor ecosystem in India",
     "Digital health records and health infrastructure",
     "Sustainable and citizen friendly urban development"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Ayushman Bharat Digital Mission — Digital health records and health infrastructure."
+   "answer": 2,
+   "explanation": "Ayushman Bharat Digital Mission — Digital health records and health infrastructure.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00121",
-   "q": "What is the full form of JAM?",
-   "o": [
+   "question": "What is the full form of JAM?",
+   "options": [
     "Immediate Payment Service",
     "Central Statistics Office",
     "United Nations Development Programme",
     "Jan Dhan, Aadhaar and Mobile"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "JAM stands for Jan Dhan, Aadhaar and Mobile."
+   "answer": 3,
+   "explanation": "JAM stands for Jan Dhan, Aadhaar and Mobile.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00122",
-   "q": "What is the main purpose of the Paris Agreement?",
-   "o": [
+   "question": "What is the main purpose of the Paris Agreement?",
+   "options": [
     "Limiting global temperature rise to well below two degrees Celsius",
     "Access and benefit sharing of genetic resources",
     "Control of international trade in endangered species",
     "Cooperation on solar energy"
    ],
-   "a": 0,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Paris Agreement — Limiting global temperature rise to well below two degrees Celsius."
+   "answer": 0,
+   "explanation": "Paris Agreement — Limiting global temperature rise to well below two degrees Celsius.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00123",
-   "q": "What is the capital of Uttarakhand?",
-   "o": [
+   "question": "What is the capital of Uttarakhand?",
+   "options": [
     "Patna",
     "Ranchi",
     "Dehradun",
     "Bhopal"
    ],
-   "a": 2,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Uttarakhand is Dehradun."
+   "answer": 2,
+   "explanation": "The capital of Uttarakhand is Dehradun.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00124",
-   "q": "Which of the following is the National Currency of India?",
-   "o": [
+   "question": "Which of the following is the National Currency of India?",
+   "options": [
     "Mango",
     "Indian Rupee",
     "King Cobra",
     "Ganga"
    ],
-   "a": 1,
-   "t": "National Symbols",
-   "l": 1,
-   "s": "generated",
-   "e": "The National Currency of India is Indian Rupee."
+   "answer": 1,
+   "explanation": "The National Currency of India is Indian Rupee.",
+   "topic": "National Symbols",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00125",
-   "q": "First Vice President of India is associated with which of the following?",
-   "o": [
+   "question": "First Vice President of India is associated with which of the following?",
+   "options": [
     "Reita Faria",
     "Dr. S. Radhakrishnan",
     "Rakesh Sharma",
     "Mihir Sen"
    ],
-   "a": 1,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Vice President of India — Dr. S. Radhakrishnan."
+   "answer": 1,
+   "explanation": "First Vice President of India — Dr. S. Radhakrishnan.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00126",
-   "q": "Bal Gangadhar Tilak is known by which of the following titles or descriptions?",
-   "o": [
+   "question": "Bal Gangadhar Tilak is known by which of the following titles or descriptions?",
+   "options": [
     "Founder-member of the HSRA",
     "Lokamanya",
     "Iron Man of India",
     "Author of Vande Mataram"
    ],
-   "a": 1,
-   "t": "Freedom Fighters",
-   "l": 2,
-   "s": "generated",
-   "e": "Bal Gangadhar Tilak — Lokamanya."
+   "answer": 1,
+   "explanation": "Bal Gangadhar Tilak — Lokamanya.",
+   "topic": "Freedom Fighters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00127",
-   "q": "Prime Minister of India is best described as which of the following?",
-   "o": [
+   "question": "Prime Minister of India is best described as which of the following?",
+   "options": [
     "Regulator of the insurance sector",
     "Head of the Union Government",
     "Audits government accounts",
     "Regulator of the securities market"
    ],
-   "a": 1,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Prime Minister of India — Head of the Union Government."
+   "answer": 1,
+   "explanation": "Prime Minister of India — Head of the Union Government.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00128",
-   "q": "How many banks were nationalised in India in 1980?",
-   "o": [
+   "question": "How many banks were nationalised in India in 1980?",
+   "options": [
     "Six",
     "Pound Sterling",
     "Regressive tax",
     "New Development Bank"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00129",
-   "q": "Which group of nations does the G20 represent?",
-   "o": [
+   "question": "Which group of nations does the G20 represent?",
+   "options": [
     "IndiaAI Mission",
     "Sachin Tendulkar",
     "Major economies of the world",
     "Australia"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00130",
-   "q": "The scheme PM Gati Shakti was launched with which objective?",
-   "o": [
+   "question": "The scheme PM Gati Shakti was launched with which objective?",
+   "options": [
     "Crop insurance for farmers",
     "Irrigation coverage and water use efficiency",
     "Free food grains to the poor",
     "Integrated infrastructure planning platform"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "PM Gati Shakti — Integrated infrastructure planning platform."
+   "answer": 3,
+   "explanation": "PM Gati Shakti — Integrated infrastructure planning platform.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00131",
-   "q": "What is the full form of PPP?",
-   "o": [
+   "question": "What is the full form of PPP?",
+   "options": [
     "Public Private Partnership",
     "Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest",
     "Deoxyribonucleic Acid",
     "Bombay Stock Exchange"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "PPP stands for Public Private Partnership."
+   "answer": 0,
+   "explanation": "PPP stands for Public Private Partnership.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00132",
-   "q": "What is the main purpose of the Montreal Protocol?",
-   "o": [
+   "question": "What is the main purpose of the Montreal Protocol?",
+   "options": [
     "Protection of the ozone layer",
     "Wetlands facing ecological change",
     "Phasing out ozone depleting substances",
     "Reduction of greenhouse gas emissions by developed countries"
    ],
-   "a": 2,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Montreal Protocol — Phasing out ozone depleting substances."
+   "answer": 2,
+   "explanation": "Montreal Protocol — Phasing out ozone depleting substances.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00133",
-   "q": "What is the capital of Nagaland?",
-   "o": [
+   "question": "What is the capital of Nagaland?",
+   "options": [
     "Aizawl",
     "Kohima",
     "Gangtok",
     "Kolkata"
    ],
-   "a": 1,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Nagaland is Kohima."
+   "answer": 1,
+   "explanation": "The capital of Nagaland is Kohima.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00134",
-   "q": "Which of the following is the National Flower of India?",
-   "o": [
+   "question": "Which of the following is the National Flower of India?",
+   "options": [
     "Bengal Tiger",
     "Saka Calendar",
     "Lotus",
     "Jana Gana Mana"
    ],
-   "a": 2,
-   "t": "National Symbols",
-   "l": 1,
-   "s": "generated",
-   "e": "The National Flower of India is Lotus."
+   "answer": 2,
+   "explanation": "The National Flower of India is Lotus.",
+   "topic": "National Symbols",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00135",
-   "q": "First Indian to swim across the English Channel is associated with which of the following?",
-   "o": [
+   "question": "First Indian to swim across the English Channel is associated with which of the following?",
+   "options": [
     "Sushmita Sen",
     "Dr. Rajendra Prasad",
     "Mihir Sen",
     "Abhinav Bindra"
    ],
-   "a": 2,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian to swim across the English Channel — Mihir Sen."
+   "answer": 2,
+   "explanation": "First Indian to swim across the English Channel — Mihir Sen.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00136",
-   "q": "Bankim Chandra Chatterjee is known by which of the following titles or descriptions?",
-   "o": [
+   "question": "Bankim Chandra Chatterjee is known by which of the following titles or descriptions?",
+   "options": [
     "Founder of the Indian Independence League in Japan",
     "Father of the Nation",
     "Author of Vande Mataram",
     "General of the Revolt of 1857"
    ],
-   "a": 2,
-   "t": "Freedom Fighters",
-   "l": 2,
-   "s": "generated",
-   "e": "Bankim Chandra Chatterjee — Author of Vande Mataram."
+   "answer": 2,
+   "explanation": "Bankim Chandra Chatterjee — Author of Vande Mataram.",
+   "topic": "Freedom Fighters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00137",
-   "q": "SEBI is best described as which of the following?",
-   "o": [
+   "question": "SEBI is best described as which of the following?",
+   "options": [
     "Regulator of telecommunications",
     "Constitutional head of the Republic",
     "Regulator of the securities market",
     "Head of the Indian judiciary"
    ],
-   "a": 2,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "SEBI — Regulator of the securities market."
+   "answer": 2,
+   "explanation": "SEBI — Regulator of the securities market.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00138",
-   "q": "Which scheme provides loans to micro-enterprises in India?",
-   "o": [
+   "question": "Which scheme provides loans to micro-enterprises in India?",
+   "options": [
     "Bank of India",
     "Reserve Bank of India",
     "Pradhan Mantri Mudra Yojana",
     "1966"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00139",
-   "q": "Which platform is used for online pension services in India?",
-   "o": [
+   "question": "Which platform is used for online pension services in India?",
+   "options": [
     "Sikkim",
     "Bhavishya",
     "Tamil Nadu",
     "National Green Hydrogen Mission"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00140",
-   "q": "The scheme Golden Revolution was launched with which objective?",
-   "o": [
+   "question": "The scheme Golden Revolution was launched with which objective?",
+   "options": [
     "Development of fisheries and aquaculture",
     "Income support of six thousand rupees to small farmers",
     "Digital delivery of services and digital literacy",
     "Development of horticulture"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Golden Revolution — Development of horticulture."
+   "answer": 3,
+   "explanation": "Golden Revolution — Development of horticulture.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00141",
-   "q": "What is the full form of GEO?",
-   "o": [
+   "question": "What is the full form of GEO?",
+   "options": [
     "National Company Law Tribunal",
     "Geostationary Earth Orbit",
     "National Service Scheme",
     "Minimum Support Price"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "GEO stands for Geostationary Earth Orbit."
+   "answer": 1,
+   "explanation": "GEO stands for Geostationary Earth Orbit.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00142",
-   "q": "What is the main purpose of the Minamata Convention?",
-   "o": [
+   "question": "What is the main purpose of the Minamata Convention?",
+   "options": [
     "Seventeen goals for people and planet by 2030",
     "Control of mercury emissions",
     "Cooperation on solar energy",
     "Framework for climate action"
    ],
-   "a": 1,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Minamata Convention — Control of mercury emissions."
+   "answer": 1,
+   "explanation": "Minamata Convention — Control of mercury emissions.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00143",
-   "q": "What is the capital of Manipur?",
-   "o": [
+   "question": "What is the capital of Manipur?",
+   "options": [
     "Raipur",
     "Imphal",
     "Amaravati",
     "Dispur"
    ],
-   "a": 1,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Manipur is Imphal."
+   "answer": 1,
+   "explanation": "The capital of Manipur is Imphal.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00144",
-   "q": "Which of the following is the National Animal of India?",
-   "o": [
+   "question": "Which of the following is the National Animal of India?",
+   "options": [
     "Saka Calendar",
     "Lion Capital of Ashoka",
     "Indian Peacock",
     "Bengal Tiger"
    ],
-   "a": 3,
-   "t": "National Symbols",
-   "l": 1,
-   "s": "generated",
-   "e": "The National Animal of India is Bengal Tiger."
+   "answer": 3,
+   "explanation": "The National Animal of India is Bengal Tiger.",
+   "topic": "National Symbols",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00145",
-   "q": "First Chief Justice of India is associated with which of the following?",
-   "o": [
+   "question": "First Chief Justice of India is associated with which of the following?",
+   "options": [
     "Abhinav Bindra",
     "Jawaharlal Nehru",
     "Pokhran",
     "H. J. Kania"
    ],
-   "a": 3,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Chief Justice of India — H. J. Kania."
+   "answer": 3,
+   "explanation": "First Chief Justice of India — H. J. Kania.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00146",
-   "q": "Mangal Pandey is known by which of the following titles or descriptions?",
-   "o": [
+   "question": "Mangal Pandey is known by which of the following titles or descriptions?",
+   "options": [
     "General of the Revolt of 1857",
     "Leader of the Bhoodan movement",
     "Last Governor-General of India",
     "Soldier who sparked the Revolt of 1857"
    ],
-   "a": 3,
-   "t": "Freedom Fighters",
-   "l": 2,
-   "s": "generated",
-   "e": "Mangal Pandey — Soldier who sparked the Revolt of 1857."
+   "answer": 3,
+   "explanation": "Mangal Pandey — Soldier who sparked the Revolt of 1857.",
+   "topic": "Freedom Fighters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00147",
-   "q": "Attorney General of India is best described as which of the following?",
-   "o": [
+   "question": "Attorney General of India is best described as which of the following?",
+   "options": [
     "Head of the Indian judiciary",
     "Council of States, permanent house",
     "House of the People",
     "Chief legal adviser to the Government of India"
    ],
-   "a": 3,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Attorney General of India — Chief legal adviser to the Government of India."
+   "answer": 3,
+   "explanation": "Attorney General of India — Chief legal adviser to the Government of India.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00148",
-   "q": "Which sector contributes the largest share to India's GDP?",
-   "o": [
+   "question": "Which sector contributes the largest share to India's GDP?",
+   "options": [
     "Oligopoly",
     "Services sector",
     "Fiscal federalism",
     "New Development Bank"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00149",
-   "q": "Which exercise is conducted by the Quad countries?",
-   "o": [
+   "question": "Which exercise is conducted by the Quad countries?",
+   "options": [
     "National COVID-19 Vaccination Drive",
     "Chilika Lake",
     "Malabar Exercise",
     "State of the Environment Report"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00150",
-   "q": "The scheme PM Vishwakarma Yojana was launched with which objective?",
-   "o": [
+   "question": "The scheme PM Vishwakarma Yojana was launched with which objective?",
+   "options": [
     "Crop insurance for farmers",
     "Development of tribal villages",
     "Skill certification of youth",
     "Support to traditional artisans and craftspeople"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "PM Vishwakarma Yojana — Support to traditional artisans and craftspeople."
+   "answer": 3,
+   "explanation": "PM Vishwakarma Yojana — Support to traditional artisans and craftspeople.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00151",
-   "q": "What is the full form of BSF?",
-   "o": [
+   "question": "What is the full form of BSF?",
+   "options": [
     "Association of Mutual Funds in India",
     "Border Security Force",
     "Universal Postal Union",
     "Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "BSF stands for Border Security Force."
+   "answer": 1,
+   "explanation": "BSF stands for Border Security Force.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00152",
-   "q": "What is the main purpose of the Kyoto Protocol?",
-   "o": [
+   "question": "What is the main purpose of the Kyoto Protocol?",
+   "options": [
     "Reduction of greenhouse gas emissions by developed countries",
     "Biosafety of living modified organisms",
     "Protection of the ozone layer",
     "Control of transboundary movement of hazardous waste"
    ],
-   "a": 0,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Kyoto Protocol — Reduction of greenhouse gas emissions by developed countries."
+   "answer": 0,
+   "explanation": "Kyoto Protocol — Reduction of greenhouse gas emissions by developed countries.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00153",
-   "q": "What is the capital of Sikkim?",
-   "o": [
+   "question": "What is the capital of Sikkim?",
+   "options": [
     "Bengaluru",
     "Gandhinagar",
     "Chandigarh",
     "Gangtok"
    ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Sikkim is Gangtok."
+   "answer": 3,
+   "explanation": "The capital of Sikkim is Gangtok.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00154",
-   "q": "Which of the following is the National River of India?",
-   "o": [
+   "question": "Which of the following is the National River of India?",
+   "options": [
     "Ganga",
     "Jana Gana Mana",
     "Mango",
     "Saka Calendar"
    ],
-   "a": 0,
-   "t": "National Symbols",
-   "l": 1,
-   "s": "generated",
-   "e": "The National River of India is Ganga."
+   "answer": 0,
+   "explanation": "The National River of India is Ganga.",
+   "topic": "National Symbols",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00155",
-   "q": "First Indian to win an individual Olympic gold is associated with which of the following?",
-   "o": [
+   "question": "First Indian to win an individual Olympic gold is associated with which of the following?",
+   "options": [
     "Abhinav Bindra",
     "C. Rajagopalachari",
     "Mihir Sen",
     "Justice Fathima Beevi"
    ],
-   "a": 0,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian to win an individual Olympic gold — Abhinav Bindra."
+   "answer": 0,
+   "explanation": "First Indian to win an individual Olympic gold — Abhinav Bindra.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00156",
-   "q": "Tatya Tope is known by which of the following titles or descriptions?",
-   "o": [
+   "question": "Tatya Tope is known by which of the following titles or descriptions?",
+   "options": [
     "General of the Revolt of 1857",
     "Revolutionary executed with Bhagat Singh",
     "Author of Vande Mataram",
     "Author of the national anthem of India"
    ],
-   "a": 0,
-   "t": "Freedom Fighters",
-   "l": 2,
-   "s": "generated",
-   "e": "Tatya Tope — General of the Revolt of 1857."
+   "answer": 0,
+   "explanation": "Tatya Tope — General of the Revolt of 1857.",
+   "topic": "Freedom Fighters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00157",
-   "q": "Chief Justice of India is best described as which of the following?",
-   "o": [
+   "question": "Chief Justice of India is best described as which of the following?",
+   "options": [
     "Head of the Indian judiciary",
     "Watches over vigilance in government",
     "Regulator of the securities market",
     "Central bank and monetary authority"
    ],
-   "a": 0,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Chief Justice of India — Head of the Indian judiciary."
+   "answer": 0,
+   "explanation": "Chief Justice of India — Head of the Indian judiciary.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00158",
-   "q": "Which curve depicts income distribution?",
-   "o": [
+   "question": "Which curve depicts income distribution?",
+   "options": [
     "Lorenz curve",
     "Public Distribution System",
     "Net National Product",
     "Insolvency and Bankruptcy Code, 2016"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00159",
-   "q": "Which air exercise is conducted between India and the United Kingdom?",
-   "o": [
+   "question": "Which air exercise is conducted between India and the United Kingdom?",
+   "options": [
     "Indradhanush Exercise",
     "2015",
     "Deen Dayal Upadhyaya Gram Jyoti Yojana",
     "Durga Puja in Kolkata"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00160",
-   "q": "The scheme One Nation One Ration Card was launched with which objective?",
-   "o": [
+   "question": "The scheme One Nation One Ration Card was launched with which objective?",
+   "options": [
     "Building a semiconductor ecosystem in India",
     "Skill certification of youth",
     "Portable food entitlements across states",
     "Promoting startups and innovation"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "One Nation One Ration Card — Portable food entitlements across states."
+   "answer": 2,
+   "explanation": "One Nation One Ration Card — Portable food entitlements across states.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00161",
-   "q": "What is the full form of TB?",
-   "o": [
+   "question": "What is the full form of TB?",
+   "options": [
     "Commission for Agricultural Costs and Prices",
     "Wholesale Price Index",
     "Tuberculosis",
     "Insurance Regulatory and Development Authority of India"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "TB stands for Tuberculosis."
+   "answer": 2,
+   "explanation": "TB stands for Tuberculosis.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00162",
-   "q": "What is the main purpose of the UN Framework Convention on Climate Change?",
-   "o": [
+   "question": "What is the main purpose of the UN Framework Convention on Climate Change?",
+   "options": [
     "Elimination of persistent organic pollutants",
     "Restoring degraded ecosystems",
     "Framework for climate action",
     "Biosafety of living modified organisms"
    ],
-   "a": 2,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "UN Framework Convention on Climate Change — Framework for climate action."
+   "answer": 2,
+   "explanation": "UN Framework Convention on Climate Change — Framework for climate action.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00163",
-   "q": "What is the capital of Maharashtra?",
-   "o": [
+   "question": "What is the capital of Maharashtra?",
+   "options": [
     "Thiruvananthapuram",
     "Itanagar",
     "Shimla",
     "Mumbai"
    ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Maharashtra is Mumbai."
+   "answer": 3,
+   "explanation": "The capital of Maharashtra is Mumbai.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00164",
-   "q": "Indian Rupee holds which of the following positions in India?",
-   "o": [
+   "question": "Indian Rupee holds which of the following positions in India?",
+   "options": [
     "National River",
     "National Anthem",
     "National Song",
     "National Currency"
    ],
-   "a": 3,
-   "t": "National Symbols",
-   "l": 2,
-   "s": "generated",
-   "e": "Indian Rupee is the National Currency of India."
+   "answer": 3,
+   "explanation": "Indian Rupee is the National Currency of India.",
+   "topic": "National Symbols",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00165",
-   "q": "First Indian Institute of Technology was set up at is associated with which of the following?",
-   "o": [
+   "question": "First Indian Institute of Technology was set up at is associated with which of the following?",
+   "options": [
     "Aryabhata",
     "Jawaharlal Nehru",
     "Kharagpur",
     "Bachendri Pal"
    ],
-   "a": 2,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian Institute of Technology was set up at — Kharagpur."
+   "answer": 2,
+   "explanation": "First Indian Institute of Technology was set up at — Kharagpur.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00166",
-   "q": "Madan Mohan Malaviya is known by which of the following titles or descriptions?",
-   "o": [
+   "question": "Madan Mohan Malaviya is known by which of the following titles or descriptions?",
+   "options": [
     "First Education Minister of India",
     "Netaji, leader of the INA",
     "Founder of Banaras Hindu University",
     "Revolutionary who died at Alfred Park"
    ],
-   "a": 2,
-   "t": "Freedom Fighters",
-   "l": 2,
-   "s": "generated",
-   "e": "Madan Mohan Malaviya — Founder of Banaras Hindu University."
+   "answer": 2,
+   "explanation": "Madan Mohan Malaviya — Founder of Banaras Hindu University.",
+   "topic": "Freedom Fighters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00167",
-   "q": "Zilla Parishad is best described as which of the following?",
-   "o": [
+   "question": "Zilla Parishad is best described as which of the following?",
+   "options": [
     "Administered by the President through administrators",
     "Ex-officio Chairman of the Rajya Sabha",
     "Local body at the district level",
     "Policy think tank of the Government of India"
    ],
-   "a": 2,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Zilla Parishad — Local body at the district level."
+   "answer": 2,
+   "explanation": "Zilla Parishad — Local body at the district level.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00168",
-   "q": "What is a loan that is not being repaid called?",
-   "o": [
+   "question": "What is a loan that is not being repaid called?",
+   "options": [
     "1966",
     "2000 rupees",
     "Non-performing asset",
     "1992"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00169",
-   "q": "Which portal was used for COVID-19 vaccination registration in India?",
-   "o": [
+   "question": "Which portal was used for COVID-19 vaccination registration in India?",
+   "options": [
     "Rashtriya Gokul Mission",
     "CoWIN",
     "Panchamrit Commitments",
     "International Year of Millets"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00170",
-   "q": "The scheme National Green Hydrogen Mission was launched with which objective?",
-   "o": [
+   "question": "The scheme National Green Hydrogen Mission was launched with which objective?",
+   "options": [
     "Digital delivery of services and digital literacy",
     "Development of fisheries and aquaculture",
     "Cooperative development of the dairy sector",
     "Production and use of green hydrogen"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "National Green Hydrogen Mission — Production and use of green hydrogen."
+   "answer": 3,
+   "explanation": "National Green Hydrogen Mission — Production and use of green hydrogen.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00171",
-   "q": "What is the full form of CT?",
-   "o": [
+   "question": "What is the full form of CT?",
+   "options": [
     "Unified Payments Interface",
     "Computed Tomography",
     "Deoxyribonucleic Acid",
     "Central Industrial Security Force"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "CT stands for Computed Tomography."
+   "answer": 1,
+   "explanation": "CT stands for Computed Tomography.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00172",
-   "q": "What is the main purpose of the Basel Convention?",
-   "o": [
+   "question": "What is the main purpose of the Basel Convention?",
+   "options": [
     "Control of transboundary movement of hazardous waste",
     "Control of international trade in endangered species",
     "Restoring degraded ecosystems",
     "Conservation of biological diversity"
    ],
-   "a": 0,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Basel Convention — Control of transboundary movement of hazardous waste."
+   "answer": 0,
+   "explanation": "Basel Convention — Control of transboundary movement of hazardous waste.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00173",
-   "q": "What is the capital of Tamil Nadu?",
-   "o": [
+   "question": "What is the capital of Tamil Nadu?",
+   "options": [
     "Imphal",
     "Kohima",
     "Dehradun",
     "Chennai"
    ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Tamil Nadu is Chennai."
+   "answer": 3,
+   "explanation": "The capital of Tamil Nadu is Chennai.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00174",
-   "q": "Ganges River Dolphin holds which of the following positions in India?",
-   "o": [
+   "question": "Ganges River Dolphin holds which of the following positions in India?",
+   "options": [
     "National Reptile",
     "National Emblem",
     "National Aquatic Animal",
     "National River"
    ],
-   "a": 2,
-   "t": "National Symbols",
-   "l": 2,
-   "s": "generated",
-   "e": "Ganges River Dolphin is the National Aquatic Animal of India."
+   "answer": 2,
+   "explanation": "Ganges River Dolphin is the National Aquatic Animal of India.",
+   "topic": "National Symbols",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00175",
-   "q": "First woman Prime Minister of India is associated with which of the following?",
-   "o": [
+   "question": "First woman Prime Minister of India is associated with which of the following?",
+   "options": [
     "Mihir Sen",
     "Abhinav Bindra",
     "Indira Gandhi",
     "Rabindranath Tagore"
    ],
-   "a": 2,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First woman Prime Minister of India — Indira Gandhi."
+   "answer": 2,
+   "explanation": "First woman Prime Minister of India — Indira Gandhi.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00176",
-   "q": "Lala Lajpat Rai is known by which of the following titles or descriptions?",
-   "o": [
+   "question": "Lala Lajpat Rai is known by which of the following titles or descriptions?",
+   "options": [
     "Author of Vande Mataram",
     "General of the Revolt of 1857",
     "Punjab Kesari",
     "Grand Old Man of India"
    ],
-   "a": 2,
-   "t": "Freedom Fighters",
-   "l": 2,
-   "s": "generated",
-   "e": "Lala Lajpat Rai — Punjab Kesari."
+   "answer": 2,
+   "explanation": "Lala Lajpat Rai — Punjab Kesari.",
+   "topic": "Freedom Fighters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00177",
-   "q": "Council of Ministers is best described as which of the following?",
-   "o": [
+   "question": "Council of Ministers is best described as which of the following?",
+   "options": [
     "Regulator of the securities market",
     "Head of the Indian judiciary",
     "Aids and advises the President",
     "Apex judicial body of India"
    ],
-   "a": 2,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Council of Ministers — Aids and advises the President."
+   "answer": 2,
+   "explanation": "Council of Ministers — Aids and advises the President.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00178",
-   "q": "Which is the central bank of the United Kingdom?",
-   "o": [
+   "question": "Which is the central bank of the United Kingdom?",
+   "options": [
     "Bank rate",
     "Life Insurance Corporation of India",
     "Bank of England",
     "Beijing"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00179",
-   "q": "Which Indian city is home to the National Stock Exchange?",
-   "o": [
+   "question": "Which Indian city is home to the National Stock Exchange?",
+   "options": [
     "Mumbai",
     "Act East Policy",
     "Kerala",
     "Vivek Express"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00180",
-   "q": "The scheme Startup India was launched with which objective?",
-   "o": [
+   "question": "The scheme Startup India was launched with which objective?",
+   "options": [
     "Upgraded health and wellness centres",
     "Building a semiconductor ecosystem in India",
     "Promoting startups and innovation",
     "Emergency relief during the COVID-19 pandemic"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Startup India — Promoting startups and innovation."
+   "answer": 2,
+   "explanation": "Startup India — Promoting startups and innovation.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00181",
-   "q": "What is the full form of NATO?",
-   "o": [
+   "question": "What is the full form of NATO?",
+   "options": [
     "North Atlantic Treaty Organization",
     "Insolvency and Bankruptcy Code",
     "Athletics track and field club naming",
     "Personal Identification Number"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "NATO stands for North Atlantic Treaty Organization."
+   "answer": 0,
+   "explanation": "NATO stands for North Atlantic Treaty Organization.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00182",
-   "q": "What is the main purpose of the Sustainable Development Goals?",
-   "o": [
+   "question": "What is the main purpose of the Sustainable Development Goals?",
+   "options": [
     "Seventeen goals for people and planet by 2030",
     "Access and benefit sharing of genetic resources",
     "Wetlands facing ecological change",
     "Control of mercury emissions"
    ],
-   "a": 0,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Sustainable Development Goals — Seventeen goals for people and planet by 2030."
+   "answer": 0,
+   "explanation": "Sustainable Development Goals — Seventeen goals for people and planet by 2030.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00183",
-   "q": "What is the capital of Telangana?",
-   "o": [
+   "question": "What is the capital of Telangana?",
+   "options": [
     "Chandigarh",
     "Raipur",
     "Hyderabad",
     "Aizawl"
    ],
-   "a": 2,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Telangana is Hyderabad."
+   "answer": 2,
+   "explanation": "The capital of Telangana is Hyderabad.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00184",
-   "q": "Indian Elephant holds which of the following positions in India?",
-   "o": [
+   "question": "Indian Elephant holds which of the following positions in India?",
+   "options": [
     "National Flower",
     "National River",
     "National Heritage Animal",
     "National Bird"
    ],
-   "a": 2,
-   "t": "National Symbols",
-   "l": 2,
-   "s": "generated",
-   "e": "Indian Elephant is the National Heritage Animal of India."
+   "answer": 2,
+   "explanation": "Indian Elephant is the National Heritage Animal of India.",
+   "topic": "National Symbols",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00185",
-   "q": "First woman Chief Minister in India is associated with which of the following?",
-   "o": [
+   "question": "First woman Chief Minister in India is associated with which of the following?",
+   "options": [
     "Indira Gandhi",
     "Sucheta Kripalani",
     "Pokhran",
     "Jawaharlal Nehru"
    ],
-   "a": 1,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First woman Chief Minister in India — Sucheta Kripalani."
+   "answer": 1,
+   "explanation": "First woman Chief Minister in India — Sucheta Kripalani.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00186",
-   "q": "Annie Besant is known by which of the following titles or descriptions?",
-   "o": [
+   "question": "Annie Besant is known by which of the following titles or descriptions?",
+   "options": [
     "Punjab Kesari",
     "Founder of the Home Rule League with Tilak",
     "Last Governor-General of India",
     "Leader of the Bhoodan movement"
    ],
-   "a": 1,
-   "t": "Freedom Fighters",
-   "l": 2,
-   "s": "generated",
-   "e": "Annie Besant — Founder of the Home Rule League with Tilak."
+   "answer": 1,
+   "explanation": "Annie Besant — Founder of the Home Rule League with Tilak.",
+   "topic": "Freedom Fighters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00187",
-   "q": "Panchayat is best described as which of the following?",
-   "o": [
+   "question": "Panchayat is best described as which of the following?",
+   "options": [
     "Aids and advises the President",
     "Local self-government at the village level",
     "House of the People",
     "Council of States, permanent house"
    ],
-   "a": 1,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Panchayat — Local self-government at the village level."
+   "answer": 1,
+   "explanation": "Panchayat — Local self-government at the village level.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00188",
-   "q": "Which body administers indirect taxes in India?",
-   "o": [
+   "question": "Which body administers indirect taxes in India?",
+   "options": [
     "International Finance Corporation",
     "1944",
     "Kelkar Committee",
     "Central Board of Indirect Taxes and Customs"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00189",
-   "q": "Which Indian state has the highest installed solar capacity?",
-   "o": [
+   "question": "Which Indian state has the highest installed solar capacity?",
+   "options": [
     "2023",
     "Rajasthan",
     "One Earth, One Family, One Future",
     "Madhya Pradesh"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00190",
-   "q": "The scheme Mission Shakti was launched with which objective?",
-   "o": [
+   "question": "The scheme Mission Shakti was launched with which objective?",
+   "options": [
     "Cash incentive for pregnant and lactating mothers",
     "Universal immunisation of children",
     "Safety and empowerment of women",
     "Emergency relief during the COVID-19 pandemic"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Mission Shakti — Safety and empowerment of women."
+   "answer": 2,
+   "explanation": "Mission Shakti — Safety and empowerment of women.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00191",
-   "q": "What is the full form of AIIB?",
-   "o": [
+   "question": "What is the full form of AIIB?",
+   "options": [
     "Asian Infrastructure Investment Bank",
     "Indian Military Academy",
     "National Eligibility Test",
     "Central Bureau of Investigation"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "AIIB stands for Asian Infrastructure Investment Bank."
+   "answer": 0,
+   "explanation": "AIIB stands for Asian Infrastructure Investment Bank.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00192",
-   "q": "What is the main purpose of the CITES?",
-   "o": [
+   "question": "What is the main purpose of the CITES?",
+   "options": [
     "Control of international trade in endangered species",
     "Conservation of wild tigers",
     "Framework for climate action",
     "Phasing out ozone depleting substances"
    ],
-   "a": 0,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "CITES — Control of international trade in endangered species."
+   "answer": 0,
+   "explanation": "CITES — Control of international trade in endangered species.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00193",
-   "q": "What is the capital of Goa?",
-   "o": [
+   "question": "What is the capital of Goa?",
+   "options": [
     "Panaji",
     "Gangtok",
     "Dehradun",
     "Imphal"
    ],
-   "a": 0,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Goa is Panaji."
+   "answer": 0,
+   "explanation": "The capital of Goa is Panaji.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00194",
-   "q": "Banyan holds which of the following positions in India?",
-   "o": [
+   "question": "Banyan holds which of the following positions in India?",
+   "options": [
     "National Tree",
     "National Song",
     "National Currency",
     "National Aquatic Animal"
    ],
-   "a": 0,
-   "t": "National Symbols",
-   "l": 2,
-   "s": "generated",
-   "e": "Banyan is the National Tree of India."
+   "answer": 0,
+   "explanation": "Banyan is the National Tree of India.",
+   "topic": "National Symbols",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00195",
-   "q": "First Speaker of the Lok Sabha is associated with which of the following?",
-   "o": [
+   "question": "First Speaker of the Lok Sabha is associated with which of the following?",
+   "options": [
     "Jawaharlal Nehru",
     "G. V. Mavalankar",
     "Kalpana Chawla",
     "Pratibha Patil"
    ],
-   "a": 1,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Speaker of the Lok Sabha — G. V. Mavalankar."
+   "answer": 1,
+   "explanation": "First Speaker of the Lok Sabha — G. V. Mavalankar.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00196",
-   "q": "Rani Lakshmibai is known by which of the following titles or descriptions?",
-   "o": [
+   "question": "Rani Lakshmibai is known by which of the following titles or descriptions?",
+   "options": [
     "Leader of the Bhoodan movement",
     "Queen who fought at Jhansi in 1857",
     "Chief architect of the Indian Constitution",
     "Nightingale of India"
    ],
-   "a": 1,
-   "t": "Freedom Fighters",
-   "l": 2,
-   "s": "generated",
-   "e": "Rani Lakshmibai — Queen who fought at Jhansi in 1857."
+   "answer": 1,
+   "explanation": "Rani Lakshmibai — Queen who fought at Jhansi in 1857.",
+   "topic": "Freedom Fighters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00197",
-   "q": "Solicitor General of India is best described as which of the following?",
-   "o": [
+   "question": "Solicitor General of India is best described as which of the following?",
+   "options": [
     "Council of States, permanent house",
     "Second highest law officer of the Union",
     "Recruits civil servants for the Union",
     "Union legislature consisting of the President and two Houses"
    ],
-   "a": 1,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Solicitor General of India — Second highest law officer of the Union."
+   "answer": 1,
+   "explanation": "Solicitor General of India — Second highest law officer of the Union.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00198",
-   "q": "Which is the apex body for agricultural research in India?",
-   "o": [
+   "question": "Which is the apex body for agricultural research in India?",
+   "options": [
     "Foreign Direct Investment",
     "Net National Product",
     "ICAR",
     "Dumping"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00199",
-   "q": "Which is the longest train route in India?",
-   "o": [
+   "question": "Which is the longest train route in India?",
+   "options": [
     "Swachh Bharat Mission",
     "Vivek Express",
     "Beti Bachao Beti Padhao",
     "UPI"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00200",
-   "q": "The scheme National Food Security Act was launched with which objective?",
-   "o": [
+   "question": "The scheme National Food Security Act was launched with which objective?",
+   "options": [
     "Emergency relief during the COVID-19 pandemic",
     "Promotion of electric and hybrid vehicles",
     "Subsidised food grains to two-thirds of the population",
     "Upgraded health and wellness centres"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "National Food Security Act — Subsidised food grains to two-thirds of the population."
+   "answer": 2,
+   "explanation": "National Food Security Act — Subsidised food grains to two-thirds of the population.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00201",
-   "q": "What is the full form of AMFI?",
-   "o": [
+   "question": "What is the full form of AMFI?",
+   "options": [
     "Group of Twenty major economies",
     "International Union for Conservation of Nature",
     "Association of Mutual Funds in India",
     "Direct Benefit Transfer"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "AMFI stands for Association of Mutual Funds in India."
+   "answer": 2,
+   "explanation": "AMFI stands for Association of Mutual Funds in India.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00202",
-   "q": "What is the main purpose of the Cartagena Protocol?",
-   "o": [
+   "question": "What is the main purpose of the Cartagena Protocol?",
+   "options": [
     "Phase down of hydrofluorocarbons",
     "Access and benefit sharing of genetic resources",
     "Biosafety of living modified organisms",
     "Phasing out ozone depleting substances"
    ],
-   "a": 2,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Cartagena Protocol — Biosafety of living modified organisms."
+   "answer": 2,
+   "explanation": "Cartagena Protocol — Biosafety of living modified organisms.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00203",
-   "q": "What is the capital of Odisha?",
-   "o": [
+   "question": "What is the capital of Odisha?",
+   "options": [
     "Bhubaneswar",
     "Chennai",
     "Jaipur",
     "Ranchi"
    ],
-   "a": 0,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Odisha is Bhubaneswar."
+   "answer": 0,
+   "explanation": "The capital of Odisha is Bhubaneswar.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00204",
-   "q": "Mango holds which of the following positions in India?",
-   "o": [
+   "question": "Mango holds which of the following positions in India?",
+   "options": [
     "National Fruit",
     "National Animal",
     "National Bird",
     "National Aquatic Animal"
    ],
-   "a": 0,
-   "t": "National Symbols",
-   "l": 2,
-   "s": "generated",
-   "e": "Mango is the National Fruit of India."
+   "answer": 0,
+   "explanation": "Mango is the National Fruit of India.",
+   "topic": "National Symbols",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00205",
-   "q": "First woman President of India is associated with which of the following?",
-   "o": [
+   "question": "First woman President of India is associated with which of the following?",
+   "options": [
     "Pratibha Patil",
     "Dr. Rajendra Prasad",
     "Bachendri Pal",
     "Jawaharlal Nehru"
    ],
-   "a": 0,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First woman President of India — Pratibha Patil."
+   "answer": 0,
+   "explanation": "First woman President of India — Pratibha Patil.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00206",
-   "q": "Sarojini Naidu is known by which of the following titles or descriptions?",
-   "o": [
+   "question": "Sarojini Naidu is known by which of the following titles or descriptions?",
+   "options": [
     "Nightingale of India",
     "Father of the Nation",
     "Revolutionary who died at Alfred Park",
     "Netaji, leader of the INA"
    ],
-   "a": 0,
-   "t": "Freedom Fighters",
-   "l": 2,
-   "s": "generated",
-   "e": "Sarojini Naidu — Nightingale of India."
+   "answer": 0,
+   "explanation": "Sarojini Naidu — Nightingale of India.",
+   "topic": "Freedom Fighters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00207",
-   "q": "Parliament of India is best described as which of the following?",
-   "o": [
+   "question": "Parliament of India is best described as which of the following?",
+   "options": [
     "Union legislature consisting of the President and two Houses",
     "Constitutional head of the Republic",
     "Policy think tank of the Government of India",
     "Ex-officio Chairman of the Rajya Sabha"
    ],
-   "a": 0,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Parliament of India — Union legislature consisting of the President and two Houses."
+   "answer": 0,
+   "explanation": "Parliament of India — Union legislature consisting of the President and two Houses.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00208",
-   "q": "What is the term for dumping goods below cost to capture a market?",
-   "o": [
+   "question": "What is the term for dumping goods below cost to capture a market?",
+   "options": [
     "Article 112",
     "International Finance Corporation",
     "Contingency Fund",
     "Dumping"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00209",
-   "q": "Which Indian institution launched the Unified Lending Interface?",
-   "o": [
+   "question": "Which Indian institution launched the Unified Lending Interface?",
+   "options": [
     "North East Special Infrastructure Development Scheme",
     "Reserve Bank of India",
     "Swachh Bharat Mission",
     "Poshan Abhiyaan"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00210",
-   "q": "The scheme Production Linked Incentive Scheme was launched with which objective?",
-   "o": [
+   "question": "The scheme Production Linked Incentive Scheme was launched with which objective?",
+   "options": [
     "Rooftop solar power for households",
     "Rapid transformation of backward districts",
     "Incentives to boost manufacturing across sectors",
     "Promotion of electric and hybrid vehicles"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Production Linked Incentive Scheme — Incentives to boost manufacturing across sectors."
+   "answer": 2,
+   "explanation": "Production Linked Incentive Scheme — Incentives to boost manufacturing across sectors.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00211",
-   "q": "What is the full form of DBT?",
-   "o": [
+   "question": "What is the full form of DBT?",
+   "options": [
     "South Asian Association for Regional Cooperation",
     "World Anti-Doping Agency",
     "Direct Benefit Transfer",
     "Computed Tomography"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "DBT stands for Direct Benefit Transfer."
+   "answer": 2,
+   "explanation": "DBT stands for Direct Benefit Transfer.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00212",
-   "q": "What is the main purpose of the Stockholm Convention?",
-   "o": [
+   "question": "What is the main purpose of the Stockholm Convention?",
+   "options": [
     "Elimination of persistent organic pollutants",
     "Restoring degraded ecosystems",
     "Access and benefit sharing of genetic resources",
     "Biosafety of living modified organisms"
    ],
-   "a": 0,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Stockholm Convention — Elimination of persistent organic pollutants."
+   "answer": 0,
+   "explanation": "Stockholm Convention — Elimination of persistent organic pollutants.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00213",
-   "q": "What is the capital of Uttar Pradesh?",
-   "o": [
+   "question": "What is the capital of Uttar Pradesh?",
+   "options": [
     "Dispur",
     "Lucknow",
     "Thiruvananthapuram",
     "Agartala"
    ],
-   "a": 1,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Uttar Pradesh is Lucknow."
+   "answer": 1,
+   "explanation": "The capital of Uttar Pradesh is Lucknow.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00214",
-   "q": "Saka Calendar holds which of the following positions in India?",
-   "o": [
+   "question": "Saka Calendar holds which of the following positions in India?",
+   "options": [
     "National Calendar",
     "National Animal",
     "National Anthem",
     "National Bird"
    ],
-   "a": 0,
-   "t": "National Symbols",
-   "l": 2,
-   "s": "generated",
-   "e": "Saka Calendar is the National Calendar of India."
+   "answer": 0,
+   "explanation": "Saka Calendar is the National Calendar of India.",
+   "topic": "National Symbols",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00215",
-   "q": "First Indian woman to climb Mount Everest is associated with which of the following?",
-   "o": [
+   "question": "First Indian woman to climb Mount Everest is associated with which of the following?",
+   "options": [
     "C. Rajagopalachari",
     "Rakesh Sharma",
     "Justice Fathima Beevi",
     "Bachendri Pal"
    ],
-   "a": 3,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian woman to climb Mount Everest — Bachendri Pal."
+   "answer": 3,
+   "explanation": "First Indian woman to climb Mount Everest — Bachendri Pal.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00216",
-   "q": "Chandrashekhar Azad is known by which of the following titles or descriptions?",
-   "o": [
+   "question": "Chandrashekhar Azad is known by which of the following titles or descriptions?",
+   "options": [
     "Leader of the Revolt in Bihar",
     "Iron Man of India",
     "Author of the national anthem of India",
     "Revolutionary who died at Alfred Park"
    ],
-   "a": 3,
-   "t": "Freedom Fighters",
-   "l": 2,
-   "s": "generated",
-   "e": "Chandrashekhar Azad — Revolutionary who died at Alfred Park."
+   "answer": 3,
+   "explanation": "Chandrashekhar Azad — Revolutionary who died at Alfred Park.",
+   "topic": "Freedom Fighters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00217",
-   "q": "NITI Aayog is best described as which of the following?",
-   "o": [
+   "question": "NITI Aayog is best described as which of the following?",
+   "options": [
     "Law-making body of a State",
     "Audits government accounts",
     "Central bank and monetary authority",
     "Policy think tank of the Government of India"
    ],
-   "a": 3,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "NITI Aayog — Policy think tank of the Government of India."
+   "answer": 3,
+   "explanation": "NITI Aayog — Policy think tank of the Government of India.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00218",
-   "q": "Which is the oldest stock exchange in Asia?",
-   "o": [
+   "question": "Which is the oldest stock exchange in Asia?",
+   "options": [
     "Bombay Stock Exchange",
     "1965",
     "Agriculture and allied activities",
     "Yellow Revolution"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00219",
-   "q": "Which Indian cricketer retired from international cricket in 2024?",
-   "o": [
+   "question": "Which Indian cricketer retired from international cricket in 2024?",
+   "options": [
     "Ravichandran Ashwin",
     "2023",
     "Odisha Super Cyclone",
     "XPoSat"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00220",
-   "q": "The scheme Swachh Bharat Mission was launched with which objective?",
-   "o": [
+   "question": "The scheme Swachh Bharat Mission was launched with which objective?",
+   "options": [
     "Cleanliness and sanitation for all",
     "Irrigation coverage and water use efficiency",
     "Free food grains to the poor",
     "Digital health ecosystem for India"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Swachh Bharat Mission — Cleanliness and sanitation for all."
+   "answer": 0,
+   "explanation": "Swachh Bharat Mission — Cleanliness and sanitation for all.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00221",
-   "q": "What is the full form of UNDP?",
-   "o": [
+   "question": "What is the full form of UNDP?",
+   "options": [
     "National Service Scheme",
     "Direct Benefit Transfer",
     "United Nations Development Programme",
     "Intelligence Bureau"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "UNDP stands for United Nations Development Programme."
+   "answer": 2,
+   "explanation": "UNDP stands for United Nations Development Programme.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00222",
-   "q": "What is the main purpose of the Nagoya Protocol?",
-   "o": [
+   "question": "What is the main purpose of the Nagoya Protocol?",
+   "options": [
     "Conservation of biological diversity",
     "Access and benefit sharing of genetic resources",
     "Protection of the ozone layer",
     "Control of transboundary movement of hazardous waste"
    ],
-   "a": 1,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Nagoya Protocol — Access and benefit sharing of genetic resources."
+   "answer": 1,
+   "explanation": "Nagoya Protocol — Access and benefit sharing of genetic resources.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00223",
-   "q": "What is the capital of Karnataka?",
-   "o": [
+   "question": "What is the capital of Karnataka?",
+   "options": [
     "Hyderabad",
     "Aizawl",
     "Kohima",
     "Bengaluru"
    ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Karnataka is Bengaluru."
+   "answer": 3,
+   "explanation": "The capital of Karnataka is Bengaluru.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00224",
-   "q": "Vande Mataram holds which of the following positions in India?",
-   "o": [
+   "question": "Vande Mataram holds which of the following positions in India?",
+   "options": [
     "National Song",
     "National Tree",
     "National Aquatic Animal",
     "National Emblem"
    ],
-   "a": 0,
-   "t": "National Symbols",
-   "l": 2,
-   "s": "generated",
-   "e": "Vande Mataram is the National Song of India."
+   "answer": 0,
+   "explanation": "Vande Mataram is the National Song of India.",
+   "topic": "National Symbols",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00225",
-   "q": "First Governor-General of independent India is associated with which of the following?",
-   "o": [
+   "question": "First Governor-General of independent India is associated with which of the following?",
+   "options": [
     "Mahesh Bhupathi",
     "C. Rajagopalachari",
     "Abhinav Bindra",
     "Lord Mountbatten"
    ],
-   "a": 3,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Governor-General of independent India — Lord Mountbatten."
+   "answer": 3,
+   "explanation": "First Governor-General of independent India — Lord Mountbatten.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00226",
-   "q": "Rajguru is known by which of the following titles or descriptions?",
-   "o": [
+   "question": "Rajguru is known by which of the following titles or descriptions?",
+   "options": [
     "Leader of the Revolt at Kanpur",
     "Founder of the Indian Independence League in Japan",
     "General of the Revolt of 1857",
     "Revolutionary executed with Bhagat Singh"
    ],
-   "a": 3,
-   "t": "Freedom Fighters",
-   "l": 2,
-   "s": "generated",
-   "e": "Rajguru — Revolutionary executed with Bhagat Singh."
+   "answer": 3,
+   "explanation": "Rajguru — Revolutionary executed with Bhagat Singh.",
+   "topic": "Freedom Fighters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00227",
-   "q": "National Human Rights Commission is best described as which of the following?",
-   "o": [
+   "question": "National Human Rights Commission is best described as which of the following?",
+   "options": [
     "Constitutional head of a State",
     "Watches over vigilance in government",
     "Head of the Indian judiciary",
     "Protects human rights in India"
    ],
-   "a": 3,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "National Human Rights Commission — Protects human rights in India."
+   "answer": 3,
+   "explanation": "National Human Rights Commission — Protects human rights in India.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00228",
-   "q": "Where is the headquarters of the World Bank?",
-   "o": [
+   "question": "Where is the headquarters of the World Bank?",
+   "options": [
     "Opportunity cost",
     "Fourteen",
     "GST Council and CBIC",
     "Washington, D.C."
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00229",
-   "q": "Which country has the largest tiger population?",
-   "o": [
+   "question": "Which country has the largest tiger population?",
+   "options": [
     "Atal Pension Yojana",
     "Bharat Ratna",
     "Namami Gange",
     "India"
    ],
-   "a": 3,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 3,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00230",
-   "q": "The scheme National Education Policy 2020 was launched with which objective?",
-   "o": [
+   "question": "The scheme National Education Policy 2020 was launched with which objective?",
+   "options": [
     "Food grain self-sufficiency",
     "Emergency relief during the COVID-19 pandemic",
     "Skill certification of youth",
     "Reform of school and higher education in India"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "National Education Policy 2020 — Reform of school and higher education in India."
+   "answer": 3,
+   "explanation": "National Education Policy 2020 — Reform of school and higher education in India.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00231",
-   "q": "What is the full form of IPL?",
-   "o": [
+   "question": "What is the full form of IPL?",
+   "options": [
     "National Education Policy",
     "Central Bureau of Investigation",
     "Indian Premier League",
     "Point of Sale"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "IPL stands for Indian Premier League."
+   "answer": 2,
+   "explanation": "IPL stands for Indian Premier League.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00232",
-   "q": "Which agreement or organisation is described as: Reduction of greenhouse gas emissions by developed countries?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Reduction of greenhouse gas emissions by developed countries?",
+   "options": [
     "Stockholm Convention",
     "Basel Convention",
     "Kyoto Protocol",
     "Montreal Protocol"
    ],
-   "a": 2,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Reduction of greenhouse gas emissions by developed countries describes the Kyoto Protocol."
+   "answer": 2,
+   "explanation": "Reduction of greenhouse gas emissions by developed countries describes the Kyoto Protocol.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00233",
-   "q": "What is the capital of Assam?",
-   "o": [
+   "question": "What is the capital of Assam?",
+   "options": [
     "Bengaluru",
     "Thiruvananthapuram",
     "Bhubaneswar",
     "Dispur"
    ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Assam is Dispur."
+   "answer": 3,
+   "explanation": "The capital of Assam is Dispur.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00234",
-   "q": "Ganga holds which of the following positions in India?",
-   "o": [
+   "question": "Ganga holds which of the following positions in India?",
+   "options": [
     "National Animal",
     "National Anthem",
     "National Emblem",
     "National River"
    ],
-   "a": 3,
-   "t": "National Symbols",
-   "l": 2,
-   "s": "generated",
-   "e": "Ganga is the National River of India."
+   "answer": 3,
+   "explanation": "Ganga is the National River of India.",
+   "topic": "National Symbols",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00235",
-   "q": "First Indian to win the Miss Universe title is associated with which of the following?",
-   "o": [
+   "question": "First Indian to win the Miss Universe title is associated with which of the following?",
+   "options": [
     "Sushmita Sen",
     "Kharagpur",
     "Jawaharlal Nehru",
     "Karnam Malleswari"
    ],
-   "a": 0,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian to win the Miss Universe title — Sushmita Sen."
+   "answer": 0,
+   "explanation": "First Indian to win the Miss Universe title — Sushmita Sen.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00236",
-   "q": "Rash Behari Bose is known by which of the following titles or descriptions?",
-   "o": [
+   "question": "Rash Behari Bose is known by which of the following titles or descriptions?",
+   "options": [
     "Founder of the Indian Independence League in Japan",
     "Founder of Banaras Hindu University",
     "Netaji, leader of the INA",
     "Leader of the Revolt in Awadh"
    ],
-   "a": 0,
-   "t": "Freedom Fighters",
-   "l": 2,
-   "s": "generated",
-   "e": "Rash Behari Bose — Founder of the Indian Independence League in Japan."
+   "answer": 0,
+   "explanation": "Rash Behari Bose — Founder of the Indian Independence League in Japan.",
+   "topic": "Freedom Fighters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00237",
-   "q": "Telecom Regulatory Authority of India is best described as which of the following?",
-   "o": [
+   "question": "Telecom Regulatory Authority of India is best described as which of the following?",
+   "options": [
     "Regulator of telecommunications",
     "Local body at the district level",
     "Ex-officio Chairman of the Rajya Sabha",
     "Head of the State Government"
    ],
-   "a": 0,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Telecom Regulatory Authority of India — Regulator of telecommunications."
+   "answer": 0,
+   "explanation": "Telecom Regulatory Authority of India — Regulator of telecommunications.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00238",
-   "q": "Which article of the Constitution deals with the Annual Financial Statement?",
-   "o": [
+   "question": "Which article of the Constitution deals with the Annual Financial Statement?",
+   "options": [
     "Customs duty",
     "State Bank of India",
     "Six",
     "Article 112"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00239",
-   "q": "Which programme aims to develop the north-eastern region of India?",
-   "o": [
+   "question": "Which programme aims to develop the north-eastern region of India?",
+   "options": [
     "Gaganyaan",
     "Act East Policy",
     "Aryabhatta Research Institute of Observational Sciences telescope",
     "Vande Bharat Express"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00240",
-   "q": "The scheme Namami Gange was launched with which objective?",
-   "o": [
+   "question": "The scheme Namami Gange was launched with which objective?",
+   "options": [
     "Support to traditional artisans and craftspeople",
     "Housing for all",
     "Cleaning and conservation of the Ganga",
     "Universal immunisation of children"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Namami Gange — Cleaning and conservation of the Ganga."
+   "answer": 2,
+   "explanation": "Namami Gange — Cleaning and conservation of the Ganga.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00241",
-   "q": "What is the full form of CBSE?",
-   "o": [
+   "question": "What is the full form of CBSE?",
+   "options": [
     "International Atomic Energy Agency",
     "Medecins Sans Frontieres",
     "Central Board of Secondary Education",
     "Athletics track and field club naming"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "CBSE stands for Central Board of Secondary Education."
+   "answer": 2,
+   "explanation": "CBSE stands for Central Board of Secondary Education.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00242",
-   "q": "Which agreement or organisation is described as: Control of transboundary movement of hazardous waste?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Control of transboundary movement of hazardous waste?",
+   "options": [
     "UN Framework Convention on Climate Change",
     "Basel Convention",
     "International Solar Alliance",
     "Kigali Amendment"
    ],
-   "a": 1,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Control of transboundary movement of hazardous waste describes the Basel Convention."
+   "answer": 1,
+   "explanation": "Control of transboundary movement of hazardous waste describes the Basel Convention.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00243",
-   "q": "What is the capital of Punjab?",
-   "o": [
+   "question": "What is the capital of Punjab?",
+   "options": [
     "Chandigarh",
     "Agartala",
     "Jaipur",
     "Bengaluru"
    ],
-   "a": 0,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Punjab is Chandigarh."
+   "answer": 0,
+   "explanation": "The capital of Punjab is Chandigarh.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00244",
-   "q": "King Cobra holds which of the following positions in India?",
-   "o": [
+   "question": "King Cobra holds which of the following positions in India?",
+   "options": [
     "National Song",
     "National Reptile",
     "National Fruit",
     "National Flower"
    ],
-   "a": 1,
-   "t": "National Symbols",
-   "l": 2,
-   "s": "generated",
-   "e": "King Cobra is the National Reptile of India."
+   "answer": 1,
+   "explanation": "King Cobra is the National Reptile of India.",
+   "topic": "National Symbols",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00245",
-   "q": "First Indian nuclear test was conducted at is associated with which of the following?",
-   "o": [
+   "question": "First Indian nuclear test was conducted at is associated with which of the following?",
+   "options": [
     "Pratibha Patil",
     "Dr. S. Radhakrishnan",
     "Karnam Malleswari",
     "Pokhran"
    ],
-   "a": 3,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian nuclear test was conducted at — Pokhran."
+   "answer": 3,
+   "explanation": "First Indian nuclear test was conducted at — Pokhran.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00246",
-   "q": "C. Rajagopalachari is known by which of the following titles or descriptions?",
-   "o": [
+   "question": "C. Rajagopalachari is known by which of the following titles or descriptions?",
+   "options": [
     "Nightingale of India",
     "Lokamanya",
     "Leader of the Revolt in Awadh",
     "Last Governor-General of India"
    ],
-   "a": 3,
-   "t": "Freedom Fighters",
-   "l": 2,
-   "s": "generated",
-   "e": "C. Rajagopalachari — Last Governor-General of India."
+   "answer": 3,
+   "explanation": "C. Rajagopalachari — Last Governor-General of India.",
+   "topic": "Freedom Fighters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00247",
-   "q": "Lok Sabha is best described as which of the following?",
-   "o": [
+   "question": "Lok Sabha is best described as which of the following?",
+   "options": [
     "Union legislature consisting of the President and two Houses",
     "Head of the Union Government",
     "Head of the State Government",
     "House of the People"
    ],
-   "a": 3,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Lok Sabha — House of the People."
+   "answer": 3,
+   "explanation": "Lok Sabha — House of the People.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00248",
-   "q": "What is the cost of the next best alternative forgone called?",
-   "o": [
+   "question": "What is the cost of the next best alternative forgone called?",
+   "options": [
     "Opportunity cost",
     "Foreign Direct Investment",
     "DICGC",
     "NABARD"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00249",
-   "q": "Which Indian railway station has the most platforms?",
-   "o": [
+   "question": "Which Indian railway station has the most platforms?",
+   "options": [
     "Howrah Junction",
     "2016",
     "Digital Bharat Nidhi",
     "Bharat Ratna"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00250",
-   "q": "The scheme Pradhan Mantri Mudra Yojana was launched with which objective?",
-   "o": [
+   "question": "The scheme Pradhan Mantri Mudra Yojana was launched with which objective?",
+   "options": [
     "Free health cover for senior citizens above seventy",
     "Soil testing and nutrient recommendations",
     "Day care facilities for working mothers",
     "Collateral-free loans for micro enterprises"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Pradhan Mantri Mudra Yojana — Collateral-free loans for micro enterprises."
+   "answer": 3,
+   "explanation": "Pradhan Mantri Mudra Yojana — Collateral-free loans for micro enterprises.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00251",
-   "q": "What is the full form of KVK?",
-   "o": [
+   "question": "What is the full form of KVK?",
+   "options": [
     "Krishi Vigyan Kendra",
     "Railway Recruitment Board",
     "Ribonucleic Acid",
     "Human Immunodeficiency Virus"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "KVK stands for Krishi Vigyan Kendra."
+   "answer": 0,
+   "explanation": "KVK stands for Krishi Vigyan Kendra.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00252",
-   "q": "Which agreement or organisation is described as: Restoring degraded ecosystems?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Restoring degraded ecosystems?",
+   "options": [
     "UN Decade on Ecosystem Restoration",
     "Montreal Protocol",
     "Ramsar Montreux Record",
     "Kigali Amendment"
    ],
-   "a": 0,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Restoring degraded ecosystems describes the UN Decade on Ecosystem Restoration."
+   "answer": 0,
+   "explanation": "Restoring degraded ecosystems describes the UN Decade on Ecosystem Restoration.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00253",
-   "q": "What is the capital of Rajasthan?",
-   "o": [
+   "question": "What is the capital of Rajasthan?",
+   "options": [
     "Chennai",
     "Gandhinagar",
     "Shimla",
     "Jaipur"
    ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Rajasthan is Jaipur."
+   "answer": 3,
+   "explanation": "The capital of Rajasthan is Jaipur.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00254",
-   "q": "Indian Peacock holds which of the following positions in India?",
-   "o": [
+   "question": "Indian Peacock holds which of the following positions in India?",
+   "options": [
     "National Heritage Animal",
     "National Reptile",
     "National Bird",
     "National Animal"
    ],
-   "a": 2,
-   "t": "National Symbols",
-   "l": 2,
-   "s": "generated",
-   "e": "Indian Peacock is the National Bird of India."
+   "answer": 2,
+   "explanation": "Indian Peacock is the National Bird of India.",
+   "topic": "National Symbols",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00255",
-   "q": "First Indian to travel to space is associated with which of the following?",
-   "o": [
+   "question": "First Indian to travel to space is associated with which of the following?",
+   "options": [
     "Bachendri Pal",
     "Pokhran",
     "Indira Gandhi",
     "Rakesh Sharma"
    ],
-   "a": 3,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian to travel to space — Rakesh Sharma."
+   "answer": 3,
+   "explanation": "First Indian to travel to space — Rakesh Sharma.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00256",
-   "q": "Sardar Vallabhbhai Patel is known by which of the following titles or descriptions?",
-   "o": [
+   "question": "Sardar Vallabhbhai Patel is known by which of the following titles or descriptions?",
+   "options": [
     "Revolutionary who died at Alfred Park",
     "Last Governor-General of India",
     "Punjab Kesari",
     "Iron Man of India"
    ],
-   "a": 3,
-   "t": "Freedom Fighters",
-   "l": 2,
-   "s": "generated",
-   "e": "Sardar Vallabhbhai Patel — Iron Man of India."
+   "answer": 3,
+   "explanation": "Sardar Vallabhbhai Patel — Iron Man of India.",
+   "topic": "Freedom Fighters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00257",
-   "q": "Comptroller and Auditor General is best described as which of the following?",
-   "o": [
+   "question": "Comptroller and Auditor General is best described as which of the following?",
+   "options": [
     "Policy think tank of the Government of India",
     "House of the People",
     "Aids and advises the President",
     "Audits government accounts"
    ],
-   "a": 3,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Comptroller and Auditor General — Audits government accounts."
+   "answer": 3,
+   "explanation": "Comptroller and Auditor General — Audits government accounts.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00258",
-   "q": "In which year did SEBI become a statutory body?",
-   "o": [
+   "question": "In which year did SEBI become a statutory body?",
+   "options": [
     "Unified Payments Interface",
     "Call money rate",
     "Article 279A",
     "1992"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00259",
-   "q": "Which Indian city hosted the 2023 G20 finance track meetings?",
-   "o": [
+   "question": "Which Indian city hosted the 2023 G20 finance track meetings?",
+   "options": [
     "New Delhi",
     "Malabar Exercise",
     "Act East Policy",
     "Aditya-L1"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00260",
-   "q": "The scheme Pradhan Mantri Jan Dhan Yojana was launched with which objective?",
-   "o": [
+   "question": "The scheme Pradhan Mantri Jan Dhan Yojana was launched with which objective?",
+   "options": [
     "Self-reliance in oilseed production",
     "Promoting startups and innovation",
     "Skill development and employability of youth",
     "Financial inclusion through zero balance bank accounts"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Pradhan Mantri Jan Dhan Yojana — Financial inclusion through zero balance bank accounts."
+   "answer": 3,
+   "explanation": "Pradhan Mantri Jan Dhan Yojana — Financial inclusion through zero balance bank accounts.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00261",
-   "q": "What is the full form of RTE?",
-   "o": [
+   "question": "What is the full form of RTE?",
+   "options": [
     "Right to Education",
     "Asian Infrastructure Investment Bank",
     "Joint Entrance Examination",
     "International Maritime Organization"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "RTE stands for Right to Education."
+   "answer": 0,
+   "explanation": "RTE stands for Right to Education.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00262",
-   "q": "Which agreement or organisation is described as: Limiting global temperature rise to well below two degrees Celsius?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Limiting global temperature rise to well below two degrees Celsius?",
+   "options": [
     "Ramsar Montreux Record",
     "Paris Agreement",
     "Nagoya Protocol",
     "Sustainable Development Goals"
    ],
-   "a": 1,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Limiting global temperature rise to well below two degrees Celsius describes the Paris Agreement."
+   "answer": 1,
+   "explanation": "Limiting global temperature rise to well below two degrees Celsius describes the Paris Agreement.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00263",
-   "q": "What is the capital of Haryana?",
-   "o": [
+   "question": "What is the capital of Haryana?",
+   "options": [
     "Hyderabad",
     "Chandigarh",
     "Imphal",
     "Thiruvananthapuram"
    ],
-   "a": 1,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Haryana is Chandigarh."
+   "answer": 1,
+   "explanation": "The capital of Haryana is Chandigarh.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00264",
-   "q": "Bengal Tiger holds which of the following positions in India?",
-   "o": [
+   "question": "Bengal Tiger holds which of the following positions in India?",
+   "options": [
     "National Currency",
     "National River",
     "National Aquatic Animal",
     "National Animal"
    ],
-   "a": 3,
-   "t": "National Symbols",
-   "l": 2,
-   "s": "generated",
-   "e": "Bengal Tiger is the National Animal of India."
+   "answer": 3,
+   "explanation": "Bengal Tiger is the National Animal of India.",
+   "topic": "National Symbols",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00265",
-   "q": "First Prime Minister of India is associated with which of the following?",
-   "o": [
+   "question": "First Prime Minister of India is associated with which of the following?",
+   "options": [
     "Aryabhata",
     "Rakesh Sharma",
     "Jawaharlal Nehru",
     "Pratibha Patil"
    ],
-   "a": 2,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Prime Minister of India — Jawaharlal Nehru."
+   "answer": 2,
+   "explanation": "First Prime Minister of India — Jawaharlal Nehru.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00266",
-   "q": "Subhas Chandra Bose is known by which of the following titles or descriptions?",
-   "o": [
+   "question": "Subhas Chandra Bose is known by which of the following titles or descriptions?",
+   "options": [
     "First Education Minister of India",
     "Iron Man of India",
     "Netaji, leader of the INA",
     "Nightingale of India"
    ],
-   "a": 2,
-   "t": "Freedom Fighters",
-   "l": 2,
-   "s": "generated",
-   "e": "Subhas Chandra Bose — Netaji, leader of the INA."
+   "answer": 2,
+   "explanation": "Subhas Chandra Bose — Netaji, leader of the INA.",
+   "topic": "Freedom Fighters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00267",
-   "q": "Vice President of India is best described as which of the following?",
-   "o": [
+   "question": "Vice President of India is best described as which of the following?",
+   "options": [
     "Administered by the President through administrators",
     "Audits government accounts",
     "Ex-officio Chairman of the Rajya Sabha",
     "Union legislature consisting of the President and two Houses"
    ],
-   "a": 2,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Vice President of India — Ex-officio Chairman of the Rajya Sabha."
+   "answer": 2,
+   "explanation": "Vice President of India — Ex-officio Chairman of the Rajya Sabha.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00268",
-   "q": "Which is the central bank of Japan?",
-   "o": [
+   "question": "Which is the central bank of Japan?",
+   "options": [
     "Make in India",
     "1955",
     "Nifty",
     "Bank of Japan"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00269",
-   "q": "Which Indian institution is the nodal agency for the Aspirational Districts Programme?",
-   "o": [
+   "question": "Which Indian institution is the nodal agency for the Aspirational Districts Programme?",
+   "options": [
     "BharatNet",
     "Chenab Bridge",
     "NITI Aayog",
     "CoWIN"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00270",
-   "q": "The scheme Make in India was launched with which objective?",
-   "o": [
+   "question": "The scheme Make in India was launched with which objective?",
+   "options": [
     "Skill development and employability of youth",
     "Credit facility for farmers",
     "Promoting manufacturing and investment in India",
     "Digital delivery of services and digital literacy"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Make in India — Promoting manufacturing and investment in India."
+   "answer": 2,
+   "explanation": "Make in India — Promoting manufacturing and investment in India.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00271",
-   "q": "What is the full form of GNP?",
-   "o": [
+   "question": "What is the full form of GNP?",
+   "options": [
     "Defence Research and Development Organisation",
     "Gross National Product",
     "National Electronic Funds Transfer",
     "Digital Infrastructure for Knowledge Sharing"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "GNP stands for Gross National Product."
+   "answer": 1,
+   "explanation": "GNP stands for Gross National Product.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00272",
-   "q": "Which agreement or organisation is described as: Conservation and wise use of wetlands?",
-   "o": [
+   "question": "Which agreement or organisation is described as: Conservation and wise use of wetlands?",
+   "options": [
     "CITES",
     "Ramsar Convention",
     "Basel Convention",
     "Stockholm Convention"
    ],
-   "a": 1,
-   "t": "Environmental Agreements",
-   "l": 3,
-   "s": "generated",
-   "e": "Conservation and wise use of wetlands describes the Ramsar Convention."
+   "answer": 1,
+   "explanation": "Conservation and wise use of wetlands describes the Ramsar Convention.",
+   "topic": "Environmental Agreements",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00273",
-   "q": "What is the capital of West Bengal?",
-   "o": [
+   "question": "What is the capital of West Bengal?",
+   "options": [
     "Bengaluru",
     "Bhubaneswar",
     "Amaravati",
     "Kolkata"
    ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of West Bengal is Kolkata."
+   "answer": 3,
+   "explanation": "The capital of West Bengal is Kolkata.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00274",
-   "q": "Jana Gana Mana holds which of the following positions in India?",
-   "o": [
+   "question": "Jana Gana Mana holds which of the following positions in India?",
+   "options": [
     "National Emblem",
     "National Anthem",
     "National River",
     "National Bird"
    ],
-   "a": 1,
-   "t": "National Symbols",
-   "l": 2,
-   "s": "generated",
-   "e": "Jana Gana Mana is the National Anthem of India."
+   "answer": 1,
+   "explanation": "Jana Gana Mana is the National Anthem of India.",
+   "topic": "National Symbols",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00275",
-   "q": "First Indian woman to win an Olympic medal is associated with which of the following?",
-   "o": [
+   "question": "First Indian woman to win an Olympic medal is associated with which of the following?",
+   "options": [
     "Dr. Rajendra Prasad",
     "Rakesh Sharma",
     "Karnam Malleswari",
     "Pokhran"
    ],
-   "a": 2,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian woman to win an Olympic medal — Karnam Malleswari."
+   "answer": 2,
+   "explanation": "First Indian woman to win an Olympic medal — Karnam Malleswari.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00276",
-   "q": "Begum Hazrat Mahal is known by which of the following titles or descriptions?",
-   "o": [
+   "question": "Begum Hazrat Mahal is known by which of the following titles or descriptions?",
+   "options": [
     "Father of the Nation",
     "Iron Man of India",
     "Leader of the Revolt in Awadh",
     "Last Governor-General of India"
    ],
-   "a": 2,
-   "t": "Freedom Fighters",
-   "l": 2,
-   "s": "generated",
-   "e": "Begum Hazrat Mahal — Leader of the Revolt in Awadh."
+   "answer": 2,
+   "explanation": "Begum Hazrat Mahal — Leader of the Revolt in Awadh.",
+   "topic": "Freedom Fighters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00277",
-   "q": "Chief Minister is best described as which of the following?",
-   "o": [
+   "question": "Chief Minister is best described as which of the following?",
+   "options": [
     "Constitutional head of the Republic",
     "Audits government accounts",
     "Head of the State Government",
     "House of the People"
    ],
-   "a": 2,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Chief Minister — Head of the State Government."
+   "answer": 2,
+   "explanation": "Chief Minister — Head of the State Government.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00278",
-   "q": "Which institution provides refinance to agriculture in India?",
-   "o": [
+   "question": "Which institution provides refinance to agriculture in India?",
+   "options": [
     "Sensex",
     "FRBM Act, 2003",
     "NABARD",
     "Yellow Revolution"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00279",
-   "q": "Which scheme is associated with the Ministry of Rural Development for rural roads?",
-   "o": [
+   "question": "Which scheme is associated with the Ministry of Rural Development for rural roads?",
+   "options": [
     "Gaganyaan",
     "INS Arighaat",
     "Namami Gange",
     "Pradhan Mantri Gram Sadak Yojana"
    ],
-   "a": 3,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 3,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "general-awareness-00280",
-   "q": "The scheme Smart Cities Mission was launched with which objective?",
-   "o": [
+   "question": "The scheme Smart Cities Mission was launched with which objective?",
+   "options": [
     "Rapid transformation of backward districts",
     "Sustainable and citizen friendly urban development",
     "Online national agriculture market for farmers",
     "Promoting startups and innovation"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Smart Cities Mission — Sustainable and citizen friendly urban development."
+   "answer": 1,
+   "explanation": "Smart Cities Mission — Sustainable and citizen friendly urban development.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   }
  ]
 };
